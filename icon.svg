@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="42" fill="#1f5fd0"/>
+  <rect x="52" y="38" width="88" height="116" rx="9" fill="#fff"/>
+  <rect x="52" y="38" width="15" height="116" rx="4" fill="#c9dcfa"/>
+  <g fill="#1f5fd0">
+    <rect x="78" y="62" width="46" height="8" rx="4"/>
+    <rect x="78" y="82" width="46" height="8" rx="4"/>
+    <rect x="78" y="102" width="30" height="8" rx="4"/>
+  </g>
+  <text x="96" y="140" font-family="-apple-system,Helvetica,sans-serif" font-size="22"
+        font-weight="700" fill="#1f5fd0" text-anchor="middle">FC</text>
+</svg>
