@@ -49,10 +49,12 @@ td:first-child{color:var(--muted);width:44%}
 td:last-child{text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
 .bar{height:8px;border-radius:99px;background:var(--line);overflow:hidden;margin:10px 0 4px}
 .bar i{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
-#canvasWrap{margin-top:12px;border:1px solid var(--line);border-radius:11px;overflow:auto;
- background:#fff;max-height:62vh;-webkit-overflow-scrolling:touch}
+/* FC 是直式頁面。若讓畫布填滿寬度，整頁會遠高於容器而被裁掉，
+   只看得到上半部。改成同時受寬與高限制、由瀏覽器等比縮到整頁可見。 */
+#canvasWrap{margin-top:12px;border:1px solid var(--line);border-radius:11px;
+ background:#fff;padding:8px;display:flex;justify-content:center;-webkit-overflow-scrolling:touch}
 #canvasWrap:empty{display:none}
-canvas{display:block;width:100%;height:auto}
+canvas{display:block;max-width:100%;max-height:78vh;width:auto;height:auto}
 pre{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:11px;
  font-size:12px;overflow-x:auto;white-space:pre-wrap;word-break:break-all;margin:10px 0 0;color:var(--muted)}
 a.link{color:var(--accent);font-size:13.5px;word-break:break-all}
@@ -284,7 +286,10 @@ async function jump(){
   // 版面寬度在頁面隱藏／尚未佈局時會是 0，算出來的縮放比就是 0，
   // 會產生 0×0 畫布讓 pdf.js 永遠渲染不完 → 一律給下限。
   const wrapW = document.querySelector('.wrap').clientWidth || window.innerWidth || 760;
-  const scale = Math.max((Math.min(wrapW, 900) / base.width) * dpr, 1);
+  const maxH = (window.innerHeight || 900) * 0.78;
+  // 取寬、高兩個限制中較嚴的那個，整頁才會完整入框（直式頁面通常是高度先到極限）
+  const fit = Math.min(Math.min(wrapW, 900) / base.width, maxH / base.height);
+  const scale = Math.max(fit * dpr, 1);
   const vp = page.getViewport({scale});
   const c = document.createElement('canvas');
   c.width = Math.ceil(vp.width); c.height = Math.ceil(vp.height);
