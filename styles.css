@@ -23,24 +23,6 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .empty-hint b{display:block}
 .empty-hint button{margin-top:6px;border:1px solid var(--no);background:transparent;color:var(--no);font:inherit;font-weight:700;padding:5px 10px;border-radius:var(--r);cursor:pointer}
 
-/* ── 主視覺：讓整頁有重心，不再只是一排排勾選框 ── */
-.hero{border:1px solid var(--hair);background:var(--panel);padding:22px 24px 20px;
-  margin-bottom:22px;display:flex;flex-direction:column;gap:14px;border-radius:var(--r)}
-.hero-top{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;flex-wrap:wrap}
-.hero-mark h1{margin:6px 0 0;font-size:clamp(22px,3.4vw,34px);line-height:1.25;letter-spacing:-.025em;font-weight:800}
-.hero-count{text-align:right}
-.hero-count .big{color:var(--sig);line-height:.9;margin:4px 0 2px}
-.hero-count small{display:block;font-size:11px;color:var(--muted);cursor:pointer;text-decoration:underline}
-.hero-wave{display:block;width:100%;height:26px;color:var(--sig);opacity:.75}
-.hero-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:1px;
-  background:var(--hair);border:1px solid var(--hair)}
-.hero-stats>div{background:var(--panel);padding:11px 13px}
-.hero-stats b{display:block;font-size:24px;font-weight:800;letter-spacing:-.02em;
-  font-variant-numeric:tabular-nums;margin-top:3px}
-.hero-stats small{font-size:10.5px;color:var(--muted);margin-left:3px}
-.hero-go{border:0;background:var(--sig);color:var(--paper);font:inherit;font-weight:800;
-  font-size:14px;padding:13px;border-radius:var(--r);cursor:pointer;width:100%}
-@media(max-width:560px){.hero{padding:17px 16px 15px}.hero-count{text-align:left}}
 
 /* 作答進度可收合——手機上答題卡會佔掉題目的空間 */
 .qnav-head{display:flex;align-items:center;justify-content:space-between;gap:8px}
@@ -54,3 +36,41 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .signin-btn{display:flex;align-items:center;justify-content:center;gap:9px}
 .signin-btn svg{flex:none}
 .signin-btn[disabled]{opacity:.45;cursor:not-allowed}
+
+.chip.dim{opacity:.38}
+.chip.dim.on{opacity:.6}
+
+/* ══ 主視覺：站名本身就是視覺，張力來自尺度落差 ══ */
+.hero{border:1px solid var(--hair);background:var(--panel);padding:0;margin-bottom:22px;
+  border-radius:var(--r);overflow:hidden}
+.hero-band{display:flex;justify-content:space-between;align-items:flex-end;gap:26px;
+  padding:30px 28px 20px;flex-wrap:wrap}
+.hero-kicker{display:block;font-size:10.5px;letter-spacing:.24em;text-transform:uppercase;
+  color:var(--sig);font-weight:800;margin-bottom:10px}
+.hero-title{margin:0;font-size:clamp(46px,9vw,104px);line-height:.86;letter-spacing:-.055em;
+  font-weight:900;color:var(--ink)}
+.hero-sub{margin:14px 0 0;font-size:clamp(15px,1.9vw,20px);color:var(--ink2);font-weight:600;
+  letter-spacing:-.01em}
+.hero-days{text-align:right;flex:none}
+.hero-num{font-size:clamp(52px,8vw,92px);line-height:.85;font-weight:900;letter-spacing:-.05em;
+  color:var(--sig);font-variant-numeric:tabular-nums;margin:6px 0 4px}
+.hero-exam{border:0;background:none;color:var(--muted);font:inherit;font-size:11.5px;
+  text-decoration:underline;cursor:pointer;padding:0}
+.hero-exam:hover{color:var(--sig)}
+.hero-wave{display:block;width:100%;height:30px;color:var(--sig);opacity:.6}
+.hero-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));
+  gap:1px;background:var(--hair);border-top:1px solid var(--hair)}
+.hero-stats>div{background:var(--panel);padding:13px 16px}
+.hero-stats b{display:block;font-size:27px;font-weight:800;letter-spacing:-.03em;
+  font-variant-numeric:tabular-nums;margin-top:2px}
+.hero-stats small{font-size:10.5px;color:var(--muted);margin-left:3px}
+.hero-go{display:block;width:100%;border:0;border-top:1px solid var(--hair);
+  background:var(--sig);color:var(--paper);font:inherit;font-weight:800;font-size:15px;
+  padding:16px;cursor:pointer;letter-spacing:.02em}
+.hero-go:hover{filter:brightness(1.08)}
+@media(max-width:640px){
+  .hero-band{padding:22px 18px 16px;align-items:flex-start;flex-direction:column;gap:16px}
+  .hero-days{text-align:left}
+  .hero-stats>div{padding:11px 13px}
+  .hero-stats b{font-size:23px}
+}

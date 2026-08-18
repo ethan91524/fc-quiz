@@ -39,9 +39,9 @@ $('#flagButton').onclick=toggleFlag;$('#noteButton').onclick=openNote;$('#saveNo
   document.addEventListener('keydown',keyboard);$('#questionCard').addEventListener('touchstart',e=>touchStartX=e.changedTouches[0].screenX,{passive:true});$('#questionCard').addEventListener('touchend',e=>{const d=e.changedTouches[0].screenX-touchStartX;if(Math.abs(d)>75)navigate(d>0?-1:1)},{passive:true});
 }
 function initFilters(){['year','session','subject'].forEach(key=>{const prop=key==='year'?'years':key==='session'?'sessions':'subjects';filters[prop]=new Set(questions.map(q=>q[key]))});filters.specialties=new Set(questions.map(q=>q.specialty||'未分類'));renderFilters()}
-function chip(group,value,label,count,on=true){return`<button class="chip ${on?'on':''}" data-group="${group}" data-value="${escapeHtml(value)}"><i>✓</i>${escapeHtml(label)}${count==null?'':`<em>${count.toLocaleString()}</em>`}</button>`}
+function chip(group,value,label,count,on=true){return`<button class="chip ${on?'on':''}${count===0?' dim':''}" data-group="${group}" data-value="${escapeHtml(value)}"><i>✓</i>${escapeHtml(label)}${count==null?'':`<em>${count.toLocaleString()}</em>`}</button>`}
 function renderFilters(){
-  const counts=(key,val)=>questions.filter(q=>key==='specialty'?(q.specialty||'未分類')===val:q[key]===val).length;
+  const any=(set,v)=>!set.size||set.has(v);const counts=(key,val)=>{const skip={year:'years',session:'sessions',subject:'subjects',specialty:'specialties'}[key];return questions.filter(q=>(skip==='years'||any(filters.years,q.year))&&(skip==='sessions'||any(filters.sessions,q.session))&&(skip==='subjects'||any(filters.subjects,q.subject))&&(skip==='specialties'||any(filters.specialties,q.specialty||'未分類'))&&(key==='specialty'?(q.specialty||'未分類')===val:q[key]===val)).length};
   $('#yearChips').innerHTML=[...new Set(questions.map(q=>q.year))].sort().map(v=>chip('years',v,v,counts('year',v),filters.years.has(v))).join('');
   $('#sessionChips').innerHTML=[1,2].map(v=>chip('sessions',v,`第 ${v===1?'一':'二'}次`,counts('session',v),filters.sessions.has(v))).join('');
   $('#subjectChips').innerHTML=[...new Set(questions.map(q=>q.subject))].map(v=>chip('subjects',v,v,counts('subject',v),filters.subjects.has(v))).join('');
@@ -50,19 +50,10 @@ function renderFilters(){
 }
 function specialtySubjects(sp){const r=new Set();for(const q of questions)if(q.specialty===sp)r.add(q.subject);return r}
 function specialtySubject(sp){const r=specialtySubjects(sp);return r.size===1?[...r][0]:null}
-function toggleChip(b){const group=b.dataset.group,set=filters[group],raw=b.dataset.value,
- value=['years','sessions'].includes(group)?Number(raw):raw;
- if(set.has(value)){set.delete(value);
-  // 關掉某份考卷時，把只存在於該考卷的科別一起關掉，否則交集會變 0 而看不出原因
-  if(group==='subjects')[...filters.specialties].forEach(sp=>{const subs=specialtySubjects(sp);if(subs.size&&![...subs].some(x=>filters.subjects.has(x)))filters.specialties.delete(sp)});
- }else{set.add(value);
-  // 選科別時自動打開它所屬的考卷——每個科別只屬於一份考卷，沒有歧義
-  if(group==='specialties'){const subs=specialtySubjects(value);if(subs.size&&![...subs].some(x=>filters.subjects.has(x)))subs.forEach(x=>filters.subjects.add(x))}
- }
- renderFilters()}
+function toggleChip(b){const group=b.dataset.group,set=filters[group],raw=b.dataset.value,value=['years','sessions'].includes(group)?Number(raw):raw;set.has(value)?set.delete(value):set.add(value);renderFilters()}
 function toggleAll(group){const prop={years:'year',sessions:'session',subjects:'subject',specialties:'specialty'}[group],values=[...new Set(questions.map(q=>q[prop]).filter(v=>v!=null))];filters[group]=filters[group].size===values.length?new Set():new Set(values);renderFilters()}
 function statusPool(status){const attempted=new Set(state.attempts.map(a=>a.id));return questions.filter(q=>status==='new'?!attempted.has(q.id):status==='wrong'?Boolean(state.wrong[q.id]):status==='flagged'?Boolean(state.flags[q.id]):status==='figure'?q.figures.length>0:q.answer.length>1)}
-function filteredQuestions(){const attempted=new Set(state.attempts.map(a=>a.id));return questions.filter(q=>filters.years.has(q.year)&&filters.sessions.has(q.session)&&filters.subjects.has(q.subject)&&filters.specialties.has(q.specialty||'未分類')&&[...filters.statuses].every(s=>s==='new'?!attempted.has(q.id):s==='wrong'?Boolean(state.wrong[q.id]):s==='flagged'?Boolean(state.flags[q.id]):s==='figure'?q.figures.length>0:q.answer.length>1))}
+function filteredQuestions(){const attempted=new Set(state.attempts.map(a=>a.id));const any=(set,v)=>!set.size||set.has(v);return questions.filter(q=>any(filters.years,q.year)&&any(filters.sessions,q.session)&&any(filters.subjects,q.subject)&&any(filters.specialties,q.specialty||'未分類')&&[...filters.statuses].every(s=>s==='new'?!attempted.has(q.id):s==='wrong'?Boolean(state.wrong[q.id]):s==='flagged'?Boolean(state.flags[q.id]):s==='figure'?q.figures.length>0:q.answer.length>1))}
 function names(set,all,label){return set.size===all.length?'全部':set.size?([...set].join('、')):'未選'}
 function emptyReason(){
  // 交集為 0 時指出是哪一組把題目篩光了，並提供一鍵修正
@@ -108,7 +99,7 @@ function renderHero(){
  set('heroDue',due);
  set('heroQuota',state.examDate?p.total:'—');
  set('heroDays',state.examDate?p.remainingDays:'—');
- set('heroExam',state.examDate?state.examDate+'　更改':'點這裡設定考試日期');
+ set('heroExam',state.examDate?state.examDate+'　更改':'設定考試日期');
  set('heroLine', !state.examDate?'今天，往及格再近一點。'
    : due?`今天有 ${due} 題該回來複習了。`
    : done? `已累積 ${done.toLocaleString()} 題，繼續。` : '從第一題開始吧。');
@@ -149,7 +140,7 @@ function renderAnalysis(){const attempts=state.attempts,correct=attempts.filter(
 function openImage(src){$('#largeImage').src=src;$('#imageDialog').showModal()}
 function restoreSession(){try{const saved=JSON.parse(sessionStorage.getItem(SESSION_KEY));if(saved?.ids?.length&&confirm('找到尚未完成的練習，要繼續嗎？')){session=saved;session.enteredAt=Date.now();showView('quizView');startTimer();renderQuestion()}else sessionStorage.removeItem(SESSION_KEY)}catch{sessionStorage.removeItem(SESSION_KEY)}}
 function registerServiceWorker(){if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{})}
-async function initFirebase(){ $('#firebaseNotice').textContent=firebaseEnabled?'可使用 Email／密碼登入，主題與進度會同步。':'Firebase 尚未設定，目前使用訪客模式。';if(!firebaseEnabled){['#googleButton','#appleButton'].forEach(k=>{const b=$(k);if(b)b.disabled=true});return}try{const [{initializeApp},{getAuth,onAuthStateChanged,GoogleAuthProvider,OAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut:fbSignOut},{getFirestore,doc,setDoc,getDoc}]=await Promise.all([import('https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js')]);const auth=getAuth(initializeApp(firebaseConfig)),db=getFirestore();firebase={auth,db,doc,setDoc,getDoc,signInWithEmailAndPassword,createUserWithEmailAndPassword,fbSignOut};onAuthStateChanged(auth,handleUser)}catch{$('#authMessage').textContent='Firebase 載入失敗，仍可使用本機模式。'}}
+async function initFirebase(){ $('#firebaseNotice').textContent=firebaseEnabled?'用 Google 或 Apple 登入，主題與進度會跨裝置同步。':'Firebase 尚未設定，目前使用訪客模式。';if(!firebaseEnabled){['#googleButton','#appleButton'].forEach(k=>{const b=$(k);if(b)b.disabled=true});return}try{const [{initializeApp},{getAuth,onAuthStateChanged,GoogleAuthProvider,OAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut:fbSignOut},{getFirestore,doc,setDoc,getDoc}]=await Promise.all([import('https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js')]);const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app);firebase={auth,db,doc,setDoc,getDoc,GoogleAuthProvider,OAuthProvider,signInWithPopup,signInWithRedirect,fbSignOut};onAuthStateChanged(auth,handleUser);getRedirectResult(auth).catch(()=>{})}catch(e){$('#authMessage').textContent='Firebase 初始化失敗：'+(e&&(e.code||e.message)||'未知錯誤');console.error('[firebase init]',e)}}
 async function handleUser(user){currentUser=user;$('#accountButton').textContent=user?user.email:'訪客';$('#signOutButton').classList.toggle('hidden',!user);$('#signInButton').classList.toggle('hidden',!!user);$('#signUpButton').classList.toggle('hidden',!!user);if(user)await mergeCloud()}
 async function authenticate(kind){
  if(!firebase)return;

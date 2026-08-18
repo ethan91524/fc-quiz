@@ -2,7 +2,7 @@
 <html lang="zh-Hant" data-t="room">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#101414"><title>判讀室</title>
+  <meta name="theme-color" content="#101414"><title>科內考古</title>
   <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -20,14 +20,14 @@
     <button data-set="term"><span class="sw" style="background:#0b0f0d;border-color:#4ade80"></span>終端機</button>
   </div>
   <header class="bar">
-    <button class="brand" data-go-home><span class="mark">判</span><span class="who"><b>判讀室</b><small>110–115 · 醫學三至六</small></span></button>
+    <button class="brand" data-go-home><span class="mark">考</span><span class="who"><b>科內考古</b><small>110–115 · 醫學三至六</small></span></button>
     <div class="sp"></div>
     <button class="pill on" data-go-home>練習</button><button class="pill" id="mockButton">模擬考</button><button class="pill" id="wrongButton">複習佇列</button><button class="pill" id="analysisButton">分析</button><button class="pill" id="searchButton">⌕ 搜尋</button><button class="pill account-button" id="accountButton">訪客</button>
   </header>
   <main id="main">
-    <section id="loadingView" class="center-state"><span class="lbl">題庫載入中</span><div class="big">判</div></section>
+    <section id="loadingView" class="center-state"><span class="lbl">題庫載入中</span><div class="big">考</div></section>
     <section id="homeView" class="view hidden cols">
-      <div class="main filters-main"><div class="hero" id="hero"><div class="hero-top"><div class="hero-mark"><span class="lbl">判讀室</span><h1 id="heroLine">今天，往及格再近一點。</h1></div><div class="hero-count"><span class="lbl">距離考試</span><div class="big" id="heroDays">—</div><small id="heroExam">點這裡設定考試日期</small></div></div><svg class="hero-wave" viewBox="0 0 1200 30" preserveAspectRatio="none" aria-hidden="true"><path d="M0 15 H170 l10 0 4 -10 5 20 5 -18 4 8 h10 H450 l10 0 4 -10 5 20 5 -18 4 8 h10 H730 l10 0 4 -10 5 20 5 -18 4 8 h10 H1010 l10 0 4 -10 5 20 5 -18 4 8 h10 H1200" fill="none" stroke="currentColor" stroke-width="1.6"/></svg><div class="hero-stats"><div><span class="lbl">已作答</span><b id="heroDone">0</b><small>／3,840 題</small></div><div><span class="lbl">累積正確率</span><b id="heroRate">—</b></div><div><span class="lbl">今日複習</span><b id="heroDue">0</b><small>題到期</small></div><div><span class="lbl">今日配額</span><b id="heroQuota">—</b><small>題</small></div></div><button class="hero-go" id="heroGo">開始今天的練習 →</button></div>
+      <div class="main filters-main"><div class="hero" id="hero"><div class="hero-band"><div class="hero-name"><span class="hero-kicker">醫師二階 · 110–115 · 3,840 題</span><h1 class="hero-title">科內考古</h1><p class="hero-sub" id="heroLine">今天，往及格再近一點。</p></div><div class="hero-days"><span class="lbl">距離考試</span><div class="hero-num" id="heroDays">—</div><button class="hero-exam" id="heroExam">設定考試日期</button></div></div><svg class="hero-wave" viewBox="0 0 1200 30" preserveAspectRatio="none" aria-hidden="true"><path d="M0 15 H170 l10 0 4 -10 5 20 5 -18 4 8 h10 H450 l10 0 4 -10 5 20 5 -18 4 8 h10 H730 l10 0 4 -10 5 20 5 -18 4 8 h10 H1010 l10 0 4 -10 5 20 5 -18 4 8 h10 H1200" fill="none" stroke="currentColor" stroke-width="1.6"/></svg><div class="hero-stats"><div><span class="lbl">已作答</span><b id="heroDone">0</b><small>／3,840</small></div><div><span class="lbl">正確率</span><b id="heroRate">—</b></div><div><span class="lbl">今日複習</span><b id="heroDue">0</b><small>題</small></div><div><span class="lbl">今日配額</span><b id="heroQuota">—</b><small>題</small></div></div><button class="hero-go" id="heroGo">開始今天的練習 →</button></div>
         <div class="grp"><div class="ghead"><span class="lbl">考試年度</span><button class="act" data-select="years">全選 / 清除</button></div><div id="yearChips" class="chips"></div></div>
         <div class="grp"><div class="ghead"><span class="lbl">梯次</span><button class="act" data-select="sessions">全選 / 清除</button></div><div id="sessionChips" class="chips"></div></div>
         <div class="grp"><div class="ghead"><span class="lbl">考卷</span><button class="act" data-select="subjects">全選 / 清除</button></div><div id="subjectChips" class="chips"></div></div>

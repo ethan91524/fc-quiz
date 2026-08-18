@@ -1,6 +1,6 @@
 {
-  "name": "判讀室",
-  "short_name": "判讀室",
+  "name": "科內考古",
+  "short_name": "科內考古",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
