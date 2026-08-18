@@ -4,6 +4,15 @@ const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const STORAGE_KEY='fc-quiz-state-v2',SESSION_KEY='fc-quiz-session-v2',THEME_KEY='fc-quiz-theme';
 const ASSET_BASE='./';
 const THEMES=['room','day','paper','night','lab','ink','or','term'];
+const THEME_NAMES={room:'判讀室',day:'日間',paper:'考卷紙',night:'深夜自習',lab:'檢驗報告',ink:'墨水屏',or:'手術房綠',term:'終端機'};
+// 每次開啟隨機一句。醫學諧音梗，刻意不勵志到肉麻。
+const SLOGANS=['今天「腎」下幾題？','「血」無止境。','「肌」不可失。','「胰」如反掌。','「脈」有問題，繼續。',
+ '「淋」危不亂。','「瘤」得青山在。','「鉀」油！','「鈉」麼認真，一定會過。','「氧」精蓄銳，再戰一回。',
+ '「酶」關係，錯了再來。','「疫」不容辭。','「腺」在不做，什麼時候做？','「疹」的假不了。','「骨」起勇氣，再來一題。',
+ '「醫」鼓作氣。','「醫」路順風。','「肝」願再刷十題。','別「肺」話了，開始刷。','「胃」你加油。',
+ '不「藥」放棄。','「藥」不要再來一題？','「腸」保安康，也「腸」保及格。','「皮」一下，很開心。','大「膽」假設，小心求證。',
+ '「膜」急，把選項看完。','「炎」重懷疑我讀過這題。','「鈣」念很重要。','「髓」時都能刷。','「痔」在必得。'];
+const sessionSlogan=SLOGANS[Math.floor(Math.random()*SLOGANS.length)];
 const STATUS=[['new','沒做過'],['wrong','做錯過'],['flagged','已標記'],['figure','有附圖'],['bonus','送分／複選']];
 let questions=[],state=loadState(),session=null,timer=null,currentUser=null,firebase=null,touchStartX=0;
 let filters={years:new Set(),sessions:new Set(),subjects:new Set(),specialties:new Set(),statuses:new Set()};
@@ -19,12 +28,18 @@ function isCorrect(q,a){return Boolean(a&&q.answer.includes(a))}
 function formatTime(s){return`${String(Math.floor(s/60)).padStart(2,'0')}:${String(s%60).padStart(2,'0')}`}
 function figureUrl(path){return`${ASSET_BASE}${path}`}
 function paperLabel(q){return`${q.year}-${q.session} · ${q.subject} · ${q.number}`}
-function setTheme(theme,persist=true){if(!THEMES.includes(theme))theme='room';document.documentElement.dataset.t=theme;$('.ui').dataset.t=theme;$$('[data-set]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.set===theme));document.querySelector('meta[name=theme-color]').content=getComputedStyle($('.ui')).getPropertyValue('--paper').trim();if(persist){state.theme=theme;localStorage.setItem(THEME_KEY,theme);saveState()}}
+function setTheme(theme,persist=true){if(!THEMES.includes(theme))theme='room';document.documentElement.dataset.t=theme;$('.ui').dataset.t=theme;$$('[data-set]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.set===theme));document.querySelector('meta[name=theme-color]').content=getComputedStyle($('.ui')).getPropertyValue('--paper').trim();const nm=$('#themeName');if(nm)nm.textContent=THEME_NAMES[theme];const sw=$('#themeSwatch'),src=$(`[data-set="${theme}"] .sw`);if(sw&&src)sw.style.cssText=src.style.cssText;themeMenu(false);if(persist){state.theme=theme;localStorage.setItem(THEME_KEY,theme);saveState()}}
+function themeMenu(open){const m=$('#themeMenu'),t=$('#themeToggle');if(!m||!t)return;const want=open===undefined?m.hidden:open;m.hidden=!want;t.setAttribute('aria-expanded',String(want))}
 async function boot(){setTheme(localStorage.getItem(THEME_KEY)||state.theme||'room',false);bindEvents();try{const r=await fetch(`${ASSET_BASE}questions.json`);if(!r.ok)throw Error(`HTTP ${r.status}`);questions=await r.json();if(questions.length!==3840)throw Error(`題庫只有 ${questions.length} 題`);initFilters();renderHome();showView('homeView');restoreSession();registerServiceWorker();initFirebase()}catch(e){$('#loadingView').innerHTML=`<b>題庫載入失敗</b><span class="tiny">${escapeHtml(e.message)}</span>`}}
 function bindEvents(){
   $$('[data-set]').forEach(b=>b.onclick=()=>setTheme(b.dataset.set));$$('[data-go-home]').forEach(b=>b.onclick=goHome);
+  const tt=$('#themeToggle');if(tt)tt.onclick=e=>{e.stopPropagation();themeMenu()};
+  // 點外面或按 Esc 收起主題選單
+  document.addEventListener('click',e=>{if(!e.target.closest('.switch'))themeMenu(false)});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')themeMenu(false)});
+  const rs=$('#resetStatsButton');if(rs)rs.onclick=resetStats;
   $$('[data-select]').forEach(b=>b.onclick=()=>toggleAll(b.dataset.select));$$('[data-reveal]').forEach(b=>b.onclick=()=>{settings.reveal=b.dataset.reveal;renderControls()});$$('[data-setting]').forEach(b=>b.onclick=()=>{settings[b.dataset.setting]=!settings[b.dataset.setting];renderControls()});
-  $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#startMockButton').onclick=startMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
+  $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
   $('#searchButton').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};$('#searchInput').oninput=renderSearch;$$('dialog [data-close]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
   $('#accountButton').onclick=()=>$('#accountDialog').showModal();$('#googleButton').onclick=()=>authenticate('google');$('#appleButton').onclick=()=>authenticate('apple');$('#signOutButton').onclick=signOut;
   $('#exitQuiz').onclick=confirmExit;$('#prevButton').onclick=()=>navigate(-1);$('#nextButton').onclick=nextAction;$('#submitButton').onclick=submitSession;(function(){const nav=$('#qnav'),btn=$('#qnavToggle');
@@ -38,7 +53,9 @@ $('#flagButton').onclick=toggleFlag;$('#noteButton').onclick=openNote;$('#saveNo
   $('#installNote button').onclick=()=>{$('#installNote').remove();localStorage.setItem('fc-install-note','dismissed')};$('#closeImage').onclick=()=>$('#imageDialog').close();$('#imageDialog').onclick=e=>{if(e.target===$('#imageDialog'))e.currentTarget.close()};
   document.addEventListener('keydown',keyboard);$('#questionCard').addEventListener('touchstart',e=>touchStartX=e.changedTouches[0].screenX,{passive:true});$('#questionCard').addEventListener('touchend',e=>{const d=e.changedTouches[0].screenX-touchStartX;if(Math.abs(d)>75)navigate(d>0?-1:1)},{passive:true});
 }
-function initFilters(){['year','session','subject'].forEach(key=>{const prop=key==='year'?'years':key==='session'?'sessions':'subjects';filters[prop]=new Set(questions.map(q=>q[key]))});filters.specialties=new Set(questions.map(q=>q.specialty||'未分類'));renderFilters()}
+// 預設一個都不勾：空集合＝不設限（filteredQuestions 的 any() 已是這個語意），
+// 所以進來仍是全部 3,840 題，但要練單一科別時是「點 1 個」而不是「取消 36 個」。
+function initFilters(){filters.years=new Set();filters.sessions=new Set();filters.subjects=new Set();filters.specialties=new Set();renderFilters()}
 function chip(group,value,label,count,on=true){return`<button class="chip ${on?'on':''}${count===0?' dim':''}" data-group="${group}" data-value="${escapeHtml(value)}"><i>✓</i>${escapeHtml(label)}${count==null?'':`<em>${count.toLocaleString()}</em>`}</button>`}
 function renderFilters(){
   const any=(set,v)=>!set.size||set.has(v);const counts=(key,val)=>{const skip={year:'years',session:'sessions',subject:'subjects',specialty:'specialties'}[key];return questions.filter(q=>(skip==='years'||any(filters.years,q.year))&&(skip==='sessions'||any(filters.sessions,q.session))&&(skip==='subjects'||any(filters.subjects,q.subject))&&(skip==='specialties'||any(filters.specialties,q.specialty||'未分類'))&&(key==='specialty'?(q.specialty||'未分類')===val:q[key]===val)).length};
@@ -54,12 +71,14 @@ function toggleChip(b){const group=b.dataset.group,set=filters[group],raw=b.data
 function toggleAll(group){const prop={years:'year',sessions:'session',subjects:'subject',specialties:'specialty'}[group],values=[...new Set(questions.map(q=>q[prop]).filter(v=>v!=null))];filters[group]=filters[group].size===values.length?new Set():new Set(values);renderFilters()}
 function statusPool(status){const attempted=new Set(state.attempts.map(a=>a.id));return questions.filter(q=>status==='new'?!attempted.has(q.id):status==='wrong'?Boolean(state.wrong[q.id]):status==='flagged'?Boolean(state.flags[q.id]):status==='figure'?q.figures.length>0:q.answer.length>1)}
 function filteredQuestions(){const attempted=new Set(state.attempts.map(a=>a.id));const any=(set,v)=>!set.size||set.has(v);return questions.filter(q=>any(filters.years,q.year)&&any(filters.sessions,q.session)&&any(filters.subjects,q.subject)&&any(filters.specialties,q.specialty||'未分類')&&[...filters.statuses].every(s=>s==='new'?!attempted.has(q.id):s==='wrong'?Boolean(state.wrong[q.id]):s==='flagged'?Boolean(state.flags[q.id]):s==='figure'?q.figures.length>0:q.answer.length>1))}
-function names(set,all,label){return set.size===all.length?'全部':set.size?([...set].join('、')):'未選'}
+function names(set,all,label){return set.size===all.length?'全部':set.size?([...set].join('、')):'不限'}
 function emptyReason(){
  // 交集為 0 時指出是哪一組把題目篩光了，並提供一鍵修正
- const base=q=>filters.years.has(q.year)&&filters.sessions.has(q.session);
+ // 這裡也要用「空集合＝不設限」，否則預設沒勾任何年度時會誤報是年度把題目篩光了
+ const any=(set,v)=>!set.size||set.has(v);
+ const base=q=>any(filters.years,q.year)&&any(filters.sessions,q.session);
  if(!questions.some(base))return['沒有選到任何年度或梯次','years'];
- const bySub=questions.filter(q=>base(q)&&filters.subjects.has(q.subject));
+ const bySub=questions.filter(q=>base(q)&&any(filters.subjects,q.subject));
  if(!bySub.length)return['選到的年度／梯次底下沒有這些考卷','subjects'];
  if(filters.specialties.size){
   const want=[...filters.specialties];
@@ -85,7 +104,7 @@ function updateMatch(){const pool=filteredQuestions(),max=Math.max(1,pool.length
     renderFilters()};
   }}
 $('#countSlider').max=max;settings.count=Math.min(settings.count,max);renderControls()}
-function renderControls(){const pool=filteredQuestions(),max=Math.max(1,pool.length);const values=[10,20,40,80,max];$('#quickCounts').innerHTML=values.map((v,i)=>`<button data-count="${v}" class="${settings.count===v?'on':''}${pool.length&&v>max?' dim':''}">${i===4?'全部':v}</button>`).join('');$$('[data-count]').forEach(b=>b.onclick=()=>{settings.count=Math.min(Number(b.dataset.count)||20,Math.max(1,filteredQuestions().length))||Number(b.dataset.count);renderControls()});$('#countSlider').value=Math.min(settings.count,max);$('#countLabel').textContent=`${Math.min(settings.count,pool.length)} 題`;$$('[data-reveal]').forEach(b=>b.classList.toggle('on',b.dataset.reveal===settings.reveal));$$('[data-setting]').forEach(b=>b.classList.toggle('on',settings[b.dataset.setting]));const ys=[...new Set(questions.map(q=>q.year))],ss=[1,2],subs=[...new Set(questions.map(q=>q.subject))];$('#setupSummary').innerHTML=`<div><span>年度</span><b>${names(filters.years,ys,'年度')}</b></div><div><span>梯次</span><b>${names(filters.sessions,ss,'梯次')}</b></div><div><span>考卷</span><b>${names(filters.subjects,subs,'考卷')}</b></div><div><span>科別</span><b>${filters.specialties.size?`${filters.specialties.size} 科`:'尚未分類'}</b></div><div><span>狀態</span><b>${filters.statuses.size?[...filters.statuses].map(s=>STATUS.find(x=>x[0]===s)[1]).join('、'):'不限'}</b></div><div><span>題數</span><b>${Math.min(settings.count,pool.length)} 題</b></div>`}
+function renderControls(){const pool=filteredQuestions(),max=Math.max(1,pool.length);const values=[10,20,40,80,max];$('#quickCounts').innerHTML=values.map((v,i)=>`<button data-count="${v}" class="${settings.count===v?'on':''}${pool.length&&v>max?' dim':''}">${i===4?'全部':v}</button>`).join('');$$('[data-count]').forEach(b=>b.onclick=()=>{settings.count=Math.min(Number(b.dataset.count)||20,Math.max(1,filteredQuestions().length))||Number(b.dataset.count);renderControls()});$('#countSlider').value=Math.min(settings.count,max);$('#countLabel').textContent=`${Math.min(settings.count,pool.length)} 題`;$$('[data-reveal]').forEach(b=>b.classList.toggle('on',b.dataset.reveal===settings.reveal));$$('[data-setting]').forEach(b=>b.classList.toggle('on',settings[b.dataset.setting]));const ys=[...new Set(questions.map(q=>q.year))],ss=[1,2],subs=[...new Set(questions.map(q=>q.subject))];$('#setupSummary').innerHTML=`<div><span>年度</span><b>${names(filters.years,ys,'年度')}</b></div><div><span>梯次</span><b>${names(filters.sessions,ss,'梯次')}</b></div><div><span>考卷</span><b>${names(filters.subjects,subs,'考卷')}</b></div><div><span>科別</span><b>${filters.specialties.size?`${filters.specialties.size} 科`:'不限'}</b></div><div><span>狀態</span><b>${filters.statuses.size?[...filters.statuses].map(s=>STATUS.find(x=>x[0]===s)[1]).join('、'):'不限'}</b></div><div><span>題數</span><b>${Math.min(settings.count,pool.length)} 題</b></div>`}
 function renderHome(){renderFilters();renderLearningHome();if(localStorage.getItem('fc-install-note')==='dismissed')$('#installNote')?.remove()}
 function renderLearningHome(){const b=queueBuckets(state.srs),cells=[['today','今天'],['tomorrow','明天'],['3','3 天'],['7','7 天'],['21','21 天']];$('#srsQueue').innerHTML=cells.map(([k,label])=>`<div><b>${b[k]}</b><small class="tiny">${label}</small></div>`).join('');$('#startReviewButton').disabled=!b.today;if(!state.examDate){$('#countdownDays').textContent='—';$('#countdownCopy').textContent='設定日期後自動安排每日進度';$('#homePlan').innerHTML='<p class="tiny">尚未設定考試日期。</p>';$('#startPlanButton').disabled=true;return}const p=currentPlan(),done=state.dailyCompletions[p.today];$('#countdownDays').textContent=p.remainingDays;$('#countdownCopy').textContent=`天 · 還有 ${p.unseen.toLocaleString()} 題沒做過`;$('#homePlan').innerHTML=`<div class="prow"><span class="dt">複習</span><span>今天到期</span><b class="mono">${p.review} 題</b></div><div class="prow"><span class="dt">主攻</span><span>${escapeHtml(p.weak)}</span><b class="mono">${p.attack} 題</b></div><div class="prow"><span class="dt">維持</span><span>${escapeHtml(p.strong)} 隨機</span><b class="mono">${p.maintain} 題</b></div>`;$('#startPlanButton').disabled=Boolean(done)||!p.total;$('#startPlanButton').textContent=done?'今天的配額已完成 ✓':`開始今天的 ${p.total} 題 →`;renderHero()}
 function currentPlan(){return buildDailyPlan({questions,attempts:state.attempts,srs:state.srs,examDate:state.examDate})}
@@ -100,22 +119,50 @@ function renderHero(){
  set('heroQuota',state.examDate?p.total:'—');
  set('heroDays',state.examDate?p.remainingDays:'—');
  set('heroExam',state.examDate?state.examDate+'　更改':'設定考試日期');
- set('heroLine', !state.examDate?'今天，往及格再近一點。'
-   : due?`今天有 ${due} 題該回來複習了。`
-   : done? `已累積 ${done.toLocaleString()} 題，繼續。` : '從第一題開始吧。');
+ // 標語每次開 App 抽一次就固定，不要每次重繪都換（重繪很頻繁，會閃）
+ set('heroLine', sessionSlogan);
  const ex=$('#heroExam'); if(ex)ex.onclick=openExamDate;
  const go=$('#heroGo');
  if(go)go.onclick=()=>{const b=$('#startPlanButton');
    if(state.examDate&&b&&!b.disabled)b.click(); else $('#randomButton')?.click()};
 }function openExamDate(){$('#examDateInput').min=addLocalDays(localDateKey(),1);$('#examDateInput').value=state.examDate||'';$('#examDateDialog').showModal()}function saveExamDate(){const v=$('#examDateInput').value;if(!v||v<=localDateKey())return toast('請選擇未來的日期');state.examDate=v;saveState();$('#examDateDialog').close();renderLearningHome();toast('讀書計畫已重算')}
-function showView(id){['loadingView','homeView','quizView','resultView','analysisView'].forEach(v=>$('#'+v).classList.toggle('hidden',v!==id));window.scrollTo(0,0)}
+function showView(id){['loadingView','homeView','quizView','resultView','analysisView','mockView'].forEach(v=>{const el=$('#'+v);if(el)el.classList.toggle('hidden',v!==id)});window.scrollTo(0,0);
+ // 進場動畫：移除再強制 reflow 才會重播（同一個元素連續切換時 class 沒變就不會觸發）
+ const cur=$('#'+id);if(cur){cur.classList.remove('view-in');void cur.offsetWidth;cur.classList.add('view-in')}}
 function weightedSample(pool,count){const rates={};state.attempts.forEach(a=>{const k=a.specialty||a.subject;(rates[k]??={n:0,c:0}).n++;if(a.correct)rates[k].c++});const bag=pool.map(q=>({q,w:1+(rates[q.specialty||q.subject]?1-rates[q.specialty||q.subject].c/rates[q.specialty||q.subject].n:0)}));const out=[];while(bag.length&&out.length<count){let total=bag.reduce((s,x)=>s+x.w,0),r=Math.random()*total,i=0;for(;i<bag.length;i++){r-=bag[i].w;if(r<=0)break}out.push(bag.splice(Math.min(i,bag.length-1),1)[0].q)}return out}
 function startPractice(){let pool=filteredQuestions();if(!pool.length)return toast('目前篩選沒有符合題目');const count=Math.min(settings.count,pool.length);pool=settings.weak?weightedSample(pool,count):settings.random?shuffle(pool).slice(0,count):pool.slice(0,count);startSession(pool,'practice','自訂練習',settings.reveal==='end')}
 function startWrong(){const pool=questions.filter(q=>state.wrong[q.id]&&!state.conquered[q.id]);if(!pool.length)return toast('目前沒有待複習的錯題');startSession(shuffle(pool).slice(0,Math.min(20,pool.length)),'wrong','錯題複習',false)}
 function startDueReview(){const ids=new Set(dueIds(state.srs)),pool=questions.filter(q=>ids.has(q.id));if(!pool.length)return toast('今天沒有到期題目');startSession(pool,'srs','今日間隔複習',false)}
 function startDailyPlan(){if(!state.examDate)return openExamDate();const p=currentPlan(),review=new Set(p.reviewIds),seen=new Set(review),unseen=questions.filter(q=>!state.attempts.some(a=>a.id===q.id)&&!seen.has(q.id)),by=k=>unseen.filter(q=>(q.specialty||q.subject||'尚未分類')===k),attack=shuffle(by(p.weak)).slice(0,p.attack);attack.forEach(q=>seen.add(q.id));let maintain=shuffle(by(p.strong).filter(q=>!seen.has(q.id))).slice(0,p.maintain),need=p.attack+p.maintain-attack.length-maintain.length;if(need>0)maintain=maintain.concat(shuffle(unseen.filter(q=>!seen.has(q.id)&&!attack.includes(q))).slice(0,need));const pool=[...questions.filter(q=>review.has(q.id)),...attack,...maintain];if(!pool.length)return toast('今天沒有待完成題目');startSession(pool,'plan','今天的讀書計畫',false)}
-function openMock(){const keys=[...new Set(questions.map(q=>`${q.year}-${q.session}|${q.subject}`))].sort((a,b)=>b.localeCompare(a,'zh-Hant',{numeric:true}));$('#mockPaper').innerHTML=keys.map(k=>`<option value="${k}">${k.replace('|',' · ')}</option>`).join('');$('#mockDialog').showModal()}
-function startMock(){const [paper,subject]=$('#mockPaper').value.split('|'),[year,sessionNo]=paper.split('-').map(Number),pool=questions.filter(q=>q.year===year&&q.session===sessionNo&&q.subject===subject).sort((a,b)=>a.number-b.number);if(pool.length!==80)return toast(`這份試卷有 ${pool.length} 題`);$('#mockDialog').close();startSession(pool,'mock',`${paper} · ${subject}`,true)}
+// 模擬考改成完整頁面（原本是彈窗的下拉選單，看不到哪幾份做過）：
+// 依年度→梯次分組列出 48 份考卷，每份直接顯示做過沒、上次幾分。
+function openMock(){
+ // exams 的 id 是 randomUUID，對不到考卷；用 startMock 寫入的 title 當鍵，取最後一次
+ const done=new Map(state.exams.map(e=>[e.title,e]));
+ const papers=[...new Set(questions.map(q=>`${q.year}|${q.session}|${q.subject}`))]
+   .map(k=>{const [year,ses,subject]=k.split('|');return{key:k,year:+year,session:+ses,subject,
+     n:questions.filter(q=>q.year===+year&&q.session===+ses&&q.subject===subject).length}})
+   .sort((a,b)=>b.year-a.year||b.session-a.session||a.subject.localeCompare(b.subject,'zh-Hant'));
+ const groups=[...new Set(papers.map(p=>`${p.year}-${p.session}`))];
+ $('#mockPapers').innerHTML=groups.map(g=>{const [y,s]=g.split('-');
+  return`<div class="paper-group"><div class="paper-group-head"><span class="lbl">${y} 年 第 ${s==='1'?'一':'二'}次</span></div>${
+   papers.filter(p=>`${p.year}-${p.session}`===g).map(p=>{const rec=done.get(`${p.year}-${p.session} · ${p.subject}`);
+    return`<div class="paper-row"><span class="paper-tag">醫師</span><b class="paper-name">${p.year}-${p.session} · 醫師二階 · ${escapeHtml(p.subject)}</b><span class="paper-meta">${p.n} 題</span>${
+     rec?`<span class="paper-score">上次 ${rec.correct}/${rec.total}</span>`:'<span class="paper-score none">未作答</span>'
+    }<button class="btn solid paper-go" data-mock="${p.key}">開始計時 →</button></div>`}).join('')}</div>`}).join('');
+ $$('[data-mock]').forEach(b=>b.onclick=()=>startMock(b.dataset.mock));
+ showView('mockView');
+}
+function startMock(key){const [year,sessionNo,subject]=key.split('|'),pool=questions.filter(q=>q.year===+year&&q.session===+sessionNo&&q.subject===subject).sort((a,b)=>a.number-b.number);if(pool.length!==80)return toast(`這份試卷有 ${pool.length} 題`);startSession(pool,'mock',`${year}-${sessionNo} · ${subject}`,true)}
+// 重設統計：清作答/錯題/複習/成績，但保留主題、考試日期與登入狀態（那些不是「統計」）
+function resetStats(){
+ if(!confirm('確定要清除所有作答紀錄、錯題本、複習進度與模擬考成績？\n主題與考試日期會保留。此動作無法復原。'))return;
+ const keep={theme:state.theme,examDate:state.examDate};
+ state={...defaultState(),...keep};
+ localStorage.removeItem(SESSION_KEY);session=null;
+ saveState();if(currentUser)syncToCloud();
+ $('#accountDialog').close();renderHome();goHome();toast('統計資料已重設');
+}
 function startSession(pool,mode,title,batch){session={ids:pool.map(q=>q.id),index:0,answers:{},flags:{...state.flags},times:{},enteredAt:Date.now(),startedAt:Date.now(),mode,title,batch,submitted:false,review:false};saveSession();showView('quizView');startTimer();renderQuestion()}
 function currentQuestion(){return questions.find(q=>q.id===session.ids[session.index])}function sessionQuestions(){return session.ids.map(id=>questions.find(q=>q.id===id)).filter(Boolean)}
 function commitQuestionTime(){if(!session?.enteredAt)return;const q=currentQuestion();session.times[q.id]=(session.times[q.id]||0)+Math.max(0,Math.round((Date.now()-session.enteredAt)/1000));session.enteredAt=Date.now()}
