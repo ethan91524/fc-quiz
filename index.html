@@ -1,361 +1,78 @@
 <!doctype html>
-<html lang="zh-Hant">
+<html lang="zh-Hant" data-t="room">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>FC 儲存可行性測試</title>
-<link rel="manifest" href="manifest.webmanifest">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="FC 測試">
-<meta name="theme-color" content="#0f172a">
-<style>
-:root{
-  --bg:#f6f7f9; --card:#fff; --ink:#12161c; --muted:#5b6472; --line:#e3e7ec;
-  --ok:#0f7b46; --okbg:#e6f5ed; --bad:#b42318; --badbg:#fdeceb;
-  --warn:#8a5a00; --warnbg:#fdf3e2; --accent:#1f5fd0; --accentbg:#e8f0fd;
-}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --bg:#0e1116; --card:#161b22; --ink:#e8ecf1; --muted:#9aa5b4; --line:#2a323c;
-  --ok:#5fd39a; --okbg:#102a1e; --bad:#ff8a80; --badbg:#2d1614;
-  --warn:#f0c060; --warnbg:#2b2110; --accent:#7ab0ff; --accentbg:#13203a;
-}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);
- font:16px/1.6 -apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC",sans-serif;
- padding:16px 14px 60px;-webkit-text-size-adjust:100%}
-.wrap{max-width:760px;margin:0 auto}
-h1{font-size:21px;margin:0 0 4px}
-.sub{color:var(--muted);font-size:14px;margin:0 0 18px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin:0 0 14px}
-.card h2{font-size:16px;margin:0 0 4px;display:flex;align-items:center;gap:8px}
-.card p.hint{color:var(--muted);font-size:13.5px;margin:0 0 12px}
-.n{background:var(--accentbg);color:var(--accent);width:24px;height:24px;border-radius:7px;
- display:grid;place-items:center;font-size:13px;font-weight:700;flex:none}
-button{font:inherit;font-weight:600;color:#fff;background:var(--accent);border:0;
- border-radius:11px;padding:13px 18px;min-height:48px;cursor:pointer;-webkit-appearance:none}
-button.ghost{background:transparent;color:var(--accent);border:1.5px solid var(--accent)}
-button:disabled{opacity:.45}
-.row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
-input[type=number]{font:inherit;width:96px;padding:11px 12px;min-height:48px;border-radius:11px;
- border:1.5px solid var(--line);background:var(--card);color:var(--ink);-webkit-appearance:none}
-label.f{font-size:13.5px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
-.badge{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;
- padding:5px 11px;border-radius:999px;margin:0 0 10px}
-.b-ok{background:var(--okbg);color:var(--ok)} .b-bad{background:var(--badbg);color:var(--bad)}
-.b-warn{background:var(--warnbg);color:var(--warn)} .b-idle{background:var(--line);color:var(--muted)}
-table{width:100%;border-collapse:collapse;font-size:14px;margin-top:6px}
-td{padding:7px 0;border-bottom:1px solid var(--line);vertical-align:top}
-td:first-child{color:var(--muted);width:44%}
-td:last-child{text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
-.bar{height:8px;border-radius:99px;background:var(--line);overflow:hidden;margin:10px 0 4px}
-.bar i{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
-/* FC 是直式頁面。若讓畫布填滿寬度，整頁會遠高於容器而被裁掉，
-   只看得到上半部。改成同時受寬與高限制、由瀏覽器等比縮到整頁可見。 */
-#canvasWrap{margin-top:12px;border:1px solid var(--line);border-radius:11px;
- background:#fff;padding:8px;display:flex;justify-content:center;-webkit-overflow-scrolling:touch}
-#canvasWrap:empty{display:none}
-canvas{display:block;max-width:100%;max-height:78vh;width:auto;height:auto}
-pre{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:11px;
- font-size:12px;overflow-x:auto;white-space:pre-wrap;word-break:break-all;margin:10px 0 0;color:var(--muted)}
-a.link{color:var(--accent);font-size:13.5px;word-break:break-all}
-.verdict{font-size:14px;line-height:1.65}
-.verdict li{margin:5px 0}
-</style>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101414"><title>判讀室</title>
+  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="wrap">
-<h1>FC 儲存可行性測試</h1>
-<p class="sub">Phase 0 — 驗證 iPad 上能不能存下整本 FC、並從連結準確跳到指定頁。<br>
-請用 <b>Safari</b> 開啟，依序做 1 → 5。</p>
-
-<!-- 1 環境 -->
-<div class="card">
-  <h2><span class="n">1</span>環境檢查</h2>
-  <p class="hint">先看這台裝置給網頁多少儲存空間。</p>
-  <div id="envBadge" class="badge b-idle">檢查中…</div>
-  <table id="envTable"></table>
-  <div class="row" style="margin-top:12px">
-    <button id="btnPersist" class="ghost">申請永久儲存權限</button>
+<a class="skip" href="#main">跳到主要內容</a>
+<div class="app ui" data-t="room">
+  <div class="switch" role="group" aria-label="切換主題">
+    <b>主題</b>
+    <button data-set="room"><span class="sw" style="background:#101414;border-color:#4ecdc4"></span>判讀室</button>
+    <button data-set="day"><span class="sw" style="background:#faf9f6;border-color:#0e6b6b"></span>日間</button>
+    <button data-set="paper"><span class="sw" style="background:#fbf8f1;border-color:#8a6d3b"></span>考卷紙</button>
+    <button data-set="night"><span class="sw" style="background:#1a1a13;border-color:#e0a838"></span>深夜自習</button>
+    <button data-set="lab"><span class="sw" style="background:#f7f9f7;border-color:#2f6b4a"></span>檢驗報告</button>
+    <button data-set="ink"><span class="sw" style="background:#f9f9f7;border-color:#111"></span>墨水屏</button>
+    <button data-set="or"><span class="sw" style="background:#f3f8f6;border-color:#3f7d6a"></span>手術房綠</button>
+    <button data-set="term"><span class="sw" style="background:#0b0f0d;border-color:#4ade80"></span>終端機</button>
   </div>
-  <p class="hint" style="margin:10px 0 0">
-    「永久儲存」沒拿到的話，iOS 可能在 <b>7 天沒開啟</b> 後自動清掉資料。
-    把本頁<b>加到主畫面</b>再從主畫面開，拿到的機率高很多。</p>
+  <header class="bar">
+    <button class="brand" data-go-home><span class="mark">判</span><span class="who"><b>判讀室</b><small>110–115 · 醫學三至六</small></span></button>
+    <div class="sp"></div>
+    <button class="pill on" data-go-home>練習</button><button class="pill" id="mockButton">模擬考</button><button class="pill" id="wrongButton">複習佇列</button><button class="pill" id="analysisButton">分析</button><button class="pill" id="searchButton">⌕ 搜尋</button><button class="pill account-button" id="accountButton">訪客</button>
+  </header>
+  <main id="main">
+    <section id="loadingView" class="center-state"><span class="lbl">題庫載入中</span><div class="big">判</div></section>
+    <section id="homeView" class="view hidden cols">
+      <div class="main filters-main"><div class="hero" id="hero"><div class="hero-top"><div class="hero-mark"><span class="lbl">判讀室</span><h1 id="heroLine">今天，往及格再近一點。</h1></div><div class="hero-count"><span class="lbl">距離考試</span><div class="big" id="heroDays">—</div><small id="heroExam">點這裡設定考試日期</small></div></div><svg class="hero-wave" viewBox="0 0 1200 30" preserveAspectRatio="none" aria-hidden="true"><path d="M0 15 H170 l10 0 4 -10 5 20 5 -18 4 8 h10 H450 l10 0 4 -10 5 20 5 -18 4 8 h10 H730 l10 0 4 -10 5 20 5 -18 4 8 h10 H1010 l10 0 4 -10 5 20 5 -18 4 8 h10 H1200" fill="none" stroke="currentColor" stroke-width="1.6"/></svg><div class="hero-stats"><div><span class="lbl">已作答</span><b id="heroDone">0</b><small>／3,840 題</small></div><div><span class="lbl">累積正確率</span><b id="heroRate">—</b></div><div><span class="lbl">今日複習</span><b id="heroDue">0</b><small>題到期</small></div><div><span class="lbl">今日配額</span><b id="heroQuota">—</b><small>題</small></div></div><button class="hero-go" id="heroGo">開始今天的練習 →</button></div>
+        <div class="grp"><div class="ghead"><span class="lbl">考試年度</span><button class="act" data-select="years">全選 / 清除</button></div><div id="yearChips" class="chips"></div></div>
+        <div class="grp"><div class="ghead"><span class="lbl">梯次</span><button class="act" data-select="sessions">全選 / 清除</button></div><div id="sessionChips" class="chips"></div></div>
+        <div class="grp"><div class="ghead"><span class="lbl">考卷</span><button class="act" data-select="subjects">全選 / 清除</button></div><div id="subjectChips" class="chips"></div></div>
+        <div class="grp"><div class="ghead"><span class="lbl">科別 · 次專科</span><button class="act" data-select="specialties">全選 / 清除</button></div><div id="specialtyChips" class="chips"></div></div>
+        <div class="grp"><div class="ghead"><span class="lbl">狀態</span><span class="act">可複選</span></div><div id="statusChips" class="chips"></div></div>
+        <aside class="install-note" id="installNote"><b>建議加入主畫面</b><span class="tiny">iPad Safari 點「分享」→「加入主畫面」，離線使用更穩定；iOS 長期未使用仍可能清除網站資料。</span><button aria-label="關閉">×</button></aside>
+      </div>
+      <aside class="side">
+        <div class="count"><span class="lbl">符合題數</span><div class="big" id="matchCount">0</div>
+<p class="empty-hint" id="emptyHint" hidden></p></div>
+        <div class="grp"><span class="lbl">這一回要做幾題</span><div class="segs" id="quickCounts"></div><input id="countSlider" class="slider" type="range" min="1" value="20"><div class="tiny split"><span>指定題數</span><b id="countLabel" class="mono">20 題</b></div></div>
+        <div class="grp"><span class="lbl">答案顯示方式</span><div class="radios"><button data-reveal="instant"><i></i><span>寫一題看一題<small>作答後立即核對</small></span></button><button data-reveal="end"><i></i><span>全部寫完再看<small>可修改，交卷後一批改</small></span></button></div></div>
+        <div class="grp"><span class="lbl">出題方式</span><button class="toggle" data-setting="random"><span>隨機題目順序<small>重整不會換題</small></span><b></b></button><button class="toggle" data-setting="weak"><span>優先出弱點科別<small>正確率低的多抽</small></span><b></b></button><button class="toggle" data-setting="timed"><span>每題限時 90 秒<small>比照國考節奏</small></span><b></b></button></div>
+        <div class="grp"><span class="lbl">開始前確認</span><div class="sumtbl" id="setupSummary"></div></div>
+        <button class="go" id="startButton">開始這次練習 →</button>
+        <div class="keys"><b>A</b>–<b>E</b> 作答　<b>←</b> <b>→</b> 切題　<b>F</b> 標記　<b>Space</b> 下一題</div>
+        <div class="grp"><div class="ghead"><span class="lbl">距離考試</span><button class="act" id="examDateButton">設定日期</button></div><div class="count compact"><div class="big" id="countdownDays">—</div><div class="tiny" id="countdownCopy">設定日期後自動安排每日進度</div></div></div>
+        <div class="grp"><span class="lbl">今天的配額</span><div class="plan" id="homePlan"></div><button class="go compact-go" id="startPlanButton">開始今天的配額 →</button></div>
+        <div class="grp"><span class="lbl">今日複習佇列</span><div class="srs hit" id="srsQueue"></div><button class="btn full" id="startReviewButton">開始到期複習</button><p class="tiny">以裝置本地日期判斷；答對前進 1→3→7→21 天，答錯回到 1 天。</p></div>
+      </aside>
+    </section>
+
+    <section id="quizView" class="view hidden">
+      <div class="bar quizbar"><button class="pill" id="exitQuiz">← 結束</button><div class="who"><b id="quizTitle">練習</b><small id="quizSubtitle"></small></div><div class="sp"></div><span class="pill mono" id="timer">00:00</span><span class="pill mono" id="questionTimer">本題 0:00</span><button class="pill on" id="submitButton">交卷</button></div>
+      <div class="quiz">
+        <nav class="qnav"><div><span class="lbl">作答進度</span><div id="progressText" class="progress-number">0 / 0</div></div><div id="qgrid" class="qgrid"></div><div class="legend"><span><b style="background:var(--sig)"></b>已答</span><span><b style="background:var(--flag)"></b>標記</span><span><b style="background:var(--hair)"></b>未答</span></div></nav>
+        <article class="main" id="questionCard">
+          <div class="tags"><span class="tag mono" id="questionNumber"></span><span class="tag s hidden" id="specialtyTag"></span><span class="tag w hidden" id="figureTag">含圖題</span><div class="sp"></div><button class="tag" id="flagButton">⚑ 稍後再看</button><button class="tag" id="noteButton">✎ 加註記</button></div>
+          <div class="stem" id="questionStem"></div><div id="questionFigures" class="figures"></div><fieldset id="options" class="opts"><legend class="sr-only">請選擇答案</legend></fieldset><section id="feedback" class="feedback hidden"></section>
+          <div class="qbar"><button class="btn" id="prevButton">← 上一題</button><div class="sp"></div><button class="btn solid" id="nextButton">下一題 →</button></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="resultView" class="view hidden main"><div class="tags"><span class="tag s">作答完成</span></div><div class="count"><span class="lbl">本次成績</span><div class="big" id="scoreNumber">0</div><h1 id="scoreTitle"></h1><p id="scoreSummary" class="tiny"></p></div><div id="resultStats" class="heat"></div><div class="qbar"><button class="btn" data-go-home>回選範圍</button><button class="btn solid" id="reviewButton">逐題檢討</button></div></section>
+    <section id="analysisView" class="view hidden main"><div><span class="lbl">學習分析</span><div class="big">分析</div></div><div id="analysisContent"></div></section>
+  </main>
 </div>
 
-<!-- 2 匯入 -->
-<div class="card">
-  <h2><span class="n">2</span>匯入一本 FC</h2>
-  <p class="hint">建議挑最大的那本（兒科 179 MB）當壓力測試——最大的過了，其餘 18 本都沒問題。</p>
-  <div id="impBadge" class="badge b-idle">尚未匯入</div>
-  <div class="row"><button id="btnPick">選擇 PDF 檔案</button>
-    <button id="btnClear" class="ghost">清除已存資料</button></div>
-  <input id="file" type="file" accept="application/pdf,.pdf" hidden>
-  <div class="bar"><i id="impBar"></i></div>
-  <table id="impTable"></table>
-</div>
-
-<!-- 3 跳頁 -->
-<div class="card">
-  <h2><span class="n">3</span>跳頁準確度</h2>
-  <p class="hint">模擬「從 Notion 點連結跳到 FC 第 N 頁」。輸入頁碼後看渲染出來的是不是那一頁。</p>
-  <div id="jumpBadge" class="badge b-idle">等待匯入</div>
-  <div class="row">
-    <label class="f">PDF 頁次<input id="pageNo" type="number" min="1" value="36"></label>
-    <button id="btnJump" disabled>跳過去</button>
-  </div>
-  <p class="hint" style="margin:10px 0 0">
-    用 <b>PDF 頁次</b>當基準（GoodNotes 也是按 PDF 頁分頁）。書上印的頁碼會自動從頁尾讀出來對照——
-    兩者差距在整本書裡是會變動的（皮膚科從 +10 漂到 +2），所以不能用單一偏移值換算。</p>
-  <table id="jumpTable"></table>
-  <div id="canvasWrap"></div>
-</div>
-
-<!-- 4 持久性 -->
-<div class="card">
-  <h2><span class="n">4</span>重開／離線／過幾天</h2>
-  <p class="hint">這關最重要，也最容易失敗。</p>
-  <div id="persistBadge" class="badge b-idle">等待匯入</div>
-  <table id="persistTable"></table>
-  <p class="hint" style="margin:12px 0 0">
-    <b>現在測：</b>把 Safari 完全關掉再開一次本頁，看第 2 格是否直接顯示「已存在」。<br>
-    <b>再測：</b>開飛航模式重新載入，看能不能離線開啟並跳頁。<br>
-    <b>幾天後測：</b>過 7～10 天再打開本頁，看資料還在不在（上方會顯示已存放天數）。</p>
-</div>
-
-<!-- 5 連結 -->
-<div class="card">
-  <h2><span class="n">5</span>連結格式測試</h2>
-  <p class="hint">這就是未來 Notion 筆記與答題 App 會用的連結。點下去應該直接開到該頁。</p>
-  <div class="row"><a class="link" id="sampleLink" href="#">（匯入後產生）</a></div>
-</div>
-
-<div class="card">
-  <h2>總結</h2>
-  <ul class="verdict" id="verdict"><li style="color:var(--muted)">完成上面步驟後這裡會給結論。</li></ul>
-  <pre id="log">診斷紀錄：</pre>
-</div>
-</div>
-
-<script type="module">
-import * as pdfjsLib from './vendor/pdf.min.mjs';
-pdfjsLib.GlobalWorkerOptions.workerSrc = './vendor/pdf.worker.min.mjs';
-
-const $ = s => document.querySelector(s);
-const logEl = $('#log');
-const log = (...a) => { const t = new Date().toLocaleTimeString('zh-TW',{hour12:false});
-  logEl.textContent += `\n[${t}] ` + a.join(' '); };
-const mb = b => (b/1048576).toFixed(1) + ' MB';
-const setBadge = (el, cls, txt) => { el.className = 'badge ' + cls; el.textContent = txt; };
-const table = (el, rows) => el.innerHTML = rows.map(([k,v])=>`<tr><td>${k}</td><td>${v}</td></tr>`).join('');
-
-/* ---------- IndexedDB ---------- */
-const DB='fc-test', STORE='books';
-const idb = () => new Promise((res,rej)=>{
-  const r = indexedDB.open(DB,1);
-  r.onupgradeneeded = () => r.result.createObjectStore(STORE,{keyPath:'id'});
-  r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error);
-});
-const put = async rec => { const d = await idb(); return new Promise((res,rej)=>{
-  const tx = d.transaction(STORE,'readwrite'); tx.objectStore(STORE).put(rec);
-  tx.oncomplete = res; tx.onerror = () => rej(tx.error); tx.onabort = () => rej(tx.error); }); };
-const get = async id => { const d = await idb(); return new Promise((res,rej)=>{
-  const r = d.transaction(STORE,'readonly').objectStore(STORE).get(id);
-  r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error); }); };
-const wipe = async () => { const d = await idb(); return new Promise(res=>{
-  const tx = d.transaction(STORE,'readwrite'); tx.objectStore(STORE).clear(); tx.oncomplete = res; }); };
-
-/* ---------- 1. 環境 ---------- */
-let quota = 0;
-async function env(){
-  const standalone = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
-  let usage = 0, persisted = false;
-  if (navigator.storage?.estimate){ const e = await navigator.storage.estimate(); quota = e.quota||0; usage = e.usage||0; }
-  if (navigator.storage?.persisted) persisted = await navigator.storage.persisted();
-  table($('#envTable'), [
-    ['可用配額上限', quota ? mb(quota) : '瀏覽器未告知'],
-    ['目前已用', mb(usage)],
-    ['永久儲存權限', persisted ? '✅ 已取得' : '❌ 未取得'],
-    ['從主畫面啟動', standalone ? '✅ 是' : '❌ 否（在 Safari 分頁中）'],
-    ['裝置', /iPad|Macintosh/.test(navigator.userAgent) && navigator.maxTouchPoints>1 ? 'iPad'
-            : /iPhone/.test(navigator.userAgent) ? 'iPhone' : '桌機／其他']
-  ]);
-  const need = 200*1048576;
-  if (!quota) setBadge($('#envBadge'),'b-warn','配額未知，直接實測');
-  else if (quota > need) setBadge($('#envBadge'),'b-ok',`配額 ${mb(quota)}，足夠放最大的一本`);
-  else setBadge($('#envBadge'),'b-bad',`配額只有 ${mb(quota)}，可能塞不下`);
-  log('環境：配額', quota?mb(quota):'未知', '/ 已用', mb(usage), '/ 永久', persisted, '/ 主畫面', standalone);
-  return {persisted, standalone};
-}
-
-$('#btnPersist').onclick = async () => {
-  if (!navigator.storage?.persist) return alert('此瀏覽器不支援永久儲存申請');
-  const ok = await navigator.storage.persist();
-  log('申請永久儲存 →', ok ? '獲准' : '被拒');
-  alert(ok ? '✅ 已取得永久儲存權限' : '❌ 被拒絕。請先「加入主畫面」再從主畫面開啟本頁重試。');
-  env();
-};
-
-/* ---------- 2. 匯入 ---------- */
-$('#btnPick').onclick = () => $('#file').click();
-$('#btnClear').onclick = async () => { await wipe(); log('已清除本機資料'); location.reload(); };
-
-$('#file').onchange = async e => {
-  const f = e.target.files[0]; if (!f) return;
-  setBadge($('#impBadge'),'b-warn','寫入中…請勿關閉');
-  $('#impBar').style.width = '30%';
-  const t0 = performance.now();
-  try{
-    // 直接存 File（本身即 Blob），避免整份讀進記憶體
-    await put({ id:'book', name:f.name, size:f.size, blob:f, savedAt:Date.now() });
-    const dt = performance.now() - t0;
-    $('#impBar').style.width = '100%';
-    setBadge($('#impBadge'),'b-ok','✅ 寫入成功');
-    log('寫入成功', f.name, mb(f.size), `耗時 ${(dt/1000).toFixed(1)}s`);
-    await loadBook();
-  }catch(err){
-    $('#impBar').style.width = '0';
-    setBadge($('#impBadge'),'b-bad','❌ 寫入失敗：' + err.name);
-    log('寫入失敗', err.name, err.message);
-    table($('#impTable'), [['錯誤', err.name],['訊息', String(err.message).slice(0,120)],
-      ['判讀', err.name==='QuotaExceededError' ? '超過配額 → 這條路走不通，要改方案' : '見上方訊息']]);
-  }
-};
-
-/* ---------- 3. 開檔 + 跳頁 ---------- */
-let pdfDoc = null, rec = null;
-async function loadBook(){
-  rec = await get('book');
-  if (!rec){ setBadge($('#impBadge'),'b-idle','尚未匯入'); return false; }
-  const days = Math.floor((Date.now()-rec.savedAt)/86400000);
-  setBadge($('#impBadge'),'b-ok','✅ 已存在本機');
-  table($('#impTable'), [
-    ['檔名', rec.name.slice(0,42)], ['大小', mb(rec.size)],
-    ['寫入時間', new Date(rec.savedAt).toLocaleString('zh-TW')],
-    ['已存放', days + ' 天']
-  ]);
-  const t0 = performance.now();
-  try{
-    const buf = await rec.blob.arrayBuffer();
-    pdfDoc = await pdfjsLib.getDocument({ data:buf }).promise;
-    const dt = performance.now() - t0;
-    const outline = await pdfDoc.getOutline();
-    setBadge($('#jumpBadge'),'b-ok',`✅ 已開啟，共 ${pdfDoc.numPages} 頁`);
-    $('#btnJump').disabled = false;
-    table($('#persistTable'), [
-      ['資料是否還在', '✅ 在'], ['已存放天數', days + ' 天'],
-      ['開檔耗時', (dt/1000).toFixed(2) + ' 秒'],
-      ['PDF 書籤目錄', outline ? `✅ 有，${outline.length} 個頂層項目` : '❌ 無（尚未加）']
-    ]);
-    setBadge($('#persistBadge'), days>=7 ? 'b-ok' : 'b-warn',
-      days>=7 ? `✅ 已存活 ${days} 天，沒被清掉` : `已存 ${days} 天，7 天後再回來確認`);
-    log('開檔成功', pdfDoc.numPages, '頁，耗時', (dt/1000).toFixed(2)+'s', '書籤:', outline?outline.length:0);
-    const u = new URL(location.href); u.hash=''; u.search='?page=36';
-    $('#sampleLink').href = u.toString();
-    $('#sampleLink').textContent = u.toString();
-    const p = new URLSearchParams(location.search);
-    if (p.get('page')){ $('#pageNo').value = p.get('page'); jump(); }
-    verdict();
-    return true;
-  }catch(err){
-    setBadge($('#jumpBadge'),'b-bad','❌ 開檔失敗：' + err.name);
-    log('開檔失敗', err.name, err.message);
-    return false;
-  }
-}
-
-// 讀頁尾印刷頁碼，用來自我驗證「真的落在對的頁」
-async function printedPageNo(page){
-  const vp = page.getViewport({scale:1});
-  const items = (await page.getTextContent()).items
-    .filter(i => i.transform && i.transform[5] < vp.height * 0.08);
-  const m = items.map(i => i.str).join(' ').match(/\b(\d{1,3})\b/);
-  return m ? m[1] : null;
-}
-
-async function jump(){
-  if (!pdfDoc) return;
-  const target = parseInt($('#pageNo').value,10) || 1;
-  if (target < 1 || target > pdfDoc.numPages){
-    setBadge($('#jumpBadge'),'b-bad',`❌ 第 ${target} 頁超出範圍（共 ${pdfDoc.numPages} 頁）`); return;
-  }
-  setBadge($('#jumpBadge'),'b-warn','渲染中…');
-  const t0 = performance.now();
-  const page = await pdfDoc.getPage(target);
-  const dpr = Math.min(window.devicePixelRatio||1, 2);
-  const base = page.getViewport({scale:1});
-  // 版面寬度在頁面隱藏／尚未佈局時會是 0，算出來的縮放比就是 0，
-  // 會產生 0×0 畫布讓 pdf.js 永遠渲染不完 → 一律給下限。
-  const wrapW = document.querySelector('.wrap').clientWidth || window.innerWidth || 760;
-  const maxH = (window.innerHeight || 900) * 0.78;
-  // 取寬、高兩個限制中較嚴的那個，整頁才會完整入框（直式頁面通常是高度先到極限）
-  const fit = Math.min(Math.min(wrapW, 900) / base.width, maxH / base.height);
-  const scale = Math.max(fit * dpr, 1);
-  const vp = page.getViewport({scale});
-  const c = document.createElement('canvas');
-  c.width = Math.ceil(vp.width); c.height = Math.ceil(vp.height);
-  const ctx = c.getContext('2d');
-
-  // 一般路徑用 requestAnimationFrame 排程；若頁面被系統凍結（背景分頁）會永遠不觸發，
-  // 6 秒沒完成就改用 intent:'print'（pdf.js 走不依賴 rAF 的排程），避免卡死。
-  let mode = '標準';
-  const race = (p, ms) => Promise.race([p.then(()=>'ok'),
-    new Promise(r => setTimeout(()=>r('timeout'), ms))]);
-  const task = page.render({canvasContext:ctx, viewport:vp});
-  if (await race(task.promise, 6000) === 'timeout'){
-    try { task.cancel(); } catch(_){}
-    ctx.clearRect(0,0,c.width,c.height);
-    mode = '備援(print)';
-    log('rAF 未觸發，改用 intent:print');
-    await page.render({canvasContext:ctx, viewport:vp, intent:'print'}).promise;
-  }
-
-  $('#canvasWrap').replaceChildren(c);
-  const dt = performance.now() - t0;
-  const printed = await printedPageNo(page);
-  const txt = (await page.getTextContent()).items.map(i=>i.str).join('').replace(/\s+/g,'').slice(0,60);
-  const px = ctx.getImageData(0,0,c.width,Math.min(c.height,600)).data;
-  let dark = 0; for (let i=0;i<px.length;i+=4) if (px[i] < 180) dark++;
-  setBadge($('#jumpBadge'), dark>1000 ? 'b-ok' : 'b-bad',
-    dark>1000 ? `✅ 已跳到第 ${target} 頁（${dt.toFixed(0)} ms）` : `❌ 畫面是空白的`);
-  table($('#jumpTable'), [
-    ['PDF 頁次', target],
-    ['書上印的頁碼', printed ?? '（該頁沒有頁碼，通常是章節隔頁或彩圖）'],
-    ['渲染耗時 / 路徑', `${dt.toFixed(0)} ms / ${mode}`],
-    ['畫面有內容', dark>1000 ? `✅ 是（${dark} 深色像素）` : '❌ 空白'],
-    ['該頁開頭文字', txt || '（無文字）']
-  ]);
-  log('跳頁 → PDF', target, '書上', printed, `${dt.toFixed(0)}ms`, mode);
-  verdict();
-}
-$('#btnJump').onclick = jump;
-
-/* ---------- 總結 ---------- */
-async function verdict(){
-  const e = await navigator.storage?.estimate?.() ?? {};
-  const persisted = await navigator.storage?.persisted?.() ?? false;
-  const standalone = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
-  const days = rec ? Math.floor((Date.now()-rec.savedAt)/86400000) : 0;
-  const li = [];
-  const add = (ok,t) => li.push(`<li>${ok===true?'✅':ok===false?'❌':'⏳'} ${t}</li>`);
-  add(!!rec, rec ? `存得下：${mb(rec.size)} 已寫入本機` : '尚未匯入');
-  add(!!pdfDoc, pdfDoc ? `開得起來：${pdfDoc.numPages} 頁` : '尚未開檔');
-  add(persisted, persisted ? '已取得永久儲存權限' : '未取得永久儲存權限（有被自動清除的風險）');
-  add(standalone ? true : null, standalone ? '從主畫面啟動（儲存最穩）' : '目前在 Safari 分頁中——建議加到主畫面再測一次');
-  add(days>=7 ? true : null, days>=7 ? `已存活 ${days} 天` : `已存 ${days} 天——7 天後回來看還在不在`);
-  if (e.quota) li.push(`<li style="color:var(--muted)">配額 ${mb(e.quota)}，已用 ${mb(e.usage||0)}</li>`);
-  $('#verdict').innerHTML = li.join('');
-}
-
-/* ---------- 啟動 ---------- */
-(async () => {
-  await env();
-  const ok = await loadBook();
-  if (!ok) verdict();
-  if ('serviceWorker' in navigator) {
-    try { await navigator.serviceWorker.register('./sw.js'); log('離線快取已註冊'); }
-    catch(e){ log('離線快取註冊失敗', e.message); }
-  }
-})();
-</script>
-</body>
-</html>
+<dialog id="searchDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">全文搜尋</span><h2>搜尋題幹與選項</h2><input id="searchInput" type="search" placeholder="例如 Monteggia" autocomplete="off"><div id="searchResults" class="link"></div></div></dialog>
+<dialog id="noteDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">每題註記</span><h2 id="noteTitle">我的筆記</h2><textarea id="noteText" rows="7" placeholder="寫下易混淆處、口訣或複習提醒…"></textarea><button class="go" id="saveNote">儲存註記</button></div></dialog>
+<dialog id="mockDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">80 題 · 統一交卷</span><h2>選擇模擬試卷</h2><select id="mockPaper"></select><button class="go" id="startMockButton">開始計時</button></div></dialog>
+<dialog id="accountDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">跨裝置同步</span><h2>登入學習帳號</h2><div id="firebaseNotice" class="ref"></div><label>Email<input id="emailInput" type="email"></label><label>密碼<input id="passwordInput" type="password" minlength="6"></label><button class="go" id="signInButton">登入</button><button class="btn full" id="signUpButton">建立帳號</button><button class="btn full hidden" id="signOutButton">登出</button><p id="authMessage"></p></div></dialog>
+<dialog id="examDateDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">倒數讀書計畫</span><h2>設定考試日期</h2><label>考試日期<input id="examDateInput" type="date"></label><button class="go" id="saveExamDate">儲存並重算</button><p class="tiny">未完成不會累積成欠債；每天依最新資料重算。</p></div></dialog>
+<dialog id="imageDialog" class="image-dialog"><button id="closeImage">×</button><img id="largeImage" alt="題目附圖放大檢視"></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script type="module" src="app.js"></script>
+</body></html>

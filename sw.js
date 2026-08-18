@@ -1,17 +1,19 @@
-const CACHE = 'fc-test-v3';
+const CACHE = 'fc-quiz-v4';
 
 // 不會變動的資源 → cache-first
 const IMMUTABLE = ['./vendor/pdf.min.mjs', './vendor/pdf.worker.min.mjs', './icon.svg', './manifest.webmanifest'];
 // 會改版的文件 → network-first（離線時才回快取）
-const DOCS = ['./', './index.html'];
+const DOCS = ['./', './index.html', './styles.css', './app.js', './learning-core.js', './config.js'];
+const DATA = ['./questions.json'];
 
 const abs = p => new URL(p, self.registration.scope).pathname;
 const IMMUTABLE_SET = new Set(IMMUTABLE.map(abs));
 const DOCS_SET = new Set(DOCS.map(abs));
+const DATA_SET = new Set(DATA.map(abs));
 
 self.addEventListener('install', e => {
   e.waitUntil(
-    caches.open(CACHE).then(c => c.addAll([...IMMUTABLE, ...DOCS])).then(() => self.skipWaiting())
+    caches.open(CACHE).then(c => c.addAll([...IMMUTABLE, ...DOCS, ...DATA])).then(() => self.skipWaiting())
   );
 });
 
@@ -35,11 +37,20 @@ self.addEventListener('fetch', e => {
     e.respondWith(
       fetch(e.request)
         .then(res => {
-          if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(abs('./index.html'), copy)); }
+          if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(e.request, copy)); }
           return res;
         })
-        .catch(() => caches.match(abs('./index.html')))
+        .catch(() => caches.match(e.request).then(hit => hit || (e.request.mode === 'navigate' ? caches.match(abs('./index.html')) : undefined)))
     );
+    return;
+  }
+
+  // 題庫文字可離線使用，但仍以網路最新版優先；附圖與 PDF 不進 Cache。
+  if (DATA_SET.has(url.pathname)) {
+    e.respondWith(fetch(e.request).then(res => {
+      if (res.ok) caches.open(CACHE).then(c => c.put(e.request, res.clone()));
+      return res;
+    }).catch(() => caches.match(e.request)));
     return;
   }
 
