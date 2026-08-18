@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#101414"><title>科內考古</title>
-  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css?v=11">
+  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css?v=12">
 </head>
 <body>
 <a class="skip" href="#main">跳到主要內容</a>
@@ -71,10 +71,10 @@
 </div>
 
 <dialog id="searchDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">全文搜尋</span><h2>搜尋題幹與選項</h2><input id="searchInput" type="search" placeholder="例如 Monteggia" autocomplete="off"><div id="searchResults" class="link"></div></div></dialog>
-<dialog id="noteDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">每題註記</span><h2 id="noteTitle">我的筆記</h2><textarea id="noteText" rows="7" placeholder="寫下易混淆處、口訣或複習提醒…"></textarea><button class="go" id="saveNote">儲存註記</button></div></dialog>
+<dialog id="noteDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">每題註記</span><h2 id="noteTitle">我的筆記</h2><div class="note-levels"><span class="lbl">重要程度</span><div class="lvrow"><button data-level="red" aria-pressed="false"><i></i><span>要命<small>完全不會，考前一定回來</small></span></button><button data-level="yellow" aria-pressed="true"><i></i><span>沒把握<small>記得但不確定</small></span></button><button data-level="green" aria-pressed="false"><i></i><span>小提醒<small>只是補一句備忘</small></span></button></div></div><textarea id="noteText" rows="7" placeholder="寫下易混淆處、口訣或複習提醒…"></textarea><button class="go" id="saveNote">儲存註記</button></div></dialog>
 <dialog id="accountDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">跨裝置同步</span><h2>登入學習帳號</h2><div id="firebaseNotice" class="ref"></div><button class="go signin-btn" id="googleButton"><svg viewBox="0 0 18 18" width="16" height="16" aria-hidden="true"><path fill="#4285F4" d="M17.6 9.2c0-.6-.1-1.2-.2-1.8H9v3.5h4.8a4.1 4.1 0 0 1-1.8 2.7v2.2h2.9c1.7-1.6 2.7-3.9 2.7-6.6z"/><path fill="#34A853" d="M9 18c2.4 0 4.5-.8 6-2.2l-2.9-2.2c-.8.5-1.8.9-3.1.9-2.4 0-4.4-1.6-5.1-3.8H.9v2.3A9 9 0 0 0 9 18z"/><path fill="#FBBC05" d="M3.9 10.7a5.4 5.4 0 0 1 0-3.4V5H.9a9 9 0 0 0 0 8l3-2.3z"/><path fill="#EA4335" d="M9 3.6c1.3 0 2.5.5 3.4 1.3l2.6-2.6A9 9 0 0 0 .9 5l3 2.3C4.6 5.2 6.6 3.6 9 3.6z"/></svg>使用 Google 登入</button><button class="btn full signin-btn" id="appleButton"><svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M11.2 8.5c0-1.7 1.4-2.5 1.5-2.6-.8-1.2-2.1-1.3-2.5-1.3-1.1-.1-2.1.6-2.6.6-.5 0-1.4-.6-2.3-.6-1.2 0-2.3.7-2.9 1.8-1.2 2.1-.3 5.3.9 7 .6.8 1.3 1.8 2.2 1.7.9 0 1.2-.6 2.3-.6s1.4.6 2.3.5c1 0 1.6-.8 2.2-1.7.7-1 1-1.9 1-2-.1 0-1.9-.7-1.9-2.8zM9.6 3.3c.5-.6.8-1.4.7-2.3-.7 0-1.6.5-2.1 1.1-.5.5-.9 1.4-.7 2.2.8.1 1.6-.4 2.1-1z"/></svg>使用 Apple 登入</button><button class="btn full hidden" id="signOutButton">登出</button><p id="authMessage"></p><div class="danger-zone"><span class="lbl">重設資料</span><p class="tiny">清除所有作答紀錄、錯題本、複習進度與模擬考成績。測試期間的資料可以用這個清乾淨。<b>此動作無法復原。</b></p><button class="btn full danger" id="resetStatsButton">重設所有統計資料</button></div></div></dialog>
 <dialog id="examDateDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">倒數讀書計畫</span><h2>設定考試日期</h2><label>考試日期<input id="examDateInput" type="date"></label><button class="go" id="saveExamDate">儲存並重算</button><p class="tiny">未完成不會累積成欠債；每天依最新資料重算。</p></div></dialog>
 <dialog id="imageDialog" class="image-dialog"><button id="closeImage">×</button><img id="largeImage" alt="題目附圖放大檢視"></dialog>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
-<script type="module" src="app.js?v=11"></script>
+<script type="module" src="app.js?v=12"></script>
 </body></html>
