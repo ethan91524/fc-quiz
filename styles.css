@@ -50,3 +50,7 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .qnav.collapsed #qgrid,.qnav.collapsed .legend{display:none}
 .qnav.collapsed{padding-bottom:12px}
 @media(max-width:900px){.qnav{position:sticky;top:0;z-index:4}}
+
+.signin-btn{display:flex;align-items:center;justify-content:center;gap:9px}
+.signin-btn svg{flex:none}
+.signin-btn[disabled]{opacity:.45;cursor:not-allowed}

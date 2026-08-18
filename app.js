@@ -26,7 +26,7 @@ function bindEvents(){
   $$('[data-select]').forEach(b=>b.onclick=()=>toggleAll(b.dataset.select));$$('[data-reveal]').forEach(b=>b.onclick=()=>{settings.reveal=b.dataset.reveal;renderControls()});$$('[data-setting]').forEach(b=>b.onclick=()=>{settings[b.dataset.setting]=!settings[b.dataset.setting];renderControls()});
   $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#startMockButton').onclick=startMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
   $('#searchButton').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};$('#searchInput').oninput=renderSearch;$$('dialog [data-close]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
-  $('#accountButton').onclick=()=>$('#accountDialog').showModal();$('#signInButton').onclick=()=>authenticate(false);$('#signUpButton').onclick=()=>authenticate(true);$('#signOutButton').onclick=signOut;
+  $('#accountButton').onclick=()=>$('#accountDialog').showModal();$('#googleButton').onclick=()=>authenticate('google');$('#appleButton').onclick=()=>authenticate('apple');$('#signOutButton').onclick=signOut;
   $('#exitQuiz').onclick=confirmExit;$('#prevButton').onclick=()=>navigate(-1);$('#nextButton').onclick=nextAction;$('#submitButton').onclick=submitSession;(function(){const nav=$('#qnav'),btn=$('#qnavToggle');
  if(!nav||!btn)return;
  const apply=v=>{nav.classList.toggle('collapsed',v);btn.textContent=v?'展開':'收合';
@@ -48,15 +48,16 @@ function renderFilters(){
   const specialties=[...new Set(questions.map(q=>q.specialty).filter(Boolean))].sort().concat(questions.some(q=>!q.specialty)?['未分類']:[]);$('#specialtyChips').innerHTML=specialties.length?specialties.map(v=>chip('specialties',v,v,counts('specialty',v),filters.specialties.has(v))).join(''):'<span class="tiny">尚未分類；資料補上後會自動啟用。</span>';
   $('#statusChips').innerHTML=STATUS.map(([v,l])=>chip('statuses',v,l,statusPool(v).length,filters.statuses.has(v))).join('');$$('.chip').forEach(b=>b.onclick=()=>toggleChip(b));updateMatch();try{renderHero()}catch(e){}
 }
-function specialtySubject(sp){return sp==='未分類'?null:(questions.find(q=>q.specialty===sp)||{}).subject}
+function specialtySubjects(sp){const r=new Set();for(const q of questions)if(q.specialty===sp)r.add(q.subject);return r}
+function specialtySubject(sp){const r=specialtySubjects(sp);return r.size===1?[...r][0]:null}
 function toggleChip(b){const group=b.dataset.group,set=filters[group],raw=b.dataset.value,
  value=['years','sessions'].includes(group)?Number(raw):raw;
  if(set.has(value)){set.delete(value);
   // 關掉某份考卷時，把只存在於該考卷的科別一起關掉，否則交集會變 0 而看不出原因
-  if(group==='subjects')[...filters.specialties].forEach(sp=>{if(specialtySubject(sp)===value)filters.specialties.delete(sp)});
+  if(group==='subjects')[...filters.specialties].forEach(sp=>{const subs=specialtySubjects(sp);if(subs.size&&![...subs].some(x=>filters.subjects.has(x)))filters.specialties.delete(sp)});
  }else{set.add(value);
   // 選科別時自動打開它所屬的考卷——每個科別只屬於一份考卷，沒有歧義
-  if(group==='specialties'){const sub=specialtySubject(value);if(sub)filters.subjects.add(sub)}
+  if(group==='specialties'){const subs=specialtySubjects(value);if(subs.size&&![...subs].some(x=>filters.subjects.has(x)))subs.forEach(x=>filters.subjects.add(x))}
  }
  renderFilters()}
 function toggleAll(group){const prop={years:'year',sessions:'session',subjects:'subject',specialties:'specialty'}[group],values=[...new Set(questions.map(q=>q[prop]).filter(v=>v!=null))];filters[group]=filters[group].size===values.length?new Set():new Set(values);renderFilters()}
@@ -148,9 +149,32 @@ function renderAnalysis(){const attempts=state.attempts,correct=attempts.filter(
 function openImage(src){$('#largeImage').src=src;$('#imageDialog').showModal()}
 function restoreSession(){try{const saved=JSON.parse(sessionStorage.getItem(SESSION_KEY));if(saved?.ids?.length&&confirm('找到尚未完成的練習，要繼續嗎？')){session=saved;session.enteredAt=Date.now();showView('quizView');startTimer();renderQuestion()}else sessionStorage.removeItem(SESSION_KEY)}catch{sessionStorage.removeItem(SESSION_KEY)}}
 function registerServiceWorker(){if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{})}
-async function initFirebase(){ $('#firebaseNotice').textContent=firebaseEnabled?'可使用 Email／密碼登入，主題與進度會同步。':'Firebase 尚未設定，目前使用訪客模式。';if(!firebaseEnabled){$('#signInButton').disabled=true;$('#signUpButton').disabled=true;return}try{const [{initializeApp},{getAuth,onAuthStateChanged,signInWithEmailAndPassword,createUserWithEmailAndPassword,signOut:fbSignOut},{getFirestore,doc,setDoc,getDoc}]=await Promise.all([import('https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js')]);const auth=getAuth(initializeApp(firebaseConfig)),db=getFirestore();firebase={auth,db,doc,setDoc,getDoc,signInWithEmailAndPassword,createUserWithEmailAndPassword,fbSignOut};onAuthStateChanged(auth,handleUser)}catch{$('#authMessage').textContent='Firebase 載入失敗，仍可使用本機模式。'}}
+async function initFirebase(){ $('#firebaseNotice').textContent=firebaseEnabled?'可使用 Email／密碼登入，主題與進度會同步。':'Firebase 尚未設定，目前使用訪客模式。';if(!firebaseEnabled){['#googleButton','#appleButton'].forEach(k=>{const b=$(k);if(b)b.disabled=true});return}try{const [{initializeApp},{getAuth,onAuthStateChanged,GoogleAuthProvider,OAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut:fbSignOut},{getFirestore,doc,setDoc,getDoc}]=await Promise.all([import('https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js')]);const auth=getAuth(initializeApp(firebaseConfig)),db=getFirestore();firebase={auth,db,doc,setDoc,getDoc,signInWithEmailAndPassword,createUserWithEmailAndPassword,fbSignOut};onAuthStateChanged(auth,handleUser)}catch{$('#authMessage').textContent='Firebase 載入失敗，仍可使用本機模式。'}}
 async function handleUser(user){currentUser=user;$('#accountButton').textContent=user?user.email:'訪客';$('#signOutButton').classList.toggle('hidden',!user);$('#signInButton').classList.toggle('hidden',!!user);$('#signUpButton').classList.toggle('hidden',!!user);if(user)await mergeCloud()}
-async function authenticate(create){if(!firebase)return;try{await firebase[create?'createUserWithEmailAndPassword':'signInWithEmailAndPassword'](firebase.auth,$('#emailInput').value,$('#passwordInput').value);$('#accountDialog').close()}catch(e){$('#authMessage').textContent=e.code||'登入失敗'}}async function signOut(){if(firebase)await firebase.fbSignOut(firebase.auth);$('#accountDialog').close()}
+async function authenticate(kind){
+ if(!firebase)return;
+ const msg=$('#authMessage'); if(msg)msg.textContent='';
+ let provider;
+ if(kind==='google'){provider=new firebase.GoogleAuthProvider();provider.setCustomParameters({prompt:'select_account'})}
+ else{provider=new firebase.OAuthProvider('apple.com');provider.addScope('email');provider.addScope('name')}
+ try{
+  await firebase.signInWithPopup(firebase.auth,provider);
+  $('#accountDialog').close();
+ }catch(e){
+  // iPad Safari 常擋彈出視窗；改用整頁轉址，回來後由 getRedirectResult 收尾
+  if(['auth/popup-blocked','auth/popup-closed-by-user','auth/cancelled-popup-request','auth/operation-not-supported-in-this-environment'].includes(e.code)){
+   try{ await firebase.signInWithRedirect(firebase.auth,provider); return }catch(e2){ if(msg)msg.textContent=authError(e2) }
+  }else if(msg) msg.textContent=authError(e);
+ }
+}
+function authError(e){
+ const c=e&&e.code||'';
+ if(c==='auth/unauthorized-domain')return '這個網域還沒加進 Firebase 的授權清單（Authentication → Settings → 已授權網域）。';
+ if(c==='auth/operation-not-allowed')return '這個登入方式在 Firebase 尚未啟用。';
+ if(c==='auth/account-exists-with-different-credential')return '這個 Email 已用另一種方式登入過，請改用原本那種。';
+ return c||'登入失敗';
+}
+async function signOut(){if(firebase)await firebase.fbSignOut(firebase.auth);$('#accountDialog').close()}
 async function syncToCloud(){if(currentUser&&firebase)try{await firebase.setDoc(firebase.doc(firebase.db,'users',currentUser.uid),{...state,updatedAt:new Date().toISOString()},{merge:true})}catch{toast('雲端同步失敗，本機資料已保留')}}
 async function mergeCloud(){try{const snap=await firebase.getDoc(firebase.doc(firebase.db,'users',currentUser.uid));if(snap.exists()){const cloud=snap.data();state={...state,...cloud,attempts:dedupe([...state.attempts,...(cloud.attempts||[])],a=>a.id+'|'+a.at),exams:dedupe([...state.exams,...(cloud.exams||[])],e=>e.id),wrong:{...(cloud.wrong||{}),...state.wrong},flags:{...(cloud.flags||{}),...state.flags},notes:{...(cloud.notes||{}),...state.notes},srs:{...(cloud.srs||{}),...state.srs},dailyCompletions:{...(cloud.dailyCompletions||{}),...state.dailyCompletions}};saveState();setTheme(state.theme,false);renderHome()}await syncToCloud()}catch{toast('讀取雲端資料失敗')}}function dedupe(a,key){const s=new Set;return a.filter(x=>{const k=key(x);if(s.has(k))return false;s.add(k);return true})}
 boot();
