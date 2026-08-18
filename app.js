@@ -136,13 +136,24 @@ function startDueReview(){const ids=new Set(dueIds(state.srs)),pool=questions.fi
 function startDailyPlan(){if(!state.examDate)return openExamDate();const p=currentPlan(),review=new Set(p.reviewIds),seen=new Set(review),unseen=questions.filter(q=>!state.attempts.some(a=>a.id===q.id)&&!seen.has(q.id)),by=k=>unseen.filter(q=>(q.specialty||q.subject||'尚未分類')===k),attack=shuffle(by(p.weak)).slice(0,p.attack);attack.forEach(q=>seen.add(q.id));let maintain=shuffle(by(p.strong).filter(q=>!seen.has(q.id))).slice(0,p.maintain),need=p.attack+p.maintain-attack.length-maintain.length;if(need>0)maintain=maintain.concat(shuffle(unseen.filter(q=>!seen.has(q.id)&&!attack.includes(q))).slice(0,need));const pool=[...questions.filter(q=>review.has(q.id)),...attack,...maintain];if(!pool.length)return toast('今天沒有待完成題目');startSession(pool,'plan','今天的讀書計畫',false)}
 // 模擬考改成完整頁面（原本是彈窗的下拉選單，看不到哪幾份做過）：
 // 依年度→梯次分組列出 48 份考卷，每份直接顯示做過沒、上次幾分。
+// 醫學(三)(四)(五)(六) 的順序不能靠 localeCompare——中文數字排出來是 三五六四
+const SUBJECT_ORDER=['醫學(三)','醫學(四)','醫學(五)','醫學(六)'];
+const subjectRank=s=>{const i=SUBJECT_ORDER.indexOf(s);return i<0?99:i};
+function fillOnce(sel,values,allLabel,fmt=v=>v){const el=$(sel);if(!el||el.dataset.filled)return;
+ el.innerHTML=`<option value="">${allLabel}</option>`+values.map(v=>`<option value="${v}">${fmt(v)}</option>`).join('');
+ el.dataset.filled='1';el.onchange=openMock}
 function openMock(){
  // exams 的 id 是 randomUUID，對不到考卷；用 startMock 寫入的 title 當鍵，取最後一次
  const done=new Map(state.exams.map(e=>[e.title,e]));
+ fillOnce('#mockYear',[...new Set(questions.map(q=>q.year))].sort((a,b)=>b-a),'全部年度',v=>`${v} 年`);
+ fillOnce('#mockSession',[...new Set(questions.map(q=>q.session))].sort(),'全部梯次',v=>`第 ${v===1?'一':'二'}次`);
+ fillOnce('#mockSubject',[...new Set(questions.map(q=>q.subject))].sort((a,b)=>subjectRank(a)-subjectRank(b)),'全部考卷');
+ const fy=$('#mockYear')?.value,fs=$('#mockSession')?.value,fb=$('#mockSubject')?.value;
  const papers=[...new Set(questions.map(q=>`${q.year}|${q.session}|${q.subject}`))]
    .map(k=>{const [year,ses,subject]=k.split('|');return{key:k,year:+year,session:+ses,subject,
      n:questions.filter(q=>q.year===+year&&q.session===+ses&&q.subject===subject).length}})
-   .sort((a,b)=>b.year-a.year||b.session-a.session||a.subject.localeCompare(b.subject,'zh-Hant'));
+   .filter(p=>(!fy||p.year===+fy)&&(!fs||p.session===+fs)&&(!fb||p.subject===fb))
+   .sort((a,b)=>b.year-a.year||b.session-a.session||subjectRank(a.subject)-subjectRank(b.subject));
  const groups=[...new Set(papers.map(p=>`${p.year}-${p.session}`))];
  $('#mockPapers').innerHTML=groups.map(g=>{const [y,s]=g.split('-');
   return`<div class="paper-group"><div class="paper-group-head"><span class="lbl">${y} 年 第 ${s==='1'?'一':'二'}次</span></div>${
@@ -150,6 +161,7 @@ function openMock(){
     return`<div class="paper-row"><span class="paper-tag">醫師</span><b class="paper-name">${p.year}-${p.session} · 醫師二階 · ${escapeHtml(p.subject)}</b><span class="paper-meta">${p.n} 題</span>${
      rec?`<span class="paper-score">上次 ${rec.correct}/${rec.total}</span>`:'<span class="paper-score none">未作答</span>'
     }<button class="btn solid paper-go" data-mock="${p.key}">開始計時 →</button></div>`}).join('')}</div>`}).join('');
+ if(!papers.length)$('#mockPapers').innerHTML='<p class="tiny">這個條件下沒有考卷。</p>';
  $$('[data-mock]').forEach(b=>b.onclick=()=>startMock(b.dataset.mock));
  showView('mockView');
 }

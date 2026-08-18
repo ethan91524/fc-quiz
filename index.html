@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#101414"><title>科內考古</title>
-  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css?v=10">
+  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css?v=11">
 </head>
 <body>
 <a class="skip" href="#main">跳到主要內容</a>
@@ -66,7 +66,7 @@
 
     <section id="resultView" class="view hidden main"><div class="tags"><span class="tag s">作答完成</span></div><div class="count"><span class="lbl">本次成績</span><div class="big" id="scoreNumber">0</div><h1 id="scoreTitle"></h1><p id="scoreSummary" class="tiny"></p></div><div id="resultStats" class="heat"></div><div class="qbar"><button class="btn" data-go-home>回選範圍</button><button class="btn solid" id="reviewButton">逐題檢討</button></div></section>
     <section id="analysisView" class="view hidden main"><div><span class="lbl">學習分析</span><div class="big">分析</div></div><div id="analysisContent"></div></section>
-    <section id="mockView" class="view hidden main"><div class="mock-head"><div><span class="lbl">80 題 · 統一交卷 · 比照國考節奏</span><div class="big">模擬考</div></div><p class="tiny">選一份考卷，整卷 80 題一次做完再交卷。計時開始後可暫停。</p></div><div id="mockPapers" class="paper-list"></div></section>
+    <section id="mockView" class="view hidden main"><div class="mock-head"><div><span class="lbl">80 題 · 統一交卷 · 比照國考節奏</span><div class="big">模擬考</div></div><p class="tiny">選一份考卷，整卷 80 題一次做完再交卷。計時開始後可暫停。</p></div><div class="mock-filters"><span class="paper-tag">醫師 · 二階</span><label><span class="lbl">年度</span><select id="mockYear"></select></label><label><span class="lbl">梯次</span><select id="mockSession"></select></label><label><span class="lbl">考卷</span><select id="mockSubject"></select></label></div><div id="mockPapers" class="paper-list"></div></section>
   </main>
 </div>
 
@@ -76,5 +76,5 @@
 <dialog id="examDateDialog"><div class="dialog-card"><button class="dialog-close" data-close>×</button><span class="lbl">倒數讀書計畫</span><h2>設定考試日期</h2><label>考試日期<input id="examDateInput" type="date"></label><button class="go" id="saveExamDate">儲存並重算</button><p class="tiny">未完成不會累積成欠債；每天依最新資料重算。</p></div></dialog>
 <dialog id="imageDialog" class="image-dialog"><button id="closeImage">×</button><img id="largeImage" alt="題目附圖放大檢視"></dialog>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
-<script type="module" src="app.js?v=10"></script>
+<script type="module" src="app.js?v=11"></script>
 </body></html>
