@@ -45,14 +45,14 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
   border-radius:var(--r);overflow:hidden}
 .hero-band{display:flex;justify-content:space-between;align-items:flex-end;gap:26px;
   padding:30px 28px 20px;flex-wrap:wrap}
-.hero-kicker{display:block;font-size:10.5px;letter-spacing:.24em;text-transform:uppercase;
+.hero-kicker{display:block;font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;
   color:var(--sig);font-weight:800;margin-bottom:10px}
-.hero-title{margin:0;font-size:clamp(46px,9vw,104px);line-height:.86;letter-spacing:-.055em;
+.hero-title{margin:0;font-size:clamp(54px,11vw,128px);line-height:.86;letter-spacing:-.055em;
   font-weight:900;color:var(--ink)}
-.hero-sub{margin:14px 0 0;font-size:clamp(15px,1.9vw,20px);color:var(--ink2);font-weight:600;
+.hero-sub{margin:14px 0 0;font-size:clamp(16px,2.1vw,23px);color:var(--ink2);font-weight:600;
   letter-spacing:-.01em}
 .hero-days{text-align:right;flex:none}
-.hero-num{font-size:clamp(52px,8vw,92px);line-height:.85;font-weight:900;letter-spacing:-.05em;
+.hero-num{font-size:clamp(56px,9vw,104px);line-height:.85;font-weight:900;letter-spacing:-.05em;
   color:var(--sig);font-variant-numeric:tabular-nums;margin:6px 0 4px}
 .hero-exam{border:0;background:none;color:var(--muted);font:inherit;font-size:11.5px;
   text-decoration:underline;cursor:pointer;padding:0}
@@ -61,7 +61,7 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .hero-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));
   gap:1px;background:var(--hair);border-top:1px solid var(--hair)}
 .hero-stats>div{background:var(--panel);padding:13px 16px}
-.hero-stats b{display:block;font-size:27px;font-weight:800;letter-spacing:-.03em;
+.hero-stats b{display:block;font-size:31px;font-weight:800;letter-spacing:-.03em;
   font-variant-numeric:tabular-nums;margin-top:2px}
 .hero-stats small{font-size:10.5px;color:var(--muted);margin-left:3px}
 .hero-go{display:block;width:100%;border:0;border-top:1px solid var(--hair);

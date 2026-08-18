@@ -1,5 +1,5 @@
 import { firebaseConfig, firebaseEnabled } from './config.js';
-import {addLocalDays,buildDailyPlan,classifyQuestion,dueIds,fcKey,localDateKey,queueBuckets,speedStats,subjectStats,updateSrs} from './learning-core.js';
+import {addLocalDays,buildDailyPlan,classifyQuestion,dueIds,fcKey,localDateKey,queueBuckets,speedStats,subjectStats,updateSrs} from './learning-core.js?v=8';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const STORAGE_KEY='fc-quiz-state-v2',SESSION_KEY='fc-quiz-session-v2',THEME_KEY='fc-quiz-theme';
 const ASSET_BASE='./';
