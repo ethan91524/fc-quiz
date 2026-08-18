@@ -27,7 +27,14 @@ function bindEvents(){
   $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#startMockButton').onclick=startMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
   $('#searchButton').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};$('#searchInput').oninput=renderSearch;$$('dialog [data-close]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
   $('#accountButton').onclick=()=>$('#accountDialog').showModal();$('#signInButton').onclick=()=>authenticate(false);$('#signUpButton').onclick=()=>authenticate(true);$('#signOutButton').onclick=signOut;
-  $('#exitQuiz').onclick=confirmExit;$('#prevButton').onclick=()=>navigate(-1);$('#nextButton').onclick=nextAction;$('#submitButton').onclick=submitSession;$('#flagButton').onclick=toggleFlag;$('#noteButton').onclick=openNote;$('#saveNote').onclick=saveNote;$('#reviewButton').onclick=startReview;
+  $('#exitQuiz').onclick=confirmExit;$('#prevButton').onclick=()=>navigate(-1);$('#nextButton').onclick=nextAction;$('#submitButton').onclick=submitSession;(function(){const nav=$('#qnav'),btn=$('#qnavToggle');
+ if(!nav||!btn)return;
+ const apply=v=>{nav.classList.toggle('collapsed',v);btn.textContent=v?'展開':'收合';
+   btn.setAttribute('aria-expanded',String(!v));localStorage.setItem('fc-qnav',v?'1':'0')};
+ apply(localStorage.getItem('fc-qnav')==='1');
+ btn.onclick=()=>apply(!nav.classList.contains('collapsed'));
+})();
+$('#flagButton').onclick=toggleFlag;$('#noteButton').onclick=openNote;$('#saveNote').onclick=saveNote;$('#reviewButton').onclick=startReview;
   $('#installNote button').onclick=()=>{$('#installNote').remove();localStorage.setItem('fc-install-note','dismissed')};$('#closeImage').onclick=()=>$('#imageDialog').close();$('#imageDialog').onclick=e=>{if(e.target===$('#imageDialog'))e.currentTarget.close()};
   document.addEventListener('keydown',keyboard);$('#questionCard').addEventListener('touchstart',e=>touchStartX=e.changedTouches[0].screenX,{passive:true});$('#questionCard').addEventListener('touchend',e=>{const d=e.changedTouches[0].screenX-touchStartX;if(Math.abs(d)>75)navigate(d>0?-1:1)},{passive:true});
 }
