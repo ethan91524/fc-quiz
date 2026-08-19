@@ -1,4 +1,4 @@
-const CACHE = 'fc-quiz-v12';
+const CACHE = 'fc-quiz-v13';
 
 // 不會變動的資源 → cache-first
 const IMMUTABLE = ['./vendor/pdf.min.mjs', './vendor/pdf.worker.min.mjs', './icon.svg', './manifest.webmanifest'];
