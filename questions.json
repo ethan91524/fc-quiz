@@ -311,12 +311,12 @@
   "specialty": "心臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "ACE inhibitor 或 ARB 可抑制腎素－血管張力素系統，在射出分率降低型心衰竭（HFrEF）中能改善症狀與預後；本題年代的治療架構將其列為優先用藥。現行治療通常優先考慮 ARNI 取代 ACE inhibitor/ARB。",
-   "B": "carvedilol、bisoprolol 等具實證的 β-blocker 能降低 HFrEF 死亡與住院；應在病人循環穩定且沒有明顯鬱血時開始或調升，而非只用來消水腫。",
-   "C": "aldosterone antagonist（較精確稱 mineralocorticoid receptor antagonist）改善 HFrEF 預後的效益不以有無水腫為前提，但使用前後需監測血鉀與腎功能。",
-   "D": "正確答案。口服 nitrate 與 hydralazine 並非所有 HFrEF 病人的普遍第一線組合；主要用於無法使用腎素－血管張力素系統抑制劑者，或特定仍有症狀族群的加成治療。",
-   "summary": "HFrEF 的預後治療以神經荷爾蒙阻斷為核心；hydralazine–nitrate 是特定情境的替代或加成，而非普遍優先。",
-   "guideline": "[TODO] 題目採舊版治療架構；需與現行 HFrEF 四大支柱治療指引對照"
+   "A": "本項不選。ACE inhibitor 或 ARB 是 HFrEF 最早被證實能降低死亡率的藥。現行架構更進一步，能耐受的人改用 ARNI（sacubitril/valsartan）取代 ACEI，效果又更好。",
+   "B": "本項不選。beta-blocker 要在**沒有明顯水腫、血流動力穩定**時才開始，這正是選項強調「臨無水腫」的原因。急性代償不全時先利尿，穩定後再從小劑量慢慢加。有實證的只有 carvedilol、bisoprolol、metoprolol succinate。",
+   "C": "本項不選。aldosterone antagonist 用在 HFrEF 不是為了利尿，而是阻斷醛固酮造成的心肌纖維化。所以沒有水腫也該用，要監測的是血鉀與腎功能。",
+   "D": "本項應選。nitrate 加 hydralazine 不是優先選擇，它的定位是兩種情況：完全無法使用 ACEI／ARB／ARNI 的人，或已用足四大支柱仍有症狀的非裔族群加藥。把它排在第一線是本題的錯誤。",
+   "summary": "HFrEF 現在背四大支柱：ARNI／ACEI、beta-blocker、MRA、SGLT2 inhibitor；nitrate 加 hydralazine 是備案不是首選。",
+   "guideline": "現行 HFrEF 四大支柱：ARNI/ACEI/ARB、beta-blocker、MRA、SGLT2 inhibitor"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -826,12 +826,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "多數單純大腸憩室炎（acute uncomplicated diverticulitis）不需要手術，可依嚴重度採支持療法與選擇性抗生素；穿孔、腹膜炎、無法控制的感染或反覆複雜病程才考慮手術。",
-   "B": "腹部單純 X 光對憩室炎缺乏敏感度與特異性；需要影像確認及評估膿瘍、穿孔時，以腹部骨盆 CT 較合適。",
-   "C": "正確。題目所採資料認為 mesalazine 的抗發炎作用可減少症狀性單純憩室疾病（symptomatic uncomplicated diverticular disease）復發；但其例行使用在後續研究與現行指引中仍有爭議，[TODO] 需依題目年代所採指引核對。",
-   "D": "吸菸與憩室炎及其併發症風險增加有關，因此說吸菸並非危險因子並不恰當。",
-   "summary": "憩室炎主要靠 CT 評估且多數不需手術；本題 mesalazine 的舊式定位需留意指引年代差異。",
-   "guideline": "[TODO] mesalazine 預防症狀性憩室疾病復發之建議需核對題目年代指引"
+   "A": "本項不選。大部分急性憩室炎屬非複雜性，靠抗生素與飲食調整就能緩解。要開刀的是有膿瘍引流失敗、穿孔腹膜炎、廔管或狹窄的複雜性個案。",
+   "B": "本項不選。腹部平片只能看有無自由氣體或腸阻塞，看不到憩室發炎。診斷首選是**腹部電腦斷層**，它能同時判斷嚴重度與有沒有膿瘍。急性期不做大腸鏡，怕穿孔。",
+   "C": "本項應選。mesalazine 這類抗發炎藥用於症狀性憩室疾病，可減少症狀復發。這反映一個觀念轉變：憩室疾病不只是機械性問題，也有慢性低度發炎的成分。",
+   "D": "本項不選。抽菸**是**危險因子，還有肥胖、缺乏運動、紅肉攝取多、纖維攝取少。這些也正是可以衛教改變的地方。",
+   "summary": "憩室炎診斷靠 CT 不是平片、急性期不做大腸鏡；抽菸與低纖維飲食都是可以改的危險因子。",
+   "guideline": null
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -991,11 +991,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "腎因性全身纖維化（nephrogenic systemic fibrosis）與嚴重腎功能不全者暴露特定 gadolinium-based contrast agents 有關，可造成皮膚硬化、關節攣縮及全身纖維化，外觀可類似 scleromyxedema。",
-   "B": "CKD 第 3 期使用 gadolinium 的風險遠低於 eGFR <30 mL/min/1.73 m² 或急性腎損傷；是否使用應依 eGFR、製劑穩定性與檢查必要性選擇，不能只以「減量」概括所有製劑。[TODO] 需依現行放射學指引核對題目年代所指 gadolinium 分類與劑量策略。",
-   "C": "肝臟疾病本身並非主要機轉，但嚴重肝病患者若合併腎功能不全、肝腎症候群或肝移植前後急性腎損傷，曾被列為腎因性全身纖維化的高風險臨床情境。",
-   "D": "血液透析可以清除循環中的 gadolinium，，證明此敘述不成立；然而透析不能保證完全預防已暴露者發生腎因性全身纖維化，也不應為了 gadolinium 暴露而在原本不透析者新建透析通路。",
-   "summary": "腎因性全身纖維化的關鍵風險是嚴重腎功能不全暴露 gadolinium；hemodialysis 能清除 gadolinium，但不能保證消除發病風險。",
+   "A": "本項不選。腎因性全身纖維化確實與含 gadolinium 的顯影劑有關，皮膚變厚變硬、關節攣縮，外觀與 scleromyxedema 相似。差別在它會侵犯內臟纖維化，預後更差。",
+   "B": "本項不選。風險主要集中在 eGFR 低於 30 或急性腎損傷的人。CKD 第 3 期風險低很多，臨床上會權衡檢查必要性後使用，並優先選穩定度高的巨環類（macrocyclic）製劑。",
+   "C": "本項不選。肝臟疾病、肝腎症候群與肝移植前後都被列為危險因子，因為這些狀況常伴隨腎功能不穩。發炎狀態與代謝性酸中毒也會促進 gadolinium 從螯合物游離出來。",
+   "D": "本項應選。血液透析**清得掉** gadolinium，第一次透析就能移除約八成。所以高風險病人若非做顯影檢查不可，會安排檢查後儘快透析。說它清不掉，等於否定了現行的補救做法。",
+   "summary": "NSF 的高風險是 eGFR<30 或急性腎損傷；真的打了顯影劑，透析清得掉——第一次就能移除約八成。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -2244,12 +2244,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。Jarisch–Herxheimer reaction 在早期梅毒治療後並不少見，二級梅毒的發生比例可明顯高於 15%；通常在治療後數小時出現發燒、寒顫與症狀暫時惡化。",
-   "B": "非懷孕且無神經梅毒的 penicillin 過敏患者可考慮 doxycycline；azithromycin 因抗藥性與治療失敗疑慮，不宜視為可靠常規方案。[TODO] 題目年代所採替代療法需與當時指引核對。",
-   "C": "二級梅毒（secondary syphilis）可伴扁平濕疣（condyloma lata）等生殖器或會陰病灶；題述約 15% 的精確比例需依原始教材核對，但並非本題指定錯項。[TODO] 檢驗切點／流行病學比例待核。",
-   "D": "二級梅毒菌量高，VDRL 或 RPR 等非梅毒螺旋體試驗通常呈陽性；若臨床高度懷疑但陰性，要考慮 prozone phenomenon 並要求稀釋檢測。",
-   "summary": "二級梅毒治療後 Jarisch–Herxheimer reaction 並非少於 15%；另須留意 azithromycin 已非可靠替代方案的指引演變。",
-   "guideline": "[TODO] 需核對現行梅毒治療指引與題目年代差異"
+   "A": "本項應選。Jarisch–Herxheimer reaction 在二期梅毒治療後很常見，遠遠不只 15%。多數文獻落在五成上下，二期的系列報告還更高。它是螺旋體被殺死後釋放的發炎反應，治療後數小時發燒、寒顫、皮疹暫時變明顯，通常一天內自行緩解。事先跟病人說清楚，他才不會以為是過敏而停藥。",
+   "B": "本項敘述正確。penicillin 過敏又不是孕婦、也沒有神經侵犯時，doxycycline 是常用替代。azithromycin 曾被列為選項，但 23S rRNA 抗藥突變造成治療失敗的報告變多，現在不建議當常規。真正該做的是評估減敏後仍用 penicillin。",
+   "C": "本項敘述正確。二期梅毒的生殖器或會陰病灶以扁平濕疣（condyloma lata）為代表，發生率大約一到二成，題目寫的 15% 落在這個範圍。它是潮濕部位的扁平隆起，含大量螺旋體、傳染力很強。",
+   "D": "本項敘述正確。二期梅毒體內螺旋體量最高，RPR 或 VDRL 幾乎都會陽性而且效價很高。要注意 prozone phenomenon：抗體太多反而讓未稀釋的檢體呈現陰性，臨床高度懷疑時要請檢驗室稀釋後重驗。",
+   "summary": "二期梅毒治療後發燒不要當過敏：Jarisch–Herxheimer 很常見，遠不只 15%；RPR 陰性時先想 prozone。",
+   "guideline": "CDC STI Treatment Guidelines（早期梅毒首選 benzathine penicillin G 240 萬單位單次肌肉注射）"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2283,12 +2283,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "Totally controlled 要求沒有日間症狀、夜醒與急救藥需求，且肺功能正常；本例每週需 SABA 3–4 次、偶有夜醒且 PEF 只有預測值 75%，顯然不符合。",
-   "B": "Well controlled 也不能合理容納本例頻繁急救藥使用、夜間症狀及 PEF 降低三項異常，因此不能評為控制良好。",
-   "C": "Partly controlled 可由日間或急救藥使用偏多、夜醒、活動受限或肺功能下降等控制不佳特徵構成；本例符合多項，故官方將 C 列為給分答案之一。",
-   "D": "Uncontrolled 在舊版控制分級中可由同週出現三項以上 partly controlled 特徵判定；本例有急救藥每週 3–4 次、夜醒及 PEF 75% 三項，因此 D 亦可成立，官方更正為 C、D 均給分。",
-   "summary": "本題依舊版症狀控制表可能落在 partly controlled 或因同週三項異常而列 uncontrolled，故官方 C、D 皆給分。",
-   "guideline": "FC 醫學(三)第1冊 p.326；[TODO] 題目採舊版氣喘控制分級，需與現行 GINA symptom control 定義對照",
+   "A": "本項不選。完全控制的定義是四項全零：沒有日間症狀、沒有活動限制、沒有夜間症狀、沒有用急救藥。這位病人一週用 3 到 4 次急救藥又會夜咳醒來，差得遠。",
+   "B": "本項不選。良好控制要求急救藥每週不超過 2 次、沒有夜間症狀。他兩項都不符合。",
+   "C": "本項是官方接受的答案之一。部分控制的定義是**符合 1 到 2 項**未達標。若把「一週用急救藥超過 2 次」與「有夜間症狀」算成兩項，就落在部分控制。",
+   "D": "本項也是官方接受的答案。未控制的定義是符合 3 項以上。這位病人若把急救藥使用、夜間症狀、以及尖峰流量只有預測值 75%（低於 80%）一起算，就滿三項。**分歧點在於尖峰流量算不算一項**，這也是官方兩個答案都給分的原因。",
+   "summary": "氣喘控制分級數的是「幾項沒達標」：1–2 項是部分控制、3 項以上是未控制；急救藥每週超過 2 次就算一項。",
+   "guideline": "官方更正：本題答 C、D 均給分",
    "concepts": [
     "asthma-control-classification-legacy"
    ]
@@ -2319,13 +2319,12 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "維持原治療而不調整，無法處理前題每週多次急救藥需求、夜醒與 PEF 降低所顯示的控制不足；正常日常運動量不能抵銷其他控制不佳指標。",
-   "B": "單純增加必要時 SABA 會掩蓋症狀卻不加強氣道抗發炎控制，且過度依賴 SABA 與氣喘惡化風險相關，因此不是最佳調整方式。",
-   "C": "依本題使用的治療階梯，規則加入長效乙二型支氣管擴張劑（LABA）可作為既有吸入型類固醇（ICS）的升階治療；LABA 不應在氣喘中脫離 ICS 單獨使用。",
-   "D": "必要時口服類固醇不適合作為反覆胸悶的日常控制策略；全身性類固醇主要用於急性惡化的短期治療，反覆使用會增加全身副作用。",
-   "summary": "使用 ICS 仍控制不佳應先確認技巧與順從性後升階含 ICS 的控制治療，而不是增加 SABA 或把口服類固醇當作隨需藥。",
-   "guideline": "[TODO] 題目採舊版固定 ICS 加 LABA 階梯；現行 GINA 偏好含 ICS-formoterol 的 track 需另行對照",
-   "concepts": []
+   "A": "本項不選。他一週用 3 到 4 次急救藥又有夜間症狀，代表目前的治療壓不住，繼續維持只會讓氣道發炎持續累積。",
+   "B": "本項不選。增加短效支氣管擴張劑只是壓症狀，沒有處理背後的發炎。**用越多急救藥反而是控制越差的指標**，也和更高的急性發作與死亡風險相關。",
+   "C": "本項應選。已在用吸入型類固醇卻仍未控制，下一步是**加上長效乙二型支氣管擴張劑（LABA）**，也就是升到 ICS-LABA 合併治療。要注意 LABA 絕不能單獨使用，一定要跟 ICS 一起。現行 GINA 更偏好以 ICS-formoterol 同時當維持與緩解用藥。",
+   "D": "本項不選。口服類固醇是急性惡化時的短期救援，不是慢性控制的階梯。長期使用會帶來骨鬆、血糖上升、感染與腎上腺抑制。",
+   "summary": "氣喘控制不好時要加的是抗發炎那條線（ICS 加 LABA），不是加急救藥；LABA 永遠不能單獨用。",
+   "guideline": "現行 GINA 偏好 ICS-formoterol 同時作為維持與緩解治療"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -4137,12 +4136,12 @@
   "specialty": "小兒科",
   "fc_ref": null,
   "explanation": {
-   "A": "這題不選。苯酮尿症（phenylketonuria）篩檢以 phenylalanine 升高為主要訊號，因 phenylalanine hydroxylase 缺陷會使它累積。",
-   "B": "這題不選。高胱胺酸尿症（homocystinuria）可在新生兒篩檢以 methionine 異常升高作初篩，再以後續檢驗確認。",
-   "C": "這題不選。先天性甲狀腺低下（congenital hypothyroidism）以 TSH 篩檢，可在症狀尚不明顯時找出需要 levothyroxine 的嬰兒。",
-   "D": "這題要選。先天性腎上腺增生症（congenital adrenal hyperplasia）新生兒篩檢通常測 17-hydroxyprogesterone，不是 androgen；androgen 會受年齡與生理變動影響。",
-   "summary": "新生兒篩檢配對要記成 PKU 看 phenylalanine、甲低看 TSH、CAH 看 17-hydroxyprogesterone。",
-   "guideline": null
+   "A": "本項不選。苯酮尿症篩的就是血中 phenylalanine 升高。確診後要終身限制苯丙胺酸飲食，避免智能障礙。",
+   "B": "本項不選。高胱胺酸尿症篩 methionine。這個病未治療會有晶狀體脫位、骨骼像 Marfan、血栓與智能障礙。",
+   "C": "本項不選。先天性甲狀腺低能症用 TSH 篩檢。這是新生兒篩檢裡效益最高的項目之一——及早補充甲狀腺素就能完全避免智能障礙。",
+   "D": "本項應選。先天性腎上腺增生症篩的是 **17-hydroxyprogesterone**，不是雄性素。因為最常見的 21-hydroxylase 缺乏會讓 17-OHP 大量堆積在酵素阻斷點的上游。及早發現的意義是避免失鹽危象致命。",
+   "summary": "先天性腎上腺增生症篩 17-OHP——它是 21-hydroxylase 缺乏時堆在上游的那個代謝物，不是驗雄性素。",
+   "guideline": "國健署新生兒篩檢項目（CAH 以 17-OHP 為初篩指標）"
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5236,12 +5235,12 @@
    "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
   },
   "explanation": {
-   "A": "思覺失調症（schizophrenia）的整體疾病徵象須持續至少 6 個月，其中至少 1 個月符合活動期症狀；不是要求題述症狀持續一年。",
-   "B": "強制住院並非經兩名精神科專科醫師即可逕行 60 天；依臺灣精神衛生法尚涉及指定精神醫療機構、審查程序與法定期間。[TODO] 本題年代所適用條文與當時期限須核對。",
-   "C": "注意力不足／過動症（attention-deficit/hyperactivity disorder）不是診斷思覺失調症前一律必須排除的疾病；重點是排除物質、身體疾病與情感性或其他精神病性疾患。",
-   "D": "正確。Risperidone 是可治療思覺失調症的第二代抗精神病藥物；成人可由低劑量開始，2 mg 為合理起始處方之一，再依反應與副作用調整。",
-   "summary": "思覺失調症需總病程至少 6 個月；risperidone 可用於治療，而強制住院須遵循臺灣法定程序。",
-   "guideline": "FC 醫學(四)第3冊 p.21；[TODO] 臺灣精神衛生法題目年代版本",
+   "A": "本項不選。DSM-5 的思覺失調症要求症狀持續至少 6 個月，不是一年。1 到 6 個月是 schizophreniform disorder，不到 1 個月是 brief psychotic disorder。這三個時間門檻是必考題。",
+   "B": "本項不選。台灣的強制住院從來不是兩位醫師就能「逕行」。舊制要經兩位以上專科醫師鑑定為嚴重病人，再向審查會申請許可，每次不超過 60 天。2022 年修正的精神衛生法改採法官保留，由法院裁定，2024 年 12 月起施行。不論哪個版本，都少不了醫師以外的第三方把關。",
+   "C": "本項不選。ADHD 不是思覺失調症的排除條件，兩者可以並存。真正要排除的是物質使用、一般醫學狀況，以及情感性精神病（要看情緒症狀與精神病症狀的時間關係）。",
+   "D": "本項應選。risperidone 是第二代抗精神病藥，起始 1 到 2 mg 是常見劑量，用來處理妄想與命令式幻聽都合理。要注意它在較高劑量時 EPS 與 prolactin 上升的機會會增加。",
+   "summary": "思覺失調症的時間門檻背 6 個月；台灣強制住院不論新舊制都要第三方把關，不是兩個醫師說了算。",
+   "guideline": "精神衛生法 2022 年修正（2024 年 12 月施行）：強制住院改由法院裁定",
    "concepts": [
     "dsm-psychotic-duration"
    ]
@@ -12274,12 +12273,12 @@
   "specialty": "心臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。無症狀、未剝離的 4 cm 降胸主動脈瘤通常先控制血壓與影像追蹤；題目採每年 CT 並以一年增大超過 1 cm 作轉介手術警訊。[TODO] 現行指引的追蹤間隔與快速增長切點需依病因及量測方式核對。",
-   "B": "立刻外科手術不符合這個無症狀 4 cm 降胸主動脈瘤的風險層級；手術門檻須綜合直徑、增長速度、症狀、結締組織疾病與手術風險。",
-   "C": "以 4.5 cm 作所有降胸主動脈瘤的固定手術門檻過低；較小直徑的提前介入通常需有高風險病因、症狀或快速增長等額外理由。",
-   "D": "經胸心臟超音波（transthoracic echocardiography）適合評估主動脈根部與近端升主動脈，但不能可靠完整追蹤胸部降主動脈；CT 或 MRI 才能一致量測該病灶。",
-   "summary": "4 cm 無症狀降胸主動脈瘤先以 CT/MRI 追蹤；是否手術取決於直徑、增長速度與高風險病因，而 TTE 不適合完整追蹤降主動脈。",
-   "guideline": "[TODO] 題目所列每年增長 1 cm 閾值需與現行胸主動脈疾病指引核對"
+   "A": "本項應選。4 公分、無症狀、沒有剝離的降胸主動脈瘤，處置就是控制血壓加影像追蹤，不必急著開刀。追蹤中最重要的警訊是「長得快」，題目採每年增大超過 1 公分。實務上現行指引更嚴，多以每年 ≥0.5 公分就視為快速擴張。",
+   "B": "本項不選。4 公分遠低於降主動脈的手術門檻。降胸主動脈瘤一般要到 5.5 到 6 公分才考慮修補，除非有症狀、快速擴張或結締組織疾病。",
+   "C": "本項不選。4.5 公分對降主動脈來說仍太小，貿然手術的風險大於瘤本身。這個數字比較接近有 Marfan 症候群等遺傳性主動脈疾病時的升主動脈警戒值，不能混用。",
+   "D": "本項不選。經胸心臟超音波看得清楚的是升主動脈與主動脈根部，**降主動脈幾乎照不到**。要追蹤降主動脈瘤只能靠 CT 或 MRA。",
+   "summary": "4 公分降主動脈瘤先追蹤不開刀；追蹤工具只能用 CT 或 MRA，心臟超音波照不到降主動脈。",
+   "guideline": "現行胸主動脈疾病指引以每年增大 ≥0.5 cm 為快速擴張警訊（本題採 1 cm）"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12930,12 +12929,12 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "cinacalcet 是 calcimimetic，可降低 PTH，主要用於接受 dialysis 的 CKD G5D 次發性副甲狀腺機能亢進；本題 eGFR 20 mL/min 尚未透析，不是首要選擇。",
-   "B": "cholecalciferol 可補充低下的 25(OH) vitamin D，但需要腎臟 1-alpha-hydroxylase 轉為 calcitriol；進展期 CKD 的活化能力下降，因此題目以明顯高 PTH 與低鈣為由，未把它列為最佳答案。",
-   "C": "官方答案選 calcitriol；它是活性 vitamin D，可增加腸道鈣吸收並抑制 PTH，符合進展期 CKD、低鈣與明顯次發性副甲狀腺機能亢進的傳統考題邏輯。[TODO] 現行 KDIGO 不建議對未透析 CKD 常規使用 calcitriol，通常保留給嚴重且持續惡化的 hyperparathyroidism，且本題 25(OH) vitamin D 10 ng/mL 亦須先處理可修正因子。",
-   "D": "題幹寫作 ergocalcitriol，[TODO] 疑為 ergocalciferol 的誤植；ergocalciferol 與 cholecalciferol 同屬 nutritional vitamin D，可矯正 25(OH) vitamin D deficiency，但仍需腎臟活化；它不能直接取代 calcitriol 對嚴重 CKD-MBD 的作用。",
-   "summary": "本題官方答案沿用 CKD 次發性副甲狀腺機能亢進給 calcitriol 的傳統邏輯；現行作法須先矯正 vitamin D 缺乏等因素，活性 vitamin D 不作常規使用。",
-   "guideline": null
+   "A": "本項不選。cinacalcet 是擬鈣劑，會壓低血鈣。這位病人血鈣已經偏低（2.05 mmol/L），再用只會更低。它的定位是**透析中**的次發性副甲狀腺亢進，不是未透析的 CKD。",
+   "B": "本項不選（但與現行做法最接近）。他的 25(OH)D 只有 10 ng/mL，屬明顯缺乏，補充 cholecalciferol 合理。現行 KDIGO 的順序其實是先補營養型維生素 D、再評估是否需要活性型。**本題的官方答案是 C，答題請照官方；臨床上這個選項並不算錯。**",
+   "C": "本項應選（官方答案）。calcitriol 是活性維生素 D，不需要腎臟再活化，可直接增加腸道鈣吸收並抑制 PTH。對這位 eGFR 20、低血鈣、iPTH 255 的病人，是題目要的「一次處理低血鈣與高 PTH」的答案。要注意的是它會同時拉高血磷，所以用了要密切追蹤鈣磷。",
+   "D": "本項不選。題目寫的 ergocalcitriol 應是 ergocalciferol 的誤植。ergocalciferol（D2）和 cholecalciferol（D3）一樣是營養型維生素 D，都需要肝與腎的兩次羥化，腎功能差時活化效率有限。",
+   "summary": "CKD 的維生素 D 要分清楚：營養型（D2/D3）補的是庫存、需要腎臟活化；calcitriol 是活性型，能直接壓 PTH 但會拉高血磷。",
+   "guideline": "現行 KDIGO 建議未透析 CKD 先矯正 25(OH)D 缺乏，活性維生素 D 保留給嚴重或持續惡化的次發性副甲狀腺亢進"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14178,12 +14177,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "正確。isoniazid 不會像 rifamycin 類強烈誘導代謝酵素，可在不改變 lopinavir/ritonavir 的前提下治療潛伏結核；題目採每日 300 mg、9 個月方案。",
-   "B": "rifampin 是強效酵素誘導劑，會顯著降低 lopinavir/ritonavir 濃度，可能導致抗反轉錄病毒治療失敗，因此不能在維持原處方時選用。",
-   "C": "rifampin 同樣與 protease inhibitor 有重大交互作用；此外 rifampin 加 pyrazinamide 的兩個月潛伏結核方案因嚴重肝毒性風險已不建議使用。",
-   "D": "rifapentine 也屬 rifamycin，與 ritonavir-boosted protease inhibitor 有重要交互作用；是否能使用 3HP 必須依特定抗反轉錄病毒組合評估，本例不適合維持原處方直接使用。",
-   "summary": "潛伏結核方案須先檢查 rifamycin 與抗反轉錄病毒藥交互作用；lopinavir/ritonavir 不宜直接合併 rifampin 或 rifapentine。",
-   "guideline": "FC 醫學(三)第1冊 p.401；[TODO] 現行台灣潛伏結核方案與 HIV 藥物交互作用需核對"
+   "A": "本項應選。isoniazid 不誘導 CYP3A4，不會把 lopinavir/ritonavir 的血中濃度拉下來，所以能在完全不動抗病毒處方的前提下治療潛伏結核。題目採每日 300 mg、連續 9 個月，同時要補 pyridoxine 並追肝功能。",
+   "B": "本項不選。rifampin 是強力酵素誘導劑，會讓 protease inhibitor 濃度大幅下降。病毒量壓不住就等於抗病毒治療失敗，這正是題目「不改變抗反轉錄病毒治療」要排除的組合。",
+   "C": "本項不選。除了同樣有 rifampin 的交互作用問題，rifampin 加 pyrazinamide 的兩個月方案本身早就因為嚴重肝毒性與死亡個案被撤下，現在任何族群都不建議用。",
+   "D": "本項不選。rifapentine 也是 rifamycin 類。3HP（每週 isoniazid 加 rifapentine、共 12 週）在台灣是常用的潛伏結核方案，但要搭配相容的抗病毒組合，和 boosted protease inhibitor 併用並不適合。真要用就得先換 ART，題目已排除這條路。",
+   "summary": "HIV 病人治潛伏結核，先問「現在的 ART 能不能碰 rifamycin」：吃 PI 就走 9H，別動到抗病毒處方。",
+   "guideline": "台灣疾管署潛伏結核感染治療方案（9H／3HP／4R）；rifamycin 與 protease inhibitor 併用受限"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14836,12 +14835,12 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "高滲透壓高血糖狀態（hyperosmolar hyperglycemic state, HHS）的傳統診斷使用 plasma glucose >600 mg/dL 與 effective serum osmolality >320 mOsm/kg；題述 >300 mOsm/kg 過低，且現行共識已調整部分診斷表述。[TODO] 請依採用的指引版本確認完整門檻。",
-   "B": "HHS 名稱已由 hyperosmolar nonketotic coma 改稱現名，因病人不一定昏迷；可有少量 ketone，但通常沒有符合 DKA 的顯著 ketoacidosis。",
-   "C": "severe osmotic diuresis 造成 profound dehydration，因此 HHS 常見乾燥皮膚與黏膜、tachycardia、orthostatic hypotension 或 shock。",
-   "D": "極高 osmolality 可造成多種 neurologic manifestations，包括 confusion、focal deficit、seizure 與 coma。",
-   "summary": "HHS 核心是 severe hyperglycemia、hyperosmolality 與脫水；不必昏迷，傳統有效滲透壓切點為 >320 mOsm/kg。",
-   "guideline": "[TODO] HHS 診斷門檻須依題目年代與現行共識版本核對",
+   "A": "本項應選。血糖門檻沒錯，錯的是滲透壓。HHS 用的是**有效血漿滲透壓大於 320 mOsm/kg**，不是 300。正常人本來就在 285 到 295 之間，用 300 當門檻幾乎沒有鑑別力。算法是 2×Na ＋ glucose/18，尿素不算進去，因為它可自由通過細胞膜、不造成水分移動。",
+   "B": "本項不選。HHS 的名字容易誤導。真正昏迷的只是一部分，意識程度和滲透壓高低相關；而且病人仍有殘餘胰島素可壓住脂解，所以通常沒有明顯酮酸中毒。",
+   "C": "本項不選。HHS 的脫水比 DKA 嚴重得多，常缺水 8 到 10 公升。皮膚黏膜乾燥、皮膚張力差、心跳快、低血壓都是容量嚴重不足的表現，所以治療第一步永遠是大量輸液。",
+   "D": "本項不選。高滲透壓會造成各種神經學表現：意識改變、局部神經缺損，甚至癲癇發作。這些症狀在血糖與滲透壓矯正後多半可回復。",
+   "summary": "HHS 的兩個門檻背 glucose >600 mg/dL、有效滲透壓 >320 mOsm/kg；它缺的水比 DKA 多，第一步是補液不是打胰島素。",
+   "guideline": null,
    "concepts": [
     "hhs-diagnostic-criteria"
    ]
@@ -15038,12 +15037,12 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "這題不選。百日咳（pertussis）由 Bordetella pertussis 引起，其毒素會傷害呼吸道纖毛並造成典型陣發性咳嗽。",
-   "B": "這題不選。開始有效 macrolide 後傳染力會大幅下降；常用隔離原則是治療滿 5 天前採飛沫防護。",
-   "C": "這題要選。小於 3 個月嬰兒常沒有典型 whoop 或完整分期，反而可能以 apnea、發紺或餵食差表現，最容易漏診。",
-   "D": "這題不選。青少年與成人接種 Tdap 可降低百日咳傳播給尚未完成基礎接種嬰兒的機會；實際追加時程依所在地建議。",
-   "summary": "小嬰兒的百日咳不一定咳得典型；看到 apnea 或發紺也要想到它。",
-   "guideline": "FC 醫學(四)第1冊 p.235"
+   "A": "本項不選。Bordetella pertussis 的致病主力是毒素，尤其 pertussis toxin 與 tracheal cytotoxin。毒素破壞纖毛上皮，所以咳嗽會拖很久——即使細菌已經被清掉。",
+   "B": "本項不選。使用 macrolide 治療滿 5 天後才解除飛沫隔離；沒治療的話傳染期可長達 3 週。家庭與密切接觸者也要預防性投藥。",
+   "C": "本項應選。3 個月以下的嬰兒**最不典型**：常常沒有經典的三期病程，也沒有 whoop 的哮聲，而是以呼吸暫停、發紺、餵食變差來表現。他們也是併發肺炎、肺高壓與死亡風險最高的一群，最容易被漏診。",
+   "D": "本項不選。青少年與成人的免疫力會消退，成為嬰兒的傳染源。所以要追加 Tdap，孕婦在每次懷孕第 28 到 36 週接種更是保護新生兒的關鍵（cocooning）。",
+   "summary": "3 個月以下嬰兒的百日咳不會照課本演：不咳出 whoop，而是呼吸暫停與發紺——這群也最容易死。",
+   "guideline": null
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -15114,12 +15113,12 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "這題不選。嬰兒糞便顏色卡中灰白、淡黃白等無膽色的糞便才是警訊，不能把特定號碼簡化為一律正常。",
-   "B": "正確。糞便顏色辨識圖用來及早發現膽汁鬱積，尤其膽道閉鎖（biliary atresia）；缺膽汁色素時糞便會呈灰白或陶土色。",
-   "C": "這題不選。正常顏色只降低當下有明顯膽汁鬱積的可能，不能完全排除早期或間歇性膽道閉鎖。",
-   "D": "這題不選。母乳性黃疸是未結合型 bilirubin 升高的診斷，糞便色卡不能靠 4–6 號直接確診。",
-   "summary": "延長性黃疸要看糞便顏色：灰白便先想膽汁出不來，快查直接 bilirubin 與膽道閉鎖。",
-   "guideline": "FC 醫學(四)第1冊 p.593"
+   "A": "本項不選。1 到 6 號是**不正常**的顏色（灰白、淡黃），看到就要就醫；7 到 9 號才是正常的黃綠色便。號碼方向記反會延誤診斷。",
+   "B": "本項應選。糞便顏色卡的目的就是篩檢**膽汁排不出去**的疾病，最重要的是膽道閉鎖。膽汁進不了腸道，糞便就失去顏色。台灣把它放進兒童健康手冊，是全球公認成功的篩檢政策。",
+   "C": "本項不選。顏色正常不能排除膽道閉鎖。早期糞便可能還有顏色，之後才逐漸變白，所以要**連續觀察**。有黃疸持續超過兩週就該驗直接型膽紅素，不能只看便色。",
+   "D": "本項不選。母乳性黃疸是**未結合型**膽紅素上升，糞便顏色正常。色卡異常代表的是結合型膽紅素升高的膽汁滯留，兩者剛好相反。",
+   "summary": "糞便卡 1–6 號是異常、7–9 號正常；它篩的是膽道閉鎖，而黃金時間是出生後 60 天內完成 Kasai 手術。",
+   "guideline": "國健署兒童健康手冊嬰兒大便卡（1–6 號異常、7–9 號正常）"
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17169,13 +17168,12 @@
   "specialty": "精神科",
   "fc_ref": null,
   "explanation": {
-   "A": "雙相情緒障礙症（bipolar disorder）具顯著家族聚集，自殺死亡風險亦高；患者家族成員的 mood disorder 與 suicide risk 可高於一般人口。",
-   "B": "官方接受 B 為錯項之一。雙胞胎研究確支持高度遺傳性，但題述單卵 70–90%、同性異卵 16–35% 的精確共病率受研究與診斷定義影響，[TODO] 須核對命題依據。",
-   "C": "早期 linkage studies 曾提出 chromosome 18q、22q 等候選區域；現今 bipolar disorder 被視為多基因疾病，不能用單一區域作臨床診斷。",
-   "D": "官方接受 D 為錯項。Bipolar disorder 的 heritability 很高，生物遺傳貢獻遠非僅 30%；環境因素可影響發病與病程，但不能解釋 70% 病因。",
-   "summary": "官方第60題 B、D 給分；bipolar disorder 高度遺傳且為多基因疾病，不能把病因簡化成環境 70%。",
-   "guideline": null,
-   "concepts": []
+   "A": "本項不選。雙相情緒障礙症患者的一等親自殺身亡比率高於一般人口，這是家族聚集性的證據之一。這也是為什麼問診要問家族的自殺史，不只問「有沒有精神病史」。",
+   "B": "本項應選。方向對、數字灌水了。雙胞胎研究常引用的共病率是單卵約 40 到 70%、異卵約 5 到 25%。題目寫成 70–90% 與 16–35%，把單卵拉得太高。遺傳性高是事實，但不是這個量級。",
+   "C": "本項不選。早期的連鎖分析確實指向第 18 對與第 22 對染色體長臂。後來的全基因組關聯研究找到更多小效應基因（例如 CACNA1C、ANK3），但題目講的是舊的連鎖研究結論，本身沒錯。",
+   "D": "本項應選。這個比例剛好反過來。雙相情緒障礙症的遺傳度估計在 60 到 85%，是精神科疾病中最高的一群。環境（生活壓力、睡眠剝奪、物質使用）多半扮演誘發角色，不是主因。",
+   "summary": "雙相情緒障礙症是精神科遺傳度最高的病之一（60–85%），環境是扳機不是主因；雙胞胎共病率記單卵 40–70%、異卵 5–25%。",
+   "guideline": "官方更正：本題答 B 或 D 或 BD 均給分"
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17324,13 +17322,12 @@
    "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
   },
   "explanation": {
-   "A": "嚴重厭食症（anorexia nervosa）可因營養不良出現可逆性 brain volume loss 與 ventricular enlargement，並伴認知與情緒變化。",
-   "B": "錯誤。此患者 31/45 約為原體重 69%，且已猝死風險極高；需要具兒少、精神科、內科與營養專業的住院醫療穩定，不應僅以「小兒科病房」作為充分建議。[TODO] 命題所採住院門檻與照護單位需核對。",
-   "C": "Anorexia nervosa 可造成低血糖；hypercholesterolemia 亦可能出現，與飢餓造成的脂質代謝、膽汁酸及甲狀腺樣適應改變相關，不能因攝食少就排除高膽固醇。",
-   "D": "反覆使用 ipecac 催吐會累積 emetine，造成 toxic cardiomyopathy、arrhythmia 與 skeletal myopathy，是 bulimia nervosa 可致命的併發症。",
-   "summary": "Severe anorexia 可有 brain atrophy、hypoglycemia 與 hypercholesterolemia；ipecac 可致 cardiomyopathy，住院須採跨專業醫療穩定。",
-   "guideline": "FC 醫學(四)第3冊 p.92；[TODO] 住院門檻之命題依據",
-   "concepts": []
+   "A": "本項不選。嚴重厭食症確實會出現大腦萎縮與腦室擴大，灰質與白質都會流失。體重回復後部分可逆，但不一定完全恢復。",
+   "B": "本項應選。住院的體重門檻不是 70%。APA 指引用的是**低於理想體重的 75%** 就該住院，這個女生 31 公斤已遠低於門檻，早就該住院。而且重點不在「哪一科的病房」，而是要有能處理再餵食症候群的內科監測加上精神科與營養團隊。",
+   "C": "本項不選。厭食症的兩個代謝矛盾要一起記：肝醣耗竭造成低血糖，但膽固醇反而升高（甲狀腺功能下降、膽酸代謝改變）。看到「瘦到皮包骨卻高膽固醇」不要以為驗錯了。",
+   "D": "本項不選。ipecac（emetine）是催吐劑，會累積在心肌與骨骼肌造成心肌病變與肌病變，嚴重可致命。這是暴食症患者一個常被忽略的致死原因。",
+   "summary": "厭食症住院門檻記 75% 理想體重；治療最怕的是再餵食症候群，所以要有內科監測，不是挑哪一科病房的問題。",
+   "guideline": "APA Eating Disorders 指引：體重低於理想體重 75% 為住院適應症之一"
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17473,13 +17470,12 @@
    "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
   },
   "explanation": {
-   "A": "錯誤。嚴重 alcohol intoxication 可造成呼吸抑制、吸入、低血糖、低體溫、外傷、昏迷與死亡，不能因主要表現是情緒或動作改變就忽略生命危險。",
-   "B": "Blood alcohol concentration 上升通常會依序加重判斷力下降、情緒不穩、ataxia/incoordination、認知與意識受損；實際表現受耐受性與共用藥物影響。",
-   "C": "在 150 mg/dL 仍缺乏明顯動作或情緒異常，提示已形成 alcohol tolerance；但外觀正常不代表駕駛能力或生理風險正常。",
-   "D": "題述血液與呼氣酒精濃度的換算及不得駕車門檻屬臺灣法規考點；即使低濃度也會降低反應速度。[TODO] 需核對命題年度道路交通法規門檻。",
-   "summary": "Alcohol intoxication 可致死；耐受者外觀看似穩定仍有反應受損，駕車門檻須依臺灣法規判定。",
-   "guideline": "FC 醫學(四)第3冊 p.132；[TODO] 命題年度臺灣酒駕門檻",
-   "concepts": []
+   "A": "本項應選。急性酒精中毒會死人。高濃度時延腦呼吸中樞被抑制，加上嘔吐物吸入、低體溫、低血糖，都是實際的死因。說「不會有死亡風險」是危險的錯誤。",
+   "B": "本項不選。血中酒精濃度和症狀嚴重度大致成正比：先是判斷與協調變差，再來情緒不穩、認知缺損，更高就意識不清。但耐受性會讓同樣濃度的表現差很多。",
+   "C": "本項不選。血中酒精 150 mg/dL 的人若還能正常走路說話，代表已經產生耐受性——多半有長期大量飲酒史。這種人反而要提早警覺戒斷症狀。",
+   "D": "本項不選。台灣的換算與門檻就是這樣：血液 0.03%（30 mg/dL）約等於吐氣 0.15 mg/L，達到就違規。吐氣達 0.25 mg/L 以上就進入刑事責任。",
+   "summary": "酒精中毒會死於呼吸抑制與嗆吸；台灣的酒駕門檻記吐氣 0.15 mg/L 等於血液 0.03%，0.25 mg/L 以上是刑責。",
+   "guideline": "道路交通管理處罰條例：吐氣 0.15 mg/L（血液 0.03%）以上違規；0.25 mg/L 以上涉刑責"
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17929,12 +17925,12 @@
   "specialty": "醫學倫理（FC 例外）",
   "fc_ref": null,
   "explanation": {
-   "A": "單具中華民國國民身分不等於可簽署安寧緩和醫療意願書；題目所考版本另要求具完全行為能力，故17歲不符。",
-   "B": "能否自立遺囑是民法上的特定能力，不能直接等同醫療意願書所要求的完全行為能力；兩套制度的年齡要件不可混用。",
-   "C": "正確。依本題命題當時的安寧緩和醫療條例與成年年齡，17歲尚非20歲以上具完全行為能力者，不能自行預立該意願書。[TODO] 現行成年年齡已改為18歲，實務適用須依現行條文核對。",
-   "D": "預立安寧緩和醫療意願的目的就是在有能力時先表達未來意願，簽署當下不以已診斷末期病人為必要。",
-   "summary": "預立安寧意願不要求簽署時已末期，但須符合簽署能力；本題答案反映命題當時20歲成年制度。",
-   "guideline": "安寧緩和醫療條例（年齡依命題當時法制）",
+   "A": "本項不選。國籍不是要件。安寧緩和醫療條例對預立意願書設有行為能力與年齡的門檻，不是誰都可以簽。",
+   "B": "本項不選。立遺囑能力與簽署安寧緩和醫療意願書是兩套不同的規定，不能互相援引。民法對遺囑能力另有規定（滿 16 歲即可立遺囑），但那不等於可以預立醫療意願。",
+   "C": "本項應選（依題目年代）。條例要求意願人須為成年且具完全行為能力，題目年代的門檻是 20 歲，所以 17 歲的林同學不能自己簽。附帶一提，民法的成年年齡自 2023 年 1 月起下修為 18 歲，相關法規的年齡界定也隨之調整，答題請以題目年代為準。",
+   "D": "本項不選。預立意願書的用意正是**在健康時預先表達**，不需要已經被診斷為末期病人。要等到末期才能簽，反而失去預立的意義。",
+   "summary": "安寧緩和意願書要「成年且有完全行為能力」，但不必等到末期才簽——預立的重點就是趁還能表達時先講清楚。",
+   "guideline": "安寧緩和醫療條例；民法成年年齡自 2023 年 1 月起下修為 18 歲",
    "concepts": [
     "hospice-vs-patient-right-to-autonomy-act"
    ]
@@ -18160,12 +18156,12 @@
    "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
   },
   "explanation": {
-   "A": "正確。瘢痕瘤（keloid）常見於耳垂、下頷線、胸骨前、肩與上臂；臉中央與下肢相對少見，因此把臉部與下肢列為較易發生處不恰當。",
-   "B": "深色膚色族群的 keloid 發生率較高，非裔、亞洲與拉丁裔族群均是常見高風險背景。",
-   "C": "題目所列 15%–20% 通常指具高風險膚色族群的估計範圍，不能解讀為所有人口的盛行率；此敘述依本題脈絡視為可接受。",
-   "D": "Keloid 復發率高且尚無單一根治療法；不過術後矽膠、壓力或 intralesional corticosteroid 等可降低風險，所以「完全無法預防」過於絕對，但官方答案指定 A。[TODO] 請核對原教材對 D 的用語與答案。",
-   "summary": "Keloid 會超越原傷口邊界，偏好耳垂、下頷、胸骨前與肩部，深色膚色族群風險較高。",
-   "guideline": "FC 醫學(五)第2冊 p.343",
+   "A": "本項應選。錯在部位。瘢痕瘤好發於**張力高**的地方：胸骨前、肩膀與三角肌、上背、耳垂。臉部（除了耳垂）、眼瞼、手掌腳掌與生殖器反而很少長。下肢也不是好發區。",
+   "B": "本項不選。深膚色人種的發生率明顯較高，非裔、亞裔、拉丁裔都是。這也提醒術前要問家族史與過去傷口癒合狀況。",
+   "C": "本項不選。在深膚色族群的盛行率報告確實可達 15 到 20%，白種人則低得多。差距這麼大正是它被認為有遺傳體質的理由。",
+   "D": "本項不選（依題目語氣）。瘢痕瘤確實難根治、復發率高，單靠手術切除復發可達五成以上。但實務上仍有降低風險的做法：病灶內類固醇注射、矽膠片、壓迫治療、術後放射線。所以「效果皆不彰」偏絕對，只是本題指定的錯誤選項是 A。",
+   "summary": "瘢痕瘤長在張力高的地方——胸前、肩膀、耳垂，臉部反而少見；單純切除復發率高，要搭配類固醇或放療。",
+   "guideline": null,
    "concepts": [
     "hypertrophic-scar-vs-keloid"
    ]
@@ -19037,12 +19033,12 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "正確選項。大量腹水流失時仍不能無限制補充 sodium 與 free water；過量輸液會加重腹水與組織水腫，應依循環、腎功能與電解質個別補充，必要時以 albumin 支持有效循環容積。",
-   "B": "大範圍肝切除後可能出現低白蛋白血症與凝血因子不足；albumin 或新鮮冷凍血漿應依 volume status、出血及 coagulopathy 選擇，而不是例行無條件輸注。",
-   "C": "長時間肝切除、麻醉與大量輸液可造成術後低體溫；主動加溫可減少凝血障礙、感染與心血管負擔，因此恢復室應及早維持 normothermia。",
-   "D": "此敘述措辭有疑義：肝切除後可因 stress response 出現 hyperglycemia，但殘肝糖質新生不足時也可能 hypoglycemia，尤其 major hepatectomy 或 liver failure；臨床確實需密切監測血糖。[TODO] 官方將 A 列為答案，但 D 的「降低居多」需依原教材脈絡確認。",
-   "summary": "肝切除後照護要同時管理體液、腹水、凝血、體溫與血糖；腹水流失不代表可以無限制給鹽水。",
-   "guideline": "FC 醫學(五)第3冊 p.108",
+   "A": "本項應選。腹水大量流失不等於可以放寬鹽水，肝切除後仍要限制 sodium。補液應依血壓、尿量、電解質與腎功能調整；有效循環量不足時可用 albumin 支持，盲目補水補鹽會讓腹水與組織水腫更嚴重。",
+   "B": "本項不選。Albumin 用來支持有效循環量與膠體滲透壓；新鮮冷凍血漿（fresh frozen plasma, FFP）則補充多種凝血因子。肝切除後應依大量腹水、低血容量、出血與凝血異常決定是否輸注，不能只看 albumin 或 INR 數字就例行補充。",
+   "C": "本項不選。麻醉、長時間手術與大量輸液都會讓核心體溫下降。術後數小時主動加溫可維持正常體溫（normothermia），並減少低體溫造成的凝血障礙與心血管負擔。",
+   "D": "本項不選。手術壓力常造成暫時性高血糖；若大範圍切除後反而低血糖，要警覺殘肝糖質新生不足與肝功能衰竭。臨床應依實測值維持正常血糖，不能預設單一方向；官方答案仍為 A。",
+   "summary": "肝切除後看到腹水，不要用大量鹽水追著補；先看有效循環量，血糖則看實測值。",
+   "guideline": "FC 醫學(五)第3冊 p.108；ERAS Society, Guidelines for Perioperative Care for Liver Surgery (2022)",
    "concepts": []
   },
   "source": "110080/302_33",
@@ -19216,12 +19212,12 @@
   "specialty": "一般消化外科",
   "fc_ref": null,
   "explanation": {
-   "A": "Somatostatin 可由胃黏膜 D cells 分泌，局部抑制 gastrin 與 gastric acid secretion，因此屬胃細胞的內分泌產物。",
-   "B": "Gastrin-releasing peptide 由胃壁 enteric neurons 釋放並刺激 G cells 分泌 gastrin；題目把 neural peptide 納入 gastric source 的廣義描述。[TODO] 若嚴格限定「gastric cell」而排除神經元，選項措辭需依原教材確認。",
-   "C": "正確。Adiponectin 主要由 adipocytes 分泌，參與 insulin sensitivity 與脂質代謝，並非胃黏膜細胞的典型 hormone。",
-   "D": "Ghrelin 主要由 gastric fundus 的 X/A-like cells 分泌，空腹時上升並促進 appetite 與 growth hormone release。",
-   "summary": "胃的內分泌產物包括 somatostatin 與 ghrelin；adiponectin 的主要來源是 adipose tissue。",
-   "guideline": null,
+   "A": "本項不選。Somatostatin 是胃竇與胃體 D cells 分泌的煞車訊號。它會抑制 G cells 釋放 gastrin，也會降低 ECL cells 釋放 histamine，最後讓胃酸分泌下降。",
+   "B": "本項不選。Gastrin-releasing peptide（GRP）不是胃黏膜內分泌細胞製造，而是胃壁內的迷走神經節後神經元與腸神經元釋放。它在胃內作為 neurocrine 刺激 G cells 分泌 gastrin；本題把胃壁神經元納入廣義的 gastric source。",
+   "C": "本項應選。Adiponectin 的主要內分泌來源是 adipocytes，功能包括提高 insulin sensitivity 與調節脂質代謝。動物研究雖曾在胃黏膜測到局部 adiponectin 表現，標準人體生理分類仍不把它列為胃分泌 hormone。",
+   "D": "本項不選。Ghrelin 主要由胃底的 P/D1 cells 分泌，這類細胞在動物研究常稱 X/A-like cells。空腹時 ghrelin 上升，會促進食慾與 growth hormone release。",
+   "summary": "記胃的三條線：D cells→somatostatin、P/D1 cells→ghrelin、胃壁神經元→GRP；adiponectin 主源在 adipose tissue。",
+   "guideline": "Sjövall et al., Regul Pept (1990); Kentish et al., Physiol Behav (2015)",
    "concepts": []
   },
   "source": "110080/302_33",
@@ -19853,12 +19849,12 @@
    "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
   },
   "explanation": {
-   "A": "CO₂ gas embolism 是腹腔鏡罕見但可能致命的 complication，通常與氣體直接進入血管有關；突發 hypotension、desaturation 與 end-tidal CO₂ 改變時須立即處置。",
-   "B": "錯誤。Gasless laparoscopy 以 abdominal wall lift 建立空間，可避免 pneumoperitoneum 的部分生理影響，但 exposure 與 working space 通常不如 CO₂ insufflation 穩定、寬廣。",
-   "C": "腹腔鏡切口較小、組織操作與 inflammatory stress 通常較少，因此 postoperative immune suppression 相較 open surgery 可較輕。",
-   "D": "[TODO] 官方答案指定 B；「腹腔鏡後 serum cortisol 高於開腹」與一般較低 surgical stress 的概念可能矛盾，需核對原始教材或研究的採樣時間與措辭，不能據此自行改答案。",
-   "summary": "Gasless laparoscopy 可減少 pneumoperitoneum 影響，代價是 exposure 與 working space 通常不如傳統充氣式腹腔鏡。",
-   "guideline": "FC 醫學(五)第1冊 p.135"
+   "A": "本項不選。氣體栓塞在腹腔鏡手術確實少見，但一旦發生就是致命急症。典型情境是 Veress 針誤入血管直接灌 CO2，表現為突然血壓下降、呼氣末 CO2 驟降。處置是停止灌氣、左側頭低位。",
+   "B": "本項應選。免氣腹腹腔鏡用機械撐開器把腹壁拉起來，視野與操作空間**比不上**傳統氣腹。它的價值在於避開 CO2 氣腹的生理影響，適合心肺功能差的病人，代價就是視野較差。",
+   "C": "本項不選。腹腔鏡的手術創傷小，術後免疫抑制反應較開腹輕，IL-6 與 CRP 上升幅度都較小。這也是它術後恢復較快的機轉之一。",
+   "D": "本項不選（依題目）。腹腔鏡的發炎指標明確較低，但**皮質醇的差異在研究間並不一致**，有報告顯示兩者相當甚至腹腔鏡略高，可能與氣腹造成的腹內壓與 CO2 吸收有關。本題未把它列為錯誤選項。",
+   "summary": "免氣腹腹腔鏡換來的是心肺負擔小，代價是視野與空間變差；腹腔鏡真正明確較低的是發炎反應，不是皮質醇。",
+   "guideline": null
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20493,11 +20489,11 @@
   "specialty": "泌尿外科",
   "fc_ref": null,
   "explanation": {
-   "A": "S2–S4 是 sacral autonomic 與 somatic 排尿中樞；此處損傷主要造成弛緩性膀胱與括約肌功能障礙，不是典型 autonomic dysreflexia 的高位病灶。",
-   "B": "L2–L4 病灶低於支配腹腔主要 splanchnic vascular bed 的交感控制界線，通常不產生典型嚴重 autonomic dysreflexia。",
-   "C": "T10–T12 完全損傷雖可造成 neurogenic bladder，但仍低於典型 T6 以上高風險區，保留較多 descending control of major vascular beds。",
-   "D": "正確。自主神經反射異常（autonomic dysreflexia）最常見於 T6 或以上脊髓損傷；題目 T6–T8 是選項中最接近其關鍵高位範圍者。[TODO] 選項範圍含 T7–T8，需依原題命題口徑確認。",
-   "summary": "Autonomic dysreflexia 典型發生於 T6 以上 spinal cord injury，常由膀胱脹滿或導尿管阻塞誘發。",
+   "A": "本項不選。薦髓損傷影響的是排尿與排便反射弧本身，造成鬆弛型膀胱，不會產生自主神經反射異常。",
+   "B": "本項不選。腰髓損傷位置太低，交感神經流出的主要節段仍在其上，不會出現這個症候群。",
+   "C": "本項不選。胸髓 10 到 12 節仍低於 T6，多數不會發生。要注意的是這是概略界線，個別病人偶有例外。",
+   "D": "本項應選。自主神經反射異常發生在**T6 以上**的損傷，四個選項中只有 T6-8 符合。機轉是損傷面以下的刺激（最常見是膀胱脹或便秘）引發交感反射，但大腦的抑制訊號下不來，造成突發高血壓與劇烈頭痛，損傷面以上則反射性心跳變慢、臉部潮紅出汗。處置順序是**先坐起來、鬆開束縛、找刺激源（先導尿）**，血壓仍高才給藥。",
+   "summary": "T6 以上損傷才會有自主神經反射異常；發作時先坐起來、找膀胱有沒有脹——那是最常見的元凶。",
    "guideline": null
   },
   "source": "110080/302_33",
@@ -20938,12 +20934,12 @@
   "specialty": "醫學倫理（FC 例外）",
   "fc_ref": null,
   "explanation": {
-   "A": "本題應選。醫療法的術前說明不必限定由具醫師身分者親自完成；但執行手術的醫師仍負有確保適當說明與同意的專業責任。[TODO] 請依現行醫療法條文核對可說明人員範圍。",
-   "B": "手術說明對象包括病人，或在法定情形下對其法定代理人、配偶、親屬或關係人說明；有能力病人本人仍是優先對象。",
-   "C": "手術原因、成功率、可能併發症與危險屬影響決策的重要資訊，應以病人能理解的方式說明，而非只列在表單。",
-   "D": "手術及麻醉原則上須在說明後取得同意並簽具文件；情況緊急、延誤危及生命或健康時，法律設有例外。",
-   "summary": "術前同意包含適當說明、對象與書面程序，緊急時有例外；本題陷阱是把說明者限縮為醫師。",
-   "guideline": "醫療法（手術及麻醉同意相關規定）",
+   "A": "本項應選。醫療法第 63 條課予說明義務的主體是**醫療機構**，條文並沒有限定必須由醫師本人說明。實務上當然多由主刀醫師說明最恰當，但把它寫成法定要件就與條文不符。",
+   "B": "本項不選。條文明列的說明對象就是病人或其法定代理人、配偶、親屬或關係人。這個範圍比一般想像寬，是為了讓緊急或病人無法表意時仍有人可以被告知。",
+   "C": "本項不選。應說明的內容包括手術原因、手術成功率或可能發生的併發症及危險。這三項是同意書上最常被稽核的欄位。",
+   "D": "本項不選。要簽具手術同意書與麻醉同意書才能執行，但情況緊急者不在此限——這條但書就是急救時得以先處置的法律基礎。",
+   "summary": "醫療法課的手術說明義務主體是「醫療機構」，不是限定醫師本人；緊急情況可先處置後補同意。",
+   "guideline": "醫療法第 63 條",
    "concepts": [
     "informed-consent-exceptions"
    ]
@@ -21202,12 +21198,12 @@
    "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
   },
   "explanation": {
-   "A": "顱內血腫（intracerebral hematoma）需避免明顯增加 cerebral blood flow、intracranial pressure 或降低 systemic pressure 的誘導方式，以維持足夠 cerebral perfusion pressure。",
-   "B": "依本題傳統考法此項錯誤：ketamine 曾因增加 cerebral metabolic rate、cerebral blood flow 與 intracranial pressure 而不被列為顱內高壓的理想誘導藥。不過現代在控制通氣與合併麻醉藥下的證據較不支持一律禁用；[TODO] 官方答案與現代 neuroanesthesia 實務的適用條件需核對。",
-   "C": "若術後確定要持續插管，opioid-based technique 可提供 analgesia 並抑制刺激反應，搭配 neuromuscular blockade 可維持手術條件；仍須確保足夠 hypnosis，避免把 paralysis 誤當麻醉深度。",
-   "D": "腦部灌流壓（cerebral perfusion pressure, CPP）約等於 MAP − ICP；CPP 過低會造成 cerebral ischemia，60 mmHg 常作為避免 secondary brain injury 的重要下限概念，但目標須個別化。",
-   "summary": "顱內血腫麻醉的核心是控制 ICP 同時維持 CPP；本題把 ketamine 視為非理想藥，但此結論有現代證據與情境限制。",
-   "guideline": "FC 醫學(六)第4冊 p.164"
+   "A": "本項不選。腦血管舒張會增加腦血流與腦容積，在已經有血腫、顱內空間被佔據時，只會把顱內壓推得更高。所以誘導藥物偏好選能降低腦代謝與腦血流的。",
+   "B": "本項應選。ketamine 傳統上被視為顱內高壓的禁忌，因為它增加腦血流與腦代謝率，可能拉高顱內壓。誘導首選是 propofol 或 thiopental，它們降低腦代謝需求。（近年在控制通氣下的研究對 ketamine 的顧慮有所鬆動，但本題採傳統教學。）",
+   "C": "本項不選。術後要繼續插管進加護病房時，以麻醉性止痛劑為主再加肌肉鬆弛劑，血流動力學穩定、也避免嗆咳造成顱內壓飆升。",
+   "D": "本項不選。腦灌流壓等於平均動脈壓減去顱內壓，低於 60 mmHg 就有缺血風險。所以處理顱內高壓時，不能只想著降顱內壓，還要維持足夠的血壓。",
+   "summary": "顱內血腫的麻醉兩件事：不要用讓腦血管擴張的藥，並把腦灌流壓維持在 60 mmHg 以上。",
+   "guideline": null
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21918,11 +21914,11 @@
    "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
   },
   "explanation": {
-   "A": "正確。強鹼造成液化性壞死（liquefactive necrosis）與皂化，可持續向深層穿透；強酸多造成凝固性壞死與焦痂，雖同樣可能嚴重，但通常較限制滲透。",
-   "B": "不可用酸鹼互相中和；中和反應會產熱並誘發嘔吐、再次灼傷及吸入，應先穩定 airway、breathing、circulation 並諮詢毒物與腸胃專科。",
-   "C": "上消化道內視鏡通常在病人穩定後的早期時窗內評估，常建議約 12–24 小時內完成；題目斷言「12 小時內儘快」並非最佳表述，且疑似穿孔或氣道不穩須先處理。[TODO] 需依本題採用指引確認精確時窗。",
-   "D": "早期內視鏡可在直視下依傷勢放置導引式鼻胃管；不能盲插，但「一律不可放置」過度絕對，是否放置須由內視鏡分級、穿孔風險與後續營養需求決定。",
-   "summary": "腐蝕性攝入不可催吐或酸鹼中和；強鹼易造成深層液化性壞死，內視鏡時機與管路放置須依穩定度及傷勢決定。",
+   "A": "本項應選。鹼性物質造成**液化性壞死**，會持續往深層溶解組織，傷害比酸性嚴重也更深。酸性造成的是凝固性壞死，形成的焦痂反而限制了穿透深度。所以家用強鹼（通樂、清潔劑）的食道傷害往往最嚴重。",
+   "B": "本項不選。**絕對不能中和**。酸鹼中和是放熱反應，會再造成熱灼傷；催吐同樣禁止，腐蝕性液體再經過食道一次只會加重傷害。也不要大量灌水稀釋。",
+   "C": "本項不選。內視鏡的時機一般是 12 到 48 小時之間。太早看，傷害的全貌還沒顯現；超過 48 到 72 小時組織最脆弱，做內視鏡穿孔風險高。",
+   "D": "本項不選。相反地，內視鏡下放置鼻胃管有兩個用途：維持管腔避免癒合時黏合狹窄，並提供腸道營養的途徑。",
+   "summary": "強鹼比強酸更可怕（液化性壞死往深層跑）；絕不中和、不催吐，內視鏡挑 12–48 小時做。",
    "guideline": null
   },
   "source": "110080/302_44",
@@ -22792,12 +22788,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "ASC-US 代表意義未明的非典型鱗狀細胞，不等同侵襲癌或高度病變；未經風險分層與陰道鏡確認便立即手術會造成過度治療。",
-   "B": "ASC-US 不能置之不理三年，因部分患者有高風險 HPV 或 CIN2+；追蹤間隔需依 HPV 結果、年齡與既往篩檢史決定。",
-   "C": "正確。此題依當時策略，42 歲 ASC-US 可接受陰道鏡或短期重複抹片追蹤；現行風險導向流程通常先做 high-risk HPV triage，陽性者轉陰道鏡。[TODO] 題目年代選項與現行台灣指引的確切間隔需核對。",
-   "D": "暫時性 HPV 感染確實可能自行清除，但固定每年一次抹片不是對所有 ASC-US 的完整處置；high-risk HPV 陽性與否會改變是否立即陰道鏡及後續間隔。",
-   "summary": "ASC-US 應做 high-risk HPV 風險分流或適當的陰道鏡／細胞學追蹤，不能直接手術也不能放置三年。",
-   "guideline": "FC 醫學(六)第1下冊 p.95"
+   "A": "本項不選。ASC-US 只是細胞學上的輕微異常，大多是暫時性 HPV 感染造成，直接手術是嚴重的過度治療。子宮頸的治療性切除會影響日後懷孕的早產風險，不能輕率。",
+   "B": "本項不選。三年後才追蹤太久。ASC-US 背後仍有約 5 到 10% 的機會藏著 CIN2 以上病灶，放三年可能錯過處理時機。",
+   "C": "本項應選。ASC-US 的標準處置有兩條路：直接做陰道鏡，或 3 到 6 個月後追蹤抹片。現行更常用的是**反射性 HPV 檢測**分流——HPV 陽性就做陰道鏡，陰性則回到常規追蹤。這樣可以避免大量不必要的陰道鏡。",
+   "D": "本項不選。前半句沒錯，ASC-US 確實常是暫時性感染。但既然已經有異常結果，就不能退回「維持每年一次」的常規追蹤，仍需分流處置。",
+   "summary": "ASC-US 不是直接手術也不是放三年：走陰道鏡、3–6 個月追蹤，或用 HPV 檢測分流。",
+   "guideline": null
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24186,12 +24182,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "主動脈瘤病因確實包含退化性病變、Marfan syndrome 等遺傳性主動脈病、慢性剝離、感染性或非感染性血管炎與創傷；病因會影響好發部位及介入門檻。",
-   "B": "胸主動脈瘤破裂或剝離風險會隨直徑上升；題目所列 4 cm 以下與 6 cm 以上的年度風險是舊教材數據。[TODO] 具體百分比需以原研究與現行指引核對。",
-   "C": "正確答案。典型腹主動脈瘤多位於腎動脈以下（infrarenal），不是腎動脈以上；瘤內壁血栓確實可能造成遠端栓塞。",
-   "D": "無症狀腹主動脈瘤達一定直徑即考慮修補；題述 5.5 cm 是常用男性門檻，EVAR 早期圍手術死亡率較低，但長期整體存活優勢會縮小且需持續影像追蹤。",
-   "summary": "腹主動脈瘤最常位於 infrarenal aorta；大小與增長速度決定破裂風險，EVAR 有早期安全優勢但需長期追蹤。",
-   "guideline": "FC 醫學(三)第1冊 p.38；[TODO] 胸主動脈瘤年度破裂風險數據需核對"
+   "A": "本項不選。這串病因清單是完整的：退化性（最常見）、Marfan 或 Ehlers-Danlos 等遺傳性、慢性剝離後擴張、感染性（mycotic）、大動脈炎、創傷。",
+   "B": "本項不選。破裂風險隨直徑指數上升是核心概念。4 公分以下每年風險低，超過 6 公分明顯跳升，這是「為什麼要定期量直徑」的理由。題目列的百分比是舊教材數據，數字細節各研究不同，但方向正確。",
+   "C": "本項應選。錯在位置。腹主動脈瘤有**九成以上位於腎動脈以下**（infrarenal），這也是 EVAR 可行的解剖基礎。其餘敘述沒問題：多與動脈硬化有關，瘤內附壁血栓確實可能脫落造成下肢栓塞。",
+   "D": "本項不選。無症狀腹主動脈瘤的修補門檻是 5.5 公分（男性），女性通常更早介入。EVAR 的短期死亡率低於開腹手術，但長期存活相當，而且要終身影像追蹤 endoleak。",
+   "summary": "腹主動脈瘤九成在腎動脈以下，這是 EVAR 做得起來的原因；修補門檻男性 5.5 公分。",
+   "guideline": null
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25983,12 +25979,12 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "type 1 diabetes 即使 TPN 暫停仍需要 basal insulin 防止 ketosis；袋中 insulin 處理營養輸注造成的升糖，另給 long-acting insulin 可維持基礎需求。",
-   "B": "glucocorticoid hyperglycemia 若已明顯失控常需 insulin；實際 insulin 型態應配合類固醇作用時間與全天 glucose pattern，而非只看單次 fasting value。",
-   "C": "generalized lipodystrophy 可因 leptin 缺乏造成嚴重 insulin resistance 與 hypertriglyceridemia；metreleptin replacement 可改善選定病人的代謝異常。",
-   "D": "80 歲以上病人的 HbA1c 目標須依 cognition、功能、共病與 hypoglycemia risk 個別化，通常比健康年輕成人寬鬆；一律 <6.5% 會增加低血糖與治療負擔。",
-   "summary": "高齡糖尿病目標需個別化並避免低血糖；type 1 diabetes 接受 TPN 仍不可中斷 basal insulin。",
-   "guideline": "[TODO] 高齡 HbA1c 具體目標依採用的指引版本與健康狀態分層"
+   "A": "本項不選。第一型糖尿病沒有內生胰島素，就算在打全靜脈營養，也**不能只靠輸液裡的胰島素**。一旦 TPN 因故中斷，沒有基礎胰島素墊底就會掉進酮酸中毒。",
+   "B": "本項不選。類固醇造成的高血糖以餐後與下午最明顯，口服藥常壓不住。空腹已經超過 200 mg/dL 就該用胰島素，而且劑量要隨類固醇加減同步調整。",
+   "C": "本項不選。脂質營養不良的病人缺乏脂肪組織，也就缺 leptin，因而出現嚴重胰島素阻抗與高三酸甘油酯。補充重組人類 leptin（metreleptin）是這個罕見疾病的對因治療。",
+   "D": "本項應選。80 歲以上不該一律追求 HbA1c 小於 6.5%。高齡的控制目標要看健康狀態分層：健康良好者約 7.0 到 7.5%，多重共病或衰弱者放寬到 8.0 到 8.5%。理由很實際——**低血糖對老人的傷害遠大於稍高的血糖**，一次跌倒骨折就可能改變餘生。",
+   "summary": "高齡糖尿病的目標是「別低血糖」不是「數字漂亮」：健康者 7.0–7.5%，衰弱者可放寬到 8.5%。",
+   "guideline": null
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26092,12 +26088,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "8 AM 與 4 PM cortisol/ACTH 可顯示日夜節律是否消失，但隨機 serum cortisol 不足以單獨篩檢 Cushing syndrome；在四個選項中，仍應先做 biochemical evaluation 而非直接定位。[TODO] 題目選項未列現行常用初篩：1-mg overnight dexamethasone suppression、late-night salivary cortisol 或 24-hour urine free cortisol。",
-   "B": "high-dose dexamethasone suppression test 是已確認 hypercortisolism 且判定 ACTH-dependent 後，過去用來協助區分 pituitary 與 ectopic ACTH 的檢查，不是第一步。",
-   "C": "adrenal CT 是 ACTH-independent hypercortisolism 確立後的定位工具；未先生化確認就影像檢查容易遇到無關 incidentaloma。",
-   "D": "pituitary MRI 應在確認 ACTH-dependent Cushing syndrome 後定位；單靠月亮臉、紫色 striae 尚不能直接判定 pituitary source。",
-   "summary": "疑似 Cushing syndrome 先生化確認 hypercortisolism，再依 ACTH 分型後做 adrenal 或 pituitary imaging。",
-   "guideline": "FC 醫學(三)第2冊 p.251；[TODO] 題目以日間 cortisol/ACTH 為最佳選項，但現行初篩方法需另行核對"
+   "A": "本項應選。典型的 Cushing 外觀出現時，下一步仍是**先做生化確認**，不是先照影像。抽早上 8 點與下午 4 點的 cortisol 與 ACTH，看的是日夜節律有沒有消失——正常人下午應該明顯低於早上。ACTH 同時能區分 ACTH 依賴型與腎上腺自主分泌。實務上更常用的初篩是隔夜 1 mg dexamethasone 抑制試驗、24 小時尿游離 cortisol 或午夜唾液 cortisol，但這題沒有給這些選項。",
+   "B": "本項不選。高劑量 dexamethasone 抑制試驗是**定位**用的，要先確定真的有 Cushing syndrome 才做。順序顛倒會解讀不出東西。",
+   "C": "本項不選。還沒證實高皮質醇就照腎上腺 CT，很容易撞上無關的腎上腺意外瘤——成人約有 5% 帶著它，照到了反而被誤導去開刀。",
+   "D": "本項不選。同理，腦下垂體 MRI 要等到證實是 ACTH 依賴型才做。而且正常人約一成有無功能的腦垂體微腺瘤，先照只會製造假線索。",
+   "summary": "Cushing 的順序不能跳：先證明皮質醇過多（生化），再分 ACTH 依賴與否，最後才照影像——先照片子會被意外瘤帶偏。",
+   "guideline": null
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26230,12 +26226,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "漸進性乾咳、呼吸困難、低血氧、雙側間質性浸潤且無肋膜積液，合併 HIV 進展線索，最符合肺囊蟲肺炎（Pneumocystis jirovecii pneumonia, PJP）。",
-   "B": "trimethoprim-sulfamethoxazole 是 PJP 的第一線治療，療程完成後也可用較低劑量作次級預防，直到免疫功能充分恢復。",
-   "C": "錯誤。此患者室內空氣 SpO2 86%，屬明顯低血氧；中重度 PJP 應及早加輔助性 corticosteroid，以降低肺部發炎惡化與死亡風險。",
-   "D": "PJP 治療後若仍有免疫低下，需使用 trimethoprim-sulfamethoxazole 等作次級預防；開始 ART 且 CD4 恢復達條件後才評估停藥。",
-   "summary": "HIV 合併低血氧與雙側間質性肺炎要想 PJP；TMP-SMX 治療，明顯低血氧加類固醇，療後續作次級預防。",
-   "guideline": "[TODO] 輔助性類固醇與停用次級預防的現行精確切點需核對",
+   "A": "本項敘述正確。三週內漸進的乾咳、喘、體重下降，加上雙側間質浸潤而沒有肋膜積液，又有脂漏性皮膚炎與口腔念珠菌這些免疫低下線索，最符合肺囊蟲肺炎（Pneumocystis jirovecii pneumonia, PJP）。",
+   "B": "本項敘述正確。trimethoprim-sulfamethoxazole 是 PJP 第一線，重症走靜脈、療程 21 天。過敏或無法耐受時才換 primaquine 加 clindamycin 或 IV pentamidine。",
+   "C": "本項應選。室內空氣 SpO2 只有 86% 已是明顯低血氧，正是該加類固醇的情況。標準切點是 room air PaO2 低於 70 mmHg 或 A-a gradient 大於 35 mmHg，而且要在抗生素開始的 72 小時內就給，太晚給沒有效果。",
+   "D": "本項敘述正確。療程結束後要接次級預防，通常仍用 trimethoprim-sulfamethoxazole 每日一顆。要等 ART 讓 CD4 回到 200 以上並維持至少 3 個月才停，停太早會復發。",
+   "summary": "HIV 加雙側間質性肺炎先想 PJP；room air PaO2 <70 mmHg 就要在 72 小時內加類固醇，療後接次級預防到 CD4>200 滿 3 個月。",
+   "guideline": "NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults with HIV（PJP 輔助類固醇與次級預防停用條件）",
    "concepts": [
     "pjp-severity-criteria"
    ]
@@ -26811,12 +26807,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "孕婦心臟停止（cardiac arrest）的原因既包括出血、栓塞、子癲前症與羊水栓塞等產科因素，也包括一般成人的可逆原因；「主要與懷孕相關併發症最有關」會受族群與病因分類影響。[TODO] 需核對本題所依孕產婦心跳停止流行病學來源。",
-   "B": "嚴重外傷孕婦需要心肺復甦術（CPR）時，首要目標是恢復母體循環；有效救治母親也是胎兒存活的必要條件，並應同步做子宮左移以減少主動脈－腔靜脈壓迫。",
-   "C": "急救輸液應依出血與容量狀態給予，孕期血容量雖增加，並不存在所有心跳停止一律把標準輸液量增加 50% 以上的通則。[TODO] 官方僅列 D 為錯誤，但 C 的絕對措辭也需核對原指引版本。",
-   "D": "正確答案。孕婦心臟停止時 vasopressor 依成人高級救命術的標準劑量使用，不因懷孕常規加量；母體復甦優先於對子宮胎盤灌流的理論顧慮。",
-   "summary": "孕婦 CPR 仍以高品質成人急救與標準藥物劑量為核心，另加手動子宮左移及及早處理產科可逆原因；本題 C 的措辭有疑義。",
-   "guideline": "[TODO] 核對本題年代之孕婦心臟停止指引與官方單選答案"
+   "A": "本項不選。孕產婦心跳停止的主因確實以產科併發症為大宗：大出血、羊水栓塞、肺栓塞、子癲前症／子癇症、感染。急救時要同時想這些可逆原因。",
+   "B": "本項不選。急救的順序是先救媽媽——母體循環恢復才有胎兒的存活。所以孕婦 CPR 的所有調整都圍繞著「讓母體循環有效」，例如把子宮往左推開以解除下腔靜脈壓迫。",
+   "C": "本項不選。孕期血漿容積增加約 40 到 50%，出血時代償空間大，也因此**失血到出現低血壓時通常已經很嚴重**。復甦輸液量要比一般成人放大，這是題目的意思。",
+   "D": "本項應選。孕婦心跳停止時，升壓劑與其他急救藥物一律用**標準成人劑量**，不必加量。真正該做的調整是手動左推子宮、手放高一點按壓，以及 4 到 5 分鐘內仍未恢復自發循環就執行瀕死剖腹產。",
+   "summary": "孕婦急救的藥物劑量跟一般人一樣；真正該做的是左推子宮，還有 4–5 分鐘內沒 ROSC 就做瀕死剖腹產。",
+   "guideline": null
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26969,12 +26965,12 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "這題要選。流感疫苗可自滿 6 個月起接種，並非一定要一歲以上；六個月以下嬰兒則主要靠照顧者接種保護。",
-   "B": "這題不選。年幼兒童首次接種流感疫苗通常需要兩劑，兩劑間至少間隔約四週，才能建立較完整免疫反應。",
-   "C": "這題不選。oseltamivir 等 neuraminidase inhibitor 可用於流感治療；高風險、住院或病程嚴重者尤其要及早考慮。",
-   "D": "這題不選。influenza 可造成白血球偏低或正常，白血球數不能用來單獨排除流感。",
-   "summary": "流感疫苗的年齡底線是 6 個月，不是一歲；小小孩第一次打通常要兩劑。",
-   "guideline": "FC 醫學(四)第1冊 p.140"
+   "A": "本項應選。流感疫苗滿 **6 個月**就能接種，不是要等到一歲。6 個月以下的嬰兒才是唯一不能打的一群，他們的保護要靠孕婦接種與周圍家人的群體免疫。",
+   "B": "本項不選。8 歲以下、初次接種流感疫苗的孩子要打兩劑，間隔至少 4 週。第一劑只是致敏，第二劑才建立足夠抗體。以後每年一劑就好。",
+   "C": "本項不選。oseltamivir 這類 neuraminidase inhibitor 在症狀出現 48 小時內給效果最好，能縮短病程並降低併發症。高風險或重症就算超過 48 小時仍建議給。",
+   "D": "本項不選。流感常見白血球正常或偏低，還可能有淋巴球下降。這和細菌性感染白血球衝高不同，可作為鑑別的線索之一。",
+   "summary": "流感疫苗的年齡底線是滿 6 個月；8 歲以下第一次打要分兩劑、間隔至少 4 週。",
+   "guideline": null
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29406,12 +29402,12 @@
    "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
   },
   "explanation": {
-   "A": "本項的 methadone 不是本題答案。methadone 是 full opioid agonist，可造成 physical dependence；治療目標是以穩定、受監督的劑量降低傷害，不是宣稱它不會依賴。",
-   "B": "正確。口服 methadone 可用於 opioid agonist treatment，減少為取得 heroin 而注射與共用針具的需求，因而降低血液傳染風險。",
-   "C": "本項的 methadone 不是本題答案。題目涉及臺灣管制藥品級別，舊教材分類可能隨法規調整；不能把題幹的級別當作現行結論。[TODO] 需核對題目年代與現行臺灣管制藥品分級。",
-   "D": "本項的 methadone 不是本題答案。methadone 的作用時間通常足以採每日一次給藥作維持治療；實際劑量與頻率仍需依戒斷、鎮靜及 QT risk 個別調整。",
-   "summary": "Methadone 是『用口服、長效、受監督的 opioid 降低注射傷害』，不是完全沒有依賴性的藥。",
-   "guideline": "FC 醫學(四)第3冊 p.131",
+   "A": "本項不選。methadone 本身就是全效型 mu-opioid agonist，會產生生理依賴與戒斷。它的價值不是「不會依賴」，而是把不可控的注射行為換成可控的每日口服。",
+   "B": "本項應選。這正是替代治療的核心邏輯：口服取代靜脈注射，直接切斷共用針具造成的 HIV 與 C 型肝炎傳播。台灣的美沙冬替代治療計畫就是這樣運作，病人每天到指定機構服藥。",
+   "C": "本項不選。methadone 在台灣列為**第二級**管制藥品，和 morphine、fentanyl 同級，不是第三級。第三級是 ketamine、FM2 那一類。",
+   "D": "本項不選。methadone 的半衰期長達 24 到 36 小時，正是每天服用一次就夠的原因。這個長半衰期也是它的風險：過量時呼吸抑制會拖很久，而且可能延長 QT。",
+   "summary": "美沙冬替代治療的重點是「把針換成口服」阻斷血液傳染；它半衰期 24–36 小時、每天一次，屬第二級管制藥品。",
+   "guideline": "管制藥品管理條例：methadone 列第二級管制藥品",
    "concepts": [
     "operant-conditioning-substance-use"
    ]
@@ -29447,12 +29443,12 @@
    "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
   },
   "explanation": {
-   "A": "本項敘述正確。題列酒駕門檻是特定年代的法規考點；法規可能更新，臨床與實務應查現行規定。[TODO] 需核對題目年代與現行臺灣酒駕門檻。",
-   "B": "本項敘述正確。酒精會讓人較快入睡，卻會破壞後半夜睡眠與深層睡眠，睡眠品質反而變差。",
-   "C": "本項敘述錯誤。酒精戒斷初期常見手抖、焦慮、失眠、心悸與自律神經亢進；嗜睡較像 intoxication 或戒斷後疲憊，不是典型早期表現。",
-   "D": "本項敘述正確。酒精戒斷可出現 hallucinosis 或 delirium tremens 的幻覺，仍須同時評估譫妄與生命徵象。",
-   "summary": "酒精會讓人睡著，卻不能讓人睡好；一停酒反而是失眠、手抖與自律神經亢進。",
-   "guideline": "FC 醫學(四)第3冊 p.131",
+   "A": "本項不選。台灣的違規門檻就是吐氣 0.15 mg/L 或血液 0.03%。這兩個數字互相對應，記一個就能推另一個。",
+   "B": "本項不選。酒精讓人比較快睡著，卻會壓縮深睡期與後半夜的 REM，還會造成半夜反覆醒來。所以喝酒助眠的人睡再久也覺得沒睡飽。",
+   "C": "本項應選。酒精戒斷初期是**過度亢奮**，不是嗜睡：手抖、焦慮、失眠、心悸、盜汗、血壓心跳上升，多在停酒後 6 到 24 小時出現。嗜睡比較像喝醉當下或戒斷過後的疲憊。",
+   "D": "本項不選。戒斷可以出現幻覺，通常在停酒 12 到 24 小時的 alcoholic hallucinosis，此時意識仍清楚。要和 48 到 72 小時後意識混亂加自律神經亢進的 delirium tremens 區分開，後者會死人。",
+   "summary": "酒精戒斷初期是「踩油門」的症狀——手抖、心悸、失眠，不是嗜睡；出現幻覺要看意識清不清楚來分 hallucinosis 和 DT。",
+   "guideline": null,
    "concepts": [
     "alcohol-withdrawal-timeline"
    ]
@@ -30729,13 +30725,12 @@
    "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
   },
   "explanation": {
-   "A": "顏面創傷仍遵循 trauma primary survey；airway、massive hemorrhage 與顱內損傷優先於顏面外形重建。",
-   "B": "題述以大量輸血需求或低 Hct 表示顯著失血；不過急性出血早期 Hct 未必立即下降，實務判斷仍要結合 hemodynamics。[TODO] 請核對教材的 3 units／Hct 29% 定義。",
-   "C": "正確。X 光確認 facial fracture 後並非一律立即手術；須先穩定全身狀況、評估 occlusion、soft-tissue swelling、眼球與神經損傷，再決定觀察或適時 ORIF。",
-   "D": "Orbital trauma 可造成 retrobulbar hematoma、orbital compartment syndrome 或 traumatic optic neuropathy，若延誤減壓可能永久失明。",
-   "summary": "顏面骨折不等於立即開刀；先排除生命與視力威脅，再依移位、咬合及功能安排固定。",
-   "guideline": "FC 醫學(五)第1冊 p.156",
-   "concepts": []
+   "A": "本項不選。顏面外傷再怎麼血流滿面，順序仍是 ABC 加上排除顱內出血。臉部骨折本身很少立刻致命，出血與呼吸道阻塞才會。",
+   "B": "本項不選。這是教材給的量化門檻：失血達 3 單位以上或 Hct 低於 29%，視為有生命威脅的大出血。要提醒的是急性出血初期 Hct 可能還沒掉下來，所以判斷仍以血流動力學為主。",
+   "C": "本項應選。X 光看到骨折不等於要立刻開刀。顏面骨折多半是**延遲手術**：先等消腫（常 7 到 10 天）、做 CT 精確評估、確認全身狀況穩定再修復。要立刻處理的只有少數，例如視神經壓迫、開放性骨折、嚴重咬合異常合併出血。",
+   "D": "本項不選。眼眶撞擊可造成 retrobulbar hematoma 使眼壓急升、視神經受壓，進展到失明只要幾小時。看到視力下降加眼球突出要當急症，必要時做 lateral canthotomy 減壓。",
+   "summary": "顏面骨折多半先消腫再開刀，不是照到骨折就進手術室；但眼眶後出血壓迫視神經是不能等的例外。",
+   "guideline": null
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32444,12 +32439,12 @@
    "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
   },
   "explanation": {
-   "A": "陰莖海綿體內注射 prostaglandin E1 可誘發平滑肌放鬆與勃起，之後以 duplex ultrasound 量 cavernous arterial inflow 與 venous outflow。",
-   "B": "Resistive index 由 peak systolic velocity 與 end-diastolic velocity 計算；充分勃起時舒張流接近零或反向，故 RI 可間接評估 veno-occlusive function。",
-   "C": "錯誤。良好靜脈閉鎖時 end-diastolic flow 下降，RI 通常應接近或高於 0.9；RI <0.9 反而提示可能 venous leak。[TODO] 精確 cut-off 依檢查 protocol。",
-   "D": "Cavernosal artery peak systolic velocity 是 arterial inflow 指標；刺激後 PSV 不足支持 arteriogenic erectile dysfunction。",
-   "summary": "Penile duplex 以 PSV 評 arterial inflow，以 EDV/RI 評 veno-occlusion；最佳閉鎖的 RI 應高而非低。",
-   "guideline": "FC 醫學(五)第5冊 p.183；[TODO] 精確 RI cut-off 依 protocol"
+   "A": "本項不選。要先注射 PGE1 讓海綿體充血，才能在勃起狀態下評估血流。沒有藥物誘發就量，數值沒有意義。",
+   "B": "本項不選。RI（阻力指數）反映的是舒張期血流殘留多少，正是判斷靜脈閉鎖機制好不好的指標。靜脈關得緊，舒張期血流就接近零。",
+   "C": "本項應選。方向相反。靜脈閉鎖功能良好時 RI 應該**大於 0.9**（甚至接近 1），代表舒張期幾乎沒有血流漏走。RI 小於 0.9 反而暗示靜脈滲漏。",
+   "D": "本項不選。海綿體動脈的收縮期最大流速（PSV）是判斷動脈供血的指標，一般大於 25 到 30 cm/s 視為正常。PSV 低代表動脈性勃起功能障礙。",
+   "summary": "陰莖都卜勒兩個數字分工：PSV 看動脈進得來（>25–30 cm/s），RI 看靜脈關得住（>0.9）。",
+   "guideline": null
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -35738,12 +35733,12 @@
   "specialty": "醫學倫理（FC 例外）",
   "fc_ref": null,
   "explanation": {
-   "A": "就讀大學與具理解能力不能取代人工流產的法定同意要件；本題命題當時未滿20歲者仍需法定代理人同意，醫師不能接受偽造文件。",
-   "B": "擔心病人轉往不安全場所是重要諮詢議題，但不能因此忽略法定同意；醫師應提供支持、時效說明與安全轉介，而非逕行違法處置。",
-   "C": "單純請她另找醫師是在轉移問題，也可能延誤有時限的醫療；應清楚說明欠缺的同意要件並協助取得合法、安全照護。",
-   "D": "正確。依命題當時未滿20歲的規定，須先取得父母或法定代理人的有效同意，偽造簽名不能使用。[TODO] 2023年成年年齡改為18歲後，現行個案須按年齡及優生保健法規重新判斷。",
-   "summary": "理解能力不必然取代法定同意要件；本題答案反映當時20歲成年制度，現行18歲門檻須另核對。",
-   "guideline": "優生保健法（年齡依命題當時法制）"
+   "A": "本項不選。理解與判斷能力好不代表法律要件被滿足。優生保健法對未婚未成年人施行人工流產，明定要有法定代理人同意，這不是醫師可以自行放寬的。",
+   "B": "本項不選。「怕她去密醫」是真實的臨床顧慮，但不能拿來正當化違法。正確做法是同時處理兩件事：守住法定程序，並提供諮商、社工與醫療銜接，別讓她真的流落到不安全的地方。",
+   "C": "本項不選。單純請她「去找別的醫師」是把問題丟出去，屬於照護的中斷。她此刻需要的是有人協助她與家長溝通，而不是被推走。",
+   "D": "本項應選。已經知道同意書是偽造的，就不能據以手術。正確處置是暫緩，協助她取得法定代理人同意——包括提供家庭溝通協助或轉介諮商。要提醒的是偽造同意書本身也有法律問題，但醫師的角色是協助而非追究。",
+   "summary": "未婚未成年人做人工流產要法定代理人同意；發現同意書造假就必須暫緩，但要陪她走完溝通流程，不是把人推走。",
+   "guideline": "優生保健法：未婚未成年人施行人工流產應得法定代理人同意"
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35878,12 +35873,12 @@
   "specialty": "家庭醫學科",
   "fc_ref": null,
   "explanation": {
-   "A": "ACE inhibitor 與 ARB 會影響胎兒腎臟發育並造成羊水過少等 fetotoxicity，懷孕期間應避免，絕不是慢性高血壓首選。",
-   "B": "Labetalol 與 extended-release nifedipine 是懷孕慢性高血壓常用藥物；選擇仍需考量氣喘、心搏過緩與其他個別禁忌。",
-   "C": "本題反映較早期對輕度慢性高血壓治療效益證據不足的觀點；現行 CHAP-era 建議已有改變，[TODO] 應依題目年代與現行指引分開註明治療門檻。",
-   "D": "130～150/80～100 mmHg 是題目年代常見的避免嚴重高血壓又兼顧胎盤灌流之範圍；[TODO] 現行目標應依最新產科指引核對，不能直接套用舊範圍。",
-   "summary": "孕期慢性高血壓避免 ACE inhibitor／ARB；labetalol、nifedipine 常用，而治療門檻與目標須辨識題目年代。",
-   "guideline": "[TODO] 核對最新台灣或 ACOG/SMFM 孕期慢性高血壓指引"
+   "A": "本項應選。ACE inhibitor 與 ARB 在孕期是禁用的。第二、三孕期暴露會造成胎兒腎臟發育不良、羊水過少、頭骨發育不全，統稱 fetal renin-angiotensin system blockade syndrome。有懷孕計畫的高血壓女性就該先換藥。",
+   "B": "本項不選。labetalol 與 nifedipine 是孕期慢性高血壓的兩大主力，methyldopa 也可用。這三種都有長期使用經驗，對胎兒安全性資料較充足。",
+   "C": "本項不選（依題目年代）。這句話反映的是 2022 年以前的看法。CHAP 試驗之後結論已經改變：治療輕度慢性高血壓可降低子癇前症與早產，而且不會造成胎兒生長受限。現在的建議是血壓達 140/90 就開始治療。",
+   "D": "本項不選（依題目年代）。130–150／80–100 mmHg 是舊版目標，用意是避免降太低影響胎盤灌流。CHAP 之後目標已收緊到低於 140/90 mmHg。答題看年代，臨床用新的。",
+   "summary": "孕期高血壓先記死一條：ACEI／ARB 絕對不能用，主力是 labetalol 與 nifedipine；治療門檻已從「輕度不用治」改成 140/90 就治。",
+   "guideline": "CHAP trial（NEJM 2022）後 ACOG 改為孕期慢性高血壓 ≥140/90 mmHg 即治療、目標 <140/90"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36351,12 +36346,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "慢性 C 型肝炎患者的肝癌監測需求主要取決於是否有肝硬化或其他高風險條件；本例超音波無肝硬化並不足以完整分期纖維化。[TODO] 是否需固定以超音波合併 AFP 篩檢，須依纖維化分期及現行台灣指引核對。",
-   "B": "慢性 C 型肝炎有可偵測 HCV RNA 者通常應接受直接作用型抗病毒藥（direct-acting antivirals, DAAs）治療，以達持續病毒學反應。",
-   "C": "錯誤。現今 HCV 治療以全口服 DAA 組合為主，療效高且療程較短；pegylated interferon 合併 ribavirin 已不是主要標準治療。",
-   "D": "清除 HCV 可顯著降低肝纖維化進展、失代償與肝細胞癌風險；若治療前已有肝硬化，病毒清除後仍須持續肝癌監測。",
-   "summary": "C 型肝炎現行標準是全口服 DAA，不是 pegylated interferon 加 ribavirin；達 SVR 可降風險但肝硬化者仍需監測肝癌。",
-   "guideline": "FC 醫學(三)第2冊 p.113；[TODO] 肝癌監測條件依現行台灣指引核對"
+   "A": "本項敘述正確。慢性 C 型肝炎要定期監測肝癌，超音波每 6 個月一次、常搭配 AFP。超音波看不到肝硬化不代表纖維化分期低，仍要用 FIB-4 或 elastography 補評估；已達進展性纖維化或肝硬化者，即使病毒清除也要終身追蹤。",
+   "B": "本項敘述正確。只要 HCV RNA 測得到就該治療，不必等肝硬化。台灣健保已全面給付全口服 DAA，不再限制纖維化分期。",
+   "C": "本項應選。pegylated interferon 加 ribavirin 是十多年前的舊標準，療程長、副作用重、治癒率有限。現在是全口服 direct-acting antivirals（DAA），8 到 12 週療程、治癒率九成五以上，genotype 1 也不例外。",
+   "D": "本項敘述正確。達到 SVR（停藥後 12 週測不到病毒）可降低肝硬化進展、失代償與肝癌風險。但風險是「降低」不是「歸零」，已有肝硬化的人清除病毒後仍要繼續做肝癌篩檢。",
+   "summary": "C 肝現在是全口服 DAA、8–12 週治癒，不是干擾素年代了；但清除病毒不等於免追蹤，有肝硬化仍要每半年掃一次。",
+   "guideline": "台灣健保自 2019 年起全面給付 C 肝 DAA，不限纖維化分期"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37815,12 +37810,12 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "diabetes 加速 atherosclerotic cardiovascular disease，也藉 obesity、hypertension、renal disease 與 diabetic cardiomyopathy 提高 heart failure 風險。",
-   "B": "既往 MI 或 stable heart failure 並非一律禁止 metformin；是否使用主要看 renal function、hemodynamic stability 與 tissue hypoxia 風險，acute decompensated HF、shock 或 severe AKI 時才應暫停。",
-   "C": "statin 可降低適當風險 diabetes 病人的 ASCVD events；aspirin 的 primary prevention 需衡量出血風險，並非每位糖尿病人普遍適用。[TODO] aspirin 適應症須依 primary／secondary prevention 與指引版本判定。",
-   "D": "thiazolidinediones 會經 PPAR-γ 相關作用造成 sodium/fluid retention，可能誘發或惡化 heart failure， symptomatic HF 應避免。",
-   "summary": "metformin 不因既往 MI/HF 一概禁用，應依腎功能與急性低灌流／缺氧狀態判斷；TZD 會增加液體滯留。",
-   "guideline": "[TODO] aspirin 用於糖尿病 primary prevention 的條件依現行指引與出血風險核對"
+   "A": "本項不選。糖尿病確實增加心肌梗塞與心衰竭。它同時傷大血管與心肌本身，糖尿病心肌病變可在冠狀動脈沒有明顯狹窄的情況下造成心衰竭。",
+   "B": "本項應選。這句話把 metformin 的禁忌講得太死。現行觀念是**穩定的心衰竭病人可以使用**，甚至有觀察性研究顯示預後較好。真正的禁忌是腎功能不良（eGFR 低於 30）、急性代償不全、組織灌流不足與休克，因為那時乳酸酸中毒的風險才真的升高。",
+   "C": "本項不選。statin 對糖尿病人降低心血管事件證據充分。aspirin 則要分清楚：**次級預防**明確有益；**初級預防**只在心血管風險高又出血風險低時個別考慮，不是每個糖尿病人都該吃。",
+   "D": "本項不選。thiazolidinedione 會造成鈉與水分滯留，增加心衰竭住院風險，所以已有心衰竭者不建議使用。這是它最重要的安全性議題。",
+   "summary": "metformin 不是心衰竭的禁忌，真正的紅線是 eGFR<30 與灌流不足；會惡化心衰竭的是 thiazolidinedione。",
+   "guideline": null
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38369,12 +38364,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "本項不選。此項把接種間隔用錯了。活性減毒疫苗可和非活性疫苗同時或任意間隔接種；28 天規則不是用在這個組合。",
-   "B": "本項應選。正確。兩種注射型活性減毒疫苗若不能同日接種，通常須相隔至少 28 天，避免前一疫苗的免疫反應影響後一劑。",
-   "C": "本項不選。此項不對。活性減毒疫苗與非活性疫苗可以同日接種，不能同日時也不必特別等待 28 天。",
-   "D": "本項不選。此項不對。兩種活性減毒疫苗可以同日接種；限制只出現在不同日接種時要留足間隔。",
-   "summary": "旅遊疫苗先記一條：兩種注射型活疫苗同日打，否則隔 28 天；活疫苗配非活疫苗不用等。",
-   "guideline": "[TODO] 旅遊疫苗現行細節需依臺灣 ACIP／CDC 更新確認",
+   "A": "本項不選。前半對、後半錯。活性減毒疫苗與非活性疫苗本來就沒有間隔限制，同天打或分開打都行，不必等 28 天。",
+   "B": "本項應選。兩種**注射型**活性減毒疫苗的規則是：同一天打，或至少隔 28 天。理由是前一劑誘發的干擾素反應會削弱後一劑的免疫生成。口服活疫苗（如口服小兒麻痺、輪狀病毒）不受這條限制。",
+   "C": "本項不選。活疫苗配非活疫苗可以同天接種，這在旅遊門診很常用——一次把該打的打完，病人不會因為要跑第二趟而漏掉。",
+   "D": "本項不選。兩種活疫苗可以同天接種，例如 MMR 與水痘疫苗。真正不行的是「隔了幾天才打第二種」，那反而要等滿 28 天。",
+   "summary": "活疫苗的 28 天規則只管「兩種注射型活疫苗」：同天打，或隔 28 天，中間卡幾天最糟。",
+   "guideline": null,
    "concepts": [
     "live-vaccine-spacing"
    ]
@@ -46619,13 +46614,12 @@
    "book": "FC醫(六)(3)(復健科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第三冊_復健科.pdf"
   },
   "explanation": {
-   "A": "正確。Froment sign 是夾紙時因尺神經支配的拇收肌（adductor pollicis）無力，患者改用正中神經支配的拇長屈肌代償而拇指 IP 關節屈曲；所以它指向尺神經病變。官方答案列為複選 [TODO]，但臨床定位應以尺神經為準。",
-   "B": "正確。橈神經病變造成手腕與手指伸展無力，例如 wrist drop；不會造成拇收肌無力所致的 Froment sign。官方答案列為複選 [TODO]，與標準神經解剖不符。",
-   "C": "正確。正中神經支配拇長屈肌，正是尺神經病變時用來代償夾紙的肌肉；它不是造成 Froment sign 的原發受損神經。官方答案列為複選 [TODO]，與標準神經解剖不符。",
-   "D": "正確。肌皮神經支配肘屈肌群與前臂外側感覺，和手部內在肌萎縮及夾紙動作無關。官方答案列為複選 [TODO]，與標準神經解剖不符。",
-   "summary": "Froment sign 是「尺神經壞了、拇收肌夾不住紙」；拇長屈肌代償才讓拇指 IP 屈曲。",
-   "guideline": "FC 醫學(六)第3冊 p.71；[TODO] 官方複選答案與標準定位衝突",
-   "concepts": []
+   "A": "本項是實質上的正解。Froment sign 測的是**尺神經**：請病人用拇指與食指夾紙，尺神經麻痺時 adductor pollicis 沒力，只好用正中神經支配的 flexor pollicis longus 代償，拇指指間關節因此彎曲。本題因題幹把 Froment 拼成 Formet 而一律給分。",
+   "B": "本項不選。橈神經負責伸腕與伸指，受損的招牌是垂腕（wrist drop），跟捏紙的動作無關。",
+   "C": "本項不選。正中神經麻痺造成的是猿手與拇指外展無力，測的是 abductor pollicis brevis。有趣的是 Froment sign 中代償的那條肌肉正是正中神經支配的。",
+   "D": "本項不選。肌皮神經支配肘屈曲（biceps），與手部小肌肉的萎縮無關。",
+   "summary": "Froment sign 是尺神經：捏紙時拇指指間關節彎起來，就是 adductor pollicis 沒力靠正中神經代償。",
+   "guideline": "官方更正：本題一律給分（題幹拼字誤植為 Formet）"
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47851,11 +47845,11 @@
   "specialty": "心臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Forssmann 在 1929 年由自己的肘前靜脈將導管送入右心，並以 X 光證實位置，奠定人體心導管檢查的先驅工作。",
-   "B": "Cournand 與 Richards 在 1940 年代把右心導管技術系統化，用於人體心肺生理與疾病評估，後與 Forssmann 共同獲諾貝爾獎。",
-   "C": "冠狀動脈攝影最常見的併發症確為穿刺血管處出血或血腫；實際發生率受橈動脈或股動脈途徑、抗栓治療與定義影響。[TODO] 題列 1.5–2.0% 需核對原教材資料。",
-   "D": "正確答案。冠狀動脈 CT 已是重要的非侵入性解剖檢查，但侵入性冠狀動脈攝影仍可直接量測血流生理並立即介入治療，並未被 CT 全面取代為所有情境的標準方法。",
-   "summary": "冠狀動脈 CT 擴大了非侵入性評估，但侵入性心導管仍是高風險解剖確認、生理量測與即時介入不可取代的平台。",
+   "A": "本項不選。Forssmann 在 1929 年把導尿管從自己的手臂靜脈推進右心房再照 X 光，是心導管的起點。他因此被醫院開除，多年後才與 Cournand、Richards 共同獲得諾貝爾獎。",
+   "B": "本項不選。Cournand 與 Richards 在 1940 年代把這個技術系統化，用來測量心輸出量與心內壓，讓心導管從特技變成可用的診斷工具。",
+   "C": "本項不選。穿刺部位出血或血腫確實是最常見的併發症。題目列的 1.5 到 2% 是股動脈時代的數字；改走橈動脈之後併發症率明顯下降，這也是現在優先選橈動脈的理由。",
+   "D": "本項應選。冠狀動脈電腦斷層並沒有取代心導管。CT 的強項是**排除**冠心症（陰性預測值高），適合中低風險病人；但要精確評估狹窄程度、量 FFR、同時做介入治療，還是得靠心導管。",
+   "summary": "冠狀動脈 CT 擅長「排除」，心導管才能量 FFR 並當場處理；心導管仍是解剖與生理評估的標準。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -49097,13 +49091,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "第二階氣喘一般包含低劑量 ICS 或含 ICS 的 reliever strategy；A 本身並非明顯錯誤，但官方因題目有瑕疵將全選項給分。",
-   "B": "Peak flowmeter 可供部分病人居家監測 PEF 變化；B 亦屬合理敘述，官方仍列入一律給分。",
-   "C": "氣喘治療採 stepwise approach，依控制狀況升降階；C 正確而本題官方一律給分。",
-   "D": "降階通常需維持良好控制一段時間後才考慮；「至少 2 個月」可能因指引版本而有爭議，官方因此全題給分。",
-   "summary": "本題四項多屬合理或有版本差異，官方更正為 A、B、C、D 一律給分。",
-   "guideline": "FC 醫學(三)第1冊 p.324；[TODO] 官方一律給分，需核對當年試題更正理由",
-   "concepts": []
+   "A": "本項敘述正確。第二階的標準治療就是每天低劑量吸入型類固醇。氣喘的核心是慢性發炎，所以除了最輕微的第一階，抗發炎藥都是基礎。",
+   "B": "本項敘述正確。尖峰呼氣流速計便宜、可在家做，適合用來追蹤變異度與早期察覺惡化。要看個人最佳值的百分比，不是只看絕對數字。",
+   "C": "本項敘述正確。氣喘採階梯式治療：控制不佳就升階，穩定夠久再降階，每次調整前都要先確認吸入技巧與用藥順從度。",
+   "D": "本項是本題唯一實質可爭議處。一般建議是**控制良好且穩定至少 3 個月**才考慮降階，題目寫 2 個月與此不同。但官方最後一律給分，所以四個選項都不需要選。",
+   "summary": "氣喘降階的前提是「穩定至少 3 個月」，而且每次調整前先檢查吸入技巧——技巧錯的比藥不夠的多。",
+   "guideline": "官方更正：本題一律給分"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -49760,12 +49753,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "不正確：vancomycin＋gen。vancomycin 加 gentamicin 主要偏向革蘭氏陽性菌與部分協同治療，沒有提供 Vibrio vulnificus 所需的可靠核心涵蓋。",
-   "B": "不正確：clindamycin＋pe。clindamycin 加 penicillin 常用於某些 streptococcal／clostridial 壞死感染，卻不是海水相關 Vibrio vulnificus 敗血症的標準組合。",
-   "C": "正確：ceftazidime＋te。重症 Vibrio vulnificus 感染常以第三代 cephalosporin（如 ceftazidime）合併 tetracycline；同時需要緊急外科評估與清創。",
-   "D": "不正確：cefazolin＋amik。cefazolin 對 MSSA 有活性，amikacin 偏向革蘭氏陰性菌，但此組合不如 ceftazidime 加 tetracycline 有針對 Vibrio vulnificus 的治療依據。",
-   "summary": "Vibrio vulnificus 的重症軟組織感染：第三代 cephalosporin 加 tetracycline，並且不能漏掉緊急清創。",
-   "guideline": "[TODO] 重症 Vibrio vulnificus 的現行精確給藥劑量需依指引核對"
+   "A": "本項不選。vancomycin 對付的是 MRSA 這類革蘭氏陽性菌，gentamicin 補的是革蘭氏陰性菌，兩者都不是 Vibrio vulnificus 的首選。海水接觸加猛爆性軟組織感染要優先想弧菌，不是先套 MRSA 的處方。",
+   "B": "本項不選。clindamycin 加 penicillin 是壞死性筋膜炎中 group A streptococcus 或 Clostridium 的組合，clindamycin 用來抑制外毒素。這個病人的暴露史指向弧菌，這組合涵蓋不到。",
+   "C": "本項應選。Vibrio vulnificus 的重症感染標準組合就是第三代 cephalosporin 加 tetracycline 類，例如 ceftazidime 搭 doxycycline 100 mg 每日兩次，兩者合用有協同作用。同樣重要的是**緊急外科清創**，光靠抗生素救不回快速壞死的肢體。",
+   "D": "本項不選。cefazolin 是第一代 cephalosporin，主要打 MSSA；amikacin 雖涵蓋革蘭氏陰性菌，但這組合缺乏針對弧菌的實證。第一代 cephalosporin 對 Vibrio vulnificus 的活性也不可靠。",
+   "summary": "海水或生食貝類後爆發性蜂窩組織炎＋出血性水疱：第三代 cephalosporin 加 doxycycline，並且立刻找外科清創。",
+   "guideline": null
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -49986,12 +49979,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "本項不選。USPSTF 對育齡女性的親密伴侶暴力篩檢建議有足夠證據支持，篩後還須能連結介入服務。",
-   "B": "本項應選。老人虐待篩檢的效益證據不足，USPSTF 不是給 B 級推薦；遇到警訊仍應個別評估與通報。",
-   "C": "本項不選。臺灣可撥 113 諮詢與通報，並由各地家庭暴力及性侵害防治中心協助安全與服務連結。",
-   "D": "本項不選。暴力正在發生時先撥 110 讓警察介入，能同時處理人身安全、證據保存與就醫協助。",
-   "summary": "暴力當下打 110、求助與通報可打 113；老人虐待「普篩 B 級」是把證據等級說過頭。",
-   "guideline": "[TODO] USPSTF 篩檢建議版本需以現行公告確認"
+   "A": "本項不選。USPSTF 對育齡婦女的親密伴侶暴力篩檢確實給 B 級，建議篩檢並提供或轉介介入服務。這是少數有明確證據支持的暴力篩檢。",
+   "B": "本項應選。老人虐待（以及無法自我照顧的成人）篩檢，USPSTF 給的是 I 等級，也就是**證據不足**、無法判斷利弊。說成 B 級是把證據強度講過頭了。臨床上仍要保持警覺，但那是臨床判斷，不是實證支持的普篩。",
+   "C": "本項不選。113 是保護專線，家暴、性侵、兒虐都可以打，24 小時有社工接線，可諮詢也可通報。適合非緊急但需要協助的情況。",
+   "D": "本項不選。暴力正在發生就打 110。警察能當場制止、保全證據、護送就醫，也能協助聲請保護令。緊急打 110、諮詢打 113，這兩個號碼要分清楚。",
+   "summary": "IPV 篩檢有實證（B 級），老人虐待篩檢是證據不足（I 級）；台灣的號碼分工是當下危險打 110、諮詢通報打 113。",
+   "guideline": "USPSTF：育齡女性 IPV 篩檢 B 級；老人與弱勢成人虐待篩檢為 I statement（證據不足）"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50205,11 +50198,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "低血鉀（hypokalemia）可造成 T-wave flattening、ST depression、U waves；U wave 與 T wave 融合時會呈 apparent QT/QU prolongation。",
-   "B": "嚴重 低血鉀（hypokalemia）增加 atrial／ventricular arrhythmia，包括 atrial fibrillation、ventricular tachycardia 與 torsades de pointes。",
-   "C": "hyperaldosteronism 促進 distal K secretion，若腎臟仍在不當排鉀，TTKG 應偏高而非 <5；低 TTKG 反映腎臟保鉀。",
-   "D": "甲狀腺亢進週期性癱瘓（thyrotoxic periodic paralysis）常因 hyperadrenergic state 呈相對高尿鈣、低尿磷，文獻使用的 urine calcium/phosphate ratio 通常是偏高而非 <1.6；因此選項方向不適當。[TODO] 需核對原研究的精確 cut-off 與單位。",
-   "summary": "低血鉀若由 mineralocorticoid excess 造成，腎性排鉀指標應偏高；TTKG <5 不符合。",
+   "A": "本項不選。低血鉀的心電圖變化順序是 T 波變平、出現 U 波、ST 下降，因為 T 與 U 融合而看起來像 QTc 延長。這也是它容易誘發 torsades 的原因。",
+   "B": "本項不選。嚴重低血鉀讓心肌再極化不穩定，心房顫動與 torsades de pointes 都可能發生。補鉀的同時一定要**補鎂**，低血鎂不矯正的話鉀補不上去。",
+   "C": "本項不選（但方向其實也可議）。TTKG 是用來判斷腎臟有沒有在漏鉀：低血鉀時若 TTKG 大於 7，代表腎臟仍在排鉀，屬腎性流失。醛固酮過多正是典型的腎性漏鉀，TTKG 應該偏高。題目寫「通常低於 5」與這個原則不合，只是官方選的最不適當是 D。",
+   "D": "本項應選。方向剛好相反。甲狀腺亢進週期性癱瘓因交感神經過度活化，會出現**高尿鈣、低尿磷**，所以尿鈣磷比是**偏高**（文獻多以大於 1.7 作為與其他低血鉀癱瘓的區分點）。寫成小於 1.6 剛好把鑑別點顛倒。",
+   "summary": "低血鉀癱瘓的鑑別記一個方向：甲亢性週期性癱瘓的尿鈣磷比偏「高」（>1.7），而且補鉀要小心反彈性高血鉀。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -53558,12 +53551,12 @@
    "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
   },
   "explanation": {
-   "A": "唾液腺惡性腫瘤（salivary gland malignancies）在 head and neck cancers 中比例低；題述少於 2% 用來強調其相對少見。[TODO] 精確比例會隨是否納入皮膚癌與資料庫定義而變。",
-   "B": "腮腺（parotid gland）是 salivary tumors 最常見發生處，且其中良性佔多數；pleomorphic adenoma 是最常見 benign salivary neoplasm。",
-   "C": "正確。Adenoid cystic carcinoma 的 tubular pattern 分化較好、預後最佳；solid pattern grade 高且預後最差，因此說 tubular 預後較差顛倒。",
-   "D": "黏液表皮樣癌（mucoepidermoid carcinoma）是常見 salivary malignancy；low-grade tumor 以 mucous/cystic components 多，high-grade 則 epidermoid/solid components 多。",
-   "summary": "Adenoid cystic carcinoma 的 tubular pattern 預後較佳，solid pattern 才是高分級與較差預後。",
-   "guideline": "FC 醫學(五)第2冊 p.280",
+   "A": "本項不選。唾液腺腫瘤在頭頸部癌中確實只占很小的比例，題目用少於 2% 強調它罕見。精確比例會因統計是否納入皮膚癌而有出入，但量級正確。",
+   "B": "本項不選。約八成唾液腺腫瘤長在腮腺，而腮腺腫瘤又以多形性腺瘤最常見。有個實用的反比原則：腺體越小，惡性機率越高——舌下腺腫瘤惡性比例最高。",
+   "C": "本項應選。腺樣囊狀癌的三種組織型態預後不同：**tubular 最好、cribriform 中等、solid 最差**。題目把 tubular 說成預後差，剛好講反了。這種癌的特徵是沿神經侵犯與很晚才出現的肺轉移，要長期追蹤。",
+   "D": "本項不選。黏液表皮樣癌是最常見的唾液腺惡性腫瘤。低惡性度以黏液細胞為主、預後好；高惡性度以表皮樣（鱗狀）細胞為主，侵襲性強。",
+   "summary": "腺樣囊狀癌的預後排序記 tubular 最好、solid 最差；它會沿神經爬，肺轉移可以在很多年後才出現。",
+   "guideline": null,
    "concepts": [
     "adenoid-cystic-carcinoma-patterns"
    ]
@@ -60025,11 +60018,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Diabetic kidney disease 是臺灣 CKD 與 ESKD 的主要病因，與 diabetes 盛行及病程相關。",
-   "B": "約 20–40% diabetes 患者可能發展 diabetic kidney disease；「約 20%」屬範圍低端，官方答案認為此比例低估。[TODO] 需依題目採用的流行病學來源核對。",
-   "C": "RAAS activity 相關 gene polymorphisms 被研究為 diabetic nephropathy susceptibility factors，臨床風險仍以 glycemia、BP、duration 等為主。",
-   "D": "Diabetic retinopathy 與典型 Kimmelstiel-Wilson nodular glomerulosclerosis 高度相關，尤其 type 1 diabetes。",
-   "summary": "糖尿病腎病發生比例依定義與族群約落在 20–40%；題目把固定 20% 視為低估。",
+   "A": "本項不選。糖尿病是台灣末期腎病與慢性腎臟病的第一大原因，超過四成的透析新個案來自糖尿病。這也是為什麼糖尿病人每年都要驗尿蛋白與 eGFR。",
+   "B": "本項應選。比例低估了。長期追蹤顯示大約**兩到四成**的糖尿病人會發展出糖尿病腎病變，第一型與第二型的比例略有差異。只講 20% 會低估這個併發症的份量。",
+   "C": "本項不選。RAAS 相關基因多型性（例如 ACE 基因的 I/D）確實被列為危險因子，這也部分解釋了為什麼血糖控制相近的人腎病進展差很多。其他危險因子還有高血壓、抽菸、蛋白尿與家族史。",
+   "D": "本項不選。視網膜病變與 Kimmelstiel-Wilson 結節高度相關，兩者都是微血管病變。臨床上有個實用推論：**糖尿病人有蛋白尿卻沒有視網膜病變，就要懷疑不是糖尿病腎病變**，該考慮腎切片。",
+   "summary": "糖尿病腎病變影響兩到四成的糖尿病人；有蛋白尿卻沒有視網膜病變時，要想「這可能不是糖尿病造成的腎病」。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60527,12 +60520,12 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "同胞每人 HLA-identical 機率為 1/4；n 位同胞至少一位全合機率為 1−(3/4)^n。",
-   "B": "ABO 不合通常不是 allogeneic HSCT 禁忌，可藉 graft／recipient red-cell or plasma processing 處理；不需常規增加 conditioning 或切脾。",
-   "C": "官方本題亦接受 C，但自體移植使用患者自身 stem cells，確實沒有傳統 donor-derived GVHD 或 graft rejection；[TODO] 官方將 C 併列給分的原始理由需核對。",
-   "D": "G-CSF 可 mobilize peripheral blood stem cells；收集不足時 CXCR4 antagonist plerixafor 可增強 mobilization。",
-   "summary": "官方 B 或 C 均給分；B 的 ABO 處置明顯不當，C 依一般定義則屬正確敘述，需保留官方答案疑義。",
-   "guideline": "[TODO] 官方答案疑義：第43題答 B、C 或 BC 均給分"
+   "A": "本項不選。每個手足與病人 HLA 全合的機率是 1/4，不合是 3/4。n 個手足全都不合的機率是 (0.75)^n，所以至少找到一個相合的機率就是 1-(0.75)^n。這個公式常被拿來說明為什麼手足少的家庭要靠非親屬捐贈者。",
+   "B": "本項應選。ABO 血型不合**不需要**加重免疫抑制，更不需要切脾臟。原因是造血幹細胞不表現 ABO 抗原，所以 ABO 不合不會造成移植失敗。實際做法是處理產品本身：主要不合就去除紅血球，次要不合就去除血漿。真正決定排斥與 GVHD 的是 HLA，不是 ABO。",
+   "C": "本項官方亦給分。自體移植用的是病人自己的細胞，理論上沒有 GVHD 與排斥，這是通識。但文獻確實有少見的自體 GVHD 報告（多為輕微皮膚表現、可自限），把話說到「並無風險」就太絕對，這應是官方併列此項的理由。",
+   "D": "本項不選。G-CSF 動員數天後從周邊血收集幹細胞是現在的標準做法。收集量不足時加上 plerixafor（CXCR4 拮抗劑），把幹細胞從骨髓微環境「趕」進血流，可明顯提高收集量。",
+   "summary": "ABO 不合不影響幹細胞植入，處理的是產品不是病人；配對真正看的是 HLA。",
+   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60783,12 +60776,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "不正確：非結核分枝桿菌的肺部感染，幾。NTM 肺病不只見於 HIV；支氣管擴張、COPD、既有空洞、纖毛功能異常或免疫抑制者都可能發病。",
-   "B": "不正確：非結核分枝桿菌中的M. go。M. gordonae 常被視為自來水污染菌，臨床致病性低。分離到它時要先判斷檢體污染或定殖，不能直接當成結核樣肺病。",
-   "C": "正確：M. avium compl。M. avium complex 是慢速生長菌；NTM 肺病通常需長期多藥治療，常以痰培養轉陰後至少 12 個月為目標，整體療程可達約 18 個月。",
-   "D": "不正確：M. abscessus是快。M. abscessus 是快速生長 NTM，但快速生長不代表只治兩週。它的肺部感染常需多藥與長期治療，且療效較困難。",
-   "summary": "NTM 的「快速生長」不是一般肺炎的短療程；MAC 肺病通常是長期多藥治療。",
-   "guideline": "[TODO] NTM 肺病的現行 regimen 與精確療程須依菌種和指引核對",
+   "A": "本項不選。非結核分枝桿菌肺病最常見的宿主其實是結構性肺病的人——支氣管擴張、COPD、舊肺結核空洞、纖毛功能異常，還有典型的瘦高年長女性（Lady Windermere syndrome）。HIV 感染者較常見的是播散性 MAC，不是這裡講的肺病。",
+   "B": "本項不選。M. gordonae 是自來水裡的常客，臨床致病性很低，被稱為 tap water bacillus。從檢體分離到它時第一個念頭要是污染或定殖，而不是治療。",
+   "C": "本項應選。M. avium complex 是慢速生長菌，肺病要用 macrolide 為骨幹的三合一（azithromycin 加 ethambutol 加 rifampin），而且**痰培養轉陰後還要再治滿 12 個月**，加上轉陰前的時間，整體常拉到 18 個月上下。",
+   "D": "本項不選。M. abscessus 雖然在培養基上長得快，療程卻是最難的一種。它需要靜脈加口服的多重藥物、數個月起跳，治癒率仍不理想，跟一般肺炎兩週的療程完全是兩回事。",
+   "summary": "NTM 的「快速生長」講的是培養速度不是療程；MAC 肺病要在痰培養轉陰後再治 12 個月。",
+   "guideline": "ATS/ERS/ESCMID/IDSA NTM 肺病指引（MAC 以 macrolide 為骨幹，轉陰後續治 12 個月）",
    "concepts": [
     "ntm-pulmonary-disease-diagnostic-criteria"
    ]
@@ -61150,12 +61143,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "本項（A：Listeria monoc）不選。TMP-SMX 對 Listeria monocytogenes 有活性，免疫低下者使用它可同時降低某些細菌感染風險。",
-   "B": "本項（B：Nocardia spp.）不選。TMP-SMX 對 Nocardia spp. 是重要治療與預防藥物，因此此項有合理生物學基礎。",
-   "C": "本項（C：Streptococcus ）不選。TMP-SMX 對 Streptococcus pneumoniae 的活性受地區抗藥性影響，但在題目所列中仍比腦膜炎雙球菌更可能被此預防策略影響。",
-   "D": "本項（D：Neisseria meni）是本題要選。Neisseria meningitidis 的預防重點是疫苗與密切接觸者短程化學預防，不是移植後長期 TMP-SMX。",
-   "summary": "TMP-SMX 預防的經典重點是 PJP，也能影響 Nocardia、Listeria；腦膜炎雙球菌主要靠疫苗與暴露後 prophylaxis。",
-   "guideline": "[TODO] 血液幹細胞移植後 TMP-SMX 的完整預防適應症需依移植指引核對"
+   "A": "本項不選。TMP-SMX 對 Listeria monocytogenes 有活性。它也是 penicillin 過敏者治療 Listeria 的替代藥，所以長期使用確實會壓低這個風險。",
+   "B": "本項不選。TMP-SMX 就是 Nocardia 的首選治療藥。移植後長期低劑量使用，順帶把 nocardiosis 一起擋掉，這是很經典的附帶效益。",
+   "C": "本項不選。TMP-SMX 對肺炎鏈球菌仍有部分活性，抗藥比例因地區而異。跟腦膜炎雙球菌比起來，它至少還沾得上邊。",
+   "D": "本項應選。腦膜炎雙球菌靠的是疫苗，加上密切接觸者的短程預防（rifampin、ciprofloxacin 或 ceftriaxone）。長期吃 TMP-SMX 不是防它的手段。",
+   "summary": "TMP-SMX 預防的主角是 PJP，順帶罩住 Nocardia 與 Listeria；腦膜炎雙球菌靠疫苗，不靠它。",
+   "guideline": null
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61226,12 +61219,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確，且是本題不符合病程的選項。Staphylococcal infective endocarditis 合併 septic arthritis 通常呈侵襲性感染與菌血症表現，不能解釋 Chlamydia urethritis 後數週出現的 arthritis、conjunctivitis／uveitis 與 palmoplantar lesions。",
-   "B": "反應性關節炎（reactive arthritis）是在遠端感染後發生的 sterile inflammatory arthritis；下肢 oligoarthritis、sacroiliac symptoms、眼炎與皮膚病灶均符合。",
-   "C": "Chlamydia trachomatis 是 non-gonococcal urethritis 後 reactive arthritis 的典型誘因；關節症狀常在泌尿生殖感染後數週出現。",
-   "D": "HLA-B27 與較嚴重、axial 或 chronic reactive arthritis 有關；但不同研究與族群的帶原率差異很大，[TODO] 題目所稱『超過 80%』需依原教材與族群資料確認。",
-   "summary": "Urethritis 後數週出現 asymmetric lower-limb arthritis、ocular inflammation 與 palmoplantar lesions，是 Chlamydia-associated reactive arthritis。",
-   "guideline": "FC 醫學(三)第4冊 p.105"
+   "A": "本項應選。這是被套錯的診斷。感染性心內膜炎與化膿性關節炎會有持續發燒、菌血症、關節液長菌；本例是**尿道炎痊癒約四週後**才出現的無菌性關節炎，加上結膜炎、葡萄膜炎與掌蹠皮疹，是免疫反應而不是細菌直接感染關節。",
+   "B": "本項不選。反應性關節炎的經典三聯是關節炎、結膜炎、尿道炎，發生在感染後一到四週。手掌腳掌的丘疹叫 keratoderma blennorrhagicum，是它的特徵性皮膚表現。",
+   "C": "本項不選。泌尿道來源的反應性關節炎最常見的元凶就是 Chlamydia trachomatis；腸道來源則是 Shigella、Salmonella、Yersinia、Campylobacter。治療感染本身不一定能改變關節炎病程。",
+   "D": "本項不選。反應性關節炎與 HLA-B27 高度相關，帶原者症狀較重、較容易慢性化。文獻報告的比例多落在六到八成之間，題目取的是上緣。",
+   "summary": "感染後一到四週才出現的無菌性關節炎加結膜炎與掌蹠皮疹＝反應性關節炎，不是細菌跑進關節。",
+   "guideline": null
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61455,12 +61448,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "本項應選。正確。題幹是健康的 18 歲男性；特發性脊椎側彎篩檢主要針對青少女，並非此族群優先需要的預防服務。",
-   "B": "本項不選。此項仍需要。成人就診時應量測 BMI 並在有肥胖時提供或轉介密集生活型態介入。",
-   "C": "本項不選。此項仍需要風險評估。性活躍青年應依性別、性行為與暴露風險決定 HIV、梅毒、淋病或披衣菌篩檢及安全性行為諮詢。",
-   "D": "本項不選。此項仍需要。青年是菸品與電子菸開始使用的高風險期，預防與詢問可及早避免尼古丁依賴。",
-   "summary": "健康青年也要談 BMI、菸品與性健康；脊椎側彎不是健康 18 歲男性的優先篩檢。",
-   "guideline": "[TODO] USPSTF 服務建議需依現行年齡與風險分層確認"
+   "A": "本項應選。無症狀青少年的原發性脊椎側彎篩檢，USPSTF 給 I 等級（證據不足），並不是常規建議項目。何況這位是 18 歲男性，脊椎側彎的好發族群是青春期女生。",
+   "B": "本項不選。成人肥胖篩檢是 B 級：量 BMI，達 30 以上就轉介密集行為介入。18 歲照樣適用，這是最基本的預防保健。",
+   "C": "本項不選。他有親密伴侶，屬於性活躍族群。性傳染病的行為諮詢在高風險青少年與成人是 B 級建議，衣原體與淋病篩檢也要視風險評估。",
+   "D": "本項不選。菸品使用是所有預防保健裡等級最高的一群：成人詢問並提供戒菸協助是 A 級，未使用的青少年給預防性衛教也有建議。門診花一分鐘問，效益比多數篩檢都好。",
+   "summary": "健康 18 歲男生的預防保健重點是 BMI、菸、性健康；脊椎側彎普篩是證據不足的 I 級，不是常規項目。",
+   "guideline": "USPSTF：青少年脊椎側彎篩檢 I statement；肥胖篩檢 B；菸品 A"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61493,12 +61486,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "本項不選。此項不夠正確。A 型肝炎疫苗宜盡早在出發前接種，臨近出發時是否加免疫球蛋白要看年齡、免疫狀態與風險，不能只記一週。",
-   "B": "本項不選。此項不對。B 型肝炎標準系列需要多劑建立保護，出發前一週才打第一劑通常不足以完成常規保護。",
-   "C": "本項應選。正確。黃熱病疫苗通常提供長期、原則上終生的保護；但部分目的地仍依其入境規定要求每 10 年的接種證明。",
-   "D": "本項不選。此項不對。赴沙烏地阿拉伯特定朝覲需要腦膜炎雙球菌疫苗，但追加間隔依疫苗種類與入境規定，不能一概說每 10 年。",
-   "summary": "黃熱病保護原則上長期有效，但入境文件可能另有規定；旅遊疫苗要同時看醫學保護與目的地規則。",
-   "guideline": "[TODO] 目的地入境與旅遊疫苗規則需以出發當期臺灣／目的地公告確認",
+   "A": "本項不選。A 型肝炎疫苗打完約需 2 到 4 週才產生足夠保護力，建議至少提前 2 週接種，不是 1 週。不過就算臨近出發才打也仍建議打，總比不打好。",
+   "B": "本項不選。B 型肝炎疫苗是三劑系列（0、1、6 個月），不是打一劑就有完整保護。時間不夠時可用加速時程，但仍需多劑。",
+   "C": "本項應選。黃熱病疫苗依國際衛生條例，單劑即視為終身有效，接種證明也終身有效。但部分國家的入境規定仍要求 10 年內的證明，所以出發前一定要查目的地的規則。醫學保護與入境文件是兩件事。",
+   "D": "本項不選。前往麥加朝覲確實要求腦膜炎雙球菌疫苗，但沙烏地要求的是接種後滿 10 天、且在有效期內（結合型疫苗約 5 年，多醣體疫苗約 3 年），不是每 10 年一次。",
+   "summary": "旅遊疫苗要同時想兩件事：醫學上的保護期，和目的地入境文件的要求——黃熱病終身有效，但有些國家還是只認 10 年內的證明。",
+   "guideline": "WHO 國際衛生條例（2016 起黃熱病接種證明終身有效）",
    "concepts": [
     "live-vaccine-spacing"
    ]
@@ -61803,12 +61796,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "不正確：常見有多天的發燒、腹瀉及血便。傷寒可有腹瀉或便祕，腸道潰瘍嚴重時才可能出血；「多天發燒、腹瀉及血便」不是最典型完整組合。",
-   "B": "正確：病人可能有白血球下降、肝功能。傷寒常有持續發燒、相對緩脈、白血球偏低、肝酵素異常與脾腫大，反映全身性 Salmonella Typhi 感染。",
-   "C": "不正確：使用抗生素後，最容易培養出細。抗生素使用後培養敏感度會下降；早期與治療前的 blood culture 通常比糞便培養更有診斷價值。",
-   "D": "不正確：Salmonella typ。Salmonella Typhi 對 fluoroquinolone 的敏感性會因地區而異，已有減低敏感性與抗藥性，不能假設完全沒有抗藥。",
-   "summary": "傷寒是全身性菌血症：持續發燒加 leukopenia、肝功能異常、splenomegaly，比血便更有辨識度。",
-   "guideline": "[TODO] 傷寒的現行地區性抗藥與首選療法需依旅遊地／藥敏核對"
+   "A": "本項不選。傷寒是全身性菌血症，不是典型的腸炎。第一週常是階梯式發燒加相對緩脈，腹瀉和便祕都可能。血便要等第三週腸道潰瘍出血才出現，那已經是併發症。",
+   "B": "本項應選。傷寒最有辨識度的組合就是這三樣：白血球不升反降、肝酵素輕度上升、脾臟摸得到。一般細菌感染白血球會衝高，傷寒反而偏低，這個反差就是考點。",
+   "C": "本項不選。抗生素一下去，糞便培養的陽性率會掉得很快。傷寒的診斷主力是治療前的血液培養，第一週陽性率最高；真的都陰性時骨髓培養最敏感。",
+   "D": "本項不選。南亞與東南亞的 Salmonella Typhi 早就出現 fluoroquinolone 敏感性下降，甚至有廣泛抗藥（XDR）菌株。從那些地區回來的病人，經驗性治療多改用 ceftriaxone 或 azithromycin。",
+   "summary": "發燒一週、白血球反而低、肝指數上升又摸到脾臟，就要想傷寒；診斷靠治療前的血液培養。",
+   "guideline": null
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -64051,12 +64044,12 @@
    "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
   },
   "explanation": {
-   "A": "本項的 一般研究發現 不是本題答案。年齡增加與家族史是失智症重要危險因子；女性較高盛行率亦受較長壽命與族群因素影響。",
-   "B": "本項敘述錯誤。失智症過程可有 psychosis，但『約三分之一』並非所有失智類型與病程皆適用的固定比例；題幹的絕對數字需以來源和族群核對。[TODO] 需核對此流行病學比例的原始資料。",
-   "C": "本項的 progressive 不是本題答案。多數 neurodegenerative dementia 呈漸進且通常不可逆的認知下降，且盛行率隨年齡增加；但仍要找可逆或可治療的共病。",
-   "D": "本項的 老年人有憂鬱 不是本題答案。憂鬱、甲狀腺低下與 vitamin deficiency 可造成可逆或部分可逆的認知症狀，評估失智時不可漏掉。",
-   "summary": "失智評估先分兩層：退化型多進行不可逆，但憂鬱、甲低、vitamin deficiency 可能模仿它而可處理。",
-   "guideline": "FC 醫學(四)第3冊 p.152"
+   "A": "本項不選。年齡是最強的危險因子，家族史與女性也都在名單上（女性壽命較長只是部分原因，停經後雌激素下降也被認為有關）。",
+   "B": "本項應選。把妄想和幻覺綁成同一個「三分之一」太粗糙。常見的報告是妄想約 30 到 40%、幻覺約 15 到 20%，兩者比例並不相同。而且亞型差很多：路易氏體失智症的視幻覺可高達八成，是它的核心診斷特徵。",
+   "C": "本項不選。多數失智症確實是漸進且不可逆，盛行率隨年齡上升，65 歲以後大約每 5 歲翻倍。少數可回復的類型是例外，那正是選項 D 在講的。",
+   "D": "本項不選。憂鬱症造成的假性失智、甲狀腺功能低下、B12 或葉酸缺乏，都會表現得像失智。這些是初次評估一定要驗掉的可回復原因。",
+   "summary": "失智症的精神症狀比例要分開記：妄想 30–40%、幻覺 15–20%，而路易氏體失智的視幻覺高達八成。",
+   "guideline": null
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65062,12 +65055,12 @@
    "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
   },
   "explanation": {
-   "A": "本項應選。官方更正接受 A 或 C。標準 Mathes–Nahai 分類中，腓腸肌（gastrocnemius）通常列 type I，這個配對本身可成立；若教材把名稱或血管蒂歸類不同，才會造成 A 被接受。",
-   "B": "本項不選。股薄肌（gracilis）有一條 dominant pedicle 加數條 minor pedicles，屬 type II。",
-   "C": "本項可作為錯誤配對。胸大肌（pectoralis major）有 thoracoacromial dominant pedicle 與胸內動脈穿通支等次要供應，通常列 type V，不是 type III；官方也接受此項。",
-   "D": "本項不選。縫匠肌（sartorius）由多條 segmental pedicles 供應、沒有 dominant pedicle，屬 type IV。",
-   "summary": "胸大肌是 Mathes–Nahai type V；本題 A／C 官方都給分，但依標準配對最明確的錯項是把胸大肌寫成 type III。",
-   "guideline": "FC 醫學(五)第2冊 p.314；官方更正：第16題答 A 或 C 者均給分",
+   "A": "本項是官方接受的答案之一。標準 Mathes-Nahai 分類把腓腸肌（gastrocnemius）歸在 **type I**（單一血管蒂），所以這個配對其實是對的。它被接受為答案，推測與題目寫成「比目魚肌」有關——soleus 的分類與 gastrocnemius 不同。",
+   "B": "本項不選。股薄肌是 type II 的經典代表：一條主要血管蒂加上一或多條次要蒂。type II 也是臨床上最常見的肌肉皮瓣型態。",
+   "C": "本項是官方接受的答案之一，也是實質上最明確的錯誤。胸大肌屬 **type V**（一條主要蒂加一排節段性蒂），不是 type III。type V 的特色是兩套血流都能單獨養活皮瓣，所以掀起方式很靈活。",
+   "D": "本項不選。縫匠肌是 type IV 的代表：多條大小相近的節段血管蒂。這型每掀一段就少一條血流，可靠度最差，所以臨床上很少當皮瓣用。",
+   "summary": "Mathes-Nahai 記代表肌肉：I 腓腸肌、II 股薄肌、IV 縫匠肌、V 胸大肌；type IV 節段供血最不可靠。",
+   "guideline": "官方更正：本題答 A 或 C 均給分；C（胸大肌應為 type V）是實質錯誤",
    "concepts": [
     "mathes-nahai-muscle-flap-classification"
    ]
@@ -66416,12 +66409,12 @@
   "specialty": "外科概論",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選。這句話符合傳統減重手術適應症：BMI >40 kg/m²，或 BMI >35 kg/m² 合併嚴重肥胖相關共病，可考慮手術。",
-   "B": "本項不選。生活型態與飲食治療失敗是手術評估的重要前提，表示非手術方式未能達到足夠且持久的效果。",
-   "C": "本項要選。家庭支持有助術後成功，但家庭會議決定不是醫學適應症；仍須病人本人的知情決定與多專科風險評估。",
-   "D": "本項不選。精神狀態穩定、無未控制物質使用問題，有助於確保能遵守飲食、營養補充和長期追蹤，是合理的術前條件。",
-   "summary": "減重手術靠 BMI、共病和非手術失敗來決定；家人支持很重要，但不能取代病人的醫療適應症。",
-   "guideline": "[TODO] 題幹稱目前指引，需以當地最新適應症版本複核"
+   "A": "本項不選。這是傳統的減重手術適應症：BMI 超過 40，或超過 35 並有肥胖相關共病。台灣健保的給付門檻更嚴，是 BMI ≥37.5，或 ≥32.5 併有第二型糖尿病等代謝共病。",
+   "B": "本項不選。手術前必須先有**非手術治療失敗**的紀錄：飲食、運動與行為治療都試過而效果不足。這一條同時是醫學適應症與給付審查的要件。",
+   "C": "本項應選。手術決定的主體是**病人本人**，不是家庭會議。家屬支持對術後長期飲食調整很有幫助，但那是支持系統，不是適應症。把決定權交給家庭會議也違反自主原則。",
+   "D": "本項不選。術前一定要做精神評估：未控制的精神疾病、酒精依賴或藥物濫用會嚴重影響術後遵從度與結果，屬於相對禁忌。",
+   "summary": "減重手術的適應症看 BMI、共病、非手術治療失敗與精神狀態；決定的人是病人自己，不是家庭會議。",
+   "guideline": "台灣健保給付門檻：BMI ≥37.5，或 ≥32.5 併有第二型糖尿病等代謝共病"
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -67911,13 +67904,12 @@
    "book": "FC醫(六)(2)(眼科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第二冊_眼科.pdf"
   },
   "explanation": {
-   "A": "官方本題一律給分，但解剖學上角膜內皮細胞在體內幾乎不會有足夠的有絲分裂再生；受損後主要靠剩餘細胞擴大與移行覆蓋。",
-   "B": "官方本題一律給分。內皮的屏障與 Na+/K+-ATPase 幫浦功能把基質維持在相對脫水、透明的狀態；角膜含水量約 78% 是常用描述。",
-   "C": "官方本題一律給分。內皮細胞密度低到無法維持幫浦時，基質會持續水腫而混濁，嚴重傷害後確實可變成不可逆。",
-   "D": "官方本題一律給分。不可逆內皮失代償造成視力下降時，可用角膜內皮移植等角膜移植方式恢復透明度。",
-   "summary": "角膜內皮像排水幫浦，壞掉後角膜會泡水變霧；它幾乎不會再生，所以官方一律給分題的關鍵仍是內皮失代償。",
-   "guideline": "FC 醫學(六)第2冊 p.65；官方第13題一律給分",
-   "concepts": []
+   "A": "本項是命題原本要選的錯誤敘述。成人角膜內皮細胞**幾乎不再分裂**。受損後靠周圍細胞擴大與移行來覆蓋缺口，總數只會遞減。密度從出生時每平方毫米約 4,000 個逐年下降，低到 500 以下就會失代償。「具有適度再生能力」與這個通行說法衝突，但因語意可爭議，本題最後一律給分。",
+   "B": "本項敘述正確。內皮細胞身兼屏障與幫浦兩職。它擋住房水滲入，再靠 Na-K ATPase 主動把水打出去。角膜因此維持在約 78% 含水量的相對脫水狀態，這正是它能保持透明的原因。",
+   "C": "本項敘述正確。內皮細胞不能再生，損失過多就回不來。密度低於臨界值後幫浦功能失代償，造成不可逆的角膜水腫（bullous keratopathy）。白內障手術傷到太多內皮也會這樣。",
+   "D": "本項敘述正確。不可逆水腫影響視力時可做角膜移植，現在多採只換內皮層的 DSAEK 或 DMEK，恢復比全層移植快。",
+   "summary": "角膜內皮不會再生，只會越用越少：它靠幫浦維持角膜約 78% 含水量，密度掉太低就水腫，只能換內皮。",
+   "guideline": "官方更正：本題一律給分"
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -68728,13 +68720,12 @@
   "specialty": "產科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不對，Cefazolin 是剖腹產常用預防性抗生素，但有嚴重 penicillin allergy 時需避免可能的 β-lactam 交叉反應；而且 1.5 mg 的劑量明顯不合理。",
-   "B": "本項不對，Gentamicin 可與 clindamycin 合用作替代預防療法，但單獨使用涵蓋範圍不足，不能取代組合治療。",
-   "C": "正確。對 β-lactam 過敏的剖腹產婦，可用 clindamycin 加 gentamicin 作術前單次預防，以涵蓋厭氧菌與革蘭陰性菌。",
-   "D": "本項不對，Ceftriaxone 不是常規剖腹傷口預防方案，且病人有 penicillin allergy，不能把它當成不需評估過敏風險的替代藥。",
-   "summary": "剖腹產預防感染先想單次 cefazolin；嚴重 β-lactam allergy 則改 clindamycin 加 gentamicin，不是單用一種藥。",
-   "guideline": null,
-   "concepts": []
+   "A": "本項不選。兩個問題：她對 penicillin 過敏，cephalosporin 有交叉過敏的疑慮；而且劑量單位不對，cefazolin 的術前預防是 2 公克單次給予，不是 1.5 毫克每 8 小時。手術預防用藥的原則是**切皮前 60 分鐘內單次足量**，不是術後連打好幾天。",
+   "B": "本項不選。gentamicin 只涵蓋革蘭氏陰性菌。剖腹產傷口感染的主角是皮膚的革蘭氏陽性菌與生殖道的厭氧菌，單用 gentamicin 等於漏掉一大半。",
+   "C": "本項應選。penicillin 嚴重過敏時的替代組合就是 clindamycin 加 gentamicin：clindamycin 補革蘭氏陽性菌與厭氧菌，gentamicin 補革蘭氏陰性菌。兩者都是切皮前單次給予。",
+   "D": "本項不選。ceftriaxone 同屬 cephalosporin，過敏考量與 A 相同。而且它不是手術預防的標準選擇，每 12 小時連續給也不符合單次預防的原則。",
+   "summary": "剖腹產預防感染的標準是切皮前單次 cefazolin 2 g；penicillin 過敏就換 clindamycin 加 gentamicin。",
+   "guideline": null
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -68762,13 +68753,12 @@
   "specialty": "產科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不對，接受化學治療時，細胞毒性藥物可能進入乳汁並傷害嬰兒快速分裂細胞，因此是哺乳禁忌。",
-   "B": "正確。C 型肝炎病毒（hepatitis C virus）感染本身通常不是哺乳禁忌；若乳頭破裂出血，才應暫停患側哺乳以避免血液暴露。",
-   "C": "本項不對，HIV 可經母乳傳播；在有安全替代餵食的環境，HIV 感染者通常不建議哺乳。",
-   "D": "本項不對，未治療開放性肺結核的母親可把結核菌經飛沫傳給嬰兒，需先隔離與治療；不是可直接親餵的情境。",
-   "summary": "HCV 不等於不能哺乳；真正要避的是化療藥、HIV 和未治療開放性 TB，HCV 乳頭出血時才暫停。",
-   "guideline": null,
-   "concepts": []
+   "A": "本項不選，這是禁忌。化學治療藥物會進入母乳，對嬰兒有骨髓抑制等毒性。停藥後能否恢復哺乳要看個別藥物的半衰期。",
+   "B": "本項應選。C 型肝炎**不是**哺乳的禁忌。母乳傳染 HCV 的證據不足，所以感染 HCV 的媽媽可以哺乳。唯一的提醒是乳頭破皮流血時暫停，因為那是血液接觸而不是乳汁本身的問題。",
+   "C": "本項不選，這是禁忌。在配方奶取得容易、水源安全的地方（含台灣），HIV 感染的母親建議不要哺乳，改用配方奶以避免母乳傳染。",
+   "D": "本項不選，這是禁忌。未治療的開放性肺結核具傳染性，母嬰必須暫時隔離。要注意的是傳染途徑是飛沫而不是乳汁，所以**擠出來的母乳仍可以餵**，等治療滿兩週以上再評估親自哺乳。",
+   "summary": "哺乳禁忌記三個：化療、HIV、未治療的開放性肺結核；C 型肝炎不在其中，B 型肝炎打了疫苗也可以餵。",
+   "guideline": null
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -70020,13 +70010,12 @@
    "book": "FC醫(六)(3)(復健科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第三冊_復健科.pdf"
   },
   "explanation": {
-   "A": "不正確。C4 完全頸髓損傷缺乏可用的肘伸肌與手部功能，通常無法獨立推動一般手動輪椅。",
-   "B": "本項要選。官方答案列 C5，但 C5 雖可用肘屈肌，仍缺乏有效三頭肌與手部穩定；以一般手動輪椅的功能分類而言，能否獨立長期推行有爭議 [TODO]。",
-   "C": "本項不選。C6 有腕伸肌，可利用 tenodesis 抓握並配合上肢訓練，功能分類常認為這個節段才有機會獨立操作手動輪椅；這與官方 C5 答案衝突 [TODO]。",
-   "D": "不正確。C7 保留三頭肌，推輪椅能力通常更好；但題目問的是仍可能獨立推行的最高位，因此不是 C7。",
-   "summary": "手動輪椅的分水嶺在 C6：有腕伸肌可做 tenodesis，才開始有機會自己推。",
-   "guideline": "FC 醫學(六)第3冊 p.69",
-   "concepts": []
+   "A": "本項不選。C4 只有頸部與橫膈的控制，上肢完全沒有主動動作，無法推動手動輪椅。這個節段的移動要靠電動輪椅，用下巴或吹吸開關操作。",
+   "B": "本項應選。C5 保留 deltoid 與 biceps，能屈肘與外展肩膀，經過訓練並使用**加裝突起把手的輪圈**，可以在平地短距離自行推行。這是能操作手動輪椅的最高損傷節段，但實用性有限，長距離仍多用電動輪椅。",
+   "C": "本項不選。C6 多了伸腕，可利用 tenodesis 抓握，操作輪椅比 C5 順很多。但題目問的是「最高位」，C6 不是最高的那個。",
+   "D": "本項不選。C7 有伸肘（triceps），能做轉位與撐起減壓，功能獨立度更高，離「最高位」更遠。",
+   "summary": "脊髓損傷的手動輪椅分界：C5 靠改裝輪圈勉強可推，C6 有伸腕靠 tenodesis 抓握，C7 有伸肘才能自行轉位。",
+   "guideline": null
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72579,12 +72568,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項（A：口咽移生之抗藥性菌嗆咳，是發）不選。口咽被抗藥菌定殖後，微量吸入可把細菌帶入下呼吸道，是醫療照護相關肺炎的重要機轉。",
-   "B": "本項（B：住院4天內發生早發性 ear）不選。早發性住院肺炎較可能由肺炎鏈球菌（Streptococcus pneumoniae）、嗜血流感桿菌（Haemophilus influenzae）等社區病原引起，但仍要結合個人 MDR 風險。",
-   "C": "本項（C：若培養未發現特定的抗藥性致病）不選。培養沒有 MDR 病原且臨床改善時，縮短療程可減少後續抗生素壓力；精確天數要隨病原與反應調整。",
-   "D": "本項（D：床頭抬高15～20度是可以減）是本題要選。預防吸入的床頭抬高通常採約 30–45 度；15–20 度不足以作為標準預防措施。",
-   "summary": "預防 aspiration-related HAP/VAP 的床頭高度要記 30–45 度，不是只抬 15–20 度。",
-   "guideline": "[TODO] HAP/VAP 的現行療程長度與本院 bundle 細節需依指引核對"
+   "A": "本項不選。口咽先被抗藥菌定殖，再靠微量吸入把細菌帶進下呼吸道，這就是院內肺炎的主要機轉。所以口腔照護才會被放進預防 bundle。",
+   "B": "本項不選。住院不到 4 天發病算早發性，致病菌多半還是社區型的肺炎鏈球菌或嗜血流感桿菌。但如果病人近 90 天內用過靜脈抗生素，仍要當多重抗藥性風險處理。",
+   "C": "本項不選。培養沒長出抗藥菌、臨床也在改善時，療程縮短到 7 到 8 天的效果不輸長療程，還能減少後續抗藥菌定殖。Pseudomonas 等難纏菌種才需要個別延長。",
+   "D": "本項應選。防吸入的床頭角度標準是 30 到 45 度，只抬 15 到 20 度不夠。這是 VAP 預防 bundle 裡最便宜也最常被打折扣的一項。",
+   "summary": "床頭抬高記 30–45 度；抬不夠等於沒做。培養沒長抗藥菌又有改善，療程 7–8 天就夠。",
+   "guideline": null
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72693,12 +72682,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "不正確：trimethoprim-s。TMP-SMX 對 Campylobacter jejuni 的抗藥性常見，且重症菌血症患者不宜把它當經驗性首選。",
-   "B": "不正確：metronidazole。metronidazole 主要涵蓋厭氧菌與部分原蟲，對 Campylobacter jejuni 不是合適的經驗性治療。",
-   "C": "不正確：ampicillin。ampicillin 對 Campylobacter 的敏感性不可靠；肝硬化合併低血壓與菌血症需要更廣的初始涵蓋。",
-   "D": "正確：carbapenem。肝硬化、黃疸、休克與 Campylobacter 菌血症屬重症宿主；在藥敏未出前以 carbapenem 初始治療，之後再 de-escalate。",
-   "summary": "Campylobacter 腸炎多能自限，但肝硬化合併菌血症與休克是重症例外，先保命再依藥敏收窄。",
-   "guideline": "[TODO] 重症 Campylobacter bacteremia 的現行經驗性 regimen 須依藥敏與指引核對"
+   "A": "本項不選。Campylobacter jejuni 對 TMP-SMX 的抗藥性本來就高。這個病人已經休克，經驗性用藥不能賭在不可靠的藥上。",
+   "B": "本項不選。metronidazole 打的是厭氧菌與部分原蟲。Campylobacter 是微好氧的革蘭氏陰性彎曲桿菌，不在它的守備範圍。",
+   "C": "本項不選。Campylobacter 對 ampicillin 的敏感性不可靠。而且這位是肝硬化又休克的病人，初始涵蓋必須夠廣，不是挑窄效藥的時機。",
+   "D": "本項應選。肝硬化、黃疸、低血壓加上菌血症，屬於重症宿主，藥敏還沒出來前先用 carbapenem 把涵蓋做滿。等藥敏回來再降階，一般 Campylobacter 菌血症可換 azithromycin 或 fluoroquinolone。",
+   "summary": "Campylobacter 腸炎多半自己會好，但肝硬化加休克是例外：先用廣效撐住，藥敏出來再降階。",
+   "guideline": null
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72769,12 +72758,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "本項（A：如果懷疑骨髓炎，可以採取pr）不選。probe-to-bone 是以無菌探針探測潰瘍底部是否觸及骨頭；陽性會提高糖尿病足骨髓炎的機率。",
-   "B": "本項（B：進一步可用磁振造影檢查 MR）不選。MRI 對早期骨髓炎與軟組織範圍較 X 光敏感，能協助決定清創與治療範圍。",
-   "C": "本項（C：傷口檢體 wound swa）是本題要選。wound swab 容易反映表面定殖菌，不能可靠等同骨頭病原；bone biopsy culture 仍有價值。",
-   "D": "本項（D：因有綠膿桿菌感染風險，可考慮）不選。長期潮濕、膠鞋與糖尿病足潰瘍會提高 Pseudomonas 風險；piperacillin-tazobactam 或 cefepime 可在合適情境涵蓋。",
-   "summary": "糖尿病足骨髓炎別把 wound swab 當 bone culture；probe-to-bone 與 MRI 是判斷骨頭是否受累的重要工具。",
-   "guideline": "[TODO] 糖尿病足經驗性抗 Pseudomonas 的適應症需依地區與現行指引核對"
+   "A": "本項不選。probe-to-bone 就是用無菌金屬探針探潰瘍底部，探得到骨頭就大幅提高骨髓炎的機率。在高風險族群（像這位長年糖尿病）陽性預測值特別好。",
+   "B": "本項不選。X 光要骨質流失三到五成才看得出變化，通常已經是發病兩週後。MRI 能早期看到骨髓水腫，也能標出膿瘍與軟組織侵犯範圍，方便外科規劃清創。",
+   "C": "本項應選。表面 swab 採到的常是定殖菌，跟骨頭裡真正的病原一致率很低。要確定病原與抗藥性，還是得做骨頭切片培養，最好在停抗生素後採檢。",
+   "D": "本項不選。長時間穿膠鞋、腳長期潮濕，加上黃綠色膿，都是綠膿桿菌（Pseudomonas aeruginosa）的線索。這種情境的經驗性用藥可以涵蓋它，例如 piperacillin-tazobactam 或 cefepime。",
+   "summary": "糖尿病足要分清楚兩件事：表面 swab 只代表定殖，骨頭病原要靠切片；X 光正常不能排除骨髓炎，早期看 MRI。",
+   "guideline": null
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72883,12 +72872,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "本項不選。此項不對。阿茲海默症才是最常見失智症類型；血管性失智症通常居次，兩者也常混合存在。",
-   "B": "本項不選。此項不對。憂鬱常是認知抱怨的重要可逆或可治療原因，不能把焦慮列為最常見可逆失智病因。",
-   "C": "本項應選。正確。失智共同照護中心提供診斷後的個案管理、資源連結與照顧者支持，是臺灣失智照護網絡的重要節點。",
-   "D": "本項不選。此項不對。控制血管危險因子很重要；若合併阿茲海默病理或特定個案，AChEI 的效益需個別評估，不能說絕無助益。",
-   "summary": "失智照護不是只有開藥：診斷後要接上共同照護中心、照顧者支持與社區資源。",
-   "guideline": "[TODO] 臺灣失智照護據點現況需依當期公告確認"
+   "A": "本項不選。最常見的是阿茲海默症（Alzheimer disease），約占六成。血管性失智排第二，兩者合併的混合型也很常見。",
+   "B": "本項不選。可回復性失智的常見原因是憂鬱症造成的假性失智、維生素 B12 缺乏、甲狀腺功能低下、常壓性水腦。焦慮症不在這份名單的前面。這也是為什麼初次評估要驗 B12 與 TSH。",
+   "C": "本項應選。衛福部在長照 2.0 下推動失智照護服務，全台 22 縣市都設有失智共同照護中心，另有失智社區服務據點。它做的是確診後的銜接：個案管理、照顧者支持、轉介資源。",
+   "D": "本項不選。控制血壓、血糖、血脂與抗血小板確實是血管性失智的核心，但不能說 AChEI 完全沒幫助。研究顯示 donepezil 等藥對認知有小幅但可測得的改善，混合型失智更常使用。",
+   "summary": "失智診斷後不是只有開藥：台灣 22 縣市都有失智共同照護中心可以轉介，照顧者支持跟藥一樣重要。",
+   "guideline": "衛福部長照 2.0：全台 22 縣市均設失智共同照護中心"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72992,12 +72981,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "本項不選。此項不對。只知道她來諮詢，不能直接判定已進考慮期；跨理論模式要依她是否想改變及時間表詢問。",
-   "B": "本項不選。此項不對。飲食、運動與認知行為治療可介入，但題目問最正確的法規適應症，不能以一般可做的處置取代。",
-   "C": "本項應選。正確。BMI 33.2 kg/m² 已達臺灣減重藥物通常可考慮的肥胖程度，仍須評估共病、禁忌與生活型態介入。",
-   "D": "本項不選。此項不對。跨理論模式可協助依準備度溝通，但不能概括為已證實所有體重管理都有長期效果。",
-   "summary": "BMI 超過 30 kg/m² 已進入可評估減重藥物的範圍；藥物仍要配飲食、運動與風險評估。",
-   "guideline": "[TODO] 臺灣減重藥物現行適應症與給付規則需依最新規範確認"
+   "A": "本項不選。她已經主動掛號、還帶著先生一起來門診，這是準備期（preparation）甚至行動期的表現。認知期是「知道該減但還沒打算行動」，跟她的行為對不上。",
+   "B": "本項不選。認知行為治療配合飲食與運動確實是體重管理的核心，方向沒有錯。但題目沒有提供她的飲食評估、行為障礙或動機階段，「可開始給予」缺乏判斷依據。相較之下 C 只要一個 BMI 數字就能明確判定，所以 C 才是最正確。",
+   "C": "本項應選。衛福部的減重藥物使用規範是 BMI 達 27 以上並合併肥胖相關併發症，或 BMI 達 30 以上。她 BMI 33.2 已符合。要提醒的是：符合資格不等於直接開藥，仍要先做生活型態介入並排除次發性肥胖。",
+   "D": "本項不選。跨理論模式用在體重管理的**長期**效果並不一致，多數研究只看到短期改善。把它說成「已證實具有長期效果」太滿。",
+   "summary": "減重藥物的門檻背兩個數字：BMI ≥27 加併發症，或 BMI ≥30；主動來門診的人已經在準備期，不是認知期。",
+   "guideline": "衛福部減重藥物使用規範：BMI ≥27 合併併發症，或 BMI ≥30"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -79905,13 +79894,12 @@
    "book": "FC醫(六)(1上)(產科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(上)冊_產科.pdf"
   },
   "explanation": {
-   "A": "本項沿用傳統 Friedman 定義可成立。初產婦 latent phase 超過 20 小時稱 prolonged latent phase，但現行產程管理對介入時點更寬容。",
-   "B": "本項是本題要選的錯誤處置。Prolonged latent phase 的非緊急處理先確認母胎狀況、休息與支持；未必應常規以 oxytocin 催生，尤其先排除 false labor。",
-   "C": "本項不是本題要選的，初產婦 active phase 擴張緩慢時，先觀察、支持並評估收縮與胎位是合理作法；不能只因單一小時速率就直接判定失敗。",
-   "D": "本項不是本題要選的，第二產程 arrest 需評估胎頭骨盆不對稱、胎位與收縮力；若排除阻塞，augmentation 可是選項之一。",
-   "summary": "產程慢先分「真的卡住」還是還在 latent phase；不能把傳統時數一到就反射性用 oxytocin。",
-   "guideline": "FC 醫學(六)第1上冊 p.128",
-   "concepts": []
+   "A": "本項不選。初產婦潛伏期超過 20 小時、經產婦超過 14 小時，就叫 prolonged latent phase。這是 Friedman 的舊定義，也是本題採用的標準。",
+   "B": "本項應選。潛伏期太長的首選不是催生，而是**治療性休息與支持**：止痛、補液、讓產婦睡一覺。這樣做之後大約八成以上會自然進入活躍期，剩下的才考慮 oxytocin 或人工破水。直接催生會增加不必要的介入與剖腹產。",
+   "C": "本項不選。初產婦第一產程擴張速度低於每小時 1.2 公分屬 protraction（進展慢但仍在進展），處置是持續觀察與支持，不是急著手術。真正需要積極處理的是 arrest（完全停住）。",
+   "D": "本項不選。第二產程停滯超過兩小時，先評估有沒有胎頭骨盆不對稱；沒有的話可用 oxytocin 加強收縮。要提醒的是現行 ACOG 已放寬第二產程時限：初產婦無硬膜外麻醉可到 3 小時，有麻醉可到 4 小時。",
+   "summary": "潛伏期拖太久先讓產婦休息再說，不是先催生；protraction 觀察、arrest 才處理。",
+   "guideline": "現行 ACOG 產程共識：活躍期以子宮頸 6 公分起算，第二產程時限較 Friedman 舊定義放寬"
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -82262,12 +82250,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。七日 clarithromycin triple therapy 療程過短、根除率不足，即使低抗藥地區也不推薦。",
-   "B": "在確定低 clarithromycin resistance 且無 macrolide 暴露時，14 日 triple therapy 才可能被舊版策略採用；現行選擇仍須依 susceptibility 與地區資料。",
-   "C": "Concomitant therapy 同時使用 PPI、amoxicillin、clarithromycin、metronidazole，可降低部分單一抗藥影響。",
-   "D": "Bismuth quadruple therapy 不依賴 clarithromycin，常作經驗性首選之一。",
-   "summary": "H. pylori 根除療程不可縮成七日 clarithromycin triple therapy。",
-   "guideline": "[TODO] 各地區現行 H. pylori 指引與抗藥率需核對"
+   "A": "本項應選。7 天的 clarithromycin 三合一**已經不被推薦**，除菌率掉到八成以下。抗藥性逐年上升是主因，療程太短更放大這個問題。",
+   "B": "本項不選。同樣的三合一延長到 14 天仍可使用，但前提就是題目給的條件：clarithromycin 抗藥率低於 15%。台灣多數地區的抗藥率已接近或超過這個門檻，所以實務上第一線常直接用四合一。",
+   "C": "本項不選。concomitant therapy 是四種藥同時給 10 到 14 天，除菌率高，適合抗藥率較高的地區。",
+   "D": "本項不選。含 bismuth 的四合一是最不受 clarithromycin 抗藥影響的方案，也是除菌失敗後的救援首選。",
+   "summary": "幽門桿菌除菌別再用 7 天療程；就算抗藥率低也要 14 天，抗藥率高就直接走四合一。",
+   "guideline": null
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -83766,12 +83754,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "不正確：0.03%～0.07%。0.03–0.07% 遠低於導尿管相關尿路感染的每日累積風險，容易讓人低估長期留置的傷害。",
-   "B": "不正確：0.3%～0.7%。0.3–0.7% 仍太低，無法反映留置導尿管後每天持續上升的 bacteriuria／UTI 風險。",
-   "C": "正確：3%～7%。導尿管置放後每天約增加 3–7% 的感染或菌尿風險，所以最有效的預防是避免不必要置放並儘早移除。",
-   "D": "不正確：30%～70%。30–70% 過高，若真是每日風險，短期導尿就幾乎必然感染，與臨床觀察不符。",
-   "summary": "留置導尿管每天增加約 3–7% 感染風險；最好的 CAUTI prevention 是別放、能拔就早拔。",
-   "guideline": "[TODO] 題目所稱 UTI 或 bacteriuria 的精確定義與現行數值需依感染管制指引核對"
+   "A": "本項不選。0.03–0.07% 等於放一個月才有 1% 的人中標，遠低於真實情況。這種數字會讓人以為導尿管可以放著不管。",
+   "B": "本項不選。0.3–0.7% 一樣被低估了十倍。導尿管相關菌尿的累積速度比這快得多。",
+   "C": "本項應選。留置導尿管後，每天大約增加 3 到 7% 的菌尿機率。所以放到第 30 天，幾乎每個人都會有菌尿。真正有效的預防只有兩件事：非必要不放、能拔就早拔。",
+   "D": "本項不選。30–70% 意味著放兩三天就人人感染，與臨床觀察不符。這個量級是「整段留置期間」的累積比例，不是每日風險。",
+   "summary": "導尿管每留一天就多 3–7% 菌尿機率，一個月幾乎全中；CAUTI 最有效的預防是「不放」跟「早拔」。",
+   "guideline": "註：3–7% 指的是每日新增菌尿（bacteriuria），不是每日出現症狀性尿路感染"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -83842,12 +83830,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "本項（A：敏感性 sensitivit）不選。CSF HSV PCR 對 HSV encephalitis 的敏感性與特異性都很高，是主要診斷工具。",
-   "B": "本項（B：在發病的72小時內，腦脊髓液）不選。發病非常早期，CSF HSV PCR 可能尚未陽性；高度懷疑時不能因一次早期陰性就停 acyclovir。",
-   "C": "本項（C：腦脊髓液HSV PCR的陽性）不選。病毒 DNA 隨病程與治療下降，發病很久後 PCR 陽性率較低，因此檢體時序影響判讀。",
-   "D": "本項（D：抗病毒藥物之治療對腦脊髓液H）是本題要選。acyclovir 治療數天後 PCR 不會立刻降到低於 10%；治療初期仍可能檢出 HSV DNA。",
-   "summary": "疑似 HSV encephalitis：早期 PCR 可假陰性，但 acyclovir 不會在 3 天內把 PCR 幾乎清成陰性。",
-   "guideline": "[TODO] HSV CSF PCR 在不同治療日的精確陽性率需依研究核對"
+   "A": "本項不選。CSF HSV PCR 的敏感度與專一性都在 95% 上下，是診斷單純疱疹腦炎的黃金標準，早就取代了腦部切片。",
+   "B": "本項不選。發病 72 小時內病毒量還沒起來，PCR 可能是陰性。所以臨床高度懷疑時，先給 acyclovir，隔 3 到 7 天再驗一次，不要因為第一次陰性就停藥。",
+   "C": "本項不選。陽性率會隨病程下降，發病超過兩週後大約只剩兩成。這也是為什麼診斷要趁早，拖久了 PCR 就幫不上忙。",
+   "D": "本項應選。開始 acyclovir 之後 PCR 不會馬上轉陰。多數研究顯示治療的第一週內大多仍測得到病毒 DNA，這正是「已經給藥了還是可以驗」的依據。若治療三天就掉到 10% 以下，早期治療與診斷就會互相打架。",
+   "summary": "疑似 HSV 腦炎先給 acyclovir 再說：72 小時內 PCR 可能假陰性，但給藥後第一週仍驗得到，不必怕來不及驗。",
+   "guideline": null
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -83876,12 +83864,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項（A：梅毒篩檢與確診的血清檢查，分）不選。RPR 是 non-treponemal test，適合篩檢與追蹤效價；TPPA 是 treponemal test，可用於確認感染。這句話本身正確。",
-   "B": "本項（B：美國疾病管制局 US Cen）是本題要選。官方接受本項。早期梅毒且無神經症狀、無 penicillin 過敏時，benzathine penicillin G 單次肌肉注射是標準治療；「2.4 mU」單位應核對，通常表述為 2.4 million units。",
-   "C": "本項（C：美國疾病管制局 US Cen）不選。無神經症狀的 penicillin 過敏早期梅毒，可用 doxycycline 100 mg 每日兩次共 14 天作替代，但孕婦例外。",
-   "D": "本項（D：此病人梅毒治療後的療效評估，）是本題要選。官方也接受本項為給分答案，但追蹤療效應看 RPR／VDRL 等 non-treponemal titer 是否至少下降四倍；TPPA 常長期陽性，不能拿來監測療效。",
-   "summary": "梅毒：TPPA 用確認，RPR／VDRL 用追蹤四倍下降；官方本題接受 B、D，但 D 與現行追蹤原則衝突。",
-   "guideline": "官方更正：第62題答 B 或 D 或 BD 均給分；[TODO] 現行梅毒追蹤時程依指引核對",
+   "A": "本項不選。RPR 屬非梅毒螺旋體試驗，便宜、可定量，用來篩檢與追蹤療效；TPPA 是梅毒螺旋體試驗，用來確認。傳統流程就是 RPR 先篩、TPPA 確認。",
+   "B": "本項爭議在單位寫法。劑量本身是對的：早期梅毒無過敏、無神經侵犯者，benzathine penicillin G 240 萬單位單次肌肉注射。但正確寫法是 2.4 MU（million units），題目寫 2.4 mU 照字面是「2.4 毫單位」，差了十億倍。官方接受本項為錯，理由應是這個單位錯誤，不是劑量錯誤。",
+   "C": "本項不選。penicillin 過敏又無神經侵犯的早期梅毒，doxycycline 100 mg 每日兩次共 14 天是標準替代方案。孕婦例外，孕婦一定要減敏後用 penicillin。",
+   "D": "本項應選。療效追蹤要看 RPR 或 VDRL 的效價下降四倍，不是看 TPPA。TPPA 這類螺旋體抗體一旦陽性多半終身陽性，不會隨治療下降，拿它追療效根本追不動。",
+   "summary": "梅毒兩種血清檢驗分工要記死：TPPA 確認診斷、RPR 追療效（降四倍）；TPPA 終身陽性，不能拿來看有沒有治好。",
+   "guideline": "官方更正：本題答 B 或 D 或 BD 均給分。D 是實質上的錯誤，B 錯在單位符號（mU vs MU）",
    "concepts": [
     "syphilis-serology-and-follow-up"
    ]
@@ -83917,12 +83905,12 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "不正確：此時以第四代合併抗原與抗體的。第四代 HIV Ag/Ab assay 在暴露後 14 天可能仍在 window period，不能 100% 確診或排除急性感染。",
-   "B": "不正確：此時這位感染HIV的病人，儘。Western blot 已不再是急性 HIV 最敏感的確認工具；抗體尚未完整出現時，反而容易陰性或不確定。",
-   "C": "正確：HIV核酸檢測 nuclei。HIV NAAT 可直接偵測病毒核酸，在急性感染的高病毒量期最早且最敏感，可搭配第四代檢驗判讀。",
-   "D": "不正確：這位病人急性HIV感染病症會。急性 HIV 症狀可自行改善，但現行原則是確診後盡早開始 ART，不必等 CD4 降到 350 cells/mm3 或出現 AIDS。",
-   "summary": "高風險暴露後兩週像 acute retroviral syndrome，第四代檢驗未必夠早；用 HIV NAAT 找高病毒量的急性感染。",
-   "guideline": "[TODO] HIV acute infection 的現行 testing algorithm 與 ART 時機需依指引核對"
+   "A": "本項不選。暴露才 14 天，可能還在第四代檢驗的空窗期。第四代驗 p24 抗原加抗體，通常暴露後 2 到 4 週才穩定轉陽，說「100% 可以確診」太滿。",
+   "B": "本項不選。Western blot 驗的是抗體，在急性期抗體還沒產生，正是它最不敏感的時候。而且現行流程已改用抗原抗體篩檢加 HIV-1/2 抗體區分試驗，不再把 Western blot 當確認工具。",
+   "C": "本項應選。急性感染期的血中病毒量極高，常達每毫升數十萬到數百萬 copies，HIV NAAT 這時最敏感。抗體還沒出現的空窗期就靠它抓出來。",
+   "D": "本項不選。現行指引一律是**確診就開始治療**，不再等 CD4 掉到 350。急性期就用藥可縮小病毒庫、降低傳染他人的機會，等待沒有任何好處。",
+   "summary": "高風險暴露兩週後出現發燒、皮疹、淋巴結腫加轉氨酶上升，就驗 HIV NAAT；確診當下就開始 ART，不必等 CD4 掉。",
+   "guideline": null
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84138,12 +84126,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "不正確：暴露前預防接種的時程為第0天。暴露前狂犬病疫苗的舊版時程為第 0、7、21 或 28 天共三劑，但現行建議已更新；不能把這個舊時程當唯一不變答案。",
-   "B": "不正確：若預防接種後間隔1年再次進入。完成暴露前疫苗後是否要 booster，取決於持續暴露風險與抗體檢測策略，不是所有一年後再入疫區者一律加一劑。",
-   "C": "正確：免疫功能正常者若曾接受完整暴。免疫功能正常且曾完整接受暴露前疫苗者，暴露後不需 RIG，只在第 0 天與第 3 天補兩劑疫苗。",
-   "D": "不正確：小孩可接種，但孕婦不可接種。兒童與孕婦都可在有暴露風險時接種狂犬病疫苗；狂犬病致死率極高，孕婦不是 PEP 禁忌。",
-   "summary": "狂犬病 PEP：已完整接種者只補第 0、3 天兩劑且不用 RIG；未接種者才要加 RIG。",
-   "guideline": "[TODO] 台灣現行 PrEP 時程與 booster／titer 規則需依疾管署核對",
+   "A": "本項不選。第 0、3、7 天是**暴露後**已接種者以外的縮短概念，不是暴露前。台灣的暴露前預防是第 0、7、21（或 28）天共三劑。",
+   "B": "本項不選。是否追加要看持續暴露風險或抗體效價，不是一律「滿一年就補一劑」。長期在疫區工作或處理蝙蝠的高風險者才需要定期驗效價或追加。",
+   "C": "本項應選。曾完整接受暴露前接種的人，再次暴露只要在第 0 天與第 3 天各補一劑疫苗，而且**不需要免疫球蛋白（RIG）**。免疫記憶已經建立，補打是喚醒它。沒接種過的人才要疫苗加 RIG。",
+   "D": "本項不選。狂犬病是致死率近 100% 的疾病，孕婦與小孩都可以接種，懷孕不是禁忌症。真被咬了卻因為懷孕不打，風險完全不成比例。",
+   "summary": "打過暴露前疫苗的人再被咬：第 0、3 天各補一劑、不用 RIG；懷孕從來不是狂犬病疫苗的禁忌。",
+   "guideline": "台灣疾管署狂犬病疫苗接種建議（暴露前第 0、7、21 或 28 天三劑）",
    "concepts": [
     "rabies-postexposure-prophylaxis"
    ]
@@ -88526,12 +88514,12 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "35 歲不是該題考試當時一般無症狀風險婦女公費 mammography 的起始年齡。",
-   "B": "40 歲在該題作答時尚非一般風險公費篩檢起點；[TODO] 現行國健署資格後來可能已調整，應與考試年度規定分開記。",
-   "C": "正確。依題目所屬年度的國健署方案，一般無症狀婦女自 45 歲起接受公費乳房攝影篩檢。",
-   "D": "50 歲晚於題目所問的公費方案起點，不能把部分國際建議的年齡直接套用到台灣。",
-   "summary": "本題答案依考試年度台灣政策為 45 歲；現行資格需另查最新國健署公告。",
-   "guideline": null
+   "A": "錯誤。35 歲在 113 年不屬於一般風險公費乳房攝影（mammography）對象。114 年擴大後的最低年齡仍是 40 歲，所以現行政策也不選 35 歲。",
+   "B": "錯誤。113 年的一般風險婦女要滿 45 歲才有公費篩檢。當時 40–44 歲只有二等親內曾罹患乳癌者符合資格，題幹已排除家族史。自 114 年 1 月 1 日起，政策才擴大。現行對象是所有 40–74 歲婦女，每 2 年 1 次。若問現行起點，答案才是 40 歲。",
+   "C": "正確。113 年政策提供 45–69 歲婦女每 2 年 1 次公費乳房攝影。所以無家族史者從 45 歲開始。這是本題官方答案的時點。114 年起門檻已下修至 40 歲。",
+   "D": "錯誤。50 歲在 113 年確實符合篩檢資格，但不是最早可開始的年齡。一般風險婦女從 45 歲已可受檢。114 年起起點更提前到 40 歲，仍不會選 50 歲。",
+   "summary": "看到台灣公費乳攝先看年份：113 年一般風險從 45 歲開始，114 年起下修至 40 歲；都是每 2 年 1 次。",
+   "guideline": "國民健康署：113 年一般風險婦女 45–69 歲每 2 年 1 次，40–44 歲需二等親內乳癌家族史；自 114 年 1 月 1 日起擴大為 40–74 歲婦女每 2 年 1 次。https://www.hpa.gov.tw/Pages/Detail.aspx?form=MG0AV3&nodeid=4878&pid=18916"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -88683,12 +88671,12 @@
    "book": "FC醫(五)(6)(骨科)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第六冊_骨科.pdf"
   },
   "explanation": {
-   "A": "本項的常見部位概括可接受，所以不選。橫紋肌肉瘤（rhabdomyosarcoma）可在多種軟組織發生，頭頸部是常見原發區域；實際分布仍須再區分泌尿生殖道與四肢等部位。",
-   "B": "本項的病理確診原則可接受，所以不選。橫紋肌肉瘤需以病理切片確診，MRI 或 CT 用於定位與分期；骨髓檢查則依腫瘤型別與轉移風險安排。",
-   "C": "本項的局部控制策略可成立，所以不選。局部控制會評估能否完整切除並保留功能；無法安全切淨時，通常以多藥化療合併放射治療或延後手術處理。",
-   "D": "本項是本題要選的錯誤敘述。眼眶及非腦膜旁頭頸部屬較有利的原發部位；較差的預後與腦膜旁、四肢、膀胱或攝護腺等部位及其他風險因子相關。 [TODO] 原題 A 的部位排序過度簡化，需以完整分期表核對。",
-   "summary": "橫紋肌肉瘤要分清原發部位：眼眶與非腦膜旁頭頸部反而是相對有利部位，不是預後最差者。",
-   "guideline": "NCI Childhood Rhabdomyosarcoma Treatment (PDQ)"
+   "A": "本項不選。橫紋肌肉瘤可長在任何有間葉組織的地方，頭頸部最多（約三到四成），其次是泌尿生殖道與四肢。有趣的是它也會長在沒有橫紋肌的部位，例如膀胱與膽道。",
+   "B": "本項不選。確診一定要**組織病理**，影像只能定範圍。骨髓穿刺屬於分期評估，因為它會轉移到骨髓。切片方式要考慮後續手術路徑，避免污染乾淨的組織面。",
+   "C": "本項不選。能完整切除就切，切不乾淨或位置無法切除時，先化療或放療把腫瘤縮小再處理。橫紋肌肉瘤對化療反應好，所以多模式治療是常態。",
+   "D": "本項應選。方向講反了。**眼眶與非腦膜旁的頭頸部屬於預後良好部位**，因為容易早期發現、也適合放療。預後差的是腦膜旁（會侵犯顱底）、四肢、膀胱攝護腺與腹膜後。",
+   "summary": "橫紋肌肉瘤的預後看部位：眼眶與非腦膜旁頭頸部最好，腦膜旁與四肢最差。",
+   "guideline": null
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -88831,12 +88819,12 @@
    "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
   },
   "explanation": {
-   "A": "本項不是官方更正所列的答案。Bisacodyl 是刺激性瀉劑，主要問題是腹絞痛、脫水與電解質失衡；它不像 magnesium citrate 會因腎排除變差而直接累積 magnesium。腎功能不佳仍須依水分與共病個別選擇清腸藥。",
-   "B": "本項依官方更正可選。題目寫的是 polyethylene glycerol，這不是常見標準清腸名稱；若原意是 polyethylene glycol（PEG），PEG 通常反而是腎功能不佳者較可用的方案。官方將 B 列為給分答案，與此臨床理解不一致，[TODO] 需核對原始試題藥名與勘誤依據。",
-   "C": "本項不是官方更正所列的答案。Enema 只清潔遠端大腸，不能取代完整口服腸道準備；但它不會像含 magnesium 製劑因腎排泄受限而造成 hypermagnesemia。",
-   "D": "本項依官方更正可選，也是腎功能不佳時明確應避免的選擇。Magnesium citrate 需由腎臟排出，腎功能下降時可能累積而造成 hypermagnesemia、低血壓或心律問題。",
-   "summary": "腎功能不佳清腸時先避開會靠腎排除的 magnesium citrate；本題 B 的藥名與官方複選給分有矛盾，須回看原題。",
-   "guideline": "FC 醫學(五)第2冊 p.219；ASGE bowel preparation guideline (2015)"
+   "A": "本項不選。bisacodyl 是刺激性瀉劑，作用在腸道局部、全身吸收少，腎功能不佳者可以使用，常與其他清腸劑合併。",
+   "B": "本項被官方列為答案之一，但依字面應是誤植。題目寫的 polyethylene glycerol 若指的是 **polyethylene glycol（PEG）**，那反而是腎功能不佳者**最推薦**的清腸藥——它是等張溶液，不會造成明顯的電解質與體液移動。這個矛盾應是官方兩者都給分的原因。",
+   "C": "本項不選。灌腸只作用在遠端大腸，全身影響最小，腎功能差的人可安全使用，只是單獨使用清腸不完全。",
+   "D": "本項應選，也是實質上最明確的答案。magnesium citrate 含大量鎂離子，腎臟排不掉就會累積成**高血鎂**，嚴重時造成低血壓、心搏過緩、呼吸抑制。同理，含磷酸鈉的清腸劑也可能造成急性磷酸鹽腎病變，兩者在腎功能不佳者都要避開。",
+   "summary": "腎功能不好的清腸選 PEG（等張、不吸收）；要避開的是含鎂與含磷酸鹽的製劑，會堆積出高血鎂或磷酸鹽腎病變。",
+   "guideline": "官方更正：本題答 B 或 D 或 BD 均給分"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -93973,12 +93961,12 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案之一。HbH disease 是三個 α-globin gene 缺失或失活造成的 α-thalassemia，不是 β-thalassemia。",
-   "B": "HbH（β4）不穩定且易氧化沉澱，會造成 chronic hemolysis，感染或氧化壓力時可惡化。",
-   "C": "成人缺少 α chains 時，多餘 β chains 形成 β4 tetramers，即 HbH。",
-   "D": "官方亦接受 D；HbA 生成量取決於 deletional/nondeletional genotype，把所有成人固定為正常的 25–30% 並不恰當。",
-   "summary": "HbH disease 是 α-thalassemia，成人形成 β4；官方 A 或 D 均給分，D 的固定比例過度概括。",
-   "guideline": "[TODO] 官方答案疑義：第42題答 A、D 或 AD 均給分"
+   "A": "本項應選，也是實質上最明確的錯誤。HbH disease 是 **alpha thalassemia**，四個 alpha 基因壞掉三個。剩下的 beta 鏈沒有足夠 alpha 鏈配對，只好自己聚成四聚體。",
+   "B": "本項不選。多餘的 beta 四聚體不穩定，會在紅血球內沉澱形成 Heinz body，被脾臟清除而造成慢性溶血。臨床上是中度貧血、脾腫大、黃疸，感染或氧化性藥物會誘發急性惡化。",
+   "C": "本項不選。HbH 這個名字指的就是 **β4 四聚體**。它對氧親和力極高、幾乎不放氧，所以雖然帶氧卻不能供組織使用。",
+   "D": "本項官方同樣給分，爭議在數字。三個 alpha 基因缺失時，alpha 鏈產量大約只剩正常的 25 到 30%，HbA 的合成也受同等限制。這個數字是否等同題目所說的「HbA 生成」，看採用的計算方式而定。",
+   "summary": "HbH 是 alpha 型不是 beta 型：三個 alpha 基因壞掉，多出的 beta 鏈聚成 β4，沉澱成 Heinz body 造成溶血。",
+   "guideline": "官方更正：本題答 A 或 D 或 AD 均給分"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -94576,12 +94564,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項（A：AmpC 抗藥性基因常存在於）不選。AmpC β-lactamase 常由 Enterobacter cloacae complex 等菌種染色體編碼，暴露某些 β-lactam 後可誘導表現。",
-   "B": "本項（B：存在於K. pneumoni）是本題要選。Klebsiella pneumoniae 的染色體 β-lactamase 通常是 SHV 類，較偏向水解 penicillins；廣泛水解 cephalosporins 要考慮取得 ESBL／AmpC。",
-   "C": "本項（C：cefoxitin 及cef）不選。cefepime 對許多 AmpC 較穩定；臨床仍須看菌種、MIC 與感染嚴重度。",
-   "D": "本項（D：如果對cefepime 產生）不選。cefepime 抗藥若合併 AmpC 與 porin loss，進藥量下降加上水解增加，可使抗藥程度提高。",
-   "summary": "K. pneumoniae 的原生 SHV 比較像 penicillinase；廣泛 cephalosporin 抗藥要想到後天 ESBL／AmpC 或 porin loss。",
-   "guideline": "[TODO] AmpC 對 cefepime 的現行臨床選藥應依菌種與 MIC 核對"
+   "A": "本項不選。Enterobacter、Citrobacter freundii、Serratia 這幾種菌的染色體本來就帶 AmpC。它平常不表現，碰到 β-lactam 才被誘導出來，這就是為什麼治療中途才突然抗藥。",
+   "B": "本項應選。Klebsiella pneumoniae 染色體上的原生酵素是 SHV-1，本質上是 penicillinase，主要水解 penicillin 類。它對 cephalosporin 的破壞力有限。要能廣泛水解 cephalosporin，得靠後天取得的 ESBL（例如 CTX-M）或質體型 AmpC。",
+   "C": "本項不選。cefoxitin 屬 cephamycin，本身對 AmpC 水解相對穩定，但它同時是強力誘導劑。cefepime 是第四代，帶正電、能快速穿透外膜，也不容易被 AmpC 水解，所以常被當成 AmpC 菌株的選項。",
+   "D": "本項不選。單靠 AmpC 通常打不倒 cefepime。真的出現抗藥時多半是兩件事疊加：AmpC 大量表現，再加上 porin 通道減少讓藥進不去。這種「酵素加通透性」的組合是革蘭氏陰性菌抗藥的常見模式。",
+   "summary": "K. pneumoniae 自帶的 SHV 是 penicillinase；看到廣泛 cephalosporin 抗藥就要想後天的 ESBL 或 AmpC，而不是原生酵素。",
+   "guideline": null
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -94675,12 +94663,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項（A：non-typhoid sa）不選。進展期 HIV 的 non-typhoid salmonellosis 可造成菌血症，ceftriaxone 是重症時常用治療之一。",
-   "B": "本項（B：oral candidias）不選。oral candidiasis 可用 fluconazole 治療，也要處理免疫狀態。",
-   "C": "本項（C：cytomegaloviru）是本題要選。CMV retinitis 的誘導治療通常用 ganciclovir、valganciclovir 或 foscarnet；valacyclovir 對 CMV 活性不足。",
-   "D": "本項（D：cryptococcal m）不選。cryptococcal meningitis 的 induction therapy 是 amphotericin B 加 flucytosine，之後轉 fluconazole。",
-   "summary": "AIDS opportunistic infection 治療中，CMV retinitis 要想 ganciclovir／valganciclovir，不是 valacyclovir。",
-   "guideline": "[TODO] HIV OI 的現行 induction 與 ART timing 需依指引核對"
+   "A": "本項不選。進展期 HIV 的非傷寒沙門氏菌容易變成菌血症而且會復發，ceftriaxone 是常用治療。免疫回升前復發率高，所以 ART 也是治療的一部分。",
+   "B": "本項不選。口腔念珠菌症用 fluconazole 口服即可，這也是 CD4 下降的警訊之一。輕症可先用局部 clotrimazole 或 nystatin。",
+   "C": "本項應選。valacyclovir 是針對 HSV 與 VZV，對 CMV 沒有足夠活性。CMV 視網膜炎要用 ganciclovir 或 valganciclovir，必要時 foscarnet；威脅到黃斑或視神經時還要玻璃體內注射。拖延會造成不可逆失明。",
+   "D": "本項不選。隱球菌腦膜炎的誘導治療就是 amphotericin B 加 flucytosine，兩週後轉 fluconazole 鞏固與維持。同樣重要的是反覆腰椎穿刺降顱壓，那比抗黴菌藥更能救急。",
+   "summary": "抗病毒藥別記混：valacyclovir 打 HSV／VZV，CMV 視網膜炎要 ganciclovir 或 valganciclovir。",
+   "guideline": null
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -94906,12 +94894,12 @@
   "specialty": "家庭醫學科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項應選。正確。USPSTF 建議 65 歲以上女性做骨質疏鬆篩檢；較年輕的停經女性則依骨折風險決定。",
-   "B": "本項不選。此項把年齡門檻放太低。並非所有 50 歲以上停經女性都需一律篩檢，應用風險因子判斷。",
-   "C": "本項不選。此項不對。男性篩檢證據與建議不等同所有 65 歲以上女性，不能直接套用同一普篩門檻。",
-   "D": "本項不選。此項太絕對。較年輕者若有長期類固醇、脆弱性骨折或重大次發性原因，仍可能需要個別評估。",
-   "summary": "骨鬆篩檢先背 65 歲以上女性；更年輕者和男性要回到個人骨折風險。",
-   "guideline": "[TODO] USPSTF 骨鬆篩檢現行版本需確認"
+   "A": "本項應選。USPSTF 對 65 歲以上女性建議做骨質疏鬆篩檢，等級 B，工具是 DXA。這是骨鬆篩檢唯一一條「不必先算風險、直接篩」的族群。",
+   "B": "本項不選。不是所有 50 歲以上停經女性都要篩。65 歲以下的停經女性要先用 FRAX 這類工具算骨折風險，風險等同於 65 歲女性者才建議做 DXA。",
+   "C": "本項不選。男性骨鬆篩檢的證據不足，USPSTF 給的是 I statement，不論幾歲都沒有普篩建議。臨床上仍會針對有長期類固醇、雄性素剝奪治療等風險的男性個別評估。",
+   "D": "本項不選。這句話把話說死了。50 歲以下若有長期使用糖皮質類固醇、性腺功能低下、慢性發炎疾病等次發性骨鬆風險，一樣該做骨密度檢查。年齡只是普篩的分界，不是禁令。",
+   "summary": "骨鬆普篩只有一條硬規則：65 歲以上女性。更年輕的停經女性先算 FRAX，男性則是證據不足。",
+   "guideline": "USPSTF：女性 ≥65 歲篩檢 B 級；<65 歲停經女性依風險工具；男性為 I statement"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98033,13 +98021,12 @@
   "specialty": "重建整型外科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。7 mg/kg 是一般未使用 tumescent technique 時常見的含 epinephrine lidocaine 上限概念，低於本題低濃度、廣泛浸潤的抽脂情境。",
-   "B": "錯誤。15 mg/kg 仍低於本題教材對 tumescent lidocaine 的上限；大量稀釋與 epinephrine 延緩吸收會改變藥動學，但仍須依病人風險調整。",
-   "C": "錯誤。20 mg/kg 不是本題指定配方的最高安全劑量答案。抽脂時 lidocaine 的延遲吸收使可用劑量高於一般局部浸潤。",
-   "D": "正確。依本題所列 tumescent fluid，考試採 lidocaine 35 mg/kg 作最高安全劑量。實務文獻的上限會隨是否抽脂、濃度、肝腎功能與監測條件而異，[TODO] 需依現行 tumescent anesthesia guideline 複核。",
-   "summary": "本題的 tumescent lidocaine 上限記 35 mg/kg；臨床不能只背數字，還要看抽脂與病人的代謝、交互作用和監測。",
-   "guideline": null,
-   "concepts": []
+   "A": "本項不選。7 mg/kg 是**含 epinephrine 的一般浸潤麻醉**上限，不含 epinephrine 時是 4.5 mg/kg。抽脂的腫脹麻醉是完全不同的情境，不能套這個數字。",
+   "B": "本項不選。15 mg/kg 仍低於腫脹麻醉的公認上限。腫脹液的濃度極稀、加上 epinephrine 收縮血管，吸收速度慢得多，所以容許量比一般浸潤高很多。",
+   "C": "本項不選。20 mg/kg 雖然有些保守文獻採用，但不是本題所問的教科書上限。",
+   "D": "本項應選。抽脂腫脹麻醉的 lidocaine 上限記 **35 mg/kg**。安全的關鍵在藥物動力學：極稀濃度加血管收縮，血中濃度高峰要到注射後 12 到 14 小時才出現。所以病人離開手術室時還沒到高峰，術後要衛教毒性症狀——嘴唇麻、金屬味、耳鳴、抽搐。",
+   "summary": "抽脂腫脹麻醉 lidocaine 上限 35 mg/kg，和一般浸潤的 7 mg/kg 完全不同；血中高峰在 12–14 小時後，出手術室不代表安全了。",
+   "guideline": null
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -98676,11 +98663,11 @@
   "specialty": "內分泌外科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。皮膚色素沉著（hyperpigmentation）是 Nelson’s syndrome 的典型表現；ACTH 過量同時刺激 melanocortin receptor，皮膚會逐漸變深。",
-   "B": "錯誤。視野缺損（visual field defect）可由增大的 ACTH 分泌型腦下垂體腫瘤壓迫視交叉造成，常表現為雙顳側偏盲。這是 Nelson’s syndrome 的腫瘤 mass effect。",
-   "C": "錯誤。頭痛（headache）可由腦下垂體腫瘤擴大、拉扯鞍膈或壓迫周圍構造引起，因此可和 Nelson’s syndrome 一起出現。",
-   "D": "正確。聽力障礙（hearing impairment）不是 Nelson’s syndrome 的典型表現；此症候群主要是 ACTH 過高造成色素沉著，以及腦下垂體腫瘤造成頭痛和視覺症狀。題幹將其放在 MEN2 嗜鉻細胞瘤雙側腎上腺切除後並非 Nelson’s syndrome 的標準情境。[TODO] 需核對題幹是否漏載既有 Cushing disease。",
-   "summary": "看到雙側腎上腺切除後的 Nelson’s syndrome，要想到 ACTH 飆高：皮膚變黑，加上腦下垂體腫瘤的頭痛與視野缺損。",
+   "A": "本項不選。色素沉著是 Nelson's syndrome 的招牌。ACTH 前驅物在切割過程中也會產生 MSH 活性，刺激黑色素細胞，所以皮膚、口腔黏膜與疤痕會逐漸變深。",
+   "B": "本項不選。腦下垂體的 corticotroph 腫瘤失去皮質醇的負回饋後會迅速長大，向上壓迫視交叉造成雙顳側偏盲。這是腫瘤體積效應，不是荷爾蒙作用。",
+   "C": "本項不選。腫瘤增大會拉扯鞍膈、壓迫周圍構造而頭痛。頭痛加視野缺損是鞍區病灶的典型組合。",
+   "D": "本項應選。聽力障礙與 Nelson's syndrome 無關。腫瘤往上長壓迫的是視交叉，聽神經在後顱窩，方向完全不同。附帶一提，題幹本身有個矛盾：Nelson's syndrome 的標準背景是為了 **Cushing disease** 切除雙側腎上腺後，殘存的 corticotroph 腫瘤失去回饋而長大；為 MEN2 的嗜鉻細胞瘤切腎上腺並不會造成它。作答仍照官方選 D。",
+   "summary": "Nelson's syndrome 記兩條線：ACTH 過高造成皮膚變黑，腫瘤長大造成頭痛與視野缺損；跟聽力沒關係。",
    "guideline": null,
    "concepts": [
     "nelson-syndrome"
@@ -98748,13 +98735,12 @@
   "specialty": "內分泌外科",
   "fc_ref": null,
   "explanation": {
-   "A": "A 是本題最不適當的處置。131I 全身掃描陰性、FDG-PET 顯示轉移且肺病灶持續進展，代表腫瘤已是放射碘難治性分化型甲狀腺癌（radioiodine-refractory differentiated thyroid cancer）；再給大劑量 RAI 既難獲益，又會增加骨髓與唾液腺毒性。",
-   "B": "錯誤。sorafenib 是可用於進行性、放射碘難治性分化型甲狀腺癌的多激酶抑制劑；開始前需評估腫瘤進展速度、症狀與藥物不良反應，不能把它當成所有無症狀轉移的立即處方。",
-   "C": "錯誤。lenvatinib 也可治療進行性放射碘難治性分化型甲狀腺癌，目標是延緩影像進展。它常引起高血壓、蛋白尿等毒性，所以治療需要腫瘤科與內分泌團隊持續監測。",
-   "D": "錯誤。胸椎骨轉移造成疼痛時，緩解性放射治療可減痛並降低局部骨折或脊髓壓迫風險；這是針對症狀性病灶的局部治療，不會取代全身治療。",
-   "summary": "RAI 掃不到、FDG-PET 卻在進展的甲狀腺癌，就是 RAI-refractory：別再加碘，改評估 TKI 與轉移灶的局部緩解治療。",
-   "guideline": "American Thyroid Association, advanced RAI-refractory differentiated thyroid cancer management (2022)",
-   "concepts": []
+   "A": "本項應選（最不適當）。放射碘全身掃描找不到病灶、FDG-PET 卻亮起來且肺轉移持續增多，這就是典型的**放射碘難治**（RAI-refractory）。腫瘤細胞去分化後失去攝碘能力、改走葡萄糖代謝，這正是 PET 亮而碘掃描暗的原因。再加大劑量放射碘沒有效益，只會累積骨髓抑制、唾液腺炎與續發癌症的風險。",
+   "B": "本項不選。sorafenib 是多激酶抑制劑，用於進行性的放射碘難治分化型甲狀腺癌。開始前要評估進展速度與症狀，不是一發現轉移就立刻用。",
+   "C": "本項不選。lenvatinib 同類，可延緩影像上的疾病進展。常見毒性是高血壓、蛋白尿、疲倦與傷口癒合不良，用藥期間要密切監測血壓。",
+   "D": "本項不選。胸椎骨轉移會痛，緩解性放射治療能有效減痛，也降低局部骨折與脊髓壓迫的風險。這是針對症狀病灶的局部處置，和全身治療並行不衝突。",
+   "summary": "碘掃描陰性但 FDG-PET 陽性又在進展＝放射碘難治：不要再加碘，改評估 TKI 加上局部緩解治療。",
+   "guideline": null
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -99017,12 +99003,12 @@
   "specialty": "小兒外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項的羊水量描述合理，所以不選。空腸迴腸閉鎖（jejunoileal atresia）阻塞位置越遠，羊水吞嚥與吸收仍可能部分進行，因此產前羊水量可以正常。",
-   "B": "本項的術語與分類有爭議，屬本題最不適當的敘述。Type IIIb 的標準名稱是 apple-peel deformity，核心是近端空腸閉鎖加上短小腸管繞單一血管供應；原題寫成 apple tree 異常不精確。 [TODO] 官方答案與常用分類用詞需再核對。",
-   "C": "本項的胎便表現合理，所以不選。完全性小腸閉鎖會阻斷胎便向遠端推進，新生兒可能不排胎便或僅排出很少的灰白黏液。",
-   "D": "本項的血管意外機轉合理，所以不選。空腸迴腸閉鎖多被認為與胎兒期腸繫膜血管意外、缺血後腸段吸收有關，而不是單純腔化失敗。",
-   "summary": "空腸迴腸閉鎖多是胎兒腸缺血；IIIb 要背 apple-peel deformity，別把不精確的 apple tree 名稱硬當標準。",
-   "guideline": "[TODO] 需核對原題 apple tree 用詞與官方答案",
+   "A": "本項不選。羊水過多主要出現在**近端**閉鎖（十二指腸、空腸近端），因為羊水無法被吸收。閉鎖位置越遠端，羊水越可能正常，所以產前超音波正常不能排除。",
+   "B": "本項應選。名稱錯了。第 IIIb 型的典型外觀是**蘋果皮（apple-peel）**，又叫聖誕樹畸形：遠端小腸失去腸繫膜，只靠一條回結腸動脈的逆行血流供養，像削下來的蘋果皮繞著血管卷。這型腸子短、預後最差。",
+   "C": "本項不選。完全閉鎖的新生兒解不出胎便，或只解出灰白色黏液樣的物質。加上膽汁性嘔吐與腹脹，是典型的新生兒腸阻塞表現。",
+   "D": "本項不選。空腸迴腸閉鎖的成因是**子宮內腸繫膜血管意外**——扭轉、腸套疊或血管栓塞造成該段腸子缺血壞死後吸收消失。這和十二指腸閉鎖（管腔再通失敗）機轉不同。",
+   "summary": "空腸迴腸閉鎖是子宮內血管意外造成的；IIIb 型的 apple-peel 少了腸繫膜、只靠一條血管逆行供血，預後最差。",
+   "guideline": null,
    "concepts": [
     "jejunoileal-atresia-classification"
    ]
@@ -100315,12 +100301,12 @@
   "specialty": "麻醉科",
   "fc_ref": null,
   "explanation": {
-   "A": "這題不選 A：PaO2/FiO2 <400 不符合 Berlin definition 的 ARDS cut-off；較低氧合門檻才用於分級。",
-   "B": "本項在官方更正中可接受。Berlin definition 的 ARDS 起始門檻為 PaO2/FiO2 ≤300。配合 PEEP/CPAP 至少 5 cmH2O 與其他診斷條件。",
-   "C": "本項在官方更正中同樣給分。PaO2/FiO2 ≤200 是 moderate 或更嚴重 ARDS 的範圍。當然也落在 ARDS 的診斷範圍內；題目因此同時接受 B、C。",
-   "D": "這題不選 D：PaO2/FiO2 ≤100 對應 severe ARDS。屬最嚴重分級；它不是包含全部 ARDS 的診斷起點。",
-   "summary": "ARDS 門檻從 PaO2/FiO2 ≤300 起；≤200、≤100 是更嚴重的子集，所以本題 B、C 才會一起給分。",
-   "guideline": "[TODO] 官方更正：第 9 題答 B 或 C 均給分"
+   "A": "本項不選。400 這個數字沒有任何診斷分界的意義，遠高於所有版本的定義。",
+   "B": "本項是官方接受的答案，也是現行 Berlin 定義。ARDS 要求在 PEEP 至少 5 cmH2O 下 PaO2/FiO2 **≤300**，並依此分三級：輕度 200–300、中度 100–200、重度 ≤100。",
+   "C": "本項也被官方接受。這是更早的 AECC 定義：PaO2/FiO2 ≤200 才叫 ARDS，200 到 300 之間稱為急性肺損傷（ALI）。Berlin 定義取消了 ALI 這個名詞，把它併成輕度 ARDS，所以兩個數字各自對應不同版本。",
+   "D": "本項不選。100 以下是 Berlin 定義中的**重度** ARDS，不是診斷門檻。",
+   "summary": "ARDS 的診斷門檻是 P/F ≤300（Berlin），200 只是舊 AECC 定義的分界；記住重度是 ≤100。",
+   "guideline": "官方更正：本題答 B 或 C 均給分（Berlin 定義 ≤300／舊 AECC 定義 ≤200）"
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -103077,12 +103063,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項（A：anti-HBs 至少大於1）是本題要選。一般以 anti-HBs ≥10 mIU/mL 作為保護性反應門檻，不必至少達 100 mIU/mL。",
-   "B": "本項（B：新生兒接種後，保護力至少5 ）不選。完成 B 型肝炎疫苗後的免疫記憶可維持多年，免疫正常者通常不需例行追加。",
-   "C": "本項（C：免疫抑制中的個案，若是ant）不選。免疫抑制者的 booster 策略要依風險、anti-HBs 與治療類型判斷。",
-   "D": "本項（D：血液透析患者，接種B 型肝炎）不選。血液透析患者對疫苗反應較差，通常建議定期監測 anti-HBs，低於門檻時追加。",
-   "summary": "HBV vaccine 的保護門檻記 10 mIU/mL；透析與免疫抑制者才需要更主動追 anti-HBs 與 booster。",
-   "guideline": "[TODO] 台灣透析患者 HBV booster 的現行門檻與時程需依指引核對"
+   "A": "本項應選。保護力門檻是 anti-HBs 達 10 mIU/mL，不是 100。完成三劑後測到 10 以上就算有反應，之後即使效價掉到測不到，免疫記憶通常還在。",
+   "B": "本項不選。新生兒完成接種後的保護力可維持很久，追蹤研究顯示 20 年以上仍有免疫記憶。台灣自 1984 年全面接種後，兒童帶原率從約 10% 降到 1% 以下。",
+   "C": "本項不選。免疫抑制的人做不出穩定的免疫記憶，所以規則跟一般人不同：anti-HBs 掉到 10 以下就該追加，不能只靠「以前打過」。",
+   "D": "本項不選。透析病人對疫苗反應差，需要加倍劑量或多劑次，而且要每年監測 anti-HBs，低於 10 就追加。這也是透析室感染管制的一部分。",
+   "summary": "anti-HBs 的保護門檻是 10 mIU/mL；一般人不用追加，但透析與免疫抑制者要定期驗、掉了就補。",
+   "guideline": null
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -104020,13 +104006,12 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "入院時或住院未滿 48 小時已發生的 pneumonia 通常歸為 community-acquired。",
-   "B": "題目採用的舊分類把近期住院後感染納入 healthcare/hospital exposure 判讀；實際命名需依定義時點。",
-   "C": "Ventilator-associated pneumonia 通常定義為插管機械通氣至少 48 小時後發生，不是 24 小時，故錯誤。",
-   "D": "90 天內住院至少 2 天是舊版 HCAP risk criterion；現行指引已不再把 HCAP 當獨立類別。",
-   "summary": "VAP 需在 invasive ventilation 約48小時後發生；HCAP 是已淘汰的舊分類。",
-   "guideline": "[TODO] 題目含舊版 HCAP 定義，需與現行 CAP/HAP/VAP 指引對照",
-   "concepts": []
+   "A": "本項不選。住院未滿 48 小時發病仍算社區型肺炎，因為潛伏期上細菌多半是入院前就帶進來的。48 小時是社區與院內的分水嶺。",
+   "B": "本項不選。上次住院結束後短期內發生的肺炎，仍與住院期間的定殖菌有關，因此歸在院內肺炎的範圍。",
+   "C": "本項應選。呼吸器相關肺炎的定義是**插管後超過 48 小時**才發生，不是 24 小時。24 小時內出現的多半是插管當下的吸入或本來就在潛伏的感染。",
+   "D": "本項不選（依題目年代）。這是舊的 HCAP 定義。要注意的是 2016 年之後的指引**已經廢除 HCAP 這個分類**，因為它會讓太多人被過度使用廣效抗生素；現在改成依個別的多重抗藥性風險因子判斷。",
+   "summary": "兩個 48 小時要記牢：入院 48 小時後發病算 HAP、插管 48 小時後算 VAP；HCAP 這個分類現在已經不用了。",
+   "guideline": "2016 年起 ATS/IDSA 指引已廢除 HCAP 分類"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -104725,12 +104710,12 @@
   "specialty": "家庭醫學科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選。此項不對。一般社區高齡者補充 vitamin D 預防跌倒或骨折的證據不足以列為最高等級推薦。",
-   "B": "本項不選。此項不對。vitamin E 沒有被建議作為心血管疾病化學預防，且高劑量補充可能有傷害。",
-   "C": "本項應選。正確。具懷孕可能且計畫或可能懷孕者，每日補充 0.4–0.8 mg folic acid 可降低神經管缺陷，是 USPSTF 最高等級的經典化學預防。",
-   "D": "本項不選。此項不對。aspirin 用於初級心血管預防的效益與出血傷害需依年齡和個人風險權衡，不能對所有 60 歲以上者常規使用。",
-   "summary": "化學預防最穩的高分記憶點：可能懷孕者每天葉酸 400–800 µg 預防神經管缺陷。",
-   "guideline": "[TODO] USPSTF 化學預防建議現行版本需確認"
+   "A": "本項不選。USPSTF 對社區居住的 65 歲以上長者「補充維生素 D 預防跌倒」給的是 D 級——不建議。研究顯示無效，高劑量甚至可能增加跌倒。真正有效的是運動介入。",
+   "B": "本項不選。維生素 E 預防心血管疾病是 D 級，明確不建議。抗氧化補充劑在大型試驗中一再證明無效，這題是經典的反例選項。",
+   "C": "本項應選。所有計畫懷孕或可能懷孕的女性，每天補充 0.4 到 0.8 mg 葉酸預防神經管缺陷，是 **A 級**建議——USPSTF 化學預防裡等級最高的一項。關鍵在時機：受孕前一個月就要開始，因為神經管在懷孕第 4 週就閉合了。",
+   "D": "本項不選。60 歲以上「開始」服用 aspirin 做初級預防，USPSTF 2022 改為 D 級——出血風險超過效益。40 到 59 歲且十年心血管風險 ≥10% 者才是個別化決定（C 級）。注意這只講初級預防，已有心血管疾病的次級預防不受影響。",
+   "summary": "化學預防的等級差異很大：葉酸是 A 級唯一亮點，維生素 D、維生素 E 和 60 歲以上初級預防用 aspirin 都是 D 級不建議。",
+   "guideline": "USPSTF：葉酸 A 級；維生素 D 預防跌倒、維生素 E、≥60 歲起始 aspirin 初級預防均為 D 級"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -112165,12 +112150,12 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "active cancer 是 persistent provoking factor，停 anticoagulation 後 VTE recurrence risk 高，不是最低。",
-   "B": "long-haul flight 屬較弱、暫時性 risk factor，事件解除後風險通常低於 unprovoked VTE，但官方未選為最低。",
-   "C": "官方接受 C，但 no identifiable risk factor 即 unprovoked PE，通常復發風險高於 major transient trauma-provoked VTE；[TODO] 此答案與一般風險分層矛盾。",
-   "D": "外傷若為已解除的 major transient provoking factor，完成療程後 VTE recurrence risk 最低，這是臨床上最合理答案。",
-   "summary": "一般原則是 major transient factor（如 trauma）誘發 VTE 復發最低；官方同時接受 unprovoked 的 C，需保留疑義。",
-   "guideline": "[TODO] 官方答案疑義：第8題答 C、D 或 CD 均給分"
+   "A": "本項不選。活動性癌症是復發風險**最高**的一群，年復發率可達 15% 以上，所以指引建議只要癌症還在活動就持續抗凝。",
+   "B": "本項不選。長途飛行屬於次要暫時性誘因，復發風險介於中間，比重大手術或外傷造成的要高一些。",
+   "C": "本項是官方接受的答案，但與現行風險分層相反。找不到誘因就是 unprovoked VTE，停藥後年復發率約 10%，是需要考慮長期抗凝的一群。以復發風險而言它並不低。",
+   "D": "本項也是官方接受的答案，而且**在現行分層裡才是真正最低的一個**。外傷屬重大暫時性誘因，誘因消失後復發風險明顯下降，治療 3 個月即可停藥。這類病人停藥後的年復發風險約 3%。",
+   "summary": "VTE 停藥復發風險由低到高：重大暫時誘因（手術、外傷）→ 次要誘因 → 找不到誘因 → 活動性癌症；能停藥的是第一類。",
+   "guideline": "官方更正：本題答 C 或 D 或 CD 均給分；依現行分層 D（重大暫時誘因）才是復發風險最低者"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -112402,11 +112387,11 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Entecavir 的懷孕安全資料較少，且不作為孕期預防母嬰傳染的首選 nucleos(t)ide analogue。",
-   "B": "Telbivudine 曾有較多孕期使用資料，但現行臨床通常優先選 resistance barrier 較高、證據較完整的 tenofovir。",
-   "C": "TDF 具有最完整的妊娠安全與降低 HBV 母嬰傳染證據，是孕期需要治療時的首選。",
-   "D": "TAF 的系統性 tenofovir 暴露較低，已有孕期資料；依題目四選一，明確不建議者是 entecavir。[TODO] 孕期 HBV 用藥仍須依當地最新指引核對 TAF 定位。",
-   "summary": "孕期 HBV 抗病毒以 TDF 證據最完整；entecavir 不建議使用。",
+   "A": "本項應選。entecavir 在懷孕期間**不建議使用**。人體安全性資料不足，動物試驗在高劑量下也有胚胎毒性疑慮。孕期要治療或阻斷母嬰垂直傳染時，應換成 tenofovir。",
+   "B": "本項不選。telbivudine 的孕期安全性分類較佳，過去有用於阻斷垂直傳染的資料。只是它抗藥性高，現在臨床上已很少使用。",
+   "C": "本項不選。TDF 是孕期首選。它在 HIV 孕婦身上累積的長期安全資料最多，抗藥屏障也高。台灣的做法是高病毒量孕婦在第三孕期開始服用，再加上新生兒疫苗與免疫球蛋白。",
+   "D": "本項不選。TAF 是 tenofovir 的新型前驅藥，對腎臟與骨質的影響較小。孕期使用資料逐漸累積，並未被列為不建議。",
+   "summary": "孕期 B 肝抗病毒藥首選 TDF；entecavir 不建議用。高病毒量孕婦第三孕期開始服藥再加上新生兒免疫預防。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -113974,12 +113959,12 @@
   "specialty": "感染科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項（A：子宮內避孕器是得到此疾病的危）不選。長期 IUCD 是骨盆腔 actinomycosis 的重要危險因子，病灶可形成跨組織平面的慢性膿瘍與腫塊。",
-   "B": "本項（B：治療可使用penicilli）不選。Actinomyces 對 penicillin 或 amoxicillin 通常敏感；合併引流與移除 IUCD 也常是處置的一部分。",
-   "C": "本項（C：可使用電腦斷層掃描或核磁共振）不選。CT 或 MRI 可追蹤膿瘍大小、腹壁延伸與對治療的反應，尤其初期像惡性腫瘤時更有幫助。",
-   "D": "本項（D：建議抗生素治療時間為兩週）是本題要選。深部 pelvic actinomycosis 通常需長期抗生素治療，常以數週靜脈後接數月口服為概念；兩週不足以降低復發風險。",
-   "summary": "IUCD 放很久、sulfur granules、跨組織膿瘍＝actinomycosis；治療是 penicillin 類加 source control，而且療程很長。",
-   "guideline": "[TODO] pelvic actinomycosis 的現行總療程與引流策略需依病灶範圍核對"
+   "A": "本項不選。放很久的子宮內避孕器是骨盆腔放線菌症的典型危險因子。Actinomyces 會沿著組織平面蔓延，不理會器官界線，所以影像上常像惡性腫瘤。",
+   "B": "本項不選。Actinomyces 對 penicillin 高度敏感，penicillin 或 amoxicillin 就是首選。同時要做源頭控制：移除避孕器、引流膿瘍。",
+   "C": "本項不選。CT 或 MRI 用來追蹤膿瘍縮小與腹壁侵犯的變化。因為療程很長，影像是判斷能不能停藥的重要依據。",
+   "D": "本項應選。放線菌症出名的就是療程長：一般是靜脈 penicillin 二到六週，再接口服六到十二個月。兩週遠遠不夠，停太早幾乎一定復發。",
+   "summary": "避孕器放二十年＋硫磺顆粒＋跨組織膿瘍就是 actinomycosis：penicillin 加引流，療程以「月」計不是以「週」計。",
+   "guideline": null
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117875,12 +117860,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，這句話大致正確。惡性肋膜間皮瘤（mesothelioma）與石綿暴露有強關聯，也較常見於曾有職業暴露的中高齡男性。",
-   "B": "本項可列為最不適當。間皮瘤手術不只限於切片或姑息性肋膜沾黏；少數經嚴格篩選的可切除病人，仍可能在多模式治療中接受 pleurectomy/decortication 或 extrapleural pneumonectomy。",
-   "C": "本項也可列為最不適當。『單獨外科、化療或放療皆無法延長存活』說法過度絕對；治療效益須按期別、組織型、系統性治療與是否合併多模式策略判讀，不能一概否定。 [TODO] 需以現行惡性肋膜間皮瘤指引核對單一治療的存活效益。",
-   "D": "本項不選，這句話正確。肋膜外全肺切除（extrapleural pneumonectomy）會切除患側肺、臟層及壁層肋膜，並包含同側心包膜與橫膈膜的切除及重建。",
-   "summary": "本題有官方更正：B、C 或 BC 都給分；核心是間皮瘤治療不能用「手術只做診斷」或「任何單一治療都完全無效」一刀切。",
-   "guideline": null
+   "A": "本項不選。惡性肋膜間皮瘤與石綿暴露高度相關，潛伏期可長達 20 到 40 年，好發於中年以上男性——反映的是數十年前的職業暴露。",
+   "B": "本項被官方接受為答案之一。手術確實常用於切片診斷與肋膜沾黏術，但把它限縮成「主要只有這兩件事」並不完整：在慎選的病人身上，肋膜外全肺切除或肋膜切除減積術仍是多模式治療的一環。",
+   "C": "本項應選，也是實質上最明確的錯誤。**單獨化學治療確實能延長存活**——pemetrexed 合併 cisplatin 就是這個癌症的標準全身治療，近年再加上免疫治療。說三種治療單獨都無效，與現有證據不符。",
+   "D": "本項不選。肋膜外全肺切除（extrapleural pneumonectomy）的切除範圍就是這四樣：整側肺、臟層與壁層肋膜、心包膜與橫膈，後兩者再用人工材料重建。手術死亡率高，適應症很嚴格。",
+   "summary": "惡性肋膜間皮瘤不是「治了也沒用」：pemetrexed 加 cisplatin 能延長存活；手術角色要看病人選擇，不只是切片與沾黏術。",
+   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分"
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -122540,12 +122525,12 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "gastric MALT lymphoma 常與 H. pylori 有關，早期 localized disease 可先 eradication therapy。",
-   "B": "正確答案之一。胃原發 lymphoma 中 DLBCL 並不少見，不能把 MALT:DLBCL 固定成 70:30 並稱前者遠大於後者。",
-   "C": "官方亦接受 C；t(11;18)(q21;q21) 的確形成 BIRC3(API2)::MALT1，而選項寫 API1 可能是命名錯誤，因此不恰當。",
-   "D": "gastric DLBCL 可 de novo 或由 MALT transformation；germinal-center phenotype 可表現 CD10，分子表現依 subtype 而異。",
-   "summary": "官方 B 或 C 均給分：B 的固定流行比例不當；C 把 t(11;18) 的 BIRC3/API2 誤寫成 API1。",
-   "guideline": "[TODO] 官方答案疑義：第40題答 B、C 或 BC 均給分"
+   "A": "本項不選。胃 MALT lymphoma 與 H. pylori 高度相關，早期病灶光靠除菌就有七成以上可以完全緩解。這是「用抗生素治癌」的經典例子。",
+   "B": "本項應選。比例反了。胃淋巴瘤裡瀰漫性大 B 細胞淋巴瘤佔的比例並不低於 MALT，多數系列顯示兩者相當甚至 DLBCL 更多。說成 70 比 30 是把 MALT 誇大了。",
+   "C": "本項官方也給分。t(11;18) 確實是 MALT lymphoma 的重要變異，但形成的融合蛋白是 **API2-MALT1**，題目寫成 API1。這個變異的臨床意義很實際：帶有它的病人**對除菌治療反應差**，要直接考慮放療或全身治療。",
+   "D": "本項不選。胃 DLBCL 可以是原發，也可以由 MALT lymphoma 轉化而來。原發型多帶 germinal center 表型（BCL-2、CD10 陽性），轉化型則常保留原本 MALT 的分子特徵。",
+   "summary": "胃 MALT lymphoma 先除菌；但帶 t(11;18)（API2-MALT1）的除菌無效，要直接走放療或化療。",
+   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130529,12 +130514,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "若胚胎切片的目的只是非醫療性性別選擇，人工生殖規範不允許醫師藉此選擇性別；但本例同時表示要確認染色體，是否具有合法醫療適應症不能只由「已有二女」推定。[TODO] 需以現行臺灣人工生殖法與主管機關規範核對官方命題。",
-   "B": "依官方答案，此項最適當：有適當遺傳檢測適應症並完成知情同意時，可進行胚胎切片；「病患權利」仍不代表可要求非醫療性性別選擇。[TODO] 需核對本題作答年度與現行法規的適應症限制。",
-   "C": "只做檢測卻刻意不告知性別，不能自動使原本缺乏醫療適應症的切片合法；實務上還涉及檢測範圍、知情同意與不可非醫療選性別等規範。",
-   "D": "胚胎切片是否須個案向衛生福利部通報，不能由一般 ART 程序一概推定；醫療機構與檢測依法有紀錄／申報義務，不等於每一例都以「先通報」作為可執行條件。[TODO] 需核對現行申報規定。",
-   "summary": "胚胎切片須有正當醫療目的並遵守禁止非醫療性別選擇；官方選 B，但法規細節需依作答年度與現行臺灣規範確認。",
-   "guideline": "[TODO] 需核對現行臺灣人工生殖法及相關子法"
+   "A": "本項不選。不能因為「她可能想選性別」這個推測就預先拒絕。35 歲接受試管嬰兒、想確認胚胎染色體是否正常（PGT-A），本身是有醫學適應症的檢查。用尚未發生的動機去否定合法的醫療需求，並不合理。",
+   "B": "本項應選（官方答案）。胚胎切片做染色體檢查是病人在接受人工生殖時可要求的項目，醫師應依醫學適應症提供。真正的紅線在後面那一步：**人工生殖法禁止依性別選擇胚胎**，只有為了預防、診斷或治療性聯遺傳疾病才例外。所以檢查可以做，依性別挑胚胎不行。",
+   "C": "本項不選。法律禁止的是「以性別選擇胚胎」，不是禁止告知檢查結果。把重點放在「不能告訴她性別」，其實抓錯了規範的核心。",
+   "D": "本項不選。人工生殖機構本來就有依法通報與登錄的義務，但那是常規作業，不是本題要判斷的重點，也不是做這項檢查的前提條件。",
+   "summary": "PGT-A 有醫學適應症就能做；法律禁的是「依性別選胚胎」，例外只有性聯遺傳疾病。",
+   "guideline": "人工生殖法：不得選擇胚胎性別，但為預防、診斷或治療性聯遺傳疾病者不在此限"
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
