@@ -1090,11 +1090,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "類風濕性關節炎（rheumatoid arthritis）可造成對稱性小關節炎與 RF 陽性，但無法統整光敏感、雷諾現象（Raynaud phenomenon）及 anti-dsDNA 陽性；RF 也不是類風濕性關節炎專一抗體。",
-   "B": "正確。全身性紅斑狼瘡（systemic lupus erythematosus）可表現為小關節痛、光敏感、雷諾現象與貧血，且 anti-dsDNA 陽性比單獨 ANA 或 RF 更支持此診斷；正常尿液表示目前未顯示腎炎，不能排除 SLE。",
-   "C": "乾燥症（Sjögren syndrome）常以乾眼、口乾及 anti-SSA／anti-SSB 為線索；本題雖有 anti-SSB，但欠缺乾燥症狀，反而有光敏感與 anti-dsDNA，因此不是最能統整全貌的診斷。",
-   "D": "全身性硬化症（systemic sclerosis）可有雷諾現象，但通常還需皮膚硬化、指端病變或特異抗體等線索；光敏感與 anti-dsDNA 陽性更指向 SLE。",
-   "summary": "多項自體抗體可重疊，診斷要配合臨床表現與較具特異性的 anti-dsDNA；正常尿液不能排除尚無腎炎的 SLE。",
+   "A": "本項不選。類風濕性關節炎（rheumatoid arthritis）確實會有對稱性小關節炎與 RF 陽性。但它解釋不了光敏感、雷諾現象（Raynaud phenomenon）與 anti-dsDNA 陽性。而且 RF 42 IU/mL 不是類風濕性關節炎的專屬抗體，其他結締組織病也會升高。",
+   "B": "正確答案。這一組表現只有全身性紅斑狼瘡（systemic lupus erythematosus, SLE）串得起來：小關節痛、光敏感、雷諾現象加上貧血。決定性的是 anti-dsDNA 144 IU/mL 陽性——它比單看 ANA 或 RF 特異得多。尿液常規正常只代表現在還沒有腎炎，不能用來排除診斷。",
+   "C": "本項不選。乾燥症（Sjögren syndrome）的線索是乾眼、口乾加上 anti-SSA／anti-SSB。這位病人雖然 anti-SSB 164 AU/mL 陽性，卻完全沒有乾燥症狀，反而有光敏感與 anti-dsDNA。多種抗體重疊時，要看哪一個對得上臨床。",
+   "D": "本項不選。全身性硬化症（systemic sclerosis）也會有雷諾現象，但還需要皮膚硬化、指端病變或特異抗體才成立。光敏感與 anti-dsDNA 陽性把方向拉回狼瘡。",
+   "summary": "自體抗體常常一次驗出好幾個陽性——要挑「對得上臨床」的那一個；這題是 anti-dsDNA 加光敏感。",
    "guideline": null,
    "concepts": [
     "sle-2019-eular-acr-classification"
@@ -1131,11 +1131,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "HLA-A2 並非乾癬（psoriasis）最具代表性的遺傳關聯；此 allele 也見於一般族群，不能作為本題答案。",
-   "B": "HLA-B27 主要與僵直性脊椎炎（ankylosing spondylitis）及其他軸性脊椎關節炎相關；乾癬性關節炎部分病人可帶有 HLA-B27，但它不是乾癬皮膚病灶最常考的基因。",
-   "C": "正確。HLA-C*06:02（傳統寫作 HLA-Cw6）是尋常型乾癬最重要的 HLA 關聯之一，尤其與較早發病的乾癬相關。",
-   "D": "HLA-DR4 與類風濕性關節炎（rheumatoid arthritis）的 shared epitope 關聯較著名，不是乾癬最典型的 HLA allele。",
-   "summary": "乾癬的典型 HLA 關聯是 HLA-C*06:02；HLA-B27 應優先聯想到軸性脊椎關節炎。",
+   "A": "本項不選。HLA-A2 在一般族群也很常見，不是乾癬（psoriasis）具代表性的遺傳關聯。",
+   "B": "本項不選。HLA-B27 要優先聯想僵直性脊椎炎與其他軸性脊椎關節炎。乾癬性關節炎有一部分病人帶 HLA-B27，但它不是乾癬**皮膚病灶**最常考的基因。",
+   "C": "正確答案。HLA-C*06:02（傳統寫法 HLA-Cw6）是尋常型乾癬最重要的 HLA 關聯，尤其和早發型乾癬有關。",
+   "D": "本項不選。HLA-DR4 有名的是類風濕性關節炎的 shared epitope，不是乾癬。",
+   "summary": "HLA 配對背三組：乾癬－C*06:02、僵直性脊椎炎－B27、類風濕性關節炎－DR4。",
    "guideline": "FC 醫學(三)第4冊 p.106"
   },
   "source": "110020/302_11",
@@ -1169,11 +1169,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "結節性多動脈炎（polyarteritis nodosa）侵犯中小型肌性動脈，典型上不屬於 ANCA-associated vasculitis，故 c-ANCA 並非其主要血清標記。",
-   "B": "正確。肉芽腫性多血管炎（granulomatosis with polyangiitis，舊稱 Wegener granulomatosis）最典型與 PR3-ANCA 相關，間接免疫螢光常呈 c-ANCA pattern；在活動性全身疾病中的陽性率尤其高。",
-   "C": "Goodpasture syndrome 是 anti-GBM disease，由抗腎絲球基底膜抗體造成肺腎症候群；其代表抗體不是 c-ANCA。",
-   "D": "高安氏動脈炎（Takayasu arteritis）是大型血管炎，診斷仰賴臨床與血管影像，通常不以 c-ANCA 陽性為特徵。",
-   "summary": "c-ANCA pattern 最典型對應 PR3-ANCA 與 GPA；PAN、anti-GBM disease、Takayasu arteritis 都不是典型 ANCA-associated vasculitis。",
+   "A": "本項不選。結節性多動脈炎（polyarteritis nodosa）侵犯的是中小型肌性動脈，典型上**不屬於** ANCA 相關血管炎，所以 c-ANCA 不是它的主要血清標記。",
+   "B": "正確答案。肉芽腫性多血管炎（granulomatosis with polyangiitis，舊稱 Wegener's granulomatosis）最典型對應 PR3-ANCA，用間接免疫螢光看就是 c-ANCA 的形態。疾病活動期的陽性率特別高。",
+   "C": "本項不選。Goodpasture syndrome 是 anti-GBM disease，靠抗腎絲球基底膜抗體造成肺腎症候群。它的代表抗體不是 c-ANCA。",
+   "D": "本項不選。高安氏動脈炎（Takayasu arteritis）是大血管炎，靠臨床與血管影像診斷，通常不以 c-ANCA 陽性為特徵。",
+   "summary": "c-ANCA 對應 PR3、指向 GPA；PAN、anti-GBM 與高安氏動脈炎都不在 ANCA 這個家族裡。",
    "guideline": "FC 醫學(三)第4冊 p.85"
   },
   "source": "110020/302_11",
@@ -1202,11 +1202,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "IgG 與 IgA 低下不一定只代表 B 細胞缺陷；嚴重 T 細胞缺陷會因缺乏對 B 細胞的協助而造成次發性抗體生成不足，因此也可出現低免疫球蛋白。",
-   "B": "T 細胞與 B 細胞的絕對數量不會與免疫缺陷嚴重度簡單成正比；細胞數量正常仍可能有嚴重功能缺陷，且不同疾病影響的免疫環節不同。",
-   "C": "正確。白血球黏附缺陷（leukocyte adhesion deficiency）使 neutrophils 無法有效黏附血管內皮並移入感染處，因此周邊血常見明顯 neutrophilia，病灶卻缺乏膿液。",
-   "D": "X-linked agammaglobulinemia 是 BTK 缺陷造成 B 細胞成熟受阻，典型為 B 細胞與各類 immunoglobulins 顯著降低；eosinophilia 不是其代表性血球變化。",
-   "summary": "免疫缺陷評估不能只看細胞數量；LAD 的高頻陷阱是周邊 neutrophils 很高，但無法進入組織形成膿液。",
+   "A": "本項敘述錯誤。IgG 與 IgA 低下不一定只代表 B 細胞有缺陷。嚴重的 T 細胞缺陷會因為缺少對 B 細胞的協助，次發性地造成抗體生成不足——所以低免疫球蛋白也可能是 T 細胞的問題。",
+   "B": "本項敘述錯誤。細胞「數量」與缺陷嚴重度不成正比。數量正常仍然可能有嚴重的功能缺陷，而且不同疾病打擊的免疫環節本來就不一樣。",
+   "C": "正確答案。白血球黏附缺陷（leukocyte adhesion deficiency）讓嗜中性球黏不上血管內皮、進不了組織。結果很矛盾：周邊血的嗜中性球數目明顯上升，但感染處**擠不出膿**。這個「血裡很多、現場沒有」就是它的招牌。",
+   "D": "本項敘述錯誤。X-linked agammaglobulinemia 是 BTK 缺陷讓 B 細胞成熟卡住，典型是 B 細胞與各類免疫球蛋白都顯著降低。嗜酸性球增多不是它的代表性血球變化。",
+   "summary": "LAD 的陷阱是「白血球很高但沒有膿」——細胞出不去，數字反而堆在血裡。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1235,11 +1235,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Serum immunoglobulin levels 適合評估反覆 encapsulated bacterial sinopulmonary infection 的 humoral defect；Listeria meningitis 加反覆 herpes zoster 更提示 T-cell／cell-mediated immunity 問題。",
-   "B": "正確。Blood cell count 可先辨認 lymphopenia，lymphocyte phenotype 則量測 CD3、CD4、CD8、CD19/20 與 NK-cell subsets，最能初步定位本例可能的細胞免疫缺陷。",
-   "C": "CH50 篩檢 classical complement pathway；補體缺陷較常造成反覆 pyogenic infection 或特定 Neisseria infection，不能最好地解釋 Listeria 與反覆帶狀疱疹。",
-   "D": "NBT assay 評估 neutrophil oxidative burst，傳統用於慢性肉芽腫病（chronic granulomatous disease）；該缺陷常見 catalase-positive bacterial／fungal infection，不以反覆病毒再活化為主。",
-   "summary": "Listeria 與反覆 herpes zoster 都提示 cell-mediated immunity 缺損，初步應做 CBC 加 lymphocyte subset phenotyping。",
+   "A": "本項不選。驗血清免疫球蛋白適合用在反覆的莢膜細菌鼻竇肺部感染，那是體液免疫的問題。這位病人是李斯特菌腦膜炎加一年兩次帶狀疱疹，指向的是細胞免疫。",
+   "B": "正確答案。先看血球計數（CBC）抓出淋巴球低下，再做淋巴球表型分析量 CD3、CD4、CD8、CD19/20 與 NK 細胞亞群。李斯特菌與反覆帶狀疱疹兩件事都指向細胞免疫缺損，這組檢查最能初步定位。",
+   "C": "本項不選。CH50 篩的是古典補體路徑。補體缺陷比較常造成反覆化膿性感染或特定的 Neisseria 感染，解釋不了李斯特菌加病毒再活化。",
+   "D": "本項不選。NBT 測的是嗜中性球的氧化爆發，傳統用來診斷慢性肉芽腫病。那類病人感染的是觸酶陽性細菌與黴菌，不是反覆病毒再活化。",
+   "summary": "感染的「種類」會告訴你哪一環壞掉：細胞內菌（李斯特菌）＋病毒再活化＝細胞免疫，先驗淋巴球亞群。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -12103,11 +12103,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "自體免疫甲狀腺病（autoimmune thyroid diseases）、硬皮症（scleroderma）與全身性紅斑狼瘡（systemic lupus erythematosus）皆明顯較常見於女性，因此此敘述合適。",
-   "B": "懷孕期間，類風濕性關節炎（rheumatoid arthritis）常因免疫調節而改善，產後則可能 flare；並非每位患者都緩解，所以題目使用「可能」是恰當的。",
-   "C": "第一型糖尿病（type 1 diabetes mellitus）的性別差異不像 SLE 或 autoimmune thyroid disease 那樣呈明顯女性優勢，且不同地區可能相近或略偏男性；將它概括為女性發生率較高最不適當。",
-   "D": "僵直性脊椎炎（ankylosing spondylitis）過去臨床辨識與影像確診病例以男性較多，男性也較容易有典型 radiographic progression，因此此選項符合傳統流行病學考點。",
-   "summary": "不是所有自體免疫病都有女性優勢；type 1 diabetes 的性別分布遠不如 SLE、systemic sclerosis 與 autoimmune thyroid disease 偏女性。",
+   "A": "本項不選。自體免疫甲狀腺疾病、硬皮症與全身性紅斑狼瘡（SLE）都明顯以女性居多，這個敘述沒有問題。",
+   "B": "本項不選。懷孕期間類風濕性關節炎常因免疫調節而改善，產後反而容易復發。題目用「可能」而不是「一定」，措辭恰當。",
+   "C": "本項應選。第一型糖尿病（type 1 diabetes）的性別差異，沒有像狼瘡或自體免疫甲狀腺疾病那樣呈現明顯的女性優勢；不同地區的數據可能相近甚至略偏男性。把它概括成「女性發生率較高」最不適當。",
+   "D": "本項不選。僵直性脊椎炎在臨床辨識與影像確診的病例上以男性較多，男性也較容易出現典型的影像進展，符合傳統流行病學。",
+   "summary": "不是每個自體免疫病都偏女性——第一型糖尿病就是那個例外。",
    "guideline": "FC 醫學(三)第2冊 p.296"
   },
   "source": "110080/302_11",
@@ -13034,11 +13034,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Septic work-up 在發燒、菌血症風險或敗血性關節炎疑慮時重要，但「work-up」過於籠統；急性單關節炎最直接的關鍵仍是抽取關節液，同時排除感染與結晶性關節炎。",
-   "B": "正確。Joint fluid examination 應包括 cell count、Gram stain／culture 與 polarized microscopy；看到強負雙折射的 needle-shaped monosodium urate crystals 可支持 gout，培養則排除可能共存的 septic arthritis。",
-   "C": "Anticardiolipin antibodies 用於抗磷脂症候群（antiphospholipid syndrome）評估，與利尿劑後突發第一蹠趾關節紅腫劇痛的診斷沒有直接關係。",
-   "D": "Serum uric acid 在急性痛風（acute gout）發作時可能正常，升高也不能證明當下關節炎一定由尿酸鹽造成，因此不如關節液結晶檢查具診斷力。",
-   "summary": "急性單關節炎應優先做關節液檢查：既可找 urate crystals，也不能漏掉可能共存的 septic arthritis。",
+   "A": "本項不選。敗血症檢查在發燒、有菌血症風險或懷疑化膿性關節炎時很重要，但「septic work-up」講得太籠統。急性單關節炎最關鍵的一步還是抽關節液，那同時能查感染與結晶。",
+   "B": "正確答案。關節液檢查一次做三件事：細胞數、革蘭氏染色與培養、偏光顯微鏡。看到針狀、強負雙折射的單鈉尿酸鹽結晶就支持痛風；培養則排除可能同時存在的化膿性關節炎——這兩者是可以並存的。",
+   "C": "本項不選。抗心磷脂抗體用於評估抗磷脂症候群，和吃利尿劑後突然發作的第一蹠趾關節紅腫劇痛沒有直接關係。",
+   "D": "本項不選。急性痛風發作時血中尿酸可能是正常的，數值偏高也不能證明當下這個關節炎就是尿酸鹽造成的。所以它的診斷力不如關節液結晶檢查。",
+   "summary": "急性單關節炎一律先抽關節液——既找結晶，也不能漏掉可能同時存在的化膿性關節炎。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -13072,11 +13072,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。嗜酸性肉芽腫性多血管炎（eosinophilic granulomatosis with polyangiitis）以 asthma、eosinophilia 與 small-vessel vasculitis 為典型組合；antineutrophil cytoplasmic antibodies 陽性雖非必要，但在本選項中最具診斷幫助，常見 MPO-ANCA／p-ANCA。",
-   "B": "IgE 在 EGPA 患者可升高，但也常見於一般 atopy、asthma 與寄生蟲感染，特異性不足，無法像 ANCA 那樣支持 ANCA-associated vasculitis 的免疫表型。",
-   "C": "IgG4 升高可見於 IgG4-related disease，但題幹的 asthma、27% eosinophils 與 palpable purpura 更符合 EGPA；單獨 IgG4 陽性也不具疾病專一性。",
-   "D": "Sputum smear 可依目的尋找病原或嗜酸性球，但不能確認造成 palpable purpura 的全身性血管炎；若要證實 vasculitis，受侵犯組織 biopsy 比痰液抹片直接。",
-   "summary": "成人 asthma 加顯著 eosinophilia 與 palpable purpura 應想到 EGPA；ANCA 可支持診斷，但陰性不能排除。",
+   "A": "正確答案。氣喘、嗜酸性球高達 27%、加上下肢隆起性紫斑，這組合是嗜酸性肉芽腫性多血管炎（eosinophilic granulomatosis with polyangiitis, EGPA）。四個選項裡 ANCA 陽性最能支持診斷，常見的是 MPO-ANCA／p-ANCA。要注意陰性不能排除。",
+   "B": "本項不選。EGPA 病人的 IgE 確實可能升高，但一般過敏體質、氣喘與寄生蟲感染也會高。特異性不夠，撐不起血管炎的診斷。",
+   "C": "本項不選。IgG4 升高見於 IgG4 相關疾病。但這題的氣喘、27% 嗜酸性球與可觸摸性紫斑更符合 EGPA，而且 IgG4 本身沒有疾病專一性。",
+   "D": "本項不選。痰液抹片可以找病原或嗜酸性球，但證實不了造成紫斑的**全身性**血管炎。要證實血管炎，切受侵犯的組織比驗痰直接得多。",
+   "summary": "成人氣喘＋嗜酸性球很高＋可觸摸性紫斑＝EGPA；ANCA 幫忙確認，但陰性不能排除。",
    "guideline": "FC 醫學(三)第4冊 p.92"
   },
   "source": "110080/302_11",
@@ -13110,11 +13110,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。皮肌炎（dermatomyositis）造成對稱性 proximal muscle weakness，患者可難以由床上起身；heliotrope eruption 與頰部／光曝露處紅疹則是具辨識力的皮膚線索。",
-   "B": "全身性紅斑狼瘡（systemic lupus erythematosus）可有光敏感皮疹與無力，但題幹強調近端肌無力及眼瞼紅疹，更符合 dermatomyositis；低效價 ANA 本身不具診斷專一性。",
-   "C": "濕疹（eczema）可造成搔癢、紅斑與脫屑，卻不會合理解釋必須用雙手協助起床的對稱性 proximal muscle weakness。",
-   "D": "光敏感（photosensitivity）只是對光曝露後皮膚反應的描述，並非能統整眼瞼特徵性紅疹與 proximal muscle weakness 的疾病診斷。",
-   "summary": "Heliotrope eruption 加對稱性 proximal weakness 是 dermatomyositis 的經典組合；低效價 ANA 不能把診斷直接導向 SLE。",
+   "A": "正確答案。皮肌炎（dermatomyositis）造成的是對稱性近端肌無力，所以病人要用雙手撐著才起得了床。上眼瞼的紫紅色疹就是 heliotrope eruption，加上臉頰與光曝露處的紅疹，皮膚線索很有辨識力。",
+   "B": "本項不選。全身性紅斑狼瘡（SLE）也會有光敏感皮疹與倦怠無力，但這題強調的是**近端肌無力**加上眼瞼紅疹。而且 ANA 只有 1:40 這種低效價，本身沒有診斷專一性。",
+   "C": "本項不選。濕疹會癢、紅、脫屑，但完全解釋不了「必須側身用雙手扶持才能起床」這種對稱性近端肌無力。",
+   "D": "本項不選。光敏感只是描述皮膚曬到光之後的反應，它是一個現象不是診斷，串不起眼瞼特徵性紅疹與近端肌無力。",
+   "summary": "眼皮紫紅疹＋起床要用手撐＝皮肌炎；低效價 ANA 不足以把診斷帶去狼瘡。",
    "guideline": "FC 醫學(三)第4冊 p.76"
   },
   "source": "110080/302_11",
@@ -13148,11 +13148,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "CD4 與 CD8 counts 主要評估 T-cell compartment；本例是反覆 Haemophilus sinopulmonary infection、chronic sinusitis 與 bronchiectasis，更優先懷疑 antibody deficiency。",
-   "B": "正確。Serum IgG 是評估 humoral immunity 的基礎檢查；反覆 encapsulated bacterial respiratory infection 與既成 bronchiectasis 應進一步量測 IgG、IgA、IgM，必要時再評估 vaccine-specific antibody response。",
-   "C": "Serum IgE 可協助某些過敏或特定免疫缺陷表型的評估，但不能作為成人反覆 Haemophilus pneumonia 的主要 humoral screening test。",
-   "D": "Serum C3 and C4 常用於 complement consumption 或部分 complement deficiency 的線索；題幹的反覆呼吸道 encapsulated bacterial infection 更典型指向 immunoglobulin deficiency。",
-   "summary": "反覆 encapsulated bacterial sinopulmonary infection 合併 bronchiectasis，第一步應篩檢 quantitative immunoglobulins，尤其 IgG。",
+   "A": "本項不選。CD4 與 CD8 計數評估的是 T 細胞。這位病人是反覆的嗜血桿菌鼻竇肺部感染，加上慢性鼻竇炎與支氣管擴張，該優先懷疑的是抗體缺乏。",
+   "B": "正確答案。血中 IgG 是評估體液免疫的基礎檢查。反覆莢膜細菌呼吸道感染又已經造成支氣管擴張，要驗 IgG、IgA、IgM，必要時再評估疫苗特異性抗體反應。這位病人 15 歲就開始反覆肺炎，時間軸也對得上。",
+   "C": "本項不選。血中 IgE 可以協助某些過敏或特定免疫缺陷表型，但不是成人反覆嗜血桿菌肺炎的主要體液免疫篩檢。",
+   "D": "本項不選。C3 與 C4 用來找補體消耗或部分補體缺陷。反覆的莢膜細菌呼吸道感染更典型指向免疫球蛋白缺乏，不是補體。",
+   "summary": "反覆莢膜細菌感染＋支氣管擴張＝先驗免疫球蛋白定量，不是先驗 T 細胞或補體。",
    "guideline": "FC 醫學(三)第1冊 p.374"
   },
   "source": "110080/302_11",
@@ -13186,11 +13186,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "抗核抗體（anti-nuclear antibodies）對全身性紅斑狼瘡（systemic lupus erythematosus）敏感度高，陰性時會使 SLE 明顯較不可能；但陽性不專一，仍須配合臨床與其他 immunologic features。",
-   "B": "C4 降低可反映 classical complement pathway consumption，能支持免疫複合體活性，也可用於追蹤部分 SLE 患者的疾病活動。",
-   "C": "CBC with differential 可找出 SLE 分類與臨床常見的 leukopenia、lymphopenia、thrombocytopenia 或 autoimmune hemolytic anemia，因此有實質診斷幫助。",
-   "D": "正確。Anti-SSA 可見於 SLE，但也常見於乾燥症（Sjögren syndrome）及其他自體免疫情境；相較 ANA、低補體與血球異常，它對一般 SLE 確立診斷的增額幫助最小。",
-   "summary": "SLE 診斷須整合臨床、血球、補體與抗體；anti-SSA 並不專屬 SLE，單獨確診能力有限。",
+   "A": "本項不選。抗核抗體對狼瘡的敏感度很高，陰性時會讓診斷變得很不可能，所以它有實質價值。只是陽性不專一，仍要配合臨床。",
+   "B": "本項不選。C4 降低反映古典補體路徑被消耗，可以支持免疫複合體的活性，也常用來追蹤部分病人的疾病活動度。",
+   "C": "本項不選。全血球計數與分類（CBC with differential）能抓出白血球低下、淋巴球低下、血小板低下或自體免疫溶血性貧血——這些都列在狼瘡的分類條件裡，所以有診斷幫助。",
+   "D": "本項應選。anti-SSA 在全身性紅斑狼瘡（SLE）確實會出現，但它也常見於乾燥症與其他自體免疫情境。跟 ANA、低補體、血球異常相比，它對「確立狼瘡診斷」增加的幫助最小。",
+   "summary": "狼瘡診斷是整合題：ANA 篩、補體與血球看活動度；anti-SSA 不專屬狼瘡，加分最少。",
    "guideline": "FC 醫學(三)第4冊 p.28",
    "concepts": [
     "sle-2019-eular-acr-classification"
@@ -25118,11 +25118,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "痛風（gout）常見於中年男性；女性停經（menopause）後失去 estrogen 的 uricosuric effect，發生率反而上升，不是降低。",
-   "B": "正確。急性痛風發作時，serum uric acid 可能因發炎與尿酸排泄變化而落在正常範圍；正常值不能排除 gout，診斷仍以關節液找到 monosodium urate crystals 最可靠。",
-   "C": "早期痛風的 plain radiograph 可能正常，慢性 tophaceous gout 才常見 punched-out erosions；musculoskeletal ultrasound 反而可能看到 double-contour sign、tophi 等 urate deposition。",
-   "D": "腎功能不全會限制 NSAIDs 或 colchicine 的使用，glucocorticoids 反而常是急性痛風可考慮的抗發炎選項之一；仍需依感染風險與共病個別評估。",
-   "summary": "急性 gout 不能靠單次 serum uric acid 排除；關節液結晶最具診斷性，超音波也能看見尿酸鹽沉積。",
+   "A": "本項敘述錯誤。痛風常見於中年男性沒錯，但女性停經後失去雌激素的促尿酸排泄作用，發生率反而**上升**，不是降低。",
+   "B": "正確答案。急性發作時血中尿酸可能落在正常範圍——發炎本身與尿酸排泄的變化都會把數值壓下來。所以正常尿酸不能排除痛風，最可靠的還是從關節液找到單鈉尿酸鹽結晶。",
+   "C": "本項敘述錯誤。早期痛風的 X 光可能完全正常，要到慢性痛風石期才看得到穿鑿樣侵蝕。反過來，肌肉骨骼超音波反而看得到雙軌徵象（double-contour sign）與痛風石這些尿酸鹽沉積。",
+   "D": "本項敘述錯誤。腎功能不全時限制的是 NSAIDs 與 colchicine，類固醇反而常是急性痛風可以考慮的抗發炎選項之一。當然還是要看感染風險與共病。",
+   "summary": "急性痛風不能靠單次尿酸值排除；腎功能差時類固醇是可用的，被限制的是 NSAID 與 colchicine。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25151,11 +25151,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Methotrexate 具致畸性，leflunomide 也不應等驗到懷孕才停；兩者皆須在受孕前完成停藥與適當規劃，leflunomide 可能還需 drug-elimination procedure。",
-   "B": "不能把所有 biologics 一概視為整個孕期都可使用；不同藥物的胎盤轉運、孕期資料與停藥時點不同，應依個別製劑與 disease control 決策。",
-   "C": "正確。Hydroxychloroquine 與 sulfasalazine 通常可在孕期持續使用；sulfasalazine 會影響 folate metabolism，孕前與孕期須依醫囑補充 folic acid。",
-   "D": "Low-dose glucocorticoids 並非一受孕就絕對禁用；若控制 maternal disease 所需，可使用最低有效劑量並監測孕婦與胎兒風險。",
-   "summary": "RA 備孕重點是受孕前停用 teratogenic DMARDs；hydroxychloroquine 與 sulfasalazine 通常可延續以維持疾病控制。",
+   "A": "本項不選。methotrexate 有致畸性，leflunomide 也不能等驗到懷孕才停。兩者都必須在受孕**前**完成停藥與規劃，leflunomide 甚至可能需要做藥物排除程序。",
+   "B": "本項不選。不能把所有生物製劑一概當成整個孕期都能用。各製劑的胎盤轉運、孕期資料與停藥時點都不同，要依個別藥物與疾病控制狀況決定。",
+   "C": "正確答案。hydroxychloroquine 與 sulfasalazine 通常可以在孕期全程使用，是備孕的類風濕性關節炎（RA）病人維持疾病控制的主力。要注意 sulfasalazine 會影響葉酸代謝，孕前與孕期都要依醫囑補充葉酸。",
+   "D": "本項不選。低劑量類固醇不是一驗到懷孕就絕對禁用。如果控制母體疾病需要，可以用最低有效劑量，同時監測孕婦與胎兒的風險。",
+   "summary": "備孕的原則是「受孕前停掉致畸的疾病修飾抗風濕藥（DMARDs）」，不是懷孕後才停；能留下來的是 hydroxychloroquine 與 sulfasalazine。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25189,11 +25189,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "急性風濕熱（acute rheumatic fever）是 A 群鏈球菌（group A Streptococcus）咽炎後的免疫介導併發症，不是 group B Streptococci 所致。",
-   "B": "急性風濕熱通常在咽炎後約數週出現，migratory polyarthritis 更常在較早期發生；平均間隔 3 個月過長，Sydenham chorea 才可能延遲數月。",
-   "C": "正確。環形紅斑（erythema marginatum）是 Jones major manifestation，但臨床相對罕見，通常僅占少數病例。",
-   "D": "進展為風濕性心臟病（rheumatic heart disease）的風險受 carditis 嚴重度、復發與 secondary prophylaxis 影響，不能用「約 10%」概括所有病人。",
-   "summary": "Acute rheumatic fever 發生於 group A streptococcal pharyngitis 後；erythema marginatum 是少見但屬 Jones major criterion 的表現。",
+   "A": "本項敘述錯誤。急性風濕熱是 **A 群**鏈球菌（group A Streptococcus）咽炎之後的免疫介導併發症，不是 group B。",
+   "B": "本項敘述錯誤。時間差不對：關節炎通常在咽炎後數週出現，游走性多關節炎還算比較早期的表現。平均 3 個月太長了——會延遲數月的是 Sydenham 舞蹈症。",
+   "C": "正確答案。環形紅斑（erythema marginatum）雖然列在 Jones 準則的主要表現裡，臨床上卻很少見，通常只佔少數病例（小於 5%）。「重要但罕見」是它的特色。",
+   "D": "本項敘述錯誤。會不會進展到風濕性心臟病，取決於心臟炎的嚴重度、有沒有復發，以及有沒有做次級預防。不能用「約 10%」一概而論。",
+   "summary": "急性風濕熱記三件事：A 群鏈球菌、咽炎後數週、環形紅斑是「主要準則但很少見」。",
    "guideline": "FC 醫學(三)第3冊 p.214",
    "concepts": [
     "jones-criteria-acute-rheumatic-fever"
@@ -25230,11 +25230,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Etanercept 與 adalimumab 同屬 TNF inhibitors；已出現 anti-TNF-induced lupus 時改成同機轉藥物可能再現同類問題，並非最適當選擇。",
-   "B": "在持續 adalimumab 的情況下加 prednisolone 1 mg/kg/day，既未移除誘發藥物又使用偏高的 systemic steroid 劑量；首要處置應停止 culprit TNF inhibitor。",
-   "C": "正確。新出現光曝露處皮疹、ANA 與 anti-dsDNA seroconversion 符合 adalimumab-induced lupus；應停用 adalimumab，若 RA 仍需標靶治療可改用不同機轉的 rituximab。",
-   "D": "Infliximab 也是 TNF inhibitor，因此停 adalimumab 後立即改 infliximab 仍暴露於同一類可能誘發 lupus-like syndrome 的機轉。",
-   "summary": "Anti-TNF-induced lupus 的核心處置是停用 culprit drug；需續治 RA 時應優先改不同作用機轉，而非另一個 TNF inhibitor。",
+   "A": "本項不選。etanercept 和 adalimumab 同樣是 TNF 抑制劑。既然已經出現抗 TNF 誘發的狼瘡，換成同機轉的藥可能再犯一次。",
+   "B": "本項不選。一邊繼續用 adalimumab、一邊加 prednisolone 1 mg/kg/day，等於沒有移除誘發的藥物，還用了偏高的全身性類固醇。首要處置應該是停掉元凶。",
+   "C": "正確答案。用藥一年後新出現光曝露處皮疹，而且 ANA 與 anti-dsDNA 從陰性轉陽性，符合 adalimumab 誘發的狼瘡。處置是停掉 adalimumab；如果類風濕性關節炎（RA）仍需標靶治療，改用**不同機轉**的 rituximab。",
+   "D": "本項不選。infliximab 也是 TNF 抑制劑。停了 adalimumab 立刻換它，等於還留在同一類可能誘發狼瘡樣症候群的機轉裡。",
+   "summary": "藥物誘發的狼瘡先停元凶；要接著治療就換一條路，不要在 TNF 抑制劑裡面換來換去。",
    "guideline": "FC 醫學(三)第4冊 p.50"
   },
   "source": "111020/302_11",
@@ -25263,11 +25263,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Cartilage 可在脊椎關節炎（spondyloarthritis）後續受到發炎與結構損傷，但目前核心起始部位並非關節軟骨本身。",
-   "B": "正確。肌腱附著點（enthesis）及其發炎 enthesitis 是 spondyloarthritis 的 hallmark lesion，機械壓力與免疫反應在 tendon／ligament insertion 處啟動發炎，之後可波及鄰近 bone 與 synovium。",
-   "C": "Bone 尤其 subchondral bone 參與 sacroiliitis 與後續 new bone formation，但把硬骨單獨視為最起始病灶不如 enthesis 準確。",
-   "D": "Synovium 是類風濕性關節炎（rheumatoid arthritis）的主要發炎標的；spondyloarthritis 雖也可有 synovitis，典型起點仍是 enthesis。",
-   "summary": "Spondyloarthritis 的病理核心是 enthesitis；RA 則以 synovitis 為代表，兩者常被拿來對比。",
+   "A": "本項不選。軟骨在脊椎關節炎的後期會被發炎與結構破壞波及，但它不是起始的位置。",
+   "B": "正確答案。脊椎關節炎（spondyloarthritis）的標誌病灶是肌腱附著點發炎（enthesitis）。發炎從肌腱與韌帶接到骨頭的那一點開始——那裡承受機械壓力，又是免疫反應被啟動的地方——之後才波及旁邊的骨頭與滑膜。",
+   "C": "本項不選。硬骨（尤其軟骨下骨）確實參與薦腸關節炎與後續的新骨生成，但把它當成最起始的病灶，不如附著點準確。",
+   "D": "本項不選。滑膜是類風濕性關節炎（RA）的主戰場。脊椎關節炎雖然也會有滑膜炎，起點仍是附著點——這正是兩個病最常被拿來對比的地方。",
+   "summary": "脊椎關節炎從「肌腱接骨頭的那一點」開始（enthesitis），類風濕性關節炎從滑膜開始。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -26614,11 +26614,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "PICO 的 Patient 應具體描述本例的退化性膝關節炎患者，而僅寫「老年病人」漏掉疾病與關節部位，無法形成精準檢索。",
-   "B": "正確。PICO 的 Intervention 是要評估的治療；本題詢問 glucosamine 能否改善疼痛，因此 intervention 就是 glucosamine。",
-   "C": "PICO 的 Comparison 應依問題設定為 placebo、usual care 或另一明確療法；題幹沒有指定 hyaluronic acid，不能逕自把它定為 comparison。",
-   "D": "PICO 的 Outcome 應對應患者關心的膝痛改善與功能；「膝關節置換減少比例」是不同且更遠期的 outcome，不是題幹所問。",
-   "summary": "把臨床問題拆成 PICO 時不可自行換題：本例 I 是 glucosamine，O 應是 knee pain／function improvement。",
+   "A": "本項不選。PICO 的 P 要具體描述這位病人：退化性膝關節炎。只寫「老年病人」漏掉了疾病與關節部位，檢索起來會撈到一堆無關文獻。",
+   "B": "正確答案。PICO 的 I（intervention）就是你想評估的那個治療。病人問的是葡萄糖胺（glucosamine）能不能改善關節痛，所以 intervention 就是 glucosamine，沒有轉換空間。",
+   "C": "本項不選。PICO 的 C 要依問題設定，通常是安慰劑、常規照護或另一個明確療法。題幹根本沒提到玻尿酸，自己把它填進去等於換了題目。",
+   "D": "本項不選。PICO 的 O 要對應病人在意的結果，也就是膝痛改善與功能。「膝關節置換減少比例」是另一個、而且更遠期的結果，不是病人問的事。",
+   "summary": "拆 PICO 不能自己換題：病人問什麼，I 和 O 就照著填，不要換成別的藥或別的終點。",
    "guideline": null,
    "concepts": [
     "pico-framework"
@@ -36788,11 +36788,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Tacrolimus 抑制 calcineurin，降低 IL-2 transcription 與 T-cell activation；它作用於 T-cell receptor 訊號下游，不是直接阻斷 CD28 costimulation。",
-   "B": "Mycophenolate mofetil 抑制 inosine monophosphate dehydrogenase，使 lymphocytes 的 de novo guanosine synthesis 受限；其主要標的是核苷酸合成而非 costimulatory pathway。",
-   "C": "Sirolimus 與 FKBP12 結合後抑制 mTOR，阻斷 IL-2 訊號所驅動的 lymphocyte proliferation；它不直接攔截 antigen-presenting cell 與 T cell 間的 costimulation。",
-   "D": "正確。Belatacept 是 CTLA-4–Ig fusion protein，結合 APC 上 CD80/CD86，阻止其與 T cell 的 CD28 結合，直接抑制 costimulatory signal。",
-   "summary": "Belatacept 以 CTLA-4–Ig 阻斷 CD80/86–CD28 costimulation；tacrolimus、sirolimus 與 mycophenolate 各作用於不同下游路徑。",
+   "A": "本項不選。tacrolimus 抑制 calcineurin，減少 IL-2 轉錄與 T 細胞活化。它作用在 T 細胞受體訊號的**下游**，不是直接擋住 CD28 這個共同刺激。",
+   "B": "本項不選。mycophenolate mofetil 抑制 inosine monophosphate dehydrogenase，讓淋巴球做不出新的 guanosine。它打的是核苷酸合成，與共同刺激路徑無關。",
+   "C": "本項不選。sirolimus 先與 FKBP12 結合再抑制 mTOR，擋掉 IL-2 訊號驅動的淋巴球增生。它同樣沒有攔在抗原呈現細胞與 T 細胞之間。",
+   "D": "正確答案。belatacept 是 CTLA-4–Ig 融合蛋白，直接去結合抗原呈現細胞（APC）上的 CD80/CD86，讓它們沒辦法再跟 T 細胞的 CD28 接上。這正是「攔截共同刺激訊號」本身。",
+   "summary": "共同刺激是 CD80/86–CD28 這一對；只有 belatacept 卡在這裡，其餘三個都在下游。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -37133,11 +37133,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "乾燥症（Sjögren syndrome）可有 tubulointerstitial nephritis、distal renal tubular acidosis 或 glomerular disease，但具明顯臨床症狀的腎侵犯並非超過半數。",
-   "B": "Sjögren syndrome 的唾液腺 lymphocytic infiltrate 主要以 CD4+ T cells 為主，並伴隨 B-cell hyperactivity；說成以 CD8+ T cells 為主不正確。",
-   "C": "正確。Sjögren syndrome 的 inflammatory arthritis 多為 non-erosive，可有對稱性小關節疼痛或滑膜炎；若出現典型 erosions 要考慮合併 rheumatoid arthritis。",
-   "D": "Sjögren syndrome 的 HLA 關聯會因族群而異，經典常提 HLA-DR3／DQA1*05:01／DQB1*02:01 等；HLA-DR5 不是本題最適當的概括。",
-   "summary": "Sjögren syndrome 的關節炎多為 non-erosive；唾液腺以 CD4+ T-cell-rich infiltration 與 B-cell activation 為核心。",
+   "A": "本項不選。乾燥症可以有腎小管間質性腎炎、遠端腎小管酸血症或腎絲球病變，但**有明顯臨床症狀**的腎侵犯並沒有超過半數。",
+   "B": "本項不選。唾液腺的淋巴球浸潤以 CD4+ T 細胞為主，還伴隨 B 細胞過度活化。說成以 CD8+ T 細胞為主是錯的。",
+   "C": "正確答案。乾燥症的發炎性關節炎大多是**非侵蝕性**的，可以有對稱性小關節痛或滑膜炎，但影像上不會啃出骨頭。真的出現典型侵蝕，就要考慮同時合併類風濕性關節炎。",
+   "D": "本項不選。乾燥症的 HLA 關聯會隨族群而異，經典常提的是 HLA-DR3、DQA1*05:01 與 DQB1*02:01。HLA-DR5 不是它的代表性關聯。",
+   "summary": "乾燥症的關節炎「會痛但不會啃骨頭」——看到侵蝕就要想是不是合併類風濕性關節炎。",
    "guideline": "FC 醫學(三)第4冊 p.59"
   },
   "source": "111080/302_11",
@@ -37166,11 +37166,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。全身性紅斑狼瘡（systemic lupus erythematosus）是多基因與環境因素共同形成的 systemic autoimmune disease，不是典型單一基因造成 inflammasome 過度活化的 monogenic autoinflammatory syndrome。",
-   "B": "家族性地中海熱（familial Mediterranean fever）多由 MEFV variants 影響 pyrin inflammasome，造成反覆短暫發燒與 serositis，屬典型 hereditary autoinflammatory disease。",
-   "C": "Muckle-Wells syndrome 屬 cryopyrin-associated periodic syndromes，多與 NLRP3 gain-of-function 造成 inflammasome／IL-1 過度活化有關。",
-   "D": "家族性冷誘發自體發炎症候群（familial cold autoinflammatory syndrome）同屬 NLRP3-associated CAPS，冷暴露可誘發發燒、urticarial rash 與 arthralgia。",
-   "summary": "FMF 與 CAPS 是 monogenic inflammasomopathies；SLE 則是 adaptive autoimmunity 為主的複雜多因子疾病。",
+   "A": "本項應選。全身性紅斑狼瘡（SLE）是多基因加環境因素造成的全身性自體免疫病，走的是後天免疫（adaptive immunity）那條路。它不是「單一基因突變讓發炎體過度活化」的單基因自體發炎症候群。",
+   "B": "本項不選。家族性地中海熱（FMF）多由 MEFV 變異影響 pyrin 發炎體，造成反覆短暫發燒與漿膜炎，是典型的遺傳性自體發炎疾病。",
+   "C": "本項不選。Muckle-Wells syndrome 屬於冷凝素相關週期性症候群（CAPS），多與 NLRP3 的功能增益突變有關，讓發炎體與 IL-1 過度活化。",
+   "D": "本項不選。家族性冷誘發自體發炎症候群同樣屬於 NLRP3 相關的 CAPS，冷暴露會誘發發燒、蕁麻疹樣疹與關節痛。",
+   "summary": "自體發炎（單基因、發炎體、IL-1）與自體免疫（多基因、自體抗體）是兩條路；SLE 走的是後者。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -37204,11 +37204,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Lupus anticoagulant 是抗磷脂症候群（antiphospholipid syndrome）的三類標準實驗室檢查之一；反覆流產加 thrombocytopenia 時檢驗它有助確立診斷。",
-   "B": "正確。Anti-platelet antibodies 的敏感度與特異性不足，既不是 APS 分類實驗室項目，也不能可靠區分 immune thrombocytopenia 與其他血小板低下原因，因此最沒有幫助。",
-   "C": "Anti-cardiolipin antibodies（IgG／IgM）是 APS 的標準實驗室檢查之一；須達規定效價並在相隔至少 12 週重複陽性，才符合 persistent positivity。",
-   "D": "Anti-beta 2 glycoprotein I antibodies（IgG／IgM）也是 APS 的標準實驗室檢查；同樣需要相隔至少 12 週持續陽性，不能用單次結果確立 APS。",
-   "summary": "Obstetric APS 應檢驗 lupus anticoagulant、anticardiolipin 與 anti-β2GPI；anti-platelet antibody 不屬 APS 標準檢驗。",
+   "A": "本項不選。lupus anticoagulant 是抗磷脂症候群三項標準實驗室檢查之一。反覆流產加血小板低下（91,000/mm3）時驗它很有幫助。",
+   "B": "本項應選。抗血小板抗體的敏感度與特異性都不夠，既不在抗磷脂症候群（APS）的分類檢查裡，也沒辦法可靠區分免疫性血小板低下與其他原因。四個選項裡它對確立診斷最沒有幫助。",
+   "C": "本項不選。anti-cardiolipin antibodies（IgG／IgM）是標準檢查之一。要注意判讀規則：必須達到規定效價，而且相隔至少 12 週再驗一次仍為陽性才算數。",
+   "D": "本項不選。anti-beta 2 glycoprotein I antibodies（IgG／IgM）同樣是標準檢查，也一樣需要間隔至少 12 週的持續陽性，不能用單次結果就下診斷。",
+   "summary": "產科型抗磷脂症候群驗三項：lupus anticoagulant、anticardiolipin、anti-β2GPI，而且要隔 12 週再驗一次。",
    "guideline": "FC 醫學(三)第4冊 p.28",
    "concepts": [
     "antiphospholipid-syndrome-classification"
@@ -48879,11 +48879,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。認知功能障礙（cognitive dysfunction）是 neuropsychiatric SLE 常見表現，可影響 attention、memory 與 executive function，嚴重度可從輕微到明顯。",
-   "B": "橫斷性脊髓病變（transverse myelopathy）是 SLE 嚴重但罕見的神經併發症，可急性造成 motor、sensory 與 autonomic deficits。",
-   "C": "腦出血（cerebral hemorrhage）可因 hypertension、vascular lesion、thrombocytopenia 或 anticoagulation 等情境發生，但不是 SLE 最常見的 neuropsychiatric manifestation。",
-   "D": "自律神經失調（autonomic nerve imbalance）可在部分患者出現，但不像 cognitive dysfunction 那樣是 neuropsychiatric SLE 的常見核心表現。",
-   "summary": "Neuropsychiatric SLE 表現廣泛；常見的是 cognitive dysfunction，而 transverse myelopathy 與 cerebral hemorrhage 屬少見嚴重事件。",
+   "A": "正確答案。認知功能障礙是神經精神狼瘡（neuropsychiatric SLE）最常見的表現，會影響注意力、記憶與執行功能，嚴重度從輕微到明顯都有。因為它不像抽搐或中風那樣戲劇化，反而最容易被忽略。",
+   "B": "本項不選。橫斷性脊髓病變是狼瘡嚴重但**罕見**的神經併發症，可以急性造成運動、感覺與自律神經的缺損。",
+   "C": "本項不選。腦出血可能在高血壓、血管病變、血小板低下或抗凝血治療的情境下發生，但不是狼瘡最常見的神經精神表現。",
+   "D": "本項不選。自律神經失調在部分病人會出現，但它不像認知功能障礙那樣是核心的常見表現。",
+   "summary": "神經精神狼瘡最常見的是「想事情變慢」而不是中風或抽搐——因為不戲劇化，所以最常被漏掉。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -48917,11 +48917,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "血清病（serum sickness）是 immune-complex-mediated systemic reaction，可造成 fever、rash、arthralgia 與低補體，但不是典型 ANCA-associated vasculitis。",
-   "B": "川崎病（Kawasaki disease）是兒童中型血管炎，診斷依持續發燒與 mucocutaneous criteria；ANCA 不是其代表血清標記。",
-   "C": "正確。肉芽腫性多血管炎（granulomatosis with polyangiitis）屬 ANCA-associated vasculitis，最典型為 PR3-ANCA，常呈 c-ANCA immunofluorescence pattern。",
-   "D": "結締組織病相關血管炎（vasculitis associated with collagen vascular diseases）可能伴隨各種自體抗體，但不能概括為典型 ANCA 陽性；其診斷須依原疾病與受侵犯血管評估。",
-   "summary": "GPA 是典型 ANCA-associated vasculitis，常見 PR3-ANCA／c-ANCA；Kawasaki disease 與 serum sickness 不靠 ANCA 診斷。",
+   "A": "本項不選。血清病是免疫複合體造成的全身反應，會發燒、起疹、關節痛並使補體下降。它不屬於 ANCA 相關血管炎。",
+   "B": "本項不選。川崎病是兒童的中型血管炎，靠持續發燒加上黏膜皮膚的準則診斷。ANCA 不是它的血清標記。",
+   "C": "正確答案。肉芽腫性多血管炎屬於 ANCA 相關血管炎，血清中驗得到 ANCA。它最典型的是 PR3-ANCA，免疫螢光呈 c-ANCA 形態。",
+   "D": "本項不選。結締組織病相關的血管炎可能伴隨各式各樣的自體抗體，但不能一概說 ANCA 陽性。診斷要看原本的疾病與被侵犯的血管。",
+   "summary": "四個選項裡只有 GPA 在 ANCA 相關血管炎的家族裡；川崎病與血清病都不靠 ANCA 診斷。",
    "guideline": "FC 醫學(三)第4冊 p.84"
   },
   "source": "112020/302_11",
@@ -48993,11 +48993,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "腫瘤壞死因子受體相關週期性症候群（TRAPS）多與 TNFRSF1A variants 有關，屬 hereditary recurrent fever／autoinflammatory syndrome。",
-   "B": "家族性地中海熱（familial Mediterranean fever）是 MEFV-related autoinflammatory disease，常見反覆 fever、serositis 與 arthritis。",
-   "C": "正確。肉芽腫性多血管炎（granulomatosis with polyangiitis）是 PR3-ANCA 常見的 autoimmune small-vessel vasculitis，不屬 monogenic autoinflammatory recurrent fever syndrome。",
-   "D": "新生兒發病多系統發炎疾病（neonatal-onset multisystem inflammatory disease）是最嚴重的 CAPS phenotype，常與 NLRP3 inflammasome activation 有關。",
-   "summary": "TRAPS、FMF 與 NOMID 都是典型 autoinflammatory syndromes；GPA 是 ANCA-associated autoimmune vasculitis。",
+   "A": "本項不選。腫瘤壞死因子受體相關週期性症候群（TRAPS）多與 TNFRSF1A 變異有關，屬於遺傳性反覆發燒的自體發炎症候群。",
+   "B": "本項不選。家族性地中海熱（FMF）是 MEFV 相關的自體發炎疾病，常見反覆發燒、漿膜炎與關節炎。",
+   "C": "本項應選。肉芽腫性多血管炎是自體**免疫**的小血管炎，常見 PR3-ANCA。它靠的是自體抗體，不是單基因造成的反覆發燒症候群，所以不屬於這一類。",
+   "D": "本項不選。新生兒發病多系統發炎疾病（NOMID）是 CAPS 裡最嚴重的一型，與 NLRP3 發炎體活化有關。",
+   "summary": "自體發炎症候群的共通點是「基因缺陷造成反覆發燒」；GPA 有自體抗體，歸在自體免疫那一邊。",
    "guideline": "FC 醫學(三)第3冊 p.97"
   },
   "source": "112020/302_11",
@@ -49031,11 +49031,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "包涵體肌炎（inclusion body myositis）通常發生於 50 歲以上成人，且可不對稱侵犯 finger flexors 與 quadriceps；不是好發於年輕人。",
-   "B": "皮肌炎（dermatomyositis）除了 muscle weakness，還可有 characteristic skin disease、interstitial lung disease、dysphagia、cardiac involvement 與 malignancy association，因此並非通常沒有 extramuscular manifestations。",
-   "C": "多發性肌炎（polymyositis）一般不是強烈 familial inherited disorder；遇到明顯家族史時反而要重新考慮 inherited myopathy 等鑑別。",
-   "D": "正確。成人皮肌炎（dermatomyositis）與 malignancy risk 增加相關，尤其診斷前後數年需依年齡、性別、症狀與風險因子完成適當 cancer screening。",
-   "summary": "Inflammatory myopathy 的辨識點：IBM 好發高齡、dermatomyositis 有多種肌外表現且成人須注意 malignancy。",
+   "A": "本項敘述錯誤。包涵體肌炎（inclusion body myositis, IBM）通常發生在 50 歲以上的成人，而且會不對稱地侵犯手指屈肌與股四頭肌。它不是好發於年輕人。",
+   "B": "本項敘述錯誤。皮肌炎除了肌無力，肌肉之外的表現很多：特徵性皮疹、間質性肺病、吞嚥困難、心臟侵犯，還有惡性腫瘤的關聯。說它通常沒有肌外表現剛好相反。",
+   "C": "本項敘述錯誤。多發性肌炎一般不是強烈的家族遺傳疾病。反過來說，如果家族史很明顯，反而要回頭考慮是不是遺傳性肌病變。",
+   "D": "正確答案。成人皮肌炎與惡性腫瘤風險增加相關，尤其在診斷前後幾年。所以確診後要依年齡、性別、症狀與風險因子安排適當的癌症篩檢。",
+   "summary": "成人皮肌炎要「順便找癌」；包涵體肌炎則記高齡＋手指屈肌與股四頭肌不對稱無力。",
    "guideline": "FC 醫學(三)第4冊 p.76"
   },
   "source": "112020/302_11",
@@ -50411,11 +50411,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "反覆性手舉過肩主要增加 shoulder impingement、rotator cuff disorder 等肩部肌肉骨骼風險，並非腕隧道症候群（carpal tunnel syndrome）的典型危險因子。",
-   "B": "反覆性手肘施力較直接關聯於 elbow tendinopathy 或 ulnar nerve irritation；腕隧道內受壓的是 median nerve，不能僅由手肘施力推定。",
-   "C": "正確。糖尿病可因代謝與 microvascular changes 增加 median neuropathy 與 carpal tunnel syndrome 風險，是常見 systemic risk factor。",
-   "D": "甲狀腺機能低下（hypothyroidism）可因 tissue edema 與 mucopolysaccharide deposition 增加 carpal tunnel syndrome 風險；題目寫甲狀腺機能亢進（hyperthyroidism），不是典型答案。",
-   "summary": "Carpal tunnel syndrome 的全身性危險因子包括 diabetes 與 hypothyroidism；職業暴露則重點在反覆手腕動作、用力抓握與振動。",
+   "A": "本項不選。反覆手舉過肩增加的是肩夾擠與旋轉肌袖的問題，不是腕隧道症候群的典型危險因子。",
+   "B": "本項不選。反覆手肘施力關聯的是肘部肌腱病變或尺神經受刺激。腕隧道裡被壓的是正中神經，位置不同。",
+   "C": "正確答案。糖尿病透過代謝與微血管的變化增加正中神經病變與腕隧道症候群的風險，是常見的全身性危險因子。",
+   "D": "本項不選。會增加腕隧道症候群風險的是甲狀腺機能**低下**——組織水腫與黏多醣沉積讓隧道更擠。題目寫成亢進，方向相反。",
+   "summary": "腕隧道症候群的全身性危險因子是糖尿病與甲狀腺功能低下；職業面則看反覆手腕動作、用力抓握與振動。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -59884,11 +59884,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Colchicine 抑制 neutrophil-mediated inflammation，可用於急性痛風（acute gout）發作；是否適合仍須依發作時間、腎肝功能與交互作用調整。",
-   "B": "正確。Febuxostat 是 xanthine oxidase inhibitor，用於長期降尿酸與預防復發，不是單獨快速解除急性關節炎的抗發炎藥，因此在本題急性處置最不恰當。",
-   "C": "Ibuprofen 屬 NSAID，若無嚴重腎病、活動性消化道出血或其他禁忌，可作為急性 gout 的抗發炎治療。",
-   "D": "Prednisolone 是急性 gout 可用的 systemic glucocorticoid，尤其在 NSAIDs 或 colchicine 不適用時；使用前仍應排除 septic arthritis。",
-   "summary": "強負雙折射針狀 monosodium urate crystals 確認 gout；急性期要用 colchicine、NSAID 或 glucocorticoid 抗發炎，febuxostat 不是急性止炎藥。",
+   "A": "本項不選。colchicine 抑制嗜中性球主導的發炎，可以用在急性痛風發作。實際用不用要看發作多久、腎肝功能與藥物交互作用。",
+   "B": "本項應選。febuxostat 是 xanthine oxidase 抑制劑，屬於**長期降尿酸**、預防復發的藥，不是快速解除急性關節炎的抗發炎藥。這位病人現在正在急性發作，用它最不恰當。",
+   "C": "本項不選。ibuprofen 屬於非類固醇抗發炎藥（NSAIDs），只要沒有嚴重腎病、活動性消化道出血或其他禁忌，可以拿來當急性期的抗發炎治療。",
+   "D": "本項不選。prednisolone 是急性期可用的全身性類固醇，尤其在 NSAID 或 colchicine 不能用的時候。給之前仍要先排除化膿性關節炎。",
+   "summary": "急性痛風用「止炎」三選一（colchicine／NSAID／類固醇）；降尿酸藥是之後的事，急性期不靠它。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60150,11 +60150,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "雷諾現象（Raynaud phenomenon）是全身性硬化症（systemic sclerosis／scleroderma）常見且常為最早出現的表徵，故此敘述正確。",
-   "B": "正確。原發性 Raynaud phenomenon 通常較輕、對稱且不造成 tissue injury；嚴重疼痛、ulceration、asymmetry 或 abnormal nailfold capillaries 反而要懷疑 secondary Raynaud。",
-   "C": "50 歲以上新發 Raynaud phenomenon 應尋找 secondary causes；atherosclerotic／occlusive arterial disease 是高齡者重要鑑別之一。",
-   "D": "Dihydropyridine calcium-channel blockers，例如 nifedipine 或 amlodipine，可降低 vasospastic attacks，是有症狀 Raynaud phenomenon 常用第一線藥物。",
-   "summary": "Primary Raynaud 通常年輕、對稱且較輕；晚發、嚴重或有 tissue injury 時應找 systemic sclerosis 或 occlusive vascular disease。",
+   "A": "本項敘述正確。雷諾現象是全身性硬化症很常見、而且常是最早出現的表徵，所以看到它要往結締組織病查。",
+   "B": "本項應選。方向剛好相反：原發性雷諾現象通常比較輕、兩側對稱，而且不會造成組織壞死。會劇痛、潰瘍、左右不對稱或甲褶微血管異常的，反而要懷疑是**次發性**。",
+   "C": "本項敘述正確。50 歲以上才新出現雷諾現象，一定要找次發原因。動脈粥狀硬化與其他阻塞性動脈疾病是高齡者的重要鑑別。",
+   "D": "本項敘述正確。dihydropyridine 類鈣離子阻斷劑（例如 nifedipine 或 amlodipine）能減少血管痙攣發作，是有症狀病人的常用第一線藥。",
+   "summary": "原發性雷諾是「年輕、對稱、不壞死」；一旦嚴重、不對稱或有潰瘍，就要去找背後的病。",
    "guideline": "FC 醫學(三)第4冊 p.67"
   },
   "source": "112080/302_11",
@@ -60897,11 +60897,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "CRP 與 ESR 皆上升會提示 infection、inflammatory rheumatic disease 或其他 systemic inflammation；單純纖維肌痛症（fibromyalgia）不應造成兩者升高。",
-   "B": "CRP 上升但 ESR 正常仍需另找造成 acute-phase response 的原因，不能視為 fibromyalgia 的典型檢驗型態。",
-   "C": "ESR 上升但 CRP 正常可能受 age、anemia、immunoglobulins 等影響；若明顯升高仍不應直接歸因於 fibromyalgia。",
-   "D": "正確。Fibromyalgia 是 central pain processing disorder，沒有 systemic tissue inflammation；在未合併其他疾病時 CRP 與 ESR 通常皆正常。",
-   "summary": "Fibromyalgia 可造成廣泛疼痛、疲倦與睡眠障礙，但不是發炎性疾病；ESR／CRP 異常要另尋病因。",
+   "A": "本項不選。兩個都升高會提示感染、發炎性風濕病或其他全身性發炎。單純的纖維肌痛症不該讓它們一起上去。",
+   "B": "本項不選。CRP 升高但 ESR 正常，仍然要另外找造成急性期反應的原因，不能當成纖維肌痛症的典型檢驗形態。",
+   "C": "本項不選。ESR 升高而 CRP 正常可能受年齡、貧血或免疫球蛋白影響。但如果升得明顯，還是不該直接歸給纖維肌痛症。",
+   "D": "正確答案。纖維肌痛症是中樞疼痛處理的問題，身體組織並沒有真的在發炎。所以在沒有合併其他疾病時，CRP 與 ESR 通常都正常。",
+   "summary": "纖維肌痛症「很痛但不發炎」——發炎指數異常時就要另外找病因，不要算在它頭上。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60930,11 +60930,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "類風濕性關節炎（rheumatoid arthritis）典型為左右對稱的小關節 synovitis，尤其 MCP、PIP 與 wrists；不是通常先從不對稱大關節開始。",
-   "B": "正確。RA 通常不侵犯 distal interphalangeal joints；DIP 疼痛或骨性腫大常提示同時存在 osteoarthritis，亦須依臨床考慮 psoriatic arthritis。",
-   "C": "RA 的 flexor tendon sheath involvement 很常見，可造成 trigger finger 或 tendon rupture；不能說 extensor tenosynovitis 比 flexor 常見很多。",
-   "D": "RA 的 cervical spine disease，尤其 atlantoaxial instability，多見於長期、嚴重或控制不佳的疾病，而非通常發生在早期。",
-   "summary": "RA 的典型關節分布是 symmetric MCP/PIP/wrist synovitis 且通常 sparing DIP；DIP 病變要考慮合併 OA。",
+   "A": "本項敘述錯誤。類風濕性關節炎（RA）典型是左右**對稱**的小關節滑膜炎，尤其掌指關節（MCP）、近端指間關節（PIP）與腕關節。不是先從不對稱的大關節開始。",
+   "B": "正確答案。類風濕性關節炎通常會避開遠端指間關節（DIP）。所以遠端指間關節痛或長骨性腫大時，多半代表同時有退化性關節炎（OA）；臨床上也要一併考慮乾癬性關節炎。",
+   "C": "本項敘述錯誤。屈側肌腱鞘受侵犯其實很常見，會造成板機指甚至肌腱斷裂。不能說伸側的腱鞘滑膜炎比屈側常見很多。",
+   "D": "本項敘述錯誤。頸椎病變（尤其寰樞椎不穩定）多發生在病程長、嚴重或控制不佳的病人身上，不是通常出現在疾病早期。",
+   "summary": "類風濕性關節炎「碰掌指與近端指間、放過遠端指間」——遠端指間出問題要想退化性或乾癬性關節炎。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60968,11 +60968,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "皮肌炎（dermatomyositis）可發生於兒童與成人；多發性肌炎（polymyositis）主要是成人疾病，把兩者年齡分布倒置不正確。",
-   "B": "包涵體肌炎（inclusion body myositis）主要發生於 50 歲以上，但男性多於女性，且常不對稱侵犯 finger flexors 與 quadriceps。",
-   "C": "正確。Polymyositis 的 muscle biopsy 典型為 endomysial inflammation 與 CD8+ T cells 侵犯表現 MHC-I 的 non-necrotic muscle fibers；perivascular inflammation 可見，但更典型的 DM 是 perivascular/perifascicular pattern。",
-   "D": "免疫介導壞死性肌病（immune-mediated necrotizing myopathy）可與 malignancy、statin-associated anti-HMGCR 或 anti-SRP 等情境相關，不能說與惡性腫瘤較無關。",
-   "summary": "PM 以 CD8+ endomysial inflammation 為核心；DM 偏 perifascicular/perivascular，IBM 好發高齡男性，necrotizing myopathy 可有 cancer association。",
+   "A": "本項敘述錯誤。年齡分布被倒過來了：皮肌炎（dermatomyositis, DM）兒童與成人都會發生，多發性肌炎（polymyositis, PM）則主要是成人的病。",
+   "B": "本項敘述錯誤。包涵體肌炎（inclusion body myositis, IBM）確實主要發生在 50 歲以上，但**男性多於女性**，而且常不對稱地侵犯手指屈肌與股四頭肌。",
+   "C": "正確答案。多發性肌炎的肌肉切片典型是肌內膜（endomysial）發炎，CD8+ T 細胞直接攻擊表現 MHC-I 的非壞死肌纖維。血管周圍發炎也看得到，但那個形態更偏皮肌炎（血管周圍／肌束周邊）。",
+   "D": "本項敘述錯誤。免疫介導壞死性肌病可以和惡性腫瘤有關，也可能與 statin 相關的 anti-HMGCR 或 anti-SRP 抗體有關。說它與腫瘤較無關並不正確。",
+   "summary": "肌炎看切片位置：多發性肌炎在肌內膜（CD8+ 攻擊）、皮肌炎在血管周圍與肌束周邊。",
    "guideline": "FC 醫學(三)第4冊 p.75"
   },
   "source": "112080/302_11",
@@ -61043,11 +61043,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "手部與髖關節退化性關節炎（osteoarthritis）有較明顯 genetic contribution；膝 OA 的 obesity、injury 與 mechanical loading 影響較突出，因此此敘述可成立。",
-   "B": "官方接受此項為錯。Type II collagen 是 articular cartilage 重要結構，MMPs 尤其 collagenases 參與其分解；但 OA matrix degradation 也涉及 aggrecanases，題目將軟骨破壞簡化為單一路徑而有爭議。",
-   "C": "華人族群 hip OA 的盛行率一般低於白人族群，族群間 anatomy、genetics 與生活型態差異可能參與，故此項可接受。",
-   "D": "官方亦接受此項為錯。OA 治療不要求 90% 以上患者先使用 NSAIDs；核心包括 education、exercise、weight management，藥物須依症狀與 gastrointestinal、renal、cardiovascular risk 個別化。",
-   "summary": "本題官方 B、D 或 BD 均給分；OA cartilage degradation 不是單一酵素敘事，治療也不能規定所有人先用 NSAID。",
+   "A": "本項不選。手部與髖關節的退化性關節炎（osteoarthritis, OA）遺傳影響比較明顯；膝關節 OA 則以肥胖、外傷與力學負荷更突出。這個對比是成立的。",
+   "B": "本項應選（官方複選之一）。第二型膠原蛋白（type II collagen）確實是關節軟骨的重要結構，MMPs 尤其膠原酶會分解它。但 OA 的基質破壞還牽涉 aggrecanases，把它簡化成單一路徑有爭議，所以官方接受這一項為錯。",
+   "C": "本項不選。華人族群的髖關節 OA 盛行率一般低於白人，族群間的解剖、遺傳與生活型態差異都可能參與。",
+   "D": "本項應選（官方複選之一）。OA 的治療核心是衛教、運動與體重管理，藥物要依症狀與腸胃道、腎臟、心血管風險個別化。不存在「90% 以上都要先用 NSAIDs」這種規定。",
+   "summary": "本題官方 B、D 或 BD 均給分。OA 的治療是先動起來與減重，不是先開消炎藥。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -72833,11 +72833,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Calcium pyrophosphate deposition disease 雖可呈 pseudogout，但主要好發於 older adults；年輕患者反而要尋找 metabolic or familial predisposition。",
-   "B": "CPPD 與 primary hyperparathyroidism、hemochromatosis、hypomagnesemia、hypophosphatasia 等代謝狀況有關，因此說完全無關不正確。",
-   "C": "正確。CPP crystals 常為 rhomboid 或 rod-shaped，在 compensated polarized light 下呈 weak positive birefringence，膝關節是常見侵犯部位。",
-   "D": "Chondrocalcinosis 是 CPPD 的典型 radiographic clue，但也可能無症狀；它不是 gouty arthritis 常見的代表影像，gout 更典型為 erosions 與 tophi。",
-   "summary": "CPPD＝高齡、膝／腕常見、rhomboid 弱正雙折射 crystals 與 chondrocalcinosis；年輕發病要查代謝疾病。",
+   "A": "本項不選。焦磷酸鈣沉積疾病（CPPD）雖然可以表現成假性痛風，但主要好發於**高齡者**。年輕人就發病，反而要回頭找代謝或家族性的原因。",
+   "B": "本項不選。CPPD 與原發性副甲狀腺機能亢進、血鐵沉積症、低血鎂、低磷酸酶症這些代謝狀況都有關。說它與副甲狀腺亢進完全沒關係並不正確。",
+   "C": "正確答案。CPP 結晶是菱形或棒狀，在補償偏光顯微鏡下呈**弱正**雙折射——這正好和痛風的針狀、強負雙折射相反。膝關節是常見的侵犯部位。",
+   "D": "本項不選。軟骨鈣化（chondrocalcinosis）是 CPPD 的典型影像線索，有時無症狀也看得到。但它不是痛風性關節炎常見的影像，痛風更典型的是侵蝕與痛風石。",
+   "summary": "兩種結晶用偏光鏡分：痛風是針狀、強負雙折射；CPPD 是菱形、弱正雙折射。",
    "guideline": "FC 醫學(三)第4冊 p.116"
   },
   "source": "113020/302_11",
@@ -72866,11 +72866,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Joint contractures 較常見於 diffuse cutaneous systemic sclerosis，因廣泛 skin thickening 與 tendon involvement 限制活動；不是 limited subtype 較常見。",
-   "B": "正確。快速進展的間質性肺病（interstitial lung disease）較常與 diffuse cutaneous systemic sclerosis 及 anti-topoisomerase I 等風險表型相關。",
-   "C": "皮下鈣化（calcinosis cutis）是 limited cutaneous systemic sclerosis／CREST 的典型表現之一，不是 diffuse subtype 較常見。",
-   "D": "硬皮症腎危象（scleroderma renal crisis）較常見於 early diffuse cutaneous disease，尤其快速 skin progression、anti-RNA polymerase III 或 high-dose glucocorticoid exposure。",
-   "summary": "Diffuse systemic sclerosis 較要注意 rapidly progressive ILD、contractures 與 renal crisis；limited subtype 常聯想到 calcinosis 與較晚發 PAH。",
+   "A": "本項不選。關節攣縮反而較常見於瀰漫型，因為皮膚廣泛增厚加上肌腱受累，活動就被限制住了。",
+   "B": "正確答案。快速進展的間質性肺病較常出現在瀰漫型全身性硬化症，而且與 anti-topoisomerase I 這類風險表型相關。這也是瀰漫型要早期篩肺功能與高解析度電腦斷層的原因。",
+   "C": "本項不選。皮下鈣化是**侷限型**（CREST）的典型表現之一，不是瀰漫型較常見。",
+   "D": "本項不選。硬皮症腎危象較常見於早期的瀰漫型，尤其皮膚快速進展、帶 anti-RNA polymerase III 抗體，或用了高劑量類固醇的人。",
+   "summary": "瀰漫型要怕的是肺（快速 ILD）與腎（腎危象）；侷限型的招牌是鈣化與晚發的肺動脈高壓（PAH）。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72899,11 +72899,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "巨細胞動脈炎（giant cell arteritis）幾乎只發生於 50 歲以上成人；新發 headache、jaw claudication 或 visual symptoms 在高齡者尤其重要。",
-   "B": "Giant cell arteritis 女性多於男性，且與北歐 ancestry 等流行病學因素相關；說男性較常見不正確。",
-   "C": "正確。Tocilizumab 阻斷 IL-6 receptor，可與 glucocorticoid taper 合併用於 giant cell arteritis，具有 steroid-sparing 效果。",
-   "D": "Giant cell arteritis 與風濕性多肌痛（polymyalgia rheumatica）重疊相當常見，比例遠高於約 5%；反向而言 PMR 患者也須留意 GCA 症狀。",
-   "summary": "GCA 是高齡女性較常見的大血管炎，常與 PMR 重疊；tocilizumab 是具實證的 steroid-sparing therapy。",
+   "A": "本項不選。巨細胞動脈炎（giant cell arteritis, GCA）幾乎只發生在 50 歲**以上**的成人。高齡者新出現頭痛、下顎跛行或視覺症狀，就要立刻想到它。",
+   "B": "本項不選。它是女性多於男性，而且與北歐血統等流行病學因素相關。",
+   "C": "正確答案。tocilizumab 阻斷 IL-6 受體，可以和類固醇減量合併使用，有明確的類固醇節省效果。這是巨細胞動脈炎近年治療上最重要的進展。",
+   "D": "本項不選。它與風濕性多肌痛（polymyalgia rheumatica, PMR）的重疊相當常見，比例遠高於 5%。反過來說，風濕性多肌痛的病人也要留意巨細胞動脈炎的症狀。",
+   "summary": "巨細胞動脈炎＝高齡女性的大血管炎，常與風濕性多肌痛重疊；tocilizumab 讓類固醇減得下來。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72937,11 +72937,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。Desloratadine 5 mg daily 是 second-generation H1 antihistamine，較少 sedation，適合 chronic spontaneous urticaria 的第一線規律治療，也較符合計程車司機的駕駛安全。",
-   "B": "Diphenhydramine 是 sedating first-generation antihistamine，50 mg every 6 hours 會顯著影響 driving、attention 與 anticholinergic burden，不適合本例每日長期使用。",
-   "C": "Prednisolone 0.5 mg/kg daily 不適合作為 chronic urticaria 長期控制；systemic glucocorticoid 僅可能在嚴重短暫 flare 考慮 very short course。",
-   "D": "Topical clobetasol 是超強效 topical corticosteroid；urticarial wheals 主要由 dermal mast-cell mediators 驅動且病灶短暫遷移，外用類固醇通常無效並增加 skin adverse effects。",
-   "summary": "Chronic spontaneous urticaria 第一線是規律使用 non-sedating second-generation H1 antihistamine；駕駛者尤其應避免 diphenhydramine。",
+   "A": "正確答案。desloratadine 5 mg daily 是第二代 H1 抗組織胺，鎮靜作用少，是慢性自發性蕁麻疹規律治療的第一線。對計程車司機來說，這一點特別重要——不會影響開車。",
+   "B": "本項不選。diphenhydramine 是會嗜睡的第一代抗組織胺，50 mg 每 6 小時給會明顯影響駕駛與注意力，還有抗膽鹼負擔。這位病人靠開車維生，長期用它不合適。",
+   "C": "本項不選。prednisolone 0.5 mg/kg daily 不適合當慢性蕁麻疹的長期控制。全身性類固醇頂多在嚴重急性惡化時短期使用。",
+   "D": "本項不選。膨疹是真皮肥大細胞釋放介質造成的，而且會跑位置、幾小時就消退。外用超強效類固醇 clobetasol 追不上它，還會帶來皮膚副作用。",
+   "summary": "慢性蕁麻疹第一線是規律吃第二代抗組織胺；要開車的人尤其不能用會嗜睡的第一代。",
    "guideline": "FC 醫學(三)第4冊 p.124"
   },
   "source": "113020/302_11",
@@ -72975,11 +72975,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "抗核抗體（antinuclear antibodies，ANA）是 2019 EULAR/ACR SLE classification 的 entry criterion；本例 fever、arthritis、pancytopenia、heavy proteinuria 與 pleural effusions 時檢驗 ANA 很有幫助。",
-   "B": "Anti-phospholipid antibodies 可補充 SLE 的 immunologic profile 並評估 thrombosis／pregnancy risk；雖不能單獨解釋全部表現，仍比肺部 CT 更貼近自體免疫評估。",
-   "C": "正確。肺部 CT 可描繪 pleural effusion 或其他胸腔病灶，但題幹 plain radiograph 已知少量雙側積水；它不能直接確立 SLE，對確診最無幫助。",
-   "D": "Renal biopsy 對 heavy proteinuria 的 SLE 患者可確認 lupus nephritis class、activity/chronicity 並指導治療，雖不是用來單獨證明全身 SLE，仍有關鍵診療價值。",
-   "summary": "多系統表現高度懷疑 SLE；ANA 支持分類，renal biopsy 決定 lupus nephritis 分型，單純 chest CT 對確立疾病幫助最少。",
+   "A": "本項不選。抗核抗體是 2019 EULAR/ACR 全身性紅斑狼瘡（SLE）分類準則的入場條件。這位病人發燒、關節腫痛、血球三系偏低、大量蛋白尿又有兩側肋膜積水，驗它很有幫助。",
+   "B": "本項不選。抗磷脂質抗體可以補足免疫學輪廓，還能評估血栓與懷孕的風險。它雖然解釋不了全部表現，仍比肺部電腦斷層更貼近自體免疫的評估。",
+   "C": "本項應選。胸部 X 光已經告訴我們兩側有少量積水了，再做肺部電腦斷層（CT）只是把同一件事看得更清楚，沒辦法確立狼瘡的診斷。四個選項裡它對確診最沒有幫助。",
+   "D": "本項不選。尿蛋白／肌酸酐比值 3,800 mg/g 已是大量蛋白尿，腎臟切片能確認狼瘡腎炎的分型與活動性／慢性度，直接指導治療。",
+   "summary": "多系統表現懷疑狼瘡時：ANA 入場、腎切片決定治療；影像只是把已知的積水再看一次。",
    "guideline": "FC 醫學(三)第4冊 p.26",
    "concepts": [
     "sle-2019-eular-acr-classification"
@@ -73832,11 +73832,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "代謝症候群（metabolic syndrome）與 insulin resistance、obesity、hypertension 等因素常伴隨高尿酸血症（hyperuricemia），此關聯正確。",
-   "B": "急性 uric acid 大量升高可造成 uric acid crystal precipitation 與 acute uric acid nephropathy，典型情境包括 tumor lysis syndrome，可能導致 acute kidney injury。",
-   "C": "長期 hyperuricemia 增加 uric acid nephrolithiasis 風險，特別是在 low urine pH、low urine volume 等條件下。",
-   "D": "正確。Asymptomatic hyperuricemia 並非一律使用 urate-lowering therapy；是否治療須依 gout、tophi、urolithiasis、特定高風險情境及個別指引判斷。",
-   "summary": "Hyperuricemia 與 metabolic syndrome、urate nephropathy 和 stones 有關，但無症狀者不等於人人都要用降尿酸藥。",
+   "A": "本項不選。代謝症候群常伴隨高尿酸血症，和胰島素阻抗、肥胖、高血壓這些因素都有關。",
+   "B": "本項不選。尿酸急性大量上升會讓尿酸結晶沉澱、造成急性尿酸腎病變，典型情境是腫瘤溶解症候群，可能導致急性腎損傷。",
+   "C": "本項不選。長期高尿酸會增加尿酸結石的風險，尤其在尿液 pH 偏酸、尿量又少的情況下。",
+   "D": "本項應選。無症狀的高尿酸血症**不是**一律要給降尿酸藥。要不要治療得看有沒有痛風發作、痛風石、尿路結石，以及特定的高風險情境與指引建議。",
+   "summary": "尿酸高不等於要吃藥——先看有沒有痛風、結石或高風險情境，無症狀者多半只需追蹤。",
    "guideline": "FC 醫學(三)第2冊 p.310"
   },
   "source": "113020/302_11",
@@ -84754,11 +84754,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。IgG4-related disease 可造成 dacryoadenitis、orbital pseudotumor 等 periocular tissue swelling，並可伴 allergy history、eosinophilia 與 elevated IgE。",
-   "B": "IgG4-related disease 的 pathology 是 dense lymphoplasmacytic infiltrate（含 IgG4+ plasma cells）、storiform fibrosis 與 obliterative phlebitis；不是 IgG4 只沉積在血管內且沒有 B-cell lineage infiltration。",
-   "C": "Serum IgG4 可正常，即使升高也不具充分 sensitivity 或 specificity，且濃度不與每位患者的 organ damage／severity 線性對應；『大於 90%』過度誇張。",
-   "D": "IgG4-related disease 通常是 subacute fibroinflammatory disease，不是大量 IgG4 直接活化 T cells 造成急性器官破壞；大量 steroid 也不是不分 organ threat 一律使用，治療須依受累器官與 relapse risk 選擇 glucocorticoid、rituximab 等。",
-   "summary": "IgG4-RD 的診斷靠器官表現、典型 lymphoplasmacytic fibrosis pathology 與免疫染色整合；serum IgG4 單獨不能確診或量化嚴重度。",
+   "A": "正確答案。IgG4 相關疾病可以造成淚腺炎、眼眶假性腫瘤這類眼周組織腫脹，而且常合併過敏病史、嗜酸性球增多與 IgE 升高。「眼周腫加過敏體質」是很好用的組合線索。",
+   "B": "本項敘述錯誤。它的病理三件套是：密集的淋巴漿細胞浸潤（含 IgG4+ 漿細胞）、席紋狀纖維化，以及閉塞性靜脈炎。不是「IgG4 沉積在血管內、又看不到 B 淋巴球浸潤」。",
+   "C": "本項敘述錯誤。血中 IgG4 可以是正常的，就算升高，敏感度與特異性也都不夠，而且濃度不會跟每個病人的器官損傷成線性關係。「大於 90%」講得太滿。",
+   "D": "本項敘述錯誤。它通常是亞急性的纖維發炎疾病，不是大量 IgG4 直接活化 T 細胞造成急性器官破壞。治療也不是一律大量類固醇，要依受累器官與復發風險選擇類固醇或 rituximab。",
+   "summary": "IgG4 相關疾病是「慢慢纖維化」不是急性破壞；血中 IgG4 不能單獨確診，也量不出嚴重度。",
    "guideline": "FC 醫學(三)第4冊 p.138"
   },
   "source": "113070/302_11",
@@ -84792,11 +84792,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。退化性關節炎（osteoarthritis）的 synovial fluid 屬 non-inflammatory，通常透明、viscous、WBC 低且以 mononuclear cells 為主，符合本例 100/μL。",
-   "B": "反應性關節炎（reactive arthritis）是 inflammatory arthritis，關節液通常不再維持如此低細胞數與高黏稠度，且常以 neutrophils 為主。",
-   "C": "活動性類風濕性關節炎（rheumatoid arthritis）會產生 inflammatory synovial fluid，WBC 明顯高於 100/μL 且黏度下降。",
-   "D": "敗血性關節炎（septic arthritis）典型為 turbid、low-viscosity fluid 與很高的 WBC／neutrophil proportion；仍須以 Gram stain 與 culture 確認，不能只靠 cell count 排除。",
-   "summary": "Viscous synovial fluid、WBC 100/μL、mononuclear predominance 是 non-inflammatory OA 型態；感染性關節炎則相反。",
+   "A": "正確答案。三個線索一起看就成立：關節液黏稠、白血球（WBC）只有 100/μL、而且以單核球為主——這是**非發炎性**的關節液，符合退化性關節炎（osteoarthritis, OA）。80 歲的膝痛也對得上。",
+   "B": "本項不選。反應性關節炎屬於發炎性關節炎，關節液不會維持這麼低的細胞數與這麼高的黏稠度，而且通常以嗜中性球為主。",
+   "C": "本項不選。活動性的類風濕性關節炎會產生發炎性關節液，白血球數遠高於 100/μL，黏度也會下降。",
+   "D": "本項不選。化膿性關節炎的關節液是混濁、低黏度、白血球極高且以嗜中性球為主，和這題完全相反。不過臨床上仍要靠革蘭氏染色與培養確認，不能只看細胞數就排除。",
+   "summary": "關節液先看三件事：黏不黏、白血球多少、哪種細胞為主——這題三項都指向非發炎性的退化性關節炎。",
    "guideline": "FC 醫學(三)第4冊 p.116",
    "concepts": [
     "synovial-fluid-classification"
@@ -84833,11 +84833,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Hyperandrogenism 不是類風濕性關節炎（rheumatoid arthritis）的典型 extraarticular manifestation，也不是其長期治療最常見的系統性問題。",
-   "B": "正確。Osteoporosis 在 RA 很常見，原因包括 chronic inflammation、reduced mobility、age/menopause 與 glucocorticoid exposure，會增加 fragility fracture risk。",
-   "C": "Pulmonary arterial hypertension 不是 RA 最常見的 extraarticular manifestation；RA 肺部較常考 interstitial lung disease、pleuritis 或 nodules。",
-   "D": "Lumbar myelopathy 並非 RA 典型脊椎併發症；RA 嚴重時較須注意 cervical atlantoaxial instability 造成 cervical myelopathy。",
-   "summary": "RA 常見全身問題之一是 osteoporosis；脊椎危險病灶在 cervical atlantoaxial region，不是 lumbar myelopathy。",
+   "A": "本項不選。雄性素過高不是類風濕性關節炎的典型關節外表現，也不是長期治療下最常見的全身問題。",
+   "B": "正確答案。骨質疏鬆在類風濕性關節炎（rheumatoid arthritis, RA）非常常見，原因疊在一起：慢性發炎、活動量下降、年齡與停經，再加上類固醇的使用。結果就是脆弱性骨折的風險上升。",
+   "C": "本項不選。肺動脈高壓不是它最常見的關節外表現。類風濕性關節炎的肺部問題比較常考間質性肺病、肋膜炎與肺結節。",
+   "D": "本項不選。腰椎脊髓病變不是它的典型脊椎併發症。真正要警覺的是頸椎的寰樞椎不穩定造成頸髓病變。",
+   "summary": "類風濕性關節炎最常見的關節外問題是骨質疏鬆；脊椎的危險區在頸椎不在腰椎。",
    "guideline": "FC 醫學(三)第4冊 p.48"
   },
   "source": "113070/302_11",
@@ -84871,11 +84871,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Type 1 diabetes mellitus 主要與 HLA class II 的 DR3-DQ2、DR4-DQ8 等相關；HLA-B*58:01 則最常考 allopurinol severe cutaneous adverse reaction。",
-   "B": "貝西氏病（Behçet disease）典型 HLA 關聯是 HLA-B51，不是 HLA-B*15:02；後者常考 carbamazepine-associated SJS/TEN。",
-   "C": "乾燥症（Sjögren syndrome）有多種 HLA class II 關聯且受族群影響，但 HLA-DR8 並非這四組中最典型、最高的經典配對。",
-   "D": "正確。類風濕性關節炎（rheumatoid arthritis）與 HLA-DRB1 shared epitope alleles 關聯明確，傳統常概括為 HLA-DR4。",
-   "summary": "經典 HLA 配對：RA–HLA-DR4/shared epitope、Behçet–B51、type 1 DM–DR3/DR4-DQ、allopurinol SCAR–B*58:01。",
+   "A": "本項不選。第一型糖尿病主要與 HLA class II 的 DR3-DQ2、DR4-DQ8 相關。HLA-B*58:01 要聯想的是 allopurinol 造成的嚴重皮膚不良反應，配對錯了。",
+   "B": "本項不選。貝西氏病的典型關聯是 HLA-B51。HLA-B*15:02 要聯想的是 carbamazepine 相關的 SJS/TEN，同樣配錯。",
+   "C": "本項不選。乾燥症有多種 HLA class II 關聯而且受族群影響，HLA-DR8 不是這四組裡最典型、關聯最強的配對。",
+   "D": "正確答案。類風濕性關節炎與 HLA-DRB1 的 shared epitope 等位基因關聯明確，傳統上就概括寫成 HLA-DR4。四個選項裡只有這一組配對是對的。",
+   "summary": "這題三個選項都是「病配錯基因」；B*58:01 與 B*15:02 其實是藥物過敏的基因，不是疾病的。",
    "guideline": "FC 醫學(三)第4冊 p.48"
   },
   "source": "113070/302_11",
@@ -84904,11 +84904,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Hereditary angioedema 發作時 C4 常因 complement consumption 而降低，是實用 screening test；即使兩次發作間也常偏低。",
-   "B": "C1 esterase inhibitor 應評估 antigenic level 與 functional activity，可區分多數 hereditary angioedema type I／II，是本例重要確診檢查。",
-   "C": "正確。Total IgE 評估 IgE-mediated allergy，但 hereditary angioedema 是 bradykinin-mediated、通常無 urticaria，IgE 檢驗對本病最沒有幫助。",
-   "D": "Danazol 可增加 hepatic C1 inhibitor synthesis，過去用於 long-term prophylaxis；因 androgenic、hepatic 與 thrombotic adverse effects，現今須依可用藥物與個別風險選擇。",
-   "summary": "無 urticaria 的反覆 laryngeal／abdominal angioedema 指向 C1-INH deficiency；查 C4 與 C1-INH，而不是 total IgE。",
+   "A": "本項不選。遺傳性血管性水腫發作時 C4 常因補體被消耗而降低，是很實用的篩檢；就算在發作之間也常偏低。",
+   "B": "本項不選。C1 esterase inhibitor 要同時看抗原濃度與功能活性，可以區分第一型（type I）與第二型（type II）遺傳性血管性水腫，是本例的關鍵確診檢查。",
+   "C": "本項應選。病人發作時**從來沒有蕁麻疹**，這一點就把 IgE 那條路排除了。遺傳性血管性水腫是緩激肽（bradykinin）造成的，不是組織胺；驗 total IgE 對它最沒有幫助。",
+   "D": "本項不選。danazol 可以增加肝臟合成 C1 抑制物，過去用於長期預防。現在因為雄性素、肝臟與血栓的副作用，要依可用藥物與個別風險再決定。",
+   "summary": "反覆喉頭與腹部水腫、但**從不起蕁麻疹**＝緩激肽造成的血管性水腫，查 C4 與 C1-INH，不是查 IgE。",
    "guideline": null,
    "concepts": [
     "hereditary-angioedema-diagnostic-profile"
@@ -85397,11 +85397,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "輸注後 10 分鐘出現 rash、lip swelling、dyspnea 與 hypotension 是 anaphylaxis；把低血壓先當 septic shock 只給 fluids／antibiotics 會延誤 epinephrine，但 crystalloid 可作輔助復甦。",
-   "B": "呼吸道嚴重受威脅時需及早 airway management，但插管不能取代立即 intramuscular epinephrine；laryngeal edema 進展時也可能迅速變得難以插管。",
-   "C": "Glucocorticoids 起效慢，不能逆轉當下 anaphylactic hypotension 或 airway edema；可作 adjunct，但不可優先於 epinephrine。",
-   "D": "正確。應停止輸注並立即給 intramuscular epinephrine，同步處理 airway、oxygen、IV fluids；antihistamines 與 glucocorticoids 只屬 adjunctive therapy。",
-   "summary": "Drug infusion 後皮膚／黏膜症狀加 respiratory compromise 與 hypotension 是 anaphylaxis；IM epinephrine 是第一優先。",
+   "A": "本項不選。輸注 10 分鐘後就出現皮疹、嘴唇腫、呼吸困難與血壓下降，這是過敏性休克。把低血壓先當敗血性休克、只給輸液與抗生素，會延誤腎上腺素——不過晶體液本身可以當輔助復甦。",
+   "B": "本項不選。呼吸道嚴重受威脅時當然要及早處理氣道，但插管取代不了立即肌肉注射腎上腺素。而且喉頭水腫一旦進展，插管會變得非常困難。",
+   "C": "本項不選。類固醇起效慢，逆轉不了當下的低血壓與氣道水腫。它可以當輔助，但絕對不能排在腎上腺素前面。",
+   "D": "正確答案。處置順序是：立刻停止輸注、馬上肌肉注射（IM）腎上腺素（epinephrine），同時處理氣道、給氧與靜脈（IV）輸液。抗組織胺與類固醇都只是輔助治療。",
+   "summary": "藥物輸注後皮膚黏膜症狀＋呼吸窘迫＋低血壓＝過敏性休克：先打腎上腺素，其餘都是配角。",
    "guideline": "FC 醫學(三)第1冊 p.349",
    "concepts": [
     "anaphylaxis-clinical-criteria"
@@ -96578,11 +96578,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "手部退化性關節炎（osteoarthritis）常見 DIP、PIP 與 first CMC joints；MCP joints 與 wrist 並非 primary OA 最常見部位，膝關節則確實常見。",
-   "B": "正確。Increased age、genetic susceptibility 與 obesity 都是 OA 重要危險因子；obesity 對 knee OA 兼具 mechanical 與 metabolic effects。",
-   "C": "OA X-ray 常見 nonuniform joint-space narrowing、osteophytes、subchondral sclerosis 與 cysts；marginal bone erosions 更提示 inflammatory arthritis，不是典型 OA。",
-   "D": "TNF 並非 OA 唯一主導機轉，anti-TNF agents 未證實對一般 OA 有良好 disease-modifying effect；治療重點是 exercise、weight management 與 symptom control。",
-   "summary": "OA 的典型影像是 asymmetric joint-space loss、osteophytes、subchondral sclerosis/cysts，不是 inflammatory marginal erosions。",
+   "A": "本項敘述錯誤。手部原發性退化性關節炎（osteoarthritis, OA）打的是遠端指間關節（DIP）、近端指間關節（PIP）與拇指基部的第一腕掌關節（first CMC）。掌指關節（MCP）與腕關節被侵犯，反而要想類風濕性關節炎或血鐵沉積症。",
+   "B": "正確答案。年齡增加、遺傳體質與肥胖是 OA 的三大風險因子。肥胖的壞處還是雙重的：膝關節多承重，脂肪組織也提供發炎訊號。",
+   "C": "本項敘述錯誤。OA 的 X 光四件套是不對稱的關節間隙變窄、骨刺（osteophytes）、軟骨下硬化與軟骨下囊腫。**骨侵蝕（bone erosion）不是 OA**，看到它要往發炎性關節炎想。",
+   "D": "本項敘述錯誤。腫瘤壞死因子（TNF）不是 OA 的主導機轉，anti-TNF 藥物在一般 OA 也沒有證實的療效。OA 的核心處置是運動、體重管理與症狀控制。",
+   "summary": "OA 影像看「窄、刺、硬、囊」四樣；一旦出現骨侵蝕，診斷就要改往發炎性關節炎。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96611,11 +96611,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Hereditary autoinflammatory diseases 可源於 MEFV 編碼 pyrin、TNFRSF1A 編碼 p55 TNF receptor、或 NLRP3 等基因 variants，分別對應 FMF、TRAPS、CAPS。",
-   "B": "並非所有 autoinflammatory gene variants 都是 recessive；FMF 常為 autosomal recessive，而 TRAPS 與多數 CAPS 常為 autosomal dominant。",
-   "C": "Inflammasome activation 主要促進 IL-1β 與 IL-18 maturation，不是直接造成 IL-2 過度分泌；IL-2 更偏 T-cell growth signaling。",
-   "D": "IL-1 blockade 對多種 IL-1-driven autoinflammatory diseases 很有效，例如 CAPS；說通常效果不好而必須靠 glucocorticoid 不正確。",
-   "summary": "Monogenic autoinflammatory diseases 涉及 pyrin、TNFR1、NLRP3 與 IL-1 pathway，且遺傳模式不全是 recessive。",
+   "A": "正確答案。三個基因對應三個病：MEFV 編碼 pyrin 對應家族性地中海熱（FMF）、TNFRSF1A 編碼 p55 TNF receptor（TNFR1） 對應 TRAPS、NLRP3 對應 CAPS。它們都屬於自體發炎疾病（autoinflammatory disease）。",
+   "B": "本項敘述錯誤。遺傳模式不是一律隱性：FMF 多為自體隱性，但 TRAPS 與大多數 CAPS 是自體顯性。",
+   "C": "本項敘述錯誤。發炎體活化促成的是 IL-1β 與 IL-18 的成熟，不是 IL-2。IL-2 走的是 T 細胞增生那條路，跟這裡的發燒與關節炎機轉不同。",
+   "D": "本項敘述錯誤。IL-1 抑制劑對這類 IL-1 驅動的疾病效果很好，CAPS 就是代表。說它效果不好、必須靠類固醇並不正確。",
+   "summary": "自體發炎疾病走的是 IL-1 那條路：發炎體→IL-1β／IL-18，所以 IL-1 抑制劑才是對症的藥。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96644,11 +96644,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Secukinumab 是 IL-17A inhibitor，適應症重點包括 psoriasis、psoriatic arthritis 與 axial spondyloarthritis，不是 methotrexate-refractory RA 的標準 biologic。",
-   "B": "Ustekinumab 阻斷 IL-12/23 p40，用於 psoriasis、psoriatic arthritis 與 inflammatory bowel disease 等；對 RA 未建立標準療效。",
-   "C": "Ixekizumab 也是 IL-17A inhibitor，主要治療 psoriasis／psoriatic arthritis／axial spondyloarthritis，不是 RA 的典型 biologic choice。",
-   "D": "正確。Tocilizumab 阻斷 IL-6 receptor，可用於 conventional DMARD response inadequate 的 moderate-to-severe RA，需監測 infection、CBC、liver enzymes 與 lipids。",
-   "summary": "Active RA despite methotrexate 可加具 RA indication 的 biologic，如 IL-6 receptor inhibitor tocilizumab；IL-17/12/23 agents 偏 PsA/SpA。",
+   "A": "本項不選。secukinumab 阻斷 IL-17A，用在乾癬、乾癬性關節炎（PsA）與軸性脊椎關節炎（axial SpA）。它不是 methotrexate 效果不夠時類風濕性關節炎（RA）的選擇。",
+   "B": "本項不選。ustekinumab 阻斷 IL-12/23 共用的 p40，適應症落在乾癬、乾癬性關節炎與發炎性腸道疾病，對 RA 沒有建立療效。",
+   "C": "本項不選。ixekizumab 同樣是 IL-17A 抑制劑，和 secukinumab 屬同一類，主戰場也在乾癬與脊椎關節炎。",
+   "D": "正確答案。tocilizumab 阻斷 IL-6 受體，正是傳統 DMARD 反應不佳的中重度 RA 可加上的生物製劑。用藥期間要追感染、血球（CBC）、肝指數與血脂。",
+   "summary": "四個選項先分家：IL-17 與 IL-12/23 是乾癬那一國，IL-6 受體抑制劑才是 RA 這一國。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96677,11 +96677,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Allergen-specific IgE 用於有明確 immediate allergic trigger 的 targeted evaluation；本例反覆 bacterial sinusitis、chronic diarrhea 與 Giardia 更像 antibody deficiency，而非單純 allergy。",
-   "B": "正確。Serum IgG、IgA、IgM 是 suspected humoral immunodeficiency 的基本檢查；Giardia 與 recurrent sinopulmonary infection 可見於 common variable immunodeficiency 等 antibody disorders。",
-   "C": "Allergen skin testing 評估 IgE-mediated sensitization，不能解釋 recurrent infections 與 giardiasis，也無法確認 immunoglobulin deficiency。",
-   "D": "Serum albumin、prealbumin、transferrin 可提供 nutrition 或 protein loss 線索，但不是確認 primary humoral immune defect 的直接檢查。",
-   "summary": "反覆 sinopulmonary infection 加 chronic Giardia diarrhea 要先查 quantitative IgG/IgA/IgM，而不是把癢疹直接當 allergy。",
+   "A": "本項不選。特異性 IgE 是針對「有明確過敏原、發作即刻型反應」的人做的。這位病人的主軸是反覆細菌性鼻竇炎與慢性腹瀉，方向不對。",
+   "B": "正確答案。從小每年 3～4 次鼻竇炎、慢性腹瀉、又培養出 Giardia lamblia，這組合指向抗體（體液性）免疫缺乏，常見變異型免疫缺乏症（CVID）是代表。先驗血中 IgG、IgA、IgM 的量最直接。",
+   "C": "本項不選。過敏原皮膚測試測的是 IgE 媒介的致敏化，它解釋不了反覆感染，也驗不出免疫球蛋白缺乏。",
+   "D": "本項不選。albumin、prealbumin、transferrin 反映的是營養狀態或蛋白質流失，只能當旁證，不能確認原發性抗體缺乏。",
+   "summary": "反覆鼻竇肺部感染＋Giardia 慢性腹瀉＝先量 IgG/IgA/IgM，別被表面的癢疹帶去查過敏。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96710,11 +96710,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Deep vein thrombosis 是抗磷脂症候群（antiphospholipid syndrome）最常見的 thrombotic manifestation，venous thrombosis 整體也比特殊部位動脈事件常見。",
-   "B": "Retinal artery thrombosis 可是 APS 的 arterial event，但發生率遠低於 lower-extremity DVT，不能作為最常見表現。",
-   "C": "Pre-eclampsia 尤其 severe placental insufficiency-related early delivery 可屬 obstetric APS spectrum，但不是所有 APS 患者最常見的臨床表現。",
-   "D": "Libman-Sacks endocarditis 可與 SLE／APS 相關，是 sterile valvular vegetation，但遠不如 DVT 常見。",
-   "summary": "APS 最常見的 thrombotic presentation 是 lower-extremity DVT；亦可造成 arterial thrombosis 與特定 pregnancy morbidity。",
+   "A": "正確答案。抗磷脂症候群（antiphospholipid syndrome, APS）最常見的血栓表現就是下肢深部靜脈栓塞（deep vein thrombosis, DVT）。整體來說靜脈事件多於特殊部位的動脈事件。",
+   "B": "本項不選。視網膜動脈栓塞確實可以是 APS 的動脈事件，但發生率遠低於下肢深部靜脈栓塞。",
+   "C": "本項不選。子癇前症屬於產科型 APS 的一部分，尤其是胎盤功能不良造成的早期分娩。但它只發生在部分病人身上，稱不上最常見。",
+   "D": "本項不選。Libman-Sacks 心內膜炎是無菌性瓣膜贅生物，與 SLE／APS 有關，但臨床上少見得多。",
+   "summary": "APS 最常見的是下肢深部靜脈栓塞；動脈事件與產科併發症都是次要族群。",
    "guideline": null,
    "concepts": [
     "antiphospholipid-syndrome-classification"
@@ -106451,11 +106451,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "NSAIDs 可迅速抑制急性痛風（acute gout）的 inflammation；使用前需評估 renal、gastrointestinal 與 cardiovascular contraindications。",
-   "B": "Colchicine 是 acute gout 的第一線抗發炎選項之一，早期使用效果較佳，且須依 renal/hepatic function 與 drug interactions 調整。",
-   "C": "Glucocorticoids 可口服、肌注或依關節數考慮 intra-articular administration，特別適合 NSAID／colchicine 不合適者。",
-   "D": "正確。Allopurinol 是長期 urate-lowering therapy，不是治療當下 pain/inflammation 的藥；若原本已規律服用通常不需因 flare 停藥，但不能把它當單獨急性治療。",
-   "summary": "Acute gout 用 NSAID、colchicine 或 glucocorticoid 止炎；allopurinol 管理長期 urate burden，不提供即時抗發炎效果。",
+   "A": "本項不選。NSAIDs 能快速壓下急性痛風的發炎。開之前要先看腎功能、腸胃道與心血管的禁忌。",
+   "B": "本項不選。colchicine 是急性痛風第一線的抗發炎選項之一，越早給效果越好，並要依腎肝功能與交互作用調整劑量。",
+   "C": "本項不選。類固醇可以口服、肌肉注射，單一大關節也可以考慮關節內注射。NSAIDs 與 colchicine 不適合的人特別用得上。",
+   "D": "本項應選。allopurinol 是長期降尿酸藥，對當下的疼痛與發炎沒有作用，急性期單獨給它並不適當。要注意的是：原本就規律在吃的人，發作時通常不需要停藥。",
+   "summary": "急性痛風靠 NSAID、colchicine、類固醇止炎；allopurinol 管的是長期尿酸，不是這一次的發作。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107390,11 +107390,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "RA flare 會產生 inflammatory synovial fluid，WBC 通常高於本例 800/mm3；而病人原疾病控制良好、疼痛與運動相關，也不支持突然全身性 active RA。",
-   "B": "Methotrexate／hydroxychloroquine 失效通常表現為多處 inflammatory synovitis 與較高 inflammatory markers，不會只以低白血球關節液的單側膝痛來判定。",
-   "C": "痛風（gout）急性發作通常劇烈紅腫且 synovial fluid 為 inflammatory、neutrophil-predominant，必要時可見 monosodium urate crystals；WBC 800/mm3 不典型。",
-   "D": "正確。退化性關節炎（osteoarthritis）常造成 activity-related knee pain、effusion 與 non-inflammatory synovial fluid；WBC 800/mm3 符合此型態。",
-   "summary": "已控制 RA 患者的新發 mechanical knee pain 加 synovial WBC 800/mm3，優先考慮 coexisting OA 而非 RA flare 或 gout。",
+   "A": "本項不選。RA 突然轉為活躍會產生發炎性關節液，白血球通常遠高於 800/mm³。而且病人原本控制良好，疼痛又和運動有關，不像整體疾病活性上升。",
+   "B": "本項不選。若真的是藥物失效，會看到多處關節同時發炎、發炎指標上升，不會只有單側膝痛、關節液白血球又這麼低。",
+   "C": "本項不選。痛風急性發作通常又紅又腫又痛，關節液是發炎性、以嗜中性球為主，必要時看得到單鈉尿酸鹽結晶。白血球 800/mm³ 完全不像。",
+   "D": "正確答案。運動時才痛、關節積水、關節液白血球（WBC）只有 800/mm³ 屬於非發炎性——這是退化性關節炎的典型組合。RA 病人本來就可能同時有 OA。",
+   "summary": "RA 病人新發膝痛不一定是 RA：關節液白血球低又和活動有關，先想合併的退化性關節炎。",
    "guideline": null,
    "concepts": [
     "synovial-fluid-classification"
@@ -107426,11 +107426,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Shigella 是 enteric reactive arthritis 的經典誘發菌之一，感染後即使 pathogen 已清除仍可出現 sterile arthritis。",
-   "B": "Yersinia 也是 reactive arthritis 常見 enteric trigger，並可伴 erythema nodosum 等 postinfectious manifestations。",
-   "C": "正確。Clostridium 不是傳統最常見的 reactive arthritis enteric pathogens；經典清單包括 Salmonella、Shigella、Yersinia、Campylobacter 與泌尿生殖道 Chlamydia。",
-   "D": "Campylobacter gastroenteritis 可誘發 reactive arthritis，尤其在 genetically susceptible individuals，因此不是最不易者。",
-   "summary": "Reactive arthritis 的經典感染誘因是 Chlamydia 與 Salmonella/Shigella/Yersinia/Campylobacter；Clostridium 不在主要清單。",
+   "A": "本項不選。Shigella 是反應性關節炎（reactive arthritis）的經典誘發菌。細菌被清掉之後，關節仍可能無菌性地發炎。",
+   "B": "本項不選。Yersinia 也是常見的腸道誘因，還可能合併結節性紅斑等感染後表現。",
+   "C": "本項應選。Clostridium 不在反應性關節炎的經典誘因名單上。那份名單是 Salmonella、Shigella、Yersinia、Campylobacter，加上泌尿生殖道的 Chlamydia。",
+   "D": "本項不選。Campylobacter 腸胃炎可以誘發反應性關節炎，在帶有 HLA-B27 等易感體質的人身上更明顯。",
+   "summary": "反應性關節炎的四隻腸道菌記法：沙門氏、志賀氏、耶氏、曲狀桿菌；泌尿道那隻是 Chlamydia。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107459,11 +107459,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Anti-dsDNA antibodies 對 SLE specificity 較高，並與 lupus nephritis/activity 有關，但 sensitivity 低於 ANA，因此不是『最容易陽性』。",
-   "B": "Anti-Smith antibodies 對 SLE 很特異，但只出現在部分患者，sensitivity 明顯低於 ANA。",
-   "C": "正確。抗核抗體（antinuclear antibodies，ANA）是 SLE 最敏感的 screening antibody；年輕女性合併 fever、small-joint symptoms、cytopenias 與 proteinuria 時最容易出現 ANA 陽性。",
-   "D": "Anticardiolipin antibodies 可見於部分 SLE/APS 患者，但並非大多數 SLE 都陽性，也不能單獨解釋 proteinuria 與 cytopenias。",
-   "summary": "SLE 抗體要分 sensitivity 與 specificity：ANA 最敏感；anti-dsDNA、anti-Sm 較特異但較不常陽性。",
+   "A": "本項不選。anti-dsDNA 對 SLE 的特異性高，也和狼瘡腎炎與疾病活性相關，但敏感度不如抗核抗體，不會是最容易驗到陽性的那一項。",
+   "B": "本項不選。anti-Sm 對 SLE 非常特異，卻只出現在一部分病人身上，敏感度明顯低於 ANA。",
+   "C": "正確答案。年輕女性同時有發燒、雙側小關節不適、白血球與血小板下降、又有蛋白尿，最該懷疑 SLE。抗核抗體（ANA）是這幾項抗體裡敏感度最高的，最容易出現陽性。",
+   "D": "本項不選。抗心磷脂抗體只在部分 SLE 或 APS 病人身上出現，也解釋不了這位病人的蛋白尿與血球下降。",
+   "summary": "問「最容易陽性」是在問敏感度：篩檢用 ANA，anti-dsDNA 與 anti-Sm 是特異但較不常陽性的確認抗體。",
    "guideline": null,
    "concepts": [
     "sle-2019-eular-acr-classification"
@@ -107495,11 +107495,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "X-linked chronic granulomatous disease 是 CYBB／NADPH oxidase defect，造成 impaired oxidative burst；不是 CD40L abnormality。",
-   "B": "Wiskott-Aldrich syndrome 是 WAS gene defect，典型 triad 為 eczema、recurrent infections 與 small-platelet thrombocytopenia。",
-   "C": "Common variable immunodeficiency 是 heterogeneous antibody-production disorder，並非單一 CD40L gene defect 所定義。",
-   "D": "正確。X-linked hyper-IgM syndrome 由 activated T cells 的 CD40L（CD154）缺陷造成，B cells 無法有效 class-switch；常見低 IgG/IgA/IgE、正常或高 IgM 及 opportunistic infections。",
-   "summary": "CD40L defect 使 T–B cooperation 與 class-switch recombination 失敗，造成 X-linked hyper-IgM syndrome。",
+   "A": "本項不選。X 染色體連鎖慢性肉芽腫病的缺陷在 CYBB／NADPH oxidase，吞噬細胞做不出氧化爆發（oxidative burst），跟 CD40L 無關。",
+   "B": "本項不選。Wiskott-Aldrich 症候群是 WAS 基因缺陷，典型三聯徵是濕疹、反覆感染，以及血小板數量少、體積又小的血小板低下。",
+   "C": "本項不選。常見變異型免疫缺乏症（CVID）是一群異質性的抗體製造障礙，不是由單一 CD40L 基因缺陷定義的疾病。",
+   "D": "正確答案。X 染色體連鎖高 IgM 症候群的缺陷就在活化 T 細胞上的 CD40L（CD154）。少了這個訊號，T–B 之間的合作斷掉，B 細胞無法完成類別轉換，結果是 IgG、IgA、IgE 偏低而 IgM 正常或偏高，並容易發生伺機性感染。",
+   "summary": "CD40L 是 T 細胞遞給 B 細胞的「換抗體」指令；指令壞掉就卡在 IgM，這就是高 IgM 症候群。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107528,11 +107528,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "肉芽腫性多血管炎（granulomatosis with polyangiitis）主要與 PR3-ANCA 相關，不是 hepatitis B-associated vasculitis。",
-   "B": "結節性多動脈炎（polyarteritis nodosa）經典感染關聯是 hepatitis B；hepatitis C 更典型連結 mixed cryoglobulinemic vasculitis。",
-   "C": "正確。顯微多血管炎（microscopic polyangiitis）屬 ANCA-associated vasculitis，常見 MPO-ANCA／p-ANCA，並可造成 pulmonary-renal syndrome。",
-   "D": "Cryoglobulinemic vasculitis 經典與 chronic hepatitis C 相關，不是 hepatitis A；也可見於 autoimmune 或 lymphoproliferative disease。",
-   "summary": "血管炎配對：GPA–PR3-ANCA、MPA–MPO-ANCA、PAN–HBV、mixed cryoglobulinemic vasculitis–HCV。",
+   "A": "本項敘述錯誤。肉芽腫性多血管炎（GPA）主要與 PR3-ANCA 相關，不是 B 型肝炎相關的血管炎。",
+   "B": "本項敘述錯誤。結節性多動脈炎（PAN）的經典感染關聯是 **B 型肝炎**；和 C 型肝炎綁在一起的是冷凝球蛋白血症血管炎。這一項把兩者對調了。",
+   "C": "正確答案。顯微多血管炎（MPA）屬於 ANCA 相關血管炎，常見 MPO-ANCA／p-ANCA，並可造成肺腎症候群。",
+   "D": "本項敘述錯誤。冷凝球蛋白血症血管炎關聯的是慢性 **C 型肝炎**，不是 A 型肝炎；也可能來自自體免疫或淋巴增生性疾病。",
+   "summary": "四組配對背起來：GPA–PR3-ANCA、MPA–MPO-ANCA、PAN–HBV、冷凝球蛋白血管炎–HCV。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -117328,11 +117328,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "HLA-B*15:02 與 Han Chinese 使用 carbamazepine／部分 aromatic antiseizure drugs 所致 SJS/TEN 關聯最著名，不是 allopurinol 的核心 allele。",
-   "B": "HLA-B*31:01 與 carbamazepine hypersensitivity spectrum 在部分族群相關，並非 Han Chinese allopurinol SJS/TEN 最強配對。",
-   "C": "HLA-B*57:01 主要用於預防 abacavir hypersensitivity，與 allopurinol severe cutaneous adverse reaction 不是同一藥物基因配對。",
-   "D": "正確。HLA-B*58:01 與 allopurinol-induced SJS/TEN／DRESS 強烈相關，在 Han Chinese 等高盛行族群尤其重要；風險者應避免 allopurinol。",
-   "summary": "藥物基因配對不可混淆：allopurinol–HLA-B*58:01、carbamazepine SJS/TEN–B*15:02、abacavir–B*57:01。",
+   "A": "本項不選。HLA-B*15:02 對應的藥是 carbamazepine 等芳香族抗癲癇藥，這在漢族尤其重要。它不是 allopurinol 這題的答案。",
+   "B": "本項不選。HLA-B*31:01 在部分族群和 carbamazepine 的過敏光譜相關，但不是漢族 allopurinol 嚴重皮膚反應最強的那個等位基因。",
+   "C": "本項不選。HLA-B*57:01 是用藥前篩檢 abacavir 過敏用的，藥物與基因都對不上這題。",
+   "D": "正確答案。漢族血統者使用 allopurinol 引起 SJS/TEN 或 DRESS，與 HLA-B*58:01 的關聯最強。帶因者應避免使用 allopurinol，改用其他降尿酸藥。",
+   "summary": "這題實際是在問「哪個藥配哪個基因」：allopurinol 配 B*58:01，carbamazepine 配 B*15:02，abacavir 配 B*57:01。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118197,11 +118197,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Thrombocytopenia 是 APS 常見 non-criteria manifestation，也可合併 SLE；雖非單獨確診條件，仍可增加臨床懷疑。",
-   "B": "正確。反覆 gastrointestinal bleeding 不屬 APS 的典型 thrombotic 或 obstetric presentation；出血更應找 ulcer、coagulopathy、anticoagulant adverse effect 等原因。",
-   "C": "Recurrent pregnancy loss 是 obstetric APS 的重要臨床線索，須依 gestational timing／定義並搭配 persistent antiphospholipid antibodies。",
-   "D": "Anti-β2 glycoprotein I antibodies 是 APS 標準實驗室抗體之一；需符合 isotype／titer 要求並相隔至少 12 週持續陽性。",
-   "summary": "APS 核心是 thrombosis 或定義內 pregnancy morbidity 加 persistent aPL；GI bleeding 不是典型診斷線索。",
+   "A": "本項不選。血小板低下是 APS 常見的非分類條件表現，也可能合併 SLE。它雖然不能單獨確診，仍會提高臨床懷疑。",
+   "B": "本項應選。反覆胃腸道（GI）**出血**不是 APS 的表現——APS 的問題是血栓，方向剛好相反。遇到反覆出血要找潰瘍、凝血異常或抗凝血劑副作用。",
+   "C": "本項不選。反覆流產是產科型 APS 的重要線索，判讀時要看流產發生的週數，並搭配持續陽性的抗磷脂抗體。",
+   "D": "本項不選。anti-β2 glycoprotein I 是 APS 的標準實驗室抗體之一，需符合抗體類型與力價，且相隔至少 12 週仍為陽性。",
+   "summary": "APS 是「血栓＋抗體」的病：一邊是血栓或符合定義的懷孕併發症，另一邊是持續陽性的抗磷脂抗體（aPL），出血不算。",
    "guideline": null,
    "concepts": [
     "antiphospholipid-syndrome-classification"
@@ -118233,11 +118233,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "乾燥症（Sjögren syndrome）最常侵犯 lacrimal 與 salivary glands；xerostomia 會降低 saliva 的保護作用，增加 dental caries。",
-   "B": "正確，這是最不適當的敘述。Sjögren syndrome 常有 arthralgia／non-erosive arthritis；腎病較少見且典型為 tubulointerstitial nephritis／distal RTA，不是常見 glomerular disease。",
-   "C": "Anti-SSA（Ro）與 Sjögren syndrome 密切相關，也與 systemic manifestations、neonatal lupus／congenital heart block risk 有臨床關聯。",
-   "D": "Sjögren syndrome 增加 B-cell non-Hodgkin lymphoma，尤其 MALT lymphoma 風險；persistent gland enlargement、low C4、cryoglobulinemia 等是警訊。",
-   "summary": "Sjögren 常見 sicca、caries、arthralgia 與 anti-SSA；renal involvement 較少且偏 tubulointerstitial，不是 glomerular disease 為主。",
+   "A": "本項不選。乾燥症（Sjögren syndrome）最常侵犯淚腺與唾液腺；口乾讓唾液的保護作用消失，蛀牙自然變多。",
+   "B": "本項應選。兩句話都反了：關節痛與非侵蝕性關節炎在乾燥症其實**很常見**；而腎臟受累比較少見，型態也是腎小管間質腎炎與遠端腎小管酸中毒（distal RTA），不是腎絲球病變。",
+   "C": "本項不選。anti-SSA（Ro）與乾燥症關係密切，也牽涉全身性表現，以及新生兒狼瘡與先天性心臟傳導阻滯的風險。",
+   "D": "本項不選。乾燥症會提高 B 細胞非何杰金氏淋巴瘤的風險，尤其是 MALT 淋巴瘤。腺體持續腫大、C4 偏低、冷凝球蛋白陽性都是警訊。",
+   "summary": "乾燥症的腎在腎小管不在腎絲球；關節痛則是常見而非罕見——這題錯的就是這兩點。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118266,11 +118266,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "CPPD arthritis 主要好發於 older adults；若在年輕族群發生，應懷疑 hereditary or metabolic predisposition。",
-   "B": "正確。年輕 CPPD 患者要評估 hemochromatosis、hyperparathyroidism、hypomagnesemia、hypophosphatasia 等 metabolic diseases。",
-   "C": "Calcium apatite deposition 的 crystals 很小且不具 birefringence，routine polarized microscopy 通常看不到；可能需特殊 stain 或 advanced analysis，不能靠一般偏光鏡與 CPPD 輕易區分。",
-   "D": "Calcium apatite crystals 可無症狀存在；並非只要沉積就一定引起 acute arthritis，臨床可呈 calcific periarthritis 或 Milwaukee shoulder 等不同 phenotype。",
-   "summary": "Young-onset CPPD 是查代謝病的警訊；CAD crystals 通常太小、無雙折射，普通偏光鏡不易看見。",
+   "A": "本項敘述錯誤。焦磷酸鈣沉積（CPPD）關節炎主要好發於年長者。年輕人發病是異常，要往下追原因。",
+   "B": "正確答案。年輕就出現 CPPD，要評估血鐵沉積症、副甲狀腺機能亢進、低血鎂與低磷酸酶症這些代謝疾病。這也是這題真正的臨床價值所在。",
+   "C": "本項敘述錯誤。磷灰石鈣（CAD）結晶非常小、又沒有雙折射，一般偏光顯微鏡根本看不到。要靠特殊染色或進階分析，不能像 CPPD 那樣直接用偏光鏡區分。",
+   "D": "本項敘述錯誤。磷灰石鈣結晶可以無症狀存在。它的表現形式很多，例如鈣化性關節周圍炎或 Milwaukee shoulder，不是沉積就一定發作。",
+   "summary": "CPPD 在年輕人身上＝去找代謝病；CAD 結晶太小又不折光，偏光鏡看不出來。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118299,11 +118299,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "類風濕性關節炎（rheumatoid arthritis）最典型侵犯 hands、wrists、feet 的 small joints，而不是以下肢大關節為主。",
-   "B": "RA 的 inflammatory morning stiffness 常持續超過 30–60 分鐘並隨活動改善；短於 30 分鐘更偏 mechanical osteoarthritis pattern。",
-   "C": "正確。RA 常形成 symmetric polyarthritis，但 early disease 可先是 monoarthritis 或 oligoarthritis，不能因初期單關節就完全排除。",
-   "D": "DIP joints 通常被 RA sparing；DIP involvement 應優先考慮 osteoarthritis 或 psoriatic arthritis，不代表 RA severity 較高。",
-   "summary": "RA 典型為長晨僵與 symmetric small-joint polyarthritis，但早期表現可不典型；DIP involvement 應找其他診斷。",
+   "A": "本項敘述錯誤。類風濕性關節炎（rheumatoid arthritis, RA）打的是手部、手腕與足部的**小關節**，不是以下肢大關節為主。",
+   "B": "本項敘述錯誤。RA 的晨僵常持續 30–60 分鐘以上，而且活動之後會改善。晨僵短於 30 分鐘反而像退化性關節炎那種力學性的僵。",
+   "C": "正確答案。RA 典型是左右對稱的多關節炎，但**早期可以只從一兩個關節開始**。這一點臨床上很重要：不能因為初期只是單關節炎就把 RA 排除掉。",
+   "D": "本項敘述錯誤。遠端指間關節（DIP）通常是 RA 會放過的地方。DIP 被侵犯要先想退化性關節炎或乾癬性關節炎，而不是判斷 RA 比較嚴重。",
+   "summary": "RA 看三件事：晨僵長、小關節、左右對稱；DIP 受累是換診斷的訊號，不是嚴重度的指標。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118332,11 +118332,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "重症肌無力（myasthenia gravis）的經典 autoantigen 是 postsynaptic acetylcholine receptor；部分 seronegative cases 則有 MuSK 或 LRP4 antibodies。",
-   "B": "自體免疫甲狀腺炎（autoimmune thyroiditis）可有 anti-thyroglobulin 與 anti-thyroid peroxidase antibodies，因此 thyroglobulin 配對合理。",
-   "C": "正確。進行性全身性硬化症（progressive systemic sclerosis）常見 autoantigens 包括 topoisomerase I、centromere proteins、RNA polymerase III，不是 tubulin。",
-   "D": "肉芽腫性多血管炎（granulomatosis with polyangiitis）的代表 autoantigen 是 proteinase 3，形成 PR3-ANCA。",
-   "summary": "Systemic sclerosis 的代表抗原是 topoisomerase I、centromere、RNA polymerase III；tubulin 不是經典配對。",
+   "A": "本項不選。重症肌無力的經典自體抗原就是突觸後膜的乙醯膽鹼受體（acetylcholine receptor）。少數抗體陰性的病人則帶 MuSK 或 LRP4 抗體。",
+   "B": "本項不選。自體免疫甲狀腺炎會出現 anti-thyroglobulin 與 anti-TPO 抗體，配 thyroglobulin 是合理的。",
+   "C": "本項應選。全身性硬化症的代表抗原是 topoisomerase I、centromere proteins 與 RNA polymerase III。**tubulin 不在這份名單上**，四組裡只有這組配錯。",
+   "D": "本項不選。肉芽腫性多血管炎的代表抗原是 proteinase 3，它形成的就是 PR3-ANCA。",
+   "summary": "全身性硬化症的三個抗原：topoisomerase I、centromere、RNA polymerase III——記住這三個，這題就不會選錯。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119638,11 +119638,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "退化性關節炎（osteoarthritis）可造成 joint-space narrowing、osteophytes 與 subchondral sclerosis，但題目指定 lunate bone 本身異常，單靠題幹不能把它歸為 OA。",
-   "B": "手腕受類風濕性關節炎（rheumatoid arthritis）侵犯時，可見 symmetric joint-space loss、marginal erosions、carpal crowding 或 collapse；但月狀骨局灶異常不是最典型單一診斷。",
-   "C": "痛風性關節炎（gouty arthritis）可有 juxta-articular punched-out erosions 與 overhanging edges，通常需結合 tophi／urate crystals，而非特指 lunate avascular change。",
-   "D": "正確。月狀骨缺血性壞死（avascular necrosis）即 Kienböck disease；題圖可見 lunate 明顯 sclerosis，尚無明顯 collapse，符合 osteonecrosis 的影像方向。",
-   "summary": "Lunate 的 osteonecrosis 是 Kienböck disease；題目影像應確認 sclerosis、collapse 與 carpal alignment。",
+   "A": "本項不選。片子上腕骨間隙沒有變窄，也看不到骨刺與軟骨下囊腫。而且題目問的是**單一顆月狀骨**的異常，退化性關節炎（osteoarthritis, OA）解釋不了這種局灶病變。",
+   "B": "本項不選。手腕被 RA 侵犯時會出現左右對稱的關節間隙變窄、邊緣侵蝕與腕骨排列塌陷。這張片子關節面完整、沒有侵蝕，不符合。",
+   "C": "本項不選。痛風的典型影像是關節旁穿鑿狀（punched-out）侵蝕加上突出的骨緣，而且要配合痛風石或尿酸結晶才成立。這裡看不到侵蝕。",
+   "D": "正確答案。片子上月狀骨的密度明顯比鄰近腕骨白，外形大致還保留、尚未明顯塌陷——這是月狀骨缺血性壞死，也就是 Kienböck disease。",
+   "summary": "月狀骨單獨變白＝Kienböck disease；影像上再往下看的是有沒有塌陷與腕骨排列改變。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -128970,11 +128970,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Jaw claudication 是巨細胞動脈炎（giant cell arteritis）具高辨識力的 ischemic symptom；高齡新發 unilateral headache 與 ESR/CRP markedly elevated 時必須考慮。",
-   "B": "Temporal artery 或 axillary artery ultrasound 可找 halo sign、noncompressibility 等 vasculitis evidence，是 GCA 的 noninvasive diagnostic tool 之一。",
-   "C": "Bilateral shoulder/hip girdle pain 與 stiffness 應考慮 polymyalgia rheumatica；PMR 與 GCA 常重疊。",
-   "D": "正確。Adalimumab 等 TNF inhibitors 不是 GCA 首選 biologic；需要 steroid-sparing biologic 時以有實證與適應症的 IL-6 receptor inhibitor tocilizumab 為代表。",
-   "summary": "高齡新發 headache、jaw claudication 與高 ESR/CRP 指向 GCA；可用 vascular ultrasound，biologic 選 tocilizumab 而非 adalimumab。",
+   "A": "本項不選。下顎跛行（jaw claudication）是巨細胞動脈炎（giant cell arteritis, GCA）辨識度很高的缺血症狀。高齡新發單側頭痛加上 ESR 破百、CRP 也升高，這條路一定要走。",
+   "B": "本項不選。顳動脈或腋動脈超音波可以找暈輪徵象（halo sign）與血管不可壓扁，是非侵入性的重要診斷工具。",
+   "C": "本項不選。雙側肩膀與髖部疼痛僵硬要想到風濕性多肌痛（polymyalgia rheumatica, PMR），它與巨細胞動脈炎常常同時存在。",
+   "D": "本項應選。adalimumab 這類 TNF 抑制劑**不是**巨細胞動脈炎的首選生物製劑。真正有實證、能幫忙減類固醇的是 IL-6 受體抑制劑 tocilizumab。",
+   "summary": "巨細胞動脈炎的生物製劑走 IL-6 那條路（tocilizumab），不是 TNF 那條路。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129003,11 +129003,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Anti-MDA5 antibodies 與 clinically amyopathic dermatomyositis、rapidly progressive interstitial lung disease、cutaneous ulceration／palmar papules 相關，digital ulcers 可見。",
-   "B": "Anti-NXP2 antibodies 在 adults 與 increased malignancy risk 相關，也可見 severe muscle disease、edema 或 calcinosis；實際風險受年齡與研究族群影響。",
-   "C": "Anti-Mi-2 antibodies 常與 classic dermatomyositis rash、較少 ILD 及較佳 treatment response／prognosis 相關。",
-   "D": "正確。Anti-TIF1-γ antibodies 在成人 dermatomyositis 與較高 malignancy risk 強烈相關，不是 lower risk，應加強 age-appropriate cancer evaluation。",
-   "summary": "Myositis-specific antibody 高頻配對：MDA5–amyopathic/RP-ILD、Mi-2–良好反應、TIF1-γ–成人 cancer risk 上升。",
+   "A": "本項不選。anti-MDA5 對應無肌病型皮肌炎，特點是快速進展的間質性肺病（rapidly progressive ILD），以及指端潰瘍與手掌丘疹這類皮膚破損。這組配對是對的。",
+   "B": "本項不選。成人帶 anti-NXP2 與惡性腫瘤風險上升有關，也常見嚴重肌肉侵犯、水腫或鈣質沉積。",
+   "C": "本項不選。anti-Mi-2 對應典型皮肌炎皮疹、間質性肺病較少，治療反應與預後也相對好。",
+   "D": "本項應選。方向剛好反了：成人皮肌炎帶 anti-TIF1-γ 與惡性腫瘤風險**上升**強烈相關，不是下降。驗到它應該加強年齡相符的癌症篩檢。",
+   "summary": "肌炎抗體看癌症風險：TIF1-γ 與 NXP2 要找癌，Mi-2 反而預後好——這題錯在把 TIF1-γ 說成低風險。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129036,11 +129036,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "Lymphocyte phenotype 評估 T、B、NK cell number，適合 suspected cellular or combined immunodeficiency；反覆 invasive Neisseria 更典型指向 terminal complement defect。",
-   "B": "正確。CH50 screening classical/terminal pathway，AP50 screening alternative/terminal pathway；兩者組合可定位 complement deficiency，C5–C9 defects 使 invasive Neisseria risk 大增。",
-   "C": "NBT assay 檢查 neutrophil oxidative burst，用於 chronic granulomatous disease；CGD 易見 catalase-positive infections，而非特異的 recurrent Neisseria pattern。",
-   "D": "Serum immunoglobulin levels 評估 humoral immunity；雖是常用 immune workup，卻不如 CH50/AP50 直接對應 recurrent invasive Neisseria。",
-   "summary": "反覆 invasive Neisseria 是 terminal complement C5–C9 deficiency 警訊；先以 CH50 加 AP50 定位 complement pathway。",
+   "A": "本項不選。淋巴球表面標記分析算的是 T、B、NK 細胞的數量，適合懷疑細胞性或合併型免疫缺乏。反覆侵襲性 Neisseria 感染指向的不是這一類。",
+   "B": "正確答案。反覆侵襲性 Neisseria 感染是補體末端路徑（C5–C9）缺乏的招牌。CH50 篩古典與末端路徑、AP50 篩替代與末端路徑，兩個一起做才定位得出缺在哪一段。",
+   "C": "本項不選。NBT 測的是嗜中性球的氧化爆發，用來找慢性肉芽腫病（chronic granulomatous disease, CGD）。那種病容易得的是產過氧化氫酶（catalase-positive）的菌，不是這種 Neisseria 型態。",
+   "D": "本項不選。量免疫球蛋白評估的是體液免疫，雖然是常規免疫檢查之一，卻不像 CH50／AP50 那樣直接對到這位病人的感染型態。",
+   "summary": "反覆侵襲性 Neisseria＝先想末端補體 C5–C9 缺乏，檢查就是 CH50 加 AP50。",
    "guideline": null,
    "concepts": [
     "complement-screening-patterns"
@@ -129072,11 +129072,11 @@
   "specialty": "免疫風濕科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。CD45 alternative splicing 產生不同 isoforms；human naïve T cells 多表現 CD45RA，memory T cells 多表現 CD45RO，常與 CCR7/CD62L 等共同分群。",
-   "B": "CD2 是 T cells 與 NK cells 常見 adhesion/costimulatory molecule，不以 CD2 isoforms 作為 naïve 與 memory T-cell 的經典區分。",
-   "C": "CD28 是重要 T-cell costimulatory receptor，部分 terminally differentiated T cells 可失去 CD28，但它不是靠不同 isoforms 定義 naïve／memory 的標準標記。",
-   "D": "CD44 在 mouse T-cell phenotyping 常用 expression level 區分 activated/memory phenotype，但題目問的是不同 isoforms，human 經典答案是 CD45RA versus CD45RO。",
-   "summary": "Human T-cell memory phenotyping 的經典 isoform switch 是 naïve CD45RA 到 memory CD45RO。",
+   "A": "正確答案。CD45 透過選擇性剪接產生不同 isoforms：人類原始（naïve）T 細胞多表現 CD45RA，記憶型 T 細胞多表現 CD45RO。臨床與研究上常再搭配 CCR7、CD62L 一起分群。",
+   "B": "本項不選。CD2 是 T 細胞與 NK 細胞的黏附／共刺激分子，沒有拿它的 isoforms 來分原始與記憶型 T 細胞的用法。",
+   "C": "本項不選。CD28 是重要的共刺激受體，末期分化的 T 細胞確實可能失去它——但那是表現量的有無，不是題目問的不同 isoforms。",
+   "D": "本項不選。CD44 在小鼠 T 細胞分型常用**表現量高低**來分活化／記憶型。題目問的是不同 isoforms，人類的經典答案還是 CD45RA 對 CD45RO。",
+   "summary": "題目問的是 isoform 不是表現量：naïve 的 CD45RA 換成 memory 的 CD45RO，就是這題唯一答案。",
    "guideline": null
   },
   "source": "115070/302_0101",
