@@ -859,11 +859,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。尿陰離子隙（urine anion gap）＝尿 Na+＋尿 K+－尿 Cl−，可間接估計尿中 NH4+ 排泄。腹瀉時腎臟會增加 NH4Cl 排泄，尿陰離子隙多為負值；腎小管酸血症（renal tubular acidosis）排酸不足時則多為零或正值。",
-   "B": "血陰離子隙（blood anion gap）在腹瀉與多數腎小管酸血症都呈正常，兩者同屬高氯性正常陰離子隙代謝性酸中毒，因此無法有效區分病因。",
-   "C": "血鉀濃度可協助區分不同型腎小管酸血症，例如第四型常合併高血鉀，但腹瀉與第一、二型腎小管酸血症都可能低血鉀，不能直接區分腸胃道或腎臟失鹼。",
-   "D": "血氯濃度在腹瀉與腎小管酸血症通常都會相對升高以維持電中性；高氯血症只能支持正常陰離子隙酸中毒，不能定位 bicarbonate 流失來源。",
-   "summary": "正常陰離子隙代謝性酸中毒以尿陰離子隙判斷 NH4+ 排泄：腹瀉多為負值，腎小管酸血症多為零或正值。",
+   "A": "正確。這題就是要用尿陰離子隙（urine anion gap）分辨酸是從腸子漏掉還是腎臟排不掉。算法是尿 Na+ ＋ 尿 K+ － 尿 Cl−，它其實是在間接數「尿裡排掉多少 NH4+」——腎臟排酸排得越兇，這個值就越負。腹瀉的人腎臟是好的，會拚命排 NH4Cl 來代償，所以算出來是負值；腎小管酸血症（renal tubular acidosis）的腎臟本身就排不出酸，值會卡在零或正值。",
+   "B": "本項不選。血陰離子隙（blood anion gap）在腹瀉與多數腎小管酸血症都是正常的。兩者本來就同屬「高血氯、正常陰離子隙」的代謝性酸中毒，用它當然分不開。",
+   "C": "本項不選。血鉀可以幫忙分「哪一型」腎小管酸血症，例如第四型常合併高血鉀。但腹瀉與第一、二型都可能低血鉀，所以它分不出酸是從腸道還是腎臟流失的。",
+   "D": "本項不選。腹瀉與腎小管酸血症都會為了維持電中性而讓血氯相對升高。高血氯只能告訴你「這是正常陰離子隙酸中毒」，定位不了鹼是從哪裡漏掉的。",
+   "summary": "正常陰離子隙的酸中毒，用尿陰離子隙定位漏鹼的地方：負值往腸子想、零或正值往腎臟想。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -892,11 +892,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "乳酸酸血症（lactic acidosis）會累積未測量的 lactate 陰離子而形成高陰離子隙代謝性酸中毒；本題血陰離子隙為 138－99－10＝29 mEq/L，符合此型態。",
-   "B": "酮酸血症（ketoacidosis）因 acetoacetate 與 beta-hydroxybutyrate 累積而造成高陰離子隙代謝性酸中毒，也能解釋深沉呼吸與意識改變。",
-   "C": "急性腹瀉主要由腸道流失 HCO3−，典型造成高氯性正常陰離子隙代謝性酸中毒；本題陰離子隙明顯升高，因此急性腹瀉最不可能單獨解釋此結果。",
-   "D": "慢性腎衰竭晚期因硫酸鹽、磷酸鹽等固定酸排泄不足，可出現高陰離子隙代謝性酸中毒，故仍可能符合本題。",
-   "summary": "先算血陰離子隙：本題 AG 29 mEq/L 是高陰離子隙酸中毒，與典型腹瀉造成的正常陰離子隙酸中毒不符。",
+   "A": "本項不選。乳酸酸血症會累積測不到的 lactate 陰離子，形成高陰離子隙酸中毒。先算一次：138－99－10＝29 mEq/L（陰離子隙 AG），遠高於正常的 8–12，型態符合。",
+   "B": "本項不選。酮酸血症因為 acetoacetate 與 beta-hydroxybutyrate 堆積，同樣是高陰離子隙酸中毒。它也能解釋深沉呼吸（Kussmaul）與意識改變。",
+   "C": "本項應選。急性腹瀉是從腸道流失 HCO3−，造成的是高血氯、**正常**陰離子隙的酸中毒。這個病人陰離子隙 29 明顯升高，光靠腹瀉解釋不了。",
+   "D": "本項不選。慢性腎衰竭晚期排不掉硫酸鹽、磷酸鹽這些固定酸，也會形成高陰離子隙酸中毒，所以仍然可能。",
+   "summary": "看到代謝性酸中毒先算陰離子隙：升高就把腹瀉排除，因為腸道漏鹼是正常陰離子隙。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -925,11 +925,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "連續性靜脈血液過濾術（continuous venovenous hemofiltration）可緩慢而持續移除溶質與水分，尤其適合血流動力不穩定的急性腎損傷病人；本題雖血壓尚穩，仍屬可用的腎臟替代治療。",
-   "B": "間歇性血液透析術（hemodialysis）能快速矯正 K+ 6.5 mEq/L、嚴重代謝性酸中毒與尿毒狀態；病人血壓 130/70 mmHg，若無其他不穩定因素可採用。",
-   "C": "血漿置換術（plasmapheresis）用於移除致病抗體或血漿蛋白，例如特定 anti-GBM disease 或血栓性微血管病；肺炎併急性腎損傷、高血鉀與酸中毒沒有此適應症，也不能取代透析清除小分子溶質。",
-   "D": "腹膜透析（peritoneal dialysis）可作為腎臟替代治療並矯正尿毒與酸鹼異常，雖在需要極快速清除鉀離子時通常不如血液透析，仍比無適應症的血漿置換合理。",
-   "summary": "急性腎損傷合併難治高血鉀與酸中毒需要腎臟替代治療；plasmapheresis 移除的是致病血漿成分，並非一般透析替代方式。",
+   "A": "本項不選。連續性靜脈血液過濾術（CVVH）緩慢持續移除溶質與水分，特別適合血流動力不穩的急性腎損傷。這個病人雖然血壓還穩，它仍是可用的腎臟替代治療。",
+   "B": "本項不選。間歇性血液透析可以最快矯正 K+ 6.5 mEq/L、嚴重酸中毒與尿毒狀態。病人血壓 130/70 mmHg，沒有其他不穩定因素時可以用。",
+   "C": "本項應選。血漿置換術（plasmapheresis）移除的是致病抗體或血漿蛋白，用在 anti-GBM disease、血栓性微血管病那類。這個病人是肺炎併急性腎損傷加高血鉀與酸中毒，沒有這個適應症；而且它清不掉小分子溶質，取代不了透析。",
+   "D": "本項不選。腹膜透析也是腎臟替代治療，能矯正尿毒與酸鹼異常。要非常快清鉀時它不如血液透析，但仍比沒有適應症的血漿置換合理。",
+   "summary": "腎損傷合併高血鉀要「清小分子」——那是透析的工作；血漿置換清的是抗體，兩者目的不同。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -958,11 +958,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "將尿量維持在每日超過 2 L 可降低尿中 calcium 與 oxalate 的過飽和，是預防草酸鈣結石（calcium oxalate stone）復發的核心措施。",
-   "B": "限制飲食鹽分可減少近端鈉與鈣排泄的連動，降低尿鈣，因此有助預防草酸鈣結石復發。",
-   "C": "thiazide 增加遠端腎小管鈣再吸收並降低尿鈣，對合併高血壓及高尿鈣的草酸鈣結石患者可同時控制血壓與降低復發。",
-   "D": "減少飲食鈣會使腸道內可結合 oxalate 的鈣變少，反而增加游離 oxalate 吸收與尿草酸；一般應維持正常飲食鈣，而非採低鈣飲食。",
-   "summary": "草酸鈣結石要多喝水、限鈉並維持正常飲食鈣；低鈣飲食反會增加腸道 oxalate 吸收。",
+   "A": "本項不選。把尿量維持在每天 2 L 以上，可以稀釋尿中的鈣與草酸、降低過飽和度，是預防草酸鈣結石復發的核心措施。",
+   "B": "本項不選。限鹽有效的機轉在腎小管：鈉排得少，鈣就跟著少排。所以限鈉可以降低尿鈣，減少復發。",
+   "C": "本項不選。thiazide 增加遠端腎小管的鈣再吸收，讓尿鈣下降。這位病人本來就有高血壓，一藥兩用剛好。",
+   "D": "本項應選。低鈣飲食反而幫倒忙。腸道裡的鈣本來會抓住草酸一起排掉；鈣少了，游離的草酸吸收變多，尿草酸反而上升。所以要維持正常飲食鈣，不是限制。",
+   "summary": "草酸鈣結石要「多喝水、少吃鹽、鈣照常吃」——限鈣是最常見的錯誤衛教。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1024,11 +1024,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "急性腎損傷（acute kidney injury）沒有能普遍逆轉損傷的特效藥，處置以矯正血流動力、停用腎毒性藥物、治療病因及處理液體與電解質併發症等支持性療法為主。",
-   "B": "等張生理食鹽水可在適當病人接受顯影劑前後提供血管內容積擴充，降低顯影劑相關急性腎損傷風險；實際液體種類與速率仍須依心衰竭及體液狀態調整。",
-   "C": "急性腎損傷合併高血鉀時，ACEi 或 ARB 會降低 aldosterone 作用並減少腎臟排鉀，暫停使用可避免高血鉀進一步惡化。",
-   "D": "羥乙基澱粉溶液（hydroxyethyl starch）在重症或敗血症病人會增加急性腎損傷與接受腎臟替代治療的風險，不應用來「改善」低血容積引起的腎損傷；復甦應優先使用 crystalloid。",
-   "summary": "AKI 治療以支持性處置與去除病因為主；hydroxyethyl starch 具有腎毒性風險，不是低血容積復甦的合適液體。",
+   "A": "本項不選。急性腎損傷沒有能普遍逆轉損傷的特效藥。處置就是矯正血流動力、停用腎毒性藥物、治療病因，再處理液體與電解質併發症。",
+   "B": "本項不選。等張生理食鹽水可以在適當病人打顯影劑前後擴充血管內容積，降低顯影劑相關腎損傷。實際液體種類與速率仍要依心衰竭與體液狀態調整。",
+   "C": "本項不選。ACEi 與 ARB 會降低 aldosterone 作用、減少腎臟排鉀。急性腎損傷又合併高血鉀時暫停使用，可以避免血鉀繼續往上衝。",
+   "D": "本項應選。方向剛好相反：羥乙基澱粉（hydroxyethyl starch）在重症或敗血症病人反而**增加**急性腎損傷與需要透析的風險。低血容積復甦要用晶體液（crystalloid），不是它。",
+   "summary": "AKI 沒有特效藥，靠支持治療；而 hydroxyethyl starch 是會傷腎的液體，不能拿來復甦。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1057,11 +1057,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "NSAID 可引起 minimal change disease 或 membranous nephropathy 而造成腎病症候群，但本題尿試紙蛋白陰性、總尿蛋白卻接近 4.9 g/g 的落差提示主要不是 albumin，應先考慮 overflow proteinuria。",
-   "B": "anti-phospholipase A2 receptor 抗體用於評估原發性膜性腎病變（primary membranous nephropathy）；該病以 albuminuria 為主，尿試紙通常會呈明顯蛋白陽性，與本題不符。",
-   "C": "血清免疫電泳（immunoelectrophoresis）有助偵測 monoclonal immunoglobulin；尿試紙主要偵測 albumin，若總蛋白很高但試紙陰性，應懷疑 light-chain overflow proteinuria，並進一步做血清／尿液免疫固定與 free light chain 評估。",
-   "D": "低劑量 ARB 可降低腎絲球內壓與 albuminuria，但在尚未確認 monoclonal gammopathy 或 plasma cell disorder 前，只做降蛋白尿治療不能處理病因，並非首選的病因性處置。",
-   "summary": "總尿蛋白達腎病範圍但試紙陰性是非 albumin 蛋白的線索，應優先查 monoclonal light chain，而不是直接當作一般腎絲球性 albuminuria。",
+   "A": "本項不選。NSAID 確實可能造成微小病變或膜性腎病變而導致腎病症候群。但這題有個矛盾：尿試紙蛋白是陰性、總尿蛋白卻接近 4.9 g/g。這個落差代表漏出來的主要不是白蛋白。",
+   "B": "本項不選。anti-phospholipase A2 receptor 抗體是用來評估原發性膜性腎病變的。那個病以白蛋白尿為主，尿試紙一定會明顯陽性，跟這題對不上。",
+   "C": "正確答案。關鍵在於尿試紙只驗得到白蛋白。總蛋白很高但試紙陰性，就要懷疑是輕鏈（light chain）造成的溢出性蛋白尿。所以下一步是血清免疫電泳，再加上血清／尿液免疫固定與 free light chain。",
+   "D": "本項不選。低劑量 ARB 可以降低腎絲球內壓與白蛋白尿，但在還沒確認有沒有單株免疫球蛋白病變前，只做降蛋白尿治療等於沒處理病因。",
+   "summary": "尿蛋白很多但試紙陰性＝漏的不是白蛋白，要往骨髓瘤的輕鏈查——這個落差就是唯一線索。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -12866,11 +12866,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "鏈球菌感染後腎絲球腎炎（poststreptococcal glomerulonephritis）常在咽炎後約 1–3 週出現急性腎炎症候群，伴 C3 下降、血尿、RBC cast、水腫及高血壓，與題幹高度相符。",
-   "B": "肉芽腫性多血管炎（granulomatosis with polyangiitis，舊稱 Wegener’s granulomatosis）可造成 rapidly progressive glomerulonephritis，但屬 pauci-immune ANCA-associated vasculitis，血清補體通常正常；本題「明顯補體下降」使其最不可能。",
-   "C": "紅斑性狼瘡腎炎（lupus nephritis）因 immune complex 活化 classical complement pathway，常見 C3、C4 下降，亦可表現為血尿、RBC cast、蛋白尿與腎功能惡化。",
-   "D": "感染性心內膜炎（infective endocarditis）可形成 immune complex glomerulonephritis，造成低補體、血尿、蛋白尿與腎功能下降；持續發燒也可支持此鑑別。",
-   "summary": "急性腎炎合併低補體要想 immune-complex disease；pauci-immune ANCA vasculitis 的補體通常正常。",
+   "A": "本項不選。鏈球菌感染後腎絲球腎炎典型在咽炎後 1–3 週發作，表現是急性腎炎症候群加上 C3 下降、血尿、紅血球圓柱（RBC cast）、水腫與高血壓。這題完全對得上。",
+   "B": "本項應選。肉芽腫性多血管炎（granulomatosis with polyangiitis，舊稱 Wegener's granulomatosis）屬於寡免疫（pauci-immune）的 ANCA 相關血管炎，血清補體通常是**正常**的。題目寫「明顯的補體下降」，所以它最不可能。",
+   "C": "本項不選。紅斑性狼瘡腎炎是免疫複合體活化古典補體路徑，所以 C3、C4 都會下降，也會有血尿、紅血球圓柱、蛋白尿與腎功能惡化。",
+   "D": "本項不選。感染性心內膜炎會形成免疫複合體腎絲球腎炎，同樣造成低補體、血尿與蛋白尿。而且病人持續發燒，這個鑑別要留著。",
+   "summary": "急性腎炎先看補體：低補體是免疫複合體病，補體正常才想 ANCA 血管炎。",
    "guideline": "FC 醫學(三)第4冊 p.84"
   },
   "source": "110080/302_11",
@@ -12899,11 +12899,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "近端腎小管功能障礙見於 Fanconi syndrome，可造成 bicarbonate、phosphate、glucose 與 amino acids 流失；不是 Bartter syndrome 的病灶。",
-   "B": "正確。巴特氏症候群（Bartter syndrome）主要是亨利氏環粗上升支（thick ascending limb）的 Na-K-2Cl cotransporter 或相關通道功能異常，生理效應類似 loop diuretic。",
-   "C": "遠端腎小管 Na-Cl cotransporter 缺陷造成 Gitelman syndrome，生理效應類似 thiazide，常伴 hypomagnesemia 與低尿鈣，應與 Bartter syndrome 區分。",
-   "D": "集尿小管的 ENaC 過度活化可見 Liddle syndrome，抑制則可見 pseudohypoaldosteronism；這些疾病的血壓與 aldosterone 表現不同於 Bartter syndrome。",
-   "summary": "Bartter syndrome 病灶在 thick ascending limb，像 loop diuretic；Gitelman syndrome 病灶在 distal convoluted tubule，像 thiazide。",
+   "A": "本項不選。近端腎小管功能障礙是 Fanconi syndrome，會漏掉 bicarbonate、phosphate、glucose 與胺基酸。那不是巴特氏症候群的位置。",
+   "B": "正確答案。巴特氏症候群（Bartter syndrome）的病灶在亨利氏環粗上升支（thick ascending limb），問題出在 Na-K-2Cl cotransporter 或相關通道。所以它的生理效應就像一直在吃 loop diuretic。",
+   "C": "本項不選。遠端腎小管的 Na-Cl cotransporter 缺陷是 Gitelman syndrome，效應像 thiazide，還常合併低血鎂與低尿鈣。兩者要分清楚。",
+   "D": "本項不選。集尿小管的 ENaC 過度活化是 Liddle syndrome，功能不足則是假性低醛固酮症。這些病的血壓與醛固酮表現都與巴特氏症候群不同。",
+   "summary": "把兩個症候群對到兩種利尿劑：Bartter 像 loop diuretic（粗上升支）、Gitelman 像 thiazide（遠曲小管）。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -12965,11 +12965,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "健康、非懷孕的性活躍女性即使達無症狀性菌尿（asymptomatic bacteriuria）菌落數門檻，也不建議常規抗生素治療，因無臨床效益且會增加抗藥性與藥物副作用。",
-   "B": "懷孕 12 週的無症狀性菌尿應接受適合孕期的抗生素治療，因未治療會增加腎盂腎炎、早產與低出生體重風險；療程後也需依產科流程追蹤。",
-   "C": "糖尿病女性的無症狀性菌尿不因糖尿病本身而常規治療；研究未顯示治療可降低 symptomatic UTI 或腎臟併發症。",
-   "D": "長期導尿管男性幾乎必然形成 bacteriuria；無症狀時使用抗生素無法根除 biofilm，反而選擇抗藥菌，只有出現 symptomatic infection 才治療。",
-   "summary": "無症狀性菌尿常規治療的國考重點是懷孕與特定侵入性泌尿道處置；健康非孕婦、糖尿病與長期導尿者通常不治療。",
+   "A": "本項不選。健康、沒懷孕的性活躍女性即使菌落數達標，也不建議常規治療。治療沒有臨床效益，只會增加抗藥性與藥物副作用。",
+   "B": "正確答案。懷孕 12 週的無症狀性菌尿一定要治療，因為不治療會增加腎盂腎炎、早產與低出生體重的風險。要選孕期安全的抗生素，療程後還要依產科流程追蹤。",
+   "C": "本項不選。糖尿病本身不構成治療無症狀性菌尿的理由。研究沒有顯示治療能降低有症狀的泌尿道感染（UTI）或腎臟併發症。",
+   "D": "本項不選。長期放導尿管的人幾乎一定會有菌尿。沒有症狀時給抗生素殺不掉生物膜（biofilm），只會篩選出抗藥菌；要等真的出現症狀性感染才治療。",
+   "summary": "無症狀性菌尿只有兩種人要治：孕婦，以及要接受侵入性泌尿道處置的人。",
    "guideline": null,
    "concepts": [
     "asymptomatic-bacteriuria-treatment-indications"
@@ -13001,11 +13001,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "血液透析（hemodialysis）能有效維持末期腎臟病生命，但需固定血管通路與透析時程，且長期整體存活與生活品質通常不及適合接受移植者的腎臟移植。",
-   "B": "腹膜透析（peritoneal dialysis）提供居家治療與較大的生活自主性，但有腹膜炎、超濾失敗等限制；對合適的年輕病人，長期整體效益仍通常不及成功腎臟移植。",
-   "C": "連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration）是加護病房中血流動力不穩定急性病人的短期連續性治療，不是穩定末期腎臟病的長期替代療法。",
-   "D": "腎臟移植（renal transplantation）對無明顯禁忌的末期腎臟病患者，通常提供最佳長期存活與生活品質，並可免除規律透析；仍須承擔手術及終身免疫抑制風險。",
-   "summary": "合適的末期腎臟病患者以成功腎臟移植的長期存活與生活品質最佳；CVVH 不是慢性長期療法。",
+   "A": "本項不選。血液透析能有效維持生命，但要固定血管通路與固定時程。以長期存活與生活品質來說，通常不及適合移植者接受移植。",
+   "B": "本項不選。腹膜透析可以在家做、自主性較高，但有腹膜炎與超濾失敗等限制。對這位沒有其他病史的 54 歲病人，整體效益仍不及成功的移植。",
+   "C": "本項不選。連續性靜脈對靜脈血液過濾術（CVVH）是加護病房裡給血流動力不穩病人的短期治療，根本不是穩定末期腎病的長期方案。",
+   "D": "正確答案。沒有明顯禁忌的末期腎病病人，腎臟移植的長期存活與生活品質最好，還能免除規律透析。代價是手術風險與終身免疫抑制，但整體仍最有利。",
+   "summary": "末期腎病能移植就移植——透析是維持生命，移植才是把生活還給病人。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -14253,11 +14253,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。反覆嘔吐造成胃酸與 chloride 流失、低血容積及 chloride-responsive metabolic alkalosis；腎臟會強力保留 chloride，尿氯通常 <20 mmol/L。",
-   "B": "題目所列 mOsmol 單位下，低血容積會活化 ADH 與腎臟濃縮尿液，因此尿液滲透壓多會高於而非低於 300 mOsm/kg H2O；不能由本題推論稀釋尿。",
-   "C": "題目所列 mOsmol 單位下，估算血漿滲透壓主要受 Na+ 支配，本題 Na+ 136 mmol/L，沒有支持血液滲透壓 <270 mOsm/kg H2O 的明顯低鈉。",
-   "D": "嘔吐造成 volume contraction 與 aldosterone 上升，加上 alkalosis 使遠端鈉輸送增加，會促進腎臟排鉀；尿鉀不一定 <10 mmol/L，且病人已出現低血鉀。",
-   "summary": "嘔吐造成 chloride-responsive contraction alkalosis，典型尿氯 <20 mmol/L；低血容積時尿液反而濃縮，並可能持續腎性排鉀。",
+   "A": "正確答案。反覆嘔吐把胃酸與氯一起吐掉，造成低血容積與「氯反應性」代謝性鹼中毒。這時腎臟會死命把氯留住，所以尿氯通常 <20 mmol/L。這一項正是這個機轉的直接推論。",
+   "B": "本項不選。低血容積會活化 ADH，腎臟反而把尿濃縮起來。所以尿液滲透壓多半高於 300 mOsmol/kg H2O，不是低於。",
+   "C": "本項不選。血漿滲透壓主要由 Na+ 決定，這位病人 Na+ 136 mmol/L 並沒有明顯低鈉。沒有理由推論血液滲透壓 <270 mOsmol/kg H2O。",
+   "D": "本項不選。嘔吐造成容積收縮、醛固酮上升，加上鹼中毒讓遠端鈉輸送增加，腎臟反而持續排鉀。所以尿鉀不一定 <10 mmol/L——病人已經低血鉀（K+ 2.9）就是證據。",
+   "summary": "嘔吐後的鹼中毒是「缺氯」造成的：尿氯 <20 是招牌，而且腎臟還在漏鉀，所以血鉀會低。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -14286,11 +14286,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "5% 葡萄糖水進入體內後等同提供 free water，不能有效擴充血管內容積或補回 chloride；即使加入 KCl，也不足以矯正本題低血壓的 chloride-responsive contraction alkalosis。",
-   "B": "0.45% NaCl 是低張液，對血壓 88/50 mmHg 的明顯低血容積病人，血管內容積復甦效率不如 0.9% NaCl；雖含 KCl，仍不是最適合的初始液體。",
-   "C": "題幹的「20 mmolKCl」意指 20 mmol KCl；0.9% NaCl 同時補充有效循環容積與 chloride，關閉維持代謝性鹼中毒的 RAAS／遠端鈉再吸收機轉；加入 KCl 可矯正 K+ 2.9 mmol/L，因此最符合處置需求。",
-   "D": "lactated Ringer’s solution 可用於容量復甦，但 lactate 代謝後產生 bicarbonate equivalent，且未額外補鉀，對明顯 hypochloremic、hypokalemic metabolic alkalosis 不如 0.9% NaCl 加 KCl 直接。",
-   "summary": "嘔吐造成的低血容積、低氯、低鉀代謝性鹼中毒，首選 0.9% NaCl 補 chloride 與容量並加 KCl。",
+   "A": "本項不選。5% 葡萄糖水進到體內等於只給自由水，撐不起血管內容積，也補不回氯。就算加了 KCl，也矯正不了這位血壓 88/50 mmHg 病人的鹼中毒。",
+   "B": "本項不選。0.45% NaCl 是低張液，對明顯低血容積的人擴充效率不如 0.9% NaCl。雖然有加 KCl，仍不是最適合的初始液體。",
+   "C": "正確答案。0.9% NaCl 一次做兩件事：補回有效循環容積，同時補回氯。這樣才關得掉維持鹼中毒的 RAAS 與遠端鈉再吸收機轉。再加 20 mmol KCl（題幹印成「20 mmolKCl」，就是這個意思）矯正 K+ 2.9 mmol/L，正好對症。",
+   "D": "本項不選。lactated Ringer's solution 可以復甦容量，但 lactate 代謝後會產生等同 bicarbonate 的鹼，對已經鹼中毒的人方向不對，而且它沒有額外補鉀。",
+   "summary": "缺氯造成的鹼中毒就要補氯：0.9% NaCl 加 KCl；Ringer's 會再產鹼，方向相反。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -14805,11 +14805,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "spironolactone 阻斷 mineralocorticoid receptor，減少集尿管排鉀，典型副作用是高血鉀而非低血鉀；腎功能不全或合併 ACEi／ARB 時風險更高。",
-   "B": "輕度且臨床穩定的低血鉀（hypokalemia）以口服 KCl 較安全，可逐步補充總體鉀缺損；靜脈補鉀保留給嚴重、症狀性、有 ECG 變化或無法口服者。",
-   "C": "高血鎂（hypermagnesemia）並非低血鉀的典型伴隨；低血鉀常與低血鎂（hypomagnesemia）並存；缺鎂會增加腎臟排鉀，使低血鉀難以矯正，因此應同時檢查並補充 Mg，而不是預期高血鎂。",
-   "D": "將 KCl 加入葡萄糖液會刺激 insulin 分泌，使鉀移入細胞而短暫加重血鉀下降；需要靜脈補鉀時通常選不含葡萄糖的溶液並依安全速率與監測給藥。",
-   "summary": "穩定輕度 低血鉀（hypokalemia）優先口服 KCl；同時找 hypomagnesemia，靜脈補鉀避免葡萄糖液造成 insulin 驅動的細胞內移。",
+   "A": "本項敘述錯誤。spironolactone（Aldactone）阻斷礦物皮質素受體，減少集尿管排鉀，典型副作用是**高**血鉀不是低血鉀。腎功能不全或合併 ACEi／ARB 時風險更高。",
+   "B": "正確答案。輕度又臨床穩定的低血鉀，優先口服 KCl 比較安全，可以慢慢補回總體鉀的缺損。靜脈補鉀留給嚴重、有症狀、心電圖（ECG）有變化或無法口服的人。",
+   "C": "本項敘述錯誤。方向寫反了：低血鉀常合併的是**低**血鎂。而且缺鎂會讓腎臟一直排鉀，鉀怎麼補都補不起來，所以要同時驗鎂並補鎂。",
+   "D": "本項敘述錯誤。把 KCl 加進葡萄糖液會刺激胰島素分泌，把鉀趕進細胞內，血鉀反而先掉下去。需要靜脈補鉀時通常選不含葡萄糖的溶液，並依安全速率監測給藥。",
+   "summary": "補鉀三個要點：能吃就口服、順便驗鎂、靜脈補鉀別配葡萄糖（會把鉀壓進細胞）。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -24862,11 +24862,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "血漿置換（plasmapheresis）可移除 donor-specific antibodies，是抗體媒介排斥（antibody-mediated rejection）的常用治療之一。",
-   "B": "靜脈免疫球蛋白（intravenous immunoglobulin）可調節抗體與免疫反應，常與 plasmapheresis 合併治療 antibody-mediated rejection。",
-   "C": "anti-IL2 receptor antibody 主要用於移植誘導治療，針對 T-cell activation；本題 C4d 沉積與 endothelial injury 指向 antibody-mediated rejection，因此不適合。",
-   "D": "rituximab 以 CD20+ B cells 為標的，可用於部分 antibody-mediated rejection 個案以減少抗體來源。",
-   "summary": "C4d 沉積加內皮損傷提示 antibody-mediated rejection；治療著重移除／抑制抗體，而非 anti-IL2 receptor induction。",
+   "A": "本項不選。血漿置換（plasmapheresis）可以把捐贈者特異性抗體洗掉，是抗體媒介排斥的常用治療。",
+   "B": "本項不選。靜脈免疫球蛋白可以調節抗體與免疫反應，常和血漿置換合併使用，是同一套處置的一部分。",
+   "C": "本項應選。切片看到 C4d 沉積加內皮細胞損傷，講的是**抗體**媒介的排斥。anti-IL2 receptor 單株抗體針對的是 T 細胞活化，而且主要用在移植的誘導治療，方向不對。",
+   "D": "本項不選。rituximab 打的是 CD20 陽性的 B 細胞，等於斷掉抗體的來源，部分抗體媒介排斥個案會用。",
+   "summary": "C4d ＋ 內皮損傷＝抗體媒介排斥，治療全部圍著「清抗體」轉；打 T 細胞的藥在這裡沒用。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -24902,11 +24902,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "「consume a low-calcium diet」並不適當：低鈣飲食會增加腸道 oxalate 吸收及草酸鈣結石風險，並非一般結石預防建議。",
-   "B": "「need not modulate urine pH」是官方答案；官方答案表示不需調整尿液 pH。尿沉渣圖上是一顆顆信封狀（正八面體）的結晶，這是二水草酸鈣的典型形態。草酸鈣結石的溶解度幾乎不隨尿液酸鹼值變動，所以調整尿液 pH 沒有意義；真正該做的是多喝水、限制鈉與草酸攝取，並維持正常鈣質攝取。",
-   "C": "tiopronin 或 penicillamine 用於 cystinuria，藉 thiol 結合 cystine 增加溶解度；非 cystine stone 不應使用。",
-   "D": "高劑量 vitamin C 會代謝成 oxalate，可能增加 hyperoxaluria 與 calcium oxalate stone，不建議用於結石預防。",
-   "summary": "結石預防必須依晶體種類：calcium oxalate 不採低鈣或高劑量 vitamin C，cystine stone 才考慮 thiol drugs。",
+   "A": "本項不選。低鈣飲食反而會讓腸道能結合草酸的鈣變少，游離草酸吸收增加，草酸鈣結石風險上升。這不是一般的結石預防建議。",
+   "B": "正確答案。尿沉渣圖上是一顆顆信封狀（正八面體）的結晶，這是二水草酸鈣的典型形態。草酸鈣結石的溶解度幾乎不隨尿液酸鹼值變動，所以調整尿液 pH 沒有意義。真正該做的是多喝水、限制鈉與草酸攝取，並維持正常鈣質攝取。",
+   "C": "本項不選。tiopronin 與 penicillamine 是用來治胱胺酸尿症（cystinuria）的：靠 thiol 結合 cystine 增加溶解度。不是胱胺酸結石就不該用。",
+   "D": "本項不選。高劑量 vitamin C 在體內會代謝成草酸，反而可能造成高草酸尿與草酸鈣結石，不能拿來預防。",
+   "summary": "結石預防要先看結晶種類：草酸鈣調 pH 沒用，胱胺酸才用 thiol 類藥物。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -24935,11 +24935,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "以 24 hours 收集尿蛋白時，急性間質性腎炎（acute interstitial nephritis）常見 sterile pyuria、顯微血尿與輕度蛋白尿，通常低於 1 g/day。",
-   "B": "AIN 是 intrinsic AKI，tubular dysfunction 使 fractional excretion of sodium 常 >1%，但此指標會受利尿劑及病程影響。",
-   "C": "PPI-related AIN 通常只有輕度蛋白尿；nephrotic-range proteinuria 特別聯想到 NSAID-associated AIN 合併 minimal change disease，而非 PPI 的常見表現。",
-   "D": "原發免疫反應動力學（kinetics）具有延遲性；藥物性 AIN 的 delayed hypersensitivity 常在暴露後數日至數週出現 creatinine 上升，符合免疫反應時間軸。",
-   "summary": "AIN 多呈 pyuria、血尿、輕度蛋白尿與數日至數週 AKI；PPI 並不典型造成 nephrotic-range proteinuria。",
+   "A": "本項不選。急性間質性腎炎（acute interstitial nephritis, AIN）的尿液分析典型是無菌性膿尿、顯微血尿加輕度蛋白尿，通常低於 1.0 g/24 hours。",
+   "B": "本項不選。AIN 屬於腎實質本身的急性腎損傷（AKI），腎小管功能受損會讓鈉排出率（FENa）常大於 1.0%。要注意這個指標會被利尿劑與病程影響。",
+   "C": "本項應選。氫離子幫浦阻斷劑（PPI）造成的 AIN 通常只有輕度蛋白尿。會出現腎病症候群程度蛋白尿的，是 NSAID 相關的 AIN 合併微小病變——藥物不同，表現也不同。",
+   "D": "本項不選。藥物性 AIN 是遲發型過敏，暴露後要數日到數週才讓肌酸酐上升。這個時間軸正好符合原發性免疫反應的動力學。",
+   "summary": "AIN 的蛋白尿是「輕度」；看到腎病症候群程度的蛋白尿要想 NSAID 那條路，不是 PPI。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -24973,11 +24973,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "自體顯性多囊性腎臟病（autosomal dominant polycystic kidney disease）是最常見遺傳性腎病之一，也是成人遺傳性 ESKD 的重要原因。",
-   "B": "典型 ADPKD 多由 PKD1（16p13.3）或 PKD2（4q21）變異造成；PKD1 通常較早進展。",
-   "C": "ADPKD 確實增加 intracranial aneurysm 風險，但高風險重點是家族史、既往 aneurysm／SAH、高風險職業等，並非「男性且小於 30 歲盛行率較高」，故題目的年齡與性別描述不成立。",
-   "D": "ADPKD 囊腫組織可維持 erythropoietin 產生，嚴重貧血有時較少；進展至 ESKD 仍可接受 dialysis 或 kidney transplantation。",
-   "summary": "ADPKD 的腦動脈瘤篩檢看家族史與個人風險，不以年輕男性作為典型最高盛行族群。",
+   "A": "本項不選。自體顯性多囊性腎臟病（ADPKD）是最常見的遺傳性腎臟疾病，也是成人遺傳性末期腎病（ESKD）的重要原因。",
+   "B": "本項不選。兩個致病基因與位置都寫對了：PKD1 在 16p13.3、PKD2 在 4q21-q23。臨床上 PKD1 那型通常進展比較快。",
+   "C": "本項應選。腦動脈瘤風險確實增加（約 3.2%~10%），但真正決定要不要篩檢的是家族史、本人曾有動脈瘤或蛛網膜下腔出血（SAH）、高風險職業這些。題目說「男性較高、特別是小於 30 歲」並不成立。",
+   "D": "本項不選。ADPKD 的囊腫組織還能製造紅血球生成素（erythropoietin），所以嚴重貧血相對少見。進展到尿毒症時一樣可以透析或移植。",
+   "summary": "ADPKD 要篩腦動脈瘤看的是家族史，不是年齡性別；而它比一般末期腎病「比較不貧血」。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25006,11 +25006,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "第一型膜增生性腎絲球腎炎（type I membranoproliferative glomerulonephritis, MPGN）可呈腎病症候群（nephrotic syndrome）並增加血栓風險，但其關聯不如 membranous nephropathy 強。",
-   "B": "局部節段性腎絲球硬化（focal segmental glomerulosclerosis）造成大量蛋白尿時亦可能血栓，但不是原發腎病中最典型者。",
-   "C": "膜性腎病變（membranous nephropathy）在腎病症候群（nephrotic syndrome）中具有特別高的 venous thromboembolism 風險，尤其 albumin 極低時常見 renal vein thrombosis。",
-   "D": "微小變化病（minimal change disease）也會因 urinary antithrombin loss 等機轉呈高凝狀態，但成人整體風險通常低於 membranous nephropathy。",
-   "summary": "所有腎病症候群（nephrotic syndrome）都可能高凝，其中 membranous nephropathy 與 renal vein thrombosis 的關聯最具代表性。",
+   "A": "本項不選。第一型膜增生性腎絲球腎炎（MPGN）也會有腎病症候群並增加血栓風險，但與血栓的關聯不如膜性腎病變強。",
+   "B": "本項不選。局部節段性腎絲球硬化（FSGS）大量蛋白尿時同樣可能血栓，但它不是原發性腎病裡最典型的那個。",
+   "C": "正確答案。膜性腎病變（membranous nephropathy）在所有腎病症候群裡血栓風險特別高，尤其白蛋白掉得很低時，腎靜脈栓塞（renal vein thrombosis）最具代表性。",
+   "D": "本項不選。微小變化病（minimal change disease）也會因為抗凝血酶（antithrombin）從尿裡流失而高凝，但成人整體風險低於膜性腎病變。",
+   "summary": "腎病症候群都會高凝，但「膜性腎病變＋腎靜脈栓塞」是考題裡固定的一對。",
    "guideline": null,
    "concepts": [
     "nephrotic-syndrome-definition"
@@ -25047,11 +25047,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "主細胞（principal cell）經 ENaC 再吸收 Na+，並經 ROMK／BK 分泌 K+；不是主要負責鉀再吸收。",
-   "B": "aldosterone 作用於 principal cell 增加 ENaC 與排鉀；amiloride 等 K+-sparing diuretics 及 aldosterone antagonists 也以此區段為主要作用位置。",
-   "C": "A 型間細胞（type A intercalated cell）分泌 H+ 並將新生 HCO3− 回收至血液，與選項敘述方向相反。",
-   "D": "B 型間細胞（type B intercalated cell）經 pendrin 向管腔分泌 HCO3− 並回收 H+，不是分泌酸、再吸收 bicarbonate。",
-   "summary": "Collecting duct：principal cell 管 Na+/K+/水；type A intercalated cell 排酸，type B intercalated cell 排 bicarbonate。",
+   "A": "本項敘述錯誤。主細胞（principal cell）靠 ENaC 再吸收 Na+，再經 ROMK／BK 通道**分泌**鉀，不是負責再吸收鉀。",
+   "B": "正確答案。這三類藥都作用在主細胞：醛固酮增加 ENaC 與排鉀；amiloride 這類保鉀利尿劑與醛固酮拮抗劑則反過來擋住它。所以它們的作用位置一致。",
+   "C": "本項敘述錯誤。A 型間細胞是**分泌** H+、把新生的 HCO3− 送回血液，和選項寫的方向剛好相反。",
+   "D": "本項敘述錯誤。B 型間細胞經 pendrin 往管腔分泌 HCO3−、把 H+ 收回來，也和選項寫的相反。兩型間細胞正好互為鏡像。",
+   "summary": "集尿管分工：主細胞管鈉鉀與水，A 型間細胞排酸、B 型間細胞排鹼——兩型方向相反。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25085,11 +25085,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "非出血性休克的容量復甦優先使用 isotonic crystalloid，而非 colloid；之後須依反應避免 fluid overload。",
-   "B": "重症 AKI 不應用低蛋白飲食刻意延後 dialysis，這會加重 catabolism 與 malnutrition；蛋白供給應配合病情與是否接受 腎臟替代治療（renal replacement therapy）。",
-   "C": "在 euvolemia 下進行 furosemide stress test，可用尿量反應協助預測 AKI 進展與可能需要 腎臟替代治療（renal replacement therapy）。",
-   "D": "低劑量 dopamine 未證實能預防或治療 AKI，反而有 arrhythmia 等風險，因此不建議使用。",
-   "summary": "AKI 不可用營養不足換取延後透析；支持療法包含適當 crystalloid、充分營養並避免無效的 low-dose dopamine。",
+   "A": "本項不選。非出血性休克的容量復甦優先用等張晶體溶液，不用膠體液。之後要依反應調整，避免變成體液過多。",
+   "B": "本項應選。用低蛋白飲食去「拖延透析」是錯的做法。重症本來就處於高分解狀態，限制蛋白只會加重異化與營養不良。蛋白攝取要配合病情與是否接受腎臟替代治療，不是拿來換取延後透析。",
+   "C": "本項不選。在體液容積足夠的前提下做 furosemide stress test，用尿量反應可以協助預測急性腎損傷會不會惡化到需要透析。",
+   "D": "本項不選。低劑量 dopamine 沒被證實能預防或治療急性腎損傷，反而有心律不整等風險，所以不建議使用。",
+   "summary": "AKI 不能靠餓病人來延後透析；營養要給足，該透析就透析。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -35957,11 +35957,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "溶質性利尿（solute diuresis）排出大量 osmoles，使尿量增加但 尿液滲透壓（urine osmolality）仍 >300 mOsm/kg；本題每日 3.5 L、450 mOsm/kg 最符合。",
-   "B": "原發性多飲症（primary polydipsia）攝入過多 free water，ADH 受抑制，尿液通常高度稀釋而非 450 mOsm/kg。",
-   "C": "中樞性尿崩症（central diabetes insipidus）缺乏 ADH，典型為大量低張尿，尿液滲透壓（urine osmolality）多 <300 mOsm/kg。",
-   "D": "腎源性尿崩症（nephrogenic diabetes insipidus）是腎臟不回應 ADH，同樣產生大量稀釋尿，不符合本題濃度。",
-   "summary": "Polyuria 配 尿液滲透壓（urine osmolality） >300 指向 solute diuresis；<300 才優先考慮 water diuresis。",
+   "A": "正確答案。判斷多尿先看尿液滲透壓。這位病人每天 3500 mL（3.5 L）、尿液滲透壓 450 mosmol/L，仍高於 300 mOsm/kg，代表尿裡帶走的是大量溶質而不是純水——這就是溶質性利尿。",
+   "B": "本項不選。原發性多飲症是喝進太多自由水，ADH 被抑制，尿液應該高度稀釋，不會是 450 mOsm/kg。",
+   "C": "本項不選。中樞性尿崩症缺乏 ADH，典型是大量低張尿，尿液滲透壓多半小於 300 mOsm/kg。",
+   "D": "本項不選。腎源性尿崩症是腎臟對 ADH 沒反應，同樣排出大量稀釋尿，與本題的濃度對不上。",
+   "summary": "多尿先看尿液滲透壓：>300 是溶質性利尿，<300 才往水利尿（尿崩症或多飲）想。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -36826,11 +36826,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "marked protein-energy malnutrition 並非馬兜鈴酸腎病變（aristolochic acid nephropathy）的特徵；此病主要是毒性 chronic tubulointerstitial nephritis。",
-   "B": "「rapid progression to renal failure」符合本病：馬兜鈴酸會造成進行性 tubulointerstitial fibrosis，腎功能可快速惡化至 ESKD。",
-   "C": "馬兜鈴酸具有強烈 carcinogenicity，會增加 upper urinary tract urothelial carcinoma 與 bladder cancer 風險。",
-   "D": "disproportionate anemia 可早於嚴重 azotemia 出現，是 aristolochic acid nephropathy 常見線索之一。",
-   "summary": "Aristolochic acid nephropathy 的組合是快速進展 tubulointerstitial fibrosis、明顯貧血與 urothelial cancer 風險。",
+   "A": "本項應選。明顯的蛋白質—熱量營養不良不是馬兜鈴酸腎病變的特徵。這個病的本質是毒性造成的慢性間質性腎炎，不是營養問題。",
+   "B": "本項不選。馬兜鈴酸會造成進行性的間質纖維化，腎功能可以快速惡化到末期腎病（ESKD），「快速進展」正是它的招牌。",
+   "C": "本項不選。馬兜鈴酸有很強的致癌性，會提高上泌尿道泌尿上皮癌與膀胱癌的風險，所以確診後要長期追蹤。",
+   "D": "本項不選。與腎功能不成比例的貧血常常比明顯氮血症更早出現，是這個病很有用的線索。",
+   "summary": "馬兜鈴酸腎病變三件事：進展快、貧血特別重、會長泌尿上皮癌。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -36867,7 +36867,7 @@
   },
   "explanation": {
    "A": "α1 blocker 可促進部分 distal ureteral stone 排出，但發燒合併疑似阻塞時不能以 medical expulsive therapy 延誤引流。",
-   "B": "",
+   "B": "正確答案。這是「阻塞加感染」的泌尿科急症，處置優先序是先引流、再談排石。病人左腰痛、血尿又發燒 38.3℃，代表阻塞的系統裡已經有感染。膿液被關在封閉的集尿系統裡，抗生素進不去，隨時可能變成敗血症。所以要立刻照會泌尿科放輸尿管導管或做經皮腎造廔引流，同時給抗生素。圖上兩張片子對照就看得出來：10 分鐘的攝影中，右側集尿系統與輸尿管已經清楚顯影，左側（症狀側）卻沒有相對應的正常顯影，代表那一側排泄被擋住了。",
    "C": "經驗性 antibiotics 必須儘快給予，但若有 infected obstruction，單用抗生素無法解除封閉膿尿系統，source control 同樣緊急。",
    "D": "止痛與大量喝水只適用無感染、無高風險阻塞的 uncomplicated renal colic；感染性阻塞可能進展為 sepsis。",
    "summary": "Obstructed infected urinary tract 是泌尿急症：緊急引流加抗生素，不能只觀察排石。",
@@ -36899,11 +36899,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "methyldopa 有長期妊娠使用經驗，可作為孕期慢性高血壓選項之一。",
-   "B": "long-acting calcium channel blocker（常用 nifedipine）是孕期可用降壓藥。",
-   "C": "labetalol 是妊娠高血壓常用第一線藥物之一，但須注意 asthma、bradycardia 等禁忌。",
-   "D": "ACE inhibitors 會造成胎兒腎功能損害、oligohydramnios 與其他 fetopathy，妊娠期間禁用；也不能用來預防 pre-eclampsia。",
-   "summary": "孕期高血壓可用 labetalol、long-acting nifedipine 或 methyldopa；ACEi／ARB 必須停用。",
+   "A": "本項不選。methyldopa 在孕期有很長的使用經驗，是慢性高血壓孕婦可用的選項之一。",
+   "B": "本項不選。長效鈣離子通道阻斷劑（常用 nifedipine）也是孕期可以用的降壓藥。",
+   "C": "本項不選。labetalol 是妊娠高血壓常用的第一線藥，只要注意氣喘與心搏過慢這些禁忌。",
+   "D": "本項應選。ACE inhibitors 在懷孕期間是禁用的：會造成胎兒腎功能損害、羊水過少與其他胎兒病變。而且它也不能拿來預防子癇前症。",
+   "summary": "孕期降壓三選一：labetalol、長效 nifedipine、methyldopa；ACEi／ARB 一律停掉。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -36937,11 +36937,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "FSGS 可呈 proteinuria、hematuria、hypertension 與 impaired kidney function；大量蛋白尿與起始腎功能差預示較高 ESKD 風險。",
-   "B": "FSGS 病灶呈 focal distribution 且早期常在 juxtamedullary glomeruli；切片太淺可能漏掉病灶而誤認 minimal change disease。",
-   "C": "collapsing FSGS 具有 glomerular tuft collapse 與 podocyte hyperplasia，通常進展快速且預後差，不是較好。",
-   "D": "secondary FSGS 應處理 obesity、reduced nephron mass、virus 或 drug 等原因並做 supportive therapy，一般不以 steroid 免疫抑制治療。",
-   "summary": "FSGS 須取到 juxtamedullary glomeruli；collapsing variant 是侵襲性高、預後差的型態。",
+   "A": "本項不選。FSGS 可以表現為蛋白尿、血尿、高血壓與腎功能不全。一開始就有大量蛋白尿又腎功能差的人，進入透析、走向末期腎病（ESKD）的風險比較高。",
+   "B": "本項不選。FSGS 的病灶是局部分布的，而且早期常在近髓質的腎絲球。切片位置太淺就可能整片正常，被誤判成微小病變。",
+   "C": "本項應選。方向講反了：塌陷型（collapsing）FSGS 有腎絲球叢塌陷與足細胞增生，進展快、預後**差**，不是比較好。",
+   "D": "本項不選。續發性 FSGS 要處理的是肥胖、腎元數量減少、病毒或藥物這些根本原因，加上支持治療，一般不用類固醇免疫抑制。",
+   "summary": "FSGS 切片要取夠深（近髓質）；看到 collapsing 型別就是預後最差的那一種。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -36976,11 +36976,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "近端腎小管（proximal tubule）具有 constitutive 高水通透性，主要靠 AQP1，並非由 ADH 調節。",
-   "B": "Henle 氏環下行枝（descending limb）也以 AQP1 呈高度水通透，並不依賴 ADH 開關。",
-   "C": "官方更正接受遠端腎小管（distal convoluted tubule）；較精確地說，ADH 可增加 late distal tubule／connecting segment 的水通透性，早期 DCT 則仍不透水。",
-   "D": "集尿管（collecting duct）是 ADH 經 V2 receptor 促使 AQP2 插入 apical membrane 的主要位置，因此 D 明確正確。",
-   "summary": "官方更正「C、D 或 CD 均給分」反映 distal tubule 用語範圍；生理核心是 late distal nephron 與 collecting duct 對 ADH 反應。",
+   "A": "本項不選。近端腎小管靠 AQP1 本來就一直高度透水，不需要 ADH 開關。",
+   "B": "本項不選。Henle 氏環下行枝同樣以 AQP1 保持高透水性，也不受 ADH 調節。",
+   "C": "本項應選（官方更正接受）。比較精確的說法是：ADH 可以增加遠端小管後段與連接段的水通透性，但早期的遠曲小管（DCT）仍然不透水。因為題目用語範圍模糊，官方把 C 也列入給分。",
+   "D": "本項應選。集尿管（collecting duct, CD）才是 ADH 的主場：ADH 經 V2 receptor 讓 AQP2 插到管腔側細胞膜上，水才通得過。這一項明確正確。",
+   "summary": "受 ADH 調控的是遠端腎元後段與集尿管（AQP2）；近端與下行枝的 AQP1 是一直開著的。",
    "guideline": null,
    "concepts": [
     "adh-responsive-nephron-segments"
@@ -37017,11 +37017,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "顯影劑相關 AKI 的直接 tubular toxicity 與 reactive oxygen species 主要傷害 tubular epithelial cells，不是直接以 glomerulus 為主要標的。",
-   "B": "contrast-associated AKI 的 creatinine 常在 24–48 小時上升、約 3–5 日達高峰並於一至數週恢復，不是 10–14 日才達高峰。",
-   "C": "顯影劑的劑量、滲透壓與重複暴露會影響 AKI 風險，應使用最低必要劑量並避免不必要重複。",
-   "D": "既有 CKD 是最重要風險因子之一；multiple myeloma 若合併 CKD、volume depletion 或高鈣也會增加風險。",
-   "summary": "Contrast-associated AKI 風險取決於既有腎病、體液狀態與 contrast dose，creatinine 通常數日內達高峰。",
+   "A": "本項敘述錯誤。顯影劑經活性氧（reactive oxygen species）造成的直接毒性，主要傷的是腎小管上皮細胞，不是直接以腎絲球為標的。",
+   "B": "本項敘述錯誤。時間軸不對：顯影劑相關急性腎損傷的肌酸酐通常 24–48 小時就開始上升、約 3–5 日達高峰，再於一至數週恢復。不是 10～14 天才達高峰。",
+   "C": "本項敘述錯誤。顯影劑的劑量、滲透壓與重複暴露都會影響風險，所以原則是用最低必要劑量、避免不必要的重複檢查。",
+   "D": "正確答案。既有腎臟疾病是最重要的危險因子。多發性骨髓瘤（multiple myeloma）若再合併慢性腎病、脫水或高血鈣，風險更高——這位病人 BUN 從 30 升到 70 mg/dL、肌酸酐 1.5 升到 4.5 mg/dL，正是典型病程。",
+   "summary": "顯影劑腎病變幾天內就達高峰，而且風險看「本來腎好不好」——骨髓瘤加脫水最危險。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -38751,11 +38751,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "高血糖（hyperglycemia）使 extracellular tonicity 上升、水由細胞內移出而稀釋血鈉，因此 低血鈉（hyponatremia）評估必須先校正 glucose。",
-   "B": "全身水腫（edema）提示高容積性低血鈉（hypervolemic hyponatremia），常見於 heart failure、cirrhosis 或 advanced kidney disease 的有效循環容積下降。",
-   "C": "是否給 3% saline 取決於嚴重神經症狀與急慢性，而非單以 Na+ <130 mEq/L；無症狀慢性低鈉不應一律緊急高張鹽水。",
-   "D": "慢性或病程不明的嚴重 低血鈉（hyponatremia）通常限制 correction 約 6–8 mEq/L/24 h，高風險者更保守，以避免 滲透性脫髓鞘（osmotic demyelination）。",
-   "summary": "Hyponatremia 的緊急度看症狀，不只看數字；高張鹽水用於 seizures、coma 等 severe symptoms 並嚴控矯正速率。",
+   "A": "本項不選。高血糖會把細胞內的水拉到細胞外而稀釋血鈉，所以評估低血鈉一定要先看血糖、必要時做校正。",
+   "B": "本項不選。有全身水腫代表是高容積性低血鈉，要往心臟衰竭、肝硬化或晚期腎病去想——這些都是有效循環容積下降。",
+   "C": "本項應選。要不要給 3% 高張鹽水，取決於有沒有嚴重神經症狀以及是急性還是慢性，不是看血鈉有沒有低於 130 mEq/L。無症狀的慢性低血鈉一律衝高張鹽水反而危險。",
+   "D": "本項不選。慢性或病程不明的嚴重低血鈉，矯正速度通常限制在每 24 小時 6–8 mEq/L 以內，高風險者更保守，就是為了避免滲透性脫髓鞘。",
+   "summary": "低血鈉的急不急看「症狀」不看數字；矯正速度每天不超過 6–8 mEq/L，衝太快會脫髓鞘。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -47921,11 +47921,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "心衰竭降低 cardiac output 時，心臟與腦部仍會優先維持灌流；藥效不會概括地相對減低，反而可能因 clearance 下降而增強。",
-   "B": "心衰竭造成 gut edema 與 hypoperfusion，常使口服藥吸收變慢或不可靠，而非增加。",
-   "C": "心衰竭降低 renal perfusion 與 hepatic blood flow，腎／肝 clearance 通常下降，不是增加。",
-   "D": "老年人即使 serum creatinine 看似正常，也可能因 muscle mass 下降而掩蓋 GFR 減少；renal drug clearance 可下降約 35–50%，須依腎功能調整劑量。",
-   "summary": "高齡與心衰竭都可能降低 drug clearance；正常 creatinine 不等於正常 GFR。",
+   "A": "本項不選。心衰竭時心輸出量下降，但心臟與腦部的灌流仍被優先維持。藥效不會一概減低，反而可能因為清除率下降而增強。",
+   "B": "本項不選。心衰竭造成腸道水腫與灌流不足，口服藥的吸收通常變慢、變得不可靠，不是增加。",
+   "C": "本項不選。心衰竭會降低腎臟灌流與肝臟血流，所以腎與肝的廓清率通常是**下降**的。",
+   "D": "正確答案。老年人即使血清肌酸酐看起來正常，也可能因為肌肉量減少而掩蓋了下降的 GFR。腎藥物廓清率可以掉到只剩六至七成（下降約 35～50%），所以劑量要依實際腎功能調整。",
+   "summary": "老人的肌酸酐正常不代表腎功能正常——肌肉少，肌酸酐本來就低，劑量要照 GFR 調。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -84564,7 +84564,7 @@
    "A": "Myeloma cast nephropathy 常有 monoclonal light chains、較急劇 AKI，尿蛋白試紙可能低估；本題年輕女性、慢性小腎與 disproportionate anemia 不典型。",
    "B": "Allergic interstitial nephritis 多為藥物後 acute/subacute AKI，常有 pyuria、WBC casts 或 systemic allergy，不符合半年進展與小型腎。",
    "C": "Chronic uric acid nephropathy 與 longstanding hyperuricemia／gout 相關，單一尿酸 8.0 mg/dL 無法解釋 severe disproportionate anemia 與典型慢性 tubulointerstitial picture。",
-   "D": "",
+   "D": "正確答案。把線索排在一起看就成立：33 歲女性、8 個月內肌酸酐從 1.4 升到 2.3 mg/dL、兩側腎臟只有 8.7 與 8.9 公分（已經縮小）、蛋白尿只有 980 mg/24 小時、尿沉渣乾淨（紅血球 0～2/HPF）。最不成比例的是貧血——血紅素 9 掉到 7 g/dL，比腎功能該有的程度嚴重得多，這正是馬兜鈴酸腎病變（aristolochic acid nephropathy）的特色。病理圖也對得上：兩顆腎絲球相對完整、細胞數不多，周邊間質卻明顯纖維化，腎小管萎縮、管腔擴張而上皮變扁，發炎細胞反而稀疏——典型的少細胞性間質纖維化。診斷後一定要長期追蹤泌尿上皮癌，那是它最危險的併發症。",
    "summary": "年輕女性快速進展 CKD、小腎、bland sediment 與重度貧血提示 aristolochic acid nephropathy，並須追蹤 urothelial cancer。",
    "guideline": null
   },
@@ -128904,7 +128904,7 @@
   "fc_ref": null,
   "explanation": {
    "A": "馬兜鈴酸腎病變源自含 aristolochic acid 草藥，典型 chronic tubulointerstitial fibrosis、小腎與 urothelial cancer；題幹主要暴露是 analgesics。",
-   "B": "",
+   "B": "正確答案。關鍵是病史加影像兩件事對上。病人痛風發作就自行買消炎止痛藥吃，屬於長期、無監督的 NSAID 暴露，這是止痛藥腎病變的典型情境。未打顯影劑的電腦斷層上，左腎體積偏小、輪廓不平整，腎髓質與腎乳頭的位置可見多顆點狀鈣化沿著腎竇排成一圈——這種環狀（garland）排列的乳頭鈣化，就是腎乳頭壞死癒合後留下的痕跡。電池工廠的鉛暴露是刻意放的鑑別，但鉛腎病變不會有這種乳頭鈣化影像。",
    "C": "電池工廠提示 lead exposure，鉛腎病可造成 hypertension、gout 與 chronic tubulointerstitial disease，但典型影像不以 papillary necrosis 為主；需以 blood lead 等確認。",
    "D": "慢性腎絲球腎炎可造成 proteinuria、hypertension 與 CKD，但無法整合 analgesic exposure 及題目影像所暗示的 papillary disease。",
    "summary": "Analgesic exposure 加 papillary necrosis／calcification 影像指向 analgesic nephropathy；lead 是刻意設置的職業暴露鑑別。",
