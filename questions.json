@@ -1306,11 +1306,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "K-ras（KRAS）突變可見於非小細胞肺癌（non-small cell lung cancer），且會影響特定 KRAS 抑制劑的後線選擇；但在亞裔、不吸菸、肺腺癌女性這個典型臨床表型中，最優先影響第一線標靶治療的是 EGFR。",
-   "B": "正確。EGFR activating mutation 在亞裔、不吸菸的肺腺癌患者較常見；第四期疾病若檢出可使用 EGFR tyrosine kinase inhibitor，因此直接改變第一線治療。",
-   "C": "VEGF receptor 並不是此臨床表型下用來選擇非小細胞肺癌標準標靶治療的主要驅動基因檢測；抗血管新生治療也不是依 VEGF receptor 突變決定。",
-   "D": "BRAF 突變雖是晚期非小細胞肺癌應納入的可治療分子異常之一，但題幹所給的族群特徵與 EGFR 的關聯更強，故不是本題最重要者。",
-   "summary": "亞裔、不吸菸女性的轉移性肺腺癌高度提示 EGFR 驅動突變；現代實務仍應做完整的廣泛分子檢測，而非只驗單一基因。",
+   "A": "本項不選。KRAS 突變在非小細胞肺癌（NSCLC）看得到，也和特定 KRAS 抑制劑的後線選擇有關。但它比較常出現在吸菸者身上，不是這位病人第一線最該先驗的。",
+   "B": "正確答案。亞裔、不吸菸、女性的肺腺癌，EGFR 活化突變的機率很高。第四期若驗到 EGFR 突變，第一線就能直接用 EGFR 酪胺酸激酶抑制劑（TKI），治療反應與副作用都比化療好。",
+   "C": "本項不選。抗血管新生治療不是靠 VEGF receptor 突變來決定用不用。這個基因不在肺癌選標靶藥的驅動基因清單上。",
+   "D": "本項不選。BRAF 突變確實是晚期非小細胞肺癌該一起檢測的可治療標的之一，但在這個族群裡的比例遠低於 EGFR。",
+   "summary": "「亞裔＋不吸菸＋腺癌」是 EGFR 的招牌組合；但實務上仍要做完整的分子檢測，不是只驗一個基因。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1408,11 +1408,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "瀰漫型胃癌（diffuse-type gastric cancer）的黏附力下降，癌細胞可散在浸潤並使整個胃壁僵硬增厚，形成皮革胃（linitis plastica）。",
-   "B": "錯誤。腸型胃癌（intestinal-type gastric cancer）可形成腺體及潰瘍性腫塊，但典型好發於胃竇與小彎側；把賁門部說成其代表性好發處並不恰當。",
-   "C": "CDH1 編碼 E-cadherin；其功能喪失造成細胞間黏附下降，是瀰漫型胃癌的重要分子變化，遺傳性瀰漫型胃癌亦與 germline CDH1 variant 有關。",
-   "D": "腸型胃癌常循慢性胃炎、萎縮、腸化生、異生到癌變的路徑進展，幽門螺旋桿菌（Helicobacter pylori）感染是重要危險因子。",
-   "summary": "胃癌 Lauren 分型：diffuse type 與 E-cadherin 喪失、linitis plastica 相關；intestinal type 與 H. pylori—腸化生路徑相關。",
+   "A": "本項不選。瀰漫型胃癌的癌細胞黏附力差，會散在浸潤整個胃壁，讓胃壁變厚變硬——這就是皮革胃（linitis plastica）。",
+   "B": "本項應選。好發部位寫錯了：腸型胃癌雖然常形成腺體與潰瘍性腫塊，但典型長在**胃竇與小彎側**，不是賁門部。",
+   "C": "本項不選。CDH1 基因編碼 E-cadherin，功能喪失讓細胞黏不住彼此，正是瀰漫型胃癌的重要分子變化。遺傳性瀰漫型胃癌也與 germline CDH1 變異有關。",
+   "D": "本項不選。腸型胃癌走的是「慢性胃炎→萎縮→腸化生→異生→癌」這條路，幽門螺旋桿菌感染是最重要的起點。",
+   "summary": "Lauren 分型記兩條線：瀰漫型走 E-cadherin 失能與皮革胃；腸型走幽門桿菌與腸化生。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1441,11 +1441,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。結直腸癌的 T2 表示腫瘤已侵入固有肌層（muscularis propria），尚未穿越至周圍組織。",
-   "B": "N2 不是只轉移 2 顆區域淋巴結；結直腸癌 N2 表示至少 4 顆區域淋巴結轉移，2 顆屬 N1 的範圍。",
-   "C": "第三期結腸癌的術後輔助治療以含 oxaliplatin 的化學治療為核心；bevacizumab 並未成為此情境的標準輔助治療。",
-   "D": "T2N2M0 因已有區域淋巴結轉移而屬 stage III，不是 stage II；M0 僅表示沒有遠端轉移。",
-   "summary": "結腸癌 T2 侵入 muscularis propria；任何 N-positive、M0 疾病即屬 stage III，N2 代表至少 4 顆區域淋巴結。",
+   "A": "正確答案。結直腸癌的 T2 就是腫瘤已經吃進固有肌層（muscularis propria），但還沒穿出去。T1 停在黏膜下層，T3 才穿過肌層。",
+   "B": "本項敘述錯誤。顆數不對：結直腸癌的 N2 是**至少 4 顆**區域淋巴結轉移，2 顆屬於 N1 的範圍。",
+   "C": "本項敘述錯誤。第三期結腸癌的術後輔助治療核心是含 oxaliplatin 的化學治療。bevacizumab 在這個情境並不是標準輔助治療。",
+   "D": "本項敘述錯誤。**只要有區域淋巴結轉移就是第三期**，跟 T 幾期無關。T2N2M0 是 stage III 不是 stage II，M0 只代表沒有遠端轉移。",
+   "summary": "分期先看 N：N 陽性且 M0 一律 stage III；N2 的門檻是 4 顆淋巴結。",
    "guideline": null,
    "concepts": [
     "colorectal-tnm-basics"
@@ -13227,11 +13227,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "BRCA1/2 等遺傳性癌症易感變異是常染色體顯性遺傳，父系與母系都可傳遞；不能因乳癌親屬在父系就排除遺傳風險。",
-   "B": "正子攝影（positron emission tomography；PET）不適合拿來做無症狀高風險者的年度乳癌篩檢；風險評估後通常依風險程度選擇 mammography、breast MRI 與遺傳諮詢。",
-   "C": "正確。家族中 BRCA-1／BRCA-2 檢測陰性不等於排除遺傳性癌症；若家族腫瘤譜仍可疑，可由遺傳專業人員評估 multigene panel，例如 PALB2、CHEK2、ATM、TP53 等。",
-   "D": "芳香酶抑制劑（aromatase inhibitor）並非僅憑這段家族史即可自行開始；是否使用風險降低藥物須先做正式風險估計，且其適用與停經狀態及不良反應有關。",
-   "summary": "BRCA1/2 陰性不會排除其他遺傳性乳癌基因；父系同樣可傳遞，應先做遺傳諮詢與適當的 multigene testing。",
+   "A": "本項敘述錯誤。BRCA1／BRCA2 這類易感基因是體染色體顯性遺傳，**父系一樣會傳**。這位病人的乳癌親屬在父系，反而更要往父系追。",
+   "B": "本項敘述錯誤。正子攝影（PET）不適合拿來當無症狀者的年度乳癌篩檢，輻射也不必要。高風險者的做法是乳房攝影加乳房磁振造影（MRI），並先做遺傳諮詢。",
+   "C": "正確答案。家族成員 BRCA1／BRCA2 陰性，不代表沒有其他遺傳性癌症基因。家族腫瘤譜還是可疑時，應由遺傳專業評估多基因套組，例如 PALB2、CHEK2、ATM、TP53。",
+   "D": "本項敘述錯誤。芳香環轉化酶抑制劑不是憑一段家族史就能開始吃的。要先做正式的風險估計，而且它的適用還牽涉停經狀態與骨質、關節等副作用。",
+   "summary": "BRCA 陰性只排除了兩個基因，不是排除遺傳；而且父系與母系傳的機率一樣。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -13265,11 +13265,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "結腸癌（colon cancer）可使用 anti-EGFR antibodies，例如 cetuximab 或 panitumumab，但療效選擇須考慮 RAS/BRAF 與原發側別等因素。",
-   "B": "肺癌（lung cancer）若有 EGFR activating mutation，可使用 EGFR tyrosine kinase inhibitors，因此 EGFR 是重要治療標的。",
-   "C": "正確。腸平滑肌惡性肉瘤（intestinal leiomyosarcoma）並非常規使用 EGFR、anti-EGFR 或 anti-HER2 治療的癌別；應依真正的肉瘤組織型與分子特徵選治療。",
-   "D": "HER2-positive 乳癌（breast cancer）可使用 trastuzumab、pertuzumab 等 anti-HER2 therapy，屬 EGFR receptor family 的標靶應用。",
-   "summary": "EGFR family 標靶常見於 RAS wild-type 結直腸癌、EGFR-mutant 肺癌與 HER2-positive 乳癌，而非 intestinal leiomyosarcoma。",
+   "A": "本項不選。結腸癌可以用 anti-EGFR 抗體如 cetuximab、panitumumab。不過要先確認 RAS／BRAF 是野生型，而且原發腫瘤位在左側效果較好。",
+   "B": "本項不選。肺癌只要有 EGFR 活化突變，就能用 EGFR 酪胺酸激酶抑制劑，這是最典型的應用。",
+   "C": "本項應選。腸平滑肌惡性肉瘤是肉瘤不是上皮癌，本來就不走 EGFR 或 HER2 這條路。它要依實際的肉瘤組織型與分子特徵選藥。",
+   "D": "本項不選。HER2 陽性乳癌可以用 trastuzumab、pertuzumab。HER2 屬於 EGFR 受體家族的成員，所以也算在題目問的範圍內。",
+   "summary": "EGFR 家族標靶的三個主場：RAS 野生型結直腸癌、EGFR 突變肺癌、HER2 陽性乳癌——都是上皮來源的癌。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -13412,11 +13412,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "錯誤。膈神經（phrenic nerve）麻痺會造成同側橫膈上升或活動異常；Horner syndrome 是交感神經鏈受侵犯所致，兩者不可混為一談。",
-   "B": "Horner syndrome 的典型表現包括 ptosis、miosis 與 anhidrosis；傳統亦描述 apparent enophthalmos，可見於肺尖腫瘤侵犯頸胸交感神經。",
-   "C": "肺尖溝瘤（Pancoast tumor）可侵犯下臂神經叢，常牽涉 C8–T2 nerve roots，並可同時侵犯交感神經鏈。",
-   "D": "Pancoast syndrome 常先以肩痛表現，疼痛沿手臂內側或尺側向下放射，反映下臂神經叢受侵。",
-   "summary": "肺癌局部侵犯要分清：phrenic nerve palsy 造成橫膈麻痺；cervical sympathetic chain 侵犯才造成 Horner syndrome。",
+   "A": "本項應選。這句把兩條神經混在一起了：膈神經麻痺造成的是同側橫膈上升或活動異常；Horner 氏症候群是**頸胸交感神經鏈**被侵犯才會出現。",
+   "B": "本項不選。Horner 氏症候群的典型是眼皮下垂、瞳孔縮小、同側無汗，傳統上還會描述眼球看起來凹陷（apparent enophthalmos）。",
+   "C": "本項不選。肺尖溝瘤會侵犯下臂神經叢，牽涉 C8 到 T2 神經根，也常一併侵犯旁邊的交感神經鏈——所以 Pancoast 與 Horner 常一起出現。",
+   "D": "本項不選。Pancoast 症候群常先以肩痛表現，痛沿著手臂內側、尺骨側往下放射，這正好反映下臂神經叢受侵。",
+   "summary": "肺尖腫瘤壓到什麼就出現什麼：臂神經叢＝肩臂尺側痛，交感神經鏈＝Horner，膈神經＝橫膈麻痺。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -13445,11 +13445,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。膀胱癌初診時多數屬非肌肉侵犯型（non-muscle-invasive bladder cancer；舊稱 superficial），而非肌肉侵犯或遠端轉移。",
-   "B": "肌肉侵犯型膀胱癌（muscle-invasive bladder cancer）臨床侵襲性較高，但占初診個案少數；其治療與非肌肉侵犯型不同。",
-   "C": "初診即轉移至肺的膀胱癌不是最常見期別；肺可為遠端轉移部位，但 metastatic disease 僅占初診的一小部分。",
-   "D": "轉移（metastatic）型：初診即轉移至肝臟的膀胱癌同樣遠少於 non-muscle-invasive disease，且肝轉移通常代表全身性晚期疾病。",
-   "summary": "膀胱癌初診以 non-muscle-invasive disease 最常見，這也解釋為何經尿道切除與膀胱內治療是重要考點。",
+   "A": "正確答案。膀胱癌大多在還沒吃進肌肉層時就被發現——因為它早期就會**無痛性血尿**，病人會提早就醫。這一型現在叫非肌肉侵犯型（non-muscle-invasive）。",
+   "B": "本項不選。肌肉侵犯型的侵襲性高、治療方式完全不同（要根除性膀胱切除或合併化放療），但只占初診個案的少數。",
+   "C": "本項不選。初診就有肺轉移的膀胱癌只占一小部分。肺確實是常見的遠端轉移部位，但那不是初診時最常見的期別。",
+   "D": "本項不選。初診就有肝轉移更少見，而且肝轉移通常代表全身性的晚期疾病，預後差很多。",
+   "summary": "膀胱癌大多在表淺期就被血尿「揭發」，所以初診以非肌肉侵犯型最多。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -25302,11 +25302,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "官方更正接受 A。Interferon-γ（IFN-γ）通常具有促進抗原呈現及免疫活化等作用，不能概括成腫瘤分泌的『抑制免疫細胞激素』；不過腫瘤微環境中的作用具有情境依賴性。",
-   "B": "腫瘤細胞降低或喪失 class I MHC，可減少腫瘤抗原呈現給 CD8+ T cells，形成免疫逃脫；同時也可能增加 natural killer cell 對 missing-self 的辨識。",
-   "C": "腫瘤可募集或擴增調節型 T 細胞（regulatory T cells），透過免疫抑制性訊號削弱效應 T 細胞功能，協助免疫逃脫。",
-   "D": "官方更正同時接受 D。CTLA-4 主要表現在活化 T cells 與 regulatory T cells，而非典型由腫瘤細胞產生後直接使 cytotoxic T cells 不活化；腫瘤較常利用配體或微環境促成 checkpoint suppression。",
-   "summary": "官方接受 A、D 或 AD：IFN-γ 不宜簡化為抑制性 cytokine，CTLA-4 也主要是 T-cell checkpoint receptor，不是典型腫瘤細胞產物。",
+   "A": "本項應選。這也是官方給分的答案之一。interferon-γ 的角色被寫反了：它主要是**促進**抗原呈現與免疫活化，不能一概當成腫瘤分泌的抑制性細胞激素。它在腫瘤微環境的作用要看情境。",
+   "B": "本項不選。腫瘤降低或失去第一型 MHC，CD8+ T 細胞就認不出腫瘤抗原，這是典型的免疫逃脫。有趣的是這反而讓自然殺手細胞更容易辨識（missing-self）。",
+   "C": "本項不選。腫瘤會把調節型 T 細胞（regulatory T cells）招募或擴增進來，用抑制性訊號壓制效應 T 細胞的功能。",
+   "D": "本項應選。官方同樣接受這一項。位置也錯了：CTLA-4 主要表現在**活化的 T 細胞與調節型 T 細胞**表面，不是腫瘤細胞的產物。腫瘤是靠配體與微環境去啟動這個煞車。",
+   "summary": "本題官方 A、D 或 AD 均給分。兩個錯處都是「角色配錯」：IFN-γ 是活化不是抑制，CTLA-4 長在 T 細胞不是腫瘤細胞。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25373,11 +25373,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "可切除的胰管腺癌（pancreatic ductal adenocarcinoma）術後通常需要約 6 個月的輔助性全身化學治療，以清除微小殘存疾病；方案依體能狀態選擇。",
-   "B": "ESPAC-4 第三期試驗顯示 gemcitabine 加 capecitabine 的術後輔助治療優於 gemcitabine 單藥；其後 modified FOLFIRINOX 亦成為適合患者的重要選項。",
-   "C": "最不恰當。轉移性胰臟癌已有多種 combination chemotherapy 證實比 gemcitabine 單藥改善存活，例如 FOLFIRINOX 或 gemcitabine 加 nab-paclitaxel。",
-   "D": "Gemcitabine-based treatment 後進展的轉移性胰臟癌可使用 liposomal irinotecan 加 5-FU/leucovorin；該組合有隨機試驗的整體存活效益。",
-   "summary": "胰臟癌不再是 gemcitabine 單藥獨大：術後與轉移情境都有已證實改善存活的 combination chemotherapy。",
+   "A": "本項不選。可切除的胰管腺癌術後通常要做約 6 個月的輔助性全身化學治療，把微小殘存病灶清掉。實際方案依體能狀態選。",
+   "B": "本項不選。ESPAC-4 第三期試驗證實 gemcitabine 加 capecitabine 的術後輔助治療優於 gemcitabine 單藥。之後 modified FOLFIRINOX 也成為體能好的病人的重要選項。",
+   "C": "本項應選。事實剛好相反：轉移性胰臟癌已有多個組合化療證實比 gemcitabine 單藥更好，包括 FOLFIRINOX 與 gemcitabine 加 nab-paclitaxel。",
+   "D": "本項不選。gemcitabine 治療後才進展的轉移性胰臟癌，可以用 liposomal irinotecan 加 5-fluorouracil（5-FU） 與 leucovorin，這個組合有隨機試驗支持的整體存活效益。",
+   "summary": "胰臟癌早就不是 gemcitabine 單打獨鬥：術後與轉移兩個情境都有組合化療證實延長存活。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25445,11 +25445,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "泌尿上皮癌（urothelial carcinoma）是原發性膀胱癌最常見的組織型，遠較 squamous cell carcinoma 或 adenocarcinoma 常見。",
-   "B": "低惡性度（low-grade）膀胱腫瘤常涉及 FGFR3 突變或基因融合 pathway；高惡性度腫瘤較常見 TP53、RB1 等 cell-cycle pathway 異常，代表不同分子演化路徑。",
-   "C": "錯誤。膀胱癌初診以非肌肉侵犯型（non-muscle-invasive bladder cancer）占大多數，其次才是 muscle-invasive disease；初診即遠端轉移最少。",
-   "D": "高風險 non-muscle-invasive bladder cancer 經完整 TURBT 後，膀胱內 BCG 可降低復發並降低進展風險；治療前仍需確認是否須 repeat TURBT。",
-   "summary": "膀胱癌多在 non-muscle-invasive stage 被診斷；高風險 NMIBC 的核心治療是完整 TURBT 後 intravesical BCG。",
+   "A": "本項不選。原發性膀胱癌最常見的組織型是泌尿上皮癌，遠比鱗狀上皮癌或腺癌常見。",
+   "B": "本項不選。兩條分子路徑分得很清楚：低惡性度走 FGFR3 突變或基因融合，高惡性度走 TP53、RB1 這些細胞週期路徑的異常。",
+   "C": "本項應選。順序整個顛倒了：實際上非肌肉侵犯型**最多**，其次才是肌肉侵犯型，初診就遠端轉移的最少。",
+   "D": "本項不選。高風險的非肌肉侵犯型膀胱癌（NMIBC；T1、高惡性度、原位癌）在完整經尿道切除之後，膀胱灌注 BCG 可以降低復發與進展。治療前還要評估需不需要再切一次（repeat TURBT）。",
+   "summary": "膀胱癌的分子分型也對應惡性度：FGFR3 走低惡性度、TP53／RB1 走高惡性度。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -26851,11 +26851,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "總鈣可用 corrected calcium = measured calcium + 0.8 × (4.0 − albumin) 估算；代入 16.0 與 2.9 得 16.88 mg/dL，顯示重度高血鈣。",
-   "B": "高血鈣會縮短心室動作電位平台期，心電圖常見 QT interval shortening；嚴重時也可能出現其他傳導或心律異常。",
-   "C": "最不適當。血液透析能有效快速降低嚴重高血鈣，特別適用於危及生命、腎衰竭、體液治療受限或對藥物反應不足者。",
-   "D": "Calcitonin 在數小時內起效，但效果有限且易 tachyphylaxis；IV bisphosphonates 起效較慢、作用較持久，因此急性期常搭配使用。",
-   "summary": "惡性高血鈣：先辨識重度程度；calcitonin 快但短，bisphosphonate 慢但久，必要時 dialysis 可有效降鈣。",
+   "A": "本項不選。算式是 corrected calcium = 實測鈣 + 0.8 × (4.0 − albumin)。代進去：16.0 + 0.8 × (4.0 − 2.9) = 16.0 + 0.88 = 16.88 mg/dL，屬於重度高血鈣。",
+   "B": "本項不選。高血鈣會縮短心室動作電位的平台期，心電圖上就看到 QT 間期縮短。更嚴重時還可能出現傳導異常或心律不整。",
+   "C": "本項應選。血液透析對嚴重高血鈣其實**很有效而且很快**，特別適合危及生命、合併腎衰竭、或無法承受大量輸液的病人。說它效果有限並不正確。",
+   "D": "本項不選。calcitonin 幾小時內就起效，缺點是幅度有限又容易快速失效（tachyphylaxis）；靜脈（IV）雙磷酸鹽起效慢但持久。所以急性期常兩個一起用。",
+   "summary": "惡性高血鈣的三段式：先大量輸液，calcitonin 搶時間，雙磷酸鹽接手；撐不住就上透析。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -37245,11 +37245,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "腦部轉移是妊娠滋養細胞腫瘤（gestational trophoblastic neoplasia）的高風險特徵，會提高 WHO risk score，通常需要 multi-agent chemotherapy。",
-   "B": "先行妊娠至開始治療的間隔若超過 4 個月屬不利因子；題幹所述『懷孕四個月後才發生』措辭較含糊，但考題意旨是較長間隔提高風險。",
-   "C": "正確。肺是妊娠滋養細胞腫瘤最常見的轉移部位；單純肺轉移本身在 FIGO/WHO 計分中屬較低風險部位，未必因此就必須 multi-agent chemotherapy。",
-   "D": "肝臟轉移屬高風險轉移部位，預後較差且計分較高，通常需要 multi-agent chemotherapy 並由專科團隊處理。",
-   "summary": "妊娠滋養細胞腫瘤不能只看『有無轉移』：肺轉移權重較低，腦與肝轉移是高風險部位；治療依總 WHO score 決定。",
+   "A": "本項不選。腦部轉移是妊娠滋養細胞腫瘤的高風險特徵，會拉高 WHO 風險評分，通常需要多種藥物組合化療。",
+   "B": "本項不選。從前次妊娠到開始治療的**間隔超過 4 個月**屬於不利因子，會增加評分。",
+   "C": "本項應選。肺是妊娠滋養細胞腫瘤最常見的轉移部位，在 FIGO／WHO 計分中屬於**權重較低**的轉移部位。單純肺轉移不見得就要用多藥組合化療。",
+   "D": "本項不選。肝臟轉移屬於高風險部位，計分高、預後也較差，通常需要多藥組合化療並由專科團隊處理。",
+   "summary": "妊娠滋養細胞腫瘤不是「有轉移就高風險」：肺的權重低，腦與肝才是高風險部位。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -37283,11 +37283,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "惡性高血鈣可由腫瘤或巨噬細胞增加 calcitriol（1,25-dihydroxyvitamin D）生成造成，特別見於部分淋巴瘤；雖不如 PTHrP 常見，配對仍正確。",
-   "B": "異位性 ACTH 分泌可造成庫欣症候群（Cushing syndrome），經典相關腫瘤包括小細胞肺癌（small-cell lung cancer）與 bronchial carcinoid。",
-   "C": "腫瘤異位分泌 vasopressin 可造成抗利尿激素分泌不當症候群（syndrome of inappropriate antidiuretic hormone secretion），以小細胞肺癌最經典。",
-   "D": "錯誤。Thyroid hormone 不會造成典型惡性高血鈣；最常見 humoral mechanism 是 PTH-related peptide，另可由 calcitriol、骨轉移或少數 ectopic PTH 引起。",
-   "summary": "Paraneoplastic endocrine syndromes 要配對正確介質：SIADH—vasopressin、Cushing—ACTH、高血鈣多為 PTHrP，部分為 calcitriol。",
+   "A": "本項不選。惡性高血鈣可以來自腫瘤或巨噬細胞多做出 calcitriol（1,25-dihydroxyvitamin D），淋巴瘤是代表。雖然不如 PTHrP 常見，配對是對的。",
+   "B": "本項不選。異位性 ACTH 分泌造成庫欣症候群，經典的來源是小細胞肺癌與支氣管類癌。",
+   "C": "本項不選。腫瘤異位分泌 vasopressin 造成抗利尿激素分泌不當症候群（SIADH），最經典的還是小細胞肺癌。",
+   "D": "本項應選。甲狀腺素不會造成惡性高血鈣。最常見的體液性機轉是 PTH-related peptide，其次是 calcitriol、骨轉移的局部溶骨，極少數才是異位 PTH。",
+   "summary": "副腫瘤內分泌症候群要背對介質：SIADH 配 vasopressin、庫欣配 ACTH、高血鈣主要配 PTHrP。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -37392,11 +37392,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Cisplatin-based chemotherapy 的睪丸癌存活者，長期較易出現 hypertension、dyslipidemia、metabolic syndrome 與 cardiovascular disease，須納入追蹤。",
-   "B": "錯誤。高累積 etoposide 暴露會增加 therapy-related acute myeloid leukemia，且可見 11q23/KMT2A rearrangement，但其絕對風險遠非 80%；題項把相對少見的風險嚴重誇大。",
-   "C": "接受 cisplatin-based chemotherapy 後，長期第二原發 solid tumor 風險可上升；存活追蹤須同時處理可修正的致癌與心血管危險因子。",
-   "D": "放射治療暴露區域的第二原發 solid tumor 風險可在多年後上升，風險與照射部位、劑量及追蹤時間有關。",
-   "summary": "睪丸癌治癒後須認識 late effects；etoposide-related AML 確實存在，但『絕對風險 80%』是明顯錯誤。",
+   "A": "本項不選。用過含 cisplatin 化療的睪丸癌存活者，長期比較容易出現高血壓、高血脂、代謝症候群與心血管事件，追蹤時要一起管。",
+   "B": "本項應選。數字被誇大了：高累積劑量 etoposide 確實會增加治療相關的急性骨髓性白血病（AML），也常見 11q23／KMT2A 重排，但**絕對風險遠遠不到 80%**，實際上是相當低的百分比。",
+   "C": "本項不選。接受過 cisplatin 化療後，長期第二個原發固態腫瘤的風險會上升。所以存活者追蹤要同時處理可以改變的致癌與心血管危險因子。",
+   "D": "本項不選。放射治療照射過的區域，多年後第二原發固態腫瘤的風險會上升，程度與照射部位、劑量和追蹤時間有關。",
+   "summary": "睪丸癌治癒後的長期副作用是真的，但要分清「風險上升」與「絕對風險很高」——這題錯在後者。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -49069,11 +49069,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "腫瘤侷限子宮頸屬早期子宮頸癌（cervical cancer），相較於侵犯陰道、骨盆壁或鄰近器官，5-year prognosis 最佳。",
-   "B": "侵犯陰道下 1/3 屬局部晚期範圍，預後差於僅侷限子宮頸，但尚未等同直接侵犯膀胱或直腸黏膜的最晚局部分期。",
-   "C": "侵犯骨盆側壁（pelvic sidewall）代表 stage IIIB 的局部侵犯，預後不佳；但題目各選項中，膀胱侵犯所代表的 stage IVA 更晚。",
-   "D": "正確。直接侵犯膀胱黏膜屬 FIGO stage IVA，代表侵犯鄰近器官，四個臨床狀況中 5-year prognosis 最差。",
-   "summary": "子宮頸癌局部侵犯愈遠預後愈差：pelvic sidewall 為 IIIB；侵犯膀胱或直腸黏膜進入 IVA。",
+   "A": "本項不選。腫瘤只侷限在子宮頸屬於早期，四個情況裡 5 年預後**最好**。",
+   "B": "本項不選。侵犯到陰道下 1/3 屬於局部晚期，預後比侷限在子宮頸差，但還沒到直接侵犯鄰近器官的程度。",
+   "C": "本項不選。侵犯骨盆側壁是 stage IIIB，預後已經不好。但和選項 D 相比，它還沒吃到鄰近器官。",
+   "D": "正確答案。直接侵犯膀胱黏膜是 FIGO stage IVA，代表腫瘤已經穿到鄰近器官，四個情況裡 5 年預後最差。",
+   "summary": "子宮頸癌照「侵犯得多遠」排：侷限＜陰道下 1/3＜骨盆側壁（IIIB）＜膀胱或直腸黏膜（IVA）。",
    "guideline": null,
    "concepts": [
     "cervical-cancer-local-staging"
@@ -49223,11 +49223,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Karnofsky 100 分才表示無症狀、正常活動；70 分已無法進行正常工作，不能說活動及工作皆不受限制。",
-   "B": "整日臥床且完全無法自理接近 Karnofsky 10–20 分的嚴重失能，不是 70 分。",
-   "C": "正確。Karnofsky 70 分表示能自行照顧自己，但無法從事正常活動或工作，通常不需持續他人照護。",
-   "D": "日常生活需要相當多協助與頻繁醫療照顧較接近 Karnofsky 40 分；70 分仍保有 self-care。",
-   "summary": "Karnofsky 70 的分界意義是『能 self-care，但不能工作或維持 normal activity』。",
+   "A": "本項不選。活動與工作都不受限制是 Karnofsky 100 分——完全無症狀、一切正常。",
+   "B": "本項不選。整日臥床、完全無法自理落在 Karnofsky 10～20 分那一段，是接近臨終的狀態。",
+   "C": "正確答案。Karnofsky 70 分的分界就在這裡：**還能自己照顧自己，但已經不能工作或維持正常活動**。這個分數通常還不需要別人持續照顧。",
+   "D": "本項不選。日常生活需要相當多協助與頻繁醫療照顧比較接近 Karnofsky 40 分。70 分的人自我照顧能力還在。",
+   "summary": "Karnofsky 記三個關卡：100 分完全正常、70 分能自理但不能工作、40 分需要別人相當多的協助。",
    "guideline": null,
    "concepts": [
     "karnofsky-performance-status"
@@ -49298,11 +49298,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Anastrazole（通用名 anastrozole）是 nonsteroidal aromatase inhibitor，可降低周邊組織將 androgen 轉成 estrogen 的作用，常用於 hormone receptor-positive breast cancer。",
-   "B": "Exemestane 是 steroidal、irreversible aromatase inhibitor，藥理類別仍屬芳香酶抑制劑。",
-   "C": "Letrozole 是 nonsteroidal aromatase inhibitor，與 anastrozole 同樣抑制 estrogen synthesis。",
-   "D": "正確。Tamoxifen 是 selective estrogen receptor modulator，主要在乳房拮抗 estrogen receptor；它不抑制 aromatase。",
-   "summary": "Anastrozole、letrozole、exemestane 都是 aromatase inhibitors；tamoxifen 是 estrogen receptor modulator。",
+   "A": "本項不選。anastrazole（通用名 anastrozole）是非固醇類芳香酶抑制劑，阻斷周邊組織把雄性素轉成雌激素，用在荷爾蒙受體陽性乳癌。",
+   "B": "本項不選。exemestane 是固醇類、不可逆的芳香酶抑制劑，藥理類別仍屬同一家。",
+   "C": "本項不選。letrozole 和 anastrozole 一樣是非固醇類芳香酶抑制劑，同樣抑制雌激素合成。",
+   "D": "本項應選。tamoxifen 是選擇性雌激素受體調節劑（SERM），它在乳房組織上**擋住受體**，並不抑制芳香酶。兩者作用的環節完全不同。",
+   "summary": "同樣是抗雌激素但機轉分兩層：芳香酶抑制劑斷貨源，tamoxifen 擋門口的受體。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -49336,11 +49336,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "HPV16 是 HPV-related 口咽癌（oropharyngeal cancer）最重要的 high-risk genotype，常以 p16 immunohistochemistry 作替代性標記。",
-   "B": "西方國家口咽癌發生率的上升與 high-risk HPV infection 增加相關，尤其是 tonsil 與 tongue base 等 oropharyngeal sites。",
-   "C": "錯誤。HPV-related oropharyngeal squamous cell carcinoma 整體上對治療反應較佳，預後通常優於 HPV-unrelated disease；分期系統也反映此差異。",
-   "D": "Epstein–Barr virus（EBV）與非角化型鼻咽癌（nasopharyngeal cancer）高度相關，尤其在 endemic populations。",
-   "summary": "頭頸癌病毒配對：HPV16—口咽癌且通常預後較佳；EBV—鼻咽癌。",
+   "A": "本項不選。HPV 16 是 HPV 相關口咽癌最重要的高風險型別，臨床上常用 p16 免疫染色當替代標記。",
+   "B": "本項不選。西方國家口咽癌發生率上升，就是因為高風險 HPV 感染增加，好發部位在扁桃腺與舌根。",
+   "C": "本項應選。預後說反了：HPV 相關的口咽鱗狀上皮癌對治療反應**比較好**、預後也比 HPV 無關者佳。分期系統甚至為此把兩者分開計算。",
+   "D": "本項不選。Epstein-Barr 病毒與非角化型鼻咽癌高度相關，在流行地區（包括台灣）尤其重要。",
+   "summary": "頭頸癌兩組病毒配對：HPV 16 配口咽癌（預後較好）、EBV 配鼻咽癌。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -49374,11 +49374,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。腋下淋巴轉移本身不是乳房保留手術（breast-conserving surgery）的禁忌；需另依淋巴結負荷規劃 axillary management 與放射治療。",
-   "B": "同側乳房存在無法由單一保留性切除取得陰性邊緣的多中心病灶，會妨礙 breast conservation，常被視為禁忌或需個別評估。",
-   "C": "腫瘤侵犯 nipple-areola complex 會使保留乳房及乳頭的手術較困難；是否能 breast conservation 取決於能否完整切除並獲得可接受的外觀與陰性邊緣。",
-   "D": "部分膠原血管疾病（collagen-vascular disease），尤其活動性 scleroderma，會增加放射治療嚴重毒性；因 breast conservation 通常需術後放療，故屬重要相對禁忌。",
-   "summary": "乳房保留手術的關鍵是能否陰性邊緣切除並安全完成放療；axillary node positivity 本身不排除 breast conservation。",
+   "A": "本項應選。腋下淋巴轉移**不是**乳房保留手術的禁忌。有淋巴結轉移只是要另外規劃腋下的處理方式與放射治療範圍，乳房本身仍可以保留。",
+   "B": "本項不選。同側乳房如果有多中心病灶、無法用一次保留性切除拿到乾淨邊緣，就會妨礙保留手術，通常視為禁忌或需個別評估。",
+   "C": "本項不選。腫瘤侵犯乳頭乳暈複合體時，能不能保留要看切乾淨之後的外觀還能不能接受，屬於難度很高的情況。",
+   "D": "本項不選。部分膠原血管疾病，尤其是活動期的硬皮症，做放射治療的嚴重毒性風險很高。而保留手術後幾乎都要放療，所以這是重要的相對禁忌。",
+   "summary": "能不能保留乳房只問兩件事：切得乾淨嗎、術後放療做得下去嗎——淋巴結有沒有轉移不影響這兩題。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -50449,11 +50449,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。卵巢癌復發合併巨大腹部腫塊、腹水、腹脹與嘔吐，最符合惡性腸阻塞（malignant bowel obstruction）；腫瘤可直接壓迫腸道或造成腹膜播散與腸蠕動障礙。",
-   "B": "腦壓增加（increased intracranial pressure）也可造成噁心、嘔吐，但通常伴頭痛、意識或局部神經學異常；題幹的巨大腹部腫塊與腹水更直接指向腸阻塞。",
-   "C": "情緒低落（depression）可能降低食慾，但不能合理解釋腹部鼓脹、巨大腫塊及反覆嘔吐的整體表現。",
-   "D": "高血鈣（hypercalcemia）可引起噁心、便祕與倦怠，但題幹未提供高鈣線索，反而有明顯的機械性腹部病灶。",
-   "summary": "晚期卵巢癌出現腹脹、巨大腹部腫塊、噁心與嘔吐時，應優先考慮腹膜播散或腫瘤造成的 malignant bowel obstruction。",
+   "A": "正確答案。卵巢癌復發加上腹脹、腹水、還有一個 10×30 cm 的腫塊，最符合惡性腸阻塞。腫瘤可以直接壓迫腸道，也可能因腹膜播散讓腸子蠕動不動。",
+   "B": "本項不選。腦壓上升確實會噁心嘔吐，但通常伴隨頭痛、意識改變或局部神經學徵象。這位病人的線索全部集中在腹部。",
+   "C": "本項不選。情緒低落會降低食慾，但解釋不了腹部鼓脹、巨大腫塊與反覆嘔吐這一整組表現。",
+   "D": "本項不選。高血鈣會噁心、便祕與倦怠，但題目沒給任何高血鈣的線索，反而給了很明確的機械性腹部病灶。",
+   "summary": "晚期卵巢癌病人嘔吐，先想惡性腸阻塞——腹脹＋腹水＋摸得到腫塊就是它的三件套。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -61081,11 +61081,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Anthracycline-based chemotherapy、抗賀爾蒙治療與放射治療涵蓋化療、ER/PR-positive disease 與乳房保留術後局部控制，但缺少 HER2-directed therapy，未完整處理 HER2 3+ 的高風險特徵。",
-   "B": "Taxane-based chemotherapy、抗賀爾蒙治療與放射治療同樣漏掉 trastuzumab；對 HER2-positive、node-positive 乳癌而言，省略 anti-HER2 therapy 會失去重要的復發與死亡風險降低效益。",
-   "C": "化學治療合併卵巢去功能手術可處理停經前的 hormone receptor-positive disease，但仍未涵蓋 HER2 標靶，且卵巢抑制並不能取代完整的抗賀爾蒙與 HER2-directed strategy。",
-   "D": "正確。此腫瘤同時為 HER2-positive 與 hormone receptor-positive，且有 2 顆腋下淋巴結轉移；術後應整合 chemotherapy、trastuzumab、endocrine therapy 與乳房保留術後 radiation，以同時降低局部及遠端復發。",
-   "summary": "Triple-positive、node-positive 乳癌的輔助治療必須同時處理 HER2、荷爾蒙受體與局部控制，不能省略 trastuzumab。",
+   "A": "本項不選。anthracycline 為主的化療加抗荷爾蒙加放療，涵蓋了化療、荷爾蒙受體陽性與保留術後的局部控制。**但漏掉 HER2 標靶**，而這位病人的 HER2 是 3+。",
+   "B": "本項不選。換成紫杉醇為主一樣少了 trastuzumab。對 HER2 陽性又有淋巴結轉移的病人來說，省掉抗 HER2 治療會失去很大的復發與死亡風險降低效益。",
+   "C": "本項不選。卵巢去功能可以處理停經前的荷爾蒙受體陽性疾病，但既沒涵蓋 HER2 標靶，也不能取代完整的抗荷爾蒙策略；而且做了保留手術就一定要放療。",
+   "D": "正確答案。這位病人是 ER 陽性、PR 陽性、HER2 3+ 的三重陽性，腫瘤 3 公分又有 2 顆腋下淋巴結轉移。四條線要同時做：化療、trastuzumab、抗荷爾蒙治療，再加乳房保留術後的放射治療。",
+   "summary": "三重陽性又有淋巴結轉移，四個治療缺一不可——最容易被漏掉的是 trastuzumab。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -61114,11 +61114,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "CK（cytokeratin）7+、CK20+ 的轉移腺癌（metastatic adenocarcinoma）可見於胰膽道、部分卵巢黏液性腫瘤及 urothelial carcinoma；免疫表型只能縮小範圍，仍須配合器官特異標記。",
-   "B": "CK（cytokeratin）7+、CK20− 可見於肺腺癌、乳癌、甲狀腺癌及多數子宮內膜癌；例如肺原發可再用 TTF-1、Napsin A 支持。",
-   "C": "錯誤。CK（cytokeratin）7−、CK20+ 經典提示 colorectal origin 或 Merkel cell carcinoma；前列腺癌與甲狀腺癌通常不是這個組合，應分別依 PSA/NKX3.1 與 TTF-1/thyroglobulin 等標記判斷。",
-   "D": "CK（cytokeratin）7−、CK20− 可見於 hepatocellular carcinoma、renal cell carcinoma、prostate cancer 等；需再用 HepPar-1/arginase-1、PAX8 或 NKX3.1 等標記確認。",
-   "summary": "Unknown primary 的 CK7/CK20 pattern 是初篩而非定論；CK7−/CK20+ 最典型指向 colorectal origin，不是 prostate 或 thyroid。",
+   "A": "本項不選。細胞角蛋白（cytokeratin, CK）7+／CK20+ 的轉移腺癌可見於胰膽道、部分卵巢黏液性腫瘤與泌尿上皮癌。免疫表型只能縮小範圍，還要配器官特異標記。",
+   "B": "本項不選。CK7+／CK20− 可見於肺腺癌、乳癌、甲狀腺癌與大多數子宮內膜癌。想確認是不是肺原發，可以再加 TTF-1、Napsin A。",
+   "C": "本項應選。這個組合的經典答案是**大腸直腸癌**或 Merkel cell carcinoma，不是前列腺癌或甲狀腺癌。前列腺要看 PSA／NKX3.1，甲狀腺要看 TTF-1／thyroglobulin。",
+   "D": "本項不選。CK7−／CK20− 可見於肝細胞癌、腎細胞癌與前列腺癌，接下來再用 HepPar-1／arginase-1、PAX8 或 NKX3.1 把它們分開。",
+   "summary": "CK7／CK20 只是第一輪縮小範圍：CK7−／CK20+ 幾乎就是往大腸直腸想，之後仍要靠器官特異標記定案。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -61223,11 +61223,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Doxorubicin 傳統 cytotoxic chemotherapy 對典型 clear-cell renal cell carcinoma 效果有限，不是第四期腎細胞癌（metastatic renal cell carcinoma）的常用主力。",
-   "B": "正確。Axitinib 是 VEGFR tyrosine kinase inhibitor，可用於 metastatic renal cell carcinoma；現代常見用法包括與 immune checkpoint inhibitor 合併。",
-   "C": "Trastuzumab 針對 HER2，主要用於 HER2-positive breast、gastric 等癌症；腎細胞癌並不以 HER2 overexpression 作為常規治療標的。",
-   "D": "Sipuleucel-T 是針對特定 metastatic castration-resistant prostate cancer 的 cellular immunotherapy，不是腎細胞癌治療。",
-   "summary": "轉移性腎細胞癌對傳統 chemotherapy 不敏感，治療以 VEGF pathway targeted therapy 與 immune checkpoint blockade 為核心。",
+   "A": "本項不選。傳統細胞毒性化療如 doxorubicin，對典型的亮細胞型腎細胞癌效果很有限。這也是腎細胞癌治療早期一直進展不了的原因。",
+   "B": "正確答案。axitinib 是 VEGFR 酪胺酸激酶抑制劑。腎細胞癌是血管非常豐富的腫瘤，所以打血管新生這條路才有效。現在常見的做法是把它和免疫檢查點抑制劑合併使用。",
+   "C": "本項不選。trastuzumab 針對的是 HER2，用在 HER2 陽性的乳癌與胃癌。腎細胞癌不以 HER2 過度表現為治療標的。",
+   "D": "本項不選。sipuleucel-T 是針對轉移性去勢抗性前列腺癌的細胞免疫治療，器官與適應症都對不上。",
+   "summary": "腎細胞癌不吃傳統化療：治療走血管新生（VEGF）與免疫檢查點兩條路。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -61261,11 +61261,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "B 型肝炎疫苗可預防慢性 HBV infection，因而降低肝硬化與肝細胞癌（hepatocellular carcinoma）風險，屬以感染預防癌症的典型例子。",
-   "B": "若接種前尚未感染該 HPV type，HPV vaccine 對該型別 persistent infection 有高度預防效果；疫苗是預防性而非治療既有感染。",
-   "C": "若接種前未感染相應型別，HPV vaccine 可降低該型別造成的 cervical、vulvar、vaginal、anal 等 precancerous lesions。",
-   "D": "錯誤。HPV vaccine 可產生長期免疫記憶且目前保護力持續良好，但不能據此斷言每位接種者都有『終生免疫』；仍需依追蹤資料與公共衛生建議判斷。",
-   "summary": "HPV vaccine 能預防尚未感染型別的 persistent infection 與 precancer，但『已證實終生免疫』是過度斷言。",
+   "A": "本項不選。B 型肝炎疫苗預防的是慢性 HBV 感染，連帶降低肝硬化與肝細胞癌的風險。這是「打疫苗預防癌症」最早的成功例子。",
+   "B": "本項不選。接種前還沒感染該型別的人，HPV 疫苗對該型的持續感染有高度預防效果。要注意疫苗是**預防性**的，治不了已經存在的感染。",
+   "C": "本項不選。同樣在未感染的前提下，HPV 疫苗能降低該型別造成的子宮頸、外陰、陰道與肛門癌前病變。",
+   "D": "本項應選。話說得太滿了：HPV 疫苗確實能產生長期免疫記憶、目前追蹤到的保護力也很好，但**還不能斷言「終生免疫」**。這要看長期追蹤資料與公共衛生建議。",
+   "summary": "疫苗題的常見陷阱是把「長期有效」寫成「終生免疫」——證據還沒到那一步。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -73016,11 +73016,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "肺癌（lung cancer）是腦轉移最常見的原發癌之一，尤其在疾病晚期；小細胞與非小細胞肺癌皆可能發生。",
-   "B": "乳癌（breast cancer）常轉移至腦，HER2-positive 與 triple-negative subtypes 的 central nervous system risk 尤受重視。",
-   "C": "正確。前列腺癌（prostate cancer）主要轉移至骨與區域淋巴結，實質性腦轉移相對罕見，因此四者中機率最低。",
-   "D": "黑色素癌（melanoma）具有高度腦轉移傾向，晚期患者常需 brain MRI 評估與局部／全身治療整合。",
-   "summary": "常見腦轉移原發癌包括 lung、breast、melanoma；prostate cancer 的實質性 brain metastasis 相對少見。",
+   "A": "本項不選。肺癌是腦轉移最常見的原發癌之一，小細胞與非小細胞都會。晚期病人常規要評估中樞神經系統。",
+   "B": "本項不選。乳癌也常轉移到腦，HER2 陽性與三陰性這兩個亞型的中樞神經系統風險特別受重視。",
+   "C": "本項應選。前列腺癌主要往**骨頭**與區域淋巴結跑，實質性腦轉移相對罕見。四者裡機率最低。",
+   "D": "本項不選。黑色素癌的腦轉移傾向非常高，晚期病人常需要腦部磁振造影（MRI）評估並整合局部與全身治療。",
+   "summary": "腦轉移的三大來源是肺、乳房、黑色素癌；前列腺癌走的是骨轉移那條路。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -73049,11 +73049,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。Optimal cytoreduction 的現代理想目標是 no gross residual disease；舊式常用定義亦為最大殘餘腫瘤不超過 1 cm，而不是介於 1–2 cm。",
-   "B": "BRCA1/BRCA2 germline 或 somatic pathogenic variants 與 epithelial ovarian cancer，特別是 high-grade serous carcinoma，有重要關聯，並會影響家族評估與 PARP inhibitor 策略。",
-   "C": "Paclitaxel 加 carboplatin 是 epithelial ovarian cancer 常用的一線 platinum-taxane chemotherapy backbone。",
-   "D": "Histologic grade 反映腫瘤分化與生物行為，與 epithelial ovarian cancer 的預後相關；stage、residual disease 與 histologic type 也很重要。",
-   "summary": "卵巢癌 cytoreduction 預後最佳是 no gross residual disease；所謂 optimal 並不是留下 1–2 cm 腫瘤。",
+   "A": "本項應選。定義寫錯了：現代理想的減積手術目標是**完全看不到殘餘腫瘤**（no gross residual disease）；舊式的 optimal 定義也是最大殘餘不超過 1 公分，不是留下 1 到 2 公分。",
+   "B": "本項不選。BRCA1／BRCA2 的胚系或體細胞致病變異與卵巢上皮細胞癌有重要關聯，尤其是高惡性度漿液性癌。這也影響家族評估與 PARP 抑制劑的使用。",
+   "C": "本項不選。paclitaxel 加 carboplatin 是卵巢上皮細胞癌第一線的白金加紫杉類骨幹方案。",
+   "D": "本項不選。組織分級反映腫瘤的分化與生物行為，與預後相關。分期、殘餘腫瘤量與組織型也同樣重要。",
+   "summary": "卵巢癌手術的目標只有一句話：切到看不見殘餘腫瘤——殘留越少，預後越好。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -73082,11 +73082,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Pertuzumab 是 anti-HER2 monoclonal antibody，結合 HER2 不同於 trastuzumab 的 epitope，抑制 receptor dimerization，常與 trastuzumab 合併。",
-   "B": "Denosumab 是 anti-RANK ligand antibody，可抑制 osteoclast formation 與 activity，用於骨轉移相關 skeletal events 或 osteoporosis 等情境。",
-   "C": "Ribociclib 是 CDK4/6 inhibitor，與 endocrine therapy 合併治療 hormone receptor-positive、HER2-negative advanced breast cancer。",
-   "D": "錯誤。Everolimus 是 mTOR inhibitor，不是 EGFR inhibitor；在乳癌可與 exemestane 等合併處理特定 endocrine-resistant HR-positive disease。",
-   "summary": "乳癌標靶配對：pertuzumab—HER2、denosumab—RANKL、ribociclib—CDK4/6、everolimus—mTOR。",
+   "A": "本項不選。pertuzumab 是抗 HER2 單株抗體，結合的位點和 trastuzumab 不同，作用是阻止受體雙合（dimerization），所以兩者常合併使用。",
+   "B": "本項不選。denosumab 是抗 RANK ligand 抗體，抑制蝕骨細胞的形成與作用，用在骨轉移的骨骼相關事件與骨質疏鬆。",
+   "C": "本項不選。ribociclib 是 CDK4/6 抑制劑，和抗荷爾蒙治療合併，用於荷爾蒙受體陽性、HER2 陰性的晚期乳癌。",
+   "D": "本項應選。標靶配錯了：everolimus 是 **mTOR** 抑制劑不是 EGFR 抑制劑。它在乳癌可以和 exemestane 合併，處理特定的抗荷爾蒙治療失效族群。",
+   "summary": "乳癌四組標靶配對：pertuzumab–HER2、denosumab–RANKL、ribociclib–CDK4/6、everolimus–mTOR。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -73120,11 +73120,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "最不恰當。預防腫瘤溶解症候群（tumor lysis syndrome）的核心是 risk stratification、充分 hydration 與依風險使用 allopurinol 或 rasburicase；常規 urine alkalization 會增加 calcium phosphate precipitation，不是最重要措施。",
-   "B": "Rituximab infusion 可引起 fever、chills、bronchospasm、hypotension 等 infusion reaction，首次輸注與高 tumor burden 時較常見。",
-   "C": "Chimeric antigen receptor T-cell therapy 的重要急性毒性之一是細胞激素釋放症候群（cytokine release syndrome），可出現發燒、低血壓與缺氧。",
-   "D": "Taxane hypersensitivity 常在前 1–2 次 exposure 發生，與 formulation/excipient 等因素相關；platinum hypersensitivity 則常在多個療程、累積暴露後增加。",
-   "summary": "TLS prevention 以 hydration 加 uric-acid–lowering therapy 為核心；routine urine alkalization 反會提高 calcium phosphate 沉積風險。",
+   "A": "本項應選。重點放錯了：預防腫瘤溶解症候群（tumor lysis syndrome, TLS）靠的是先做風險分層、給足夠的水分，再依風險用 allopurinol 或 rasburicase。**鹼化尿液不但不是最重要，還可能有害**（見下方 summary）。",
+   "B": "本項不選。輸注 rituximab 時出現發燒、發冷與支氣管痙攣，屬於輸注反應。第一次輸注以及腫瘤負荷高的時候特別容易發生。",
+   "C": "本項不選。CAR-T 細胞治療最重要的急性毒性之一就是細胞激素釋放症候群，會出現發燒、低血壓與缺氧。",
+   "D": "本項不選。紫杉類藥物的過敏多發生在前 1～2 次暴露（第一或第二療程）（和賦形劑有關）；白金類則相反，是累積多個療程之後風險才上升。這個對比是對的。",
+   "summary": "鹼化尿液會讓尿酸更好溶，卻讓磷酸鈣更難溶——腫瘤溶解時磷也很高，所以現在不常規做。",
    "guideline": null,
    "concepts": [
     "tumor-lysis-syndrome"
@@ -84675,11 +84675,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "腫瘤溶解症候群（tumor lysis syndrome）時，細胞快速崩解會釋放 potassium、phosphate 與 nucleic acids，造成 hyperkalemia、hyperphosphatemia 與 hyperuricemia。",
-   "B": "積極靜脈補液可維持 renal perfusion 與尿量；高風險患者使用 rasburicase 可把 uric acid 分解為較易溶解的 allantoin，以預防或治療嚴重 hyperuricemia。",
-   "C": "最不適當。鹼化尿液雖可提高 uric acid solubility，卻降低 calcium phosphate solubility，反而可能增加腎小管 calcium phosphate 沉積，因此不建議常規使用。",
-   "D": "若 tumor lysis syndrome 導致 acute kidney injury 合併 refractory hyperkalemia、嚴重 hyperphosphatemia、volume overload 或 oliguria，可考慮 renal replacement therapy。",
-   "summary": "TLS 的代謝四聯為高 K、高 phosphate、高 uric acid、低 Ca；不要常規鹼化尿液，嚴重腎衰竭可 dialysis。",
+   "A": "本項不選。腫瘤溶解症候群（tumor lysis syndrome, TLS）時大量腫瘤細胞崩解會把細胞內的鉀、磷與核酸一起倒進血液，造成高血鉀、高血磷與高尿酸血症。",
+   "B": "本項不選。積極靜脈輸液能維持腎臟灌流與尿量；高風險病人用 rasburicase 把尿酸分解成溶解度更高的尿囊素（allantoin），預防或治療嚴重高尿酸血症。",
+   "C": "本項應選。方向剛好相反：鹼化尿液雖然提高尿酸的溶解度，卻**降低磷酸鈣的溶解度**。腫瘤溶解時血磷本來就高，這樣做反而可能讓磷酸鈣沉積在腎小管，所以不建議常規使用。",
+   "D": "本項不選。若已經造成急性腎損傷合併頑固性高血鉀、嚴重高血磷、體液過載或寡尿，就該考慮腎臟替代療法。",
+   "summary": "腫瘤溶解的代謝四聯：高鉀、高磷、高尿酸、**低鈣**（被高磷拉下去的）；撐不住就洗腎。",
    "guideline": null,
    "concepts": [
     "tumor-lysis-syndrome"
@@ -84945,11 +84945,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Estrogen receptor、GATA3 與 HER2 檢測可支持 occult breast primary 並提供 systemic therapy 的預測資訊；亦可視情況加 mammaglobin、GCDFP-15 等標記。",
-   "B": "最不合適。當 axillary node adenocarcinoma 符合 occult breast cancer 且完整乳房 imaging 陰性時，不必例行直接做 mastectomy；可用 axillary treatment 加 whole-breast radiation 的 breast-conserving strategy。",
-   "C": "局部放射治療可涵蓋同側乳房及適當的 regional nodes，是 occult breast cancer 局部控制的重要選項。",
-   "D": "全身性 chemotherapy 或 endocrine therapy 依 nodal burden、ER/PR、HER2 與整體復發風險決定；即使找不到乳房腫塊，仍按推定 breast primary 的生物標記治療。",
-   "summary": "Occult breast cancer 以 axillary metastasis 表現時，乳房 MRI 陰性不代表必須 mastectomy；breast irradiation 可達成局部控制。",
+   "A": "本項不選。驗 estrogen receptor、GATA3 與 HER2 可以支持這是隱匿性乳癌原發，也提供全身治療的預測資訊。必要時還能加 mammaglobin、GCDFP-15。",
+   "B": "本項應選。乳房影像（超音波、攝影、磁振造影 MRI）全部陰性時，不必例行直接切除整個乳房。可以走保留策略：處理腋下加上全乳房放射治療，局部控制效果一樣好。",
+   "C": "本項不選。局部放射治療涵蓋同側乳房與適當的區域淋巴結，是隱匿性乳癌局部控制的重要手段。",
+   "D": "本項不選。全身性化療或抗荷爾蒙治療依淋巴結負荷、ER／PR、HER2 與整體復發風險決定。即使找不到乳房腫塊，仍照推定的乳癌原發生物標記來治療。",
+   "summary": "腋下腺癌找不到乳房腫塊＝隱匿性乳癌：照乳癌治，但不必為了「找不到」就切掉整個乳房。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -84983,11 +84983,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "最不恰當。Anthracycline 的代表性 late toxicity 是 dose-related cardiomyopathy／heart failure；周圍神經病變（neuropathy）更典型見於 taxanes、platinum、vinca alkaloids 等。",
-   "B": "Bleomycin 可造成 interstitial pneumonitis 與 pulmonary fibrosis，風險與累積劑量、年齡、腎功能及氧暴露等因素相關。",
-   "C": "Trastuzumab 可造成 left ventricular dysfunction，通常不像 anthracycline cardiotoxicity 那樣與不可逆結構損傷完全相同，但仍須監測 cardiac function。",
-   "D": "長期或高劑量 glucocorticoids 可增加骨缺血性壞死（avascular necrosis），常侵犯 femoral head。",
-   "summary": "癌症治療 late toxicity 配對：anthracycline—cardiomyopathy、bleomycin—pulmonary fibrosis、trastuzumab—cardiac dysfunction、steroid—AVN。",
+   "A": "本項應選。配錯器官了：anthracycline 的代表性長期毒性是**與累積劑量相關的心肌病變與心衰竭**。周圍神經病變（neuropathy）是紫杉類、白金類與長春花生物鹼的招牌。",
+   "B": "本項不選。bleomycin 造成間質性肺炎與肺纖維化，風險與累積劑量、年齡、腎功能以及氧氣暴露有關。這也是用過 bleomycin 的人麻醉時要小心給氧的原因。",
+   "C": "本項不選。trastuzumab 會造成左心室功能下降，治療期間要定期追蹤心功能。它和 anthracycline 的差別在於較常是可逆的。",
+   "D": "本項不選。長期或高劑量類固醇會增加骨頭缺血性壞死的風險，最常侵犯股骨頭。",
+   "summary": "四組長期毒性配對：anthracycline–心臟、bleomycin–肺、trastuzumab–心臟、類固醇–股骨頭壞死。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -85021,11 +85021,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "最不適當。BRAF/MEK targeted therapy 常有快速而高的 response rate，但 acquired resistance 後 durability 通常不如 immune checkpoint therapy 的長期反應；不能把持久性列為其最大優點。",
-   "B": "BRAF inhibitor monotherapy 可能經 paradoxical MAPK activation 增加 cutaneous squamous cell carcinoma；加上 MEK inhibitor 可降低此副作用並改善疾病控制。",
-   "C": "沒有 BRAF V600 mutation 的 metastatic melanoma 不能使用 BRAF-directed therapy 作標準標靶，但可第一線使用 anti-PD-1-based immunotherapy。",
-   "D": "有 BRAF V600 mutation 的 metastatic melanoma 可依疾病速度、症狀與病人因素選 anti-PD-1-based immunotherapy 或 BRAF inhibitor 加 MEK inhibitor。",
-   "summary": "BRAF/MEK therapy 的優點是反應快，immunotherapy 的優勢是部分患者反應持久；兩者不能倒置。",
+   "A": "本項應選。優點被寫反了：BRAF／MEK 標靶治療的長處是**反應快、反應率高**，但一旦出現抗藥性，持久性通常不如免疫治療。免疫治療反而是「起效慢、但有一部分病人反應非常持久」。",
+   "B": "本項不選。單用 BRAF 抑制劑會因為 MAPK 路徑的反常活化而長出皮膚鱗狀上皮癌；加上 MEK 抑制劑之後，這個副作用反而變少，疾病控制也更好。",
+   "C": "本項不選。沒有 BRAF V600 突變就不能用 BRAF 標靶，第一線走 anti-PD-1 為主的免疫治療。",
+   "D": "本項不選。有 BRAF V600 突變時兩條路都可以，依疾病進展速度、症狀嚴重度與病人狀況選擇免疫治療或 BRAF 加 MEK 抑制劑。",
+   "summary": "黑色素癌兩條路各有性格：標靶快但容易產生抗藥，免疫慢但可能持久——這題就是把兩者顛倒。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -85059,11 +85059,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Abiraterone acetate 抑制 CYP17、降低 androgen synthesis，需與 prednisone 合用；對 metastatic castration-resistant prostate cancer 有明確 survival benefit。",
-   "B": "Enzalutamide 抑制 androgen receptor signaling，已證實可改善 metastatic castration-resistant prostate cancer 的臨床結果。",
-   "C": "Docetaxel chemotherapy 對 metastatic castration-resistant prostate cancer 有整體存活效益，是已有確立證據的選項。",
-   "D": "正確。Pembrolizumab 不是所有 metastatic castration-resistant prostate cancer 的常規有效治療；療效主要限於 MSI-H/dMMR、TMB-high 等 biomarker-selected 少數患者。",
-   "summary": "CRPC 的 abiraterone、enzalutamide、docetaxel 有廣泛證據；pembrolizumab 須有適當 predictive biomarker，不能普遍使用。",
+   "A": "本項不選。abiraterone acetate 抑制 CYP17、把雄性素的合成源頭切掉，要配 prednisone 一起用。對轉移性去勢抗性攝護腺癌有明確的存活效益。",
+   "B": "本項不選。enzalutamide 阻斷雄性素受體的訊號傳遞，已證實能改善轉移性去勢抗性攝護腺癌的臨床結果。",
+   "C": "本項不選。docetaxel 化療對轉移性去勢抗性攝護腺癌有整體存活效益，證據明確。",
+   "D": "正確答案。睪固酮已經低於 50 ng/mL 代表去勢抗性攝護腺癌（castration-resistant prostate cancer, CRPC）。pembrolizumab 在這種病人身上**不是普遍有效**，療效侷限在 MSI-H／dMMR、腫瘤突變負荷高這類生物標記篩選出的少數人。",
+   "summary": "去勢抗性攝護腺癌有三支主力（abiraterone、enzalutamide、docetaxel）；免疫治療要先驗生物標記才有機會。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -85097,11 +85097,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "良性攝護腺肥大（benign prostatic hyperplasia）會增加產生 PSA 的良性腺體體積，因此 PSA 可高於正常值。",
-   "B": "攝護腺切片（prostate biopsy）造成組織與腺體 disruption，可使 PSA 暫時升高，採血時間須避開近期操作影響。",
-   "C": "攝護腺癌（prostate cancer）可造成 PSA 升高，但 PSA 並非癌症專一性檢驗，正常值也不能完全排除癌症。",
-   "D": "正確。根除性攝護腺切除（radical prostatectomy）移除 PSA-producing prostate tissue 後，PSA 應降至 undetectable；之後可測得或上升須懷疑 residual/recurrent disease。",
-   "summary": "PSA 可因 BPH、癌症或 biopsy 升高；radical prostatectomy 後則應不可測得，這是監測 biochemical recurrence 的基礎。",
+   "A": "本項不選。良性攝護腺肥大（benign prostatic hyperplasia, BPH）讓會分泌 PSA 的良性腺體體積變大，PSA 自然可能超過正常值。",
+   "B": "本項不選。攝護腺切片會破壞腺體組織，PSA 會暫時上升。所以抽血時間要避開近期的侵入性操作。",
+   "C": "本項不選。攝護腺癌會讓 PSA 上升，但 PSA 不是癌症專一的檢驗——正常值也不能完全排除癌症。",
+   "D": "正確答案。根除性攝護腺切除把會製造 PSA 的組織整個拿掉了，術後 PSA 應該降到測不到。之後若又測得到或往上爬，就要懷疑殘存或復發。",
+   "summary": "術後 PSA 測不到才是正常；再度測得到就是生化復發的訊號，這正是拿它追蹤的原理。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -96542,11 +96542,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Hyperphosphatemia 是 tumor lysis syndrome 的典型變化，來自大量細胞內 phosphate 釋放，並可與 calcium 結合造成 hypocalcemia。",
-   "B": "Hyperuricemia 來自腫瘤 nucleic acids 分解後的 purine metabolism，可造成 uric acid crystal nephropathy 與 acute kidney injury。",
-   "C": "Hypocalcemia 是 phosphate 上升後形成 calcium phosphate 沉積所致，可造成 tetany、seizure 或 arrhythmia。",
-   "D": "正確。Hyponatremia 不是 tumor lysis syndrome 的典型代謝異常；核心變化為 hyperkalemia、hyperphosphatemia、hyperuricemia 與 secondary hypocalcemia。",
-   "summary": "TLS 最常考四項：高 K、高 phosphate、高 uric acid、低 calcium；hyponatremia 不在典型組合。",
+   "A": "本項不選。高血磷來自細胞內大量磷酸鹽被釋放出來，而且磷會抓走血中的鈣。",
+   "B": "本項不選。高尿酸來自腫瘤核酸分解後的普林代謝，可能造成尿酸結晶腎病變與急性腎損傷。",
+   "C": "本項不選。低血鈣是被高血磷「拖下水」的——磷與鈣結合沉澱，血鈣就掉了。嚴重時會抽搐、癲癇或心律不整。",
+   "D": "正確答案。低血鈉不是腫瘤溶解的典型變化。腫瘤溶解症候群（tumor lysis syndrome, TLS）的核心是**三高一低**：高血鉀、高血磷、高尿酸，加上續發的低血鈣。",
+   "summary": "腫瘤溶解記「三高一低」，鈉不在裡面；低血鈉要往 SIADH 那條路想。",
    "guideline": null,
    "concepts": [
     "tumor-lysis-syndrome"
@@ -96746,11 +96746,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Ewing sarcoma 常發生於兒童與青少年的長端骨頭的 diaphyseal 區域 或 pelvic bones，與 osteosarcoma 偏 metaphysis 的分布不同。",
-   "B": "錯誤。Ewing sarcoma 最具代表性的基因異常是 EWSR1–FLI1 fusion，通常源於 t(11;22)；PDGFRA 並非最常見驅動異常。",
-   "C": "Ewing sarcoma 影像可見由反覆 periosteal reaction 形成的 onion-skin／onion-peel appearance；MRI 用於評估 marrow 與 soft-tissue extent。",
-   "D": "Ewing sarcoma 常以 hematogenous route 轉移至 lungs、bone 與 bone marrow，肺與其他骨骼是重要遠端部位。",
-   "summary": "Ewing sarcoma＝年輕人、diaphysis、onion-skin periosteal reaction、EWSR1–FLI1 fusion，常轉移 lung/bone。",
+   "A": "本項不選。Ewing 氏肉瘤好發於兒童與青少年，長骨的**骨幹（diaphysis）**或骨盆是常見位置。這和骨肉瘤偏骨幹端（metaphysis）不同。",
+   "B": "本項應選。基因寫錯了：Ewing 氏肉瘤最具代表性的是 **EWSR1–FLI1 融合基因**，來自 t(11;22) 轉位。PDGFRA 不是它的主要驅動異常。",
+   "C": "本項不選。反覆的骨膜反應會在影像上疊成洋蔥皮樣（onion-peel）外觀。磁振造影（MRI）則用來評估骨髓與軟組織侵犯的範圍。",
+   "D": "本項不選。Ewing 氏肉瘤循血行轉移，最常到肺、其他骨頭與骨髓。",
+   "summary": "Ewing 氏肉瘤四件套：年輕人、長在骨幹、洋蔥皮骨膜反應、EWSR1–FLI1 融合。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96779,11 +96779,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Oophorectomy 可達永久 ovarian function ablation，使停經前 hormone receptor-positive metastatic breast cancer 能以 postmenopausal endocrine framework 治療，是可行選項。",
-   "B": "Tamoxifen 可在停經前病人拮抗乳房 estrogen receptor；在無 visceral crisis 的 bone-only、ER-positive metastatic disease，endocrine-based therapy 合理。",
-   "C": "GnRH agonist 可造成可逆 ovarian suppression，常與 aromatase inhibitor、tamoxifen 或其他 endocrine/targeted agents 合併。",
-   "D": "正確。Aromatase inhibitor 單獨使用最不適宜，因停經前卵巢仍可增加 estrogen production；必須合併有效 ovarian suppression/ablation。",
-   "summary": "停經前 ER-positive metastatic breast cancer 使用 aromatase inhibitor 時，必須同時抑制或去除 ovarian function。",
+   "A": "本項不選。卵巢切除可以永久停掉卵巢功能，讓這位停經前病人能用停經後的抗荷爾蒙架構治療，是可行的選項。",
+   "B": "本項不選。tamoxifen 在停經前病人身上直接擋住乳房的雌激素受體。這位病人只有骨轉移、沒有內臟危象，走抗荷爾蒙治療是合理的。",
+   "C": "本項不選。GnRH agonist 造成可逆的卵巢抑制，常和芳香酶抑制劑、tamoxifen 或其他標靶藥合併使用。",
+   "D": "本項應選。芳香酶抑制劑**單獨**用在停經前病人身上最不適宜：卵巢還在運作，雌激素照樣做得出來，藥效會被繞過。要用它就必須同時抑制或去除卵巢功能。",
+   "summary": "停經前用芳香酶抑制劑一定要配卵巢抑制——否則卵巢會把藥的效果整個抵銷掉。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96845,11 +96845,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "表淺擴散型黑色素癌（superficial spreading melanoma）是白人常見 subtype，但不是亞洲族群最常見型別。",
-   "B": "結節型黑色素癌（nodular melanoma）以快速 vertical growth 與隆起 nodule 為特徵，在亞洲人仍非最常見 subtype。",
-   "C": "惡性小痣型黑色素癌（lentigo maligna melanoma）多見於高齡者長期日曬的臉部，不是亞洲族群最常見。",
-   "D": "正確。肢端小痣型黑色素癌（acral lentiginous melanoma）是亞洲人最常見 subtype，常見於 palms、soles 與 nail apparatus。",
-   "summary": "亞洲族群 melanoma 最常見 acral lentiginous subtype，檢查不可漏掉掌、蹠與甲床。",
+   "A": "本項不選。表淺擴散型是**白人**最常見的亞型，不是亞洲族群。",
+   "B": "本項不選。結節型以快速的垂直生長與隆起結節為特徵，惡性度高，但在亞洲人仍不是最常見的型別。",
+   "C": "本項不選。惡性小痣型多見於高齡者長期日曬的臉部，和亞洲人的分布不符。",
+   "D": "正確答案。亞洲人最常見的是肢端小痣型，長在手掌、腳掌與指甲。所以檢查時**一定要看手心、腳底與甲床**，這是最容易漏掉的地方。",
+   "summary": "亞洲人的黑色素癌長在曬不到太陽的地方：手掌、腳底、指甲——看診時鞋襪要脫掉。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96878,11 +96878,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。腎細胞癌（renal cell carcinoma）最常見組織型是 clear cell renal cell carcinoma，不是 papillary renal cell carcinoma。",
-   "B": "腎細胞癌合併 hypercalcemia 可來自 osteolytic bone metastasis，也可由 PTH-related peptide 等 paraneoplastic mechanism 引起。",
-   "C": "Stage I–II localized renal cell carcinoma 的標準治療是 surgical resection，可依腫瘤與病人條件採 partial 或 radical nephrectomy。",
-   "D": "腎功能不佳或 solitary kidney 時，若腫瘤大小與位置容許，partial nephrectomy 等 nephron-sparing surgery 可保留 renal function。",
-   "summary": "RCC 最常見 clear cell type；localized disease 以手術為主，能安全做到時優先考慮 nephron-sparing。",
+   "A": "本項應選。組織型搞反了：腎細胞癌（renal cell carcinoma, RCC）最常見的是**亮細胞型（clear cell）**，乳突型排第二。",
+   "B": "本項不選。腎細胞癌合併高血鈣，可能來自溶骨性的骨轉移，也可能是分泌 PTH-related peptide 造成的副腫瘤症候群。",
+   "C": "本項不選。第一、二期的局部腎細胞癌以手術切除為標準，依腫瘤與病人條件選部分或根除性腎切除。",
+   "D": "本項不選。腎功能不佳或只剩一顆腎時，只要腫瘤大小與位置允許，部分腎切除這類腎元保留手術能守住腎功能。",
+   "summary": "腎細胞癌最常見亮細胞型；局部期以手術為主，能安全做就優先保留腎元。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97983,11 +97983,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "未控制的疼痛會降低活動、睡眠與進食意願；改善 pain control 可減輕可逆性 anorexia，因此應先尋找並治療症狀原因。",
-   "B": "輕度 nausea、oral candidiasis 與 constipation 都會妨礙進食，且常有可行的症狀治療，是末期照護中應優先處理的 reversible factors。",
-   "C": "最不適當。例行增加 750–1000 mL/day 靜脈營養或輸液不能可靠改善 terminal cancer 的 dry mouth 或 appetite，反可能造成 edema、ascites、respiratory secretions 與照護負擔；口乾以口腔照護較直接。",
-   "D": "Corticosteroids 可短期改善 appetite，megestrol 也可能增加食慾或體重，但須權衡 thromboembolism、edema、adrenal/metabolic effects 等副作用。",
-   "summary": "末期 anorexia 先處理 pain、nausea、thrush、constipation；人工輸液不會常規改善口乾或食慾，並可能增加 fluid burden。",
+   "A": "本項不選。疼痛沒控制好會讓病人不想動、睡不好、也吃不下。把疼痛處理好，這種可逆的食慾不振通常會跟著改善。",
+   "B": "本項不選。輕度噁心、口腔念珠菌症與便祕都會妨礙進食，而且都有有效的治療。這些是末期照護中該優先處理的可逆因素。",
+   "C": "本項應選。例行增加每日 750～1000 mL 的靜脈營養或輸液，並不能可靠改善末期癌症病人的口乾與食慾，反而可能造成水腫、腹水、呼吸道分泌物增加與照護負擔。**口乾要靠口腔照護**，不是靠打點滴。",
+   "D": "本項不選。類固醇能短期改善食慾，megestrol 也可能增加食慾或體重。但要權衡血栓、水腫與腎上腺、代謝方面的副作用。",
+   "summary": "末期食慾不振先找可逆原因（痛、噁心、鵝口瘡、便祕）；打點滴補不回食慾，只會補出水腫。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -106385,11 +106385,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "未受 progesterone 拮抗的 estrogen exposure 會促進 endometrial proliferation，增加子宮內膜癌（endometrial cancer）風險。",
-   "B": "High-risk human papillomavirus persistent infection 是子宮頸癌（cervical cancer）的主要致癌因子，尤以 HPV16、18 重要。",
-   "C": "泌尿道血吸蟲感染（urinary schistosomiasis），特別是 Schistosoma haematobium，與膀胱 squamous cell carcinoma 相關。",
-   "D": "最不適當。幽門螺旋桿菌（Helicobacter pylori）與 gastric adenocarcinoma、gastric MALT lymphoma 相關，而不是已確立的 lung cancer carcinogen。",
-   "summary": "致癌感染配對：HPV—cervix、Schistosoma haematobium—bladder SCC、H. pylori—gastric cancer/MALT lymphoma。",
+   "A": "本項不選。沒有黃體素拮抗的雌激素會一直刺激子宮內膜增生，提高子宮內膜癌的風險。",
+   "B": "本項不選。高風險人類乳突病毒的持續感染是子宮頸癌最主要的致癌因子，HPV16、18 尤其重要。",
+   "C": "本項不選。泌尿道血吸蟲感染，特別是 Schistosoma haematobium，與膀胱的**鱗狀上皮癌（squamous cell carcinoma, SCC）**相關——這和一般膀胱癌以泌尿上皮癌為主不同。",
+   "D": "本項應選。器官配錯了：幽門螺旋桿菌對到的是胃腺癌與胃部 MALT 淋巴瘤，不是肺癌。",
+   "summary": "三組感染性致癌配對：HPV–子宮頸、血吸蟲–膀胱鱗狀上皮癌、幽門桿菌–胃癌與 MALT 淋巴瘤。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107561,11 +107561,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Taxanes 會破壞 microtubule function，常造成累積性 peripheral sensory neuropathy，也可造成 myelosuppression。",
-   "B": "最不合適。Bleomycin 的 dose-limiting toxicity 是 pneumonitis/pulmonary fibrosis；相較多數 cytotoxic drugs，它造成的 myelosuppression 很少。",
-   "C": "Cisplatin 可造成 dose-related nephrotoxicity，也常見 ototoxicity、peripheral neuropathy 與 severe emesis；治療需重視 hydration 與 renal monitoring。",
-   "D": "Epirubicin 屬 anthracycline，可造成累積劑量相關 cardiomyopathy，因此需要評估與監測 left ventricular function。",
-   "summary": "化療毒性配對：taxane—neuropathy、bleomycin—lung、cisplatin—kidney、epirubicin—heart；bleomycin 不常骨髓抑制。",
+   "A": "本項不選。紫杉類破壞微管功能，常造成累積性的周圍感覺神經病變，也會有骨髓抑制。",
+   "B": "本項應選。bleomycin 的劑量限制毒性是肺炎與肺纖維化。和多數細胞毒性藥物比起來，它造成的**骨髓抑制反而很少**——這正是它常被放進合併方案的原因。",
+   "C": "本項不選。cisplatin 會造成劑量相關的腎毒性，也常見耳毒性、周圍神經病變與嚴重嘔吐。用藥時要重視水化與腎功能監測。",
+   "D": "本項不選。epirubicin 屬於 anthracycline，會造成累積劑量相關的心肌病變，用藥前後要評估左心室功能。",
+   "summary": "化療毒性各有主場：紫杉類打神經、bleomycin 打肺、cisplatin 打腎、anthracycline 打心臟。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -118365,11 +118365,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "ECOG performance status 由 0 到 5，0 表示 fully active，5 表示死亡；數字越小功能越好。",
-   "B": "ECOG 0 表示活動完全不受限，約對應 Karnofsky 90–100；以 100 作近似對照合理。",
-   "C": "錯誤。Karnofsky <50 代表需要大量協助、失能或更嚴重狀態，較接近 ECOG 3–4，而不是 ECOG ≤2。",
-   "D": "ECOG 與 Karnofsky 都可量化 functional status，常用於預後、trial eligibility 與治療耐受性評估。",
-   "summary": "Performance scale 方向相反：ECOG 越低越好、Karnofsky 越高越好；KPS <50 約落在 ECOG 3–4 的差功能區。",
+   "A": "本項不選。ECOG 從 0 到 5，0 是完全正常活動、5 是死亡。數字越小功能越好。",
+   "B": "本項不選。ECOG 0 表示活動完全不受限，大約對應 Karnofsky 90～100 分，用 100 分做近似對照是合理的。",
+   "C": "本項應選。對應錯了：Karnofsky（KPS）＜50 分代表需要大量協助甚至失能，比較接近 **ECOG 3～4**，不是 ECOG ≦2。",
+   "D": "本項不選。ECOG 與 Karnofsky 都能量化功能狀態，常用來評估預後、臨床試驗資格與能不能承受治療。",
+   "summary": "兩個量表方向相反：ECOG 越低越好、Karnofsky 越高越好——換算時最容易在這裡出錯。",
    "guideline": null,
    "concepts": [
     "ecog-performance-status",
@@ -118402,11 +118402,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Methotrexate 延遲清除且出現 mucositis、myelosuppression 與 renal injury 時不能停用 leucovorin；leucovorin rescue 應持續並依 methotrexate concentration 強化。",
-   "B": "Folic acid 需經 dihydrofolate reductase 代謝，不能取代可繞過此酵素阻斷的 leucovorin 作高劑量 methotrexate rescue。",
-   "C": "正確。應提高 leucovorin rescue 強度，並同步積極 hydration、urine alkalinization 與密切監測 methotrexate/creatinine；嚴重 delayed clearance 可評估 glucarpidase。題給 50–100 mg/m² 是四項中最適處置。",
-   "D": "L-glutamine 不能逆轉 methotrexate crystal nephropathy 或加速藥物清除，也不是此急性腎功能惡化的標準治療。",
-   "summary": "High-dose methotrexate toxicity 要加強而非停掉 leucovorin，並維持 hydration/urine alkalinization；嚴重 delayed clearance 考慮 glucarpidase。",
+   "A": "本項不選。這時候停掉 leucovorin 是最危險的做法。methotrexate 清除變慢又已經出現黏膜炎、骨髓抑制與腎功能惡化，解毒劑要繼續給而且要加量。",
+   "B": "本項不選。folic acid 必須先經過 dihydrofolate reductase 代謝，而這個酵素正被 methotrexate 擋住。leucovorin 的價值就在於它**繞過**這一步，所以不能互換。",
+   "C": "正確答案。正確方向是把 leucovorin 解救加強到 50～100 mg/m²，同時積極水化、鹼化尿液（病人尿液偏酸更要做），並密切追蹤 methotrexate 濃度與 creatinine。清除嚴重延遲時可評估使用 glucarpidase。",
+   "D": "本項不選。L-glutamine 逆轉不了 methotrexate 結晶造成的腎病變，也不能加速藥物清除，不是這次急性腎功能惡化的標準治療。",
+   "summary": "高劑量 methotrexate 中毒的處置是「加解毒劑、灌水、鹼化尿液」——注意這裡的鹼化尿液是對的，和腫瘤溶解症候群相反。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118435,11 +118435,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。HPV16 與 HPV18 是 high-risk strains，合計造成多數子宮頸癌（cervical cancer），persistent infection 是癌化關鍵。",
-   "B": "High-risk HPV DNA 在癌化過程中常整合（integration）進宿主 genome，造成 E2 disruption 與 E6/E7 overexpression；並非始終維持 episomal form。",
-   "C": "HPV E7 會使 RB pathway 失活，但影響 p53 的主要 oncoprotein 是 E6，不是 E8；故本項基因配對錯誤。",
-   "D": "真正 HPV-independent cervical cancer 很少見，且較常涉及特定 adenocarcinoma subtype、年齡較高與較差預後；不能說多發於年輕女性。",
-   "summary": "High-risk HPV carcinogenesis：HPV16/18 最重要，viral integration 後 E6 抑制 p53、E7 抑制 RB。",
+   "A": "正確答案。HPV16 與 HPV18 是最重要的高風險型別，合計造成大多數的子宮頸癌。關鍵不是感染過，而是**持續感染**。",
+   "B": "本項敘述錯誤。高風險 HPV 的 DNA 在癌化過程中常會**嵌入**宿主基因體，造成 E2 被打斷、E6／E7 過度表現。不是一直維持游離型（episomal）。",
+   "C": "本項敘述錯誤。基因配錯了：E7 讓 RB 路徑失活沒錯，但作用在 p53 的是 **E6** 不是 E8。",
+   "D": "本項敘述錯誤。真正與 HPV 無關的子宮頸癌很少見，而且多與特定腺癌亞型有關、年齡偏大、預後較差，不是多發生於年輕女性。",
+   "summary": "HPV 致癌的三步：持續感染→病毒 DNA 嵌入→E6 打掉 p53、E7 打掉 RB。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118534,11 +118534,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "小細胞肺癌（small-cell lung cancer）比非小細胞肺癌更常合併 paraneoplastic neurologic disorders，例如 Lambert–Eaton syndrome、anti-Hu syndromes；本項方向顛倒。",
-   "B": "正確。腫瘤表現 neuronal antigens 可引發 cross-reactive immune response；anti-Hu 常與 small-cell lung cancer 相關，可見於 paraneoplastic encephalomyelitis/sensory neuronopathy 的 serum 或 CSF。",
-   "C": "許多 intracellular antigen-associated PND 由 T-cell–mediated neuronal injury 主導，對 IVIG 或 plasma exchange 的反應常有限，不能保證很好成效；控制腫瘤與早期處理仍重要。",
-   "D": "PND 常可先於癌症診斷，且部分症候群在數週至數月快速進展；不是多在癌症診斷後才緩慢出現。",
-   "summary": "Paraneoplastic neurologic disorder 可早於癌症；small-cell lung cancer 與 anti-Hu 最經典，免疫治療效果常有限。",
+   "A": "本項敘述錯誤。方向顛倒了：**小細胞肺癌**合併副腫瘤神經症候群（paraneoplastic neurologic disorder, PND）的機率明顯高於非小細胞肺癌，代表就是 Lambert-Eaton 症候群與 anti-Hu 相關症候群。",
+   "B": "正確答案。機轉就是「認錯人」：腫瘤細胞表現了神經細胞的抗原，免疫系統攻擊腫瘤時連神經一起打。anti-Hu 抗體常見於小細胞肺癌，可在腦脊髓炎病人的血清或腦脊髓液（CSF）中驗到。",
+   "C": "本項敘述錯誤。療效被高估了：許多針對**細胞內抗原**的副腫瘤神經症候群是 T 細胞介導的神經損傷，對靜脈免疫球蛋白（IVIG）或血漿置換的反應常常有限。針對細胞表面抗原者反應才比較好。",
+   "D": "本項敘述錯誤。時間順序寫反了：副腫瘤神經症候群常常**先於**癌症被診斷出來，而且部分症候群在數週到數月內快速進展，不是慢慢出現。",
+   "summary": "副腫瘤神經症候群常是癌症的第一個線索：神經症狀先來、癌症後找到，最經典的是小細胞肺癌配 anti-Hu。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118838,11 +118838,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "高劑量 definitive radiation 是 unresectable stage III-like thoracic squamous cell carcinoma 局部控制的核心之一，通常與 systemic therapy 整合，對預後有實質幫助。",
-   "B": "正確。右上肺病灶合併 ipsilateral supraclavicular 與 mediastinal nodes，較符合 locally advanced lung primary；廣泛 nodal disease 下手術通常不可完整切除或非標準，因此相對幫助最小。",
-   "C": "Concurrent platinum-based chemotherapy 可提高放射治療效果並處理 micrometastatic disease，是 fit locally advanced non-small cell lung cancer 病人的重要治療組成。",
-   "D": "PD-L1 ≥50% 顯示免疫治療可能有活性；在 unresectable locally advanced disease，immune checkpoint therapy 可依治療階段與臨床情境納入整合策略。",
-   "summary": "疑似肺原發、同側鎖骨上與縱膈淋巴結的 locally advanced disease 以 chemoradiation 與 immunotherapy 整合為主，手術角色最小。",
+   "A": "本項不選。高劑量根治性放射治療是這種無法手術切除的局部晚期胸腔病灶的局部控制核心，通常和全身治療整合使用。",
+   "B": "本項應選。這位病人的病灶散布在右上肺、同側鎖骨上與縱膈腔淋巴結，屬於**局部晚期**。淋巴結侵犯範圍這麼廣，手術通常切不乾淨，也不是標準做法，對預後的幫助最小。",
+   "C": "本項不選。同步的白金類化學治療能增強放療效果，也處理看不見的微小轉移，是體能夠好的局部晚期非小細胞肺癌的重要組成。",
+   "D": "本項不選。PD-L1 表現 ≧50% 代表免疫治療可能有相當活性。在無法切除的局部晚期疾病中，免疫檢查點治療可以依治療階段納入整體策略。",
+   "summary": "看到同側鎖骨上加縱膈淋巴結就要想「局部晚期、不可切除」：主力是化放療加免疫，不是開刀。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -129106,11 +129106,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "TNM 以解剖疾病範圍為基礎：T 描述 primary tumor、N 描述 regional lymph nodes、M 描述 distant metastasis。",
-   "B": "白血病、多發性骨髓瘤及多數淋巴瘤使用各自的疾病特定分類或分期，不以一般 solid-tumor TNM 作主要系統。",
-   "C": "官方更正接受 C。ypTNM 表示病人先接受 neoadjuvant/systemic therapy 後，再依手術病理標本所作的 post-therapy pathologic classification；單純初次手術病理分期是 pTNM。",
-   "D": "官方更正也接受 D。TNM 分期結合組織學分級（grading）的說法：T/N/M 本身描述解剖範圍，但某些 stage grouping/prognostic stage 會納入 histologic grade 或 biomarker；若把『TNM 分期』嚴格限定為純解剖 TNM，本句措辭可被判錯。",
-   "summary": "官方接受 C、D 或 CD：ypTNM 是治療後病理分期；TNM 本體是解剖分類，但 prognostic stage 有時另整合 grade/biomarkers。",
+   "A": "本項不選。TNM 就是以解剖範圍為基礎：T 描述原發腫瘤、N 描述區域淋巴結、M 描述遠端轉移。",
+   "B": "本項不選。白血病、多發性骨髓瘤與大多數淋巴瘤各有自己的分類或分期系統，不用實體腫瘤的 TNM。",
+   "C": "本項應選，官方給分的兩個答案之一。ypTNM 字首的意思弄錯了：**yp** 代表病人先接受了前導性或全身性治療，之後才依手術病理標本做的治療後分期。單純初次手術的病理分期是 pTNM。",
+   "D": "本項應選。官方連這一項也接受。這一項是措辭造成的爭議：T、N、M 本身只描述解剖範圍，但某些癌別的預後分期分組確實會納入組織分級或生物標記。若把「TNM 分期」嚴格限定成純解剖分類，這句就會被判錯。",
+   "summary": "本題官方 C、D 或 CD 均給分。字首要背熟：c 是臨床、p 是病理、**y 是治療後**、r 是復發。",
    "guideline": null,
    "concepts": [
     "tnm-prefixes"
@@ -129142,11 +129142,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。去勢抗性前列腺癌（castration-resistant prostate cancer）是在維持 castrate testosterone 的情況下仍有 biochemical、radiographic 或 clinical progression；不是 testosterone >100 ng/mL。",
-   "B": "Prostate-specific antigen（PSA）上升與 bone metastasis radiographic progression 都可見於 CRPC，但兩者不必同步，因此不能只依 PSA 判斷治療效益。",
-   "C": "有疼痛性骨轉移時，pain relief、function 與 skeletal-event prevention 是直接的病人重要結果，臨床意義可高於單純降低 PSA。",
-   "D": "帶 BRCA2 突變的 CRPC 患者可考慮使用 poly-ADP ribose polymerase（PARP）抑制劑；實際選擇需依 homologous recombination repair gene、既往治療與核准適應症。",
-   "summary": "CRPC 定義是 castrate testosterone 下仍進展；治療目標看症狀與影像，不只 PSA，BRCA2 可導引 PARP inhibitor。",
+   "A": "本項應選。定義剛好相反：去勢抗性前列腺癌（CRPC）指的是**睪固酮已經維持在去勢水平（＜50 ng/mL）**，病情卻仍然惡化。題目寫高於 100 ng/mL 就完全不是這回事了。",
+   "B": "本項不選。PSA 上升與骨轉移在影像上惡化都是常見表現。要注意兩者不一定同步，所以不能只看 PSA 判斷治療有沒有效。",
+   "C": "本項不選。骨轉移會痛的病人，止痛、恢復功能與預防骨骼相關事件，才是病人真正感受得到的結果，臨床意義可以高於單純把 PSA 壓下來。",
+   "D": "本項不選。帶 BRCA2 突變的病人可以考慮 PARP 抑制劑。實際選擇要看同源重組修復基因的檢測結果、之前用過什麼治療，以及核准的適應症。",
+   "summary": "去勢抗性的定義是「藥有效、癌照長」：睪固酮已壓到去勢水平，疾病仍然進展。",
    "guideline": null,
    "concepts": [
     "castration-resistant-prostate-cancer"
@@ -129179,11 +129179,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "鱗狀細胞癌（squamous cell carcinoma）是皮膚常見原發癌之一，源自 epidermal keratinocytes，日曬與免疫抑制是重要危險因子。",
-   "B": "基底細胞癌（basal cell carcinoma）是最常見的皮膚癌，通常局部侵犯但遠端轉移極罕見。",
-   "C": "官方更正把 C 列為可給分答案。腺癌（adenocarcinoma）不是皮膚最常見的原發癌組織類型；皮膚腺體來源癌存在但少見，亦須排除內臟腺癌轉移。",
-   "D": "官方更正亦把 D 列為可給分答案。默克細胞癌（Merkel cell carcinoma）確是 primary cutaneous neuroendocrine carcinoma，但屬罕見而高度侵襲的皮膚癌，若題意問『常見類型』則可判為非典型答案。",
-   "summary": "官方接受 C、D 或 CD：adenocarcinoma 不是常見 primary skin cancer；Merkel cell carcinoma 是原發皮膚癌但很罕見，題目措辭造成雙解。",
+   "A": "本項不選。鱗狀細胞癌是皮膚常見的原發癌之一，源自表皮的角質細胞，日曬與免疫抑制是重要危險因子。",
+   "B": "本項不選。基底細胞癌是最常見的皮膚癌，通常只在局部侵犯，遠端轉移極為罕見。",
+   "C": "本項應選，這是官方認可的答案之一。腺癌不是皮膚常見的原發癌組織型。皮膚附屬腺體來源的癌確實存在但很少見，而且看到皮膚腺癌時還要先排除內臟腺癌轉移過來。",
+   "D": "本項應選。官方把這一項一併列入給分。默克細胞癌確實是**原發於皮膚**的神經內分泌癌，但它非常罕見而且侵襲性高。若題目問的是「常見類型」，它也可以被判成答案——這就是官方兩個都給分的原因。",
+   "summary": "本題官方 C、D 或 CD 均給分。皮膚癌常見的只有三種：基底細胞癌、鱗狀細胞癌、黑色素癌。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129279,11 +129279,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Asbestos exposure 與 lung cancer、malignant pleural mesothelioma 及 peritoneal mesothelioma 相關；吸菸會協同增加 asbestos-exposed 者的 lung cancer risk。",
-   "B": "Alkylating agents 可造成 therapy-related myeloid neoplasm，常在數年後出現並伴 chromosome 5/7 abnormalities。",
-   "C": "最不適當。Adult T-cell leukemia/lymphoma 的致病病毒是 HTLV-1，不是 HIV；HIV 主要藉免疫缺陷增加 Kaposi sarcoma、non-Hodgkin lymphoma 等風險。",
-   "D": "Vinyl chloride exposure 經典與 hepatic angiosarcoma 相關，也可增加其他 liver disease/cancer risk。",
-   "summary": "環境致癌配對陷阱：HTLV-1—adult T-cell leukemia/lymphoma；HIV 不是其直接病因。",
+   "A": "本項不選。石綿暴露與肺癌、惡性肋膜間皮瘤與腹膜間皮瘤都相關。而且吸菸會和石綿產生協同作用，讓肺癌風險加倍上升。",
+   "B": "本項不選。烷化劑會造成治療相關的骨髓性腫瘤，通常在數年後才出現，常伴隨第 5 號或第 7 號染色體的異常。",
+   "C": "本項應選。病毒配錯了：成人 T 細胞白血病／淋巴瘤的致病病毒是 **HTLV-1**，不是 HIV。HIV 是透過造成免疫缺陷，間接提高卡波西氏肉瘤與非何杰金氏淋巴瘤的風險。",
+   "D": "本項不選。氯乙烯暴露的經典配對就是肝臟的血管肉瘤（angiosarcoma），這是職業醫學的代表案例。",
+   "summary": "兩個 HTLV 與 HIV 常被混：HTLV-1 直接造成成人 T 細胞白血病；HIV 是靠免疫缺陷間接提高癌症風險。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129378,11 +129378,11 @@
   "specialty": "腫瘤科",
   "fc_ref": null,
   "explanation": {
-   "A": "Osimertinib 是第三代 EGFR tyrosine kinase inhibitor，用於 EGFR-mutant non-small cell lung cancer；EML4-ALK fusion 並不是其標的。",
-   "B": "Pemetrexed 加 platinum 對 metastatic nonsquamous non-small cell lung cancer 有活性，但已知 ALK rearrangement 時應優先使用有效的 ALK inhibitor，而非先選 chemotherapy。",
-   "C": "正確。Alectinib 是 central nervous system-active ALK tyrosine kinase inhibitor，適合 EML4-ALK fusion-positive metastatic lung adenocarcinoma 的第一線治療。",
-   "D": "Gefitinib 是 EGFR tyrosine kinase inhibitor，適用於特定 EGFR activating mutation，不會直接抑制 ALK fusion。",
-   "summary": "肺腺癌 driver 要精準配對：EML4-ALK fusion 選 ALK inhibitor alectinib；osimertinib/gefitinib 是 EGFR inhibitors。",
+   "A": "本項不選。osimertinib 是第三代 EGFR 酪胺酸激酶抑制劑，用在 EGFR 突變的病人。這位病人帶的是 ALK 融合，藥物打不到標的。",
+   "B": "本項不選。pemetrexed 加白金類對轉移性非鱗狀非小細胞肺癌有效，但既然已經驗到 ALK 重排，就應該優先用有效的 ALK 抑制劑，而不是先走化療。",
+   "C": "正確答案。alectinib 是 ALK 酪胺酸激酶抑制劑，而且**對中樞神經系統的穿透性好**——這一點很重要，因為 ALK 陽性肺癌很容易腦轉移。它是 EML4-ALK 融合陽性轉移性肺腺癌的第一線選擇。",
+   "D": "本項不選。gefitinib 同樣是 EGFR 酪胺酸激酶抑制劑，抑制不了 ALK 融合蛋白。",
+   "summary": "驅動基因要配對藥物：EML4-ALK 用 ALK 抑制劑，EGFR 突變才用 osimertinib 或 gefitinib。",
    "guideline": null
   },
   "source": "115070/302_0101",
