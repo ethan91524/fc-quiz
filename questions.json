@@ -133,11 +133,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "fibric acid derivatives 會增加膽汁中膽固醇排泄，使膽汁較易形成膽固醇結石，因此不是減少膽結石；合併 statin 時也須留意肌病風險。",
-   "B": "statins 抑制 HMG-CoA reductase，常見肌肉不良反應包括肌痛；若合併明顯無力、CK 上升或深色尿，須評估肌病或橫紋肌溶解。",
-   "C": "nicotinic acid 可降低 TG、提高 HDL-C；過去可用於 HDL-C 過低，但潮紅、肝毒性與缺乏額外心血管效益限制現代臨床用途。",
-   "D": "omega-3 fatty acids 可降低肝臟 VLDL-TG 生成並促進 TG 清除，因此可用於降低嚴重高三酸甘油脂血症。",
-   "summary": "fibrate 會增加膽固醇膽結石風險；statin 肌痛、niacin 提高 HDL-C、omega-3 降 TG 均為典型藥理考點。",
+   "A": "本項應選。fibric acid derivatives（fibrate）不會減少膽結石。它反而會讓膽汁排出更多膽固醇，膽汁因此更容易析出膽固醇結石。跟 statin 併用，也要留意肌肉病變的風險。",
+   "B": "本項敘述正確。statins 抑制的是 HMG-CoA reductase。這是肝臟合成膽固醇最上游的酵素。常見的肌肉副作用是肌痛。若合併明顯無力、CK 上升或尿變深色，就要懷疑肌病變甚至橫紋肌溶解（rhabdomyolysis）。",
+   "C": "本項敘述正確。nicotinic acid（niacin）能降三酸甘油脂（TG）、提高 HDL-C。過去可以用在 HDL-C 過低的病人。但它會潮紅、傷肝，又沒有額外的心血管保護效果，現在臨床上已經少用。",
+   "D": "本項敘述正確。omega-3 fatty acids 會減少肝臟製造 VLDL-TG，也會加速 TG 被清除。所以它可以用來治療嚴重的高三酸甘油脂血症。",
+   "summary": "fibrate 的膽固醇排到膽汁裡增加，反而容易長膽結石，不是拿來防膽結石的藥。",
    "guideline": "FC 醫學(三)第2冊 p.330"
   },
   "source": "110020/302_11",
@@ -1771,11 +1771,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "dexamethasone suppression test 用於確認內生性高皮質醇症；本例 cortisol 已受抑制且 ACTH 低，反而提示外源性 glucocorticoid 暴露，不宜先做抑制試驗。",
-   "B": "24-hour urine free cortisol 可確認是否真正有高皮質醇生成；外觀像庫欣氏症候群（Cushing syndrome）卻測得極低 cortisol 時，先以此釐清生化表現最合適，並須重新追查所有外用、吸入或注射類固醇。",
-   "C": "腦部 MRI 用於已證實 ACTH-dependent Cushing syndrome 後定位腦下垂體病灶；此例 ACTH 與 cortisol 都低，不支持先找 ACTH-producing pituitary adenoma。",
-   "D": "腎上腺 CT 應用於已證實 ACTH-independent endogenous hypercortisolism 的定位；腎上腺自主分泌 cortisol 時 cortisol 應高，而非低於 1 μg/dL。",
-   "summary": "庫欣體態合併 ACTH、cortisol 皆低先確認 cortisol 生成並追查隱匿外源性類固醇，不應直接做影像定位。",
+   "A": "本項不選。dexamethasone suppression test 是用來確認體內是不是真的自己生成太多 cortisol。這位病人 cortisol 已經很低、ACTH 也低，方向完全相反。這比較像外源性類固醇暴露，不需要先做抑制測試。",
+   "B": "正確答案。這位病人外觀像庫欣氏症候群（Cushing syndrome），但抽血 cortisol 卻低到測不到。第一步要先確認她體內到底有沒有在製造 cortisol。24 小時尿液游離 cortisol 就是做這件事的檢查。確認後還要回頭追查她是不是曾用過外用、吸入或注射的類固醇。",
+   "C": "本項不選。腦部 MRI 是拿來找腦下垂體病灶的。前提是已經證實 ACTH 過高，屬於 ACTH-dependent Cushing syndrome。這位病人 ACTH 和 cortisol 都低，不支持先找腦下垂體腺瘤（pituitary adenoma）。",
+   "D": "本項不選。腎上腺電腦斷層（CT）是拿來定位腎上腺腫瘤的。前提是已經證實是 ACTH-independent 的高皮質醇症。如果真的是腎上腺自己在分泌 cortisol，cortisol 應該偏高，不會低於 1 μg/dL。",
+   "summary": "庫欣體態卻測到 ACTH、cortisol 都低，要先驗尿測有沒有真的在生 cortisol，再去追查隱藏的外源性類固醇。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1809,11 +1809,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "發燒與喉嚨痛可能是抗甲狀腺藥造成 agranulocytosis；在取得 CBC 前直接給抗生素不能取代立即停藥與確認 neutrophil count，若確有發燒性嗜中性白血球低下才依流程給經驗性抗生素。",
-   "B": "methimazole 或 propylthiouracil 治療中出現發燒、喉嚨痛，須立即停藥並檢查 WBC differential／absolute neutrophil count，以排除可能致命的 agranulocytosis。",
-   "C": "Lugol's solution 抑制甲狀腺素釋放，主要用於 thyroid storm 或術前短期準備；它不能診斷或處理抗甲狀腺藥引起的 agranulocytosis。",
-   "D": "lithium 可在少數不能使用 thionamide 的甲狀腺毒症情境抑制荷爾蒙釋放，但有狹窄治療窗；發燒喉痛的第一步仍是驗 CBC。",
-   "summary": "服用 thionamide 後發燒、喉嚨痛要先停藥並驗 WBC differential，優先排除 agranulocytosis。",
+   "A": "本項不選。這位病人發燒加喉嚨痛，要先想到抗甲狀腺藥造成的顆粒性白血球缺乏症（agranulocytosis）。還沒驗血球（CBC）前就直接給抗生素，不能取代立刻停藥、確認嗜中性球數目這一步。真的驗到發燒性嗜中性白血球低下，才輪到照流程給經驗性抗生素。",
+   "B": "正確答案。病人正在吃 methimazole 或 propylthiouracil。這類藥物最怕的併發症就是顆粒性白血球缺乏症（agranulocytosis），嚴重時會致命。一出現發燒、喉嚨痛，第一件事是立刻停藥。同時要驗白血球分類（WBC differential）與嗜中性球絕對值，排除這個診斷。",
+   "C": "本項不選。Lugol's solution 是用來抑制甲狀腺素釋放的。主要用在甲狀腺風暴（thyroid storm）或手術前的短期準備。它既不能診斷、也治不了抗甲狀腺藥引起的顆粒性白血球缺乏症。",
+   "D": "本項不選。lithium 可以在少數不能用 thionamide 類藥物的甲狀腺毒症情境，拿來抑制荷爾蒙釋放，但治療窗很窄。發燒喉嚨痛的第一步，還是驗 CBC，不是換藥。",
+   "summary": "吃 methimazole／PTU 後發燒喉嚨痛，先停藥驗 WBC differential，這是在抓顆粒性白血球缺乏症。",
    "guideline": "FC 醫學(三)第2冊 p.233"
   },
   "source": "110020/302_11",
@@ -1847,11 +1847,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "原發性多飲症（primary polydipsia）在限水後通常能分泌 ADH，使尿液逐漸濃縮；本例限水完全無反應，不支持此診斷。",
-   "B": "滲透性利尿（osmotic diuresis）因尿中 glucose、urea 等溶質拖帶水分，尿滲透壓通常不低，且不會因 desmopressin 明顯濃縮。",
-   "C": "中樞性尿崩症（central diabetes insipidus）缺乏 ADH，限水仍不能濃縮尿液；給 desmopressin 後尿滲透壓上升、尿量下降，正是腎臟可反應而內源性 ADH 不足。",
-   "D": "腎性尿崩症（nephrogenic diabetes insipidus）是 collecting duct 對 ADH 不敏感，因此給 desmopressin 後尿滲透壓仍不會明顯上升。",
-   "summary": "限水不濃縮、desmopressin 後能濃縮＝central DI；兩階段反應可與 primary polydipsia、nephrogenic DI 分開。",
+   "A": "本項不選。原發性多飲症（primary polydipsia）的人腦下垂體功能正常。限水後身體會自己分泌 ADH，尿液會逐漸濃縮。這位病人限水完全沒反應，不符合這個診斷。",
+   "B": "本項不選。滲透性利尿（osmotic diuresis）是尿裡的 glucose、urea 這些溶質把水一起拖出去。尿滲透壓通常不會太低，打了 desmopressin 也不會讓尿明顯濃縮起來。",
+   "C": "正確答案。這題要分兩階段看：限水時尿液完全沒有濃縮，代表身體自己分泌不出 ADH。打了 desmopressin（人工 ADH）之後，尿滲透壓上升、尿量下降，代表腎臟本身有反應能力，缺的只是內生的 ADH。這正是中樞性尿崩症（central diabetes insipidus）的模式。",
+   "D": "本項不選。腎性尿崩症（nephrogenic diabetes insipidus）是腎臟的集尿管（collecting duct）本身對 ADH 沒反應。就算打了 desmopressin，尿滲透壓還是不會明顯上升。這位病人打了藥有反應，不符合這個診斷。",
+   "summary": "限水濃縮不了、打 desmopressin 才濃縮得起來＝central DI；這兩階段反應是分辨三種多尿症的關鍵。",
    "guideline": "FC 醫學(三)第2冊 p.219",
    "concepts": [
     "water-deprivation-test-interpretation"
@@ -1888,11 +1888,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "副甲狀腺素（parathyroid hormone, PTH）由實體腫瘤異位分泌的情況極罕見；惡性腫瘤高血鈣多見 endogenous PTH 被抑制，而由 PTHrP 或其他腫瘤機轉升鈣。",
-   "B": "osteoclast activating factors 常用來描述 multiple myeloma 等血液腫瘤的局部溶骨性 cytokines，不是實體腫瘤體液性高血鈣最常見分泌物。",
-   "C": "PTHrP 是實體腫瘤造成 humoral hypercalcemia of malignancy 最常見機轉，作用於 PTH receptor，增加骨吸收與腎鈣再吸收，同時使內源性 PTH 下降。",
-   "D": "1,25(OH)2D 過度生成典型見 lymphoma 或 granulomatous disease，會增加腸道鈣吸收；並非一般 solid tumor 高血鈣最常見原因。",
-   "summary": "solid tumor 的 humoral hypercalcemia 最常由 PTHrP 引起；lymphoma 偏向 calcitriol，myeloma 偏向局部溶骨。",
+   "A": "本項不選。副甲狀腺素（parathyroid hormone, PTH）由實體腫瘤異位分泌的情況非常罕見。惡性腫瘤造成的高血鈣，反而常常會壓低身體自己原本的 PTH。真正在升鈣的多半是 PTHrP 或其他機轉。",
+   "B": "本項不選。噬骨細胞活化因子（osteoclast activating factors）這個詞，通常用來描述多發性骨髓瘤（multiple myeloma）這類血液腫瘤局部溶骨的細胞激素。它不是實體腫瘤引起體液性高血鈣最常見的原因。",
+   "C": "正確答案。PTHrP（parathyroid hormone-related peptide）是實體腫瘤造成體液性高血鈣最常見的機轉。它會作用在跟 PTH 一樣的受體上，一邊增加骨頭釋出鈣，一邊讓腎臟多留住鈣。同時它還會把身體自己的 PTH 壓低。",
+   "D": "本項不選。1,25(OH)2 D（calcitriol）分泌過多，典型出現在淋巴瘤（lymphoma）或肉芽腫性疾病（granulomatous disease）。機轉是增加腸道對鈣的吸收。這不是一般實體腫瘤造成高血鈣最常見的原因。",
+   "summary": "實體腫瘤的高血鈣先想 PTHrP；淋巴瘤偏 calcitriol，骨髓瘤偏局部溶骨，三條路徑要分清楚。",
    "guideline": "FC 醫學(三)第2冊 p.316"
   },
   "source": "110020/302_11",
@@ -1926,11 +1926,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "glucocorticoids 會抑制 GH axis、骨形成並影響性荷爾蒙，兒童長期使用可造成生長遲滯。",
-   "B": "外源性 glucocorticoids 以負回饋抑制 CRH 與 ACTH，長期使用可造成 hypothalamic-pituitary-adrenal axis suppression，突然停藥可能發生 adrenal insufficiency。",
-   "C": "glucocorticoids 通常降低腸道鈣吸收、增加腎鈣流失並抑制成骨，較會造成骨質疏鬆而非高血鈣。",
-   "D": "glucocorticoids 增加 hepatic gluconeogenesis 並降低周邊 glucose uptake，會造成 insulin resistance 與 steroid-induced hyperglycemia。",
-   "summary": "長期 glucocorticoid 會抑制生長與 HPA axis、造成 insulin resistance 與骨質疏鬆，不會典型造成高血鈣。",
+   "A": "本項不選。糖皮素（glucocorticoids）會抑制生長荷爾蒙軸（GH axis）、抑制骨頭生成，也會影響性荷爾蒙。兒童長期使用真的會長不高，這是會發生的副作用。",
+   "B": "本項不選。外源性糖皮素會用負回饋壓低 CRH 與 ACTH。長期用下來真的會抑制下視丘－腦下垂體－腎上腺軸（HPA axis）。如果突然停藥，會來不及自己分泌足量 cortisol，出現腎上腺功能不足。這是真的會發生的副作用。",
+   "C": "正確答案。糖皮素通常會讓腸道少吸收一點鈣、腎臟多流失一點鈣，也會抑制成骨細胞造骨。結果是骨質疏鬆，而不是高血鈣。所以四個選項裡，高血鈣才是最不會出現的副作用。",
+   "D": "本項不選。糖皮素會增加肝臟糖質新生（gluconeogenesis），也會降低周邊組織對葡萄糖的利用。結果是胰島素阻抗與類固醇引起的高血糖。這也是真的會發生的副作用。",
+   "summary": "糖皮素的副作用要背成一組：抑制生長、抑制 HPA 軸、胰島素阻抗、骨質疏鬆——但不會造成高血鈣。",
    "guideline": "FC 醫學(三)第2冊 p.255"
   },
   "source": "110020/302_11",
@@ -1964,11 +1964,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "肝臟是維持血糖的核心器官，負責 glycogen storage、glycogenolysis 與 gluconeogenesis；但餐後最大的 insulin-mediated glucose disposal 主要在 skeletal muscle，不能說肝臟是最主要消耗器官。",
-   "B": "insulin 由 pancreatic β cells 分泌並降血糖，glucagon 由 α cells 分泌並促進 hepatic glucose output，兩者在維持 glucose homeostasis 上互相拮抗。",
-   "C": "內生性 insulin 經 portal vein 首次通過肝臟會被清除相當比例，但約 90% 過高；仍有足量進入周邊循環調控肌肉與脂肪。",
-   "D": "C-peptide 是 proinsulin 切割時與 insulin 等莫耳分泌的片段，可反映內生性 insulin secretion，但不是 insulin receptor 的主要生理活性部分。",
-   "summary": "胰島 β-cell insulin 與 α-cell glucagon 相互拮抗；C-peptide 是分泌標記而非活性 insulin。",
+   "A": "本項不選。肝臟確實是維持血糖的核心器官，負責肝醣儲存、肝醣分解與糖質新生。但飯後真正吃掉最多葡萄糖的地方是骨骼肌，不是肝臟。所以不能說肝臟是葡萄糖消耗最主要的器官。",
+   "B": "正確答案。insulin 由胰臟的 β 細胞分泌，作用是降血糖。glucagon 由 α 細胞分泌，作用是讓肝臟多釋出葡萄糖。這兩個荷爾蒙一個降糖、一個升糖，互相拮抗。",
+   "C": "本項不選。內生性 insulin 經過肝門靜脈（portal vein），第一次通過肝臟時確實會被清除一部分，但沒有到 90% 那麼高。清除後仍有足夠的量進入周邊循環，去調控肌肉與脂肪組織。",
+   "D": "本項不選。C-peptide 是 proinsulin 被切開時，跟 insulin 以等莫耳比例一起分泌出來的片段。它可以反映身體自己分泌了多少 insulin，但它本身不是作用在 insulin receptor 上的活性部分。",
+   "summary": "insulin 降糖、glucagon 升糖，兩個互相拮抗；C-peptide 只是分泌量的標記，不是有活性的 insulin。",
    "guideline": "FC 醫學(三)第2冊 p.294"
   },
   "source": "110020/302_11",
@@ -2002,11 +2002,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "依臺灣成人代謝症候群標準，男性腹部肥胖腰圍切點為 ≥90 cm，女性為 ≥80 cm；男性 ≥85 cm 並非該題採用的臺灣標準。",
-   "B": "leptin 由 adipocytes 分泌，作用於 hypothalamus 傳遞能量儲存充足訊號、降低食慾並調節能量消耗。",
-   "C": "多數常見型肥胖者脂肪量增加，因此血中 leptin 通常較高；仍持續食慾旺盛反映 leptin resistance，而非普遍缺乏 leptin。",
-   "D": "BMI＝90÷1.70²＝31.14 kg/m²，約為 31.1；計算使用公斤除以身高公尺平方。",
-   "summary": "臺灣男性腰圍 ≥90 cm 才符合腹部肥胖；常見肥胖為高 leptin 合併 leptin resistance。",
+   "A": "本項應選。臺灣成人代謝症候群的腹部肥胖切點，男性是腰圍 ≥90 cm，女性是 ≥80 cm。選項寫男性 ≥85 cm，不是臺灣採用的切點，數字錯了。",
+   "B": "本項敘述正確。瘦素（leptin）由脂肪細胞分泌，作用在下視丘（hypothalamus）。它告訴身體「能量存夠了」，效果是降低食慾、增加能量消耗。",
+   "C": "本項敘述正確。常見型肥胖的人脂肪量本來就多，血中 leptin 通常也比較高。食慾照樣旺盛，不是因為缺 leptin，而是下視丘對 leptin 的反應變差了，這叫 leptin 阻抗。",
+   "D": "本項敘述正確。BMI 的算法是體重（公斤）除以身高（公尺）的平方：90 ÷ 1.70² ＝ 90 ÷ 2.89 ≈ 31.14。四捨五入約 31.1 kg/m²，算出來是對的。",
+   "summary": "臺灣腹部肥胖的腰圍切點男 ≥90 cm、女 ≥80 cm；常見型肥胖是高 leptin 合併 leptin 阻抗，不是缺 leptin。",
    "guideline": "FC 醫學(三)第2冊 p.290",
    "concepts": [
     "taiwan-metabolic-syndrome-criteria"
@@ -2725,11 +2725,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "糖尿病酮酸中毒（diabetic ketoacidosis）會由 hyperglycemia 引起 osmotic diuresis 與 volume depletion，ketone accumulation 則造成 high-anion-gap metabolic acidosis，對應其多尿、脫水、噁心與意識變化。",
-   "B": "DKA 的原發酸鹼異常是高陰離子間隙代謝性酸中毒，呼吸會以 Kussmaul hyperventilation 降低 PCO2 作代償；不是 respiratory acidosis。",
-   "C": "漏打或不足 insulin、感染、心肌梗塞、懷孕等生理壓力都會增加 counter-regulatory hormones，是 DKA 常見誘因。",
-   "D": "DKA 雖可能因 insulin 缺乏與 acidosis 使血清 K 正常或偏高，但 osmotic diuresis、嘔吐會造成 total-body potassium deficit；治療 insulin 後 K 會移入細胞。",
-   "summary": "DKA 是 high-anion-gap metabolic acidosis，伴呼吸性代償；血清 K 可高但全身總鉀通常不足。",
+   "A": "本項敘述正確。DKA 的高血糖會造成滲透性利尿，導致液體不足（volume depletion）。同時酮體堆積會造成酸血症（acidosis），也就是高陰離子間隙代謝性酸中毒。這剛好對應病人多尿、脫水、噁心與意識改變的表現。",
+   "B": "本項應選。DKA 原本的酸鹼異常是高陰離子間隙代謝性酸中毒，不是呼吸性酸血症（respiratory acidosis）。身體會用庫斯莫氏呼吸（Kussmaul hyperventilation）把血中 PCO2 快速降下去做代償，方向反而讓血液偏鹼一點。",
+   "C": "本項敘述正確。忘記打或打不夠 insulin、感染、心肌梗塞、懷孕，這些都會讓身體壓力荷爾蒙上升。它們都是常見的 DKA 誘發因子。",
+   "D": "本項敘述正確。DKA 因為 insulin 不足加上酸中毒，鉀離子會從細胞裡跑到血液裡。抽血測到的血鉀可能正常甚至偏高。但滲透性利尿跟嘔吐會讓身體整體的鉀持續流失，全身總鉀其實是不足的。等打了 insulin 治療，鉀又會被拉回細胞內，這時候反而容易低血鉀。",
+   "summary": "DKA 是高陰離子間隙代謝性酸中毒，靠庫斯莫氏呼吸代償；抽血鉀可能正常或偏高，但全身總鉀是不夠的。",
    "guideline": "FC 醫學(三)第2冊 p.303",
    "concepts": [
     "dka-diagnostic-criteria"
@@ -12136,11 +12136,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "glimepiride 刺激 insulin 分泌，腎衰竭時較易累積並造成 prolonged hypoglycemia；本例 glucose 131、ketone negative 且 lactate 26.6，更不像 sulfonylurea 低血糖。",
-   "B": "metformin 在急性腎損傷時清除下降，可累積並造成 metformin-associated lactic acidosis；嚴重高陰離子間隙酸中毒、極高 lactate、造影後 renal failure 與 ketone negative 完整吻合。",
-   "C": "acarbose 抑制腸道 α-glucosidase，主要不良反應是腹脹、排氣與腹瀉；不會典型造成如此嚴重的 lactic acidosis。",
-   "D": "pioglitazone 以 PPAR-γ 增加 insulin sensitivity，重要風險是 fluid retention、體重增加與 heart failure，不是腎衰竭後乳酸堆積。",
-   "summary": "造影後 AKI 使 metformin 累積，極高 lactate 合併嚴重高陰離子間隙酸中毒提示 MALA。",
+   "A": "本項不選。glimepiride 是刺激胰臟分泌 insulin 的藥。腎衰竭時排不掉會累積，造成的是拖很久的低血糖。這位病人血糖 131 mg/dL、酮體陰性，乳酸卻高達 26.6 mmol/L，完全不是磺醯脲類低血糖的樣子。",
+   "B": "正確答案。metformin 在急性腎損傷（AKI）時排不出去，會累積並引起 metformin 相關乳酸中毒（MALA）。這位病人做完血管攝影後腎功能急速惡化。乳酸飆到 26.6 mmol/L（正常只有 0.5–2.2），酸中毒到 pH 6.8，酮體卻是陰性，整套表現對得上 MALA。",
+   "C": "本項不選。acarbose 抑制的是腸道的 α-glucosidase。常見副作用是腹脹、排氣跟腹瀉，不會造成這麼嚴重的乳酸中毒。",
+   "D": "本項不選。pioglitazone 是透過活化 PPAR-γ 來增加身體對 insulin 的敏感度。主要的風險是水分滯留、體重增加跟心臟衰竭，跟腎衰竭後乳酸堆積是兩回事。",
+   "summary": "造影後 AKI 讓 metformin 排不掉，乳酸飆高又合併嚴重酸中毒、酮體陰性，就是在講 MALA。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -13740,11 +13740,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "尿 pregnancy test 已呈陽性；重測 serum β-hCG 可確認孕週與排除假陽性，但不能統整 prognathism、macroglossia、牙縫變寬與 acanthosis nigricans。",
-   "B": "尿糖與黑色棘皮症提示 insulin resistance，應評估 glucose；然而肢端外觀改變更直接指向 GH excess，血糖不是最具診斷性的下一項。",
-   "C": "頭部 CT 對小型 pituitary adenoma 的敏感度不如 MRI，且應先取得 biochemical evidence，再進行 pituitary imaging。",
-   "D": "IGF-I 反映整合的 GH secretion，日內變異較小，是疑似肢端肥大症（acromegaly）的首選篩檢；升高後再以 oral glucose suppression test 確認並做 pituitary MRI。",
-   "summary": "prognathism、macroglossia、牙縫增寬與 insulin resistance 指向 acromegaly，先驗 IGF-I 再做確認與定位。",
+   "A": "本項不選。尿液驗孕已經是陽性了。重驗血清 β-hCG 頂多能確認懷孕週數、排除偽陽性，沒辦法解釋牙縫變寬、舌頭變大、下顎前突和黑色棘皮症這一整組表現。",
+   "B": "本項不選。尿糖跟黑色棘皮症提示身體對 insulin 有阻抗，是該查血糖沒錯。但這位病人下顎前突、舌頭變大、牙縫變寬這些肢端外觀的改變，更直接指向生長激素（GH）過多。驗血糖不是最能確診的下一步。",
+   "C": "本項不選。頭部電腦斷層（CT）對小顆的腦下垂體腺瘤敏感度不如核磁共振（MRI）。而且順序上要先有生化證據，才輪到做腦下垂體影像檢查。",
+   "D": "正確答案。IGF-I 反映的是整段時間生長激素分泌的平均狀況，一天內波動比較小，是懷疑肢端肥大症（acromegaly）時的首選篩檢。IGF-I 升高之後，再用口服葡萄糖抑制試驗確認診斷，並安排腦下垂體 MRI 定位。",
+   "summary": "下顎前突、舌頭變大、牙縫變寬合併 insulin resistance，就是在講肢端肥大症，先驗 IGF-I 再確診定位。",
    "guideline": "FC 醫學(三)第2冊 p.215"
   },
   "source": "110080/302_11",
@@ -13778,11 +13778,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "insulinoma 可造成反覆 fasting hypoglycemia，且是 MEN1 的 pancreatic neuroendocrine tumor 表現之一，能與此例其他內分泌腫瘤並存。",
-   "B": "parathyroid adenoma 造成 primary hyperparathyroidism 與 hypercalcemia，是 MEN1 最常見且常最早出現的表現。",
-   "C": "medullary thyroid carcinoma 屬 MEN2 的核心腫瘤；MEN2 不以 insulinoma、parathyroid adenoma、prolactinoma 三聯為主，因此在本例 MEN1 組合中最不可能。",
-   "D": "pituitary prolactinoma 是 MEN1 的 pituitary tumor 常見型態，可與 primary hyperparathyroidism 及 pancreatic neuroendocrine tumor 並存。",
-   "summary": "MEN1 是 parathyroid、pituitary、pancreatic endocrine tumors；medullary thyroid carcinoma 則屬 MEN2。",
+   "A": "本項不選。這位病人反覆低血糖合併高血鈣，符合多發性內分泌腫瘤第一型（MEN1）同時長出好幾種內分泌腫瘤的樣子。insulinoma 會造成反覆空腹低血糖，正是 MEN1 裡胰臟神經內分泌腫瘤的表現之一。",
+   "B": "本項不選。副甲狀腺腺瘤（parathyroid adenoma）會造成原發性副甲狀腺機能亢進與高血鈣。這是 MEN1 裡最常見、也通常最早出現的表現，跟這位病人的高血鈣吻合。",
+   "C": "正確答案。甲狀腺髓質癌（medullary thyroid carcinoma）是 MEN2 的核心腫瘤。MEN2 的組合是甲狀腺髓質癌、嗜鉻細胞瘤加副甲狀腺增生，不是 insulinoma、副甲狀腺腺瘤、泌乳激素瘤這三個。所以在這位病人看起來像 MEN1 的組合裡，甲狀腺髓質癌最不可能出現。",
+   "D": "本項不選。泌乳激素瘤（prolactinoma）是 MEN1 裡腦下垂體腫瘤最常見的型態，可以跟原發性副甲狀腺機能亢進、胰臟神經內分泌腫瘤一起出現。",
+   "summary": "看到胰臟＋副甲狀腺＋腦下垂體三種腫瘤要想 MEN1；甲狀腺髓質癌是 MEN2 的招牌，不屬於這一組。",
    "guideline": "FC 醫學(三)第2冊 p.341",
    "concepts": [
     "men1-definition"
@@ -13819,11 +13819,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "renal artery stenosis 造成腎灌流下降，會活化 renin-angiotensin-aldosterone system，典型是 high renin、secondary aldosteronism；本例 renin 被抑制。",
-   "B": "hyperthyroidism 可造成 systolic hypertension、tachycardia 與體重下降，但不會典型產生 low-renin hypokalemic metabolic alkalosis。",
-   "C": "primary aldosteronism 的自主 aldosterone 過多導致 sodium retention、高血壓、renal potassium 與 hydrogen loss，形成 hypokalemia、metabolic alkalosis，並以 volume expansion 抑制 renin。",
-   "D": "Cushing syndrome 可因 cortisol 的 mineralocorticoid effect 造成高血壓與低鉀，但題目提供 aldosterone 高且 renin 低，直接支持 primary aldosteronism。",
-   "summary": "高血壓＋低血鉀＋代謝性鹼中毒，並見 aldosterone 高、renin 低，是 primary aldosteronism。",
+   "A": "本項不選。腎動脈狹窄（renal artery stenosis）會讓腎臟血流變少，反而會活化腎素－血管收縮素－醛固酮系統。典型表現是腎素（renin）偏高的續發性醛固酮症。這位病人的腎素卻是被壓低的 0.04，方向不對。",
+   "B": "本項不選。甲狀腺機能亢進（hyperthyroidism）會造成收縮壓上升、心跳快、體重減輕，但不會典型出現這種低腎素、低血鉀合併代謝性鹼中毒的組合。",
+   "C": "正確答案。原發性醛固酮症（primary aldosteronism）是腎上腺自己過量分泌醛固酮，造成鈉滯留、血壓上升。同時它會讓腎臟一直流失鉀離子和氫離子，變成低血鉀合併代謝性鹼中毒。體液增加又會回過頭壓低腎素——這位病人腎素低、醛固酮高，正是這個模式。",
+   "D": "本項不選。庫欣氏症候群（Cushing's syndrome）的 cortisol 也有類鹽皮質素作用，可以造成高血壓與低血鉀。但題目直接給出醛固酮高、腎素低，這組數字更直接支持原發性醛固酮症。",
+   "summary": "高血壓＋低血鉀＋代謝性鹼中毒，還看到腎素低、醛固酮高，直接鎖定原發性醛固酮症。",
    "guideline": "FC 醫學(三)第2冊 p.259"
   },
   "source": "110080/302_11",
@@ -13857,11 +13857,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "hypoglycemia 會啟動 counter-regulatory response，使 glucagon、epinephrine、cortisol 與 GH 上升，以增加 hepatic glucose output 並限制周邊利用。",
-   "B": "Whipple's triad 要求低血糖症狀、症狀發作時確認低 plasma glucose，以及 glucose 回升後症狀改善，藉此確認症狀確由低血糖造成。",
-   "C": "正常 glucose homeostasis 可在禁食時抑制 insulin 並動員肝醣與 gluconeogenesis，健康者 fasting plasma glucose 通常不低於 70 mg/dL。",
-   "D": "insulinoma 是罕見的 endogenous hyperinsulinemic hypoglycemia 原因，不是所有空腹低血糖的最常見原因；藥物、酒精、重症、器官衰竭與荷爾蒙缺乏等更常見。",
-   "summary": "Whipple triad 用症狀、低 plasma glucose 與補糖改善建立真性低血糖；insulinoma 是罕見而非最常見原因。",
+   "A": "本項敘述正確。低血糖會啟動身體的反調節反應，讓 glucagon、腎上腺素、cortisol 跟生長激素（GH）都上升。目的是逼肝臟多釋出葡萄糖，同時讓周邊組織少用一點糖，把血糖拉回來。",
+   "B": "本項敘述正確。Whipple's triad 要求三件事同時成立：有低血糖的症狀、症狀發作當下真的測到血糖偏低、補糖後症狀跟著改善。這三件事一起看，才能確定症狀真的是低血糖造成的。",
+   "C": "本項敘述正確。正常的血糖調控在禁食時會壓低 insulin，動員肝醣分解與糖質新生來撐住血糖。所以健康人空腹血糖通常不會低於 70 mg/dL。",
+   "D": "本項應選。insulinoma 造成的是內生性高胰島素性低血糖，但它其實很罕見，不是空腹低血糖最常見的原因。臨床上藥物、喝酒、重症、器官衰竭跟荷爾蒙缺乏才是更常見的原因。",
+   "summary": "Whipple's triad 靠症狀、低血糖數值、補糖後改善三件事一起確認是真的低血糖；insulinoma 少見，不是最常見原因。",
    "guideline": "FC 醫學(三)第2冊 p.308",
    "concepts": [
     "whipple-triad"
@@ -13898,11 +13898,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "statin 抑制的速率決定酶是 HMG-CoA reductase，不是 HMG-CoA oxidase；細胞內 cholesterol 下降後會上調 hepatic LDL receptors。",
-   "B": "HDL 參與 reverse cholesterol transport，把周邊組織多餘 cholesterol 帶回肝臟進一步處理。",
-   "C": "極低密度脂蛋白（VLDL）是空腹時血中 TG 的主要載體；此時沒有持續輸入 chylomicrons，循環 TG 主要來自肝臟製造與輸出。",
-   "D": "LDL receptor 介導 LDL uptake，是細胞尤其肝細胞清除 circulating LDL cholesterol 的核心受體；受體功能缺損可造成 familial hypercholesterolemia。",
-   "summary": "statin 的靶點是 HMG-CoA reductase；空腹 TG 靠 VLDL，HDL 負責逆向運輸，LDL receptor 負責 LDL 清除。",
+   "A": "本項應選。statin 抑制的速率決定酶是 HMG-CoA reductase，不是 HMG-CoA oxidase，選項裡的酶名寫錯了。肝細胞內膽固醇下降之後，會反過來多表現 LDL 受體，去血液裡多抓一點 LDL 膽固醇。",
+   "B": "本項敘述正確。HDL 負責的是逆向膽固醇運輸（reverse cholesterol transport），把周邊組織用不完的膽固醇撿回來，送回肝臟處理。",
+   "C": "本項敘述正確。空腹的時候沒有食物持續送進乳糜微粒（chylomicrons）。這時候血中三酸甘油脂（TG）主要是靠極低密度脂蛋白（VLDL）在載，來源是肝臟自己製造再輸出的。",
+   "D": "本項敘述正確。LDL 受體負責把 LDL 從血液裡吸收進細胞，尤其是肝細胞，是清除循環中 LDL 膽固醇最核心的受體。這個受體功能壞掉，就是家族性高膽固醇血症的成因。",
+   "summary": "statin 鎖定的是 HMG-CoA reductase 不是 oxidase；空腹 TG 找 VLDL、HDL 顧逆向運輸、LDL 受體顧清除。",
    "guideline": "FC 醫學(三)第2冊 p.330"
   },
   "source": "110080/302_11",
@@ -13936,11 +13936,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "CYP21A2 mutation 導致 21-hydroxylase deficiency，占 congenital adrenal hyperplasia 的絕大多數病例。",
-   "B": "21-hydroxylase deficiency 阻斷 progesterone 往 cortisol、aldosterone 路徑，造成 17-OH progesterone 堆積，因此可作新生兒篩檢與診斷指標。",
-   "C": "congenital adrenal hyperplasia 的 enzyme block 使 cortisol 合成下降，不是增加；缺乏負回饋才促使 ACTH 上升與 adrenal hyperplasia。",
-   "D": "cortisol 下降解除 hypothalamic-pituitary feedback，ACTH 分泌增加，並把 precursor 推向 androgen synthesis。",
-   "summary": "最常見 CAH 是 CYP21A2 缺陷：cortisol 低、ACTH 高、17-OH progesterone 高。",
+   "A": "本項敘述正確。先天性腎上腺增生（CAH）最常見的原因是 CYP21A2 基因突變。這個突變會造成 21-hydroxylase 缺乏，占了絕大多數病例。",
+   "B": "本項敘述正確。21-hydroxylase 缺乏會擋住 progesterone 走向 cortisol 與 aldosterone 的路徑。前面的原料 17-OH progesterone 因此堆積上升，這也是新生兒篩檢會驗的指標。",
+   "C": "本項應選。CAH 的酵素被擋住，cortisol 合成其實是下降，不是增加。正因為 cortisol 不夠、負回饋解除，才會逼 ACTH 上升，讓腎上腺代償性增生。",
+   "D": "本項敘述正確。cortisol 下降會解除對下視丘－腦下垂體的負回饋，讓 ACTH 分泌增加。ACTH 同時會把上游的原料往雄性素（androgen）合成的方向推。",
+   "summary": "CAH 最常見是 CYP21A2 缺陷：cortisol 低、ACTH 高、17-OH progesterone 也高。",
    "guideline": "FC 醫學(三)第2冊 p.264",
    "concepts": [
     "21-hydroxylase-deficiency"
@@ -13972,11 +13972,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "三碘甲狀腺素（T3）與四碘甲狀腺素（T4）由 thyroid follicular cells 合成；甲狀腺主要分泌 T4 並分泌較少 T3，兩者共同調控 basal metabolic rate、心血管與神經功能。",
-   "B": "甲促素（TSH）由 anterior pituitary thyrotrophs 分泌，受 TRH 刺激；circulating free T4/T3 會對 pituitary 與 hypothalamus 負回饋。",
-   "C": "缺碘時甲狀腺可相對偏向合成較省碘的 T3，但 T3 的 receptor potency 比 T4 強；T4 主要是較長效的 prohormone，需周邊轉成 T3。",
-   "D": "正常 hypothalamic-pituitary-thyroid axis 下，free T4/T3 上升會抑制 TSH，下降則促使 TSH 上升；primary pituitary disease 等情況可打破此關係。",
-   "summary": "T3 生物活性比 T4 強；T4 是主要分泌且較長效的前驅荷爾蒙，兩者對 TSH 負回饋。",
+   "A": "本項敘述正確。甲狀腺是內分泌腺體，由甲狀腺濾泡細胞合成荷爾蒙。它主要分泌的是 T4，分泌較少的 T3，兩者一起調控基礎代謝率、心血管與神經功能。",
+   "B": "本項敘述正確。甲促素（TSH）由腦下垂體前葉的甲促細胞分泌，受 TRH 刺激而釋放。血中游離 T3、T4 濃度會回過頭去抑制腦下垂體與下視丘，這就是回饋控制。",
+   "C": "本項應選。缺碘地區的甲狀腺確實會偏向合成比較省碘的 T3，這部分沒錯。但錯在活性方向：T3 對受體的作用力比 T4 強，不是 T4 比 T3 強。T4 其實是作用較弱、效果較久的前驅荷爾蒙，要轉成 T3 才有活性。",
+   "D": "本項敘述正確。正常的下視丘－腦下垂體－甲狀腺軸裡，游離 T3、T4 上升會抑制 TSH；T3、T4 下降則會讓 TSH 上升。腦下垂體本身有病變時，這個關係可能被打破。",
+   "summary": "T3 才是活性強的那個荷爾蒙；T4 分泌量多但是效力較弱的前驅物，要轉成 T3 才有作用。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -24041,11 +24041,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "vertebral compression fractures 常在沒有明顯急性疼痛時發生，可能只由身高變矮、kyphosis 或影像偶然發現。",
-   "B": "一次 vertebral fracture 代表骨骼脆弱且會大幅提高 imminent fracture risk；題述首年約 20% 再發是教材用來強調早期治療的數據。",
-   "C": "anti-resorptive drugs 如 bisphosphonates、denosumab 的主要目的是降低後續 vertebral 與其他 fragility fractures，不是作為急性止痛藥；急性疼痛另以 analgesia、活動調整等處理。",
-   "D": "fever、weight loss 或高胸椎異常骨折屬 red flags，須考慮 malignancy、infection、multiple myeloma 或其他 secondary causes，而非直接歸因於 osteoporosis。",
-   "summary": "osteoporosis 藥物的核心是預防再骨折；發燒、體重下降或非典型高胸椎病灶要查 secondary cause。",
+   "A": "本項敘述正確。脊椎壓迫性骨折（vertebral compression fracture）常常沒有明顯的急性疼痛。很多時候是靠身高變矮、駝背（kyphosis），或做影像時才偶然發現的。",
+   "B": "本項敘述正確。發生過一次脊椎骨折，代表骨骼已經很脆弱，接下來一年內再骨折的風險大幅升高。約 20% 的首年再發率，就是教材拿來強調要早期治療的數據。",
+   "C": "本項應選。抗骨質再吸收劑（anti-resorptive drugs，像 bisphosphonates、denosumab）的目的是降低之後再發生脊椎骨折與其他脆弱性骨折，不是拿來止急性痛的。急性疼痛要另外靠止痛藥與活動調整處理。",
+   "D": "本項敘述正確。發燒、體重減輕，或骨折發生在胸椎第四節以上，都是紅旗警訊。這時要懷疑惡性腫瘤、感染、多發性骨髓瘤這些續發性原因，不能直接當成單純老化的骨鬆性骨折。",
+   "summary": "抗骨質再吸收劑是防再骨折，不是止痛藥；發燒、體重減輕或高位胸椎骨折要往續發性病因查。",
    "guideline": "FC 醫學(三)第2冊 p.325"
   },
   "source": "111020/302_11",
@@ -25881,11 +25881,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "thyroidectomy 可取得完整 tumor histology，確認 capsular/vascular invasion、extrathyroidal extension 與 nodal disease，供 definitive diagnosis 與 staging。",
-   "B": "thyroid ultrasound 應同時 survey central 與 lateral cervical nodes；對 sonographically suspicious lymph node 可做 FNA cytology，必要時加測 washout thyroglobulin。",
-   "C": "分化良好甲狀腺癌（differentiated thyroid cancer）術後主要 serum tumor marker 是 thyroglobulin 並搭配 anti-thyroglobulin antibody，不是 alpha-fetoprotein；AFP 主要與 hepatocellular carcinoma、部分 germ cell tumor 有關。",
-   "D": "I-131 可被 thyroid follicular cells 經 sodium-iodide symporter 攝取，用於選定病人的 remnant ablation 或治療；其 physical half-life 約 8 天。",
-   "summary": "papillary／follicular thyroid cancer 術後追蹤用 thyroglobulin，不是 AFP；I-131 半衰期約 8 天。",
+   "A": "本項敘述正確。手術切除病灶可以拿到完整的腫瘤組織，確認有沒有侵犯包膜或血管、有沒有超出甲狀腺外，以及淋巴結轉移的狀況，這些都是確診與分期需要的資訊。",
+   "B": "本項敘述正確。懷疑甲狀腺癌時，甲狀腺超音波要同時檢查頸部中央區與兩側的淋巴結。看起來可疑的淋巴結可以做細針穿刺細胞學檢查（FNA），必要時再加驗穿刺液裡的 thyroglobulin 濃度。",
+   "C": "本項應選。分化良好的甲狀腺癌，像乳突癌或濾泡癌，術後追蹤用的主要指標是 thyroglobulin，還要搭配 anti-thyroglobulin antibody 一起看，不是 alpha-fetoprotein。AFP 主要用在肝細胞癌與部分生殖細胞腫瘤，跟甲狀腺癌無關。",
+   "D": "本項敘述正確。碘-131 會被甲狀腺濾泡細胞透過 sodium-iodide symporter 吸收進去，可以用在特定病人做殘餘組織的根除或治療。它的物理半衰期約 8 天。",
+   "summary": "分化良好甲狀腺癌術後追蹤看 thyroglobulin，不是 AFP；碘-131 半衰期約 8 天，AFP 是肝癌的指標。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25919,11 +25919,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "病毒感染可在具有遺傳易感性者觸發 β-cell autoimmunity，經分子模仿或免疫活化參與 type 1 diabetes 的形成，但不是每次感染都會致病。",
-   "B": "skeletal muscle、adipose tissue 與 liver 的 insulin resistance 是 type 2 diabetes 的核心病理，會造成周邊 glucose uptake 下降與 hepatic glucose output 增加。",
-   "C": "glucocorticoids 增加 hepatic gluconeogenesis 並造成 peripheral insulin resistance，可引起 steroid-induced diabetes，常見 postprandial hyperglycemia。",
-   "D": "biguanide 類的 metformin 會降低 hepatic gluconeogenesis、改善 insulin sensitivity，用於治療而非引起 diabetes。",
-   "summary": "病毒觸發 autoimmunity、insulin resistance 與 glucocorticoid 都可致糖尿病；metformin 則是降血糖治療。",
+   "A": "本項不選。病毒感染可以在有遺傳體質的人身上，觸發對抗自己 β 細胞的自體免疫反應。透過分子模擬或免疫活化參與第一型糖尿病（type 1 diabetes）的形成，但不是每次感染都會致病。",
+   "B": "本項不選。骨骼肌、脂肪組織與肝臟對 insulin 產生阻抗，是第二型糖尿病（type 2 diabetes）的核心病理。結果是周邊組織吸收葡萄糖變少，肝臟釋出葡萄糖卻變多。",
+   "C": "本項不選。類固醇會增加肝臟糖質新生，也會造成周邊胰島素阻抗，可以引起類固醇誘發的糖尿病，最常見的是餐後血糖升高。",
+   "D": "正確答案。雙胍類的 metformin 會降低肝臟糖質新生、改善身體對 insulin 的敏感度。它是拿來治療糖尿病的藥，不是造成糖尿病的原因。",
+   "summary": "病毒觸發自體免疫、胰島素阻抗、類固醇都會致糖尿病；metformin 反而是治療用藥，不會引起糖尿病。",
    "guideline": "FC 醫學(三)第2冊 p.294"
   },
   "source": "111020/302_11",
@@ -25952,11 +25952,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "obesity 使 adipose inflammation、free fatty acids 與 ectopic fat 增加，促成 insulin resistance，因而提高 type 2 diabetes 風險。",
-   "B": "BMI 是體重公斤除以身高公尺平方；在相同身高下 BMI 越大代表相對體重越高，並非越小越胖。",
-   "C": "obesity 是能量攝取、活動、睡眠、藥物、環境與 polygenic susceptibility 等因素共同作用，不宜只歸咎於意志力。",
-   "D": "adipocytes 是內分泌細胞，會分泌 leptin、adiponectin 與多種 cytokines，影響食慾、insulin sensitivity 與 inflammation。",
-   "summary": "BMI 越大通常代表肥胖程度越高；肥胖是多因素疾病，脂肪組織也是內分泌器官。",
+   "A": "本項敘述正確。肥胖會讓脂肪組織發炎、游離脂肪酸增加，脂肪也會堆積到不該堆的器官（ectopic fat）。這些變化會造成胰島素阻抗，提高第二型糖尿病（type 2 diabetes）的風險。",
+   "B": "本項應選。BMI 的算法是體重（公斤）除以身高（公尺）的平方。同樣身高下，BMI 越大代表相對體重越重，是越胖，不是越小越胖，選項的方向講反了。",
+   "C": "本項敘述正確。肥胖是熱量攝取、活動量、睡眠、藥物、環境跟多基因體質一起造成的結果，不該只怪病人意志力不夠。",
+   "D": "本項敘述正確。脂肪細胞其實是內分泌細胞，會分泌 leptin、adiponectin 跟多種細胞激素，這些物質會影響食慾、胰島素敏感度跟發炎反應。",
+   "summary": "BMI 越大才是越胖，這題把方向講反了；肥胖是多重因素的病，脂肪組織本身也在分泌荷爾蒙。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -26018,11 +26018,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "primary aldosteronism 在 hypertensive population 中遠比過去認為常見，是這四項 endocrine secondary hypertension 中最常見者；線索包括 resistant hypertension、hypokalemia 或 adrenal incidentaloma。",
-   "B": "pheochromocytoma 是罕見 catecholamine-producing tumor；典型可有 episodic headache、palpitation、sweating 與 labile hypertension，但盛行率低於 primary aldosteronism。",
-   "C": "Cushing syndrome 可經 cortisol 的 mineralocorticoid、vascular 與 metabolic effects 造成 hypertension，但內生性 Cushing syndrome 本身罕見。",
-   "D": "acromegaly 可因 sodium retention、insulin resistance、sleep apnea 等引起 hypertension，但 GH-producing pituitary adenoma 的整體盛行率很低。",
-   "summary": "內分泌性次發高血壓以 primary aldosteronism 最常見；pheochromocytoma、Cushing syndrome、acromegaly 都較少。",
+   "A": "正確答案。原發性醛固酮症（primary aldosteronism）在高血壓族群裡，其實遠比過去以為的常見，是這四個內分泌性次發高血壓裡最常見的一個。線索包括頑固型高血壓、低血鉀，或意外發現的腎上腺腫塊。",
+   "B": "本項不選。嗜鉻細胞瘤（pheochromocytoma）是罕見的兒茶酚胺分泌腫瘤，典型表現是陣發性頭痛、心悸、冒汗與血壓忽高忽低，但盛行率比原發性醛固酮症低很多。",
+   "C": "本項不選。庫欣氏症候群（Cushing's syndrome）可以透過 cortisol 的類鹽皮質素、血管與代謝作用造成高血壓，但內生性庫欣氏症候群本身非常罕見。",
+   "D": "本項不選。肢端肥大症（acromegaly）可以因為鈉滯留、胰島素阻抗、睡眠呼吸中止這些機轉造成高血壓，但會分泌生長激素的腦下垂體腺瘤整體盛行率很低。",
+   "summary": "內分泌性次發高血壓裡，原發性醛固酮症最常見；嗜鉻細胞瘤、庫欣氏症候群、肢端肥大症都少見得多。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -26056,11 +26056,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "thyroid palpation 可找 goiter、nodule 或 thyroiditis 線索；家族史與個人 autoimmune disease 能支持 Hashimoto thyroiditis 等 primary thyroid disease。",
-   "B": "thyroid ultrasound 可評估 gland echotexture、大小與 nodule；雖非所有單純 hypothyroidism 必做，但在有腫大、結節或結構疑問時有價值。",
-   "C": "anti-TPO 陽性支持 autoimmune thyroiditis；白斑（vitiligo）也是 autoimmune clustering 的線索，與 Hashimoto thyroiditis 可並存。",
-   "D": "free T4 低且 TSH 明顯高是 primary hypothyroidism 的典型組合；pituitary disease 造成 central hypothyroidism 時 TSH 通常低或不適當正常，因此不需先做 pituitary MRI。",
-   "summary": "low free T4＋high TSH 定位在 primary thyroid failure；合併 vitiligo 應想 autoimmune thyroiditis，不需腦下垂體 MRI。",
+   "A": "本項不選。觸診甲狀腺可以摸到甲狀腺腫大、結節，或找到甲狀腺炎的線索。問家族史跟個人自體免疫病史，能支持橋本氏甲狀腺炎這類原發性甲狀腺疾病的診斷，這一步是需要的。",
+   "B": "本項不選。甲狀腺超音波可以看甲狀腺的回音質地、大小跟有沒有結節。雖然不是每個單純甲狀腺低下都一定要做，但這位病人有需要釐清結構的理由，做超音波是合理的。",
+   "C": "本項不選。anti-TPO 陽性支持自體免疫甲狀腺炎。這位病人有白斑（vitiligo），也是自體免疫疾病群聚的線索，跟橋本氏甲狀腺炎常常並存，這項檢查有意義。",
+   "D": "正確答案。這位病人 free T4 低、TSH 卻明顯升高，這是原發性甲狀腺低下的典型組合。如果是腦下垂體病變造成的中樞性甲狀腺低下，TSH 通常應該偏低或不成比例地正常，跟這裡的表現不符，所以不需要先做腦下垂體 MRI。",
+   "summary": "free T4 低、TSH 高是原發性甲狀腺低下的組合；這種模式不需要先照腦下垂體 MRI。",
    "guideline": "FC 醫學(三)第2冊 p.227"
   },
   "source": "111020/302_11",
@@ -26382,11 +26382,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "BMI＝64÷1.58²≈25.6 kg/m²；依臺灣成人標準，此數值歸類為過重（24≤BMI<27），而 obesity 的 BMI 切點為 ≥27。",
-   "B": "fasting glucose 106 mg/dL 落在 impaired fasting glucose 範圍，亦達臺灣 metabolic syndrome 的 glucose component ≥100 mg/dL。",
-   "C": "TG 325 mg/dL 明顯高於一般 <150 mg/dL，屬 hypertriglyceridemia，並達 metabolic syndrome 的 TG component。",
-   "D": "女性腰圍 88 cm、BP 136/88、fasting glucose 106 與 TG 325 共符合至少四項；HDL-C 52 未達女性低 HDL 切點，但已有 ≥3 項可診斷 metabolic syndrome。",
-   "summary": "此例 BMI 25.6 在臺灣屬過重非肥胖，但腰圍、BP、glucose、TG 四項已符合 metabolic syndrome。",
+   "A": "本項應選。算一下 BMI：64 ÷ 1.58² ≈ 25.6 kg/m²。依臺灣成人標準，24 到 27 之間屬於過重，要 ≥27 才算肥胖。這位病人是過重，不是肥胖，選項寫「屬於肥胖」是錯的。",
+   "B": "本項敘述正確。空腹血糖 106 mg/dL，落在空腹血糖偏高（impaired fasting glucose）的範圍，也達到臺灣代謝症候群裡血糖這一項 ≥100 mg/dL 的標準。",
+   "C": "本項敘述正確。三酸甘油脂 325 mg/dL，明顯高於一般標準的 <150 mg/dL，屬於高三酸甘油脂血症，也達到代謝症候群裡 TG 這一項的標準。",
+   "D": "本項敘述正確。這位女性的腰圍 88 cm、血壓（BP）136/88、空腹血糖 106、TG 325，光這四項就已經符合。HDL-C 52 沒有低到女性的 HDL 切點，但只要五項裡有 ≥3 項就可以診斷代謝症候群，這裡遠遠超過。",
+   "summary": "BMI 25.6 在臺灣是過重不是肥胖；但腰圍、血壓、血糖、TG 四項已經符合代謝症候群。",
    "guideline": "FC 醫學(三)第2冊 p.289",
    "concepts": [
     "taiwan-metabolic-syndrome-criteria"
@@ -37780,11 +37780,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "hypoglycemia 可使腦部 glucose supply 不足，造成 confusion、seizure、focal deficit 甚至 coma；高齡糖尿病人須立即 bedside glucose 排除。",
-   "B": "stroke 可因 cortical、brainstem 或大範圍 cerebral injury 造成 altered consciousness，並可能伴 focal neurologic signs。",
-   "C": "low serum lipid 本身不會造成急性腦能量失衡或灌流不足，並非老年人突然神智不清的合理急症原因。",
-   "D": "hypotension 使 cerebral perfusion 下降，嚴重時可造成 syncope、encephalopathy 或 shock-associated unconsciousness。",
-   "summary": "突然意識不清先查 hypoglycemia、stroke 與 hypotension；低血脂不會造成急性昏迷。",
+   "A": "本項不選。低血糖會讓腦部葡萄糖供應不夠，可能造成意識混亂、癲癇發作、局部神經缺損，甚至昏迷。高齡糖尿病人意識不清，第一件事就是立刻驗床邊血糖排除這個原因。",
+   "B": "本項不選。中風可能因為大腦皮質、腦幹或大範圍腦部損傷，造成意識改變，還可能合併局部神經學症狀，這是老年人意識不清常見的原因。",
+   "C": "正確答案。血脂偏低本身不會造成腦部急性能量不足或灌流不夠，不是老年人突然意識不清的合理急症原因，四個選項裡它最不可能是兇手。",
+   "D": "本項不選。低血壓會讓腦部灌流下降，嚴重時可能造成暈厥、腦病變，甚至休克引起的意識不清。",
+   "summary": "老太太突然意識不清先查低血糖、中風、低血壓；低血脂不會造成急性昏迷。",
    "guideline": "FC 醫學(三)第2冊 p.308"
   },
   "source": "111080/302_11",
@@ -37856,11 +37856,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Graves' disease 明顯好發於女性，常於年輕至中年發病；題述男女差與年齡範圍是在描述其典型 epidemiology。",
-   "B": "apathetic thyrotoxicosis 常見於 older adults，可能缺乏明顯 tremor、hyperactivity，只表現 fatigue、weight loss、depression 或 atrial fibrillation。",
-   "C": "Graves hyperthyroidism 常有 palpitation、tachycardia 與 weight loss；anti-TPO 可陽性，但真正具病因與診斷特異性的抗體是 TSH receptor antibody。",
-   "D": "Graves orbitopathy 的活動度與嚴重度不與 thyroid hormone level 成正比；眼病可在 euthyroid 時出現，且受 smoking、radioiodine 等因素影響。",
-   "summary": "Graves orbitopathy 與甲狀腺功能高低不呈單純正相關；控制 thyrotoxicosis 也不保證眼病同步改善。",
+   "A": "本項敘述正確。葛瑞夫氏病明顯好發於女性，通常在年輕到中年發病。選項描述的男女比例與年齡範圍，就是它典型的流行病學表現。",
+   "B": "本項敘述正確。淡漠性甲狀腺機能亢進（apathetic thyrotoxicosis）常見於老年人。可能沒有明顯的手抖、躁動這些典型表現，只表現出疲倦、體重減輕、憂鬱，或心房顫動。",
+   "C": "本項敘述正確。葛瑞夫氏病常有心悸、心跳過速、體重減輕。anti-TPO 可以是陽性，但真正對這個病有病因意義、診斷特異性最高的抗體，其實是 TSH 受體抗體。",
+   "D": "本項應選。葛瑞夫氏眼病變（Graves orbitopathy）的活動度與嚴重度，跟甲狀腺荷爾蒙的高低並不成正比。眼病可以在甲狀腺功能正常時就出現，還會受抽菸、放射碘治療這些因素影響，選項說兩者成正相關是錯的。",
+   "summary": "葛瑞夫氏眼病的嚴重度跟甲狀腺功能高低沒有單純正相關；控制好甲亢不代表眼睛會跟著好。",
    "guideline": "FC 醫學(三)第2冊 p.233"
   },
   "source": "111080/302_11",
@@ -37894,11 +37894,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "papillary thyroid carcinoma 是最常見的 thyroid malignancy，也是 differentiated thyroid cancer 的主要類型，約占大多數病例。",
-   "B": "papillary thyroid carcinoma 的診斷仰賴 characteristic nuclear features，因此 FNA cytology 通常可在術前提出診斷；相反地，follicular carcinoma 需證明 capsular/vascular invasion。",
-   "C": "follicular thyroid carcinoma 較常經 hematogenous spread 轉移至 lung 與 bone；papillary carcinoma 則較偏 lymphatic spread 至 cervical nodes。",
-   "D": "follicular thyroid carcinoma 的預後受 age、tumor size、extent 與 distant metastasis 影響；較大腫瘤與較高年齡通常代表較差風險。",
-   "summary": "papillary carcinoma 可由 FNA 的核特徵術前診斷；follicular carcinoma 要靠 invasion，且偏血行轉移。",
+   "A": "本項敘述正確。乳突癌是最常見的甲狀腺惡性腫瘤，也是分化良好甲狀腺癌裡的主要類型，占了大多數病例。",
+   "B": "本項應選。乳突癌的診斷剛好相反：靠的是細胞核的特徵性變化，細針穿刺細胞學檢查（FNA）通常就能在術前提出診斷。反而是濾泡癌，一定要看到侵犯包膜或血管才能確診，術前 FNA 做不到。",
+   "C": "本項敘述正確。濾泡癌比較常經由血行轉移到肺部與骨骼；乳突癌則比較偏向經淋巴轉移到頸部淋巴結。",
+   "D": "本項敘述正確。濾泡癌的預後跟年齡、腫瘤大小、侵犯程度與有沒有遠端轉移有關。腫瘤越大、年齡越高，風險通常越差。",
+   "summary": "乳突癌靠細胞核特徵，FNA 術前就能診斷；濾泡癌要靠侵犯證據，且偏血行轉移到肺骨。",
    "guideline": "FC 醫學(三)第2冊 p.240"
   },
   "source": "111080/302_11",
@@ -37965,11 +37965,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "pioglitazone 屬 thiazolidinedione，會增加 renal sodium retention、plasma volume 與 edema，因此提高或惡化 congestive heart failure 風險。",
-   "B": "DPP-4 inhibitors 以 glucose-dependent 方式提高 insulin、降低 glucagon，單獨使用的 hypoglycemia risk 很低；合併 insulin 或 sulfonylurea 時風險才上升。",
-   "C": "SGLT2 抑制劑（SGLT2 inhibitors）使 urinary glucose excretion 增加，常帶來 modest weight loss；相較會增重的 sulfonylurea、insulin、TZD 尤為明顯。",
-   "D": "metformin 的主要降血糖作用包括抑制 hepatic gluconeogenesis 並改善 insulin sensitivity，本身低血糖風險低。",
-   "summary": "DPP-4 inhibitor 單用不易低血糖；SGLT2 inhibitor 可減重，pioglitazone 增加 HF，metformin 抑制 gluconeogenesis。",
+   "A": "本項不選。pioglitazone 屬於 thiazolidinedione。它會讓腎臟滯留鈉、血漿容積增加而水腫，所以會提高或惡化鬱血性心衰竭（congestive heart failure, HF）的風險。",
+   "B": "本項應選。DPP-4（dipeptidyl peptidase-4）抑制劑確實提高 insulin、降低 glucagon，但那是「隨血糖高低調節」的。血糖不高時它不會硬逼胰島素出來，所以單獨使用低血糖風險很低。要合併 insulin 或 sulfonylurea，風險才上升。",
+   "C": "本項不選。SGLT2（sodium-glucose cotransporter 2）抑制劑讓葡萄糖從尿裡排掉，因此常帶來輕度體重下降。跟會增重的 sulfonylurea、insulin 與 TZD 相比更明顯。",
+   "D": "本項不選。metformin 的主要作用就是抑制肝臟葡萄糖新生（hepatic gluconeogenesis），同時改善胰島素敏感度。它本身不刺激胰島素分泌，所以低血糖風險低。",
+   "summary": "DPP-4 抑制劑是「看血糖辦事」的藥，單用不會低血糖——會低血糖的是 insulin 與 sulfonylurea。",
    "guideline": "FC 醫學(三)第2冊 p.297"
   },
   "source": "111080/302_11",
@@ -38003,11 +38003,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "loss-of-function LDL receptor mutation 使 hepatic LDL clearance 下降，造成 familial hypercholesterolemia、極高 LDL-C 與早發 atherosclerosis。",
-   "B": "PCSK9 會促進 LDL receptor lysosomal degradation；loss-of-function mutation 反而保留更多 receptor、降低 LDL-C 與 ASCVD risk，不會升高 LDL-C。",
-   "C": "statin 具有最完整的 LDL-C lowering 與 cardiovascular outcome evidence，是大多數需要降膽固醇治療者的 first-line pharmacotherapy。",
-   "D": "fibrate 可有效降低 TG，尤其 severe hypertriglyceridemia 用於降低 pancreatitis risk；仍須同時處理 secondary causes 與生活型態。",
-   "summary": "LDL receptor loss raises LDL-C；PCSK9 loss preserves LDL receptors and lowers LDL-C，方向完全相反。",
+   "A": "本項不選。低密度脂蛋白受體（LDL receptor）失去功能後，肝臟清不掉 LDL。結果就是家族性高膽固醇血症：LDL-C 極高、動脈粥狀硬化提早報到。",
+   "B": "本項應選。方向剛好寫反了。PCSK9 的工作是把 LDL receptor 送去溶酶體分解掉，所以 PCSK9 失去功能反而留下更多受體，LDL-C 會**降低**、動脈粥狀硬化心血管疾病（ASCVD）風險也下降。這正是 PCSK9 抑制劑的原理。",
+   "C": "本項不選。statin 類在降 LDL-C 與改善心血管結果上的證據最完整，是大多數需要降膽固醇者的第一線藥物。",
+   "D": "本項不選。fibrate 類降三酸甘油脂（TG）有效，嚴重高三酸甘油脂血症時還能降低胰臟炎風險。但同時要找出次發原因並調整生活型態。",
+   "summary": "LDL receptor 壞掉＝LDL 清不掉；PCSK9 壞掉＝受體留住更多，兩者對 LDL-C 的方向完全相反。",
    "guideline": "FC 醫學(三)第1冊 p.50"
   },
   "source": "111080/302_11",
@@ -38036,11 +38036,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "obesity 尤其 visceral adiposity 常伴 insulin resistance、hypertension、high TG 與 low HDL-C，因此與 metabolic syndrome 密切相關。",
-   "B": "lipodystrophy 雖缺乏正常脂肪儲存，卻會把 lipid 異位堆積在 liver、muscle，造成 severe insulin resistance、hypertriglyceridemia 與 metabolic syndrome phenotype。",
-   "C": "metabolic syndrome 的典型 dyslipidemia 是 high TG 與 low HDL-C，不是 HDL-C 比一般人高。",
-   "D": "adiponectin 可增加 insulin sensitivity 並具 anti-inflammatory effects；visceral obesity 與 metabolic syndrome 通常伴較低 circulating adiponectin。",
-   "summary": "metabolic syndrome 的脂質特徵是 TG 高、HDL-C 低、adiponectin 低；obesity 與 lipodystrophy 都可造成 insulin resistance。",
+   "A": "本項不選。肥胖尤其是內臟脂肪堆積，常伴胰島素阻抗、高血壓、高 TG 與低 HDL-C，和代謝症候群關係密切。",
+   "B": "本項不選。脂質營養不良（lipodystrophy）雖然缺少正常的脂肪儲存空間，脂肪反而異位堆到肝臟與肌肉。結果是嚴重胰島素阻抗、高三酸甘油脂血症，一樣呈現代謝症候群的表現型。",
+   "C": "本項應選。代謝症候群的典型血脂形態是 TG 高、HDL-C **低**，不是 HDL-C 比一般人高。這一項把方向講反了。",
+   "D": "本項不選。脂締素（adiponectin）能增加胰島素敏感度、還有抗發炎作用。內臟肥胖與代謝症候群的人，血中 adiponectin 通常偏低。",
+   "summary": "代謝症候群三個「反直覺」都要記低的：HDL-C 低、adiponectin 低，只有 TG 是高的。",
    "guideline": null,
    "concepts": [
     "taiwan-metabolic-syndrome-criteria"
@@ -38072,11 +38072,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "pheochromocytoma 未先控制 catecholamine effect 就緊急手術，麻醉與腫瘤操作可能誘發 hypertensive crisis、arrhythmia 與 shock；穩定病人應先做術前準備。",
-   "B": "疑似 pheochromocytoma 禁忌經皮 biopsy，針刺可能觸發大量 catecholamine release；診斷依 biochemical testing 加 imaging，不靠 CT-guided tissue sampling。",
-   "C": "術前先用 α-blocker 約 7–14 天並 liberal salt/fluid intake 擴充長期收縮的 volume；若仍 tachycardic，再在充分 α-blockade 後加 β-blocker，絕不可先單用 β-blocker。",
-   "D": "somatostatin analogue 不是一般 pheochromocytoma 術前抑制 catecholamine 的標準治療，不能取代 α-blockade 與 volume repletion。",
-   "summary": "pheochromocytoma 手術前先 α-blockade 與補充容積，必要時才後加 β-blocker；不可 biopsy 或直接開刀。",
+   "A": "本項不選。嗜鉻細胞瘤（pheochromocytoma）沒先控制兒茶酚胺就緊急開刀很危險。麻醉與手術中碰到腫瘤可能誘發高血壓危象、心律不整與休克。病人現在血壓 150/90 mmHg、生命徵象穩定，該做的是術前準備。",
+   "B": "本項不選。懷疑嗜鉻細胞瘤時禁忌做經皮切片，針一戳可能引爆大量兒茶酚胺釋放。診斷靠生化檢查加影像，不是靠 CT 導引取組織。",
+   "C": "正確答案。術前先用 α 阻斷劑約 7–14 天，同時放寬鹽分與水分攝取，把長期被縮小的血管容積補回來。如果之後還心跳快，才在 α 阻斷足夠之後加 β 阻斷劑。順序不可以顛倒——先給 β 會留下沒被擋住的 α 作用。",
+   "D": "本項不選。體抑素類似物（somatostatin analogue）不是嗜鉻細胞瘤術前抑制兒茶酚胺的標準治療，取代不了 α 阻斷加補充容積。",
+   "summary": "嗜鉻細胞瘤術前口訣：先 α、再補水、最後才 β；不切片、不急著開刀。",
    "guideline": null
   },
   "source": "111080/302_11",
@@ -38822,11 +38822,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "DKA 多見於 type 1 diabetes，但 ketosis-prone type 2 diabetes 或 SGLT2 inhibitor 使用者也可能發生。",
-   "B": "傳統 DKA 條件包括 glucose >250 mg/dL、anion-gap metabolic acidosis 與 ketonemia；新共識更重視 β-hydroxybutyrate。",
-   "C": "正常血糖糖尿病酮酸中毒（euglycemic DKA）可見於禁食、懷孕或 SGLT2 inhibitor 使用，不能以正常 glucose 排除。",
-   "D": "DKA 因 insulin 缺乏使 K 移出細胞，初始 serum K 常正常或偏高；osmotic diuresis 使 total-body potassium 實際不足。",
-   "summary": "DKA 因 insulin 缺乏使 K 移出細胞，初始 serum K 常正常或偏高；osmotic diuresis 使 total-body potassium 實際不足。",
+   "A": "本項不選。糖尿病酮酸中毒（DKA）多發生在 type 1 diabetes，但容易酮酸化的 type 2 diabetes 或使用 SGLT2 抑制劑的人也可能發生。",
+   "B": "本項不選。傳統的 DKA 判定條件就是這三項：血糖 >250 mg/dL、陰離子間隙升高的代謝性酸中毒（anion gap >10 mEq/L）、動脈血 pH <7.3，再加上酮體。新的共識更重視直接測 β-hydroxybutyrate。",
+   "C": "本項不選。正常血糖的糖尿病酮酸中毒（euglycemic DKA）確實存在，可見於禁食、懷孕或使用 SGLT2 抑制劑的人。所以血糖正常不能拿來排除 DKA。",
+   "D": "本項應選。方向剛好相反：胰島素缺乏會把鉀趕出細胞，所以剛來時的血清鉀常是正常或偏高。但滲透性利尿早就把身體總鉀量掏空了——一打胰島素，鉀會急速往細胞內掉。",
+   "summary": "DKA 的鉀是「血裡看起來夠、身體其實缺」——打胰島素前一定要先看鉀，不然會掉到危險值。",
    "guideline": null,
    "concepts": [
     "dka-diagnostic-criteria"
@@ -48696,11 +48696,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "症狀性重度高血鈣先以 isotonic saline 恢復容量；充分補液後才可視容量狀態加 loop diuretic，並應同步尋找淋巴結相關 malignancy。",
-   "B": "hemodialysis 留給嚴重高血鈣合併無法補液的腎／心衰竭或藥物無效者，不是血壓穩定病人的第一步。",
-   "C": "5% dextrose 不能有效補充高血鈣造成的 extracellular volume depletion；benzodiazepine 也只會掩蓋 hypercalcemic delirium。",
-   "D": "IV calcium chloride 會讓既有高血鈣惡化，只用於嚴重 symptomatic hypocalcemia 等適應症。",
-   "summary": "症狀性重度高血鈣先以 isotonic saline 恢復容量；充分補液後才可視容量狀態加 loop diuretic，並應同步尋找淋巴結相關 malignancy。",
+   "A": "正確答案。血鈣 3.45 mmol/L 又出現譫妄，是症狀性重度高血鈣。第一步一定是用生理食鹽水把容積補回來，因為高血鈣本身會造成脫水。補足之後再視容量狀態加利尿劑。同時別忘了那顆兩公分的頸部淋巴結——要找惡性腫瘤這個源頭。",
+   "B": "本項不選。血液透析留給嚴重高血鈣又合併腎衰竭或心衰竭而無法大量補液、或藥物無效的病人。這位病人血壓 134/89 mmHg 穩定，不是第一步。",
+   "C": "本項不選。5% 葡萄糖補不了高血鈣造成的細胞外液流失。而且給鎮靜劑只會把高血鈣造成的譫妄蓋掉，延誤真正的處置。",
+   "D": "本項不選。靜脈注射（IV）氯化鈣會讓本來就高的血鈣更高。它是用在嚴重症狀性低血鈣，方向完全相反。",
+   "summary": "高血鈣的譫妄先大量補生理食鹽水，利尿劑要等補足水才給——而且要回頭找癌症。",
    "guideline": "FC 醫學(三)第3冊 p.68"
   },
   "source": "112020/302_11",
@@ -49669,11 +49669,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "α-adrenergic blocker 可解除 catecholamine-mediated vasoconstriction，是 pheochromocytoma 控壓的基礎。",
-   "B": "單用 β-blocker 會留下 unopposed α stimulation，可能誘發 hypertensive crisis，故最不適宜。",
-   "C": "calcium channel blocker 可作替代或加成降壓，不會造成 unopposed α effect。",
-   "D": "若 α-blockade 後仍 tachycardia，才可加 β-blocker；順序不可顛倒。",
-   "summary": "單用 β-blocker 會留下 unopposed α stimulation，可能誘發 hypertensive crisis，故最不適宜。",
+   "A": "本項不選。α-adrenergic blocker 解除兒茶酚胺造成的血管收縮，是嗜鉻細胞瘤控制血壓的基礎用藥。",
+   "B": "本項應選。單獨用 β-adrenergic blocker 會把 β 的血管舒張擋掉，留下沒有對手的 α 收縮作用（unopposed α stimulation），可能直接誘發高血壓危象。這是這題唯一不適宜的。",
+   "C": "本項不選。calcium channel blocker 可以當替代或加成的降壓藥，不會造成沒被擋住的 α 作用。",
+   "D": "本項不選。先用 α 阻斷劑、之後若還心跳過快再加 β 阻斷劑，這個順序是正確的。不能顛倒。",
+   "summary": "嗜鉻細胞瘤的血壓藥只有一條紅線：β 不能單獨先上，否則 α 沒人擋。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -49740,11 +49740,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "free T4、TSH 可查 radiation-induced central hypothyroidism，但不能最直接解釋低鈉、低血壓傾向與色素變淡。",
-   "B": "ACTH、cortisol 可辨識 radiation-related hypopituitarism 所致 secondary adrenal insufficiency；這是急迫且可治療的致命缺乏。",
-   "C": "tumor marker 對鼻咽癌追蹤可能有輔助性，但近期無復發且此組 endocrine findings 不由它確診。",
-   "D": "FSH、LH、testosterone 可評估 hypogonadism，卻不是當下低鈉與全身倦怠最需先處理的軸線。",
-   "summary": "ACTH、cortisol 可辨識 radiation-related hypopituitarism 所致 secondary adrenal insufficiency；這是急迫且可治療的致命缺乏。",
+   "A": "本項不選。free T4 與 TSH 可以查放射線造成的中樞性甲狀腺功能低下。但它解釋不了低血鈉、血壓偏低與色素變淡這一組表現，不是最有幫助的。",
+   "B": "正確答案。這是放射線治療十年後的腦下垂體功能低下，要抓的是次發性腎上腺功能不全。驗 ACTH 與 cortisol 最直接。低血鈉（Na+ 131 mmol/L）、倦怠、乳暈褪色與體毛減少都對得上，而且這是會致命、但補充類固醇就能救的缺乏。",
+   "C": "本項不選。腫瘤標記對鼻咽癌追蹤或許有輔助價值，但兩個月前才確認沒有復發。這組內分泌表現不會靠腫瘤標記確診。",
+   "D": "本項不選。FSH、LH 與 testosterone 可以評估性腺功能低下，體毛減少也確實與它有關。但當下最急、最需要先排除的是腎上腺那條軸線。",
+   "summary": "放療後的倦怠＋低血鈉＋體毛變少，先驗 ACTH／cortisol——腎上腺不足是會致命但補得回來的那個。",
    "guideline": "FC 醫學(三)第2冊 p.215"
   },
   "source": "112020/302_11",
@@ -49778,11 +49778,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "metabolic syndrome 與 visceral adiposity 會使 adiponectin 降低，而非增加，反映 insulin sensitivity 變差。",
-   "B": "C-reactive protein 常因 low-grade inflammation 上升，與 cardiometabolic risk 相符。",
-   "C": "hyperuricemia 常伴 insulin resistance、肥胖與 renal urate handling 改變。",
-   "D": "LDL-C 不在常用 metabolic syndrome 五項條件內；條件使用 TG 與 HDL-C。",
-   "summary": "metabolic syndrome 與 visceral adiposity 會使 adiponectin 降低，而非增加，反映 insulin sensitivity 變差。",
+   "A": "本項應選。代謝症候群與內臟脂肪會讓脂聯素（adiponectin）**下降**而不是增加。它下降正好反映胰島素敏感度變差。",
+   "B": "本項不選。C-反應蛋白（C-reactive protein）常因為慢性低度發炎而上升，與心血管代謝風險升高一致。",
+   "C": "本項不選。血中尿酸常隨胰島素阻抗、肥胖與腎臟排尿酸能力改變而上升。",
+   "D": "本項不選。低密度脂蛋白膽固醇（LDL-C）確實不在代謝症候群常用的五項診斷條件裡。條件用的是 TG 與 HDL-C，不是 LDL-C。",
+   "summary": "代謝症候群診斷看 TG 和 HDL-C，不看 LDL-C；而 adiponectin 是唯一「愈胖愈低」的那個。",
    "guideline": "FC 醫學(三)第2冊 p.288",
    "concepts": [
     "taiwan-metabolic-syndrome-criteria"
@@ -49819,11 +49819,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "plasma glucose <50 mg/dL 可造成 neuroglycopenia，包括認知障礙、seizure 或 coma。",
-   "B": "低血糖最常見原因是 glucose-lowering therapy，尤其 insulin 或 sulfonylurea；insulinoma 相對罕見。",
-   "C": "biguanide 類 metformin 不直接刺激 insulin secretion，單用不易 hypoglycemia。",
-   "D": "Whipple's triad 必須在症狀時可靠測得低 plasma glucose，且矯正後症狀改善。",
-   "summary": "低血糖最常見原因是 glucose-lowering therapy，尤其 insulin 或 sulfonylurea；insulinoma 相對罕見。",
+   "A": "本項不選。血漿葡萄糖低於 50 mg/dL 會造成腦部缺糖（neuroglycopenia），表現包括認知障礙，嚴重時會抽搐或昏迷。",
+   "B": "本項應選。低血糖最常見的原因是降血糖藥物本身，尤其 insulin 與 sulfonylurea。胰島素瘤（insulinoma）相對罕見，把它說成最常見就錯了。",
+   "C": "本項不選。雙胍類（biguanides）的 metformin 不直接刺激胰島素分泌，所以單獨使用不容易造成低血糖。",
+   "D": "本項不選。Whipple's triad 的三個條件是：有症狀、當下測到低血糖、給糖後症狀改善。所以判定一定要有可靠的血糖檢測。",
+   "summary": "低血糖先問「吃了什麼藥」——最常見的原因是治療本身，不是胰島素瘤。",
    "guideline": "FC 醫學(三)第2冊 p.308",
    "concepts": [
     "whipple-triad"
@@ -49860,11 +49860,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "thyroid cancer 通常是結節或壓迫表現，不會典型造成 diffuse goiter、thyrotoxicosis 與 ophthalmopathy。",
-   "B": "hypothyroidism 造成怕冷、體重增加與 bradycardia，方向與本例相反。",
-   "C": "葛雷夫氏症（Graves' disease）的 TSH-receptor antibody 同時造成 diffuse hyperthyroidism 與特異性眼病變。",
-   "D": "subacute thyroiditis 常有疼痛、感染前驅與暫時 thyrotoxicosis，不會造成 Graves orbitopathy。",
-   "summary": "葛雷夫氏症（Graves' disease）的 TSH-receptor antibody 同時造成 diffuse hyperthyroidism 與特異性眼病變。",
+   "A": "本項不選。甲狀腺癌通常以結節或壓迫症狀表現，不會造成瀰漫性甲狀腺腫、甲狀腺毒症再加眼病變這一整組。",
+   "B": "本項不選。甲狀腺功能過低的表現是怕冷、體重增加與心跳變慢，和這位病人怕熱、體重減輕、心悸剛好相反。",
+   "C": "正確答案。葛雷夫茲氏症（Graves' disease）的 TSH-receptor antibody 一邊刺激整個甲狀腺造成瀰漫性甲狀腺毒症，一邊造成特異性的眼病變。雙眼突出加紅腫是它獨有的線索——其他甲狀腺毒症不會有。",
+   "D": "本項不選。亞急性甲狀腺炎常有頸部疼痛與感染前驅症狀，甲狀腺毒症是暫時的。它不會造成 Graves 眼病變。",
+   "summary": "甲狀腺毒症誰都會有，但「眼睛突出」只有葛雷夫茲氏症——眼睛就是分水嶺。",
    "guideline": "FC 醫學(三)第2冊 p.233"
   },
   "source": "112020/302_11",
@@ -49898,11 +49898,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "可切除 GH-secreting pituitary adenoma 首選 transsphenoidal surgery，可迅速減壓並達 biochemical remission。",
-   "B": "somatostatin analogue 用於手術未緩解、不能手術或特定術前控制，不是一般首選根治法。",
-   "C": "stereotactic radiosurgery 起效慢，通常保留給術後殘存且藥物控制不佳者。",
-   "D": "dopamine agonist 對輕度 GH/IGF-I elevation 或 mixed tumor 可用，但效果不及手術與 somatostatin analogue。",
-   "summary": "可切除 GH-secreting pituitary adenoma 首選 transsphenoidal surgery，可迅速減壓並達 biochemical remission。",
+   "A": "正確答案。可以切除的生長激素瘤，首選是經蝶竇手術（transsphenoidal surgery）。它能同時解決腫瘤壓迫，也最快達到生化緩解。",
+   "B": "本項不選。體抑素類似物（somatostatin analogue）用在手術後沒緩解、不能手術，或特定情況的術前控制，不是一般的首選根治方式。",
+   "C": "本項不選。立體定位放射線治療起效很慢，通常留給術後殘存又藥物控制不佳的病人。",
+   "D": "本項不選。多巴胺促效劑對輕度 GH／IGF-I 升高或混合型腫瘤可以用，但效果不如手術與體抑素類似物。",
+   "summary": "肢端肥大症＝先開刀（經蝶竇），藥物與放療都是手術沒解決乾淨時的後手。",
    "guideline": "FC 醫學(三)第2冊 p.218"
   },
   "source": "112020/302_11",
@@ -59775,11 +59775,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "albumin 可排除 pseudohypocalcemia，phosphorus 有助區分 PTH、vitamin D 與 renal causes，屬優先評估。",
-   "B": "PTH 是否對低鈣適當升高，是區分 hypoparathyroidism 與 secondary response 的核心。",
-   "C": "1,25(OH)2D 受 PTH、腎功能與 phosphate 影響，不反映 vitamin D stores；初步應測 25(OH)D，故此項最不適當。",
-   "D": "hypomagnesemia 可抑制 PTH 分泌並造成 PTH resistance，因此 magnesium 必須檢查。",
-   "summary": "1,25(OH)2D 受 PTH、腎功能與 phosphate 影響，不反映 vitamin D stores；初步應測 25(OH)D，故此項最不適當。",
+   "A": "本項不選。白蛋白（albumin）要驗，因為低白蛋白會造成假性低血鈣。磷（phosphorus）也要驗，它能幫忙區分是副甲狀腺、維他命 D 還是腎臟的問題。兩者都屬優先評估。",
+   "B": "本項不選。副甲狀腺素（PTH）是核心：低血鈣時 PTH 有沒有適當升高，決定是副甲狀腺功能低下，還是身體的正常代償反應。",
+   "C": "本項應選。1,25(OH)2D 會被 PTH、腎功能與磷牽動，反映不出體內的維他命 D 儲存量。初步要驗的是 25(OH)D，所以這一項在「優先安排」裡最不適當。",
+   "D": "本項不選。低血鎂會同時抑制 PTH 分泌並讓組織對 PTH 反應變差，是常被忘記的可矯正原因。鎂（magnesium）一定要測。",
+   "summary": "查低血鈣要驗 25(OH)D 不是 1,25(OH)2D；另外別忘了鎂——鎂太低會讓 PTH 整條路都失靈。",
    "guideline": "FC 醫學(三)第2冊 p.315"
   },
   "source": "112080/302_11",
@@ -61664,11 +61664,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "sporadic primary hyperparathyroidism 最常由 single parathyroid adenoma 引起。",
-   "B": "MEN1、MEN2A 可合併 multigland parathyroid disease，因此可為 MEN 表現。",
-   "C": "PTH 增加 renal phosphate excretion，典型是 hypercalcemia、hypophosphatemia，不是高磷。",
-   "D": "calcium >14 mg/dL 應提高 parathyroid carcinoma 疑慮，仍須由 invasion/metastasis 等 pathology 判定。",
-   "summary": "PTH 增加 renal phosphate excretion，典型是 hypercalcemia、hypophosphatemia，不是高磷。",
+   "A": "本項敘述正確。偶發性的原發性副甲狀腺高能症最常由單一副甲狀腺腺瘤（isolated adenoma）造成。",
+   "B": "本項敘述正確。MEN1 與 MEN2A 都可能合併多顆副甲狀腺病變，所以副甲狀腺瘤確實可以是多發性內分泌腫瘤（MEN）的表現之一。",
+   "C": "本項應選。PTH 會增加腎臟把磷排掉，所以典型組合是高血鈣加**低**血磷，不是高血磷。這一項把磷的方向講反了。",
+   "D": "本項敘述正確。血鈣高於 14 mg/dL（3.5 mmol/L）時要提高副甲狀腺癌的疑慮。不過最終仍要靠病理上的侵犯或轉移來判定，不能只看數值。",
+   "summary": "副甲狀腺高能症是「鈣高磷低」——PTH 把磷從腎臟趕出去，這個方向記住就不會選錯。",
    "guideline": "FC 醫學(三)第2冊 p.316"
   },
   "source": "112080/302_11",
@@ -61697,11 +61697,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "較高 testosterone 通常與較佳 libido 相關，但不能僅憑濃度推定個人性功能。",
-   "B": "observationally 低 testosterone 與 cardiometabolic risk 相關，較高生理濃度可伴較低 coronary risk，但不證明補充治療有因果保護。",
-   "C": "較高生理 testosterone 通常與較低 adiposity、insulin resistance 相關，說糖尿病機率較高最不符合。",
-   "D": "較低 testosterone 常是 frailty 與 illness marker，因此較高濃度在觀察研究可伴較低 mortality。",
-   "summary": "較高生理 testosterone 通常與較低 adiposity、insulin resistance 相關，說糖尿病機率較高最不符合。",
+   "A": "本項不選。較高的 testosterone 通常伴隨較好的性慾。但要小心：這是族群層次的關聯，不能只看一個數值就推定某個人的性功能。",
+   "B": "本項不選。觀察性研究裡，低 testosterone 與心血管代謝風險相關，所以生理範圍偏高者冠狀動脈疾病機率可能較低。注意這只是關聯，不代表補充睪固酮就有保護作用。",
+   "C": "本項應選。方向剛好相反：生理範圍較高的 testosterone 通常伴隨較少的脂肪堆積與較低的胰島素阻抗。說糖尿病機率較高，最不符合。",
+   "D": "本項不選。低 testosterone 常是衰弱與疾病的標記，所以觀察研究中濃度較高的人死亡率較低。這同樣是關聯而非因果。",
+   "summary": "老年男性的睪固酮高低多半是「健康的指標」不是原因——所以四個選項裡只有糖尿病那個方向寫反了。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -61773,11 +61773,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "liraglutide 的特定高劑量 formulation 曾獲准 chronic weight management。",
-   "B": "lorcaserin 曾獲准減重，後因 cancer signal 撤市；「曾被核准」仍成立。",
-   "C": "orlistat 抑制 gastrointestinal lipase，已核准減重。",
-   "D": "sitagliptin 是 weight-neutral DPP-4 inhibitor，未核准作 obesity 藥物。",
-   "summary": "sitagliptin 是 weight-neutral DPP-4 inhibitor，未核准作 obesity 藥物。",
+   "A": "本項不選。liraglutide 有特定的高劑量劑型獲准用於長期體重管理，所以它「曾被核准」減重。",
+   "B": "本項不選。lorcaserin 曾經獲准減重，後來因為癌症風險訊號撤市。但題目問的是「未曾被核准」，它曾經核准過，所以不選。",
+   "C": "本項不選。orlistat 抑制腸道脂肪酶，讓脂肪不被吸收，是已核准的減重藥。",
+   "D": "本項應選。sitagliptin 是 DPP-4 抑制劑，對體重是中性的，從來沒有被核准當減重藥物。",
+   "summary": "減重藥記三個曾核准（liraglutide、lorcaserin、orlistat）；DPP-4 抑制劑對體重是中性的，不在名單上。",
    "guideline": "FC 醫學(三)第2冊 p.288"
   },
   "source": "112080/302_11",
@@ -61806,11 +61806,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "pancreatic insulin 降低 hepatic glucose output 並促進 muscle/adipose glucose uptake。",
-   "B": "正常 glucose 會隨 meals、exercise 與 counter-regulatory hormones 在窄範圍波動。",
-   "C": "severe hypoglycemia 可造成 seizure、coma、arrhythmia 與死亡。",
-   "D": "metformin 單用低血糖風險低；較常造成低血糖的口服藥是 sulfonylurea/meglitinide。",
-   "summary": "metformin 單用低血糖風險低；較常造成低血糖的口服藥是 sulfonylurea/meglitinide。",
+   "A": "本項不選。胰島素由胰臟分泌，一方面降低肝臟輸出葡萄糖，一方面促進肌肉與脂肪把葡萄糖抓進去，所以血糖會降低。",
+   "B": "本項不選。正常人的血糖確實會隨飲食、運動與升糖荷爾蒙在一個窄範圍內波動，這是正常生理。",
+   "C": "本項不選。嚴重低血糖會造成抽搐、昏迷、心律不整，甚至死亡。這是為什麼低血糖比高血糖更急。",
+   "D": "本項應選。metformin 單獨使用低血糖風險很低，因為它不刺激胰島素分泌。真正最常造成低血糖的口服藥是 sulfonylurea 與 meglitinide。",
+   "summary": "口服藥會不會低血糖，看它「逼不逼胰島素出來」——sulfonylurea 會，metformin 不會。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -61844,11 +61844,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "乳突癌（papillary carcinoma）占 thyroid cancer 大多數，是最常見類型。",
-   "B": "follicular carcinoma 次於 papillary carcinoma，且偏 hematogenous spread。",
-   "C": "medullary carcinoma 源自 C cells，只占少數並可與 MEN2 相關。",
-   "D": "anaplastic carcinoma 罕見但侵襲性極高，好發高齡者。",
-   "summary": "乳突癌（papillary carcinoma）占 thyroid cancer 大多數，是最常見類型。",
+   "A": "正確答案。乳突癌（papillary carcinoma）占甲狀腺癌的大多數，是最常見的類型。它預後也最好，多以淋巴轉移為主。",
+   "B": "本項不選。濾泡細胞癌（follicular carcinoma）次於乳突癌，特點是偏血行轉移，所以會跑到骨頭與肺。",
+   "C": "本項不選。髓質癌（medullary carcinoma）來自甲狀腺的 C 細胞，只占少數，而且可能與 MEN2 相關。",
+   "D": "本項不選。未分化癌（anaplastic carcinoma）罕見，但侵襲性極高、進展極快，好發於高齡者。",
+   "summary": "甲狀腺癌的四型按「常見程度」排：乳突＞濾泡＞髓質＞未分化，而侵襲性剛好倒過來。",
    "guideline": "FC 醫學(三)第2冊 p.240"
   },
   "source": "112080/302_11",
@@ -61882,11 +61882,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "posterior pituitary damage 使 AVP release 不足，造成 central diabetes insipidus、多尿與稀釋尿。",
-   "B": "adrenal insufficiency 主要源於 anterior pituitary ACTH 或 adrenal cortex 問題。",
-   "C": "hypothyroidism 由 anterior pituitary TSH 軸或 thyroid gland 病變造成。",
-   "D": "sexual dysfunction 主要牽涉 anterior pituitary gonadotropins，不是 posterior lobe 的典型缺損。",
-   "summary": "posterior pituitary damage 使 AVP release 不足，造成 central diabetes insipidus、多尿與稀釋尿。",
+   "A": "正確答案。腦下垂體後葉負責釋放抗利尿激素（AVP）。它被破壞後 AVP 不夠，腎臟留不住水，就出現中樞性尿崩症：大量多尿加上稀釋的尿液。",
+   "B": "本項不選。腎上腺機能不足來自前葉的 ACTH 出問題，或腎上腺皮質本身病變，不是後葉。",
+   "C": "本項不選。甲狀腺功能不足來自前葉的 TSH 軸或甲狀腺本身，同樣不是後葉負責的範圍。",
+   "D": "本項不選。性功能異常主要牽涉前葉分泌的性腺激素，不是後葉的典型缺損。",
+   "summary": "腦下垂體後葉只管兩個激素，其中 AVP 出問題就是尿崩症——其他內分泌不足都要往前葉想。",
    "guideline": "FC 醫學(三)第2冊 p.219"
   },
   "source": "112080/302_11",
@@ -71745,11 +71745,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "一般風險孕婦於 24–28 weeks 篩檢 GDM；高風險者可能更早評估 overt diabetes。",
-   "B": "GDM 初治包含 medical nutrition therapy、exercise 與 glucose monitoring。",
-   "C": "生活調整未達標時 insulin 是傳統首選；部分指引/地區亦會選 metformin 等口服藥。",
-   "D": "GDM 後發生 type 2 diabetes 的終生風險明顯升高，絕非與未患 GDM 者接近。",
-   "summary": "GDM 後發生 type 2 diabetes 的終生風險明顯升高，絕非與未患 GDM 者接近。",
+   "A": "本項不選。一般風險的孕婦在懷孕 24–28 週篩檢妊娠糖尿病（GDM）。高風險的人可能更早就要評估，先排除本來就有的糖尿病。",
+   "B": "本項不選。確診 GDM 後第一步是醫療營養治療，配合運動與血糖監測。多數人光靠飲食就能達標。",
+   "C": "本項不選。生活型態調整達不到目標時，傳統首選是胰島素。部分指引與地區也會使用 metformin 這類口服藥。",
+   "D": "本項應選。方向完全相反：得過 GDM 的女性，將來罹患 type 2 diabetes 的終生風險明顯升高，絕不是跟沒得過的人接近。所以產後一定要持續追蹤血糖。",
+   "summary": "GDM 不是「生完就沒事」——它是未來 type 2 diabetes 的預告，產後要繼續追。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -71888,11 +71888,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "hypercalcemia 降低 neuromuscular excitability，與 Chvostek/Trousseau signs 相反。",
-   "B": "輕拍 facial nerve 引發抽動是 Chvostek sign；加壓 cuff 引發 carpal spasm 是 Trousseau sign，皆提示 hypocalcemia。",
-   "C": "hyperphosphatemia 可藉降低 ionized calcium 間接誘發 tetany，但題目所辨識的直接離子異常是低鈣。",
-   "D": "hypophosphatemia 主要造成 weakness、rhabdomyolysis 等，不典型產生這兩個低鈣徵象。",
-   "summary": "輕拍 facial nerve 引發抽動是 Chvostek sign；加壓 cuff 引發 carpal spasm 是 Trousseau sign，皆提示 hypocalcemia。",
+   "A": "本項不選。高血鈣會降低神經肌肉的興奮性，方向與這兩個徵象相反。高血鈣的病人反而是無力、便秘、意識混亂。",
+   "B": "正確答案。題目描述的是兩個經典徵象：輕拍耳前的顏面神經引起同側抽動，是 Chvostek sign；用血壓計加壓到高於收縮壓 20 mmHg 維持 3 分鐘引發手腕抽筋，是 Trousseau sign。兩個都指向低血鈣——鈣低了，神經肌肉太容易被激發。",
+   "C": "本項不選。高血磷可以藉由降低游離鈣而間接引起手足搐搦，但題目要辨識的直接離子異常是低血鈣。",
+   "D": "本項不選。低血磷主要造成肌肉無力、橫紋肌溶解，不會典型產生這兩個低血鈣的徵象。",
+   "summary": "Chvostek（拍臉抽動）＋Trousseau（綁壓脈帶手抽筋）＝低血鈣，兩個一起出現幾乎可以確定。",
    "guideline": "FC 醫學(三)第3冊 p.67"
   },
   "source": "113020/302_11",
@@ -73601,11 +73601,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "pheochromocytoma 可有 headache、panic-like spells、polyuria、orthostasis 與 catecholamine-induced hyperglycemia。",
-   "B": "先用 plasma/urine metanephrines 生化確認，再 imaging 定位；兩者分工皆重要。",
-   "C": "傳統 rule of ten 是約 10% bilateral、10% malignant、10% extra-adrenal；不是只有 10% unilateral，故此項錯。",
-   "D": "CT 與 MRI 均對 adrenal pheochromocytoma 敏感，MRI 對特定病人與 extra-adrenal lesion 另有優勢。",
-   "summary": "傳統 rule of ten 是約 10% bilateral、10% malignant、10% extra-adrenal；不是只有 10% unilateral，故此項錯。",
+   "A": "本項不選。這些都是嗜鉻細胞瘤可能的表現：頭痛、焦慮或恐慌樣發作、多尿、姿勢性低血壓，還有兒茶酚胺造成的血糖上升。",
+   "B": "本項不選。正確流程確實是兩步都重要：先用血漿或尿液的 metanephrines 做生化確認，再用影像定位腫瘤。少了任一步都不算完整診斷。",
+   "C": "本項應選。傳統的 rule of ten 是約 10% 雙側、10% 惡性、10% 腎上腺外。把第一項寫成「10% 為單側」就錯了——單側才是大多數。",
+   "D": "本項不選。電腦斷層（CT）與磁振造影（MRI）對腎上腺的嗜鉻細胞瘤敏感度相近。MRI 在特定病人與腎上腺外病灶另有優勢。",
+   "summary": "rule of ten 的三個 10% 是「雙側、惡性、腎上腺外」——單側是常態，不是那 10%。",
    "guideline": "FC 醫學(三)第2冊 p.262"
   },
   "source": "113020/302_11",
@@ -73639,11 +73639,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "lymphocytic hypophysitis 好發 pregnancy/peripartum；stalk effect 可造成 mild hyperprolactinemia。",
-   "B": "急性 lymphocytic hypophysitis MRI 常見 symmetric pituitary enlargement、thickened stalk；empty sella 較可能是晚期萎縮結果而非典型初始影像。",
-   "C": "pituitary mass effect 可造成 headache、visual field defect。",
-   "D": "glucocorticoid 可縮小 inflammation；部分 pituitary function 可恢復，但也可能需長期 hormone replacement。",
-   "summary": "急性 lymphocytic hypophysitis MRI 常見 symmetric pituitary enlargement、thickened stalk；empty sella 較可能是晚期萎縮結果而非典型初始影像。",
+   "A": "本項不選。淋巴球性腦垂體炎好發於懷孕期與剛生產後的女性。腫大的病灶壓迫垂體柄會造成輕度高泌乳激素血症，這是常見的表現。",
+   "B": "本項應選。急性期的磁振造影（MRI）看到的是對稱性垂體腫大加上垂體柄增厚，而不是空蝶鞍。空蝶鞍是後期萎縮的結果，不是典型的初始影像。",
+   "C": "本項不選。腦下垂體的腫塊效應會造成頭痛與視野缺損，這在本病確實可能出現。",
+   "D": "本項不選。類固醇可以縮小發炎、部分垂體功能有機會恢復。但也有人恢復不了，需要長期荷爾蒙補充。",
+   "summary": "淋巴球性腦垂體炎急性期是「垂體腫起來」不是空蝶鞍——空蝶鞍是它燒完之後的疤。",
    "guideline": "FC 醫學(三)第2冊 p.214"
   },
   "source": "113020/302_11",
@@ -73677,11 +73677,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Cushing syndrome 的 fat redistribution 造成 central obesity、moon face 與 dorsocervical fat pad。",
-   "B": "glucocorticoid myopathy 典型是 proximal weakness，造成起身或爬樓梯困難，不是 distal myopathy。",
-   "C": "cortisol excess 抑制 immunity，增加 infection；demargination 造成 neutrophilic leukocytosis。",
-   "D": "hypercortisolism 造成 hypercoagulability，增加 DVT 與 pulmonary embolism。",
-   "summary": "glucocorticoid myopathy 典型是 proximal weakness，造成起身或爬樓梯困難，不是 distal myopathy。",
+   "A": "本項不選。庫欣氏症候群的脂肪重新分布，造成中心性肥胖、月亮臉與水牛肩，這些都是典型徵象。",
+   "B": "本項應選。類固醇造成的肌病變是**近端**無力，所以病人爬樓梯、從椅子上站起來會困難。題目寫成遠端肌肉無力就錯了。",
+   "C": "本項不選。皮質醇過量會抑制免疫、容易感染；同時白血球從血管壁邊緣被趕回循環，血中嗜中性球數會明顯上升。兩件事會同時出現。",
+   "D": "本項不選。高皮質醇造成凝血傾向增加，所以深部靜脈栓塞（DVT）與肺栓塞的風險上升。",
+   "summary": "類固醇的肌病變一律是近端無力——「爬樓梯困難」就是近端，寫成遠端就是錯的那個。",
    "guideline": "FC 醫學(三)第2冊 p.250"
   },
   "source": "113020/302_11",
@@ -73715,11 +73715,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "anti-TPO 與 anti-thyroglobulin antibody 支持 autoimmune thyroid disease。",
-   "B": "thyroid antibodies 增加未來 dysfunction 風險，但陽性不等於當下一定 abnormal thyroid function。",
-   "C": "endogenous thyrotoxicosis 常釋出 thyroglobulin；factitious thyroxine 因 gland 被抑制而 thyroglobulin 低。",
-   "D": "單測 TSH 無法辨識 central hypothyroidism；必須與 free T4 合併判讀。",
-   "summary": "單測 TSH 無法辨識 central hypothyroidism；必須與 free T4 合併判讀。",
+   "A": "本項不選。測甲狀腺球蛋白抗體（anti-thyroglobulin antibody）與甲狀腺過氧化酶抗體（anti-TPO）可以支持自體免疫甲狀腺疾病的診斷。",
+   "B": "本項不選。有甲狀腺抗體的人，未來發生甲狀腺功能異常的風險確實比較高。但抗體陽性不等於現在功能就已經異常。",
+   "C": "本項不選。內生性的甲狀腺毒症會釋出甲狀腺球蛋白，所以血中數值上升；吃甲狀腺素造成的偽症因為腺體被抑制，甲狀腺球蛋白反而低。這正是分辨兩者的好方法。",
+   "D": "本項應選。單獨測 TSH 抓不到腦下垂體造成的中樞性甲狀腺功能低下——那時 TSH 可能是正常或偏低的。必須同時看 free T4 才判讀得出來。",
+   "summary": "懷疑腦下垂體問題時，單看 TSH 會被騙——一定要配 free T4 一起讀。",
    "guideline": "FC 醫學(三)第2冊 p.224"
   },
   "source": "113020/302_11",
@@ -73753,11 +73753,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "type 2 diabetes 常有程度不一的 insulin resistance。",
-   "B": "β-cell dysfunction 使 insulin secretion 逐步無法補償，是 type 2 diabetes 另一核心。",
-   "C": "inappropriate hepatic gluconeogenesis 增加造成 fasting hyperglycemia。",
-   "D": "需要 insulin 只代表 type 2 diabetes 進展或急性需求，不會把疾病轉成 autoimmune type 1 diabetes。",
-   "summary": "需要 insulin 只代表 type 2 diabetes 進展或急性需求，不會把疾病轉成 autoimmune type 1 diabetes。",
+   "A": "本項不選。type 2 diabetes 都有程度不一的胰島素阻抗，這是它的核心之一。",
+   "B": "本項不選。β 細胞功能會逐漸撐不住，胰島素分泌慢慢不足以代償，這是另一個核心。",
+   "C": "本項不選。肝臟葡萄糖新生在不該進行的時候仍然增加，造成空腹血糖偏高。",
+   "D": "本項應選。需要打胰島素只代表 type 2 diabetes 進展了，或當下有急性需求。它不會把疾病變成自體免疫的 type 1 diabetes——分型看的是病因，不是用什麼藥。",
+   "summary": "打不打胰島素跟糖尿病分型無關：分型看的是病因（自體免疫 vs 胰島素阻抗），不是治療方式。",
    "guideline": "FC 醫學(三)第2冊 p.293"
   },
   "source": "113020/302_11",
@@ -73791,11 +73791,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Whipple's triad 包含補糖後症狀改善，確認症狀確由 hypoglycemia 引起。",
-   "B": "一般 fasting plasma glucose 正常下限約 70 mg/dL；50 mg/dL 已是可引起 neuroglycopenia 的低值。",
-   "C": "liver 是主要 gluconeogenic organ，prolonged fasting 時 kidney 也能重要產糖。",
-   "D": "glucose 下降時先抑制 insulin，繼而增加 glucagon、epinephrine 等 counter-regulation。",
-   "summary": "一般 fasting plasma glucose 正常下限約 70 mg/dL；50 mg/dL 已是可引起 neuroglycopenia 的低值。",
+   "A": "本項不選。Whipple's triad 確實包含「補糖後症狀改善」這一條，用來確認症狀真的是低血糖造成的。",
+   "B": "本項應選。一般空腹血漿血糖的正常下限大約是 70 mg/dL，不是 50 mg/dL。50 mg/dL 已經低到會造成腦部缺糖了，不能拿來當正常值下限。",
+   "C": "本項不選。肝臟是主要的葡萄糖新生器官，長時間禁食時腎臟也會貢獻相當比例，兩者都有這個功能。",
+   "D": "本項不選。血糖下降時的反應是有順序的：先抑制胰島素分泌，接著升糖素（glucagon）與腎上腺素等升糖荷爾蒙才上場。",
+   "summary": "空腹血糖正常下限記 70 mg/dL；50 mg/dL 不是「正常的邊界」而是「已經在傷腦」。",
    "guideline": "FC 醫學(三)第2冊 p.293",
    "concepts": [
     "whipple-triad"
@@ -83645,11 +83645,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "pravastatin 主要經 sulfation 等非 CYP3A 路徑，與 grapefruit juice 的 CYP3A interaction 最少。",
-   "B": "lovastatin 是 CYP3A substrate，grapefruit 可增加 exposure 與 myopathy risk。",
-   "C": "simvastatin 高度依賴 CYP3A metabolism，與 grapefruit interaction 明顯。",
-   "D": "atorvastatin 部分由 CYP3A4 代謝，grapefruit 也可能提高濃度。",
-   "summary": "pravastatin 主要經 sulfation 等非 CYP3A 路徑，與 grapefruit juice 的 CYP3A interaction 最少。",
+   "A": "本項應選。pravastatin 主要走硫酸化等非 CYP3A 的代謝途徑，所以受葡萄柚汁的影響最小。這也是它常被選來搭配多重用藥病人的原因。",
+   "B": "本項不選。lovastatin 是 CYP3A 的受質，葡萄柚汁會拉高它的血中濃度，增加肌病變風險。",
+   "C": "本項不選。simvastatin 高度依賴 CYP3A 代謝，與葡萄柚汁的交互作用最明顯。",
+   "D": "本項不選。atorvastatin 有一部分經 CYP3A4 代謝，葡萄柚汁同樣可能提高它的濃度。",
+   "summary": "怕葡萄柚汁的是 lovastatin、simvastatin、atorvastatin；pravastatin 不走 CYP3A，最安全。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -83683,11 +83683,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "estrogen 增加 thyroxine-binding globulin，使 total T4/T3 上升。",
-   "B": "first trimester hCG 弱刺激 TSH receptor，可暫時使 free T4 上升、TSH 下降。",
-   "C": "methimazole first-trimester embryopathy 風險使此期通常偏用 PTU，再於後期考慮轉換。",
-   "D": "pregnancy 增加 thyroxine requirement，已治療 hypothyroidism 通常需提高而非降低 levothyroxine dose。",
-   "summary": "pregnancy 增加 thyroxine requirement，已治療 hypothyroidism 通常需提高而非降低 levothyroxine dose。",
+   "A": "本項不選。懷孕時雌激素刺激甲狀腺素結合蛋白（thyroxine-binding globulin）製造增加，所以 total T3、total T4 會上升。但那是被結合的部分變多，不代表功能亢進。",
+   "B": "本項不選。第一孕程中後段的 hCG 濃度很高，它會微弱地刺激 TSH 受體，因此 free T3、free T4 可能暫時上升、TSH 下降。",
+   "C": "本項不選。methimazole 在第一孕程與胚胎病變風險相關，所以這一期通常改用 PTU，後期再考慮換回來。",
+   "D": "本項應選。方向剛好相反：懷孕會讓甲狀腺素需求**增加**，所以已在治療的甲狀腺功能低下通常需要**提高** levothyroxine 劑量，不是降低。",
+   "summary": "懷孕對甲狀腺是「需求變大」——已在吃 levothyroxine 的人要加量，不是減量。",
    "guideline": "FC 醫學(三)第2冊 p.223"
   },
   "source": "113070/302_11",
@@ -83792,11 +83792,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "tuberculosis granulomas 可由 macrophage extrarenal 1α-hydroxylase 增加 calcitriol 而高鈣。",
-   "B": "lung squamous cell carcinoma 可分泌 PTHrP，造成低 PTH 的 humoral hypercalcemia。",
-   "C": "secondary hyperparathyroidism 通常是 CKD/vitamin D deficiency 對低鈣的補償，不典型造成高鈣。",
-   "D": "長期 secondary hyperparathyroidism 自主化成 tertiary disease 後可造成高鈣。",
-   "summary": "secondary hyperparathyroidism 通常是 CKD/vitamin D deficiency 對低鈣的補償，不典型造成高鈣。",
+   "A": "本項不選。肺結核的肉芽腫裡，巨噬細胞會自己表現 1α-hydroxylase，把維他命 D 活化成 calcitriol，因此造成高血鈣。這是腎臟以外的活化途徑。",
+   "B": "本項不選。肺部鱗狀細胞癌會分泌 PTHrP，造成體液性高血鈣。它的特徵是血鈣高但 PTH 反而被壓低。",
+   "C": "本項應選。次發性副甲狀腺機能亢進是身體對低血鈣的**代償**，常見於慢性腎病（CKD）或維他命 D 缺乏。既然起點是低血鈣，它不會典型造成高血鈣。",
+   "D": "本項不選。次發性拖久了，副甲狀腺會自主化變成三發性，這時就會造成高血鈣。所以三發性是可能的原因。",
+   "summary": "次發性副甲狀腺亢進是「因為鈣低才升高」；要造成高血鈣得等它變成三發性——差一個字，方向完全不同。",
    "guideline": "FC 醫學(三)第3冊 p.67"
   },
   "source": "113070/302_11",
@@ -85548,11 +85548,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "ovarian reserve 與 fertility 自 mid-30s 明顯下降。",
-   "B": "vasomotor menopause symptoms 包括 hot flushes 與 night sweats。",
-   "C": "menopause 因 ovarian estrogen 低導致 negative feedback 減少，FSH 會持續升高而非偏低；estradiol 則低。",
-   "D": "unopposed estrogen 增加 endometrial cancer，systemic estrogen 亦增加 VTE risk；有 uterus 者通常需 progestogen。",
-   "summary": "menopause 因 ovarian estrogen 低導致 negative feedback 減少，FSH 會持續升高而非偏低；estradiol 則低。",
+   "A": "本項不選。卵巢庫存與生育能力大約從 35 歲（mid-30s）之後開始明顯下降，這是符合生理的敘述。",
+   "B": "本項不選。潮紅（hot flush）與夜間盜汗（night sweating）是更年期的血管舒縮症狀，最典型。",
+   "C": "本項應選。方向只對了一半：停經後卵巢雌激素低，負回饋消失，所以濾泡刺激素（FSH）會持續**升高**而不是偏低。雌二醇（estradiol）確實偏低。把 FSH 也寫成低就錯了。",
+   "D": "本項不選。補充雌激素能改善停經症狀，但沒有搭配黃體素的單獨雌激素會增加子宮內膜癌風險，全身性雌激素也會提高靜脈血栓（VTE）風險。有子宮的人通常要合併黃體素。",
+   "summary": "停經是「卵巢不工作、腦下垂體拚命喊」——estradiol 低但 FSH 高，兩個方向相反。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -85586,11 +85586,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "basal-bolus 是每餐 rapid/short-acting insulin 加每日一次或兩次 long-acting basal insulin。",
-   "B": "premixed insulin 已含固定 basal/prandial 比例，再疊加 long-acting 並非標準 basal-bolus。",
-   "C": "單用 ultra-long-acting insulin 只有 basal component，無法涵蓋 meals。",
-   "D": "四次 rapid-acting insulin 缺乏持續 basal coverage，尤其 type 1 diabetes 有 ketosis 風險。",
-   "summary": "basal-bolus 是每餐 rapid/short-acting insulin 加每日一次或兩次 long-acting basal insulin。",
+   "A": "正確答案。basal-bolus 的意思就是把基礎與餐時分開：三餐各打短效或速效胰島素蓋住餐後血糖，另外每天一到兩次長效胰島素撐住基礎需求。這樣最貼近生理分泌。",
+   "B": "本項不選。預混型胰島素本身已經含固定比例的基礎與餐時成分，再疊一劑長效並不是標準的 basal-bolus，劑量也難調。",
+   "C": "本項不選。只打一次超長效胰島素只有基礎那一半，蓋不住三餐後的血糖上升。",
+   "D": "本項不選。一天四次速效胰島素少了持續的基礎覆蓋。對 type 1 diabetes 來說，空檔期間有酮酸中毒的風險。",
+   "summary": "basal-bolus 就是「基礎歸基礎、吃飯歸吃飯」——少了任何一半都不算。",
    "guideline": "FC 醫學(三)第2冊 p.297"
   },
   "source": "113070/302_11",
@@ -85624,11 +85624,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "diabetic foot ulcer 可由 peripheral neuropathy、PAD、deformity 與 infection 共同造成。",
-   "B": "ischemia 降低 tissue perfusion、oxygen 與 antibiotic delivery，使 ulcer 難癒。",
-   "C": "每日足部檢查、合適鞋具、戒菸與早期處理 callus 可預防許多 ulcer，衛教有實質作用。",
-   "D": "ulcer treatment 必須 off-loading，避免持續 pressure 與 repetitive trauma。",
-   "summary": "每日足部檢查、合適鞋具、戒菸與早期處理 callus 可預防許多 ulcer，衛教有實質作用。",
+   "A": "本項不選。糖尿病足潰瘍可以由周邊神經病變、周邊動脈疾病（PAD）、足部變形與感染共同造成，血管與神經兩條路都算。",
+   "B": "本項不選。缺血會降低組織灌流，氧氣與抗生素都送不到傷口，所以潰瘍難以癒合。",
+   "C": "本項應選。衛教其實非常有效：每天檢查腳、選對鞋、戒菸、早點處理厚繭，可以預防掉很多潰瘍。說「很難透過衛教來預防」與臨床事實不符。",
+   "D": "本項不選。潰瘍治療的核心之一就是減壓（off-loading），避免患部持續受壓與反覆摩擦，否則傷口好不了。",
+   "summary": "糖尿病足最有效的介入其實是衛教與減壓——不是等潰瘍長出來才處理。",
    "guideline": "FC 醫學(三)第2冊 p.301"
   },
   "source": "113070/302_11",
@@ -85662,11 +85662,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "BMI＝100÷1.8²≈30.9，不是精確 32。",
-   "B": "臺灣 BMI≥27 定義 obesity，不因 sex 使用 27/25 不同切點。",
-   "C": "leptin 主要由 adipose tissue 分泌，反映 fat mass 並調節 hypothalamic appetite pathways。",
-   "D": "一般 obesity 的 leptin 較高但有 leptin resistance；瘦者濃度較低。",
-   "summary": "leptin 主要由 adipose tissue 分泌，反映 fat mass 並調節 hypothalamic appetite pathways。",
+   "A": "本項不選。算一次就知道：BMI＝100÷1.8²≈30.9，不是 32。這種題目一定要自己按計算機。",
+   "B": "本項不選。臺灣是以 BMI ≥27 定義肥胖，男女使用同一個切點，不是男性 27、女性 25。",
+   "C": "正確答案。瘦素（leptin）主要由脂肪組織分泌，分泌量反映脂肪量的多寡。它作用在下視丘的食慾路徑，告訴大腦「能量夠了」。",
+   "D": "本項不選。方向相反：肥胖者的 leptin 濃度通常比較高，只是身體對它產生阻抗（leptin resistance），所以吃不飽。瘦的人濃度反而低。",
+   "summary": "leptin 是脂肪派出去的信差——脂肪愈多信差愈多，肥胖的問題在大腦收不到信，不是信差太少。",
    "guideline": "FC 醫學(三)第2冊 p.287"
   },
   "source": "113070/302_11",
@@ -85700,11 +85700,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "ultrasound 可作 malignancy risk stratification 與決定 FNA，但不能單獨取得 cytology。",
-   "B": "serum thyroglobulin 不具 thyroid nodule 良惡性鑑別特異性。",
-   "C": "超音波導引細針穿刺細胞學（fine-needle aspiration cytology）是術前評估結節良惡性的標準。",
-   "D": "neck MRI 用於評估特定 invasive disease，不是一般結節的術前黃金標準。",
-   "summary": "超音波導引細針穿刺細胞學（fine-needle aspiration cytology）是術前評估結節良惡性的標準。",
+   "A": "本項不選。超音波可以做惡性風險分層、決定要不要做穿刺，但它拿不到細胞，沒辦法單獨判定良惡性。",
+   "B": "本項不選。血中甲狀腺球蛋白（thyroglobulin）對於分辨結節良惡性沒有特異性。它主要用在分化型甲狀腺癌術後的追蹤。",
+   "C": "正確答案。超音波導引的細針穿刺細胞學（fine-needle aspiration, FNA）是術前判斷結節良惡性的黃金標準，因為只有它能直接看到細胞。",
+   "D": "本項不選。頸部核磁共振（MRI）用來評估特定的侵犯範圍，不是一般結節術前的黃金標準。",
+   "summary": "只有 FNA 拿得到細胞——影像再漂亮都只是「風險分層」，不是診斷。",
    "guideline": "FC 醫學(三)第2冊 p.240"
   },
   "source": "113070/302_11",
@@ -85733,11 +85733,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "radiotherapy 起效慢，通常是 residual disease 的輔助治療。",
-   "B": "dopamine agonist 對部分 mild acromegaly 有效，但 remission rate 不及手術。",
-   "C": "經蝶鞍手術（transsphenoidal surgery）是可切除 pituitary GH adenoma 的首選。",
-   "D": "somatostatin analogue 是不能手術或術後 persistent disease 的主要藥物。",
-   "summary": "經蝶鞍手術（transsphenoidal surgery）是可切除 pituitary GH adenoma 的首選。",
+   "A": "本項不選。放射線治療起效很慢，通常是留給手術後殘存病灶的輔助手段，不會拿來當第一線。",
+   "B": "本項不選。多巴胺受體作用劑對部分輕度肢端肥大症有效，但緩解率不及手術。",
+   "C": "正確答案。只要生長激素（GH）腫瘤可以切除，經蝶鞍手術（transsphenoidal surgery）就是首選。它能一次解決荷爾蒙過量與腫瘤壓迫兩件事。",
+   "D": "本項不選。體抑素類似物（somatostatin analogue）是不能開刀、或術後仍有殘存疾病時的主力藥物，屬於後手。",
+   "summary": "肢端肥大症的順序是「能開就開」——藥物與放療都排在手術之後。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -85771,11 +85771,11 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "sick euthyroid syndrome 常先有 low T3，但此變化不夠特異。",
-   "B": "嚴重病時 T4 可低，恢復期又可能變化，不能單獨作最關鍵指標。",
-   "C": "reverse T3 因 T4→T3 conversion 減少且 clearance 下降而常升高，是題目用來辨識 euthyroid illness 的指標。",
-   "D": "thyroid ultrasound 評估結構，不診斷 systemic illness 造成的 thyroid test pattern。",
-   "summary": "reverse T3 因 T4→T3 conversion 減少且 clearance 下降而常升高，是題目用來辨識 euthyroid illness 的指標。",
+   "A": "本項不選。疾病甲狀腺正能症（sick euthyroid syndrome）確實常先出現低 T3，但很多情況都會讓 T3 掉下來，特異性不夠。",
+   "B": "本項不選。嚴重疾病時 T4 可能偏低，恢復期又會變動，單看它不足以當最關鍵指標。",
+   "C": "正確答案。逆位三碘甲狀腺素（reverse T3）是關鍵：重病時 T4 轉成 T3 的路被關掉、轉去做 reverse T3，而且 reverse T3 的清除也變慢，所以它會升高。這個「T3 低、reverse T3 高」的組合就是辨識重點。",
+   "D": "本項不選。甲狀腺超音波看的是結構，診斷不了全身性疾病造成的甲狀腺功能檢查變化。",
+   "summary": "重病時 T3 低、reverse T3 高——身體是刻意把甲狀腺素轉去做「沒作用的那一版」以省能量。",
    "guideline": "FC 醫學(三)第2冊 p.224"
   },
   "source": "113070/302_11",
@@ -86471,11 +86471,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "severe hypocalcemia 可造成 tetany、seizure、psychiatric symptoms 與 basal ganglia-related manifestations。",
-   "B": "Chvostek sign 是輕拍 facial nerve 後同側 facial muscle contraction。",
-   "C": "hypocalcemia 延長 ventricular repolarization，典型是 QTc prolongation，不是縮短與 tall T waves。",
-   "D": "digoxin 使用者快速 IV calcium 須謹慎，因可能增加 arrhythmia/toxicity risk。",
-   "summary": "hypocalcemia 延長 ventricular repolarization，典型是 QTc prolongation，不是縮短與 tall T waves。",
+   "A": "本項不選。嚴重低血鈣確實可能出現錐體外症狀、癲癇發作與精神症狀，包括幻覺，這與基底核相關的表現有關。",
+   "B": "本項不選。輕拍耳前的顏面神經造成同側顏面肌肉收縮，就是 Chvostek sign 的定義，敘述正確。",
+   "C": "本項應選。方向寫反了：低血鈣會**延長**心室再極化，心電圖典型是 QTc 延長，不是縮短加上高聳 T 波。這個病人術後第 3 天游離鈣只有 3.5 mg/dL，正是要盯心電圖的時候。",
+   "D": "本項不選。使用毛地黃（digoxin）的病人快速靜脈（IV）補鈣要非常小心，因為可能增加心律不整與毒性風險。",
+   "summary": "低血鈣的心電圖是 QTc 拉長；而正在吃毛地黃的人補鈣要慢——這兩件事一起記。",
    "guideline": "FC 醫學(三)第3冊 p.67"
   },
   "source": "113070/302_11",
@@ -86507,11 +86507,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "biguanide metformin 單用不刺激 insulin，通常不致 hypoglycemia。",
-   "B": "thiazolidinedione pioglitazone 改善 insulin sensitivity，單用低血糖風險低。",
-   "C": "sulfonylurea glipizide 關閉 β-cell KATP channel、非 glucose-dependent 促 insulin，四者中最常低血糖。",
-   "D": "α-glucosidase inhibitor acarbose 延緩 carbohydrate absorption，單用不易低血糖。",
-   "summary": "本題官方答案為複選／送分，須逐項依其藥理或病理機轉判讀。",
+   "A": "本項一律給分。就藥理來說，biguanide 類的 metformin 單獨使用不刺激胰島素分泌，通常不會造成低血糖。",
+   "B": "本項一律給分。thiazolidinedione 類的 pioglitazone 是改善胰島素敏感度，單獨使用低血糖風險也低。",
+   "C": "本項一律給分，而且就藥理來說這一項才是答案。sulfonylurea 類的 glipizide 關掉 β 細胞的 KATP 通道，不管血糖高低都逼胰島素出來，所以四者中最常低血糖。",
+   "D": "本項一律給分。α-glucosidase inhibitor 類的 acarbose 只是延緩醣類吸收，單獨使用不容易低血糖。",
+   "summary": "本題官方一律給分。真正要記的是：只有 sulfonylurea 是「不看血糖硬逼胰島素」，所以只有它常低血糖。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -96407,11 +96407,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "Fabry disease 是 GLA mutation 導致 α-galactosidase A deficiency 的罕見 X-linked lysosomal storage disease。",
-   "B": "affected father 把 X chromosome 傳給所有 daughters、傳給 sons 為 0；不是女兒一半且兒子發病。",
-   "C": "acroparesthesia、angiokeratoma、cornea verticillata 等可提示 Fabry；男性可測 enzyme activity，女性常需 genetic testing。",
-   "D": "enzyme replacement/chaperone 與器官支持治療可延緩 Fabry complications，ESKD 仍可需 dialysis/transplant。",
-   "summary": "affected father 把 X chromosome 傳給所有 daughters、傳給 sons 為 0；不是女兒一半且兒子發病。",
+   "A": "本項不選。Fabry disease 是 GLA 基因突變造成 α-galactosidase A 缺乏的罕見溶酶體儲積症，屬 X 染色體性聯遺傳，各人種都有。",
+   "B": "本項應選。性聯遺傳的傳遞方式被寫反了。父親只有一條 X 染色體，他會把它傳給**所有**女兒，所以女兒 100% 帶因，不是一半；兒子拿到的是父親的 Y，所以兒子完全不會從父親得到這個病，機率是 0。",
+   "C": "本項不選。診斷確實是這個流程：先靠家族史、四肢疼痛、皮膚血管角化瘤、渦狀角膜濁斑與尿沉渣中的脂質細胞建立懷疑，再測白血球的 α-galactosidase A 活性確診，必要時做基因分析。要注意女性帶因者酵素活性可能正常，常需靠基因檢測。",
+   "D": "本項不選。治療分症狀治療與酵素替代療法：神經痛用藥物緩解，心臟與腦血管併發症依一般原則處理，進展到末期腎病（ESKD）仍需透析或移植。",
+   "summary": "性聯遺傳看父親怎麼傳：X 給女兒、Y 給兒子——所以父親有病，女兒全帶因、兒子完全不受影響。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97280,11 +97280,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "20–50 歲女性是 thyroid nodule 常見低風險族群，本身不是最可疑 cancer risk。",
-   "B": "unilateral cervical lymphadenopathy 可代表 nodal metastasis，屬 malignancy red flag。",
-   "C": "childhood/head-neck radiation 增加 thyroid cancer risk。",
-   "D": "hoarseness 合併 vocal cord paralysis 提示 recurrent laryngeal nerve invasion。",
-   "summary": "20–50 歲女性是 thyroid nodule 常見低風險族群，本身不是最可疑 cancer risk。",
+   "A": "本項應選。20 至 50 歲的女性本來就是甲狀腺結節最常見的族群，而且多數是良性。這個條件本身不構成惡性的危險因子，所以最不可能。",
+   "B": "本項不選。合併單側頸部淋巴結病變可能代表淋巴結轉移，是明確的惡性警訊。",
+   "C": "本項不選。頭頸部曾接受放射線治療會增加甲狀腺癌風險，尤其兒童時期照射過的人。",
+   "D": "本項不選。聲音沙啞合併聲帶麻痺，提示喉返神經被侵犯，是很強的惡性徵象。",
+   "summary": "結節的惡性警訊看「有沒有侵犯到旁邊」：淋巴結、聲帶麻痺、放射線病史；年輕女性反而是最常見的良性族群。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97313,11 +97313,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "MEN2A 最典型 RET codon 634 mutation，常伴 medullary thyroid carcinoma、pheochromocytoma 與 hyperparathyroidism。",
-   "B": "RET M918T 強烈關聯 MEN2B，而非最常見 MEN2A codon。",
-   "C": "RET codon 618 可見 MEN2A/FMTC，但不如 codon 634 常見。",
-   "D": "CDKN1B mutation 造成 MEN4，不是 MEN2A。",
-   "summary": "MEN2A 最典型 RET codon 634 mutation，常伴 medullary thyroid carcinoma、pheochromocytoma 與 hyperparathyroidism。",
+   "A": "正確答案。MEN 2A 最典型的是 RET codon 634 突變，臨床三聯就是甲狀腺髓質癌、嗜鉻細胞瘤與副甲狀腺病變。codon 634 也與較早發、較高外顯率的髓質癌相關。",
+   "B": "本項不選。RET M918T（codon 918）強烈關聯的是 MEN 2B，不是 MEN 2A 最常見的密碼。",
+   "C": "本項不選。RET codon 618 確實可見於 MEN 2A 與家族性髓質癌（FMTC），但沒有 codon 634 常見。",
+   "D": "本項不選。CDKN1B 突變造成的是 MEN 4，和 MEN 2A 是不同的症候群。",
+   "summary": "RET 的兩個關鍵密碼：634 是 MEN 2A、918 是 MEN 2B；CDKN1B 則跳到 MEN 4。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97346,11 +97346,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "metformin 抑制 hepatic gluconeogenesis，會降低 glucose。",
-   "B": "glargine 是 long-acting insulin，提供 basal glucose lowering。",
-   "C": "glucagon 促進 hepatic glycogenolysis/gluconeogenesis，會升血糖而非降低。",
-   "D": "degludec 是 ultra-long-acting insulin，降低 fasting glucose。",
-   "summary": "glucagon 促進 hepatic glycogenolysis/gluconeogenesis，會升血糖而非降低。",
+   "A": "本項不選。metformin 抑制肝臟葡萄糖新生，是降血糖藥。",
+   "B": "本項不選。glargine 是長效胰島素，提供基礎的降血糖作用。",
+   "C": "本項應選。glucagon 的作用完全相反：它促進肝醣分解與葡萄糖新生，是**升**血糖的。臨床上正是拿它來救嚴重低血糖。",
+   "D": "本項不選。degludec 是超長效胰島素，主要降低空腹血糖。",
+   "summary": "四個裡有兩個是胰島素、一個是口服降糖藥，只有 glucagon 是升血糖——它是低血糖的解藥不是病因。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97379,11 +97379,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "hypothyroidism 可伴 modest weight gain；Cushing syndrome 等 endocrine causes 也須鑑別。",
-   "B": "臺灣 abdominal obesity 切點男性 ≥90 cm、女性 ≥80 cm，不是兩性皆 90。",
-   "C": "Cushing syndrome 的 fat redistribution 造成 central obesity。",
-   "D": "obesity 透過 insulin resistance 強烈增加 type 2 diabetes risk。",
-   "summary": "臺灣 abdominal obesity 切點男性 ≥90 cm、女性 ≥80 cm，不是兩性皆 90。",
+   "A": "本項不選。甲狀腺功能異常確實與體重相關，甲狀腺功能低下可伴輕度體重增加，所以肥胖要鑑別內分泌原因。",
+   "B": "本項應選。臺灣的腹部肥胖腰圍切點是男性 ≥90 公分、女性 ≥80 公分，男女不同。寫成兩性皆 90 公分就錯了。",
+   "C": "本項不選。庫欣氏症候群的脂肪重新分布會造成中心性肥胖，是典型表現。",
+   "D": "本項不選。肥胖透過胰島素阻抗大幅提高 type 2 diabetes 的風險，兩者關係非常強。",
+   "summary": "臺灣腰圍切點男 90、女 80——男女不同是這題唯一的考點。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97412,11 +97412,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "DKA 典型發生於 type 1 diabetes，但 type 2 也可能發生。",
-   "B": "DKA 不應給 1 unit/kg insulin bolus；通常在補液並確認 K 後以約 0.1 unit/kg/hour IV regular insulin 治療。",
-   "C": "infection 增加 counter-regulatory hormones，是 DKA 常見 trigger。",
-   "D": "明顯脫水的成人最初數小時常需快速 0.9% saline，速度依 hemodynamics、心腎狀態調整。",
-   "summary": "DKA 不應給 1 unit/kg insulin bolus；通常在補液並確認 K 後以約 0.1 unit/kg/hour IV regular insulin 治療。",
+   "A": "本項不選。糖尿病酮酸中毒（DKA）典型發生在 type 1 diabetes，但 type 2 diabetes 在壓力或特定情況下也可能發生。",
+   "B": "本項應選。劑量整整差了一個數量級。DKA 不能給 1 unit/kg 的胰島素 bolus，那會讓血糖與血鉀掉太快。標準做法是先補液、確認血鉀不低，再用大約 0.1 unit/kg/hour 的靜脈（IV）regular insulin 持續輸注。",
+   "C": "本項不選。感染會拉高升糖荷爾蒙，是 DKA 最常見的誘因之一。所以每個 DKA 病人都要找感染源。",
+   "D": "本項不選。明顯脫水的成人在最初 1～3 小時常需要 2～3 公升的 0.9% 食鹽水。實際速度要看血行動力學與心腎狀態調整。",
+   "summary": "DKA 的胰島素是「每小時 0.1 unit/kg 慢慢滴」，不是一次 1 unit/kg 推下去——而且補液與補鉀要走在前面。",
    "guideline": null,
    "concepts": [
     "dka-diagnostic-criteria"
@@ -97448,11 +97448,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "等待 ACTH/cortisol 結果會延誤 refractory shock 的 lifesaving glucocorticoid。",
-   "B": "adrenal crisis 不等待固定 8 AM/4 PM sampling，且 critical illness 破壞正常 diurnal rhythm。",
-   "C": "先抽 ACTH/cortisol 後立即給 IV hydrocortisone 與 fluids，不能等結果。",
-   "D": "cosyntropin test 可日後確認，但不應延誤 suspected adrenal crisis 治療。",
-   "summary": "先抽 ACTH/cortisol 後立即給 IV hydrocortisone 與 fluids，不能等結果。",
+   "A": "本項不選。等 ACTH 與 cortisol 的結果會延誤救命的類固醇。這個病人已經對大量輸液與升壓劑反應不良，等不起。",
+   "B": "本項不選。腎上腺危症不能等固定的 8AM 與 4PM 採檢。重症本身就會破壞正常的日夜節律，那組數值也不會準。",
+   "C": "正確答案。順序是「抽完就給」：先抽 ACTH 與 cortisol 保留診斷證據，然後**不等結果**立刻給靜脈（IV）hydrocortisone 加輸液。40 年前產後大出血的病史指向希漢氏症候群，這是典型的腎上腺危症。",
+   "D": "本項不選。cosyntropin test（ACTH 刺激試驗）可以之後再做確認，但不能拿來延誤懷疑中的腎上腺危症治療。",
+   "summary": "腎上腺危症的口訣是「先抽血、不等結果、馬上打 hydrocortisone」——診斷可以晚一點補。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97481,11 +97481,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "PTU/methimazole 阻斷新 hormone synthesis；PTU 另減少 T4→T3 conversion。",
-   "B": "hydrocortisone 支持 possible adrenal insufficiency 並降低 peripheral T4→T3 conversion。",
-   "C": "potassium iodide 在 thionamide 後給，可急性抑制 hormone release。",
-   "D": "amiodarone 含大量 iodine 且可造成 thyroid dysfunction，不是 thyroid storm tachyarrhythmia 的常規建議；rate control 通常用 β-blocker。",
-   "summary": "amiodarone 含大量 iodine 且可造成 thyroid dysfunction，不是 thyroid storm tachyarrhythmia 的常規建議；rate control 通常用 β-blocker。",
+   "A": "本項不選。propylthiouracil（PTU）與 methimazole 阻斷新的甲狀腺荷爾蒙合成，PTU 還能減少周邊 T4 轉成 T3，是甲狀腺風暴的基本用藥。",
+   "B": "本項不選。hydrocortisone 一方面支援可能同時存在的腎上腺功能不足，一方面降低周邊 T4 轉 T3，兩個作用都用得上。",
+   "C": "本項不選。飽和碘化鉀溶液要在 thionamide 之後才給，可以急性抑制已合成荷爾蒙的釋放。順序不能顛倒，否則反而供料給甲狀腺。",
+   "D": "本項應選。amiodarone 本身含大量碘，而且會造成甲狀腺功能異常，不是甲狀腺風暴心搏過速的常規建議用藥。這種情況控制心跳要用 β 阻斷劑。",
+   "summary": "甲狀腺風暴控制心跳用 β 阻斷劑；amiodarone 含碘，等於火上加油。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -106520,11 +106520,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "corrected calcium＝11.2+0.8×(4−3)=12.0 mg/dL，約 3.0 mmol/L，不是 3.9 mmol/L。",
-   "B": "低 PTH 高鈣合併重度吸菸與 weight loss 應考慮 PTHrP-producing malignancy。",
-   "C": "milk-alkali syndrome 可造成 hypercalcemia、AKI 與 metabolic alkalosis，需查 calcium/alkali ingestion。",
-   "D": "normal saline 修復 volume depletion 並增加 calciuresis，是初始處置；loop diuretic 僅在補足容量後特定情況用。",
-   "summary": "corrected calcium＝11.2+0.8×(4−3)=12.0 mg/dL，約 3.0 mmol/L，不是 3.9 mmol/L。",
+   "A": "本項應選。這一項是計算錯誤。校正公式是：測得鈣 11.2 ＋ 0.8×(4 − 白蛋白 3.0)，也就是 11.2+0.8×(4−3)=12.0 mg/dL，換算大約 3.0 mmol/L，不是 3.9 mmol/L。",
+   "B": "本項不選。PTH 只有 7.7 pg/mL（被壓低）卻高血鈣，加上重度吸菸與體重減輕，要高度懷疑分泌 PTHrP 的惡性腫瘤。",
+   "C": "本項不選。牛奶–鹼劑症候群（milk-alkali syndrome）會造成高血鈣、急性腎損傷（AKI）與代謝性鹼中毒，所以要問鈣片與制酸劑的攝取。它確實可能是原因之一。",
+   "D": "本項不選。生理食鹽水先補回流失的容積，同時增加尿鈣排泄，是高血鈣的第一步處置。利尿劑要等容積補足後、特定情況才用。",
+   "summary": "看到高血鈣先做兩件事：把白蛋白校正算一次、看 PTH 是高是低——PTH 被壓低就往腫瘤找。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107291,11 +107291,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "high renin/high aldosterone 可見 renovascular hypertension 或 renin-secreting state。",
-   "B": "high renin 應刺激 aldosterone；在低鉀高血壓且 renal K wasting 的架構下 high renin/low aldosterone 最不相容。",
-   "C": "low renin/high aldosterone 是 primary aldosteronism。",
-   "D": "low renin/low aldosterone 可見 Liddle syndrome、apparent mineralocorticoid excess 或 exogenous mineralocorticoid effect。",
-   "summary": "high renin 應刺激 aldosterone；在低鉀高血壓且 renal K wasting 的架構下 high renin/low aldosterone 最不相容。",
+   "A": "本項不選。腎素高、醛固酮也高，可見於腎血管性高血壓或分泌腎素的狀態。兩者同向是合理的。",
+   "B": "本項應選。腎素高本來就會刺激醛固酮上升，所以「腎素高但醛固酮低」在生理上最不相容。這個病人是低血鉀、高血壓、尿鉀 30 mmol/L 代表腎臟在漏鉀，更需要醛固酮的作用來解釋。",
+   "C": "本項不選。腎素低、醛固酮高，正是原發性醛固酮增多症的典型組合。",
+   "D": "本項不選。腎素低、醛固酮也低，可見於 Liddle syndrome、表象性礦物皮質素過多，或外來礦物皮質素的作用。",
+   "summary": "低血鉀＋高血壓要看 renin 與 aldosterone 的組合；唯一講不通的是「腎素高卻醛固酮低」。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -108101,11 +108101,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "adrenal incidentaloma 在任何 biopsy/surgery 前先排功能性 tumor；量測 catecholamine metabolites 可避免漏掉 pheochromocytoma。",
-   "B": "2-cm lesion 未證實 functional/malignant，不直接切除。",
-   "C": "未排除 pheochromocytoma 前 adrenal FNA 可能誘發 crisis，且不能區分 adenoma 與 adrenocortical carcinoma。",
-   "D": "有肺腫瘤時 adrenal lesion 可能影響 staging，但不能只追蹤而不先 hormonal evaluation。",
-   "summary": "adrenal incidentaloma 在任何 biopsy/surgery 前先排功能性 tumor；量測 catecholamine metabolites 可避免漏掉 pheochromocytoma。",
+   "A": "正確答案。腎上腺意外瘤的第一步永遠是先確認它有沒有分泌功能，不是先切也不是先穿刺。量 24 小時尿液的 catecholamine 與 VMA，就是為了不要漏掉嗜鉻細胞瘤。",
+   "B": "本項不選。這顆 2 公分的病灶還沒證實有功能或惡性，不會直接切除。",
+   "C": "本項不選。在排除嗜鉻細胞瘤之前做腎上腺細針穿刺（FNA）可能誘發危象。而且穿刺也分不出腎上腺腺瘤與腎上腺皮質癌。",
+   "D": "本項不選。這位病人同時有肺部腫瘤，腎上腺病灶可能影響分期，確實需要處理。但不能只追蹤而跳過荷爾蒙評估。",
+   "summary": "腎上腺意外瘤的鐵則：先驗功能（尤其嗜鉻細胞瘤），再談切除或穿刺。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -108134,11 +108134,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "cabergoline 可降低 mild GH/IGF-I elevation，整體效力較弱。",
-   "B": "pegvisomant 阻斷 GH receptor，可使 IGF-I 正常化但不降低 serum GH，故不符合「兩者都降」。",
-   "C": "somatostatin analogues 抑制 pituitary GH secretion，因而同時降低 GH 與 IGF-I，四者最符合。",
-   "D": "bromocriptine 對 acromegaly 效果弱於 cabergoline 與 somatostatin analogue。",
-   "summary": "somatostatin analogues 抑制 pituitary GH secretion，因而同時降低 GH 與 IGF-I，四者最符合。",
+   "A": "本項不選。cabergoline 對輕度的 GH／IGF-I 上升有幫助，但整體效力比較弱。",
+   "B": "本項不選。pegvisomant 擋的是 GH 受體，所以 IGF-I 可以正常化，但血中 GH 反而不會降。題目要的是兩者都降，它不符合。",
+   "C": "正確答案。somatostatin analogue 直接抑制腦下垂體分泌 GH，源頭被關掉，GH 與 IGF-I 就一起下降。四個選項裡只有它同時做到兩件事。",
+   "D": "本項不選。bromocriptine 對肢端肥大症的效果比 cabergoline 還弱，更不及 somatostatin analogue。",
+   "summary": "要 GH 和 IGF-I 一起降就得從源頭抑制分泌；pegvisomant 只擋受體，IGF-I 降但 GH 不降。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -108170,11 +108170,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "propranolol 常用於 thyroid storm 控制 adrenergic symptoms，但一般 symptomatic thyrotoxicosis 也會使用。",
-   "B": "PTU 可用於 thyroid storm，亦是一般 hyperthyroidism 的 antithyroid drug。",
-   "C": "carbimazole/methimazole 是一般 Graves disease 常用長期藥，不限 crisis。",
-   "D": "Lugol's solution 用於 thyroid storm 或術前短期抑制 hormone release，不作一般長期 hyperthyroidism 單藥；本題送分更正需依官方答案 A–D 理解為題意/命題瑕疵。",
-   "summary": "本題官方答案為複選／送分，須逐項依其藥理或病理機轉判讀。",
+   "A": "本項一律給分。propranolol 在甲狀腺風暴用來控制交感症狀，但一般有症狀的甲狀腺毒症也會用，不限於危象。",
+   "B": "本項一律給分。propylthiouracil（PTU）可用於甲狀腺風暴，但它同時也是一般甲狀腺亢進的抗甲狀腺藥。",
+   "C": "本項一律給分。carbimazole 與 methimazole 是 Graves disease 常用的長期藥物，更不限於危象時使用。",
+   "D": "本項一律給分，而且就藥理來說它最接近題意。Lugol's solution 用在甲狀腺風暴或術前短期抑制荷爾蒙釋放，不會拿來當一般甲狀腺亢進的長期單一用藥。",
+   "summary": "本題官方 A–D 一律給分。真正的分界是「碘」：Lugol's solution 只在風暴或術前短期用，其餘三個平時就會開。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -108204,11 +108204,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "retinopathy 是典型 microvascular complication。",
-   "B": "coronary heart disease 是 atherosclerotic macrovascular complication。",
-   "C": "diabetic foot 同時涉及 neuropathy、infection 與 PAD；不能說只有 microvascular、不是 macrovascular。",
-   "D": "chronic hyperglycemia 與 macrovascular risk 有關，但單純降糖對 macrovascular outcome 的關係較 microvascular 複雜；官方複選將此項列不適當。",
-   "summary": "本題官方答案為複選／送分，須逐項依其藥理或病理機轉判讀。",
+   "A": "本項不選。糖尿病視網膜病變是典型的微血管病變，敘述正確。",
+   "B": "本項不選。冠狀動脈心臟病屬於動脈粥狀硬化造成的大血管病變，敘述正確。",
+   "C": "本項應選（官方複選之一）。糖尿病足是神經病變、感染與周邊動脈疾病（PAD）三者一起造成的。把它說成「只有微血管、不是大血管」不成立——缺血正是它難癒合的主因。",
+   "D": "本項應選（官方複選之一）。慢性高血糖確實與大血管風險相關。但「嚴格降糖能不能改善大血管結果」在試驗上比微血管複雜得多，官方把這一項也列為不適當。",
+   "summary": "本題官方複選 C、D。要記的是糖尿病足是大小血管加神經一起出問題，不是單純微血管病變。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -108237,11 +108237,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "A 只有 BP、TG 兩項；腰圍未達 NCEP male cutoff，HDL 正常，故不足三項。",
-   "B": "B 有 fasting glucose、TG 兩項；BMI 與 albuminuria 不是 NCEP ATP III 五項，故不足。",
-   "C": "C 有 waist、BP、fasting glucose、TG 四項，達至少三項的 metabolic syndrome 診斷。",
-   "D": "D 雖有 BP、fasting glucose，但 BMI、total cholesterol 不取代 waist/TG，HDL 亦正常，僅兩項。",
-   "summary": "C 有 waist、BP、fasting glucose、TG 四項，達至少三項的 metabolic syndrome 診斷。",
+   "A": "本項不選。這位只符合血壓（BP）與三酸甘油酯兩項。腰圍 89 cm 沒到 NCEP 男性切點，HDL-C 46 mg/dL 也正常，不足三項。",
+   "B": "本項不選。空腹血糖 109 mg/dL 與三酸甘油酯 242 mg/dL 算兩項。但 BMI 24 與白蛋白尿排泄率並不在 NCEP ATP III 的五項條件裡，所以湊不到三項。",
+   "C": "正確答案。逐項數：腰圍 105 cm、血壓 142/86 mmHg、空腹血糖 116 mg/dL、三酸甘油酯 216 mg/dL，四項都達標。超過「至少三項」的門檻，符合代謝症候群。",
+   "D": "本項不選。血壓 146/88 mmHg 與空腹血糖 123 mg/dL 算兩項。但 BMI 30 取代不了腰圍、總膽固醇 254 mg/dL 也不是條件之一，HDL 也正常（HDL-C 46 mg/dL），只有兩項。",
+   "summary": "代謝症候群是「數項目」的題：只有腰圍、血壓、血糖、TG、HDL-C 這五項算數，BMI 與總膽固醇都不算。",
    "guideline": null,
    "concepts": [
     "ncep-atp-iii-metabolic-syndrome-criteria"
@@ -108273,11 +108273,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "thiazide 較可能造成 hyperglycemia，並非典型 hypoglycemia 原因。",
-   "B": "insulinoma 自主分泌 insulin，造成 fasting hypoglycemia。",
-   "C": "glimepiride overdose 持續刺激 insulin release，可造成 prolonged hypoglycemia。",
-   "D": "sepsis 因 glycogen depletion、impaired gluconeogenesis 與高消耗可造成低血糖。",
-   "summary": "thiazide 較可能造成 hyperglycemia，並非典型 hypoglycemia 原因。",
+   "A": "本項應選。thiazide 類藥物的典型代謝副作用是**升**血糖，不是低血糖。四個選項裡只有它方向相反。",
+   "B": "本項不選。胰島素瘤會自主分泌胰島素，造成空腹低血糖，是典型原因。",
+   "C": "本項不選。glimepiride 屬 sulfonylurea，過量會持續刺激胰島素釋放，造成長時間的低血糖，而且可能反覆。",
+   "D": "本項不選。敗血症會耗盡肝醣、損害葡萄糖新生又大量消耗能量，因此可能造成低血糖。",
+   "summary": "thiazide 是把血糖往上推的藥——問「不會低血糖」時它就是答案。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -108306,11 +108306,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "疑似 DKA 必須抽 venous/arterial pH、electrolytes、anion gap、ketone 與 renal function。",
-   "B": "IV fluids、potassium-guided insulin 是 DKA 核心治療。",
-   "C": "這是 insulin 缺乏/漏用或壓力需求增加，不是 insulin 無效；改口服藥會延誤 DKA。",
-   "D": "glucose 560 合併 GI symptoms、polyuria、weight loss 應住院監測與治療。",
-   "summary": "這是 insulin 缺乏/漏用或壓力需求增加，不是 insulin 無效；改口服藥會延誤 DKA。",
+   "A": "本項不選。血糖 560 mg/dL 又有噁心嘔吐腹痛，必須抽血看血糖、電解質與 pH，還要算陰離子間隙、驗酮體與腎功能，確認是不是 DKA。",
+   "B": "本項不選。靜脈（IV）輸液加上依血鉀調整的胰島素，正是 DKA 的核心治療。",
+   "C": "本項應選。這不是「胰島素無效」，而是工作壓力大、熬夜、喝含糖飲料，加上胰島素可能沒打或劑量不夠。改用其他降血糖藥會延誤 DKA 的治療。",
+   "D": "本項不選。血糖 560 mg/dL 合併腸胃（GI）症狀、多尿與體重減輕，本來就該住院監測與治療。",
+   "summary": "血糖飆高又吐又腹痛，先想 DKA——這時要加強胰島素與輸液，不是換藥。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -117229,11 +117229,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "age 是不可逆的 osteoporosis risk factor。",
-   "B": "smoking 可戒除，且戒菸能減少持續 bone loss 與 fracture risk，屬 modifiable factor。",
-   "C": "female sex 是不可調整的 biological risk marker。",
-   "D": "first-degree family fracture history 是遺傳/家族風險，不可修改。",
-   "summary": "smoking 可戒除，且戒菸能減少持續 bone loss 與 fracture risk，屬 modifiable factor。",
+   "A": "本項不選。年老是無法改變的骨鬆危險因子，只能靠其他方式代償。",
+   "B": "正確答案。抽菸是可以調節（modifiable）的因子：戒掉之後能減少持續的骨質流失與骨折風險。這也是骨鬆衛教一定要問抽菸的原因。",
+   "C": "本項不選。女性是生物性的風險標記，無法調整。",
+   "D": "本項不選。一等親屬的骨折史屬於遺傳與家族風險，同樣改不了。",
+   "summary": "骨鬆危險因子分「改得動」與「改不動」——年齡、性別、家族史都改不動，抽菸可以。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118905,11 +118905,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "pituitary tumor 是 mass lesion，不是 Sheehan syndrome 機轉。",
-   "B": "產後大出血造成 enlarged pregnancy pituitary ischemic necrosis，導致 postpartum hypopituitarism，即 Sheehan syndrome。",
-   "C": "hyperprolactinemia 抑制 gonadal axis，但 Sheehan 常反而 prolactin deficiency、無法泌乳。",
-   "D": "autoimmune postpartum hypophysitis 是另一鑑別，不是 Sheehan 的主要機轉。",
-   "summary": "產後大出血造成 enlarged pregnancy pituitary ischemic necrosis，導致 postpartum hypopituitarism，即 Sheehan syndrome。",
+   "A": "本項不選。腦下垂體腫瘤造成的是腫塊壓迫，那是另一種機轉，不是希漢氏症候群。",
+   "B": "正確答案。懷孕時腦下垂體本來就會脹大、血流需求增加。產後一旦大出血、血壓掉下來，脹大的垂體就缺血壞死，造成產後腦下垂體功能低下——這就是希漢氏症候群（Sheehan's syndrome）。",
+   "C": "本項不選。高泌乳素血症會抑制性腺軸沒錯，但希漢氏症候群反而是泌乳素**不足**，典型表現就是產後無法泌乳。",
+   "D": "本項不選。自體免疫的產後腦垂體炎是重要的鑑別診斷，但它不是希漢氏症候群的機轉。",
+   "summary": "希漢氏症候群＝產後大出血把脹大的腦下垂體「餓死」；第一個線索常是產後沒有奶水。",
    "guideline": null,
    "concepts": [
     "sheehan-syndrome-definition"
@@ -118941,11 +118941,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "ACTH 不是 AVP 分泌的主要 physiologic sensor。",
-   "B": "hypothalamic osmoreceptors 感受 plasma osmolality 微小變化，是 AVP 調控主軸；明顯低血容量亦可強力刺激。",
-   "C": "T3/T4 不直接作 AVP 的主要調節訊號。",
-   "D": "glucose 會影響 measured osmolality 與水移動，但不是主要 AVP sensor。",
-   "summary": "hypothalamic osmoreceptors 感受 plasma osmolality 微小變化，是 AVP 調控主軸；明顯低血容量亦可強力刺激。",
+   "A": "本項不選。促腎上腺皮質激素（ACTH）不是抗利尿激素（AVP）分泌的主要生理感測訊號。",
+   "B": "正確答案。下視丘的滲透壓感受器對血漿滲透壓的微小變化就有反應，是調控 AVP 的主軸。另外，明顯的低血容量也能強力刺激 AVP，即使滲透壓不高。",
+   "C": "本項不選。甲狀腺素（T3/T4）不是 AVP 的主要調節訊號。",
+   "D": "本項不選。血糖會影響測得的滲透壓與水分移動，但它不是 AVP 的主要感測對象。",
+   "summary": "AVP 主要看滲透壓；但血容量掉太多時，身體會不顧滲透壓也把 AVP 放出來保水。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118974,11 +118974,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "24-hour urine catecholamines 可診斷，但 sensitivity 通常低於 metanephrines。",
-   "B": "plasma free metanephrines 因 tumor 持續代謝 catecholamine 而高度敏感，適合高疑慮病人。",
-   "C": "low-dose dexamethasone test 篩 Cushing syndrome。",
-   "D": "ACTH stimulation test 評估 adrenal insufficiency。",
-   "summary": "plasma free metanephrines 因 tumor 持續代謝 catecholamine 而高度敏感，適合高疑慮病人。",
+   "A": "本項不選。24 小時尿液 catecholamines 可以診斷，但敏感度通常不如 metanephrines。腫瘤是陣發性分泌的，尿液收集期間剛好沒發作就可能漏掉。",
+   "B": "正確答案。血漿游離 metanephrines 敏感度最高。關鍵在機轉：腫瘤細胞會**持續**把 catecholamine 代謝成 metanephrines，不管有沒有發作都在漏出來，所以驗得到。高度懷疑的病人就選它。",
+   "C": "本項不選。低劑量 dexamethasone 抑制試驗是用來篩庫欣氏症候群的，不是嗜鉻細胞瘤。",
+   "D": "本項不選。ACTH 刺激試驗評估的是腎上腺功能不足，方向完全不同。",
+   "summary": "嗜鉻細胞瘤發作是陣發的，但代謝是持續的——所以驗 metanephrines 比驗 catecholamine 本身敏感。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119007,11 +119007,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "Pompe 是 autosomal recessive，但 infantile 與 late-onset 皆可，不能說通常只成年發病。",
-   "B": "Pompe 是 glycogen storage disease type II，不是 type I。",
-   "C": "Pompe 源於 lysosomal acid α-glucosidase deficiency，不是 liver phosphorylase kinase deficiency。",
-   "D": "臺灣 newborn screening 納入 Pompe；enzyme replacement therapy 可改善 survival、cardiac 與 motor outcomes。",
-   "summary": "臺灣 newborn screening 納入 Pompe；enzyme replacement therapy 可改善 survival、cardiac 與 motor outcomes。",
+   "A": "本項敘述錯誤。龐貝氏症（Pompe disease）確實是體染色體隱性遺傳，但嬰兒型與晚發型都存在，不能說「通常在成年期發病」。嬰兒型進展最快也最致命。",
+   "B": "本項敘述錯誤。它是肝醣儲積症**第二型**（GSD type II），不是第一型。",
+   "C": "本項敘述錯誤。缺的是溶酶體的酸性 α-glucosidase，不是肝臟磷酸化酶激酶。缺陷位置不同，病理與治療也完全不同。",
+   "D": "正確答案。臺灣已經把龐貝氏症納入新生兒篩檢，這是很關鍵的一步——因為酵素替代療法（enzyme replacement therapy）愈早開始，存活、心臟與運動功能的結果愈好。",
+   "summary": "龐貝氏症＝GSD type II、缺酸性 α-glucosidase；臺灣有新生兒篩檢，早打酵素差很多。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119040,11 +119040,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "LADA 定義上成人起病後最初一段時間可不需 insulin，常被誤認 type 2 diabetes。",
-   "B": "LADA onset 比典型 childhood type 1 diabetes 晚。",
-   "C": "anti-GAD65 是 LADA 最常用 islet autoantibody marker。",
-   "D": "LADA β-cell loss 通常比 classic type 1 diabetes 慢、比 type 2 diabetes 快；說比 type 1 更快錯。",
-   "summary": "LADA β-cell loss 通常比 classic type 1 diabetes 慢、比 type 2 diabetes 快；說比 type 1 更快錯。",
+   "A": "本項不選。LADA 的定義本來就包含「成人起病後有一段時間不需要胰島素」，所以它常在早期被誤當成 type 2 diabetes。",
+   "B": "本項不選。它的發病年齡確實比典型兒童期發病的 type 1 diabetes 晚，這是名稱裡「成人」的由來。",
+   "C": "本項不選。anti-glutamic acid decarboxylase antibody（anti-GAD65）是 LADA 最常用的胰島自體抗體標記。",
+   "D": "本項應選。速度講反了。LADA 的 β 細胞功能流失比典型 type 1 diabetes **慢**，但比 type 2 diabetes 快——它正好卡在兩者中間。",
+   "summary": "LADA 是「慢速版的 type 1」：抗體像 type 1、速度介於兩者之間，所以早期看起來像 type 2。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119073,11 +119073,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "primary hyperparathyroidism 的 chronic high PTH 會增加 cortical bone loss 與 osteoporosis。",
-   "B": "hypercalciuria 可造成 recurrent calcium nephrolithiasis。",
-   "C": "hypercalcemia 降低 GI motility，可造成 constipation。",
-   "D": "手麻、carpal spasm 是 hypocalcemia neuromuscular irritability，最不符合 hypercalcemia。",
-   "summary": "手麻、carpal spasm 是 hypocalcemia neuromuscular irritability，最不符合 hypercalcemia。",
+   "A": "本項不選。長期高 PTH 會加速皮質骨流失，骨質疏鬆是原發性副甲狀腺機能過高的典型表現。",
+   "B": "本項不選。高尿鈣會造成反覆的含鈣腎結石，這也是典型表現之一。",
+   "C": "本項不選。高血鈣會降低腸胃道（GI）蠕動，所以便秘很常見。",
+   "D": "本項應選。手麻與抽筋是**低**血鈣造成的神經肌肉過度興奮。這個病是高血鈣，方向剛好相反，所以最不常見。",
+   "summary": "副甲狀腺機能過高的口訣「骨頭痛、結石、腹部悶、精神亂」全是高血鈣；手麻抽筋是低血鈣才有。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119106,11 +119106,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "Graves disease 由 TSH-receptor antibody 造成 hyperthyroidism。",
-   "B": "Graves ophthalmopathy 是 autoimmune orbital fibroblast disease。",
-   "C": "diffuse goiter 是 Graves 常見表現。",
-   "D": "pretibial myxedema 是 nonpitting、indurated dermopathy，不是 pitting edema。",
-   "summary": "pretibial myxedema 是 nonpitting、indurated dermopathy，不是 pitting edema。",
+   "A": "本項不選。葛雷夫氏症由 TSH-receptor antibody 刺激甲狀腺，造成甲狀腺機能亢進，這是它的核心。",
+   "B": "本項不選。眼病變是自體免疫攻擊眼窩纖維母細胞造成的，屬於葛雷夫氏症的特徵表現。",
+   "C": "本項不選。瀰漫性甲狀腺腫也是常見表現，整個腺體都被刺激而變大。",
+   "D": "本項應選。葛雷夫氏症的皮膚表現是脛前黏液水腫，摸起來是硬的、**壓不下去**（nonpitting）。題目寫成可壓凹陷的水腫，那是心衰竭或低白蛋白那類的水腫，性質不同。",
+   "summary": "脛前黏液水腫是「壓不凹」的硬皮，不是一般的水腫——這個手感就是分辨點。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119403,11 +119403,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "臺灣中高齡 diabetes prevalence 明顯高於 5%；且數值會隨年份與定義變化。",
-   "B": "HbA1c target 必須按 age、function、comorbidity 與 hypoglycemia risk 個別化。",
-   "C": "DPP-4 inhibitor 單用低血糖少但通常 weight-neutral，不以減重著稱。",
-   "D": "SGLT2 inhibitor 造成 glycosuria，常有 modest weight loss 且單用低血糖風險低。",
-   "summary": "SGLT2 inhibitor 造成 glycosuria，常有 modest weight loss 且單用低血糖風險低。",
+   "A": "本項敘述錯誤。臺灣中高齡族群的糖尿病盛行率明顯高於 5%，而且數字會隨年份與診斷定義變動。",
+   "B": "本項敘述錯誤。糖化血色素（HbA1c）目標必須個別化：要看年齡、身體功能、共病與低血糖風險。年長或功能差的人訂得太嚴反而危險，不是一律小於 7.0%。",
+   "C": "本項敘述錯誤。DPP-4 抑制劑單用低血糖確實少，但它對體重是中性的，不以減重見長。這一項把「不易低血糖」對了、「降低體重」錯了。",
+   "D": "正確答案。SGLT-2 抑制劑讓葡萄糖從尿排掉，所以帶來輕度體重下降；它也不逼胰島素分泌，單用低血糖風險低。兩個好處都成立。",
+   "summary": "「減重＋不易低血糖」兩個都要的是 SGLT-2 抑制劑；DPP-4 抑制劑只有後者，體重是中性的。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -119770,11 +119770,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "glucose 65 mg/dL 可迅速矯正並重新評估，並非題目所列 r-tPA 絕對排除條件。",
-   "B": "BP 200/120 超過 thrombolysis 前需降至 <185/110 的門檻，未控制不能給。",
-   "C": "platelet 85,000/mm³ 低於 100,000，屬 IV thrombolysis contraindication。",
-   "D": "CT 顯示廣泛 established infarction（>1/3 hemisphere）提示高 hemorrhage risk，屬排除條件。",
-   "summary": "glucose 65 mg/dL 可迅速矯正並重新評估，並非題目所列 r-tPA 絕對排除條件。",
+   "A": "本項應選。血糖 65 mg/dL 可以馬上矯正再重新評估，不是 r-tPA 的排除條件。真正要當禁忌的是矯正不了的極端血糖。",
+   "B": "本項不選。血壓（BP）200/120 mmHg 超過門檻。血栓溶解前必須把血壓降到 185/110 mmHg 以下，沒控制就不能給。",
+   "C": "本項不選。血小板 85,000/mm3 低於 100,000 的門檻，屬於靜脈（IV）血栓溶解的禁忌。",
+   "D": "本項不選。電腦斷層（CT）看到超過 1/3 大腦半球的多葉低密度影像，代表大範圍梗塞已經成形，出血風險很高，屬排除條件。",
+   "summary": "r-tPA 的排除條件多半是「改不掉的」；低血糖可以當場補起來，所以不算。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -127961,11 +127961,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "hip 是 major osteoporotic fracture 好發部位。",
-   "B": "vertebral compression fracture 是 osteoporosis 代表性骨折。",
-   "C": "distal radius/wrist fracture 常為低能量 fragility fracture。",
-   "D": "finger fracture 通常與局部 trauma 有關，不是典型 osteoporosis-related site。",
-   "summary": "finger fracture 通常與局部 trauma 有關，不是典型 osteoporosis-related site。",
+   "A": "本項不選。髖部是主要骨鬆性骨折的好發部位，也是後果最嚴重的一個。",
+   "B": "本項不選。脊椎壓迫性骨折是骨鬆最具代表性的骨折，很多是沒有外傷就發生的。",
+   "C": "本項不選。手腕（遠端橈骨）骨折常見於低能量跌倒，是典型的脆弱性骨折。",
+   "D": "本項應選。手指骨折多半來自局部外傷，不是骨鬆的典型部位。骨鬆挑的是承重與海綿骨多的地方。",
+   "summary": "骨鬆骨折三個經典部位：髖、脊椎、手腕；手指骨折是撞到的，不是骨頭疏鬆造成的。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129647,11 +129647,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "primary aldosteronism 造成 sodium retention 與 hypertension。",
-   "B": "renal K wasting 可造成 hypokalemia，但並非每位病人都有。",
-   "C": "aldosterone 增加 H+ secretion，造成 metabolic alkalosis，不是 acidosis。",
-   "D": "suppressed renin 與 autonomous aldosterone 使 aldosterone/renin ratio 升高。",
-   "summary": "aldosterone 增加 H+ secretion，造成 metabolic alkalosis，不是 acidosis。",
+   "A": "本項不選。醛固酮讓腎臟滯留鈉，容積增加後造成高血壓，這是原發性醛固酮增多症的主軸。",
+   "B": "本項不選。腎臟排鉀增加會造成低血鉀。要注意的是，不是每位病人都有低血鉀，血鉀正常也不能排除。",
+   "C": "本項應選。方向相反：醛固酮同時促進腎小管分泌 H+，造成代謝性**鹼**中毒，不是酸中毒。",
+   "D": "本項不選。腎素被壓低、醛固酮又自主分泌，所以醛固酮／腎素活性比值升高，這正是篩檢用的指標。",
+   "summary": "原發性醛固酮增多症是「高血壓＋低血鉀＋鹼中毒」——酸中毒方向就錯了。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129680,11 +129680,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "pancreatic NET 多數 nonfunctional，常因 mass effect 或 incidental imaging 發現。",
-   "B": "最常見 functional pancreatic NET 是 insulinoma，不是 glucagonoma。",
-   "C": "nonfunctional pNET management 依 size、growth、grade、symptoms 與 surgical risk；不能無論大小都追蹤。",
-   "D": "Verner-Morrison syndrome 的 watery diarrhea、hypokalemia、achlorhydria 由 VIPoma 引起，不是 glucagonoma。",
-   "summary": "pancreatic NET 多數 nonfunctional，常因 mass effect 或 incidental imaging 發現。",
+   "A": "正確答案。大部分胰臟神經內分泌腫瘤（pancreatic NET, pNET）是沒有功能的，所以不會有荷爾蒙症狀。它們多半是因為腫塊效應，或影像檢查時意外發現的。",
+   "B": "本項敘述錯誤。最常見的功能性胰臟神經內分泌腫瘤是胰島素瘤（insulinoma），不是升糖素瘤。",
+   "C": "本項敘述錯誤。無功能的腫瘤要依大小、生長速度、分級、症狀與手術風險決定處置，不是「無論大小只要追蹤」。太大或在長的還是要開。",
+   "D": "本項敘述錯誤。Verner-Morrison syndrome 的水樣腹瀉、低血鉀與胃酸缺乏，是 VIPoma 造成的，不是升糖素瘤。",
+   "summary": "胰臟神經內分泌腫瘤大多「沒功能」；有功能的裡面最常見是胰島素瘤，而水瀉那組是 VIPoma。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129713,11 +129713,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "type 2 diabetes 常先有 insulin resistance 與 compensatory hyperinsulinemia，之後 β-cell failure 才顯性。",
-   "B": "健康人的 insulin sensitivity 增加時，維持同樣 glucose 所需 insulin secretion 應減少，而非增加。",
-   "C": "亞洲族群常在較低 BMI 有較低 β-cell reserve；西方 obesity-associated insulin resistance 通常更突出，題述方向相反。",
-   "D": "常見 type 2 diabetes insulin resistance 主要是 complex postreceptor signaling defect，不是普遍 insulin receptor 缺失。",
-   "summary": "常見 type 2 diabetes insulin resistance 主要是 complex postreceptor signaling defect，不是普遍 insulin receptor 缺失。",
+   "A": "本項敘述錯誤。順序寫反了。type 2 diabetes 通常先有胰島素阻抗與代償性的高胰島素血症，之後 β 細胞撐不住才顯現分泌不足。",
+   "B": "本項敘述錯誤。健康人的胰島素敏感性增加時，同樣的血糖只需要**更少**的胰島素就能處理，所以分泌會減少而不是增加。",
+   "C": "本項敘述錯誤。方向相反：亞洲族群常在較低 BMI 就出現較差的 β 細胞儲備；西方族群則以肥胖相關的胰島素阻抗更突出。",
+   "D": "正確答案。糖尿病人的胰島素阻抗主要是受體後（postreceptor）訊號傳遞出問題，不是受體本身普遍缺失。這也是為什麼補胰島素可以壓血糖，卻改不掉根本的阻抗。",
+   "summary": "胰島素阻抗的問題出在受體「後面」的訊號，不是受體不夠——這解釋了為什麼打再多胰島素也治不好阻抗。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129746,11 +129746,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "GSD 合計發生率通常高於五萬至十萬分之一的說法，且各型差異大。",
-   "B": "glycogen metabolism defects 可使正常或異常結構 glycogen 堆積於 liver、muscle、heart 等器官。",
-   "C": "飲食只能治療部分 hepatic GSD；許多類型仍有 myopathy、cardiomyopathy、renal/hepatic complications。",
-   "D": "成人常見 muscle GSD 包括 McArdle（type V），兒童常見型並非題述 type I/type V 對調。",
-   "summary": "glycogen metabolism defects 可使正常或異常結構 glycogen 堆積於 liver、muscle、heart 等器官。",
+   "A": "本項敘述錯誤。肝醣儲積症各型合計的發生率通常高於五萬到十萬分之一這個範圍，而且各型之間差異很大。",
+   "B": "正確答案。肝醣代謝的酵素缺在哪一步，就決定肝醣堆在哪裡：肌肉、肝臟、心臟都可能。而且堆積的肝醣結構**可能正常也可能異常**，端看缺的是分解酵素還是分支酵素。",
+   "C": "本項敘述錯誤。飲食治療只對部分以肝臟為主的型別有效。許多型別仍會發生肌肉病變、心肌病變與肝腎併發症，光靠飲食避免不了長期併發症。",
+   "D": "本項敘述錯誤。成人常見的是肌肉型，例如 McArdle disease（GSD type V）；把成人與兒童常見型別對調就錯了。",
+   "summary": "肝醣儲積症看兩件事：缺的酵素在哪一步（決定堆在哪個器官）、堆的肝醣結構正不正常。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129779,11 +129779,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "Wilson hepatic presentation 常在兒童或年輕成人，並非幾乎都 >30 歲。",
-   "B": "Wilson 可造成 delayed puberty/amenorrhea；proximal tubulopathy 可流失 amino acids、phosphate、glucose 等。",
-   "C": "ATP7B 負責 copper 而非 aluminum 的膽汁排泄與 ceruloplasmin incorporation。",
-   "D": "早期以 chelation 或 zinc 治療；liver transplant 留給 acute liver failure 或 decompensated disease，不是所有早期病例。",
-   "summary": "Wilson 可造成 delayed puberty/amenorrhea；proximal tubulopathy 可流失 amino acids、phosphate、glucose 等。",
+   "A": "本項敘述錯誤。威爾森氏症的肝臟表現常出現在兒童或年輕成人，不是幾乎都大於 30 歲。年輕人不明原因肝炎要想到它。",
+   "B": "正確答案。它確實會影響內分泌，造成青春期延遲或無月經。腎臟方面是近端腎小管病變，讓胺基酸、電解質、鈣、磷與葡萄糖從尿裡漏掉——所以驗尿會看到不該出現的葡萄糖與胺基酸。",
+   "C": "本項敘述錯誤。ATP7B 是一種 P-type ion-motive ATPase 沒錯，但它處理的是**銅**不是鋁：負責把銅排到膽汁並嵌進 ceruloplasmin。金屬寫錯，整句就錯了。",
+   "D": "本項敘述錯誤。早期治療是排銅劑（chelation）或鋅，不是肝臟移植。移植留給猛爆性肝衰竭或失代償的病人。",
+   "summary": "威爾森氏症是「銅」排不出去（ATP7B）；早期用排銅劑就好，移植是最後手段。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129845,11 +129845,11 @@
   "specialty": "新陳代謝科",
   "fc_ref": null,
   "explanation": {
-   "A": "BMI＝45÷1.50²＝20 kg/m²。",
-   "B": "BMI 25 需體重約 56.25 kg，本例只有 45 kg。",
-   "C": "BMI 30 需體重約 67.5 kg，與本例不符。",
-   "D": "BMI 35 需體重約 78.75 kg，與本例不符。",
-   "summary": "BMI＝45÷1.50²＝20 kg/m²。",
+   "A": "正確答案。算式是 BMI＝體重÷身高（公尺）的平方＝45÷1.50²＝45÷2.25＝20 kg/m²。注意身高要換成公尺再平方，這是最常算錯的地方。",
+   "B": "本項不選。BMI 25 大約落在臺灣定義的「過重」範圍，要達到它，這位身高 150 公分的女性體重需約 56.25 kg。她只有 45 kg。",
+   "C": "本項不選。BMI 30 已經是中度肥胖，換算需要約 67.5 kg，比實際體重多了 22 公斤以上，差距很大。",
+   "D": "本項不選。BMI 35 屬重度肥胖，需要約 78.75 kg。這位病人腰圍 75 公分也沒有腹部肥胖，整體不符合。",
+   "summary": "BMI 算錯多半錯在身高沒換成公尺：45÷1.50²＝20，不是 45÷150²。",
    "guideline": null
   },
   "source": "115070/302_0101",
