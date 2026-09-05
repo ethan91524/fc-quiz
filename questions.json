@@ -10785,15 +10785,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "高泌乳激素血症（hyperprolactinemia）會抑制下視丘 GnRH 脈衝，使 LH、FSH 降低並造成無排卵，因此是次發性無月經的常見原因。",
-   "B": "Asherman syndrome 是子宮腔沾黏造成子宮內膜受損；即使卵巢荷爾蒙功能尚存，也可能因內膜無法正常剝落而發生次發性無月經。",
-   "C": "錯誤。Kallmann syndrome 是先天性 GnRH 缺乏合併嗅覺減退，典型表現是青春期不發育與原發性無月經，而非月經曾建立後才停止的次發性無月經。",
-   "D": "懷孕會使原本已有月經的育齡女性停止行經，臨床上評估次發性無月經時必須先排除懷孕。",
-   "summary": "次發性無月經先排除懷孕；Kallmann syndrome 通常造成原發性無月經。",
    "guideline": null,
    "concepts": [
     "amenorrhea-anatomic-classification"
-   ]
+   ],
+   "A": "本項不選。高泌乳激素血症（hyperprolactinemia）會抑制下視丘 GnRH 脈衝，讓 LH、FSH 下降、造成無排卵，是次發性無月經的常見原因。",
+   "B": "本項不選。Asherman syndrome 是子宮腔沾黏、子宮內膜受損；就算卵巢荷爾蒙功能還在，內膜無法正常剝落也會造成次發性無月經。",
+   "C": "正確答案。這句是錯的。Kallmann syndrome 是先天性 GnRH 缺乏合併嗅覺減退，典型是青春期不發育、原發性無月經，不是月經曾建立後才停的次發性無月經。",
+   "D": "本項不選。懷孕會讓原本有月經的育齡女性停經，所以評估次發性無月經一定要先排除懷孕。",
+   "summary": "次發性無月經先排除懷孕；Kallmann syndrome 造成的是原發性無月經。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10821,12 +10821,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "Progesterone 是排卵後黃體的主要產物，不是濾泡期誘發 LH surge 的正回饋訊號；15 ng/mL 的高值反而代表已進入黃體期。",
-   "B": "Progesterone 超過 5 ng/mL 可支持近期曾排卵，但它不是必須維持 50 小時以觸發 LH surge 的荷爾蒙。",
-   "C": "正確。成熟濾泡持續分泌高濃度 E2，約達 200 pg/mL 並維持約 50 小時後，對下視丘—腦下垂體由負回饋轉為正回饋而引發 LH surge。",
-   "D": "E2 約 100 pg/mL 仍不足以形成觸發 LH surge 所需的持續高濃度正回饋；本題所考門檻為約 200 pg/mL、持續約 50 小時。",
-   "summary": "LH surge 由成熟濾泡所產生、持續約 50 小時的高 E2 正回饋所誘發，不是由 progesterone 誘發。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。progesterone 是排卵後黃體的產物，不是濾泡期誘發 LH surge 的正回饋訊號；15 ng/mL 這麼高反而代表已進入黃體期。",
+   "B": "本項不選。progesterone 超過 5 ng/mL 可支持近期曾排卵，但它不是要維持 50 小時去觸發 LH surge 的荷爾蒙。",
+   "C": "正確答案。成熟濾泡持續分泌高濃度 E2（estradiol），約達 200 pg/mL 並維持約 50 小時後，下視丘—腦下垂體從負回饋轉成正回饋，引發 LH surge。",
+   "D": "本項不選。E2 約 100 pg/mL 還不夠形成觸發 LH surge 所需的持續高濃度正回饋；本題門檻是約 200 pg/mL、持續約 50 小時。",
+   "summary": "LH surge 由成熟濾泡分泌、持續約 50 小時的高 E2 正回饋誘發，不是靠 progesterone。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10859,15 +10859,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "超音波的多囊性卵巢形態是 Rotterdam criteria 三項之一；但影像單獨存在不等於多囊性卵巢症候群（polycystic ovary syndrome）。",
-   "B": "臨床或生化雄性激素過多是 Rotterdam criteria 的一項，臨床可見多毛、痤瘡等表現，並須排除其他高雄性激素疾病。",
-   "C": "寡排卵或無排卵是 Rotterdam criteria 的一項，常以月經稀發或無月經呈現。",
-   "D": "錯誤。體重過重與肥胖常伴隨 PCOS 並加重胰島素阻抗，但不是診斷必要條件；體重正常者仍可罹患 PCOS。",
-   "summary": "PCOS 的 Rotterdam criteria 是排卵障礙、高雄性激素與多囊卵巢形態三取二；肥胖不在其中。",
    "guideline": null,
    "concepts": [
     "rotterdam-pcos-criteria"
-   ]
+   ],
+   "A": "本項不選。超音波的多囊性卵巢（PCO）形態是 Rotterdam criteria 三項之一；但單有影像不等於多囊性卵巢症候群。",
+   "B": "本項不選。臨床或生化的雄性激素過多（hyperandrogenism）是 Rotterdam criteria 一項，可見多毛、痤瘡，並要排除其他高雄性激素疾病。",
+   "C": "本項不選。排卵寡少（oligoovulation）或長期無排卵（chronic anovulation）是 Rotterdam criteria 一項，常表現為月經稀發或無月經。",
+   "D": "正確答案。體重過重和肥胖常伴隨 PCOS、加重胰島素阻抗，但不是診斷必要條件；體重正常的人一樣可能有 PCOS。",
+   "summary": "PCOS 的 Rotterdam criteria 是排卵障礙、高雄性激素、多囊卵巢形態三取二；肥胖不在其中。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10900,12 +10900,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。先天性雙側輸精管缺如（congenital bilateral absence of the vas deferens）常與 CFTR 變異相關，可視為囊性纖維化（cystic fibrosis）的生殖道表現。",
-   "B": "Kallmann syndrome 是先天性 GnRH 缺乏，造成低促性腺激素性性腺功能低下與嗅覺障礙；它不會典型造成兩側輸精管缺如。",
-   "C": "Kartagener syndrome 的纖毛運動障礙會使精子活動力差，並伴慢性鼻竇炎、支氣管擴張及內臟反位，而非無精症合併輸精管缺如。",
-   "D": "Klinefelter syndrome 通常因曲細精管退化造成非阻塞性無精症，常見小而硬的睪丸與高 FSH；輸精管通常存在。",
-   "summary": "無精症合併先天性雙側輸精管缺如要想到 CFTR 變異與 cystic fibrosis。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。先天性雙側輸精管缺如（congenital bilateral absence of the vas deferens, CBAVD）常和 CFTR 基因變異有關，可視為囊性纖維化（cystic fibrosis）在生殖道的表現。",
+   "B": "本項不選。Kallmann syndrome 是先天性 GnRH 缺乏，造成低促性腺激素性性腺功能低下加嗅覺障礙，不會典型造成兩側輸精管缺如。",
+   "C": "本項不選。Kartagener syndrome 是纖毛運動障礙，會讓精子活動力差，並伴慢性鼻竇炎、支氣管擴張、內臟反位，而不是無精症合併輸精管缺如。",
+   "D": "本項不選。Klinefelter syndrome 通常是曲細精管退化造成的非阻塞性無精症，睪丸小而硬、FSH 高，輸精管通常還在。",
+   "summary": "無精症合併先天性雙側輸精管缺如（CBAVD），要想到 CFTR 變異和 cystic fibrosis。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10938,12 +10938,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。40 歲前高 FSH、低 estradiol 符合原發性卵巢功能不全（primary ovarian insufficiency）；母系早發停經加上智能障礙男性親屬，提示 FMR1 premutation 家族，可檢驗 FMR1 CGG repeat。",
-   "B": "SMN1 缺失主要造成脊髓性肌肉萎縮症（spinal muscular atrophy），表現為運動神經元疾病，不能解釋此例家族性原發性卵巢功能不全。",
-   "C": "CYP21A2 異常造成 21-hydroxylase deficiency 型先天性腎上腺增生症，常見高雄性激素與鹽分流失，不符合高 FSH、低 estradiol 的卵巢衰竭型態。",
-   "D": "PKD1 變異造成常染色體顯性多囊腎病，主要影響腎臟及血管，與 FMR1 premutation 相關的早發卵巢功能不全家族型態不同。",
-   "summary": "原發性卵巢功能不全合併母系早停經與智能障礙男性親屬，應檢驗 FMR1 premutation。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。40 歲前 FSH 高（本例 42 mIU/mL）、estradiol 低（＜20 pg/mL），符合原發性卵巢功能不全（primary ovarian insufficiency）；母系早發停經加上智能障礙男性親屬，提示 FMR1 premutation 家族，應驗 FMR1 的 CGG repeat 數。",
+   "B": "本項不選。SMN1 缺失造成脊髓性肌肉萎縮症（spinal muscular atrophy），是運動神經元疾病，解釋不了這種家族性原發性卵巢功能不全。",
+   "C": "本項不選。CYP21A2 異常造成 21-hydroxylase deficiency 型先天性腎上腺增生症，常見高雄性激素和鹽分流失，不符合高 FSH、低 estradiol 的卵巢衰竭。",
+   "D": "本項不選。PKD1 變異造成常染色體顯性多囊腎病，主要影響腎臟和血管，和 FMR1 premutation 相關的早發卵巢功能不全家族型態不同。",
+   "summary": "原發性卵巢功能不全＋母系早停經＋智能障礙男性親屬 → 驗 FMR1 premutation。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10976,12 +10976,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。子宮輸卵管攝影（hysterosalpingography）可顯示子宮腔輪廓，卻無法可靠判斷外部子宮底；須配合 3D ultrasound 或 MRI 才能區分中膈子宮與雙角子宮。",
-   "B": "中膈子宮合併反覆流產若需矯正，標準方式是子宮鏡中膈切除術（hysteroscopic septum incision），不是由腹腔鏡進入子宮腔切除中膈。",
-   "C": "遠端輸卵管阻塞或輸卵管積水會增加 HSG 後骨盆腔感染風險；此類高風險病人應考慮預防性抗生素，而非一概不建議。",
-   "D": "HSG 所見近端阻塞可能只是輸卵管痙攣、黏液栓或技術因素；不能單憑一次影像就直接決定手術或試管嬰兒，宜進一步確認。",
-   "summary": "HSG 看得到子宮腔與輸卵管通暢度，但分辨 Müllerian anomaly 與確認近端阻塞都需要追加評估。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。子宮輸卵管攝影（hysterosalpingography, HSG）能顯示子宮腔輪廓，但沒辦法可靠看外部子宮底；要配合 3D 超音波或 MRI 才能分辨中膈子宮和雙角子宮。",
+   "B": "本項不選。中膈子宮合併反覆流產若要矯正，標準是子宮鏡中膈切除術（hysteroscopic septum incision），不是從腹腔鏡進子宮腔切中膈。",
+   "C": "本項不選。遠端輸卵管阻塞或輸卵管積水會增加 HSG 後骨盆腔感染風險；這類高風險病人應考慮預防性抗生素，不是一概不建議。",
+   "D": "本項不選。HSG 看到的近端阻塞可能只是輸卵管痙攣、黏液栓或技術因素；不能只憑一次影像就直接決定手術或試管嬰兒，要進一步確認。",
+   "summary": "HSG 看得到子宮腔和輸卵管通暢度，但分辨 Müllerian anomaly 和確認近端阻塞都要追加評估。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11014,12 +11014,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。妊娠初期 TSH 4.5 mIU/L 且甲狀腺過氧化酶抗體陽性，代表自體免疫背景下的甲狀腺功能不足，最需要補充 levothyroxine 以達妊娠目標。",
-   "B": "TSH 2.0 mIU/L 在妊娠初期通常未超出治療門檻；即使抗甲狀腺抗體陽性，主要是密切監測 TSH，而非此四項中最需要立即補充者。",
-   "C": "TSH 4.5 mIU/L 即使抗體陰性仍需依妊娠參考值評估治療，但與同樣 TSH 且抗體陽性的 A 相比，治療指徵較不強。",
-   "D": "TSH 2.0 mIU/L 且抗體陰性通常屬可接受範圍，沒有由這組數值支持立即補充 levothyroxine 的理由。",
-   "summary": "妊娠初期 TSH 升高時，抗甲狀腺抗體陽性會進一步強化 levothyroxine 的治療指徵。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。妊娠初期 TSH 4.5 mIU/L 且甲狀腺過氧化酶抗體（TPO antibody）陽性，代表自體免疫背景下的甲狀腺功能不足，四項中最需要補充 levothyroxine 達到妊娠目標。",
+   "B": "本項不選。TSH 2.0 mIU/L 在妊娠初期通常沒超過治療門檻；就算抗甲狀腺抗體陽性，主要是密切監測 TSH，不是四項中最需要立刻補充的。",
+   "C": "本項不選。TSH 4.5 mIU/L 即使抗體陰性仍要依妊娠參考值評估治療，但和同樣 TSH 又抗體陽性的 A 相比，治療指徵較弱。",
+   "D": "本項不選。TSH 2.0 mIU/L 加抗體陰性通常在可接受範圍，這組數值沒有支持立刻補充 levothyroxine 的理由。",
+   "summary": "妊娠初期 TSH 升高時，抗甲狀腺抗體陽性會進一步強化 levothyroxine 的治療指徵。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11047,12 +11047,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "hCG 與 LH 可作用於同一 LH/hCG receptor，但 hCG 的半衰期比 LH 長，造成較持久的黃體刺激與較高卵巢過度刺激症候群風險。",
-   "B": "正確。當至少數顆主導濾泡約達 17–18 mm，代表接近成熟，可安排 hCG trigger 促成卵母細胞最後成熟。",
-   "C": "取卵通常安排在 hCG trigger 後約 34–36 小時、自然排卵前完成；12–14 小時太早，卵母細胞尚未充分完成最後成熟。",
-   "D": "GnRH antagonist protocol 若卵泡很多、OHSS 高風險，改用 GnRH agonist trigger 可降低風險；使用 hCG 因作用持久反而會增加 OHSS。",
-   "summary": "ART 的 hCG trigger 在主導濾泡約 17–18 mm 時施打，約 34–36 小時後取卵；高 OHSS 風險宜改 GnRH agonist trigger。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。hCG 和 LH 作用在同一個 LH/hCG receptor，但 hCG 半衰期比 LH「長」，會造成較持久的黃體刺激和較高的卵巢過度刺激症候群（OHSS）風險，敘述講反。",
+   "B": "正確答案。當至少數顆主導濾泡約達 17–18 mm，代表接近成熟，可安排 hCG trigger 促成卵母細胞最後成熟。",
+   "C": "本項不選。取卵通常安排在 hCG trigger 後約 34–36 小時、自然排卵前；12–14 小時太早，卵母細胞還沒完成最後成熟。",
+   "D": "本項不選。GnRH antagonist 療程若濾泡很多、OHSS 高風險，改用 GnRH agonist trigger 才能降風險；用 hCG 因作用持久反而增加 OHSS。",
+   "summary": "ART 的 hCG trigger 在主導濾泡約 17–18 mm 時施打，約 34–36 小時後取卵；高 OHSS 風險宜改 GnRH agonist trigger。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -22984,12 +22984,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。精子先在女性生殖道完成獲能（capacitation），接觸透明帶後發生頂體反應（acrosome reaction）以穿透卵細胞，融合後由卵細胞的皮質反應（cortical reaction）阻止多精入卵。",
-   "B": "頂體反應需要精子先完成 capacitation，才能對透明帶訊號產生適當反應；因此 ② 不會先於 ①。",
-   "C": "皮質反應由精卵融合後卵細胞內 Ca²⁺ 上升觸發，是防止多精入卵的後段事件，不可能在 capacitation 與 acrosome reaction 前發生。",
-   "D": "皮質反應發生在精子穿透並與卵細胞融合之後；若把 ③ 排在頂體反應 ② 之前，便顛倒了受精順序。",
-   "summary": "受精順序為 capacitation → acrosome reaction → sperm–oocyte fusion 後的 cortical reaction。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。精子先在女性生殖道完成獲能（capacitation），接觸透明帶後發生頂體反應（acrosome reaction）以穿透卵細胞，融合後由卵細胞的皮質反應（cortical reaction）阻止多精入卵。順序是①②③。",
+   "B": "本項不選。頂體反應要先完成 capacitation 才能對透明帶訊號正確反應，所以②不會在①前面。",
+   "C": "本項不選。皮質反應是精卵融合後卵細胞內 Ca²⁺ 上升觸發的後段事件，不可能排在 capacitation 和 acrosome reaction 之前。",
+   "D": "本項不選。皮質反應發生在精子穿透並與卵細胞融合「之後」；把③排在頂體反應②前面就顛倒了受精順序。",
+   "summary": "受精順序：capacitation → acrosome reaction → 精卵融合後的 cortical reaction。"
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23022,15 +23022,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "卵巢過度刺激症候群（ovarian hyperstimulation syndrome）主要是排卵誘導或 ART 的醫源性併發症，與多濾泡反應及 trigger 後的血管活性介質有關。",
-   "B": "錯誤。GnRH agonist long protocol 雖可抑制早發 LH surge，並不會抑制 OHSS；使用 hCG trigger 及強烈卵巢反應仍可能引發 OHSS。",
-   "C": "全胚冷凍並取消當週植入可避免懷孕後內生性 hCG 使 OHSS 延長或惡化，因此能降低 late OHSS，但不能完全消除早發型風險。",
-   "D": "OHSS 的核心病理是 VEGF 等介質使微血管通透性增加，液體移至第三空間，造成腹水、血液濃縮與血栓風險。",
-   "summary": "OHSS 是 hCG 相關的血管通透性增加；全胚冷凍可降 late OHSS，長療程本身不能預防。",
    "guideline": null,
    "concepts": [
     "ohss-severity-classification"
-   ]
+   ],
+   "A": "本項不選。卵巢過度刺激症候群（ovarian hyperstimulation syndrome, OHSS）主要是排卵誘導或 ART 的醫源性併發症，和多濾泡反應、trigger 後的血管活性介質有關。",
+   "B": "正確答案。這句是錯的。GnRH agonist long protocol 雖能抑制早發 LH surge，但不會抑制 OHSS；用 hCG trigger 加上強烈卵巢反應仍可能引發 OHSS。",
+   "C": "本項不選。全胚冷凍、取消當週期植入，可避免懷孕後內生性 hCG 讓 OHSS 延長或惡化，因此能降低 late OHSS，但消不掉早發型風險。",
+   "D": "本項不選。OHSS 的核心病理是 VEGF 等介質使微血管通透性增加，液體移到第三空間，造成腹水、血液濃縮和血栓風險。",
+   "summary": "OHSS 是 hCG 相關的血管通透性增加；全胚冷凍可降 late OHSS，長療程本身不能預防。"
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23063,12 +23063,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "已切除子宮且有更年期血管動力症狀者可單用 transdermal estradiol；經皮途徑避免肝臟首渡效應，靜脈血栓風險通常較口服途徑低。",
-   "B": "已無子宮者可單用 oral estradiol 改善熱潮紅；仍需依個人血栓、心血管與乳癌風險選擇劑量與途徑。",
-   "C": "最不建議。Medroxyprogesterone 的主要用途是保護仍有子宮者的子宮內膜；本例已切除子宮，加入 progestogen 沒有內膜保護效益，反而增加不必要風險。",
-   "D": "作用於 hypothalamic neurokinin B pathway 的非荷爾蒙治療可抑制 KNDy neuron 相關的熱調節失衡，適合不宜或不願使用 estrogen 的血管動力症狀患者。",
-   "summary": "子宮切除後治療更年期熱潮紅可用 estrogen alone，不需為內膜保護額外加入 medroxyprogesterone。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。已切除子宮、又有更年期血管動力症狀的人可單用 transdermal estradiol；經皮途徑避開肝臟首渡效應，靜脈血栓風險通常比口服低。",
+   "B": "本項不選。已無子宮的人可單用 oral estradiol 改善熱潮紅；仍要依個人血栓、心血管和乳癌風險選劑量和途徑。",
+   "C": "正確答案。這項最不建議。medroxyprogesterone 主要用途是保護「仍有子宮」的人的子宮內膜；本例已切除子宮，加 progestogen 沒有內膜保護的好處，反而增加不必要的風險。",
+   "D": "本項不選。作用在下視丘 neurokinin B 路徑的非荷爾蒙藥可抑制 KNDy neuron 相關的體溫調節失衡，適合不宜或不願用 estrogen 的血管動力症狀病人。",
+   "summary": "子宮切除後治療更年期熱潮紅可單用 estrogen，不必為了保護內膜再加 medroxyprogesterone。"
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -33941,15 +33941,15 @@
    "book": "FC醫(六)(1上)(產科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(上)冊_產科.pdf"
   },
   "explanation": {
-   "A": "完全性流產（complete abortion）表示妊娠組織已全部排出，子宮頸多已關閉、子宮腔內無明顯殘留；本例仍有大部分組織留在子宮內，不符合。",
-   "B": "先兆性流產（threatened abortion）須有出血但子宮頸仍關閉，且妊娠尚未排出；本例子宮頸已擴張並見組織，不能只建議休息。",
-   "C": "正確。不完全性流產（incomplete abortion）是部分妊娠組織已排出、部分仍殘留，常伴大量出血與子宮頸開啟；可行子宮擴張搔刮術清除殘留並止血。",
-   "D": "輸卵管外孕不會在已擴張的子宮頸口看見由子宮腔排出的妊娠組織並同時有大量宮內殘留；此例的臨床表現明確指向流產。",
-   "summary": "子宮頸開啟、部分妊娠組織排出但仍有宮內殘留，是 incomplete abortion。",
    "guideline": null,
    "concepts": [
     "clinical-abortion-definitions"
-   ]
+   ],
+   "A": "本項不選。完全性流產（complete abortion）代表妊娠組織已全部排出、子宮頸多已關閉、子宮腔內無明顯殘留；本例大部分組織還留在子宮內，不符合。",
+   "B": "本項不選。先兆性流產（threatened abortion）是有出血但子宮頸仍關閉、妊娠尚未排出；本例子宮頸已擴張並見組織，不能只叫病人休息。",
+   "C": "正確答案。不完全性流產（incomplete abortion）是部分妊娠組織已排出、部分仍殘留，常伴大量出血和子宮頸開啟。本例 β-hCG 14,500 mIU/mL、宮口見組織但大部分殘留，可做子宮擴張搔刮術（D&C）清除殘留並止血。",
+   "D": "本項不選。輸卵管子宮外孕不會在已擴張的宮口看到從子宮腔排出的妊娠組織、又同時有大量宮內殘留；本例臨床表現明確指向流產。",
+   "summary": "子宮頸開啟、部分組織排出但仍有宮內殘留 ＝ incomplete abortion，處理是 D&C。"
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34721,12 +34721,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "子宮內膜癌是停經後出血必須優先排除的危險病因，但在所有未使用荷爾蒙的停經後出血病例中並不是最常見。",
-   "B": "子宮肌瘤在停經後通常因 estrogen 下降而縮小，雖仍可能出血，頻率不及生殖泌尿道萎縮。",
-   "C": "子宮內膜增生可造成停經後出血，尤其在肥胖或未拮抗 estrogen 暴露者，但整體不是最常見病因。",
-   "D": "正確。停經後 estrogen 缺乏使子宮內膜及陰道黏膜萎縮、脆弱，萎縮性子宮內膜炎／陰道炎是停經後出血最常見原因。",
-   "summary": "停經後出血最常見是萎縮性變化，但每位病人仍須排除子宮內膜癌。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。子宮內膜癌是停經後出血一定要優先排除的危險病因，但在所有沒用荷爾蒙的停經後出血裡並不是最常見。",
+   "B": "本項不選。子宮肌瘤在停經後通常因 estrogen 下降而縮小，雖然還可能出血，頻率不及生殖泌尿道萎縮。",
+   "C": "本項不選。子宮內膜增生可造成停經後出血，尤其在肥胖或未被拮抗的 estrogen 暴露者，但整體不是最常見病因。",
+   "D": "正確答案。停經後 estrogen 缺乏使子宮內膜和陰道黏膜萎縮、變脆，萎縮性子宮內膜炎／陰道炎是停經後出血最常見的原因。",
+   "summary": "停經後出血最常見是萎縮性變化；但每位病人仍要排除子宮內膜癌。"
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35032,12 +35032,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "基礎體溫在排卵後受 progesterone 影響會持續上升約 0.3–0.5°C；雖屬回溯性且易受干擾，仍可提供曾排卵的線索。",
-   "B": "預期月經前約一週測量 mid-luteal serum progesterone，可確認近期是否排卵；應依週期長度抓「下次月經前一週」，而非固定某個週期日。",
-   "C": "不適合。月經第 5 天的陰道超音波主要評估 antral follicle count 與卵巢儲備，單次早濾泡期的濾泡大小不能證明該週期是否排卵。",
-   "D": "每日尿液 LH kit 可偵測排卵前 LH surge，預測其後約 1–2 日排卵；但 PCOS 等情況可有偽陽性，需結合臨床。",
-   "summary": "判斷排卵可看 LH surge、黃體期 progesterone 或雙相體溫；day-5 AFC 是卵巢儲備而非排卵證據。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。排卵後 progesterone 讓基礎體溫持續上升約 0.3–0.5°C；雖然是回溯性、易受干擾，仍能提供曾排卵的線索。",
+   "B": "本項不選。在預期月經前約一週測黃體中期血清 progesterone，可確認近期是否排卵；要依週期長度抓「下次月經前一週」，不是固定某個週期日。",
+   "C": "正確答案。月經第 5 天的陰道超音波主要看基礎濾泡數（antral follicle count, AFC）和卵巢儲備；單次早濾泡期的濾泡大小證明不了這個週期有沒有排卵。",
+   "D": "本項不選。每天用尿液 LH 試紙可偵測排卵前 LH surge，預測其後約 1–2 天排卵；但 PCOS 等情況可能偽陽性，要結合臨床。",
+   "summary": "判斷排卵看 LH surge、黃體期 progesterone 或雙相體溫；day-5 的 AFC 是卵巢儲備、不是排卵證據。"
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -46814,12 +46814,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "PCOS 病人的 adrenal androgen 可能增加，DHEAS 是評估腎上腺來源的重要指標；明顯過高時還需排除腎上腺腫瘤等其他病因。",
-   "B": "PCOS 的卵巢 theca cells 在 LH 與高 insulin 作用下增加 testosterone 生成，是高雄性激素的重要來源。",
-   "C": "錯誤。SHBG 增加會結合更多 testosterone、降低 free testosterone；PCOS 常因 insulin 抑制肝臟 SHBG 合成而使 SHBG 降低，進一步增加游離雄性激素。",
-   "D": "高 insulin 可刺激卵巢雄性激素生成並抑制肝臟 SHBG 合成，因此胰島素阻抗與代償性高 insulin 會加重高雄性激素表現。",
-   "summary": "PCOS 的高雄性激素來自卵巢／部分腎上腺生成增加，加上高 insulin 使 SHBG 降低；不是 SHBG 過多。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。PCOS 病人的腎上腺雄性激素可能增加，DHEAS 是評估腎上腺來源的重要指標；明顯過高時還要排除腎上腺腫瘤等病因。",
+   "B": "本項不選。PCOS 的卵巢 theca cells 在 LH 和高 insulin 作用下增加 testosterone 生成，是高雄性激素的重要來源。",
+   "C": "正確答案。這句是錯的。SHBG 增加會結合更多 testosterone、降低 free testosterone；PCOS 反而常因 insulin 抑制肝臟合成 SHBG 而使 SHBG「降低」，讓游離雄性激素更多。",
+   "D": "本項不選。高 insulin 會刺激卵巢生成雄性激素、又抑制肝臟合成 SHBG，所以胰島素阻抗和代償性高 insulin 會加重高雄性激素。",
+   "summary": "PCOS 的高雄性激素來自卵巢／部分腎上腺生成增加，加上高 insulin 使 SHBG 降低；不是 SHBG 過多。"
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46852,12 +46852,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "LH surge 開始後 10–12 小時尚未到正常排卵時點；較接近 peak LH 後到排卵的部分時間差，不能與 surge onset 混用。",
-   "B": "LH surge 開始後 22–24 小時通常仍在卵母細胞最後成熟階段，正常排卵多再晚約半天。",
-   "C": "正確。正常排卵約發生在 LH surge 開始後 34–36 小時，因此 ART 才會將取卵安排在 trigger 後相近時段、搶在濾泡自然破裂前。",
-   "D": "LH surge 開始後 46–48 小時通常已超過典型排卵時間，若 ART 延至此時取卵可能已發生自然排卵。",
-   "summary": "正常排卵約在 LH surge onset 後 34–36 小時；臨床須分清 surge 開始與 LH peak。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。LH surge 開始後 10–12 小時還沒到正常排卵時點；這比較接近 LH peak 之後到排卵的時間差，不能和 surge 開始混用。",
+   "B": "本項不選。LH surge 開始後 22–24 小時通常還在卵母細胞最後成熟階段，正常排卵多再晚約半天。",
+   "C": "正確答案。正常排卵約發生在 LH surge 開始後 34–36 小時，所以 ART 才把取卵安排在 trigger 後相近時段，搶在濾泡自然破裂前。",
+   "D": "本項不選。LH surge 開始後 46–48 小時通常已超過典型排卵時間，ART 若拖到這時取卵可能已自然排卵。",
+   "summary": "正常排卵約在 LH surge 開始後 34–36 小時；要分清 surge 開始和 LH peak。"
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -57870,12 +57870,12 @@
    "book": "FC醫(六)(1上)(產科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(上)冊_產科.pdf"
   },
   "explanation": {
-   "A": "正確。胚胎神經管約在受精後第 4 週完成關閉，相當於以最後月經起算約妊娠 6 週；folic acid 必須在受孕前即開始並持續至早孕，不能等確認懷孕很久後才補。",
-   "B": "妊娠 11 週時神經管早已關閉，folic acid 對預防神經管缺損最關鍵的時間窗已經錯過。",
-   "C": "妊娠 15 週屬第二孕期附近，遠晚於胚胎神經管在妊娠約 6 週關閉的時間。",
-   "D": "妊娠 18 週可藉超音波評估部分胎兒結構，但不是靠此時才開始 folic acid 來預防神經管缺損。",
-   "summary": "神經管在 LMP 約 6 週前後關閉，所以 folic acid 要從孕前開始，而不是驗孕後才臨時補。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。胚胎神經管約在受精後第 4 週關閉，換算成以最後月經（LMP）起算約妊娠 6 週。folic acid 要在受孕前就開始並持續到早孕，不能等確認懷孕很久後才補。",
+   "B": "本項不選。妊娠 11 週時神經管早就關閉了，folic acid 對預防神經管缺損最關鍵的時間窗已經錯過。",
+   "C": "本項不選。妊娠 15 週已接近第二孕期，遠晚於神經管約妊娠 6 週關閉的時間。",
+   "D": "本項不選。妊娠 18 週可用超音波評估部分胎兒結構，但不是靠這時才開始補 folic acid 來預防神經管缺損。",
+   "summary": "神經管在 LMP 約 6 週前後關閉，所以 folic acid 要從孕前開始，不是驗孕後才臨時補。"
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -58524,12 +58524,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "錯誤。子宮肌瘤（uterine leiomyoma）是荷爾蒙反應性腫瘤，但口服避孕藥並非其發生不可分割的原因；低劑量製劑可用於部分病人的出血控制。",
-   "B": "子宮肌瘤具有家族聚集性；病人的一等親罹患機率較一般族群高，支持遺傳與共同體質因素。",
-   "C": "停經前肌瘤快速增大不等同平滑肌肉瘤（leiomyosarcoma）；良性肌瘤可受荷爾蒙、出血或退化影響而改變大小，惡性須依整體臨床與病理判斷。",
-   "D": "黏膜下肌瘤會扭曲子宮腔，較其他位置明顯影響著床、增加流產與異常出血，因此與生育影響最密切。",
-   "summary": "口服避孕藥不是肌瘤的必要成因；不孕風險最需注意會扭曲子宮腔的 submucosal myoma。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。這句是錯的。子宮肌瘤（uterine leiomyoma）是荷爾蒙反應性腫瘤，但口服避孕藥不是它發生「密不可分」的原因；低劑量製劑還可用於部分病人的出血控制。",
+   "B": "本項不選。子宮肌瘤有家族聚集性，病人的一等親罹患機率比一般族群高，支持遺傳和共同體質因素。",
+   "C": "本項不選。停經前肌瘤快速增大不等於平滑肌肉瘤（leiomyosarcoma）；良性肌瘤受荷爾蒙、出血或退化影響也會改變大小，惡性要靠整體臨床和病理判斷。",
+   "D": "本項不選。黏膜下肌瘤（submucosal myoma）會扭曲子宮腔，比其他位置更明顯影響著床、增加流產和異常出血，和生育影響最密切。",
+   "summary": "口服避孕藥不是肌瘤的必要成因；影響生育最需注意的是會扭曲子宮腔的 submucosal myoma。"
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59439,12 +59439,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "最不恰當。不孕症的初步影像以經陰道超音波評估子宮與卵巢，並以 HSG 等檢查輸卵管通暢度；CT 有輻射且軟組織評估不具優勢，不應優先。",
-   "B": "一般未使用液體或超音波顯影劑的經陰道超音波只能看子宮、卵巢及部分積水輸卵管，不能可靠證明兩側輸卵管通暢。",
-   "C": "子宮輸卵管攝影以顯影劑是否通過輸卵管並流入腹腔判斷通暢度，同時可描繪子宮腔輪廓。",
-   "D": "MRI 對 Müllerian anomaly、腺肌症或複雜骨盆病灶很有價值，但成本高，通常不作一般不孕症第一線篩檢。",
-   "summary": "不孕影像先用 transvaginal ultrasound 加輸卵管通暢度檢查；CT 不是第一線。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。這句最不恰當。不孕症的初步影像是用經陰道超音波看子宮和卵巢，再用 HSG 等檢查輸卵管通暢度；CT 有輻射、軟組織評估也不佔優勢，不該優先。",
+   "B": "本項不選。一般沒用液體或超音波顯影劑的經陰道超音波只能看子宮、卵巢和部分積水輸卵管，不能可靠證明兩側輸卵管通暢。",
+   "C": "本項不選。子宮輸卵管攝影（HSG）看顯影劑有沒有通過輸卵管、流入腹腔來判斷通暢度，同時可描出子宮腔輪廓。",
+   "D": "本項不選。MRI 對 Müllerian anomaly、腺肌症或複雜骨盆病灶很有價值，但成本高，通常不當一般不孕症的第一線篩檢。",
+   "summary": "不孕影像先用經陰道超音波加輸卵管通暢度檢查；CT 不是第一線。"
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -70705,15 +70705,15 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "降低 gonadotropin 劑量可減少過多濾泡募集與過高 estradiol 反應，是依個人卵巢反應調整的 OHSS 預防策略。",
-   "B": "GnRH antagonist protocol 可用 GnRH agonist trigger 取代 hCG，使內生性 LH surge 較短，明顯降低 OHSS 風險。",
-   "C": "錯誤。植入兩個胚胎提高多胎妊娠與內生性 hCG 暴露，不是預防 OHSS；高風險者反而考慮全胚冷凍、不在該週期植入。",
-   "D": "Cabergoline 是 dopamine agonist，可降低 VEGF receptor 相關血管通透性；在 trigger 日開始短期使用是高風險病人的預防方式之一。",
-   "summary": "OHSS 預防包括低劑量刺激、antagonist protocol 配 agonist trigger、cabergoline 與 freeze-all；植入兩胚不是預防。",
    "guideline": null,
    "concepts": [
     "ohss-severity-classification"
-   ]
+   ],
+   "A": "本項不選。降低促性腺激素（gonadotropin）劑量可減少過多濾泡募集和過高的 estradiol 反應，是依個人卵巢反應調整的 OHSS 預防策略。",
+   "B": "本項不選。GnRH antagonist 療程可用 GnRH agonist trigger 取代 hCG，讓內生性 LH surge 較短，明顯降低 OHSS 風險。",
+   "C": "正確答案。這不是預防方法。植入兩個胚胎會提高多胎妊娠和內生性 hCG 暴露，高風險者反而要考慮全胚冷凍、不在該週期植入。",
+   "D": "本項不選。cabergoline 是 dopamine agonist，可降低 VEGF 相關的血管通透性；在 trigger 日開始短期使用是高風險病人的預防方式之一。",
+   "summary": "OHSS 預防：低劑量刺激、antagonist 療程配 agonist trigger、cabergoline、全胚冷凍；植入兩胚不是預防。"
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -70784,15 +70784,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "寡經或無月經反映 oligo/anovulation，是 Rotterdam criteria 的三項診斷條件之一。",
-   "B": "臨床或生化高雄性激素是 Rotterdam criteria 的一項；使用前仍須排除先天性腎上腺增生、腫瘤及其他模仿疾病。",
-   "C": "錯誤。胰島素阻抗常見於 PCOS 並影響代謝風險，但不是 2003 Rotterdam criteria 的三項診斷條件之一。",
-   "D": "超音波多囊性卵巢形態是 Rotterdam criteria 的一項；診斷採三項中符合至少兩項，且須排除其他病因。",
-   "summary": "Rotterdam criteria 為 oligo/anovulation、高雄性激素與 polycystic ovarian morphology 三取二，不含胰島素阻抗。",
    "guideline": null,
    "concepts": [
     "rotterdam-pcos-criteria"
-   ]
+   ],
+   "A": "本項不選。寡經或無月經反映排卵稀少或無排卵（oligo/anovulation），是 Rotterdam criteria 三項診斷條件之一。",
+   "B": "本項不選。臨床或生化的高雄性激素是 Rotterdam criteria 一項；使用前仍要排除先天性腎上腺增生、腫瘤等模仿疾病。",
+   "C": "正確答案。這不是診斷條件。胰島素阻抗常見於 PCOS、影響代謝風險，但不在 2003 Rotterdam criteria 的三項裡。",
+   "D": "本項不選。超音波的多囊性卵巢形態是 Rotterdam criteria 一項；診斷採三項符合至少兩項，並要排除其他病因。",
+   "summary": "Rotterdam criteria ＝ 排卵障礙、高雄性激素、多囊卵巢形態三取二；不含胰島素阻抗。"
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -94186,12 +94186,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "錯誤。漿膜下肌瘤向子宮外生長，通常不扭曲子宮腔，並非造成不孕的常見位置；與生育影響最密切的是黏膜下肌瘤。",
-   "B": "子宮動脈栓塞術（uterine artery embolization）可阻斷肌瘤血流以縮小病灶、減輕出血；有未來生育需求者須審慎討論其生殖影響。",
-   "C": "妊娠中的紅色變性（red degeneration）通常造成局部疼痛與低度發燒，多以休息、止痛和觀察保守治療，通常不需手術。",
-   "D": "黏膜下肌瘤突出或鄰近子宮腔，會增加內膜表面積並妨礙收縮，常造成大量月經出血。",
-   "summary": "肌瘤位置決定症狀：submucosal myoma 最影響出血與生育，subserosal myoma 通常不是不孕主因。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。這句是錯的。漿膜下肌瘤（subserosal uterine leiomyoma）向子宮外長，通常不扭曲子宮腔，不是造成不孕的常見位置；和生育最相關的是黏膜下肌瘤。",
+   "B": "本項不選。子宮動脈栓塞術（uterine artery embolization）可阻斷肌瘤血流、縮小病灶、減輕出血；有未來生育需求者要審慎討論其生殖影響。",
+   "C": "本項不選。妊娠中的紅色變性（red degeneration）多造成局部疼痛和低度發燒，一般以休息、止痛、觀察保守處理，通常不必手術。",
+   "D": "本項不選。黏膜下肌瘤（submucosal uterine leiomyoma）突出或鄰近子宮腔，增加內膜表面積又妨礙收縮，常造成經血量增多（hypermenorrhea）。",
+   "summary": "肌瘤位置決定症狀：submucosal myoma 最影響出血和生育，subserosal myoma 通常不是不孕主因。"
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -94224,12 +94224,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "Progestins 可使子宮內膜異位病灶 decidualization 與萎縮，但常見副作用包括不規則出血、體重增加、情緒改變等。",
-   "B": "錯誤。持續使用 combined oral contraceptives 不會增加子宮內膜癌或卵巢癌風險，反而與兩者風險降低相關；其可抑制排卵與月經以控制內膜異位疼痛。",
-   "C": "Danazol 具有 androgenic effects，可能造成多毛、痤瘡、體重增加與不可逆的聲音低沉，因副作用而較少使用。",
-   "D": "長期 GnRH agonists 造成低 estrogen 狀態，會導致骨密度下降及更年期樣症狀，因此療程長時常需 add-back therapy。",
-   "summary": "Endometriosis 藥物陷阱：OCP 不增加卵巢／內膜癌；danazol 具雄性化副作用，GnRH agonist 會流失骨質。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。progestins 可讓子宮內膜異位病灶蛻膜化（decidualization）和萎縮，但常見副作用有不規則出血、體重增加、情緒改變。",
+   "B": "正確答案。這句是錯的。持續使用複方口服避孕藥（combined oral contraceptives）不會增加子宮內膜癌或卵巢癌風險，反而和兩者風險「降低」相關；它靠抑制排卵和月經來控制內膜異位疼痛。",
+   "C": "本項不選。danazol 有雄性化作用（androgenic effects），可能造成多毛、痤瘡、體重增加和不可逆的聲音低沉，因副作用而較少用。",
+   "D": "本項不選。長期 GnRH agonists 造成低 estrogen 狀態，會使骨密度下降、出現更年期樣症狀，療程長時常需 add-back therapy。",
+   "summary": "子宮內膜異位藥物陷阱：OCP 不增加卵巢／內膜癌；danazol 有雄性化副作用；GnRH agonist 會流失骨質。"
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -94570,12 +94570,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "GnRH agonist long protocol 先使腦下垂體降調節，可抑制內生性早發 LH surge，讓外源性 gonadotropin 刺激較易控制。",
-   "B": "癌症治療可能造成性腺毒性；治療前冷凍卵子、胚胎或精子是成熟的生育保存選項，須在不延誤腫瘤治療下安排。",
-   "C": "錯誤。沒有已知單基因疾病或親代染色體異常的習慣性流產，不能以 PGD 保證增加著床率；是否作 PGT-A 需依年齡與個別證據諮詢，不能視為常規有效治療。",
-   "D": "單一囊胚植入可大幅降低醫源性多胎妊娠，同時以囊胚期選擇維持合理的植入機會。",
-   "summary": "ART 可用降調節防早發 LH surge、做癌症生育保存並以單胚植入減少多胎；不明原因反覆流產不等同 PGD 適應症。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。GnRH agonist long protocol 先讓腦下垂體降調節，可抑制內生性早發 LH surge，讓外源性 gonadotropin 刺激較好控制。",
+   "B": "本項不選。癌症治療可能造成性腺毒性；治療前冷凍卵子、胚胎或精子是成熟的生育保存選項，要在不延誤腫瘤治療下安排。",
+   "C": "正確答案。這句是錯的。沒有已知單基因疾病或親代染色體異常的習慣性流產，不能用著床前基因診斷（PGD）保證提高著床率；要不要做 PGT-A 需依年齡和個別證據諮詢，不是常規有效治療。",
+   "D": "本項不選。單一囊胚植入可大幅降低醫源性多胎妊娠，同時用囊胚期篩選維持合理的植入機會。",
+   "summary": "ART 可用降調節防早發 LH surge、做癌症生育保存、以單胚植入減少多胎；不明原因反覆流產不等於 PGD 適應症。"
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -94608,12 +94608,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "錯誤。Combined oral contraceptives 可降低 ovarian androgen 並提高 SHBG，是 PCOS 多毛症第一線藥物之一，但毛髮改善慢且單用反應有限，不能宣稱成功率高達八成。",
-   "B": "Cyproterone acetate 具 antiandrogen 與 progestogenic effects，可改善多毛；使用時須注意肝毒性，且高累積劑量另有 meningioma 等安全性議題。題目所稱肝腫瘤風險應依當地仿單解讀。",
-   "C": "GnRH agonist 可抑制 ovarian steroidogenesis，dexamethasone 可抑制 adrenal androgen；兩者均可能改善特定來源的多毛與痤瘡，但因副作用不作一般首選。",
-   "D": "卵巢楔狀切除或現代的 laparoscopic ovarian drilling 可降低部分 ovarian androgen 並恢復部分 PCOS 病人排卵，但有沾黏與卵巢儲備損傷風險。",
-   "summary": "PCOS 多毛症以 OCP 為常用第一線，但需數月且不是單用即可達八成成功；手術與強力抑制療法只用於選定病人。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。這句是錯的。複方口服避孕藥可降低卵巢雄性激素、提高 SHBG，是 PCOS 多毛症第一線藥物之一，但毛髮改善慢、單用反應有限，不能宣稱成功率高達八成。",
+   "B": "本項不選。cyproterone acetate 有抗雄性激素（antiandrogen）和黃體素作用，可改善多毛；使用時要注意肝毒性，高累積劑量另有 meningioma 等安全性議題。",
+   "C": "本項不選。GnRH agonist 可抑制卵巢類固醇生成，dexamethasone 可抑制腎上腺雄性激素；兩者都可能改善特定來源的多毛和痤瘡，但因副作用不當一般首選。",
+   "D": "本項不選。卵巢楔狀切除或現代的腹腔鏡卵巢鑽孔術（laparoscopic ovarian drilling）可降低部分卵巢雄性激素、恢復部分 PCOS 病人排卵，但有沾黏和卵巢儲備損傷風險。",
+   "summary": "PCOS 多毛症以 OCP 為常用第一線，但要數月、單用達不到八成成功；手術和強力抑制療法只用於選定病人。"
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -105310,15 +105310,15 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "FIGO stage IB 是腫瘤侷限子宮體且侵犯至少一半 myometrium；本例已向下侵犯陰道，超出 stage I。",
-   "B": "Stage II 指侵犯 cervical stroma 但未超出子宮；本例另有部分 vagina invasion，因此不能停在 stage II。",
-   "C": "Stage IIIA 主要是侵犯 uterine serosa 或 adnexa；本例描述的是 cervix 與 vagina，而非漿膜或附件。",
-   "D": "正確。子宮內膜癌侵犯陰道、但無淋巴結或遠端器官轉移，依本題採用的 FIGO 分期屬 stage IIIB。",
-   "summary": "子宮內膜癌若直接侵犯 vagina 而無淋巴或遠端轉移，歸為 FIGO stage IIIB；單純 cervical stromal invasion 才是 stage II。",
    "guideline": null,
    "concepts": [
     "figo-endometrial-cancer-staging"
-   ]
+   ],
+   "A": "本項不選。FIGO stage IB 是腫瘤侷限子宮體、侵犯至少一半肌層（myometrium）；本例已向下侵犯陰道，超出 stage I。",
+   "B": "本項不選。stage II 是侵犯子宮頸基質（cervical stroma）但未超出子宮；本例還有部分陰道侵犯，不能停在 stage II。",
+   "C": "本項不選。stage IIIA 主要是侵犯子宮漿膜（uterine serosa）或附件（adnexa）；本例描述的是子宮頸和陰道，不是漿膜或附件。",
+   "D": "正確答案。子宮內膜癌（endometrioid carcinoma）直接侵犯陰道、但沒有淋巴結或遠端器官轉移，依本題採用的 FIGO 分期屬 stage IIIB。",
+   "summary": "子宮內膜癌直接侵犯陰道、無淋巴或遠端轉移 → FIGO stage IIIB；單純子宮頸基質侵犯才是 stage II。"
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -116142,15 +116142,15 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "BRCA2 pathogenic variant 主要增加乳癌、卵巢癌、胰臟癌與前列腺癌風險，並不是子宮內膜癌加大腸癌家族聚集的最典型解釋。",
-   "B": "正確。Lynch syndrome 由 DNA mismatch repair genes 的生殖系變異造成，典型增加 colorectal 與 endometrial cancer 風險；傳統 Lynch II 指除大腸外並有相關腸外癌。",
-   "C": "Cowden syndrome 的 PTEN 變異可增加乳癌與子宮內膜癌，也可能有腸胃道息肉；但本題以大腸癌和子宮內膜癌的組合最典型指向 Lynch syndrome。",
-   "D": "Peutz–Jeghers syndrome 由 STK11 變異造成，特徵是黏膜皮膚色素斑與 hamartomatous polyps，並非此家族型態的首選。",
-   "summary": "子宮內膜癌與大腸癌家族聚集最先想到 mismatch repair defect 所致 Lynch syndrome。",
    "guideline": null,
    "concepts": [
     "lynch-syndrome-tumor-spectrum"
-   ]
+   ],
+   "A": "本項不選。BRCA2 致病變異主要增加乳癌、卵巢癌、胰臟癌和前列腺癌風險，不是「子宮內膜癌＋大腸癌」家族聚集的最典型解釋。",
+   "B": "正確答案。Lynch syndrome 由 DNA 錯配修復基因（DNA mismatch repair genes）的生殖系變異造成，典型增加大腸直腸癌和子宮內膜癌風險；傳統 Lynch II 指除大腸外還有相關腸外癌。",
+   "C": "本項不選。Cowden syndrome 的 PTEN 變異可增加乳癌和子宮內膜癌、也可能有腸胃道息肉；但「大腸癌＋子宮內膜癌」的組合最典型指向 Lynch syndrome。",
+   "D": "本項不選。Peutz–Jeghers syndrome 由 STK11 變異造成，特徵是黏膜皮膚色素斑和缺陷瘤性息肉（hamartomatous polyps），不是這個家族型態的首選。",
+   "summary": "子宮內膜癌＋大腸癌家族聚集，先想錯配修復缺陷造成的 Lynch syndrome。"
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -116310,12 +116310,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "60 歲以上或距停經超過 10 年才開始全身性 menopausal hormone therapy，冠心病、中風與血栓的絕對風險通常較高，不是較佳起始時機。",
-   "B": "正確。對有困擾症狀且無禁忌者，在 60 歲以下或距停經未滿 10 年開始治療，整體 benefit–risk profile 通常較有利，仍須個別化評估。",
-   "C": "荷爾蒙治療不是任何年齡都可隨時開始；乳癌、未明出血、活動性血栓或特定心血管疾病等情境需避免或審慎評估。",
-   "D": "全盤否定荷爾蒙補充不正確；它仍是血管動力症狀最有效治療，適當人選使用最低有效劑量並定期再評估即可。",
-   "summary": "Menopausal hormone therapy 的有利時機窗是年齡未滿 60 歲或停經未滿 10 年，前提是有適應症且無禁忌。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。60 歲以上或距停經超過 10 年才開始全身性更年期荷爾蒙治療，冠心病、中風和血栓的絕對風險通常較高，不是較好的起始時機。",
+   "B": "正確答案。對有困擾症狀又無禁忌的人，在 60 歲以下或距停經未滿 10 年開始治療，整體效益風險比通常較有利，仍要個別化評估。",
+   "C": "本項不選。荷爾蒙治療不是任何年齡都能隨時開始；乳癌、未明出血、活動性血栓或特定心血管疾病等情況要避免或審慎評估。",
+   "D": "本項不選。全盤否定荷爾蒙補充不對；它仍是血管動力症狀最有效的治療，適當人選用最低有效劑量並定期再評估即可。",
+   "summary": "更年期荷爾蒙治療的有利時機窗是年齡未滿 60 歲或停經未滿 10 年，前提是有適應症、無禁忌。"
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -116916,12 +116916,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "依官方答案，HSG 箭頭病灶為輸卵管積水（hydrosalpinx），典型會見遠端阻塞後擴張、迂曲且無腹腔內自由 spill。",
-   "B": "子宮外孕的診斷須結合懷孕狀態、serial β-hCG 與超音波；單張不孕評估 HSG 的擴張輸卵管影像不能直接診斷 ectopic pregnancy。",
-   "C": "輸卵管惡性腫瘤可造成充盈缺損或不規則狹窄，但遠少於遠端阻塞造成的 hydrosalpinx。",
-   "D": "子宮內膜異位症可因沾黏造成輸卵管扭曲或阻塞，但 HSG 不能直接看見腹膜病灶；箭頭所指若為囊狀擴張，診斷應寫 hydrosalpinx。",
-   "summary": "HSG 的遠端輸卵管阻塞、管腔囊狀擴張且缺乏自由 spill 指向 hydrosalpinx；影像細節需看圖確認。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。圖中 HSG 顯示箭頭處遠端輸卵管呈囊袋狀擴張、積著顯影劑，而且那一側沒有顯影劑自由流入腹腔（no free spill），這就是輸卵管積水（hydrosalpinx）的典型影像。",
+   "B": "本項不選。子宮外孕要結合懷孕狀態、連續 β-hCG 和超音波診斷；單張不孕評估的 HSG 擴張輸卵管影像不能直接診斷子宮外孕。",
+   "C": "本項不選。輸卵管惡性腫瘤可造成充盈缺損或不規則狹窄，但遠少於遠端阻塞造成的 hydrosalpinx。",
+   "D": "本項不選。子宮內膜異位可因沾黏造成輸卵管扭曲或阻塞，但 HSG 看不到腹膜病灶；箭頭指的是囊狀擴張，診斷應寫 hydrosalpinx。",
+   "summary": "HSG 見遠端輸卵管阻塞、管腔囊狀擴張、又沒有自由 spill → hydrosalpinx。"
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117018,15 +117018,15 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "先兆流產（threatened abortion）是妊娠早期出血但子宮頸仍關閉、無妊娠組織排出；選項寫成「子宮頸擴張」便更接近 inevitable abortion，因此不恰當。",
-   "B": "可接受。不完全流產（incomplete abortion）是部分妊娠產物排出、仍有胎盤或其他組織殘留，常伴持續出血與子宮頸開啟。",
-   "C": "化膿性流產（septic abortion）靠發燒、子宮壓痛、惡臭分泌物與感染／流產病史診斷，配合 ultrasound 尋找殘留；CT 並非最適合的第一線診斷工具。",
-   "D": "可接受。過期流產（missed abortion）指胚胎或胎兒已死亡但妊娠組織仍留在子宮內；題目以妊娠未滿 20 週且胎心消失描述，符合其核心定義。",
-   "summary": "官方更正為 B、D 或 BD 均給分：incomplete abortion 有部分組織殘留；missed abortion 是胚胎死亡但仍滯留宮內。",
    "guideline": "官方更正：第76題答Ｂ或Ｄ或BD者均給分",
    "concepts": [
     "clinical-abortion-definitions"
-   ]
+   ],
+   "A": "本項不選。先兆流產（threatened abortion）是妊娠早期出血、但子宮頸仍關閉、沒有妊娠組織排出；選項寫成「子宮頸擴張」比較接近難免流產（inevitable abortion），所以不恰當。",
+   "B": "正確答案。不完全流產（incomplete abortion）是部分妊娠產物已排出、仍有胎盤或其他組織殘留，常伴持續出血和子宮頸開啟。（官方 B、D 或 BD 均給分）",
+   "C": "本項不選。化膿性流產（septic abortion）靠發燒、子宮壓痛、惡臭分泌物和感染／流產病史診斷，再配合超音波找殘留；CT 不是最適合的第一線工具。",
+   "D": "正確答案。過期流產（missed abortion）指胚胎或胎兒已死亡、但妊娠組織仍留在子宮內；題目以妊娠未滿 20 週、胎心消失描述，符合核心定義。（官方 B、D 或 BD 均給分）",
+   "summary": "官方更正 B、D 或 BD 均給分：incomplete abortion 有部分組織殘留；missed abortion 是胚胎死亡但仍滯留宮內。"
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -126894,12 +126894,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。停經後出血約有一成與子宮內膜癌相關；比例會受族群與危險因子影響，但考題常用約 10% 作記憶值。",
-   "B": "30% 明顯高於一般停經後出血中子宮內膜癌的比例；大多數病例仍由萎縮性內膜或陰道等良性原因造成。",
-   "C": "若宣稱 50% 的停經後出血都是子宮內膜癌，會大幅高估盛行率；但出血仍是子宮內膜癌最常見的警訊，不能因比例不高而忽略評估。",
-   "D": "70% 不是停經後出血中子宮內膜癌所占比例；這類高數字較容易與「子宮內膜癌患者常以出血表現」的反向條件機率混淆。",
-   "summary": "約 10% 停經後出血是子宮內膜癌；常見不代表可忽略，所有病例仍需風險分層與內膜評估。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。停經後出血大約有一成和子宮內膜癌有關。比例會受族群和危險因子影響，考題常用約 10% 當記憶值。",
+   "B": "本項不選。30% 明顯高於停經後出血中子宮內膜癌的實際比例；多數還是萎縮性內膜或陰道等良性原因造成。",
+   "C": "本項不選。說 50% 的停經後出血都是子宮內膜癌會大幅高估盛行率；但出血仍是子宮內膜癌最常見的警訊，不能因為比例不高就不評估。",
+   "D": "本項不選。70% 不是停經後出血中子宮內膜癌所佔的比例；這種高數字容易和「子宮內膜癌病人常以出血表現」的反向機率混淆。",
+   "summary": "約 10% 的停經後出血是子宮內膜癌；比例不高不代表可忽略，每個病例仍要做風險分層和內膜評估。"
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -127059,12 +127059,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "甲狀腺功能低下會增加 TRH，進而刺激 prolactin 分泌；因此 TSH 是高泌乳激素血症與次發性無月經的基本檢查之一。",
-   "B": "泌乳激素瘤等腦下垂體腺瘤可直接分泌 prolactin；若數值明顯升高或有頭痛、視野症狀，須評估 pituitary MRI。",
-   "C": "部分 antidepressants 阻斷 dopamine 或增強 serotonin 路徑，可解除 dopamine 對 lactotroph 的抑制而升高 prolactin，需核對完整用藥史。",
-   "D": "最不可能。乳腺癌本身不是高泌乳激素血症的典型原因；應先找懷孕、藥物、甲狀腺低下、腎病或 hypothalamic-pituitary lesion。",
-   "summary": "Hyperprolactinemic amenorrhea 常見病因是 hypothyroidism、pituitary adenoma 與 dopamine-interfering drugs，不是乳癌。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。甲狀腺功能低下會增加 TRH，進而刺激 prolactin 分泌；所以 TSH 是高泌乳激素血症合併次發性無月經的基本檢查之一。",
+   "B": "本項不選。泌乳激素瘤等腦下垂體腺瘤可直接分泌 prolactin；數值明顯升高或有頭痛、視野症狀時，要安排 pituitary MRI。",
+   "C": "本項不選。部分抗憂鬱藥（antidepressants）會阻斷 dopamine 或增強 serotonin 路徑，解除 dopamine 對 lactotroph 的抑制而讓 prolactin 上升。要核對完整用藥史。",
+   "D": "正確答案。乳腺癌本身不是高泌乳激素血症的典型原因；泌乳激素偏高要先找懷孕、藥物、甲狀腺低下、腎病或下視丘—腦下垂體病灶。",
+   "summary": "高泌乳激素性無月經常見病因是甲狀腺低下、腦下垂體腺瘤和干擾 dopamine 的藥物，不是乳癌。"
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -127092,12 +127092,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "CVS 可在早孕診斷胎兒是否為 alpha thalassemia major，但結果異常後仍面臨是否終止已建立妊娠的決策，不能最大程度避免再次終止妊娠。",
-   "B": "Amniocentesis 也屬產前診斷，而且時點較 CVS 晚；它能確認胎兒基因型，卻不能在植入前排除受影響胚胎。",
-   "C": "正確。IVF 合併 PGT-M（題目稱 PGD）可在胚胎植入前檢驗已知家族 HBA 基因變異，只選未罹患 alpha thalassemia major 的胚胎植入，最能避免因相同疾病再次終止妊娠。",
-   "D": "NIPS 主要篩檢常見染色體非整倍體，不能取代針對 HBA1/HBA2 變異的診斷；一般 NIPS 無法可靠排除 alpha thalassemia major。",
-   "summary": "已知夫妻同為 alpha-thalassemia carriers，欲避免再次因重症胎兒終止妊娠，首選 IVF 加 PGT-M。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。絨毛膜穿刺取樣（chorionic villus sampling, CVS）可在早孕診斷胎兒是不是 alpha thalassemia major。但結果異常後仍要面對「要不要終止已建立妊娠」的決定，沒辦法最大程度避免再次終止。",
+   "B": "本項不選。羊水穿刺（amniocentesis）也是產前診斷，時點比 CVS 更晚；它能確認胎兒基因型，但不能在植入前就排除受影響的胚胎。",
+   "C": "正確答案。試管嬰兒（IVF）合併胚胎著床前基因診斷（PGD，即 PGT-M）可在植入前檢驗已知的家族 HBA 基因變異。只挑沒有 alpha thalassemia major 的胚胎植入，最能避免因同一疾病再次終止妊娠。",
+   "D": "本項不選。非侵入性產前染色體篩檢（NIPS）主要篩常見染色體非整倍體，不能取代針對 HBA1／HBA2 變異的診斷，一般 NIPS 無法可靠排除 alpha thalassemia major。",
+   "summary": "夫妻同為 alpha thalassemia 帶因者、想避免再次因重症胎兒終止妊娠，首選 IVF 加 PGT-M。"
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -127657,12 +127657,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "正常 HSG 應見兩側細長輸卵管及顯影劑自由散入腹腔；依官方答案，本圖有雙側遠端擴張與無 spill，並非正常。",
-   "B": "依官方答案，影像顯示雙側遠端輸卵管阻塞併輸卵管積水（hydrosalpinx）；典型為遠端 clubbing／囊狀擴張且無腹腔自由 spill。",
-   "C": "輸卵管癌在 HSG 可能呈不規則狹窄或充盈缺損，不能用典型雙側對稱遠端積水來優先診斷；且其盛行率遠低於阻塞性 hydrosalpinx。",
-   "D": "輸卵管卵巢膿瘍通常有骨盆疼痛、發燒與發炎徵象，診斷以 ultrasound／CT 顯示複雜性 adnexal mass；單靠 HSG 的雙側積水不能命名為膿瘍。",
-   "summary": "雙側輸卵管遠端阻塞、管腔擴張且無自由 spill 是 bilateral hydrosalpinx；影像題仍需原圖確認。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。正常 HSG 應見兩側細長輸卵管、顯影劑自由散入腹腔；本圖兩側遠端都擴張、又沒有 spill，不是正常。",
+   "B": "正確答案。圖中兩側輸卵管遠端都呈囊袋狀（clubbing）擴張、積著顯影劑。而且兩側都沒有顯影劑流入腹腔（no free spill）。這是雙側遠端輸卵管阻塞併輸卵管積水（hydrosalpinx）的典型影像。",
+   "C": "本項不選。輸卵管癌（tubal cancer）在 HSG 可能是不規則狹窄或充盈缺損，不會用典型的雙側對稱遠端積水來優先診斷，且它盛行率遠低於阻塞性 hydrosalpinx。",
+   "D": "本項不選。輸卵管卵巢膿瘍（tubo-ovarian abscess）通常有骨盆疼痛、發燒和發炎徵象，診斷靠超音波或 CT 看到複雜性附件腫塊；單靠 HSG 的雙側積水不能叫膿瘍。",
+   "summary": "HSG 見兩側輸卵管遠端阻塞、管腔擴張、又都無自由 spill ＝ 雙側 hydrosalpinx。"
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -137798,12 +137798,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "PCOS 的雄性激素主要來源是卵巢 theca cells；腎上腺也可貢獻 DHEAS，但不能說體內雄性素主要都來自腎上腺。",
-   "B": "長期無排卵使子宮內膜暴露於未被 progesterone 拮抗的 estrogen，會增加子宮內膜增生與癌症風險，因此「不會增加」錯誤。",
-   "C": "PCOS 治療依目標採生活調整、combined oral contraceptives、代謝治療或排卵誘導；手術僅限特定不孕病人，並非優先選項。",
-   "D": "正確。Combined oral contraceptives 抑制 LH、降低 ovarian androgen，並可抑制部分 adrenal androgen、提高 SHBG 以降低 free testosterone。",
-   "summary": "PCOS 高雄性激素以卵巢來源為主；OCP 可降 androgen，且慢性無排卵會提高 endometrial cancer 風險。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。PCOS 的雄性激素主要來源是卵巢 theca cells；腎上腺也會貢獻 DHEAS，但不能說體內雄性素主要都來自腎上腺。",
+   "B": "本項不選。長期無排卵讓子宮內膜一直暴露在沒有 progesterone 拮抗的 estrogen 下，會增加子宮內膜增生和癌症風險，所以「不會增加」是錯的。",
+   "C": "本項不選。PCOS 治療依目標選生活調整、複方口服避孕藥（combined oral contraceptives）、代謝治療或排卵誘導；手術只用在特定不孕病人，不是優先選項。",
+   "D": "正確答案。複方口服避孕藥抑制 LH、降低卵巢雄性激素，還能抑制部分腎上腺雄性激素、提高 SHBG 以降低 free testosterone。",
+   "summary": "PCOS 高雄性激素以卵巢來源為主；OCP 可降雄性激素，且慢性無排卵會提高子宮內膜癌風險。"
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -137831,12 +137831,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "更年期血管動力症狀可在末次月經前開始並持續多年；部分女性的總病程可達十年或更久。",
-   "B": "錯誤。肥胖不保證熱潮紅較輕；較高 BMI 常與更頻繁或嚴重的 vasomotor symptoms 相關，脂肪的周邊 estrogen 轉換不能直接推導症狀較少。",
-   "C": "全身性 menopausal hormone therapy 是治療中重度 hot flashes 最有效的方法，但仍須確認適應症、子宮狀態與乳癌／血栓等禁忌。",
-   "D": "保持涼爽與戒菸有助減少誘發因子；瑜伽與針灸的證據較不一致，可能作個別輔助，但不能取代有效的藥物治療。",
-   "summary": "肥胖女性的 hot flashes 不一定較輕，反而常更嚴重；全身性荷爾蒙仍是無禁忌者最有效治療。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。更年期血管動力症狀可在末次月經前就開始並持續多年，部分女性的總病程可達十年或更久。",
+   "B": "正確答案。這句是錯的。肥胖不保證熱潮紅較輕；較高 BMI 常和更頻繁或更嚴重的血管動力症狀相關，脂肪的周邊 estrogen 轉換不能直接推論出症狀較少。",
+   "C": "本項不選。全身性更年期荷爾蒙治療（menopausal hormone therapy）是治療中重度熱潮紅（hot flashes）最有效的方法，但仍要確認適應症、子宮狀態和乳癌／血栓等禁忌。",
+   "D": "本項不選。保持涼爽、戒菸有助減少誘發因子；瑜伽和針灸證據較不一致，可當個別輔助，但不能取代有效的藥物治療。",
+   "summary": "肥胖女性的熱潮紅不一定較輕、反而常更嚴重；全身性荷爾蒙仍是無禁忌者最有效的治療。"
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -137864,12 +137864,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
-   "A": "女性生育力隨年齡下降，約 35 歲後更明顯，接近 40 歲時因卵巢儲備與卵母細胞品質下降而加速。",
-   "B": "錯誤。高齡卵母細胞的非整倍體主要源於減數分裂（meiosis）的染色體不分離，而不是卵子的有絲分裂異常。",
-   "C": "年齡增加會提高卵母細胞 aneuploidy 與胚胎著床失敗比例，因此正常卵子的相對比例下降。",
-   "D": "男性年齡也會影響精液品質、DNA fragmentation 與部分新生突變風險，但相較女性，50 歲前對整體自然生育力的下降較小且較漸進。",
-   "summary": "女性年齡相關流產多來自卵母細胞 meiotic nondisjunction，不是 mitotic error；生育力約 40 歲前後加速下降。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。女性生育力隨年齡下降，約 35 歲後更明顯，接近 40 歲時因卵巢儲備和卵母細胞品質下降而加速。",
+   "B": "正確答案。這句是錯的。高齡卵母細胞的非整倍體（aneuploidy）主要來自減數分裂（meiosis）時染色體不分離，不是卵子的有絲分裂異常。",
+   "C": "本項不選。年齡增加會提高卵母細胞 aneuploidy 和胚胎著床失敗比例，所以正常卵子的相對比例下降。",
+   "D": "本項不選。男性年齡也會影響精液品質、DNA 斷裂（fragmentation）和部分新生突變風險，但相較女性，50 歲前對整體自然生育力的下降較小、較漸進。",
+   "summary": "女性年齡相關的流產多來自卵母細胞減數分裂不分離，不是有絲分裂錯誤；生育力約 40 歲前後加速下降。"
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -138673,12 +138673,12 @@
   "specialty": "生殖內分泌",
   "fc_ref": null,
   "explanation": {
+   "guideline": "人工生殖法：不得選擇胚胎性別，但為預防、診斷或治療性聯遺傳疾病者不在此限",
    "A": "本項不選。不能因為「她可能想選性別」這個推測就預先拒絕。35 歲接受試管嬰兒、想確認胚胎染色體是否正常（PGT-A），本身是有醫學適應症的檢查。用尚未發生的動機去否定合法的醫療需求，並不合理。",
-   "B": "本項應選（官方答案）。胚胎切片做染色體檢查是病人在接受人工生殖時可要求的項目，醫師應依醫學適應症提供。真正的紅線在後面那一步：**人工生殖法禁止依性別選擇胚胎**，只有為了預防、診斷或治療性聯遺傳疾病才例外。所以檢查可以做，依性別挑胚胎不行。",
+   "B": "本項應選（官方答案）。胚胎切片做染色體檢查是病人在接受人工生殖時可要求的項目，醫師應依醫學適應症提供。真正的紅線在後面那一步：人工生殖法禁止依性別選擇胚胎，只有為了預防、診斷或治療性聯遺傳疾病才例外。所以檢查可以做，依性別挑胚胎不行。",
    "C": "本項不選。法律禁止的是「以性別選擇胚胎」，不是禁止告知檢查結果。把重點放在「不能告訴她性別」，其實抓錯了規範的核心。",
    "D": "本項不選。人工生殖機構本來就有依法通報與登錄的義務，但那是常規作業，不是本題要判斷的重點，也不是做這項檢查的前提條件。",
-   "summary": "PGT-A 有醫學適應症就能做；法律禁的是「依性別選胚胎」，例外只有性聯遺傳疾病。",
-   "guideline": "人工生殖法：不得選擇胚胎性別，但為預防、診斷或治療性聯遺傳疾病者不在此限"
+   "summary": "PGT-A 有醫學適應症就能做；法律禁的是「依性別選胚胎」，例外只有性聯遺傳疾病。"
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
