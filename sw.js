@@ -3,7 +3,7 @@ const CACHE = 'fc-quiz-v29';
 // 不會變動的資源 → cache-first
 const IMMUTABLE = ['./vendor/pdf.min.mjs', './vendor/pdf.worker.min.mjs', './icon.svg', './manifest.webmanifest'];
 // 會改版的文件 → network-first（離線時才回快取）
-const DOCS = ['./', './index.html', './styles.css?v=28', './app.js?v=28', './learning-core.js?v=8', './config.js'];
+const DOCS = ['./', './index.html', './styles.css?v=29', './app.js?v=29', './learning-core.js?v=8', './config.js'];
 const DATA = ['./questions.json', './concepts.json'];
 
 const abs = p => new URL(p, self.registration.scope).pathname;
