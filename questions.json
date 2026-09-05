@@ -4174,11 +4174,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "B型肝炎帶原本身不是 isotretinoin 的絕對禁忌；治療前與療程中需評估 liver function，若有 active liver disease 或明顯 transaminase elevation 才須避免或停藥。",
-   "B": "培養出 Gram-negative bacteria 可能見於長期使用抗生素後的 Gram-negative folliculitis，反而可成為考慮 isotretinoin 的臨床情境，並非絕對禁忌。",
-   "C": "對抗生素有抗藥性的 severe acne 是考慮改用 isotretinoin 的理由之一；重點仍是先評估懷孕風險、肝功能與血脂。",
-   "D": "懷孕時絕對禁止 isotretinoin，因其具有高度 teratogenicity，可造成嚴重 craniofacial、cardiac 與 central nervous system malformations。",
-   "summary": "本題考 isotretinoin 的核心禁忌：具懷孕可能者必須嚴格避孕，懷孕期間絕對不可使用。",
+   "A": "本項不選。B型肝炎帶原不是 isotretinoin 的絕對禁忌。真正要盯的是肝功能（liver function），治療前與療程中都要抽血追蹤。只有已經在發作的肝病（active liver disease），或轉胺酶（transaminase）明顯上升，才需要避免或停藥。",
+   "B": "本項不選。培養出格蘭氏陰性菌（Gram-negative bacteria）反而可能是用藥的理由。長期吃抗生素治痘的人會冒出格蘭氏陰性菌毛囊炎（Gram-negative folliculitis），那正是改用 isotretinoin 的典型情境。",
+   "C": "本項不選。對抗生素有抗藥性的嚴重痘痘（severe acne），本來就是改用 isotretinoin 的理由之一。開藥前要確認的是另外三件事：懷孕風險、肝功能、血脂。",
+   "D": "正確答案。懷孕期間絕對不能用 isotretinoin，因為它有很強的致畸胎性（teratogenicity）。造成的不是小瑕疵：顏面（craniofacial）、心臟（cardiac）與中樞神經系統（central nervous system）都可能出現嚴重畸形（malformations）。",
+   "summary": "看到 isotretinoin 先問一句「會不會懷孕」——它的絕對禁忌是懷孕，不是肝炎帶原，也不是抗藥性。",
    "guideline": "FC 醫學(四)第2冊 p.69；American Academy of Dermatology, Guidelines of care for the management of acne vulgaris (2024)"
   },
   "source": "110020/302_22",
@@ -4207,11 +4207,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "嬰幼兒期 atopic dermatitis 常侵犯臉頰、頭皮與四肢伸側；隨年齡增加，典型分布才轉向肘窩、膕窩等屈側，因此此項符合年齡相關分布。",
-   "B": "難以控制的 pruritus 是 atopic dermatitis 的必要核心特徵之一；搔抓又會破壞 skin barrier，形成 itch–scratch cycle。",
-   "C": "Atopic dermatitis 的支持性過敏背景是個人或家族的 atopy，例如 asthma、allergic rhinitis 或 atopic dermatitis；單稱「藥物過敏史」不是主要診斷依據。",
-   "D": "慢性且反覆發作的 eczema 病程是 atopic dermatitis 的典型特徵，需配合搔癢、典型形態及年齡相關分布判斷。",
-   "summary": "Atopic dermatitis 依臨床診斷；核心是 pruritic、chronic/relapsing eczema 與典型年齡分布，不是一般藥物過敏史。",
+   "A": "本項敘述正確。異位性皮膚炎（atopic dermatitis）的位置會隨年齡換。嬰幼兒期在臉頰、頭皮與四肢伸側；長大後才轉到肘窩、膕窩這些屈側。",
+   "B": "本項敘述正確。癢（pruritus）是這個病的必要條件，不癢就該重新想診斷。而且會愈抓愈糟：搔抓破壞皮膚屏障（skin barrier），形成癢—抓循環（itch–scratch cycle）。",
+   "C": "本項應選。異位性皮膚炎要問的過敏背景是異位體質（atopy）。具體是這三樣：氣喘（asthma）、過敏性鼻炎（allergic rhinitis）、異位性皮膚炎本身，本人或家族有都算。藥物過敏史是另一回事，不能拿來當主要診斷依據。",
+   "D": "本項敘述正確。慢性、反覆發作的濕疹（eczema）病程是典型特徵。但光看病程不夠，要同時有搔癢、典型形態與年齡相關分布才成立。",
+   "summary": "異位性皮膚炎問家族史是問氣喘和鼻炎，不是問藥物過敏——這兩個搞混就會選錯。",
    "guideline": "American Academy of Dermatology, Guidelines of care for the management of atopic dermatitis in adults with topical therapies (2023)"
   },
   "source": "110020/302_22",
@@ -4247,11 +4247,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Seborrheic dermatitis 形成界線較不銳利、帶油性鱗屑的紅斑，好發於 scalp、eyebrows 與 nasolabial folds；Parkinson disease 也是明確相關背景。",
-   "B": "Asteatotic dermatitis 源自皮膚乾燥與 barrier disruption，典型為小腿或軀幹的乾裂、crazy-paving 樣 eczema，不以頭皮屑和鼻翼溝油性脫屑為主。",
-   "C": "Atopic dermatitis 通常有長期 pruritic eczema 與 flexural distribution，常伴個人或家族 atopy；題幹的 sebaceous-area distribution 及 Parkinson disease 更支持 seborrheic dermatitis。",
-   "D": "Contact dermatitis 應有接觸物相符的暴露史與分布，常在接觸處形成界線較清楚的 eczema；眉間、鼻周和頭皮同步發作不符合單一接觸源。",
-   "summary": "頭皮、眉毛及 nasolabial folds 的脫屑性紅斑，加上 Parkinson disease，是 seborrheic dermatitis 的典型組合。",
+   "A": "正確答案。脂漏性皮膚炎（seborrheic dermatitis）的紅斑界線不太銳利，上面帶油性鱗屑。好發處正好就是題目講的：頭皮（scalp）、眉毛（eyebrows）與鼻唇溝（nasolabial folds）。巴金森氏症（Parkinson disease）病人特別容易得，這是公認的相關背景。",
+   "B": "本項不選。缺脂性皮膚炎（asteatotic dermatitis）是皮膚太乾、屏障被破壞（barrier disruption）造成的。它長在小腿或軀幹，裂紋像龜裂的地磚（crazy-paving）。它不會以頭皮屑和鼻翼溝的油性脫屑表現。",
+   "C": "本項不選。異位性皮膚炎（atopic dermatitis）的濕疹長在屈側（flexural distribution），癢很久，多半有個人或家族異位體質（atopy）。這題病灶集中在出油部位（sebaceous area），又有巴金森氏症，方向不同。",
+   "D": "本項不選。接觸性皮膚炎（contact dermatitis）要有對得上的接觸史，病灶界線清楚，就長在碰到的地方。眉間、鼻周和頭皮同時發作，找不出一個共同的接觸源。",
+   "summary": "巴金森氏症＋頭皮和鼻唇溝的油性脫屑紅斑＝脂漏性皮膚炎，這個組合幾乎是送分。",
    "guideline": null
   },
   "source": "110020/302_22",
@@ -4288,11 +4288,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "掌蹠紅斑應詢問 sexual exposure、先前 painless chancre、全身疹與 lymphadenopathy，以排除 secondary syphilis；接觸史在此應理解為性接觸風險。",
-   "B": "VDRL 可作為 syphilis 的 nontreponemal screening test，陽性後須以 treponemal test 確認；同時檢驗 HIV 是因兩者共享性傳染風險且可能共感染。",
-   "C": "口腔、眼睛或生殖器黏膜侵犯合併用藥後皮疹，會提高 Stevens–Johnson syndrome/toxic epidermal necrolysis 等 severe cutaneous adverse reaction 的疑慮，因此必須主動詢問。",
-   "D": "Total IgE 升高不具 atopic dermatitis 的診斷專一性，正常值也不能排除；成人突然出現掌蹠紅斑更不能僅靠 IgE 診斷 atopic dermatitis。",
-   "summary": "新發掌蹠疹須優先排除 secondary syphilis 與 drug eruption；serum IgE 不能單獨確診 atopic dermatitis。",
+   "A": "本項敘述正確。手腳掌冒紅斑，第一個要排除的是二期梅毒（secondary syphilis）。這裡的「接觸史」指的是性接觸風險。還要問先前有沒有不痛的硬下疳（painless chancre）、全身疹與淋巴結腫大（lymphadenopathy）。",
+   "B": "本項敘述正確。VDRL 是梅毒的非螺旋體篩檢（nontreponemal screening test），陽性後還要用螺旋體試驗（treponemal test）確認。同時驗 HIV，是因為兩者傳染途徑相同，可能同時感染。",
+   "C": "本項敘述正確。吃藥後起疹，又合併口腔、眼睛或生殖器黏膜受侵犯，要擔心的是史蒂芬強生症候群／毒性表皮壞死溶解（Stevens–Johnson syndrome/toxic epidermal necrolysis）。這類嚴重藥物疹（severe cutaneous adverse reaction）會致命，所以一定要主動問。",
+   "D": "本項應選。血中總 IgE（total IgE）升高對異位性皮膚炎（atopic dermatitis）沒有專一性，數值正常也不能排除。成人突然冒出手腳掌紅斑，更不可能靠一個 IgE 就下這個診斷。",
+   "summary": "新長的手腳掌紅斑，先想梅毒和藥物疹；IgE 高低不能拿來診斷異位性皮膚炎。",
    "guideline": null
   },
   "source": "110020/302_22",
@@ -4328,11 +4328,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Basal cell carcinoma 常呈 pearly papule/nodule、telangiectasia 與 rolled border，可能中央潰瘍，但不以數週至數月快速長成、中央填滿 keratin plug 的對稱 crateriform nodule 為典型。",
-   "B": "Bowen's disease 是 squamous cell carcinoma in situ，通常表現為緩慢增大的 scaly erythematous plaque，而非中央角栓的火山口狀結節。",
-   "C": "Keratoacanthoma 常在 sun-exposed face 快速增大，形成中央 keratin-filled crater 的 dome-shaped nodule；臨床上仍須切除並送 pathology，以和 well-differentiated squamous cell carcinoma 區分。",
-   "D": "Malignant melanoma 以不對稱、邊緣不規則、顏色不均與演變中的 pigmented lesion 為警訊；中央角質栓並非其代表性形態。",
-   "summary": "快速生長的 crateriform nodule 加中央 keratin plug 指向 keratoacanthoma，但實務上須與 squamous cell carcinoma 作病理鑑別。",
+   "A": "本項不選。基底細胞癌（basal cell carcinoma）長得像帶珍珠光澤的丘疹或結節（pearly papule/nodule），表面有微血管擴張（telangiectasia）、邊緣捲起（rolled border）。它中央雖可潰瘍，卻不會在數週到數月內長成中央塞滿角栓（keratin plug）的對稱火山口。",
+   "B": "本項不選。波文氏病（Bowen's disease）是原位鱗狀細胞癌（squamous cell carcinoma in situ）。它是慢慢變大的紅色脫屑斑塊，不是中央帶角栓的火山口狀結節。",
+   "C": "正確答案。角化棘皮瘤（keratoacanthoma）長在曬得到太陽的臉上（sun-exposed face），快速變大成圓頂結節，中央是一個塞滿角質的火山口（keratin-filled crater）。但不能只做臨床判斷：它和分化良好的鱗狀細胞癌（well-differentiated squamous cell carcinoma）很難分，仍要切除送病理（pathology）。",
+   "D": "本項不選。惡性黑色素瘤（malignant melanoma）的警訊是色素病灶不對稱、邊緣不規則、顏色不均，而且一直在變（evolving）。中央角質栓不是它的長相。",
+   "summary": "三個月內長大、中央塞角質的火山口＝角化棘皮瘤；但一定要切下來送病理，因為它和鱗狀細胞癌分不乾淨。",
    "guideline": null
   },
   "source": "110020/302_22",
@@ -4366,11 +4366,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Nodular melanoma 以早期 vertical growth、快速隆起的深色 nodule 為特徵，但不是臺灣與其他亞洲族群最常見的 cutaneous melanoma subtype。",
-   "B": "Acral lentiginous melanoma 是臺灣人最常見的 cutaneous melanoma subtype，常見於 palm、sole 與 nail apparatus，與白人族群以 superficial spreading melanoma 最常見不同。",
-   "C": "Superficial spreading melanoma 在白人族群最常見，早期以 radial growth 的不規則色素斑為主；在臺灣族群的比例不及 acral lentiginous melanoma。",
-   "D": "Lentigo maligna melanoma 多發生於高齡者長期日曬的臉部等部位，由 lentigo maligna 原位病灶進展而來，並非臺灣最常見型別。",
-   "summary": "族群差異是考點：臺灣及亞洲族群以 acral lentiginous melanoma 最常見，須留意掌、蹠與甲床。",
+   "A": "本項不選。結節型黑色素瘤（nodular melanoma）一開始就往深處長（vertical growth），很快隆起成深色結節。它惡性度高，但不是臺灣與亞洲族群最常見的型別。",
+   "B": "正確答案。肢端黑痣型黑色素瘤（acral lentiginous melanoma）是臺灣人最常見的皮膚黑色素瘤。要檢查的地方是手掌（palm）、腳底（sole）與指甲（nail apparatus）。白人最常見的則是表淺擴散型（superficial spreading melanoma），兩邊不一樣。",
+   "C": "本項不選。表淺擴散型黑色素瘤（superficial spreading melanoma）在白人族群最常見。它早期沿表皮橫向擴散（radial growth），呈不規則色素斑。在臺灣，它的比例不及肢端黑痣型。",
+   "D": "本項不選。惡性黑痣型黑色素瘤（lentigo maligna melanoma）長在高齡者長期曬太陽的臉上，由原位的惡性黑痣（lentigo maligna）進展而來。它不是臺灣最常見的型別。",
+   "summary": "臺灣人的黑色素瘤要翻手掌、腳底和指甲——族群不同，最常見的型別就不同，這題考的就是這個差別。",
    "guideline": "FC 醫學(四)第2冊 p.194"
   },
   "source": "110020/302_22",
@@ -4406,11 +4406,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Cushing syndrome 的皮膚表現包括 thin skin、easy bruising、wide violaceous striae 與 acne；不會典型造成糖尿病患者上背無症狀的木板樣硬化增厚。",
-   "B": "Scleredema diabeticorum 常見於長期 diabetes 的中年肥胖男性，造成 posterior neck、shoulders 與 upper back 對稱、nonpitting 的 induration，通常不侵犯手指。",
-   "C": "Scleromyxedema 是 generalized papular and sclerodermoid eruption，常伴 monoclonal gammopathy；可見蠟樣 papules 與皮膚硬化，而非單純侷限於糖尿病患者上背。",
-   "D": "Dermatomyositis 以 proximal muscle weakness 合併 Gottron papules、heliotrope eruption 等皮膚徵象為主；上背可見 shawl sign，但那是光敏感性紅疹，不是無症狀硬化斑塊。",
-   "summary": "長期 diabetes 合併後頸、肩與上背木板樣硬化，典型為 scleredema diabeticorum。",
+   "A": "本項不選。庫欣氏症候群（Cushing syndrome）的皮膚是變薄、容易瘀青、寬的紫紅色紋（violaceous striae）與痘痘。它不會讓上背變成木板一樣的硬化增厚。",
+   "B": "正確答案。糖尿病性硬腫病（scleredema diabeticorum）好發於長期糖尿病（diabetes）的中年肥胖男性。硬化的位置是後頸、肩膀與上背，摸起來對稱、按下去不凹陷（nonpitting），手指通常不受影響。",
+   "C": "本項不選。硬化性黏液水腫（scleromyxedema）是全身性的丘疹合併硬皮樣變化，常伴單株免疫球蛋白病變（monoclonal gammopathy）。它會有蠟樣丘疹，也不會只侷限在糖尿病人的上背。",
+   "D": "本項不選。皮肌炎（dermatomyositis）以近端肌無力加 Gottron papules、heliotrope 疹為主。上背雖有披肩徵象（shawl sign），但那是光敏感的紅疹，不是無症狀的硬塊。",
+   "summary": "糖尿病人後頸到上背摸起來像一塊木板、又不痛不癢，先想硬腫病。",
    "guideline": null
   },
   "source": "110020/302_22",
@@ -4439,11 +4439,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Gottron papules 是 MCP/IP joints 伸側的 violaceous papules，heliotrope sign 是眼瞼紫紅色疹伴 periorbital edema；兩者都是 dermatomyositis 的標誌性皮膚表現。",
-   "B": "Dermatomyositis 的皮膚病灶經常 pruritic，部分患者搔癢可很明顯；「大多沒有搔癢」不能用來描述其病程。",
-   "C": "成人 dermatomyositis 與 internal malignancy 風險增加相關；癌種會隨族群而異，女性須注意 ovarian cancer，東亞族群亦須注意 nasopharyngeal cancer。",
-   "D": "Calcinosis cutis 是 juvenile dermatomyositis 較具代表性的慢性併發症，鈣鹽可沉積於皮下、筋膜或肌肉；成人型相對少見。",
-   "summary": "Dermatomyositis 不只考 Gottron papules 與 heliotrope sign；皮疹可明顯搔癢，成人須評估 malignancy，小兒較常 calcinosis。",
+   "A": "本項敘述正確。Gottron papules 是掌指與指間關節（MCP/IP joints）伸側的紫紅色丘疹。heliotrope sign 則是眼皮的紫紅色疹加眼周水腫（periorbital edema）。兩個都是皮肌炎（dermatomyositis）的標誌。",
+   "B": "本項應選。皮肌炎的皮疹常常很癢，有些人癢到受不了。說「大多沒有搔癢」與臨床不符。",
+   "C": "本項敘述正確。成人皮肌炎與內臟惡性腫瘤（internal malignancy）風險上升有關，確診後要安排癌症篩檢。癌種隨族群不同：女性注意卵巢癌（ovarian cancer），東亞族群要注意鼻咽癌（nasopharyngeal cancer）。",
+   "D": "本項敘述正確。皮膚鈣化（calcinosis cutis）是小兒皮肌炎（juvenile dermatomyositis）較具代表性的慢性併發症。鈣鹽會沉積在皮下、筋膜或肌肉，成人型相對少見。",
+   "summary": "皮肌炎的皮疹會癢，考題最愛用「不癢」設陷阱；另外記成人要找癌、小孩會鈣化。",
    "guideline": null
   },
   "source": "110020/302_22",
@@ -4477,11 +4477,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Skin biopsy 不適合作為兒童臉部脫屑性色素減退斑的第一線檢查；只有在非侵入性檢查仍無法釐清、或懷疑不典型 inflammatory/neoplastic disorder 時才考慮。",
-   "B": "KOH microscopy 可直接檢查 scale 中的 fungal hyphae 或 yeast，能先排除 tinea faciei／pityriasis versicolor；操作快速且比 fungal culture 更適合優先進行。",
-   "C": "Patch test 用於 allergic contact dermatitis 的 delayed hypersensitivity 評估；題幹沒有清楚接觸分布或反覆暴露線索，不能回答感染性鑑別。",
-   "D": "Fungal culture 可確認 fungal species，但耗時且通常在 KOH 不確定、治療失敗或需物種鑑定時使用，不是此情境的首項檢查。",
-   "summary": "兒童臉部 scaly hypopigmented patches 常需在 pityriasis alba 與 superficial fungal infection 間鑑別，先取鱗屑做 KOH microscopy。",
+   "A": "本項不選。皮膚切片（skin biopsy）對小孩臉上的脫屑白斑太侵入，不是第一線。要等非侵入性檢查都做過仍不清楚，或懷疑不典型的發炎、腫瘤性病變，才考慮。",
+   "B": "正確答案。KOH 鏡檢（KOH microscopy）直接刮鱗屑看有沒有黴菌菌絲（fungal hyphae）或酵母菌。它能先排掉臉部黴菌感染（tinea faciei）與汗斑（pityriasis versicolor），而且比黴菌培養快得多，所以先做。",
+   "C": "本項不選。貼膚試驗（patch test）測的是接觸性過敏（allergic contact dermatitis）的延遲型反應。這題沒有接觸分布或反覆暴露的線索，做了也回答不了感染的鑑別。",
+   "D": "本項不選。黴菌培養（fungal culture）可以驗出菌種，但要等很久。它用在 KOH 結果不確定、治療失敗，或需要鑑定菌種的時候，不是第一步。",
+   "summary": "小孩臉上的脫屑白斑，要分白色糠疹（pityriasis alba）和黴菌感染——刮一點鱗屑做 KOH 最快。",
    "guideline": "FC 醫學(四)第2冊 p.126"
   },
   "source": "110020/302_22",
@@ -4518,11 +4518,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Nail pitting、oil-drop/salmon patches、onycholysis 與 subungual hyperkeratosis 都可見於 nail psoriasis；但「何者最常見」會受病人族群與定義影響，因此官方將本題一律給分。",
-   "B": "Nail pitting 來自 proximal nail matrix 的局部 parakeratosis；異常細胞脫落後，nail plate 留下點狀凹陷，所以把它連結到 nail matrix 有病理基礎。",
-   "C": "Nail psoriasis 整體與 psoriatic arthritis、尤其 distal interphalangeal joint disease 有關；但單獨把 nail pitting 說成「強烈相關」可能過度延伸，這也是題目措辭可爭議之處。",
-   "D": "Oil spots（salmon patches）反映 nail bed psoriasis，呈半透明黃紅色斑，對 nail psoriasis 的 specificity 較高；但並非每位患者都有。",
-   "summary": "官方第 43 題一律給分；各項需分清 nail matrix 病變（pitting）與 nail bed 病變（oil spot、onycholysis、subungual hyperkeratosis），不應硬指定唯一錯項。",
+   "A": "本項一律給分。指甲點狀凹陷（nail pitting）、油滴斑（oil-drop/salmon patches）、甲床分離（onycholysis）與甲下角化增厚（subungual hyperkeratosis）都是乾癬的指甲病變。但「哪一個最常見」會隨病人族群與定義而變，所以官方把整題給分。",
+   "B": "本項一律給分，敘述本身有病理依據。點狀凹陷來自近端甲母質（proximal nail matrix）的局部角化不全（parakeratosis）。異常細胞脫落後，指甲板（nail plate）上就留下一個個小凹洞。",
+   "C": "本項一律給分。乾癬指甲病變整體與乾癬性關節炎（psoriatic arthritis）有關，尤其是遠端指間關節（distal interphalangeal joint）受累。但單獨把點狀凹陷說成「強烈相關」算過度延伸，這也是本題被質疑的地方。",
+   "D": "本項一律給分。油滴斑反映的是甲床（nail bed）的乾癬，看起來是半透明的黃紅色斑。它對乾癬指甲的專一性（specificity）較高，但不是每個病人都有。",
+   "summary": "官方第 43 題一律給分。真正要記的是分層：點狀凹陷來自甲母質，油滴斑與甲床分離來自甲床。",
    "guideline": "FC 醫學(四)第2冊 p.154"
   },
   "source": "110020/302_22",
@@ -5813,11 +5813,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Scabies 的 close contacts 即使尚無症狀也應同步治療，以免反覆傳染；衣物、床單與毛巾可用熱水清洗及高溫烘乾，不能清洗者密封至少數日。",
-   "B": "Permethrin 5% cream 是 classic scabies 的第一線治療，成人通常由 neck down 完整塗抹並依療程重複；嬰幼兒與高齡者可能還需依指示處理 scalp/face。",
-   "C": "Lindane 具有 neurotoxicity，可引起 seizure，且有更安全有效的替代藥；不應以「不具神經毒」為由用於孕婦、哺乳者、嬰幼兒或低體重者。",
-   "D": "Antihistamines 與適當強度的 topical corticosteroid 可緩解 post-scabetic pruritus；成功殺蟲後搔癢仍可能持續數週，不代表一定治療失敗。",
-   "summary": "Scabies 治療要同時處理患者、密切接觸者及受污染織物；permethrin 優先，lindane 因 neurotoxicity 不適合孕婦與小孩。",
+   "A": "本項敘述正確。疥瘡（scabies）要連人帶環境一起處理。同住的人就算還沒症狀也要一起治療，不然會來回傳染。衣物、床單、毛巾用熱水洗加高溫烘乾；不能洗的就密封放幾天。",
+   "B": "本項敘述正確。permethrin 5% cream 是一般疥瘡的第一線用藥。成人從脖子以下全身塗滿，並依療程重複一次。嬰幼兒與高齡者是例外，可能連頭皮和臉都要塗。",
+   "C": "本項應選。lindane lotion 有神經毒性（neurotoxicity），可能引起癲癇發作（seizure）。既然有更安全又有效的替代藥，孕婦、哺乳者、嬰幼兒與體重過輕的人都不該用它。",
+   "D": "本項敘述正確。抗組織胺（antihistamines）加中強度局部類固醇可緩解疥瘡後搔癢（post-scabetic pruritus）。要先跟病人講清楚：蟲殺死後癢還會持續數週，那不代表治療失敗。",
+   "summary": "lindane 有神經毒、會誘發癲癇，孕婦小孩絕對不能用——題目說它「不具神經毒」就是錯的那個。",
    "guideline": "CDC, Clinical Care of Scabies (2023)"
   },
   "source": "110020/302_22",
@@ -16200,11 +16200,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Erythema multiforme 常出現多發、對稱的 target lesions，多位於 acral extensor surfaces，常與 herpes simplex infection 相關；不具每次服同一藥就在完全相同位置復發的特徵。",
-   "B": "Fixed drug eruption 在再次暴露同一藥物後，會於相同部位迅速復發成界線清楚的 erythematous/dusky patch，消退後常留下 post-inflammatory hyperpigmentation；diclofenac 是可能誘因。",
-   "C": "Erythema annulare centrifugum 是逐漸向外擴大的 annular lesion，常有內緣 trailing scale；它不會因同一藥物再次服用而固定在原位復發。",
-   "D": "Autoimmune blistering disease 通常以 vesicles/bullae、erosions 及相應 immunopathology 表現；單一反覆出現在同處的紅斑且與 diclofenac 時序吻合，更支持 fixed drug eruption。",
-   "summary": "同一藥物再次使用後在同一部位復發，是 fixed drug eruption 最具辨識力的病史。",
+   "A": "本項不選。多形性紅斑（erythema multiforme）是多發、對稱的靶狀病灶（target lesions），長在四肢末端伸側，常與單純疱疹感染（herpes simplex infection）有關。它不會每次吃同一種藥就在同一個位置復發。",
+   "B": "正確答案。固定藥物疹（fixed drug eruption）的特徵就寫在病史裡：再吃同一種藥，就在同一個位置迅速復發，形成界線清楚的紅斑或暗紫色斑。消退後常留下發炎後色素沉著（post-inflammatory hyperpigmentation）。diclofenac 是常見誘因。",
+   "C": "本項不選。遠心性環狀紅斑（erythema annulare centrifugum）是慢慢往外擴大的環狀病灶，內緣有拖曳的鱗屑（trailing scale）。它不會因為再吃同一種藥就固定在原位復發。",
+   "D": "本項不選。自體免疫水疱症（autoimmune blistering disease）會出現水疱、大疱與糜爛，並有對應的免疫病理（immunopathology）表現。這題只有單一紅斑，時序又和 diclofenac 完全吻合，方向是固定藥物疹。",
+   "summary": "同一種藥、同一個位置、又復發一次——這三件事湊在一起就是固定藥物疹。",
    "guideline": null
   },
   "source": "110080/302_22",
@@ -16233,11 +16233,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Basal cell carcinoma 最常出現在 chronically sun-exposed skin，尤其 head and neck，因此此分布正確。",
-   "B": "Basal cell carcinoma 的發生率隨累積 UV exposure 與年齡增加，故好發於 older adults；年輕患者若多發則要考慮遺傳症候群等特殊背景。",
-   "C": "Basal cell carcinoma 以 local invasion 與 tissue destruction 為主要危害，metastasis 極罕見；「極易轉移到內臟器官」反而不符合其生物行為。",
-   "D": "Mohs micrographic surgery 可逐層檢查完整 peripheral/deep margins，適合高風險部位、邊界不清、復發或需最大限度保存組織的 basal cell carcinoma。",
-   "summary": "Basal cell carcinoma 常見於高齡者頭頸日曬處，會局部侵犯但極少轉移；高風險病灶可採 Mohs surgery。",
+   "A": "本項敘述正確。基底細胞癌（basal cell carcinoma）最常長在長期曬到太陽的皮膚，其中又以頭頸部（head and neck）最多。",
+   "B": "本項敘述正確。它的發生率隨累積紫外線（UV exposure）與年齡上升，所以好發於高齡者。年輕人若多發，要回頭想遺傳症候群這類特殊背景。",
+   "C": "本項應選。基底細胞癌的危害是在原地往周邊侵犯、破壞組織，轉移（metastasis）極其罕見。說它「極易轉移到內臟」等於把它的生物行為講反了。",
+   "D": "本項敘述正確。莫氏顯微手術（Mohs micrographic surgery）會逐層檢查周邊與深部切緣。它適合高風險部位、邊界不清、復發，或需要盡量保留組織的病灶。",
+   "summary": "基底細胞癌是「在地流氓」：破壞力強但幾乎不轉移——看到「容易轉移到內臟」就是錯的那個。",
    "guideline": "National Comprehensive Cancer Network, Basal Cell Skin Cancer, Version 2.2025"
   },
   "source": "110080/302_22",
@@ -16273,11 +16273,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Keratoacanthoma 的典型病程是數週內快速長大，在 sun-exposed face 形成 dome-shaped、中央充滿 keratin 的 crateriform nodule，與題幹完全相符。",
-   "B": "Melanoma 的警訊是 asymmetric、irregular border、color variegation 與持續 evolution 的 pigmented lesion；中央堆積角質的對稱火山口形態並不典型。",
-   "C": "Basal cell carcinoma 常為緩慢生長的 pearly papule，帶 telangiectasia 與 rolled border；雖可潰瘍，卻通常沒有 keratin-filled crater。",
-   "D": "Squamous cell carcinoma 可呈 hyperkeratotic 或 ulcerated nodule，且與 keratoacanthoma 在臨床及病理上可能重疊；仍須完整切除送 pathology，但題述的快速、對稱 crateriform growth 最典型指向 keratoacanthoma。",
-   "summary": "快速增大的 keratin-filled crateriform facial nodule 是 keratoacanthoma；因與 squamous cell carcinoma 重疊，仍需病理確認。",
+   "A": "正確答案。角化棘皮瘤（keratoacanthoma）的病程就長這樣：幾週內快速長大，在臉上曬得到的地方形成圓頂狀結節，中央凹成火山口、裡面塞滿角質。題幹描述完全吻合。",
+   "B": "本項不選。黑色素瘤（melanoma）要看的是色素病灶不對稱、邊緣不規則、顏色深淺不一，而且持續在變。中央堆角質的對稱火山口不是它的樣子。",
+   "C": "本項不選。基底細胞癌（basal cell carcinoma）長得慢，是帶珍珠光澤的丘疹，邊緣捲起、表面有微血管擴張（telangiectasia）。它可能潰瘍，但中央通常沒有角質栓。",
+   "D": "本項不選，但要保留戒心。鱗狀細胞癌（squamous cell carcinoma）也可以是角化或潰瘍的結節，在臨床與病理上都可能與角化棘皮瘤重疊。題述的快速、對稱、火山口最像角化棘皮瘤，但實務上仍要完整切除送病理（pathology）。",
+   "summary": "兩個月內從無到有的臉部火山口結節，先當角化棘皮瘤處理——但切下來一定要送病理。",
    "guideline": null
   },
   "source": "110080/302_22",
@@ -16311,11 +16311,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Pemphigus vulgaris 很常先侵犯 oral mucosa，形成疼痛且不易癒合的 erosions；皮膚則因疱頂薄而出現 flaccid bullae。",
-   "B": "Pemphigus vulgaris 的 acantholysis 發生於 suprabasal epidermis，病理可見 basal keratinocytes 仍附著在 basement membrane，形成 row-of-tombstones 外觀。",
-   "C": "Pemphigus vulgaris 的 direct immunofluorescence 顯示 intercellular IgG/C3 呈 fishnet pattern；沿 dermoepidermal junction 的線狀沉積較支持 bullous pemphigoid 等 subepidermal autoimmune blistering disease。",
-   "D": "Desmoglein 3 是 mucosal-dominant pemphigus vulgaris 的主要 autoantigen；有皮膚侵犯時常同時針對 desmoglein 1，抗體造成 keratinocyte adhesion 喪失。",
-   "summary": "Pemphigus vulgaris＝mucosal erosion、suprabasal acantholysis、anti-desmoglein，以及 epidermal intercellular fishnet IgG。",
+   "A": "本項敘述正確。尋常型天疱瘡（pemphigus vulgaris）常先從口腔黏膜（oral mucosa）開始，形成很痛又不易癒合的糜爛。皮膚上的水疱因為疱頂很薄，呈鬆弛狀（flaccid bullae）。",
+   "B": "本項敘述正確。它的棘細胞鬆解（acantholysis）發生在基底層上方（suprabasal epidermis）。病理下基底細胞還黏在基底膜（basement membrane）上排成一列，像一排墓碑（row-of-tombstones）。",
+   "C": "本項應選。尋常型天疱瘡的直接免疫螢光（direct immunofluorescence）是 IgG/C3 沉積在表皮細胞之間，形成魚網狀（fishnet pattern）。沿著表皮真皮交界呈線狀沉積的，是類天疱瘡（bullous pemphigoid）那類表皮下水疱病。",
+   "D": "本項敘述正確。desmoglein 3 是以黏膜為主型的主要自體抗原；有皮膚侵犯時常同時針對 desmoglein 1。抗體讓角質細胞（keratinocyte）之間的黏合失效，細胞就散開。",
+   "summary": "天疱瘡的免疫螢光是細胞之間的魚網，類天疱瘡才是交界處的一條線——記住位置就不會選錯。",
    "guideline": "FC 醫學(四)第2冊 p.83"
   },
   "source": "110080/302_22",
@@ -121101,7 +121101,7 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "",
+   "A": "正確答案。紅癬（erythrasma）是微小棒狀桿菌（Corynebacterium minutissimum）造成的表淺感染，愛長在容易流汗悶熱的腹股溝。決定性的線索在伍氏燈（Wood lamp）：細菌代謝產生的紫質（porphyrin）會發出珊瑚紅螢光（coral-red fluorescence），圖二就是這個表現。治療用 erythromycin 或 clindamycin 這類抗生素，外用或口服都可以。",
    "B": "股癬（tinea cruris）是 dermatophyte infection，常見隆起且有鱗屑的活動性邊緣、中央較淡，通常不產生 coral-red fluorescence。可用 lesion active border 的 KOH preparation 尋找 septate hyphae。",
    "C": "對磨疹（intertrigo）是潮濕、摩擦與悶熱造成的 skin-fold inflammation，表現為皺褶處紅斑、浸潤與疼痛，並可續發細菌或黴菌感染。單純 intertrigo 沒有 erythrasma 特有的 coral-red Wood lamp finding。",
    "D": "念珠菌感染（candidiasis）在皮膚皺褶常造成鮮紅、浸潤或糜爛性斑塊，周邊可見 satellite papules 或 pustules。Candida intertrigo 通常不呈 coral-red fluorescence，KOH 可見 budding yeast 與 pseudohyphae。",
@@ -131789,7 +131789,7 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "",
+   "A": "本項不選。皮膚切片加上直接免疫螢光（direct immunofluorescence）可以看到血管壁的 IgA 沉積，那是 IgA 血管炎（IgA vasculitis）最直接的證據。臨床表現典型時確實不一定要做，但診斷有疑問或表現不典型時它很有用，不能說「較不需要」。",
    "B": "紅血球沉降速率（erythrocyte sedimentation rate, ESR）可作為全身發炎的非特異性指標，IgA vasculitis 急性期可能升高。它不能單獨確診，但可配合 CBC、renal function 與其他發炎指標評估病況。",
    "C": "尿液檢查是疑似 IgA vasculitis 的重要評估，可偵測 hematuria、proteinuria 與 red blood cell casts，以辨認 renal involvement。即使初診尿液正常，也常需後續追蹤血壓與 urinalysis，因腎炎可能延後出現。",
    "D": "血清免疫球蛋白 E（IgE）主要用於評估 type I hypersensitivity、部分寄生蟲感染或特定免疫疾病，並非 IgA vasculitis 的必要檢查。此病的核心是 IgA-containing immune complex small-vessel vasculitis，因此 IgE 對診斷與器官風險分層幫助有限。",
@@ -131890,7 +131890,7 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "",
+   "A": "本項敘述正確。傳染性軟疣（molluscum contagiosum）中央臍凹裡塞的就是角質栓，可以擠出來做抹片。用 Giemsa 或 Wright 染色後，鏡下會看到大型的胞質內包涵體。這是床邊就能做、當場有答案的方法，不必每個都送切片。",
    "B": "傳染性軟疣（molluscum contagiosum）在免疫正常者確實可能自行消退，但成人出現持續增加、較多或較大的病灶時，仍應評估性接觸傳播及 HIV infection 等免疫低下狀態。治療亦可用於降低自體接種、傳播或症狀，因此宣稱完全不需抽血評估及治療並不成立。",
    "C": "Molluscum contagiosum 的切片可見杯狀 epidermal hyperplasia，keratinocytes 內充滿大型嗜伊紅性 Henderson-Patterson bodies。這些胞質內包涵體由 poxvirus particles 構成，接近表面時可呈較嗜鹼性。",
    "D": "抓摳 molluscum contagiosum 會將含病毒的角質物帶到鄰近皮膚，造成 autoinoculation，並可形成線狀排列病灶。避免抓搔、共用刮鬍刀與直接皮膚接觸，有助減少傳播。",
@@ -131927,7 +131927,7 @@
   "explanation": {
    "A": "血管球腫瘤（glomus tumor）多位於甲下，典型表現是劇烈局部壓痛、冷敏感與發作性疼痛，有時透出藍紅色。它可能造成 nail plate deformation，但題幹近端甲緣圓形結節與縱向甲溝較符合 digital myxoid pseudocyst。",
    "B": "波文氏病（Bowen disease）是 squamous cell carcinoma in situ，甲周病灶可呈持續性紅色鱗屑斑、疣狀增生、糜爛或 nail dystrophy。它不像位於 distal interphalangeal joint 附近、表面光滑且造成縱向凹溝的囊性結節。",
-   "C": "",
+   "C": "正確答案。指端黏液樣偽囊腫（digital myxoid pseudocyst）長在近端甲摺旁，是表面光滑的圓形結節，常和遠端指間關節（distal interphalangeal joint）的退化性變化相通。關鍵在位置對得上：結節從上方壓住甲母質（nail matrix），指甲長出來就帶一條縱向凹溝。磁振造影（MRI）上呈邊界清楚、含黏液的囊性病灶。",
    "D": "甲下外生骨（subungual exostosis）是 distal phalanx 表面的骨軟骨性增生，常見於大腳趾，會將甲板抬起並造成疼痛或甲下硬塊。Plain radiography 或 CT 通常可見與骨皮質相連的 bony projection，而不是近端甲緣的黏液性囊腫。",
    "summary": "近端甲摺旁圓形結節合併 nail plate 縱向凹溝，提示 digital myxoid pseudocyst 壓迫 nail matrix；glomus tumor 以劇痛及冷敏感著稱，subungual exostosis 則應有骨性影像。",
    "guideline": null
@@ -131960,7 +131960,7 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "",
+   "A": "正確答案。皮膚纖維瘤（dermatofibroma）是真皮內纖維組織增生形成的硬實結節，好發於四肢，偶爾會自發性疼痛。兩指掐捏邊緣時病灶會往下凹陷，就是題目講的 dimple sign。原因是腫瘤與上方表皮相黏，被兩側推擠時整團往真皮深處陷下去。",
    "B": "脂肪瘤（lipoma）是位於 subcutaneous tissue 的柔軟、可移動、通常無痛性脂肪腫瘤。它不會因兩側掐捏而產生 dermatofibroma 特有的中央凹陷。",
    "C": "神經纖維瘤（neurofibroma）通常為柔軟肉色丘疹或結節，按壓時可內陷入皮膚，稱為 buttonhole sign。Buttonhole sign 是將病灶推入真皮，與捏壓 dermatofibroma 邊緣產生的 dimple sign 不同。",
    "D": "血管瘤（hemangioma）是血管增生性病灶，通常呈紅色、紫色或藍色，按壓可能 blanching 或變扁。其質地及壓迫反應不以硬實結節和 dimple sign 為典型。",
