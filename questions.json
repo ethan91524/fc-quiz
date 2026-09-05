@@ -1268,11 +1268,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "COP 缺少 anthracycline 類的 doxorubicin，治療侵襲性的瀰漫性大 B 細胞淋巴瘤（diffuse large B-cell lymphoma, DLBCL）強度不足；COP 較常用於無法耐受 anthracycline 的特殊情境。",
-   "B": "rituximab + COP 雖以 rituximab 對準 B 細胞的 CD20，但仍缺少 DLBCL 標準骨架中的 doxorubicin，不能作為一般年輕、無特殊病史患者的首選。",
-   "C": "CHOP 是侵襲性淋巴瘤的重要化療骨架，但 CD20 陽性的 DLBCL 加入 rituximab 可進一步改善治療成果，因此單用 CHOP 並非此患者最適當的標準方案。",
-   "D": "正確。rituximab + CHOP（R-CHOP）同時包含抗 CD20 單株抗體與 cyclophosphamide、doxorubicin、vincristine、prednisolone，是多數初診 DLBCL 的標準第一線治療骨架。",
-   "summary": "DLBCL 的標準第一線骨架是 R-CHOP；COP/CHOP 的關鍵差別是 doxorubicin，而 rituximab 提供抗 CD20 標靶作用。",
+   "A": "本項不選。COP 少了 anthracycline 類的 doxorubicin，對付侵襲性的瀰漫性大 B 細胞淋巴瘤（diffuse large B-cell lymphoma, DLBCL）強度不夠。它比較是留給無法承受 anthracycline 的特殊情況。",
+   "B": "本項不選。加了 rituximab 打 CD20 是對的，但骨架仍缺 doxorubicin。這位 36 歲、沒有其他病史的病人撐得住完整方案，不該降強度。",
+   "C": "本項不選。CHOP 是侵襲性淋巴瘤的重要化療骨架，但這是 CD20 陽性的 B 細胞淋巴瘤——再加上 rituximab 效果更好，所以單用 CHOP 不是最適當的。",
+   "D": "正確答案。R-CHOP 把兩件事一起做到：rituximab 打 CD20 這個 B 細胞標記，CHOP（cyclophosphamide、doxorubicin、vincristine、prednisolone）提供完整化療骨架。這是多數初診瀰漫性大 B 細胞淋巴瘤的標準第一線治療。",
+   "summary": "四個選項只差兩個成分：有沒有 doxorubicin（COP vs CHOP）、有沒有 rituximab——CD20 陽性又體能夠好就兩個都要。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1339,11 +1339,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。費城染色體陽性（Philadelphia chromosome-positive, Ph+）ALL 的比例隨年齡增加，成人遠高於兒童；「孩童發生率較成人高」把年齡分布顛倒了。",
-   "B": "Ph+ ALL 具有 t(9;22) 所形成的 BCR::ABL1 融合基因，產生持續活化的 tyrosine kinase，這正是疾病的分子標誌與治療標的。",
-   "C": "在 tyrosine kinase inhibitor 尚未納入治療前，Ph+ ALL 對單純化學治療的復發風險與預後確實較 Ph-negative ALL 差，因此此敘述符合其傳統高風險特性。",
-   "D": "imatinib 抑制 BCR::ABL1 tyrosine kinase；將它與 ALL 化療合併可提高緩解深度並改善 Ph+ ALL 的預後，而非只靠傳統化療。",
-   "summary": "Ph+ ALL 由 BCR::ABL1 驅動、成人較常見；加入 BCR::ABL1 tyrosine kinase inhibitor 可改善原本較差的預後。",
+   "A": "本項應選。年齡分布顛倒了：費城染色體陽性的急性淋巴芽細胞白血病比例**隨年齡上升**，成人遠比兒童常見。兒童 ALL 反而以其他細胞遺傳學變化為主。",
+   "B": "本項不選。它帶有 t(9;22) 形成的 BCR::ABL1 融合基因，做出持續活化的酪胺酸激酶。這既是疾病的分子標誌，也是治療的標的。",
+   "C": "本項不選。在酪胺酸激酶抑制劑出現之前，費城染色體陽性 ALL 只靠化療的復發風險高、預後確實比陰性者差，屬於傳統的高風險族群。",
+   "D": "本項不選。imatinib 抑制 BCR::ABL1 酪胺酸激酶，和化療合併使用能加深緩解、改善預後。這是這個疾病預後翻轉的關鍵。",
+   "summary": "費城染色體陽性 ALL 是「成人多、預後差」，但加上酪胺酸激酶抑制劑之後預後大幅改善。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1372,11 +1372,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。嚴重型 A 型血友病（severe hemophilia A）定義為 factor VIII 活性低於 1%；患者可發生自發性關節或深部組織出血。",
-   "B": "factor VIII 活性 2% 落在 1–5% 的中度 A 型血友病範圍，不符合 severe hemophilia A 的 <1% 定義。",
-   "C": "factor VIII 活性 5% 仍屬中度血友病的上界；輕度通常為 >5% 至 <40%，所以 5% 不是嚴重型切點。",
-   "D": "factor VIII 活性 10% 屬輕度 A 型血友病範圍，通常在外傷或手術後才較易出血，與嚴重型的自發出血風險不同。",
-   "summary": "A 型血友病依 factor VIII 活性分級：嚴重 <1%、中度 1–5%、輕度 >5% 至 <40%。",
+   "A": "正確答案。嚴重型 A 型血友病的定義就是第八凝血因子（factor VIII）活性**低於 1%**。這麼低的活性會有自發性的關節腔或深部組織出血，不需要外傷。",
+   "B": "本項不選。2% 落在 1～5% 的中度範圍，不符合嚴重型的定義。",
+   "C": "本項不選。5% 是中度的上界。輕度的範圍是大於 5% 到小於 40%。",
+   "D": "本項不選。10% 屬於輕度，通常要在外傷或手術之後才比較容易出血，和嚴重型的自發性出血完全不同。",
+   "summary": "血友病三級用活性切：＜1% 嚴重（自發出血）、1～5% 中度、＞5% 到＜40% 輕度（要有外傷才出血）。",
    "guideline": null,
    "concepts": [
     "hemophilia-severity-classification"
@@ -1479,11 +1479,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。遺傳性球形紅血球症（hereditary spherocytosis）的球形紅血球因變形能力差而在脾臟被滯留、吞噬，主要是血管外溶血（extravascular hemolysis），不是血管內溶血。抹片上大量紅血球體積偏小、染色深且中央淡染區消失，就是球形紅血球。它們因為細胞膜骨架蛋白（ankyrin、spectrin、band 3）缺陷而失去雙凹形狀，過脾臟時被巨噬細胞夾住破壞——所以這是血管外溶血，不是血管內。",
-   "B": "脾臟切除可減少球形紅血球被清除，改善貧血與黃疸，但不能修復紅血球膜缺陷；因有莢膜菌感染與血栓風險，輕症不例行切脾。",
-   "C": "感染可誘發遺傳性球形紅血球症的溶血加劇；parvovirus B19 還可能暫時抑制紅血球生成，造成再生不良危象（aplastic crisis）。",
-   "D": "遺傳性球形紅血球症源於 spectrin、ankyrin、band 3 或 protein 4.2 等紅血球膜－細胞骨架（membrane-cytoskeleton）蛋白異常，使膜面積流失並形成球形紅血球。",
-   "summary": "家族性黃疸、膽結石、MCHC 偏高與 Coombs 陰性指向遺傳性球形紅血球症，其本質是膜骨架缺陷造成脾臟內的血管外溶血。",
+   "A": "本項應選。溶血的位置說錯了。抹片上看得到大量體積偏小、染色深、**中央淡染區消失**的球形紅血球，夾在正常的雙凹紅血球之間。這些球形紅血球因為膜骨架蛋白缺陷而失去雙凹外形、變形能力變差，經過脾臟時被巨噬細胞夾住吞掉——所以是**血管外**溶血，不是血管內。",
+   "B": "本項不選。切脾能減少球形紅血球被清除，貧血與黃疸都會改善。但它修不好紅血球膜本身的缺陷，而且帶來莢膜菌感染與血栓的風險，所以輕症不例行做。",
+   "C": "本項不選。感染會誘發溶血加劇。其中 parvovirus B19 更特別：它直接抑制紅血球生成，可造成再生不良危象（aplastic crisis）。",
+   "D": "本項不選。病因就在紅血球膜與細胞骨架的連結蛋白——spectrin、ankyrin、band 3、protein 4.2 這些出問題，膜的面積一點一點流失，紅血球就縮成球形。",
+   "summary": "家族性黃疸＋膽結石＋MCHC 偏高＋Coombs 陰性＝遺傳性球形紅血球症，溶血發生在脾臟裡。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -1514,11 +1514,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "急性前骨髓性白血病（acute promyelocytic leukemia, APL）在 ATRA 與 arsenic trioxide 時代具有很高的治癒率；但初期瀰漫性血管內凝血（disseminated intravascular coagulation）所致出血仍是急症。",
-   "B": "對非高風險 APL，tretinoin（ATRA）合併 arsenic trioxide 可在不使用傳統細胞毒性化療下達到良好療效；高風險病例則可能需加入其他降白血球治療。",
-   "C": "arsenic trioxide 會延長 QT interval，電解質失衡時心律不整風險更高，因此治療中須監測 ECG、鉀與鎂。",
-   "D": "正確答案。單用 tretinoin 可促使異常 promyelocytes 分化並取得緩解，卻無法可靠清除白血病 clone，容易復發；必須與 arsenic trioxide 或其他鞏固療法合併。骨髓抹片上滿是顆粒粗大、細胞質被紫紅色顆粒塞滿的異常前骨髓細胞，加上血尿與瘀青這種凝血異常表現，就是急性前骨髓細胞白血病。tretinoin 單獨使用會產生抗藥性而復發，必須合併三氧化二砷或化療才能維持長期控制。",
-   "summary": "APL 合併嚴重凝血異常時應立即啟動 ATRA 為基礎的治療；ATRA 單藥不能維持長期疾病控制。",
+   "A": "本項不選。急性前骨髓性白血病（acute promyelocytic leukemia, APL）在 ATRA 加三氧化二砷的時代治癒率很高。但初期因瀰漫性血管內凝血造成的出血仍是致命急症——這位病人 FDP 131.8 μg/mL、D-dimer ＞35.2 μg/mL 就是警訊。",
+   "B": "本項不選。非高風險的病人可以用 tretinoin（ATRA）合併三氧化二砷，完全不用傳統細胞毒性化療就達到很好的效果。高風險者才可能需要加上降白血球的治療。",
+   "C": "本項不選。三氧化二砷會延長 QT 間期，電解質失衡時心律不整風險更高。治療期間要監測心電圖（ECG）與血鉀、血鎂。",
+   "D": "本項應選。單用 ATRA 撐不住。抹片上滿是異常的前骨髓細胞：細胞質被粗大的紫紅色顆粒塞滿、細胞核多呈折疊或雙葉。ATRA 能逼這些細胞分化、取得緩解，但清不掉白血病的克隆，很快產生抗藥而復發。必須合併三氧化二砷或化療才能長期控制。",
+   "summary": "急性前骨髓性白血病兩件事最急：先止住瀰漫性血管內凝血的出血，再用 ATRA 加三氧化二砷——ATRA 單獨用一定復發。",
    "guideline": null
   },
   "source": "110020/302_11",
@@ -13303,11 +13303,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。imatinib 競爭性抑制 BCR::ABL1 的 ATP-binding site，阻斷其持續活化的 tyrosine kinase 訊號，是慢性骨髓性白血病（chronic myeloid leukemia）的代表性標靶藥。",
-   "B": "PML::RARA 是 APL 的融合蛋白，治療以 tretinoin 與 arsenic trioxide 促進分化及清除 clone；它不是 imatinib 的主要標的。",
-   "C": "NF-κB 是調控發炎、存活與免疫反應的轉錄因子網路，並非 imatinib 所針對的融合 tyrosine kinase。",
-   "D": "EGFR 是可由 osimertinib 等 EGFR tyrosine kinase inhibitor 標靶的受體；選項所寫 EGFRα 不是 imatinib 在 CML 的作用標的。",
-   "summary": "imatinib 的國考核心標的是費城染色體產生的 BCR::ABL1 tyrosine kinase。",
+   "A": "正確答案。imatinib 卡進 BCR::ABL1 的 ATP 結合位，把持續活化的酪胺酸激酶訊號關掉。它是慢性骨髓性白血病（chronic myeloid leukemia, CML）的代表性標靶藥，也是標靶治療時代的起點。",
+   "B": "本項不選。PML::RARA 是急性前骨髓性白血病（APL）的融合蛋白，對付它的是 tretinoin 與三氧化二砷，走的是促進分化與清除克隆的路。",
+   "C": "本項不選。NF-κB 是調控發炎、存活與免疫反應的轉錄因子網路，不是 imatinib 的標的。",
+   "D": "本項不選。EGFR 是 osimertinib 這類藥物的標的，用在肺癌。選項寫的 EGFRα 和 imatinib 在慢性骨髓性白血病的作用完全無關。",
+   "summary": "imatinib 的標的只有一個要記：費城染色體做出來的 BCR::ABL1 酪胺酸激酶。",
    "guideline": "FC 醫學(三)第4冊 p.282"
   },
   "source": "110080/302_11",
@@ -13341,11 +13341,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "lupus anticoagulant 在體外干擾 phospholipid-dependent coagulation assay，名稱雖含 anticoagulant，病人臨床上多為血栓而非出血傾向。",
-   "B": "正確答案。lupus anticoagulant 是凝血抑制物，加入正常血漿後 aPTT 通常仍不校正；若 mixing test 立即校正，反而較支持凝血因子缺乏。",
-   "C": "lupus anticoagulant 可出現在原發性抗磷脂症候群（antiphospholipid syndrome）、感染或藥物相關狀況，不要求病人一定患有 SLE。",
-   "D": "抗磷脂抗體可與 VDRL 所用的 cardiolipin 抗原反應，造成生物性偽陽性；因此 VDRL 陽性仍需 treponemal-specific test 確認梅毒。",
-   "summary": "aPTT 延長且 mixing test 不校正提示 lupus anticoagulant；其體外延長凝血時間，體內卻主要增加血栓風險。",
+   "A": "本項不選。名字很誤導：lupus anticoagulant 只在**試管裡**干擾依賴磷脂質的凝血試驗，讓時間變長。病人在體內反而是容易血栓，不是容易出血。",
+   "B": "本項應選。後半句錯了：lupus anticoagulant 是一種**抑制物**，加入正常血漿之後 aPTT 通常仍然不會校正回來。如果混合試驗立刻校正，那反而支持是凝血因子缺乏。",
+   "C": "本項不選。它可以出現在原發性抗磷脂症候群、感染或藥物相關的情況，並不要求病人一定有全身性紅斑狼瘡（SLE）。",
+   "D": "本項不選。抗磷脂抗體會和 VDRL 使用的 cardiolipin 抗原起反應，造成生物性偽陽性。所以 VDRL 陽性仍要用梅毒螺旋體專一的檢驗確認。",
+   "summary": "混合試驗是關鍵分岔：校正得回來＝因子缺乏，校正不回來＝有抑制物（如 lupus anticoagulant）。",
    "guideline": "FC 醫學(三)第4冊 p.29"
   },
   "source": "110080/302_11",
@@ -13374,11 +13374,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "A 型血友病是 X-linked factor VIII 缺乏，女性通常不是有症狀患者，且主要造成關節與深部組織出血；它不能同時合理解釋此女性的黏膜性月經過多與 bleeding time 延長。",
-   "B": "正確。von Willebrand disease 會影響血小板黏附並降低 factor VIII 穩定性，因此可見月經過多、家族性生產出血、bleeding time 延長及 aPTT 延長，而血小板數與 PT 正常。",
-   "C": "慢性肝炎可能因多種凝血因子合成下降而先使 PT 延長，晚期也可有血小板低下；本題 PT、血小板及身體檢查均不支持肝病性凝血異常。",
-   "D": "尿毒症（uremia）可造成後天性血小板功能障礙與 bleeding time 延長，但不會典型造成跨姊妹的家族性終生黏膜出血，也無腎功能異常線索。",
-   "summary": "黏膜出血家族史加正常血小板數、正常 PT、bleeding time 與 aPTT 延長，最符合 von Willebrand disease。",
+   "A": "本項不選。A 型血友病是 X 染色體連鎖的第八因子（factor VIII）缺乏，女性通常不是有症狀的患者。而且它主要造成關節與深部組織出血，解釋不了這位病人的月經過多與出血時間延長。",
+   "B": "正確答案。三個數字連起來看：血小板 275,000/μL 正常、PT 12 秒正常、但出血時間 14 分與 aPTT 44 秒都延長。von Willebrand 因子既負責血小板黏附（所以出血時間長），又穩定第八因子（所以 aPTT 長）。再加上月經過多與姊姊生產大出血的家族史，診斷就成立了。",
+   "C": "本項不選。慢性肝炎會先讓 PT 延長，晚期才有血小板低下。這題 PT 與血小板都正常，身體檢查也沒有肝病線索。",
+   "D": "本項不選。尿毒症確實會造成後天的血小板功能障礙與出血時間延長，但它不會造成跨姊妹的終生家族性黏膜出血，題目也沒有腎功能異常的線索。",
+   "summary": "黏膜型出血＋家族史＋血小板數與 PT 正常但出血時間與 aPTT 延長＝von Willebrand 病。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -13478,11 +13478,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "生理期經血過多會造成長期鐵流失，是育齡女性缺鐵性貧血（iron deficiency anemia）的常見原因；病史需量化月經並評估婦科病因。",
-   "B": "男性出現缺鐵性貧血應追查消化道慢性失血；痔瘡可以造成失血，但不能未完成腸胃道腫瘤等評估就把貧血直接歸因於痔瘡。",
-   "C": "胃腸繞道手術會減少胃酸環境並繞過十二指腸／近端空腸等重要鐵吸收區，因而可能造成缺鐵性貧血。",
-   "D": "正確答案。海洋性貧血（thalassemia）本身是 globin 合成缺陷，不會使患者特別容易缺鐵；反覆輸血或不當補鐵反而可能造成 iron overload，補鐵前應證實缺鐵。",
-   "summary": "缺鐵常來自慢性失血或吸收不良；thalassemia 的小球性貧血不等於缺鐵，不能看到低 MCV 就補鐵。",
+   "A": "本項不選。經血過多會長期流失鐵，是育齡女性缺鐵性貧血最常見的原因。問診時要量化月經量並評估婦科病因。",
+   "B": "本項不選。男性出現缺鐵性貧血一定要追查消化道慢性失血。痔瘡確實會流血，但**不能在完成腸道腫瘤評估之前就把貧血歸因於痔瘡**——這是臨床上很容易犯的錯。",
+   "C": "本項不選。胃腸繞道手術減少胃酸、又繞過十二指腸與近端空腸這些主要吸收鐵的地方，所以可能造成缺鐵。",
+   "D": "本項應選。海洋性貧血是**血紅素球蛋白鏈合成**的缺陷，不會讓人特別容易缺鐵。相反地，反覆輸血或不當補鐵反而造成鐵過載。看到 MCV 偏低的小球性貧血不能直接補鐵，要先證實真的缺鐵。",
+   "summary": "小球性貧血有兩大來源：缺鐵與海洋性貧血——補鐵前先驗鐵蛋白，補錯會造成鐵過載。",
    "guideline": null
   },
   "source": "110080/302_11",
@@ -25483,11 +25483,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確答案。後天嚴重型再生不良貧血（severe acquired aplastic anemia）多由免疫性 T cells 破壞造血幹細胞；glucocorticoid 單藥不能有效重建造血，不是療效甚佳的第一線治療。",
-   "B": "異體造血幹細胞移植可用健康 donor stem cells 重建造血，是 severe acquired aplastic anemia 的治癒性選項；是否優先採用取決於年齡、適合 donor 與共病。",
-   "C": "無合適移植條件者常用 ATG 合併 cyclosporine 的免疫抑制治療；現代方案亦可能加入 thrombopoietin receptor agonist eltrombopag。",
-   "D": "G-CSF 僅刺激 granulocytic progenitors，無法矯正 aplastic anemia 的多系造血幹細胞衰竭，因此不作為能改變疾病本質的單獨治療。",
-   "summary": "嚴重後天再生不良貧血的核心治療是造血幹細胞移植或 ATG 為基礎的免疫抑制，而非 glucocorticoid 單藥或 G-CSF。",
+   "A": "本項應選。後天嚴重型再生不良貧血的機轉是免疫性 T 細胞破壞造血幹細胞。單用類固醇重建不了造血，不是療效甚佳的第一線治療。",
+   "B": "本項不選。異體造血幹細胞移植用健康捐贈者的幹細胞重建造血，是能**治癒**這個病的選項。要不要優先做，取決於年齡、有沒有合適捐贈者與共病狀況。",
+   "C": "本項不選。不適合移植的人常用 ATG 合併 cyclosporin 的免疫抑制治療。現代方案還可能加上血小板生成素受體促效劑 eltrombopag。",
+   "D": "本項不選。G-CSF 只刺激顆粒球前驅細胞，矯正不了多系造血幹細胞衰竭，所以改變不了疾病本質。",
+   "summary": "再生不良貧血的問題出在幹細胞被免疫攻擊：要嘛換掉（移植），要嘛壓下免疫（ATG 加 cyclosporin）。",
    "guideline": "FC 醫學(三)第4冊 p.166"
   },
   "source": "111020/302_11",
@@ -25516,11 +25516,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "Hb Portland（ζ2γ2）屬胚胎早期的 embryonic hemoglobin，至胎兒 10–11 週已不是主要成分。",
-   "B": "Hb Gower I（ζ2ε2）是卵黃囊期的 embryonic hemoglobin，隨 α、γ chain 表現增加而迅速下降。",
-   "C": "Hb Gower II（α2ε2）也是 embryonic hemoglobin；ε chain 在妊娠早期即被 γ chain 取代。",
-   "D": "正確。胎兒 10–11 週時 HbF（α2γ2）已成為主要 hemoglobin，出生前均占優勢，出生後才逐步轉為 HbA。",
-   "summary": "胚胎期 Gower/Portland 很早消退；約妊娠 10 週起主要為 HbF（α2γ2）。",
+   "A": "本項不選。Hb Portland（ζ2γ2）屬於胚胎早期的血紅素，到胎兒 10～11 週時已經不是主要成分。",
+   "B": "本項不選。Hb Gower I（ζ2ε2）是卵黃囊期的胚胎血紅素，隨著 α 鏈與 γ 鏈表現增加而迅速消退。",
+   "C": "本項不選。Hb Gower II（α2ε2）同樣是胚胎血紅素，ε 鏈在妊娠早期就被 γ 鏈取代掉了。",
+   "D": "正確答案。胎兒 10～11 週時 HbF（α2γ2）已經成為主要血紅素，一直到出生前都占優勢，出生後才逐步換成 HbA。",
+   "summary": "血紅素的一生：胚胎期用 ζ 與 ε（Gower、Portland）→ 胎兒期用 HbF（α2γ2）→ 出生後換 HbA。",
    "guideline": null
   },
   "source": "111020/302_11",
@@ -25554,11 +25554,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "p210 是 CML 最常見的 BCR::ABL1 isoform；不同 breakpoint 也可形成 p190 或 p230。",
-   "B": "BCR::ABL1 具有持續活化的 tyrosine kinase，驅動 myeloid cell 增殖並降低 apoptosis。",
-   "C": "定量 BCR::ABL1 transcript 可追蹤 molecular response，是 CML 治療監測核心。",
-   "D": "正確答案。游離輻射是 CML 的風險因子，但不能說它「常常」直接造成特定 t(9;22)；多數患者沒有可辨識的輻射暴露。",
-   "summary": "CML 由 BCR::ABL1 tyrosine kinase 驅動；以定量 transcript 監測療效，但多數病例無明確輻射病因。",
+   "A": "本項不選。斷裂點不同會做出不同分子量的融合蛋白，慢性骨髓性白血病最常見的是 p210，另外還有 p190 與 p230。",
+   "B": "本項不選。BCR 與 ABL1 融合後的酪胺酸激酶持續活化，推著骨髓系細胞增殖、又減少凋亡，這就是疾病的核心機轉。",
+   "C": "本項不選。定量 BCR-ABL1 轉錄本可以追蹤分子層次的治療反應，是慢性骨髓性白血病（CML）治療監測的核心工具。",
+   "D": "本項應選。程度說得太滿：游離輻射確實是風險因子，但不能說它「常常」造成這個特定的 t(9;22)。**大多數病人根本沒有可辨識的輻射暴露史**。",
+   "summary": "慢性骨髓性白血病的因果別搞反：BCR-ABL1 是明確病因，輻射只是少數人的風險因子。",
    "guideline": "FC 醫學(三)第4冊 p.215"
   },
   "source": "111020/302_11",
@@ -37471,11 +37471,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "MCHC 升高是遺傳性球形紅血球症（hereditary spherocytosis）的重要線索，源於膜面積減少而細胞呈球形。",
-   "B": "正確答案。球形紅血球在脾臟被滯留與吞噬，主要造成血管外溶血（extravascular hemolysis），不是血管內溶血。",
-   "C": "ANK1、SLC4A1、SPTB、SPTA1 等膜骨架相關基因變異都可造成 hereditary spherocytosis。",
-   "D": "hereditary spherocytosis 常為 autosomal dominant，但部分 SPTA1 等變異可呈 autosomal recessive。",
-   "summary": "遺傳性球形紅血球症是膜骨架缺陷造成 MCHC 偏高與脾臟血管外溶血。",
+   "A": "本項不選。MCHC ＞34 偏高是很好用的線索：膜面積流失、細胞縮成球形，血紅素被濃縮在更小的體積裡，濃度自然上升。",
+   "B": "本項應選。球形紅血球是在**脾臟裡**被滯留與吞噬掉的，屬於血管外溶血。血管內溶血要往別的病想，例如陣發性夜間血紅素尿症或機械性溶血。",
+   "C": "本項不選。ANK1、SLC4A1、SPTB、SPTA1 這些膜骨架相關基因的變異都可能造成這個病，對應的蛋白就是 ankyrin、band 3、β-spectrin 與 α-spectrin。",
+   "D": "本項不選。多數是體染色體顯性遺傳，但部分（例如某些 SPTA1 變異）是體染色體隱性——所以家族史陰性不能拿來排除。",
+   "summary": "遺傳性球形紅血球症的三個考點：MCHC 偏高、脾臟裡的血管外溶血、膜骨架基因缺陷。",
    "guideline": "FC 醫學(三)第4冊 p.165"
   },
   "source": "111080/302_11",
@@ -37509,11 +37509,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "周邊血 clonal B lymphocytes ≥5,000/μL 且持續存在是 CLL 診斷依據；低於此值且無組織侵犯較符合 monoclonal B-cell lymphocytosis。",
-   "B": "正確答案。初診已有貧血代表骨髓衰竭或進階期，Rai/Binet staging 較高，預後較差而非較佳。",
-   "C": "泥細胞（smudge cells）是脆弱 CLL lymphocytes 在製片時破裂形成的常見抹片所見。",
-   "D": "CLL 可造成 hypogammaglobulinemia，導致反覆感染，尤其莢膜菌感染。",
-   "summary": "CLL 的診斷看 clonal B-cell 數量；貧血、血小板低下代表進階疾病，hypogammaglobulinemia 常見。",
+   "A": "本項不選。周邊血的單株 B 淋巴球持續 ≥5,000/μL 是診斷依據。低於這個數字又沒有組織侵犯，只能算單株 B 細胞淋巴球增多症（MBL）。",
+   "B": "本項應選。方向反了：初診就有貧血代表骨髓已經被塞滿或造血衰竭，在 Rai／Binet 分期上屬於較晚期，預後**較差**不是較佳。",
+   "C": "本項不選。泥細胞（smudge cells）是脆弱的 CLL 淋巴球在製作抹片時被壓破形成的，是很常見的抹片所見。",
+   "D": "本項不選。CLL 常造成低丙型球蛋白血症，病人因此反覆感染，尤其是莢膜菌。這也是它的主要死因之一。",
+   "summary": "CLL 分期看的是「有沒有壓到正常造血」：出現貧血或血小板低下就是晚期，預後變差。",
    "guideline": "FC 醫學(三)第4冊 p.233",
    "concepts": [
     "cll-diagnostic-definition"
@@ -37550,11 +37550,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "正確。aspirin 不可逆抑制 platelet COX-1，使 thromboxane A2 合成下降，因而抑制 thromboxane-mediated activation。",
-   "B": "P2Y12 receptor 是 clopidogrel、prasugrel、ticagrelor 等藥的標的，不是 aspirin 的直接作用點。",
-   "C": "ADP-induced aggregation 主要由 P2Y12 signaling 介導；aspirin 是抑制 COX-1–thromboxane A2 pathway。",
-   "D": "vWF 功能障礙見於 von Willebrand disease 或可由特定抗 vWF 治療影響，aspirin 不直接抑制 vWF。",
-   "summary": "aspirin 的抗血小板核心是不可逆抑制 COX-1，降低 thromboxane A2。",
+   "A": "正確答案。aspirin 不可逆地抑制血小板的 COX-1，thromboxane A2 就做不出來，由它引發的血小板活化與聚集因此被阻斷。血小板沒有細胞核、補不回酵素，所以效果會持續整個血小板壽命。",
+   "B": "本項不選。P2Y12 受體是 clopidogrel、prasugrel、ticagrelor 的標的，不是 aspirin 的作用點。",
+   "C": "本項不選。ADP 引發的聚集主要走 P2Y12 訊號。aspirin 打的是 COX-1 與 thromboxane A2 那條路。",
+   "D": "本項不選。von Willebrand 因子（vWF）的功能障礙見於 von Willebrand 病，aspirin 不會直接抑制它。",
+   "summary": "抗血小板藥分路徑記：aspirin 打 COX-1／thromboxane A2，clopidogrel 這類打 P2Y12。",
    "guideline": "FC 醫學(三)第1冊 p.90"
   },
   "source": "111080/302_11",
@@ -48772,11 +48772,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "bortezomib 是 proteasome inhibitor，主要用於 plasma-cell disorders；不是 ADAMTS13 >15% 且腎衰竭突出的 complement-mediated TMA 首選。",
-   "B": "rituximab 可用於 acquired TTP 的免疫抑制，但 TTP 通常有嚴重 ADAMTS13 deficiency；本例 ADAMTS13 >15% 不支持 TTP。",
-   "C": "正確。無腹瀉、嚴重腎損傷、MAHA、thrombocytopenia 且 ADAMTS13 不低，指向 complement-mediated atypical HUS；eculizumab 抑制 complement C5。",
-   "D": "immunoglobulin 可治 ITP 等免疫疾病，但不能針對 atypical HUS 的 terminal complement activation。",
-   "summary": "ADAMTS13 不嚴重低下且腎損傷顯著的 TMA 應考慮 complement-mediated atypical HUS，以 C5 inhibitor 治療。",
+   "A": "本項不選。bortezomib 是蛋白酶體抑制劑，主戰場在漿細胞疾病。它不是這種以腎衰竭為主、ADAMTS13 又不低的血栓性微血管病變（thrombotic microangiopathy, TMA）的選擇。",
+   "B": "本項不選。rituximab 用在後天性血栓性血小板低下紫斑症（TTP）的免疫抑制。但 TTP 的前提是 ADAMTS13 嚴重不足，這位病人 ADAMTS13 ＞15%，不符合。",
+   "C": "正確答案。四個線索連起來：**沒有腹瀉**、腎功能急速惡化（creatinine 0.8 → 6.2 mg/dL）、微小血管溶血性貧血（MAHA）加血小板低下、而且 ADAMTS13 不低——這是補體介導的非典型溶血性尿毒症候群。eculizumab 抑制補體 C5，正好切斷病因。",
+   "D": "本項不選。免疫球蛋白用在免疫性血小板低下紫斑症（ITP）等疾病，對非典型溶血性尿毒症候群的末端補體活化沒有作用。",
+   "summary": "血栓性微血管病變先驗 ADAMTS13：嚴重低＝TTP 走血漿置換；不低又腎損傷重＝非典型 HUS 走 C5 抑制劑。",
    "guideline": "FC 醫學(三)第4冊 p.163"
   },
   "source": "112020/302_11",
@@ -49150,11 +49150,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "autoimmune hemolytic anemia 通常 direct Coombs test 陽性；本例 Coombs 陰性且每逢氧化性藥物後急性發作不符。",
-   "B": "正確。G6PD deficiency 遇氧化壓力後造成急性血管內溶血，可見 hemoglobinuria、間接 bilirubin 與 LDH 上升、haptoglobin 下降；抹片可有 bite cells。抹片上看得到紅血球邊緣被咬掉一口的咬痕細胞與水泡細胞，那是脾臟把變性血紅素（Heinz body）咬走留下的痕跡。買成藥後突然溶血、尿液變暗紅，就是 G6PD 缺乏碰到氧化壓力的典型病程。",
-   "C": "acute glomerulonephritis 的尿潛血陽性通常伴顯微鏡下 RBC 或 RBC casts；本題幾乎無 RBC，表示是 hemoglobinuria。",
-   "D": "acute hepatitis 應以 ALT/AST 明顯上升為主，不能解釋 reticulocytosis、Coombs-negative hemolysis 與藥物後反覆發作。",
-   "summary": "藥物誘發、Coombs 陰性的急性血管內溶血加尿潛血陽性但無 RBC，典型為 G6PD deficiency。",
+   "A": "本項不選。自體免疫溶血性貧血的直接 Coombs test 通常是陽性。這位病人 Coombs 陰性，而且每次都在吃了氧化性藥物之後急性發作，型態不符。",
+   "B": "正確答案。抹片上看得到多顆紅血球邊緣被咬掉一個半圓形缺口的**咬痕細胞**，還有血紅素被擠到一側的水泡細胞——這是脾臟把變性的血紅素（Heinz body）咬走留下的痕跡。買成藥吃了兩天就急性溶血、尿液變暗紅，加上小學時同樣發作過，正是 G6PD 缺乏碰上氧化壓力。",
+   "C": "本項不選。急性腎絲球腎炎的尿潛血陽性會伴隨顯微鏡下的紅血球或紅血球圓柱。這題沉澱物紅血球（RBC）只有 0～2/HPF，代表尿裡是**血紅素**不是紅血球。",
+   "D": "本項不選。急性肝炎應該以 ALT、AST 明顯上升為主。這題 ALT 35 U/L 正常，LDH 1,080 U/L 的溶血訊號與網狀紅血球 7.6% 也解釋不了、Coombs 陰性的溶血與藥物後反覆發作。",
+   "summary": "尿潛血陽性但沉渣幾乎沒有紅血球＝血紅素尿，代表血管內溶血；再加藥物誘發就想 G6PD 缺乏。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -49190,11 +49190,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "腺癌骨轉移可造成骨痛與貧血，但需原發癌線索；骨髓瘤的 plasma cells 與 punched-out lesions 更能統一題目。",
-   "B": "vitamin D 嚴重缺乏造成 osteomalacia、低骨密度或 Looser zones，不會產生 clonal plasma-cell marrow picture。",
-   "C": "正確。多發性骨髓瘤（multiple myeloma）可因 marrow infiltration 造成 normocytic anemia、thrombocytopenia，並形成 lytic bone lesions。骨髓抹片上滿是漿細胞——細胞核偏在一側、旁邊有淡染的核旁暈，細胞質深藍；頭骨 X 光則是多個界線銳利的穿鑿狀溶骨病灶，肱骨也有一處。貧血加上這兩張圖就是多發性骨髓瘤，接下來要驗血清蛋白電泳、免疫固定電泳與游離輕鏈。",
-   "D": "原發骨癌多為局部腫瘤，不會典型呈現多發 punched-out lytic lesions 加 clonal plasma cells。",
-   "summary": "骨髓 plasma-cell 增生合併多發溶骨病灶與血球低下，最支持 multiple myeloma。",
+   "A": "本項不選。腺癌骨轉移確實會造成骨痛與貧血，但需要有原發癌的線索。而且骨髓抹片上看到的是漿細胞不是腺癌細胞。",
+   "B": "本項不選。嚴重維生素 D 缺乏造成的是骨軟化症、骨密度下降或 Looser zones，不會在骨髓裡長出這種單株漿細胞。",
+   "C": "正確答案。骨髓抹片滿是漿細胞：細胞核偏在一側、染色質呈車輪狀、核旁有一圈淡染的暈、細胞質深藍。X 光則是頭骨多發界線銳利的**穿鑿狀**溶骨病灶，肱骨近端骨幹也有一處伴皮質變薄。配上 Hb 7.6 g/dL 與血小板 120,000/μL，診斷就是多發性骨髓瘤。下一步驗血清蛋白電泳、免疫固定電泳與游離輕鏈。",
+   "D": "本項不選。原發性骨癌多半是單一部位的局部腫瘤，不會呈現這種多發穿鑿狀溶骨病灶加骨髓單株漿細胞的組合。",
+   "summary": "「骨髓漿細胞＋穿鑿狀溶骨病灶＋血球低下」三件湊齊就是多發性骨髓瘤，接著驗蛋白電泳。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -61147,11 +61147,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。alkylating agents／radiation 相關 t-MDS/AML 才典型伴 chromosome 5 或 7 缺失；topoisomerase II inhibitor 較常造成短潛伏期、KMT2A rearrangement 的 therapy-related AML，而非 ALL 加 del(5/7)。",
-   "B": "tamoxifen 對 endometrium 有 estrogen agonist effect，會增加 endometrial hyperplasia 與 cancer 風險。",
-   "C": "異體移植採 T-cell depletion 會削弱 EBV-specific immune surveillance，增加 post-transplant lymphoproliferative disorder。",
-   "D": "化學治療，尤其 alkylating agents 與 topoisomerase II inhibitors，可造成 therapy-related myeloid neoplasm，包括 MDS/AML。",
-   "summary": "therapy-related neoplasm 要配對機轉：alkylator 對 del(5/7) t-MDS/AML；topoisomerase II inhibitor 對 KMT2A-related t-AML。",
+   "A": "本項應選。兩件事被兜在一起了：第 5 或第 7 號染色體缺失的治療相關骨髓腫瘤是**烷化劑或放射線**造成的，潛伏期較長；topoisomerase II 抑制劑造成的是潛伏期短、帶 KMT2A 重排的治療相關急性骨髓性白血病，而且是骨髓性（AML）不是淋巴芽細胞性（ALL）。",
+   "B": "本項不選。tamoxifen 在乳房是拮抗劑，在**子宮內膜**卻是促效劑，所以會增加子宮內膜增生與癌症的風險。用藥期間有異常出血要積極檢查。",
+   "C": "本項不選。異體移植做 T 細胞去除會削弱針對 EBV 的免疫監視，因此增加移植後淋巴增生性疾病的風險。",
+   "D": "本項不選。化學治療、尤其是烷化劑與 topoisomerase II 抑制劑，都可能造成治療相關的骨髓腫瘤，包括骨髓分化不良症候群（MDS）與急性骨髓性白血病。",
+   "summary": "兩類藥兩種後果：烷化劑走「潛伏期長＋第 5/7 號染色體缺失」，topoisomerase II 抑制劑走「潛伏期短＋KMT2A 重排」。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -61299,11 +61299,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確答案。platelets 雖無細胞核，仍保有 megakaryocyte-derived mRNA、ribosomes 與 protein synthesis 能力。",
-   "B": "正常 platelet 約 1–5 μm，循環壽命約 7–10 天，因此此生物學描述合理。",
-   "C": "GPIb-IX-V 與 vWF 結合，負責高剪力下 platelet adhesion 並促進 activation。",
-   "D": "acute coronary syndrome 會增強 platelet activation、platelet-platelet aggregation 及 platelet-leukocyte interactions。",
-   "summary": "血小板無核但有 RNA 與核糖體；GPIb-IX-V–vWF 是黏附核心，壽命約 7–10 天。",
+   "A": "本項應選。後半句錯了：血小板雖然**沒有細胞核**，卻仍保有從巨核細胞帶來的 RNA（mRNA）與核糖體，所以還是有合成蛋白質的能力。",
+   "B": "本項不選。正常血小板直徑約 1～5 μm，在血液中的存活期約 7～10 天。這也是 aspirin 停藥後要等新血小板補上的時間依據。",
+   "C": "本項不選。GPIb-IX-V 複合體與 von Willebrand 因子（vWF）結合，負責在高剪力環境下的黏附，並促進血小板活化。",
+   "D": "本項不選。急性冠狀動脈症候群的病人，血小板彼此之間、以及血小板與白血球之間的交互作用都會增強，這也是抗血小板治療的理由。",
+   "summary": "無核不等於不能合成蛋白質——血小板帶著巨核細胞給的 mRNA 與核糖體上路。",
    "guideline": "FC 醫學(三)第4冊 p.186"
   },
   "source": "112080/302_11",
@@ -61371,11 +61371,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。isolated del(13q14) 是 CLL 常見且相對 favorable 的 cytogenetic finding。",
-   "B": "del(11q) 涉及 ATM，常伴 bulky lymphadenopathy，傳統上屬較不良風險。",
-   "C": "trisomy 12 的 CLL 預後通常介於 del(13q) 與 del(11q)/del(17p) 之間。",
-   "D": "del(17p) 涉及 TP53，對傳統 chemoimmunotherapy 反應差，是高風險變異。",
-   "summary": "CLL cytogenetics 中 isolated del(13q) 預後較佳，del(17p)/TP53 異常最具高風險。",
+   "A": "正確答案。單獨出現的 del(13)(q14.3) 是慢性淋巴性白血病（CLL）最常見、而且相對**預後較佳**的細胞遺傳學變化。",
+   "B": "本項不選。del(11)(q22.3) 牽涉 ATM 基因，常伴隨大塊的淋巴結腫大，傳統上屬於較不良的風險群。",
+   "C": "本項不選。trisomy 12 的預後通常介在 del(13q) 與 del(11q)／del(17p) 之間，屬中間風險。",
+   "D": "本項不選。del(17)(p13.1) 牽涉 TP53，對傳統的化學免疫治療反應差，是最高風險的變異。",
+   "summary": "慢性淋巴性白血病的預後排序：del(13q) 最好 ＞ trisomy 12 ＞ del(11q) ＞ del(17p)／TP53 最差。",
    "guideline": "FC 醫學(三)第4冊 p.233"
   },
   "source": "112080/302_11",
@@ -72795,11 +72795,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "正確答案。慢性腎臟病（chronic kidney disease, CKD）會造成相對 erythropoietin 不足，而不是製造過多。",
-   "B": "CKD 的 inflammation/hepcidin 上升會將鐵封存在 reticuloendothelial system，造成 functional iron deficiency 與鐵利用不良。",
-   "C": "uremic platelet dysfunction、透析相關失血或腸胃道出血都可加重 CKD anemia。",
-   "D": "CKD 的 chronic inflammation 會縮短 RBC survival、抑制 erythropoiesis 並限制鐵利用。",
-   "summary": "腎性貧血以相對 EPO 不足為主，另受發炎、functional iron deficiency 與失血加重。",
+   "A": "本項應選。方向反了：慢性腎臟病（chronic kidney disease, CKD）造成的是紅血球生成素**相對不足**，因為分泌它的腎臟間質細胞受損。這正是腎性貧血的主要機轉。",
+   "B": "本項不選。慢性發炎讓肝臟製造的 hepcidin 上升，把鐵鎖在網狀內皮系統裡，形成功能性缺鐵——血清鐵蛋白可能正常甚至偏高，鐵卻用不出來。",
+   "C": "本項不選。尿毒造成的血小板功能障礙、透析管路失血與腸胃道出血，都會加重貧血。",
+   "D": "本項不選。慢性發炎會縮短紅血球（RBC）壽命、抑制紅血球生成，並限制鐵的利用，三件事同時發生。",
+   "summary": "腎性貧血是三個原因疊起來：EPO 不足（主因）＋功能性缺鐵＋慢性失血。",
    "guideline": "FC 醫學(三)第3冊 p.136"
   },
   "source": "113020/302_11",
@@ -73156,11 +73156,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "ulcerative colitis 不是 rituximab 的代表性新增風險，rituximab 也非靠誘發腸炎發揮作用。",
-   "B": "rituximab 本身可治療 rheumatoid arthritis，不會典型使其發生率增加。",
-   "C": "nephrotic syndrome 不是 rituximab 的特徵性機會性感染或神經毒性；部分免疫性腎病反而會使用 rituximab。",
-   "D": "正確。rituximab 造成 B-cell depletion，罕見但嚴重地可讓 JC virus reactivation，引發進行性多灶性白質腦病（progressive multifocal leukoencephalopathy）。",
-   "summary": "rituximab 的重要罕見風險是 JC virus reactivation 所致 PML。",
+   "A": "本項不選。潰瘍性大腸炎不是 rituximab 的代表性新增風險。",
+   "B": "本項不選。rituximab 本身就是治療類風濕性關節炎的藥，不會讓它的發生率增加。",
+   "C": "本項不選。腎病症候群不是 rituximab 的特徵性併發症；相反地，部分免疫性腎病還會用 rituximab 治療。",
+   "D": "正確答案。rituximab 把 B 細胞清掉，罕見但嚴重的後果是 JC 病毒重新活化，造成進行性多灶性白質腦病（PML）。這個併發症預後極差，出現不明原因的神經學症狀時一定要想到。",
+   "summary": "rituximab 清 B 細胞的代價：B 型肝炎再活化與 JC 病毒造成的 PML——用藥前要篩 HBV。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -73194,11 +73194,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "現代 ALL induction 可使多數患者達 complete remission，成人達 80% 以上並不誇張。",
-   "B": "ALL maintenance 常用 6-mercaptopurine 與 methotrexate，總療程約 2–2.5 年。",
-   "C": "Ph+ ALL 必須加入針對 BCR::ABL1 的 tyrosine kinase inhibitor，並持續於後續療程。",
-   "D": "正確答案。imatinib 的 CNS penetration 不足，不能取代 intrathecal chemotherapy 等 CNS prophylaxis／treatment。",
-   "summary": "Ph+ ALL 要加 TKI，但 imatinib 不能取代 intrathecal CNS 預防與治療。",
+   "A": "本項不選。用現代化療處方，成人急性淋巴芽細胞白血病的初次完全緩解率可以達到 80% 以上，這個數字並不誇張。",
+   "B": "本項不選。維持治療常用 6-mercaptopurine 加 methotrexate，總療程約 2 年到 2.5 年（2 年半）。這是 ALL 和急性骨髓性白血病很不一樣的地方。",
+   "C": "本項不選。費城染色體陽性的病人一定要加上針對 BCR::ABL1 的酪胺酸激酶抑制劑（TKI），而且要延續到後續療程。",
+   "D": "本項應選。imatinib 進不去中樞神經系統——血腦障壁的穿透性不足。中樞神經（CNS）的預防與治療仍然要靠鞘內化學治療，這一步不能被口服標靶藥取代。",
+   "summary": "急性淋巴芽細胞白血病兩件必做：長達 2 年多的維持治療，以及鞘內化療做中樞預防。",
    "guideline": "FC 醫學(三)第4冊 p.206"
   },
   "source": "113020/302_11",
@@ -73232,11 +73232,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "急性失血初期 RBC 與 plasma 等比例流失，Hb 尚未被稀釋，故可嚴重休克但貧血數值僅輕度。",
-   "B": "正確答案。fluid resuscitation 補回 plasma volume 後會造成 hemodilution、Hb/Hct 下降，而非 hemoconcentration。",
-   "C": "骨髓對急性失血的反應需數日後才出現 reticulocytosis，代表代償性 erythropoiesis。",
-   "D": "組織缺氧會刺激腎臟增加 erythropoietin，促進 erythroid progenitor 增生。",
-   "summary": "急性失血早期 Hb 可尚未下降；補液後血液稀釋，數日後 EPO 與 reticulocyte 上升。",
+   "A": "本項不選。急性失血初期紅血球（RBC）與血漿是**等比例**流失的，血紅素還沒被稀釋，所以可能已經休克但貧血數值只是輕度。這是急診很容易被誤導的地方。",
+   "B": "本項應選。方向反了：補液把血漿容積補回來之後，血液會被**稀釋**，血紅素與血比容跟著下降，不是濃縮。",
+   "C": "本項不選。骨髓要幾天後才反應得過來，屆時周邊血網狀紅血球會上升，代表代償性的紅血球生成啟動了。",
+   "D": "本項不選。組織缺氧刺激腎臟增加分泌紅血球生成素（EPO），推動紅血球前驅細胞增生。",
+   "summary": "急性失血的血紅素會「先不掉、補液後才掉」——別用第一次的數值判斷失血量。",
    "guideline": "FC 醫學(三)第4冊 p.163"
   },
   "source": "113020/302_11",
@@ -73270,11 +73270,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "JAK2 V617F 常見於 polycythemia vera，也見於部分 essential thrombocythemia 與 primary myelofibrosis。",
-   "B": "MPL 編碼 thrombopoietin receptor，是 ET/PMF 的典型 driver mutation 之一。",
-   "C": "CALR exon 9 mutation 是 JAK2-negative ET/PMF 的常見 driver。",
-   "D": "正確答案。FLT3 mutation 主要見於 AML，不是 BCR::ABL1-negative classical MPN 的三大 driver；MPN 核心為 JAK2、CALR、MPL。",
-   "summary": "classical MPN 常見 driver 是 JAK2、CALR、MPL；FLT3 屬 AML 高頻突變。",
+   "A": "本項不選。JAK2 V617F 常見於真性紅血球增多症，也出現在部分原發性血小板增多症（essential thrombocythemia, ET）與原發性骨髓纖維化（primary myelofibrosis, PMF）。",
+   "B": "本項不選。MPL 編碼血小板生成素受體，是原發性血小板增多症與骨髓纖維化的典型驅動突變之一。",
+   "C": "本項不選。CALR 第 9 外顯子的突變，是 JAK2 陰性的原發性血小板增多症與骨髓纖維化常見的驅動基因。",
+   "D": "本項應選。FLT-3 突變主要見於急性骨髓性白血病（AML），不在 BCR::ABL1-negative 骨髓增生性腫瘤（myeloproliferative neoplasm, MPN）的三大驅動基因裡。那三個是 JAK2、CALR、MPL。",
+   "summary": "骨髓增生性腫瘤的三個驅動基因固定背：JAK2、CALR、MPL；FLT3 屬於急性骨髓性白血病。",
    "guideline": "FC 醫學(三)第4冊 p.215"
   },
   "source": "113020/302_11",
@@ -73303,11 +73303,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "multiple myeloma 造成 humoral immunity 受損，莢膜菌如肺炎鏈球菌（Streptococcus pneumoniae）感染常見。",
-   "B": "骨骼疼痛常來自 osteoclast activation 造成的 lytic lesions、病理性骨折或 vertebral compression。",
-   "C": "高血鈣症（hypercalcemia）是骨質破壞的 CRAB 表現之一。",
-   "D": "正確答案。myeloma 病灶多為純溶骨性、osteoblastic response 少，傳統 bone scan 可能漏診；low-dose whole-body CT、PET/CT 或 MRI 比 plain radiograph 更敏感。",
-   "summary": "multiple myeloma 的 CRAB 包括高血鈣、腎損傷、貧血與骨病；純溶骨病灶使 bone scan 不敏感。",
+   "A": "本項不選。多發性骨髓瘤破壞的是體液免疫（正常免疫球蛋白被壓低），所以特別容易被莢膜菌感染，肺炎鏈球菌是代表。",
+   "B": "本項不選。骨痛來自蝕骨細胞被活化造成的溶骨病灶、病理性骨折與脊椎壓迫性骨折，常是病人就醫的第一個症狀。",
+   "C": "本項不選。高血鈣是骨質被破壞的結果，也是 CRAB 四項表現之一（高血鈣、腎損傷、貧血、骨病變）。",
+   "D": "本項應選。工具挑錯了：骨髓瘤的病灶是**純溶骨性**、幾乎沒有造骨反應，而同位素骨掃描偵測的正是造骨活性，所以常常漏診。要用低劑量全身電腦斷層、PET/CT 或磁振造影（MRI）才夠敏感。",
+   "summary": "骨掃描看的是造骨反應，骨髓瘤只溶不造——所以骨掃描在骨髓瘤反而不好用。",
    "guideline": null,
    "concepts": [
     "multiple-myeloma-crab-features"
@@ -85135,11 +85135,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "t(8;21) 對應 RUNX1::RUNX1T1，是 core-binding factor AML。",
-   "B": "t(15;17) 形成 PML::RARA，定義 acute promyelocytic leukemia。",
-   "C": "inv(16) 形成 CBFB::MYH11，也是 core-binding factor AML。",
-   "D": "正確答案。t(9;11) 典型形成 KMT2A::MLLT3；DEK::NUP214 對應 t(6;9)。",
-   "summary": "AML 融合基因配對：t(8;21) RUNX1::RUNX1T1、inv(16) CBFB::MYH11、t(15;17) PML::RARA；t(9;11) 是 KMT2A::MLLT3。",
+   "A": "本項不選。t(8;21) 對應 RUNX1-RUNX1T1，屬於核心結合因子型急性骨髓性白血病，預後相對較好。",
+   "B": "本項不選。t(15;17) 形成 PML-RARA，這個融合基因就定義了急性前骨髓性白血病。",
+   "C": "本項不選。inv(16) 形成 CBFB-MYH11，同樣屬於核心結合因子型。",
+   "D": "本項應選。配對錯了：t(9;11) 形成的是 KMT2A-MLLT3；DEK-NUP214 對應的是 **t(6;9)**。",
+   "summary": "急性骨髓性白血病四組融合背熟：t(8;21)、inv(16) 是核心結合因子型，t(15;17) 是 APL，t(6;9) 才是 DEK-NUP214。",
    "guideline": "FC 醫學(三)第4冊 p.205"
   },
   "source": "113070/302_11",
@@ -85173,11 +85173,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "folate deficiency 會阻礙 thymidylate/purine synthesis，造成 DNA synthesis 障礙與 megaloblastic anemia。",
-   "B": "vitamin B12 deficiency 使 folate trapped as methyl-THF，同樣妨礙 DNA synthesis，並可伴神經症狀。",
-   "C": "正確答案。巨球母細胞性貧血的核心是 DNA synthesis/replication 受阻與 nuclear-cytoplasmic asynchrony，不是 DNA transcription 成 mRNA 受阻。",
-   "D": "嚴重 megaloblastic change 會造成 ineffective hematopoiesis，除貧血外也可出現 leukopenia、thrombocytopenia 甚至 pancytopenia。",
-   "summary": "megaloblastic anemia 是 DNA synthesis 障礙，不是 transcription 障礙；嚴重時可 pancytopenia。",
+   "A": "本項不選。葉酸缺乏會擋住胸苷酸與普林的合成，DNA 做不出來就形成巨球母細胞性貧血。",
+   "B": "本項不選。維生素 B12 缺乏會讓葉酸卡在甲基四氫葉酸的形式（methyl-THF trap），同樣妨礙 DNA 合成，而且可能合併神經症狀。",
+   "C": "本項應選。步驟弄錯了：核心障礙在 **DNA 的合成與複製**，造成細胞核與細胞質發育不同步（核比細胞質「年輕」），不是 DNA 轉錄成 mRNA 受阻。",
+   "D": "本項不選。嚴重的巨球母細胞變化造成無效造血，除了貧血之外，白血球與血小板也會下降，甚至全血球低下。",
+   "summary": "巨球母細胞性貧血＝DNA 蓋不出來、細胞質卻照長，所以核大而幼稚——問題在合成不在轉錄。",
    "guideline": "FC 醫學(三)第4冊 p.162"
   },
   "source": "113070/302_11",
@@ -85211,11 +85211,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "正確。classical Hodgkin lymphoma 的 Reed–Sternberg cells 多源自 germinal-center B cells，雖常失去典型 B-cell phenotype。",
-   "B": "T-cell-derived Hodgkin-like neoplasm 極罕見，不是 classical Hodgkin lymphoma 的一般來源。",
-   "C": "HIV-associated Hodgkin lymphoma 的 tumor cells 高比例可證實 EBV，並非幾乎看不到。",
-   "D": "非 HIV-associated Hodgkin lymphoma 只有部分 subtype/病例與 EBV 相關，不能說幾乎全部陽性。",
-   "summary": "Hodgkin lymphoma 的腫瘤細胞主要源自 B cells；EBV 關聯受 HIV 狀態、subtype 與族群影響。",
+   "A": "正確答案。典型何杰金氏淋巴瘤的 Reed-Sternberg 細胞來自**生發中心的 B 細胞**。有趣的是它們雖然出身 B 細胞，卻把大部分 B 細胞表面標記關掉了，所以免疫染色上不像 B 細胞。",
+   "B": "本項敘述錯誤。T 細胞來源的類何杰金腫瘤極為罕見，不是典型何杰金氏淋巴瘤的來源。",
+   "C": "本項敘述錯誤。方向反了：HIV 相關的何杰金氏淋巴瘤，腫瘤細胞裡**高比例**驗得到 EBV，不是幾乎看不到。",
+   "D": "本項敘述錯誤。非 HIV 相關者只有部分亞型與病例和 EBV 有關，比例受亞型與地區族群影響，不能說幾乎全部陽性。",
+   "summary": "何杰金氏淋巴瘤的腫瘤細胞出身 B 細胞但「隱藏身分」；EBV 的關聯性隨 HIV 狀態與亞型變動。",
    "guideline": "FC 醫學(三)第4冊 p.226"
   },
   "source": "113070/302_11",
@@ -85249,11 +85249,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "vertebral compression fracture 可由 myeloma lytic bone disease 與骨質脆弱造成。",
-   "B": "腎功能異常可由 light-chain cast nephropathy、高血鈣、脫水或 amyloidosis 引起。",
-   "C": "高血鈣症是 myeloma 骨吸收增加的典型 CRAB feature。",
-   "D": "正確答案。myeloma 常因骨髓取代造成 anemia，不會典型造成 polycythemia。",
-   "summary": "multiple myeloma 常見 CRAB，不包含 polycythemia。",
+   "A": "本項不選。溶骨病灶讓椎體變脆，脊椎壓迫性骨折是很常見的表現，也常是病人第一次就醫的原因。",
+   "B": "本項不選。腎功能異常可以來自輕鏈圓柱腎病變、高血鈣、脫水或類澱粉沉積，是 CRAB 裡的 R。",
+   "C": "本項不選。高血鈣來自骨質被大量吸收，也是 CRAB 的 C。",
+   "D": "本項應選。方向反了：骨髓被漿細胞占據，造成的是**貧血**不是多血症。多血症要往真性紅血球增多症或缺氧、腎腫瘤那邊想。",
+   "summary": "多發性骨髓瘤的四個字母 CRAB：高血鈣、腎損傷、貧血、骨病變——注意是貧血不是多血。",
    "guideline": "FC 醫學(三)第4冊 p.240",
    "concepts": [
     "multiple-myeloma-crab-features"
@@ -96440,11 +96440,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "TMA 的最低血液學組合為 thrombocytopenia 與 MAHA；MAHA 支持證據包括 schistocytes、LDH 上升、haptoglobin 下降。",
-   "B": "TMA 可侵犯 brain、kidney 與 gastrointestinal tract，臨床器官表現不必全數同時出現。",
-   "C": "正確答案。TTP 的關鍵是 severe ADAMTS13 deficiency，通常活性 <10%；>15% 應尋找 complement-mediated HUS 或 secondary TMA。",
-   "D": "疑似 TTP 應緊急 plasma exchange 加 corticosteroid，不能等待 ADAMTS13 結果才治療。",
-   "summary": "TMA 是 thrombocytopenia + MAHA；ADAMTS13 嚴重低下支持 TTP，治療須立即 plasma exchange。",
+   "A": "本項不選。血栓性微血管病變（TMA）的最低組合就是血小板低下加上微小血管溶血性貧血（MAHA）。而後者要看三樣證據：抹片上的裂片紅血球（schistocyte）、LDH 上升、haptoglobin 下降。",
+   "B": "本項不選。它可以侵犯腦、腎與腸胃道，臨床上不需要三個器官同時出現症狀才算。",
+   "C": "本項應選。數字錯了：血栓性血小板低下紫斑症的關鍵是 ADAMTS13 **嚴重缺乏**，活性通常低於 10%。活性 ＞15% 反而要往補體介導的溶血性尿毒症候群（HUS）或次發性原因去找。",
+   "D": "本項不選。懷疑血栓性血小板低下紫斑症就要緊急做血漿置換加類固醇，**不能等 ADAMTS13 報告出來才開始**——等下去病人可能就走了。",
+   "summary": "ADAMTS13 是分岔點但不是等待點：懷疑 TTP 先做血漿置換，報告回來再修正方向。",
    "guideline": null,
    "concepts": [
     "thrombotic-microangiopathy-definition"
@@ -96911,11 +96911,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。inotuzumab ozogamicin 是 anti-CD22 antibody-drug conjugate，不是 anti-CD19；可治 relapsed/refractory B-ALL。",
-   "B": "blinatumomab 是 CD3×CD19 bispecific T-cell engager，使 T cells 攻擊 CD19-positive B-lineage ALL。",
-   "C": "anti-CD19 CAR T cells 可用於特定 relapsed/refractory CD19-positive B-ALL。",
-   "D": "CAR T 可造成 cytokine release syndrome，典型有 fever、hypotension，亦可伴神經毒性如 confusion。",
-   "summary": "B-ALL 免疫標靶要配對：inotuzumab→CD22，blinatumomab/CAR T→CD19；CAR T 注意 CRS。",
+   "A": "本項應選。抗原配錯了：inotuzumab ozogamicin 是 **anti-CD22** 的抗體藥物複合體，不是 anti-CD19。它確實能治療復發或頑固型 B 細胞急性淋巴芽細胞白血病（ALL），但標的寫錯了。",
+   "B": "本項不選。blinatumomab 是雙特異性 T 細胞銜接器，一手抓 CD3（T 細胞）、一手抓 CD19（B 細胞），把 T 細胞拉到腫瘤旁邊去殺它。",
+   "C": "本項不選。CAR-T 細胞可以設計成針對 CD19，用於復發或頑固且帶 CD19 的急性淋巴芽細胞白血病。",
+   "D": "本項不選。嵌合抗原受體（chimeric antigen receptor, CAR）T 細胞的重要急性毒性就是細胞激素釋放症候群（CRS），會發燒、低血壓，也可能伴隨神智不清這類神經毒性。",
+   "summary": "B 細胞急性淋巴芽細胞白血病的三支免疫藥分抗原記：inotuzumab 打 CD22，blinatumomab 與 CAR-T 打 CD19。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -96978,11 +96978,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "alcohol use 會造成飲食不足、腸道吸收與肝內 folate handling 異常，是 folate deficiency 常見原因。",
-   "B": "homocystinuria／homocysteine metabolism 異常可牽涉 folate-dependent remethylation；題目將其列為可能造成 folate 消耗或代謝異常的情境。",
-   "C": "pregnancy 因細胞增生與胎兒需求增加，若補充不足容易 folate deficiency。",
-   "D": "正確答案。high-titer anti-parietal cell antibody 指向 autoimmune gastritis 與 intrinsic factor 缺乏，主要造成 vitamin B12 deficiency，而非 folate deficiency。",
-   "summary": "anti-parietal cell antibody 對應 pernicious anemia/B12 deficiency；酒精與懷孕較典型造成 folate deficiency。",
+   "A": "本項不選。酗酒同時造成飲食攝取不足、腸道吸收變差與肝臟處理葉酸異常，是葉酸缺乏最常見的原因之一。",
+   "B": "本項不選。高胱胺酸尿症牽涉的重新甲基化反應需要葉酸參與，可能造成葉酸的消耗或代謝異常。",
+   "C": "本項不選。懷孕時細胞增生旺盛、胎兒需求又大，補充不足很容易葉酸缺乏。這也是孕前就要補葉酸的原因。",
+   "D": "本項應選。抗體指向的是另一種維生素：高效價抗胃壁細胞抗體代表自體免疫性胃炎與內在因子缺乏，造成的是**維生素 B12** 缺乏（惡性貧血），不是葉酸缺乏。",
+   "summary": "兩種缺乏的貧血都是巨球型，但來源不同：抗胃壁細胞抗體＝B12；酗酒與懷孕＝葉酸。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -97011,11 +97011,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "A RBC 輸給 O recipient 時，recipient 的 anti-A 多為 IgM，經 complement 造成 acute intravascular hemolysis，不是主要由 IgG。",
-   "B": "緊急時 ABO-nonidentical platelets 有時可輸注，須考量 donor plasma antibody titer、recipient 與庫存；不是絕對不可。",
-   "C": "正確。O 型病人有 anti-A，A 型 packed RBC 會造成嚴重 acute hemolytic transfusion reaction，即使緊急也不可如此輸注。",
-   "D": "O 型兒子的 RBC 雖與 A 型母親 ABO 相容，但親屬定向輸血有 transfusion-associated GVHD 風險，需依規範 irradiation，不能說完全不處理。",
-   "summary": "RBC ABO incompatibility 是絕對紅線；A RBC 不可輸給 O recipient，親屬血也須防 TA-GVHD。",
+   "A": "本項敘述錯誤。抗體類型寫錯了：O 型病人體內的 anti-A 主要是 **IgM**，會活化補體造成急性血管內溶血，不是主要靠 IgG。",
+   "B": "本項敘述錯誤。血小板濃縮液和紅血球不一樣：緊急時 ABO 不同型的血小板有時可以輸，要考量捐贈者血漿中的抗體力價、病人狀況與庫存，不是絕對不可以。",
+   "C": "正確答案。O 型病人體內有 anti-A，輸進 A 型紅血球（RBC）濃縮液會造成嚴重的急性溶血性輸血反應。這是絕對紅線，**再緊急也不能這樣輸**。",
+   "D": "本項敘述錯誤。O 型兒子的紅血球雖然 ABO 相容，但親屬定向輸血有輸血相關移植物抗宿主疾病（transfusion-associated GVHD, TA-GVHD）的風險，依規範要先做照射處理，不能完全不處理。",
+   "summary": "紅血球的 ABO 相容是絕對紅線；血小板可以妥協，親屬血則要先照射防 TA-GVHD。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -107627,11 +107627,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "DLBCL 是最常見的 aggressive non-Hodgkin lymphoma，在東西方成人皆占重要比例。",
-   "B": "正確答案。rituximab 的標的是 CD20，不是 CD10；CD10 也不是 B-cell exclusive，且常作 germinal-center marker。",
-   "C": "Burkitt lymphoma 有高 CNS risk，治療需 CNS prophylaxis；接受足量短期高強度 regimen 時許多患者可長期存活。",
-   "D": "mycosis fungoides 是 primary cutaneous T-cell lymphoma，早期以 patches/plaques 為主。",
-   "summary": "rituximab 標的是 CD20；CD10 是 germinal-center marker，不是 B-cell 特有的治療標的。",
+   "A": "本項不選。瀰漫性大 B 細胞淋巴瘤（DLBCL）是最常見的侵襲性非何杰金氏淋巴瘤，東西方成人都占重要比例。",
+   "B": "本項應選。兩處都錯：rituximab 的標的是 **CD20** 不是 CD10；而且 CD10 也不是 B 細胞特有的，它更常被當作生發中心的標記。",
+   "C": "本項不選。Burkitt 淋巴瘤的中樞神經（CNS）風險高，必須做中樞預防性治療。用足量的短期高強度處方時，超過一半的病人可以長期存活。",
+   "D": "本項不選。蕈狀肉芽腫（mycosis fungoides）是原發性皮膚 T 細胞淋巴瘤，早期以斑塊與丘疹樣皮膚病灶為主。",
+   "summary": "rituximab 認的是 CD20；CD10 是生發中心標記，兩個不能混。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107660,11 +107660,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。endemic Burkitt lymphoma 的關鍵病毒關聯是 Epstein–Barr virus，不是 cytomegalovirus。",
-   "B": "亞洲 extranodal nasal NK/T-cell lymphoma 與 EBV 有強烈且一致的關聯。",
-   "C": "HTLV-1 是 adult T-cell leukemia/lymphoma 的病因性 retrovirus。",
-   "D": "胃 MALT lymphoma 常由 Helicobacter pylori 慢性抗原刺激驅動，早期可因 eradication 而退縮。",
-   "summary": "感染配對：EBV–Burkitt/NK-T、HTLV-1–ATL、H. pylori–gastric MALT；CMV 不配 endemic Burkitt。",
+   "A": "本項應選。病毒配錯了：中非地區的地方流行型 Burkitt 淋巴瘤，關鍵關聯是 **Epstein-Barr 病毒**，不是巨細胞病毒（cytomegalovirus, CMV）。",
+   "B": "本項不選。亞洲地區的鼻腔型結外 NK/T 細胞淋巴瘤與 EBV 的關聯非常強而且一致。",
+   "C": "本項不選。HTLV-1 是成人 T 細胞白血病／淋巴瘤的病因性反轉錄病毒，在日本與台灣部分地區有地方流行性。",
+   "D": "本項不選。胃部 MALT 淋巴瘤常由幽門螺旋桿菌的慢性抗原刺激驅動，早期可以靠**除菌治療**就讓腫瘤消退——這是感染性致癌最漂亮的例子。",
+   "summary": "四組淋巴瘤感染配對：EBV 配 Burkitt 與 NK/T、HTLV-1 配成人 T 細胞白血病、幽門桿菌配胃 MALT。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107695,11 +107695,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "essential thrombocythemia 以持續 thrombocytosis 與 megakaryocytic proliferation 為主，WBC 78,500/μL 且圖示若有各成熟階段 granulocytes 更支持 CML。",
-   "B": "正確。chronic myeloid leukemia 可呈顯著 leukocytosis、左移 granulopoiesis、basophilia 與 thrombocytosis，確診需 BCR::ABL1。抹片上白血球數量爆增，而且從骨髓細胞、後骨髓細胞到成熟嗜中性球整個成熟系列都看得到，還夾雜嗜鹼性球，這是慢性骨髓性白血病的特徵——不是感染那種只有帶狀核左移的類白血病反應。確診要驗 BCR-ABL1。",
-   "C": "leukemoid reaction 是反應性 neutrophilia，通常有感染/發炎病因、toxic change，且無 BCR::ABL1。",
-   "D": "acute myeloid leukemia 通常以 blasts 增多與正常造血受抑為主，不是完整 myeloid maturation spectrum。",
-   "summary": "無症狀極高白血球、血小板偏高與 myeloid maturation spectrum 指向 CML，仍須 BCR::ABL1 確認。",
+   "A": "本項不選。原發性血小板增多症是以持續的血小板增多與巨核細胞增生為主。這位病人白血球（WBC）衝到 78,500/μL，主角是白血球不是血小板。",
+   "B": "正確答案。抹片上白血球數量大增，而且從骨髓細胞、後骨髓細胞、帶狀核到成熟分葉核**整個成熟系列都看得到**，另外還夾雜顆粒粗大深染的嗜鹼性球。配上血小板 495,000/μL 偏高、病人卻沒有症狀，這就是慢性骨髓性白血病（CML）。確診要驗 BCR 與 ABL1 的融合。",
+   "C": "本項不選。類白血病反應是反應性的嗜中性球增多，會有感染或發炎的病因、細胞帶毒性變化，而且**不會有嗜鹼性球增多**，也驗不到 BCR-ABL1。",
+   "D": "本項不選。急性骨髓性白血病是芽細胞大量增加、正常造血被壓制，不會看到這種完整的骨髓系成熟光譜。而且這位病人血紅素 14.5 g/dL 是正常的。",
+   "summary": "分辨慢性骨髓性白血病與類白血病反應看兩件事：有沒有完整成熟系列、有沒有嗜鹼性球增多。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107728,11 +107728,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "ITP 無嚴重出血時不常規 platelet transfusion，因輸入 platelets 亦會快速被抗體清除；危及生命出血才合併使用。",
-   "B": "IVIG 能快速但暫時提高 platelet，適合 active bleeding、需迅速升高或 corticosteroid 禁忌者，非一般穩定成人最常見首選。",
-   "C": "正確。新診斷成人 ITP、platelet 13,000/μL 且有瘀青，常先用 corticosteroid 抑制免疫性 platelet destruction。",
-   "D": "eltrombopag 是 thrombopoietin receptor agonist，多用於 persistent/chronic ITP 或第一線失敗後，不是此初診病例一般優先處置。",
-   "summary": "成人新診斷 ITP 通常先 corticosteroid；IVIG 求快速反應，TPO agonist 多屬後線。",
+   "A": "本項不選。免疫性血小板低下紫斑症（ITP）沒有嚴重出血時不常規輸血小板——輸進去的血小板一樣會被抗體很快清掉。只有危及生命的出血才合併使用。",
+   "B": "本項不選。靜脈免疫球蛋白（IVIG）能**快速但短暫**地把血小板拉上來，適合正在出血、需要馬上升血小板，或不能用類固醇的人。這位病人只有瘀青、狀況穩定，不是一般首選。",
+   "C": "正確答案。這位 35 歲女性其他血球與肝腎功能都正常、沒有服藥史、HIV 與抗核抗體也陰性，是單純的新診斷成人免疫性血小板低下紫斑症。血小板 13,000/μL 又有瘀青，最常見的優先處置就是類固醇，壓制免疫性的血小板破壞。",
+   "D": "本項不選。eltrombopag 是血小板生成素（TPO）受體促效劑，多用在持續型或慢性的病人，或第一線治療失敗之後，不是初診時的優先選擇。",
+   "summary": "新診斷成人免疫性血小板低下紫斑症先用類固醇；要快就加免疫球蛋白，血小板生成素促效劑排在後線。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107763,11 +107763,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "hepatitis 應以 hepatocellular enzyme elevation 為主；本例間接 bilirubin 高、AST>ALT 且 anemia 更支持 hemolysis。",
-   "B": "正確。intravascular hemolysis 釋出 free hemoglobin，尿液可呈紅褐色且 dipstick heme 陽性但 microscopy 缺少相應 RBC。圖上的尿液呈澄清的紅褐色、沒有混濁沉澱，代表紅色來自溶在尿中的血紅素而不是完整紅血球。血管內溶血時血漿游離血紅素超過結合球蛋白的負荷就會漏進尿裡，同時解釋了間接型膽紅素上升與貧血。",
-   "C": "urinary tract infection 通常有 pyuria、bacteriuria 與 urinary symptoms，不能解釋間接 hyperbilirubinemia 和 anemia。",
-   "D": "gallbladder stones 可造成膽道阻塞與直接 bilirubin 上升，但本例以 indirect bilirubin 為主，並有 anemia。",
-   "summary": "紅褐尿若 heme 陽性但少 RBC，加 indirect hyperbilirubinemia 與 anemia，應判斷 intravascular hemolysis。",
+   "A": "本項不選。肝炎應該以肝細胞酵素明顯上升為主。這題 ALT 只有 32 U/L 正常，AST 85 U/L 比 ALT 高——AST 也來自紅血球，這個比例反而支持溶血。",
+   "B": "正確答案。圖上的尿液是**澄清透明**的紅褐色，沒有混濁也沒有沉澱——紅色來自溶在尿中的血紅素，不是完整的紅血球（RBC）。血管內溶血時血漿游離血紅素超過 haptoglobin 的負荷就會漏進尿裡。這同時解釋了總膽紅素 4.5 mg/dL 而直接型只有 0.6 mg/dL（間接型為主）與血紅素 9.6 g/dL 的貧血。",
+   "C": "本項不選。泌尿道感染的尿液會混濁、有膿尿與細菌，病人也會有排尿症狀。它更解釋不了間接型高膽紅素血症與貧血。",
+   "D": "本項不選。膽結石造成膽道阻塞時，上升的是**直接型**膽紅素。這題是間接型為主，而且還有貧血。",
+   "summary": "紅色尿要先分「澄清」還是「混濁」：澄清紅褐＝血紅素尿（溶血），混濁帶沉渣＝血尿（紅血球）。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -107796,11 +107796,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "HSCT 後 peripheral blood cells 多為 donor genotype，因此 blood 不可靠代表 recipient 原本人身血緣。",
-   "B": "正確。髮根屬 recipient 的非造血組織，通常保留原生 germline DNA，適合移植後身分／血緣鑑定。",
-   "C": "成功 allogeneic HSCT 後 bone marrow hematopoietic cells 應由 donor 重建，DNA 可能顯示 donor。",
-   "D": "leukocytes 是 donor-derived hematopoietic cells，不能可靠代表 recipient 原本血緣。",
-   "summary": "allogeneic HSCT 後血液、骨髓與白血球可轉為 donor DNA；髮根等非造血組織保留 recipient DNA。",
+   "A": "本項不選。移植成功之後，周邊血細胞幾乎都是捐贈者來源的，驗血液拿到的是捐贈者的基因型。",
+   "B": "正確答案。髮根屬於病人自己的**非造血組織**，保留原本的生殖細胞系 DNA。造血幹細胞移植（HSCT）後要做身分或血緣鑑定，就靠這類組織（髮根、口腔黏膜、指甲）。",
+   "C": "本項不選。異體移植成功的定義就是骨髓造血由捐贈者細胞重建，所以骨髓的 DNA 會顯示捐贈者。",
+   "D": "本項不選。白血球本身就是造血來源的細胞，移植後屬於捐贈者，代表不了病人原本的血緣。",
+   "summary": "移植後「血是別人的、身體還是自己的」：血液、骨髓、白血球都換人了，鑑定要取非造血組織。",
    "guideline": null
   },
   "source": "114070/302_0101",
@@ -118131,11 +118131,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "腎性貧血（renal anemia）典型為 normocytic、normochromic，除非合併 iron deficiency 等因素改變 MCV。",
-   "B": "renal anemia 可造成 weakness、exercise intolerance 與 cognitive impairment，嚴重時加重 cardiac workload 與 heart failure。",
-   "C": "CKD 腎臟無法對 anemia 產生足量 erythropoietin，是 renal anemia 的主要機轉。",
-   "D": "正確答案。用 ESA 把 Hb 矯正至 ≥13 g/dL 不會改善死亡率，反會增加 stroke、hypertension 與 thrombosis 等風險；目標須個別化且不追求正常值。",
-   "summary": "腎性貧血主因 EPO 不足且多為 normocytic；ESA 治療不應把 Hb 正常化至 ≥13 g/dL。",
+   "A": "本項不選。腎性貧血典型是正球性、正色素性。除非合併缺鐵或葉酸／B12 缺乏，才會把 MCV 拉偏。",
+   "B": "本項不選。貧血造成虛弱、運動耐受力變差與認知功能下降；嚴重時還加重心臟負荷，惡化心衰竭。",
+   "C": "本項不選。慢性腎臟病（CKD）的腎臟對貧血產生的紅血球生成素（EPO）不夠，這是腎性貧血最主要的機轉。",
+   "D": "本項應選。目標值訂錯了：用紅血球生成刺激劑（ESA）把血色素矯正到 ≧13 g/dL **不會降低死亡率**，反而增加中風、高血壓與血栓的風險。目標要個別化，而且刻意不追到正常值。",
+   "summary": "腎性貧血治療的關鍵觀念：補到「夠用」就好，追到正常值反而害人。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118501,11 +118501,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。polycythemia vera 超過 90% 有 JAK2 V617F，其餘多為 JAK2 exon 12，故幾乎都屬 JAK2-mutated。",
-   "B": "essential thrombocythemia 約半數到六成有 JAK2 V617F，其餘常見 CALR 或 MPL，未達 >90%。",
-   "C": "primary myelofibrosis 約半數到六成有 JAK2 V617F，也可見 CALR/MPL。",
-   "D": "chronic neutrophilic leukemia 的代表 driver 是 CSF3R mutation，不是高比例 JAK2 V617F。",
-   "summary": "JAK2 V617F >90% 最典型是 polycythemia vera；ET/PMF 僅約半數，CNL 看 CSF3R。",
+   "A": "正確答案。真性紅血球增多症超過 90% 帶 JAK2 V617F，剩下的幾乎都是 JAK2 exon 12 突變——換句話說，**幾乎每一位都是 JAK2 突變**。所以驗不到 JAK2 突變時要回頭懷疑診斷。",
+   "B": "本項不選。原發性血小板增多症（essential thrombocythemia, ET）只有約一半到六成帶 JAK2 V617F，其餘多是 CALR 或 MPL 突變，沒有到 90%。",
+   "C": "本項不選。原發性骨髓纖維化（primary myelofibrosis, PMF）同樣約一半到六成帶 JAK2 V617F，也看得到 CALR 與 MPL。",
+   "D": "本項不選。慢性嗜中性球白血病（chronic neutrophilic leukemia, CNL）的代表驅動基因是 CSF3R，不是高比例的 JAK2 V617F。",
+   "summary": "JAK2 突變比例分三級：真性紅血球增多症＞90%（幾乎人人有）、血小板增多症與骨髓纖維化約一半。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118601,11 +118601,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "venous thrombosis 偏重 stasis、tissue factor/coagulation 與 fibrin-rich clot；arterial thrombosis 多始於 plaque rupture 後 platelet adhesion/activation。",
-   "B": "factor V Leiden、prothrombin G20210A 與 VTE 關聯明確，但對 arterial thrombosis 的貢獻較不一致。",
-   "C": "smoking、obesity、metabolic syndrome、aging 可同時增加 venous 與 arterial thrombotic risk，雖作用強度不同。",
-   "D": "正確答案。arterial thrombosis 雖以 platelet-rich clot 為主，仍有 tissue factor、thrombin generation 與 fibrin 參與；不能說與 thrombin 無關。",
-   "summary": "動脈血栓較 platelet-rich、靜脈血栓較 fibrin-rich，但兩者都牽涉 coagulation 與 thrombin。",
+   "A": "本項不選。兩邊的起點不同：靜脈血栓偏向血流停滯、組織因子暴露啟動凝血級聯，形成富含纖維蛋白的血栓；動脈血栓多從斑塊破裂後的血小板黏附與活化開始。",
+   "B": "本項不選。factor V Leiden 與 prothrombin G20210A 與靜脈血栓栓塞（VTE）的關聯明確，但它們在動脈血栓的角色，各研究結果並不一致。",
+   "C": "本項不選。吸菸、肥胖、代謝症候群與年齡確實兩邊都算危險因子，只是影響的強度不同。",
+   "D": "本項應選。後半句錯了：動脈血栓雖然以血小板為主，但組織因子、凝血酶生成與纖維蛋白**同樣有參與**。說它與凝血酶無關並不正確——這也是急性冠心症除了抗血小板還要抗凝的原因。",
+   "summary": "動脈血栓「血小板多、纖維蛋白少」，靜脈血栓相反；但兩邊都用得到凝血酶，不是一邊完全不用。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -118634,11 +118634,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。遺傳性 B 型血友病是單一 factor IX deficiency，造成 intrinsic pathway 異常與 isolated aPTT prolongation。",
-   "B": "alcoholic hepatitis 會降低多種 hepatic coagulation factors，並可能合併 thrombocytopenia，不是單一因子缺乏。",
-   "C": "sepsis 可造成 DIC，涉及廣泛 coagulation activation、factor/platelet consumption 與 fibrinolysis。",
-   "D": "vitamin K deficiency 同時影響 factors II、VII、IX、X 及 proteins C/S，不是單一 factor defect。",
-   "summary": "單一凝血因子缺乏的代表是 hemophilia B（factor IX）；肝病、sepsis、vitamin K deficiency 都影響多因子。",
+   "A": "正確答案。遺傳性 B 型血友病是**單一**的第九凝血因子（factor IX）缺乏，影響內在路徑，表現是單獨的 aPTT 延長而 PT 正常。",
+   "B": "本項不選。酒精性肝炎會同時降低多種肝臟合成的凝血因子，還可能合併血小板低下，不是單一因子的問題。",
+   "C": "本項不選。敗血症可造成瀰漫性血管內凝血（DIC），牽涉廣泛的凝血活化、因子與血小板被消耗，還加上纖維蛋白溶解，是多重異常。",
+   "D": "本項不選。維生素 K 缺乏一次影響第二（II）、七（VII）、九（IX）、十（X）因子與蛋白質 C、S，同樣不是單一因子缺乏。",
+   "summary": "單一因子缺乏的代表是血友病；肝病、敗血症與維生素 K 缺乏都是「一次壞一整組」。",
    "guideline": null
   },
   "source": "115020/302_0103",
@@ -129312,11 +129312,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "ITP 是 primary hemostasis defect，典型為 petechiae、purpura、mucosal bleeding；deep muscle/hemarthrosis 較像 coagulation factor deficiency。",
-   "B": "正確。childhood ITP 常在感染後急性發作並自限；adult ITP 較常呈 persistent/chronic course。",
-   "C": "isolated thrombocytopenia 是 ITP 典型 CBC；若 leukocytosis、abnormal differential 或 unexplained anemia 應尋找其他診斷。",
-   "D": "ITP marrow 通常 megakaryocytes 正常或增加，反映 peripheral platelet destruction；明顯減少較支持 production failure。",
-   "summary": "ITP 的核心是 isolated thrombocytopenia 與皮膚黏膜出血；兒童多急性、成人較慢性，megakaryocytes 不會典型減少。",
+   "A": "本項敘述錯誤。出血型態寫反了：免疫性血小板低下紫斑症（ITP）屬於初級止血缺陷，典型是點狀出血、紫斑與黏膜出血。**深部肌肉出血或關節腔出血反而是凝血因子缺乏（血友病）的樣子**。",
+   "B": "正確答案。年齡決定病程：兒童常在感染後急性發作，多半會自己好；成人則較常變成持續型或慢性，需要治療與追蹤。",
+   "C": "本項敘述錯誤。它的血球計數（CBC）特徵是**單獨的**血小板低下——白血球數與分類、血紅素都應該正常。如果同時有白血球增多、分類異常或不明貧血，就要往別的診斷找。",
+   "D": "本項敘述錯誤。骨髓裡的巨核細胞是正常或**增加**的，因為問題出在血小板到了周邊才被抗體破壞、骨髓拚命補。巨核細胞明顯減少反而代表製造出問題。",
+   "summary": "免疫性血小板低下紫斑症＝單獨血小板低＋皮膚黏膜出血＋骨髓巨核細胞不減反增。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -129345,11 +129345,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。stored RBC 維持 1–6°C；platelets 在 20–24°C 輕微 agitation 保存，以維持功能與氣體交換。",
-   "B": "irradiation 可預防 TA-GVHD，但會增加 RBC potassium leakage，且在部分規範下縮短可用期限，不能說完全不影響。",
-   "C": "male／never-pregnant female plasma-rich products 是降低 donor anti-HLA/HNA antibody 所致 TRALI，不是主要為降低 CMV transmission。",
-   "D": "cryoprecipitate 是 FFP 在 1–6°C 緩慢解凍所得 cold-insoluble fraction，可再冷凍保存；不是 37°C 加熱後且不得再凍。",
-   "summary": "血品保存：RBC 冷藏、platelet 室溫搖晃；男性 plasma 降 TRALI，cryoprecipitate 是低溫解凍沉澱。",
+   "A": "正確答案。兩種血品的保存條件完全不同：紅血球（RBC）放 1～6℃ 冷藏，血小板則放室溫 20～24℃ 並持續輕微搖晃，這樣才能維持功能與氣體交換。也因為在室溫，血小板的細菌污染風險比紅血球高。",
+   "B": "本項敘述錯誤。照射確實能預防輸血相關移植物抗宿主疾病，但它會讓紅血球的鉀離子外漏增加，依規範**儲存期限會縮短**，不能說不影響。",
+   "C": "本項敘述錯誤。目的寫錯了：挑男性或從未懷孕的女性捐贈者，是為了避免捐贈者體內的抗 HLA／抗 HNA 抗體造成**輸血相關急性肺損傷（TRALI）**，不是為了降低巨細胞病毒（CMV）傳播。",
+   "D": "本項敘述錯誤。製程反了：冷凍沉澱品是新鮮冷凍血漿（FFP）在 1～6℃ **緩慢解凍**後留下的低溫不溶部分，不是 37℃ 加熱。而且它可以再冷凍保存。它富含纖維蛋白原這點則是對的。",
+   "summary": "血品四個易錯點：紅血球冷藏／血小板室溫搖晃、照射會縮短期限、男性血漿是防 TRALI、冷凍沉澱靠低溫解凍。",
    "guideline": null
   },
   "source": "115070/302_0101",
@@ -130211,11 +130211,11 @@
   "specialty": "血液科",
   "fc_ref": null,
   "explanation": {
-   "A": "vitamin B12–intrinsic factor complex 主要在 terminal ileum 吸收，不是 duodenum。",
-   "B": "serum B12 可受 binding proteins 等影響，邊界值時 methylmalonic acid 與 homocysteine 可提高診斷敏感度，不能稱單測 B12 正確率最高。",
-   "C": "正確。補充 vitamin B12 後 methionine synthase 功能恢復，累積的 homocysteine 會迅速下降；methylmalonic acid 亦隨之改善。",
-   "D": "anti-parietal cell antibody 專一性不足，且口服或注射策略取決於確診病因、症狀與吸收；不能只憑抗體陽性就斷定固定每日 1,000 mcg 是唯一適當作法。",
-   "summary": "B12 在 terminal ileum 吸收；診斷疑義可看 methylmalonic acid/homocysteine，補充後 homocysteine 迅速下降。",
+   "A": "本項敘述錯誤。位置錯了：維生素 B12 要先和內在因子結合，主要在**迴腸末端**被吸收（不是十二指腸）。所以迴腸切除或克隆氏症侵犯迴腸的人容易缺乏。",
+   "B": "本項敘述錯誤。血清 B12 濃度會受結合蛋白影響，在邊界值時並不可靠。這時要加驗甲基丙二酸（methylmalonic acid）與高半胱胺酸，敏感度才夠。",
+   "C": "正確答案。B12 是甲硫胺酸合成酶的輔因子。補充之後酵素功能恢復，原本堆積的高半胱胺酸會**迅速下降**，甲基丙二酸也跟著改善。這兩個指標因此可以拿來確認治療有效。",
+   "D": "本項敘述錯誤。抗壁細胞抗體的特異性不夠，不能只憑它就決定治療。要用口服還是注射、要不要每日 1,000 mcg，得看確診的病因、症狀嚴重度與實際吸收能力。",
+   "summary": "B12 缺乏三個考點：吸收在迴腸末端、邊界值加驗代謝物、補充後高半胱胺酸迅速下降。",
    "guideline": null
   },
   "source": "115070/302_0101",
