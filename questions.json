@@ -1552,11 +1552,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "咳嗽、痰與喘鳴（wheezing）都可見於慢性阻塞性肺病（COPD），但最具代表且最影響活動能力的症狀是持續、漸進性的呼吸困難；把喘鳴列為最常見核心表現並不精確。",
-   "B": "正確。COPD 早期的氣流受限可尚未造成明顯胸廓外觀、呼吸音或輔助呼吸肌使用異常，因此身體診察（physical examination）可能幾乎正常，不能據此排除疾病。",
-   "C": "COPD 的氣道阻力增加主要發生在直徑小於 2 mm 的小氣道（small airways），與黏液阻塞、壁增厚及周邊氣道喪失有關，而非主要位於中型氣道（medium-size airways）。",
-   "D": "FEV1 降至預測值 50% 反映中重度氣流受限，但 PaO2 是否降低還受通氣灌流不均、肺氣腫程度與急性惡化影響，不能由單一 FEV1 切點推定幾乎所有病人均低血氧。",
-   "summary": "COPD 早期理學檢查可正常；主要阻塞位於小氣道，FEV1 嚴重度也不能直接等同低血氧程度。",
+   "A": "本項敘述錯誤。咳嗽、痰與喘鳴（wheezing）在慢性阻塞性肺病（COPD）都看得到，但最核心、最影響活動能力的是**持續而且逐漸惡化的呼吸困難**。把喘鳴當成最常見的代表症狀並不精確。",
+   "B": "正確答案。COPD 早期的氣流受限還不足以改變胸廓外觀、呼吸音或造成輔助呼吸肌使用，所以理學檢查可以幾乎全正常。反過來說：**理學檢查正常不能拿來排除 COPD**，該做的肺功能還是要做。",
+   "C": "本項敘述錯誤。COPD 阻力增加的主戰場是直徑小於 2 mm 的**小氣道（small airways）**，機轉是黏液阻塞、管壁增厚與周邊氣道消失，不是中型氣道。",
+   "D": "本項敘述錯誤。FEV1 降到預測值 50% 代表中重度氣流受限，但 PaO2 會不會降低還要看通氣灌流不均、肺氣腫程度與有沒有急性惡化。單一個 FEV1 切點推不出「幾乎都低血氧」。",
+   "summary": "COPD 三個易錯點：早期理學檢查可正常、阻塞在小氣道（<2 mm）、FEV1 的嚴重度不等於低血氧的程度。",
    "guideline": "FC 醫學(三)第1冊 p.336",
    "concepts": []
   },
@@ -1591,11 +1591,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "本例 PaCO2 70 mmHg 顯示肺泡低通氣造成的急性高碳酸血症性呼吸衰竭（acute hypercapnic respiratory failure）；PaO2 55 mmHg 雖同時偏低，將其單純歸類為急性缺氧性呼吸衰竭會漏掉主因，故此項錯誤。",
-   "B": "重症肌無力惡化使呼吸肌無法產生足夠通氣，屬呼吸唧筒衰竭（pump failure）；肺實質本身未必是主要病灶，典型結果是 PaCO2 上升。",
-   "C": "病人已有意識紊亂、明顯 CO2 滯留與低血氧，代表呼吸肌代償失敗，必須立即確保氣道並以機械通氣（mechanical ventilation）協助呼吸。",
-   "D": "以 Henderson–Hasselbalch 關係估算，pH 約為 6.1 + log(26/(0.03×70)) ≈ 7.19，因此動脈血 pH 確實低於 7.30，符合急性呼吸性酸中毒。",
-   "summary": "神經肌肉病造成 pump failure 時以肺泡低通氣、急性 CO2 滯留及呼吸性酸中毒為核心，嚴重時須立即通氣支持。",
+   "A": "本項應選。PaCO2 70 mmHg 才是這位病人的主角——肺泡通氣不足造成的**急性高碳酸血症性呼吸衰竭**。PaO2 55 mmHg 雖然也低，但把它單純歸類成缺氧性呼吸衰竭會漏掉真正的機轉。",
+   "B": "本項不選。重症肌無力惡化後呼吸肌打不出足夠的通氣量，這叫做唧筒衰竭（pump failure）。肺實質本身可以是好的，結果就是 CO2 排不掉、PaCO2 上升。",
+   "C": "本項不選。已經意識紊亂、CO2 明顯滯留又低血氧，代表呼吸肌代償失敗。這時要立刻確保氣道並給機械通氣，不能再觀察。",
+   "D": "本項不選。算一下就知道：pH = 6.1 + log(26 ÷ (0.03 × 70)) ≈ 7.19，確實低於 7.30。這是典型的急性呼吸性酸中毒。",
+   "summary": "神經肌肉疾病造成的是 pump failure：先看 PaCO2 而不是 PaO2，代償失敗就要通氣支持。",
    "guideline": "FC 醫學(三)第1冊 p.414",
    "concepts": []
   },
@@ -1625,11 +1625,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "全身性硬化症（systemic sclerosis）可因食道蠕動障礙與逆流增加吸入風險，但無脾症（asplenia）主要增加莢膜菌嚴重感染，並不直接破壞吞嚥或氣道保護，因此①④不成立。",
-   "B": "正確。全身性硬化症的食道功能障礙可造成逆流與吸入；巴金森氏症（parkinsonism）則會造成口咽吞嚥障礙、咳嗽反射下降，兩者均易導致吸入性肺炎（aspiration pneumonia）。",
-   "C": "巴金森氏症確會因吞嚥協調不良增加吸入，但肺部纖維化（pulmonary fibrosis）造成限制型通氣與氣體交換障礙，本身不是典型吸入危險因子，故②③不成立。",
-   "D": "全身性硬化症是吸入危險因子；肺部纖維化雖可造成咳嗽與呼吸困難，卻不會直接造成意識、吞嚥或賁門功能失常，因此①③並非兩項皆對。",
-   "summary": "吸入性肺炎的關鍵是吞嚥、意識或氣道保護失常；systemic sclerosis 與 parkinsonism 分別經食道及口咽功能障礙增加風險。",
+   "A": "本項不選。①全身性硬化症（systemic sclerosis）確實會因食道蠕動障礙與逆流而增加吸入風險。但④無脾症增加的是莢膜菌重症感染，跟吞嚥或氣道保護無關，所以①④不成立。",
+   "B": "正確答案。這兩項都打在同一個機轉上：①全身性硬化症的食道功能障礙造成逆流與吸入；②巴金森氏症（parkinsonism）造成口咽吞嚥障礙、咳嗽反射變差。兩者都直接提高吸入性肺炎的風險。",
+   "C": "本項不選。②巴金森氏症算對，但③肺部纖維化造成的是限制型通氣與氣體交換障礙，不會讓人嗆到，不是吸入的危險因子，故②③不成立。",
+   "D": "本項不選。①對、③不對。肺部纖維化雖然會咳、會喘，卻不影響意識、吞嚥或賁門功能，因此①③不成立。",
+   "summary": "判斷吸入風險只問一句話：吞嚥、意識或咳嗽反射有沒有壞掉？肺實質病變本身不算。",
    "guideline": null,
    "concepts": []
   },
@@ -1664,11 +1664,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "明顯氣道阻塞（airflow limitation）不是典型間質性肺疾（interstitial lung disease）的主要生理變化；多數病人呈限制型通氣障礙，FEV1 與 FVC 同向下降而 FEV1/FVC 正常或上升，故此項錯誤。",
-   "B": "間質纖維化降低肺順應性並縮小可擴張肺容積，因此全肺活量（total lung capacity, TLC）通常減少；疾病很早期時也可能仍在正常範圍。",
-   "C": "肺泡－微血管膜增厚及有效交換面積減少，使一氧化碳瀰散量（DLco）降低；DLco 常是間質性肺疾相當敏感的生理異常。",
-   "D": "間質性肺疾因瀰散障礙及通氣灌流不均而使 PaO2 下降，運動時血液通過肺微血管更快，低血氧往往更明顯。",
-   "summary": "間質性肺疾典型為限制型肺容積下降、DLco 降低及運動性低血氧，而非明顯阻塞型氣流受限。",
+   "A": "本項應選。間質性肺疾（interstitial lung disease）不是阻塞型的病。它典型呈**限制型**：FEV1 與 FVC 一起往下掉，比值 FEV1/FVC 反而正常或偏高。",
+   "B": "本項不選。間質纖維化讓肺變硬、撐不開，所以全肺活量（total lung capacity, TLC）通常減少。疾病很早期時還可能落在正常範圍。",
+   "C": "本項不選。肺泡與微血管之間的膜變厚、有效交換面積變少，一氧化碳瀰散量（DLco）就會降低。DLco 常是最早被抓到的異常。",
+   "D": "本項不選。瀰散障礙加上通氣灌流不均會讓 PaO2 下降。運動時血液流過肺微血管更快，來不及交換，低血氧會更明顯。",
+   "summary": "間質性肺疾是「肺容積變小＋DLco 降低＋運動更喘」，不是氣道被塞住。",
    "guideline": "FC 醫學(三)第1冊 p.353",
    "concepts": []
   },
@@ -1698,11 +1698,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "結核性肋膜積液（tuberculous pleural effusion）通常來自胸膜下結核病灶破入肋膜腔後，引發對結核抗原的延遲型細胞免疫反應；只描述為肺部原發感染『直接』造成，忽略病灶破入與免疫介導，故為錯誤敘述。",
-   "B": "結核性胸水通常是淋巴球優勢的滲出液；因肋膜表面受到結核性發炎影響，間皮細胞（mesothelial cells）比例通常很低，超過 5% 並不常見。",
-   "C": "在淋巴球優勢滲出性胸水的適當臨床情境中，ADA 高值支持結核；ADA ≤40 U/L 會使結核性肋膜積液的可能性明顯降低，但仍須結合盛行率與免疫狀態判讀。",
-   "D": "結核性胸水應以完整抗結核藥物治療病因；胸水引流主要用於症狀或診斷，通常不需常規肋膜粘連術（pleurodesis），後者多用於反覆惡性胸水或復發性氣胸。",
-   "summary": "結核性胸水是胸膜下病灶破入後的細胞免疫反應，典型為淋巴球優勢、低 mesothelial cells，治療重點是抗結核藥而非 pleurodesis。",
+   "A": "本項應選。它的成因少講了關鍵一步：胸膜下的結核病灶**破入肋膜腔**，肋膜才對結核抗原起延遲型細胞免疫反應。只說肺部原發感染直接造成並不完整。",
+   "B": "本項不選。結核性胸水是淋巴球為主的滲出液。肋膜表面被結核性發炎覆蓋，間皮細胞（mesothelial cells）掉得很低，超過 5% 並不常見。",
+   "C": "本項不選。在淋巴球優勢的滲出性胸水裡，ADA 高值支持結核。ADA ≤ 40 U/L 會讓結核的可能性明顯下降，但判讀時仍要考慮當地盛行率與病人的免疫狀態。",
+   "D": "本項不選。結核性胸水靠的是完整的抗結核藥物療程；引流只是為了症狀或診斷。肋膜粘連術（pleurodesis）留給反覆的惡性胸水或復發性氣胸。",
+   "summary": "結核性胸水＝病灶破進肋膜後的免疫反應：淋巴球多、間皮細胞少、ADA 高，治療靠藥不靠粘連術。",
    "guideline": null,
    "concepts": []
   },
@@ -1737,11 +1737,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "氣喘（asthma）常產生呼氣期、廣泛性的 wheeze，來源是胸腔內小氣道狹窄；近距離可聞的吸氣性 stridor 則指向胸腔外上呼吸道阻塞。",
-   "B": "慢性阻塞性肺病（COPD）可有呼氣延長、呼吸音減弱與 wheeze，但不以吸氣性 stridor 為典型表現。",
-   "C": "肋膜積水（pleural effusion）會使患側呼吸音與觸覺震顫下降、叩診呈濁音，不會在頸部或近距離產生吸氣性 stridor。",
-   "D": "正確。雙側聲帶麻痺（bilateral vocal cord paralysis）若聲帶停在近中線會使聲門狹窄，產生明顯吸氣性 stridor，嚴重時可危及氣道。",
-   "summary": "吸氣性 stridor 應先定位為上呼吸道或聲門阻塞；雙側聲帶麻痺比氣喘、COPD 或胸水更符合。",
+   "A": "本項不選。氣喘的哮鳴（wheeze）出現在**呼氣期**、而且是兩側廣泛的，來源是胸腔內的小氣道。近距離就聽得到的吸氣性 stridor 指向的是胸腔外的上呼吸道。",
+   "B": "本項不選。慢性阻塞性肺病（COPD）會有呼氣延長、呼吸音變小與哮鳴，但不會以吸氣性 stridor 表現。",
+   "C": "本項不選。肋膜積水的三個徵象是患側呼吸音變小、觸覺震顫下降、叩診濁音。它不會製造 stridor。",
+   "D": "正確答案。雙側聲帶麻痺時聲帶停在接近中線的位置，聲門被夾成一條縫，吸氣時就發出明顯的 stridor。這種情況隨時可能造成氣道危機。",
+   "summary": "聽到吸氣性 stridor 先定位在聲門或上呼吸道；呼氣性哮鳴才往下呼吸道想。",
    "guideline": "FC 醫學(三)第1冊 p.286",
    "concepts": []
   },
@@ -2799,11 +2799,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "18 歲男性的心肌梗塞（myocardial infarction）基礎風險極低，且典型疼痛多為持續壓迫感，不以突發、隨深呼吸加劇的單側尖銳胸痛為主。",
-   "B": "肺栓塞（pulmonary embolism）也可造成突發胸膜性胸痛與呼吸困難，但題幹未提供深部靜脈栓塞、固定不動或高凝狀態等風險；瘦高年輕男性的體型更提示原發性自發性氣胸。",
-   "C": "正確。原發性自發性氣胸（primary spontaneous pneumothorax）典型發生於瘦高年輕男性，突然出現單側尖銳胸膜性疼痛與呼吸困難，常源於肺尖胸膜下 bleb 破裂。",
-   "D": "心包膜炎（pericarditis）可有吸氣加劇的胸痛，但通常坐起前傾減輕，常伴瀰漫性 ST elevation 或心包摩擦音；瘦高體型與突發單側症狀更符合氣胸。",
-   "summary": "瘦高年輕男性突發單側胸膜性胸痛與呼吸困難，首要想到 primary spontaneous pneumothorax。",
+   "A": "本項不選。18 歲男性得心肌梗塞的機率極低，而且典型的痛是持續的壓迫感，不會是突發、深呼吸就加劇的單側尖銳痛。",
+   "B": "本項不選。肺栓塞確實也會突然胸膜性胸痛加呼吸困難，但題目沒有給任何危險因子——沒有深部靜脈栓塞、沒有長期不動、沒有高凝狀態。反而「瘦高年輕男性」這個體型很指向氣胸。",
+   "C": "正確答案。原發性自發性氣胸就是好發在瘦高年輕男性（這位 182 公分、58 公斤），典型是突然單側尖銳的胸膜性疼痛加上喘不上來。破的多半是肺尖胸膜下的小氣泡（bleb）。",
+   "D": "本項不選。心包膜炎的痛雖然也會因吸氣加劇，但**坐起來前傾會減輕**，而且常伴瀰漫性 ST 上升或心包摩擦音。這題的體型與單側突發症狀更像氣胸。",
+   "summary": "瘦高年輕男性突發單側胸膜性胸痛＋喘＝原發性自發性氣胸，先照胸部 X 光。",
    "guideline": null,
    "concepts": []
   },
@@ -13516,11 +13516,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "篩檢肺功能（screening spirometry）的 FEV1、FVC 與 FEV1/FVC 能確認阻塞型通氣障礙，但無法量到肺總量與殘氣量，不能完整評估 X 光疑似肺過度充氣或肺氣腫。",
-   "B": "正確。標準肺功能除 spirometry 外納入肺容積，可同時確認氣流阻塞及 air trapping/hyperinflation；對重度吸菸、活動性呼吸困難且 X 光雙肺過度透亮者最能完整描述生理異常。",
-   "C": "一氧化碳肺瀰散量（DLco）可協助判斷肺氣腫造成的交換面積流失，但單獨做 DLco 無法確立氣流阻塞或量化肺容積，不能取代完整肺功能。",
-   "D": "支氣管激發試驗（bronchoprovocation test）用於懷疑氣喘但基礎 spirometry 正常或診斷不明時；本例長期吸菸與影像過度充氣更應先評估 COPD。",
-   "summary": "疑似 COPD 合併影像過度充氣時，完整肺功能含 spirometry 與 lung volumes 比單做篩檢、DLco 或激發試驗更適當。",
+   "A": "本項不選。篩檢型的 FEV1、FVC、FEV1/FVC 只確認得了有沒有阻塞，量不到肺總量與殘氣量。X 光已經顯示雙肺過度透亮，光靠這組數字說明不了肺過度充氣。",
+   "B": "正確答案。標準肺功能在 spirometry 之外加上**肺容積**，可以同時確認氣流阻塞與空氣滯留／過度充氣。對這位抽了 40 年菸、爬坡就喘、X 光又黑的病人，這組檢查描述得最完整。",
+   "C": "本項不選。一氧化碳瀰散量（DLco）能反映肺氣腫造成的交換面積流失，但單做它既確立不了氣流阻塞，也量不到肺容積。它是補充，不是取代。",
+   "D": "本項不選。支氣管激發試驗是用在懷疑氣喘、但基礎肺功能正常的人身上。這位長期吸菸加上影像過度充氣，該先評估的是 COPD。",
+   "summary": "抽菸史＋爬坡喘＋X 光雙肺過黑＝先做含肺容積的完整肺功能，一次看阻塞與過度充氣。",
    "guideline": "FC 醫學(三)第1冊 p.294",
    "concepts": []
   },
@@ -13555,11 +13555,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "Kartagener syndrome 的纖毛運動障礙會妨礙黏液清除，造成反覆感染與廣泛性支氣管擴張症（diffuse bronchiectasis）。",
-   "B": "游離肺（pulmonary sequestration）是局部先天肺組織異常，較會造成局限、反覆感染，不是廣泛性支氣管擴張症的常見病因。",
-   "C": "反覆吸入性肺炎可在多個依賴部位造成慢性發炎及氣道破壞，因而形成廣泛性支氣管擴張症。",
-   "D": "免疫球蛋白缺乏症（hypogammaglobulinemia）造成反覆下呼吸道感染，是廣泛性支氣管擴張症的重要可治療病因。",
-   "summary": "廣泛性支氣管擴張症常源自全身性清除或免疫問題；pulmonary sequestration 通常只造成局部病變。",
+   "A": "本項不選。Kartagener syndrome 的纖毛動不了，黏液清不掉，反覆感染就造成**廣泛性**支氣管擴張症。",
+   "B": "本項應選。游離肺（pulmonary sequestration）是一塊先天異常的肺組織，造成的是**局限**在那一區的反覆感染，不會擴散成廣泛性支氣管擴張症。",
+   "C": "本項不選。反覆吸入性肺炎會在多個重力依賴部位造成慢性發炎與氣道破壞，範圍是廣泛的。",
+   "D": "本項不選。免疫球蛋白缺乏症（hypogammaglobulinemia）造成反覆下呼吸道感染，是廣泛性支氣管擴張症裡**可以治療**的重要病因，值得主動找出來。",
+   "summary": "廣泛性支氣管擴張症的病因都是全身性的（纖毛、免疫、反覆吸入）；只有一塊病灶的先天異常造不出廣泛病變。",
    "guideline": "FC 醫學(三)第1冊 p.374",
    "concepts": []
   },
@@ -13589,11 +13589,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "類肉瘤病（sarcoidosis）的肉芽腫形成涉及 CD4 T cells 與 macrophages 活化，屬細胞免疫反應。",
-   "B": "血清 ACE 在活動性 sarcoidosis 可升高，但敏感度與專一性不足，僅能作輔助指標。",
-   "C": "雙側肺門淋巴結腫大及非乾酪性肉芽腫（noncaseating granuloma）是 sarcoidosis 的典型組合，仍須排除感染等原因。",
-   "D": "Sarcoidosis 的肺泡灌洗液常有 lymphocytosis 且 CD4/CD8 ratio 上升，不是下降，因此此項錯誤。",
-   "summary": "Sarcoidosis 以 T-cell/macrophage 介導的 noncaseating granuloma 為核心，BAL 常呈 CD4 優勢。",
+   "A": "本項不選。類肉瘤病（sarcoidosis）的肉芽腫是 CD4 T 細胞與巨噬細胞活化的產物，屬於細胞免疫反應。",
+   "B": "本項不選。活動期的血清 angiotensin-converting enzyme（ACE）確實可能升高，但敏感度與專一性都不夠，只能當輔助指標，不能拿來確診或追療效。",
+   "C": "本項不選。雙側肺門淋巴結腫大配上非乾酪性肉芽腫（noncaseating granuloma），是 sarcoidosis 的典型組合。不過診斷前仍要先排除結核等感染。",
+   "D": "本項應選。方向剛好相反：sarcoidosis 的肺泡灌洗（bronchoalveolar lavage, BAL）液是淋巴球增加、**CD4/CD8 比值上升**，不是下降。這個 CD4 優勢正是它的免疫特徵。",
+   "summary": "sarcoidosis 是 CD4 主導的病：肉芽腫非乾酪性、灌洗液 CD4/CD8 比值往上，不是往下。",
    "guideline": null,
    "concepts": []
   },
@@ -13623,11 +13623,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "H3N2 是 A 型流感病毒的 hemagglutinin/neuraminidase 亞型，不是 B 型；A 型可藉 antigenic shift 引發大流行。",
-   "B": "Oseltamivir 抑制 neuraminidase，可治療 influenza A/B；adamantanes 僅針對 influenza A 且抗藥性高，已不建議常規使用。",
-   "C": "流感疫苗依預測流行株每年更新，需每年接種以降低感染與重症風險。",
-   "D": "肺炎是流感最重要的嚴重併發症，可為原發病毒性或續發細菌性肺炎。",
-   "summary": "H3N2 屬 influenza A；疫苗須每年接種，肺炎是其關鍵重症併發症。",
+   "A": "本項應選。H3N2 的 H 與 N 指的是 hemagglutinin 與 neuraminidase 亞型，這是 **A 型**流感的分類方式，不是 B 型。會造成全球大流行的抗原大變異（antigenic shift）也只發生在 A 型。",
+   "B": "本項不選。oseltamivir 抑制 neuraminidase，A 型與 B 型都能治。adamantanes 只對 A 型有效而且抗藥性很高，已經不建議常規使用。",
+   "C": "本項不選。流感疫苗每年依預測的流行株更新配方，所以要每年接種才能降低感染與重症風險。",
+   "D": "本項不選。肺炎確實是流感最重要的嚴重併發症，可能是病毒本身造成的原發性肺炎，也可能是後續的細菌性肺炎。",
+   "summary": "看到 HxNy 就是 A 型流感；A 型才會抗原大變異、才會大流行。",
    "guideline": null,
    "concepts": []
   },
@@ -13662,11 +13662,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "肺栓塞可有發燒與胸痛，但呼吸音下降、tactile fremitus 下降及濁音共同定位為胸水，比肺栓塞更符合。",
-   "B": "病毒感染不能單獨解釋局部胸水理學徵象；高燒、咳嗽合併胸水須先考慮細菌性肺炎併 parapneumonic effusion。",
-   "C": "孕齡女性並非胸部 X 光禁忌；必要影像可在適當防護下進行，不能因可能懷孕而延誤胸水評估。",
-   "D": "胸腔穿刺術（thoracentesis）可區分 uncomplicated 與 complicated parapneumonic effusion，並判斷是否須引流。",
-   "summary": "肺炎合併呼吸音與 fremitus 下降、叩診濁音提示胸水，應考慮 thoracentesis。",
+   "A": "本項不選。肺栓塞也會發燒與胸痛，但呼吸音減弱、觸覺震顫（tactile fremitus）下降、叩診濁音這三個徵象合在一起指的是**胸水**，不是血管阻塞。",
+   "B": "本項不選。單純病毒感染解釋不了局部的胸水徵象。高燒、咳嗽再加上胸水，要先想細菌性肺炎合併肺炎旁積液（parapneumonic effusion）。",
+   "C": "本項不選。可能懷孕不是胸部 X 光的禁忌。必要的影像可以在適當防護下進行，不該因此延誤胸水的評估。",
+   "D": "正確答案。要決定治療方向就得抽胸水：胸腔穿刺術（thoracentesis）能分辨單純型與複雜型肺炎旁積液，也才知道要不要放引流管。",
+   "summary": "呼吸音小＋觸覺震顫低＋叩診濁音＝胸水；肺炎旁積液要靠 thoracentesis 決定要不要引流。",
    "guideline": "FC 醫學(三)第1冊 p.286",
    "concepts": []
   },
@@ -13701,11 +13701,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "原發性肺纖維化（idiopathic pulmonary fibrosis, IPF）是成人最常見的特發性間質性肺炎之一。",
-   "B": "IPF 的病理與影像型態是 usual interstitial pneumonia，不是 nonspecific interstitial pneumonia，因此此項錯誤。",
-   "C": "IPF 的高解析度電腦斷層典型呈 basal、subpleural reticulation 與 honeycombing。",
-   "D": "IPF 對類固醇治療反應差，現行治療以 pirfenidone 或 nintedanib 延緩肺功能下降。",
-   "summary": "IPF 對應 UIP 型態與 honeycombing，而非 NSIP，也不以類固醇治療。",
+   "A": "本項不選。原發性肺纖維化（idiopathic pulmonary fibrosis, IPF）確實是成人特發性間質性肺炎裡最常見的一種。",
+   "B": "本項應選。病理型態配錯了：IPF 對應的是 usual interstitial pneumonia（UIP），不是 nonspecific interstitial pneumonia（NSIP）。這兩型的預後與治療都不一樣，不能混。",
+   "C": "本項不選。IPF 的高解析度電腦斷層典型是下肺、靠胸膜側的網狀陰影加上蜂窩狀變化（honeycombing）。",
+   "D": "本項不選。IPF 對類固醇反應不好，現在的治療是用 pirfenidone 或 nintedanib 這類抗纖維化藥延緩肺功能下降。",
+   "summary": "IPF＝UIP 型態＋蜂窩狀變化；它不吃類固醇，靠的是抗纖維化藥。",
    "guideline": "FC 醫學(三)第1冊 p.353",
    "concepts": []
   },
@@ -14319,11 +14319,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "氣喘的氣道變異常在夜間至清晨較明顯，因此清晨咳嗽符合 cough-variant asthma 的時間型態。",
-   "B": "胸悶或喘鳴聲是氣喘可逆性氣道收縮的常見伴隨症狀，即使 cough 是主要主訴亦可出現。",
-   "C": "進食後咳嗽較提示胃食道逆流或吞嚥吸入，並非此反覆受感冒、秋冬與過敏背景誘發之氣喘最可能症狀。",
-   "D": "過敏原暴露與運動均可誘發氣喘性 bronchoconstriction，因而出現咳嗽。",
-   "summary": "反覆秋冬或感冒後久咳合併 atopy 提示氣喘；進食後咳嗽則較支持 reflux/aspiration。",
+   "A": "本項不選。氣喘的氣道變異在**夜間到清晨**最明顯，所以清晨咳嗽完全符合咳嗽變異型氣喘（cough-variant asthma）的時間型態。",
+   "B": "本項不選。胸悶與喘鳴來自可逆的氣道收縮。就算病人主訴只有咳嗽，這兩樣仍然常一起出現。",
+   "C": "本項應選。進食後才咳，指的是胃食道逆流或吞嚥時嗆到。這位病人的線索是皮膚過敏體質、感冒後久咳、又好發於秋冬——整組指向氣喘，進食後咳嗽反而最不像。",
+   "D": "本項不選。接觸過敏原與運動都是氣喘的典型誘發因子，會引起支氣管收縮而咳嗽。",
+   "summary": "咳嗽問時機：清晨、運動、碰過敏原＝氣喘；**吃完飯才咳**＝往逆流或吸入想。",
    "guideline": null,
    "concepts": []
   },
@@ -14358,11 +14358,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "FEV1 僅增加 50 mL 且 3% 是微小變化，未達本題採用的顯著 bronchodilator response。",
-   "B": "FEV1 增加 100 mL 且 7% 仍不足以支持題目所問的可逆性氣流受限。",
-   "C": "FEV1 增加 150 mL 且 10% 未達本題使用的 200 mL 與 12% 雙重門檻。",
-   "D": "FEV1 增加至少 200 mL 且超過 12% 符合本題年代的陽性支氣管擴張試驗（bronchodilator test），支持氣喘。",
-   "summary": "舊版陽性 bronchodilator response 以 FEV1 增加逾 12% 且至少 200 mL 判定。",
+   "A": "本項不選。FEV1 只增加 50 mL、幅度 >3%，這種變化太小，落在檢查本身的誤差範圍內，達不到陽性標準。",
+   "B": "本項不選。增加 100 mL 且 >7% 仍然不夠。兩個條件都要同時達標，這組只到一半。",
+   "C": "本項不選。增加 150 mL 且 >10% 已經很接近，但兩項都還沒跨過 200 mL 與 12% 這條線。",
+   "D": "正確答案。陽性的支氣管擴張試驗要**兩個條件同時滿足**：FEV1 增加至少 200 mL，而且幅度超過 12%。這代表氣流受限是可逆的，支持氣喘。",
+   "summary": "支氣管擴張試驗陽性＝200 mL 加 12%，兩個門檻缺一不可。",
    "guideline": "FC 醫學(三)第1冊 p.325",
    "concepts": [
     "bronchodilator-response-legacy"
@@ -24480,11 +24480,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "胸部 X 光可辨識肺水腫、肺氣腫、肋膜積液或肺實質病變，是漸進性呼吸困難的基本鑑別工具。",
-   "B": "身體診察可由 crackles、wheeze、心雜音、頸靜脈壓及水腫區分心肺與全身性病因。",
-   "C": "24 小時心電圖（Holter monitoring）主要偵測間歇性心律不整；題幹僅有漸進性運動氣促時，其初步鑑別價值最小。",
-   "D": "心臟超音波可評估收縮舒張功能、瓣膜病與肺動脈壓，對老年人運動性呼吸困難有直接幫助。",
-   "summary": "漸進性運動氣促先靠理學檢查、胸片與 echocardiography；無心悸或暈厥時 Holter 的初步價值較低。",
+   "A": "本項不選。胸部 X 光看得到肺水腫、肺氣腫、肋膜積水與肺實質病變，是喘的第一線鑑別工具。",
+   "B": "本項不選。理學檢查靠囉音、哮鳴、心雜音、頸靜脈壓與水腫，就能先把心因性與肺因性分開，成本又最低。",
+   "C": "本項應選。24 小時心電圖（Holter monitoring）抓的是**陣發性心律不整**。這位病人主訴是漸進性的運動性氣促，沒有提到心悸或暈厥，這項檢查的初步鑑別價值最小。",
+   "D": "本項不選。心臟超音波能評估收縮與舒張功能、瓣膜病與肺動脈壓，對老年人的運動性呼吸困難幫助很直接。",
+   "summary": "喘的第一輪是理學檢查、胸部 X 光、心臟超音波；沒有心悸或暈厥就先不必上 Holter。",
    "guideline": null,
    "concepts": []
   },
@@ -25406,11 +25406,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "上腔靜脈症候群（superior vena cava syndrome）常表示中央腫瘤侵犯重要縱膈構造，通常不適合治癒性切除。",
-   "B": "同側肺門淋巴結轉移屬 N1 disease，在可完整切除且生理狀態合宜時仍可能接受根治手術。",
-   "C": "穩定性心絞痛須做 perioperative cardiac assessment，但並非一概禁止肺癌切除。",
-   "D": "FEV1 大於 1 L 本身不是手術禁忌；肺切除可行性應以 predicted postoperative lung function 與整體風險評估。",
-   "summary": "無遠端轉移 NSCLC 是否可切除取決於局部侵犯與心肺儲備；SVC syndrome 通常代表不可切除的中央侵犯。",
+   "A": "正確答案。上腔靜脈症候群（superior vena cava, SVC syndrome）代表腫瘤已經侵犯縱膈的重要構造，切不乾淨，所以是治癒性切除的禁忌。",
+   "B": "本項不選。同側肺門淋巴結轉移屬於 N1 期。非小細胞肺癌（NSCLC）只要切得乾淨、心肺功能撐得住，仍然可以接受根治性手術。",
+   "C": "本項不選。穩定性心絞痛要做術前心臟評估與風險控制，但它不是一概不能開刀的禁忌。",
+   "D": "本項不選。FEV1 大於 1 公升本身不是禁忌。真正要算的是**預估術後**的肺功能，再結合整體風險評估。",
+   "summary": "肺癌能不能開，看的是局部侵犯範圍與心肺儲備；侵犯到縱膈大血管才是真禁忌。",
    "guideline": null,
    "concepts": []
   },
@@ -25625,11 +25625,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "CCL17/CCL22 招募的是 Th2 cells；IL-5 亦主要由 Th2 而非 Th1 產生，因此 A 把細胞亞型寫反。",
-   "B": "病毒可使上皮釋出 IL-25、IL-33 等 alarmins，活化 ILC2 產生 IL-5，進而募集 eosinophils，敘述正確。",
-   "C": "呼出氣一氧化氮（FeNO）較反映 IL-4/IL-13 驅動的 type 2 airway inflammation，不能簡化成與 dendritic cells、lymphocytes 數量直接正相關。",
-   "D": "IL-10 主要具有抗發炎與免疫調節作用，IL-12 偏向 Th1 反應；不能將兩者均列為隨氣喘嚴重度上升的 proinflammatory mediators。",
-   "summary": "氣喘 type 2 inflammation 可由 epithelial alarmins 活化 ILC2，再以 IL-5 招募 eosinophils。",
+   "A": "本項敘述錯誤。細胞亞型寫反了：CCL17 與 CCL22 招募的是 Th2 細胞，IL-5 也主要由 Th2 產生，不是 Th1。",
+   "B": "正確答案。這條是氣喘的先天免疫路線：病毒讓上皮細胞放出 IL-25 與 IL-33 這類警訊素（alarmins），活化 ILC2 分泌 IL-5，IL-5 再把嗜酸性球招進呼吸道。",
+   "C": "本項敘述錯誤。呼出氣一氧化氮（FeNO）反映的是 IL-4／IL-13 驅動的第二型氣道發炎，不能簡化成跟樹突細胞或淋巴球的數量成正比。",
+   "D": "本項敘述錯誤。IL-10 是抗發炎、做免疫調節的，IL-12 偏向 Th1 反應。把這兩個都說成隨氣喘嚴重度上升的促發炎介質並不正確。",
+   "summary": "氣喘第二型發炎有兩條上游：過敏原走 Th2，病毒走上皮 alarmins→ILC2；兩條最後都用 IL-5 招嗜酸性球。",
    "guideline": "FC 醫學(三)第1冊 p.324",
    "concepts": []
   },
@@ -25664,11 +25664,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "Methacholine provocation test 適用於基礎 spirometry 正常但仍高度懷疑氣喘者；本例已有 wheeze，可先做較直接的可逆性測試。",
-   "B": "支氣管擴張試驗（bronchodilator test）以吸入前後 spirometry 證明可逆性氣流受限，是此有典型症狀及 wheeze 病人的首選。",
-   "C": "Allergen test 可找過敏致敏來源，卻不能證明症狀來自可變性 expiratory airflow limitation。",
-   "D": "FeNO 可支持 type 2 airway inflammation 與預測 ICS 反應，但不能單獨確診氣喘。",
-   "summary": "有典型氣喘症狀與 wheeze 時，先用 bronchodilator test 客觀證明氣流受限的可逆性。",
+   "A": "本項不選。methacholine 激發試驗是留給「基礎肺功能正常、卻還是很懷疑氣喘」的人。這位病人聽診已經有哮鳴，不必先繞這一圈。",
+   "B": "正確答案。她症狀典型又聽得到哮鳴，代表當下就有氣流受限。用支氣管擴張試驗比較吸藥前後的 spirometry，直接證明這個受限是**可逆的**，診斷就成立。",
+   "C": "本項不選。過敏原檢測找得出致敏來源，但證明不了症狀來自可變性的呼氣氣流受限，不能拿來確診氣喘。",
+   "D": "本項不選。呼出氣一氧化氮（FeNO）支持第二型（type 2）氣道發炎、也能預測吸入型類固醇（ICS）的反應，但單靠它不能確診。",
+   "summary": "有症狀又聽得到哮鳴時，先做支氣管擴張試驗證明可逆性；基礎肺功能正常才輪到激發試驗。",
    "guideline": "FC 醫學(三)第1冊 p.324",
    "concepts": []
   },
@@ -25698,11 +25698,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "心衰竭通常造成雙側 crackles 或較廣泛的 wheeze，單一音調的局部 monophonic wheeze 並不典型。",
-   "B": "肺癌造成局部大氣道固定狹窄時，氣流經同一阻塞處會形成 monophonic wheeze；老年人新發持續局部 wheeze 應排除腫瘤。",
-   "C": "肺纖維化症典型聽診是雙下肺 fine inspiratory crackles，不是單頻 wheeze。",
-   "D": "肺炎常出現局部 crackles、bronchial breath sounds 或 egophony；慢性三個月的 monophonic wheeze 較不支持。",
-   "summary": "Monophonic wheeze 指向單一大氣道固定阻塞，須優先排除 bronchogenic carcinoma。",
+   "A": "本項不選。心衰竭聽到的是兩側囉音，或是範圍比較廣的哮鳴。**單一音調、固定在某一處**的哮鳴不是它的表現。",
+   "B": "正確答案。單頻喘鳴（monophonic wheeze）代表氣流通過**同一個**固定狹窄的大氣道。62 歲男性慢性咳嗽又出現局部固定的哮鳴，第一個要排除的就是肺癌。",
+   "C": "本項不選。肺纖維化的典型聽診是兩側下肺的吸氣期細囉音（fine crackles），不是單頻哮鳴。",
+   "D": "本項不選。肺炎常見局部囉音、支氣管呼吸音或羊鳴音，而且是急性病程。拖了三個月的單頻哮鳴不像肺炎。",
+   "summary": "哮鳴的音調數就是狹窄處的數目：多音調＝廣泛小氣道，單音調＝一處大氣道被塞住，先想腫瘤。",
    "guideline": null,
    "concepts": []
   },
@@ -25737,11 +25737,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "胸廓畸形可使 TLC 降低，但肺實質與 alveolar-capillary membrane 正常時 DLco 通常相對保留。",
-   "B": "右側氣胸會造成急性症狀與影像異常，不能以對稱的限制型數據加低 DLco 作最佳解釋。",
-   "C": "間質性肺病造成 TLC 下降、FEV1/FVC 正常或偏高及 DLco 降低，與本組肺功能完全吻合。",
-   "D": "肺氣腫以阻塞型變化為主，通常 FEV1/FVC 降低且 TLC 正常或增加，不符合此限制型結果。",
-   "summary": "限制型肺容積下降合併低 DLco 指向肺實質性限制，如 interstitial lung disease。",
+   "A": "本項不選。胸廓畸形確實會壓低 TLC，但肺實質與肺泡微血管膜是好的，DLco 通常保留得住。這題 DLco 只有 55%，解釋不了。",
+   "B": "本項不選。氣胸是急性事件，會有明顯症狀與影像異常。用它來解釋這組對稱的限制型數據加上低 DLco 並不合適。",
+   "C": "正確答案。三個數字連起來看就成立：TLC 70%（肺容積變小）、FEV1/FVC 78%（沒有阻塞）、DLco 55%（交換能力下降）——這正是間質性肺病的典型組合。",
+   "D": "本項不選。肺氣腫是阻塞型的：FEV1/FVC 會下降、TLC 正常或上升。這題比值 78% 不低、TLC 又只有 70%，方向完全相反。",
+   "summary": "肺功能三步走：先看 FEV1/FVC 分阻塞或限制，再看 TLC 定容積，最後用 DLco 判斷是不是肺實質出問題。",
    "guideline": "FC 醫學(三)第1冊 p.294",
    "concepts": []
   },
@@ -25847,11 +25847,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "血壓 60/40 mmHg 代表嚴重 hemodynamic instability，非侵襲性正壓通氣（NIV）可能進一步降低 venous return，應改採確保氣道的處置。",
-   "B": "昏迷指數 3 分表示無法保護氣道與配合面罩，是 NIV 禁忌。",
-   "C": "每 20 分鐘需抽痰表示分泌物過多且清除能力差，NIV 面罩會妨礙有效吸痰，屬禁忌。",
-   "D": "PaCO2 70 mmHg 本身不是 NIV 禁忌；若病人清醒、穩定且能保護氣道，COPD 急性高碳酸血症正是 NIV 的重要適應症。",
-   "summary": "NIV 禁忌取決於休克、無法保護氣道或清痰，而非單看 PaCO2 高低。",
+   "A": "本項不選。血壓 60/40 mmHg 是嚴重的血行動力學不穩。正壓通氣會再減少靜脈回流，把血壓壓得更低，屬於禁忌。",
+   "B": "本項不選。昏迷指數 3 分代表病人既無法保護氣道、也無法配合面罩，這是非侵襲性正壓通氣（NIV）的典型禁忌。",
+   "C": "本項不選。每 20 分鐘就要抽一次痰，代表分泌物多又清不掉。面罩會擋住有效抽痰，這種情況該走插管。",
+   "D": "本項應選。PaCO2 70 mmHg 本身**不是**禁忌，反而是適應症：只要病人清醒、穩定、能保護氣道，COPD 急性高碳酸血症正是 NIV 最該用的場合。",
+   "summary": "NIV 能不能用，看休克、意識與痰量，不是看 PaCO2 有多高——CO2 高本來就是它的主場。",
    "guideline": "FC 醫學(三)第1冊 p.448",
    "concepts": []
   },
@@ -37055,11 +37055,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "Sarcoidosis 主要是 T-cell/macrophage 介導的肉芽腫反應，不是 B-cell antibody-dependent cytotoxicity。",
-   "B": "Sarcoidosis 最常侵犯肺與胸內淋巴結；皮膚侵犯遠低於 95%，此比例敘述顛倒。",
-   "C": "非乾酪性肉芽腫（noncaseating granuloma）是 sarcoidosis 的典型病理，但診斷時仍須排除結核、黴菌等原因。",
-   "D": "Hypercalcemia/hypercalciuria 並非超過 90% 病人皆有；ACE 升高源自 granuloma cells，而非腎絲球侵犯。",
-   "summary": "Sarcoidosis 的核心是肺門淋巴結／肺侵犯與 noncaseating granuloma。",
+   "A": "本項敘述錯誤。類肉瘤病（sarcoidosis）走的是 T 細胞與巨噬細胞介導的肉芽腫反應，不是 B 細胞產生自體抗體再做細胞毒殺。",
+   "B": "本項敘述錯誤。比例整個反過來了：sarcoidosis 最常侵犯的是**肺與胸內淋巴結**，皮膚侵犯遠遠不到 95%。",
+   "C": "正確答案。淋巴結切片看到非乾酪性肉芽腫（noncaseating granuloma），就是 sarcoidosis 的典型病理。不過診斷前仍要排除結核與黴菌感染。",
+   "D": "本項敘述錯誤。高血鈣或高尿鈣沒有多到 90% 的病人都有。而且血中 angiotensin-converting enzyme 上升來自肉芽腫本身的細胞，不是腎絲球被侵犯造成的。",
+   "summary": "sarcoidosis 的主戰場在肺與肺門淋巴結，招牌是非乾酪性肉芽腫；ACE 來自肉芽腫，不是來自腎臟。",
    "guideline": "FC 醫學(三)第1冊 p.352",
    "concepts": []
   },
@@ -37094,11 +37094,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "糖尿病（diabetes mellitus）可造成 cheiroarthropathy，但不是 hypertrophic osteoarthropathy 合併 clubbing 的典型原因。",
-   "B": "血色素沉著症（hemochromatosis）可致 MCP arthropathy，卻不典型造成 clubbing 與 periostosis。",
-   "C": "肢端肥大症（acromegaly）造成骨與軟組織增生，但不等同 hypertrophic pulmonary osteoarthropathy。",
-   "D": "支氣管肺癌（bronchogenic carcinoma），尤其非小細胞肺癌，是 clubbing 與 hypertrophic osteoarthropathy 的重要關聯疾病。",
-   "summary": "老年人 clubbing 合併 hypertrophic osteoarthropathy 應優先搜尋 bronchogenic carcinoma。",
+   "A": "本項不選。糖尿病會造成手部關節僵硬（cheiroarthropathy），但不會造成杵狀指加上肥厚性骨關節病變這組合。",
+   "B": "本項不選。血色素沉著症的典型是掌指關節（MCP）的關節病變，不會表現成杵狀指與骨膜增生。",
+   "C": "本項不選。肢端肥大症造成的是骨頭與軟組織全面增生，那和這裡的肥厚性肺性骨關節病變不是同一回事。",
+   "D": "正確答案。杵狀指加上肥厚性骨關節病變是典型的副腫瘤表現，最該找的就是支氣管肺癌，尤其是非小細胞肺癌。72 歲男性出現這組合，先安排胸部影像。",
+   "summary": "杵狀指＋肥厚性骨關節病變＝先照胸部找肺癌，這是很經典的副腫瘤線索。",
    "guideline": "FC 醫學(三)第1冊 p.460",
    "concepts": []
   },
@@ -37583,11 +37583,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "懷孕時未控制氣喘對母胎皆有風險，吸入型類固醇可使用，budesonide 的懷孕安全資料尤其充足。",
-   "B": "Aspirin-sensitive asthma 仍有 type 2 airway inflammation，吸入型類固醇是控制治療的重要部分，並非無效。",
-   "C": "氣喘若已良好控制，術前持續控制藥並妥善評估後，全身麻醉與插管並非禁忌。",
-   "D": "過敏性支氣管肺麴菌症（ABPA）常以 systemic corticosteroid 控制免疫性肺炎，口服類固醇不是禁忌。",
-   "summary": "良好控制的氣喘可接受麻醉；懷孕、AERD 與 ABPA 也不能被誤解為類固醇禁忌。",
+   "A": "本項敘述錯誤。懷孕時氣喘沒控制好，對母親與胎兒的風險更大。吸入型類固醇可以用，其中 budesonide 的懷孕安全資料最充足。",
+   "B": "本項敘述錯誤。阿斯匹靈敏感型氣喘（aspirin-exacerbated respiratory disease, AERD）一樣有第二型（type 2）氣道發炎，吸入型類固醇仍是控制治療的重要一環，不是沒效。",
+   "C": "正確答案。氣喘控制良好時，全身麻醉與插管**不是禁忌**。做法是術前繼續用控制藥、做好評估，手術照樣可以進行。",
+   "D": "本項敘述錯誤。過敏性支氣管肺麴菌症（ABPA）反而要靠全身性類固醇壓下免疫反應，口服類固醇是治療不是禁忌。",
+   "summary": "這題四個選項有三個把類固醇說成禁忌——懷孕、阿斯匹靈敏感型、ABPA 其實都該用。",
    "guideline": null,
    "concepts": []
   },
@@ -37622,11 +37622,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "胸部 CT 可描繪 eosinophilic lung disease 的分布，但影像無法直接證明肺泡內 eosinophilia。",
-   "B": "ANCA 可協助評估 eosinophilic granulomatosis with polyangiitis，但本例用 NSAID 後急性肺浸潤與周邊 eosinophilia 更需直接取樣肺泡。",
-   "C": "Serum anti-IgE 不是藥物誘發 eosinophilic pneumonia 的確診檢驗。",
-   "D": "肺泡灌洗術（BAL）可直接顯示肺泡 eosinophil 顯著增加，最能確認 eosinophilic pneumonia 並排除感染。",
-   "summary": "藥物後急性肺浸潤合併周邊 eosinophilia，BAL eosinophilia 最能確認肺泡層級病變。",
+   "A": "本項不選。胸部電腦斷層（CT）畫得出嗜酸性球肺病的分布型態，但影像看不到肺泡裡到底是什麼細胞，證明不了診斷。",
+   "B": "本項不選。ANCA 是評估嗜酸性肉芽腫性多血管炎用的。這位病人吃 NSAID 之後急性肺浸潤加上周邊嗜酸性球 25%，更該直接取肺泡的檢體。",
+   "C": "本項不選。血中 anti-IgE 不是藥物引起嗜酸性球肺炎的確診工具。",
+   "D": "正確答案。肺泡灌洗術（bronchoalveolar lavage, BAL）能直接證明肺泡腔裡嗜酸性球大量增加，同時把感染排除掉。周邊血白血球 14,200/mm³、嗜酸性球 25%、C-reactive protein 只有 0.9 mg/dL——不像細菌感染，最該做的就是 BAL。",
+   "summary": "周邊嗜酸性球高＋發炎指數不高＋剛吃過藥＝想藥物性嗜酸性球肺炎，靠 BAL 直接看肺泡裡的細胞。",
    "guideline": "FC 醫學(三)第1冊 p.352",
    "concepts": []
   },
@@ -37661,11 +37661,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "胸部 X 光能提示雙側間質浸潤與肺容積下降，但不足以可靠辨識 UIP pattern。",
-   "B": "高解析度電腦斷層可顯示 basal/subpleural reticulation、traction bronchiectasis 與 honeycombing，是診斷 IPF 最關鍵的影像檢查。",
-   "C": "動脈血液氣體分析可量低血氧，卻不能判定纖維化型態或病因。",
-   "D": "肺功能檢查顯示 restriction 與低 DLco，可量化嚴重度和追蹤，但不能單獨確診 IPF。",
-   "summary": "IPF 的診斷核心是 HRCT 辨識 UIP pattern，肺功能與 ABG 主要用於生理評估。",
+   "A": "本項不選。胸部 X 光看得出兩側間質浸潤與肺容積變小，但解析度不足以可靠辨認 usual interstitial pneumonia（UIP）的型態。",
+   "B": "正確答案。高解析度電腦斷層能看出下肺、靠胸膜側的網狀陰影、牽引性支氣管擴張與蜂窩狀變化。認出這個 UIP 型態，就是診斷特發性肺纖維化（IPF）的關鍵。",
+   "C": "本項不選。動脈血液氣體分析（ABG）量得到低血氧的程度，但說不出纖維化的型態，也找不出病因。",
+   "D": "本項不選。肺功能會顯示限制型變化與低 DLco，很適合量嚴重度與追蹤病程，但單獨不能確診 IPF。",
+   "summary": "IPF 的診斷靠影像認型態（HRCT 的 UIP pattern）；肺功能與血氧是拿來量嚴重度的。",
    "guideline": "FC 醫學(三)第1冊 p.353",
    "concepts": []
   },
@@ -37700,11 +37700,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "氣管內管 cuff 不能完全阻止聲門下分泌物沿 cuff 周圍微吸入，因此插管仍是 VAP 風險。",
-   "B": "預防呼吸器相關肺炎應將床頭抬高約 30–45 度；15 度不足以有效降低 aspiration。",
-   "C": "長期預防性抗生素會選擇抗藥菌且無法可靠預防 VAP，不應常規使用。",
-   "D": "心因性肺水腫若適用 NIV，可避免插管及其相關微吸入與 biofilm，因而降低 VAP。",
-   "summary": "避免不必要插管與採半坐臥是 VAP 預防核心；cuff 與預防性抗生素不能消除風險。",
+   "A": "本項敘述錯誤。氣管內管的氣囊擋不住聲門下分泌物沿著氣囊周圍慢慢滲下去。插了管仍然會微量吸入，這正是呼吸器相關肺炎（ventilator-associated pneumonia, VAP）的主要來源。",
+   "B": "本項敘述錯誤。角度不夠：預防呼吸器相關肺炎要把床頭抬到 30–45 度，15 度降不了多少吸入風險。",
+   "C": "本項敘述錯誤。長期給預防性抗生素會養出抗藥菌，又無法可靠地預防肺炎，不該常規使用。",
+   "D": "正確答案。心因性肺水腫如果適合用非侵襲性正壓通氣（NIV），就能避開插管，也就避開了管路帶來的微量吸入與生物膜，呼吸器相關肺炎自然變少。",
+   "summary": "預防呼吸器相關肺炎兩招最有效：能不插管就不插管，插了就把床頭抬到 30–45 度。",
    "guideline": "FC 醫學(三)第1冊 p.367",
    "concepts": []
   },
@@ -47844,11 +47844,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "心因性休克常見頸靜脈壓升高、肺鬱血及心臟缺血證據；本例頸靜脈低陷、肺野清晰不支持。",
-   "B": "嚴重性過敏反應（anaphylaxis）應有急性過敏暴露、皮膚黏膜或呼吸道表現，不能解釋數日脫水與高鈉。",
-   "C": "皮膚乾癟、眼眶深陷、低頸靜脈壓、高鈉及 prerenal BUN/creatinine pattern 共同支持嚴重脫水造成低血容積性休克。",
-   "D": "心包膜填塞通常有頸靜脈壓升高與 obstructive shock；低陷的頸靜脈排斥此診斷。",
-   "summary": "低血壓合併明顯脫水、高鈉、低 JVP 與清晰肺野，是 hypovolemic shock。",
+   "A": "本項不選。心因性休克會有頸靜脈壓**上升**、肺鬱血與心肌缺血的證據。這位病人頸靜脈壓（JVP）低陷、胸部 X 光肺野清晰，方向完全相反。",
+   "B": "本項不選。嚴重過敏反應要有急性過敏原暴露，加上皮膚黏膜或呼吸道症狀。它解釋不了「多日未外出」造成的脫水與 Na+ 155 mEq/L。",
+   "C": "正確答案。五個線索指向同一件事：皮膚乾癟、眼眶深陷、頸靜脈低陷、Na+ 155 mEq/L，加上 BUN 45 與 creatinine 1.4 mg/dL 的比值偏高（腎前性）——這是嚴重脫水造成的低血容積性休克。",
+   "D": "本項不選。心包膜填塞屬於阻塞型休克，頸靜脈壓會**升高**。這位病人頸靜脈是低陷的，這一點就把它排除了。",
+   "summary": "休克先摸頸靜脈：低陷＝血容量不夠，鼓脹＝心臟或心包出問題。",
    "guideline": null,
    "concepts": []
   },
@@ -49259,11 +49259,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "緊急胸部放射治療適用於有嚴重 SVC syndrome 症狀需快速局部減壓者；本例無手臂、頸部腫脹或胸壁靜脈怒張。",
-   "B": "小細胞肺癌合併肝轉移屬 extensive-stage disease，對 systemic chemotherapy 敏感；無症狀的輕微 SVC 壓迫不需先做局部急救。",
-   "C": "SVC stent 用於明顯、危及症狀的上腔靜脈阻塞；僅影像輕微壓迫而無臨床 syndrome 不需置放。",
-   "D": "先胸部放射再化療會延遲 extensive-stage SCLC 的全身治療；本例首要是 systemic therapy。",
-   "summary": "Extensive-stage SCLC 有肝轉移且無臨床 SVC syndrome 時，以全身化學治療為主。",
+   "A": "本項不選。緊急放射治療是留給**有症狀**的上腔靜脈（superior vena cava, SVC）症候群。這位病人右臂與右頸沒有腫脹、胸前也沒有靜脈鼓起，臨床上並沒有這個症候群。",
+   "B": "正確答案。小細胞肺癌（small cell lung cancer, SCLC）已經有肝轉移，屬於擴散期（extensive-stage），主力治療就是全身性化學治療。小細胞肺癌對化療很敏感，而影像上那點輕微的上腔靜脈壓迫既然沒有症狀，就不需要先做局部處置。",
+   "C": "本項不選。上腔靜脈支架是用在明顯、會危及生命的阻塞。這題只有影像上的輕微壓迫，還沒有形成臨床症候群，不必放。",
+   "D": "本項不選。先放射再化療會延誤擴散期小細胞肺癌最需要的全身治療。順序反了。",
+   "summary": "上腔靜脈壓迫要分「影像上壓到」與「臨床有症候群」：沒症狀就照擴散期走全身化療。",
    "guideline": null,
    "concepts": []
   },
@@ -49407,11 +49407,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Parapneumonic effusion 的 pH 7.3 尚未達典型需胸管引流的低 pH 門檻，須合併培養、膿液及 loculation 判斷。",
-   "B": "胸水 glucose 38 mg/dL 顯示細菌與白血球代謝旺盛、運輸受損，支持 complicated parapneumonic effusion，應積極引流。",
-   "C": "胸水 LDH 700 U/L 表示發炎，但單一數值的引流特異性不如極低 glucose 或 pH、膿液與陽性培養。",
-   "D": "胸水 WBC 7000/μL 可見於發炎性積液，但不能單靠細胞數決定胸管引流。",
-   "summary": "肺炎後胸水極低 glucose 提示 complicated parapneumonic effusion，需積極 drainage。",
+   "A": "本項不選。肺炎旁積液的 pH 7.3 還沒低到需要放胸管的程度。判斷時要一起看培養結果、有沒有膿、以及有沒有分隔（loculation）。",
+   "B": "正確答案。胸水 glucose 只有 38 mg/dL，代表細菌與白血球在裡面大量消耗葡萄糖、運輸也受阻。這符合複雜型肺炎旁積液，要積極引流。",
+   "C": "本項不選。LDH 700 U/L 說明發炎很強，但單看這個數字決定要不要引流，特異性不如極低的 glucose、低 pH、抽到膿或培養陽性。",
+   "D": "本項不選。胸水白血球（WBC）7000/μL 在發炎性積液很常見，光靠細胞數不能決定要不要放胸管。",
+   "summary": "肺炎旁積液要不要引流，看的是「代謝耗竭」的證據：glucose 極低、pH 低、有膿或培養陽性。",
    "guideline": null,
    "concepts": []
   },
@@ -49448,11 +49448,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "細菌性肺炎可造成急性 focal consolidation，但兩個月咳嗽的影像細節仍須由附圖確認。",
-   "B": "間質性肺炎通常呈雙側瀰漫性 reticular/ground-glass opacity，而非典型局部結核樣病灶。",
-   "C": "官方答案為肺結核（pulmonary tuberculosis）；慢性咳嗽且不抽菸相符，但病灶位置、空洞等關鍵依據仍須看附圖確認。",
-   "D": "肺癌可造成持續咳嗽及 focal lesion，即使不抽菸也不能排除；本題與結核的影像鑑別需看附圖。",
-   "summary": "本題答案依附圖判為 pulmonary tuberculosis；影像形態不可在未見圖時臆測。",
+   "A": "本項不選。細菌性肺炎是急性病程，影像通常是單一肺葉或肺節的實質化。這張片子的病灶散在**兩側上肺野**，加上咳了兩個月，時間與分布都不像。",
+   "B": "本項不選。間質性肺炎的影像是兩側瀰漫性的網狀或毛玻璃樣陰影，而且下肺野常較明顯。這張片子是斑塊狀的實質浸潤，主要落在上肺野。",
+   "C": "正確答案。片子上兩側上肺野都有斑塊狀、濃淡不均的浸潤，右肺尖還有一個圓形透亮區疑似空洞，而下肺野相對乾淨。**上肺野為主加上空洞**是續發性肺結核的典型影像，配上不抽菸、咳嗽兩個月的病史正好符合。",
+   "D": "本項不選。肺癌在影像上多半是單一腫塊或結節，就算不抽菸也可能發生。但這張片子是兩側上肺野的多發斑塊病灶，型態不符合。",
+   "summary": "胸部 X 光先看分布：上肺野為主＋空洞＋慢性咳嗽＝先想肺結核，並趕快驗痰。",
    "guideline": null,
    "concepts": []
   },
@@ -49528,11 +49528,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "症狀較輕的 COPD 可由 long-acting bronchodilator 起始；吸入型抗膽鹼藥可改善 airflow 與 dyspnea。",
-   "B": "頻繁急性惡化且特定 eosinophil/risk profile 的 COPD 病人，可在 LABA/LAMA 基礎上考慮 ICS。",
-   "C": "肺復健可改善 COPD 的運動耐受、呼吸困難與生活品質，因此「成效不彰」錯誤。",
-   "D": "末期 COPD 經完整評估後，肺臟移植可作為少數適合病人的治療選項。",
-   "summary": "Pulmonary rehabilitation 對 COPD 有明確症狀與功能效益，不是無效治療。",
+   "A": "本項不選。症狀較輕的慢性阻塞性肺病（COPD）可以從長效支氣管擴張劑開始，吸入型抗膽鹼藥能改善氣流與呼吸困難。",
+   "B": "本項不選。頻繁急性惡化、又有特定嗜酸性球或風險特徵的病人，可以在長效支氣管擴張劑（LABA／LAMA）的基礎上加吸入型類固醇（ICS）。",
+   "C": "本項應選。說反了：胸腔（肺）復健能改善 COPD 的運動耐受度、呼吸困難與生活品質，是少數同時改善症狀與功能的介入，成效並非不彰。",
+   "D": "本項不選。末期 COPD 經完整評估後，肺臟移植確實是少數合適病人的治療選項。",
+   "summary": "COPD 的治療不是只有吸入劑：肺復健的效益明確，該和藥物一起排進計畫。",
    "guideline": "FC 醫學(三)第1冊 p.335",
    "concepts": []
   },
@@ -49567,11 +49567,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "ARDS 是 noncardiogenic pulmonary edema，pulmonary artery wedge pressure 通常不因左心壓升高而 >18 mmHg。",
-   "B": "ARDS 常出現雙側瀰漫性 opacity，影像分布並非與 cardiogenic edema 的最根本差異。",
-   "C": "ARDS 的核心是 alveolar-capillary barrier injury 與血管通透性增加，形成 protein-rich edema。",
-   "D": "ARDS 低血氧主要來自 flooded/collapsed alveoli 造成 severe V/Q mismatch 與 shunt，不是單純 diffusion impairment。",
-   "summary": "ARDS 與心因性肺水腫的根本差異是 permeability edema，而非 hydrostatic pressure edema。",
+   "A": "本項敘述錯誤。急性呼吸窘迫症（ARDS）是**非**心因性肺水腫，肺動脈楔壓不會因為左心壓升高而 >18 mmHg。這個數字反而是心因性肺水腫的特徵。",
+   "B": "本項敘述錯誤。ARDS 常見的是兩側瀰漫性陰影，周邊也會受累。而且影像分布本來就不是它跟心因性肺水腫最根本的差別。",
+   "C": "正確答案。兩者最根本的差異就在這裡：ARDS 是肺泡－微血管屏障受傷、**通透性**增加，漏出來的是富含蛋白質的水腫液；心因性肺水腫則是壓力（靜水壓）把水擠出去的。",
+   "D": "本項敘述錯誤。ARDS 的低血氧主要來自肺泡被水淹或塌陷造成的嚴重通氣灌流不均與分流（shunt），不是單純的擴散障礙。",
+   "summary": "ARDS 是「漏」出來的水腫（通透性），心因性肺水腫是「擠」出來的水腫（靜水壓）。",
    "guideline": "FC 醫學(三)第1冊 p.426",
    "concepts": []
   },
@@ -49601,11 +49601,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "矽肺症（silicosis）由吸入 crystalline free silica（SiO2）引發 macrophage injury 與纖維化。",
-   "B": "高濃度 silica 暴露可致 accelerated/acute silicosis；即使停止暴露，肺內粉塵引起的纖維化仍可能進展，因此此項錯誤。",
-   "C": "上肺小結節、hilar node eggshell calcification 與 progressive massive fibrosis 均是 silicosis 典型影像。",
-   "D": "Silicosis 增加 tuberculosis、肺癌及某些 autoimmune disease 風險，與 macrophage dysfunction 有關。",
-   "summary": "Silicosis 離開暴露後仍可進展，且典型侵犯上肺並增加 TB 風險。",
+   "A": "本項不選。矽肺症（silicosis）就是吸入結晶型游離二氧化矽（free silica, SiO2）造成巨噬細胞受損並引發纖維化。",
+   "B": "本項應選。錯在後半句：離開污染源之後，已經沉積在肺裡的矽粉塵仍會繼續驅動纖維化，疾病可以繼續進展。這也是矽肺症沒有特效藥、只能靠預防的原因。",
+   "C": "本項不選。上肺野小結節、肺門淋巴結蛋殼樣鈣化（eggshell calcification）與進行性大量纖維化，都是矽肺症的典型影像。",
+   "D": "本項不選。矽肺症會提高肺結核（tuberculosis, TB）、肺癌與某些自體免疫疾病的風險，機轉和巨噬細胞功能受損有關。所以確診後要主動篩結核。",
+   "summary": "矽肺症最重要的兩件事：脫離暴露後仍會進展，而且要一路盯著肺結核。",
    "guideline": null,
    "concepts": []
   },
@@ -49635,11 +49635,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "CD56 是神經內分泌標誌，常見於小細胞肺癌，可協助與多數 NSCLC 區分。",
-   "B": "NCAM 即 CD56，支持 neuroendocrine differentiation，因此可幫助辨識小細胞肺癌。",
-   "C": "Chromogranin 是神經內分泌顆粒標誌，常用於支持小細胞或其他 neuroendocrine tumor。",
-   "D": "TTF-1 可表現於小細胞肺癌，也常見於肺腺癌，因此不能單靠它區分 SCLC 與 NSCLC。",
-   "summary": "TTF-1 同時可見於 SCLC 與 lung adenocarcinoma，區分力不如 CD56/chromogranin。",
+   "A": "本項不選。CD56 是神經內分泌標誌，小細胞肺癌常表現，可以用來和大多數非小細胞肺癌（NSCLC）區分。",
+   "B": "本項不選。NCAM 其實就是 CD56 的另一個名字，同樣代表神經內分泌分化，一樣有區分力。",
+   "C": "本項不選。chromogranin 標的是神經內分泌顆粒，用來支持小細胞癌或其他神經內分泌腫瘤。",
+   "D": "本項應選。TTF-1 在小細胞肺癌（SCLC）會陽性，在**肺腺癌**也常陽性。兩邊都會亮的標記，自然分不出小細胞與非小細胞。",
+   "summary": "TTF-1 標的是「肺來源」不是「哪一型」；要分小細胞就看神經內分泌標記（CD56／NCAM／chromogranin）。",
    "guideline": null,
    "concepts": []
   },
@@ -50525,11 +50525,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "COPD 的 air trapping/hyperinflation 可使胸片肺容積增加、橫膈變平。",
-   "B": "肺氣腫破壞肺泡與微血管床，使周邊肺血管紋理相對稀疏。",
-   "C": "COPD 可合併支氣管擴張，胸片可能見 tram-track 或 ring shadows。",
-   "D": "胸部 CT 尤其高解析度 CT 正是診斷支氣管擴張的首選影像，故「無法診斷」錯誤。",
-   "summary": "CT 能直接顯示 bronchial dilatation；COPD 胸片可見 hyperinflation 與 vascular attenuation。",
+   "A": "本項不選。慢性阻塞性肺病的空氣滯留與過度充氣會讓胸部 X 光上的肺容積變大、橫膈變平。",
+   "B": "本項不選。肺氣腫破壞肺泡與微血管床，周邊的肺血管紋理就顯得稀疏。",
+   "C": "本項不選。COPD 可以合併支氣管擴張，胸部 X 光上會看到電車軌道樣（tram-track）或環狀陰影。",
+   "D": "本項應選。剛好講反了：胸部電腦斷層（CT）、尤其是高解析度電腦斷層（HRCT），正是診斷支氣管擴張的**首選**影像，看得到管徑比伴行動脈粗、管壁增厚。",
+   "summary": "支氣管擴張要確診就照電腦斷層；胸部 X 光只能提示，做不了診斷。",
    "guideline": "FC 醫學(三)第1冊 p.335",
    "concepts": []
   },
@@ -60111,11 +60111,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "肺高壓（pulmonary hypertension）初期常只有 exertional dyspnea、fatigue 等非專一症狀。",
-   "B": "心臟超音波可估算 pulmonary pressure、評估 right ventricle，是疑似肺高壓的優先篩檢工具。",
-   "C": "右心導管（right heart catheterization）直接量測肺循環血流動力，是確診與分類肺高壓的標準。",
-   "D": "貧血不是確診肺高壓的常見必然合併症；反而須找左心、肺病、血栓或 systemic disease 等病因。",
-   "summary": "Pulmonary hypertension 以 echocardiography 篩檢、right heart catheterization 確診，貧血不是典型診斷特徵。",
+   "A": "本項不選。肺高壓初期常常只有活動時喘、容易疲倦這類沒有專一性的症狀，這正是它容易被延誤診斷的原因。",
+   "B": "本項不選。心臟超音波可以估算肺動脈壓、評估右心室，是懷疑肺高壓時的優先篩檢工具。",
+   "C": "本項不選。右心導管直接量肺循環的血流動力學數據，是確診與分類肺高壓的標準檢查，篩檢工具取代不了它。",
+   "D": "本項應選。貧血不是肺高壓確診後的常見必然合併症。真正該做的是回頭找病因——左心疾病、肺部疾病、慢性血栓栓塞或全身性疾病。",
+   "summary": "肺高壓的流程是「超音波篩、右心導管確診、再回頭找病因」，貧血不在這條線上。",
    "guideline": null,
    "concepts": []
   },
@@ -61404,11 +61404,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "胸部 CT 可界定 emphysema 與排除其他病灶，但 COPD 的必要生理診斷仍靠 spirometry。",
-   "B": "支氣管鏡用於懷疑中央阻塞、出血或取樣，並非每位疑似 COPD 必做。",
-   "C": "支氣管擴張前後 spirometry 證實持續 airflow obstruction，是診斷 COPD 的必要檢查；本選項所稱 bronchodilator test 最符合。",
-   "D": "Alpha-1 antitrypsin 可尋找遺傳病因，卻不取代 spirometry 診斷氣流受限。",
-   "summary": "COPD 必須以 post-bronchodilator spirometry 證實持續氣流阻塞。",
+   "A": "本項不選。胸部電腦斷層（CT）可以描繪肺氣腫的範圍、也能排除其他病灶，但它證明不了氣流受限，不是診斷 COPD 的必要條件。",
+   "B": "本項不選。支氣管鏡是用在懷疑中央氣道阻塞、咳血或需要取檢體時，不是每個疑似 COPD 的病人都要做。",
+   "C": "正確答案。COPD 的診斷定義就是**使用支氣管擴張劑之後**仍然存在的持續性氣流阻塞。所以一定要做支氣管擴張試驗前後的肺功能，這是必要檢查。",
+   "D": "本項不選。血中 alpha-1 antitrypsin 是在找遺傳性的病因，尤其年輕或家族史明顯的人。它是補充檢查，取代不了肺功能。",
+   "summary": "COPD 一定要用「吸藥後」的肺功能證明氣流阻塞持續存在——這是診斷的定義本身。",
    "guideline": null,
    "concepts": []
   },
@@ -61438,11 +61438,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Theophylline 療效有限且 therapeutic window 窄，不是 eosinophilic COPD 的優先 add-on。",
-   "B": "Macrolide 可考慮於特定持續 exacerbator，但題目 eosinophil 增加更支持 ICS-responsive phenotype。",
-   "C": "Leukotriene modifier 用於部分氣喘，不是 COPD 標準升階治療。",
-   "D": "血中 eosinophil 約 475/μL 且 long-acting bronchodilator 後仍不穩，加入 ICS 最能降低 exacerbation。",
-   "summary": "COPD 仍常惡化且 blood eosinophil 高時，應在長效 bronchodilator 基礎上加 ICS。",
+   "A": "本項不選。theophylline 效果有限、治療濃度範圍又窄，容易中毒，不是這種情況優先考慮的加藥。",
+   "B": "本項不選。macrolide 長期使用可以考慮用在特定的反覆惡化者，但這位病人的線索是嗜酸性球偏高，該走的是另一條路。",
+   "C": "本項不選。白三烯調節劑是部分氣喘病人的選擇，不在 COPD 的標準升階治療裡。",
+   "D": "正確答案。算一下就清楚：白血球 9,500/mm³ × 嗜酸性球 5% ≈ 475/μL，這個數字夠高，代表加吸入型類固醇（ICS）會有效。用了長效支氣管擴張劑三個月仍不穩，正是加 ICS 降低急性惡化的時機。",
+   "summary": "COPD 要不要加 ICS 看血中嗜酸性球：算法是白血球總數乘以百分比，數字高就加得有理由。",
    "guideline": null,
    "concepts": []
   },
@@ -61477,11 +61477,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "胸腔超音波能敏感偵測少量 pleural effusion 並引導穿刺。",
-   "B": "氣胸可由 absent lung sliding、B-lines 消失與 lung point 等超音波徵象診斷。",
-   "C": "橫膈膜麻痺可用 ultrasound 觀察 excursion 減少或 paradoxical motion。",
-   "D": "兩側肺門淋巴腺位於深部且受含氣肺遮蔽，體外胸腔超音波最無幫助。",
-   "summary": "Thoracic ultrasound 適合 pleural、pneumothorax 與 diaphragmatic evaluation，不適合 bilateral hilar nodes。",
+   "A": "本項不選。胸腔超音波偵測少量肋膜積水非常敏感，還可以即時導引穿刺，比胸部 X 光更好用。",
+   "B": "本項不選。氣胸看得出來：肺滑動消失、B 線消失，還可以找到肺點（lung point）。",
+   "C": "本項不選。橫膈膜麻痺可以用超音波看橫膈的移動幅度變小，或吸氣時出現反向運動。",
+   "D": "本項應選。兩側肺門淋巴結位置深，前面又隔著含氣的肺——超音波過不去。這種病灶要靠電腦斷層。",
+   "summary": "超音波怕空氣：貼著胸壁的（積水、氣胸、橫膈）看得到，藏在含氣肺後面的肺門就看不到。",
    "guideline": "FC 醫學(三)第1冊 p.293",
    "concepts": []
   },
@@ -61516,11 +61516,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "COPD 應有 FEV1/FVC 降低的 obstruction；本例 ratio 80% 不支持。",
-   "B": "肥胖可造成 mild restriction，但不會特異性造成 maximal inspiratory pressure 明顯降低。",
-   "C": "肺葉切除可使 TLC 降低，卻不應造成呼吸肌 maximal inspiratory pressure 只剩 55%。",
-   "D": "重症肌無力（myasthenia gravis）造成 inspiratory muscle weakness，形成 restriction、正常 ratio 與低 maximal inspiratory pressure。",
-   "summary": "限制型數據合併低 maximal inspiratory pressure 指向 neuromuscular pump weakness。",
+   "A": "本項不選。慢性阻塞性肺病（COPD）該有 FEV1/FVC **下降**的阻塞型變化。這位病人比值是 80%，不支持。",
+   "B": "本項不選。肥胖確實會造成輕度限制型變化，但不會特別讓最大吸氣壓力掉到只剩 55% 預測值。",
+   "C": "本項不選。肺葉切除後 TLC 會變小，但切掉的是肺不是呼吸肌，最大吸氣壓力不該只剩 55%。",
+   "D": "正確答案。三個數字連起來就是呼吸肌無力：TLC 70%（限制型）、FEV1/FVC 80%（沒有阻塞）、最大吸氣壓力只有 55%。重症肌無力造成吸氣肌無力，造出來的正是這一組數字。",
+   "summary": "限制型肺功能加上最大吸氣壓力偏低＝問題在呼吸肌（幫浦），不在肺實質。",
    "guideline": "FC 醫學(三)第1冊 p.294",
    "concepts": []
   },
@@ -61550,11 +61550,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "接觸來源為 isoniazid-resistant TB，使用 9 個月 isoniazid 無法針對來源菌株且不適當。",
-   "B": "Rifampin + pyrazinamide 兩個月因嚴重 hepatotoxicity 已不建議作 LTBI regimen。",
-   "C": "每日 rifampin 4 個月可用於 isoniazid-resistant、rifampin-susceptible source case 的 latent TB infection。",
-   "D": "Levofloxacin 預防療程主要涉及 multidrug-resistant exposure 的專家處置，非單純 isoniazid resistance 首選。",
-   "summary": "Isoniazid-resistant 接觸者的 LTBI 可選 4 個月 rifampin，前提是來源菌對 rifampin 敏感。",
+   "A": "本項不選。傳染源已經對 isoniazid 抗藥，再吃 9 個月的 isoniazid 等於用一個對這株菌無效的藥，方向就錯了。",
+   "B": "本項不選。rifampin 加 pyrazinamide 兩個月這個組合因為嚴重肝毒性，早就不建議拿來治療潛伏結核感染（LTBI）。",
+   "C": "正確答案。傳染源對 isoniazid 抗藥、但對 rifampin 仍敏感，那就改走 rifampin 這條路：每日一次、連續 4 個月。療程短、完成率也高，是潛伏 TB 的標準替代方案。",
+   "D": "本項不選。levofloxacin 預防性療程是留給接觸多重抗藥結核（multidrug-resistant TB, MDR-TB）的情況，而且要專家評估。單純 isoniazid 抗藥還輪不到它。",
+   "summary": "潛伏結核感染的用藥要跟著**傳染源的抗藥性**走：對 isoniazid 抗藥就改用 4 個月 rifampin。",
    "guideline": null,
    "concepts": []
   },
@@ -61625,11 +61625,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "胸痛不是 Wells rule 的獨立計分項；rule 包括 DVT signs、PE most likely、tachycardia 等。",
-   "B": "D-dimer 對 acute PE 敏感但專一性低，陽性不能確診。",
-   "C": "INR 2–3 是 warfarin 監測值，不適用於 LMWH 本身；此敘述混合不同抗凝藥監測。",
-   "D": "Massive pulmonary embolism 增加 RV afterload，急性右心衰竭與 obstructive/cardiogenic shock 是主要死因。",
-   "summary": "嚴重 PE 的致死機轉是 acute RV failure；D-dimer 高敏感但低專一。",
+   "A": "本項敘述錯誤。Wells 評分裡沒有「胸痛」這一項。它算的是深部靜脈栓塞（DVT）的臨床徵象、心跳過快、曾有 DVT 或肺栓塞（PE）病史、咳血、癌症，以及「臨床上最像 PE」這一條。",
+   "B": "本項敘述錯誤。D-dimer 是**高敏感度、低特異性**：陰性有助於排除，陽性卻不能確診，因為感染、手術、懷孕、腫瘤都會讓它上升。",
+   "C": "本項敘述錯誤。這段把兩種藥的監測方式混在一起了。international normalized ratio 維持 2.0～3.0 是 warfarin 的監測目標，低分子量肝素（LMWH）本身不用 INR 追蹤。",
+   "D": "正確答案。大量肺栓塞讓右心室（right ventricle, RV）後負荷急速上升，右心撐不住就急性衰竭，接著心輸出量掉下來造成休克。這就是嚴重肺栓塞最常見的死因。",
+   "summary": "肺栓塞會致死的機轉在**右心**：後負荷突然變大→右心衰竭→休克。",
    "guideline": null,
    "concepts": []
   },
@@ -62146,11 +62146,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "戒菸能降低 COPD 惡化與呼吸道感染風險，是肺炎預防的重要措施。",
-   "B": "符合年齡與風險者應接種 pneumococcal vaccine，以降低侵襲性疾病與部分肺炎風險。",
-   "C": "每年 influenza vaccination 可降低流感及其續發肺炎、COPD exacerbation。",
-   "D": "預防性抗生素會造成抗藥性與副作用，肺炎痊癒後不應常規長期使用。",
-   "summary": "COPD 肺炎預防靠戒菸與疫苗，不靠 prophylactic antibiotics。",
+   "A": "本項不選。戒菸能同時降低慢性阻塞性肺病（COPD）的惡化與呼吸道感染風險，是預防肺炎最根本的一項。",
+   "B": "本項不選。年齡與風險符合的人應該接種肺炎鏈球菌疫苗，可以降低侵襲性疾病與部分肺炎的風險。",
+   "C": "本項不選。每年在流感季前接種流感疫苗，能減少流感本身、續發性肺炎，以及 COPD 的急性惡化。",
+   "D": "本項應選。長期預防性抗生素會養出抗藥菌、也帶來副作用。肺炎治好之後不該常規長期給抗生素。",
+   "summary": "COPD 預防肺炎靠戒菸加兩支疫苗（肺炎鏈球菌、流感），不是靠長期吃抗生素。",
    "guideline": null,
    "concepts": []
   },
@@ -71849,11 +71849,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "NT-proBNP 2500 pg/mL 會支持 heart failure，但本例無 orthopnea/PND，晨間眼瞼水腫較不像心因性。",
-   "B": "Albumin 1.8 g/dL 的低白蛋白血症降低 plasma oncotic pressure，可造成全身及晨間眼周水腫。",
-   "C": "TSH 9 可見 hypothyroidism，但其 myxedema 多為 nonpitting，不能像嚴重 hypoalbuminemia 般解釋此型水腫。",
-   "D": "Free T4 2.8 ng/dL 偏高支持 hyperthyroidism，通常不造成此全身性水腫。",
-   "summary": "晨間眼周與全身水腫、無肺鬱血症狀，最符合 severe hypoalbuminemia。",
+   "A": "本項不選。NT-proBNP 2500 pg/mL 會支持心衰竭，但這位病人平躺不喘、半夜也不會被憋醒——**沒有端坐呼吸、沒有陣發性夜間呼吸困難（PND）**，心因性的可能性低。",
+   "B": "正確答案。Albumin 只有 1.8 g/dL，血漿膠體滲透壓不夠，水就往組織間隙跑。躺著一整晚體液往臉部聚集，所以早上眼皮與臉最腫、活動之後才慢慢消——正是低白蛋白血症的典型節奏。",
+   "C": "本項不選。TSH 9.0 μIU/mL 提示甲狀腺功能低下，但黏液水腫是**不會凹陷**的，也解釋不了這種隨姿勢變化的水腫。",
+   "D": "本項不選。Free T4 2.8 ng/dL 偏高，方向是甲狀腺功能亢進。它通常不會造成這種全身性水腫。",
+   "summary": "水腫問時間與姿勢：早上臉腫、白天消，先想低白蛋白；晚上腳腫、夜咳憋醒，才想心衰竭。",
    "guideline": null,
    "concepts": []
   },
@@ -73344,11 +73344,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "IPF 使用傳統免疫抑制並不能降低死亡，某些組合反而有害。",
-   "B": "隱源性機化性肺炎（cryptogenic organizing pneumonia）通常對 corticosteroid 反應良好，症狀與影像可改善。",
-   "C": "Pirfenidone 與 nintedanib 可減緩 IPF 的 FVC decline；將其說成完全沒有臨床效益不當。",
-   "D": "CTD-associated ILD 可依 inflammatory/fibrotic phenotype 個別化合併 immunosuppressant 與 antifibrotic，並非絕對禁止。",
-   "summary": "COP 常對 steroid 有效；IPF 不使用傳統免疫抑制作主要治療。",
+   "A": "本項敘述錯誤。特發性肺纖維化（IPF）用傳統免疫抑制劑不但降不了死亡率，某些組合（類固醇加 azathioprine 加 N-acetylcysteine）在試驗中反而讓結果變差。",
+   "B": "正確答案。隱源性機化性肺炎（cryptogenic organizing pneumonia, COP）對類固醇反應通常很好，症狀與影像都會改善。這也是它和 IPF 最大的差別——一個有藥可治，一個只能延緩。",
+   "C": "本項敘述錯誤。pirfenidone 與 nintedanib 能延緩 IPF 的 FVC 下降速度。把抗纖維化治療說成完全沒有臨床效益並不正確。",
+   "D": "本項敘述錯誤。結締組織疾病相關的間質性肺病（CTD-associated ILD）可以依照偏發炎或偏纖維化的表型，個別化地合併免疫抑制劑與抗纖維化藥，不是絕對禁止併用。",
+   "summary": "間質性肺病要先分型再給藥：COP 吃類固醇有效，IPF 走抗纖維化，兩者不能互換。",
    "guideline": "FC 醫學(三)第1冊 p.350",
    "concepts": []
   },
@@ -73378,11 +73378,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "AHI 直接量每小時 apnea/hypopnea 次數，是 OSA 嚴重度核心指標。",
-   "B": "夜間 oxygen desaturation 的深度與負荷反映 OSA 生理傷害程度。",
-   "C": "BMI 是 OSA 風險與共病指標，並非睡眠呼吸事件嚴重度本身的分級項目。",
-   "D": "白天嗜睡反映臨床功能影響，可納入整體嚴重度評估。",
-   "summary": "OSA 嚴重度以 AHI、低血氧與症狀影響評估；BMI 是危險因子而非嚴重度指標。",
+   "A": "本項不選。apnea-hypopnea index（AHI）數的是每小時呼吸中止與低通氣的次數，這是阻塞型睡眠呼吸中止症（OSA）嚴重度分級的核心。",
+   "B": "本項不選。夜間血氧下降的深度與累積時間，反映的是缺氧對身體造成多少生理傷害，屬於嚴重度的一環。",
+   "C": "本項應選。BMI 是 OSA 的**危險因子**與共病指標，不是呼吸事件嚴重度的分級項目。胖的人不一定 AHI 就高，兩者要分開看。",
+   "D": "本項不選。白天嗜睡反映疾病對日常功能的衝擊，臨床上會納入整體嚴重度評估，也影響治療的積極度。",
+   "summary": "危險因子不等於嚴重度：BMI 告訴你「容易得」，AHI 與血氧告訴你「多嚴重」。",
    "guideline": null,
    "concepts": []
   },
@@ -73488,11 +73488,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "①PE、②right-to-left shunt 與⑤asthma 可在胸片近正常時造成低血氧，但③pneumothorax 通常可見 pleural line/肺萎陷。",
-   "B": "②shunt、④hepatopulmonary syndrome 與⑤asthma 可有正常胸片；③pneumothorax 通常不應列入正常胸片組合。",
-   "C": "①PE、②right-to-left shunt、④cirrhosis-related hepatopulmonary syndrome、⑤asthma 均可能低血氧而胸片無明顯異常。",
-   "D": "①PE 與④cirrhosis 可胸片正常，但③pneumothorax、⑥pulmonary edema 通常會產生影像異常。",
-   "summary": "正常胸片的 acute hypoxemia 要想 PE、intracardiac/intrapulmonary shunt、hepatopulmonary syndrome 與 asthma。",
+   "A": "本項不選。①肺栓塞、②右至左分流、⑤氣喘確實可以在胸部 X 光近乎正常時造成低血氧，但③氣胸會看到肋膜線與肺塌陷，影像不會正常。",
+   "B": "本項不選。②分流、④肝硬化、⑤氣喘這三個可以胸片正常，但同樣卡在③氣胸——它的影像會有異常。",
+   "C": "正確答案。這四個共同點是「氧氣掉了但片子看起來還好」：①肺栓塞（pulmonary embolism, PE；塞的是血管不是肺泡）、②右至左分流、④肝硬化造成的肝肺症候群、⑤氣喘（問題在氣道）。",
+   "D": "本項不選。①與④成立，但③氣胸與⑥肺水腫在胸部 X 光上通常都看得到明顯異常，不符合題目「片子正常」的前提。",
+   "summary": "胸片正常卻低血氧，想三類：血管（肺栓塞）、分流（心內或肝肺症候群）、氣道（氣喘）。",
    "guideline": null,
    "concepts": []
   },
@@ -73522,11 +73522,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "ABG 評估氣體交換與急性嚴重度，不能證明 variable expiratory airflow limitation。",
-   "B": "胸部 X 光多用來排除 pneumonia、pneumothorax 等 mimics，通常不能確診 asthma。",
-   "C": "肺功能檢查以 spirometry 及 bronchodilator response 證明可變性氣流受限，診斷價值最高。",
-   "D": "ECG 可評估 arrhythmia 或 cardiac dyspnea，不能直接診斷 asthma。",
-   "summary": "Asthma 診斷最有價值的是客觀證明 variable airflow limitation 的 pulmonary function test。",
+   "A": "本項不選。動脈血液氣體分析（ABG）看的是氣體交換與急性期的嚴重度，它證明不了氣流受限是「可變的」。",
+   "B": "本項不選。胸部 X 光主要用來排除肺炎、氣胸這些長得像氣喘的病，通常沒辦法拿來確診氣喘。",
+   "C": "正確答案。氣喘的診斷定義就是**可變的呼氣氣流受限**。肺功能檢查用 spirometry 加上支氣管擴張劑反應，正好把這件事客觀量出來，診斷價值最高。",
+   "D": "本項不選。心電圖（ECG）可以評估心律不整或心因性呼吸困難，但它不能直接診斷氣喘。",
+   "summary": "氣喘診斷要的是「客觀證據」：把可變的氣流受限量出來，這只有肺功能做得到。",
    "guideline": null,
    "concepts": []
   },
@@ -74349,11 +74349,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "煤礦工人塵肺症（CWP）與肺癌的獨立關聯不如 silica/asbestos 明確，不能選為相對特徵。",
-   "B": "Scleroderma 較與 silica exposure 有關，不是 CWP 典型關聯。",
-   "C": "Hilar lymph node eggshell calcification 是 silicosis 更具代表性的影像。",
-   "D": "相較 silicosis，單純 CWP 的 macrophage dysfunction 較不顯著，TB 或 fungal infection 風險較低。",
-   "summary": "CWP 相較 silicosis 較少 TB/fungal infection，且 eggshell calcification、自體免疫關聯較弱。",
+   "A": "本項敘述錯誤。煤礦工人塵肺症（coal workers pneumoconiosis, CWP）與肺癌的獨立關聯，不像二氧化矽或石綿那麼明確，不能算是它相對於矽肺症的特徵。",
+   "B": "本項敘述錯誤。硬皮症是和**二氧化矽**暴露有關（Erasmus syndrome），不是煤塵。這一項配錯對象了。",
+   "C": "本項敘述錯誤。肺門淋巴結蛋殼樣鈣化是矽肺症更具代表性的影像，不是 CWP 的特徵。",
+   "D": "正確答案。和矽肺症比起來，單純 CWP 造成的巨噬細胞功能障礙沒那麼嚴重，所以罹患肺結核（TB）或黴菌感染的風險相對較低。",
+   "summary": "這題四項有三項其實在講矽肺症；CWP 的相對特點就是感染風險比較低。",
    "guideline": "FC 醫學(三)第4冊 p.401",
    "concepts": []
   },
@@ -85290,11 +85290,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "Subpleural、basal predominant reticulation 是 usual interstitial pneumonia（UIP）的典型 CT 分布。",
-   "B": "Traction bronchiectasis 反映周圍 fibrosis 拉扯氣道，是 UIP 常見特徵。",
-   "C": "Honeycombing 是 definite UIP pattern 的重要 CT 特徵。",
-   "D": "Micronodules 提示 sarcoidosis、hypersensitivity pneumonitis 或 pneumoconiosis 等，並非典型 UIP。",
-   "summary": "UIP CT 以 subpleural reticulation、traction bronchiectasis、honeycombing 為主，不以 micronodules 為主。",
+   "A": "本項不選。靠胸膜側、下肺為主的網狀陰影，是 usual interstitial pneumonia（UIP）在電腦斷層（CT）上的典型分布。",
+   "B": "本項不選。牽引性支氣管擴張是周圍纖維化把氣道往外拉造成的，UIP 很常見。",
+   "C": "本項不選。蜂窩狀變化（honeycombing）是判定確定型 UIP 最重要的影像特徵。",
+   "D": "本項應選。微小結節（micronodules）指向的是別的病：類肉瘤病、過敏性肺炎或塵肺症。它不是 UIP 的型態。",
+   "summary": "UIP 的三件套是網狀陰影、牽引性支氣管擴張、蜂窩狀變化；看到微小結節就要換方向想。",
    "guideline": "FC 醫學(三)第1冊 p.350",
    "concepts": []
   },
@@ -85324,11 +85324,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "心衰竭通常造成雙側 dependent edema；單側腿腫合併急性胸痛呼吸困難更像 DVT/PE。",
-   "B": "右腿單側水腫提示 deep vein thrombosis，合併胸痛、dyspnea 最應懷疑 pulmonary embolism。",
-   "C": "氣胸能造成突發胸痛與喘，但不能解釋單側下肢水腫。",
-   "D": "COPD 造成慢性呼吸症狀與 wheeze，也不會造成新發單側腿腫。",
-   "summary": "Unilateral leg swelling 加 acute chest pain/dyspnea 是 DVT with pulmonary embolism 的典型線索。",
+   "A": "本項不選。心衰竭造成的是**雙側**、隨重力分布的水腫。單一隻腳腫加上急性胸痛與呼吸困難，不是它的樣子。",
+   "B": "正確答案。右腳單側水腫指向深部靜脈栓塞（DVT），血栓跑到肺動脈就造成肺栓塞（pulmonary embolism, PE）——同時解釋了胸痛與呼吸困難。一隻腳腫加上急性呼吸症狀，是很經典的組合。",
+   "C": "本項不選。氣胸會突然胸痛與喘，但它解釋不了單側下肢水腫。兩個部位的問題湊不起來。",
+   "D": "本項不選。慢性阻塞性肺病（COPD）造成的是慢性呼吸症狀與哮鳴，不會讓一隻腳突然腫起來。",
+   "summary": "一隻腳腫＋急性胸痛喘＝把腿和肺連起來看：DVT 掉下去變成肺栓塞。",
    "guideline": null,
    "concepts": []
   },
@@ -85358,11 +85358,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Aspiration-related primary lung abscess 常位於依賴區，如 supine 時右上葉後節與下葉上節。",
-   "B": "Staphylococcus aureus bacteremia 可形成 septic emboli 與多發 peripheral abscesses。",
-   "C": "口腔厭氧菌是 aspiration 所致 primary lung abscess 的常見病原。",
-   "D": "肺膿瘍通常需數週抗生素並以臨床與影像反應決定療程；7–10 天通常過短，手術只留給失敗或併發症。",
-   "summary": "Lung abscess 多需 prolonged antibiotics；aspiration abscess 常含 anaerobes 且位於 dependent segments。",
+   "A": "本項不選。原發性肺膿瘍多半來自吸入，所以長在重力依賴的位置——平躺時就是上肺葉的後節與下肺葉的上節。",
+   "B": "本項不選。金黃色葡萄球菌菌血症會形成敗血性血栓，在肺部周邊造成多發性膿瘍，這是很典型的路徑。",
+   "C": "本項不選。口腔厭氧菌是吸入造成的原發性肺膿瘍最常見的病原，所以抗生素要涵蓋厭氧菌。",
+   "D": "本項應選。療程寫得太短了：肺膿瘍通常要用**數週**的抗生素，並依臨床與影像反應決定何時停。7～10 天遠遠不夠。手術只留給治療失敗或出現併發症的人。",
+   "summary": "肺膿瘍是「長療程」的病：抗生素以週計算，靠影像追到病灶收乾才停。",
    "guideline": null,
    "concepts": []
   },
@@ -85476,11 +85476,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "IV theophylline 對 COPD acute exacerbation 的額外效益有限且毒性高，缺乏常規使用實證。",
-   "B": "抗生素可用於膿痰增加、嚴重 exacerbation 或需 ventilation 等選定病人。",
-   "C": "Systemic corticosteroid 可縮短 recovery、改善 lung function 並降低 treatment failure。",
-   "D": "Nebulized short-acting bronchodilator 是 acute COPD exacerbation 的核心治療。",
-   "summary": "AECOPD 支持 bronchodilator、短期 systemic steroid 與選擇性 antibiotic，不常規用 IV theophylline。",
+   "A": "本項應選。靜脈（IV）茶鹼（theophylline）在 COPD 急性發作（acute exacerbation of COPD, AECOPD）能多帶來的好處有限，毒性又高、治療濃度範圍窄，缺乏常規使用的實證。",
+   "B": "本項不選。抗生素用在挑選過的病人身上：痰變膿、惡化程度較重，或需要呼吸器支持的人。",
+   "C": "本項不選。全身性類固醇能縮短恢復時間、改善肺功能、降低治療失敗率，是急性發作的標準用藥之一。",
+   "D": "本項不選。短效支氣管擴張劑霧化治療是急性發作最核心的處置，效果最直接。",
+   "summary": "COPD 急性發作的三根柱子：支氣管擴張劑、短期全身性類固醇、選擇性抗生素；靜脈茶鹼不在裡面。",
    "guideline": "FC 醫學(三)第1冊 p.334",
    "concepts": []
   },
@@ -86394,11 +86394,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "8 mm pure ground-glass nodule 仍可能位於 adenocarcinoma spectrum，需依持續性追蹤。",
-   "B": "中央型粗鈣化（central coarse calcification）常見於 healed granuloma，強烈支持良性。",
-   "C": "Part-solid nodule 的 solid component 會提高 invasive adenocarcinoma 風險。",
-   "D": "12 mm solid nodule 尺寸本身提高惡性機率，若無典型良性鈣化仍須風險評估。",
-   "summary": "中央粗鈣化是肺結節的典型 benign feature；ground-glass 或 part-solid 不等於良性。",
+   "A": "本項不選。8 mm 的純毛玻璃結節仍可能落在肺腺癌的光譜上（原位癌到微浸潤癌），要持續追蹤看它會不會長大或出現實質成分。",
+   "B": "正確答案。中央型粗鈣化是癒合後肉芽腫留下的痕跡，強烈支持良性。其他偏良性的鈣化型態還有瀰漫性、同心圓層狀與爆米花狀（後者提示 hamartoma）。",
+   "C": "本項不選。部分實質結節裡的實質成分越大，浸潤性腺癌的風險越高，是四個選項裡最需要警覺的型態之一。",
+   "D": "本項不選。12 mm 的實質結節光是尺寸就提高惡性機率。沒有典型良性鈣化的話，仍要做風險評估與追蹤。",
+   "summary": "看結節先看鈣化型態：中央粗鈣化、層狀、爆米花狀偏良性；偏心或點狀鈣化不算數。",
    "guideline": null,
    "concepts": []
   },
@@ -97044,11 +97044,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "過敏性肺炎（hypersensitivity pneumonitis）是反覆吸入環境抗原引起的 alveoli 與 small airways 免疫性發炎。",
-   "B": "肺功能可顯示 restriction/obstruction 與低 DLco，但不是單獨最有效的確診工具。",
-   "C": "Specific precipitating IgG 只證明 exposure/sensitization，陽性不能作診斷標準。",
-   "D": "BAL lymphocytosis 支持 hypersensitivity pneumonitis，但並非唯一標準，須整合暴露、HRCT 與必要時病理。",
-   "summary": "Hypersensitivity pneumonitis 是 inhaled antigen 造成的 bronchioloalveolar inflammation，診斷需多面向整合。",
+   "A": "正確答案。過敏性肺炎（hypersensitivity pneumonitis）就是反覆吸入環境中的抗原——鳥類蛋白、黴菌、農作粉塵——在肺泡與小呼吸道引起免疫性發炎。所以問病史時一定要問工作與居家環境。",
+   "B": "本項敘述錯誤。肺功能會顯示限制型或阻塞型變化與 DLco 下降，可以量嚴重度，但單靠它不是最有效的確診工具。",
+   "C": "本項敘述錯誤。血中特異性沉澱 IgG 抗體只證明**接觸過、致敏了**，不代表發病。陽性不能當診斷標準。",
+   "D": "本項敘述錯誤。肺泡灌洗（bronchoalveolar lavage, BAL）液的淋巴球增加支持這個診斷，但不是唯一標準。診斷要把暴露史、高解析度電腦斷層（HRCT），必要時再加病理一起整合。",
+   "summary": "過敏性肺炎沒有單一決定性檢查：暴露史＋高解析度電腦斷層＋肺泡灌洗，三方合起來才成立。",
    "guideline": null,
    "concepts": []
   },
@@ -97078,11 +97078,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "氣喘可有低 FEV1/FVC，但多數病人的 DLco 正常或偏高，不符合 55%。",
-   "B": "Pulmonary embolism 可降低 DLco，但通常不造成固定 FEV1/FVC 58% 的 obstruction。",
-   "C": "肺氣腫破壞 alveolar surface area，形成 obstructive ratio 與低 DLco，最符合。",
-   "D": "肺纖維化是 restriction，FEV1/FVC 通常正常或上升。",
-   "summary": "Obstruction 合併 low DLco 指向 emphysema；asthma 的 DLco 通常保留。",
+   "A": "本項不選。氣喘確實會讓 FEV1/FVC 下降，但它的 DLCO 通常正常甚至偏高（氣道問題，肺泡膜是好的）。這題 DLCO 只有 55%，對不上。",
+   "B": "本項不選。肺血管栓塞會壓低 DLCO，卻不會造成 FEV1/FVC 58% 這種固定的阻塞型變化。",
+   "C": "正確答案。肺氣腫一次解釋兩件事：肺泡壁被破壞造成氣道塌陷（FEV1/FVC 58%，阻塞），交換面積同時流失（DLCO 55%）。**阻塞＋低 DLCO** 是它的招牌組合。",
+   "D": "本項不選。肺纖維化是限制型，FEV1/FVC 通常正常或上升，不會掉到 58%。",
+   "summary": "同樣是阻塞，DLCO 就分得出來：氣喘的 DLCO 保留，肺氣腫的 DLCO 掉下來。",
    "guideline": null,
    "concepts": []
   },
@@ -97145,11 +97145,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "惡性胸水通常是 exudate，但 glucose 可正常或降低，不能一概稱正常。",
-   "B": "結核性肋膜積水通常為 lymphocyte-predominant exudate，敘述正確。",
-   "C": "Chylothorax 由 pleural triglyceride >110 mg/dL 或 chylomicrons 定義，不是 cholesterol >110。",
-   "D": "Hemothorax 以 pleural fluid hematocrit 達 peripheral blood hematocrit 約 50% 以上定義，不用 Hb >10。",
-   "summary": "TB effusion 是 lymphocytic exudate；chylothorax 看 triglyceride/chylomicrons，hemothorax 看 hematocrit。",
+   "A": "本項敘述錯誤。肺癌造成的胸水確實是滲出液，但 glucose 可能正常也可能降低（腫瘤細胞多、代謝旺盛時就低）。說它「濃度為正常」講得太死。",
+   "B": "正確答案。結核（TB）性肋膜積水是**淋巴球為主的滲出液**。這個組合再加上 ADA 升高，就是懷疑結核性胸水最重要的三個線索。",
+   "C": "本項敘述錯誤。定義用錯指標了：乳糜胸看的是三酸甘油酯 >110 mg/dL 或驗到乳糜微粒（chylomicrons）。膽固醇 >110 mg/dL 反而提示假性乳糜胸（pseudochylothorax）。",
+   "D": "本項敘述錯誤。血胸的定義是胸水的血比容（hematocrit）達到周邊血的 50% 以上，看的是比例不是血紅素絕對值 10 g/dL。",
+   "summary": "胸水三個定義別搞混：結核＝淋巴球滲出液、乳糜胸＝三酸甘油酯、血胸＝血比容比例。",
    "guideline": null,
    "concepts": []
   },
@@ -97179,11 +97179,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "AECOPD 合併 hypercapnic respiratory failure 使用 NIV 可降低 intubation、mortality 與 ICU stay。",
-   "B": "意識不清代表不能配合或保護氣道，通常不適合 NIV，故此項錯誤。",
-   "C": "嚴重 facial trauma/deformity 無法形成面罩密封，是 NIV 禁忌。",
-   "D": "大量分泌物且無法自行清除會提高 aspiration 與 NIV failure，故不適合。",
-   "summary": "NIV 適合清醒穩定的 hypercapnic AECOPD；昏迷、面罩無法密合或分泌物過多不適合。",
+   "A": "本項不選。COPD 急性發作（AECOPD）合併高碳酸血症性呼吸衰竭時，非侵襲性正壓呼吸器（NIV）能降低插管率、死亡率，也縮短加護病房（ICU）天數。這是 NIV 證據最強的適應症。",
+   "B": "本項應選。剛好相反：意識不清的病人既不能配合面罩、也保護不了氣道，一般**不適合**用 NIV。硬用反而會嗆到。",
+   "C": "本項不選。NIV 靠面罩密封才能送壓，臉部（特別是下半部）畸形或受傷的人貼不緊，會一直漏氣。",
+   "D": "本項不選。痰量太多又咳不出來的人，面罩擋住抽痰的路，吸入與治療失敗的風險都上升。",
+   "summary": "NIV 三個「不能」：意識不清、面罩貼不緊、痰多咳不出——這三種要走插管。",
    "guideline": null,
    "concepts": []
   },
@@ -97213,11 +97213,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Sleep polysomnography 可診斷 OSA 並量 AHI，適合此 obesity、sleep fragmentation、daytime sleepiness 病人。",
-   "B": "Dyspnea 加 respiratory acidosis 不能直接確診 COPD；本例 BMI 約34、日間 hypoxemia/hypercapnia 更須考慮 obesity hypoventilation。",
-   "C": "Hypoventilation syndrome 亦可由 neuromuscular、chest wall、drug 或 central causes 造成，不限肥胖。",
-   "D": "Obesity hypoventilation 等病人可能有對 CO2/O2 的 central ventilatory response 異常。",
-   "summary": "日間 hypercapnia 不能逕診 COPD；肥胖、睡眠症狀應評估 OSA/OHS 並排除其他 hypoventilation 原因。",
+   "A": "本項不選。這位病人肥胖、睡眠一直中斷、白天嗜睡又記憶衰退，安排睡眠多項生理檢驗診斷睡眠呼吸中止症（obstructive sleep apnea, OSA）、量 AHI是合理的第一步。",
+   "B": "本項應選。這個推論跳太快了：呼吸困難加呼吸性酸中毒不能直接等於 COPD。162 cm、89 kg 換算 BMI 約 34，加上白天就已經低血氧（85% 以下）與 PaCO2 51 mmHg，更該想的是肥胖低通氣症候群（obesity hypoventilation syndrome, OHS）。",
+   "C": "本項不選。低通氣症候群的原因很多：神經肌肉疾病、胸壁問題、藥物、中樞病因都可能，不是只有肥胖。",
+   "D": "本項不選。這類病人確實可能出現呼吸中樞對二氧化碳與缺氧的反應變遲鈍，這也是他們白天就 CO2 偏高的原因之一。",
+   "summary": "白天就有高碳酸血症＋肥胖＋睡不好，先想肥胖低通氣與睡眠呼吸中止，不要直接扣上 COPD。",
    "guideline": null,
    "concepts": []
   },
@@ -97514,11 +97514,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "床頭抬高 30–45° 可降低 aspiration 與 VAP risk。",
-   "B": "每日 sedation interruption 可減少過度鎮靜並促進 weaning，但須確認無禁忌。",
-   "C": "胃潰瘍正在出血時 pharmacologic anticoagulation 增加出血風險，應先採 mechanical VTE prophylaxis，故此項最不適當。",
-   "D": "每日評估 extubation readiness 可縮短 ventilation duration 與 VAP exposure。",
-   "summary": "活動性 GI bleeding 時不宜直接抗凝；VAP bundle 包含 head elevation、sedation review、daily extubation assessment。",
+   "A": "本項不選。床頭抬高 30 至 45 度可以減少胃內容物逆流吸入，是預防呼吸器相關肺炎（VAP）的基本動作。",
+   "B": "本項不選。每天中斷鎮定劑評估一次，可以避免鎮靜過度，也讓脫離呼吸器的時機提早出現。做之前要先確認沒有禁忌。",
+   "C": "本項應選。這位病人正在**胃潰瘍出血**（活動性 GI bleeding），這時給抗凝血劑會讓出血更嚴重。預防靜脈血栓栓塞（VTE）應該先用機械性方式（間歇性充氣加壓），等出血止住再評估藥物。",
+   "D": "本項不選。每天評估能不能拔管，可以縮短使用呼吸器的天數，連帶降低呼吸器相關肺炎的機會。",
+   "summary": "預防措施要先看禁忌：活動性出血時，抗凝血的預防要換成機械性壓迫。",
    "guideline": null,
    "concepts": []
   },
@@ -98150,11 +98150,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "高海拔劇烈活動會增加 pulmonary artery pressure 與氧需求，是 HAPE 危險因子。",
-   "B": "快速爬升使 acclimatization 不足，是 HAPE 最重要危險因子之一。",
-   "C": "低鹽飲食不是 HAPE 的公認危險因子；HAPE 核心是 hypoxic pulmonary vasoconstriction 不均。",
-   "D": "安眠藥可能抑制通氣、加重夜間 hypoxemia，增加高海拔疾病風險。",
-   "summary": "HAPE 風險來自快速上升、劇烈活動與加重低氧因素；low-salt diet 不是風險。",
+   "A": "本項不選。高海拔還劇烈活動會推高肺動脈壓、氧氣需求也變大，是高山肺水腫的危險因子。",
+   "B": "本項不選。爬升太快讓身體來不及適應（acclimatization），這是高山肺水腫最重要的危險因子之一。",
+   "C": "本項應選。低鹽飲食不是公認的危險因子。高山肺水腫（high-altitude pulmonary edema, HAPE）的核心機轉是缺氧造成肺血管**不均勻**收縮，某些區域的微血管因此承受過高壓力而漏水。",
+   "D": "本項不選。安眠藥會抑制通氣、讓夜間缺氧更嚴重，會增加高海拔疾病的風險。",
+   "summary": "高山肺水腫的三個可控因素：爬慢一點、別過度運動、別吃會壓抑呼吸的藥。",
    "guideline": null,
    "concepts": []
   },
@@ -106484,11 +106484,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Confusion Assessment Method 直接評估 acute onset/fluctuation、inattention、disorganized thinking 與 altered consciousness，對 delirium 有良好敏感度與專一性。",
-   "B": "Clinical Dementia Rating 評估慢性 dementia 功能嚴重度，不適合急性波動意識。",
-   "C": "Mini-Cog 是 dementia screening，不以急性 inattention/fluctuation 為診斷核心。",
-   "D": "MMSE 評估整體 cognition，會受教育與急病影響，診斷 delirium 不如 CAM 專一。",
-   "summary": "住院後急性、波動性注意力與意識改變是 delirium，最佳工具為 CAM。",
+   "A": "正確答案。Confusion Assessment Method（CAM）問的正好是譫妄的四個核心：急性發作且會起伏、注意力不集中、思考混亂、意識狀態改變。這位病人「一天中起伏很大、住院前沒有」完全對上，敏感度與特異度在四者中最佳。",
+   "B": "本項不選。Clinical Dementia Rating 量的是慢性失智的功能嚴重度，抓不到這種急性又波動的意識變化。",
+   "C": "本項不選。Mini-Cog 是失智的篩檢工具，核心不是急性的注意力障礙與波動性。",
+   "D": "本項不選。MMSE 評估的是整體認知功能，會受教育程度與當下急性病影響，診斷譫妄的特異性不如 CAM。",
+   "summary": "住院後才出現、一天內時好時壞的意識改變＝譫妄，用 CAM 評估；失智量表問的是另一件事。",
    "guideline": null,
    "concepts": [
     "confusion-assessment-method"
@@ -107862,11 +107862,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Heart rate 不在 CURB-65 五項中，因此是答案。",
-   "B": "Blood urea nitrogen/urea elevation 是 CURB-65 的 U。",
-   "C": "Respiratory rate ≥30/min 是 CURB-65 的 R。",
-   "D": "Low blood pressure 是 CURB-65 的 B；其餘為 confusion 與 age ≥65。",
-   "summary": "CURB-65 包含 confusion、urea、respiratory rate、blood pressure、age ≥65，不含 heart rate。",
+   "A": "本項應選。心跳次數不在 CURB-65 的五項裡。它評估的是意識、代謝與呼吸循環的失衡，心跳沒有被納入。",
+   "B": "本項不選。血中尿素氮（urea）就是 CURB-65 的 U，反映脫水與腎臟灌流。",
+   "C": "本項不選。呼吸次數 ≥30/min 是 CURB-65 的 R。",
+   "D": "本項不選。血壓偏低是 CURB-65 的 B。剩下兩項是意識混亂（C）與年齡 ≥65 歲（65）。",
+   "summary": "CURB-65 就是把字母拆開記：Confusion、Urea、Respiratory rate、Blood pressure、65 歲——沒有心跳。",
    "guideline": null,
    "concepts": [
     "curb-65"
@@ -107898,11 +107898,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Klebsiella pneumoniae invasive syndrome 在糖尿病人可合併 liver abscess 與 endogenous endophthalmitis，應檢查腹部與眼底。",
-   "B": "治療無改善且非侵入檢體陰性時，image-guided aspiration 可取得較可靠的 microbiology。",
-   "C": "Cavitary lung abscess 的經驗性抗生素通常需涵蓋 oral anaerobes，尤其 aspiration 可能時。",
-   "D": "肺膿瘍或 necrotizing pneumonia 的療程常需超過兩週並依反應與影像調整；固定廣效藥兩週不足，故錯誤。",
-   "summary": "糖尿病合併 cavitary pneumonia 要注意 invasive Klebsiella 與 lung abscess；療程通常不能固定只給兩週。",
+   "A": "本項不選。糖尿病人身上的 Klebsiella pneumoniae 可能是侵襲性症候群，會併發肝膿瘍與內因性眼內炎。所以要主動安排腹部超音波與眼底檢查，這兩個地方不看就會漏掉。",
+   "B": "本項不選。治療沒改善、痰與血培養又都陰性時，用超音波或電腦斷層導引穿刺取檢體，拿到的微生物結果比較可靠。",
+   "C": "本項不選。有空洞的肺部感染要考慮吸入，經驗性抗生素通常需涵蓋口腔厭氧菌。",
+   "D": "本項應選。療程訂死兩週太短：肺膿瘍或壞死性肺炎常需要更長的療程，而且要依臨床反應與影像變化調整，不是固定給廣效抗生素兩週就結束。",
+   "summary": "糖尿病＋空洞性肺炎兩件事別漏：找 Klebsiella 的肝與眼併發症，療程按影像走不按日曆走。",
    "guideline": null,
    "concepts": []
   },
@@ -107932,11 +107932,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "每日多次症狀、常急診與 FEV1 56% 顯示嚴重未控制氣喘，必須規則 ICS 為核心的 anti-inflammatory therapy。",
-   "B": "口服 bronchodilator 效果較慢且 systemic adverse effects 多，不能取代 inhaled anti-inflammatory control。",
-   "C": "LAMA 可作 add-on，但未先建立 ICS-containing regimen 時不是首要調整。",
-   "D": "LABA 在 asthma 不可單獨使用；必須與 ICS 合併，故單寫 long-acting bronchodilator 不足。",
-   "summary": "Severely uncontrolled asthma 首先建立規則 ICS-containing therapy，不能只加 bronchodilator。",
+   "A": "正確答案。幾乎每天發作 3～4 次、每月都跑急診、FEV1 只剩 56%——這是嚴重未控制。氣喘的本質是慢性發炎，所以要補的是**規則使用的吸入型類固醇（ICS）**這類抗發炎藥，而不是再加擴張劑。",
+   "B": "本項不選。口服支氣管擴張劑起效慢、全身副作用多，取代不了吸入型的抗發炎控制藥。",
+   "C": "本項不選。長效抗膽鹼藥（LAMA）可以當加藥，但前提是已經建立含吸入型類固醇的治療。跳過這一步就不是首要調整。",
+   "D": "本項不選。長效乙二型支氣管擴張劑（LABA）在氣喘**絕對不能單獨使用**，一定要和吸入型類固醇合併。只寫「長效支氣管擴張劑」並不完整。",
+   "summary": "氣喘控制不好時要加的是抗發炎，不是擴張劑；LABA 單用在氣喘是禁忌。",
    "guideline": null,
    "concepts": []
   },
@@ -107966,11 +107966,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Churg–Strauss syndrome（EGPA）可造成 eosinophilic pulmonary infiltrates 與 BAL eosinophilia。",
-   "B": "Löffler syndrome 是 transient pulmonary infiltrates with eosinophilia，可符合。",
-   "C": "Hypersensitivity pneumonitis 的 BAL 典型是 lymphocytosis，不是 eosinophil 20%，因此最不可能。",
-   "D": "Eosinophilic pneumonia 的定義性表現即肺浸潤與 BAL eosinophilia。",
-   "summary": "BAL eosinophil 20% 指向 eosinophilic lung disease；HP 通常是 BAL lymphocytosis。",
+   "A": "本項不選。Churg-Strauss syndrome（現稱 EGPA）會造成嗜酸性球性的肺浸潤，肺泡灌洗液的嗜酸性球確實會增加。",
+   "B": "本項不選。Loffler's syndrome 的定義就是暫時性的肺浸潤加上嗜酸性球增多，符合這位病人的表現。",
+   "C": "本項應選。過敏性肺炎（hypersensitivity pneumonitis, HP）的肺泡灌洗（BAL）液典型是**淋巴球**增加，不是嗜酸性球 20%。細胞種類對不上，所以它最不可能。",
+   "D": "本項不選。嗜酸性球肺炎的定義性表現就是肺浸潤加上肺泡灌洗液嗜酸性球增加，完全吻合。",
+   "summary": "肺泡灌洗液的細胞種類就是分岔點：嗜酸性球高＝嗜酸性球肺病，淋巴球高＝過敏性肺炎或類肉瘤病。",
    "guideline": null,
    "concepts": []
   },
@@ -108033,11 +108033,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "肺癌最主要可改變危險因子是 tobacco smoking，不是 family history。",
-   "B": "即使 stage IV lung cancer 仍應戒菸，可改善治療反應、毒性與整體預後。",
-   "C": "Low-dose CT 仍有 ionizing radiation；風險很低但不能說完全沒有 radiation-induced cancer risk。",
-   "D": "吸菸者補充 high-dose beta-carotene 等抗氧化維生素反而曾增加肺癌風險，不能用來預防。",
-   "summary": "肺癌確診後戒菸仍有益；LDCT 不是零輻射，高劑量 antioxidant 也不能預防。",
+   "A": "本項敘述錯誤。肺癌最主要、而且**可以改變**的危險因子是吸菸，不是家族史。家族史有影響，但份量差得遠。",
+   "B": "正確答案。就算已經第四期（stage IV），戒菸仍然值得：能改善治療反應、減少治療毒性與併發症，整體預後也比較好。「都末期了戒也沒用」是錯的觀念。",
+   "C": "本項敘述錯誤。低劑量電腦斷層（low-dose CT, LDCT）的輻射量低，但不是零。風險很小，卻不能說完全沒有輻射誘發癌症的可能。",
+   "D": "本項敘述錯誤。方向是反的：吸菸者大量補充 beta-carotene 這類抗氧化維生素，在試驗中反而讓肺癌風險上升，不能拿來預防。",
+   "summary": "肺癌三個常見誤解：末期戒菸沒用（錯）、低劑量電腦斷層零輻射（錯）、抗氧化維生素能預防（錯，反而有害）。",
    "guideline": null,
    "concepts": []
   },
@@ -108067,11 +108067,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "牛乳狀胸水若 cholesterol >110 mg/dL 更提示 pseudochylothorax；真正 chylothorax 看 triglyceride/chylomicrons。",
-   "B": "胸導管創傷（thoracic duct trauma），尤其手術後，是 chylothorax 常見原因；非創傷性則 lymphoma 重要。",
-   "C": "Chylothorax 多屬 exudate，雖少數 cirrhosis/heart failure 可呈 transudate，不能一概稱 transudate。",
-   "D": "長期 pig-tail drainage 會流失 lymphocytes、protein、fat與electrolytes，不是 definitive therapy；應處理 leak 與病因並調整營養。",
-   "summary": "Chylothorax 常由 thoracic duct trauma 引起，以 triglyceride/chylomicrons 定義，不能長期只引流。",
+   "A": "本項敘述錯誤。牛乳狀胸水如果膽固醇 >110 mg/dL，指的是**假性**乳糜胸（pseudochylothorax），常見於慢性結核或類風濕性胸膜炎。真正的乳糜胸要看三酸甘油酯或乳糜微粒。",
+   "B": "正確答案。胸導管創傷是乳糜胸最常見的原因，尤其是食道或心胸手術之後。非創傷性的原因裡，淋巴瘤最重要。",
+   "C": "本項敘述錯誤。乳糜胸多半屬於滲出液（exudate）。少數合併肝硬化或心衰竭時才可能呈現濾出液，不能一概說是濾出液。",
+   "D": "本項敘述錯誤。長期只放豬尾巴導管引流會把淋巴球、蛋白質、脂肪與電解質一起流掉，病人會營養不良、免疫下降。正確做法是處理漏點與病因，同時調整營養（中鏈脂肪酸飲食或禁食加靜脈營養）。",
+   "summary": "乳糜胸看三酸甘油酯不看膽固醇；治療是止漏加營養，不是一直引流。",
    "guideline": null,
    "concepts": []
   },
@@ -117463,11 +117463,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "急性心肌炎可有 troponin 上升與 heart failure，但 D-dimer 20 及圖像官方判讀較支持 PE。",
-   "B": "高血壓心臟病需長期 hypertension 與 LV hypertrophy，題幹 BP 正常且無此病史。",
-   "C": "肥厚性心肌病常有典型 septal hypertrophy/murmur，不能解釋極高 D-dimer；影像仍須確認。",
-   "D": "呼吸困難、tachycardia、極高 D-dimer 加官方圖像答案支持肺動脈栓塞症；NT-proBNP/ALT 可因 RV strain 與 congestion 上升。",
-   "summary": "本題最符合 acute pulmonary embolism with right-heart strain；影像細節需由附圖確認。",
+   "A": "本項不選。急性心肌炎也會有 troponin 上升與心衰竭，但這位病人的 Troponin T 只有 0.019 ng/mL，而 D-dimer 高達 20 mg/L FEU。附圖的電腦斷層看到的是肺動脈內的充盈缺損，不是心肌病變。",
+   "B": "本項不選。高血壓心臟病需要長期高血壓與左心室（LV）肥厚。題目給的血壓（BP）126/72 mmHg 是正常的，也沒有這段病史。",
+   "C": "本項不選。肥厚性心肌病通常有中膈肥厚與心雜音，但這位病人聽診沒有雜音、也沒有第三心音。它更解釋不了 D-dimer 20 mg/L FEU 這麼高的數字。",
+   "D": "正確答案。附圖三格湊起來就是答案：胸部 X 光肺野清晰（喘不是因為肺實質）、心電圖是規則的窄複合波心搏過速（對應 HR 141/min）、顯影電腦斷層可見**中央肺動脈擴大且管腔內有低密度充盈缺損**。再加上 D-dimer 20 mg/L FEU，診斷是肺動脈栓塞（pulmonary embolism, PE）。NT Pro-BNP 2470 pg/mL 與 ALT 196 U/L 則反映右心室（RV）負荷過重與肝鬱血。",
+   "summary": "喘＋心跳快＋D-dimer 極高，但肺野乾淨＝把答案往肺血管找，用顯影電腦斷層看充盈缺損。",
    "guideline": null,
    "concepts": []
   },
@@ -118567,11 +118567,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "鱗狀上皮細胞癌與小細胞癌在常見肺癌組織型中和 heavy smoking 的關聯最強，敘述正確。",
-   "B": "女性與較年輕／never-smoker 肺癌最常見為 adenocarcinoma，不是 large cell carcinoma。",
-   "C": "Stage IV NSCLC 仍需區分 adenocarcinoma、squamous 等並做 molecular/PD-L1 testing，因治療選擇不同。",
-   "D": "肺癌確診後戒菸仍能改善治療效果、降低併發症與 second primary risk。",
-   "summary": "Heavy smoking 最強連結 squamous 與 small-cell carcinoma；晚期仍需精確 histology/molecular typing。",
+   "A": "正確答案。四種常見組織型裡，鱗狀上皮細胞癌與小細胞癌和重度吸菸的關聯最強，而且兩者都好發在中央氣道。腺癌則是不吸菸者最常見的型別。",
+   "B": "本項敘述錯誤。女性、較年輕或不吸菸的肺癌病人，最常見的是**腺癌**，不是大細胞癌。大細胞癌相對少見。",
+   "C": "本項敘述錯誤。第四期（stage IV）非小細胞肺癌（NSCLC）反而更需要分清楚：腺癌要驗 EGFR、ALK 這些驅動基因突變，鱗狀上皮細胞癌用藥選擇不同，還要看 PD-L1。分型直接決定治療。",
+   "D": "本項敘述錯誤。確診之後戒菸仍然有幫助：治療效果較好、併發症較少，也降低第二個原發癌的風險。",
+   "summary": "肺癌分型不是學術問題而是治療問題——晚期腺癌要驗驅動基因，這一步不能省。",
    "guideline": null,
    "concepts": []
   },
@@ -118667,11 +118667,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Apnea 是 airflow 下降約90%以上且持續至少10秒，題目簡化為停止≥10秒可接受。",
-   "B": "AHI >15 可在無症狀時支持 OSA；有相關症狀/共病者 AHI ≥5 亦可診斷，因此「必須>15」錯誤。",
-   "C": "Polysomnography 是診斷標準；若高度懷疑而單次陰性，仍可能需重複評估，不能絕對排除。",
-   "D": "CPAP 是中重度 OSA 最有證據的標準治療，能 splint upper airway。",
-   "summary": "OSA 不必一律 AHI>15；有症狀時 AHI≥5 即可符合診斷架構。",
+   "A": "本項不選。呼吸中止（apnea）的定義是氣流下降 90% 以上並持續至少 10 秒，題目簡化成「停止≧10 秒」是可以接受的說法。",
+   "B": "本項應選。錯在「必須」兩個字：AHI >15 可以在沒有症狀時就成立診斷，但**有症狀或相關共病時，AHI ≥5 就符合診斷**。門檻是兩條不是一條。",
+   "C": "本項不選（依題目寫法）。整夜睡眠多項生理檢查是診斷標準沒錯。要提醒的是：臨床高度懷疑而單次結果陰性時，仍可能需要重做，不能一次陰性就完全排除。",
+   "D": "本項不選。連續正壓呼吸器（CPAP）用氣壓把上呼吸道撐開，是中重度阻塞性睡眠呼吸中止症證據最強的標準治療。",
+   "summary": "OSA 的診斷門檻分兩條：沒症狀要 AHI >15，有症狀或共病 AHI ≥5 就算。",
    "guideline": null,
    "concepts": [
     "osa-diagnostic-severity"
@@ -118736,11 +118736,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Theophylline 是 bronchodilator，不能治療 IPF 的 progressive fibrosis。",
-   "B": "Dual bronchodilator 用於 obstructive disease；本例 normal ratio、low TLC/DLco 是 restriction。",
-   "C": "Colchicine 未證實能有效延緩 IPF progression。",
-   "D": "Nintedanib 是 antifibrotic，可降低 IPF 的 FVC decline，符合 basal crackles、clubbing、restrictive PFT。",
-   "summary": "Progressive dry cough、Velcro crackles、clubbing、restriction 與 low DLco 指向 IPF，適用 nintedanib。",
+   "A": "本項不選。theophylline 是支氣管擴張劑，處理的是氣道，對纖維化的進展沒有作用。",
+   "B": "本項不選。雙重支氣管擴張劑是給阻塞型疾病用的。這位病人的肺功能（PFT）FEV1/FVC 78% 沒有阻塞，TLC 65% 與 DLco 50% 是**限制型**，方向不對。",
+   "C": "本項不選。colchicine 過去曾被試過，但沒有證實能有效延緩肺纖維化的進展，已經不是治療選項。",
+   "D": "正確答案。兩年的漸進性乾咳、兩側下肺 fine crackles、杵狀指，加上限制型肺功能與 DLco 50%——這組合就是特發性肺纖維化。nintedanib 是抗纖維化藥，能減緩 FVC 下降的速度。",
+   "summary": "看到「乾咳＋下肺 Velcro 囉音＋杵狀指＋限制型加低 DLco」就想 IPF，用抗纖維化藥。",
    "guideline": null,
    "concepts": []
   },
@@ -118770,11 +118770,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "長期吸菸、wheeze 與 purulent sputum 可見 COPD acute exacerbation。",
-   "B": "Acute heart failure 可 wheeze，但黃色膿痰與兩週感染樣咳嗽、且未提供 orthopnea/edema，使其最不可能。",
-   "C": "Bronchiectasis exacerbation 常有增多的 purulent sputum、咳嗽及 wheeze。",
-   "D": "Bacterial pneumonia 可造成 purulent sputum、咳嗽與喘，需以 fever、focal signs、chest image 判斷。",
-   "summary": "Purulent sputum with wheeze 支持 airway infection/COPD/bronchiectasis；缺乏 congestion 線索時 acute HF 最不可能。",
+   "A": "本項不選。長期吸菸的人出現哮鳴加上膿痰，COPD 急性發作是最直接的想法。",
+   "B": "本項應選。急性心臟衰竭（heart failure, HF）雖然也會喘、也可能有心因性哮鳴，但它不會產生**黃色膿痰**，而且題目沒給端坐呼吸、水腫這些鬱血線索。這位病人平時還能爬山，運動耐受度也不像心衰竭。",
+   "C": "本項不選。支氣管擴張症惡化的典型就是痰量變多、變膿，同時咳嗽與哮鳴加重。",
+   "D": "本項不選。細菌性肺炎會有膿痰、咳嗽與喘，接下來要靠發燒、局部聽診徵象與胸部影像來確認。",
+   "summary": "痰的性狀是分岔點：膿痰指向氣道或肺部感染；心衰竭給的是喘、水腫與端坐呼吸，不是膿痰。",
    "guideline": null,
    "concepts": []
   },
@@ -118804,11 +118804,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "氣胸可由 absent lung sliding、barcode sign 與 lung point 以 thoracic ultrasound 辨識。",
-   "B": "Pleural effusion 是 thoracic ultrasound 最敏感且可導引處置的適應症之一。",
-   "C": "縱膈腔淋巴結受胸骨與含氣肺阻隔，經胸壁 ultrasound 診斷價值最低。",
-   "D": "膈神經麻痺可藉 diaphragm excursion 與 sniff maneuver 的 paradoxical motion 評估。",
-   "summary": "Thoracic ultrasound 適合 pleura、pneumothorax、diaphragm，不適合 mediastinal lymph nodes。",
+   "A": "本項不選。氣胸的超音波徵象很明確：肺滑動消失、M 模式呈條碼徵象（barcode sign），再找到肺點就能定位。",
+   "B": "本項不選。肋膜腔積液是胸腔超音波最擅長的項目，少量就看得到，還能即時導引穿刺。",
+   "C": "本項應選。縱膈腔前面隔著胸骨、旁邊又是含氣的肺，超音波的音波過不去。這個位置的淋巴結要靠電腦斷層或支氣管內超音波（EBUS）。",
+   "D": "本項不選。膈神經麻痺可以看橫膈的移動幅度，再做吸氣試驗（sniff test）看有沒有反向運動。",
+   "summary": "胸腔超音波的界線就是「有沒有空氣或骨頭擋著」：貼胸壁的看得到，藏在縱膈裡的看不到。",
    "guideline": null,
    "concepts": []
   },
@@ -118871,11 +118871,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "重度脊柱後側彎限制 chest wall expansion，可造成 chronic restrictive ventilatory failure 與 dyspnea。",
-   "B": "肺錯構瘤（hamartoma）多為偶然發現的小型良性結節，通常不造成 chronic dyspnea。",
-   "C": "ALS 等 motor neuron disease 造成 respiratory muscle weakness 與 hypoventilation，是慢性呼吸困難病因。",
-   "D": "肺高壓降低 cardiac output reserve，典型造成 progressive exertional dyspnea。",
-   "summary": "小型 benign hamartoma 通常無症狀，不是慢性 dyspnea 主要原因。",
+   "A": "本項不選。重度脊柱後側彎限制胸廓擴張，會造成慢性限制型通氣衰竭與呼吸困難。",
+   "B": "本項應選。肺錯構瘤多半是健檢偶然發現的小型良性結節，不會壓迫氣道，通常也不會造成慢性呼吸困難。",
+   "C": "本項不選。運動神經元疾病如 ALS 造成呼吸肌無力與通氣不足，是慢性呼吸困難的重要神經肌肉病因。",
+   "D": "本項不選。肺高壓讓心輸出量的儲備變差，典型表現就是逐漸加重的活動性呼吸困難。",
+   "summary": "慢性呼吸困難要從三個層面找：胸廓（脊柱側彎）、幫浦（神經肌肉）、血管（肺高壓）；小的良性結節不在其中。",
    "guideline": null,
    "concepts": []
   },
@@ -127994,11 +127994,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "肺病低血氧最常見機轉是 ventilation-perfusion mismatch。",
-   "B": "一般 V/Q mismatch 的低 V/Q 肺泡仍可接觸吸入氧，因此給 100% oxygen 多可明顯改善。",
-   "C": "Hypoventilation 會同時降低 PAO2 並使 PaCO2 上升，不是通常不變，因此此項最不適當。",
-   "D": "Right-to-left shunt 的血液不接觸通氣肺泡，100% oxygen 改善有限。",
-   "summary": "V/Q mismatch 對氧反應佳；shunt 反應差；hypoventilation 的 PaCO2 會上升。",
+   "A": "本項不選。肺部疾病造成低血氧，最常見的機轉確實是通氣灌流不均（V/Q mismatch）。",
+   "B": "本項不選。V/Q 不均的肺泡雖然通氣不足，但還是接觸得到吸入的氧氣。所以給 100％ 純氧多半能明顯改善。",
+   "C": "本項應選。錯在後半句：換氣不足會讓肺泡氧分壓（PAO2）下降的同時，**動脈二氧化碳分壓（PaCO2）一定上升**。CO2 上升正是低通氣的標誌，不是不變。",
+   "D": "本項不選。分流的血完全不經過有通氣的肺泡，怎麼加氧都碰不到它。所以給 100％ 純氧只能部分改善，這也是分流與 V/Q 不均最實用的區分方式。",
+   "summary": "給純氧當作測試：會改善＝V/Q 不均；不太會改善＝分流；CO2 同時上升＝換氣不足。",
    "guideline": null,
    "concepts": []
   },
@@ -128028,11 +128028,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "原發性肺癌，尤其伴 hypertrophic osteoarthropathy 者，可造成 clubbing。",
-   "B": "轉移性肺腫瘤在特定廣泛肺內病變亦可與 clubbing 相關。",
-   "C": "支氣管擴張的慢性化膿與 hypoxemia 是 clubbing 經典病因。",
-   "D": "急性肺炎病程太短，通常不造成 clubbing；若出現應找慢性 suppurative disease 或 malignancy。",
-   "summary": "Clubbing 提示 chronic pulmonary malignancy/suppuration；單純 acute pneumonia 不會造成。",
+   "A": "本項不選。原發性肺癌是杵狀指的典型病因，尤其合併肥厚性骨關節病變時。",
+   "B": "本項不選。轉移性肺腫瘤在肺內病灶廣泛時，也可能與杵狀指相關。",
+   "C": "本項不選。支氣管擴張症的慢性化膿與長期低血氧，是杵狀指最經典的良性病因。",
+   "D": "本項應選。杵狀指是**慢慢長出來**的，急性肺炎病程只有幾天到一兩週，來不及形成。如果肺炎病人身上看到杵狀指，代表底下另有慢性化膿性疾病或惡性腫瘤。",
+   "summary": "杵狀指是時間累積出來的徵象：看到它就往慢性化膿或腫瘤找，不是急性感染造成的。",
    "guideline": null,
    "concepts": []
   },
@@ -128936,11 +128936,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "結核病常見 caseating granuloma；雖可偶見 noncaseating，雙側 hilar nodes 的組合較不典型。",
-   "B": "類肉瘤病（sarcoidosis）典型是 bilateral hilar lymphadenopathy 與 noncaseating granulomas。",
-   "C": "Hypersensitivity pneumonitis 以 exposure、centrilobular nodules、mosaic attenuation 與 cellular interstitial inflammation 為主。",
-   "D": "矽肺症可有 hilar node eggshell calcification 與 upper-lobe nodules，但病理非此典型 sarcoid 組合。",
-   "summary": "Bilateral hilar lymphadenopathy 加 noncaseating granulomas 最典型是 sarcoidosis。",
+   "A": "本項不選。結核病的肉芽腫典型是**乾酪性**的。雖然偶爾也可見非乾酪性，但配上雙側肺門淋巴結腫大這個組合並不典型。而且結核通常還有發燒、盜汗、體重減輕。",
+   "B": "正確答案。雙側肺門淋巴結腫大加上非乾酪性肉芽腫，是類肉瘤病的教科書組合。35 歲女性慢性乾咳與疲倦也符合它常見的族群與症狀。",
+   "C": "本項不選。過敏性肺炎的重點在暴露史，影像是小葉中心結節與馬賽克樣衰減，病理是細胞性的間質發炎，不是這種以肺門淋巴結為主的表現。",
+   "D": "本項不選。矽肺症可以有肺門淋巴結蛋殼樣鈣化與上肺結節，但需要粉塵暴露史，病理也不是這組典型的類肉瘤表現。",
+   "summary": "「雙側肺門淋巴結＋非乾酪性肉芽腫」＝類肉瘤病；乾酪性才往結核想。",
    "guideline": null,
    "concepts": []
   },
@@ -129411,11 +129411,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Type 2 asthma 常為 eosinophilic inflammation，由 IL-4、IL-5、IL-13 驅動。",
-   "B": "Non-type 2 asthma 可呈 neutrophilic pattern，與 IL-6、IL-8、IL-17 pathways 有關。",
-   "C": "Th2 cells 是 IL-4、IL-5、IL-13 的重要來源，ILC2 亦可產生部分 type 2 cytokines。",
-   "D": "IL-17 主要由 Th17 cells 產生，不是 Th1 cells，因此此項最不適當。",
-   "summary": "Type 2 asthma 是 Th2/ILC2-eosinophil axis；IL-17 屬 Th17-related non-type 2 pathway。",
+   "A": "本項不選。第二型（type 2）發炎以嗜酸性白血球為主，主要介質就是 IL-4、IL-5 與 IL-13。",
+   "B": "本項不選。非第二型（non-type 2）發炎以嗜中性白血球為主，牽涉 IL-6、IL-8 與 IL-17 這些路徑，對吸入型類固醇的反應通常比較差。",
+   "C": "本項不選。IL-4、IL-5、IL-13 主要由 Th2 細胞產生，ILC2 也會分泌部分第二型細胞激素。",
+   "D": "本項應選。細胞來源配錯了：IL-17 主要由 **Th17** 細胞產生，不是 Th1。Th1 的代表產物是 interferon-γ。",
+   "summary": "細胞激素配細胞：IL-4/5/13 配 Th2、IL-17 配 Th17、interferon-γ 配 Th1，別把 17 當成 1。",
    "guideline": null,
    "concepts": []
   },
@@ -129445,11 +129445,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "症狀嚴重且 exacerbation frequent 的 COPD，LABA+LAMA 是合理初始 dual bronchodilation。",
-   "B": "較低症狀或風險的 COPD 可依個別情況從 LABA 或 LAMA 單一長效 bronchodilator 開始。",
-   "C": "LABA+LAMA 後仍惡化且 eosinophil ≥100/μL，可考慮 triple therapy 加 ICS，效益隨 eosinophil 增加。",
-   "D": "GOLD follow-up pharmacotherapy 主要依 dyspnea、exacerbation history 與 eosinophil 指導；FEV1 用於診斷/預後，不是主要選藥依據。",
-   "summary": "COPD 治療依症狀、exacerbations 與 eosinophils 調整，不以 FEV1 作主要用藥分組。",
+   "A": "本項不選。症狀重、又常急性發作的病人，一開始就給 LABA＋LAMA 雙重支氣管擴張是合理的。",
+   "B": "本項不選。症狀與風險較低的人，可以先從 LABA 或 LAMA 單一長效支氣管擴張劑開始。",
+   "C": "本項不選。用了 LABA＋LAMA 仍常惡化、血中嗜酸性白血球又 ≧100 cells/μL，可以轉成加上 ICS 的三合一治療。嗜酸性球越高，加 ICS 的效益越明顯。",
+   "D": "本項應選。GOLD 的**追蹤期用藥**主要看三件事：呼吸困難程度、急性發作史、血中嗜酸性白血球。FEV1 與 FEV1/FVC 是用來診斷與評估預後的，不是選藥的主要依據。",
+   "summary": "COPD 選藥看「症狀＋發作史＋嗜酸性球」，不是看肺功能數字排隊。",
    "guideline": null,
    "concepts": []
   },
@@ -129479,11 +129479,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Sputum Gram stain 受口咽污染與檢體品質影響，特異性不如特定 antigen test。",
-   "B": "Procalcitonin 是宿主反應 biomarker，不能辨認特定 CAP pathogen。",
-   "C": "Urine Legionella antigen 對 Legionella pneumophila serogroup 1 具有很高特異性，陽性最能作 etiologic diagnosis。",
-   "D": "單次 Mycoplasma IgG 多反映既往暴露，需 paired titers/其他測試才有診斷力。",
-   "summary": "CAP 病原檢查中 urine Legionella antigen 的陽性具高度 pathogen-specific specificity。",
+   "A": "本項不選。痰液革蘭氏染色會被口咽菌汙染，結果好壞又很吃檢體品質，特異性不如針對特定病原的抗原檢驗。",
+   "B": "本項不選。procalcitonin 反映的是宿主的發炎反應，它區分得了細菌與病毒的傾向，但指不出社區性肺炎（CAP）是哪一隻病原造成的。",
+   "C": "正確答案。尿液退伍軍人菌抗原對 Legionella pneumophila 血清型 1 的特異性非常高，一旦陽性幾乎就能定病原。它的限制是只涵蓋血清型 1，陰性不能排除。",
+   "D": "本項不選。單一次的 Mycoplasma pneumoniae IgG 力價多半反映過去曾接觸過。要有診斷力得看**成對**血清（急性期與恢復期）或改用其他檢驗。",
+   "summary": "抗原檢驗贏在特異性：尿液退伍軍人菌抗原陽性就能定案，但陰性不能拿來排除。",
    "guideline": null,
    "concepts": []
   },
@@ -129546,11 +129546,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Pleural amylase elevation 應想到 pancreatitis、esophageal rupture 或某些 malignancy，不是 biliary inflammation，故錯誤。",
-   "B": "腹腔內膿瘍可經 diaphragm 引起 reactive neutrophilic effusion，即使肺實質正常仍要考慮。",
-   "C": "Drug-induced pleural effusion 可呈 eosinophilic pleuritis，須配合用藥時序。",
-   "D": "Post-CABG pleural effusion 常見，早期可血性，晚期可 lymphocytic。",
-   "summary": "高 pleural amylase 要想 pancreas、esophagus、malignancy，不是膽道炎。",
+   "A": "本項應選。器官找錯了：胸水澱粉酶（amylase）上升要想的是胰臟炎、食道破裂，或某些惡性腫瘤，不是膽道發炎。",
+   "B": "本項不選。腹腔內膿瘍可以隔著橫膈引起反應性的嗜中性球胸水。所以就算電腦斷層上肺實質是正常的，也要往橫膈下方找。",
+   "C": "本項不選。藥物引起的肋膜積液常見嗜酸性白血球增加。判讀時要對照用藥的時間順序。",
+   "D": "本項不選。冠狀動脈繞道手術後的肋膜積液很常見：早期偏血性，晚期則多為淋巴球為主。",
+   "summary": "胸水澱粉酶高＝往胰臟、食道、腫瘤找；食道破裂尤其不能漏，那是會致命的。",
    "guideline": null,
    "concepts": []
   },
@@ -129613,11 +129613,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "IPF 常在雙肺基底聽到 fine Velcro crackles，並非機會很低。",
-   "B": "Respiratory bronchiolitis-associated ILD 多見吸菸者，clubbing 不常見。",
-   "C": "NSIP 的 CT 多為 ground-glass、reticulation 與 subpleural sparing，honeycombing 較少見。",
-   "D": "Sarcoidosis 常沿 lymphatic/peribronchovascular bundles 形成 thickening，不能說不會。",
-   "summary": "NSIP 相較 UIP 很少 honeycombing；IPF 常有 basal crackles，sarcoid 可 peribronchovascular thickening。",
+   "A": "本項敘述錯誤。特發性肺纖維化（IPF）常在兩側肺底聽到細碎的 Velcro 囉音，機會很高而不是很低。",
+   "B": "本項敘述錯誤。呼吸性細支氣管炎相關間質性肺病幾乎都發生在吸菸者身上，但杵狀指並不常見。",
+   "C": "正確答案。非特異性間質性肺炎（NSIP）這型間質性肺病（ILD）的電腦斷層（CT）以毛玻璃樣變化、網狀陰影與胸膜下保留（subpleural sparing）為主，**很少出現蜂窩狀變化**。這正是它和 UIP 最實用的影像分界。",
+   "D": "本項敘述錯誤。類肉瘤病常沿著淋巴管與支氣管血管束分布，造成支氣管血管周圍增厚，說「不會出現」並不正確。",
+   "summary": "蜂窩狀變化是 UIP 的招牌；NSIP 少見蜂窩、而且常有胸膜下保留。",
    "guideline": null,
    "concepts": []
   },
@@ -130450,11 +130450,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "OHCA 整體存活率低於 IHCA，不是較高。",
-   "B": "一般成人 cardiac arrest 採 C-A-B，但窒息性 arrest、兒童與特定情境重視 ventilation，題目「所有」過度絕對。",
-   "C": "臺灣 EMT-P 可依預立流程給藥、advanced airway 與 AED；EMT-I 可使用 AED，敘述正確。",
-   "D": "Targeted temperature management 僅適用於 ROSC 後仍無法遵從指令等選定病人，不是所有 OHCA/IHCA 恢復心跳者都必須。",
-   "summary": "OHCA survival 較低；post-arrest temperature control 與 CPR 方式須依病人情境，不是所有人一式適用。",
+   "A": "本項敘述錯誤。順序反了：院外心跳停止（OHCA）的整體存活率**低於**院內心跳停止（IHCA），因為目擊、開始壓胸與去顫的時間都比較晚。",
+   "B": "本項敘述錯誤。錯在「所有」：一般成人心跳停止的心肺復甦術（CPR）採 C-A-B（先壓胸），但窒息性停止、兒童與溺水等情境更重視及早給氧與通氣，不是一律先壓再吹。",
+   "C": "正確答案。臺灣的高級救護技術員（EMT-P）可以依預立醫療流程給藥、施行氣管插管與使用自動體外去顫器（AED）；中級救護技術員（EMT-I）則可以使用 AED。",
+   "D": "本項敘述錯誤。目標體溫管理是用在恢復自發循環（ROSC）後**仍無法遵從指令**的病人，不是所有 OHCA 或 IHCA 恢復心跳者的標準治療。",
+   "summary": "這題三個錯項都錯在「一律、所有」：存活率、壓胸順序、低溫療法都要看情境。",
    "guideline": "2020 AHA CPR and ECC Guidelines",
    "concepts": []
   },
@@ -130520,11 +130520,11 @@
   "specialty": "胸腔內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Nausea/vomiting 是 acute mountain sickness 的伴隨症狀之一，但不是必要條件。",
-   "B": "Fatigue/weakness 可計入 Lake Louise symptoms，卻不能單獨建立 AMS。",
-   "C": "頭痛（headache）在傳統 Lake Louise 診斷架構中是近期上升高海拔後診斷 AMS 的必要條件。",
-   "D": "Dizziness/light-headedness 常見但可缺少，不是必要條件。",
-   "summary": "Acute mountain sickness 的必要核心是新近高海拔暴露後出現 headache，再合併其他症狀。",
+   "A": "本項不選。噁心與嘔吐是急性高山症（acute mountain sickness, AMS）的伴隨症狀之一，會計入評分，但沒有它一樣可以診斷。",
+   "B": "本項不選。疲憊虛弱同樣列在 Lake Louise 的症狀清單裡，但它單獨出現時建立不了診斷。",
+   "C": "正確答案。傳統 Lake Louise 架構的必要條件只有一個：**近期上升到高海拔之後出現頭痛**。有了頭痛，再看噁心嘔吐、疲憊、頭暈這些症狀加起來的分數，才成立 AMS。",
+   "D": "本項不選。頭暈很常見，但可有可無，不是必要條件。",
+   "summary": "急性高山症的門票是頭痛：沒有頭痛就不算，其他症狀只是加分項。",
    "guideline": null,
    "concepts": [
     "lake-louise-ams"
