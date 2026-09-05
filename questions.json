@@ -16344,11 +16344,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Ichthyosis 是 epidermal cornification disorder，主要涉及 stratum corneum 的形成或脫落異常，因此產生廣泛乾燥與 fish-scale-like scaling。",
-   "B": "Dermis 主要包含 collagen、elastic tissue、vessels 與 adnexal support；其異常較常造成 connective-tissue 或 inflammatory changes，不是 ichthyosis 的主要結構缺陷。",
-   "C": "Subcutis 由 adipose tissue 與纖維隔構成，病變常表現為 panniculitis 或脂肪分布異常，不會直接造成典型魚鱗狀角化。",
-   "D": "Sweat gland 異常可造成 hypo/anhidrosis，但 ichthyosis 的核心是 epidermal differentiation、lipid barrier 或 desquamation 異常；出汗減少可為伴隨現象而非主要病灶。",
-   "summary": "Ichthyosis 是 epidermis，尤其 stratum corneum 的 cornification/desquamation disorder，不是 dermis、subcutis 或 sweat gland 的原發異常。",
+   "A": "正確答案。魚鱗癬（ichthyosis）的問題出在表皮（epidermis），特別是最外層的角質層（stratum corneum）。它的角化與脫屑機制壞掉，皮屑該掉不掉、堆在表面，才會全身乾燥並出現魚鱗狀鱗屑。",
+   "B": "本項敘述錯誤。真皮（dermis）裡是膠原（collagen）、彈性纖維與血管，它出問題通常是結締組織病變或發炎性變化。那不會造成魚鱗狀的角化異常。",
+   "C": "本項敘述錯誤。皮下組織（subcutis）由脂肪與纖維隔構成，病變表現是脂膜炎（panniculitis）或脂肪分布異常。它離角質層很遠，不會直接造成鱗屑。",
+   "D": "本項敘述錯誤。汗腺（sweat gland）異常造成的是少汗或無汗。魚鱗癬的核心是表皮分化、脂質屏障與脫屑出問題；出汗變少可能是伴隨現象，不是原發病灶。",
+   "summary": "魚鱗癬＝表皮角質層的脫屑機制壞掉，不是真皮、皮下或汗腺的病——記住病灶在最外面那一層。",
    "guideline": null
   },
   "source": "110080/302_22",
@@ -16382,11 +16382,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Topical antifungal agents（如 ketoconazole）可降低 Malassezia burden，是 scalp 或 facial seborrheic dermatitis 的常用治療；因此不能說治療時不會考慮。",
-   "B": "Severe、refractory seborrheic dermatitis 在 HIV infection 患者較常見；若嚴重度與一般病程不相稱，應結合風險史考慮 HIV testing。",
-   "C": "Psoriasis 可與 seborrheic dermatitis 重疊而形成 sebopsoriasis；病灶若界線較清楚、鱗屑較厚或延伸超出 hairline，應重新考慮此鑑別。",
-   "D": "Parkinson disease 與較嚴重的 seborrheic dermatitis 有已知關聯，可能與 sebum-rich environment、neurologic factors 及皮膚 microbial interactions 共同相關。",
-   "summary": "Seborrheic dermatitis 與 Malassezia、HIV 及 Parkinson disease 有關；topical antifungal 是常用治療，難治者也要排除 psoriasis。",
+   "A": "本項應選。外用抗黴菌藥（例如 ketoconazole）正是脂漏性皮膚炎的常用治療，因為它能壓低皮膚上的 Malassezia。頭皮和臉部的病灶都會用，說治療時不會考慮它是錯的。",
+   "B": "本項敘述正確。嚴重又難治的脂漏性皮膚炎在 HIV 感染者身上比較常見。如果嚴重度和一般病程對不起來，就要合併風險史考慮做 HIV 檢驗。",
+   "C": "本項敘述正確。乾癬（psoriasis）可以和脂漏性皮膚炎重疊，形成脂漏性乾癬（sebopsoriasis）。病灶界線變清楚、鱗屑變厚、或超出髮際線往外長，就要回頭想這個鑑別。",
+   "D": "本項敘述正確。巴金森氏症（Parkinson disease）與比較嚴重的脂漏性皮膚炎有已知關聯。推測和皮脂分泌多、神經因素以及皮膚菌相互作用都有關。",
+   "summary": "脂漏性皮膚炎難治時要想兩件事：HIV 和乾癬；而抗黴菌藥本來就是它的主力治療。",
    "guideline": "FC 醫學(四)第2冊 p.126"
   },
   "source": "110080/302_22",
@@ -16422,11 +16422,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Corynebacterium minutissimum 產生的 coproporphyrin III 使 erythrasma 在 Wood's lamp 下呈 coral-red fluorescence。",
-   "B": "Intertrigo 是皺褶處因摩擦、潮濕造成的 inflammatory condition，可被 Candida 或細菌續發感染；它本身不能解釋具辨識度的 coral-red fluorescence。",
-   "C": "Tinea corporis 是 dermatophyte infection，KOH microscopy 通常可見 septate hyphae；本題 KOH 陰性且 Wood's lamp 呈 coral red，反而支持 erythrasma。",
-   "D": "Topical corticosteroid 不能清除 erythrasma 的 Corynebacterium，單用還可能掩蓋或加重感染；治療應用 topical clindamycin/erythromycin 等 antibacterial therapy，廣泛病灶才考慮口服藥。",
-   "summary": "皺褶疹、KOH 陰性與 Wood's lamp coral-red fluorescence 的組合診斷 erythrasma；螢光來自 coproporphyrin III。",
+   "A": "正確答案。這題的珊瑚紅螢光來自 coproporphyrin III，是 Corynebacterium minutissimum 代謝出來的。紅癬（erythrasma）就是靠這個在伍氏燈（Wood's lamp）下現形。",
+   "B": "本項敘述錯誤。對磨疹（intertrigo）是皺褶處被摩擦、悶濕出來的發炎，可能續發念珠菌或細菌感染。但它本身不會發出這種有辨識度的珊瑚紅螢光。",
+   "C": "本項敘述錯誤。體癬（tinea corporis）是皮癬菌（dermatophyte）感染，KOH 鏡檢通常看得到有隔膜的菌絲。這題 KOH 是陰性、伍氏燈又是珊瑚紅，兩個證據都指向紅癬。",
+   "D": "本項敘述錯誤。外用類固醇殺不掉紅癬的細菌，單用還可能把感染蓋住或弄得更糟。正確做法是抗菌治療，外用 clindamycin 或 erythromycin；範圍很廣才考慮口服。",
+   "summary": "抗黴菌藥治三週沒效＋KOH 陰性＋珊瑚紅螢光，三個湊起來就是紅癬——治療要換成抗菌不是抗黴菌。",
    "guideline": null
   },
   "source": "110080/302_22",
@@ -16460,11 +16460,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Aspergillosis 是重要 opportunistic mold infection，尤其見於 prolonged neutropenia 或 transplantation；但若廣泛概括各類 immunocompromised patients，其發生普遍性不及 candidiasis。",
-   "B": "Candidiasis 是免疫不全者最常見的 fungal infection，Candida 可由正常 mucosal flora 在 antibiotics、neutropenia、T-cell dysfunction 或 indwelling catheter 等情況下造成 mucocutaneous 或 invasive disease。",
-   "C": "Zygomycosis 現多稱 mucormycosis，特別和 uncontrolled diabetes with ketoacidosis、profound immunosuppression 或 iron overload 相關；其侵襲性高但整體不如 candidiasis 常見。",
-   "D": "Cryptococcosis（題目拼作 cryotococcosis）在 advanced HIV/AIDS、transplant 或 corticosteroid use 時重要，常造成 meningitis 或 pulmonary disease，但不是免疫不全者最常見的黴菌感染。",
-   "summary": "免疫不全者可有多種 opportunistic mycoses；整體最常見為 candidiasis，mucormycosis、aspergillosis 與 cryptococcosis 則各有特定高風險背景。",
+   "A": "本項敘述錯誤。麴菌症（aspergillosis）確實是重要的伺機性黴菌感染，好發在長期嗜中性球低下或器官移植的人。但把所有免疫不全病人合在一起看，它沒有念珠菌症普遍。",
+   "B": "正確答案。念珠菌症（candidiasis）是免疫不全者最常見的黴菌感染。Candida 本來就住在黏膜上，一旦用了抗生素、嗜中性球低下、T 細胞功能不良，或身上有留置導管，它就從共生菌翻臉，造成黏膜皮膚甚至侵襲性感染。",
+   "C": "本項敘述錯誤。接合菌症（zygomycosis）現在多稱毛黴菌症（mucormycosis），特別和沒控制的糖尿病酮酸中毒、嚴重免疫抑制或鐵過載有關。它侵襲性很強，但整體遠不如念珠菌症常見。",
+   "D": "本項敘述錯誤。隱球菌症（cryptococcosis，題目拼成 cryotococcosis）在晚期 HIV/AIDS、移植或長期類固醇使用時很重要，常造成腦膜炎或肺部病灶。但它不是免疫不全者最常見的黴菌感染。",
+   "summary": "免疫不全的黴菌感染要分「最常見」和「最兇」：最常見是念珠菌，毛黴菌、麴菌、隱球菌各有自己的高風險族群。",
    "guideline": "FC 醫學(四)第2冊 p.65"
   },
   "source": "110080/302_22",
@@ -16493,11 +16493,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Bullous pemphigoid 主要發生於 60 歲以上 older adults，並與 stroke、dementia、Parkinson disease 等 neurologic disorders 相關；「好發於 30–50 歲」使此項不成立。",
-   "B": "Myasthenia gravis 與 thymoma 的典型 autoimmune blistering association 是 paraneoplastic pemphigus，而非半數 bullous pemphigoid；題述比例與高度同步病程均不正確。",
-   "C": "Desmoglein 3 antibody 導致 suprabasal acantholysis 是 pemphigus vulgaris 的機轉；bullous pemphigoid 的 autoantigens 是 hemidesmosomal BP180/BP230，造成 subepidermal blister。",
-   "D": "Bullous pemphigoid 與 epidermolysis bullosa acquisita 在 routine H&E 都可呈 subepidermal blister，單靠 H&E 無法可靠區分；需 direct immunofluorescence，並可用 salt-split skin 分辨 epidermal-side BP 與 dermal-side EBA binding。",
-   "summary": "Bullous pemphigoid 是高齡者 anti-BP180/BP230 的 subepidermal blister；與 EBA 的鑑別不能只靠 H&E，需 immunofluorescence/salt-split study。",
+   "A": "本項敘述錯誤。類天疱瘡（bullous pemphigoid）主要發生在 60 歲以上的長者，而且與中風、失智、巴金森氏症這些神經疾病相關。把好發年齡寫成 30–50 歲就不成立。",
+   "B": "本項敘述錯誤。會和重症肌無力（myasthenia gravis）或胸腺瘤（thymoma）綁在一起的，是伴腫瘤天疱瘡（paraneoplastic pemphigus），不是類天疱瘡。「半數病人」和「病程高度同步」這兩個說法都不對。",
+   "C": "本項敘述錯誤。desmoglein 3 抗體造成基底層上方棘細胞鬆解，那是尋常型天疱瘡（pemphigus vulgaris）的機轉。類天疱瘡打的是半橋粒上的 BP180 與 BP230，靠的是 anti-BP180／anti-BP230 抗體，水疱長在表皮下方。",
+   "D": "正確答案。類天疱瘡與後天水疱性表皮鬆解症（epidermolysis bullosa acquisita）在一般 H&E 下都是表皮下水疱，光看 H&E 分不出來。要靠直接免疫螢光；還可以用鹽裂皮膚（salt-split skin）分辨：訊號黏在表皮側是類天疱瘡，黏在真皮側是後天水疱性表皮鬆解症。",
+   "summary": "類天疱瘡＝高齡＋BP180/BP230＋表皮下水疱；它和 EBA 只有免疫螢光分得開，H&E 分不開。",
    "guideline": null
   },
   "source": "110080/302_22",
@@ -16531,11 +16531,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Vitiligo 具有多基因與自體免疫相關的家族聚集性，但並非單基因高外顯率遺傳；父母一方罹病時，子女風險雖高於一般人口，仍遠低於 70%。",
-   "B": "308 nm excimer laser 或 excimer light 可選擇性治療局部 vitiligo，藉由免疫調節、減少攻擊 melanocyte 的 T cells，並促進毛囊殘存 melanocyte 增生與移行而達到 repigmentation。",
-   "C": "臉部 vitiligo 雖可接受控制劑量的 phototherapy，但一般日曬無法精準控制 UV 劑量，且脫色區缺乏 melanin 保護而容易曬傷；仍應使用防曬並避免病灶與正常皮膚間色差加深。",
-   "D": "Vitiligo 確實可能合併 autoimmune thyroid disease、type 1 diabetes mellitus 或 alopecia areata，但局部病灶通常以 topical corticosteroid、topical calcineurin inhibitor 或 phototherapy 治療。長期全身性 corticosteroid 並非第一線常規療法，因其副作用大，僅可能短期用於快速進展病例。",
-   "summary": "鑑別重點是 vitiligo 的家族風險並未高達 70%，且 308 nm excimer phototherapy 可由毛囊 melanocyte reservoir 促進復色；治療性照光不等於可省略日常防曬。",
+   "A": "本項敘述錯誤。白斑（vitiligo）是多基因加自體免疫的病，會家族聚集，但不是單基因高外顯率遺傳。父母一方有病時子女風險確實高於一般人，卻遠遠到不了 70%。",
+   "B": "正確答案。308 nm 的準分子雷射或準分子光可以只照病灶。它一方面調節免疫、減少攻擊黑色素細胞（melanocyte）的 T 細胞，一方面讓毛囊裡殘存的黑色素細胞增生並往外移行，皮膚才會重新上色。",
+   "C": "本項敘述錯誤。臉上的白斑可以接受劑量受控的照光治療，但曬太陽不等於治療：日曬的紫外線（UV）劑量沒辦法控制，而且脫色的地方沒有黑色素保護，特別容易曬傷。不防曬還會讓病灶和正常皮膚的色差更明顯。",
+   "D": "本項敘述錯誤。白斑確實常合併自體免疫甲狀腺疾病、第一型糖尿病（type 1 diabetes mellitus）或圓禿。但局部病灶的第一線是外用類固醇、外用鈣調磷酸酶抑制劑（calcineurin inhibitor）或照光。全身性類固醇副作用大，只可能短期用在快速進展的病例，不是長期第一線。",
+   "summary": "白斑治療記三件事：308 nm 照光讓毛囊的色素細胞爬出來、外用藥是第一線、照光不等於可以不防曬。",
    "guideline": "FC 醫學(四)第2冊 p.167"
   },
   "source": "110080/302_22",
@@ -28214,11 +28214,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Atopic dermatitis 常有 epidermal barrier defect，包括 filaggrin 功能異常、角質層脂質不足及 transepidermal water loss 增加，因此容易乾燥並讓刺激物與 allergen 穿透。",
-   "B": "Atopic dermatitis 病灶常被 Staphylococcus aureus 大量定殖，其 toxins 或 superantigens 可加重皮膚發炎；定殖增加不代表每位病人都已有需要抗生素治療的侵入性感染。",
-   "C": "Serum IgE 可在許多 atopic dermatitis 病人升高，但亦有 intrinsic atopic dermatitis 的 IgE 正常，因此 IgE 並非診斷所必須的 biomarker。診斷主要依慢性反覆搔癢性 eczema、典型分布與個人或家族 atopy 等臨床資料。",
-   "D": "Atopic dermatitis 的病程會受到情緒壓力、溫濕度、流汗、刺激物、感染及 allergen 等因素影響；壓力可透過 neuroimmune interaction 加劇搔癢—抓搔循環。",
-   "summary": "本題區分 atopic dermatitis 的常見相關現象與必要診斷條件：barrier defect、S. aureus colonization 與環境誘發均常見，但 serum IgE 升高不是必要條件。",
+   "A": "本項敘述正確。異位性皮膚炎的皮膚屏障本來就有缺陷：filaggrin 功能異常、角質層脂質不足、經皮水分散失增加。皮膚一乾，刺激物與過敏原就更容易鑽進去。",
+   "B": "本項敘述正確。病灶上常被金黃色葡萄球菌（Staphylococcus aureus）大量定殖，它的毒素與超級抗原（superantigen）會讓發炎更嚴重。但定殖多不等於已經有需要抗生素的侵入性感染。",
+   "C": "本項應選。血中 IgE 在很多病人會升高，卻不是診斷的必要條件——有一型內因性異位性皮膚炎的 IgE 是正常的。診斷靠的是臨床：慢性反覆的搔癢性濕疹、典型分布，加上個人或家族的異位體質。",
+   "D": "本項敘述正確。病程會被情緒壓力、溫濕度、流汗、刺激物、感染與過敏原影響。壓力可以透過神經免疫的互動把癢—抓循環放大。",
+   "summary": "IgE 高是常見現象，不是診斷條件——內因性異位性皮膚炎的 IgE 就是正常的。",
    "guideline": "FC 醫學(四)第2冊 p.124"
   },
   "source": "111020/302_22",
@@ -28252,11 +28252,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Folliculitis 是以毛囊為中心的感染性或發炎性丘疹、膿疱，通常為局部病變，不是造成全身廣泛紅斑與脫屑之 exfoliative dermatitis 的典型原因。",
-   "B": "嚴重或控制不佳的 atopic dermatitis 可擴展至大部分體表，形成 erythroderma 或 exfoliative dermatitis，並可能伴隨體溫調節與水分流失異常。",
-   "C": "Psoriasis 是 exfoliative dermatitis 的重要原因之一，可能演變為 erythrodermic psoriasis，呈現超過約 90% 體表的紅斑、脫屑及全身性發炎。",
-   "D": "Cutaneous T-cell lymphoma，尤其 Sézary syndrome，可表現為廣泛 erythroderma、脫屑、劇癢、淋巴結腫大及周邊血異常 T cells。",
-   "summary": "Exfoliative dermatitis 常由 psoriasis、eczema、藥物反應或 cutaneous T-cell lymphoma 引起；單純局部 folliculitis 通常不會造成全身 erythroderma。",
+   "A": "本項應選。毛囊炎（folliculitis）是以毛囊為中心的丘疹或膿疱，範圍侷限。它不會把全身燒成一片紅斑加脫屑，所以不是落屑性皮膚炎的原因。",
+   "B": "本項不選。嚴重或控制不好的異位性皮膚炎（atopic dermatitis）可以擴散到大半個體表，變成紅皮症（erythroderma）或落屑性皮膚炎，還會連帶體溫調節與水分流失出問題。",
+   "C": "本項不選。乾癬（psoriasis）是落屑性皮膚炎的重要原因之一，可以演變成紅皮型乾癬（erythrodermic psoriasis），紅斑與脫屑蓋過約 90% 的體表，並伴隨全身性發炎。",
+   "D": "本項不選。皮膚 T 細胞淋巴癌（cutaneous T-cell lymphoma），尤其是 Sézary syndrome，典型就是廣泛紅皮、脫屑、劇癢、淋巴結腫大，周邊血裡還找得到異常 T 細胞。",
+   "summary": "落屑性皮膚炎要想「全身性」的病：乾癬、濕疹、藥物疹、皮膚 T 細胞淋巴癌；毛囊炎只是局部，湊不出紅皮症。",
    "guideline": "FC 醫學(四)第2冊 p.154"
   },
   "source": "111020/302_22",
@@ -28290,11 +28290,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Allergic contact dermatitis 的 allergen 多為分子量小於約 500 Daltons、可穿透角質層且常具親脂性的 hapten；hapten 與皮膚蛋白結合後才形成完整 antigen。",
-   "B": "Langerhans cells 是表皮重要的 antigen-presenting cells，可攝取 hapten-protein complex，移行至區域淋巴結並將 antigen 呈現給 naïve T cells。",
-   "C": "淋巴結內受刺激的 T cells 會增殖並形成 allergen-specific effector 與 memory T cells，再以皮膚歸巢機轉回到皮膚；T cells 不會分化成 mast cells，後者源自 hematopoietic myeloid lineage。",
-   "D": "Sensitization phase 通常需約 10～14 天或更久，初次致敏時往往沒有明顯臨床皮疹；再次接觸後的 elicitation phase 才會在約 24～72 小時出現 delayed-type hypersensitivity eczema。",
-   "summary": "Allergic contact dermatitis 是 type IV delayed hypersensitivity：小分子 hapten 穿透皮膚後由 Langerhans cells 呈現，產生特異性 memory T cells，而非由 IgE 或 mast-cell differentiation 主導。",
+   "A": "本項敘述錯誤。會引起過敏性接觸性皮膚炎的過敏原，分子量多半小於 500 Daltons，而且偏親脂性——夠小、夠親脂才鑽得過角質層。它本身是半抗原（hapten），要和皮膚蛋白結合後才變成完整抗原。",
+   "B": "正確答案。藍格罕氏細胞（Langerhans cells）是表皮的主要抗原呈現細胞。它把半抗原—蛋白複合體吃進去，再移行到區域淋巴結，把抗原呈現給尚未活化的 T 細胞。",
+   "C": "本項敘述錯誤。淋巴結裡被刺激的 T 細胞會增殖成專一的效應與記憶 T 細胞，再靠皮膚歸巢機轉回到皮膚。T 細胞不會變成肥大細胞（mast cell）——後者來自骨髓的髓系細胞，是不同的來源。",
+   "D": "本項敘述錯誤。致敏期大約要 10～14 天甚至更久，而且第一次致敏時通常沒有明顯皮疹。真正起疹是再次接觸後的激發期（elicitation phase），在 24～72 小時後才出現，屬於遲發型過敏。",
+   "summary": "過敏性接觸性皮膚炎是第四型遲發型過敏（type IV delayed hypersensitivity）：小分子半抗原→藍格罕氏細胞帶去淋巴結→記憶 T 細胞回皮膚；跟 IgE 和肥大細胞無關。",
    "guideline": "FC 醫學(四)第2冊 p.124"
   },
   "source": "111020/302_22",
@@ -28330,11 +28330,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Contact dermatitis 通常依接觸範圍形成搔癢性紅斑、丘疹或水疱，形狀常與外來物接觸模式相符；題幹的老年人、單側背腹分布及劇烈神經痛較不支持此診斷。",
-   "B": "Herpes simplex 會形成群聚小水疱，常在口唇或生殖器反覆於相近位置發作；大範圍沿單側胸腹 dermatome 的初次發作較符合 herpes zoster。",
-   "C": "Impetigo 是表淺細菌感染，典型為 honey-colored crust，bullous impetigo 則可見鬆弛水疱；劇烈夜間神經痛及單側帶狀分布不是其典型表現。",
-   "D": "Herpes zoster 是潛伏於 sensory ganglion 的 varicella-zoster virus 再活化，典型為單側 dermatome 內群聚水疱並伴灼痛或神經痛，通常不越過身體中線。70 歲、右背延伸至右腹且疼痛劇烈高度符合此病。圖上右側背部是一整片沿單一皮節分布的紅斑，上面散布群聚的小水疱與結痂，而且沒有越過中線，正是帶狀疱疹的典型樣貌。",
-   "summary": "鑑別關鍵為 unilateral dermatomal vesicles 加上明顯 neuropathic pain，指向 herpes zoster；contact dermatitis 偏癢、impetigo 偏黃痂，而 herpes simplex 通常侷限且易復發。",
+   "A": "本項不選。接觸性皮膚炎（contact dermatitis）的紅斑、丘疹或水疱會照著接觸範圍長，形狀通常對得上碰到的東西。這題是老人家、單側從背延伸到腹，還痛到睡不著，方向不同。",
+   "B": "本項不選。單純疱疹（herpes simplex）也是群聚小水疱，但好發在口唇或生殖器，而且會在差不多的位置反覆發作。第一次發作就沿著單側胸腹一整個皮節，比較像帶狀疱疹。",
+   "C": "本項不選。膿痂疹（impetigo）是表淺的細菌感染，典型是蜜黃色結痂；大疱型可見鬆弛水疱。它不會有劇烈的夜間神經痛，也不會排成帶狀。",
+   "D": "正確答案。帶狀疱疹（herpes zoster）是躲在感覺神經節裡的水痘帶狀疱疹病毒（varicella-zoster virus）再活化。典型長相是單側、侷限在一個皮節內的群聚水疱，伴灼痛或神經痛，而且通常不越過身體中線。70 歲、右背延伸到右腹、疼痛劇烈，完全對得上。圖上右側背部是一整片沿單一皮節分布的紅斑，上面散布群聚的小水疱與結痂，而且沒有越過中線，正是帶狀疱疹的典型樣貌。",
+   "summary": "單側、不過中線、照著皮節走的群聚水疱，加上劇痛，就是帶狀疱疹——痛到睡不著是很強的提示。",
    "guideline": "FC 醫學(四)第2冊 p.39"
   },
   "source": "111020/302_22",
@@ -28368,11 +28368,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Erythrasma 不是黴菌感染，而是由 Gram-positive Corynebacterium minutissimum 引起的表淺細菌感染；因此不應將它歸類為 dermatophytosis 或 candidiasis。",
-   "B": "Erythrasma 病灶在 Wood's lamp 下可呈 coral-red fluorescence，源自細菌產生的 porphyrin；病灶清洗後螢光可能暫時減弱。",
-   "C": "Erythrasma 偏好溫暖潮濕且互相摩擦的 intertriginous areas，因此常見於腋下、腹股溝、趾縫或乳房下方。",
-   "D": "Erythrasma 臨床可見界線相對清楚的紅褐色或褐色斑塊，表面常有 fine scales，症狀通常輕微或無症狀。",
-   "summary": "紅癬的核心是 Corynebacterium minutissimum 細菌感染、皺褶部位紅褐色細屑斑，以及 Wood's lamp 下 coral-red fluorescence，須與 tinea cruris 等黴菌感染區分。",
+   "A": "本項應選。紅癬不是黴菌感染，病原是革蘭氏陽性的 Corynebacterium minutissimum，屬於表淺的細菌感染。把它歸到皮癬菌症或念珠菌感染就錯了，治療方向也會跟著錯。",
+   "B": "本項敘述正確。伍氏燈下的珊瑚紅螢光來自細菌產生的紫質（porphyrin）。要注意檢查前如果剛清洗過病灶，螢光可能暫時變弱。",
+   "C": "本項敘述正確。它偏好溫暖、潮濕又互相摩擦的皺褶處，所以腋下、腹股溝最常見，趾縫和乳房下方也會長。",
+   "D": "本項敘述正確。病灶是界線相對清楚的紅褐色或褐色斑塊，表面帶細細的脫屑，多數人症狀輕微甚至沒感覺。",
+   "summary": "紅癬的「癬」字是陷阱：它是細菌不是黴菌，所以抗黴菌藥治不好。",
    "guideline": "FC 醫學(四)第2冊 p.25"
   },
   "source": "111020/302_22",
@@ -28408,11 +28408,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Epidermal cyst 是由 keratinizing stratified squamous epithelium 構成囊壁、內含層狀 keratin 的真皮或皮下囊腫，常為緩慢增大的可移動結節並可見 central punctum。圖上是一顆膚色、圓頂狀的皮下結節，中央看得到一個深色的小開口，那就是與表皮相連的 punctum，是表皮囊腫最好認的特徵。",
-   "B": "Steatocystoma 是皮脂腺導管相關囊腫，常於青春期後在胸部、腋窩或近端四肢出現多發、柔軟且可能帶黃色油脂內容物的結節；單一大腿內側腫塊若有明顯 punctum，會較偏向 epidermal cyst。",
-   "C": "Mucous cyst 多位於遠端指間關節附近或甲摺，常與 osteoarthritis 及關節囊連通有關，內容物為透明黏液；大腿內側不是其典型位置。",
-   "D": "Eruptive vellus hair cyst 通常在兒童或年輕人胸腹、四肢出現多發性小丘疹，囊內可見 vellus hairs；題幹描述逐漸長大的單一皮膚腫瘤較不典型。",
-   "summary": "本題以生長緩慢的皮下結節鑑別各類 cyst：epidermal cyst 常具 central punctum 且含 keratin，steatocystoma 與 vellus hair cyst 多呈多發性，mucous cyst 則偏好手指 DIP 附近。",
+   "A": "正確答案。表皮囊腫（epidermal cyst）的囊壁是會角化的複層鱗狀上皮，裡面塞的是一層層的角質。它長在真皮或皮下，是慢慢變大、可以推得動的結節，表面常有一個開口。圖上是一顆膚色、圓頂狀的皮下結節，中央看得到一個深色的小開口，那就是與表皮相連的 punctum，是表皮囊腫最好認的特徵。",
+   "B": "本項不選。皮脂腺囊腫（steatocystoma）與皮脂腺導管有關，多在青春期後長在胸部、腋窩或近端四肢，通常是多發、柔軟，內容物可能帶黃色油脂。單一顆長在大腿內側又有明顯開口，比較像表皮囊腫。",
+   "C": "本項不選。黏液囊腫（mucous cyst）幾乎都長在遠端指間關節（DIP）附近或甲摺，常和退化性關節炎、關節囊相通有關，裡面是透明黏液。大腿內側不是它的地盤。",
+   "D": "本項不選。爆發性纖毛囊腫（eruptive vellus hair cyst）多見於兒童或年輕人的胸腹與四肢，是多發性小丘疹，囊內看得到細毛。題目講的是單一顆逐漸長大的腫瘤，不符合。",
+   "summary": "看到中央有個小開口（punctum）的皮下結節就想表皮囊腫；其他幾種囊腫不是多發，就是位置固定在手指。",
    "guideline": "FC 醫學(四)第2冊 p.222"
   },
   "source": "111020/302_22",
@@ -28446,11 +28446,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Carney complex 多為 PRKAR1A 相關 autosomal dominant syndrome，特徵包括 spotty skin pigmentation、cardiac myxoma、內分泌腫瘤與 blue nevi；多發 epidermal cyst 合併大腸息肉並非其典型組合。",
-   "B": "Cowden syndrome 是 PTEN hamartoma tumor syndrome，可有口腔 papilloma、trichilemmoma、macrocephaly，並增加乳癌、甲狀腺癌與 endometrial cancer 風險；其腸道可有 hamartomatous polyps，但多發 epidermal cyst 與大腸 polyposis 的經典連結較屬 Gardner syndrome。",
-   "C": "Proteus syndrome 通常與 mosaic AKT1 activation 有關，造成不對稱、進行性的骨骼與軟組織過度生長、connective tissue nevus 及血管畸形；不以大腸息肉合併多發 epidermal cyst 為主要表現。",
-   "D": "Gardner syndrome 是 familial adenomatous polyposis 的表現型，通常由 APC pathogenic variant 引起，可見大量 colorectal adenomatous polyps、osteoma、desmoid tumor、dental anomaly 及多發 epidermal cyst。若未接受監測與預防性處置，其 colorectal cancer 風險極高，亦可合併 thyroid cancer。",
-   "summary": "多發 epidermal cyst、adenomatous colorectal polyposis、osteoma 或 desmoid tumor 應聯想到 APC-related Gardner syndrome；甲狀腺癌雖也見於 Cowden syndrome，但整體表現型可協助區分。",
+   "A": "本項不選。Carney complex 多與 PRKAR1A 有關，是體染色體顯性遺傳。它的特徵是斑點狀皮膚色素沉著、心臟黏液瘤、內分泌腫瘤與藍痣。多發表皮囊腫加大腸息肉不是它的組合。",
+   "B": "本項不選。Cowden syndrome 屬於 PTEN 錯構瘤腫瘤症候群，會有口腔乳突瘤、毛根鞘瘤（trichilemmoma）、頭圍過大，並增加乳癌、甲狀腺癌與子宮內膜癌風險。它的腸道息肉是錯構瘤型；「多發表皮囊腫＋大腸腺瘤性息肉」的經典連結仍屬 Gardner syndrome。",
+   "C": "本項不選。Proteus syndrome 與鑲嵌型 AKT1 活化有關，表現是不對稱且持續進展的骨骼與軟組織過度生長，加上結締組織痣與血管畸形。它不以大腸息肉合併多發表皮囊腫為主。",
+   "D": "正確答案。Gardner syndrome 是家族性腺瘤性息肉症（familial adenomatous polyposis）的一種表現型，多由 APC 致病變異引起。它會有大量大腸腺瘤性息肉、骨瘤（osteoma）、硬纖維瘤（desmoid tumor）、牙齒異常與多發表皮囊腫，也可能合併甲狀腺癌。沒有監測與預防性處置的話，大腸癌風險極高。",
+   "summary": "皮膚長一堆表皮囊腫＋大腸息肉＋骨瘤，要想 APC 的 Gardner syndrome——皮膚是線索，真正要命的是大腸癌。",
    "guideline": "FC 醫學(四)第2冊 p.221"
   },
   "source": "111020/302_22",
@@ -28481,11 +28481,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Cutaneous lymphoma 可表現為持續性斑塊、腫瘤或 erythroderma，組織學常見 atypical lymphocytes、epidermotropism 或 Pautrier microabscess；follicular plugging、interface dermatitis 與 lupus band 並非其典型組合。",
-   "B": "Cutaneous sarcoidosis 的切片典型為非乾酪性 naked granulomas，臨床可呈丘疹、斑塊或 lupus pernio；題幹所述 basal hydropic degeneration 與毛囊周圍 lymphocytic infiltrate 不符合 granulomatous pattern。",
-   "C": "Discoid lupus erythematosus 常見 adherent scales、follicular plugging、中央萎縮、疤痕與色素改變；病理可見 epidermal atrophy、interface dermatitis、basal vacuolar degeneration 及 periadnexal lymphocytes。直接免疫螢光可在 dermoepidermal junction 呈 lupus band，題幹整體最支持此診斷。圖上臉頰與下頜可見數個界線清楚的紅色斑塊，表面附著鱗屑、中央已經萎縮凹陷並有色素改變，符合盤狀病灶的長相。",
-   "D": "Subacute cutaneous lupus erythematosus 常呈光照部位的 annular-polycyclic 或 papulosquamous lesions，通常不造成明顯疤痕與毛囊角栓；其臨床常與 anti-Ro/SSA antibody 相關。",
-   "summary": "本題鑑別 DLE 與 SCLE：表皮萎縮、follicular plugging、basal vacuolar degeneration、perifollicular lymphocytes 及 lupus band，配合萎縮性盤狀皮疹，支持 DLE。",
+   "A": "本項不選。皮膚淋巴癌（cutaneous lymphoma）表現為持續的斑塊、腫瘤或紅皮症，組織學會看到異常淋巴球、親表皮性與 Pautrier microabscess。毛孔角栓加交界性皮膚炎、再加狼瘡帶，不是它的組合。",
+   "B": "本項不選。皮膚類肉瘤（sarcoidosis）的切片典型是沒有乾酪化的裸露肉芽腫，臨床可呈丘疹、斑塊或凍瘡樣狼瘡（lupus pernio）。題幹講的基底細胞液樣變性與毛囊周圍淋巴球浸潤不是肉芽腫的樣子。",
+   "C": "正確答案。盤狀紅斑性狼瘡（discoid lupus erythematosus）臨床是附著性鱗屑、毛孔角栓、中央萎縮、疤痕與色素改變。病理則是表皮萎縮、交界性皮膚炎、基底空泡變性與附屬器周圍淋巴球浸潤。直接免疫螢光在表皮真皮交界呈線狀沉積，就是狼瘡帶（lupus band），整題湊起來最支持它。圖上臉頰與下頜可見數個界線清楚的紅色斑塊，表面附著鱗屑、中央已經萎縮凹陷並有色素改變，符合盤狀病灶的長相。",
+   "D": "本項不選。亞急性皮膚紅斑性狼瘡長在照得到光的地方，呈環狀多環型或丘疹鱗屑型，通常不留明顯疤痕，也沒有明顯毛囊角栓。它常與 anti-Ro/SSA 抗體相關。",
+   "summary": "會留疤、有毛孔角栓、中央萎縮的是盤狀狼瘡（DLE）；亞急性型（SCLE）長在曬得到的地方但不留疤——留不留疤是最快的分法。",
    "guideline": null
   },
   "source": "111020/302_22",
@@ -28519,11 +28519,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Seborrheic keratosis 是良性的 epidermal keratinocyte proliferation，並非 carcinoma in situ；病理常見 acanthosis、hyperkeratosis、papillomatosis 與 horn cysts。",
-   "B": "Seborrheic keratosis 的確切成因包含年齡、遺傳與 FGFR3 等 somatic mutations，日曬可能促進部分病灶，尤其是暴露部位的 lesions。",
-   "C": "Seborrheic keratosis 好發於中老年人，常呈界線清楚、蠟樣或疣狀且像貼上去的 stuck-on papules 或 plaques。",
-   "D": "Leser-Trélat sign 指短期內突然出現或快速增多的大量 seborrheic keratoses，傳統上被視為可能的 paraneoplastic sign，特別需評估 gastrointestinal adenocarcinoma 等內臟惡性腫瘤。",
-   "summary": "Seborrheic keratosis 是老年人常見的良性 stuck-on epidermal tumor，不是原位癌；若病灶在短時間大量爆發，則須辨識 Leser-Trélat sign 並評估內臟惡性腫瘤。",
+   "A": "本項應選。脂漏性角化症（seborrheic keratosis）是良性的表皮角質細胞增生，不是原位癌。病理上看到的是棘層肥厚、角化過度、乳頭瘤樣增生與角質囊腫（horn cysts），沒有惡性細胞。",
+   "B": "本項敘述正確。它的成因包括年齡、遺傳與 FGFR3 等體細胞突變，日曬可能促成部分病灶，尤其長在曝曬部位的那些。",
+   "C": "本項敘述正確。好發於中老年人，長相是界線清楚、蠟樣或疣狀的丘疹與斑塊，看起來像用膠水貼上去的一樣。",
+   "D": "本項敘述正確。短時間內突然爆出大量脂漏性角化症，稱為 Leser-Trélat sign。傳統上把它視為可能的伴腫瘤徵象，要特別評估胃腸道腺癌等內臟惡性腫瘤。",
+   "summary": "脂漏性角化症是良性的「貼上去」病灶；但短期內一次冒出一堆（Leser-Trélat sign），就要去找內臟的癌。",
    "guideline": "FC 醫學(四)第2冊 p.178"
   },
   "source": "111020/302_22",
@@ -28559,11 +28559,11 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "Peutz-Jeghers syndrome 多由 STK11 pathogenic variant 引起，採 autosomal dominant inheritance，而非 autosomal recessive inheritance。",
-   "B": "Peutz-Jeghers syndrome 的 mucocutaneous melanotic macules 通常在兒童期即可出現，常位於嘴唇、口腔黏膜、鼻周及手指；部分皮膚色素成年後可能變淡，但口腔色素較持久。",
-   "C": "Peutz-Jeghers syndrome 除 hamartomatous gastrointestinal polyps 外，亦提高 pancreas、stomach、small bowel、colon、breast、ovary、cervix、testis 等部位良性或惡性腫瘤的風險，因此需要終生腫瘤監測。",
-   "D": "Peutz-Jeghers polyps 最常見於 small intestine，尤其 jejunum，其次才是 colon 與 stomach；息肉可造成出血、貧血、腸套疊或腸阻塞。",
-   "summary": "青春期前後出現唇及口腔黑斑、血便與 gastrointestinal hamartomatous polyps，應辨識 autosomal dominant 的 Peutz-Jeghers syndrome；其息肉偏好 small intestine，並伴多器官癌症風險。",
+   "A": "本項敘述錯誤。Peutz-Jeghers syndrome 多由 STK11 致病變異引起，走的是體染色體顯性遺傳，不是隱性。這代表父母其中一人有病就可能傳下來。",
+   "B": "本項敘述錯誤。它的黏膜皮膚黑斑在兒童期就看得到，長在嘴唇、口腔黏膜、鼻子周圍與手指。皮膚上的色素成年後可能變淡，但口腔裡的通常留著。",
+   "C": "正確答案。除了腸胃道的錯構瘤性息肉，這個症候群還會提高胰臟、胃、小腸、大腸、乳房、卵巢、子宮頸與睪丸的腫瘤風險，良性惡性都有。所以病人需要終生做腫瘤監測，不是切掉息肉就結束。",
+   "D": "本項敘述錯誤。Peutz-Jeghers 的息肉最常長在小腸，尤其是空腸，其次才是大腸與胃。息肉會造成出血、貧血、腸套疊或腸阻塞。",
+   "summary": "嘴唇黑斑＋血便的小孩要想 Peutz-Jeghers：顯性遺傳、息肉在小腸、而且要終生防癌。",
    "guideline": "FC 醫學(四)第1冊 p.621"
   },
   "source": "111020/302_22",
@@ -29779,11 +29779,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Stevens-Johnson syndrome 是嚴重 mucocutaneous adverse reaction，表皮剝離面積小於 10% body surface area；本例達 40%，已超過 SJS 與 overlap syndrome 的範圍。",
-   "B": "Toxic epidermal necrolysis 常由藥物誘發，呈廣泛紅斑、疼痛、水疱、黏膜糜爛與 full-thickness epidermal necrosis，表皮剝離超過 30% body surface area。Allopurinol 是重要高風險藥物之一，本例 40% 體表受影響符合 TEN。",
-   "C": "Erythema multiforme 常與 herpes simplex infection 有關，典型為肢端對稱 target lesions，黏膜受累通常少於 SJS/TEN；它不常造成 40% 體表的廣泛表皮壞死與剝落。",
-   "D": "Pemphigus vulgaris 是 anti-desmoglein 3、可能合併 anti-desmoglein 1 antibody 所致的 intraepidermal blistering disease，可有黏膜糜爛與鬆弛水疱；其病程通常較慢性，與服用 allopurinol 後急性廣泛 epidermal necrosis 的時間關係不同。",
-   "summary": "SJS/TEN 依 epidermal detachment 面積區分：小於 10% 為 SJS、10～30% 為 overlap、超過 30% 為 TEN；allopurinol 後兩週發病且剝離 40% 指向 TEN。",
+   "A": "本項不選。史蒂文強生氏症候群（Stevens-Johnson syndrome）的表皮剝離面積小於體表面積的 10%。這個病人已經 40%，超出它甚至超出重疊型的範圍。",
+   "B": "正確答案。毒性表皮溶解症（toxic epidermal necrolysis）多由藥物誘發，表現是廣泛紅斑、劇痛、水疱、黏膜糜爛與全層表皮壞死，剝離面積超過體表 30%。這個病人是 40%，而且 allopurinol 正是最重要的高風險藥之一。",
+   "C": "本項不選。多形性紅斑（erythema multiforme）多與單純疱疹感染有關，典型是四肢對稱的靶狀病灶，黏膜受累比 SJS/TEN 輕。它不會造成 40% 體表的廣泛表皮壞死剝落。",
+   "D": "本項不選。尋常型天疱瘡（pemphigus vulgaris）是 anti-desmoglein 3、有時再加 anti-desmoglein 1 抗體造成的表皮內水疱病，也會有黏膜糜爛與鬆弛水疱。但它病程偏慢性，和「吃 allopurinol 兩週後急性大面積壞死」的時序對不上。",
+   "summary": "SJS 和 TEN 就是看剝離面積：<10% 是 SJS、10–30% 重疊、>30% 是 TEN；allopurinol 是最該記的元凶藥。",
    "guideline": "FC 醫學(四)第2冊 p.143"
   },
   "source": "111020/302_22",
@@ -29855,11 +29855,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Osler nodes 是 infective endocarditis 可見的疼痛性紅紫色皮下小結節，位於手指或腳趾末端，主要與 immune complex-mediated vasculitis 有關。",
-   "B": "Roth spots 是眼底 retina 上具有淡色中心的出血斑，並不是指甲床病灶；infective endocarditis 的指甲下線狀出血稱為 splinter hemorrhages。圖中確實有甲床病灶，但那是細長條狀的線狀出血；Roth spots 要在眼底才看得到，圖裡對應的是結膜上的點狀出血。",
-   "C": "Infective endocarditis 可因微血管栓塞或血管炎在 conjunctiva、oral mucosa 與四肢形成 petechiae；這些瘀點通常可作為周邊徵象之一。",
-   "D": "Janeway lesions 是手掌或足底無痛、紅色至出血性的 macules 或 plaques，與 septic microemboli 形成的 dermal microabscesses 有關。",
-   "summary": "本題辨認 infective endocarditis 的周邊徵象：Osler nodes 疼痛、Janeway lesions 無痛、Roth spots 位於 retina，而甲床線狀出血是 splinter hemorrhages。",
+   "A": "本項敘述正確。Osler node 是感染性心內膜炎（infective endocarditis）在手指或腳趾末端長出的紅紫色皮下小結節，特點是會痛。機轉偏向免疫複合體造成的血管炎。",
+   "B": "本項應選。Roth spot 長在眼底視網膜上，是中心發白的出血斑，不是甲床病灶。心內膜炎的指甲下病灶叫線狀出血（splinter hemorrhage），兩者位置完全不同。圖中確實有甲床病灶，但那是細長條狀的線狀出血；Roth spots 要在眼底才看得到，圖裡對應的是結膜上的點狀出血。",
+   "C": "本項敘述正確。微血管栓塞或血管炎會在結膜、口腔黏膜與四肢造成瘀點（petechiae），這是心內膜炎的周邊徵象之一。",
+   "D": "本項敘述正確。Janeway lesion 長在手掌或腳底，是不痛的紅色到出血性斑塊。它來自敗血性微栓子在真皮造成的微膿瘍，和 Osler node 的免疫機轉不同。",
+   "summary": "心內膜炎四個皮膚徵象用「痛不痛、在哪裡」記：Osler 會痛在指尖、Janeway 不痛在手掌、Roth 在眼底、甲床那條是 splinter。",
    "guideline": "FC 醫學(四)第2冊 p.220"
   },
   "source": "111020/302_22",
@@ -40159,11 +40159,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "第二代 H1 antihistamine 是 chronic urticaria 的第一線治療，可抑制 histamine 引起的風團與搔癢；反應不足時可依指引逐步提高至標準劑量的數倍。",
-   "B": "Cyclosporine 藉抑制 calcineurin 與 T-cell activation，亦可降低 mast-cell mediator release，可用於 antihistamine 與 omalizumab 治療仍無效的嚴重 chronic spontaneous urticaria；使用時須監測血壓與腎功能。",
-   "C": "Omalizumab 是針對 free IgE 的 monoclonal antibody，可降低 FcεRI 相關活化，為高劑量第二代 H1 antihistamine 控制不佳之 chronic spontaneous urticaria 的重要後線治療。",
-   "D": "Long-term oral corticosteroid 不建議治療 chronic urticaria，因長期可能造成感染、osteoporosis、diabetes、hypertension 與 adrenal suppression。若急性嚴重惡化，僅可考慮短期 rescue course，而非持續使用。",
-   "summary": "Chronic urticaria 採階梯式治療：第二代 H1 antihistamine 為起點，難治病例可用 omalizumab，再視情況考慮 cyclosporine；應避免長期 systemic corticosteroid。",
+   "A": "本項不選。第二代 H1 抗組織胺是慢性蕁麻疹的第一線治療，能壓下組織胺造成的風團與癢。效果不夠時，指引允許把劑量往上加到標準劑量的數倍。",
+   "B": "本項不選。cyclosporine 抑制 calcineurin 與 T 細胞活化，也能減少肥大細胞釋放介質。它用在抗組織胺與 omalizumab 都壓不住的嚴重慢性自發性蕁麻疹，使用時要監測血壓與腎功能。",
+   "C": "本項不選。omalizumab 是對付游離 IgE 的單株抗體，可以降低 FcεRI 相關的活化。高劑量第二代抗組織胺控制不佳時，它是重要的後線治療。",
+   "D": "本項應選。長期口服類固醇不建議用來治療慢性蕁麻疹，因為會帶來感染、骨質疏鬆、糖尿病、高血壓與腎上腺抑制。急性嚴重惡化時只能短期救援使用，不能長期吃下去。",
+   "summary": "慢性蕁麻疹是階梯治療：抗組織胺→加量→omalizumab→cyclosporine；類固醇只能救火，不能當常備藥。",
    "guideline": "FC 醫學(四)第2冊 p.125"
   },
   "source": "111080/302_22",
@@ -40197,11 +40197,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Psoriatic arthritis 是 psoriasis 的重要共病，可呈 asymmetric oligoarthritis、symmetric polyarthritis、distal interphalangeal arthritis、arthritis mutilans 或 axial disease，並常見 dactylitis 與 enthesitis。",
-   "B": "中重度 psoriasis 與 systemic inflammation、metabolic syndrome 及 accelerated atherosclerosis 有關，因此 myocardial infarction 等 major adverse cardiovascular events 的風險會增加。",
-   "C": "Obesity 是 psoriasis 的危險因子與疾病嚴重度相關因素，adipose tissue 產生的 proinflammatory cytokines 可加重發炎，減重則可能改善治療反應。",
-   "D": "Oral corticosteroid 不是 plaque psoriasis 的首選治療，突然減量或停藥可能誘發嚴重反彈、generalized pustular psoriasis 或 erythrodermic psoriasis。治療應依嚴重度選用 topical agents、phototherapy、傳統 systemic agents 或 biologics。",
-   "summary": "Psoriasis 是全身性免疫發炎疾病，須辨識 psoriatic arthritis、obesity 與 cardiovascular disease 等共病；常規治療不以 oral corticosteroid 為首選，尤其須避免突然停藥造成反彈。",
+   "A": "本項敘述正確。乾癬性關節炎是乾癬的重要共病，可以是不對稱寡關節炎、對稱多關節炎、遠端指間關節炎、殘毀性關節炎或脊椎型，常伴指趾炎與附著點炎。",
+   "B": "本項敘述正確。中重度乾癬本身是全身性發炎，與代謝症候群和加速的動脈粥狀硬化有關，所以心肌梗塞等重大心血管事件的風險會上升。",
+   "C": "本項敘述正確。肥胖既是乾癬的危險因子，也和疾病嚴重度有關。脂肪組織會分泌促發炎的細胞激素讓發炎更嚴重，減重則可能改善治療反應。",
+   "D": "本項應選。口服類固醇不是斑塊型乾癬的首選。更危險的是停藥：突然減量或停掉可能引發嚴重反彈，變成全身膿疱型乾癬或紅皮型乾癬。正規做法是依嚴重度選外用藥、照光、傳統系統性藥或生物製劑。",
+   "summary": "乾癬不是只長在皮膚：要一起看關節炎、肥胖與心血管；而口服類固醇是它的地雷，停藥會反彈。",
    "guideline": "FC 醫學(四)第2冊 p.154"
   },
   "source": "111080/302_22",
@@ -40235,11 +40235,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Pityriasis versicolor 主要由脂質依賴性的 Malassezia yeast 過度增生造成，常在軀幹與近端上肢形成色素較淡、較深或紅褐色的細屑斑。",
-   "B": "Pityriasis versicolor 在 Wood's lamp 下可能出現 yellow-green 或 yellow-gold fluorescence，但敏感度有限，沒有螢光不能排除；KOH 可見典型短菌絲與孢子組合。",
-   "C": "Griseofulvin 對 Malassezia 所致 pityriasis versicolor 缺乏良好療效，並不是口服首選；廣泛或反覆病例可選 oral itraconazole 或 fluconazole，但應避免 oral ketoconazole 的嚴重 hepatotoxicity。",
-   "D": "Malassezia 偏好高溫、潮濕與富含皮脂的環境，因此悶熱潮濕、流汗多、油性皮膚或免疫抑制者治療後較容易復發。",
-   "summary": "汗斑是 Malassezia 表淺酵母菌感染，可見細屑斑與黃綠色螢光；口服治療選 azole 類而非 griseofulvin，且高溫潮濕使復發常見。",
+   "A": "本項敘述正確。汗斑（pityriasis versicolor）是靠脂質存活的馬拉色菌（Malassezia）過度增生造成，常在軀幹與上臂近端形成細屑斑，顏色可能比周圍淡、深或偏紅褐。",
+   "B": "本項敘述正確。伍氏燈下可能看到黃綠色或金黃色螢光。但敏感度有限，沒有螢光不能排除診斷；KOH 鏡檢看到短菌絲加孢子的組合更可靠。",
+   "C": "本項應選。griseofulvin 對馬拉色菌沒有好療效，不是口服首選。範圍廣或反覆發作時選 itraconazole 或 fluconazole；口服 ketoconazole 則因嚴重肝毒性應避免。",
+   "D": "本項敘述正確。馬拉色菌喜歡高溫、潮濕又富含皮脂的環境，所以悶熱、流汗多、皮膚出油或免疫抑制的人治好後還是容易復發。",
+   "summary": "汗斑的口服藥要選 azole 類——griseofulvin 對馬拉色菌無效，這是最常被拿來考的錯誤選項。",
    "guideline": "FC 醫學(四)第2冊 p.64"
   },
   "source": "111080/302_22",
@@ -40275,11 +40275,11 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "Hand-foot-and-mouth disease 多由 enteroviruses 引起，絕大多數兒童病例為 benign、self-limited，通常約 7～10 日緩解；仍須留意嗜睡、肌躍型抽搐、呼吸急促或循環不穩等重症警訊。",
-   "B": "Hand-foot-and-mouth disease 痊癒後數週可發生 onychomadesis，即 nail matrix 暫時停止生長造成近端甲板分離脫落，常在約 3～8 週後出現且多可自行恢復。",
-   "C": "Hand-foot-and-mouth disease 常見 oral vesicles 或 ulcers，以及手掌、足底、臀部與四肢皮疹；Coxsackievirus A6 感染時病灶可能更廣泛並累及嘴巴周圍。",
-   "D": "Coxsackievirus A16 所致 hand-foot-and-mouth disease 通常較輕，而 enterovirus 71 較容易造成 brainstem encephalitis、autonomic dysfunction、pulmonary edema 與死亡。Coxsackievirus A6 雖可產生較廣泛皮疹，但不能概括為其重症率高於 enterovirus 71。",
-   "summary": "題幹指向 hand-foot-and-mouth disease；鑑別重點是多數 Coxsackievirus 病例具自限性，恢復後可見 onychomadesis，而 enterovirus 71 才是神經與心肺重症的重要高風險型別。",
+   "A": "本項敘述正確。手足口病（hand-foot-and-mouth disease）多由腸病毒引起，兒童病例絕大多數是良性、會自己好，大約 7～10 天緩解。但仍要盯重症警訊：嗜睡、肌躍型抽搐、呼吸急促、循環不穩。",
+   "B": "本項敘述正確。痊癒後數週可能出現脫甲症（onychomadesis），原因是甲母質暫時停止生長，讓近端甲板分離脫落。多發生在約 3～8 週後，通常會自己長回來。",
+   "C": "本項敘述正確。典型是口腔水疱或潰瘍，加上手掌、腳底、臀部與四肢的皮疹。Coxsackievirus A6 感染時病灶可能更廣泛，還會延伸到嘴巴周圍。",
+   "D": "本項應選。方向剛好相反：Coxsackievirus A16 造成的手足口病通常較輕，enterovirus 71 才是容易造成腦幹腦炎、自律神經失調、肺水腫甚至死亡的那一型。Coxsackievirus A6 雖然皮疹比較廣，但不能因此說它重症率高於 EV71。",
+   "summary": "手足口病看病毒型別分輕重：克沙奇多半自限，EV71 才是會腦幹腦炎、肺水腫的重症元凶。",
    "guideline": "FC 醫學(四)第1冊 p.249"
   },
   "source": "111080/302_22",
@@ -40315,11 +40315,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Dermatofibroma 是良性 fibrohistiocytic tumor，常見於下肢的堅硬褐色丘疹，側向擠壓可呈 dimple sign；下唇暗紫色且有彈性的病灶並非其典型表現。",
-   "B": "Venous lake 是日曬相關的表淺擴張靜脈，常見於高齡者下唇、耳廓或臉部，呈柔軟、可壓縮且可褪色的藍紫色 papule。病理通常可見真皮內擴張、充滿紅血球且內襯扁平 endothelial cells 的 vascular space。圖一是下唇一顆藍紫色、表面平滑的柔軟丘疹；圖二的病理則看到真皮內一個明顯擴張、塞滿紅血球的血管腔，兩者合起來就是靜脈湖。",
-   "C": "Melanoma 可呈不對稱、邊界不規則、顏色不均或持續變化的色素性病灶，黏膜或唇部 melanoma 尤須警覺；然而柔軟暗紫、可壓縮且病理為擴張血管腔時較符合 venous lake。",
-   "D": "Pigmented basal cell carcinoma 常為珍珠樣丘疹或潰瘍性結節，伴 telangiectasia 與色素，病理可見 basaloid nests、peripheral palisading 及 stromal retraction；下唇黏膜面並非典型好發位置。",
-   "summary": "高齡者日曬部位尤其下唇出現柔軟、可壓縮的藍紫色丘疹，病理若為擴張的靜脈腔即支持 venous lake；須與 melanoma 及 pigmented basal cell carcinoma 區分。",
+   "A": "本項不選。皮膚纖維瘤（dermatofibroma）是良性的纖維組織細胞腫瘤，多長在下肢，是堅硬的褐色丘疹，兩側擠壓會出現 dimple sign。下唇的暗紫色又有彈性的病灶不是它的樣子。",
+   "B": "正確答案。靜脈湖（venous lake）是日曬相關的表淺靜脈擴張，好發於高齡者的下唇、耳廓與臉部，摸起來柔軟、壓得下去、壓迫後會褪色。病理看到的是真皮內擴張、塞滿紅血球、內襯扁平內皮細胞的血管腔。圖一是下唇一顆藍紫色、表面平滑的柔軟丘疹；圖二的病理則看到真皮內一個明顯擴張、塞滿紅血球的血管腔，兩者合起來就是靜脈湖。",
+   "C": "本項不選。黑色素瘤（melanoma）的色素病灶不對稱、邊界不規則、顏色不均且會持續變化，唇部與黏膜的黑色素瘤更要提高警覺。但這題病灶柔軟、可壓縮，病理又是擴張的血管腔，方向不同。",
+   "D": "本項不選。色素性基底細胞癌通常是珍珠樣丘疹或潰瘍性結節，帶微血管擴張與色素；病理可見基底樣細胞巢、周邊柵欄狀排列與間質退縮。下唇黏膜面不是它典型的地盤。",
+   "summary": "老人家下唇一顆壓得扁的藍紫色軟丘疹，就是靜脈湖——「壓得下去」是和黑色素瘤最快的分法。",
    "guideline": "FC 醫學(四)第2冊 p.220"
   },
   "source": "111080/302_22",
@@ -40353,11 +40353,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Acute cutaneous lupus erythematosus 的 malar rash 常跨越鼻樑與雙側臉頰，典型上會避開 nasolabial folds，是 SLE 重要且具代表性的皮膚表現。",
-   "B": "Photosensitivity 可使 lupus 皮疹在紫外線暴露後發作或惡化，常影響臉、V 領與伸側上肢；UV radiation 可促進 keratinocyte apoptosis 與 autoantigen 暴露。",
-   "C": "一般短暫、搔癢且每處少於 24 小時消退的 urticaria 不是診斷 SLE 的核心皮膚特徵。SLE 可出現 urticarial vasculitis，但病灶通常持續超過 24 小時、疼痛或灼熱，且消退後可能留下 purpura 或色素沉著。",
-   "D": "Discoid rash 可見界線清楚的紅斑性斑塊、黏著性鱗屑、follicular plugging、萎縮與疤痕，是 chronic cutaneous lupus erythematosus 的代表性病灶，也可出現在 SLE 病人。",
-   "summary": "SLE 的重要皮膚線索包括 malar rash、photosensitivity 與 discoid rash；普通反覆 urticaria 缺乏特異性，只有持久且可能留痕的 urticarial vasculitis 才較提示 systemic autoimmune disease。",
+   "A": "本項不選。急性皮膚型狼瘡的蝴蝶斑會跨過鼻樑連到兩頰，而且典型會避開鼻唇溝，是全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）很有代表性的皮膚表現。",
+   "B": "本項不選。光敏感會讓狼瘡皮疹在曬到紫外線（UV）後發作或惡化，常影響臉、V 領與上肢伸側。機轉是紫外線促進角質細胞凋亡、把自體抗原暴露出來。",
+   "C": "本項應選。一般的蕁麻疹又癢、每一塊在 24 小時內就消退，這種缺乏特異性，不是診斷狼瘡的核心皮膚特徵。狼瘡確實可能出現蕁麻疹性血管炎，但那種病灶會持續超過 24 小時、會痛或灼熱，消退後還可能留下紫斑或色素沉著——判斷關鍵在「留多久、留不留痕」。",
+   "D": "本項不選。盤狀疹是界線清楚的紅斑性斑塊，帶黏著性鱗屑、毛孔角栓、萎縮與疤痕，屬於慢性皮膚型狼瘡的代表病灶，也會出現在全身性紅斑性狼瘡病人身上。",
+   "summary": "蕁麻疹在狼瘡要問「一塊疹子留多久」：24 小時內就退是普通蕁麻疹，超過 24 小時又留痕才是蕁麻疹性血管炎。",
    "guideline": "FC 醫學(四)第2冊 p.101"
   },
   "source": "111080/302_22",
@@ -40391,11 +40391,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Dermal melanocytosis 因 melanin 位於較深的真皮，短波長光被吸收而長波長藍光較易返回觀察者，形成 Tyndall effect，因此外觀常呈藍灰色而非表皮色素的褐色。",
-   "B": "Nevus of Hori 又稱 acquired bilateral nevus of Ota-like macules，較常見於亞洲中年女性，呈兩側顴部藍灰褐色斑點；它通常是後天出現，並非出生時即可發現。",
-   "C": "Nevus of Ito 位於肩頸、鎖骨上區或上臂，分布約對應 posterior supraclavicular 與 lateral brachial cutaneous nerves。沿臉部 trigeminal nerve 分布並可能伴 scleral pigmentation 的是 nevus of Ota。",
-   "D": "Mongolian spot，即 congenital dermal melanocytosis，常見於亞洲及其他較深膚色新生兒，最典型位於 lumbosacral area 或臀部；下腹部不是最常見位置。",
-   "summary": "Dermal melanocytosis 因 Tyndall effect 呈藍灰色；臉部 trigeminal distribution 是 nevus of Ota，肩頸上臂是 nevus of Ito，nevus of Hori 為後天雙側顴部病灶，而蒙古斑偏好腰薦臀部。",
+   "A": "正確答案。真皮層黑色素細胞增生（dermal melanocytosis）的黑色素位置比較深，短波長的光被吸收、藍光比較容易折返到眼睛，這叫 Tyndall effect。所以它看起來是藍灰色，而不是表皮色素那種褐色。",
+   "B": "本項敘述錯誤。Hori 氏母斑又叫後天性雙側 Ota 樣斑，常見於亞洲中年女性，長在兩側顴部，是藍灰褐色斑點。關鍵字是「後天」——它不是一出生就有。",
+   "C": "本項敘述錯誤。Ito 氏母斑長在肩頸、鎖骨上區與上臂，分布大致對應鎖骨上後神經與臂外側皮神經。沿臉部三叉神經分布、還可能合併鞏膜色素異常的是 Ota 氏母斑。",
+   "D": "本項敘述錯誤。蒙古斑就是先天性真皮黑色素細胞增生，常見於亞洲與其他深膚色新生兒，但最典型的位置是腰薦部或臀部，不是下腹部。",
+   "summary": "藍灰色＝色素在真皮（Tyndall effect）；位置記三個：臉是 Ota、肩臂是 Ito、腰臀是蒙古斑。",
    "guideline": "FC 醫學(四)第2冊 p.166"
   },
   "source": "111080/302_22",
@@ -40424,11 +40424,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Phenol 及其衍生物如 hydroquinone、monobenzyl ether of hydroquinone 可對 melanocytes 產生選擇性細胞毒性或干擾 melanogenesis，引起 occupational chemical leukoderma，外觀可類似 vitiligo。",
-   "B": "Polyethylene 是常見惰性 polymer，主要可能造成摩擦、刺激或添加物相關 contact dermatitis，並不是選擇性破壞 melanocytes 而造成 chemical leukoderma 的典型物質。",
-   "C": "Parabens 是防腐劑，少數人接觸後可能發生 allergic contact dermatitis，但並非造成 vitiligo-like depigmentation 的代表性 melanocytotoxic chemical。",
-   "D": "Alcohol 可使皮膚乾燥、去脂並誘發 irritant contact dermatitis，通常表現為紅斑、脫屑與龜裂；它不會典型地選擇性消滅 melanocytes 而形成持續性脫色斑。",
-   "summary": "職業性 chemical leukoderma 應聯想到 phenol、catechol 及 hydroquinone 衍生物對 melanocytes 的毒性；polyethylene、parabens 與 alcohol 較常造成刺激性或過敏性皮膚炎，而非真正 depigmentation。",
+   "A": "正確答案。phenol 與它的衍生物（例如 hydroquinone、monobenzyl ether of hydroquinone）對黑色素細胞有選擇性毒性，也會干擾黑色素生成。結果就是職業性化學性白斑（chemical leukoderma），外觀和白斑幾乎一樣。",
+   "B": "本項不選。聚乙烯（polyethylene）是惰性高分子，頂多因摩擦、刺激或添加物造成接觸性皮膚炎。它不會選擇性破壞黑色素細胞。",
+   "C": "本項不選。對羥基苯甲酸酯（parabens）是防腐劑，少數人接觸後可能發生過敏性接觸皮膚炎。但它不是造成類白斑脫色的代表性黑色素細胞毒性物質。",
+   "D": "本項不選。酒精會讓皮膚乾燥、去脂並引發刺激性接觸皮膚炎，表現是紅斑、脫屑與龜裂。它不會選擇性消滅黑色素細胞而留下持續脫色斑。",
+   "summary": "工廠工人手上長「白斑」要問接觸什麼：phenol／catechol／hydroquinone 這類才會毒死黑色素細胞。",
    "guideline": null
   },
   "source": "111080/302_22",
@@ -40457,11 +40457,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "男性 androgenetic alopecia 可用 Hamilton-Norwood classification 評估額角後退、前額髮線與頭頂稀疏的分期；女性則常使用 Ludwig 或 Sinclair scale。",
-   "B": "Androgenetic alopecia 通常是逐漸進行的 patterned hair thinning，病人未必感受到大量 active hair shedding；若突然大量掉髮，應另行考慮 telogen effluvium、alopecia areata 或其他誘因。",
-   "C": "Androgenetic alopecia 的核心病理是 androgen-sensitive follicles 逐漸 miniaturization，使 terminal hairs 變細、變短並轉成 vellus-like hairs，因此頭皮鏡可見 hair shaft diameter diversity 與 vellus hairs 增加。",
-   "D": "Topical minoxidil 可延長 anagen phase 並促進毛囊生長，是男性與女性 androgenetic alopecia 的治療選項；使用初期可能短暫增加 shedding，且須持續治療才能維持效果。",
-   "summary": "雄性禿的辨識重點是特定分布的漸進性稀疏與 follicular miniaturization，而非典型大量急性掉髮；Hamilton-Norwood 用於男性，topical minoxidil 則男女皆可考慮。",
+   "A": "本項敘述正確。男性雄性禿用 Hamilton-Norwood classification 分期，看的是額角後退、前額髮線與頭頂稀疏。女性則常用 Ludwig 或 Sinclair scale。",
+   "B": "本項應選。雄性禿是慢慢進行的區域性稀疏，病人往往不會感覺到大量掉髮。如果真的突然一把一把掉，要改想休止期落髮（telogen effluvium）、圓禿或其他誘因。",
+   "C": "本項敘述正確。它的核心病理是對雄性素敏感的毛囊逐漸微小化：終毛變細變短，慢慢變成像毳毛的樣子。所以頭皮鏡下會看到毛幹粗細不一與毳毛增加。",
+   "D": "本項敘述正確。外用 minoxidil 能延長生長期並促進毛囊生長，男女都可以用。要先跟病人說兩件事：初期可能短暫掉更多，而且必須持續使用才能維持效果。",
+   "summary": "雄性禿是「悄悄變細」不是「大量掉落」——會一把一把掉的要想休止期落髮。",
    "guideline": null
   },
   "source": "111080/302_22",
@@ -40497,11 +40497,11 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "Ichthyosis vulgaris 多與 FLG（filaggrin）功能缺失有關，通常在出生後數月才出現四肢伸側細小魚鱗狀脫屑、掌紋增多及 keratosis pilaris。它不會使新生兒出生時即被極厚鎧甲狀角質包覆，也通常不致於出生後立即死亡。",
-   "B": "Palmoplantar keratoderma 是以手掌及足底角質層增厚為主的一群疾病，可呈瀰漫型、局限型或點狀型。其分布侷限於掌蹠，無法解釋全身性厚膜、皮膚深裂與致命的新生兒表現。",
-   "C": "Harlequin ichthyosis 是嚴重的 autosomal recessive congenital ichthyosis，常由 ABCA12 mutation 造成脂質運送與皮膚屏障形成障礙；新生兒可見全身巨大厚角質板、深裂隙、ectropion 及 eclabium。",
-   "D": "Incontinentia pigmenti 是 X-linked dominant 的 IKBKG mutation 疾病，主要發生於女性，皮疹依序經過水疱、疣狀、渦旋狀色素沉著及色素減退等階段。它不會形成出生時包覆全身的極厚角質膜，男性胎兒反而常因突變而在子宮內死亡。",
-   "summary": "出生即有全身巨大厚角質板與深裂、並迅速危及生命，應辨認 harlequin ichthyosis；ichthyosis vulgaris 通常較晚發作且程度輕，incontinentia pigmenti 則具有沿 Blaschko lines 演變的分期皮疹。",
+   "A": "本項不選。尋常性魚鱗癬（ichthyosis vulgaris）多與 FLG（filaggrin）功能缺失有關，通常出生後幾個月才出現四肢伸側的細小魚鱗狀脫屑、掌紋變多與毛孔角化。它不會讓新生兒一出生就被厚角質包住，也不會立刻致命。",
+   "B": "本項不選。掌蹠角化症是一群以手掌腳底角質增厚為主的疾病，可分瀰漫型、局限型或點狀型。病灶只在掌蹠，解釋不了全身厚膜、深裂與新生兒死亡。",
+   "C": "正確答案。丑角樣魚鱗癬（harlequin ichthyosis）是嚴重的體染色體隱性先天性魚鱗癬，多由 ABCA12 突變造成脂質運送與屏障形成障礙。新生兒全身被巨大厚角質板包住，中間裂開深溝，還會有眼瞼外翻（ectropion）與唇外翻（eclabium）。",
+   "D": "本項不選。色素失禁症（incontinentia pigmenti）是 X 染色體顯性的 IKBKG 突變疾病，主要發生在女性。皮疹會依序經過水疱期、疣狀期、渦旋狀色素沉著與色素減退，沿著 Blaschko lines 走，不會形成出生時包覆全身的厚角質膜；男性胎兒常在子宮內就死亡。",
+   "summary": "出生就像穿盔甲、皮膚裂成一塊塊＝丑角樣魚鱗癬（ABCA12）；其他魚鱗癬都晚發且輕得多。",
    "guideline": "FC 醫學(四)第1冊 p.550"
   },
   "source": "111080/302_22",
@@ -41798,11 +41798,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Group A Streptococcus 可造成 cellulitis、erysipelas、necrotizing fasciitis 或 streptococcal toxic shock syndrome，但本例的海水與魚鰭傷口暴露、肝硬化及出血性水疱更典型指向 Vibrio vulnificus。慢性肝病與糖尿病都是侵襲性 V. vulnificus 感染及敗血性休克的重要危險因子。",
-   "B": "Ceftriaxone 合併 doxycycline 可涵蓋疑似 Vibrio vulnificus 的嚴重軟組織感染，其中 doxycycline 抑制 30S ribosomal subunit，而第三代 cephalosporin 抑制細胞壁合成。面對快速進展的出血性水疱與休克，應立即靜脈給藥，不可等待培養結果才治療。",
-   "C": "Necrotizing soft tissue infection 的處置核心是及早外科探查與徹底 debridement，抗生素無法穿透已壞死且灌流不良的組織。若等到廣效抗生素反應不佳才照會外科，會延誤 source control 並增加死亡率。",
-   "D": "Norepinephrine 是 septic shock 在充分輸液復甦後仍低血壓時的第一線 vasopressor，可藉 α1-mediated vasoconstriction 提升 mean arterial pressure。此病人血壓 80/54 mmHg 且有感染性休克表現，並非禁用 norepinephrine，反而應依灌流狀態及血壓及早使用。",
-   "summary": "海水或海產刺傷後迅速出現出血性水疱、壞死與休克，尤其合併肝硬化時，首要考慮 Vibrio vulnificus；治療需同時進行 ceftriaxone 加 doxycycline、積極復甦及緊急外科 source control。",
+   "A": "本項敘述錯誤。A 群鏈球菌確實會造成蜂窩性組織炎、丹毒、壞死性筋膜炎或鏈球菌毒性休克。但這個病人是海水、魚鰭刺傷再加肝硬化，又長出血性水疱，更典型指向 Vibrio vulnificus。慢性肝病與糖尿病正是它侵襲性感染與敗血性休克的重要危險因子。",
+   "B": "正確答案。ceftriaxone 合併 doxycycline 可以涵蓋懷疑 Vibrio vulnificus 的嚴重軟組織感染。doxycycline 抑制 30S 核糖體次單元，第三代 cephalosporin 抑制細胞壁合成，兩邊機轉不同。面對快速進展的出血性水疱與休克，要立刻靜脈給藥，不能等培養結果。",
+   "C": "本項敘述錯誤。壞死性軟組織感染的核心處置是及早外科探查與徹底清創，因為抗生素進不了已經壞死、灌流不良的組織。等到廣效抗生素反應不佳才會診外科，會延誤感染源控制並拉高死亡率。",
+   "D": "本項敘述錯誤。norepinephrine 是敗血性休克在輸液復甦後仍低血壓時的第一線升壓藥，靠 α1 受體收縮血管把平均動脈壓拉起來。這個病人血壓 80/54 mmHg、心跳 140/min，已經是休克，不但沒有禁忌，還應該及早使用。",
+   "summary": "海鮮刺傷＋肝硬化＋出血性水疱＝Vibrio vulnificus：抗生素給 ceftriaxone 加 doxycycline，而且要馬上開刀清創，不能等。",
    "guideline": null
   },
   "source": "111080/302_22",
@@ -51970,11 +51970,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Psoriasis 與 seborrheic dermatitis 在 scalp 或 sebopsoriasis 情境下可有重疊的組織學變化，例如 psoriasiform hyperplasia 與表皮角化異常。皮膚切片必須配合病灶分布、鱗屑性質及臨床病程，因此不一定能單憑 histopathology 完全區分。",
-   "B": "Seborrheic dermatitis 是好發於皮脂豐富部位的慢性發炎性皮膚病，與 Malassezia、皮脂及宿主免疫反應相關，並非典型關節炎相關疾病。會伴隨 inflammatory arthritis 的是 psoriasis，其 psoriatic arthritis 可累及 distal interphalangeal joints、脊椎或附著點。",
-   "C": "HIV infection 可使 psoriasis 初發或明顯惡化，並可能呈現廣泛、頑固、膿疱型或 erythrodermic psoriasis。乾癬突然變得嚴重時，應依病史與風險評估免疫缺陷或 HIV infection。",
-   "D": "HIV infection 者的 seborrheic dermatitis 盛行率與嚴重度均可增加，常呈較廣泛、發炎明顯且對一般治療較頑固的病灶。嚴重 seborrheic dermatitis 也可能是免疫功能下降的皮膚表徵之一。",
-   "summary": "鑑別重點是 psoriatic arthritis 與 psoriasis 相關，而不是 seborrheic dermatitis；兩者在頭皮與組織學上可重疊，且 HIV infection 都可能使皮膚表現加劇。",
+   "A": "本項敘述正確。乾癬與脂漏性皮膚炎在頭皮或脂漏性乾癬的情境下，組織學可以重疊，都可能出現乾癬樣增生與角化異常。所以切片要配合病灶分布、鱗屑性質與病程，光看病理不一定分得開。",
+   "B": "本項應選。會伴隨發炎性關節炎的是乾癬，不是脂漏性皮膚炎。脂漏性皮膚炎是長在皮脂豐富部位的慢性發炎，和馬拉色菌、皮脂與宿主免疫反應有關，本身不是關節炎相關疾病。",
+   "C": "本項敘述正確。HIV 感染可以讓乾癬第一次發作或明顯惡化，甚至變成廣泛、頑固、膿疱型或紅皮型。所以乾癬突然變嚴重時，要依病史評估免疫缺陷或 HIV 感染。",
+   "D": "本項敘述正確。HIV 感染者的脂漏性皮膚炎盛行率與嚴重度都會增加，常變得更廣泛、發炎更明顯、對一般治療更頑固。嚴重的脂漏性皮膚炎本身就可能是免疫功能下降的皮膚警訊。",
+   "summary": "會合併關節炎的是乾癬不是脂漏性皮膚炎；但兩者都會被 HIV 放大，看到突然惡化就要想免疫問題。",
    "guideline": "FC 醫學(四)第2冊 p.153"
   },
   "source": "112020/302_22",
