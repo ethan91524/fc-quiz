@@ -7248,11 +7248,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "胸背血管（thoracodorsal vessels）不是腋淋巴結 level 的分界；用它的外側判定會把血管解剖誤當成腫瘤分期界線。",
-   "B": "胸背血管內側同樣不是 level II 的定義；腋淋巴結分層以小胸肌（pectoralis minor）的相對位置為準。",
-   "C": "小胸肌上方、即其內側緣以內至鎖骨下方的淋巴結屬 level III，不是 level II。",
-   "D": "正確。第二區（level II） 位於小胸肌後方（題目稱下方）；level I 在小胸肌外側，level III 在其內側。",
-   "summary": "腋下淋巴結 level I–III 以小胸肌為界：外側、後方、內側。",
+   "A": "本項不選。胸背血管（thoracodorsal vessels）是腋窩清除時要小心保留的血管，不拿來當淋巴結分區界線。腋淋巴結 level 的座標是小胸肌（pectoralis minor），跟血管的內外側無關。",
+   "B": "本項不選。分區看的是跟小胸肌的相對位置。胸背血管的內側或外側都不是 level II 的定義，把血管當界線是混淆了解剖構造和腫瘤分期。",
+   "C": "本項不選。小胸肌內側緣以內、往鎖骨方向的那群淋巴結是 level III，不是 level II。這一區數量少，通常全乳切除時才會一併清除。",
+   "D": "正確答案。level II 就是小胸肌深部（也就是題目說的「下方」）的那一群淋巴結。level I 在小胸肌外下方，level III 在小胸肌內側，三區都以小胸肌為基準。",
+   "summary": "腋淋巴結三區的唯一座標是小胸肌：外下方是 level I、深部是 level II、內側是 level III。",
    "guideline": null,
    "concepts": [
     "axillary-lymph-node-levels"
@@ -7289,11 +7289,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "無法接受術後乳房放射治療是乳房保留治療的重要限制，因單做局部切除會提高同側乳房復發風險。",
-   "B": "腫瘤相對乳房過大可能造成無法接受的外觀或難以取得陰性切緣，故可改採全乳切除或評估腫瘤整形手術。",
-   "C": "錯誤。前哨淋巴結（sentinel lymph node）轉移不會自動排除乳房保留；符合條件者仍可保乳，腋下治療另依結節數與放療計畫決定。",
-   "D": "分散於不同象限的多中心病灶常難以用一次局部切除取得陰性切緣與良好外觀，因此通常不適合保乳。",
-   "summary": "保乳資格取決於能否取得陰性切緣並完成放療，不由前哨淋巴結陽性單獨否決。",
+   "A": "本項不選。保乳一定要能做術後全乳放療；只切局部而不放療，同側乳房復發率會明顯上升。所以因肺病不能放療的人確實不適合保乳，這句沒錯。",
+   "B": "本項不選。腫瘤佔乳房比例太高時，切乾淨會留下難看的外觀，也不容易拿到陰性切緣。這種情況改做全乳切除或腫瘤整形手術比較合適，這句沒錯。",
+   "C": "本項應選。這是唯一錯的敘述。前哨淋巴結（sentinel lymph node）有轉移不會取消保乳資格，乳房那一端照樣可以局部切除加放療。腋下要不要進一步清除或放療，是另外依陽性顆數和放療計畫決定的。",
+   "D": "本項不選。病灶散在不同象限（多中心）時，一次局部切除很難同時拿到乾淨切緣和可接受的外觀，通常不適合保乳，這句沒錯。",
+   "summary": "保乳的門檻是「切得乾淨＋做得了放療」，前哨淋巴結陽性不在否決條件裡。",
    "guideline": null
   },
   "source": "110020/302_33",
@@ -19363,11 +19363,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "錯誤。微小鈣化（microcalcifications）以乳房攝影（mammography）較敏感；超音波可能完全看不到只有鈣化的病灶。",
-   "B": "年輕婦女常有較緻密乳腺，使腫瘤與腺體在 mammography 都呈高密度，降低對比與敏感度。",
-   "C": "緻密乳房會遮蔽 mammography 上的腫塊，故陰性影像不能取代臨床評估，必要時加做 ultrasound。",
-   "D": "Mammography 是無症狀婦女族群篩檢的主要工具；ultrasound 多作補充而非單獨取代。",
-   "summary": "Microcalcifications 靠 mammography；dense breast 會降低其敏感度。",
+   "A": "本項應選。這是錯的敘述。微小鈣化（microcalcifications）要靠乳房攝影（mammography）才看得清楚。乳房超音波（ultrasonography）對只有鈣化、沒有腫塊的病灶常常完全看不到。",
+   "B": "本項不選。50 歲以下婦女的乳腺通常較緻密，腫瘤和正常腺體在攝影上都是白的，對比不出來，敏感度就低，這句沒錯。",
+   "C": "本項不選。緻密乳房（dense breast）會把攝影上的腫塊蓋掉，所以攝影陰性不能安心，必要時要加做超音波，這句沒錯。",
+   "D": "本項不選。族群篩檢的主力工具就是乳房攝影，超音波只是輔助，不能單獨拿來取代 50 歲以上婦女的篩檢攝影，這句沒錯。",
+   "summary": "鈣化看攝影、腫塊在緻密乳房會被蓋掉——這兩點是攝影和超音波的分工。",
    "guideline": null
   },
   "source": "110080/302_33",
@@ -19401,11 +19401,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "正確。BI-RADS 4 代表可疑異常，應取得組織診斷；只有 mammography 可見時可做立體定位導引切片。",
-   "B": "正常 ultrasound 不能排除 mammography 顯示的 clustered microcalcifications，兩種影像觀察的標的不同。",
-   "C": "BI-RADS 4 的惡性機率高於 category 3 的不超過 2%，並非小於 1%；因此不能只追蹤。",
-   "D": "叢聚顯微鈣化若為癌，常見是乳管原位癌（ductal carcinoma in situ），不必然已是侵襲性乳管癌。",
-   "summary": "BI-RADS 4 的可疑鈣化即使超音波陰性仍須切片。",
+   "A": "正確答案。攝影上的叢聚微小鈣化（clustered microcalcifications）被判為 BI-RADS category 4，惡性機率超過 2%，就一定要取組織來看。這種病灶超音波常看不到，所以用立體定位（stereotactic）導引切片。",
+   "B": "本項不選。超音波和攝影看的東西不一樣，超音波的 category 1 不能抵銷攝影的 category 4。鈣化本來就是超音波的盲區，看不到反而是預期中的。",
+   "C": "本項不選。惡性機率低到只有 1% 上下，是 BI-RADS category 3（極可能良性）的水準，那種可以只追蹤。這題已經是 category 4（>2%），必須取組織。",
+   "D": "本項不選。叢聚微小鈣化若是癌，最常對應乳管原位癌（ductal carcinoma in situ, DCIS），還沒突破基底膜，不一定已經是侵襲性乳管癌。",
+   "summary": "攝影 BI-RADS 4 的鈣化，超音波再正常都要切片——因為鈣化本來就不是超音波看得到的東西。",
    "guideline": null,
    "concepts": [
     "bi-rads"
@@ -19442,11 +19442,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "Halsted 根治性乳房切除術（Halsted radical mastectomy） 曾是歷史上的標準，包含乳房、胸肌與廣泛腋下清除；現今多由較低侵襲性的手術取代。",
-   "B": "錯誤。隨機試驗顯示乳房保留手術加放療與全乳切除的存活相當，不是保乳能顯著增加 overall 或 disease-free survival。",
-   "C": "陽性切緣表示可能殘留腫瘤，會增加同側乳房局部復發，通常須再次切除或改變手術策略。",
-   "D": "嚴重肺病可能使胸部放療的肺毒性風險難以接受，需由放射腫瘤團隊個別評估。",
-   "summary": "保乳加放療與全乳切除的存活相當；其優勢不是提高存活率。",
+   "A": "本項不選。這句在講歷史。根治性乳房切除術（radical mastectomy）由 Halsted 提出，1970 年代之前是標準術式，一次切掉乳房、胸大小肌和整片腋下淋巴結。現在幾乎都用範圍更小的手術，這題沒把這句當錯。",
+   "B": "本項應選。這是錯的敘述。隨機試驗證明的是「保乳加放療」跟「全乳切除」存活率一樣，不是保乳能顯著提高 overall survival 或 disease-free survival。保乳的意義在保留乳房，不在延長壽命。",
+   "C": "本項不選。陽性切緣代表腫瘤可能沒切乾淨，同側乳房局部復發（local recurrence）率會上升，通常要再次擴大切除或改變手術方式，這句沒錯。",
+   "D": "本項不選。嚴重肺病（severe pulmonary disease）的人做胸部放療，肺毒性風險可能高到不能接受，需要放射腫瘤團隊個別評估，這句沒錯。",
+   "summary": "保乳加放療只是「不輸給」全乳切除，不是贏過它——考點是別把等效講成優效。",
    "guideline": null
   },
   "source": "110080/302_33",
@@ -31704,11 +31704,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "乳房 Paget 病（乳房 Paget 病（Paget disease） of the breast）是惡性腫瘤細胞延伸至乳頭表皮，不是單純 eczema；類固醇可能暫時掩蓋病灶。",
-   "B": "乳房 Paget 病（Paget disease） 已屬癌病灶，常伴乳管原位癌或侵襲癌；只做乳頭局部切除通常不足，治療須依乳房內病灶範圍規劃。",
-   "C": "合併可觸及腫塊或侵襲癌時，腋下淋巴結轉移並不少見；「即使有腫瘤也少見」低估其分期風險。",
-   "D": "正確。乳房 Paget 病（Paget disease） 是乳癌侵犯乳頭表皮；若伴下方侵襲性腫瘤，腋下轉移風險明顯，須完成乳房與腋下分期。",
-   "summary": "乳頭持續濕疹樣病灶須排除 Paget disease，並搜尋下方 DCIS 或侵襲癌。",
+   "A": "本項不選。乳房 Paget 病（Paget disease）是惡性腫瘤細胞爬到乳頭表皮，不是單純濕疹。擦類固醇可能讓表面看起來好轉，反而延誤診斷。",
+   "B": "本項不選。它已經是癌，不是癌前病變。底下幾乎都合併乳管原位癌（DCIS）或侵襲癌，只切乳頭通常不夠，要依乳房內病灶範圍規劃手術。",
+   "C": "本項不選。只要摸得到腫塊、或底下是侵襲癌，腋下淋巴結轉移就不少見。說「即使有腫瘤也少見」會低估分期風險。",
+   "D": "正確答案。乳房 Paget 病是乳癌侵犯乳頭表皮的表現。當底下合併侵襲性腫瘤時，腋下轉移的機會明顯升高，所以乳房和腋下都要完整分期。",
+   "summary": "乳頭上治不好的濕疹＝先想 Paget 病，而且要往底下找 DCIS 或侵襲癌。",
    "guideline": null
   },
   "source": "111020/302_33",
@@ -31737,11 +31737,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "BI-RADS 0 才表示檢查未完成、需補充影像；4A 已完成可疑度分類並需要組織診斷。",
-   "B": "正確。BI-RADS 4A 是低度懷疑惡性，仍屬 category 4，通常建議影像導引切片。",
-   "C": "BI-RADS 1 才是陰性正常表現；4A 不能解讀為正常。",
-   "D": "BI-RADS 3 是極可能良性，採短期影像追蹤；4A 的惡性風險較高，不能只做六個月追蹤。",
-   "summary": "BI-RADS 4A 雖為低度可疑，處置仍是切片而非短期追蹤。",
+   "A": "本項不選。要「再補影像才能分類」的是 BI-RADS category 0。4A 已經分完類，下一步是切片，不是再做影像。",
+   "B": "正確答案。BI-RADS 4A 是「低度懷疑惡性」，但只要落在 category 4，處置就是影像導引切片。",
+   "C": "本項不選。正常表現是 BI-RADS category 1。4A 不能當成正常，它已經進到需要切片的範圍。",
+   "D": "本項不選。「可能良性、短期追蹤」是 BI-RADS category 3 的做法。4A 惡性風險比 category 3 高，不能只做六個月追蹤。",
+   "summary": "看到 BI-RADS 4（含 4A）就是切片；追蹤是 category 3、補影像是 category 0。",
    "guideline": null,
    "concepts": [
     "bi-rads"
@@ -42590,11 +42590,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "每位全乳切除患者都應在術前獲得重建選項、時機與風險的說明；是否重建再依意願與腫瘤治療整合。",
-   "B": "義乳重建（implant-based reconstruction） 不會阻止腫瘤追蹤；局部復發多在皮膚或胸壁，可由理學檢查及適當影像評估。",
-   "C": "乳房重建常含 tissue expander、永久義乳、乳頭乳暈重建或對側對稱手術，分階段完成很常見。",
-   "D": "錯誤。延遲重建（delayed reconstruction） 是全乳切除後另一期重建，沒有固定必須等待兩年；時機依放療、全身治療、傷口與病人偏好決定。",
-   "summary": "延遲重建沒有「一律等兩年」的定義，重建時機需個別整合癌症治療。",
+   "A": "本項不選。每位要做全乳切除的病人，術前都應該被告知重建的選項、時機和風險，之後再依她的意願和癌症治療安排整合，這句沒錯。",
+   "B": "本項不選。義乳乳房重建（implant-based reconstruction）不會擋住腫瘤追蹤。局部復發多發生在皮膚或胸壁，靠理學檢查加影像就能評估，這句沒錯。",
+   "C": "本項不選。重建常要分階段：先放組織擴張器（tissue expander）、換永久義乳、再做乳頭乳暈重建和對側對稱手術。多步驟手術是常態，這句沒錯。",
+   "D": "本項應選。這是錯的敘述。延遲重建（delayed reconstruction）指的是全乳切除後另一次手術做重建，沒有「一律等兩年」這回事。時機看放療、全身治療、傷口狀況和病人意願決定。",
+   "summary": "延遲重建沒有固定等待期；「等兩年」是這題編出來的錯誤數字。",
    "guideline": null
   },
   "source": "111080/302_33",
@@ -43413,11 +43413,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "腋下轉移而乳房影像無明顯原發灶時，須考慮隱匿性乳癌（occult breast cancer），並以病理免疫染色及進一步影像尋找來源。",
-   "B": "錯誤。橘皮樣變化（peau d’orange）來自真皮淋巴阻塞造成皮膚水腫；Cooper 韌帶（Cooper ligaments） 牽扯較典型造成皮膚凹陷。",
-   "C": "單側持續乳頭 eczema 樣改變須切片排除乳房 Paget 病（Paget disease），尤其一般皮膚治療無效時。",
-   "D": "侵襲性乳癌引發結締組織增生反應（desmoplastic reaction），可使腫塊觸感堅硬且邊界不規則。",
-   "summary": "Peau d’orange 是真皮淋巴阻塞；Cooper ligament 牽扯主要造成凹陷。",
+   "A": "本項不選。腋下有轉移、乳房卻找不到原發灶時，要先想隱匿性乳癌（occult breast cancer），用免疫染色和進一步影像去追來源，這句沒錯。",
+   "B": "本項應選。這是錯的敘述。橘皮樣變化（peau d'orange）是真皮淋巴管被癌塞住、皮膚水腫造成的。Cooper 韌帶（Cooper ligaments）被牽扯時，皮膚是往內「凹」，不是變橘皮。",
+   "C": "本項不選。單側乳頭反覆濕疹樣變化、擦藥又沒效時，要切片排除乳房 Paget 病（Paget disease），這句沒錯。",
+   "D": "本項不選。侵襲性乳癌會引發結締組織增生（desmoplastic reaction），所以腫塊摸起來硬、邊界不規則，這句沒錯。",
+   "summary": "橘皮＝真皮淋巴阻塞、皮膚凹陷＝Cooper 韌帶牽扯——這兩個徵象別接錯機制。",
    "guideline": null
   },
   "source": "111080/302_33",
@@ -43451,11 +43451,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "DCIS 保乳後的全乳放療可顯著降低同側乳房復發，但不等於所有低風險個案都絕對需要，仍可依復發風險共同決策。",
-   "B": "部分年滿 70 歲、T1、淋巴結陰性且 ER-positive，接受內分泌治療者可考慮省略放療；代價是局部復發稍增而存活差異不明顯。",
-   "C": "全乳切除後通常不放療，但腫瘤 >5 cm 或較多腋下淋巴結轉移會提高胸壁復發風險，應評估術後放療。",
-   "D": "最不適當。化療治療全身微轉移，不能取代保乳後為控制殘存乳房局部病灶所需的放射治療。",
-   "summary": "保乳後化療與放療目的不同，化療不能取代局部放射治療。",
+   "A": "本項不選。乳管原位癌（DCIS）保乳後加全乳放療，同側乳房復發率大約可降一半（50%）。低風險個案能不能省略是另一回事，不影響這句成立。",
+   "B": "本項不選。年齡大於 70 歲、腫瘤 ≤ T1、ER-positive、淋巴結陰性又有做內分泌治療的人，可以考慮省略放療，代價是局部復發稍增、存活沒差，這句沒錯。",
+   "C": "本項不選。全乳切除後一般不放療，但腋下轉移顆數多、或腫瘤大於 5 公分（>5 cm）時，胸壁復發風險高，要評估術後放療，這句沒錯。",
+   "D": "本項應選。這是最不適當的敘述。化療打的是全身微小轉移，放療控制的是留在乳房裡的局部病灶，兩者目的不同。年齡再輕，化療也換不掉保乳後該做的放療。",
+   "summary": "化療管全身、放療管局部——保乳後這兩個不能互相頂替。",
    "guideline": null
   },
   "source": "111080/302_33",
@@ -43489,11 +43489,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "停經前卵巢仍持續製造 estrogen，單用 aromatase inhibitor 會因回饋刺激卵巢而不足；須合併卵巢功能抑制才可使用。",
-   "B": "ER-positive 即代表可能從內分泌治療獲益，即使 PR-negative 仍可依腫瘤與病人風險選用。",
-   "C": "最不適當。停經後婦女仍可使用 tamoxifen；aromatase inhibitor 常為優先選項，但 intolerance 或禁忌時 tamoxifen 是有效替代。",
-   "D": "需同時接受化療與內分泌治療時通常先完成化療，再開始內分泌治療，避免療程重疊並依序處理高風險疾病。",
-   "summary": "Tamoxifen 並非停經後禁用；aromatase inhibitor 通常較優先但不是唯一選擇。",
+   "A": "本項不選。停經前婦女卵巢還在大量製造 estrogen，單用 aromatase inhibitor 壓不下來，還會反饋刺激卵巢。要用就得同時做卵巢功能抑制，這句沒錯。",
+   "B": "本項不選。只要 estrogen receptor（ER）陽性就可能從內分泌治療獲益，progesterone receptor（PR）陰性不影響這個決定，這句沒錯。",
+   "C": "本項應選。這是最不適當的敘述。停經後婦女照樣可以用 tamoxifen。aromatase inhibitor 常被列為第一優先，但遇到不耐受或禁忌時，tamoxifen 是有效的替代。",
+   "D": "本項不選。同時需要化療和內分泌治療時，一般先做完化療再開始內分泌治療，避免兩者療程重疊，這句沒錯。",
+   "summary": "停經後不是不能用 tamoxifen，只是 aromatase inhibitor 通常排在它前面。",
    "guideline": null
   },
   "source": "111080/302_33",
@@ -54369,11 +54369,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "Mondor 病（Mondor disease） 是乳房或前胸壁淺表靜脈血栓性靜脈炎，典型為皮下疼痛索狀硬帶，不是乳頭濕疹樣病灶。",
-   "B": "官方答案為乳房 Paget 病（Paget disease），常呈單側乳頭乳暈紅斑、脫屑、結痂或糜爛。",
-   "C": "乳管擴張症（duct ectasia）較常造成黏稠、綠褐色乳頭分泌物與乳暈下腫塊，不以乳頭表皮濕疹樣變化為主。",
-   "D": "急性乳腺炎（acute mastitis）常見疼痛、發紅、發熱與全身感染症狀，多與哺乳相關；題幹影像若僅乳頭病灶則不符。",
-   "summary": "單側持續乳頭濕疹樣病灶要先排除 Paget disease；影像細節仍需看圖。",
+   "A": "本項不選。Mondor 病（Mondor disease）是乳房或前胸壁的淺表靜脈血栓性靜脈炎，摸起來是一條會痛的皮下索狀硬帶。照片是乳頭一大片脫屑結痂，不是條索狀病灶。",
+   "B": "正確答案。照片是單側乳頭乳暈一整片界線分明的紅斑，表面脫屑、結痂、糜爛，還往周圍乳房皮膚擴散。這是乳房 Paget 病（Paget disease）的典型外觀，底下常合併乳癌。",
+   "C": "本項不選。乳管擴張症（duct ectasia）的表現是黏稠的綠褐色乳頭分泌物加乳暈下腫塊，不會在乳頭表皮造成這種濕疹樣、結痂的大片病灶。",
+   "D": "本項不選。急性乳腺炎（acute mastitis）是整個乳房紅、腫、熱、痛加發燒，常發生在哺乳期。照片沒有瀰漫性發炎，病灶集中在乳頭表皮。",
+   "summary": "乳頭乳暈一片界線清楚、脫屑結痂又往外擴散的濕疹樣病灶＝Paget 病，不是感染也不是靜脈炎。",
    "guideline": null
   },
   "source": "112020/302_33",
@@ -55306,11 +55306,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "術後意外確認純 DCIS，且原手術未做 SLNB 時通常不需再補做，因沒有侵襲癌證據且腋下轉移風險極低。",
-   "B": "錯誤。術前 DCIS 若預計全乳切除，通常應同時做 SLNB；切除後淋巴引流改變，若最終升級侵襲癌將難以可靠補做。",
-   "C": "符合 Z0011 類條件的保乳患者，1–2 顆 sentinel nodes 轉移且接受全乳放療與全身治療時，可省略 ALND 以降低淋巴水腫。",
-   "D": "全乳切除後 sentinel node 有 macrometastasis 時傳統上考慮 ALND；是否可用區域淋巴放療替代須依現行指引與個案條件決定。",
-   "summary": "DCIS 做 mastectomy 時要同步 SLNB；保乳且僅 1–2 顆陽性者未必需要 ALND。",
+   "A": "本項不選。手術後病理是純 DCIS、而且當初沒做 sentinel lymph node biopsy（SLNB）時，通常不用補做，因為沒有侵襲癌、腋下轉移機率極低，這句沒錯。",
+   "B": "本項應選。這是錯的敘述。術前診斷 DCIS 又要做全乳切除時，反而應該同時做 SLNB。乳房切掉後淋巴引流就變了，萬一最後病理升級成侵襲癌，要補做 SLNB 會做不準。",
+   "C": "本項不選。符合 Z0011 條件的保乳病人——1 到 2 顆 sentinel node 轉移、會做全乳放療和全身治療——可以不做腋下淋巴結廓清（ALND），減少淋巴水腫，這句沒錯。",
+   "D": "本項不選。全乳切除後 sentinel node 有大轉移（macrometastasis）時，傳統上就進一步做 ALND。能不能改用區域淋巴放療取代，要看現行指引和個別條件，這句沒錯。",
+   "summary": "DCIS＋要做全乳切除＝順手做 SLNB；保乳且只有 1–2 顆陽性＝可以不做 ALND。",
    "guideline": null
   },
   "source": "112020/302_33",
@@ -55344,11 +55344,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "心肌病變是 anthracycline 的重要累積劑量毒性，並非 taxane 的代表性毒性；使用 anthracycline 前常評估左心室功能。",
-   "B": "最恰當。Anthracycline 可造成骨髓抑制，白血球常在給藥後約 10–14 天達 nadir，再隨骨髓恢復上升。",
-   "C": "手腳刺麻是 taxane 常見的周邊神經病變，水腫亦較可能與 docetaxel 液體滯留相關；不是 anthracycline 的典型組合。",
-   "D": "ANC 900/mm³ 屬中度 neutropenia；無發燒者不因單一數值一律治療性施打 G-CSF，應依感染、療程與 febrile neutropenia 風險處理。",
-   "summary": "Anthracycline 重點是心毒性與骨髓抑制；taxane 重點是周邊神經病變與液體滯留。",
+   "A": "本項不選。心毒性是 anthracycline（小紅莓）的招牌毒性，跟累積劑量有關，用之前要評估左心室功能。taxane（紫杉醇）沒有這個代表性毒性，這句把藥配錯了。",
+   "B": "正確答案。anthracycline 會抑制骨髓，白血球通常在給藥後 10 到 14 天掉到最低點（nadir），之後隨骨髓恢復回升。",
+   "C": "本項不選。手腳刺麻是 taxane 常見的周邊神經病變，下肢水腫則多跟 docetaxel 造成的體液滯留有關。這組症狀比較像 taxane，不是 anthracycline。",
+   "D": "本項不選。ANC 900/mm³ 只是中度嗜中性球低下。沒有發燒的人不會單看一個數值就治療性打 granulocyte colony stimulating factor（G-CSF），要看感染、療程和發燒性嗜中性球低下（febrile neutropenia）的風險。",
+   "summary": "小紅莓＝心毒性＋骨髓抑制（10–14 天到 nadir）；紫杉醇＝周邊神經病變＋水腫。",
    "guideline": null
   },
   "source": "112020/302_33",
@@ -66357,11 +66357,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "Spironolactone 具抗 androgen 作用並改變 estrogen/androgen 平衡，是常見藥物性 gynecomastia 原因。",
-   "B": "一般 gynecomastia 是良性腺體增生，本身通常不視為男性乳癌的獨立高風險病灶。",
-   "C": "生理性 gynecomastia 可見於新生兒、青春期與老年，分別與母體 hormone、青春期比例波動及老化相關。",
-   "D": "錯誤。Klinefelter 症候群（Klinefelter syndrome） 可有 gynecomastia，但其男性乳癌風險明顯升高，不能說與乳癌風險無關。",
-   "summary": "一般 gynecomastia 不增乳癌風險，但 Klinefelter syndrome 是重要例外。",
+   "A": "本項不選。spironolactone 有抗 androgen 作用、會打亂 estrogen 和 androgen 的比例，是常見的藥物性男性女乳症（gynecomastia）原因，這句沒錯。",
+   "B": "本項不選。一般的 gynecomastia 是良性腺體增生，本身不算男性乳癌的獨立高風險因子，這句沒錯。",
+   "C": "本項不選。生理性 gynecomastia 在新生兒期、青春期、晚年期三個階段都會出現，分別跟母體荷爾蒙、青春期荷爾蒙比例波動、老化有關，這句沒錯。",
+   "D": "本項應選。這是錯的敘述。Klinefelter 症候群（Klinefelter syndrome）確實常有 gynecomastia，但這群人的男性乳癌風險明顯升高，不能說跟乳癌無關。",
+   "summary": "Klinefelter syndrome 是「男性女乳症不增乳癌風險」這句話的重要例外。",
    "guideline": null
   },
   "source": "112080/302_33",
@@ -67229,11 +67229,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "粗針切片（core needle biopsy） 只取病灶的一部分，概念上屬 incisional biopsy，能保存組織結構供侵襲性與受體評估。",
-   "B": "真空輔助切片（vacuum-assisted biopsy） 一次可取得較大、較多組織，對鈣化或特定病灶可降低取樣不足，但仍須做影像病理一致性判讀。",
-   "C": "粗針切片（core biopsy） 通常能區分 in situ 與 invasive carcinoma，這會影響是否須做 sentinel lymph node staging。",
-   "D": "最不恰當。細針抽吸（fine needle aspiration） 只有細胞學，無法可靠評估組織結構、侵襲性與完整生物標記；不能僅憑惡性細胞直接決定全乳切除。",
-   "summary": "乳癌術式需可靠組織診斷；FNA 惡性不足以單獨決定 mastectomy。",
+   "A": "本項不選。粗針切片（core needle biopsy）只取病灶的一部分。這種取一塊下來的做法概念上算 incisional biopsy，歸類沒問題。取到的柱狀組織還能保留結構，供侵襲性判讀。",
+   "B": "本項不選。真空輔助切片（vacuum-assisted biopsy）一次抽取的組織量比一般粗針多。對鈣化這類病灶取樣更足，偽陰性也較低。這句沒錯。",
+   "C": "本項不選。粗針切片能區分原位癌（in situ）和侵襲癌（invasive cancer）。這一點會決定要不要做前哨淋巴結分期，敘述正確。",
+   "D": "本項應選。這是最不恰當的做法。細針穿刺細胞學（fine needle aspiration cytology）只取得細胞，看不到組織結構。它沒辦法確認侵襲性和完整的生物標記。只憑幾顆惡性細胞就切掉整個乳房，證據不夠。",
+   "summary": "乳癌動刀前要有能看組織結構的診斷；FNA 抓到惡性細胞不足以單獨拍板全乳切除。",
    "guideline": null
   },
   "source": "112080/302_33",
@@ -67267,11 +67267,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "高度大於寬度（taller-than-wide） 代表病灶跨越正常組織平面生長，是 ultrasound 上典型惡性警訊。",
-   "B": "角狀邊緣（angular margin） 顯示病灶以銳角向周圍浸潤，屬可疑邊緣型態。",
-   "C": "最不常見。後方回音增強（posterior acoustic enhancement） 較常見於含液體病灶或部分良性實質腫塊；惡性較典型為 posterior shadowing，但某些癌仍可 enhancement。",
-   "D": "低回音腫塊（hypoechoic mass） 是乳癌常見 ultrasound 表現之一，但單獨低回音不具特異性，仍須合併形狀與邊緣判讀。",
-   "summary": "乳癌超音波常見 taller-than-wide、angular margin 與 hypoechoic；後方增強較不典型。",
+   "A": "本項不選。高度大於寬度（taller than wide）代表腫瘤不順著正常組織平面長，是超音波上典型的惡性警訊，很常見。",
+   "B": "本項不選。角狀邊緣（angular margin）代表病灶以銳角往周圍鑽，也是常見的惡性邊緣型態。",
+   "C": "本項應選。後方回音增強（posterior acoustic enhancement）比較常出現在囊腫或部分良性實質腫塊。惡性比較典型的是後方陰影（posterior shadowing），少數癌雖然也會出現增強，但整體上最不常見。",
+   "D": "本項不選。低回音（hypoechoic）是乳癌常見的超音波表現之一，只是單看低回音不夠特異，還要合併形狀和邊緣一起判讀。",
+   "summary": "乳癌超音波常見 taller-than-wide、angular margin、hypoechoic 和後方陰影；後方回音「增強」反而偏良性。",
    "guideline": null
   },
   "source": "112080/302_33",
@@ -67305,11 +67305,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "Doxorubicin 是 anthracycline，常用於 AC 等早期或晚期乳癌化療方案。",
-   "B": "Docetaxel 是 taxane，常與 anthracycline/cyclophosphamide 序列使用，也可用於多種轉移性治療方案。",
-   "C": "Etoposide 抑制 topoisomerase II，但不是常規乳癌化療骨幹，較常用於小細胞肺癌、睪丸腫瘤等。",
-   "D": "Epirubicin 也是 anthracycline，可作為乳癌輔助化療方案中的 doxorubicin 替代藥。",
-   "summary": "乳癌常用 anthracycline 與 taxane；etoposide 並非常規骨幹。",
+   "A": "本項不選。doxorubicin 是 anthracycline，AC 這類早期和晚期乳癌方案都會用到，是乳癌化療主力之一。",
+   "B": "本項不選。docetaxel 是 taxane，常接在 anthracycline／cyclophosphamide 之後使用，轉移性乳癌也常用，屬乳癌常規藥。",
+   "C": "本項應選。etoposide 抑制 topoisomerase II，主要用在小細胞肺癌、睪丸腫瘤，不是乳癌的化療骨幹，乳癌最少用到它。",
+   "D": "本項不選。epirubicin 也是 anthracycline，在乳癌輔助化療裡常拿來當 doxorubicin 的替代藥，仍屬常用。",
+   "summary": "乳癌化療骨幹是 anthracycline＋taxane；看到 etoposide 要想到小細胞肺癌、睪丸腫瘤，不是乳癌。",
    "guideline": null
   },
   "source": "112080/302_33",
@@ -78294,11 +78294,11 @@
    "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
   },
   "explanation": {
-   "A": "DIEP flap 可提供自然且不犧牲腹直肌的自體重建，但手術複雜、需顯微吻合，不能稱為目前最常用；implant-based reconstruction 整體更普遍。",
-   "B": "正確。義乳重建可能發生莢膜攣縮、感染、破裂、位置或外觀不自然，也需討論後續更換與影像監測。",
-   "C": "游離皮瓣（free flap） 常優先以 internal mammary vessels 作 recipient vessels，位置與管徑較合適；thoracodorsal vessels 不是一律最佳且可能保留供背闊肌皮瓣使用。",
-   "D": "BIA-ALCL 主要與 textured implants 相關；已知病例在西方較多，不能說西方人比東方人少見。",
-   "summary": "Implant reconstruction 常見但有 capsular contracture、infection、rupture 等特有風險。",
+   "A": "本項不選。深下腹壁穿通枝皮瓣（deep inferior epigastric perforator flap, DIEP flap）觸感自然又不犧牲腹直肌，但手術複雜、要顯微吻合，並不是目前最常用的方式。整體來說義乳重建（implant-based reconstruction）比較普遍。",
+   "B": "正確答案。義乳乳房重建可能出現莢膜攣縮（capsular contracture）、感染、義乳破裂、位置或外觀不自然，之後還要考慮更換和影像監測。",
+   "C": "本項不選。自體組織游離皮瓣（free autologous tissue reconstruction）通常優先用內乳血管（internal mammary vessels）當受區血管，位置和管徑比較合適。胸背血管（thoracodorsal vessels）不是一律最佳，還可能要留給背闊肌皮瓣使用。",
+   "D": "本項不選。乳房植入物相關間變性大細胞淋巴瘤（BIA-ALCL）主要跟粗糙面義乳（textured implants）有關，已知病例是西方比東方多，不能說西方人比東方人少見。",
+   "summary": "義乳重建最普遍但有莢膜攣縮、破裂、感染這些特有風險；DIEP 自然卻不是最常用。",
    "guideline": null
   },
   "source": "113020/302_33",
@@ -79141,11 +79141,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "E cup 乳房配 2 cm 腫瘤通常可取得良好腫瘤乳房比例，具備保乳可能性。",
-   "B": "腋下淋巴結陽性影響區域與全身治療，但不是保乳的絕對禁忌；乳房手術仍看病灶範圍與切緣。",
-   "C": "最不適合。不同象限多處不確定 microcalcifications 可能代表廣泛或多中心病灶，難以一次保乳切除並保有可接受外觀。",
-   "D": "侵襲性乳癌（invasive carcinoma） 本身不排除保乳；適當局部切除加放療可達與 mastectomy 相當的存活。",
-   "summary": "多象限可疑鈣化比淋巴結陽性或侵襲癌本身更妨礙保乳。",
+   "A": "本項不選。E 罩杯（E cup）配上約 2 公分（2 cm）的腫瘤，腫瘤佔乳房比例小，切掉後外觀影響有限，通常可以保乳。",
+   "B": "本項不選。腋下淋巴結陽性會影響區域和全身治療，但不是保乳的絕對禁忌。乳房那一端能不能保，還是看病灶範圍和切緣。",
+   "C": "本項應選。分散在不同象限、良惡性不明的多處微小鈣化（microcalcifications），可能代表廣泛或多中心病灶。一次局部切除很難同時清乾淨又保住外觀，最不適合保乳。",
+   "D": "本項不選。侵襲性乳癌（invasive carcinoma）本身不排除保乳，適當局部切除加放療的存活率和全乳切除相當。",
+   "summary": "多象限的可疑鈣化比「淋巴結陽性」或「是侵襲癌」更會擋掉保乳。",
    "guideline": null
   },
   "source": "113020/302_33",
@@ -79179,11 +79179,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "Mammography 有標準化、可重現並能偵測 microcalcifications，是大規模乳癌篩檢核心工具。",
-   "B": "Ultrasound 高度依賴操作者且缺少 mammography 那樣的族群死亡率證據，通常用於診斷或補充緻密乳房。",
-   "C": "錯誤。Mammography 在 dense breast 的敏感度較差；50 歲以上效果較好的一項原因是乳腺通常逐漸脂肪化、影像對比較佳。",
-   "D": "較年輕乳癌可能生長較快、interval cancer 比例較高，加上乳房緻密，共同降低定期 mammography 篩檢效益。",
-   "summary": "Mammography 在脂肪型乳房較敏感，不是在緻密乳房較敏感。",
+   "A": "本項不選。乳房攝影（mammography）標準化、可重現，又能抓到微小鈣化，是大規模篩檢的核心工具，這句沒錯。",
+   "B": "本項不選。超音波（ultrasound）結果高度依賴操作者（operator-dependent），也缺乏像攝影那樣的族群死亡率證據，所以主要用在診斷或補充緻密乳房，不當第一線篩檢，這句沒錯。",
+   "C": "本項應選。這是錯的敘述。攝影在緻密乳房（dense breast）的敏感度反而較差。50 歲以上效果較好，是因為乳腺隨年齡逐漸脂肪化、影像對比變好，不是因為對緻密乳房靈敏。",
+   "D": "本項不選。年輕族群的乳癌可能長得快、間隔癌（interval cancer）比例高，加上乳房緻密，一起拉低定期攝影的篩檢效益，這句沒錯。",
+   "summary": "攝影在「脂肪型」乳房才敏感；把「50 歲以上較好」歸因於對緻密乳房靈敏，因果剛好講反。",
    "guideline": null
   },
   "source": "113020/302_33",
@@ -79212,11 +79212,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "已判定 BI-RADS 2 的疑似 fibroadenoma 可依臨床情境觀察；若採追蹤，ultrasound 可比較大小與形態。",
-   "B": "較不考慮。21 歲乳房通常緻密，mammography 有游離輻射且對已由 ultrasound 判為明確良性的病灶增益有限。",
-   "C": "若影像與臨床不一致、病灶增大、症狀或病人疑慮明顯，仍可考慮 core needle biopsy；並非絕對禁止。",
-   "D": "乳房疼痛嚴重可短期使用止痛藥並評估其他病因，症狀治療不會改變 BI-RADS 判讀。",
-   "summary": "年輕女性明確良性 ultrasound 病灶通常不需再加 mammography。",
+   "A": "本項不選。已經判為 BI-RADS category 2 的疑似纖維腺瘤（fibroadenoma），依臨床情況做超音波追蹤、比較大小和形態，是合理選項。",
+   "B": "本項應選。這是最不考慮的處置。21 歲乳房通常緻密，乳房攝影（mammography）有游離輻射，而且對已經被超音波判為明確良性的病灶幾乎沒有額外幫助。",
+   "C": "本項不選。如果影像和臨床不一致、病灶變大、或病人很在意，仍可考慮粗針切片（core needle biopsy），並非完全不能做。",
+   "D": "本項不選。乳房疼痛嚴重時可短期用止痛藥並找其他原因，症狀治療不會改變 BI-RADS 判讀，是合理的搭配處置。",
+   "summary": "年輕女性、超音波已確定良性的病灶，不需要再加一張乳房攝影。",
    "guideline": null,
    "concepts": [
     "bi-rads"
@@ -91098,11 +91098,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。全乳切除後發現 sentinel node 轉移，已不具全乳切除後切線放療涵蓋低腋下的 Z0011 條件，傳統上需 ALND；區域放療替代需個別評估。",
-   "B": "DCIS mastectomy 時可同做 SLNB，但若 sentinel nodes 無轉移就沒有理由再做 ALND。",
-   "C": "2–5 cm invasive cancer 保乳後 sentinel nodes 陰性，SLNB 已完成陰性分期，不需 ALND。",
-   "D": "保乳且僅 1–2 顆 sentinel nodes 陽性、預計全乳放療及 systemic therapy 者可依 Z0011 原則省略 ALND。",
-   "summary": "是否省略 ALND 取決於乳房術式、陽性結節數與放療；mastectomy 後陽性不等同 Z0011。",
+   "A": "正確答案。全乳切除（mastectomy）後前哨淋巴結（sentinel lymph node biopsy, SLNB）發現轉移，就不符合 Z0011 那種「保乳＋切線放療會順便照到低位腋下」的條件。傳統上這種情況要加做腋下淋巴結廓清（axillary lymph node dissection, ALND），要不要改用區域放療取代則個別評估。",
+   "B": "本項不選。原位癌（ductal carcinoma in situ, DCIS）做全乳切除時可以同時做 SLNB，但既然前哨淋巴陰性，就沒有理由再做 ALND。",
+   "C": "本項不選。2 到 5 公分（2–5 cm）的侵襲癌保乳、前哨淋巴陰性，代表 SLNB 分期已經做完且是陰性，不需要再做 ALND。",
+   "D": "本項不選。保乳、只有 1 到 2 顆前哨淋巴陽性、又會做全乳放療和全身藥物治療，正是 Z0011 可以省略 ALND 的情境。",
+   "summary": "全乳切除後前哨淋巴陽性＝加做 ALND；同樣陽性但在保乳＋放療下＝可省略（Z0011）。",
    "guideline": null
   },
   "source": "113070/302_33",
@@ -91136,11 +91136,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "錯誤。35 歲在 113 年不屬於一般風險公費乳房攝影（mammography）對象。114 年擴大後的最低年齡仍是 40 歲，所以現行政策也不選 35 歲。",
-   "B": "錯誤。113 年的一般風險婦女要滿 45 歲才有公費篩檢。當時 40–44 歲只有二等親內曾罹患乳癌者符合資格，題幹已排除家族史。自 114 年 1 月 1 日起，政策才擴大。現行對象是所有 40–74 歲婦女，每 2 年 1 次。若問現行起點，答案才是 40 歲。",
-   "C": "正確。113 年政策提供 45–69 歲婦女每 2 年 1 次公費乳房攝影。所以無家族史者從 45 歲開始。這是本題官方答案的時點。114 年起門檻已下修至 40 歲。",
-   "D": "錯誤。50 歲在 113 年確實符合篩檢資格，但不是最早可開始的年齡。一般風險婦女從 45 歲已可受檢。114 年起起點更提前到 40 歲，仍不會選 50 歲。",
-   "summary": "看到台灣公費乳攝先看年份：113 年一般風險從 45 歲開始，114 年起下修至 40 歲；都是每 2 年 1 次。",
+   "A": "本項不選。35 歲不管在 113 年還是 114 年，都不是一般風險婦女的公費乳房攝影（mammography）對象。114 年擴大後最低年齡也只到 40 歲。",
+   "B": "本項不選。40 歲是 114 年 1 月 1 日起才下修到的新起點（對象變成 40–74 歲、每 2 年 1 次）。在本題設定的 113 年，40–44 歲只有「二等親內曾罹患乳癌」的人符合，題幹已排除家族史。",
+   "C": "正確答案。113 年的政策是提供 45–69 歲、一般風險婦女每 2 年 1 次公費乳房攝影。沒有家族史的人就是從 45 歲開始，這是本題官方答案的時點。",
+   "D": "本項不選。50 歲在 113 年確實符合資格，但不是最早可以開始的年齡；一般風險婦女滿 45 歲就能受檢。",
+   "summary": "台灣公費乳攝先看年份：113 年一般風險從 45 歲、114 年起下修到 40 歲，都是每 2 年 1 次。",
    "guideline": "國民健康署：113 年一般風險婦女 45–69 歲每 2 年 1 次，40–44 歲需二等親內乳癌家族史；自 114 年 1 月 1 日起擴大為 40–74 歲婦女每 2 年 1 次。https://www.hpa.gov.tw/Pages/Detail.aspx?form=MG0AV3&nodeid=4878&pid=18916"
   },
   "source": "113070/302_33",
@@ -91174,11 +91174,11 @@
    "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
   },
   "explanation": {
-   "A": "HER2-positive 且腫瘤 2 cm 的侵襲癌通常須評估 chemotherapy，不能只做 endocrine、radiation 與 targeted therapy。",
-   "B": "ER-positive 表示需 endocrine therapy；但組合漏掉 chemotherapy，未完整涵蓋 HER2-positive invasive cancer 的全身治療。",
-   "C": "保乳後需 radiation，HER2-positive 需 anti-HER2 targeted therapy；但 ER-positive 也應有 endocrine therapy，故此組合不完整。",
-   "D": "正確。此例包含 ER-positive、HER2-positive 的 node-negative invasive cancer：依序整合 chemotherapy、anti-HER2 therapy、保乳後 radiation 與 endocrine therapy。",
-   "summary": "治療對應四個訊號：侵襲癌風險、ER、HER2 與保乳術式，四類治療皆有角色。",
+   "A": "本項不選。這位病人 HER2/neu 陽性，一定要加上抗 HER2 標靶藥（第④項），少了標靶就不完整。",
+   "B": "本項不選。腫瘤 2 公分（2 cm）、HER2-positive 的侵襲癌通常要評估化療（第①項），這個組合漏掉化療。",
+   "C": "本項不選。免疫染色 estrogen receptor（ER）陽性，代表需要抗荷爾蒙治療（第②項）；progesterone receptor（PR）陰性不影響這個判斷。這個組合漏掉內分泌治療。",
+   "D": "正確答案。這題四個訊號都要對應處理：是侵襲癌又 HER2 陽性 → 化療＋抗 HER2 標靶；ER 陽性 → 抗荷爾蒙；腫瘤 2 公分（2 cm）、做的是乳房部分切除（保乳）→ 術後全乳放療。四類治療都有角色。",
+   "summary": "對照四個訊號開四種治療：侵襲癌＋HER2 給化療和標靶、ER 給抗荷爾蒙、保乳給放療。",
    "guideline": null,
    "concepts": [
     "breast-cancer-biomarker-treatment"
@@ -101551,11 +101551,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "BI-RADS 1 才是陰性，回到常規篩檢；category 0 不能解讀為沒有異常。",
-   "B": "BI-RADS 2 才是確定良性並依常規篩檢；category 0 尚未完成判讀，不是良性診斷。",
-   "C": "BI-RADS 4 才是可疑異常並通常建議切片；category 0 本身不等於已達切片門檻。",
-   "D": "正確。BI-RADS 0 表示評估不完整，需補充 diagnostic mammography views、ultrasound 或調閱舊片比較。",
-   "summary": "BI-RADS 0 是 incomplete：先補影像，不是正常、良性或直接切片。",
+   "A": "本項不選。「陰性、回常規篩檢」對應的是 BI-RADS category 1。category 0 不能解讀成沒有異常。",
+   "B": "本項不選。「確定良性」是 BI-RADS category 2。category 0 還沒完成判讀，不是良性診斷。",
+   "C": "本項不選。「可疑異常、建議切片」是 BI-RADS category 4。category 0 本身還沒到切片門檻。",
+   "D": "正確答案。BI-RADS 0 代表這次評估不完整，要補做特殊角度的診斷型攝影（diagnostic mammography views）、超音波或調舊片比較，才能給最終分類。",
+   "summary": "BI-RADS 0＝incomplete，先補影像；它不是正常、不是良性、也不是直接切片。",
    "guideline": null,
    "concepts": [
     "bi-rads"
@@ -102340,11 +102340,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。乳房纖維囊腫變化（fibrocystic change） 多屬荷爾蒙相關的生理性變化；影像與臨床一致且無可疑特徵時可說明、症狀治療與追蹤，不需手術。",
-   "B": "粗針切片（core biopsy） 的 atypical ductal hyperplasia 有取樣低估 DCIS 或 invasive cancer 的風險，通常需手術切除或在嚴格條件下多專科評估，不能一概只追蹤。",
-   "C": "Fibroadenoma 的 malignant transformation 極罕見；典型、穩定且影像病理一致者可觀察，並非必須切除。",
-   "D": "惡性葉狀腫瘤（malignant phyllodes tumor） 的核心是取得足夠陰性切緣；常規 adjuvant chemotherapy 缺乏確立效益，不能說術後都應加做。",
-   "summary": "常見 fibrocystic change 與 fibroadenoma 多可保守處理；ADH 與 malignant phyllodes 各有特定策略。",
+   "A": "正確答案。乳房纖維囊腫變化（fibrocystic change）多半是荷爾蒙相關的生理性變化（physiologic change）。影像和臨床一致、沒有可疑特徵時，說明加症狀治療和追蹤就夠，不必手術。",
+   "B": "本項不選。粗針切片（core biopsy）發現非典型乳管增生（atypical ductal hyperplasia, ADH），有低估底下其實是 DCIS 或侵襲癌的風險，通常要手術切除，不能一律只追蹤。",
+   "C": "本項不選。纖維腺瘤（fibroadenoma）惡性轉變極罕見。典型、穩定、影像病理一致的可以觀察，不是非切不可。",
+   "D": "本項不選。惡性葉狀腫瘤（malignant phyllodes tumor）的重點是切到足夠的陰性切緣。常規術後輔助化療沒有確立效益，不能說都要加做。",
+   "summary": "fibrocystic change 和 fibroadenoma 多半保守處理；ADH 要切除、malignant phyllodes 靠陰性切緣。",
    "guideline": null
   },
   "source": "114020/302_0105",
@@ -102373,11 +102373,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "外側胸神經（lateral pectoral nerve） 主要支配胸大肌，受損影響胸肌功能，不是 latissimus dorsi。",
-   "B": "正確。胸背神經（thoracodorsal nerve） 支配 latissimus dorsi，腋下廓清時受損會造成肩關節內收、伸展與內旋無力。",
-   "C": "長胸神經（long thoracic nerve） 支配 serratus anterior，受損造成 winged scapula，而非 latissimus dorsi 無力。",
-   "D": "肋間臂神經（intercostobrachial nerve） 是 T2 感覺支，受損常造成上臂內側麻木或神經痛，不支配背闊肌。",
-   "summary": "腋下手術神經配對：thoracodorsal—latissimus dorsi；long thoracic—serratus anterior。",
+   "A": "本項不選。外側胸神經（lateral pectoral nerve）主要支配胸大肌，受損影響的是胸肌功能，不是闊背肌（latissimus dorsi）。",
+   "B": "正確答案。胸背神經（thoracodorsal nerve）支配闊背肌（latissimus dorsi）。腋下淋巴結廓清時傷到它，會造成肩關節內收、伸展和內旋無力。",
+   "C": "本項不選。長胸神經（long thoracic nerve）支配前鋸肌（serratus anterior），受損造成翼狀肩胛（winged scapula），不是闊背肌無力。",
+   "D": "本項不選。肋間臂神經（intercostobrachial nerve）是 T2 的感覺分支，受損造成上臂內側麻木或神經痛，不管運動，也不支配闊背肌。",
+   "summary": "腋下手術神經配對：thoracodorsal 對 latissimus dorsi、long thoracic 對 serratus anterior。",
    "guideline": null
   },
   "source": "114020/302_0105",
@@ -102406,11 +102406,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "HR-positive、HER2-negative 但沒有 BRCA1/2 mutation，缺少乳癌使用 PARP inhibitor 的主要同源重組修復缺陷標的。",
-   "B": "正確。生殖系 BRCA（germline BRCA）1/2 mutation 且 HER2-negative 的轉移性乳癌最符合 olaparib 或 talazoparib 的適應族群；三陰性表型常與 BRCA1 相關。",
-   "C": "HER2 3+ 應優先依 HER2-positive 路徑使用 anti-HER2 therapy；即使 Ki-67 高也不因此成為 PARP inhibitor 的典型適應症。",
-   "D": "同時 HR-positive、HER2-positive 且無 BRCA mutation 資訊時，治療重點是 anti-HER2、endocrine 與適當 chemotherapy，不是 PARP inhibition。",
-   "summary": "PARP inhibitor 的乳癌關鍵標記是 germline BRCA1/2 mutation 且 HER2-negative。",
+   "A": "本項不選。這是荷爾蒙受體強陽性（ER 90%、PR 50%）、HER2/neu 0，而且沒有 BRCA1/2 突變。缺了同源重組修復缺陷這個標的，不是 PARP 抑制劑（PARP inhibitor）的適應族群。",
+   "B": "正確答案。生殖系 BRCA1/2 突變（germline BRCA1/2 mutation）加上 HER2 陰性的轉移性乳癌，最符合 olaparib、talazoparib 的適應症；這種三陰性表型常和 BRCA1 有關。",
+   "C": "本項不選。HER2/neu 3+ 要走 HER2 陽性路線、優先用抗 HER2 標靶。就算 Ki-67 大於 50% 很高，也不會因此變成 PARP 抑制劑的典型適應症。",
+   "D": "本項不選。ER 90%、PR 50% 荷爾蒙受體陽性又 HER2/neu 3+、也沒有 BRCA 突變資訊，治療重點是抗 HER2、內分泌和適當化療，不是 PARP 抑制。",
+   "summary": "乳癌用 PARP 抑制劑的關鍵是 germline BRCA1/2 mutation 且 HER2 陰性——受體狀態和 Ki-67 都不是重點。",
    "guideline": null
   },
   "source": "114020/302_0105",
@@ -113208,11 +113208,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "乳突狀瘤（intraductal papilloma）尤其伴 atypia、多發或周邊型時可提高後續乳癌風險；處置取決於 atypia 與影像病理一致性。",
-   "B": "硬化性腺病（sclerosing adenosis）屬 proliferative lesion without atypia，乳癌相對風險可輕度上升，且影像可能模仿癌。",
-   "C": "放射狀疤痕（radial scar）可能與 atypia 或鄰近 malignancy 共存，core biopsy 後需依大小、取樣及一致性決定切除或追蹤。",
-   "D": "纖維腺瘤（fibroadenoma）多為良性；complex fibroadenoma 或合併 proliferative disease 時風險可能略增。官方更正為除未作答者外均給分。",
-   "summary": "官方本題四選項均給分；各病灶的風險程度與是否伴 atypia 不同，不能視為同等高風險。",
+   "A": "本項應選。乳突狀瘤（intraductal papilloma）如果伴非典型增生、多發或位於周邊，後續乳癌風險會上升，處置看有沒有 atypia 和影像病理一致性。官方認定四個選項都給分。",
+   "B": "本項應選。硬化性腺病（sclerosing adenosis）屬於沒有非典型的增生性病變（proliferative lesion without atypia），乳癌相對風險輕度上升，影像上還可能長得像癌。本題官方公告全部選項給分。",
+   "C": "本項應選。放射狀疤痕（radial scar）可能和非典型增生或鄰近惡性並存，粗針切片（core biopsy）後常要依大小和取樣一致性決定切除或追蹤。這也是官方給分的選項之一。",
+   "D": "本項應選。纖維腺瘤（fibroadenoma）多數良性，但複雜型（complex fibroadenoma）或合併增生性病變時風險可能略增。官方更正為除未作答外一律給分。",
+   "summary": "四個選項官方都給分，但風險高低和有無 atypia 各不相同，不能當成一樣高風險。",
    "guideline": null
   },
   "source": "114070/302_0103",
@@ -113241,11 +113241,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "Ultrasound 可看出 cyst 的無回音、後方增強與 fibroadenoma 的實質橢圓形態，是常用初步鑑別工具。",
-   "B": "乳房攝影所見微小鈣化（mammographic microcalcifications） 的切片結果常是良性增生或 sclerosing adenosis 等病變；最後仍須做影像病理一致性評估。",
-   "C": "錯誤。DCIS 的 grade 不能僅由 papillary、comedo、solid、cribriform 建築型態如此二分；comedo necrosis 常與 high grade 相關，但 papillary 並非一律 high grade。",
-   "D": "乳癌預後與 histologic type/grade、ER/PR、HER2 及腫瘤分期等相關，這些也會影響系統性治療。",
-   "summary": "DCIS 的 architectural pattern 不等同固定 grade；尤其不能把 papillary 一律列為高惡性度。",
+   "A": "本項不選。超音波能分出水囊（cyst）的無回音、後方增強，和纖維腺瘤（fibroadenoma）的實質橢圓形，兩者鑑別靠超音波是對的。",
+   "B": "本項不選。攝影抓到的微小鈣化（microcalcification）去切片，結果常是良性增生或硬化性腺病（sclerosing adenosis）。最後仍要做影像病理一致性判讀，這句沒錯。",
+   "C": "本項應選。這是錯的敘述。DCIS 的惡性分化度（grade）不能用 papillary、comedo、solid、cribriform 這四種建築型態直接二分。comedo necrosis 確實常對應 high grade。但 papillary 不是一律 high grade，solid、cribriform 也不是一律 low grade。",
+   "D": "本項不選。乳癌預後確實跟組織學型態、分化度、ER／PR、HER2/neu 和腫瘤分期有關，這些也決定要不要做全身治療。這句沒錯。",
+   "summary": "DCIS 的建築型態（papillary／comedo／solid／cribriform）不等於固定的 grade，尤其別把 papillary 一律當高惡性度。",
    "guideline": null
   },
   "source": "114070/302_0103",
@@ -113274,11 +113274,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "乳房外科醫師是否主動提供重建資訊與轉介，會影響患者知情選擇，因此應在可行時術前討論。",
-   "B": "重建可用 implant-based 或 autologous tissue，亦可混合使用；選擇受放療、體型、共病與偏好影響。",
-   "C": "錯誤。乳房重建可 immediate、delayed-immediate 或 delayed，並非必須等化療完成半年；時機需與放療及 systemic therapy 協調。",
-   "D": "臨床上接受重建者常較年輕、社經資源較多，反映選擇與醫療可近性的差異，不是手術適應症。",
-   "summary": "乳房重建可立即或延遲，沒有固定「化療後半年」的硬性等待期。",
+   "A": "本項不選。乳房外科醫師有沒有主動提供重建資訊和轉介，會影響病人的知情選擇，所以可行時應在術前就討論。這句沒錯。",
+   "B": "本項不選。重建確實分自體組織皮瓣和義乳植入兩大類，也可以混用，選擇受放療、體型、共病和偏好影響。這句沒錯。",
+   "C": "本項應選。這是錯的敘述。重建可以做立即（immediate）、延遲立即（delayed-immediate）或延遲（delayed），沒有「一定要等化療完成半年」這條規則。時機是跟放療和全身治療協調出來的。",
+   "D": "本項不選。臨床上接受重建的人確實常較年輕、社經資源較多，這反映的是選擇和醫療可近性的差異，不是手術適應症。這句敘述本身沒錯。",
+   "summary": "重建時機可立即也可延遲，「化療後固定等半年」是這題編出來的硬性規則。",
    "guideline": null
   },
   "source": "114070/302_0103",
@@ -122969,11 +122969,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "40 歲可觸及可疑腫塊需要 breast ultrasound 評估囊實性、形態與腋下淋巴結，並可引導 biopsy。",
-   "B": "診斷性乳房攝影（diagnostic mammography） 可評估雙側腫塊、architectural distortion 與 microcalcifications；40 歲且未曾檢查者適合安排。",
-   "C": "BRCA1 carrier 屬高風險，breast MRI 對多灶、對側病灶與緻密乳房有較高敏感度，可作完整評估的一部分。",
-   "D": "最不適合。PET 不用於可觸及乳房腫塊的初始診斷，也不能取代局部影像與 tissue biopsy；通常留給特定較晚期分期情境。",
-   "summary": "可疑乳房腫塊先做局部影像並取得組織；PET 不是初始檢查。",
+   "A": "本項不選。40 歲摸到可疑腫塊，乳房超音波（ultrasonography）能看囊實性、形態和腋下淋巴結，還能導引切片，很適合先做。",
+   "B": "本項不選。診斷性乳房攝影（mammography）能評估雙側腫塊、結構扭曲和微小鈣化。這位 40 歲、從沒做過檢查的病人適合安排。",
+   "C": "本項不選。BRCA1 突變帶因者屬高風險族群。乳房磁振造影（MRI）對多發病灶、對側病灶和緻密乳房敏感度高，可以當完整評估的一環。",
+   "D": "本項應選。這是最不適合的檢查。正子斷層造影（positron emission tomography, PET）不用在可觸摸乳房腫塊的初始診斷，也不能取代局部影像和組織切片，通常留給較晚期的分期情境。",
+   "summary": "可疑乳房腫塊先做局部影像（超音波／攝影／MRI）加組織切片；PET 不是初始檢查。",
    "guideline": null
   },
   "source": "115020/302_0105",
@@ -124094,11 +124094,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。乳管內乳突瘤（intraductal papilloma） 是單側、單一乳管自發性血性或漿液性分泌物的常見原因，常位於乳暈下。",
-   "B": "Fibroadenoma 通常表現為年輕女性可移動的無痛實質腫塊，不是單側 nipple discharge 的典型來源。",
-   "C": "侵襲性乳癌（invasive breast cancer） 必須排除，尤其分泌物血性、伴腫塊或皮膚變化時，但不是最常見病因。",
-   "D": "乳房纖維囊腫變化（fibrocystic change） 可造成週期性疼痛、結節感或囊腫，較不典型為單一乳管持續分泌。",
-   "summary": "單側單一乳管分泌物最常見 intraductal papilloma，但仍須排除 malignancy。",
+   "A": "正確答案。乳管內乳突瘤（intraductal papilloma）是單側、單一乳管自發性血性或漿液性分泌物最常見的原因，位置常在乳暈下。",
+   "B": "本項不選。纖維腺瘤（fibroadenoma）典型是年輕女性可移動的無痛實質腫塊，不會造成單側乳頭分泌物。",
+   "C": "本項不選。侵襲性乳癌（invasive breast cancer）一定要排除，尤其分泌物是血性、又合併腫塊或皮膚變化時，但它不是最常見的病因。",
+   "D": "本項不選。乳房纖維囊腫變化（fibrocystic change）造成的是週期性疼痛、結節感或囊腫，比較不會是單一乳管持續分泌。",
+   "summary": "單側單一乳管的乳頭分泌物，最常見是 intraductal papilloma，但血性或合併腫塊時要排除惡性。",
    "guideline": null
   },
   "source": "115020/302_0105",
@@ -124127,11 +124127,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "官方答案為 endocrine therapy。ER/PR-positive DCIS 在 mastectomy 後同側復發風險已極低；是否使用主要考慮降低對側新發乳癌，須衡量血栓、子宮內膜或骨骼副作用並共同決策。",
-   "B": "DCIS 屬 stage 0，8 cm 不等同 invasive cancer 的 T3；陰性切緣 mastectomy 後通常不因尺寸 >5 cm 加做胸壁放療。",
-   "C": "純 DCIS 沒有侵襲與淋巴結轉移，adjuvant chemotherapy 沒有適應症；腫瘤大也不會把原位癌變成需化療疾病。",
-   "D": "Oncotype 類 invasive recurrence assay 用於特定 invasive HR-positive/HER2-negative 癌；此例 mastectomy 後純 DCIS 不需以它決定化療。",
-   "summary": "純 DCIS 不能套用侵襲癌的 >5 cm 化療或放療規則；HR-positive 時內分泌治療主要降低新發事件。",
+   "A": "正確答案。這是 ER／PR 陽性的 DCIS，全乳切除後同側復發風險已經極低。抗荷爾蒙藥物的主要目的是降低對側新發乳癌，要不要用得權衡血栓、子宮內膜和骨骼副作用，跟病人共同決定。",
+   "B": "本項不選。DCIS 是 stage 0，8 公分（8 cm）不等於侵襲癌的 T3。陰性切緣的全乳切除後，通常不會因為尺寸大於 5 公分（>5 cm）就加做胸壁放療。",
+   "C": "本項不選。純 DCIS 沒有侵襲、也沒有淋巴結轉移，輔助化療沒有適應症。腫瘤大於 5 公分（>5 cm）也不會把原位癌變成需要化療的疾病。",
+   "D": "本項不選。Oncotype 這類復發風險基因檢測是用在特定的侵襲性、HR 陽性／HER2 陰性乳癌。這例全乳切除後是純 DCIS，不靠它決定要不要化療。",
+   "summary": "純 DCIS 不套用侵襲癌的「>5 cm 就化療或放療」規則；HR 陽性時內分泌治療主要在防新發病灶。",
    "guideline": null
   },
   "source": "115020/302_0105",
@@ -134730,11 +134730,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "細針抽吸（fine needle aspiration） 缺少組織架構，不能作為可疑實質腫塊的第一個固定處置；若需取樣通常偏好 core needle biopsy。",
-   "B": "未完成影像與 needle biopsy 前直接 excision 會妨礙手術規劃，也可能造成不必要手術。",
-   "C": "正確。30–39 歲可先以 breast ultrasound 評估可觸病灶，依風險與臨床疑慮加 diagnostic mammography，再決定影像導引 core biopsy。",
-   "D": "MRI 不是一般 30–39 歲可觸腫塊的第一線檢查；緻密乳房不等於直接跳過 ultrasound/mammography。",
-   "summary": "30–39 歲可觸病灶先 ultrasound，必要時加 diagnostic mammography，再依影像取樣。",
+   "A": "本項不選。細針抽吸（fine needle aspiration cytology）拿不到組織結構，不能當可疑實質腫塊的第一個固定處置。真要取樣通常選粗針切片（core needle biopsy）。",
+   "B": "本項不選。還沒做完影像和針刺切片就直接開刀，會妨礙手術規劃，也可能造成不必要的手術。",
+   "C": "正確答案。30 到 39 歲摸得到的病灶，先用乳房超音波（breast ultrasound）評估，再依風險和臨床疑慮加做診斷性乳房攝影（mammogram），然後決定要不要做影像導引粗針切片。",
+   "D": "本項不選。MRI 不是一般 30 到 39 歲可觸腫塊的第一線檢查。乳房緻密不代表可以跳過超音波和攝影。",
+   "summary": "30–39 歲摸到的病灶：先超音波、必要時加診斷性攝影，再依影像取樣——不是一上來就 FNA、開刀或 MRI。",
    "guideline": null
   },
   "source": "115070/302_0103",
@@ -134763,11 +134763,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。MRI 的 rapid enhancement with washout 是可疑 type III kinetic curve；1.5 cm 病灶需以影像導引 core needle biopsy 取得組織，而非只追蹤。",
-   "B": "PET-CT 對小型原發乳房病灶的組織診斷不足，也不能替代 biopsy；通常不作此影像發現的下一步。",
-   "C": "直接手術切除前應先 needle biopsy 確認病理與 receptor，讓術式及 axillary staging 可事先規劃。",
-   "D": "Mammography 陰性不能抵銷 MRI 的可疑 washout lesion；若病灶只在 MRI 可見，應考慮 MRI-guided biopsy。",
-   "summary": "可疑 MRI washout pattern 要取得組織；其他影像陰性不能降級為追蹤。",
+   "A": "正確答案。MRI 顯示快速增強後迅速消退（washout pattern），是可疑的 type III 動力學曲線。1.5 公分（1.5 cm）的病灶要用影像導引粗針切片（core needle biopsy）取組織，不能只追蹤。",
+   "B": "本項不選。PET-CT 對這麼小的原發乳房病灶做不了組織診斷，也不能取代切片，通常不會是這種影像發現的下一步。",
+   "C": "本項不選。直接開刀前應先做針刺切片確認病理和受體狀態，這樣手術方式和腋下分期才能事先規劃。",
+   "D": "本項不選。乳房攝影（mammogram）陰性不能抵銷 MRI 上這個可疑的 washout 病灶。如果病灶只在 MRI 看得到，應該考慮 MRI 導引切片（MRI-guided biopsy）。",
+   "summary": "MRI 出現可疑 washout pattern 就要取得組織；其他影像陰性不能把它降級成追蹤。",
    "guideline": null
   },
   "source": "115070/302_0103",
@@ -134796,11 +134796,11 @@
   "specialty": "乳房外科",
   "fc_ref": null,
   "explanation": {
-   "A": "清晰邊緣的單一腫塊較像 fibroadenoma 或部分 circumscribed lesion，不是 invasive lobular carcinoma 最具特色的浸潤方式。",
-   "B": "正確。侵襲性乳小葉癌（invasive lobular carcinoma） 常以單列細胞浸潤、缺乏明顯 desmoplastic mass，影像可呈擴散性不對稱、architectural distortion 與模糊邊緣，且易多灶或雙側。",
-   "C": "高回音合併血流增加缺乏 lobular carcinoma 特異性；多數乳癌實質病灶反而常呈 hypoechoic。",
-   "D": "均勻分布的腫塊內鈣化不是 invasive lobular carcinoma 的典型特色；microcalcifications 更常提示相關 DCIS。",
-   "summary": "Invasive lobular carcinoma 常不形成清楚腫塊，而呈擴散性、模糊、易多灶的影像。",
+   "A": "本項不選。邊緣清晰的單一腫塊比較像纖維腺瘤（fibroadenoma）或其他邊界分明的病灶，不是侵襲性乳小葉癌（invasive lobular carcinoma）的浸潤方式。",
+   "B": "正確答案。侵襲性乳小葉癌常以單列細胞（single file）方式浸潤，缺乏明顯的促結締組織增生（desmoplastic）反應，所以不太形成明顯腫塊。影像上呈擴散性不對稱、結構扭曲（architectural distortion）和模糊邊緣，而且容易多發或雙側。",
+   "C": "本項不選。高回音加血流增加對乳小葉癌沒有特異性。多數乳癌的實質病灶反而常是低回音（hypoechoic）。",
+   "D": "本項不選。腫塊內均勻鈣化不是侵襲性乳小葉癌的特色。微小鈣化（microcalcifications）比較是提示合併 DCIS。",
+   "summary": "Invasive lobular carcinoma 常不長成清楚腫塊，而是擴散性、邊緣模糊、易多發——鈣化和清晰腫塊都不是它的特徵。",
    "guideline": null
   },
   "source": "115070/302_0103",
