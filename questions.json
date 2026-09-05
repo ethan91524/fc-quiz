@@ -52008,11 +52008,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Irritant contact dermatitis 是化學性或物理性刺激直接損傷 epidermal barrier 所致，不需要先前 sensitization。強刺激物可在接觸後數分鐘至數小時引起灼熱、紅斑、水疱或糜爛，因此通常比 allergic contact dermatitis 發作快。",
-   "B": "Allergic contact dermatitis 是 allergen-specific T-cell 介導的反應，再暴露後病灶可超出直接接觸邊界。嚴重或廣泛暴露時可因 autoeczematization 或 systemic contact dermatitis 擴散至周圍乃至全身。",
-   "C": "Allergic contact dermatitis 屬 delayed type IV hypersensitivity，由經 sensitization 的 T lymphocytes 在再暴露後引起濕疹性發炎。其診斷工具是 patch test，而不是用即時型 IgE 機轉解釋。",
-   "D": "Irritant contact dermatitis 沒有特異性 allergen 或抗原專一性免疫機轉，因此抽血檢驗 allergen-specific IgE 不是主要診斷方法。診斷仰賴接觸史、病灶分布、刺激物劑量與排除 allergic contact dermatitis，必要時用 patch test 評估後者。",
-   "summary": "Irritant contact dermatitis 是直接毒性傷害、起病較快且無需 sensitization；allergic contact dermatitis 是 type IV hypersensitivity，較可越過接觸範圍，檢查以 patch test 而非抽血過敏原為主。",
+   "A": "本項不選。刺激性接觸性皮膚炎是化學或物理刺激直接把表皮屏障弄壞，不需要事先致敏。夠強的刺激物幾分鐘到幾小時就能燒出灼熱、紅斑、水疱或糜爛，所以確實比過敏性的發作快。",
+   "B": "本項不選。過敏性接觸性皮膚炎是過敏原專一的 T 細胞反應，再次接觸後病灶可以超出直接碰到的範圍。暴露嚴重或廣泛時，還會經由自體濕疹化或全身性接觸皮膚炎擴散到全身。",
+   "C": "本項不選。過敏性接觸性皮膚炎確實是遲發型的第四型過敏（type IV hypersensitivity）：致敏過的 T 淋巴球在再次接觸後引起濕疹性發炎。它的診斷工具是貼膚試驗（patch test），不是用即時型 IgE 的機轉去解釋。",
+   "D": "本項應選。刺激性接觸性皮膚炎沒有特定過敏原、也沒有抗原專一的免疫機轉，所以抽血驗過敏原專一性 IgE 根本不是它的主要診斷方法。真正靠的是接觸史、病灶分布、刺激物劑量，加上把過敏性的那一型排除掉；要排除時才做貼膚試驗。",
+   "summary": "刺激性是「直接燒傷」——快、限在接觸處、抽血驗不到；過敏性是第四型過敏——會擴散、要靠貼膚試驗。",
    "guideline": "FC 醫學(四)第2冊 p.121"
   },
   "source": "112020/302_22",
@@ -52046,11 +52046,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Atopic dermatitis 造成皮膚屏障缺損，容易發生 Molluscum contagiosum virus 的自體接種與擴散。此類兒童常有數量較多、範圍較廣且持續較久的 molluscum lesions，周圍也可出現 molluscum dermatitis。",
-   "B": "Molluscum contagiosum 是由 Molluscum contagiosum virus 感染所致，該病毒屬 Poxviridae，而不是 human papillomavirus。HPV 主要造成 verruca vulgaris、verruca plana 與 anogenital warts 等疣病。",
-   "C": "傳染性軟疣典型為珍珠樣、圓頂且中央臍凹的 papules，免疫健全者常可在數月至數年內自行消退。若病灶少、無併發症且不影響生活，可採觀察並減少搔抓與皮膚接觸傳播。",
-   "D": "Imiquimod cream 是 Toll-like receptor 7 agonist，可誘發 interferon 與細胞性免疫反應，過去曾被考慮作為傳染性軟疣的 off-label treatment。其療效證據有限且容易造成局部刺激，目前兒童常規治療通常更偏向觀察、curettage、cryotherapy 或其他局部方法。",
-   "summary": "傳染性軟疣的病原是 Poxvirus，而非 HPV；屏障缺損或免疫抑制會使病灶廣泛持久，免疫健全者則可自行清除，imiquimod 的實證與常規角色有限。",
+   "A": "本項敘述正確。異位性皮膚炎的屏障有缺損，病毒容易自體接種散開。這類孩子的軟疣通常數量更多、範圍更廣、拖得更久，病灶周圍還可能出現軟疣性皮膚炎。",
+   "B": "本項應選。傳染性軟疣的病原是 Molluscum contagiosum virus，屬於痘病毒科（Poxviridae），不是人類乳突瘤病毒。HPV 造成的是尋常疣、扁平疣與生殖器疣，兩者是不同病毒。",
+   "C": "本項敘述正確。典型病灶是珍珠樣、圓頂、中央有臍凹的丘疹。免疫正常的人常在數月到數年內自行消退，所以病灶少、沒併發症又不影響生活時，可以先觀察，同時減少搔抓與皮膚接觸傳播。",
+   "D": "本項敘述正確。imiquimod cream 是 Toll-like receptor 7 促效劑，可誘發干擾素與細胞性免疫反應，過去曾被當成仿單標示外的選項。不過它的療效證據有限、局部刺激也大，兒童現在多半還是以觀察、刮除或冷凍為主。",
+   "summary": "軟疣是痘病毒不是 HPV——名字有「疣」但病毒完全不同，這是最常設的陷阱。",
    "guideline": "FC 醫學(四)第2冊 p.37"
   },
   "source": "112020/302_22",
@@ -52086,11 +52086,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Candida skin infection 常見鮮紅、潮濕的 intertriginous plaques，邊緣有 satellite papules 或 pustules，KOH 可見 budding yeast 與 pseudohyphae。本例背部多發略癢、帶細屑的低色素斑較符合 pityriasis versicolor，而非 candidiasis。",
-   "B": "Tinea pedis 通常由 Trichophyton rubrum、T. interdigitale 等 dermatophytes 引起；pityriasis versicolor 則由脂嗜性 Malassezia yeast 引起。兩者雖都可有脫屑與 KOH 陽性，但不是同一致病原。",
-   "C": "Ketoconazole 是 azole antifungal，可抑制 fungal lanosterol 14-α-demethylase，降低 ergosterol 合成，對 Malassezia 具有活性。外用 ketoconazole cream 或 shampoo 可治療 pityriasis versicolor，因此不能說沒有療效。",
-   "D": "Malassezia 除了造成 pityriasis versicolor，也可侵犯毛囊形成 Malassezia folliculitis，常表現為胸背部單型性、搔癢的 follicular papules 與 pustules。",
-   "summary": "軀幹低色素或褐色細屑斑加上 KOH 短菌絲與孢子提示 Malassezia 所致 pityriasis versicolor；同一菌屬亦可造成 Malassezia folliculitis，但與 dermatophyte tinea pedis 不是同一病原。",
+   "A": "本項敘述錯誤。念珠菌（candida）感染長的是鮮紅、潮濕的皺褶斑塊，邊緣有衛星狀丘疹或膿疱，KOH 下看得到出芽酵母與假菌絲。這題是背部多發、略癢、帶細屑的淡色斑，比較像汗斑。",
+   "B": "本項敘述錯誤。足癬是 Trichophyton rubrum、T. interdigitale 這些皮癬菌造成的；汗斑則是嗜脂的 Malassezia 酵母菌。兩者都會脫屑、KOH 都可能陽性，但不是同一個病原。",
+   "C": "本項敘述錯誤。ketoconazole 是 azole 類抗黴菌藥，抑制黴菌的 lanosterol 14-α-demethylase、減少 ergosterol 合成，對 Malassezia 有效。外用 ketoconazole 乳膏或洗劑正是汗斑的標準治療，不能說沒有療效。",
+   "D": "正確答案。Malassezia 除了造成汗斑，也會鑽進毛囊造成 Malassezia 毛囊炎。典型是胸背部大小一致、會癢的毛囊性丘疹與膿疱——同一隻菌，換個位置就換一個病名。",
+   "summary": "汗斑和足癬不是同一隻菌：汗斑是 Malassezia，它還會另外造成毛囊炎；足癬是皮癬菌。",
    "guideline": "FC 醫學(四)第2冊 p.63"
   },
   "source": "112020/302_22",
@@ -52127,11 +52127,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Verruca vulgaris 是 HPV 感染造成的粗糙 hyperkeratotic papule，常見點狀出血或 thrombosed capillaries；病理可見 papillomatosis、hypergranulosis 與 koilocytosis。其臨床通常呈疣狀粗糙表面，不是典型光滑、硬實且具角化領圈的 digital fibrous tumor。",
-   "B": "Basal cell carcinoma 多發生於日曬部位，典型為珍珠樣 papule、telangiectasia 及 rolled border，手指病灶相對少見。組織學應見 basaloid cell nests、peripheral palisading 與 stromal retraction，而不是垂直排列的緻密 collagen bundles。",
-   "C": "Acquired digital fibrokeratoma 是良性纖維性腫瘤，常為成人手指或腳趾上單發、無症狀、膚色至淡紅色的硬實突出結節，基部可有 collarette。病理典型是 hyperkeratosis、acanthosis，以及真皮內垂直於表皮排列的粗大 collagen bundles。",
-   "D": "Keratoacanthoma 是快速生長、中央有 keratin plug 的 crateriform squamous proliferation，通常在數週內明顯增大並好發於日曬皮膚。題述病灶歷時五個月、無症狀且位於拇指，若病理缺乏中央角質火山口及唇狀表皮，便不支持 keratoacanthoma。",
-   "summary": "手指單發硬實突出結節、基部角化領圈及病理垂直粗大 collagen bundles，是 acquired digital fibrokeratoma 的核心；需與 HPV wart、basal cell carcinoma 及中央角栓型 keratoacanthoma 區分。",
+   "A": "本項不選。尋常疣（verruca vulgaris）是 HPV 感染造成的粗糙角化丘疹，常看得到點狀出血或血栓化的微血管，病理有乳頭瘤樣增生、顆粒層增厚與挖空細胞。它表面是疣狀粗糙的，不是光滑硬實、基部帶角化領圈的指部纖維性腫瘤。",
+   "B": "本項不選。基底細胞癌好發於日曬部位，典型是珍珠樣丘疹加微血管擴張與捲起的邊緣，長在手指相對少見。組織學要看到基底樣細胞巢、周邊柵欄狀排列與間質退縮，而不是垂直排列的粗大膠原束。",
+   "C": "正確答案。後天性指纖維角化瘤（acquired digital fibrokeratoma）是良性纖維性腫瘤，典型就是成人手指或腳趾上單發、無症狀、膚色到淡紅色的硬實突起，基部有一圈角化領圈。病理三件事：角化過度、棘層肥厚，以及真皮內垂直於表皮排列的粗大膠原束。",
+   "D": "本項不選。角化棘皮瘤是數週內快速長大、中央有角質栓的火山口狀鱗狀增生，好發於日曬皮膚。這題病灶已經五個月、沒有症狀、又長在拇指，病理若沒有中央角質火山口與唇狀表皮，就不支持它。",
+   "summary": "手指上一顆硬實突起、基部有角化領圈，病理是垂直站著的粗膠原束＝後天性指纖維角化瘤。",
    "guideline": "FC 醫學(四)第2冊 p.192"
   },
   "source": "112020/302_22",
@@ -52165,11 +52165,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Raynaud phenomenon 是 systemic sclerosis 常見且常為最早出現的血管症狀，由手指小血管痙攣造成遇冷後白、藍、紅三相變化。長期 vasculopathy 還可能導致 digital ulcers、pitting scars 與組織缺血。",
-   "B": "Heliotrope sign 是 dermatomyositis 的典型皮膚表徵，表現為眼瞼紫紅色變化，常伴 periorbital edema。Systemic sclerosis 的典型皮膚線索是 sclerodactyly、mask-like face、telangiectasia 與 calcinosis，而不是 heliotrope sign。",
-   "C": "Systemic sclerosis 可造成食道平滑肌萎縮與纖維化，使 lower esophageal sphincter 壓力降低及蠕動異常。患者因此常有 gastroesophageal reflux、吞嚥困難或 aspiration 風險。",
-   "D": "Systemic sclerosis 患者的 antinuclear antibody 通常呈陽性，常見特異性抗體包括 limited cutaneous disease 的 anticentromere antibody，以及 diffuse cutaneous disease 的 anti-topoisomerase I 與 anti-RNA polymerase III。抗體型態亦可協助評估 interstitial lung disease 或 scleroderma renal crisis 等風險。",
-   "summary": "Systemic sclerosis 的鑑別組合是 Raynaud phenomenon、皮膚硬化、食道 dysmotility 與 ANA positivity；heliotrope sign 則應連結 dermatomyositis。",
+   "A": "本項敘述正確。雷諾現象（Raynaud phenomenon）是全身性硬化症最常見、也常是最早出現的血管症狀：手指小血管遇冷痙攣，依序變白、變藍、變紅。血管病變拖久了還會造成指端潰瘍、點狀凹陷疤痕與組織缺血。",
+   "B": "本項應選。heliotrope sign 是皮肌炎的典型表徵——眼瞼紫紅色再加眼周水腫。全身性硬化症的皮膚線索是手指硬化（sclerodactyly）、面具臉、微血管擴張與皮膚鈣化，不是 heliotrope sign。",
+   "C": "本項敘述正確。食道平滑肌會萎縮與纖維化，讓下食道括約肌壓力下降、蠕動變差。病人因此常有胃食道逆流、吞嚥困難，也比較容易嗆到。",
+   "D": "本項敘述正確。這些病人的抗核抗體（ANA）多半陽性。特異性抗體還能分型：侷限型常見 anticentromere antibody，瀰漫型常見 anti-topoisomerase I 與 anti-RNA polymerase III，這些抗體也用來評估間質性肺病與硬皮症腎危象的風險。",
+   "summary": "全身性硬化症＝雷諾＋皮膚硬化＋食道蠕動差＋ANA 陽性；看到 heliotrope 要轉念想皮肌炎。",
    "guideline": "FC 醫學(四)第2冊 p.100"
   },
   "source": "112020/302_22",
@@ -52198,11 +52198,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "Pemphigus vulgaris 的 autoantibodies 主要攻擊 desmoglein 3，合併皮膚病灶者也常涉及 desmoglein 1，形成 suprabasal acantholysis。裂隙位於 basal keratinocytes 上方，深度比 pemphigus foliaceus 的 subcorneal split 更深。",
-   "B": "Pemphigus foliaceus 主要由 anti-desmoglein 1 autoantibodies 引起，造成 granular layer 附近的 superficial epidermal acantholysis。其裂解位於表皮最淺層，臨床多呈淺表糜爛與鱗屑，通常沒有黏膜病灶。",
-   "C": "Pemphigus vegetans 是 pemphigus vulgaris 的少見變異型，同樣以 suprabasal acantholysis 為基礎，並出現 papillomatosis 與 vegetating plaques。它常累及 intertriginous areas，裂隙層次並不比 pemphigus foliaceus 淺。",
-   "D": "Bullous pemphigoid 的 autoantibodies 針對 BP180 與 BP230 等 hemidesmosomal proteins，造成 dermoepidermal junction 的 subepidermal blister。其裂解位置在整個 epidermis 下方，是四者中最深而非最淺。",
-   "summary": "水疱裂解層次由淺至深可記為 pemphigus foliaceus 的 subcorneal、pemphigus vulgaris／vegetans 的 suprabasal，以及 bullous pemphigoid 的 subepidermal split。",
+   "A": "本項不選。尋常型天疱瘡的抗體主要打 desmoglein 3，有皮膚病灶時常再加上 desmoglein 1，裂在基底層上方。它比落葉型天疱瘡的角質層下裂隙更深一層。",
+   "B": "正確答案。落葉型天疱瘡（pemphigus foliaceus）主要由 anti-desmoglein 1 抗體造成，棘細胞鬆解發生在顆粒層附近，是四個選項裡最淺的。臨床上因此只看到淺表糜爛與鱗屑，而且通常沒有黏膜病灶。",
+   "C": "本項不選。增殖型天疱瘡（pemphigus vegetans）是尋常型的少見變異型，一樣以基底層上方棘細胞鬆解為基礎，再加上乳頭瘤樣增生與增殖性斑塊。它常長在皺褶處，裂隙層次並沒有比落葉型淺。",
+   "D": "本項不選。類天疱瘡的抗體打的是半橋粒的 BP180 與 BP230，水疱形成在表皮真皮交界處，位置在整層表皮的下方。它是四者裡最深的，剛好與題目要問的相反。",
+   "summary": "水疱由淺到深背一次：落葉型在角質層下、尋常型與增殖型在基底層上、類天疱瘡在表皮下。",
    "guideline": null
   },
   "source": "112020/302_22",
@@ -52238,11 +52238,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Tinea nigra 是 Hortaea werneckii 引起的表淺真菌感染，通常呈單側掌部或足底界線清楚、不脫屑或僅輕微脫屑的棕黑色 macule。它不會典型造成頸部與多個皺褶處對稱性天鵝絨樣增厚。",
-   "B": "Acanthosis nigricans 表現為頸後、腋下、腹股溝等皺褶處對稱性、棕黑色、天鵝絨樣增厚斑塊，常與 obesity 及 insulin resistance 相關。",
-   "C": "Scleroderma 以 dermal collagen deposition 與皮膚緊繃硬化為特徵，可見 sclerodactyly、口周放射狀皺紋或色素變化。它不以頸腋皺褶的柔軟天鵝絨樣色素增厚為典型表現。",
-   "D": "Post-inflammatory hyperpigmentation 是皮膚發炎或損傷後 melanin 增加或落入真皮所造成，分布應對應先前 eczema、trauma 或其他發炎病灶。題幹未提供先前發炎，而且長期多皺褶處增厚變黑更符合 acanthosis nigricans。",
-   "summary": "頸部與腋下等 intertriginous areas 的對稱性黑褐色、天鵝絨樣增厚是 acanthosis nigricans；tinea nigra 偏掌蹠單發色斑，post-inflammatory hyperpigmentation 則需有前驅發炎。",
+   "A": "本項不選。黑癬（tinea nigra）是 Hortaea werneckii 造成的表淺真菌感染，通常是單側手掌或腳底一塊界線清楚的棕黑色斑，幾乎不脫屑。它不會讓頸部與多個皺褶處對稱地變厚。",
+   "B": "正確答案。黑色棘皮症（acanthosis nigricans）就是後頸、腋下、腹股溝這些皺褶處對稱出現棕黑色、摸起來像天鵝絨的增厚斑塊。它與肥胖和胰島素阻抗高度相關，這個 19 歲男生的病史正好對上。",
+   "C": "本項不選。硬皮症（scleroderma）的特徵是真皮膠原堆積、皮膚繃緊變硬，會有手指硬化、口周放射狀皺紋與色素變化。它不會是皺褶處柔軟的天鵝絨樣增厚。",
+   "D": "本項不選。發炎後色素沉澱是皮膚發炎或受傷後黑色素增加、或掉進真皮造成的，分布會對應先前的濕疹或外傷。題目沒有提到之前發炎，而且拖了五年、多處皺褶又變厚，更像黑色棘皮症。",
+   "summary": "皺褶處對稱、變黑又像天鵝絨＝黑色棘皮症；「摸起來厚而軟」是和單純色素沉澱最快的分法。",
    "guideline": "FC 醫學(四)第2冊 p.217"
   },
   "source": "112020/302_22",
@@ -52271,11 +52271,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "部分藥物如 nicotinic acid、systemic corticosteroids、oral contraceptives 或某些 antiretroviral agents 可誘發 acanthosis nigricans。藥物性病例遠少於 obesity-associated insulin resistance 所造成的常見型態。",
-   "B": "Obesity 是 acanthosis nigricans 最常見的相關因子，肥胖所伴隨的 insulin resistance 會導致 hyperinsulinemia。高濃度 insulin 可活化 keratinocytes 與 dermal fibroblasts 上的 IGF-1 receptor，促進表皮增生及天鵝絨樣增厚。",
-   "C": "Malignant acanthosis nigricans 可作為內臟癌的 paraneoplastic sign，最典型與 gastric adenocarcinoma 相關，常突然出現、進展快速且範圍廣。癌症關聯在年輕人慢性皺褶病灶中並非最常見原因。",
-   "D": "感染並不是 acanthosis nigricans 的主要致病機轉；感染性 intertrigo 可能造成皺褶發紅、浸軟、脫屑或 post-inflammatory pigmentation。典型黑色棘皮症的核心關聯仍是 insulin resistance，而不是細菌或真菌直接侵入。",
-   "summary": "Acanthosis nigricans 最常見於肥胖與 insulin resistance；突然且廣泛發作、合併黏膜或掌部變化的成人，才須特別排除內臟惡性腫瘤。",
+   "A": "本項不選。有些藥確實會誘發黑色棘皮症，例如 nicotinic acid、全身性類固醇、口服避孕藥或某些抗反轉錄病毒藥。但藥物造成的例子遠少於肥胖引起的那一型。",
+   "B": "正確答案。肥胖是最常見的相關因子。肥胖帶來胰島素阻抗，再造成高胰島素血症；濃度過高的胰島素會去活化角質細胞與真皮纖維母細胞上的 IGF-1 receptor，推動表皮增生，皮膚就變厚成天鵝絨樣。",
+   "C": "本項不選。惡性型黑色棘皮症確實是內臟癌的伴腫瘤徵象，最典型和胃腺癌相關，特徵是突然出現、進展很快、範圍又廣。但在年輕人慢慢長出來的皺褶病灶，癌症不是最常見的原因。",
+   "D": "本項不選。感染不是黑色棘皮症的機轉。感染性的皺褶炎會讓皺褶發紅、浸軟、脫屑或留下發炎後色素沉澱，那是另一回事；黑色棘皮症的核心仍是胰島素阻抗。",
+   "summary": "黑色棘皮症先想胖與胰島素阻抗；要懷疑癌症的是「突然冒出、進展很快、還侵犯黏膜或手掌」的成人。",
    "guideline": null
   },
   "source": "112020/302_22",
@@ -52309,11 +52309,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Ichthyosis vulgaris 是最常見的 inherited ichthyosis，通常與 FLG mutation 造成 filaggrin 不足及皮膚屏障異常有關。多為 autosomal semidominant inheritance，病況嚴重度可隨突變 allele 數量而異。",
-   "B": "Palmar hyperlinearity 是 ichthyosis vulgaris 的常見線索，指手掌紋路比一般人明顯且數量增加。此徵象也反映 FLG-related barrier dysfunction，並常與 atopic tendency 並存。",
-   "C": "Ichthyosis vulgaris 的細小灰白色鱗屑主要分布於四肢伸側，尤其小腿，通常相對避開 flexural surfaces。若屈側或關節內側特別明顯，反而不符合其經典分布。",
-   "D": "Keratosis pilaris 與 atopic dermatitis 常和 ichthyosis vulgaris 共病，三者皆可涉及 epidermal barrier dysfunction。臨床可同時看到毛囊性角化丘疹、xerosis、搔癢與掌紋增多。",
-   "summary": "Ichthyosis vulgaris 的考點是 FLG mutation、palmar hyperlinearity、keratosis pilaris 與 atopic dermatitis；鱗屑偏四肢伸側並相對避開屈側。",
+   "A": "本項敘述正確。尋常性魚鱗癬是最常見的遺傳性魚鱗癬，與 FLG 突變造成 filaggrin 不足、屏障變差有關。它是體染色體半顯性遺傳，帶幾個突變 allele 會影響嚴重度。",
+   "B": "本項敘述正確。掌紋增多（palmar hyperlinearity）是很好用的線索：手掌紋路比一般人多而且明顯。它同樣反映 FLG 相關的屏障功能異常，常和異位體質一起出現。",
+   "C": "本項應選。它的細小灰白鱗屑主要長在四肢伸側，小腿最明顯，而且會相對避開屈側。如果反而是屈側與關節內側特別嚴重，就不符合這個病的經典分布。",
+   "D": "本項敘述正確。毛孔角化症與異位性皮膚炎常和它共病，三者都牽涉表皮屏障功能異常。所以臨床上會同時看到毛囊性角化丘疹、皮膚乾燥、搔癢與掌紋增多。",
+   "summary": "尋常性魚鱗癬長在伸側、避開屈側；再加掌紋變多與毛孔角化，就是 filaggrin 那一組。",
    "guideline": "FC 醫學(四)第2冊 p.209"
   },
   "source": "112020/302_22",
@@ -63977,11 +63977,11 @@
    "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
   },
   "explanation": {
-   "A": "Infantile atopic dermatitis 常從臉頰、額頭及頭皮開始，呈紅斑、丘疹、滲液與結痂，中央臉部或 diaper area 可相對保留。搔癢是核心症狀，抓搔後也容易發生 secondary bacterial infection。",
-   "B": "嬰兒期 atopic dermatitis 通常較常累及臉部與四肢伸側，而非以 flexural surfaces 為主要分布。肘窩、膝窩等屈側苔癬化病灶較典型見於較大兒童及成人期。",
-   "C": "嬰幼兒 atopic dermatitis 可伴隨 IgE-mediated food allergy，常見相關食物包括 egg、cow's milk、peanut、wheat 與 soy。只有立即型反應史、中重度且治療不佳等適當情境才應進一步評估，不能僅憑 eczema 便任意限制飲食。",
-   "D": "Adult atopic dermatitis 可表現為 chronic hand eczema，尤其在反覆接觸水、清潔劑或職業刺激物時加劇。成人也常見屈側苔癬化、頭頸型皮膚炎及眼周病灶。",
-   "summary": "Atopic dermatitis 的年齡分布會轉變：嬰兒以臉與伸側為主，兒童及成人較偏屈側；成人另可呈 chronic hand eczema，嬰幼兒則較常合併 food allergy。",
+   "A": "本項敘述正確。嬰兒期的異位性皮膚炎常從臉頰、額頭與頭皮開始，出現紅斑、丘疹、滲液與結痂，臉部中央或包尿布的地方反而可能沒事。癢是核心症狀，抓破後容易續發細菌感染。",
+   "B": "本項應選。嬰兒期比較常侵犯的是臉部與四肢伸側，不是屈側。肘窩、膝窩這些屈側的苔癬化病灶，要到比較大的兒童與成人期才典型。",
+   "C": "本項敘述正確。嬰幼兒可能合併 IgE 媒介的食物過敏，常見的是蛋、牛奶、花生、小麥與大豆。但要有立即型反應病史、或中重度且治療效果不好，才進一步評估——不能光憑濕疹就亂禁食物。",
+   "D": "本項敘述正確。成人型可以表現成慢性手部濕疹，尤其反覆碰水、清潔劑或職業刺激物時會加劇。成人也常見屈側苔癬化、頭頸型皮膚炎與眼周病灶。",
+   "summary": "異位性皮膚炎的位置會隨年齡搬家：嬰兒在臉和伸側，長大才換到屈側，成人可能只剩手部濕疹。",
    "guideline": "FC 醫學(四)第1冊 p.415"
   },
   "source": "112080/302_22",
@@ -64015,11 +64015,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Furosemide 是 loop diuretic，藉抑制 thick ascending limb 的 Na-K-2Cl cotransporter 達到利尿及降壓效果。它可引起 sulfonamide-related drug eruption 或 photosensitivity，但並非最典型會誘發或惡化 psoriasis 的藥物。",
-   "B": "Propranolol 是 nonselective β-adrenergic blocker，屬於已知可能誘發或惡化 psoriasis 的藥物類別。其機轉可能涉及降低 keratinocyte intracellular cAMP、改變增生與免疫訊號，且停藥後改善有時需數週至數月。",
-   "C": "Prazosin 是 selective α1-adrenergic antagonist，可降低周邊血管阻力並用於 hypertension 或某些 PTSD-related nightmares。它不是典型 psoriasis exacerbating drug，與 lithium、β-blockers、antimalarials 及 interferons 的關聯相比明顯較弱。",
-   "D": "Atorvastatin 抑制 HMG-CoA reductase 以降低 cholesterol synthesis，主要不良反應包括 myopathy 與 transaminase elevation。Statin 並非乾癬惡化的典型誘因，部分研究甚至探討其抗發炎作用對 psoriasis 的潛在益處。",
-   "summary": "藥物誘發乾癬應優先聯想到 β-blockers、lithium、antimalarials、interferons，以及停用 systemic corticosteroids 後的反彈；本題 propranolol 的關聯最典型。",
+   "A": "本項不選。furosemide 是環利尿劑，抑制亨利氏管粗上行支的 Na-K-2Cl cotransporter 來利尿降壓。它可能引起磺胺相關藥疹或光敏感，但不是典型會誘發或惡化乾癬的藥。",
+   "B": "正確答案。propranolol 是非選擇性 β 阻斷劑，屬於已知會誘發或惡化乾癬的藥物類別。推測機轉是降低角質細胞內的 cAMP，改變增生與免疫訊號。要提醒病人：停藥後皮膚要好轉，有時得等數週到數月。",
+   "C": "本項不選。prazosin 是選擇性 α1 阻斷劑，降低周邊血管阻力，用於高血壓或某些創傷後壓力症（PTSD）的惡夢。它和乾癬惡化的關聯，比起 lithium、β 阻斷劑、抗瘧藥與干擾素明顯弱得多。",
+   "D": "本項不選。atorvastatin 抑制 HMG-CoA reductase 來降膽固醇，主要副作用是肌病變與轉胺酶上升。statin 不是乾癬惡化的典型誘因，甚至有研究在探討它的抗發炎作用對乾癬可能有益。",
+   "summary": "會把乾癬弄壞的藥記四個加一個：β 阻斷劑、lithium、抗瘧藥、干擾素，還有「停掉全身性類固醇」的反彈。",
    "guideline": "FC 醫學(四)第2冊 p.153"
   },
   "source": "112080/302_22",
@@ -64055,11 +64055,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Syringoma 是 eccrine duct differentiation 的良性 adnexal tumor，典型為青春期後女性下眼瞼多發、膚色至淡黃色的小 papules。病理可見蝌蚪狀或逗點狀 ducts，頸部雖可能發生，但在 13 歲男孩並非最典型診斷。",
-   "B": "Lichen amyloidosus 是 keratin-derived amyloid 沉積於 papillary dermis 所致，通常在小腿前側出現劇癢、密集且呈波紋狀排列的 hyperkeratotic papules。青少年頸部短期出現多發平頂丘疹不符合其典型部位與慢性搔癢病程。",
-   "C": "Acne vulgaris 是 pilosebaceous unit 的角化、皮脂、Cutibacterium acnes 與發炎共同造成，病灶包括 open or closed comedones、papules、pustules 及 nodules。若頸部病灶為均一、平頂且缺少 comedones，便不支持尋常性痤瘡。",
-   "D": "Verruca plana 是 HPV 感染造成的扁平疣，常見於兒童及青少年臉部、頸部或手背，呈多發、膚色至淡褐色、表面平滑的 flat-topped papules。",
-   "summary": "青少年頸部多發、平滑且平頂的小丘疹最支持 verruca plana；acne 應有 comedones，syringoma 偏下眼瞼，lichen amyloidosus 則偏脛前劇癢角化丘疹。",
+   "A": "本項不選。汗管瘤（syringoma）是往汗管分化的良性附屬器腫瘤，典型長在青春期後女性的下眼瞼，是多發的膚色到淡黃色小丘疹，病理可見蝌蚪狀或逗點狀的管腔。頸部雖然也可能長，但 13 歲男孩不是它的典型對象。",
+   "B": "本項不選。苔癬型類澱粉症（lichen amyloidosus）是角蛋白衍生的類澱粉沉積在真皮乳頭層，典型長在小腿前側，是極癢、密集、排成波紋狀的角化丘疹。青少年頸部一個月內冒出多發平頂丘疹，部位與病程都不像。",
+   "C": "本項不選。尋常性痤瘡是毛囊皮脂腺單位的角化、皮脂、Cutibacterium acnes 與發炎共同造成，病灶會有開放或閉鎖性粉刺、丘疹、膿疱與結節。如果頸部病灶大小一致、平頂又找不到粉刺，就不支持痤瘡。",
+   "D": "正確答案。扁平疣（verruca plana）是 HPV 感染造成的，好發於兒童與青少年的臉部、頸部或手背，特徵是多發、膚色到淡褐色、表面平滑的平頂小丘疹——「平」是它最好認的地方。",
+   "summary": "青少年頸部一堆平頂、表面平滑的小丘疹＝扁平疣；痤瘡一定找得到粉刺，這是最快的分法。",
    "guideline": "FC 醫學(四)第2冊 p.38"
   },
   "source": "112080/302_22",
@@ -64088,11 +64088,11 @@
   "specialty": "皮膚科",
   "fc_ref": null,
   "explanation": {
-   "A": "手術切除可完整移除單一腫瘤，但 verruca plana 往往數量多且屬表淺 HPV infection。逐顆切除會增加 scar、色素變化及不必要的侵入性，並非頸部多發扁平疣的合理首選。",
-   "B": "Topical corticosteroid 藉抑制皮膚免疫及發炎反應治療 eczema 等 inflammatory dermatoses，無法直接清除 HPV-infected keratinocytes。長期塗抹還可能造成 skin atrophy、telangiectasia，並可能使病毒疣持續或擴散。",
-   "C": "Topical antibiotics 如 mupirocin 或 fusidic acid 主要針對細菌性皮膚感染，對造成 verruca plana 的 HPV 沒有抗病毒作用。除非病灶因抓破合併 secondary bacterial infection，否則不是治療扁平疣的適當方法。",
-   "D": "Cryotherapy 使用 liquid nitrogen 造成細胞內外冰晶、血管損傷與局部免疫反應，可破壞 HPV-infected epidermis。扁平疣可採謹慎、較輕度的冷凍治療，但頸臉部需控制深度，以減少 blister、scar 及 post-inflammatory pigmentary change。",
-   "summary": "Verruca plana 的治療是破壞受 HPV 感染的表皮或調節局部免疫；四項中 cryotherapy 最適當，而 steroid、antibiotic 與逐顆手術切除各有機轉或傷害上的限制。",
+   "A": "本項不選。手術切除可以完整拿掉單一顆腫瘤，但扁平疣往往數量很多，而且只是表淺的 HPV 感染。一顆一顆切會留疤、造成色素變化，也太過侵入。",
+   "B": "本項不選。外用類固醇是壓制皮膚免疫與發炎來治濕疹這類發炎性皮膚病，對已經被 HPV 感染的角質細胞沒有清除作用。長期塗還會讓皮膚萎縮、微血管擴張，甚至讓病毒疣拖更久或擴散。",
+   "C": "本項不選。外用抗生素像 mupirocin 或 fusidic acid 針對的是細菌感染，對 HPV 沒有抗病毒作用。除非病灶被抓破、續發細菌感染，否則用它治扁平疣沒有道理。",
+   "D": "正確答案。冷凍治療用液態氮製造細胞內外的冰晶、破壞血管並引發局部免疫反應，可以把被 HPV 感染的表皮清掉。扁平疣要用比較輕的冷凍，臉頸部更要控制深度，以免起水疱、留疤或留下發炎後色素變化。",
+   "summary": "扁平疣的治療邏輯是「破壞受感染的表皮或叫免疫系統來處理」——類固醇和抗生素都打不到 HPV。",
    "guideline": null
   },
   "source": "112080/302_22",
@@ -64128,11 +64128,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Subungual viral wart 由 HPV 引起，可造成甲下 hyperkeratosis、甲板抬高與粗糙疣狀組織，但一般不會在 X-ray 顯示與 distal phalanx 連續的骨性突起。可藉 dermoscopy、paring 或 biopsy 與其他甲下增生物區分。",
-   "B": "Subungual keratoacanthoma 是少見且快速生長的疼痛性甲下腫瘤，可能造成 distal phalanx 的壓迫性、杯狀骨侵蝕。它通常不是由骨表面長出並具有皮質與髓腔連續性的外生骨。",
-   "C": "Subungual exostosis 是從 distal phalanx 背側或背內側長出的良性 osteocartilaginous proliferation，常造成疼痛、甲板抬高及甲下增生物。X-ray 可見附著於末節指骨的 radiopaque bony projection。",
-   "D": "Subungual glomus tumor 源自 glomus body，典型為劇烈局部疼痛、冷刺激痛與精確壓痛，可呈甲下藍紅色小結節。小腫瘤在 X-ray 常無異常，較大者偶有骨侵蝕，但不會形成明顯骨性增生。",
-   "summary": "緩慢增大且疼痛的甲下腫物若在 X-ray 顯示與 distal phalanx 相連的骨性突出，應診斷 subungual exostosis；glomus tumor 強調冷痛，keratoacanthoma 偏快速生長與骨侵蝕。",
+   "A": "本項不選。甲下病毒疣由 HPV 引起，會造成甲下角化、甲板被頂高與粗糙疣狀組織。但 X 光不會看到與末節指骨（distal phalanx）相連的骨性突起，必要時可用皮膚鏡、削除或切片區分。",
+   "B": "本項不選。甲下角化棘皮瘤少見，特點是長很快又痛，可能把末節指骨壓出杯狀骨侵蝕。但它不是從骨頭表面長出來、也不會有皮質與髓腔連續的外生骨影像。",
+   "C": "正確答案。甲下外生骨（subungual exostosis）是從末節指骨背側或背內側長出來的良性骨軟骨增生，會痛、會把甲板頂高、還會冒出甲下增生物。決定性證據在 X 光：可以看到一塊附著在末節指骨上的緻密骨性突起，正是圖②③箭頭指的東西。",
+   "D": "本項不選。甲下血管球腫瘤來自血管球體，典型是劇烈局部疼痛、碰冷會痛、按壓點非常精準，可能透出藍紅色。小的腫瘤 X 光通常正常，大的偶爾造成骨侵蝕，但不會長出明顯的骨性增生。",
+   "summary": "會痛的甲下腫物先照 X 光：看到與指骨相連的骨性突起就是外生骨；碰冷劇痛而 X 光正常的才想血管球腫瘤。",
    "guideline": "FC 醫學(四)第2冊 p.251"
   },
   "source": "112080/302_22",
@@ -64166,11 +64166,11 @@
    "book": "FC醫(四)(2)(皮膚)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第二冊_皮膚科.pdf"
   },
   "explanation": {
-   "A": "Abacavir 與 HLA-B*57:01 高度相關，可引起發燒、皮疹、腸胃道及呼吸道症狀的 multisystem hypersensitivity reaction。用藥前應篩檢 HLA-B*57:01，而不是 HLA-B*15:02。",
-   "B": "Allopurinol 所致 severe cutaneous adverse reactions，包括 SJS、TEN 與 DRESS，和 HLA-B*58:01 有顯著關聯。台灣漢人等高風險族群在開始 allopurinol 前考慮的基因檢測是 HLA-B*58:01。",
-   "C": "Carbamazepine-induced SJS/TEN 與 HLA-B*15:02 在 Han Chinese 及部分東南亞族群有強烈關聯。國內開始 carbamazepine 前建議檢測 HLA-B*15:02，陽性者應避免使用，並改選結構與交叉風險適當的替代藥物。",
-   "D": "Hydralazine 可引起 drug-induced lupus，常見 ANA 及 anti-histone antibodies，長期高劑量或慢 acetylator 的風險較高。它與 HLA-B*15:02-associated SJS/TEN 並無典型對應關係。",
-   "summary": "重要 HLA－藥物配對為 carbamazepine－HLA-B*15:02、allopurinol－HLA-B*58:01、abacavir－HLA-B*57:01；hydralazine 則典型連結 drug-induced lupus。",
+   "A": "本項不選。abacavir 要驗的是 HLA-B*57:01，它相關的是發燒、皮疹加腸胃道與呼吸道症狀的多系統過敏反應。用藥前篩的基因和本題問的不同。",
+   "B": "本項不選。allopurinol 造成的嚴重皮膚不良反應（SJS、TEN 與 DRESS）主要與 HLA-B*58:01 有關。台灣漢人這類高風險族群開藥前要考慮的是 HLA-B*58:01，不是 HLA-B*15:02。",
+   "C": "正確答案。carbamazepine 引起的 SJS/TEN 與 HLA-B*15:02 在漢人與部分東南亞族群有強烈關聯，所以國內建議開藥前先驗。驗出陽性就不要用，改選交叉風險較低的替代藥。",
+   "D": "本項不選。hydralazine 的代表性問題是藥物誘發性狼瘡，會出現 ANA 與 anti-histone antibodies，長期高劑量或慢乙醯化者風險更高。它和 HLA-B*15:02 相關的 SJS/TEN 沒有典型對應。",
+   "summary": "三組藥與 HLA 一起背：carbamazepine–B*15:02、allopurinol–B*58:01、abacavir–B*57:01。",
    "guideline": "FC 醫學(四)第2冊 p.143"
   },
   "source": "112080/302_22",
