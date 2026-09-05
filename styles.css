@@ -120,3 +120,37 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
   .hero-stats>div{padding:11px 13px}
   .hero-stats b{font-size:23px}
 }
+
+/* 概念卡（2026-09-04）：沿用判讀室語彙——厚黑塊標題、髮絲線分隔、只用一個訊號色。
+   卡片放在選項詳解之後、FC 原文之前：先知道每個選項對錯，再看這張卡把概念收攏。 */
+.cards{margin-top:14px;display:flex;flex-direction:column;gap:9px}
+.card{border:1px solid var(--hair);background:var(--paper);padding:11px 13px;border-radius:var(--r)}
+.card h3{margin:0 0 6px;font-size:14px;font-weight:800;line-height:1.5;color:var(--ink)}
+.card h3 em{font-style:normal;font-weight:600;font-size:11.5px;color:var(--muted);letter-spacing:.02em}
+.cbody{margin:0 0 7px;font-size:13px;line-height:1.7;color:var(--ink2)}
+.citems{margin:0;padding:0;list-style:none}
+.citems li{font-size:12.5px;line-height:1.65;color:var(--ink2);padding:5px 0 5px 12px;border-top:1px solid var(--hair);position:relative}
+.citems li::before{content:"";position:absolute;left:0;top:13px;width:5px;height:1px;background:var(--sig)}
+.cnote{margin:7px 0 0;font-size:12px;line-height:1.65;color:var(--ink2);border-left:2px solid var(--sig);padding-left:9px}
+.csrc{margin:6px 0 0;font-size:11px;color:var(--muted)}
+/* compare 卡的對照表：窄螢幕自己橫捲，不讓整頁被撐開 */
+.ctable{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:2px 0 4px}
+.ctable table{border-collapse:collapse;width:100%;min-width:420px;font-size:12.5px}
+.ctable th,.ctable td{border:1px solid var(--hair);padding:6px 8px;text-align:left;line-height:1.6;vertical-align:top}
+.ctable thead th{background:var(--rule);color:var(--paper);font-size:11.5px;font-weight:800;white-space:nowrap}
+.ctable thead th:first-child{background:transparent;border-color:transparent}
+.ctable tbody th{background:var(--panel);color:var(--ink);font-weight:700;white-space:nowrap;width:1%}
+.ctable tbody td{color:var(--ink2)}
+/* 窄螢幕（手機）：對照表改成一列一塊往下堆。
+   實測 375px 下三欄表會把第二個比較對象整欄切掉，要左右捲才看得到——
+   而對照表的價值就是兩邊並排比，捲著看等於白做。堆疊後兩邊在同一畫面內上下相鄰。 */
+@media (max-width:640px){
+  .ctable{overflow-x:visible}
+  .ctable table{min-width:0;width:100%}
+  .ctable thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+  .ctable tbody tr{display:block;border:1px solid var(--hair);margin-bottom:6px}
+  .ctable tbody th,.ctable tbody td{display:block;width:auto;border:0}
+  .ctable tbody th{background:var(--rule);color:var(--paper);font-size:12px}
+  .ctable tbody td+td{border-top:1px solid var(--hair)}
+  .ctable tbody td::before{content:attr(data-col);display:block;font-size:10px;letter-spacing:.16em;color:var(--muted);font-weight:800;margin-bottom:3px}
+}

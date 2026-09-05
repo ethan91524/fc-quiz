@@ -1,10 +1,10 @@
-const CACHE = 'fc-quiz-v20';
+const CACHE = 'fc-quiz-v21';
 
 // 不會變動的資源 → cache-first
 const IMMUTABLE = ['./vendor/pdf.min.mjs', './vendor/pdf.worker.min.mjs', './icon.svg', './manifest.webmanifest'];
 // 會改版的文件 → network-first（離線時才回快取）
-const DOCS = ['./', './index.html', './styles.css?v=12', './app.js?v=12', './learning-core.js?v=8', './config.js'];
-const DATA = ['./questions.json'];
+const DOCS = ['./', './index.html', './styles.css?v=21', './app.js?v=21', './learning-core.js?v=8', './config.js'];
+const DATA = ['./questions.json', './concepts.json'];
 
 const abs = p => new URL(p, self.registration.scope).pathname;
 const IMMUTABLE_SET = new Set(IMMUTABLE.map(abs));
