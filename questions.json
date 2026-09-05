@@ -47959,11 +47959,11 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "持續淋巴水腫（lymphedema）會引發 chronic inflammation、adipose deposition 與 fibrosis，使皮膚及皮下組織逐漸增厚。",
-   "B": "淋巴結清除與 radiation 破壞淋巴回流，是 breast／pelvic cancer 治療後 secondary lymphedema 的常見原因。",
-   "C": "潤膚劑不是下肢 lymphedema 禁忌；維持 skin barrier、處理裂口與足癬反而可減少 cellulitis 風險。",
-   "D": "Lymphedema 常以 heaviness、tightness 和 painless swelling 表現；若明顯疼痛須評估 infection、DVT 或其他病因。",
-   "summary": "Lymphedema 皮膚照護包含保濕與預防傷口；禁用潤膚劑的說法會增加而非降低感染風險。",
+   "A": "本項不選。長期淋巴水腫會引發慢性發炎，接著脂肪堆積與纖維化，皮膚與皮下組織就慢慢變厚變硬。這是它會愈拖愈難處理的原因。",
+   "B": "本項不選。腋下或鼠蹊部清除淋巴結加上放射線治療，會破壞淋巴回流。這正是乳癌與骨盆腔癌治療後續發性淋巴水腫最常見的來源。",
+   "C": "本項應選。方向剛好相反：潤膚劑不但不是禁忌，還是照護重點。維持皮膚屏障完整、處理裂口與足癬，才能**減少**蜂窩性組織炎。說它會增加感染會害病人不敢保養。",
+   "D": "本項不選。淋巴水腫典型是沉重感、緊繃感與不太痛的腫脹。如果明顯疼痛，反而要回頭評估感染、深部靜脈栓塞（DVT）或其他原因。",
+   "summary": "淋巴水腫的皮膚要保濕不是禁保濕——皮膚裂開才是蜂窩性組織炎的入口。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -48625,11 +48625,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "正常 glucose、protein、triglyceride 且未用 mannitol 排除 translocational 與 假性低血鈉（pseudohyponatremia），因此 Na 115 mmol/L 應伴低血清滲透壓（serum osmolality）。",
-   "B": "尿滲透壓 250 mOsm/kg 表示 ADH 未被完全抑制；若病人穩定，fluid restriction 仍可能有益，不能說「無益」。但本題有意識障礙，急性期先處理症狀性低鈉。",
-   "C": "Na 115 mmol/L 合併意識障礙屬 嚴重症狀性低血鈉（severe symptomatic hyponatremia），可用 3% saline 小量 bolus 使血鈉先安全上升並改善症狀。",
-   "D": "將 Na 在 24 小時由 115 矯正至 135（+20）會大幅增加 滲透性脫髓鞘（osmotic demyelination）風險，必須限制 correction。",
-   "summary": "真正低張且有神經症狀的 低血鈉（hyponatremia）先用 3% saline；穩定後仍可依尿滲透壓與病因採限水。",
+   "A": "本項敘述正確。血糖、蛋白質與三酸甘油脂都正常，又沒打 mannitol，等於排除了假性低血鈉與轉位性低血鈉。所以 Na 115 mmol/L 是真的低張，血清滲透壓應該偏低。",
+   "B": "本項應選。尿滲透壓 250 mOsm/kg H2O 代表 ADH 還沒被完全抑制，這種情況限水通常仍然有幫助，不能說「無益」。只是這位病人已經意識障礙，急性期要先處理症狀，之後才輪到限水。",
+   "C": "本項敘述正確。Na 115 mmol/L 又有意識障礙，屬於嚴重症狀性低血鈉。可以用 3% 食鹽水小量 bolus，讓血鈉先安全上升、症狀改善。",
+   "D": "本項敘述正確。24 小時內從 115 拉到 135 等於升了 20 mmol/L，會大幅提高滲透性脫髓鞘的風險。矯正速度一定要限制。",
+   "summary": "低血鈉有神經症狀就先給 3% 鹽水救症狀，但一天升幅要壓住——救得急、升得慢，兩件事並行。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -48658,11 +48658,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "需要 dialysis 的比例受基礎 CKD 與事件定義影響，並非 contrast-associated AKI 的固定 2–7%；大多數病例不需透析。",
-   "B": "預防性 isotonic saline 應在顯影劑前開始並依風險延續至檢查後，僅檢查後才給 12 小時會錯過預防時機。",
-   "C": "sodium bicarbonate 若採用也須包含檢查前後 hydration；單在顯影前 1 小時而無後續補液並非完整有效方案。",
-   "D": "N-acetylcysteine 曾廣泛使用，但大型研究未證實一致腎臟效益，現行預防重點為適當 isotonic fluid、最低 contrast dose 與停避免腎毒物。",
-   "summary": "Contrast-associated AKI 的可靠預防是風險評估與檢查前後 isotonic hydration；N-acetylcysteine 不例行推薦。",
+   "A": "本項敘述錯誤。需要透析的比例會隨基礎慢性腎病（CKD）與事件定義而變動，不是固定的 2～7%。實際上大多數顯影劑相關急性腎損傷（AKI）並不需要透析。",
+   "B": "本項敘述錯誤。時機不對：預防性的等張生理食鹽水要在**打顯影劑之前**就開始，再依風險延續到檢查後。只在檢查後給 12 小時等於錯過預防的時間點。",
+   "C": "本項敘述錯誤。就算採用 sodium bicarbonate，也要包含檢查前與檢查後的補液。只在顯影前 1 小時打、之後就不補，不是完整的方案。",
+   "D": "正確答案。N-acetylcysteine 過去被廣泛使用，但大型研究沒能證實一致的腎臟保護效益，所以現在不例行推薦。真正有用的是風險評估、檢查前後的等張補液、用最低必要顯影劑量並停掉腎毒性藥物。",
+   "summary": "顯影劑腎病變的預防只有「補液＋減量」是可靠的；N-acetylcysteine 已經不推薦了。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -48734,11 +48734,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "高血壓腎病變是臺灣 ESKD 重要病因，但新發透析病人的首位病因不是高血壓。",
-   "B": "糖尿病腎病變是臺灣新發末期腎病最主要原發疾病，反映 diabetes 高盛行與長期 microvascular damage。",
-   "C": "慢性腎絲球腎炎過去是重要 ESKD 原因，目前比例低於 diabetic kidney disease。",
-   "D": "中草藥腎病變可造成 chronic tubulointerstitial disease，但不是臺灣 ESKD 最主要整體病因。",
-   "summary": "臺灣 incident ESKD 的首要原發病因是 diabetic kidney disease。",
+   "A": "本項不選。高血壓腎病變確實是臺灣末期腎病的重要病因，但新發透析病人的首位病因不是它。",
+   "B": "正確答案。糖尿病腎病變是臺灣新發末期腎病（ESKD）最主要的原發疾病。這反映兩件事：糖尿病盛行率高，加上長期微血管傷害累積。",
+   "C": "本項不選。慢性腎絲球腎炎過去是重要原因，但目前比例已經低於糖尿病腎病變。",
+   "D": "本項不選。中草藥腎病變會造成慢性間質性腎病，在臺灣有其特殊地位，但不是整體最主要的病因。",
+   "summary": "臺灣新洗腎的第一名是糖尿病腎病變——這題考的是流行病學排序，不是機轉。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -48810,11 +48810,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "CKD 腎間質細胞製造 erythropoietin 不足，是 normocytic anemia 的核心機轉。",
-   "B": "CKD 貧血常見 absolute 或 functional iron deficiency，而不是 iron stores 過多；hepcidin 上升使儲存鐵無法有效利用。",
-   "C": "出血傾向（bleeding diathesis）可由尿毒性 platelet dysfunction、抽血與 dialysis circuit loss 可造成慢性失血，加重 CKD anemia。",
-   "D": "Chronic inflammation 提高 hepcidin、抑制 erythropoiesis 並縮短 RBC survival，造成 anemia of inflammation。",
-   "summary": "CKD anemia 來自 EPO 不足、鐵缺乏／利用障礙、發炎與失血，不是鐵儲存過多。",
+   "A": "本項不選。慢性腎臟病（CKD）的腎間質細胞製造紅血球生成素（erythropoietin）不足，這是正球性貧血的核心機轉。",
+   "B": "本項應選。方向寫反了。慢性腎臟病常見的是絕對或功能性的**鐵缺乏**，不是鐵儲存過多。而且 hepcidin 上升會把儲存鐵鎖住，讓身體想用也用不到。",
+   "C": "本項不選。尿毒造成血小板功能異常，加上反覆抽血與透析管路的損失，都會慢性失血，讓貧血更嚴重。",
+   "D": "本項不選。慢性發炎會提高 hepcidin、抑制紅血球生成，還縮短紅血球（RBC）壽命，形成發炎性貧血。",
+   "summary": "慢性腎病的貧血是「EPO 不夠＋鐵被鎖住＋一直漏血」，鐵過多剛好相反。",
    "guideline": null
   },
   "source": "112020/302_11",
@@ -48843,11 +48843,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "藥物無法控制的 高血鉀（hyperkalemia）可能致命，是 urgent dialysis 的典型適應症。",
-   "B": "Diuretic-resistant acute pulmonary edema 伴 oliguria 表示無法排除容量，需 dialysis ultrafiltration。",
-   "C": "嚴重 代謝性酸中毒（metabolic acidosis）若適當 bicarbonate 與病因治療仍無法矯正，可接受 dialysis。",
-   "D": "eGFR 6 mL/min/1.73 m² 本身不等於緊急 dialysis；慢性病人應依 uremic symptoms、refractory electrolyte／volume disorder 與營養惡化決定。",
-   "summary": "Urgent dialysis 看 AEIOU 併發症與症狀，不以低 eGFR 數字單獨啟動。",
+   "A": "本項不選。藥物治療壓不下來的高血鉀可能致命，是緊急透析的典型適應症。",
+   "B": "本項不選。急性肺水腫又對利尿劑沒反應、尿量少，代表水排不掉，需要透析用超過濾把水拉走。",
+   "C": "本項不選。嚴重代謝性酸中毒如果給了碳酸氫鈉、也處理了病因仍矯正不了，可以用透析。",
+   "D": "本項應選。單看 eGFR 6 mL/min/1.73 m2 這個數字不能決定要不要緊急透析。慢性病人要看的是有沒有尿毒症狀、難治的電解質或體液問題、營養惡化——「不論有無尿毒症狀」這句話就是錯的地方。",
+   "summary": "緊急透析看併發症（AEIOU）不看 eGFR 數字；慢性病人沒症狀就不急。",
    "guideline": null,
    "concepts": [
     "urgent-dialysis-indications-aeiou"
@@ -59813,11 +59813,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "insulin 活化 Na/K-ATPase，使 K+ 移入細胞，是急性治療 高血鉀（hyperkalemia）的方法。",
-   "B": "magnesium deficiency 常增加 renal potassium wasting，較常合併 refractory 低血鉀（hypokalemia）。",
-   "C": "非類固醇抗發炎藥（non-steroidal anti-inflammatory drugs，NSAIDs）NSAIDs 抑制 renal prostaglandin，降低 renin 與 aldosterone，亦可能降低 GFR，因此會增加 高血鉀（hyperkalemia）風險。",
-   "D": "beta2-adrenergic agonists 促使 K+ 移入細胞，可短暫降低 serum potassium。",
-   "summary": "NSAID 會以 hyporeninemic hypoaldosteronism 與腎功能下降促成 高血鉀（hyperkalemia）。",
+   "A": "本項不選。胰島素活化 Na/K-ATPase，把鉀趕進細胞內，反而是**治療**高血鉀的手段。",
+   "B": "本項不選。缺鎂會增加腎臟排鉀，比較常合併的是難以矯正的低血鉀，方向相反。",
+   "C": "正確答案。非類固醇抗發炎藥（NSAIDs）抑制腎臟的前列腺素，讓腎素與醛固酮都下降；同時它還可能降低腎絲球過濾率（GFR）。兩條路一起走，血鉀就上去了。",
+   "D": "本項不選。β2 腎上腺素受體促效劑（beta2-adrenergic agonist）同樣把鉀往細胞內推，可以短暫降低血鉀，臨床上也拿來急救高血鉀。",
+   "summary": "會把鉀推進細胞的（胰島素、β2 促效劑）是降鉀；擋住醛固酮那條路的（NSAID）才升鉀。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -59922,11 +59922,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "allopurinol 抑制 xanthine oxidase、降低 uric acid 生成，可用於 hyperuricosuria 或 recurrent uric acid stones。",
-   "B": "potassium citrate 可鹼化尿液並補 citrate，是 uric acid stone 溶解與預防的重要治療。",
-   "C": "probenecid 增加 urinary uric acid excretion，會提高尿中 urate 負荷並促進 uric acid stones，因此最不恰當。",
-   "D": "sodium bicarbonate 可鹼化尿液、增加 uric acid 溶解度，但長期需注意 sodium load。",
-   "summary": "Radiolucent uric acid stone 以 urine alkalinization 為核心；應避免 uricosuric probenecid 增加尿酸負荷。",
+   "A": "本項不選。allopurinol 抑制 xanthine oxidase、減少尿酸生成，可用在高尿酸尿或反覆的尿酸結石。",
+   "B": "本項不選。potassium citrate 既能鹼化尿液又補充檸檬酸鹽，是尿酸結石溶解與預防的重要藥物。",
+   "C": "本項應選。這題的結石在超音波看得到、X 光卻照不出來，是典型的尿酸結石（radiolucent）。probenecid 是促尿酸排泄劑，會讓尿裡的尿酸更多，等於火上加油。",
+   "D": "本項不選。sodium bicarbonate 鹼化尿液、增加尿酸溶解度，也可以用。只是長期使用要注意鈉負荷。",
+   "summary": "X 光照不到的結石先想尿酸石：治療靠鹼化尿液，最不能用的是把尿酸往尿裡趕的 probenecid。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60638,11 +60638,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "Hb 11.3 g/dL 已在 advanced CKD 可接受範圍，避免過度 ESA 矯正有助降低 cardiovascular harm。",
-   "B": "持續控制 blood pressure 可延緩 CKD 與降低 cardiovascular mortality。",
-   "C": "病人 eGFR 11 但無 uremic symptoms、volume overload、refractory acidosis 或 高血鉀（hyperkalemia）；此時預先開始 dialysis 未證實 survival benefit。",
-   "D": "eGFR 11 應轉介 nephrology 規劃 modality、vascular access／transplant evaluation 與 CKD complications。",
-   "summary": "Asymptomatic advanced CKD 不因 eGFR 11 單獨開始 dialysis；應先完整規劃並依症狀／併發症啟動。",
+   "A": "本項不選。血色素 11.3 g/dL 在晚期慢性腎病（CKD）是可接受的範圍。刻意用紅血球生成刺激劑（ESA）把它拉更高反而增加心血管風險，所以「維持現狀」是對的。",
+   "B": "本項不選。持續控制血壓可以延緩腎功能惡化並降低心血管死亡率，這是最有實證的介入之一。",
+   "C": "本項應選。這位病人 eGFR 雖然只有 11，但沒有尿毒症狀、沒有體液過多、酸中毒（HCO3− 22）與血鉀（4.5）都還好。在這種狀態下提早開始透析並沒有被證實能改善存活。",
+   "D": "本項不選。eGFR 11 正是該轉介腎臟科的時候：要規劃透析方式、建立血管通路或評估移植，並處理慢性腎病的各種併發症。",
+   "summary": "沒症狀的晚期腎病不是「數字到了就洗」——先轉介規劃，等症狀或併發症出現才啟動透析。",
    "guideline": null,
    "concepts": [
     "urgent-dialysis-indications-aeiou"
@@ -60679,11 +60679,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "cyclosporine 可造成 nephrotoxicity、hypertension、hyperlipidemia 與 gingival hyperplasia，糖尿病風險低於 tacrolimus。",
-   "B": "tacrolimus 抑制 pancreatic beta-cell insulin secretion，最常與 移植後糖尿病（post-transplant diabetes mellitus）有關。",
-   "C": "sirolimus 常造成 hyperlipidemia、proteinuria、mouth ulcers 與 impaired wound healing，不是此題單純新發高血糖的最典型藥。",
-   "D": "mycophenolate mofetil 常見 diarrhea、leukopenia 與 infection，並非主要 diabetogenic immunosuppressant。",
-   "summary": "Kidney transplant 後新發 diabetes 最典型關聯是 tacrolimus，也須考慮 corticosteroid。",
+   "A": "本項不選。cyclosporine 的代表性副作用是腎毒性、高血壓、高血脂與牙齦增生。它造成糖尿病的風險低於 tacrolimus。",
+   "B": "正確答案。tacrolimus 會抑制胰島 β 細胞分泌胰島素，是移植後新發糖尿病最典型的關聯藥物。這位病人本來沒有糖尿病病史與家族史，移植後飯前血糖卻多次高於 200 mg/dL，時序完全對上。",
+   "C": "本項不選。sirolimus 常造成高血脂、蛋白尿、口腔潰瘍與傷口癒合不良，不是這題單純新發高血糖最典型的藥。",
+   "D": "本項不選。mycophenolate mofetil 常見的是腹瀉、白血球低下與感染，不是主要的致糖尿病免疫抑制劑。",
+   "summary": "移植後突然變糖尿病先看 tacrolimus（再想類固醇）——它直接壓住 β 細胞分泌胰島素。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60717,11 +60717,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "Mesoamerican nephropathy 與 recurrent heat stress、dehydration、occupational exposure 等相關，但 DNA damage 並未被確立為致病核心。",
-   "B": "karyomegalic interstitial nephritis 常與 FAN1 variants 的 DNA interstrand cross-link repair 缺陷有關，具有 enlarged hyperchromatic nuclei。",
-   "C": "Chinese herbal nephropathy 的 aristolochic acid 形成 aristolactam-DNA adducts，造成特徵性 mutations 與 urothelial cancer。",
-   "D": "Balkan endemic nephropathy 也與 chronic aristolochic acid exposure 及 DNA adduct injury 有關。",
-   "summary": "四者中只有 Mesoamerican nephropathy 尚未證實以 DNA damage 為核心；其餘與 FAN1 或 aristolochic acid 基因毒性相關。",
+   "A": "本項應選。中美洲腎病變（Mesoamerican nephropathy）目前認為與反覆熱壓力、脫水與職業暴露有關。DNA 損傷還沒有被確立為它的核心機轉，所以是四者中唯一「尚未證實」的。",
+   "B": "本項不選。核巨大間質性腎炎（karyomegalic interstitial nephritis）與 FAN1 變異造成的 DNA 交聯修復缺陷有關，切片可見異常巨大、深染的細胞核。",
+   "C": "本項不選。中草藥腎病變的元凶是馬兜鈴酸，它會形成 aristolactam-DNA 加合物，造成特徵性突變與泌尿上皮癌。",
+   "D": "本項不選。巴爾幹地方性腎病變同樣與長期馬兜鈴酸暴露及 DNA 加合物傷害有關，機轉與中草藥腎病變相通。",
+   "summary": "四個裡有三個是 DNA 被打壞（FAN1 修不好、馬兜鈴酸加合物）；中美洲腎病變走的是熱與脫水那條路。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60755,11 +60755,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "NSAID 對 renal colic 的 analgesia 可等同或優於 opioid，且較少 vomiting 與 rescue analgesia，但須留意 AKI／GI risk。",
-   "B": "強迫大量 hydration 或 diuretic 不會加速 stone passage，反而可能增加 obstruction pressure 與疼痛。",
-   "C": "Medical expulsive therapy（如 alpha blocker）降低 ureteral tone，對較大的 distal ureteral stone 可提高排出率。",
-   "D": "體外震波（extracorporeal shock wave，ESWL）ESWL 並非所有 ureteral stones 的統一首選；選擇 observation、ureteroscopy 或 ESWL 取決於 size、location、obstruction、infection 與病人因素。",
-   "summary": "Ureteral stone 治療需依大小與位置個別化，不能把 ESWL 宣稱為統合分析支持的普遍首選。",
+   "A": "本項敘述正確。肌肉注射非類固醇抗發炎劑（NSAID）對腎絞痛的止痛效果可以等同甚至優於類鴉片，而且比較少嘔吐與需要追加止痛。要注意的是急性腎損傷（AKI）與腸胃道（GI）風險。",
+   "B": "本項敘述正確。強灌大量水分或給利尿劑並不會把結石沖出來，反而可能讓阻塞處壓力更高、更痛。",
+   "C": "本項敘述正確。內科排出療法（例如 alpha blocker）降低輸尿管張力，對比較大的遠端輸尿管結石可以提高自行排出率。",
+   "D": "本項應選。體外震波（ESWL）不是所有輸尿管結石的統一首選。要選觀察、輸尿管鏡還是體外震波，取決於結石大小、位置、有無阻塞或感染，以及病人本身的條件。",
+   "summary": "輸尿管結石沒有「一招打天下」——大小與位置決定術式，體外震波不是通用首選。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60793,11 +60793,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "ADPKD 高血壓首選 RAAS blockade，不是 calcium channel blocker；且腎功能不良時將 SBP 壓至 <110 可能造成 hypoperfusion，這項策略無助且可能有害。",
-   "B": "Cyst infection 需選 lipid-soluble antibiotics 如 fluoroquinolone 或 TMP-SMX 以穿透囊腫，療程常較長；實際用藥依 culture 與腎功能。",
-   "C": "tolvaptan 阻斷 V2 receptor，可在符合快速進展風險的 ADPKD 成人減緩 total kidney volume 增加與 eGFR 下降。",
-   "D": "限制 sodium 有助 blood pressure control，並可能降低 vasopressin drive 與疾病進展風險。",
-   "summary": "ADPKD 的血壓治療以 ACEi／ARB 為主；低到不安全的 SBP 目標與 CCB-first 並不適當。",
+   "A": "本項應選。兩個地方都有問題：ADPKD 的高血壓首選是 RAAS 阻斷（ACEi／ARB），不是鈣離子阻斷劑；而且腎功能不良時硬把收縮壓壓到 110 mmHg 以下，可能造成腎臟灌流不足，反而有害。",
+   "B": "本項不選。囊泡感染要用脂溶性抗生素才穿得進囊泡，例如 quinolones、trimethoprim-sulfamethoxazole 或 chloramphenicol，而且療程常需四星期以上。實際用藥仍要依培養結果與腎功能調整。",
+   "C": "本項不選。tolvaptan 阻斷 V2 receptor，在符合快速進展風險的成人 ADPKD 可以減緩腎臟總體積增加與 eGFR 下降。",
+   "D": "本項不選。限鹽（＜5 g/day）有助控制血壓，也可能降低血管加壓素的驅動力與疾病進展風險。",
+   "summary": "ADPKD 的血壓用 ACEi／ARB，而且不能為了「壓低一點」把收縮壓降到腎臟灌流不夠。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -60864,11 +60864,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "VEGF-A/Kdr 主要參與較後期 glomerular endothelial／vascular development，不是 pretubular aggregation 的核心 mesenchymal-to-epithelial induction gene。",
-   "B": "Wnt4 是 pretubular aggregate 形成與 mesenchymal-to-epithelial transition 的關鍵訊號。",
-   "C": "Emx2 參與 metanephric mesenchyme epithelialization 與 nephron development。",
-   "D": "Fgf8 在 pretubular aggregate／renal vesicle 階段支持 nephron progenitor survival 與分化。",
-   "summary": "Pretubular aggregation 的核心包括 Wnt4、Fgf8、Emx2；VEGF-A/Kdr 偏向後續 glomerular vascularization。",
+   "A": "本項應選。VEGF-A／Kdr 管的是後期腎絲球內皮與血管的發育，不是前腎小管聚合期那個「間質變上皮」的核心誘導基因。所以它是四者中沒有參與的。",
+   "B": "本項不選。Wnt4 是前腎小管聚合體形成與間質—上皮轉換的關鍵訊號，正是這個時期的主角。",
+   "C": "本項不選。Emx2 參與後腎間質的上皮化與腎元發育，也在這個階段作用。",
+   "D": "本項不選。Fgf8 在前腎小管聚合體與腎泡階段支持腎元前驅細胞的存活與分化。",
+   "summary": "前腎小管聚合期是「間質變上皮」的階段（Wnt4／Fgf8／Emx2）；VEGF-A 要等血管長進來才登場。",
    "guideline": null
   },
   "source": "112080/302_11",
@@ -72567,11 +72567,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "自體動靜脈瘻管（arteriovenous fistula）感染率低、patency 與長期結果最佳，若血管條件與成熟時間允許是 chronic hemodialysis 優先通路。",
-   "B": "動靜脈植入型搭橋瘻管（arteriovenous graft）成熟較快但 infection、thrombosis 與 intervention 需求高於 native AV fistula。",
-   "C": "非隧道式 double lumen catheter 適用 emergency／短期 dialysis，感染與 dysfunction 風險最高，不適合計畫性長期通路。",
-   "D": "隧道式 double lumen catheter 可作 bridge 或無法建立 AV access 者使用，但 bloodstream infection 與 central vein stenosis 風險高於 fistula。",
-   "summary": "計畫性長期 hemodialysis 若血管條件可行，native AV fistula 優先於 graft 與 catheter。",
+   "A": "正確答案。自體動靜脈瘻管（arteriovenous fistula）感染率最低、通暢率與長期結果最好，只要血管條件允許、也等得及成熟，計畫性的長期透析就該優先選它。這位病人沒有尿毒症狀、正在「預先」建立通路，時間正好夠用。",
+   "B": "本項不選。動靜脈植入型搭橋瘻管成熟比較快，但感染、血栓與需要介入處理的機會都高於自體瘻管。它是血管條件不好、做不出自體動靜脈（AV）瘻管時的次選。",
+   "C": "本項不選。非隧道式的雙腔導管是給緊急或短期透析用的，感染與功能不良風險最高，不適合計畫性的長期通路。",
+   "D": "本項不選。隧道式導管可以當橋接、或給實在做不出動靜脈通路的人用，但血流感染與中央靜脈狹窄的風險仍高於瘻管。",
+   "summary": "長期透析通路的順位固定：自體瘻管 ＞ 人工血管 ＞ 導管——差別在感染與長期通暢。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72605,11 +72605,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "藥物性 AIN 的 fever、rash、eosinophilia 經典 triad 實際只見於少數，缺少三聯徵不能排除。",
-   "B": "AIN urinalysis 常見 sterile pyuria、WBC casts、microscopic hematuria 與 mild proteinuria。",
-   "C": "若 culprit drug 暴露與 AKI 時序典型且停藥後改善，可不做 biopsy；診斷不清或腎功能未恢復才考慮 biopsy。",
-   "D": "Corticosteroid 證據主要來自 observational studies，可能加速部分 recovery，但未確立能改善 long-term kidney survival，因此此敘述過度肯定。",
-   "summary": "AIN 首要治療是停 culprit drug；steroid 的長期腎存活效益未由高品質試驗確立。",
+   "A": "本項敘述正確。發燒、紅疹、嗜伊紅性白血球增加這個經典三聯徵，實際上只出現在少數藥物性急性間質性腎炎（AIN）病人。所以沒有三聯徵也不能排除診斷。",
+   "B": "本項敘述正確。尿液典型是無菌性膿尿、白血球（WBC）圓柱與顯微血尿，還會有輕度蛋白尿。",
+   "C": "本項敘述正確。如果可疑藥物的暴露與急性腎損傷（AKI）的時序很典型、停藥後又改善，可以不做切片。等到診斷不清或腎功能沒恢復，才考慮切片。",
+   "D": "本項應選。這句話說得太滿。類固醇的證據主要來自觀察性研究，可能讓部分病人恢復快一點，但**能不能改善長期腎臟存活並未確立**。真正第一線的處置是停掉可疑藥物。",
+   "summary": "急性間質性腎炎的第一線是停藥，不是類固醇；類固醇的長期效益還沒被證實。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72643,11 +72643,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "成人 reflux nephropathy 常可追溯 childhood enuresis 或 recurrent UTI／vesicoureteral reflux。",
-   "B": "進展 CKD 時常見 mild-to-moderate proteinuria 與 bland sediment；若 heavy proteinuria 可有 secondary FSGS。",
-   "C": "Reflux scarring 通常造成不對稱腎萎縮、局部 cortical scars 與不規則輪廓，不是典型對稱性萎縮。",
-   "D": "控制 hypertension 與 proteinuria（常用 RAAS blockade）有助減緩 reflux nephropathy 的 CKD progression。",
-   "summary": "Reflux nephropathy 的影像是 focal、coarse、常不對稱 renal scarring，而非對稱萎縮。",
+   "A": "本項不選。成人的逆流性腎病變常追溯得到兒時的尿床或反覆泌尿道感染（UTI），也就是膀胱輸尿管逆流的病史。",
+   "B": "本項不選。它進展到慢性腎病（CKD）時，多半只有輕到中度蛋白尿、尿沉渣乾淨。如果出現大量蛋白尿，要想到續發性的局部節段性腎絲球硬化（FSGS）。",
+   "C": "本項應選。逆流造成的疤痕是**局部**的，所以超音波看到的是不對稱萎縮、局部皮質疤痕與不規則輪廓。題目說「對稱性萎縮」剛好相反。",
+   "D": "本項不選。積極控制血壓與蛋白尿（常用 RAAS 阻斷）確實能減緩腎功能惡化。",
+   "summary": "逆流性腎病變的疤痕是東一塊西一塊、兩邊不對稱；對稱性萎縮要往別的慢性腎病想。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72681,11 +72681,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "AKI 合併 anuria 必須迅速排除 bilateral urinary obstruction 或 solitary kidney obstruction。",
-   "B": "renal failure 合併 postural hypotension 更直接支持 volume depletion／prerenal AKI，不是最需要把 bilateral obstruction 放入鑑別的情境。",
-   "C": "Bilateral obstruction 可造成 azotemia、高血鉀（hyperkalemia）與 代謝性酸中毒（metabolic acidosis），不能因仍有少量尿而排除。",
-   "D": "Post-obstructive tubular dysfunction 可造成 acquired nephrogenic DI 與解除阻塞後 polyuria，提示曾有 urinary obstruction。",
-   "summary": "Orthostatic hypotension 指向 prerenal volume depletion；anuria、高血鉀（hyperkalemia）或 acquired NDI 更需想到 bilateral obstruction。",
+   "A": "本項不選。急性腎損傷（AKI）合併無尿，一定要快速排除雙側尿路阻塞，或單一功能腎的阻塞。無尿是最強的阻塞警訊。",
+   "B": "本項應選。腎衰竭合併姿勢性低血壓，指的是血管內容積不足、腎前性的問題。這是四者中最不需要先把雙側阻塞放進鑑別的情境。",
+   "C": "本項不選。雙側阻塞可以造成氮血症、高血鉀與代謝性酸中毒。要注意的是，還有一些尿量不代表沒有阻塞。",
+   "D": "本項不選。阻塞後的腎小管功能異常會造成後天性腎源性尿崩症（nephrogenic DI, NDI），解除阻塞後還會大量利尿。這反而提示曾經有阻塞。",
+   "summary": "無尿、高血鉀、後天腎源性尿崩症都要想阻塞；姿勢性低血壓指的是缺水，方向不同。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72719,11 +72719,11 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Class IV diffuse lupus nephritis 可見廣泛 endocapillary proliferation 與 diffuse subendothelial immune deposits。",
-   "B": "Focal segmental glomerulosclerosis 是 podocytopathy／scarring pattern，不是 immune-complex lupus nephritis 的典型 ISN/RPS 病理類別，故最不可能。",
-   "C": "Class V membranous lupus nephritis 以 subepithelial immune-complex deposits 與 capillary wall thickening 為主。",
-   "D": "Severe proliferative lupus nephritis 可見 global endocapillary hypercellularity 與 crescent formation，符合快速腎功能惡化。",
-   "summary": "Lupus nephritis 可呈 proliferative、membranous 與 crescentic immune-complex patterns；典型 FSGS 不屬其主要病理型。",
+   "A": "本項不選。第四類（class IV）的瀰漫增生型狼瘡腎炎，可見廣泛的內皮下（subendothelial）免疫複合體沉積與內皮細胞增生，符合這位病人的快速惡化。",
+   "B": "本項應選。局部節段性腎絲球硬化是足細胞病變／疤痕的型態，不屬於狼瘡腎炎的免疫複合體病理分類（ISN/RPS）。所以它最不可能出現。",
+   "C": "本項不選。第五類的膜性狼瘡腎炎，特徵是上皮下免疫複合體沉積與微血管壁增厚，也是狼瘡腎炎的一型。",
+   "D": "本項不選。嚴重的增生型狼瘡腎炎會有全球性內皮增生與新月體形成，正好對應這位病人 BUN 110、creatinine 4.0 的快速惡化。",
+   "summary": "狼瘡腎炎是免疫複合體病，分型從增生到膜性到新月體都有；FSGS 不在這個家族裡。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -72757,11 +72757,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "FeNa <1% 通常支持 intact tubular sodium retention 的 prerenal physiology，但在 pigment nephropathy、GN 等 intrinsic AKI 也可偏低。",
-   "B": "Urine osmolality >500 mOsm/L 表示濃縮功能保留，較支持 prerenal AKI。",
-   "C": "BUN-to-creatinine ratio >20 BUN/creatinine >20 常來自 increased urea reabsorption，較支持 prerenal azotemia。",
-   "D": "muddy brown granular casts 來自 injured tubular epithelial cells，是 acute tubular injury 的典型 intrinsic AKI sediment。",
-   "summary": "Intrinsic acute tubular injury 最有力線索是 granular casts；FeNa、濃縮尿與高 BUN/Cr 多偏 prerenal。",
+   "A": "本項不選。FeNa <1% 通常代表腎小管還在努力保鈉，比較支持腎前性。但要注意色素性腎病變與腎絲球腎炎（GN）這類內生性損傷，FeNa 也可能偏低。",
+   "B": "本項不選。尿液滲透壓 >500 mOsm/L 代表濃縮功能還在，比較支持腎前性急性腎損傷。",
+   "C": "本項不選。BUN 與 creatinine 比值 >20 多半來自尿素再吸收增加，也偏向腎前性氮血症。",
+   "D": "正確答案。尿沉渣看到泥棕色的顆粒性圓柱，來自受損脫落的腎小管上皮細胞。這是急性腎小管損傷、也就是內生性急性腎損傷（intrinsic AKI）最直接的證據。",
+   "summary": "腎前性看「功能還在」（FeNa 低、尿濃縮、BUN/Cr 高）；內生性看「細胞掉下來」——顆粒性圓柱。",
    "guideline": null
   },
   "source": "113020/302_11",
@@ -83754,11 +83754,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "Babinski's sign（Babinski sign）是刺激足底外側引起大腳趾背屈，評估 corticospinal tract lesion。",
-   "B": "Brudzinski's sign（Brudzinski sign）是被動頸部前屈引起髖與膝不自主屈曲，提示 meningeal irritation。",
-   "C": "Kernig's sign（Kernig sign）是髖膝屈曲後伸膝出現疼痛／阻力，同樣評估 meningeal irritation，但動作不同。",
-   "D": "Trendelenburg's sign（Trendelenburg sign）以單腳站立觀察對側骨盆下降，評估 hip abductor weakness。",
-   "summary": "頸部前屈誘發髖膝屈曲即 Brudzinski sign，應考慮 meningitis／meningeal irritation。",
+   "A": "本項不選。Babinski's sign 是刺激足底外側引起大腳趾背屈，測的是皮質脊髓徑的問題，動作完全不同。",
+   "B": "正確答案。把病人的脖子被動前彎，結果髖與膝不自主屈曲，這就是 Brudzinski's sign，提示腦膜刺激。這位長期透析的老年病人嗜睡、進食差，本來就要警覺腦膜炎。",
+   "C": "本項不選。Kernig's sign 也是測腦膜刺激，但做法不同：先把髖膝屈曲，再伸直膝蓋看會不會痛或有阻力。",
+   "D": "本項不選。Trendelenburg's sign 是單腳站立看對側骨盆會不會下垂，評估的是髖外展肌無力。",
+   "summary": "彎脖子→髖膝跟著彎＝Brudzinski；伸膝蓋→痛＝Kernig，兩個都是腦膜刺激但手法不同。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -84483,11 +84483,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Non-heparin dialysis 用於 heparin-induced thrombocytopenia 或高出血風險，不能處理每次起始數分鐘的 transient chest/back pain。",
-   "B": "增加 dry weight 用於懷疑過度 ultrafiltration／chronic hypovolemia；本題症狀在開始數分鐘且血壓穩定，不符合。",
-   "C": "症狀與 dialysis membrane 的 complement activation／bioincompatibility 反應相符，更換不同材質、較 biocompatible dialyzer 可改善。",
-   "D": "Sodium modeling 用於降低 透析中低血壓（intradialytic hypotension）／cramps，與起始即發生、持續後消退的胸背痛反應不符。",
-   "summary": "透析開始即 transient chest/back pain、血壓穩定，考慮 dialyzer reaction，處置是更換 membrane。",
+   "A": "本項不選。無肝素（non-heparin）透析是給肝素引起血小板低下或高出血風險的人用的，處理不了「每次一開始就痛、後來又消失」這種症狀。",
+   "B": "本項不選。增加乾體重用在懷疑超過濾太多、長期血容積不足。這位病人血壓穩定、症狀又出現在剛開始的幾分鐘，對不上。",
+   "C": "正確答案。這個時間形態（開始幾分鐘就痛、繼續透析反而消退）符合透析器膜的生物相容性反應，也就是補體被活化。換一種材質、生物相容性較好的透析器就能改善。",
+   "D": "本項不選。鈉離子模式是用來減少透析中低血壓與抽筋的，與這種「一開始痛、後來緩解」的胸背痛對不上。",
+   "summary": "透析一開始就痛、越洗越好＝透析器反應；換膜材質，不是調鈉或改肝素。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -84521,11 +84521,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "Reduced animal protein／purine intake 可降低 uric acid production 與酸負荷，有助 uric acid stone 預防。",
-   "B": "benzbromarone 是 uricosuric，增加 urinary uric acid concentration，可能促進 uric acid stone，因此不適合。",
-   "C": "potassium citrate 鹼化尿液至 uric acid 更可溶的範圍，是溶石與預防復發的核心。",
-   "D": "febuxostat 抑制 xanthine oxidase，可降低 uric acid production，適用 hyperuricosuria 等特定病人。",
-   "summary": "Uric acid stone 最重要是 urine alkalinization；避免 benzbromarone 等 uricosuric 增加尿酸排泄。",
+   "A": "本項不選。減少動物性蛋白與普林攝取可以降低尿酸生成與酸負荷，對尿酸結石預防有幫助。",
+   "B": "本項應選。benzbromarone 是促尿酸排泄劑，會把更多尿酸趕到尿裡、提高尿中尿酸濃度，反而促成尿酸結石。治結石時不能用它。",
+   "C": "本項不選。potassium citrate 把尿液鹼化到尿酸比較容易溶解的範圍，是溶石與預防復發的核心。",
+   "D": "本項不選。febuxostat 抑制 xanthine oxidase、減少尿酸生成，適用於高尿酸尿等特定病人。",
+   "summary": "尿酸結石的邏輯是「少做、多溶、別再往尿裡趕」——促尿酸排泄劑正好犯最後一條。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -84599,11 +84599,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "HCV 可與 membranous nephropathy 關聯，但典型 HCV immune-complex disease 合併 low complement 更指向 MPGN／cryoglobulinemic GN。",
-   "B": "膜增生性腎絲球腎炎（membranoproliferative glomerulonephritis）常由 HCV-associated mixed cryoglobulinemia 引起，呈 proteinuria、hypertension 與低 C3/C4。",
-   "C": "局部節段性腎絲球硬化（focal segmental glomerulosclerosis，FSGS）FSGS 可有 proteinuria 與 hypertension，但 complement 通常正常，也不是 HCV 最典型 immune-complex pattern。",
-   "D": "IgA vasculitis（舊稱 Henoch-Schönlein purpura）通常有 palpable purpura、abdominal pain、arthralgia，且不是 HCV 低補體腎病的首選。",
-   "summary": "HCV、低補體與 proteinuria 的經典組合是 cryoglobulinemic MPGN。",
+   "A": "本項不選。C 型肝炎確實可以合併膜性腎病變，但典型的 HCV 免疫複合體疾病再加上低補體，方向更指向膜增生性腎絲球腎炎或冷凝球蛋白血症腎炎。",
+   "B": "正確答案。C 型肝炎相關的混合型冷凝球蛋白血症（cryoglobulinemic GN）最常造成膜增生性腎絲球腎炎（MPGN）。表現就是蛋白尿、高血壓，加上 C3 與 C4 都偏低——這位病人三項全中。",
+   "C": "本項不選。局部節段性腎絲球硬化（FSGS）也會有蛋白尿與高血壓，但補體通常是正常的，而且它不是 C 型肝炎典型的免疫複合體型態。",
+   "D": "本項不選。IgA 血管炎（舊稱 Henoch-Schönlein purpura）通常有可觸摸性紫斑、腹痛與關節痛，不是 C 型肝炎低補體腎病的首選。",
+   "summary": "C 型肝炎＋低補體＋蛋白尿＝冷凝球蛋白血症的膜增生性腎炎，這是固定組合。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -84637,11 +84637,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "Tubuloglomerular feedback 主要調整 afferent arteriole tone，不是以 efferent arteriole 反射為核心。",
-   "B": "Macula densa 位於 thick ascending limb 末端，透過 NKCC2 感測 tubular NaCl delivery，間接反映 GFR／流量。",
-   "C": "高 NaCl 到達 macula densa 會由 ATP/adenosine 訊號引起 afferent constriction，降低 glomerular pressure；不是 efferent constriction。",
-   "D": "訊號以 ATP 釋放後轉為 adenosine 為主，不是 ADP；低 NaCl 則促進 renin 與 prostaglandin signaling。",
-   "summary": "TGF：macula densa 感測 NaCl，高負荷以 adenosine 收縮 afferent arteriole，使 GFR 回落。",
+   "A": "本項敘述錯誤。腎小管—腎絲球回饋調的主要是**入球**小動脈的張力，不是靠出球小動脈的反射。",
+   "B": "正確答案。緻密斑位於亨利氏環上行枝粗管的末端，靠 NKCC2 感測管腔內送到的 NaCl 量與流速。這個訊號間接反映了腎絲球過濾率。",
+   "C": "本項敘述錯誤。前半段對、後半段錯：高 NaCl 到達緻密斑後，是經 ATP／adenosine 訊號讓**入球**小動脈收縮，降低腎絲球壓力，不是收縮出球小動脈。",
+   "D": "本項敘述錯誤。釋放出來的訊號是 ATP，之後轉成 adenosine，不是 ADP。反過來，NaCl 低的時候則促進腎素與前列腺素的訊號。",
+   "summary": "TGF 的完整路徑：緻密斑用 NKCC2 感測 NaCl → 放 ATP／adenosine → 收縮入球小動脈 → GFR 降回來。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -84716,11 +84716,11 @@
    "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
   },
   "explanation": {
-   "A": "Corticosteroid 長期使用會造成 osteoporosis、diabetes、infection 與 Cushingoid changes。",
-   "B": "cyclosporine 會造成 hyperuricemia 與 gout，不是 hypouricemia；同時可引起 nephrotoxicity、hypertension。",
-   "C": "tacrolimus 的 beta-cell toxicity 使 post-transplant diabetes 風險明顯。",
-   "D": "sirolimus 可造成或加重 proteinuria，亦常見 mouth ulcers、hyperlipidemia 與 impaired wound healing。",
-   "summary": "Calcineurin inhibitors 會造成 hyperuricemia；tacrolimus 偏 diabetogenic，sirolimus 偏 proteinuria／hyperlipidemia。",
+   "A": "本項不選。長期使用類固醇會造成骨質疏鬆，還有糖尿病、感染與庫欣氏外觀，這組配對正確。",
+   "B": "本項應選。方向寫反了：cyclosporine 造成的是**高**尿酸血症與痛風，不是低尿酸血症。它同時還有腎毒性與高血壓。",
+   "C": "本項不選。tacrolimus 對 β 細胞有毒性，移植後糖尿病的風險明顯，這組配對正確。",
+   "D": "本項不選。sirolimus 可以造成或加重蛋白尿，也常見口腔潰瘍、高血脂與傷口癒合不良。",
+   "summary": "抗排斥藥的副作用各有招牌：cyclosporine 高尿酸、tacrolimus 糖尿病、sirolimus 蛋白尿。",
    "guideline": null
   },
   "source": "113070/302_11",
@@ -95568,11 +95568,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "10% calcium gluconate 10 mL IV 可在 ECG changes 時穩定 cardiac membrane；它不降低 serum K，但作用快速。",
-   "B": "Regular insulin 10 units IV 加 glucose 可促使 K 細胞內移；若已有明顯 hyperglycemia 可視監測情況省略 glucose，但仍需防 delayed hypoglycemia。",
-   "C": "Nebulized albuterol 10–20 mg 是 高血鉀（hyperkalemia）使用的高劑量，可經 beta2 receptor 促使 K 進入細胞，但不能作唯一治療。",
-   "D": "patiromer 經 GI tract 結合 K，常見 constipation 與 hypomagnesemia，不是 hypermagnesemia；起效慢，不用於立即危及生命的 高血鉀（hyperkalemia）。",
-   "summary": "Patiromer 的典型電解質副作用是 hypomagnesemia；急性高鉀需 calcium、insulin/glucose 等快速措施。",
+   "A": "本項不選。10% 葡萄糖酸鈣 10 mL 靜脈（IV）注射用來穩定心肌細胞膜，心電圖（ECG）有變化時要先給。它不會降血鉀，但作用最快。",
+   "B": "本項不選。胰島素 10 單位靜脈注射加葡萄糖，可以把鉀趕進細胞。如果血糖已經超過 250 mg/dL，可以只打胰島素——但仍要小心延遲性低血糖。",
+   "C": "本項不選。吸入型 beta-2 促效劑 albuterol 用到 10～20 mg 是高血鉀專用的高劑量，經 β2 受體把鉀推進細胞。但它不能當唯一的治療。",
+   "D": "本項應選。patiromer 在腸道（GI）結合鉀後排出，常見副作用是便秘與**低**血鎂（hypomagnesemia），不是高血鎂。而且它起效慢，不能用在立即危及生命的高血鉀。",
+   "summary": "急性高血鉀先穩心臟（鈣）、再趕進細胞（胰島素／β2）、最後才排出去；patiromer 會讓鎂變低不是變高。",
    "guideline": null
   },
   "source": "114020/302_0103",
@@ -95601,11 +95601,11 @@
   "specialty": "腎臟內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Dysmorphic RBC、RBC cast 與 1.5 g/day proteinuria 指向 腎絲球性血尿（glomerular hematuria），應做 complement、ANCA、anti-GBM 與感染等 serologic workup。",
-   "B": "B 型肝炎（hepatitis B）與 C 型肝炎（hepatitis C）的HBV/HCV 可造成 membranous nephropathy、MPGN 或 cryoglobulinemic GN，病毒血清學有助找 secondary cause。",
-   "C": "IVP 或 retrograde pyelography 用於 collecting system／urologic lesion，不是典型 腎絲球性血尿（glomerular hematuria）的優先評估，且 contrast 可能增加風險。",
-   "D": "Renal ultrasound 可看大小與 obstruction；persistent glomerular findings／proteinuria 可需 renal biopsy 分型。",
-   "summary": "RBC casts 與 dysmorphic RBC 定位在 glomerulus，優先 serology、ultrasound 與 biopsy，而非 pyelography。",
+   "A": "本項不選。變形紅血球、紅血球（RBC）圓柱加上每天 1500 mg（1.5 g）蛋白尿，定位在腎絲球，屬於腎絲球腎炎（GN）的範疇。所以補體、冷凝球蛋白、anti-GBM、ANCA、ASLO、VDRL 與 HIV 這些免疫與感染血清學都該查。",
+   "B": "本項不選。B 型（HBV）與 C 型肝炎（HCV）可造成膜性腎病變、膜增生性腎炎（MPGN）或冷凝球蛋白血症腎炎，驗病毒血清學有助於找出次發原因。",
+   "C": "本項應選。靜脈腎盂造影（IVP）或逆行性腎盂攝影看的是集尿系統與泌尿科病灶，對腎絲球性血尿沒有幫助。而且顯影劑還多一層風險。",
+   "D": "本項不選。腎臟超音波可以看大小與有無阻塞；如果腎絲球病變與蛋白尿持續，就需要腎臟切片來分型。",
+   "summary": "看到紅血球圓柱與變形紅血球就是腎絲球出血——查血清學與切片，不是去照腎盂攝影。",
    "guideline": null
   },
   "source": "114020/302_0103",
