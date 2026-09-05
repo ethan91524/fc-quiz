@@ -567,12 +567,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "大量輸液與 propranolol 雖都涉及門脈高壓處置，但休克中的急性靜脈瘤出血不可立刻給 propranolol；其降血壓作用可能惡化循環灌流，且大腸鏡不是此時的止血檢查。",
-   "B": "建立大口徑靜脈通路及保護呼吸道均正確，但 propranolol 不適合用於血壓 90/50 mmHg 的急性出血期；非選擇性 β-blocker 用於穩定後的再出血預防。",
-   "C": "Propranolol 不能處理正在休克的出血，大腸鏡也無法優先評估已知的食道靜脈瘤出血；此組合反而漏掉循環復甦與呼吸道保護。",
-   "D": "正確。大量吐血合併休克需立即建立兩條大口徑周邊靜脈或適當血管通路；意識不清且躁動者應先氣管插管，避免吸入並利於後續上消化道內視鏡止血。",
-   "summary": "急性食道靜脈瘤大出血先做 ABC：建立血管通路復甦，意識不清者先插管；急性休克期不使用 propranolol。",
-   "guideline": "FC 醫學(三)第2冊 p.148"
+   "guideline": "FC 醫學(三)第2冊 p.148",
+   "A": "本項不選。大量輸液和 propranolol 雖然都跟門脈高壓處置有關，但正在休克的急性靜脈瘤出血不可以立刻給 propranolol——它的降血壓作用會惡化循環灌流。而且大腸鏡不是此時的止血檢查。",
+   "B": "本項不選。建立大口徑靜脈通路、保護呼吸道都對，但 propranolol 不適合用在血壓 90/50 mmHg 的急性出血期。非選擇性 β-blocker 是穩定後的再出血預防用。",
+   "C": "本項不選。propranolol 沒辦法處理正在休克的出血，大腸鏡也不能優先評估已知的食道靜脈瘤出血。這組合反而漏掉循環復甦和呼吸道保護。",
+   "D": "正確答案。大量吐血合併休克，要立即建立兩條大口徑周邊靜脈或適當的血管通路。意識不清又躁動的人應先氣管插管，避免吸入並方便後續做上消化道內視鏡止血。",
+   "summary": "急性食道靜脈瘤大出血先做 ABC：建立血管通路復甦，意識不清者先插管；急性休克期不用 propranolol。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -643,12 +643,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。病人以直接型高膽紅素血症為主且有茶色尿，較支持肝細胞性或膽汁鬱積性黃疸；reticulocyte count 主要評估溶血造成的間接型高膽紅素血症，對此型態幫助最小。",
-   "B": "Alkaline phosphatase 可判斷是否呈膽汁鬱積型肝損傷；若相對顯著升高，需進一步尋找肝內或肝外膽道阻塞。",
-   "C": "HBsAg 可篩檢目前 B 型肝炎病毒感染，對 ALT 上升合併黃疸的病因鑑別有幫助。",
-   "D": "腹部超音波可觀察膽管擴張、膽結石或腫塊，是區分肝外阻塞與肝細胞性黃疸的重要初步影像。",
-   "summary": "直接型高膽紅素血症合併 ALT 上升應查肝炎與膽道阻塞；reticulocyte count 主要用於間接型溶血性黃疸。",
-   "guideline": "FC 醫學(三)第2冊 p.91"
+   "guideline": "FC 醫學(三)第2冊 p.91",
+   "A": "正確答案。病人以直接型高膽紅素血症為主、又有茶色尿，比較支持肝細胞性或膽汁鬱積性黃疸。網狀紅血球計數（reticulocyte count）主要評估溶血造成的「間接型」高膽紅素血症，對這個型態幫助最小。",
+   "B": "本項不選。鹼性磷酸酶（alkaline phosphatase）可判斷是不是膽汁鬱積型的肝損傷。如果相對顯著升高，要進一步找肝內或肝外的膽道阻塞。",
+   "C": "本項不選。HBsAg 可篩檢目前的 B 型肝炎病毒感染，對 ALT 上升合併黃疸的病因鑑別有幫助。",
+   "D": "本項不選。腹部超音波可觀察膽管擴張、膽結石或腫塊，是區分肝外阻塞和肝細胞性黃疸的重要初步影像。",
+   "summary": "直接型高膽紅素血症合併 ALT 上升要查肝炎和膽道阻塞；reticulocyte count 主要用在間接型的溶血性黃疸。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -681,12 +681,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "HBsAg 可檢查 B 型肝炎病毒感染；病毒性肝炎可造成 ALT 上升，因此仍是混合型肝指數異常的必要病因評估。",
-   "B": "正確。Anti-HAV IgG 只表示過去感染或接種疫苗後已有免疫，不能診斷當下的急性 A 型肝炎；若要評估急性感染應檢測 anti-HAV IgM。",
-   "C": "抗粒線體抗體（antimitochondrial antibody）是原發性膽汁性膽管炎（primary biliary cholangitis）的重要血清標誌；女性、搔癢及 alkaline phosphatase 顯著升高均使此檢查有幫助。",
-   "D": "抗核抗體（antinuclear antibody）可見於自體免疫性肝炎（autoimmune hepatitis），也可能出現在部分原發性膽汁性膽管炎患者，對此混合型表現的鑑別有幫助。",
-   "summary": "搔癢與膽汁鬱積型肝指數須評估 PBC 及自體免疫性肝炎；anti-HAV IgG 只能證明既往免疫。",
-   "guideline": "FC 醫學(三)第2冊 p.116"
+   "guideline": "FC 醫學(三)第2冊 p.116",
+   "A": "本項不選。HBsAg 可檢查 B 型肝炎病毒感染。病毒性肝炎可造成 ALT 上升，所以在混合型肝指數異常時仍是必要的病因評估。",
+   "B": "正確答案。Anti-HAV IgG 只表示過去感染或接種疫苗後已有免疫，不能診斷當下的急性 A 型肝炎。要評估急性感染應該驗 anti-HAV IgM。",
+   "C": "本項不選。抗粒線體抗體（antimitochondrial antibody, AMA）是原發性膽汁性膽管炎（primary biliary cholangitis）的重要血清標誌。女性、搔癢、alkaline phosphatase 顯著升高都讓這個檢查有幫助。",
+   "D": "本項不選。抗核抗體（antinuclear antibody, ANA）可見於自體免疫性肝炎（autoimmune hepatitis），也可能出現在部分原發性膽汁性膽管炎的病人，對這種混合型表現的鑑別有幫助。",
+   "summary": "搔癢加膽汁鬱積型肝指數要評估 PBC 和自體免疫性肝炎；anti-HAV IgG 只能證明既往免疫。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -747,15 +747,15 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。可觸及腫大的無痛膽囊屬 Courvoisier sign 的概念，常提示遠端惡性膽道阻塞，並非 Charcot triad 的成分。",
-   "B": "右上腹或上腹痛是 Charcot triad 的一項，反映急性膽管炎（acute cholangitis）中的膽道阻塞與發炎。",
-   "C": "發燒或寒顫是 Charcot triad 的感染表現；若再合併低血壓與意識改變，則構成 Reynolds pentad。",
-   "D": "黃疸是 Charcot triad 的一項，代表膽汁排出受阻；另兩項為右上腹痛與發燒／寒顫。",
-   "summary": "Charcot triad＝右上腹痛、發燒／寒顫、黃疸；可觸及腫大膽囊不是其中之一。",
    "guideline": null,
    "concepts": [
     "charcot-triad"
-   ]
+   ],
+   "A": "正確答案。摸得到、腫大又無痛的膽囊是 Courvoisier 徵象的概念，常提示遠端的惡性膽道阻塞，不是 Charcot triad 的成分。",
+   "B": "本項不選。右上腹或上腹痛是 Charcot triad 的一項，反映急性膽管炎（acute cholangitis）中的膽道阻塞和發炎。",
+   "C": "本項不選。發燒或寒顫是 Charcot triad 的感染表現。如果再合併低血壓和意識改變，就構成 Reynolds pentad。",
+   "D": "本項不選。黃疸是 Charcot triad 的一項，代表膽汁排出受阻。另外兩項是右上腹痛和發燒／寒顫。",
+   "summary": "Charcot triad ＝ 右上腹痛、發燒／寒顫、黃疸；摸得到的腫大膽囊不是其中之一。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -788,12 +788,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "標靶治療屬無法接受根除性局部治療之晚期肝細胞癌（hepatocellular carcinoma）全身治療策略，不是肝功能尚可之早期腫瘤首選。",
-   "B": "傳統全身性化學治療對肝細胞癌療效有限，且不會優先於早期病灶可用的手術切除或局部消融。",
-   "C": "正確。早期肝細胞癌且無肝失代償時，手術切除可達根除目的；適當大小與位置的小腫瘤也可用射頻消融術（radiofrequency ablation）根除。",
-   "D": "經動脈化學栓塞（transarterial chemoembolization）主要用於無法切除、肝功能尚可的中期多發性肝細胞癌，並非可切除或可消融的早期病灶優先選擇。",
-   "summary": "早期 HCC 且肝功能可承受時應選根除性治療：手術切除或適當病灶的局部消融。",
-   "guideline": "FC 醫學(三)第2冊 p.167"
+   "guideline": "FC 醫學(三)第2冊 p.167",
+   "A": "本項不選。標靶治療是給無法接受根除性局部治療的晚期肝細胞癌（hepatocellular carcinoma）的全身治療策略，不是肝功能還可以的早期腫瘤首選。",
+   "B": "本項不選。傳統的全身性化學治療對肝細胞癌療效有限，不會優先於早期病灶可用的手術切除或局部消融。",
+   "C": "正確答案。早期肝細胞癌又沒有肝失代償時，手術切除可達到根除目的。大小和位置適當的小腫瘤也可用射頻消融術（radiofrequency ablation, RFA）根除。",
+   "D": "本項不選。經動脈化學栓塞（transarterial chemoembolization, TACE）主要用於無法切除、肝功能還可以的中期多發性肝細胞癌，不是可切除或可消融的早期病灶首選。",
+   "summary": "早期 HCC 又肝功能承受得住時要選根除性治療：手術切除或適當病灶的局部消融。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2687,12 +2687,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "題目影像據稱顯示肝內實質性腫塊；但未提供原圖，無法核對腫塊的回音、邊界與位置。",
-   "B": "題目影像據稱可見膽結石；典型超音波為高回音病灶伴後方聲影，但此處無原圖可核對。",
-   "C": "肝門靜脈在超音波常可由較高回音的血管壁及肝內分支辨認；箭號是否確指肝門靜脈仍須原圖確認。",
-   "D": "正確。肝門靜脈血栓最重要的肝臟惡性病因是肝細胞癌侵犯門靜脈，而不是膽管癌；腫瘤栓也會影響 HCC 分期與治療選擇。",
-   "summary": "本題核心陷阱是門靜脈腫瘤栓較典型指向 HCC，不是膽管癌；其餘影像敘述須看原圖。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。圖一的肝內有一團回音不均勻、邊界不清楚的實質性腫塊。",
+   "B": "本項不選。圖上可見高回音病灶合併後方聲影，符合膽結石的典型超音波表現。",
+   "C": "本項不選。圖二的兩個箭號指的是管壁較高回音的管狀構造，是肝門靜脈。",
+   "D": "本項應選。這是錯的敘述。肝門靜脈血栓最重要的肝臟惡性病因是肝細胞癌（HCC）侵犯門靜脈，不是膽管癌。腫瘤栓也會影響 HCC 的分期和治療選擇。",
+   "summary": "門靜脈腫瘤栓比較典型指向 HCC，不是膽管癌。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -12488,12 +12488,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "蜘蛛痣（spider angioma）常見於上胸、臉與上肢，是肝硬化造成性荷爾蒙代謝改變及血管擴張的典型皮膚表徵。",
-   "B": "紅掌（palmar erythema）可見於肝硬化，通常出現在大小魚際，與周邊血管擴張有關。",
-   "C": "男性女乳症（gynecomastia）可由慢性肝病的雌雄激素失衡造成，也可能因 spironolactone 治療而加重。",
-   "D": "正確。下肢靜脈曲張不是肝硬化的典型身體表徵；門脈高壓較典型造成食道胃靜脈曲張、腹壁側枝循環與痔靜脈叢擴張。",
-   "summary": "肝硬化典型外觀包括蜘蛛痣、紅掌及男性女乳症；一般下肢靜脈曲張不是門脈高壓的代表徵象。",
-   "guideline": "FC 醫學(三)第2冊 p.148"
+   "guideline": "FC 醫學(三)第2冊 p.148",
+   "A": "本項不選。蜘蛛痣（spider angioma）常見於上胸、臉和上肢，是肝硬化造成性荷爾蒙代謝改變和血管擴張的典型皮膚表徵。",
+   "B": "本項不選。紅掌（palmar erythema）可見於肝硬化，通常出現在大小魚際，和周邊血管擴張有關。",
+   "C": "本項不選。男性女乳症（gynecomastia）可由慢性肝病的雌雄激素失衡造成，也可能因為 spironolactone 治療而加重。",
+   "D": "本項應選。這是錯的敘述。下肢靜脈曲張不是肝硬化的典型身體表徵。門脈高壓比較典型造成食道胃靜脈曲張、腹壁側枝循環和痔靜脈叢擴張。",
+   "summary": "肝硬化典型外觀包括蜘蛛痣、紅掌和男性女乳症；一般下肢靜脈曲張不是門脈高壓的代表徵象。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12560,12 +12560,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Albumin 由肝臟合成，濃度下降可反映慢性肝臟合成功能不良；雖受營養與發炎影響，仍可用於肝功能嚴重度評估。",
-   "B": "官方給分。Ammonia 可協助理解肝性腦病變，但數值與臨床嚴重度相關性有限，不能單獨當作肝衰竭程度指標。",
-   "C": "Bilirubin 反映肝臟攝取、結合與排泄功能，顯著上升是肝衰竭與 Child-Turcotte-Pugh、MELD 等預後評估的重要成分。",
-   "D": "官方給分。ALT 主要反映肝細胞膜受損與發炎，不等同剩餘肝功能；末期肝衰竭即使肝細胞量很少，ALT 也未必很高。",
-   "summary": "肝衰竭看合成與排泄功能（albumin、PT、bilirubin），不是把肝細胞損傷指標 ALT 或 ammonia 當作嚴重度尺。",
-   "guideline": "FC 醫學(三)第2冊 p.148"
+   "guideline": "FC 醫學(三)第2冊 p.148",
+   "A": "本項不選。白蛋白（albumin）由肝臟合成，濃度下降可反映慢性的肝臟合成功能不良。雖然受營養和發炎影響，仍可用於肝功能嚴重度評估。",
+   "B": "本項應選（官方給分）。氨（ammonia）可協助理解肝性腦病變，但數值和臨床嚴重度的相關性有限，不能單獨當作肝衰竭程度的指標。",
+   "C": "本項不選。膽紅素（bilirubin）反映肝臟的攝取、結合和排泄功能，顯著上升是肝衰竭以及 Child–Turcotte–Pugh、MELD 等預後評估的重要成分。",
+   "D": "本項應選（官方給分）。ALT 主要反映肝細胞膜受損和發炎，不等同於剩餘的肝功能。末期肝衰竭即使肝細胞量很少，ALT 也未必很高。",
+   "summary": "肝衰竭看的是合成和排泄功能（albumin、PT、bilirubin），不是把肝細胞損傷指標 ALT 或 ammonia 當嚴重度尺。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12598,12 +12598,12 @@
    "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
   },
   "explanation": {
-   "A": "ALT 用於監測 isoniazid、rifampin 與 pyrazinamide 等抗結核藥可能造成的肝細胞性損傷，屬合理追蹤項目。",
-   "B": "Bilirubin 可反映明顯藥物性肝損傷或膽汁鬱積，出現黃疸時尤其需要檢測。",
-   "C": "正確。Creatine kinase 主要反映骨骼肌損傷，並非標準第一線抗結核藥常規毒性監測項目。",
-   "D": "紅白血球計數可監測 rifampin 相關血小板低下、血球異常或感染狀態，依病人風險與症狀安排追蹤。",
-   "summary": "抗結核治療常監測肝功能與血球；CK 並非第一線抗結核藥的常規安全檢查。",
-   "guideline": "FC 醫學(三)第1冊 p.400"
+   "guideline": "FC 醫學(三)第1冊 p.400",
+   "A": "本項不選。ALT 用於監測 isoniazid、rifampin、pyrazinamide 等抗結核藥可能造成的肝細胞性損傷，是合理的追蹤項目。",
+   "B": "本項不選。bilirubin 可反映明顯的藥物性肝損傷或膽汁鬱積，出現黃疸時尤其需要檢測。",
+   "C": "正確答案。肌酸激酶（creatine kinase, CK）主要反映骨骼肌損傷，不是標準第一線抗結核藥的常規毒性監測項目。",
+   "D": "本項不選。紅白血球計數可監測 rifampin 相關的血小板低下、血球異常或感染狀態，依病人的風險和症狀安排追蹤。",
+   "summary": "抗結核治療常監測肝功能和血球；CK 不是第一線抗結核藥的常規安全檢查。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12636,12 +12636,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "抗粒線體抗體在多數原發性膽汁性膽管炎（primary biliary cholangitis）患者呈陽性，是診斷的重要血清標誌。",
-   "B": "Xanthelasma 與 xanthomata 可因長期膽汁鬱積伴隨高脂血症而出現，是原發性膽汁性膽管炎的肝外表現。",
-   "C": "正確。Ursodeoxycholic acid 可改善肝臟生化值並延緩疾病進展，但不能保證治癒原發性膽汁性膽管炎；反應不佳者仍可能進展至肝硬化並需第二線治療或移植評估。",
-   "D": "原發性膽汁性膽管炎典型免疫球蛋白變化為 IgM 上升；相較之下，自體免疫性肝炎較常見 IgG 上升。",
-   "summary": "PBC 的典型組合是膽汁鬱積、AMA 陽性與 IgM 上升；ursodeoxycholic acid 能延緩病程但不是治癒。",
-   "guideline": "FC 醫學(三)第2冊 p.134"
+   "guideline": "FC 醫學(三)第2冊 p.134",
+   "A": "本項不選。抗粒線體抗體（AMA）在多數原發性膽汁性膽管炎（primary biliary cholangitis）病人呈陽性，是診斷的重要血清標誌。",
+   "B": "本項不選。眼瞼黃斑瘤（xanthelasma）和黃色瘤（xanthomata）可因為長期膽汁鬱積伴隨高脂血症而出現，是原發性膽汁性膽管炎的肝外表現。",
+   "C": "本項應選。這是錯的敘述。ursodeoxycholic acid（UDCA）可改善肝臟生化值、延緩疾病進展，但不能保證「治癒」原發性膽汁性膽管炎。反應不佳的人仍可能進展到肝硬化，需要第二線治療或移植評估。",
+   "D": "本項不選。原發性膽汁性膽管炎典型的免疫球蛋白變化是 IgM 上升；相較之下，自體免疫性肝炎比較常見 IgG 上升。",
+   "summary": "PBC 的典型組合是膽汁鬱積、AMA 陽性和 IgM 上升；ursodeoxycholic acid 能延緩病程但不是治癒。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12674,12 +12674,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。Anti-LKM 可見於第 2 型自體免疫性肝炎（autoimmune hepatitis）；題幹年輕女性、aminotransferase 顯著上升、病毒標誌陰性與 ANA 陽性均支持自體免疫病因。",
-   "B": "自體免疫性肝炎若進展至肝硬化仍有肝細胞癌風險，但不能說其機會高於病毒性肝炎相關肝硬化。",
-   "C": "抗平滑肌抗體（anti-smooth-muscle antibody）常見於第 1 型自體免疫性肝炎，可與 ANA 同時陽性，因此「應呈陰性」錯誤。",
-   "D": "慢性非化膿性破壞性膽管炎是原發性膽汁性膽管炎的典型病理；自體免疫性肝炎較典型為 interface hepatitis 與富含 plasma cells 的發炎浸潤。",
-   "summary": "年輕女性、肝細胞性發炎、病毒陰性及 ANA 陽性指向自體免疫性肝炎；anti-LKM 或 ASMA 可依型別出現。",
-   "guideline": "FC 醫學(三)第2冊 p.135"
+   "guideline": "FC 醫學(三)第2冊 p.135",
+   "A": "正確答案。Anti-LKM 可見於第 2 型自體免疫性肝炎（autoimmune hepatitis）。題幹的年輕女性、轉胺酶顯著上升、病毒標誌陰性和 ANA 陽性，都支持自體免疫的病因。",
+   "B": "本項不選。自體免疫性肝炎若進展到肝硬化仍有肝細胞癌風險，但不能說機會高於病毒性肝炎相關的肝硬化。",
+   "C": "本項不選。抗平滑肌抗體（anti-smooth-muscle antibody, ASMA）常見於第 1 型自體免疫性肝炎，可以和 ANA 同時陽性，所以「應呈陰性」是錯的。",
+   "D": "本項不選。慢性非化膿性破壞性膽管炎是原發性膽汁性膽管炎的典型病理；自體免疫性肝炎比較典型是界面性肝炎（interface hepatitis）和富含漿細胞（plasma cells）的發炎浸潤。",
+   "summary": "年輕女性、肝細胞性發炎、病毒陰性加 ANA 陽性指向自體免疫性肝炎；anti-LKM 或 ASMA 可依型別出現。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12712,12 +12712,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。高 HBV DNA 確實增加肝硬化與肝細胞癌風險，但是否啟動治療仍須整合 ALT、纖維化／肝硬化、年齡與其他風險；不能由高病毒量直接推成所有患者都應治療。",
-   "B": "慢性 B 型肝炎可有免疫複合體相關肝外表現，包括關節痛或關節炎，也可見腎小球腎炎及結節性多動脈炎。",
-   "C": "HAI 與 METAVIR 都可評估肝炎的活動度及纖維化；題目所述纖維化分期範圍分別為 0–6 與 0–4。",
-   "D": "血清纖維化指標與肝臟彈性測量可非侵入性估計肝纖維化，能減少部分病人接受肝切片的需要。",
-   "summary": "HBV DNA 高代表風險升高，但抗病毒治療適應症不能只靠病毒量，仍須結合肝炎活動與纖維化程度。",
-   "guideline": "FC 醫學(三)第2冊 p.115"
+   "guideline": "FC 醫學(三)第2冊 p.115",
+   "A": "本項應選。這是錯的敘述。高 HBV DNA 確實增加肝硬化和肝細胞癌的風險，但要不要啟動治療仍要整合 ALT、纖維化／肝硬化、年齡和其他風險。不能由高病毒量直接推成所有病人都應治療。",
+   "B": "本項不選。慢性 B 型肝炎可有免疫複合體相關的肝外表現，包括關節痛或關節炎，也可見腎小球腎炎和結節性多動脈炎。",
+   "C": "本項不選。HAI 和 METAVIR 都可評估肝炎的活動度和纖維化，題目所述的纖維化分期範圍分別是 0–6 和 0–4。",
+   "D": "本項不選。血清纖維化指標和肝臟彈性測量可非侵入性地估計肝纖維化，能減少部分病人做肝切片的需要。",
+   "summary": "HBV DNA 高代表風險升高，但抗病毒治療的適應症不能只靠病毒量，仍要結合肝炎活動度和纖維化程度。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14734,12 +14734,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。膽囊腺肌症（gallbladder adenomyomatosis）的核心病理正是黏膜向增厚肌層內陷形成 Rokitansky–Aschoff sinuses，因此「無關」錯誤。",
-   "B": "膽囊壁內膽固醇結晶可產生 comet-tail 或 reverberation artifact，是膽囊腺肌症常見的超音波線索。",
-   "C": "Comet-tail artifact 有助將膽囊腺肌症與膽囊腫瘤等病灶區分；實際假影型態仍須由原圖確認。",
-   "D": "膽囊壁增厚、Rokitansky–Aschoff sinuses 及膽固醇結晶造成的 comet-tail artifact 可支持膽囊腺肌症；此題無原圖，不能獨立核對。",
-   "summary": "膽囊腺肌症源自 Rokitansky–Aschoff sinuses，超音波的 comet-tail artifact 是重要診斷線索。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項應選。這是錯的敘述。膽囊腺肌症（gallbladder adenomyomatosis）的核心病理正是黏膜向增厚的肌層內陷、形成 Rokitansky–Aschoff sinuses，所以「無關」是錯的。",
+   "B": "本項不選。膽囊壁內的膽固醇結晶可產生彗尾狀（comet-tail）或迴響假影（reverberation artifact），是膽囊腺肌症常見的超音波線索。圖上箭頭處就是這種假影。",
+   "C": "本項不選。彗尾狀假影有助於把膽囊腺肌症和膽囊腫瘤等病灶區分開。",
+   "D": "本項不選。膽囊壁增厚、Rokitansky–Aschoff sinuses 加上膽固醇結晶造成的彗尾狀假影，可支持膽囊腺肌症的診斷。",
+   "summary": "膽囊腺肌症源自 Rokitansky–Aschoff sinuses，超音波的彗尾狀假影是重要的診斷線索。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -24671,12 +24671,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。多數急性膽囊炎（acute cholecystitis）由結石阻塞膽囊管引起，但仍有無結石性膽囊炎（acalculous cholecystitis），常見於重症、創傷或長期禁食患者。",
-   "B": "對可承受手術的急性膽囊炎患者，早期腹腔鏡膽囊切除通常能處理感染源並降低復發與再住院。",
-   "C": "Murphy's sign 是吸氣時右上腹膽囊處壓痛導致吸氣中止，常支持急性膽囊炎，但陰性不能完全排除。",
-   "D": "急性膽囊炎患者可能同時有總膽管結石，若合併黃疸、膽管擴張或膽汁鬱積型肝指數需進一步評估。",
-   "summary": "急性膽囊炎多由膽結石造成但不是必定有結石；適當患者以早期膽囊切除為主。",
-   "guideline": "FC 醫學(三)第2冊 p.180"
+   "guideline": "FC 醫學(三)第2冊 p.180",
+   "A": "本項應選。這是錯的敘述。多數急性膽囊炎（acute cholecystitis）由結石阻塞膽囊管引起，但仍有無結石性膽囊炎（acalculous cholecystitis），常見於重症、創傷或長期禁食的病人。",
+   "B": "本項不選。對可以承受手術的急性膽囊炎病人，早期腹腔鏡膽囊切除通常能處理感染源，並降低復發和再住院。",
+   "C": "本項不選。Murphy's sign 是吸氣時右上腹膽囊處壓痛導致吸氣中止，常支持急性膽囊炎，但陰性不能完全排除。",
+   "D": "本項不選。急性膽囊炎病人可能同時有總膽管結石。如果合併黃疸、膽管擴張或膽汁鬱積型肝指數，要進一步評估。",
+   "summary": "急性膽囊炎多由膽結石造成，但不是「必定」有結石；適當的病人以早期膽囊切除為主。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24709,12 +24709,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "膽管癌（cholangiocarcinoma）依解剖位置分為肝內型、肝門型與遠端型；位置會影響手術方式及臨床表現。",
-   "B": "能完整切除的手術是膽管癌主要且唯一具根治機會的治療；多數病人因發現較晚而無法切除。",
-   "C": "肝內膽管結石造成反覆慢性膽道發炎，會增加肝內膽管癌風險。",
-   "D": "正確。原發性硬化性膽管炎（primary sclerosing cholangitis）是膽管癌的重要危險因子，因此「不會增加風險」錯誤。",
-   "summary": "膽管癌分肝內、肝門與遠端型；PSC 與肝內膽管結石都是風險因子，根治仰賴完整手術切除。",
-   "guideline": "FC 醫學(三)第2冊 p.180"
+   "guideline": "FC 醫學(三)第2冊 p.180",
+   "A": "本項不選。膽管癌（cholangiocarcinoma）依解剖位置分為肝內型、肝門型和遠端型，位置會影響手術方式和臨床表現。",
+   "B": "本項不選。能完整切除的手術是膽管癌主要、也是唯一有根治機會的治療，多數病人因為發現較晚而無法切除。",
+   "C": "本項不選。肝內膽管結石造成反覆的慢性膽道發炎，會增加肝內膽管癌的風險。",
+   "D": "本項應選。這是錯的敘述。原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）是膽管癌的重要危險因子，所以「不會增加風險」是錯的。",
+   "summary": "膽管癌分肝內、肝門和遠端型；PSC 和肝內膽管結石都是風險因子，根治仰賴完整的手術切除。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24747,15 +24747,15 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "MELD score 以 bilirubin、INR、creatinine 等客觀數值估計末期肝病短期死亡風險，是成人候選者分配肝臟的主要依據。",
-   "B": "Child-Turcotte-Pugh score 用於肝硬化嚴重度與預後分級，但主觀項目較多，不是現行移植等候排序的主要分數。",
-   "C": "Maddrey discriminant function 用於評估酒精性肝炎嚴重度及是否考慮 corticosteroid，並非通用肝移植排序工具。",
-   "D": "SOFA score 評估多重器官衰竭與加護病房死亡風險，不能取代針對末期肝病設計的 MELD score。",
-   "summary": "成人肝移植優先次序主要依 MELD score 所估短期死亡風險。",
    "guideline": "FC 醫學(三)第2冊 p.174",
    "concepts": [
     "meld-score"
-   ]
+   ],
+   "A": "正確答案。MELD score 用 bilirubin、INR、creatinine 三個客觀數值計算。它估的是末期肝病（end-stage liver disease）的短期死亡風險。分數越高代表越快可能死亡，就排在肝臟等候名單越前面。",
+   "B": "本項不選。Child-Turcotte-Pugh score 用來分肝硬化的嚴重度和預後。它含腹水、肝性腦病變等主觀判讀項目，現行等候排序不以它為主。",
+   "C": "本項不選。Maddrey discriminant function 用來評估酒精性肝炎（alcoholic hepatitis）嚴重度、決定要不要用 corticosteroid。它不是通用的肝移植排序分數。",
+   "D": "本項不選。SOFA score 評估多重器官衰竭和加護病房死亡風險，涵蓋範圍太廣，取代不了專為末期肝病設計的 MELD score。",
+   "summary": "成人肝移植的優先次序，主要看 MELD score 估出的末期肝病短期死亡風險。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26199,12 +26199,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "自發性細菌性腹膜炎（spontaneous bacterial peritonitis, SBP）多為單一腸道菌移位，經驗治療通常不必常規涵蓋 anaerobes。",
-   "B": "正確。傳統未使用抗生素的社區型 SBP 最常見為腸道革蘭陰性菌，尤其 Escherichia coli；「革蘭陽性菌最常見」不符合此題設定。",
-   "C": "次發性腹膜炎源自腸穿孔或腹腔感染源，常為多菌性，需涵蓋 enteric Gram-negative bacteria 與 anaerobes。",
-   "D": "次發性腹膜炎除了廣效抗生素，更重要的是手術或介入進行 source control；僅靠抗生素常不足。",
-   "summary": "SBP 通常是單一腸道菌且不需 anaerobic coverage；次發性腹膜炎多菌性並須 source control。",
-   "guideline": "FC 醫學(三)第2冊 p.99"
+   "guideline": "FC 醫學(三)第2冊 p.99",
+   "A": "本項不選。原發性細菌性腹膜炎（primary/spontaneous bacterial peritonitis, SBP）多半是單一一隻腸道細菌跑進腹水。經驗性抗生素（empirical antibiotic therapy）通常不必特別涵蓋厭氧菌（anaerobes）。",
+   "B": "正確答案。這句是錯的。沒用過抗生素的社區型 SBP，最常見致病菌是腸道革蘭氏陰性菌（enteric Gram-negative bacteria），尤其 Escherichia coli，不是革蘭氏陽性菌（Gram-positive bacteria）。",
+   "C": "本項不選。次發性細菌性腹膜炎（secondary bacterial peritonitis）來自腸穿孔或腹腔感染源，常是多種菌，要同時涵蓋 enteric Gram-negative bacteria 和 anaerobes。",
+   "D": "本項不選。次發性腹膜炎除了廣效抗生素，更關鍵的是開刀或引流處理感染源（source control）。只靠抗生素常常不夠。",
+   "summary": "SBP 是單一腸道菌、不必打厭氧菌；次發性腹膜炎是多菌感染、一定要做 source control。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26697,12 +26697,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "肝細胞癌常見動脈期增強與門脈／延遲期 washout；若圖呈周邊結節狀逐步向心填充則不支持 HCC。",
-   "B": "正確。海綿狀血管瘤（cavernous hemangioma）典型 dynamic CT 為周邊不連續結節狀增強，後續向中央漸進填充。海綿狀血管瘤在動態電腦斷層有一組很專屬的表現：動脈期由病灶周邊出現不連續的結節狀強化，之後逐漸向中心填充，延遲期整顆變得與血管一樣亮並持續滯留顯影劑。這個「周邊結節→向心填充→延遲滯留」的順序就是與肝細胞癌（動脈期快進、門脈期快出）最好分辨的地方。",
-   "C": "多房性包蟲囊腫通常呈多房囊性、子囊或鈣化等表現，不會呈典型血管瘤的向心性顯影。",
-   "D": "膽管癌常呈延遲纖維間質增強，可能伴膽管擴張；與血管瘤周邊結節狀向心填充不同。",
-   "summary": "Dynamic CT 的周邊結節狀增強後向心填充是肝血管瘤典型表現。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肝細胞癌（hepatocellular carcinoma, HCC）在 dynamic CT 是動脈期整顆快速增強、門脈或延遲期顯影劑快速洗掉（washout）。本例是周邊結節狀、慢慢往中央填，不像 HCC。",
+   "B": "正確答案。圖上動脈期先在病灶邊緣出現一顆一顆不連續的結節狀強化。接著這些強化慢慢往中央填。延遲期整顆變得跟血管一樣亮、顯影劑滯留。這組「周邊結節→向心填充→延遲滯留」就是海綿狀血管瘤（cavernous hemangioma）的招牌，剛好和 HCC 的「快進快出」相反。",
+   "C": "本項不選。多房性包蟲囊腫（multilocular hydatid cyst）是多間隔的囊、常有子囊或鈣化，不會有血管瘤這種向心填充的增強。",
+   "D": "本項不選。膽管癌（cholangiocarcinoma）多半是延遲期纖維組織才慢慢增強，常合併膽管擴張，和血管瘤的周邊結節狀向心填充不同。",
+   "summary": "dynamic CT 看到「周邊結節狀增強、之後向心填充」就是肝海綿狀血管瘤。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26737,12 +26737,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。慢性 B 型肝炎可造成肝硬化；CT 常見肝表面結節、肝葉比例改變、脾腫大與側枝循環。",
-   "B": "脂肪肝在非增強 CT 常呈肝實質瀰漫性低密度，不以結節狀表面及門脈高壓徵象為主。",
-   "C": "猛爆性肝炎是急性肝衰竭的臨床診斷，可能有肝萎縮，但不符合十多年慢性 HBV 後典型形態。",
-   "D": "血色沉著症（hemochromatosis）可造成肝鐵沉積與晚期肝硬化，但題幹的慢性 HBV 已提供更直接病因。",
-   "summary": "慢性 HBV 病人 CT 若見結節肝表面、形態重塑與門脈高壓徵象，最支持肝硬化。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。圖上肝臟表面凹凸呈結節狀、肝葉比例改變，脾臟腫大，脾門和胃附近有擴張的側枝血管。這些是肝硬化（liver cirrhosis）合併門脈高壓的變化，慢性 B 型肝炎（HBV）十多年正是常見病因。",
+   "B": "本項不選。脂肪肝（fatty liver）在非顯影 CT 是整片肝實質密度均勻下降，不會是結節狀表面加上脾腫大、側枝循環這種門脈高壓表現。",
+   "C": "本項不選。猛爆性肝炎（fulminant hepatitis）是急性肝衰竭的臨床診斷，肝臟可能萎縮，但不符合十多年慢性 HBV 之後的慢性硬化形態。",
+   "D": "本項不選。肝血色素沉著症（hemochromatosis）晚期也會肝硬化，但要靠鐵沉積證據；題目已給十多年慢性 HBV，是更直接的病因。",
+   "summary": "慢性 HBV 病人 CT 看到結節狀肝表面、肝葉重塑、脾腫大和側枝循環，最支持肝硬化。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -36501,12 +36501,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "門脈周邊壞死是 HAI 評估壞死發炎活動的一部分，反映 interface/periportal hepatitis。",
-   "B": "正確。漿細胞浸潤是自體免疫性肝炎的重要病理線索，但不是 HAI 的獨立計分構成。",
-   "C": "肝小葉區壞死屬 HAI 的 lobular degeneration and focal necrosis 評估範圍。",
-   "D": "門脈發炎是 HAI 的構成項目之一，評估 portal tract inflammatory infiltrate。",
-   "summary": "HAI 評估 periportal necrosis、lobular necrosis、portal inflammation 與 fibrosis；plasma cells 不是獨立項目。",
-   "guideline": "FC 醫學(三)第2冊 p.84"
+   "guideline": "FC 醫學(三)第2冊 p.84",
+   "A": "本項不選。門脈周邊壞死（periportal necrosis）是 HAI 評估壞死發炎活性的項目，反映界面型肝炎（interface hepatitis）。",
+   "B": "正確答案。漿細胞浸潤（plasma cell infiltration）是自體免疫性肝炎（autoimmune hepatitis）的病理線索，不是 HAI（histologic activity index）的計分項目。",
+   "C": "本項不選。肝小葉區壞死（intralobular necrosis）屬 HAI 的小葉內變性與局部壞死評分範圍。",
+   "D": "本項不選。門脈發炎（portal inflammation）是 HAI 的組成項目，評估門脈區的發炎細胞浸潤。",
+   "summary": "HAI 計分看門脈周邊壞死、小葉壞死、門脈發炎和 fibrosis 四類；plasma cell 浸潤不算。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36717,12 +36717,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "B 型肝炎帶原即使尚未肝硬化仍增加 HCC 風險，需依年齡、家族史與族群安排監測。",
-   "B": "慢性 C 型肝炎，尤其已有進階纖維化或肝硬化者，是 HCC 高危險群。",
-   "C": "正確。孤立的肝鈣化點常是既往發炎或感染留下的穩定影像，不是 HCC 高危險狀態。",
-   "D": "酒精性肝硬化具 HCC 風險，病因控制後仍需持續監測。",
-   "summary": "HCC 高風險來自慢性 HBV、HCV 與各病因肝硬化；單純肝鈣化點不是高危險群。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。B 型肝炎帶原就算還沒肝硬化，也會增加肝細胞癌（HCC）風險，要依年齡、家族史和族群安排定期監測。",
+   "B": "本項不選。慢性 C 型肝炎（HCV），特別是已有進階纖維化或肝硬化的人，是 HCC 的高危險群。",
+   "C": "正確答案。單一顆肝鈣化點通常是以前發炎或感染留下的穩定痕跡，不是會長肝癌的高危險狀態。",
+   "D": "本項不選。酒精性肝硬化本身就是 HCC 風險，就算戒酒後仍要繼續監測。",
+   "summary": "HCC 高危險群是慢性 HBV、HCV 和各種病因的肝硬化；單純肝鈣化點不算。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36755,12 +36755,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "失代償性肝硬化是肝移植的重要適應症，需評估不可逆肝衰竭、共病與手術風險。",
-   "B": "符合 UCSF criteria 的 HCC 可在選定病人接受肝移植，同時處理腫瘤與背景肝硬化。",
-   "C": "第四期原發性膽汁性膽管炎代表進展性膽汁性肝硬化，可因肝衰竭或難治症狀列入移植評估。",
-   "D": "正確。未受控制的活動性精神病會妨礙知情同意、服藥遵從與術後照護，通常須先穩定後才考慮移植。",
-   "summary": "肝移植可用於失代償肝硬化、選定 HCC 與末期 PBC；未控制的活動性精神病是不適合狀態。",
-   "guideline": "FC 醫學(三)第2冊 p.174"
+   "guideline": "FC 醫學(三)第2冊 p.174",
+   "A": "本項不選。失代償性肝硬化（decompensated cirrhosis）本身就是肝移植的重要適應症，要評估是否為不可逆肝衰竭、共病和手術風險。",
+   "B": "本項不選。腫瘤大小數目在 UCSF criteria 以內的肝細胞癌（HCC），選定病人可接受肝移植，同時處理腫瘤和背景肝硬化。",
+   "C": "本項不選。第四期原發性膽汁性膽管炎（primary biliary cirrhosis/cholangitis, PBC）代表進展性膽汁性肝硬化，可因肝衰竭或難治症狀列入移植評估。",
+   "D": "正確答案。沒控制好的活動性精神病（active psychosis）會妨礙知情同意、規律服用抗排斥藥和術後照護，通常要先穩定精神狀況才考慮移植。",
+   "summary": "失代償肝硬化、符合 UCSF criteria 的 HCC、末期 PBC 都可移植；沒控制的活動性精神病不適合。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -47778,12 +47778,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "血色沉著症通常與鐵過載、transferrin saturation 與 ferritin 上升相關，低 ceruloplasmin 並非其特徵。",
-   "B": "類澱粉沉積症可累及肝臟，但不會以低 ceruloplasmin 合併年輕女性運動或肝病表現為典型。",
-   "C": "原發性膽汁性膽管炎多見於中年女性，典型為 cholestasis、AMA 陽性；19 歲與低 ceruloplasmin 更支持 Wilson disease。",
-   "D": "正確。Wilson disease 因 ATP7B 缺陷造成銅排泄障礙，年輕患者可有肝病、神經精神表現及低 ceruloplasmin。",
-   "summary": "年輕人不明原因肝硬化合併低 ceruloplasmin，應優先考慮 Wilson disease。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。血色素沉著症（hemochromatosis）是鐵過載，會看到 transferrin saturation 和 ferritin 升高，不會是低 ceruloplasmin。",
+   "B": "本項不選。類澱粉沉積症（amyloidosis）可侵犯肝臟，但不會以「年輕女性＋低 ceruloplasmin＋肝硬化」為典型表現。",
+   "C": "本項不選。原發性膽汁性膽管炎（primary biliary cirrhosis）多見於中年女性，典型是膽汁鬱積（cholestasis）、AMA 陽性；19 歲加上低 ceruloplasmin 更像 Wilson disease。",
+   "D": "正確答案。Wilson disease 是 ATP7B 基因缺陷，銅排不出去、堆在肝和腦。年輕人有不明原因肝病、神經精神症狀，加上 ceruloplasmin 只有 11.1 mg/dL（正常 20～60），就要優先想到它。",
+   "summary": "年輕人不明原因肝硬化＋ceruloplasmin 偏低，先想 Wilson disease。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48274,12 +48274,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "HCC 可呈多發，但常有慢性肝病背景且 AFP 可能升高；極高 CEA 與多顆大小不一結節更支持轉移。",
-   "B": "膽管細胞癌可能提高 CA 19-9，通常呈肝內腫塊與膽道特徵；CEA 521 ng/mL 及多發結節更像腸胃道癌肝轉移。",
-   "C": "正確。多顆大小不一的肝結節、肝功能大致保留且 CEA 極高，是轉移性肝癌的典型組合，應尋找 colorectal 等原發腫瘤。",
-   "D": "局部結節增生（focal nodular hyperplasia）多為單一良性病灶，不會造成明顯消瘦或 CEA 極度升高。",
-   "summary": "多發大小不一肝結節合併 CEA 極高，優先診斷轉移性肝癌而非原發 HCC。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肝細胞癌（HCC）也可能多發，但常有慢性肝病背景、AFP 可能升高。本例 AFP 才 8 ng/mL、CEA 卻高達 521，加上多顆大小不一的結節，比較像轉移。",
+   "B": "本項不選。膽管細胞癌（cholangiocarcinoma）常讓 CA 19-9 升高、呈肝內腫塊合併膽道變化；CEA 521 ng/mL 加多發結節更像腸胃道癌轉移到肝。",
+   "C": "正確答案。多顆大小不一的肝結節、肝功能大致正常、CEA 高到 521 ng/mL（正常＜5），是肝轉移癌的典型組合，要回頭找大腸直腸癌（colorectal cancer）等原發腫瘤。",
+   "D": "本項不選。肝臟局部結節增生（focal nodular hyperplasia）多是單顆良性病灶，不會造成明顯消瘦，也不會讓 CEA 飆這麼高。",
+   "summary": "多顆大小不一的肝結節＋CEA 極高，先想肝轉移癌，不是原發 HCC。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48353,15 +48353,15 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "總膽管結石會直接造成 choledocholithiasis，但 Mirizzi syndrome 的典型原發結石位置不是總膽管。",
-   "B": "胰臟腫瘤可壓迫遠端總膽管造成阻塞性黃疸，與 Mirizzi syndrome 的膽囊頸／膽囊管機轉不同。",
-   "C": "正確。Mirizzi syndrome 是膽囊頸或膽囊管嵌頓結石，從外部壓迫 common hepatic duct，嚴重時可形成膽囊膽管瘻。",
-   "D": "總膽管血塊可能造成暫時性阻塞，但不構成 Mirizzi syndrome 的定義。",
-   "summary": "Mirizzi syndrome＝膽囊頸或膽囊管嵌頓結石外壓總肝管。",
    "guideline": "FC 醫學(三)第2冊 p.179",
    "concepts": [
     "mirizzi-syndrome"
-   ]
+   ],
+   "A": "本項不選。總膽管結石會直接造成總膽管阻塞（choledocholithiasis），但 Mirizzi syndrome 的原發結石不是卡在總膽管。",
+   "B": "本項不選。胰臟腫瘤是從外面壓迫遠端總膽管造成阻塞性黃疸，機轉和 Mirizzi syndrome 的膽囊頸／膽囊管不同。",
+   "C": "正確答案。Mirizzi syndrome 是結石卡在膽囊頸或膽囊管（cystic duct），從外側壓迫總肝管（common hepatic duct）造成阻塞性黃疸，嚴重時會磨出膽囊膽管瘻管。",
+   "D": "本項不選。總膽管血塊可能造成暫時阻塞，但不符合 Mirizzi syndrome 的定義。",
+   "summary": "Mirizzi syndrome ＝ 膽囊頸或膽囊管（cystic duct）嵌頓結石，從外面壓住總肝管。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48394,15 +48394,15 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。腹水 neutrophil 為 1,250×85%≈1,063/mm3，遠高於 SBP 診斷切點，合併肝硬化徵象、發燒與腹痛，最支持自發性細菌性腹膜炎。",
-   "B": "十二指腸潰瘍穿孔通常有突然劇痛、腹膜刺激與腹腔游離氣體；題幹高 PMN 腹水在肝硬化背景更直接支持 SBP。",
-   "C": "成人腸套疊常見阻塞、絞痛或腫瘤作為 lead point，不能解釋肝硬化徵象及感染性腹水。",
-   "D": "HCC 破裂通常造成血性腹水與急性失血；本題 RBC 僅 40/mm3，而 neutrophilic ascites 明顯。",
-   "summary": "肝硬化腹水 PMN ≥250/mm3 即應診斷並治療 SBP；本例約 1,063/mm3。",
    "guideline": "FC 醫學(三)第2冊 p.99",
    "concepts": [
     "sbp-diagnostic-criteria"
-   ]
+   ],
+   "A": "正確答案。腹水 neutrophil ＝ 1,250 × 85% ≈ 1,063/mm³，遠超過自發性細菌性腹膜炎（spontaneous bacterial peritonitis, SBP）的診斷切點 250/mm³。再加上黃疸、palmar erythema、flapping tremor 等肝硬化徵象和發燒腹痛，最支持 SBP。",
+   "B": "本項不選。十二指腸潰瘍穿孔通常是突然劇痛、全腹腹膜刺激、X 光有腹腔游離氣體；在肝硬化背景下的高 PMN 腹水更直接指向 SBP。",
+   "C": "本項不選。成人腸套疊通常有腸阻塞、絞痛，且多有腫瘤當作起始點，解釋不了肝硬化徵象和感染性腹水。",
+   "D": "本項不選。肝細胞癌（HCC）破裂會造成血性腹水和急性內出血；本例腹水 RBC 只有 40/mm³，反而是嗜中性球性腹水明顯。",
+   "summary": "肝硬化腹水 PMN ≥ 250/mm³ 就診斷並治療 SBP；本例約 1,063/mm³。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48435,12 +48435,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Methotrexate 慢性毒性常為 steatosis、fibrosis 或肝細胞性損傷，不是本題 ALP 約八倍上限的典型 cholestatic pattern。",
-   "B": "Isoniazid 典型造成 hepatocellular injury，aminotransferases 通常比 ALP 更顯著上升。",
-   "C": "正確。Methyltestosterone 等 17α-alkylated androgen 可造成 bland cholestasis，呈 ALP 與 bilirubin 上升而 aminotransferase 僅輕度增加。",
-   "D": "Acetaminophen 過量造成劑量相關的急性肝細胞壞死，AST/ALT 常大幅上升，不符合此膽汁鬱積型。",
-   "summary": "ALP 顯著高、ALT 僅輕升是 cholestatic injury；17α-alkylated androgen 是典型原因。",
-   "guideline": "FC 醫學(三)第2冊 p.128"
+   "guideline": "FC 醫學(三)第2冊 p.128",
+   "A": "本項不選。Methotrexate 的慢性肝毒性多是脂肪變性（steatosis）、纖維化或肝細胞型損傷，不是本例 ALP 高到約 8 倍的膽汁鬱積型。",
+   "B": "本項不選。Isoniazid 典型造成肝細胞型損傷（hepatocellular injury），轉胺酶（AST／ALT）通常比 ALP 上升得更明顯。",
+   "C": "正確答案。本例 ALP 795 U/L（正常＜100，約 8 倍）、bilirubin 輕升，但 ALT 只有 56，是單純膽汁鬱積型（bland cholestasis）。17α-alkylated androgen 類的 methyltestosterone 正是典型原因。",
+   "D": "本項不選。Acetaminophen 過量造成劑量相關的急性肝細胞壞死，AST／ALT 常大幅飆高，不符合這種膽汁鬱積型。",
+   "summary": "ALP 明顯高、ALT 只輕升 ＝ 膽汁鬱積型損傷；17α-alkylated androgen 是典型元凶。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48549,12 +48549,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "此飲酒量長期累積且 AST>ALT、超音波脂肪肝，可考慮 alcohol-associated fatty liver disease。",
-   "B": "正確。肥胖與 insulin resistance 是代謝相關脂肪肝的重要因子，也會加重酒精性肝病，但不是酒精性脂肪肝發生的必要條件；本例 BMI 正常仍可因酒精致病。",
-   "C": "戒酒是改善酒精相關脂肪肝的核心；corticosteroid 用於選定的嚴重酒精性肝炎，不適用單純脂肪肝。",
-   "D": "Anti-HCV 陽性需以 HCV RNA 確認活動性感染；HCV 與酒精會協同加重纖維化與肝病風險。",
-   "summary": "酒精可在沒有肥胖或 insulin resistance 時造成脂肪肝；戒酒並確認 HCV RNA 是重點。",
-   "guideline": "FC 醫學(三)第2冊 p.128"
+   "guideline": "FC 醫學(三)第2冊 p.128",
+   "A": "本項不選。這樣的飲酒量累積 15 年、AST＞ALT、超音波有脂肪肝，可以考慮酒精性脂肪肝病（alcoholic fatty liver disease）。",
+   "B": "正確答案。這句話講太死。肥胖和胰島素抗性（insulin resistance）是代謝性脂肪肝的重要因子，也會加重酒精性肝病，但不是酒精性脂肪肝發生的必要條件；本例 BMI 23 不胖，照樣可因酒精致病。",
+   "C": "本項不選。戒酒是改善酒精相關脂肪肝的核心；corticosteroid 只用在選定的嚴重酒精性肝炎，對單純脂肪肝沒幫助。",
+   "D": "本項不選。anti-HCV 陽性要再驗 HCV RNA 確認是不是活動性感染；HCV 和酒精會一起加重纖維化和肝病風險，須積極評估治療。",
+   "summary": "酒精不需肥胖或 insulin resistance 也能造成脂肪肝；重點是戒酒＋驗 HCV RNA。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -59851,12 +59851,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Total/direct bilirubin 可先區分 conjugated 與 unconjugated hyperbilirubinemia，是黃疸評估核心。",
-   "B": "尿液 urobilinogen 可協助判斷 bilirubin 代謝與排泄型態，並與尿 bilirubin 一起提供線索。",
-   "C": "鞏膜及舌下黏膜是觀察黃疸較敏感部位，視診合理。",
-   "D": "正確。Creatinine 評估腎功能，但不能直接解釋疲倦與深色尿是否來自 bilirubin 上升，在四項中最不切題。",
-   "summary": "疑似黃疸先確認 bilirubin 分型、尿膽色素及身體黃染；creatinine 不是病因判讀的首要檢查。",
-   "guideline": "FC 醫學(三)第2冊 p.90"
+   "guideline": "FC 醫學(三)第2冊 p.90",
+   "A": "本項不選。驗 total 和 direct bilirubin 可先分出是 conjugated 還是 unconjugated hyperbilirubinemia，是黃疸評估的核心。",
+   "B": "本項不選。驗尿液中的 urobilinogen，可搭配尿 bilirubin 一起判斷膽紅素代謝和排泄型態。",
+   "C": "本項不選。鞏膜和舌下黏膜是看黃疸較敏感的部位，用視診檢查很合理。",
+   "D": "正確答案。驗 creatinine 是評估腎功能，無法解釋疲倦和深色尿是不是來自膽紅素上升，在這四項裡最不切題。",
+   "summary": "疑似黃疸先確認膽紅素分型、尿膽色素和身體黃染；creatinine 不是首要檢查。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60298,12 +60298,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "HBeAg 陰性、anti-HBe 陽性不代表 HBV 已消失；仍須看 HBsAg 與 HBV DNA。",
-   "B": "免疫耐受期通常 HBeAg 陽性、HBV DNA 很高且 ALT 正常；本例 HBeAg 陰性不符合典型免疫耐受期。",
-   "C": "正確。母親與哥哥皆為帶原者、患者年輕時即發現感染，最可能由母嬰垂直感染或幼年家庭內傳播；題目最佳答案為垂直感染。",
-   "D": "慢性 HBV 且有 HCC 家族史仍需規律監測，不能因 ALT 正常或 HBeAg 陰性而免除腹部超音波。",
-   "summary": "HBeAg seroconversion 不等於清除 HBV；家族聚集提示垂直感染且 HCC 家族史提高監測重要性。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。HBeAg 陰性、anti-HBe 陽性不代表 HBV 已經清光，還要看 HBsAg 和 HBV DNA。",
+   "B": "本項不選。免疫耐受期（immune tolerance phase）通常是 HBeAg 陽性、HBV DNA 很高而 ALT 正常；本例 HBeAg 陰性，不符合。",
+   "C": "正確答案。媽媽和哥哥都是帶原者、患者年輕就發現感染，最可能是出生時的母嬰垂直感染或幼年家庭內傳染。",
+   "D": "本項不選。慢性 HBV 又有肝癌（HCC）家族史，仍要每半年做腹部超音波，不能因為 ALT 正常或 HBeAg 陰性就免除。",
+   "summary": "HBeAg 轉陰（seroconversion）不等於清除 HBV；家族聚集提示垂直感染，HCC 家族史讓定期監測更重要。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60336,12 +60336,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Crigler–Najjar syndrome 是 bilirubin conjugation 缺陷，造成 unconjugated hyperbilirubinemia，與 direct bilirubin 2.5 mg/dL 不符。",
-   "B": "Gilbert syndrome 造成輕度間接型高膽紅素血症，壓力或禁食時上升，但 direct fraction 不會占多數。",
-   "C": "正確。Dubin–Johnson syndrome 為肝細胞排泄 conjugated bilirubin 障礙，可見 isolated direct hyperbilirubinemia 而 AST、ALT、ALP、GGT 正常。",
-   "D": "G6PD deficiency 可引起溶血與間接型高膽紅素血症，不符合以 direct bilirubin 為主。",
-   "summary": "肝酵素全正常的 isolated conjugated hyperbilirubinemia 指向 Dubin–Johnson syndrome。",
-   "guideline": "FC 醫學(三)第2冊 p.90"
+   "guideline": "FC 醫學(三)第2冊 p.90",
+   "A": "本項不選。Crigler–Najjar syndrome 是 bilirubin 接合（conjugation）缺陷，造成間接型高膽紅素血症（unconjugated hyperbilirubinemia）。本例 direct bilirubin 2.5 mg/dL 佔多數，不符合。",
+   "B": "本項不選。Gilbert syndrome 是輕度間接型高膽紅素血症，壓力或禁食時上升，direct fraction 不會佔多數。",
+   "C": "正確答案。Dubin–Johnson syndrome 是肝細胞把接合後的 bilirubin 排到膽汁的步驟出問題。所以只有 direct bilirubin 上升，AST、ALT、ALP、GGT 全正常。本例 total/direct ＝ 3.6/2.5、肝酵素正常，正是這個型。",
+   "D": "本項不選。G6PD deficiency 造成溶血和間接型高膽紅素血症，不會以 direct bilirubin 為主。",
+   "summary": "肝酵素全正常、只有 direct bilirubin 高 → Dubin–Johnson syndrome。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60486,12 +60486,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "內視鏡靜脈瘤結紮術是急性食道靜脈瘤出血的標準止血方式之一。",
-   "B": "Terlipressin 或 octreotide 可降低門脈流入，疑似靜脈瘤出血時即應及早給予。",
-   "C": "正確。Nonselective beta blockers 會降低血壓，不能用來控制急性活動性出血；應在穩定後作初級或次級預防。",
-   "D": "內視鏡應同時評估胃靜脈瘤，因其治療方式與食道靜脈瘤可能不同。",
-   "summary": "急性靜脈瘤出血用 vasoactive drug 加內視鏡止血；NSBB 留到循環穩定後預防再出血。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。內視鏡靜脈瘤結紮術（endoscopic variceal ligation）是急性食道靜脈瘤出血的標準止血方式之一。",
+   "B": "本項不選。Terlipressin 或 octreotide 會降低門脈血流，一懷疑靜脈瘤出血就該及早給。",
+   "C": "正確答案。這句是錯的。非選擇性乙型阻斷劑（nonselective beta blockers, NSBB）會壓低血壓，不能用來止住正在流的急性出血。它是等循環穩定後拿來做初級或次級預防的。",
+   "D": "本項不選。內視鏡要一併看胃靜脈瘤（gastric varices）有沒有出血跡象，因為它的處理方式和食道靜脈瘤可能不同。",
+   "summary": "急性靜脈瘤出血：血管收縮藥（vasoactive drug）＋內視鏡止血；NSBB 留到循環穩定後才用來預防再出血。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60562,12 +60562,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "RFA 對適當大小與位置的早期 HCC 可達根除性治療，因此說它不是根除治療錯誤。",
-   "B": "TACE 多用於中期、無法根除性處理的 HCC，療效與適用族群不能直接等同手術切除。",
-   "C": "主門靜脈腫瘤侵犯代表進展期，通常不符合移植標準；TACE 也可能因肝缺血風險不適合。",
-   "D": "正確。HCC 治療須同時評估腫瘤負荷、肝功能、門脈高壓與全身狀態，這正是 BCLC 等架構的核心。",
-   "summary": "HCC 治療同時取決於腫瘤期別與背景肝儲備，不能只看腫瘤大小。",
-   "guideline": "FC 醫學(三)第2冊 p.165"
+   "guideline": "FC 醫學(三)第2冊 p.165",
+   "A": "本項不選。射頻消融術（radiofrequency ablation, RFA）對大小和位置合適的早期 HCC 可以是根除性治療，所以說它「不是根除治療」錯。",
+   "B": "本項不選。經動脈化學栓塞（transarterial chemoembolization, TACE）多用在中期、無法根除的 HCC，療效和適用族群不能直接等同手術切除。",
+   "C": "本項不選。肝門靜脈主幹被腫瘤侵犯（main portal vein thrombosis）代表進展期，通常不符合移植標準；TACE 也可能因肝缺血風險而不適合。",
+   "D": "正確答案。HCC 治療要同時看腫瘤負荷、肝功能、門脈高壓和全身狀態，這正是 BCLC 分期架構的核心，不能只看腫瘤大小。",
+   "summary": "HCC 怎麼治，同時取決於腫瘤期別和背景肝儲備。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60600,12 +60600,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "肝性腦病變是肝硬化失代償的典型併發症，常由感染、出血、便祕或電解質異常誘發。",
-   "B": "腹水是門脈高壓與鈉水滯留造成的常見失代償表現。",
-   "C": "正確。局部結節性增生（focal nodular hyperplasia）是良性肝病灶，不是肝硬化的典型併發症。",
-   "D": "食道靜脈曲張源自門脈高壓形成的側枝循環，是肝硬化重要併發症。",
-   "summary": "肝硬化常見 ascites、encephalopathy 與 varices；FNH 是獨立良性病灶。",
-   "guideline": "FC 醫學(三)第2冊 p.146"
+   "guideline": "FC 醫學(三)第2冊 p.146",
+   "A": "本項不選。肝性腦病變（hepatic encephalopathy）是肝硬化失代償的典型併發症，常由感染、出血、便祕或電解質異常誘發。",
+   "B": "本項不選。腹水（ascites）來自門脈高壓加上鈉水滯留，是常見的失代償表現。",
+   "C": "正確答案。肝臟局部結節性增生（focal nodular hyperplasia, FNH）是獨立的良性肝病灶，不是門脈高壓或肝硬化造成的併發症。",
+   "D": "本項不選。食道靜脈曲張（esophageal varices）來自門脈高壓形成的側枝循環，是肝硬化的重要併發症。",
+   "summary": "肝硬化常見腹水、肝性腦病變、食道靜脈曲張；FNH 是不相干的良性病灶。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62538,12 +62538,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "肝蛔蟲可在膽道呈線狀或管狀結構，需看動態與形態；本題答案並非此診斷。",
-   "B": "HCC 為實質性腫塊，不會典型呈沿膽管分枝的強回音氣體。",
-   "C": "正確。氣膽（pneumobilia）在超音波可見肝內中央膽管分布的強回音與 dirty shadow/reverberation，氣泡可能移動。超音波上沿著肝門靜脈走向出現一串明亮的線狀高回音，後方帶著彗星尾與混響假影，而且會隨體位改變位置。這是膽道內有空氣的樣子，最常見於做過膽道腸道吻合、括約肌切開術或有膽腸瘻管的人。肝內膽管結石也是強回音，但它會有乾淨的聲影且不隨姿勢移動。",
-   "D": "肝內膽管結石也呈高回音與後方聲影，但通常是固定結石；需用原圖區分其 clean shadow 與氣體假影。",
-   "summary": "Pneumobilia 的中央分枝狀強回音與 dirty shadow 可和固定肝內膽管結石鑑別。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肝蛔蟲（hepatic ascariasis）在膽道呈線狀或管狀結構，要看動態和形態；不是本圖表現。",
+   "B": "本項不選。肝細胞癌（HCC）是實質性腫塊，不會沿著膽管分枝排成一串氣體樣強回音。",
+   "C": "正確答案。圖上沿著肝門靜脈走向出現一串明亮的線狀高回音，後方帶著彗星尾和混響假影。這是膽道裡有空氣（pneumobilia）的樣子，最常見於做過膽腸吻合、括約肌切開術或有膽腸瘻管的人。",
+   "D": "本項不選。肝內膽管結石（intrahepatic bile duct stones）也是強回音，但它後方是乾淨聲影（clean shadow）、位置固定、不隨體位移動。",
+   "summary": "沿膽管分枝的強回音＋dirty shadow＋隨體位移動 ＝ pneumobilia；固定又有 clean shadow 才是肝內膽管結石。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -72250,12 +72250,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "自體免疫性肝炎活動劇烈時 aminotransferase 可超過 1,000 IU/L，並可伴 bilirubin 與 IgG 上升。",
-   "B": "缺血性肝炎常在休克或低灌流後造成 AST/ALT 急遽升至數千，LDH 也常明顯增加。",
-   "C": "正確。脂肪性肝炎的 aminotransferase 多為輕至中度上升，通常不會超過 1,000 IU/L；若大幅升高應找其他急性損傷。",
-   "D": "藥物性肝炎如 acetaminophen toxicity 可造成廣泛肝細胞壞死，使 AST/ALT 超過 1,000 IU/L。",
-   "summary": "AST/ALT >1,000 常想 ischemic、drug/toxin、acute viral 或 severe autoimmune hepatitis；脂肪性肝炎較少。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。自體免疫性肝炎（autoimmune hepatitis）活動劇烈時 aminotransferase 可超過 1,000 IU/L，常伴 bilirubin 和 IgG 上升。",
+   "B": "本項不選。缺血性肝炎（ischemic hepatitis）在休克或低灌流後，AST／ALT 可急升到數千，LDH 也常明顯增加。",
+   "C": "正確答案。脂肪性肝炎的 aminotransferase 多是輕到中度上升，通常不會超過 1,000 IU/L。若真的飆這麼高，要另找急性損傷原因。",
+   "D": "本項不選。藥物性肝炎如 acetaminophen toxicity 可造成廣泛肝細胞壞死，讓 AST／ALT 超過 1,000 IU/L。",
+   "summary": "aminotransferase ＞1,000 IU/L 先想缺血、藥物毒物、急性病毒或嚴重自體免疫肝炎；脂肪性肝炎很少這麼高。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72453,12 +72453,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "單純脂肪肝不是可直接套用典型影像而免切片診斷 HCC 的標準高風險背景；需進一步確診。",
-   "B": "正確。肝硬化本身即是高風險背景，不論是否 HBV/HCV；5 cm 病灶具 arterial phase hyperenhancement 與 venous washout 可非侵入性診斷 HCC。",
-   "C": "HBV 帶原雖屬高風險，但此病灶動脈與靜脈相都持續增強，欠缺 washout，並非典型 HCC pattern。",
-   "D": "HCV 肝硬化是高風險背景，但病灶沒有 arterial enhancement，只在靜脈相低密度，不符合典型 HCC 影像組合。",
-   "summary": "高風險背景的肝病患者，病灶出現 arterial enhancement 加後期 washout 可免切片診斷 HCC。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。單純脂肪肝不是「可用典型影像免切片診斷 HCC」的高風險背景，這顆 3 cm 腫瘤仍要進一步確診。",
+   "B": "正確答案。肝硬化本身就是高風險背景，不管有沒有 HBV／HCV。這顆 5 cm 病灶在 CT 動脈相增強（arterial enhancement）、靜脈相顯影劑沖失（venous washout），符合非侵入性診斷 HCC 的條件。",
+   "C": "本項不選。HBV 帶原雖屬高風險，但這病灶動脈相和靜脈相都持續增強、沒有 washout，不是典型 HCC 影像。",
+   "D": "本項不選。HCV 肝硬化是高風險背景，但這病灶沒有 arterial enhancement、只是靜脈相低密度，不符合典型 HCC 影像組合。",
+   "summary": "高風險背景（肝硬化或慢性 B／C 肝）＋病灶「動脈相增強、後期 washout」＝ 可免切片診斷 HCC。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72529,12 +72529,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "腹水治療應限鈉而非補充 sodium；補鈉會加重水腫與腹水，即使搭配利尿劑也不恰當。",
-   "B": "正確。限制 sodium 約 2 g/day 並以 spironolactone 與 furosemide 100:40 mg 比例利尿，是肝硬化腹水的典型初始策略；低鈉時可依情況限水。",
-   "C": "每天大量 normal saline 會增加 sodium 與 extracellular volume，使腹水惡化，不是穩定肝硬化腹水的常規治療。",
-   "D": "Normal saline 加額外補鈉既未處理門脈高壓性鈉滯留，也會明顯加重腹水與下肢水腫。",
-   "summary": "肝硬化腹水治療核心是限鈉與 aldosterone antagonist 為主的利尿，不是輸 saline 或補鈉。",
-   "guideline": "FC 醫學(三)第2冊 p.145"
+   "guideline": "FC 醫學(三)第2冊 p.145",
+   "A": "本項不選。肝硬化腹水要限鈉，不是補鈉。每天補 4 g sodium 會加重水腫和腹水，就算配利尿劑也不恰當。",
+   "B": "正確答案。每天限水 1.5 L、限 sodium 約 2 g，利尿用 spironolactone 100 mg／furosemide 40 mg 這個比例，是肝硬化腹水的典型起始策略。血鈉偏低時再視情況加強限水。",
+   "C": "本項不選。每天灌 2 L normal saline 會增加 sodium 和細胞外液量，讓腹水惡化，不是常規治療。",
+   "D": "本項不選。Normal saline 再加補鈉，既沒處理門脈高壓造成的鈉滯留，還會明顯加重腹水和下肢水腫。",
+   "summary": "肝硬化腹水治療核心是限鈉＋以 aldosterone antagonist 為主的利尿；不是灌 saline，也不是補鈉。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74459,12 +74459,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Early washout 較符合 HCC 等惡性肝腫瘤，不是典型 hepatic hemangioma。",
-   "B": "正確。肝血管瘤 dynamic CT 典型為周邊不連續結節狀增強，之後顯影劑逐步向中央填充。",
-   "C": "肝血管瘤在 T1WI 通常低訊號，不是高訊號結節。",
-   "D": "肝血管瘤因含緩慢血流的血管腔，在 T2WI 通常明顯高訊號，不是低訊號。",
-   "summary": "Hepatic hemangioma 的經典影像是 peripheral nodular enhancement with progressive centripetal fill-in。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。早期顯影劑流失（early wash-out）比較像 HCC 等惡性肝腫瘤，不是肝血管瘤。",
+   "B": "正確答案。肝血管瘤（hepatic hemangioma）在 dynamic CT 的典型表現是：動脈期病灶周邊出現不連續的結節狀增強，之後顯影劑慢慢往中央填（peripheral nodular enhancement with central fill-in）。",
+   "C": "本項不選。肝血管瘤在 MRI T1WI 通常是低訊號，不是高訊號結節。",
+   "D": "本項不選。肝血管瘤的血管腔血流慢，在 T2WI 通常是明顯高訊號，不是低訊號。",
+   "summary": "肝血管瘤的經典影像 ＝ 周邊結節狀增強、之後向心（centripetal）填充。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -84158,12 +84158,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "自體免疫性肝炎造成 interface hepatitis、肝細胞壞死與纖維化，未控制可進展至肝硬化或肝衰竭。",
-   "B": "正確。自體免疫性肝炎涉及免疫耐受失衡，調節性 T 細胞數量或抑制功能下降，而不是活性上升。",
-   "C": "CTLA-4 與 TNF 相關基因多形性曾被認為和疾病易感性相關，符合免疫調控失衡。",
-   "D": "ANA、ASMA 或 anti-LKM 等自體抗體可依型別出現，並配合 IgG、病理及排除其他病因診斷。",
-   "summary": "AIH 的核心是免疫耐受失衡與 Treg 抑制功能不足，而非 Treg 活性上升。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。自體免疫性肝炎（autoimmune hepatitis）的病理是界面型肝炎（interface hepatitis）、肝細胞壞死加纖維化，沒控制會進展到肝硬化甚至肝衰竭。",
+   "B": "正確答案。這句是錯的。自體免疫性肝炎是免疫耐受失衡，調節性 T 細胞（regulatory T cells, Treg）的數量或抑制功能是「下降」的，不是活性上升。",
+   "C": "本項不選。CTLA-4、TNF 家族基因（如 TNFA*2）的多形性（polymorphism）和此病易感性有關，符合免疫調控失衡的概念。",
+   "D": "本項不選。病人血清常出現 ANA、ASMA 或 anti-LKM 等自體抗體，再配合 IgG、病理和排除其他病因來診斷。",
+   "summary": "AIH 的核心是免疫耐受失衡、Treg 抑制功能不足，不是 Treg 活性上升。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84417,12 +84417,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "官方一律給分，但此敘述並非可靠通則；varices 可在 ascites 前已形成，兩者都是 clinically significant portal hypertension 的表現。",
-   "B": "官方一律給分；約半數新診斷肝硬化患者已有胃食道靜脈曲張，是合理的流行病學概述。",
-   "C": "官方一律給分，但此敘述不符合現行原則；nonselective beta blockers 可降低首次出血與再出血風險，不是只有 endoscopic ligation 有效。",
-   "D": "官方一律給分，但 variceal bleeding 本身就是肝硬化失代償事件，即使尚無黃疸、腹水或肝性腦病變。",
-   "summary": "本題官方一律給分；醫學上 variceal bleeding 即失代償，且 NSBB 可預防出血，不能照題面四項全當正確。",
-   "guideline": "FC 醫學(三)第2冊 p.145"
+   "guideline": "FC 醫學(三)第2冊 p.145",
+   "A": "本項給分。官方一律給分，但這句不是可靠通則：靜脈曲張（varices）可在腹水之前就形成，兩者都是有臨床意義門脈高壓（clinically significant portal hypertension）的表現。",
+   "B": "本項給分。約半數新診斷的肝硬化病人已有胃食道靜脈曲張，這個流行病學描述合理。",
+   "C": "本項給分。官方給分，但這句不符現行原則：nonselective beta blockers（NSBB）能降低首次出血和再出血風險，不是只有內視鏡結紮有效。",
+   "D": "本項給分。官方給分，但醫學上靜脈曲張出血本身就是肝硬化失代償事件，就算還沒黃疸、腹水、肝性腦病變。",
+   "summary": "本題官方一律給分；但醫學上靜脈曲張出血＝失代償，且 NSBB 可預防出血，四項不能照題面全當對。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -95634,12 +95634,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Gilbert syndrome 常在手術、禁食或壓力後出現輕度 unconjugated hyperbilirubinemia，與此情境相容。",
-   "B": "正確。Crigler–Najjar type I 因 UGT1A1 幾乎完全缺失，會在新生兒期造成嚴重 unconjugated hyperbilirubinemia，未治療難存活至 30 歲才首次發作。",
-   "C": "腹腔內感染可引起 sepsis-associated cholestasis 或肝功能異常，術後黃疸仍需排除。",
-   "D": "溶血可造成間接型 bilirubin 上升與茶色尿，術後須依 CBC、reticulocyte、LDH、haptoglobin 等評估。",
-   "summary": "30 歲術後才出現 bilirubin 4.1 最不可能是新生兒期即重症的 Crigler–Najjar type I。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。Gilbert syndrome 常在手術、禁食或壓力後出現輕度間接型高膽紅素血症（unconjugated hyperbilirubinemia），和這個術後情境相容。",
+   "B": "正確答案。Crigler–Najjar syndrome type I 幾乎完全沒有 UGT1A1 活性，會在新生兒期就出現嚴重間接型高膽紅素血症，不治療很難活到 30 歲才第一次發作。",
+   "C": "本項不選。腹腔內感染可造成敗血症相關膽汁鬱積（sepsis-associated cholestasis），術後黃疸仍要排除感染。",
+   "D": "本項不選。溶血（hemolysis）會讓間接型 bilirubin 上升、尿變茶色，術後要靠 CBC、reticulocyte、LDH、haptoglobin 評估。",
+   "summary": "30 歲術後才首次出現 bilirubin 4.1，最不可能是新生兒期就重症的 Crigler–Najjar type I。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96068,12 +96068,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Wilson disease 急性肝衰竭時血清 free copper 與尿銅可上升，不是血清及膽汁銅都減少；故①錯。",
-   "B": "Zinc 與 trientine 並非一概禁止懷孕，治療通常不可任意中斷，需由專科調整；故②錯。",
-   "C": "正確。Kayser–Fleischer ring 由 Descemet membrane 銅沉積形成，神經型 Wilson disease 常見；肝豆狀核變性（hepatolenticular degeneration）正是 Wilson disease 的舊稱與病理概念，③④正確。",
-   "D": "②錯而④正確，因此此組合不成立；懷孕期 Wilson disease 仍需維持適當抗銅治療。",
-   "summary": "年輕人 movement disorder 合併肝病指向 Wilson disease：可見 Kayser–Fleischer ring 與 hepatolenticular degeneration。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。①錯：Wilson disease 急性肝衰竭時，血清游離銅（free copper）和尿銅會上升，不是血清和膽汁銅都減少。",
+   "B": "本項不選。②錯：zinc 和 trientine 不是一律禁用於懷孕，治療通常不能任意中斷，要由專科調整。",
+   "C": "正確答案。③對：Kayser–Fleischer ring 是 Descemet membrane 銅沉積，神經型 Wilson disease 常見。④對：肝豆狀核變性（hepatolenticular degeneration）就是 Wilson disease 的舊稱。所以③④正確。",
+   "D": "本項不選。②錯（懷孕期仍要維持適當抗銅治療），所以含②的組合不成立；正解是③④。",
+   "summary": "年輕人動作障礙＋肝功能異常想 Wilson disease：看得到 Kayser–Fleischer ring 和 hepatolenticular degeneration。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96269,15 +96269,15 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Bilirubin 是 Child-Turcotte-Pugh score 的五項之一，反映肝臟排泄功能。",
-   "B": "Prothrombin time prolongation 或 INR 是 CTP 的合成功能項目。",
-   "C": "Hepatic encephalopathy 依臨床嚴重度分級，是 CTP 的主觀項目之一。",
-   "D": "正確。ALT 反映肝細胞受損，並不代表肝儲備，未納入 CTP score。",
-   "summary": "CTP 五項為 bilirubin、albumin、PT/INR、ascites、hepatic encephalopathy；不含 ALT。",
    "guideline": null,
    "concepts": [
     "child-turcotte-pugh-score"
-   ]
+   ],
+   "A": "本項不選。bilirubin 是 Child-Turcotte-Pugh score（CTP）五項之一，反映肝臟排泄功能。",
+   "B": "本項不選。prothrombin time 延長（或 INR）是 CTP 的合成功能項目。",
+   "C": "本項不選。hepatic encephalopathy 依臨床嚴重度分級，是 CTP 的主觀項目之一。",
+   "D": "正確答案。ALT 反映的是肝細胞受損程度，不代表肝儲備功能，所以沒被納入 CTP score。",
+   "summary": "CTP 五項 ＝ bilirubin、albumin、PT／INR、ascites、hepatic encephalopathy；不含 ALT。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96308,12 +96308,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "肥胖是 NAFLD/MASLD 的主要代謝危險因子；官方本題一律給分，不能據此把肥胖視為非危險因子。",
-   "B": "高尿酸血症與代謝異常及脂肪肝相關，但是否列為「主要」危險因子取決於題目定義；官方因此一律給分。",
-   "C": "糖尿病是 NAFLD/MASLD 及進展性纖維化的重要危險因子；官方給分不代表此敘述在醫學上錯誤。",
-   "D": "高血脂症屬 dyslipidemia，與 NAFLD/MASLD 密切相關；官方一律給分可能源於題意或版本爭議。",
-   "summary": "本題官方一律給分；肥胖、糖尿病與 dyslipidemia 都是脂肪肝核心代謝風險，高尿酸亦常相關。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項給分。肥胖是非酒精性脂肪肝（NAFLD／MASLD）的主要代謝危險因子；官方一律給分，不能據此把肥胖當成非危險因子。",
+   "B": "本項給分。高尿酸血症和代謝異常、脂肪肝相關，但算不算「主要」危險因子取決於題目定義，官方因此一律給分。",
+   "C": "本項給分。糖尿病是 NAFLD／MASLD 和進展性纖維化的重要危險因子；官方給分不代表這句在醫學上錯。",
+   "D": "本項給分。高血脂症（dyslipidemia）和 NAFLD／MASLD 密切相關；官方一律給分可能來自題意或版本爭議。",
+   "summary": "本題官方一律給分；肥胖、糖尿病、dyslipidemia 都是脂肪肝的核心代謝風險，高尿酸也常相關。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -106957,12 +106957,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "HBsAg、anti-HBs、anti-HBc 可描述 HBV 感染／免疫狀態，但沒有 anti-HCV，未完整涵蓋急性 hepatocellular injury 常見病毒病因。",
-   "B": "Anti-HBc 單獨不能確認目前 HBV 感染，且 anti-HCV 也需後續 HCV RNA；缺 HBsAg 並非最佳初篩組合。",
-   "C": "HBsAg 加 anti-HBs 仍漏掉 HCV 評估，也不能靠兩項完整判定所有 HBV 階段。",
-   "D": "正確。AST/ALT >1,000 且 ALP 正常呈急性肝細胞性損傷，先以 HBsAg 與 anti-HCV 篩檢常見慢性病毒背景並接續完整病毒學評估；四組中最適合。",
-   "summary": "Marked hepatocellular injury 的病毒篩檢在四組中以 HBsAg 加 anti-HCV 最完整；仍須依病程追加 IgM anti-HBc 等檢查。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。HBsAg、anti-HBs、anti-HBc 可看 HBV 感染和免疫狀態。但這組少了 anti-HCV，沒涵蓋急性肝細胞損傷的另一個常見病毒病因。",
+   "B": "本項不選。單驗 anti-HBc 不能確認現在是否 HBV 感染，anti-HCV 之後也還要驗 HCV RNA；缺 HBsAg 不是最佳初篩。",
+   "C": "本項不選。HBsAg 加 anti-HBs 一樣漏掉 HCV，也不能只靠這兩項判定所有 HBV 階段。",
+   "D": "正確答案。本例 ALT 1860、AST 1256、ALP 95（正常＜100）＝急性肝細胞性損傷。先用 HBsAg 和 anti-HCV 篩最常見的病毒背景。之後再依病程加驗 IgM anti-HBc 等。四組中這組最完整。",
+   "summary": "AST／ALT ＞1,000、ALP 正常的急性肝細胞損傷，病毒初篩以 HBsAg＋anti-HCV 最完整。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -106990,12 +106990,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "不飲酒、肥胖與糖尿病合併影像脂肪肝，符合 NAFLD 的臨床背景；現行命名多改稱 MASLD。",
-   "B": "正確。超音波能偵測較明顯 hepatic steatosis，但不能判定是否有 steatohepatitis；MASH 的確診核心仍是組織學發炎與 ballooning。",
-   "C": "Methotrexate、tamoxifen 與 glucocorticoid 均可能促成脂肪肝或脂肪性肝炎，病史需排除藥物性次發原因。",
-   "D": "NAFLD 的 AST/ALT 可正常或升高，數值高低不能可靠預測 steatohepatitis 或 fibrosis 的組織嚴重度。",
-   "summary": "腹部超音波可看 steatosis，不能分辨單純脂肪肝與 steatohepatitis。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。不喝酒、又有肥胖和糖尿病，加上影像脂肪肝，符合非酒精性脂肪肝病（NAFLD，現多稱 MASLD）；它的定義就是肝內脂肪（主要是 triglyceride）過多。",
+   "B": "正確答案。這句最不恰當。超音波只能看出比較明顯的脂肪浸潤（hepatic steatosis），沒辦法判斷有沒有脂肪性肝炎（steatohepatitis）；MASH 要靠病理看發炎和 ballooning 才能確診。",
+   "C": "本項不選。methotrexate、tamoxifen、glucocorticoid 都可能造成脂肪肝或脂肪性肝炎，病史要排除藥物這個次發原因。",
+   "D": "本項不選。NAFLD 病人的 AST／ALT 可正常也可升高，數值高低不能可靠反映 steatohepatitis 或 fibrosis 的組織學嚴重度。",
+   "summary": "超音波看得到 steatosis，分不出單純脂肪肝和 steatohepatitis。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107024,12 +107024,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "HRS 常見於進展性肝硬化合併 refractory ascites，是嚴重循環功能障礙的結果。",
-   "B": "舊稱 type 1 HRS 為快速進展的腎功能惡化；現行多以 HRS-AKI 概念依 creatinine 變化定義。",
-   "C": "官方給分。HRS 是 splanchnic vasodilation 造成有效循環量下降，繼發腎血管收縮；並非全身血管阻力上升。",
-   "D": "官方給分。HRS 預後差且肝移植是根本治療，但可先用 albumin 加 vasoconstrictor 改善腎功能，不能說只能依賴移植救治。",
-   "summary": "HRS 的循環機轉是 splanchnic vasodilation 加腎血管收縮；移植最根本，但移植前仍有藥物橋接治療。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肝腎症候群（hepatorenal syndrome, HRS）常發生在進展性肝硬化合併難治性腹水（refractory ascites）的病人，是嚴重循環功能障礙的結果。",
+   "B": "本項不選。舊稱 type 1 HRS 是兩星期內快速惡化的腎衰竭；現在多用 HRS-AKI 概念、依 creatinine 變化定義。",
+   "C": "本項給分。這句是錯的：HRS 的機轉是內臟血管擴張（splanchnic vasodilation）讓有效循環量下降，接著腎血管代償性收縮，不是全身血管阻力上升。",
+   "D": "本項給分。HRS 預後差、肝移植是根本治療，但移植前可先用 albumin 加血管收縮劑（vasoconstrictor）改善腎功能，不能說「只能靠移植」。",
+   "summary": "HRS 的循環機轉 ＝ 內臟血管擴張＋腎血管收縮；肝移植最根本，移植前有藥物橋接。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107090,15 +107090,15 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "SAAG=3.1−2.1=1.0 g/dL，未達門脈高壓型；不典型肝硬化腹水。",
-   "B": "SAAG=4.3−2.6=1.7，雖提示門脈高壓，但 ascitic protein 3.0 g/dL 偏高，更應想 cardiac ascites 等 sinusoidal/postsinusoidal 原因。",
-   "C": "SAAG=2.8−2.0=0.8，不支持門脈高壓，因此不符合典型肝硬化腹水。",
-   "D": "正確。SAAG=2.8−1.2=1.6，支持門脈高壓；ascitic protein 2.0 g/dL 偏低，符合肝硬化 sinusoidal capillarization。",
-   "summary": "肝硬化腹水典型為 SAAG ≥1.1 g/dL 且 ascitic protein 較低；只有 D 同時符合。",
    "guideline": null,
    "concepts": [
     "serum-ascites-albumin-gradient"
-   ]
+   ],
+   "A": "本項不選。SAAG ＝ 3.1 − 2.1 ＝ 1.0 g/dL，未達門脈高壓型（≥1.1），不像肝硬化腹水。",
+   "B": "本項不選。SAAG ＝ 4.3 − 2.6 ＝ 1.7，提示門脈高壓，但腹水總蛋白 3.0 g/dL 偏高，更像心因性腹水（cardiac ascites）等肝竇後原因。",
+   "C": "本項不選。SAAG ＝ 2.8 − 2.0 ＝ 0.8，不支持門脈高壓，不符合典型肝硬化腹水。",
+   "D": "正確答案。SAAG ＝ 2.8 − 1.2 ＝ 1.6，支持門脈高壓；腹水總蛋白 2.0 g/dL 偏低，符合肝硬化的肝竇微血管化（sinusoidal capillarization）。",
+   "summary": "肝硬化腹水典型 ＝ SAAG ≥1.1 g/dL 且腹水總蛋白偏低；四組只有 D 同時符合。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107594,12 +107594,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。TSC1/TSC2 mutation 在 HCC 相對少見，因此在四項中盛行率最低。",
-   "B": "TERT promoter mutation 是 HCC 最常見的基因事件之一，常與 telomerase activation 相關。",
-   "C": "CTNNB1 mutation 活化 Wnt/β-catenin pathway，是 HCC 常見分子亞型。",
-   "D": "TP53 mutation 在 HCC 常見，特定暴露與地區的突變型態可能不同。",
-   "summary": "HCC 常見 TERT promoter、CTNNB1、TP53 alterations；TSC1/TSC2 mutation 相對少見。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。TSC1/TSC2 mutation 在 HCC 相對少見，四項裡盛行率最低。",
+   "B": "本項不選。TERT promoter mutation 是 HCC 最常見的基因事件之一，常和 telomerase activation 有關。",
+   "C": "本項不選。CTNNB1 mutation 會活化 Wnt/β-catenin pathway，是 HCC 常見的分子亞型。",
+   "D": "本項不選。TP53 mutation 在 HCC 也很常見，不同暴露和地區的突變型態可能不同。",
+   "summary": "HCC 常見 TERT promoter、CTNNB1、TP53 變異；TSC1/TSC2 mutation 相對少見。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -117665,12 +117665,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項應選。entecavir 在懷孕期間**不建議使用**。人體安全性資料不足，動物試驗在高劑量下也有胚胎毒性疑慮。孕期要治療或阻斷母嬰垂直傳染時，應換成 tenofovir。",
-   "B": "本項不選。telbivudine 的孕期安全性分類較佳，過去有用於阻斷垂直傳染的資料。只是它抗藥性高，現在臨床上已很少使用。",
-   "C": "本項不選。TDF 是孕期首選。它在 HIV 孕婦身上累積的長期安全資料最多，抗藥屏障也高。台灣的做法是高病毒量孕婦在第三孕期開始服用，再加上新生兒疫苗與免疫球蛋白。",
-   "D": "本項不選。TAF 是 tenofovir 的新型前驅藥，對腎臟與骨質的影響較小。孕期使用資料逐漸累積，並未被列為不建議。",
-   "summary": "孕期 B 肝抗病毒藥首選 TDF；entecavir 不建議用。高病毒量孕婦第三孕期開始服藥再加上新生兒免疫預防。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。entecavir 懷孕期不建議使用：人體安全資料不足，動物高劑量試驗有胚胎毒性疑慮。孕期若要治療或阻斷母嬰垂直傳染，改用 tenofovir。",
+   "B": "本項不選。telbivudine 的孕期安全分類較好，過去有用於阻斷垂直傳染的資料。但它抗藥性高，現在臨床上已很少用。",
+   "C": "本項不選。tenofovir（TDF）是孕期首選，在 HIV 孕婦累積的長期安全資料最多、抗藥屏障也高。台灣做法是高病毒量孕婦第三孕期開始服用，再加新生兒疫苗和免疫球蛋白。",
+   "D": "本項不選。tenofovir（TAF）是 tenofovir 的新型前驅藥，對腎和骨的影響較小。孕期使用資料逐漸累積，沒有被列為不建議。",
+   "summary": "孕期 B 肝抗病毒藥首選 tenofovir（TDF）；entecavir 不建議用。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117731,12 +117731,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "HBV 疫苗採普遍新生兒接種策略，不是只替高風險成人施打；成人則依既往免疫與風險補種。",
-   "B": "正確。有效抑制 HBV DNA 可降低肝硬化與 HCC 風險，但不能將風險降為零，仍須依適應症監測。",
-   "C": "HCV 達 SVR 可大幅降低 HCC 風險，但已有肝硬化者仍保有殘餘風險，需要持續 surveillance。",
-   "D": "新生兒普遍接種 HBV 疫苗是預防慢性 HBV 與未來 HCC 的核心公共衛生措施。",
-   "summary": "HBV vaccination 與病毒抑制可預防 HCC；HBV/HCV 治癒或抑制後，肝硬化者風險仍非零。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。HBV 疫苗採全體新生兒普遍接種，不是只給高風險成人；成人再依既往免疫和風險補種。",
+   "B": "正確答案。有效壓制 HBV DNA、讓它持續陰性，可降低肝硬化和 HCC 風險，但降不到零，仍要依適應症監測。",
+   "C": "本項不選。HCV 達到持續病毒學反應（SVR）可大幅降低 HCC 風險，但已經肝硬化的人仍有殘餘風險，要繼續追蹤（surveillance）。",
+   "D": "本項不選。新生兒普遍接種 HBV 疫苗正是預防慢性 HBV 和未來 HCC 的核心公共衛生措施，不能不打。",
+   "summary": "HBV 疫苗和病毒抑制可預防 HCC；但治癒或抑制後，已肝硬化者風險仍不是零。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117764,12 +117764,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "HRS 主要是功能性腎衰竭，早期腎臟結構通常無明顯病理損傷，移植後可逆。",
-   "B": "HRS 的關鍵是 splanchnic vasodilation、有效循環量下降與繼發性腎血管收縮，腎血流減少。",
-   "C": "HRS 應停用可能惡化腎灌流的利尿劑，給 albumin 並合併 terlipressin 等 vasoconstrictor；不是利尿劑加血管擴張劑。",
-   "D": "正確。肝移植能矯正根本的肝衰竭與循環異常，是最有效的根本治療，腎功能常可恢復。",
-   "summary": "HRS 是可逆的功能性腎血管收縮；albumin 加 vasoconstrictor 為橋接，肝移植最根本。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。HRS 主要是功能性腎衰竭，早期腎臟結構通常沒有明顯病理損傷，移植後可逆。",
+   "B": "本項不選。HRS 的關鍵是內臟血管擴張（splanchnic vasodilation）、有效循環量下降、腎血管代償性收縮，腎血流是「減少」不是增加。",
+   "C": "本項不選。HRS 要停掉會惡化腎灌流的利尿劑，改用 albumin 加 terlipressin 等血管收縮劑（vasoconstrictor），不是利尿劑加血管擴張劑。",
+   "D": "正確答案。肝移植矯正根本的肝衰竭和循環異常，是最有效的根本治療，腎功能通常可以恢復。",
+   "summary": "HRS 是可逆的功能性腎血管收縮；albumin＋vasoconstrictor 橋接，肝移植最根本。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117900,12 +117900,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "膽囊結石阻塞 cystic duct 是 acute cholecystitis 最常見原因。",
-   "B": "正確。膽管囊腫（choledochal cyst）是先天性膽道擴張，不是膽囊或膽管結石造成的併發症。",
-   "C": "膽總管末端結石可阻塞 pancreatic duct outflow，引發 acute pancreatitis。",
-   "D": "膽管結石合併膽道阻塞與感染可造成 acute cholangitis。",
-   "summary": "結石可造成 cholecystitis、pancreatitis、cholangitis；choledochal cyst 是先天異常。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。膽囊結石卡住膽囊管（cystic duct）是急性膽囊炎（acute cholecystitis）最常見的原因。",
+   "B": "正確答案。膽管囊腫（choledochal cyst）是先天性膽道擴張，不是膽囊或膽管結石造成的併發症。",
+   "C": "本項不選。膽總管末端結石阻塞胰管（pancreatic duct）出口，會引發急性胰臟炎（acute pancreatitis）。",
+   "D": "本項不選。膽管結石造成膽道阻塞加感染，會造成急性膽管炎（acute cholangitis）。",
+   "summary": "結石可造成膽囊炎、胰臟炎、膽管炎；choledochal cyst 是先天異常，不是結石併發症。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119671,12 +119671,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。肝靜脈將肝血引流至下腔靜脈，屬 systemic venous outflow，不屬 portal venous system。",
-   "B": "上腸繫膜靜脈匯集小腸與部分大腸血液，與 splenic vein 合成 portal vein。",
-   "C": "下腸繫膜靜脈通常匯入 splenic vein，因而屬 portal tributary。",
-   "D": "脾靜脈是 portal vein 的主要來源之一，與 superior mesenteric vein 匯合。",
-   "summary": "Portal system 的主要支流包括 SMV、IMV、splenic vein；hepatic vein 是流出肝臟的體循環靜脈。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。肝靜脈（hepatic vein）把肝血引流進下腔靜脈，屬於體循環的靜脈流出（systemic venous outflow），不屬肝門脈系統。",
+   "B": "本項不選。上腸繫膜靜脈（superior mesenteric vein, SMV）匯集小腸和部分大腸的血，和脾靜脈合成 portal vein。",
+   "C": "本項不選。下腸繫膜靜脈（inferior mesenteric vein, IMV）通常匯入脾靜脈，所以是 portal 系統的支流。",
+   "D": "本項不選。脾靜脈（splenic vein）是 portal vein 的主要來源之一，和 SMV 匯合。",
+   "summary": "portal 系統主要支流 ＝ SMV、IMV、splenic vein；hepatic vein 是流出肝臟的體循環靜脈。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -128062,12 +128062,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Spider nevus 是慢性肝病常見周邊血管擴張徵象。",
-   "B": "Parotid gland enlargement 可見於慢性重度飲酒者，可能與脂肪浸潤或唾液腺改變相關。",
-   "C": "Dupuytren contracture 與長期飲酒及酒精性肝病相關，可見掌腱膜纖維化攣縮。",
-   "D": "正確。Corrigan pulse 是主動脈瓣逆流造成的水錘脈，不是酒精性肝硬化黃疸的典型徵象。",
-   "summary": "酒精性肝病可見 spider nevi、parotid enlargement、Dupuytren contracture；Corrigan pulse 指向 aortic regurgitation。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。蜘蛛痣（spider nevus）是慢性肝病常見的周邊血管擴張徵象。",
+   "B": "本項不選。腮腺腫大（parotid gland enlargement）可見於長期重度飲酒者，和脂肪浸潤或唾液腺改變有關。",
+   "C": "本項不選。Dupuytren 攣縮和長期飲酒、酒精性肝病相關，是掌腱膜纖維化攣縮。",
+   "D": "正確答案。Corrigan pulse（水錘脈）是主動脈瓣逆流（aortic regurgitation）造成的，不是酒精性肝硬化黃疸的典型徵象。",
+   "summary": "酒精性肝病可見蜘蛛痣、腮腺腫大、Dupuytren 攣縮；Corrigan pulse 指向 aortic regurgitation。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128466,12 +128466,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Kupffer cells 是肝內 macrophages，可釋放 cytokines 促進發炎與 stellate cell activation，但不是產生主要纖維疤痕的效應細胞。",
-   "B": "正確。肝星狀細胞活化後轉為 myofibroblast-like cells，產生 collagen 與 extracellular matrix，造成纖維化、肝竇阻力上升及肝結構重塑。",
-   "C": "肝細胞受損與死亡是纖維化刺激來源，但肝細胞本身不是主要 collagen-producing activated cell。",
-   "D": "肝竇內皮細胞 capillarization 會改變微循環，但主要形成纖維隔與收縮阻力的是 activated hepatic stellate cells。",
-   "summary": "肝硬化的核心效應細胞是 activated hepatic stellate cell：製造 ECM 並增加 intrahepatic resistance。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。Kupffer 細胞是肝內的巨噬細胞（macrophages），會釋放細胞激素促進發炎和星狀細胞活化，但不是產生纖維疤痕的主要效應細胞。",
+   "B": "正確答案。肝星狀細胞（hepatic stellate cells）活化後變成類肌纖維母細胞（myofibroblast-like cells），製造 collagen 和細胞外基質（extracellular matrix, ECM），造成纖維化、肝竇阻力上升和肝結構重塑。",
+   "C": "本項不選。肝細胞受損死亡是纖維化的刺激來源，但肝細胞本身不是主要產生 collagen 的活化細胞。",
+   "D": "本項不選。肝竇內皮細胞微血管化（capillarization）會改變微循環，但形成纖維隔和收縮阻力的主角是活化的肝星狀細胞。",
+   "summary": "肝硬化的核心效應細胞是活化的肝星狀細胞：製造 ECM、增加肝內阻力（intrahepatic resistance）。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128499,12 +128499,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "長期嚴格限蛋白會加重營養不良與肌少症，反而降低 ammonia 代謝能力；不是首選治療。",
-   "B": "正確。Lactulose 酸化結腸、將 NH3 轉成較不易吸收的 NH4+，並以瀉劑效應增加氮排出，是 overt hepatic encephalopathy 主力。",
-   "C": "Neomycin 與 metronidazole 可降低腸道產氨菌，但全身吸收造成 nephrotoxicity、ototoxicity 或 neurotoxicity，不能說可避免副作用。",
-   "D": "Rifaximin 的特色是腸道吸收很低，常與 lactulose 合用預防復發；「全身吸收率高」恰好相反。",
-   "summary": "Hepatic encephalopathy 先找誘因並用 lactulose；rifaximin 低吸收，常用於復發預防或合併治療。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。長期嚴格限蛋白會加重營養不良和肌少症，反而降低 ammonia 代謝能力，不是首選治療。",
+   "B": "正確答案。Lactulose 把結腸酸化，讓 NH3 變成較不易吸收的 NH4+，再靠瀉劑效應增加含氮廢物排出，是明顯肝性腦病變（overt hepatic encephalopathy）的治療主力。",
+   "C": "本項不選。neomycin 和 metronidazole 可減少腸道產氨菌，但會被全身吸收，造成腎毒性（nephrotoxicity）、耳毒性（ototoxicity）或神經毒性，不能說「避免副作用」。",
+   "D": "本項不選。rifaximin 的特色是腸道幾乎不吸收，常和 lactulose 合用來預防復發；「全身吸收率高」剛好講反。",
+   "summary": "肝性腦病變先找誘因、用 lactulose；rifaximin 低吸收，多用於預防復發或合併治療。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -129812,12 +129812,12 @@
   "specialty": "肝膽內科",
   "fc_ref": null,
   "explanation": {
-   "A": "約 40% 的比例會依研究族群與診斷方法而變，不能作為所有成人 MASLD 的固定 MASH 盛行率。",
-   "B": "正確。一般腹部影像只能辨識 steatosis，不能確認 ballooning 與 lobular inflammation；目前也沒有單一特異抽血可確診 MASH。",
-   "C": "並非所有 MASLD 都需要藥物；基礎治療是體重、飲食、運動與代謝共病管理，藥物依 fibrosis risk 與適應症選擇。",
-   "D": "Vitamin E 800 IU/day 在選定非糖尿病 MASH 患者可能改善組織活動，但不是完全無不良反應，且不應普遍使用。",
-   "summary": "MASH 目前不能靠一般影像或單一抽血確診；治療依風險分層，不是所有 MASLD 一律用藥。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。「約 40% MASLD 成人有 MASH」的比例會隨研究族群和診斷方法變動，不能當成固定盛行率。",
+   "B": "正確答案。一般腹部影像只能看出脂肪浸潤（steatosis），不能確認有沒有 ballooning 和小葉發炎（lobular inflammation）；目前也沒有單一特異抽血能確診 MASH。",
+   "C": "本項不選。不是所有 MASLD 都要吃藥；基礎治療是體重、飲食、運動和代謝共病管理，藥物依 fibrosis 風險和適應症選擇。",
+   "D": "本項不選。Vitamin E 800 IU/day 在選定的非糖尿病 MASH 病人可能改善組織活動，但不是完全沒有不良反應，也不該普遍使用。",
+   "summary": "MASH 目前無法靠一般影像或單一抽血確診；治療依風險分層，不是所有 MASLD 一律用藥。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
