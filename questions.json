@@ -10100,15 +10100,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。突然出現僅 1 週的急迫性尿失禁（urgency urinary incontinence）應先做尿液檢查與培養，排除尿路感染造成的短暫性頻尿、急尿與漏尿；感染處理後再評估症狀是否持續。",
-   "B": "尿道壓力測量（urethral pressure profile）評估尿道閉合功能，但不是新發急迫性尿失禁的初步檢查；它也不能先排除可逆的尿路感染。",
-   "C": "靜脈腎盂造影（intravenous pyelography）用顯影劑描繪上泌尿道，適用於特定結構性病變，不是單純急迫性尿失禁的第一線評估。",
-   "D": "膀胱尿道鏡檢查（cystourethroscopy）屬侵入性檢查，通常保留給血尿、反覆感染、疑似異物或尿路病灶等情境；本題尚無這些警訊。",
-   "summary": "新發急迫性尿失禁先排除尿路感染等暫時可逆原因，而非直接進行侵入性或專門尿動力學檢查。",
    "guideline": "FC 醫學(六)第1下冊 p.341",
    "concepts": [
     "urinary-incontinence-types"
-   ]
+   ],
+   "A": "正確答案。突然出現、只有 1 週的急迫性尿失禁（urgency urinary incontinence），要先做尿液檢查和培養。這是為了排除尿路感染——感染引起的頻尿、急尿、漏尿治好後可能就消失。",
+   "B": "本項不選。尿道壓力測量（urethral pressure profile）評估的是尿道閉合功能。它不是新發急迫性尿失禁的第一步，也沒辦法先排除可逆的尿路感染。",
+   "C": "本項不選。靜脈腎盂造影（intravenous pyelography, IVP）用顯影劑看上泌尿道結構。只有懷疑結構性病變時才做，不是單純急迫性尿失禁的初步檢查。",
+   "D": "本項不選。膀胱尿道鏡（cystourethroscopy）是侵入性檢查，留給血尿、反覆感染、疑似異物或尿路病灶的情況。這位病人還沒有這些警訊。",
+   "summary": "新發的急迫性尿失禁先驗尿排除感染這種可逆原因，別一開始就做侵入性或尿動力學檢查。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10563,12 +10563,12 @@
   "specialty": "婦女泌尿",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。陰部神經終末運動潛時（pudendal nerve terminal motor latency）以 St. Mark 電極刺激坐骨棘附近的陰部神經，並記錄外肛門括約肌（external anal sphincter）的複合肌肉動作電位。",
-   "B": "尿道括約肌（urethral sphincter）也接受陰部神經的軀體運動支配，但 St. Mark 指套電極的標準檢測記錄位置是外肛門括約肌，不是尿道括約肌。",
-   "C": "逼尿肌（detrusor muscle）主要由骨盆神經的副交感神經控制，並非陰部神經終末運動潛時所記錄的橫紋肌反應。",
-   "D": "提肛肌（levator ani muscle）參與骨盆底支持，但 St. Mark 電極貼近肛管所取得的是外肛門括約肌反應，並非以提肛肌作標準記錄端。",
-   "summary": "St. Mark 電極檢測陰部神經終末運動潛時：坐骨棘附近刺激陰部神經，於外肛門括約肌記錄反應。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。陰部神經終末運動潛時（pudendal nerve terminal motor latency）用 St. Mark 電極刺激。刺激點在坐骨棘（ischial spine）附近的陰部神經。記錄端是外肛門括約肌（external anal sphincter），測它的複合肌肉動作電位。",
+   "B": "本項不選。尿道括約肌（urethral sphincter）也受陰部神經的軀體運動支配，但 St. Mark 指套電極的標準記錄位置是外肛門括約肌，不是尿道括約肌。",
+   "C": "本項不選。逼尿肌（detrusor muscle）是平滑肌，由骨盆神經的副交感支配，不是這項檢查記錄的橫紋肌反應。",
+   "D": "本項不選。提肛肌（levator ani muscle）負責骨盆底支持，但貼近肛管的 St. Mark 電極取得的是外肛門括約肌反應，不是以提肛肌當記錄端。",
+   "summary": "St. Mark 電極測陰部神經終末運動潛時：坐骨棘附近刺激、外肛門括約肌記錄。"
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -23101,12 +23101,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "陰道生產後可能因疼痛、會陰水腫、膀胱過度擴張或神經受損而發生產後尿滯留，但本題所問一般女性急性尿滯留最常見原因並非單指自然產後。",
-   "B": "正確。骨盆腔手術或尿失禁手術後可因麻醉、疼痛、組織水腫、神經影響或出口阻力增加而發生急性尿滯留，是女性常見的醫源性情境。",
-   "C": "尿路感染可造成頻尿、急尿與排尿疼痛；除非嚴重疼痛或腫脹影響排尿，通常不會成為女性急性完全尿滯留的最常見原因。",
-   "D": "逼尿肌收縮不良（detrusor underactivity）可造成排尿遲疑、高餘尿量與慢性尿滯留，但急性發作最常先想到術後等誘發因素。",
-   "summary": "女性急性尿滯留常見於骨盆腔或抗尿失禁手術後，機轉可同時涉及麻醉、疼痛、水腫與出口阻力。",
-   "guideline": "FC 醫學(六)第1下冊 p.341"
+   "guideline": "FC 醫學(六)第1下冊 p.341",
+   "A": "本項不選。陰道生產後可能因疼痛、會陰水腫、膀胱過度撐大或神經受損而尿滯留，但一般女性的急性尿滯留最常見原因不是單指自然產後。",
+   "B": "正確答案。骨盆腔手術或抗尿失禁手術之後，麻醉、疼痛、組織水腫、神經影響或出口阻力增加都可能造成急性尿滯留，是女性最常見的醫源性情境。",
+   "C": "本項不選。尿路感染造成的是頻尿、急尿、排尿痛。除非疼痛或腫脹嚴重到解不出來，通常不會是女性急性完全尿滯留的最常見原因。",
+   "D": "本項不選。逼尿肌收縮不良（detrusor underactivity）造成的是排尿遲疑、餘尿量高、慢性尿滯留；急性發作要先想到術後這類誘發因素。",
+   "summary": "女性急性尿滯留最常見於骨盆腔或抗尿失禁手術後，麻醉、疼痛、水腫、出口阻力一起作用。"
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -35070,12 +35070,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "膀胱頸是傳統近端尿道懸吊術著重的區域；現代無張力中段尿道吊帶（midurethral sling）不是把 polypropylene tape 放在尿道膀胱頸。",
-   "B": "尿道近端並非 TOT 或 TVT 的標準承托位置；吊帶若偏離中段尿道，會失去以動態支撐恢復壓力傳導的設計重點。",
-   "C": "正確。經閉孔吊帶手術（transobturator tape, TOT）與無張力陰道吊帶手術（tension-free vaginal tape, TVT）皆屬中段尿道吊帶，將 tape 無張力置於尿道中段下方。",
-   "D": "尿道遠端靠近外尿道口，不是中段尿道吊帶的置放處；過度遠端也無法提供設計上所需的中尿道支撐。",
-   "summary": "TOT 與 TVT 都是 midurethral sling：吊帶無張力置於尿道中段下方，而非膀胱頸或遠端尿道。",
-   "guideline": "FC 醫學(六)第1下冊 p.340"
+   "guideline": "FC 醫學(六)第1下冊 p.340",
+   "A": "本項不選。膀胱頸是傳統近端尿道懸吊術著重的位置。現代的無張力中段尿道吊帶（midurethral sling）不把 polypropylene tape 放在膀胱頸。",
+   "B": "本項不選。尿道近端不是 TOT 或 TVT 的標準承托點。吊帶偏離中段尿道就失去「腹壓上升時動態支撐、恢復壓力傳導」的設計重點。",
+   "C": "正確答案。經閉孔吊帶手術（transobturator tape, TOT）和無張力陰道吊帶手術（tension-free vaginal tape, TVT）都是中段尿道吊帶，把 tape 無張力放在尿道中段下方。",
+   "D": "本項不選。尿道遠端靠近外尿道口，不是中段尿道吊帶的位置；放太遠端也提供不了設計上需要的中尿道支撐。",
+   "summary": "TOT 和 TVT 都是 midurethral sling：吊帶無張力放在尿道中段下方，不是膀胱頸也不是遠端。"
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -46890,12 +46890,12 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "恥骨後陰道懸吊手術（Burch colposuspension）以縫線懸吊膀胱頸旁陰道組織至 Cooper ligament，藉此改善尿道膀胱頸支持。",
-   "B": "錯誤。無張力陰道吊帶手術（tension-free vaginal tape, TVT）是將 mesh tape 放在尿道中段下方，不是膀胱頸；其目標是在腹壓增加時形成中段尿道支點。",
-   "C": "經閉孔吊帶手術（transobturator tape, TOT）的路徑避開恥骨後空間，因此相較 retropubic TVT，腸道與大血管損傷風險較低。",
-   "D": "無張力陰道吊帶手術（TVT）的 trocar 通過恥骨後空間，較 TOT 更靠近膀胱，故膀胱穿孔較常見，術中通常需膀胱鏡確認。",
-   "summary": "中段尿道吊帶的核心位置是 midurethra；TVT 的恥骨後路徑增加膀胱穿孔風險，TOT 則較常避開骨盆內臟器。",
-   "guideline": "FC 醫學(六)第1下冊 p.340"
+   "guideline": "FC 醫學(六)第1下冊 p.340",
+   "A": "本項不選。恥骨後陰道懸吊手術（Burch colposuspension）用縫線把膀胱頸旁的陰道組織懸吊到 Cooper ligament，藉此改善尿道膀胱頸的支持，敘述正確。",
+   "B": "本項應選。這是錯的敘述。TVT 是把 mesh tape 放在尿道中段下方，不是膀胱頸。它要的是腹壓上升時在中段尿道形成支點。",
+   "C": "本項不選。TOT 的路徑避開恥骨後空間，所以比走恥骨後的 TVT，腸道和大血管損傷風險較低，敘述正確。",
+   "D": "本項不選。TVT 的 trocar 穿過恥骨後空間、比較靠近膀胱，所以膀胱穿孔比 TOT 常見，術中通常要用膀胱鏡確認，敘述正確。",
+   "summary": "中段尿道吊帶放的是 midurethra；TVT 走恥骨後所以膀胱穿孔多，TOT 避開骨盆內臟器。"
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -58867,15 +58867,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "尿道與膀胱頸平滑肌張力主要受交感神經 α-adrenergic receptor 影響；muscarinic receptor 的臨床重點是副交感神經促進逼尿肌收縮。",
-   "B": "WHI 資料顯示全身性口服 estrogen 單用或合併 progestin 可能使尿失禁新發或惡化，不能作為改善尿失禁的治療；局部陰道 estrogen 則可用於泌尿生殖道萎縮相關症狀。",
-   "C": "DDAVP 即 desmopressin，是 vasopressin 類似物；其重要危險是水滯留造成低血鈉（hyponatremia）、抽搐甚至死亡，不是高血鈉。",
-   "D": "正確。Antimuscarinic 藥物拮抗逼尿肌的 muscarinic receptor，減少非預期膀胱收縮，可治療膀胱過動症（overactive bladder）及急迫性尿失禁。",
-   "summary": "急迫性尿失禁可用 antimuscarinic 抑制逼尿肌；desmopressin 要防低血鈉，全身性荷爾蒙治療反而可能惡化漏尿。",
    "guideline": "FC 醫學(六)第1下冊 p.339",
    "concepts": [
     "urinary-incontinence-types"
-   ]
+   ],
+   "A": "本項不選。尿道和膀胱頸的平滑肌張力主要受交感神經的 α-adrenergic receptor 影響。muscarinic receptor 的臨床重點是副交感促進逼尿肌收縮。",
+   "B": "本項不選。WHI 資料顯示全身性口服 estrogen 單用或加 progestin，反而可能讓尿失禁新發或惡化，不能拿來治療尿失禁。局部陰道 estrogen 才用於泌尿生殖道萎縮的症狀。",
+   "C": "本項不選。DDAVP 就是 desmopressin，是 vasopressin 類似物，用在夜間遺尿（nocturnal enuresis）。它的重大危險是水滯留造成低血鈉（hyponatremia）、抽搐甚至死亡，是低血鈉不是高血鈉（hypernatremia）。",
+   "D": "正確答案。抗毒蕈鹼（antimuscarinic）藥物拮抗逼尿肌上的 muscarinic receptor，減少不該有的膀胱收縮，用來治療膀胱過動症（overactive bladder）和急迫性尿失禁。",
+   "summary": "急迫性尿失禁用 antimuscarinic 壓逼尿肌；desmopressin 要防低血鈉，全身性荷爾蒙反而讓漏尿變糟。"
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -69812,12 +69812,12 @@
    "book": "FC醫(六)(1上)(產科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(上)冊_產科.pdf"
   },
   "explanation": {
-   "A": "蛻膜巨噬細胞（decidual macrophage）是重要的母胎介面免疫細胞，參與免疫耐受、吞噬與組織重塑，但數量不及子宮自然殺手細胞。",
-   "B": "嗜中性顆粒白血球（neutrophil）主要負責急性發炎與抗菌反應，不是正常早期蛻膜中占比最多、負責協調滋養層侵襲的免疫族群。",
-   "C": "樹突狀細胞（dendritic cell）負責抗原呈現並調節 T-cell response，在蛻膜內數量相對少，不是題目所述的優勢細胞。",
-   "D": "正確。子宮自然殺手細胞（uterine natural killer cell）是早期妊娠蛻膜最豐富的免疫細胞，分泌 cytokines 與 angiogenic factors，調控滋養層侵襲及螺旋動脈重塑，而非主要執行細胞毒殺。",
-   "summary": "早期妊娠蛻膜以 uterine NK cells 最多；其角色偏向血管與胎盤發育調控，而不是典型周邊 NK cell 的細胞毒殺。",
-   "guideline": "FC 醫學(六)第1上冊 p.209"
+   "guideline": "FC 醫學(六)第1上冊 p.209",
+   "A": "本項不選。蛻膜巨噬細胞（decidual macrophage）是母胎介面的重要免疫細胞，管免疫耐受、吞噬和組織重塑，但數量不及子宮自然殺手細胞。",
+   "B": "本項不選。嗜中性顆粒白血球（neutrophil）負責的是急性發炎和抗菌，不是正常早期蛻膜裡占比最多、協調滋養層侵襲的族群。",
+   "C": "本項不選。樹突狀細胞（dendritic cell）負責抗原呈現和調節 T 細胞反應，在蛻膜裡數量相對少，不是題目說的優勢細胞。",
+   "D": "正確答案。子宮自然殺手細胞（uterine natural killer cell）是早期妊娠蛻膜最多的免疫細胞。它分泌 cytokines 和血管生成因子（angiogenic factors），調控滋養層侵襲和螺旋動脈重塑，而不是拿來做細胞毒殺。",
+   "summary": "早期妊娠蛻膜以 uterine NK cell 最多；角色偏向調控血管和胎盤發育，不是周邊 NK cell 那種毒殺。"
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -70825,15 +70825,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "正確。骨盆器官脫垂量化系統（POP-Q）記錄 Aa、Ba、C、D 六個陰道測量點，以及生殖裂孔（genital hiatus, gh）、會陰體（perineal body, pb）與陰道總長（total vaginal length, tvl）。",
-   "B": "POP-Q 以處女膜平面為 0；位於處女膜近端、仍在陰道內者記負值，突出處女膜外的遠端位置記正值，因此本項正負號相反。",
-   "C": "子宮頸或陰道頂端脫垂主要由 C 點描述；Aa 是前陰道壁固定點，位於外尿道口近端 3 cm，不能決定子宮頸下垂程度。",
-   "D": "膀胱膨出（cystocele）屬前陰道壁脫垂，主要看前壁最遠端的 Ba 點；C 點代表子宮頸或陰道穹窿，不用來決定膀胱下垂。",
-   "summary": "POP-Q 以 hymen 為零點，外正內負；前壁看 Aa/Ba，頂端看 C/D，並記錄 gh、pb、tvl。",
    "guideline": "FC 醫學(六)第1下冊 p.349",
    "concepts": [
     "pop-q-system"
-   ]
+   ],
+   "A": "正確答案。骨盆器官脫垂量化系統（POP-Q）記錄 Aa、Ba、Ap、Bp、C、D 六個陰道測量點，加上生殖裂孔（genital hiatus, gh）、會陰體（perineal body, pb）和陰道總長（total vaginal length, tvl）。",
+   "B": "本項不選。POP-Q 以處女膜（hymen）平面當 0。還在陰道內、位於處女膜近端的點記負值，突出到處女膜外的記正值，所以這項正負號剛好相反。",
+   "C": "本項不選。子宮頸或陰道頂端脫垂主要看 C 點。Aa 是前陰道壁的固定點，在外尿道口近端 3 cm，不能拿來定子宮頸下垂程度。",
+   "D": "本項不選。膀胱膨出（cystocele）是前陰道壁脫垂，看的是前壁最遠端的 Ba 點。C 點代表子宮頸或陰道穹窿，不用來定膀胱下垂。",
+   "summary": "POP-Q 以 hymen 為零點、外正內負；前壁看 Aa／Ba，頂端看 C／D，另記 gh、pb、tvl。"
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -82761,15 +82761,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "流行病學研究中白人女性的應力性尿失禁（stress urinary incontinence）盛行率通常高於部分其他族群；族群差異可能混合解剖、結締組織與生活型態等因素。",
-   "B": "胎次（parity）與骨盆底損傷對應力性尿失禁的關聯最明顯；急迫性尿失禁（urgency urinary incontinence）較受年齡與膀胱功能影響，parity 的影響相對較小。",
-   "C": "應力性尿失禁盛行率在中年、約 50 歲附近可達高峰；更高齡女性的漏尿型態常轉為急迫性或混合性尿失禁占比上升。",
-   "D": "錯誤。年齡增加會提高整體尿失禁風險，但應力性尿失禁不是一路隨年齡遽增；它常在中年達高峰，老年期增加較突出的是急迫性與混合性尿失禁。",
-   "summary": "不要把整體尿失禁與 stress subtype 混為一談：SUI 常在中年達峰，老年增加更多反映 urgency/mixed incontinence。",
    "guideline": "FC 醫學(六)第1下冊 p.339",
    "concepts": [
     "urinary-incontinence-types"
-   ]
+   ],
+   "A": "本項不選。流行病學上白人女性的應力性尿失禁（stress urinary incontinence, SUI）盛行率通常高於部分其他族群，可能混合解剖、結締組織和生活型態因素，敘述正確。",
+   "B": "本項不選。胎次（parity）和骨盆底損傷跟應力性尿失禁的關聯最明顯。急迫性尿失禁（urgency urinary incontinence）比較受年齡和膀胱功能影響，parity 的影響相對小，敘述正確。",
+   "C": "本項不選。應力性尿失禁的盛行率在中年、約 50 歲附近達高峰；更高齡女性漏尿型態轉為急迫性或混合性比例上升，敘述正確。",
+   "D": "本項應選。這是錯的敘述。年齡增加會提高整體尿失禁風險，但應力性尿失禁不是一路隨年齡遽增。它常在中年達高峰，老年期增加比較明顯的是急迫性和混合性尿失禁。",
+   "summary": "別把「整體尿失禁」和「SUI 這個亞型」混在一起：SUI 中年達峰，老年增加的多半是 urgency／mixed。"
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -94684,15 +94684,15 @@
    "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
   },
   "explanation": {
-   "A": "年齡、肥胖與慢性咳嗽會增加骨盆底負荷或影響膀胱功能，骨盆腔手術也可能改變支持或神經，因此都是尿失禁的重要風險背景。",
-   "B": "病史可先分辨 stress、urgency、mixed 或 overflow 特徵；理學檢查、咳嗽壓力測試與解尿後餘尿量則分別評估可誘發漏尿及排空異常，適合初步診斷。",
-   "C": "最不適當。小便日記、尿液檢查與棉墊測試相對簡便，但尿路動力學檢查（urodynamic study）需要導管、壓力感測與專業判讀，不能把整組都稱為簡單診斷工具。",
-   "D": "Q-tip test 以棉棒角度估計尿道活動度，但結果不會單獨決定診斷或治療，現行常規初評已不建議使用。",
-   "summary": "尿失禁初評靠病史、理學檢查、尿液檢查及 PVR；urodynamic study 是選擇性進階檢查，不屬簡單篩檢。",
    "guideline": "FC 醫學(六)第1下冊 p.338",
    "concepts": [
     "urinary-incontinence-types"
-   ]
+   ],
+   "A": "本項不選。年齡、肥胖、慢性咳嗽會加重骨盆底負荷或影響膀胱功能，骨盆腔手術也可能改變支持或神經，這些都是尿失禁的風險背景，敘述適當。",
+   "B": "本項不選。病史能先分出 stress、urgency、mixed、overflow 的特徵；理學檢查、咳嗽壓力測試、解尿後餘尿量分別看誘發漏尿和排空異常，適合初步診斷，敘述適當。",
+   "C": "本項應選。這是最不適當的敘述。小便日記、尿液檢查、棉墊測試確實簡便，但尿路動力學檢查（urodynamic study）要導管、壓力感測和專業判讀，不能把整組都叫「簡單」診斷工具。",
+   "D": "本項不選。Q-tip test 用棉棒角度估尿道活動度，但結果不會單獨決定診斷或治療，現行常規初評已不建議使用，敘述適當。",
+   "summary": "尿失禁初評靠病史、理學檢查、驗尿和解尿後餘尿量（PVR）；urodynamic study 是選擇性的進階檢查，不算簡單篩檢。"
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -105577,15 +105577,15 @@
   "specialty": "婦女泌尿",
   "fc_ref": null,
   "explanation": {
-   "A": "膀胱頸與近端尿道的支持確實參與應力性尿失禁（stress urinary incontinence）的控尿機制；腹壓上升時需要骨盆底支撐，使尿道閉合壓能抵抗膀胱壓。",
-   "B": "恥骨尿道韌帶（pubourethral ligament）固定並維持尿道支撐張力，是整合性理論中維持中段尿道閉合的重要結構；鬆弛可促成漏尿。",
-   "C": "DeLancey 的搖籃理論（Hammock Theory）認為前陰道壁與其筋膜形成尿道下方的支撐層，腹壓增加時尿道受壓於此支撐層而閉合。",
-   "D": "錯誤。排尿中樞與膀胱間神經傳導異常較會造成逼尿肌過度活動、急迫性尿失禁或神經性膀胱；應力性尿失禁主要是尿道支持或括約肌閉合功能不足。",
-   "summary": "SUI 是出口閉合失效：Hammock support、pubourethral ligament 與尿道括約功能是核心，不是中樞—膀胱傳導異常。",
    "guideline": null,
    "concepts": [
     "urinary-incontinence-types"
-   ]
+   ],
+   "A": "本項不選。膀胱頸和近端尿道的支持確實參與應力性尿失禁（stress urinary incontinence）的控尿。腹壓上升時要有骨盆底支撐，尿道閉合壓才擋得住膀胱壓，敘述正確。",
+   "B": "本項不選。恥骨尿道韌帶（pubourethral ligament）固定並維持尿道的支撐張力，是整合性理論裡維持中段尿道閉合的重要結構，鬆掉會促成漏尿，敘述正確。",
+   "C": "本項不選。DeLancey 的搖籃理論（Hammock Theory）認為前陰道壁和它的筋膜在尿道下方形成支撐層，腹壓增加時尿道被壓在這層上而閉合，敘述正確。",
+   "D": "本項應選。這是錯的敘述。排尿中樞和膀胱之間的神經傳導異常，造成的是逼尿肌過度活動、急迫性尿失禁或神經性膀胱。應力性尿失禁的問題在尿道支持或括約肌閉合不足。",
+   "summary": "SUI 是「出口關不緊」：Hammock 支撐、pubourethral ligament 和尿道括約功能是核心，不是中樞—膀胱傳導異常。"
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -116376,12 +116376,12 @@
   "specialty": "婦女泌尿",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。每次陰道生產都可能使提肛肌、骨盆筋膜與陰部神經承受伸展或損傷，因此陰道產次增加與骨盆器官脫垂（pelvic organ prolapse）風險呈劑量關係。",
-   "B": "胎數（gravidity）只表示懷孕次數，不等同實際經陰道分娩造成的骨盆底創傷；尿失禁風險不能僅依胎數就宣稱遽增，產次與生產方式更具解釋力。",
-   "C": "骨盆器官脫垂症狀通常在久站、活動或一天將結束時較明顯，平躺休息後減輕；因此不是早晨起床時最嚴重。",
-   "D": "年齡增加與整體尿失禁有關，但應力性尿失禁（stress urinary incontinence）常在中年達高峰，之後急迫性及混合性型態比例上升，不能說機率隨年齡遽增。",
-   "summary": "骨盆底傷害與實際陰道產次密切相關；POP 多在日末加重，而 SUI 並非隨年齡線性遽增。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。每次陰道生產都可能拉扯或傷到提肛肌、骨盆筋膜和陰部神經，所以陰道產次越多，骨盆器官脫垂（pelvic organ prolapse）風險越高，是劑量關係。",
+   "B": "本項不選。胎數（gravidity）只是懷孕次數，不等於實際經陰道分娩造成的骨盆底創傷。尿失禁風險不能只看胎數就說遽增，產次和生產方式更能解釋。",
+   "C": "本項不選。骨盆器官脫垂通常在久站、活動或一天快結束時比較明顯，平躺休息後減輕，所以不是早晨起床時最嚴重。",
+   "D": "本項不選。整體尿失禁確實隨年齡上升，但「遽增」用在應力性尿失禁（stress urinary incontinence）不對——它的盛行率高峰在中年，年長後接手的是急迫性與混合性型態。",
+   "summary": "骨盆底傷害跟「實際陰道產次」最相關；骨盆器官脫垂（POP）多在一天結束時加重，SUI 也不是隨年齡線性遽增。"
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -137897,15 +137897,15 @@
   "specialty": "婦女泌尿",
   "fc_ref": null,
   "explanation": {
-   "A": "口乾（dry mouth）是 antimuscarinic 藥物抑制唾液腺 muscarinic receptor 的典型副作用；mirabegron 不靠抗膽鹼作用，口乾通常較少。",
-   "B": "便秘（constipation）常見於降低腸道副交感活性的 antimuscarinic 藥物；mirabegron 的代表性安全疑慮不是便秘。",
-   "C": "正確。mirabegron 活化膀胱逼尿肌的 β3 receptor，使儲尿期逼尿肌放鬆，但可能升高血壓；嚴重且未控制的高血壓患者應避免使用並監測血壓。",
-   "D": "失智（dementia）疑慮主要與老年人長期較高抗膽鹼負荷相關；mirabegron 是 β3 agonist，常在希望避免認知副作用時考慮，但仍須注意血壓。",
-   "summary": "mirabegron 避開 anticholinergic 的口乾、便秘與認知負荷，代價是要留意 hypertension。",
    "guideline": null,
    "concepts": [
     "urinary-incontinence-types"
-   ]
+   ],
+   "A": "本項不選。口乾（dry mouth）是抗毒蕈鹼（antimuscarinic）藥物抑制唾液腺 muscarinic receptor 的典型副作用。mirabegron 不靠抗膽鹼作用，口乾通常比較少。",
+   "B": "本項不選。便秘（constipation）常見於降低腸道副交感活性的 antimuscarinic 藥物。mirabegron 的代表性安全疑慮不是便秘。",
+   "C": "正確答案。mirabegron 活化膀胱逼尿肌的 β3 receptor，讓儲尿期逼尿肌放鬆，但可能讓血壓升高。嚴重或未控制的高血壓病人應避免使用並監測血壓。",
+   "D": "本項不選。失智（dementia）的疑慮主要跟老年人長期較高的抗膽鹼負荷有關。mirabegron 是 β3 agonist，反而常在想避開認知副作用時選用，只是仍要留意血壓。",
+   "summary": "mirabegron 換掉 antimuscarinic 的口乾、便秘和認知負荷，代價是要盯血壓（hypertension）。"
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
