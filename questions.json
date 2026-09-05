@@ -6723,15 +6723,15 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。胸腺瘤（thymoma）的治療以完整手術切除為核心；若局部侵犯上腔靜脈但仍能整塊切除並重建血管，取得完全切除通常比留下肉眼腫瘤有較佳的疾病控制與預後。",
-   "B": "重症肌無力（myasthenia gravis）患者合併胸腺瘤的比例約為一成左右，並非高達 10%～50%；反向來看，胸腺瘤患者中約有三至五成可合併重症肌無力，題目把分母方向混淆了。",
-   "C": "胸腺瘤雖不同於胸腺癌（thymic carcinoma），仍可能直接侵犯鄰近大血管；壓迫或侵犯上腔靜脈可造成上腔靜脈症候群（superior vena cava syndrome），不能以組織型較低度就排除。",
-   "D": "Masaoka–Koga 分期的 IVa 期是肋膜或心包膜播散，IVb 期才包括淋巴或血行遠端轉移；把淋巴轉移列為 IVa 期，混淆了兩個第四期亞型。",
-   "summary": "胸腺瘤以能否完整切除影響預後；Masaoka–Koga IVa 是 pleural/pericardial dissemination，IVb 才是 lymphogenous/hematogenous metastasis。",
    "guideline": "FC 醫學(五)第4冊 p.92",
    "concepts": [
     "masaoka-koga-staging"
-   ]
+   ],
+   "A": "正確答案。胸腺瘤（thymoma）治療的核心是完整手術切除。就算腫瘤局部侵犯上腔靜脈，只要能整塊切乾淨並重建血管、達到完全切除，疾病控制和預後通常比留下肉眼可見腫瘤好。",
+   "B": "本項不選。重症肌無力（myasthenia gravis）病人合併胸腺瘤的比例大約一成，不是 10～50%。反過來看，胸腺瘤病人有三到五成會合併重症肌無力，這題把分母方向搞反了。",
+   "C": "本項不選。胸腺瘤雖然不等於胸腺癌（thymic carcinoma），但仍可能直接侵犯鄰近大血管。壓迫或侵犯上腔靜脈就會造成上腔靜脈症候群（superior vena cava syndrome, SVC syndrome）。不能因為組織型比較低度就排除這個併發症。",
+   "D": "本項不選。Masaoka–Koga 分期的 IVa 期是肋膜或心包膜的播散，IVb 期才包含淋巴或血行的遠端轉移。把淋巴轉移歸到 IVa 期，混淆了兩個第四期亞型。",
+   "summary": "胸腺瘤預後看能不能完整切除；Masaoka–Koga IVa 是肋膜／心包播散，IVb 才是淋巴或血行轉移。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6764,12 +6764,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "FEV1 是術前評估的重要起點，但不能只用術前絕對值或籠統的 40% 門檻決定能否肺葉切除；現行流程會計算預期術後 FEV1（ppo-FEV1）與 ppo-DLCO，必要時再做運動測試。",
-   "B": "ppo-FEV1 落在 20%～30% 並不能直接稱為可安全手術，這是顯著高風險範圍；應結合 ppo-DLCO、低技術運動測試或心肺運動測試（cardiopulmonary exercise testing）評估，而非單靠此數值放行。",
-   "C": "DLCO 低於 80% predicted 表示氣體交換儲備可能下降，確實會觸發進一步評估，但『增加手術風險』的程度仍須看 ppo-DLCO 與運動能力；本選項不如 D 精確地指出下一步。",
-   "D": "正確。DLCO 明顯降低（題目以 <50% predicted 表示）時，靜態肺功能不足以完整反映手術耐受性，應加做運動心肺功能檢查，以 peak VO2 等指標分層心肺併發症風險。",
-   "summary": "肺切除前不能只看 FEV1；ppo-FEV1、ppo-DLCO 偏低時，要以運動測試尤其 CPET 進一步分層。",
-   "guideline": "FC 醫學(五)第4冊 p.43"
+   "guideline": "FC 醫學(五)第4冊 p.43",
+   "A": "本項不選。FEV1 是術前評估的起點，但不能只用術前絕對值或籠統的 40% 門檻決定能不能做肺葉切除。現行流程會算預期術後 FEV1（ppo-FEV1）和 ppo-DLCO，必要時再做運動測試。",
+   "B": "本項不選。ppo-FEV1 落在 20～30% 不能直接說可以安全手術，這是明顯的高風險範圍。要合併 ppo-DLCO 和運動測試（含心肺運動測試, cardiopulmonary exercise testing, CPET）一起評估，不能只憑這個數字放行。",
+   "C": "本項不選。DLCO 低於 80% predicted 代表氣體交換儲備可能下降，確實會觸發進一步評估，但風險增加多少還要看 ppo-DLCO 和運動能力。這句不如 D 精確地指出下一步。",
+   "D": "正確答案。DLCO 明顯降低（題目寫 <50% predicted）時，靜態肺功能不足以反映手術耐受度，要加做運動心肺功能檢查，用 peak VO2 等指標把心肺併發症風險分層。",
+   "summary": "肺切除前別只看 FEV1；ppo-FEV1、ppo-DLCO 偏低就用運動測試（尤其 CPET）進一步分層。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6797,15 +6797,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "錯誤。純精原細胞瘤（seminoma）通常 AFP 正常；β-hCG 可因 syncytiotrophoblastic cells 而輕度升高。若 AFP 升高，應視為含非精原細胞成分的生殖細胞腫瘤處理；seminoma 對放射線敏感則是正確描述。",
-   "B": "兒童縱膈腔腫瘤的分布與成人不同，神經源性腫瘤（neurogenic tumor）是兒童常見類型，典型位於後縱膈腔並源自交感神經鏈或周邊神經。",
-   "C": "縱膈腔腫瘤的治療依病理而異；可切除的胸腺瘤、畸胎瘤或神經源性腫瘤以完整切除重要，先取得組織診斷再依類型安排輔助治療，不能把所有大型腫瘤一律直接化放療。",
-   "D": "胸腺瘤合併重症肌無力時，即使腫瘤小仍通常建議完整胸腺切除；術前須先妥善控制肌無力，降低術後肌無力危象與呼吸衰竭風險。",
-   "summary": "縱膈 seminoma 可有 β-hCG 升高但 AFP 應正常；AFP 升高提示 nonseminomatous component。",
    "guideline": null,
    "concepts": [
     "mediastinal-compartment-tumors"
-   ]
+   ],
+   "A": "本項應選。這是錯的敘述。純精原細胞瘤（seminoma）的 AFP 通常正常，β-hCG 可能因 syncytiotrophoblastic cells 而輕度升高。如果 AFP 升高，就要當成含非精原成分（nonseminomatous）的生殖細胞腫瘤處理。至於「seminoma 對放療敏感」這半句本身是對的。",
+   "B": "本項不選。兒童縱膈腔腫瘤的分布跟成人不同，神經源性腫瘤（neurogenic tumor）是兒童常見類型，典型位在後縱膈腔、源自交感神經鏈或周邊神經，敘述正確。",
+   "C": "本項不選。縱膈腔腫瘤治療依病理而定。可切除的胸腺瘤、畸胎瘤、神經源性腫瘤以完整切除為重，先取組織診斷再依類型安排輔助治療，不能把大型腫瘤一律直接化放療，敘述正確。",
+   "D": "本項不選。胸腺瘤合併重症肌無力時，即使腫瘤小也建議完整胸腺切除。術前要先把肌無力控制好，降低術後肌無力危象和呼吸衰竭風險，敘述正確。",
+   "summary": "縱膈 seminoma 可有 β-hCG 輕度升高但 AFP 應正常；AFP 一升高就代表有 nonseminomatous 成分。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6838,12 +6838,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "巴瑞特氏食道（Barrett esophagus）是遠端食道原有複層鱗狀上皮被含杯狀細胞的腸化生（intestinal metaplasia）柱狀上皮取代，常與長期胃食道逆流相關。",
-   "B": "內視鏡下柱狀上皮延伸長度達 3 cm 以上稱長節段巴瑞特氏食道（long-segment Barrett esophagus）；短於 3 cm 則屬 short-segment。",
-   "C": "內視鏡只能懷疑 Barrett esophagus，確診需由系統性 biopsy 證實 specialized intestinal metaplasia，並同時評估是否有 dysplasia。",
-   "D": "錯誤。Barrett esophagus 增加的是食道腺癌（esophageal adenocarcinoma）風險，不是鱗狀細胞癌；『40 倍』即使見於舊資料，也不能把癌種寫反。",
-   "summary": "Barrett esophagus 是 intestinal metaplasia，須 biopsy 確診，癌化方向為 esophageal adenocarcinoma。",
-   "guideline": "FC 醫學(五)第4冊 p.115"
+   "guideline": "FC 醫學(五)第4冊 p.115",
+   "A": "本項不選。巴瑞特氏食道（Barrett esophagus）是遠端食道原本的複層鱗狀上皮，被含杯狀細胞的腸化生（intestinal metaplasia）柱狀上皮取代，常跟長期胃食道逆流有關，敘述正確。",
+   "B": "本項不選。內視鏡下柱狀上皮延伸長度達 3 cm 以上叫長節段（long-segment）巴瑞特氏食道，短於 3 cm 是 short-segment，敘述正確。",
+   "C": "本項不選。內視鏡只能懷疑 Barrett esophagus，確診要靠系統性 biopsy 證實特化型腸化生，同時評估有沒有 dysplasia，敘述正確。",
+   "D": "本項應選。這是錯的敘述。Barrett esophagus 增加的是食道腺癌（esophageal adenocarcinoma）的風險，不是鱗狀細胞癌（squamous cell carcinoma）。「40 倍」這個數字即使見於舊資料，也不能把癌種寫反。",
+   "summary": "Barrett esophagus 是 intestinal metaplasia，要 biopsy 確診，癌化方向是食道腺癌不是鱗狀細胞癌。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6871,15 +6871,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "生活型態調整搭配 proton pump inhibitor 是典型第一線策略；調整可包括減重、避免睡前進食及依個人誘發因子處理，PPI 則抑制胃酸以促進逆流性食道炎癒合。",
-   "B": "已確認胃食道逆流且藥物最佳化後仍有反流症狀、不能耐受長期藥物或有適當解剖問題時，可評估抗逆流手術；術前通常需以內視鏡、pH monitoring 與 manometry 確認適應症。",
-   "C": "長期強力抑酸會造成高胃泌素血症（hypergastrinemia）及 enterochromaffin-like cell hyperplasia；舊教材因此討論類癌風險，但人類一般 PPI 使用與臨床顯著 gastric neuroendocrine tumor 的因果風險有限。",
-   "D": "最不適當。Nissen fundoplication 是胃底作 360° 全環包覆的 complete fundoplication；Toupet 270° posterior 或 Dor anterior wrap 才是 partial fundoplication。",
-   "summary": "抗逆流手術術式要分清：Nissen 是 360° complete wrap，不是 partial fundoplication。",
    "guideline": null,
    "concepts": [
     "fundoplication-classification"
-   ]
+   ],
+   "A": "本項不選。生活型態調整加 proton pump inhibitor（PPI）是典型的第一線策略。調整包括減重、避免睡前進食、處理個人誘發因子，PPI 則抑制胃酸幫助逆流性食道炎癒合，敘述適當。",
+   "B": "本項不選。確認是胃食道逆流、藥物最佳化後仍有反流症狀，或不能耐受長期用藥、有適當解剖問題時，可評估抗逆流手術。術前通常要用內視鏡、pH monitoring 和 manometry 確認適應症，敘述適當。",
+   "C": "本項不選。長期強力抑酸會造成高胃泌素血症（hypergastrinemia）和 enterochromaffin-like cell hyperplasia，舊教材因此討論類癌風險。雖然人類一般用 PPI 與臨床顯著 gastric neuroendocrine tumor 的因果證據有限，但作為考點這句不算「最不適當」。",
+   "D": "本項應選。這是最不適當的敘述。Nissen fundoplication 是胃底做 360° 全環包覆的 complete fundoplication。Toupet（270° posterior）或 Dor（anterior）才是 partial fundoplication。",
+   "summary": "抗逆流手術術式要分清：Nissen 是 360° complete wrap，不是 partial fundoplication。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6907,12 +6907,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "左頸部或鎖骨上淋巴結廓清可能損傷胸管末端，造成頸部乳糜漏或乳糜胸（chylothorax）；胸管通常在左靜脈角匯入靜脈系統。",
-   "B": "錯誤。手術結紮胸管多從右側胸腔進入，因胸管在較低胸椎層通常位於主動脈與 azygos vein 之間、食道後方，右側較容易接近；並非常規由左側處理。",
-   "C": "初期可禁食或採極低脂／中鏈脂肪飲食、全靜脈營養並充分引流，觀察約 1～2 週；若每日流量很大、營養惡化或持續不止，應提早介入。",
-   "D": "無法以保守治療控制時，常在橫膈膜上方整束結紮胸管，以涵蓋可能的解剖變異；也可依情境考慮 thoracic duct embolization。",
-   "summary": "胸管在下胸段通常由右胸較易接近；持續高流量乳糜胸可在橫膈上結紮胸管。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。左頸部或鎖骨上淋巴結廓清可能傷到胸管末端，造成頸部乳糜漏或乳糜胸（chylothorax），因為胸管通常在左靜脈角匯入靜脈系統，敘述正確。",
+   "B": "本項應選。這是錯的敘述。手術結紮胸管多從右側胸腔進入。胸管在較低胸椎層通常位在主動脈和 azygos vein 之間、食道後方，右側比較好接近，不是常規從左側處理。",
+   "C": "本項不選。初期可禁食、改用極低脂或中鏈脂肪飲食、全靜脈營養並充分引流，觀察大約 1～2 週。如果每日流量很大、營養惡化或一直不停，要提早介入，敘述適當。",
+   "D": "本項不選。保守治療控制不住時，常在橫膈膜上方把胸管（thoracic duct）整束結紮，以涵蓋可能的解剖變異；也可視情況考慮胸管栓塞（thoracic duct embolization），敘述正確。",
+   "summary": "胸管在下胸段從右胸比較好接近；持續高流量乳糜胸可在橫膈上整束結紮胸管。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6940,12 +6940,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "內視鏡超音波（endoscopic ultrasound）可評估疑似食道癌的腫瘤侵犯深度與區域淋巴結，適合在沒有明顯遠端轉移且管腔可通過時作局部分期。",
-   "B": "最不恰當。內視鏡逆行性膽胰管攝影（ERCP）用於膽道或胰管疾病的診斷與治療，無法針對進行性吞嚥困難、體重下降及聲音沙啞所疑似的食道惡性腫瘤完成評估。",
-   "C": "胸腹部 CT 可評估食道壁外侵犯、縱膈腔淋巴結與肝肺等遠端轉移；聲音沙啞亦須留意 recurrent laryngeal nerve 周圍腫瘤侵犯。",
-   "D": "食道攝影（esophagography）可顯示狹窄長度、黏膜不規則與近端擴張，對定位吞嚥障礙有幫助，但不能取代內視鏡 biopsy 的組織診斷。",
-   "summary": "疑似食道癌可用 endoscopy/biopsy、CT、EUS 與 esophagography 評估；ERCP 不屬食道病灶檢查。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。內視鏡超音波（endoscopic ultrasound, EUS）可以評估疑似食道癌的腫瘤侵犯深度和區域淋巴結，適合在沒有明顯遠端轉移、管腔又能通過時做局部分期。",
+   "B": "本項應選。這是最不恰當的檢查。內視鏡逆行性膽胰管攝影（ERCP）是用來診斷和治療膽道或胰管疾病的，對進行性吞嚥困難、體重減輕加聲音沙啞所懷疑的食道惡性腫瘤幫不上忙。",
+   "C": "本項不選。胸腹部電腦斷層（CT）可評估食道壁外侵犯、縱膈腔淋巴結和肝肺等遠端轉移。聲音沙啞也要留意腫瘤侵犯 recurrent laryngeal nerve 周圍。",
+   "D": "本項不選。食道攝影（esophagography）可顯示狹窄長度、黏膜不規則和近端擴張，有助於定位吞嚥障礙，但不能取代內視鏡切片（biopsy）的組織診斷。",
+   "summary": "疑似食道癌用內視鏡切片、CT、EUS、食道攝影評估；ERCP 是膽胰檢查，跟食道病灶無關。"
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -18766,12 +18766,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。女性惡性肋膜積液（malignant pleural effusion）常見原發癌以乳癌居前；整體族群最常見來源則包括肺癌、乳癌與淋巴瘤，排序會受性別與族群影響。",
-   "B": "惡性肋膜積液若造成呼吸困難才以 thoracentesis、indwelling pleural catheter 或 pleurodesis 緩解；引流主要改善症狀與生活品質，並未證實本身能延長癌症存活。",
-   "C": "肺癌合併經細胞學或 biopsy 證實的惡性肋膜積液屬 M1a，通常不做根治性肺切除；若積液反覆檢查皆無惡性細胞且判定與腫瘤無關，仍可依分期評估手術，不能一概排除。",
-   "D": "滑石粉肋膜沾黏術（talc pleurodesis）是有效且常用的方式，而非效果最差；前提是引流後肺能重新膨脹，若 trapped lung 則較適合留置式肋膜導管。",
-   "summary": "惡性肋膜積液處置以緩解症狀為主；talc pleurodesis 有效但需肺可再膨脹，肺癌惡性積液屬 M1a。",
-   "guideline": "FC 醫學(五)第4冊 p.26"
+   "guideline": "FC 醫學(五)第4冊 p.26",
+   "A": "正確答案。女性的惡性肋膜積液（malignant pleural effusion）原發癌以乳癌居前。整體族群最常見來源包括肺癌、乳癌和淋巴瘤，排序會受性別和族群影響。",
+   "B": "本項不選。惡性肋膜積液造成呼吸困難時才用 thoracentesis、留置式肋膜導管（indwelling pleural catheter）或肋膜沾黏術（pleurodesis）緩解。引流主要改善症狀和生活品質，沒有證據顯示它本身能延長癌症存活。",
+   "C": "本項不選。肺癌合併細胞學或 biopsy 證實的惡性肋膜積液屬 M1a，通常不做根治性肺切除。但如果積液反覆檢查都沒有惡性細胞、判定與腫瘤無關，還是可以依分期評估手術，不能一概排除。",
+   "D": "本項不選。滑石粉肋膜沾黏術（talc pleurodesis）是有效又常用的方式，不是效果最差。前提是引流後肺能重新膨脹；如果是 trapped lung，比較適合留置式肋膜導管。",
+   "summary": "惡性肋膜積液處置以緩解症狀為主；talc pleurodesis 有效但要肺能再膨脹，肺癌惡性積液屬 M1a。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18804,12 +18804,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "錯誤。支氣管囊腫（bronchogenic cyst）即使無症狀仍常考慮完整切除，因日後可能感染、出血、壓迫氣道或與惡性病灶混淆；是否觀察須依位置、手術風險與診斷確定度個別化。",
-   "B": "先天性肺葉過度膨脹（congenital lobar overinflation，舊稱 lobar emphysema）若造成明顯呼吸窘迫，肺葉切除是常見手術；題目以『最常切除』描述其臨床重要性。",
-   "C": "肺內型肺隔離（intralobar pulmonary sequestration）多位於下葉後基底段，體循環供血常來自胸或腹主動脈，靜脈回流通常進入肺靜脈。",
-   "D": "左肺動脈吊索（pulmonary artery sling）由異常左肺動脈在氣管與食道間通過並壓迫氣道，嬰幼兒常表現為喘鳴、呼吸窘迫或反覆呼吸道感染。",
-   "summary": "先天性肺病要連結解剖：intralobar sequestration 多在下葉且回流肺靜脈；pulmonary artery sling 會壓迫氣道造成喘鳴。",
-   "guideline": "FC 醫學(五)第4冊 p.72"
+   "guideline": "FC 醫學(五)第4冊 p.72",
+   "A": "本項應選。這是錯的敘述。支氣管囊腫（bronchogenic cyst）即使沒症狀，通常還是考慮完整切除，因為日後可能感染、出血、壓迫氣道，或跟惡性病灶混淆。要不要觀察得看位置、手術風險和診斷確定度。",
+   "B": "本項不選。先天性肺葉過度膨脹（congenital lobar overinflation，舊稱 lobar emphysema）若造成明顯呼吸窘迫，肺葉切除是常見手術。題目用「最常切除」描述它的臨床重要性，敘述正確。",
+   "C": "本項不選。肺內型肺隔離（intralobar pulmonary sequestration）多位在下葉後基底段，體循環供血常來自胸或腹主動脈，靜脈回流通常進到肺靜脈，敘述正確。",
+   "D": "本項不選。左肺動脈吊索（pulmonary artery sling）是異常的左肺動脈在氣管和食道之間穿過並壓迫氣道，嬰幼兒常表現為喘鳴、呼吸窘迫或反覆呼吸道感染，敘述正確。",
+   "summary": "先天肺病要連解剖：intralobar sequestration 多在下葉、回流肺靜脈；pulmonary artery sling 壓氣道造成喘鳴。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18842,12 +18842,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "腦部 MRI 並非所有肺癌患者一律例行檢查；有神經症狀、較高臨床分期、小細胞肺癌或將接受根治性治療者較有適應症，極早期無症狀非小細胞肺癌可依指引省略。",
-   "B": "正確。肺鱗狀細胞癌（squamous cell carcinoma）較常位於中央大氣道並向支氣管腔脫落細胞，因此痰液細胞學的檢出率通常高於周邊型肺腺癌。",
-   "C": "大型隨機試驗顯示低劑量電腦斷層（low-dose CT）篩檢能降低符合高風險條件吸菸族群的肺癌死亡率；它不是一般胸部 X 光的同義替代。",
-   "D": "正子攝影（PET）適合已知或疑似肺癌的分期與部分結節評估，但假陽性、輻射量、成本及小病灶敏感度限制，使其不能取代 low-dose CT 作族群篩檢。",
-   "summary": "肺癌 screening 用符合條件者的 low-dose CT；PET 用於分期，中央型 squamous carcinoma 較易由 sputum cytology 檢出。",
-   "guideline": "FC 醫學(五)第4冊 p.48"
+   "guideline": "FC 醫學(五)第4冊 p.48",
+   "A": "本項不選。腦部 MRI 不是所有肺癌病人都要例行做。有神經症狀、分期較高、小細胞肺癌，或將接受根治性治療的人比較有適應症；極早期無症狀的非小細胞肺癌可依指引省略。",
+   "B": "正確答案。肺鱗狀細胞癌（squamous cell carcinoma）較常長在中央大氣道、往支氣管腔脫落細胞，所以痰液細胞學（sputum cytology）的檢出率通常高於周邊型的肺腺癌。",
+   "C": "本項不選。大型隨機試驗顯示低劑量電腦斷層（low-dose CT）篩檢能降低符合高風險條件吸菸族群的肺癌死亡率，不是跟一般胸部 X 光同義的替代品。",
+   "D": "本項不選。正子攝影（PET）適合已知或疑似肺癌的分期和部分結節評估，但假陽性、輻射量、成本和對小病灶的敏感度限制，讓它不能取代 low-dose CT 做族群篩檢。",
+   "summary": "肺癌篩檢用符合條件者的 low-dose CT；PET 用於分期，中央型鱗狀細胞癌較容易被痰液細胞學抓到。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18880,12 +18880,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "Zenker 憩室（Zenker diverticulum）通常以 barium esophagram 顯示咽食道交界後方囊袋；manometry 並非主要確診工具，且直接內視鏡檢查須小心誤入憩室造成穿孔。",
-   "B": "正確。中段食道憩室（midesophageal diverticulum）傳統多屬 traction diverticulum，由縱膈發炎牽拉形成並包含食道壁各層，故為真性憩室；常位於右側。",
-   "C": "Fundoplication 不必一律做 360°；Nissen complete wrap 抗逆流較強但 dysphagia/gas-bloat 風險較高，食道蠕動不良者可依情境選 Toupet 等 partial wrap。",
-   "D": "腐蝕性食道傷害不可在未評估下盲放鼻胃管，因脆弱食道可能穿孔；氣道與循環穩定後應依傷勢安排內視鏡或 CT 評估，再由直視下決定管路。",
-   "summary": "食道憩室診斷與處置須按部位：Zenker 以 esophagram 為主；mid-esophageal traction diverticulum 多是真性且偏右。",
-   "guideline": "FC 醫學(五)第4冊 p.102"
+   "guideline": "FC 醫學(五)第4冊 p.102",
+   "A": "本項不選。Zenker 憩室（Zenker diverticulum）通常靠鋇劑食道攝影（barium esophagram）顯示咽食道交界後方的囊袋。manometry 不是主要確診工具，直接內視鏡還要小心誤入憩室造成穿孔。",
+   "B": "正確答案。中段食道憩室（midesophageal diverticulum）傳統多屬牽引型（traction diverticulum），是縱膈發炎牽拉形成的，包含食道壁各層，所以是真性憩室，常位在右側。",
+   "C": "本項不選。胃底折疊術（fundoplication）不必一律做 360°。Nissen 全環包覆抗逆流較強，但吞嚥困難和 gas-bloat 風險較高；食道蠕動不良的人可視情況選 Toupet 這類 partial wrap。",
+   "D": "本項不選。腐蝕性食道傷害不能在沒評估的情況下盲放鼻胃管，脆弱的食道可能因此穿孔。氣道和循環穩定後，要依傷勢安排內視鏡或 CT 評估，再在直視下決定管路。",
+   "summary": "食道憩室看部位：Zenker 以食道攝影為主；中段的牽引型憩室多是真性、偏右。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18918,12 +18918,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "不適當。疑似食道穿孔應先以含水性顯影劑食道攝影或 CT 尋找外漏與縱膈污染；食道鏡可能擴大穿孔，僅在影像陰性但高度懷疑或需治療時由有經驗團隊審慎使用。",
-   "B": "食道穿孔會迅速導致縱膈腔炎與敗血症，確診後須立即禁食、廣效抗生素、引流與食道缺損控制，延遲治療會顯著惡化預後。",
-   "C": "早期、組織仍可存活且可控制污染的胸段食道穿孔，可作 primary repair，常加 vascularized tissue buttress；是否修補不能只看 12 小時，還要看位置、病因與病人狀態。",
-   "D": "高齡、手術風險高且穿孔可被覆蓋的患者，可考慮 covered stent 配合充分引流；stenting 不是單獨治療，仍需控制胸腔或縱膈感染源。",
-   "summary": "食道穿孔先用 contrast study/CT 定位；確診即刻控制感染與外漏，早期可修補，高風險者可選 stent 加引流。",
-   "guideline": "FC 醫學(五)第4冊 p.126"
+   "guideline": "FC 醫學(五)第4冊 p.126",
+   "A": "本項應選。這是不適當的做法。懷疑食道穿孔應先用含水性顯影劑食道攝影或 CT 找外漏和縱膈污染。食道鏡可能把穿孔撐得更大，只在影像陰性但高度懷疑、或需要治療時，才由有經驗團隊謹慎使用。",
+   "B": "本項不選。食道穿孔會很快引起縱膈腔炎和敗血症，確診後要立即禁食、給廣效抗生素、引流並控制食道缺損。延遲治療會明顯惡化預後，敘述適當。",
+   "C": "本項不選。早期、組織還能存活、污染可控制的胸段食道穿孔，可以做一期修補（primary repair），常加一層有血流的組織補強。要不要修補不只看 12 小時，還要看位置、病因和病人狀態，敘述適當。",
+   "D": "本項不選。高齡、手術風險高、穿孔又能被覆蓋的病人，可考慮覆膜支架（covered stent）加上充分引流。stenting 不是單獨治療，仍要處理胸腔或縱膈的感染源，敘述適當。",
+   "summary": "食道穿孔先用含水顯影劑攝影或 CT 定位；確診就立刻控制感染和外漏，早期可修補，高風險者選 stent 加引流。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18956,15 +18956,15 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "Neurofibroma 可與第一型神經纖維瘤病（neurofibromatosis type 1；von Recklinghausen disease）相關；在縱膈腔通常歸於後縱膈神經源性腫瘤。",
-   "B": "能分泌 serotonin 等活性物質的 carcinoid tumor 可產生潮紅、腹瀉、支氣管痙攣等 carcinoid syndrome，雖非每位胸腔 carcinoid 患者皆會出現。",
-   "C": "胸腺瘤與重症肌無力（myasthenia gravis）有經典關聯，也可合併 pure red cell aplasia 或 hypogammaglobulinemia。",
-   "D": "錯誤。椎體異常並非胸腺瘤的典型伴隨症候群；胸椎或肋骨異常較可能與特定先天畸形或後縱膈神經源性腫瘤的脊柱旁生長相關。",
-   "summary": "縱膈腔腫瘤的典型配對包括 neurofibroma–NF1、carcinoid–carcinoid syndrome、thymoma–myasthenia gravis。",
    "guideline": "FC 醫學(五)第4冊 p.84",
    "concepts": [
     "mediastinal-compartment-tumors"
-   ]
+   ],
+   "A": "本項不選。神經纖維瘤（neurofibroma）可以跟第一型神經纖維瘤病（neurofibromatosis type 1，von Recklinghausen disease）相關，在縱膈腔通常歸於後縱膈的神經源性腫瘤，配對正確。",
+   "B": "本項不選。會分泌 serotonin 等活性物質的類癌（carcinoid tumor）可造成潮紅、腹瀉、支氣管痙攣等類癌症候群（carcinoid syndrome），雖然不是每個胸腔 carcinoid 病人都會出現，配對正確。",
+   "C": "本項不選。胸腺瘤（thymoma）和重症肌無力（myasthenia gravis）有經典關聯，也可能合併純紅血球再生不良（pure red cell aplasia）或低丙種球蛋白血症（hypogammaglobulinemia），配對正確。",
+   "D": "本項應選。這是錯的配對。椎體異常不是胸腺瘤的典型伴隨症候群。胸椎或肋骨異常比較會跟特定先天畸形，或後縱膈神經源性腫瘤沿脊柱旁生長有關。",
+   "summary": "thymoma 配 myasthenia gravis、不配椎體異常；另兩組經典配對是 neurofibroma–NF1、carcinoid–carcinoid syndrome。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20681,12 +20681,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "冠狀重組 CT 若血管腔呈高密度，可支持曾靜脈注射含碘顯影劑；但本題是圖片題，。",
-   "B": "心室中隔位於左右心室之間，冠狀切面可能顯示。",
-   "C": "官方答案判定此項錯誤，表示圖示切面未呈現下行主動脈；僅由題幹無法辨識該血管，。",
-   "D": "右下胸腫塊與肝靜脈能否同時呈現取決於掃描範圍與冠狀切面。",
-   "summary": "本題完全依賴增強 CT 冠狀影像辨識；官方答案為未呈現 descending aorta，但各結構均須回看原圖。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。心臟和大血管的管腔明顯偏白，代表有打含碘顯影劑；再加上這是冠狀面重組的電腦斷層影像，敘述正確。",
+   "B": "本項不選。這個冠狀切面切過心臟，可以看到左右心室之間的心室中隔，敘述正確。",
+   "C": "本項應選。這是錯的敘述。下行主動脈走在脊椎旁、位置偏後，這張偏前的冠狀切面切不到它。圖上看得到的是升主動脈和主動脈弓那一段。",
+   "D": "本項不選。右下胸有一團分葉狀腫塊，切面往下延伸到上腹部，也帶到匯入下腔靜脈的肝靜脈，敘述正確。",
+   "summary": "這張是增強冠狀 CT：偏前的切面看得到升主動脈，看不到走在脊椎旁的下行主動脈。"
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -30214,12 +30214,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "大量血胸在置管時立即流出 1,500 mL 鮮血是開胸止血指標，心包填塞亦需緊急解除；但僅因雙側胸部都疑似受傷，應先做雙側評估與胸管處置，並非單獨手術探查適應症。",
-   "B": "開放式氣胸先以三邊封閉敷料或 vented dressing 及遠離傷口置放胸管處理；雙側疑傷與胸管少量漏氣本身也不必直接開胸，因此此組合缺少明確大量出血或心臟傷。",
-   "C": "正確。①立即 1,500 mL 血胸提示持續大血管或肺門出血，②心包填塞提示穿透性心傷，③開放式氣胸代表胸壁缺損需處置；三者都須考慮手術性控制或修補。",
-   "D": "胸管中少量氣體常來自肺實質或胸壁漏氣，可在胸管引流下觀察；它不像持續大量 air leak、無法通氣或疑主支氣管斷裂般構成立即探查指標。",
-   "summary": "穿透性胸傷須手術探查的高危訊號是 massive hemothorax、cardiac tamponade 與需修補的 open pneumothorax，而非單純少量漏氣。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。①置胸管立刻流出 1,500 mL 鮮血是開胸止血指標，②心包填塞（pericardial tamponade）也要緊急解除。但④只是「兩側都疑似受傷」，該先做雙側評估和放胸管，本身不是開胸探查的適應症。",
+   "B": "本項不選。③開放式氣胸先用三邊封閉敷料加遠離傷口的胸管處理；④雙側疑傷和⑤胸管少量漏氣本身也不必馬上開胸。這組缺少明確的大量出血或心臟傷。",
+   "C": "正確答案。①立刻 1,500 mL 血胸代表持續的大血管或肺門出血，②心包填塞提示穿透性心臟傷，③開放式氣胸代表胸壁有缺損要處理。三個都要考慮手術控制或修補。",
+   "D": "本項不選。①②確實是探查指標，但⑤胸管裡少量氣體常來自肺實質或胸壁漏氣，在胸管引流下觀察即可，不像持續大量 air leak 或疑主支氣管斷裂那樣要立刻探查。",
+   "summary": "穿透性胸傷要開胸的高危訊號：massive hemothorax（≥1,500 mL）、心包填塞、需修補的開放式氣胸——不是單純少量漏氣。"
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31059,12 +31059,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "口腔或齒源性感染可沿深頸筋膜間隙向下擴散，造成下行性壞死性縱膈腔炎（descending necrotizing mediastinitis），通常需要頸部與縱膈腔充分引流。",
-   "B": "慢性纖維性縱膈腔炎造成緻密纖維包覆大血管或氣道，往往無法完整切除；手術多用於取得診斷、繞道或處理局部壓迫併發症。",
-   "C": "纖維性縱膈腔炎（fibrosing mediastinitis）可由慢性肉芽腫性淋巴結炎後的過度纖維反應造成；題目所列肺結核是可能原因之一，其他地區常與 Histoplasma 相關。",
-   "D": "錯誤。急性縱膈腔炎是感染源控制的急症，僅給抗生素通常不足；食道穿孔、胸骨感染或下行性頸部感染須依來源緊急清創與引流。",
-   "summary": "急性縱膈腔炎不能只靠抗生素，核心是早期廣效抗菌加積極 source control；慢性纖維型手術多為診斷或減壓。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。口腔或齒源性感染可以沿深頸筋膜間隙往下擴散。這會造成下行性壞死性縱膈腔炎（descending necrotizing mediastinitis），通常要在頸部和縱膈腔充分引流，敘述正確。",
+   "B": "本項不選。慢性纖維性縱膈腔炎會用緻密纖維把大血管或氣道包住，往往切不乾淨。手術多用來取得診斷、做繞道，或處理局部壓迫的併發症，敘述正確。",
+   "C": "本項不選。纖維性縱膈腔炎（fibrosing mediastinitis）可由慢性肉芽腫性淋巴結炎後的過度纖維反應造成。題目列的肺結核是可能原因之一，其他地區常和 Histoplasma 相關，敘述正確。",
+   "D": "本項應選。這是錯的敘述。急性縱膈腔炎是要控制感染源的急症，光給抗生素通常不夠。食道穿孔、胸骨感染或下行性頸部感染都要依來源緊急清創和引流。",
+   "summary": "急性縱膈腔炎不能只靠抗生素，核心是早期廣效抗菌加積極清創引流；慢性纖維型手術多為診斷或減壓。"
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31097,12 +31097,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "穿透性前胸傷合併休克、頸靜脈怒張且雙側呼吸音相等，高度懷疑心包填塞；床邊心臟超音波可快速尋找心包積液與心臟受壓，不需搬離復甦區。",
-   "B": "心包穿刺術（pericardiocentesis）可作暫時減壓，尤其手術無法立即開始時；創傷性凝血塊可能不易抽出，因此不能取代 definitive surgical repair。",
-   "C": "穿透性軀幹傷到院時失去可測血壓並疑心包填塞，可考慮復甦性開胸術（resuscitative thoracotomy）解除 tamponade、控制心臟傷口及施行 open cardiac massage。",
-   "D": "不適合。病人正處於阻塞性休克，portable chest X-ray 不能優先於立即床邊超音波與解除心包填塞；等待影像會延誤救命的手術處置。",
-   "summary": "穿透性心前區傷加 JVD、相等呼吸音與休克先當 traumatic tamponade：FAST 快速確認，失代償即緊急手術，不等胸片。",
-   "guideline": "FC 醫學(五)第4冊 p.141"
+   "guideline": "FC 醫學(五)第4冊 p.141",
+   "A": "本項不選。穿透性前胸傷合併休克、頸靜脈怒張、雙側呼吸音相等，高度懷疑心包填塞。床邊心臟超音波能快速找心包積液和心臟受壓，不用把病人搬離復甦區。",
+   "B": "本項不選。心包穿刺術（pericardiocentesis）可暫時減壓，尤其手術還不能馬上開始時。創傷造成的凝血塊可能抽不出來，所以它不能取代確定性的手術修補。",
+   "C": "本項不選。穿透性軀幹傷到院時失去可測血壓、又懷疑心包填塞時，可以考慮復甦性開胸術（resuscitative thoracotomy）。目的是解除填塞、控制心臟傷口並做開胸心臟按摩。",
+   "D": "本項應選。這是最不適合的做法。病人正處於阻塞性休克，移動式胸部 X 光（portable chest X-ray）不能排在床邊超音波和解除心包填塞之前。等影像會延誤救命的手術。",
+   "summary": "穿透性心前區傷加頸靜脈怒張（JVD）、相等呼吸音、休克先當創傷性心包填塞：FAST 快速確認，失代償就緊急手術，不等胸片。"
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31135,12 +31135,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "極早期、周邊型且無淋巴結轉移的小細胞肺癌（small cell lung cancer）在完整分期後，少數 cT1–2N0 病人可考慮肺葉切除加縱膈淋巴結評估，術後再接受全身治療；不是絕對禁止手術。",
-   "B": "早期非小細胞肺癌術後是否化療取決於病理分期與風險；stage II 通常有 platinum-based adjuvant chemotherapy 適應症，不能把 IIB 以前全部說成不需要。",
-   "C": "正確。深部或位置不利的肺腫瘤可能無法由 needle biopsy 或 wedge resection 確診；若惡性機率高且病人可耐受，有時需以肺葉切除同時取得診斷與根治性切除。",
-   "D": "單一或寡發腦轉移不必然排除肺原發腫瘤局部治療；在胸腔病灶可控制、全身轉移有限且體能良好時，可多專科評估腦轉移局部治療與肺切除。",
-   "summary": "肺癌手術不是只看單一標籤：極早期 N0 SCLC 與選擇性 oligometastatic NSCLC 仍可能接受局部手術。",
-   "guideline": "FC 醫學(五)第4冊 p.51"
+   "guideline": "FC 醫學(五)第4冊 p.51",
+   "A": "本項不選。極早期、周邊型、沒有淋巴結轉移的小細胞肺癌（small cell lung cancer），完整分期後少數 cT1–2N0 病人可以考慮肺葉切除加縱膈淋巴結評估，術後再做全身治療，不是絕對不能開刀。",
+   "B": "本項不選。早期非小細胞肺癌術後要不要化療，看病理分期和風險。stage II 通常有 platinum-based 輔助化療的適應症，不能把 IIB 以前全部說成不需要。",
+   "C": "正確答案。位置深或不利的肺腫瘤可能沒辦法靠 needle biopsy 或楔狀切除（wedge resection）確診。如果惡性機率高、病人又耐受得住，有時就用肺葉切除同時完成診斷和根治性切除。",
+   "D": "本項不選。單一或寡發性腦轉移不一定排除肺原發腫瘤的局部治療。胸腔病灶可控制、全身轉移有限、體能又好時，可多專科評估腦轉移局部治療加肺切除。",
+   "summary": "肺癌手術不是只看一個標籤：極早期 N0 的 SCLC 和選擇性寡轉移 NSCLC 仍可能接受局部手術。"
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31212,15 +31212,15 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "食道癌 Tis 對應 high-grade dysplasia／原位癌，病變侷限於上皮而未侵犯 lamina propria；新版用語可依採用的 AJCC 版本表述。",
-   "B": "錯誤。T1 是侵犯 lamina propria、muscularis mucosae 或 submucosa；侵犯 muscularis propria 已是 T2，不能仍列為 T1。",
-   "C": "T3 食道癌穿過 muscularis propria 並侵犯 adventitia，但尚未侵犯鄰近器官；食道缺乏 serosa，使 adventitial invasion 具有分期意義。",
-   "D": "T4b 表示侵犯不可切除的重要鄰近構造，例如主動脈、椎體或氣管；相對地 T4a 的 pleura、pericardium、azygos vein、diaphragm 等可視情況切除。",
-   "summary": "食道癌 T staging：T1 到 mucosa/submucosa、T2 muscularis propria、T3 adventitia、T4b aorta/trachea 等重要構造。",
    "guideline": "FC 醫學(五)第4冊 p.121",
    "concepts": [
     "esophageal-cancer-t-staging"
-   ]
+   ],
+   "A": "本項不選。食道癌 Tis 對應高度分化不良（high-grade dysplasia）或原位癌，病變侷限在上皮、還沒侵犯 lamina propria。用語可依採用的 AJCC 版本略有不同，這句敘述正確。",
+   "B": "本項應選。這是錯的敘述。T1 是侵犯 lamina propria、muscularis mucosae 或 submucosa。侵犯到 muscularis propria 已經是 T2，不能還算 T1。",
+   "C": "本項不選。T3 食道癌穿過 muscularis propria、侵犯 adventitia，但還沒侵犯鄰近器官。食道沒有 serosa，所以侵犯 adventitia 有分期意義，敘述正確。",
+   "D": "本項不選。T4b 表示侵犯不可切除的重要鄰近構造，例如主動脈、椎體或氣管。相對地 T4a 的肋膜、心包膜、azygos vein、橫膈等可視情況切除，敘述正確。",
+   "summary": "食道癌 T 分期：T1 到黏膜／黏膜下、T2 到 muscularis propria、T3 到 adventitia、T4b 侵犯主動脈或氣管等要害。"
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -41948,12 +41948,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。張力性氣胸（tension pneumothorax）患側呼吸音明顯減弱或消失；心包填塞（cardiac tamponade）通常兩側呼吸音仍對稱，因此胸部聽診能最快協助鑑別。",
-   "B": "肋骨骨折可伴隨鈍性胸傷與氣胸，但沒有骨折不能排除張力性氣胸，也無法區分心包積血；穿透傷甚至可在完全無骨折下造成兩者。",
-   "C": "心包填塞傳統可有心音低沉，但急診環境噪音、少量急性積血及個體差異使其敏感度不足；不能比單側呼吸音消失更可靠地區分兩者。",
-   "D": "心搏過速是張力性氣胸與心包填塞共同的休克代償表現，嚴重失代償時兩者皆可能轉為心搏過緩，因此不具鑑別特異性。",
-   "summary": "JVD 合併休克時，單側呼吸音消失偏向 tension pneumothorax；雙側呼吸音相等則提高 cardiac tamponade 疑慮。",
-   "guideline": "FC 醫學(五)第4冊 p.145"
+   "guideline": "FC 醫學(五)第4冊 p.145",
+   "A": "正確答案。張力性氣胸（tension pneumothorax）患側的呼吸音會明顯減弱或消失。心包填塞（cardiac tamponade）通常兩側呼吸音還是對稱，所以聽胸部呼吸音最快幫忙鑑別。",
+   "B": "本項不選。肋骨骨折可能伴隨鈍性胸傷和氣胸，但沒有骨折不能排除張力性氣胸，也分不出是不是心包積血。穿透傷甚至可以完全沒骨折就造成這兩者。",
+   "C": "本項不選。心包填塞傳統上可有心音低沉，但急診環境吵、急性積血量少、個體差異大，敏感度不夠，比不上「單側呼吸音消失」可靠。",
+   "D": "本項不選。心搏過速是張力性氣胸和心包填塞共同的休克代償表現，嚴重失代償時兩者都可能轉成心搏過緩，沒有鑑別特異性。",
+   "summary": "頸靜脈怒張（JVD）加休克時，單側呼吸音消失偏向張力性氣胸；雙側呼吸音相等就提高心包填塞的疑慮。"
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -42661,12 +42661,12 @@
    "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
   },
   "explanation": {
-   "A": "真性動脈瘤（true aneurysm）包含血管壁各層擴張；假性動脈瘤（pseudoaneurysm）是血管壁破裂後由周圍組織包住的腔隙。兩者自然史與破裂風險不同，治療適應症不能視為相同。",
-   "B": "感染性動脈瘤傳統稱 mycotic aneurysm，但名稱不代表真菌最常見；多數由細菌造成，常見病原會隨感染來源而異，如 Staphylococcus aureus 或 Salmonella。",
-   "C": "正確。胸腹主動脈瘤無論 open repair 或 extensive endovascular repair 都可能阻斷脊髓灌流；腦脊髓液引流可降低 intrathecal pressure、提高 spinal cord perfusion pressure，作為脊髓保護策略之一。",
-   "D": "主動脈直徑 3 cm 是否稱 aneurysm 取決於解剖部位；即使需要追蹤，也通常不因穩定無症狀就每 3 個月重複影像，間隔應依部位、直徑與生長速度個別化。",
-   "summary": "主動脈瘤考點是 true 與 pseudoaneurysm 壁層不同、mycotic 多為細菌，以及胸腹修補可用 CSF drainage 保護脊髓。",
-   "guideline": "FC 醫學(五)第2冊 p.38"
+   "guideline": "FC 醫學(五)第2冊 p.38",
+   "A": "本項不選。真性動脈瘤（true aneurysm）是血管壁各層一起擴張；假性動脈瘤（pseudoaneurysm）是血管壁破了、由周圍組織包起來的腔。兩者的自然史和破裂風險不同，治療適應症不能當成一樣。",
+   "B": "本項不選。感染性動脈瘤傳統叫 mycotic aneurysm，但這名字不代表真菌（fungus）最常見。多數是細菌造成的，常見病原隨感染來源而異，例如 Staphylococcus aureus 或 Salmonella。",
+   "C": "正確答案。胸腹主動脈瘤不論 open repair 或大範圍 endovascular repair，都可能阻斷脊髓灌流。腦脊髓液引流（cerebrospinal fluid drainage）能降低鞘內壓、提高脊髓灌流壓，是脊髓保護策略之一。",
+   "D": "本項不選。主動脈直徑 3 公分（3 cm）要不要叫動脈瘤，看的是解剖部位。就算需要追蹤，也通常不會因為穩定無症狀就每 3 個月重複影像，間隔要依部位、直徑和生長速度個別化。",
+   "summary": "主動脈瘤考點：true 和 pseudoaneurysm 壁層不同、mycotic 多為細菌，胸腹修補可用 CSF drainage 保護脊髓。"
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -42834,12 +42834,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "巴瑞特氏食道（Barrett esophagus）不是鱗狀上皮往胃內生長，而是胃食道逆流造成遠端食道鱗狀上皮被柱狀、含杯狀細胞的腸化生上皮取代。",
-   "B": "Barrett esophagus 提高的是食道腺癌（esophageal adenocarcinoma）風險，不是食道鱗狀細胞癌；風險倍數也會依是否有 dysplasia 與研究年代而異。",
-   "C": "正確。已客觀證實胃食道逆流、藥物與生活調整仍無法控制症狀的患者，可評估 fundoplication 等抗逆流手術；手術改善 reflux，但不能保證腸化生消退或免除 dysplasia surveillance。",
-   "D": "Barrett esophagus 本身可能無症狀，但合併 reflux stricture、潰瘍或進展為腫瘤時可出現吞嚥困難；以『沒有 dysphagia』作絕對敘述不正確。",
-   "summary": "Barrett 是 reflux 引起的 distal esophageal intestinal metaplasia，增加 adenocarcinoma 風險；抗逆流手術治症狀但不取代監測。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。巴瑞特氏食道（Barrett esophagus）不是鱗狀上皮往胃裡長，而是胃食道逆流讓遠端食道的鱗狀上皮被含杯狀細胞的柱狀腸化生上皮取代。",
+   "B": "本項不選。Barrett esophagus 提高的是食道腺癌（esophageal adenocarcinoma）的風險，不是鱗狀細胞癌。風險倍數也會因有沒有 dysplasia 和研究年代而不同。",
+   "C": "正確答案。已經客觀證實有胃食道逆流、藥物加生活調整仍控制不了症狀的人，可以評估 fundoplication 這類抗逆流手術。手術改善的是逆流症狀，不保證腸化生消退，也不能免除 dysplasia 的追蹤。",
+   "D": "本項不選。Barrett esophagus 本身可能沒症狀，但合併逆流狹窄、潰瘍，或進展成腫瘤時就會出現吞嚥困難（dysphagia）。用「沒有 dysphagia」當絕對敘述不對。",
+   "summary": "Barrett 是逆流引起的遠端食道腸化生，增加腺癌風險；抗逆流手術治的是症狀，不取代監測。"
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -42872,12 +42872,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "腺泡型（acinar pattern）由腫瘤細胞形成腺體，是侵襲性肺腺癌的常見生長型態之一；只要有 stromal invasion，就不符合 adenocarcinoma in situ。",
-   "B": "正確。肺腺癌原位癌（adenocarcinoma in situ）為小型、局限病灶，腫瘤細胞沿既有肺泡壁呈純伏壁型（lepidic growth），且沒有 stromal、vascular 或 pleural invasion。",
-   "C": "實心型（solid pattern）缺乏明顯腺腔，需以黏液或免疫表現證明腺性分化；它代表侵襲性 adenocarcinoma pattern，而非原位癌。",
-   "D": "乳頭型（papillary pattern）具有 fibrovascular cores 被腫瘤細胞覆蓋，屬侵襲性肺腺癌的組織型態；與沿完整 alveolar septa 生長的純 lepidic pattern 不同。",
-   "summary": "Adenocarcinoma in situ 的病理核心是 pure lepidic growth 且無 invasion；acinar、solid、papillary 都不是原位型定義。",
-   "guideline": "FC 醫學(五)第4冊 p.48"
+   "guideline": "FC 醫學(五)第4冊 p.48",
+   "A": "本項不選。腺泡型（acinar pattern）是腫瘤細胞形成腺體，是侵襲性肺腺癌常見的生長型態之一。只要有間質侵犯（stromal invasion），就不算原位癌。",
+   "B": "正確答案。肺腺癌原位癌（adenocarcinoma in situ）是小型局限病灶，腫瘤細胞沿著既有的肺泡壁呈純伏壁型（lepidic growth），而且沒有間質、血管或肋膜侵犯。",
+   "C": "本項不選。實心型（solid pattern）沒有明顯腺腔，要靠黏液或免疫染色證明腺性分化。它代表侵襲性 adenocarcinoma，不是原位癌。",
+   "D": "本項不選。乳頭型（papillary pattern）是腫瘤細胞覆在纖維血管軸心（fibrovascular cores）上，屬侵襲性肺腺癌的組織型態，跟沿完整肺泡壁生長的純伏壁型不同。",
+   "summary": "Adenocarcinoma in situ 的病理核心是純 lepidic growth 且無 invasion；acinar、solid、papillary 都不是原位型。"
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -42910,12 +42910,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。腺樣囊狀癌（adenoid cystic carcinoma）通常沿氣管黏膜下緩慢、浸潤性生長，病程可拖延多年，但也因 submucosal extension 與 perineural invasion 而不易取得乾淨邊界。",
-   "B": "Adenoid cystic carcinoma 是重要的原發性氣管惡性腫瘤之一，常沿氣管長軸黏膜下延伸；因此『大部分不影響 trachea』與其典型發生部位相反。",
-   "C": "腫瘤逐漸狹窄中央氣道可造成喘鳴（stridor）、呼吸困難、咳嗽或被誤診為氣喘；stridor 並非少見到可忽略的表現。",
-   "D": "診斷時常以局部氣道病灶為主，治療核心是可行時氣管切除重建，必要時加 radiotherapy；不能因假設多數已有遠端轉移而把 chemotherapy 當主要治療。",
-   "summary": "Tracheal adenoid cystic carcinoma 生長慢但黏膜下浸潤長，會造成 stridor；可切除者以手術為核心。",
-   "guideline": "FC 醫學(五)第4冊 p.131"
+   "guideline": "FC 醫學(五)第4冊 p.131",
+   "A": "正確答案。腺樣囊狀癌（adenoid cystic carcinoma）通常沿氣管黏膜下緩慢、浸潤性生長，病程可以拖好幾年。但也因為黏膜下延伸（submucosal extension）和沿神經侵犯（perineural invasion），不容易取得乾淨的切緣。",
+   "B": "本項不選。腺樣囊狀癌是重要的原發性氣管惡性腫瘤之一，常沿氣管長軸在黏膜下延伸。「大部分不影響 trachea」跟它的典型發生部位剛好相反。",
+   "C": "本項不選。腫瘤逐漸把中央氣道變窄，會造成喘鳴（stridor）、呼吸困難、咳嗽，有時被誤診成氣喘。stridor 不是少見到可以忽略的表現。",
+   "D": "本項不選。診斷時多半以局部氣道病灶為主，治療核心是可行時做氣管切除重建，必要時加放療。不能假設多數已有遠端轉移就把化療當主要治療。",
+   "summary": "氣管腺樣囊狀癌長得慢但黏膜下浸潤範圍長，會造成 stridor；可切除者以手術為核心。"
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44559,12 +44559,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "肺轉移可由血行散布而不伴縱膈或肺門淋巴結腫大；淋巴結轉移的有無取決於原發癌生物學與散播路徑，『幾乎都會』過度絕對。",
-   "B": "典型血行性肺轉移常呈多發、圓形且邊緣平滑的結節，也可為 solitary nodule；多角不規則更需考慮原發肺癌、發炎或其他病變，並非絕大多數轉移外觀。",
-   "C": "肋膜轉移常呈多發 pleural nodules、瀰漫增厚或 rind-like encasement，並常合併惡性肋膜積液；單一結節且極少積液的描述不符典型。",
-   "D": "正確。攝護腺癌骨轉移典型為成骨性病灶（osteoblastic lesion），肋骨亦可受累；影像可見 sclerosis，與腎細胞癌常見 osteolytic metastasis 不同。",
-   "summary": "胸腔轉移的典型影像：hematogenous lung metastases 常為圓滑結節，pleural metastases 常多發且伴積液，prostate bone metastases 多 osteoblastic。",
-   "guideline": "FC 醫學(五)第4冊 p.54"
+   "guideline": "FC 醫學(五)第4冊 p.54",
+   "A": "本項不選。肺轉移可以純粹血行散布、不伴縱膈或肺門淋巴結腫大。有沒有淋巴結轉移看原發癌的生物學和散播路徑，「幾乎都會」太絕對。",
+   "B": "本項不選。典型血行性肺轉移常是多發、圓形、邊緣平滑的結節，也可能是單一結節。多角、不規則反而更要想到原發肺癌、發炎或其他病變，不是轉移的多數外觀。",
+   "C": "本項不選。肋膜轉移常是多發肋膜結節、瀰漫增厚或像殼一樣包住肺（rind-like encasement），而且常合併惡性肋膜積液。「單一結節、極少積液」不符典型。",
+   "D": "正確答案。攝護腺癌骨轉移典型是成骨性病灶（osteoblastic lesion），肋骨也可能受累，影像上看到硬化（sclerosis）。這跟腎細胞癌常見的溶骨性轉移（osteolytic metastasis）不同。",
+   "summary": "胸腔轉移的典型影像：血行性肺轉移多是圓滑結節、肋膜轉移常多發又帶積液、攝護腺骨轉移多為成骨性。"
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -54699,12 +54699,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "肺腺癌（adenocarcinoma）是目前整體最常見的原發性肺癌組織型，亦常見於從不吸菸者與女性；仍須由病理與免疫染色確診。",
-   "B": "Adenocarcinoma 源自具有腺性或黏液分化的肺上皮細胞，可表現 mucus production；但現代分類依組織形態與分子特徵，而非只以單一支氣管細胞來源界定。",
-   "C": "肺腺癌較常位於肺周邊，可形成 peripheral nodule，並可能侵犯 pleura；相對地 squamous cell carcinoma 傳統上較常中央型。",
-   "D": "錯誤。肺腺癌相較 squamous cell carcinoma 並非較不易腦轉移；adenocarcinoma 是產生 brain metastasis 的常見非小細胞肺癌類型，且可在疾病較早期出現遠端散播。",
-   "summary": "肺腺癌是最常見且偏周邊的 histology，遠端與腦部轉移傾向不低於 squamous cell carcinoma。",
-   "guideline": "FC 醫學(五)第4冊 p.47"
+   "guideline": "FC 醫學(五)第4冊 p.47",
+   "A": "本項不選。肺腺癌（adenocarcinoma）是目前整體最常見的原發性肺癌組織型，也常見於從不吸菸者和女性，敘述正確。",
+   "B": "本項不選。肺腺癌源自有腺性或黏液分化的肺上皮細胞，可以表現黏液產生（mucus production）。現代分類是依組織形態和分子特徵，不是只用單一支氣管細胞來源界定，這句大方向沒錯。",
+   "C": "本項不選。肺腺癌較常長在肺周邊，形成周邊結節、可能侵犯肋膜；相對地鱗狀細胞癌（squamous cell carcinoma）傳統上較常是中央型，敘述正確。",
+   "D": "本項應選。這是錯的敘述。肺腺癌比起鱗狀細胞癌並不是比較不容易腦轉移。腺癌是造成腦轉移（brain metastasis）的常見非小細胞肺癌類型，還可能在較早期就出現遠端散播。",
+   "summary": "肺腺癌是最常見、偏周邊的組織型，遠端和腦部轉移傾向不會低於鱗狀細胞癌。"
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -54776,12 +54776,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。肺穿刺傷若同時有開放的 pulmonary vessel 與 bronchial communication，縫合或正壓通氣可能使空氣進入肺靜脈，造成 systemic air embolism、冠狀動脈或腦栓塞甚至死亡。",
-   "B": "創傷性全肺切除（pneumonectomy）生理衝擊極大，會增加肺血管阻力、右心負荷與死亡率；僅在肺門毀損無法保留肺組織時作最後手段，不能說能增加存活率。",
-   "C": "肺道切開術（pulmonary tractotomy）沿穿刺道打開肺實質，可直接結紮出血血管與漏氣支氣管並保留正常肺；對部分深部貫穿傷能有效止血與控制漏氣。",
-   "D": "胸腔外傷手術優先採 lung-sparing techniques，如 tractotomy、楔狀切除或 selective vessel ligation；pneumonectomy 不是最常用，而是死亡風險最高的救援術式。",
-   "summary": "肺穿刺傷應盡量保留肺；tractotomy 可直接控制傷道血管與氣道，pneumonectomy 僅為無法控制肺門毀損的最後選擇。",
-   "guideline": "FC 醫學(五)第4冊 p.140"
+   "guideline": "FC 醫學(五)第4冊 p.140",
+   "A": "正確答案。肺穿刺傷如果同時有開放的肺血管和支氣管相通，縫合或正壓通氣可能把空氣擠進肺靜脈，造成全身性空氣栓塞（systemic air embolism）、冠狀動脈或腦栓塞，甚至死亡。",
+   "B": "本項不選。創傷性全肺切除（pneumonectomy）生理衝擊極大，會增加肺血管阻力、右心負荷和死亡率。只在肺門毀損、無法保留肺組織時當最後手段，不能說能提高存活率。",
+   "C": "本項不選。肺道切開術（pulmonary tractotomy）沿穿刺道打開肺實質，可以直接結紮出血血管和漏氣支氣管，還保留正常肺。對部分深部貫穿傷能有效止血和控制漏氣。",
+   "D": "本項不選。胸腔外傷手術優先用保留肺的技術，像 tractotomy、楔狀切除或選擇性血管結紮。pneumonectomy 不是最常用，而是死亡風險最高的救援術式。",
+   "summary": "肺穿刺傷盡量保留肺；tractotomy 可直接控制傷道血管和氣道，pneumonectomy 只留給肺門毀損無法控制時。"
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -54814,15 +54814,15 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "成熟良性畸胎瘤（mature teratoma）以完整切除為理想；若黏連重要構造而只能部分切除，殘存成熟組織可能長期穩定，但仍需追蹤，題目強調其復發通常不高。",
-   "B": "成人後縱膈腔腫瘤最典型為神經源性腫瘤（neurogenic tumor），可來自 peripheral nerve、sympathetic ganglia 或 paraganglionic tissue。",
-   "C": "縱膈 seminoma 對 platinum-based chemotherapy 與 radiotherapy 都敏感；治療選擇依腫瘤範圍與現代減少放射毒性的策略決定。",
-   "D": "錯誤。原發性縱膈惡性生殖細胞瘤有明顯男性優勢，特別是 nonseminomatous germ cell tumor 幾乎發生於年輕男性，並非沒有性別差異。",
-   "summary": "成人後縱膈多 neurogenic tumor；縱膈 germ cell tumor 尤其 nonseminomatous type 強烈偏男性，seminoma 對化放療敏感。",
    "guideline": "FC 醫學(五)第4冊 p.84",
    "concepts": [
     "mediastinal-compartment-tumors"
-   ]
+   ],
+   "A": "本項不選。成熟良性畸胎瘤（mature teratoma）理想上要完整切除。如果黏連重要構造、只能部分切除，殘存的成熟組織可能長期穩定，仍要追蹤，題目強調的是它復發通常不高，敘述算合理。",
+   "B": "本項不選。成人後縱膈腔腫瘤最典型就是神經源性腫瘤（neurogenic tumor），可來自周邊神經、交感神經節或副神經節組織，敘述正確。",
+   "C": "本項不選。縱膈 seminoma 對含鉑化療（platinum-based chemotherapy）和放療都敏感，治療選擇看腫瘤範圍和現代減少放射毒性的策略，敘述正確。",
+   "D": "本項應選。這是錯的敘述。原發性縱膈惡性生殖細胞瘤有明顯的男性優勢，尤其非精原細胞瘤（nonseminomatous germ cell tumor）幾乎都發生在年輕男性，不是沒有性別差異。",
+   "summary": "成人後縱膈多是 neurogenic tumor；縱膈生殖細胞瘤尤其 nonseminomatous type 強烈偏男性，seminoma 對化放療敏感。"
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -66658,12 +66658,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "肺鱗狀細胞癌（squamous cell carcinoma）與吸菸關聯很強，雖然從不吸菸者仍可能發生，但『大多與抽菸無關』把主要流行病學關聯寫反。",
-   "B": "Squamous cell carcinoma 傳統多源於中央支氣管，容易造成 endobronchial obstruction；位於周邊的比例可隨影像篩檢增加，但不能說大多 peripheral。",
-   "C": "正確。Squamous cell carcinoma 容易因腫瘤中央缺血壞死形成空洞（cavitation），影像可見厚壁、不規則 cavity，並須與肺膿瘍或結核鑑別。",
-   "D": "相較肺腺癌，squamous cell carcinoma 往往較局部生長、遠端轉移相對較晚；『較早發生轉移』不是其典型比較。",
-   "summary": "肺 squamous cell carcinoma 的典型組合是 smoking、central airway location 與 central necrosis/cavitation。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肺鱗狀細胞癌（squamous cell carcinoma）和吸菸的關聯很強。雖然從不吸菸者也可能發生，但「大多與抽菸無關」把主要的流行病學關聯寫反了。",
+   "B": "本項不選。鱗狀細胞癌傳統上多源自中央支氣管，容易造成支氣管內阻塞（endobronchial obstruction）。位於周邊的比例會隨影像篩檢增加，但不能說大多在周邊。",
+   "C": "正確答案。鱗狀細胞癌容易因為腫瘤中央缺血壞死而形成空洞（cavitation），影像上看到厚壁、不規則的洞，要跟肺膿瘍或結核鑑別。",
+   "D": "本項不選。比起肺腺癌，鱗狀細胞癌往往比較局部生長、遠端轉移相對較晚。「較早發生轉移」不是它的典型比較。",
+   "summary": "肺鱗狀細胞癌的典型組合：吸菸、中央大氣道位置、中央壞死與空洞化。"
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -66696,12 +66696,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "肺膿瘍（lung abscess）若位於肋膜下並破入 pleural space，可造成膿胸、支氣管肋膜瘻與氣胸／膿氣胸，故破裂確實可能出現 pleural air。",
-   "B": "錯誤。Staphylococcus aureus 菌血症可經血行播散造成多發性肺膿瘍，尤其右心感染性心內膜炎或 septic emboli；肺膿瘍不只來自局部 aspiration infection。",
-   "C": "壞死性肺感染形成與支氣管相通的空腔後，直立胸片或 CT 可見氣液平面（air-fluid level）；CT 也能區分肺內 abscess 與 loculated empyema。",
-   "D": "多數肺膿瘍以涵蓋厭氧菌及相關病原的長療程抗生素、姿位引流與處理 aspiration risk 即可改善；持續敗血症、巨大膿瘍或疑腫瘤阻塞才考慮引流或手術。",
-   "summary": "Lung abscess 多可用抗生素治癒，但可由 S. aureus bacteremia/septic emboli 形成，也可能破入肋膜造成 pneumothorax 或 empyema。",
-   "guideline": "FC 醫學(五)第4冊 p.64"
+   "guideline": "FC 醫學(五)第4冊 p.64",
+   "A": "本項不選。肺膿瘍（lung abscess）如果在肋膜下、破進 pleural space，可造成膿胸、支氣管肋膜瘻和氣胸／膿氣胸，所以破裂確實可能出現肋膜腔積氣，敘述正確。",
+   "B": "本項應選。這是錯的敘述。Staphylococcus aureus 菌血症可以經血行播散造成多發性肺膿瘍，尤其右心感染性心內膜炎或敗血性栓子（septic emboli）。肺膿瘍不是只來自局部吸入性感染。",
+   "C": "本項不選。壞死性肺感染形成和支氣管相通的空腔後，直立胸片或 CT 可見氣液平面（air-fluid level）。CT 也能區分肺內膿瘍和局限性膿胸，敘述正確。",
+   "D": "本項不選。多數肺膿瘍用涵蓋厭氧菌的長療程抗生素、姿位引流、處理吸入風險就能改善。持續敗血症、巨大膿瘍或疑腫瘤阻塞才考慮引流或手術，敘述正確。",
+   "summary": "肺膿瘍多數抗生素可治癒，但可由 S. aureus 菌血症／敗血性栓子形成，也可能破進肋膜造成氣胸或膿胸。"
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -66734,12 +66734,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "本項不選。肺腺癌是惡性肋膜積液（malignant pleural effusion）最常見的原發腫瘤之一。肺癌細胞可直接侵犯或經淋巴途徑播散到肋膜。",
-   "B": "本項不選，淋巴瘤可阻塞縱膈淋巴回流，或直接侵犯肋膜而造成惡性肋膜積液；它也是常見的腫瘤性原因。",
-   "C": "本項不選。間皮瘤（mesothelioma）原發於肋膜，常以單側肋膜增厚合併積液表現。它可直接造成惡性肋膜積液。",
-   "D": "本項要選，因為黑色素瘤是較不常見成因。它可轉移至肋膜，但相較肺腺癌、淋巴瘤與間皮瘤，不是典型常見來源。",
-   "summary": "看到惡性肋膜積液先想肺癌、乳癌與淋巴瘤；黑色素瘤能轉移但不是常見考點。",
-   "guideline": "FC 醫學(五)第4冊 p.26"
+   "guideline": "FC 醫學(五)第4冊 p.26",
+   "A": "本項不選。肺腺癌是惡性肋膜積液（malignant pleural effusion）最常見的原發腫瘤之一。癌細胞可直接侵犯肋膜，或經淋巴途徑播散過去。",
+   "B": "本項不選。淋巴瘤可以阻塞縱膈的淋巴回流，或直接侵犯肋膜而造成惡性肋膜積液，也是常見的腫瘤性原因。",
+   "C": "本項不選。間皮瘤（mesothelioma）原發於肋膜，典型表現就是單側肋膜增厚合併積液，可直接造成惡性肋膜積液。",
+   "D": "本項應選。黑色素瘤是比較不常見的成因。它可以轉移到肋膜，但比起肺腺癌、淋巴瘤和間皮瘤，不是典型的常見來源。",
+   "summary": "惡性肋膜積液先想肺癌、乳癌、淋巴瘤（加原發的間皮瘤）；黑色素瘤會轉移但不是常見考點。"
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -78634,12 +78634,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選。小細胞肺癌（small cell lung cancer）多由近端支氣管神經內分泌細胞而來。影像上常是中央型（central located）肺門或縱膈腫塊。",
-   "B": "本項不選。小細胞肺癌常以侷限期（limited stage）和擴展期（extensive stage）分期。這個分法直接影響是否能放射治療。",
-   "C": "本項不選，小細胞肺癌增殖快且早期血行轉移，確診時常已非局限病灶，所以五年存活率不佳。",
-   "D": "本項要選，小細胞肺癌發現時常已有縱膈淋巴結或遠端轉移，標準治療多是全身性化療合併適當放療；只有極少數完整分期為早期 N0 的病例才會考慮手術。",
-   "summary": "小細胞肺癌是中央型、早轉移的腫瘤；看到它先想化放療，不是常規手術切除。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。小細胞肺癌（small cell lung cancer）多由近端支氣管的神經內分泌細胞而來。影像上常是中央型（central located）的肺門或縱膈腫塊，敘述正確。",
+   "B": "本項不選。小細胞肺癌常用侷限期（limited stage）和擴展期（extensive stage）分期。這個分法直接影響能不能做放射治療，敘述正確。",
+   "C": "本項不選。小細胞肺癌增殖快、早期就血行轉移，確診時常已經不是局限病灶，五年存活率確實很差，敘述正確。",
+   "D": "本項應選。這是錯的敘述。小細胞肺癌發現時常已有縱膈淋巴結或遠端轉移，標準治療多是全身化療加適當放療。只有極少數完整分期為早期 N0 的病例才考慮手術。",
+   "summary": "小細胞肺癌是中央型、早轉移的腫瘤；看到它先想化放療，不是常規手術切除。"
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -78672,12 +78672,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "本項不選，肺部過誤瘤（hamartoma）是肺最常見的良性腫瘤，常在胸部影像偶然發現。",
-   "B": "本項不選，過誤瘤是原位成熟組織排列失常，最具代表性的成分是軟骨（cartilage），也可含脂肪與纖維組織。",
-   "C": "本項要選，肺部過誤瘤多在中老年成人偶然發現，沒有典型好發於 20～30 歲年輕女性的流行病學特徵。",
-   "D": "本項不選，過誤瘤通常生長緩慢；典型 CT 可見脂肪及粗大鈣化，胸片的爆米花狀鈣化是常考線索。",
-   "summary": "肺內周邊結節若見脂肪或爆米花狀鈣化，要想到生長慢的肺過誤瘤。",
-   "guideline": "FC 醫學(五)第4冊 p.55"
+   "guideline": "FC 醫學(五)第4冊 p.55",
+   "A": "本項不選。肺部過誤瘤（hamartoma）是肺最常見的良性腫瘤，常在胸部影像上偶然發現，敘述正確。",
+   "B": "本項不選。過誤瘤是原位成熟組織排列失常，最具代表性的成分是軟骨（cartilage），也可含脂肪和纖維組織，敘述正確。",
+   "C": "本項應選。這是錯的敘述。肺部過誤瘤多在中老年成人偶然發現，沒有「好發於 20～30 歲年輕女性」這種流行病學特徵。",
+   "D": "本項不選。過誤瘤通常生長緩慢。典型 CT 可見脂肪和粗大鈣化，胸片上的爆米花狀鈣化是常考線索，敘述正確。",
+   "summary": "肺內周邊結節看到脂肪或爆米花狀鈣化，就要想到生長慢的肺過誤瘤。"
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -78705,15 +78705,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，乳糜胸（chylothorax）的外觀常是乳白色，但禁食或低脂飲食時也可呈澄清，不能只靠顏色排除。",
-   "B": "本項要選，乳糜富含三酸甘油脂與乳糜微粒，細胞以淋巴球為主；嗜酸性球（eosinophils）不是乳糜的典型主要細胞。",
-   "C": "本項不選，食道切除與縱膈淋巴結廓清靠近胸管，術中損傷胸管是醫源性（iatrogenic）乳糜胸的典型原因。",
-   "D": "本項不選，少量漏出可先充分引流並減少長鏈脂肪吸收；中鏈三酸甘油脂飲食（medium-chain triglyceride diet）直接進入門靜脈，或禁食搭配全靜脈營養，都能降低乳糜流量。",
-   "summary": "乳白胸水不一定就是乳糜胸；要抓 triglyceride/chylomicron，而且乳糜細胞以淋巴球為主。",
    "guideline": null,
    "concepts": [
     "chylothorax"
-   ]
+   ],
+   "A": "本項不選。乳糜胸（chylothorax）的外觀常是乳白色，但禁食或低脂飲食時也可能是澄清的，不能只靠顏色排除，敘述正確。",
+   "B": "本項應選。這是錯的敘述。乳糜富含三酸甘油脂（triglyceride）和乳糜微粒（chylomicron），細胞成分以淋巴球為主。嗜酸性球（eosinophils）不是乳糜的典型主要細胞。",
+   "C": "本項不選。食道切除和縱膈淋巴結廓清都靠近胸管，術中傷到胸管是醫源性（iatrogenic）乳糜胸的典型原因，敘述正確。",
+   "D": "本項不選。少量漏出可先充分引流並減少長鏈脂肪吸收。中鏈三酸甘油脂（medium-chain triglyceride）飲食直接進門靜脈，或禁食搭配全靜脈營養，都能降低乳糜流量，敘述正確。",
+   "summary": "乳白胸水不一定是乳糜胸；要驗 triglyceride／chylomicron，而且乳糜的細胞以淋巴球為主，不是嗜酸性球。"
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -89610,12 +89610,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不是最佳敘述。開放性氣胸（open pneumothorax）應立刻用 vented dressing 或三邊封閉敷料暫時封住傷口，同時在另一處置放胸管；不能等病人惡化才處理。",
-   "B": "本項不是最佳敘述。原傷口可能受污染或不在安全三角，胸管應另選無菌且解剖正確的位置，而非沿開放傷口硬放入胸腔。",
-   "C": "正確。張力性氣胸（tension pneumothorax）的頸靜脈怒張來自胸腔高壓阻礙靜脈回流；若病人同時失血、脫水或已低血容量，頸靜脈可以不怒張。",
-   "D": "本項不是最佳敘述。肋間血管與神經走在肋骨下緣的肋溝內，胸管應沿肋骨上緣進入，才能避開這條 neurovascular bundle。",
-   "summary": "張力性氣胸不一定有 JVD，尤其合併失血時；胸管要貼肋骨上緣走，避開下緣血管神經。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。開放性氣胸（open pneumothorax）應立刻用 vented dressing 或三邊封閉敷料暫時封傷口，同時在另一處放胸管，不能等病人惡化才處理。",
+   "B": "本項不選。原傷口可能受污染或不在安全三角，胸管應另選無菌、解剖正確的位置，不是沿著開放傷口硬放進胸腔。",
+   "C": "正確答案。張力性氣胸（tension pneumothorax）的頸靜脈怒張來自胸腔高壓阻礙靜脈回流。如果病人同時失血、脫水或已經低血容量，頸靜脈可以不怒張。",
+   "D": "本項不選。肋間血管和神經走在肋骨下緣的肋溝裡，胸管要沿肋骨「上緣」進入，才避得開這條神經血管束（neurovascular bundle）。",
+   "summary": "張力性氣胸不一定有頸靜脈怒張（JVD），尤其合併失血時；胸管要貼肋骨上緣走，避開下緣的血管神經。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -90535,15 +90535,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，乳糜中的 triglyceride 通常偏高；若胸水 triglyceride 偏低，需以 chylomicron 檢驗或其他診斷重新判斷。",
-   "B": "本項不選，胸部淋巴結廓清可能傷及胸管或其分支，因此是術後乳糜胸的常見情境。",
-   "C": "本項要選，長鏈三酸甘油脂（long-chain triglyceride）會經腸道乳糜管進入胸管，反而增加漏出的乳糜；初期應限脂並選中鏈三酸甘油脂，或禁食配合全靜脈營養。",
-   "D": "本項不選，肺部或縱膈腫瘤可壓迫、侵犯或阻塞胸管，屬於非外傷性乳糜胸的重要病因。",
-   "summary": "乳糜胸的飲食重點是避開 long-chain triglyceride；MCT 不走腸道淋巴，才能減少胸管漏量。",
    "guideline": null,
    "concepts": [
     "chylothorax"
-   ]
+   ],
+   "A": "本項不選。乳糜裡的三酸甘油脂（triglyceride）通常偏高。如果胸水 triglyceride 偏低，要用乳糜微粒（chylomicron）檢驗或其他方法重新判斷，敘述正確。",
+   "B": "本項不選。胸部淋巴結廓清可能傷到胸管或它的分支，所以是術後乳糜胸的常見情境，敘述正確。",
+   "C": "本項應選。這是錯的敘述。長鏈三酸甘油脂（long-chain triglyceride）會經腸道乳糜管進到胸管，反而讓漏出的乳糜變多。初期應限脂、改用中鏈三酸甘油脂，或禁食搭配全靜脈營養。",
+   "D": "本項不選。肺部或縱膈腫瘤可壓迫、侵犯或阻塞胸管，是非外傷性乳糜胸的重要病因，敘述正確。",
+   "summary": "乳糜胸的飲食重點是避開長鏈三酸甘油脂；中鏈（MCT）的不走腸道淋巴，才能減少胸管漏量。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -90576,12 +90576,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。麴菌感染（aspergillosis）的麴菌球（aspergilloma）是 Aspergillus 菌絲、黏液與碎屑在既有空洞內聚成的團塊，常出現在舊結核空洞、肺大疱或支氣管擴張的空腔。",
-   "B": "本項不是正確答案。組織胞漿菌症（histoplasmosis）的 Histoplasma可留下肉芽腫或纖維化病灶，但不是典型會在既有空洞內形成 fungus ball 的黴菌。",
-   "C": "本項不是正確答案。球黴菌症（coccidioidomycosis）的 Coccidioides可造成肺炎與殘留空洞，卻不如 Aspergillus 常以空洞內可移動的菌球表現。",
-   "D": "本項不是正確答案。隱球菌症（cryptococcosis）的 Cryptococcus在免疫低下者較常造成肺結節、浸潤或中樞神經感染，不是典型的空洞菌球病原。",
-   "summary": "既有肺空洞裡看到 fungus ball，第一個想到 Aspergillus；它是定殖，不等同侵襲性肺麴菌症。",
-   "guideline": "FC 醫學(五)第4冊 p.69"
+   "guideline": "FC 醫學(五)第4冊 p.69",
+   "A": "正確答案。麴菌感染（aspergillosis）的麴菌球（aspergilloma）是 Aspergillus 菌絲、黏液和碎屑在既有空洞裡聚成的團塊，常出現在舊結核空洞、肺大疱或支氣管擴張的空腔。",
+   "B": "本項不選。組織胞漿菌症（histoplasmosis）的 Histoplasma 可留下肉芽腫或纖維化病灶，但不是典型會在既有空洞裡形成 fungus ball 的黴菌。",
+   "C": "本項不選。球黴菌症（coccidioidomycosis）的 Coccidioides 可造成肺炎和殘留空洞，但不像 Aspergillus 那樣常以空洞內可移動的菌球表現。",
+   "D": "本項不選。隱球菌症（cryptococcosis）的 Cryptococcus 在免疫低下者較常造成肺結節、浸潤或中樞神經感染，不是典型的空洞菌球病原。",
+   "summary": "既有肺空洞裡看到 fungus ball，第一個想到 Aspergillus；它是定殖，不等於侵襲性肺麴菌症。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -90614,15 +90614,15 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "本項要選，兒童最常見的縱膈腔腫瘤是神經源性腫瘤（neurogenic tumor），通常位於後縱膈腔；thymoma 在兒童反而少見。",
-   "B": "本項不選，可切除的胸腺瘤（thymoma）以完整外科切除為治療核心，完整切除程度是重要預後因子。",
-   "C": "本項不選，胸腺瘤與重症肌無力（myasthenia gravis）有經典關聯，病人可能先以眼瞼下垂或易疲勞就診。",
-   "D": "本項不選，無法切除或局部晚期胸腺瘤常先用 cisplatin-based chemotherapy 縮小病灶，再由多專科評估手術或放射治療。",
-   "summary": "縱膈腫瘤分年齡：兒童先想後縱膈 neurogenic tumor；成人前縱膈才常想到 thymoma。",
    "guideline": "FC 醫學(五)第4冊 p.92",
    "concepts": [
     "mediastinal-compartment-tumors"
-   ]
+   ],
+   "A": "本項應選。這是錯的敘述。兒童最常見的縱膈腔腫瘤是神經源性腫瘤（neurogenic tumor），通常在後縱膈腔。胸腺瘤（thymoma）在兒童反而少見。",
+   "B": "本項不選。可切除的胸腺瘤以完整外科切除為治療核心，切除的完整程度是重要預後因子，敘述正確。",
+   "C": "本項不選。胸腺瘤和重症肌無力（myasthenia gravis）有經典關聯，病人可能先以眼瞼下垂或容易疲勞來就診，敘述正確。",
+   "D": "本項不選。無法切除或局部晚期的胸腺瘤，常先用 cisplatin 為主的化療把病灶縮小，再由多專科評估手術或放療，敘述正確。",
+   "summary": "縱膈腫瘤分年齡：兒童先想後縱膈的 neurogenic tumor；成人前縱膈才常想到 thymoma。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -90655,12 +90655,12 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "本項要選，Pel–Ebstein fever 是霍奇金淋巴瘤（Hodgkin lymphoma）偶見的週期性發燒，不是縱膈腔感染的典型症狀。",
-   "B": "本項不選，縱膈腔的筋膜與疏鬆結締組織可讓感染沿頸部、肋膜或心包膜快速延伸，形成嚴重敗血症。",
-   "C": "本項不選，急性縱膈腔炎（mediastinitis）要同時給廣效抗生素與充分手術或介入引流；只用抗生素無法控制被污染的縱膈腔。",
-   "D": "本項不選，食道穿孔會讓口咽與腸胃道的好氧、厭氧菌一起進入縱膈腔，感染擴散快速且死亡風險高。",
-   "summary": "縱膈腔炎最怕食道穿孔的混合菌污染；治療要抗生素加 source control，Pel–Ebstein fever 是淋巴瘤線索。",
-   "guideline": "FC 醫學(五)第4冊 p.82"
+   "guideline": "FC 醫學(五)第4冊 p.82",
+   "A": "本項應選。這是錯的敘述。Pel–Ebstein fever 是霍奇金淋巴瘤（Hodgkin lymphoma）偶爾出現的週期性發燒，不是縱膈腔感染的典型症狀。",
+   "B": "本項不選。縱膈腔的筋膜和疏鬆結締組織可以讓感染沿頸部、肋膜或心包膜快速延伸，形成嚴重敗血症，敘述正確。",
+   "C": "本項不選。急性縱膈腔炎（mediastinitis）要同時給廣效抗生素和充分的手術或介入引流，只用抗生素無法控制被污染的縱膈腔，敘述正確。",
+   "D": "本項不選。食道穿孔會讓口咽和腸胃道的好氧、厭氧菌一起進入縱膈腔，感染擴散快、死亡風險高，敘述正確。",
+   "summary": "縱膈腔炎最怕食道穿孔的混合菌污染，治療是抗生素加引流清創；Pel–Ebstein fever 是淋巴瘤線索不是它。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -91333,15 +91333,15 @@
    "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
   },
   "explanation": {
-   "A": "正確。Haller index 用胸腔最寬的左右橫徑除以胸骨至椎體間最短的前後徑；依圖中標示，A 是橫徑、C 是前後徑，所以公式是 A/C。",
-   "B": "本項不是正確公式。B 與 D 是左右縱向距離，平均後再除以 C 並不代表胸廓橫向寬度，因此不能量化漏斗胸的前後壓縮程度。",
-   "C": "本項不是正確公式。C/E 比的是兩段前後向距離，沒有把胸腔左右最寬橫徑納入，不能作為 Haller index。",
-   "D": "本項不是正確公式。(B+D)/A 使用了兩側高度與橫徑，仍未量到胸骨與椎體之間的最短前後距離，和 Haller index 的定義不符。",
-   "summary": "漏斗胸的 Haller index 就背「寬除深」：胸腔橫徑 ÷ 胸骨到椎體的最短前後徑。",
    "guideline": "FC 醫學(五)第4冊 p.19",
    "concepts": [
     "haller-index"
-   ]
+   ],
+   "A": "正確答案。Haller index 是胸腔最寬的左右橫徑，除以胸骨到椎體之間最短的前後徑。依圖中標示，A 是橫徑、C 是這段最短前後徑，所以公式是 A/C。",
+   "B": "本項不選。B 和 D 是左右兩側的縱向距離，平均後再除以 C 不代表胸廓的左右寬度，量不出漏斗胸的前後壓縮程度。",
+   "C": "本項不選。C/E 比的是兩段前後向距離，沒有把胸腔左右最寬橫徑算進去，不能當 Haller index。",
+   "D": "本項不選。(B+D)/A 用了兩側高度和橫徑，仍然沒量到胸骨與椎體之間的最短前後距離，跟 Haller index 的定義不合。",
+   "summary": "漏斗胸的 Haller index 就背「寬除深」：胸腔橫徑 ÷ 胸骨到椎體的最短前後徑。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -91369,12 +91369,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不是本題最適當的時機。2～5 歲胸壁仍在快速生長，過早矯正可能隨生長再度凹陷，且之後仍需安排取出支撐板。",
-   "B": "本項不是本題最適當的時機。6～9 歲可依嚴重度與症狀個別評估，但多數人會等接近青春期，讓胸壁發育與矯正時機較平衡。",
-   "C": "正確。依本題的傳統選項，10～14 歲接近青春期、胸壁仍具可塑性，是 Nuss procedure 常被安排的年齡範圍；實務年齡仍要看症狀、變形速度與胸壁成熟度。",
-   "D": "本項不是本題最適當的時機。成人仍可接受 Nuss procedure，但胸壁較僵硬、手術技術與併發症考量更多，不能視為一般病人的首選時點。",
-   "summary": "漏斗胸不是越早開越好；國考看到 Nuss procedure 的時機，記住青春期前後約 10～14 歲。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。2～5 歲胸壁還在快速生長，太早矯正可能隨生長再度凹陷，之後還要再安排取出支撐板。",
+   "B": "本項不選。6～9 歲可依嚴重度和症狀個別評估，但多數人會等接近青春期，讓胸壁發育和矯正時機比較平衡。",
+   "C": "正確答案。依本題的傳統選項，10～14 歲接近青春期、胸壁還有可塑性，是 Nuss procedure 常被安排的年齡範圍。實際年齡仍要看症狀、變形速度和胸壁成熟度。",
+   "D": "本項不選。成人仍可以做 Nuss procedure，但胸壁較僵硬，手術技術和併發症考量更多，不是一般病人的首選時點。",
+   "summary": "漏斗胸不是越早開越好；Nuss procedure 的時機記青春期前後、大約 10～14 歲。"
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -101863,12 +101863,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不是預後最佳的分型。腺泡型（acinar）肺腺癌是常見浸潤型態，預後通常介於低風險 lepidic 與高風險 micropapillary 之間。",
-   "B": "本項不是預後最佳的分型。乳頭型（papillary）由纖維血管軸構成的乳頭狀結構為主，整體預後不如 lepidic predominant adenocarcinoma。",
-   "C": "正確。伏壁型（lepidic）肺腺癌沿既有肺泡壁生長，較少破壞肺泡結構；在浸潤型態中通常與較低復發風險及較佳預後相關。",
-   "D": "本項不是預後最佳的分型。微乳頭型（micropapillary）可見無纖維血管軸的小細胞團漂浮於肺泡腔，和淋巴血管侵犯、淋巴結轉移及較差預後相關。",
-   "summary": "肺腺癌組織型記憶法：lepidic 最溫和、micropapillary 最容易轉移，兩端的預後差最多。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。腺泡型（acinar）肺腺癌是常見的浸潤型態，預後通常介於低風險的 lepidic 和高風險的 micropapillary 之間，不是最好的。",
+   "B": "本項不選。乳頭型（papillary）以纖維血管軸構成的乳頭狀結構為主，整體預後不如以伏壁型為主的肺腺癌。",
+   "C": "正確答案。伏壁型（lepidic）肺腺癌沿著既有肺泡壁生長，較少破壞肺泡結構，在各種浸潤型態裡通常對應較低的復發風險和較好的預後。",
+   "D": "本項不選。微乳頭型（micropapillary）是沒有纖維血管軸的小細胞團漂在肺泡腔裡，和淋巴血管侵犯、淋巴結轉移及較差預後相關。",
+   "summary": "肺腺癌組織型記憶法：lepidic 最溫和、micropapillary 最容易轉移，兩端的預後差最多。"
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -101896,12 +101896,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。類肉瘤病（sarcoidosis）是全身性肉芽腫疾病，但九成以上患者可有胸腔受累，常見雙側肺門淋巴結腫大或肺實質病灶。",
-   "B": "本項不是正確答案。持續的肉芽腫發炎可使肺間質纖維化，晚期尤其可出現上葉為主的肺纖維化與呼吸功能下降。",
-   "C": "本項不是正確答案。非乾酪性肉芽腫（non-caseating granuloma）可出現在皮膚、眼睛、肝臟、心臟與神經系統，不只局限於肺部和肺門淋巴結。",
-   "D": "本項不是正確答案。類肉瘤病不是細菌感染，治療以觀察或依器官受累使用 corticosteroid 等免疫調節治療，抗生素沒有針對性效果。",
-   "summary": "sarcoidosis 是全身性 non-caseating granuloma；胸腔最常受累，但晚期確實可能纖維化。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。類肉瘤病（sarcoidosis）是全身性肉芽腫疾病，但九成以上病人有胸腔受累，常見雙側肺門淋巴結腫大或肺實質病灶。",
+   "B": "本項不選。持續的肉芽腫發炎可讓肺間質纖維化，晚期尤其可能出現以上葉為主的肺纖維化和呼吸功能下降。",
+   "C": "本項不選。非乾酪性肉芽腫（non-caseating granuloma）也可出現在皮膚、眼睛、肝臟、心臟和神經系統，不只侷限在肺和肺門淋巴結。",
+   "D": "本項不選。類肉瘤病不是細菌感染，治療以觀察或依器官受累使用 corticosteroid 等免疫調節，抗生素沒有針對性效果。",
+   "summary": "sarcoidosis 是全身性的 non-caseating granuloma，胸腔最常受累，晚期確實可能纖維化。"
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -112635,12 +112635,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，這個症候群和胸腔疾病有明確關聯。上腔靜脈症候群（superior vena cava syndrome）常由右側縱膈腫瘤、肺癌或淋巴瘤壓迫上腔靜脈造成。",
-   "B": "本項不選，這個症候群和胸腔疾病有明確關聯。Horner syndrome 是交感神經路徑受損造成的縮瞳、上眼瞼下垂與無汗，肺尖的 Pancoast tumor 可侵犯此路徑。",
-   "C": "本項是本題要選的最不相關症狀。假性紅血球增多症（pseudopolycythemia）多是血漿容積減少造成血比容相對升高，不是胸腔腫瘤或胸腔解剖侵犯的典型表現。",
-   "D": "本項不選，這個症候群和胸腔疾病有明確關聯。Pancoast syndrome 由肺尖腫瘤侵犯下臂神經叢與交感鏈，引起肩臂痛、手部肌萎縮及可合併 Horner syndrome。",
-   "summary": "肺尖腫瘤會串起 Pancoast syndrome 和 Horner syndrome；pseudopolycythemia 則是體液容積問題。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。上腔靜脈症候群（superior vena cava syndrome）和胸腔疾病關聯明確，常由右側縱膈腫瘤、肺癌或淋巴瘤壓迫上腔靜脈造成。",
+   "B": "本項不選。Horner syndrome 是交感神經路徑受損造成的縮瞳、上眼瞼下垂和無汗，肺尖的 Pancoast tumor 可侵犯這條路徑。",
+   "C": "本項應選。這是最不相關的症狀。假性紅血球增多症（pseudopolycythemia）多半是血漿容積減少讓血比容相對升高，不是胸腔腫瘤或胸腔解剖侵犯的表現。",
+   "D": "本項不選。Pancoast syndrome 由肺尖腫瘤侵犯下臂神經叢和交感鏈，造成肩臂痛、手部肌肉萎縮，可合併 Horner syndrome，和胸腔疾病關聯明確。",
+   "summary": "肺尖腫瘤會串起 Pancoast syndrome 和 Horner syndrome；pseudopolycythemia 是體液容積問題，跟胸腔無關。"
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -112701,12 +112701,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，氣管腺樣囊狀癌（adenoid cystic carcinoma）有 perineural spread 特性，可沿神經或黏膜下層向上下延伸，切除邊界常比肉眼腫瘤長。",
-   "B": "本項不選，長期呼吸器正壓會拉扯剛修補的氣管並增加吻合處裂開風險，因此持續依賴呼吸器者通常不適合立即做氣管重建。",
-   "C": "本項是本題最不適當的處置。曲黴菌球（aspergilloma）是既有空洞內的定殖，抗黴菌藥物難以清除空洞中的菌球；有重大咳血且可耐受手術者，局部切除才是重要根治選項。",
-   "D": "本項不選，局部支氣管擴張症（bronchiectasis）若反覆感染、咳血或保守治療失敗，切除病灶肺葉可移除持續感染的來源。",
-   "summary": "aspergilloma 是空洞內定殖，藥物很難清掉菌球；反覆或大量咳血要評估切除，而非先吃三個月抗黴菌藥。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。氣管腺樣囊狀癌（adenoid cystic carcinoma）有沿神經擴散（perineural spread）的特性，可沿神經或黏膜下層往上下延伸，切除邊界常比肉眼腫瘤長，敘述適當。",
+   "B": "本項不選。長期呼吸器的正壓會拉扯剛修補的氣管、增加吻合處裂開的風險，所以持續依賴呼吸器的人通常不適合馬上做氣管重建，敘述適當。",
+   "C": "本項應選。這是最不適當的處置。曲黴菌球（aspergilloma）是既有空洞裡的定殖，抗黴菌藥很難清掉空洞中的菌球。有重大咳血、又耐受得住手術的人，局部切除才是重要的根治選項。",
+   "D": "本項不選。局部支氣管擴張症（bronchiectasis）如果反覆感染、咳血或保守治療失敗，切除病灶肺葉可移除持續感染的來源，敘述適當。",
+   "summary": "aspergilloma 是空洞內定殖，藥物很難清掉菌球；反覆或大量咳血要評估切除，不是先吃三個月抗黴菌藥。"
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -113375,15 +113375,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，漏斗胸（pectus excavatum）約每 400 人可見一例，男性較女性常見；數字會因族群與研究定義略有差異。",
-   "B": "本項不選，漏斗胸要評估是否合併二尖瓣脫垂或 Marfan syndrome、Ehlers–Danlos syndrome 等結締組織疾病，因這些疾病會影響心肺評估與手術規劃。",
-   "C": "本項不選，是否矯正不只看外觀，還要綜合 Haller index、心肺功能、症狀及胸壁凹陷惡化速度。",
-   "D": "本項要選，Nuss procedure 的支撐板通常會留置約 2～3 年，但 3 歲前胸壁仍快速生長，並非一般最適合的矯正年齡；多數教材選接近青春期。",
-   "summary": "漏斗胸手術先評 Haller index、心肺功能與進展；Nuss bar 留 2～3 年，但不在 3 歲前常規矯正。",
    "guideline": null,
    "concepts": [
     "haller-index"
-   ]
+   ],
+   "A": "本項不選。漏斗胸（pectus excavatum）大約每 400 人有一例。男性比女性常見，約 3～4 倍，數字會因族群和研究定義略有差異，敘述正確。",
+   "B": "本項不選。漏斗胸要評估有沒有合併二尖瓣脫垂（mitral valve prolapse）。也要看有沒有 Marfan syndrome、Ehlers–Danlos syndrome 這類結締組織疾病。這些都會影響心肺評估和手術規劃，敘述正確。",
+   "C": "本項不選。要不要矯正不只看外觀，還要綜合 Haller index、心肺功能、症狀和胸壁凹陷的惡化速度，敘述正確。",
+   "D": "本項應選。這是錯的敘述。Nuss procedure 的支撐板通常留置約 2～3 年，這半句沒錯。但 3 歲前胸壁還在快速生長，不是一般最適合的矯正年齡，多數教材選接近青春期。",
+   "summary": "漏斗胸手術先評 Haller index、心肺功能和進展速度；Nuss bar 留 2～3 年，但不在 3 歲前常規矯正。"
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -114210,12 +114210,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，不明顯氣胸可考慮補拍吐氣後胸部後前位（postero-anterior view）胸片以增加肋膜線辨識度；但若臨床高度懷疑張力性氣胸，不能為了影像延誤減壓。",
-   "B": "本項不選，張力性氣胸持續升高的肋膜壓力會把縱膈（mediastinum）推向對側，這是重要但較晚出現的影像徵象。",
-   "C": "本項不選，高壓會向下壓迫橫膈膜，嚴重時可造成橫膈膜反轉（inversion），代表胸腔內壓明顯升高。",
-   "D": "本項是本題要選的最不恰當敘述。張力性氣胸的危險在於單向閥漏氣持續累積，使肋膜壓超過大氣壓並阻礙靜脈回流；不必等到影像顯示大量空氣才會致命。",
-   "summary": "張力性氣胸不是看空氣量，而是看壓力是否持續上升並壓垮回心血流。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。不明顯的氣胸可以補拍吐氣後的胸部後前位（postero-anterior view）胸片，讓肋膜線更清楚。但如果臨床高度懷疑張力性氣胸，不能為了拍片延誤減壓，敘述適當。",
+   "B": "本項不選。張力性氣胸持續升高的肋膜壓力會把縱膈（mediastinum）推向對側，這是重要但較晚出現的影像徵象，敘述適當。",
+   "C": "本項不選。高壓向下壓迫橫膈膜，嚴重時可造成橫膈膜反轉（inversion），代表胸腔內壓明顯升高，敘述適當。",
+   "D": "本項應選。張力性氣胸的危險不在空氣量多少。它是單向閥式漏氣不斷累積，讓肋膜壓超過大氣壓、阻礙靜脈回流，不必等到影像顯示大量空氣就會致命。",
+   "summary": "張力性氣胸不是看空氣量，而是看壓力有沒有持續上升、壓垮回心血流。"
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -114314,12 +114314,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不適合急診開胸。高處墜落屬鈍性多重創傷，到院已心跳停止時存活率極低，且可能同時有無法由開胸控制的顱腦與腹骨盆傷。",
-   "B": "本項不適合急診開胸。雖然穿透性胸傷合併休克很危急，但病人仍有可測血壓，應同步復甦並迅速送手術室做 definitive repair；ED thoracotomy 主要留給瀕死或剛失去生命徵象者。",
-   "C": "正確。前胸刀傷造成無脈性電氣活動（pulseless electrical activity）要高度懷疑心包填塞或心臟傷；立即 ED thoracotomy 可打開心包、控制出血並做開放性心臟按摩。",
-   "D": "本項不適合急診開胸。鈍性胸傷後的 PEA 常合併廣泛胸腹或大血管傷，復甦性開胸的存活率遠低於有生命徵象的穿透性胸部傷。",
-   "summary": "ED thoracotomy 最典型的考場情境是「穿透性前胸傷＋剛變成 PEA」；鈍傷 PEA 的獲益很低。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。高處墜落是鈍性多重創傷，到院已心跳停止時存活率極低，還可能同時有開胸控制不了的顱腦和腹骨盆傷。",
+   "B": "本項不選。穿透性胸傷合併休克很危急，但病人還有可測血壓，應該同步復甦並迅速送手術室做確定性修補（definitive repair）。急診開胸主要留給瀕死或剛失去生命徵象的人。",
+   "C": "正確答案。前胸刀傷造成無脈性電氣活動（pulseless electrical activity, PEA），要高度懷疑心包填塞或心臟傷。立即急診開胸（ED thoracotomy）可打開心包、控制出血並做開放性心臟按摩。",
+   "D": "本項不選。鈍性胸傷後的 PEA 常合併廣泛的胸腹或大血管傷，復甦性開胸的存活率遠低於有生命徵象的穿透性胸部傷。",
+   "summary": "急診開胸最典型的情境是「穿透性前胸傷＋剛變成 PEA」；鈍傷 PEA 的獲益很低。"
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -122667,12 +122667,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，肺挫傷（pulmonary contusion）的出血與水腫可在受傷後數小時至 24～48 小時更明顯，初期外觀可能低估。",
-   "B": "本項不選，嚴重肺挫傷會造成低氧血症與急性呼吸窘迫症候群，可能需要 lung-protective ventilation；極難氧合時才考慮 ECMO。",
-   "C": "本項是本題最不適當的評估工具。最初胸部 X 光（initial chest radiograph）常因病灶尚未完全顯現而低估肺挫傷；胸部 CT 對早期範圍與合併胸腔傷的敏感度較高。",
-   "D": "本項不選，兒童胸壁較有彈性，鈍力可傳到肺實質而不折斷肋骨，所以沒有骨折也不能排除肺挫傷。",
-   "summary": "肺挫傷會延遲顯影；初始胸片可能很乾淨，CT 才能較早看出真正範圍。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肺挫傷（pulmonary contusion）的出血和水腫可以在受傷後幾小時到 24～48 小時變得更明顯，初期外觀常低估，敘述適當。",
+   "B": "本項不選。嚴重肺挫傷會造成低氧血症和急性呼吸窘迫症候群，可能需要保護性肺通氣，極難氧合時才考慮葉克膜（ECMO），敘述適當。",
+   "C": "本項應選。這是最不適當的評估工具。最初的胸部 X 光常因為病灶還沒完全顯現而低估肺挫傷。胸部 CT 對早期範圍和合併胸腔傷的敏感度較高。",
+   "D": "本項不選。兒童胸壁彈性較好，鈍力可以傳到肺實質而不折斷肋骨，所以沒有骨折也不能排除肺挫傷，敘述適當。",
+   "summary": "肺挫傷會延遲顯影；初始胸片可能很乾淨，CT 才能較早看出真正範圍。"
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -122733,15 +122733,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不是最適當的下一步。胸水已是膿性，且 pH 7.1、glucose 30 mg/dL 都表示細菌代謝與發炎嚴重；只等抗生素無法排出被包住的感染液。",
-   "B": "本項不是最適當的下一步。反覆胸腔穿刺術可能暫時抽出液體，但膿胸（empyema）常有纖維蛋白分隔，單次或反覆穿刺難以達到持續且完整的 source control。",
-   "C": "正確。膿性積液或胸水 pH <7.2 是複雜性肋膜感染的引流指標，應儘早置放胸管；若有多房性分隔、殘餘膿腔或引流失敗，再考慮胸腔鏡手術（VATS）清創。",
-   "D": "本項不是最適當的下一步。擴大抗生素可以補足菌種涵蓋，但不能取代排膿；延至一週後才追蹤會讓感染組織化，增加 trapped lung 與手術難度。",
-   "summary": "肺炎胸水若是膿、pH <7.2 或 glucose 很低，就不是只換抗生素：先把感染胸水引流出去。",
    "guideline": null,
    "concepts": [
     "pleural-infection-stages"
-   ]
+   ],
+   "A": "本項不選。胸水已經是膿性，pH 7.1、glucose 30 mg/dL 都代表細菌代謝和發炎很嚴重。只等抗生素排不出被包住的感染液。",
+   "B": "本項不選。反覆胸腔穿刺可以暫時抽掉液體，但膿胸（empyema）常有纖維蛋白分隔，單次或反覆穿刺很難達到持續、完整的感染源控制。",
+   "C": "正確答案。膿性積液，或胸水 pH < 7.2，是複雜性肋膜感染要引流的指標，應儘早置放胸管。如果有多房分隔、殘餘膿腔或引流失敗，再考慮胸腔鏡手術（VATS）清創。",
+   "D": "本項不選。擴大抗生素可以補足菌種涵蓋，但不能取代排膿。拖到一週後才追蹤會讓感染組織化，增加 trapped lung 和手術難度。",
+   "summary": "肺炎胸水如果是膿、pH < 7.2 或 glucose 很低，就不是只換抗生素：先把感染胸水引流出去。"
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -123825,12 +123825,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選。惡性肋膜間皮瘤與石綿暴露高度相關，潛伏期可長達 20 到 40 年，好發於中年以上男性——反映的是數十年前的職業暴露。",
-   "B": "本項被官方接受為答案之一。手術確實常用於切片診斷與肋膜沾黏術，但把它限縮成「主要只有這兩件事」並不完整：在慎選的病人身上，肋膜外全肺切除或肋膜切除減積術仍是多模式治療的一環。",
-   "C": "本項應選，也是實質上最明確的錯誤。**單獨化學治療確實能延長存活**——pemetrexed 合併 cisplatin 就是這個癌症的標準全身治療，近年再加上免疫治療。說三種治療單獨都無效，與現有證據不符。",
-   "D": "本項不選。肋膜外全肺切除（extrapleural pneumonectomy）的切除範圍就是這四樣：整側肺、臟層與壁層肋膜、心包膜與橫膈，後兩者再用人工材料重建。手術死亡率高，適應症很嚴格。",
-   "summary": "惡性肋膜間皮瘤不是「治了也沒用」：pemetrexed 加 cisplatin 能延長存活；手術角色要看病人選擇，不只是切片與沾黏術。",
-   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分"
+   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分",
+   "A": "本項不選。惡性肋膜間皮瘤（mesothelioma）和石綿暴露高度相關，潛伏期可長達 20 到 40 年，好發於中年以上男性，反映的是數十年前的職業暴露。",
+   "B": "本項應選（官方複選之一）。手術確實常用於切片診斷和肋膜沾黏術，但把它限縮成「主要只有這兩件事」並不完整——在慎選的病人身上，肋膜外全肺切除或肋膜切除減積術仍是多模式治療的一環。",
+   "C": "本項應選。這也是官方給分的答案，而且是三個選項裡最明確的錯誤。單獨化學治療確實能延長存活——pemetrexed 合併 cisplatin 就是這個癌症的標準全身治療，近年再加免疫治療。說三種治療單獨都無效，和現有證據不符。",
+   "D": "本項不選。肋膜外全肺切除（extrapleural pneumonectomy）的切除範圍就是這四樣：整側肺、臟層與壁層肋膜、心包膜和橫膈，後兩者再用人工材料重建。手術死亡率高、適應症嚴格，敘述正確。",
+   "summary": "惡性肋膜間皮瘤不是「治了也沒用」：pemetrexed 加 cisplatin 能延長存活；手術角色要看病人選擇，不只是切片和沾黏術。"
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -124300,12 +124300,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，這句話可成立。花生容易卡在支氣管，油脂也會刺激呼吸道；若異物延遲移除，可造成阻塞後肺炎、局部支氣管擴張症（bronchiectasis）或肺不張。",
-   "B": "本項是本題要選的最不恰當敘述。吸入性異物最常停在右主支氣管，因它較寬、較短且走向較垂直；左主支氣管不是最常見位置。",
-   "C": "本項不選，這句話可成立。硬幣若卡在上食道、位置接近咽食道交界，可由有經驗者以直接喉鏡（laryngoscopy）或食道鏡評估後取出，重點是避免盲推進胃內。",
-   "D": "本項不選，鈕扣電池在食道會形成局部電流與鹼性傷害，短時間就可能壞死甚至穿孔，因此需緊急移除。",
-   "summary": "異物吸入位置就背右主支氣管；食道鈕扣電池不是觀察題，是需要立刻取出的急症。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。花生容易卡在支氣管，油脂也會刺激呼吸道。異物延遲移除可造成阻塞後肺炎、局部支氣管擴張症（bronchiectasis）或肺不張，這句成立。",
+   "B": "本項應選。吸入性異物最常停在右主支氣管，不是左側，因為右主支氣管比較寬、比較短、走向較垂直。",
+   "C": "本項不選。硬幣卡在上食道、接近咽食道交界時，可由有經驗者用直接喉鏡（laryngoscopy）或食道鏡評估後取出，重點是別盲推進胃裡，這句成立。",
+   "D": "本項不選。鈕扣電池在食道會形成局部電流和鹼性傷害，短時間就可能壞死甚至穿孔，所以要緊急移除，這句成立。",
+   "summary": "異物吸入位置就背右主支氣管；食道鈕扣電池不是觀察題，是要立刻取出的急症。"
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -133318,12 +133318,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不是最適當敘述。開放性氣胸若被不透氣敷料完全封死，或病人接受正壓通氣，仍可能變成張力性氣胸；敷料要能排氣並同步置放胸管。",
-   "B": "本項不是最適當敘述。針刺減壓只是在張力性氣胸時暫時把壓力放掉，導管可能阻塞或移位，之後仍須以胸管作持續引流與 definitive treatment。",
-   "C": "正確。外傷後胸片出現少量皮下氣腫（subcutaneous emphysema），常表示肺或肋膜漏氣並與氣胸相關；仍要同時留意氣管支氣管傷或胸壁傷口等其他漏氣來源。",
-   "D": "本項不是最適當敘述。外傷性氣胸是否置胸管要看大小、症狀、是否需要正壓通氣與追蹤能力；小而穩定的病人可在嚴密觀察下選擇保守處置。",
-   "summary": "張力性氣胸的針刺減壓只是橋接，最後仍要胸管；外傷氣胸也不是看到就每例都插管。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。開放性氣胸如果被不透氣敷料完全封死，或病人接受正壓通氣，仍可能變成張力性氣胸。敷料要能排氣，並同時放胸管。",
+   "B": "本項不選。針刺減壓只是張力性氣胸時暫時把壓力放掉，導管可能阻塞或移位，之後仍要用胸管做持續引流和確定性治療。",
+   "C": "正確答案。外傷後胸片出現少量皮下氣腫（subcutaneous emphysema），常代表肺或肋膜漏氣、和氣胸相關。但仍要留意氣管支氣管傷或胸壁傷口等其他漏氣來源。",
+   "D": "本項不選。外傷性氣胸要不要放胸管，看大小、症狀、要不要正壓通氣和能不能追蹤。小而穩定的病人可以在嚴密觀察下選擇保守處置。",
+   "summary": "張力性氣胸的針刺減壓只是橋接，最後仍要胸管；外傷氣胸也不是看到就每例都插管。"
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -133590,12 +133590,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，張力性氣胸（tension pneumothorax）會同時造成通氣障礙與阻塞性休克，典型可見呼吸窘迫（respiratory distress）和低血壓（hypotension）。",
-   "B": "本項不選，患側呼吸音減弱或消失（lack of or decreased breath sound）是重要床邊線索，尤其與突然低血壓合併時要立刻處置。",
-   "C": "本項不選，單側高壓可推移氣管偏移（tracheal deviation），漏出的空氣也可進入皮下組織形成皮下氣腫（subcutaneous emphysema）；兩者不是每例都出現，但出現時支持診斷。",
-   "D": "本項最不適當，血氧飽和度（oxygen saturation）在早期可暫時正常，不能用它排除張力性氣胸；外傷病人若有呼吸窘迫、單側呼吸音消失與低血壓，應先立即減壓再找其他病因。",
-   "summary": "張力性氣胸是臨床診斷：SpO2 暫時好看也不能排除，低血壓合併單側無呼吸音就先減壓。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。張力性氣胸（tension pneumothorax）會同時造成通氣障礙和阻塞性休克，典型可見呼吸窘迫（respiratory distress）和低血壓（hypotension），敘述正確。",
+   "B": "本項不選。患側呼吸音減弱或消失是重要的床邊線索，尤其和突然低血壓合併時要立刻處置，敘述正確。",
+   "C": "本項不選。單側高壓可把氣管推偏（tracheal deviation），漏出的空氣也可進入皮下形成皮下氣腫（subcutaneous emphysema）。兩者不是每例都有，但出現時支持診斷，敘述正確。",
+   "D": "本項應選。血氧飽和度（oxygen saturation）早期可以暫時正常，不能拿它來排除張力性氣胸。外傷病人如果有呼吸窘迫、單側呼吸音消失和低血壓，應該先立即減壓再找其他病因。",
+   "summary": "張力性氣胸是臨床診斷：SpO2 暫時好看也不能排除，低血壓合併單側無呼吸音就先減壓。"
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -133662,12 +133662,12 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，急性鈍性橫膈肌損傷常合併腹內臟器傷，經腹剖腹探查能同時處理出血、脾肝腸傷與橫膈膜破裂。",
-   "B": "本項不選，橫膈膜承受持續呼吸張力，修補通常以粗的不可吸收縫線作間斷或連續縫合，以維持強度。",
-   "C": "本項要選，胸腔鏡手術不是所有橫膈肌損傷的首選；急性鈍傷多要先由腹腔探查合併傷，胸腔鏡只適用於選擇性的延遲診斷或特定穩定病人。",
-   "D": "本項不選，大範圍缺損若直接縫合張力太大，可用人工或生物網片（mesh）橋接修補，避免修補後再裂開。",
-   "summary": "急性鈍性橫膈傷先從腹腔找合併內臟傷；thoracoscopy 是選擇性工具，不是所有病人的第一步。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。急性鈍性橫膈肌損傷常合併腹內臟器傷，經腹剖腹探查能同時處理出血、脾肝腸傷和橫膈膜破裂，敘述正確。",
+   "B": "本項不選。橫膈膜要承受持續的呼吸張力，修補通常用粗的不可吸收縫線做間斷或連續縫合，維持強度，敘述正確。",
+   "C": "本項應選。這是錯的敘述。胸腔鏡手術不是所有橫膈肌損傷的首選。急性鈍傷多半要先從腹腔探查合併傷，胸腔鏡只適用於選擇性的延遲診斷或特定穩定病人。",
+   "D": "本項不選。大範圍缺損如果直接縫合張力太大，可以用人工或生物網片（mesh）橋接修補，避免修補後再裂開，敘述正確。",
+   "summary": "急性鈍性橫膈傷先從腹腔找合併內臟傷；胸腔鏡是選擇性工具，不是所有病人的第一步。"
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -134381,15 +134381,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不選，乳糜是腸道吸收後進入淋巴系統的富脂液體，含 triglyceride、chylomicron、蛋白質與淋巴球。",
-   "B": "本項最不適當，腫瘤確實是重要的非外傷性原因，但整體而言乳糜胸最常見於手術或其他醫源性胸管損傷；不能把腫瘤侵犯說成所有情境下最常見。",
-   "C": "本項不選，初期會先引流、控制脂肪攝取與營養；若高流量漏出持續、病人營養惡化或保守治療失敗，就要考慮胸管栓塞或手術結紮。",
-   "D": "本項不選，手術治療常在橫膈膜上方結紮胸管，能涵蓋胸管多支或解剖變異的情況。",
-   "summary": "乳糜胸先想胸管被手術傷到；先減少乳糜流量，保守失敗再做 embolization 或胸管結紮。",
    "guideline": null,
    "concepts": [
     "chylothorax"
-   ]
+   ],
+   "A": "本項不選。乳糜是腸道吸收後進入淋巴系統的富脂液體，含三酸甘油脂（triglyceride）、乳糜微粒（chylomicron）、蛋白質和淋巴球，敘述適當。",
+   "B": "本項應選。腫瘤確實是重要的非外傷性原因，但整體來說乳糜胸最常見於手術或其他醫源性的胸管損傷，不能說腫瘤侵犯在所有情境下最常見。",
+   "C": "本項不選。初期會先引流、控制脂肪攝取和營養。如果高流量漏出持續、營養惡化或保守治療失敗，就要考慮胸管栓塞或手術結紮，敘述適當。",
+   "D": "本項不選。手術治療常在橫膈膜上方結紮胸管，可以涵蓋胸管多分支或解剖變異的情況，敘述適當。",
+   "summary": "乳糜胸先想胸管被手術傷到；先減少乳糜流量，保守失敗再做栓塞或胸管結紮。"
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -134417,15 +134417,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項最不適當，兒童的縱膈腔神經源性腫瘤較可能是 neuroblastoma 或其他未成熟腫瘤，惡性率反而高於成人；成人多是良性的 schwannoma。",
-   "B": "本項不選，神經源性腫瘤多源自交感鏈、周邊神經或神經節，這些結構集中在脊柱旁，因此常位於後縱膈腔。",
-   "C": "本項不選，成人最常見的縱膈腔神經源性腫瘤是許旺氏細胞瘤（schwannoma），通常為良性且生長緩慢。",
-   "D": "本項不選，許旺氏細胞瘤源自 Schwann cells，可沿任何胸神經（thoracic nerve）等周邊神經發生；依起源不同可能呈肋間、迷走或交感神經相關腫塊。",
-   "summary": "後縱膈腫塊先想 neurogenic tumor；成人常是良性 schwannoma，兒童反而要提高對 neuroblastoma 的警覺。",
    "guideline": null,
    "concepts": [
     "mediastinal-compartment-tumors"
-   ]
+   ],
+   "A": "本項應選。兒童的縱膈腔神經源性腫瘤比較可能是 neuroblastoma 或其他未成熟腫瘤，惡性率反而高於成人；成人多是良性的 schwannoma。",
+   "B": "本項不選。神經源性腫瘤多源自交感鏈、周邊神經或神經節，這些結構集中在脊柱旁，所以常位在後縱膈腔，敘述正確。",
+   "C": "本項不選。成人最常見的縱膈腔神經源性腫瘤是許旺氏細胞瘤（schwannoma），通常是良性、生長緩慢，敘述正確。",
+   "D": "本項不選。許旺氏細胞瘤源自 Schwann cells，可沿任何胸神經（thoracic nerve）等周邊神經發生，依起源不同可能是肋間、迷走或交感神經相關的腫塊，敘述正確。",
+   "summary": "後縱膈腫塊先想 neurogenic tumor；成人常是良性 schwannoma，兒童反而要提高對 neuroblastoma 的警覺。"
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -135784,15 +135784,15 @@
   "specialty": "胸腔外科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項不是最可能的診斷。主動脈剝離（aortic dissection）通常呈突然撕裂性胸背痛，CT 會見主動脈內膜 flap；僅憑題幹無法從附圖確認這些特徵。",
-   "B": "正確。24 歲女性的前縱膈腔腫塊若影像含脂肪、液體或鈣化／牙齒樣成分，最典型是畸胎瘤（teratoma）；本題官方答案為 B。電腦斷層上前縱膈腔有一顆界線清楚、內部密度不均的腫塊，往兩側推開肺組織但沒有侵犯血管。年輕女性加上前縱膈腔含混合密度（脂肪、軟組織、鈣化）的腫塊，最符合成熟畸胎瘤。前縱膈腔腫瘤的鑑別可用 4T 記：thymoma、teratoma（生殖細胞瘤）、thyroid、terrible lymphoma。",
-   "C": "本項不是最可能的診斷。肺癌（lung cancer）通常是肺實質或肺門病灶，並和年齡、吸菸史及不規則肺結節相符；題幹未提供支持肺癌的臨床或影像線索。",
-   "D": "本項不是最可能的診斷。神經源性腫瘤（neurogenic tumor）多在後縱膈腔、靠近脊椎旁；若圖示是前縱膈腔含脂肪或鈣化的腫塊，就更支持 teratoma。",
-   "summary": "年輕人縱膈腫塊要先分區：前縱膈看到脂肪、液體或鈣化混合物，優先想到 teratoma。",
    "guideline": null,
    "concepts": [
     "mediastinal-compartment-tumors"
-   ]
+   ],
+   "A": "本項不選。主動脈剝離（aortic dissection）通常有突然的撕裂性胸背痛，CT 會看到主動脈內膜 flap。這張影像看到的是一顆界線清楚的前縱膈腔腫塊，不是主動脈的問題。",
+   "B": "正確答案。CT 上前縱膈腔有一顆界線清楚、內部密度不均的腫塊，把兩側肺推開但沒有侵犯血管。24 歲女性加上前縱膈腔含混合密度（脂肪、軟組織、鈣化）的腫塊，最符合成熟畸胎瘤（teratoma）。前縱膈腔腫瘤可用 4T 記：thymoma、teratoma、thyroid、terrible lymphoma。",
+   "C": "本項不選。肺癌（lung cancer）通常是肺實質或肺門的病灶，也和年齡、吸菸史、不規則肺結節相符。這位年輕女性的腫塊在前縱膈腔、沒有這些線索。",
+   "D": "本項不選。神經源性腫瘤（neurogenic tumor）多在後縱膈腔、靠近脊椎旁。這顆腫塊在前縱膈腔又含混合密度，更支持 teratoma。",
+   "summary": "年輕人縱膈腫塊先分區：前縱膈腔看到脂肪、液體或鈣化的混合物，優先想 teratoma。"
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
