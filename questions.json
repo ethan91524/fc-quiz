@@ -21,12 +21,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "機械性小腸阻塞（mechanical small-bowel obstruction）的腹部 X 光可見近端小腸擴張及多個氣液平面（air-fluid levels），完全阻塞時遠端大腸氣體減少或消失，符合本例。",
-   "B": "正確答案。單純小腸阻塞可能因腸道壓力或嘔吐使 amylase 輕度上升，但上升超過正常值 10 倍更應另找急性胰臟炎等原因，並非本病「很可能」的表現。",
-   "C": "腹部手術後的腹膜沾黏（postoperative adhesion）是成人小腸阻塞的常見原因；既往手術史與此次陣發絞痛、嘔吐及停止排便相符。",
-   "D": "沒有腹膜炎、絞窄或缺血證據的沾黏性小腸阻塞，可先禁食、鼻胃管減壓及靜脈補充水分與電解質並密切觀察；出現持續疼痛、腹膜刺激徵象或惡化才須緊急手術。",
-   "summary": "腹部手術後陣發絞痛、嘔吐、腹脹與高亢腸音指向沾黏性小腸阻塞；amylase 大幅升高不是其典型所見。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。機械性小腸阻塞（mechanical small-bowel obstruction）的腹部 X 光有兩個特徵。一是近端小腸擴張、多個氣液平面（air-fluid levels），二是完全阻塞時遠端大腸氣體減少或消失。這都符合這一例。",
+   "B": "本項應選。這是錯的敘述。單純小腸阻塞可能因為腸道壓力或嘔吐讓 amylase 輕度上升，但上升超過正常值 10 倍就要另找急性胰臟炎等原因，不是這個病「很可能」的表現。",
+   "C": "本項不選。腹部手術後的腹膜沾黏（postoperative adhesion）是成人小腸阻塞的常見原因。既往手術史加上這次的陣發絞痛、嘔吐、停止排便，都相符。",
+   "D": "本項不選。沒有腹膜炎、絞窄或缺血證據的沾黏性小腸阻塞，可先禁食、鼻胃管減壓、靜脈補水補電解質並密切觀察。出現持續疼痛、腹膜刺激徵象或惡化才須緊急手術。",
+   "summary": "腹部手術後陣發絞痛、嘔吐、腹脹加上高亢腸音指向沾黏性小腸阻塞；amylase 大幅升高不是它的典型所見。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -493,15 +493,15 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "慢性下腹痛合併排便習慣改變，須詢問食物與壓力等誘因、手術與用藥史，以及大腸直腸癌家族史，才能分辨腸躁症（irritable bowel syndrome）與器質性疾病。",
-   "B": "正確答案。排便不盡感可見於腸躁症與骨盆底排便障礙，不能單憑此症狀推定直腸腫瘤；腫瘤須結合出血、體重下降、貧血、理學檢查及內視鏡判斷。",
-   "C": "夜間排便會提高發炎性、感染性或分泌性腹瀉等器質性疾病的疑慮，但並非百分之百具有診斷性，因此「不一定」有器質性問題仍是合理敘述。",
-   "D": "糞便形態、顏色、血液或黏液以及體重變化都是警訊評估的一部分；不明原因體重下降或血便會促使進一步檢查。",
-   "summary": "排便後改善的慢性腹痛常見於腸躁症，但排便不盡感本身不能診斷直腸腫瘤。",
    "guideline": "Rome Foundation, Rome IV criteria for irritable bowel syndrome",
    "concepts": [
     "rome-iv-ibs"
-   ]
+   ],
+   "A": "本項不選。慢性下腹痛合併排便習慣改變，病史要問三塊：食物和壓力等誘因、手術和用藥史、大腸直腸癌家族史。問齊了才能分辨腸躁症（irritable bowel syndrome）和器質性疾病。",
+   "B": "本項應選。這是最不正確的敘述。排便不盡感可見於腸躁症和骨盆底排便障礙，不能單憑這個症狀就推定直腸腫瘤。腫瘤要結合出血、體重下降、貧血、理學檢查和內視鏡判斷。",
+   "C": "本項不選。夜間排便會提高發炎性、感染性或分泌性腹瀉等器質性疾病的疑慮，但不是百分之百有診斷性，所以「不一定」有器質性問題仍是合理敘述。",
+   "D": "本項不選。糞便形態、顏色、血液或黏液，以及體重變化，都是警訊評估的一部分。不明原因的體重下降或血便會促使進一步檢查。",
+   "summary": "排便後改善的慢性腹痛常見於腸躁症，但「排便不盡感」本身不能診斷直腸腫瘤。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -529,12 +529,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "腸躁症（irritable bowel syndrome）會造成腹痛與排便改變，但不能解釋 Billroth II 術後反覆餐後嘔吐，以及低 albumin、巨球性貧血等營養不良證據。",
-   "B": "膽汁逆流性胃病（bile reflux gastropathy）可在胃部手術後造成上腹痛、噁心與膽汁性嘔吐，但題幹的餐後腹脹、反覆嘔吐及 Billroth II 解剖更典型指向輸入袢阻塞。",
-   "C": "正確。輸入袢症候群（afferent loop syndrome）是 Billroth II 術後輸入袢受阻，膽汁與胰液滯留造成餐後腹痛、脹滿及嘔吐；慢性阻塞可導致細菌增生、吸收不良與營養缺乏。",
-   "D": "Zollinger–Ellison syndrome 由 gastrinoma 造成高胃酸與反覆、多發或難治性潰瘍，常伴腹瀉；它與既往 Billroth II 後的餐後阻塞症狀連結較弱。",
-   "summary": "Billroth II 術後出現餐後痛、腹脹、嘔吐與營養不良，應想到輸入袢症候群。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。腸躁症（irritable bowel syndrome）會造成腹痛和排便改變，但解釋不了 Billroth II 術後反覆的餐後嘔吐，也解釋不了低白蛋白、巨球性貧血等營養不良證據。",
+   "B": "本項不選。膽汁逆流性胃病（bile reflux gastropathy）可在胃部手術後造成上腹痛、噁心和膽汁性嘔吐，但這一例的餐後腹脹、反覆嘔吐加上 Billroth II 的解剖，更典型指向輸入袢阻塞。",
+   "C": "正確答案。輸入袢症候群（afferent loop syndrome）是 Billroth II 術後輸入袢受阻，膽汁和胰液滯留造成餐後腹痛、脹滿和嘔吐。慢性阻塞可導致細菌增生、吸收不良和營養缺乏。",
+   "D": "本項不選。Zollinger–Ellison syndrome 由胃泌素瘤（gastrinoma）造成高胃酸和反覆、多發或難治的潰瘍，常伴腹瀉。它跟這種 Billroth II 後的餐後阻塞症狀連結較弱。",
+   "summary": "Billroth II 術後出現餐後痛、腹脹、嘔吐加上營養不良，要想到輸入袢症候群。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -605,12 +605,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "下壁心肌梗塞（inferior myocardial infarction）可有胸痛或上腹不適，但通常是壓迫感並伴缺血性症狀；題幹長期燒灼感、平躺加劇與咳嗽更符合胃酸逆流，臨床仍須依風險排除心肌缺血。",
-   "B": "慢性支氣管炎（chronic bronchitis）的核心是長期咳嗽與痰，不能充分解釋胸骨後燒灼痛及仰臥惡化。",
-   "C": "正確。胃食道逆流疾病（gastroesophageal reflux disease）常造成胸骨後灼熱，仰臥時因重力保護消失而加劇；逆流至咽喉亦可誘發慢性咳嗽。",
-   "D": "鬱血性心衰竭（congestive heart failure）仰臥可出現端坐呼吸與夜間陣發性呼吸困難，通常伴呼吸喘、水腫或肺鬱血，而非以胸骨後灼熱為主。",
-   "summary": "胸骨後灼熱合併仰臥惡化與咳嗽，是胃食道逆流疾病的典型食道內及食道外表現。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。下壁心肌梗塞（inferior myocardial infarction）可有胸痛或上腹不適，但通常是壓迫感並伴缺血性症狀。這一例的長期燒灼感、平躺加劇和咳嗽更符合胃酸逆流，臨床仍要依風險排除心肌缺血。",
+   "B": "本項不選。慢性支氣管炎（chronic bronchitis）的核心是長期咳嗽和有痰，解釋不了胸骨後的燒灼痛和仰臥惡化。",
+   "C": "正確答案。胃食道逆流疾病（gastroesophageal reflux disease）常造成胸骨後灼熱，仰臥時因為重力的保護消失而加劇。逆流到咽喉也可誘發慢性咳嗽。",
+   "D": "本項不選。鬱血性心衰竭（congestive heart failure）仰臥可出現端坐呼吸和夜間陣發性呼吸困難，但通常伴呼吸喘、水腫或肺鬱血，不是以胸骨後灼熱為主。",
+   "summary": "胸骨後灼熱合併仰臥惡化和咳嗽，是胃食道逆流疾病典型的食道內和食道外表現。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -714,12 +714,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "幽門螺旋桿菌（Helicobacter pylori）會造成慢性胃炎，削弱胃與十二指腸黏膜防禦，是十二指腸及胃潰瘍的重要病因。",
-   "B": "正確答案。H. pylori 並非胃食道逆流疾病（gastroesophageal reflux disease）的公認致病原因；逆流主要與下食道括約肌功能、食道裂孔疝氣與腹壓等因素有關。",
-   "C": "H. pylori 引起的慢性發炎可沿著萎縮、腸化生與異生的途徑增加非賁門部胃腺癌風險。",
-   "D": "胃黏膜相關淋巴組織淋巴癌（gastric MALT lymphoma）與 H. pylori 的慢性抗原刺激密切相關，早期局限病例根除細菌後可能退縮。",
-   "summary": "H. pylori 明確相關疾病包括消化性潰瘍、非賁門胃腺癌與胃 MALT lymphoma，不是 GERD 的直接病因。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。幽門螺旋桿菌（Helicobacter pylori）會造成慢性胃炎、削弱胃和十二指腸的黏膜防禦，是十二指腸潰瘍和胃潰瘍的重要病因。",
+   "B": "正確答案。H. pylori 不是胃食道逆流疾病（gastroesophageal reflux disease）的公認致病原因。逆流主要跟下食道括約肌功能、食道裂孔疝氣和腹壓等因素有關。",
+   "C": "本項不選。H. pylori 引起的慢性發炎可沿著萎縮、腸化生、異生的途徑，增加非賁門部胃腺癌的風險。",
+   "D": "本項不選。胃黏膜相關淋巴組織淋巴癌（gastric MALT lymphoma）和 H. pylori 的慢性抗原刺激密切相關，早期局限的病例根除細菌後可能退縮。",
+   "summary": "H. pylori 明確相關的疾病包括消化性潰瘍、非賁門胃腺癌和胃 MALT lymphoma，不是 GERD 的直接病因。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -826,12 +826,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "本項不選。大部分急性憩室炎屬非複雜性，靠抗生素與飲食調整就能緩解。要開刀的是有膿瘍引流失敗、穿孔腹膜炎、廔管或狹窄的複雜性個案。",
-   "B": "本項不選。腹部平片只能看有無自由氣體或腸阻塞，看不到憩室發炎。診斷首選是**腹部電腦斷層**，它能同時判斷嚴重度與有沒有膿瘍。急性期不做大腸鏡，怕穿孔。",
-   "C": "本項應選。mesalazine 這類抗發炎藥用於症狀性憩室疾病，可減少症狀復發。這反映一個觀念轉變：憩室疾病不只是機械性問題，也有慢性低度發炎的成分。",
-   "D": "本項不選。抽菸**是**危險因子，還有肥胖、缺乏運動、紅肉攝取多、纖維攝取少。這些也正是可以衛教改變的地方。",
-   "summary": "憩室炎診斷靠 CT 不是平片、急性期不做大腸鏡；抽菸與低纖維飲食都是可以改的危險因子。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。大部分急性憩室炎屬於非複雜性，靠抗生素和飲食調整就能緩解。要開刀的是有膿瘍引流失敗、穿孔腹膜炎、廔管或狹窄的複雜性個案。",
+   "B": "本項不選。腹部平片只能看有沒有自由氣體或腸阻塞，看不到憩室發炎。診斷首選是腹部電腦斷層，它能同時判斷嚴重度和有沒有膿瘍。急性期不做大腸鏡，怕穿孔。",
+   "C": "正確答案。mesalazine 這類抗發炎藥用於症狀性憩室疾病，可減少症狀復發。這反映一個觀念轉變：憩室疾病不只是機械性問題，也有慢性低度發炎的成分。",
+   "D": "本項不選。抽菸「是」危險因子，還有肥胖、缺乏運動、紅肉攝取多、纖維攝取少。這些也正是可以衛教改變的地方。",
+   "summary": "憩室炎診斷靠 CT 不是平片、急性期不做大腸鏡；抽菸和低纖維飲食都是可以改的危險因子。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2651,12 +2651,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "食道裂孔疝氣（hiatal hernia）是胃的一部分經膈肌食道裂孔進入胸腔，這是其基本解剖定義。",
-   "B": "食道裂孔疝氣主要分為滑動型（sliding）與食道旁型（paraesophageal）；後者又可依胃與其他臟器疝入方式細分。",
-   "C": "正確答案。滑動型約占絕大多數，食道旁型較少見；食道旁型雖少見，卻較須注意胃扭轉、阻塞或絞窄。",
-   "D": "滑動型食道裂孔疝氣的胃食道交界（gastroesophageal junction）與近端胃一起移到橫膈上方，並常與胃食道逆流相關。",
-   "summary": "滑動型食道裂孔疝氣最常見且胃食道交界上移；食道旁型較少見但機械性併發症較重要。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。食道裂孔疝氣（hiatal hernia）是胃的一部分經膈肌食道裂孔進入胸腔，這是它的基本解剖定義。",
+   "B": "本項不選。食道裂孔疝氣主要分滑動型（sliding）和食道旁型（paraesophageal），後者又可依胃和其他臟器疝入的方式細分。",
+   "C": "本項應選。這是錯的敘述。滑動型約占絕大多數，食道旁型較少見。食道旁型雖然少見，卻比較要注意胃扭轉、阻塞或絞窄。",
+   "D": "本項不選。滑動型食道裂孔疝氣的胃食道交界（gastroesophageal junction）和近端胃一起移到橫膈上方，並常和胃食道逆流相關。",
+   "summary": "滑動型食道裂孔疝氣最常見、胃食道交界上移；食道旁型較少見但機械性併發症比較重要。"
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -12169,12 +12169,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "急性腹瀉多數與感染相關；將傳染原比例限定為僅 30～40% 低估了感染性病因，且實際比例會受族群與檢驗方式影響。",
-   "B": "輪狀病毒（rotavirus）通常經約 1～3 天潛伏後發病；小於 6 小時較像預先形成毒素造成的食物中毒，不符合 rotavirus。",
-   "C": "Bismuth subsalicylate 含 salicylate，腎功能不全時有累積與毒性疑慮，不應列為腹瀉的優先自行治療；首要仍是評估病因及適當補液。",
-   "D": "正確。長期 alcohol 使用可直接影響腸黏膜、運輸與蠕動，造成水與電解質分泌增加，臨床可呈分泌型腹瀉（secretory diarrhea）。",
-   "summary": "腹瀉題須辨別感染潛伏期與用藥禁忌；rotavirus 不在數小時內發作，腎衰竭不宜優先用 bismuth。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。急性腹瀉多數與感染相關。把傳染原比例限定為只有 30～40% 低估了感染性病因，而且實際比例會受族群和檢驗方式影響。",
+   "B": "本項不選。輪狀病毒（rotavirus）通常經約 1～3 天潛伏後發病。小於 6 小時比較像預先形成毒素造成的食物中毒，不符合 rotavirus。",
+   "C": "本項不選。bismuth subsalicylate 含 salicylate，腎功能不全時有累積和毒性的疑慮，不應列為腹瀉的優先自行治療。首要仍是評估病因和適當補液。",
+   "D": "正確答案。長期使用酒精（alcohol）可直接影響腸黏膜、運輸和蠕動，造成水和電解質分泌增加，臨床可呈現分泌型腹瀉（secretory diarrhea）。",
+   "summary": "腹瀉題要辨別感染潛伏期和用藥禁忌；rotavirus 不會在數小時內發作，腎衰竭不宜優先用 bismuth。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12521,12 +12521,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "細菌過度增生（small intestinal bacterial overgrowth）可造成腹脹、腹瀉與吸收不良，但不是 dumping syndrome 發作最常見的餐食誘因。",
-   "B": "正確。胃部手術後大量高滲透壓碳水化合物快速進入小腸，會引起液體移入腸腔與血管舒縮症狀；稍晚又可因胰島素過度反應造成低血糖。",
-   "C": "膽汁排出受阻會造成膽汁鬱積、黃疸及脂肪消化不良，並不是 dumping syndrome 的主要機轉。",
-   "D": "迷走神經切斷可能加速胃排空並增加 dumping 風險，但直接觸發症狀最常見的是攝取大量簡單碳水化合物，而非單純蠕動異常。",
-   "summary": "Dumping syndrome 的核心是胃內容物、尤其高滲透壓碳水化合物過快進入小腸。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。細菌過度增生（small intestinal bacterial overgrowth）可造成腹脹、腹瀉和吸收不良，但不是 dumping syndrome 發作最常見的餐食誘因。",
+   "B": "正確答案。胃部手術後，大量高滲透壓的碳水化合物快速進入小腸，會引起液體移入腸腔和血管舒縮症狀。稍晚又可因為胰島素過度反應造成低血糖。",
+   "C": "本項不選。膽汁排出受阻會造成膽汁鬱積、黃疸和脂肪消化不良，不是 dumping syndrome 的主要機轉。",
+   "D": "本項不選。迷走神經切斷可能加速胃排空、增加 dumping 的風險，但直接觸發症狀最常見的是攝取大量的簡單碳水化合物，不是單純的蠕動異常。",
+   "summary": "Dumping syndrome 的核心是胃內容物（尤其高滲透壓碳水化合物）過快進入小腸。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12791,16 +12791,16 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "急性胰臟炎較嚴重的宿主風險包括高齡、肥胖與共病；BMI 大於而非小於 30 kg/m² 才是風險方向。",
-   "B": "入院時血液濃縮（hemoconcentration）及 hematocrit 偏高或未隨輸液下降，才提示第三空間流失與較重病程；hemodilution、hematocrit <40% 不是此處指標。",
-   "C": "正確。核心體溫 <36°C 或 >38°C、心率 >90/min 都屬全身性發炎反應症候群（systemic inflammatory response syndrome）的項目；持續 SIRS 與重症風險相關。",
-   "D": "住院期間 CRP 上升可反映發炎嚴重度，但單純血糖升高不是用來界定住院後嚴重度的關鍵器官衰竭指標；應追蹤器官衰竭、BUN、hematocrit 等變化。",
-   "summary": "急性胰臟炎重症警訊包含肥胖、血液濃縮及持續 SIRS；題目以體溫與心率辨認 SIRS。",
    "guideline": "Revised Atlanta Classification (2012)",
    "concepts": [
     "sirs-criteria",
     "revised-atlanta-acute-pancreatitis"
-   ]
+   ],
+   "A": "本項不選。急性胰臟炎較嚴重的宿主風險包括高齡、肥胖和共病。要注意是 BMI「大於」30 kg/m²（不是小於）才是風險方向。",
+   "B": "本項不選。入院時是「血液濃縮」（hemoconcentration），以及 hematocrit 偏高或未隨輸液下降，才提示第三空間流失和較重病程。hemodilution、hematocrit < 40% 不是這裡的指標。",
+   "C": "正確答案。核心體溫 < 36°C 或 > 38°C、心率 > 90/min 都屬於全身性發炎反應症候群（systemic inflammatory response syndrome, SIRS）的項目。持續的 SIRS 和重症風險相關。",
+   "D": "本項不選。住院期間 CRP 上升可反映發炎嚴重度，但單純血糖升高不是用來界定住院後嚴重度的關鍵器官衰竭指標。應追蹤器官衰竭、BUN、hematocrit 等變化。",
+   "summary": "急性胰臟炎的重症警訊包含肥胖、血液濃縮和持續 SIRS；題目用體溫和心率來辨認 SIRS。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12828,12 +12828,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。傳統分類將 A 型慢性胃炎描述為胃體優勢、常與自體免疫相關；B 型則為胃竇優勢、常與 H. pylori 感染相關。",
-   "B": "胃體優勢型與胃竇優勢型的病因在此被顛倒：自體免疫性胃炎主要破壞胃體與胃底腺體，H. pylori 早期常呈胃竇優勢。",
-   "C": "多灶性萎縮性胃炎（multifocal atrophic gastritis）到腸化生及胃腺癌的序列主要與長期 H. pylori 相關；自體免疫性胃炎也增加腫瘤風險，但不能把這條典型序列直接當成其專屬病程。",
-   "D": "惡性貧血（pernicious anemia）、抗壁細胞及抗 intrinsic factor 抗體屬自體免疫性胃體優勢胃炎，不是胃竇優勢胃炎。",
-   "summary": "A 型＝自體免疫、胃體優勢、pernicious anemia；B 型＝H. pylori、胃竇優勢。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。傳統分類把 A 型慢性胃炎描述為胃體優勢、常和自體免疫相關；B 型則是胃竇優勢、常和 H. pylori 感染相關。",
+   "B": "本項不選。這裡把兩型的病因顛倒了：自體免疫性胃炎主要破壞胃體和胃底的腺體，H. pylori 早期常呈胃竇優勢。",
+   "C": "本項不選。多灶性萎縮性胃炎（multifocal atrophic gastritis）到腸化生、胃腺癌的序列主要跟長期 H. pylori 相關。自體免疫性胃炎也增加腫瘤風險，但不能把這條典型序列直接當成它專屬的病程。",
+   "D": "本項不選。惡性貧血（pernicious anemia）、抗壁細胞和抗內在因子（intrinsic factor）抗體屬於自體免疫性、胃體優勢的胃炎，不是胃竇優勢胃炎。",
+   "summary": "A 型＝自體免疫、胃體優勢、pernicious anemia；B 型＝H. pylori、胃竇優勢。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14699,12 +14699,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "大腸扭轉（colonic volvulus）多見於年長、活動受限、慢性便秘或神經精神疾病患者，不是最常發生於兒童。",
-   "B": "大腸扭轉以乙狀結腸最常見，盲腸扭轉次之；因此「最好發於盲腸」不正確。",
-   "C": "大腸扭轉與冗長活動的結腸及固定點旋轉有關，並不以合併腹股溝疝氣為典型。",
-   "D": "正確。腹部 CT 可見腸管擴張、移行點與腸繫膜血管旋轉的 whirl sign，並可評估缺血、穿孔等併發症。",
-   "summary": "大腸扭轉最常在乙狀結腸；CT 可確認旋轉部位並評估腸缺血與穿孔。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。大腸扭轉（colonic volvulus）多見於年長、活動受限、慢性便秘或神經精神疾病的病人，不是最常發生在兒童。",
+   "B": "本項不選。大腸扭轉以乙狀結腸最常見，盲腸扭轉次之，所以「最好發於盲腸」不正確。",
+   "C": "本項不選。大腸扭轉和冗長活動的結腸以及固定點的旋轉有關，並不以合併腹股溝疝氣為典型。",
+   "D": "正確答案。腹部 CT 可見腸管擴張、移行點和腸繫膜血管旋轉的旋渦徵象（whirl sign），還可評估缺血、穿孔等併發症。",
+   "summary": "大腸扭轉最常在乙狀結腸；CT 可確認旋轉部位並評估腸缺血和穿孔。"
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -24557,12 +24557,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "育齡女性右下腹痛須同時排除泌尿道結石或感染，以及子宮外孕、骨盆腔發炎與子宮內膜異位症；妊娠檢驗是早期評估的重要一環。",
-   "B": "正確答案。McBurney point 壓痛是右下腹局部壓痛；Rovsing sign 則是按壓左下腹引起右下腹疼痛，兩者不是同一徵象。",
-   "C": "未懷孕成人疑急性闌尾炎時，腹部骨盆 CT 可見闌尾擴張、壁增厚及周邊脂肪發炎；糞石（appendicolith）並非診斷必備。",
-   "D": "闌尾穿孔形成侷限膿瘍且病人穩定時，可先給廣效抗生素並視情況經皮引流；是否常規做間隔性闌尾切除須個別化，題述延後手術是可接受策略。",
-   "summary": "McBurney point 壓痛與 Rovsing sign 不同；後者是左下腹壓迫誘發右下腹痛。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。育齡女性右下腹痛要同時排除泌尿道結石或感染，以及子宮外孕（ectopic pregnancy）、骨盆腔發炎和子宮內膜異位症。妊娠檢驗是早期評估的重要一環。",
+   "B": "本項應選。這是錯的敘述。McBurney point 壓痛是右下腹的局部壓痛；Rovsing sign 是按壓「左下腹」引起右下腹疼痛。兩者不是同一個徵象。",
+   "C": "本項不選。未懷孕的成人疑急性闌尾炎（acute appendicitis）時，腹部骨盆 CT 可見闌尾擴張、壁增厚和周邊脂肪發炎。糞石（appendicolith）不是診斷必備。",
+   "D": "本項不選。闌尾穿孔形成侷限膿瘍、病人又穩定時，可先給廣效抗生素並視情況經皮引流。是否常規做間隔性闌尾切除要個別化，題目說的延後手術是可接受的策略。",
+   "summary": "McBurney point 壓痛和 Rovsing sign 不同；後者是按壓左下腹誘發右下腹痛。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24595,12 +24595,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "腺瘤性息肉（adenomatous polyp）具異生性，是傳統 adenoma–carcinoma sequence 的前驅病灶；一般小型遠端增生性息肉的惡性潛能低。",
-   "B": "正確答案。扁平、無蒂（sessile）與有蒂（pedunculated）描述形態，鋸齒狀（serrated）描述組織路徑；侵襲風險主要由大小、組織型與異生程度決定，不能說有蒂者較具侵襲性。",
-   "C": "家族性腺瘤性息肉症（familial adenomatous polyposis）若未處置幾乎必然發生大腸癌，其風險高於 Peutz–Jeghers syndrome。",
-   "D": "Lynch syndrome 源自 DNA mismatch repair 胚系缺陷，除大腸癌外也增加子宮內膜癌與卵巢癌風險。",
-   "summary": "息肉是否侵襲不能只看有蒂或無蒂；大小、組織型與異生程度才是重點。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。腺瘤性息肉（adenomatous polyp）有異生性，是傳統腺瘤—癌序列（adenoma–carcinoma sequence）的前驅病灶。一般小型遠端的增生性息肉惡性潛能低。",
+   "B": "本項應選。這是錯的敘述。扁平無蒂（sessile）和有蒂（pedunculated）描述的是「形態」，鋸齒狀（serrated）描述的是「組織路徑」。侵襲風險主要由大小、組織型和異生程度決定，不能說有蒂的比較具侵襲性。",
+   "C": "本項不選。家族性腺瘤性息肉症（familial adenomatous polyposis, FAP）如果不處置，幾乎必然發生大腸癌，風險高於 Peutz–Jeghers syndrome。",
+   "D": "本項不選。Lynch syndrome 源自 DNA 錯配修復（mismatch repair）的胚系缺陷，除了大腸癌，也增加子宮內膜癌和卵巢癌的風險。",
+   "summary": "息肉會不會侵襲不能只看有蒂或無蒂；大小、組織型和異生程度才是重點。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24633,12 +24633,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "壁細胞（parietal cell）以頂端膜 H+/K+-ATPase 將 H+ 分泌入胃腔，是 PPI 的作用標的。",
-   "B": "正確答案。壁細胞主動運輸胃酸耗能甚高，因此含有大量而非少量 mitochondria。",
-   "C": "Gastrin、acetylcholine 與 histamine 分別經 CCK-B、M3 與 H2 receptor 促進壁細胞分泌胃酸。",
-   "D": "受刺激時 tubulovesicles 與頂端 canalicular membrane 融合，使 H+/K+-ATPase 暴露並增加分泌面積。",
-   "summary": "壁細胞分泌胃酸需大量 ATP，所以 mitochondria 特別豐富。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。壁細胞（parietal cell）用頂端膜的 H⁺/K⁺-ATPase 把 H⁺ 分泌進胃腔，這也是 PPI 的作用標的。",
+   "B": "本項應選。這是錯的敘述。壁細胞主動運輸胃酸非常耗能，所以含有「大量」而不是少量的粒線體（mitochondria）。",
+   "C": "本項不選。gastrin、acetylcholine 和 histamine 分別經 CCK-B、M3 和 H2 receptor 促進壁細胞分泌胃酸。",
+   "D": "本項不選。受刺激時，管泡（tubulovesicles）和頂端的小管膜（canalicular membrane）融合，讓 H⁺/K⁺-ATPase 暴露、增加分泌面積。",
+   "summary": "壁細胞分泌胃酸需要大量 ATP，所以粒線體特別豐富。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24788,15 +24788,15 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "黏附血塊屬 Forrest IIb，血塊下可能仍有高風險出血點，再出血風險不算低。",
-   "B": "未出血可見血管屬 Forrest IIa，是需要內視鏡治療的高風險徵象。",
-   "C": "正確。乾淨潰瘍底部屬 Forrest III，再出血風險低，生命徵象穩定者可較早出院。",
-   "D": "胃動靜脈畸形仍可間歇出血，單憑檢查當下未出血不能保證三日內風險低。",
-   "summary": "Forrest 分類中乾淨底部最低風險；可見血管、黏附血塊仍須警覺。",
    "guideline": null,
    "concepts": [
     "forrest-classification"
-   ]
+   ],
+   "A": "本項不選。黏附血塊屬 Forrest IIb，血塊底下可能還有高風險的出血點，再出血風險不算低。",
+   "B": "本項不選。未出血但可見的血管屬 Forrest IIa，是需要內視鏡治療的高風險徵象。",
+   "C": "正確答案。乾淨的潰瘍底部屬 Forrest III，再出血風險低。生命徵象穩定的人可以較早出院。",
+   "D": "本項不選。胃動靜脈畸形仍可間歇出血，單憑檢查當下沒出血，不能保證三天內風險低。",
+   "summary": "Forrest 分類裡乾淨底部（III）風險最低；可見血管、黏附血塊都還要警覺。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25340,12 +25340,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "肥胖會提高腹壓與胃食道逆流，並與食道腺癌（esophageal adenocarcinoma）明確相關。",
-   "B": "慢性胃食道逆流可導致 Barrett 食道，再進展為異生與食道腺癌。",
-   "C": "吸菸與食道腺癌風險增加相關，雖其關聯不如對鱗狀細胞癌強。",
-   "D": "正確答案。H. pylori 與食道腺癌沒有正向致病關聯，部分研究甚至觀察到反向關聯。",
-   "summary": "食道腺癌主要連結 obesity、GERD、Barrett esophagus 與 smoking，而非 H. pylori。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肥胖會提高腹壓和胃食道逆流，和食道腺癌（esophageal adenocarcinoma）明確相關。",
+   "B": "本項不選。慢性胃食道逆流可導致 Barrett 食道，再進展成異生和食道腺癌。",
+   "C": "本項不選。吸菸和食道腺癌風險增加相關，雖然關聯不如對鱗狀細胞癌那麼強。",
+   "D": "正確答案。H. pylori 和食道腺癌沒有正向的致病關聯，部分研究甚至觀察到反向關聯。",
+   "summary": "食道腺癌主要連結 obesity、GERD、Barrett esophagus 和 smoking，不是 H. pylori。"
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -36534,15 +36534,15 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "腸躁症（irritable bowel syndrome）可見於各年齡，以女性較常就醫及被診斷。",
-   "B": "正確答案。糞便 calprotectin 是腸道發炎標記，可協助區分 IBD，但不是 IBS 的診斷性生物標記。",
-   "C": "IBS 可伴腹脹、消化不良與噁心等腸胃道症狀，但持續嘔吐屬警訊，需另找原因。",
-   "D": "IBS 涉及腸腦互動、內臟高敏感、蠕動與菌相等多重機轉，並非單一病因。",
-   "summary": "Calprotectin 用來找發炎，不是確診 IBS；IBS 仍以症狀準則及排除警訊為主。",
    "guideline": null,
    "concepts": [
     "rome-iv-ibs"
-   ]
+   ],
+   "A": "本項不選。腸躁症（irritable bowel syndrome）可見於各年齡，女性較常就醫和被診斷，敘述正確。",
+   "B": "本項應選。這是錯的敘述。糞便 calprotectin 是腸道發炎的標記，可協助區分發炎性腸道疾病（IBD），但不是 IBS 的診斷性生物標記。",
+   "C": "本項不選。IBS 可伴腹脹、消化不良和噁心等腸胃道症狀，不過持續嘔吐屬於警訊，要另找原因，敘述大方向正確。",
+   "D": "本項不選。IBS 涉及腸腦互動、內臟高敏感、蠕動和菌相等多重機轉，不是單一病因，敘述正確。",
+   "summary": "Calprotectin 是用來找發炎，不是確診 IBS；IBS 仍以症狀準則加排除警訊為主。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36575,12 +36575,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "右側大腸癌整體預後通常不優於左側，且分子特徵與治療反應不同。",
-   "B": "大腸癌最常經門靜脈轉移到肝臟，肺不是最常見的內臟轉移處。",
-   "C": "CEA 敏感度與特異度不足，不適合一般族群篩檢；較適合治療後追蹤。",
-   "D": "正確。多數可切除大腸癌復發發生於前數年，五年無病存活常作為臨床治癒的重要指標。",
-   "summary": "大腸癌常先轉移肝臟；CEA 用於追蹤而非篩檢。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。右側大腸癌整體預後通常不比左側好，而且分子特徵和治療反應也不同。",
+   "B": "本項不選。大腸癌最常經門靜脈轉移到肝臟，肺不是最常見的內臟轉移處。",
+   "C": "本項不選。CEA 的敏感度和特異度不足，不適合一般族群篩檢，比較適合治療後的追蹤。",
+   "D": "正確答案。多數可切除的大腸癌，復發發生在前幾年，所以五年無病存活常被當作臨床治癒的重要指標。",
+   "summary": "大腸癌常先轉移肝臟；CEA 用於追蹤不是篩檢；復發多在前幾年。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36613,12 +36613,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "Lauren 分類將胃腺癌分為腸道型（intestinal type）與瀰漫型（diffuse type）。",
-   "B": "瀰漫型常見黏附分子功能喪失，signet-ring cells 浸潤胃壁可形成皮革胃（linitis plastica）。",
-   "C": "腸道型常循 H. pylori 慢性萎縮性胃炎與腸化生路徑，病灶可呈潰瘍。",
-   "D": "正確答案。Krukenberg tumor 是胃癌轉移至卵巢而非子宮，常為雙側含 signet-ring cells 的卵巢轉移。",
-   "summary": "Krukenberg tumor 指胃癌卵巢轉移，不是子宮轉移。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。Lauren 分類把胃腺癌分為腸道型（intestinal type）和瀰漫型（diffuse type）。",
+   "B": "本項不選。瀰漫型常見黏附分子功能喪失，印戒細胞（signet-ring cells）浸潤胃壁可形成皮革胃（linitis plastica），敘述正確。",
+   "C": "本項不選。腸道型常循 H. pylori 引起的慢性萎縮性胃炎和腸化生路徑，病灶可呈潰瘍，敘述正確。",
+   "D": "本項應選。這是錯的敘述。Krukenberg tumor 是胃癌轉移到「卵巢」，不是子宮，常為雙側、含印戒細胞的卵巢轉移。",
+   "summary": "Krukenberg tumor 指胃癌的「卵巢」轉移，不是子宮轉移。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36646,12 +36646,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "鈣主要在十二指腸與近端空腸主動吸收，切除十二指腸可能降低吸收。",
-   "B": "正確。Vitamin B12 與 intrinsic factor 結合後主要在末端迴腸吸收，因此十二指腸切除影響較小。",
-   "C": "葉酸主要在十二指腸與近端空腸吸收，近端小腸切除會影響其吸收。",
-   "D": "鐵主要在十二指腸與近端空腸吸收，十二指腸切除容易造成缺鐵。",
-   "summary": "十二指腸吸收鐵、鈣與部分 folate；vitamin B12 的關鍵部位是末端迴腸。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。鈣主要在十二指腸和近端空腸主動吸收，切除十二指腸可能降低吸收。",
+   "B": "正確答案。維生素 B12 和內在因子（intrinsic factor）結合後，主要在「末端迴腸」吸收，所以切除十二指腸的影響較小。",
+   "C": "本項不選。葉酸主要在十二指腸和近端空腸吸收，切除近端小腸會影響它的吸收。",
+   "D": "本項不選。鐵主要在十二指腸和近端空腸吸收，切除十二指腸容易造成缺鐵。",
+   "summary": "十二指腸吸收鐵、鈣和部分葉酸；維生素 B12 的關鍵部位是末端迴腸。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36684,12 +36684,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "胰腺癌常因厭食、惡病質與消化吸收不良造成體重減輕。",
-   "B": "胰頭癌阻塞總膽管可造成無痛性黃疸與深色尿。",
-   "C": "胰臟後腹腔位置使腫瘤疼痛可放射至背部。",
-   "D": "正確答案。胰腺癌較可能造成新發或惡化的糖尿病與高血糖，低血糖不是常見症狀。",
-   "summary": "胰腺癌常見體重下降、黃疸與背痛；低血糖反而要考慮 insulinoma 等。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。胰腺癌常因厭食、惡病質和消化吸收不良而造成體重減輕。",
+   "B": "本項不選。胰頭癌阻塞總膽管可造成無痛性黃疸和深色尿。",
+   "C": "本項不選。胰臟在後腹腔的位置，讓腫瘤的疼痛可放射到背部。",
+   "D": "正確答案。胰腺癌比較可能造成新發或惡化的糖尿病和高血糖，低血糖不是常見症狀。",
+   "summary": "胰腺癌常見體重下降、黃疸和背痛；出現低血糖反而要想到胰島素瘤（insulinoma）等。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37321,12 +37321,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "局部胃癌術後單獨放射治療並非標準的存活獲益策略，通常須依分期採化療或化學放射治療。",
-   "B": "可切除局部胃癌仍以根治性手術為核心，放化療不能普遍達到與手術相當的治癒率。",
-   "C": "正確。HER2 過度表現的轉移性胃癌可在化療基礎上加入 trastuzumab，改善存活。",
-   "D": "Bevacizumab 加入胃癌化療未建立明確整體存活利益，不能視為標準有效組合。",
-   "summary": "轉移性 HER2-positive 胃癌可用 trastuzumab 加化療；局部可切除病灶仍以手術為核心。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。局部胃癌術後單獨放射治療不是標準的存活獲益策略，通常要依分期採化療或化學放射治療。",
+   "B": "本項不選。可切除的局部胃癌仍以根治性手術為核心，放化療不能普遍達到與手術相當的治癒率。",
+   "C": "正確答案。HER2 過度表現的轉移性胃癌，可在化療基礎上加入 trastuzumab，改善存活。",
+   "D": "本項不選。bevacizumab 加入胃癌化療沒有建立明確的整體存活利益，不能當成標準的有效組合。",
+   "summary": "轉移性 HER2 陽性胃癌可用 trastuzumab 加化療；局部可切除的病灶仍以手術為核心。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37359,12 +37359,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "全直腸繫膜切除（total mesorectal excision）移除直腸周圍淋巴血管組織，可降低局部復發。",
-   "B": "骨盆放射治療是局部進展直腸癌降低局部復發的重要部分，現代多採術前策略。",
-   "C": "5-FU 可作為放射增敏劑，化學放射治療可改善局部控制。",
-   "D": "正確答案。Cetuximab 並非 stage II/III 直腸癌合併放射治療降低局部復發的標準方式。",
-   "summary": "直腸癌局部控制仰賴 TME 與適當的化學放射治療，不靠 cetuximab 加放療。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。全直腸繫膜切除（total mesorectal excision, TME）移除直腸周圍的淋巴血管組織，可降低局部復發。",
+   "B": "本項不選。骨盆放射治療是局部進展直腸癌降低局部復發的重要部分，現代多採術前策略。",
+   "C": "本項不選。5-fluorouracil（5-FU）可作為放射增敏劑，化學放射治療可改善局部控制。",
+   "D": "本項應選。這是最不恰當的方式。cetuximab 不是 stage II／III 直腸癌合併放射治療、用來降低局部復發的標準做法。",
+   "summary": "直腸癌的局部控制靠 TME 和適當的化學放射治療，不靠 cetuximab 加放療。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38677,12 +38677,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。反覆十二指腸球部潰瘍癒合與纖維化牽拉可形成三葉草狀變形（cloverleaf deformity）。",
-   "B": "雙壁徵象（double wall sign）不是十二指腸球部潰瘍癒合的典型變形。",
-   "C": "Football sign 描述大量腹腔游離氣體勾勒腹腔，常見於氣腹。",
-   "D": "倒 V 徵象（inverted V sign）不代表十二指腸球部潰瘍後的典型瘢痕變形。",
-   "summary": "十二指腸球部反覆潰瘍癒合會造成 cloverleaf deformity。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。反覆的十二指腸球部潰瘍癒合、加上纖維化牽拉，可形成三葉草狀變形（cloverleaf deformity）。",
+   "B": "本項不選。雙壁徵象（double wall sign）不是十二指腸球部潰瘍癒合的典型變形。",
+   "C": "本項不選。足球徵象（football sign）描述的是大量腹腔游離氣體勾勒出腹腔輪廓，常見於氣腹。",
+   "D": "本項不選。倒 V 徵象（inverted V sign）不代表十二指腸球部潰瘍後的典型瘢痕變形。",
+   "summary": "十二指腸球部反覆潰瘍癒合會造成三葉草狀變形（cloverleaf deformity）。"
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -48473,12 +48473,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "小腸良性腫瘤可包括 adenoma、平滑肌來源腫瘤與 lipoma；題目採平滑肌瘤或 adenoma 為常見者。",
-   "B": "正確答案。Peutz–Jeghers hamartomatous polyp 本身通常不會惡變，但該症候群患者多器官癌症風險增加。",
-   "C": "小腸 lymphoma 好發於迴腸，與該處淋巴組織較豐富有關。",
-   "D": "傳統分類中 leiomyosarcoma 被列為常見小腸 sarcoma；現代免疫病理會把許多舊稱病例重分類為 GIST。",
-   "summary": "Peutz–Jeghers 的息肉是 hamartoma，症候群癌症風險高不等於多數息肉會惡變。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。小腸良性腫瘤可包括腺瘤（adenoma）、平滑肌來源腫瘤和脂肪瘤（lipoma）。題目採平滑肌瘤（leiomyoma）或 adenoma 為常見者。",
+   "B": "本項應選。這是錯的敘述。Peutz–Jeghers 的錯構瘤性息肉（hamartomatous polyp）本身通常不會惡變，只是這個症候群的病人多器官癌症風險增加。",
+   "C": "本項不選。小腸淋巴瘤（lymphoma）好發於迴腸，和該處的淋巴組織比較豐富有關。",
+   "D": "本項不選。傳統分類把平滑肌肉瘤（leiomyosarcoma）列為常見的小腸肉瘤；現代免疫病理會把許多舊稱的病例重新分類為胃腸道基質瘤（GIST）。",
+   "summary": "Peutz–Jeghers 的息肉是錯構瘤，症候群癌症風險高不等於多數息肉會惡變。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48511,12 +48511,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確答案。Prostaglandin 促進黏液與 bicarbonate、維持黏膜血流，是胃黏膜防禦因子而非攻擊因子。",
-   "B": "Alcohol 可直接破壞胃黏膜屏障並引起急性胃炎。",
-   "C": "H. pylori 引起慢性發炎並削弱黏膜防禦，屬攻擊因子。",
-   "D": "Bile salt 逆流可破壞胃黏膜屏障，造成化學性胃病。",
-   "summary": "Prostaglandin 保護胃黏膜；NSAID 抑制它才會增加潰瘍風險。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。前列腺素（prostaglandin）促進黏液和碳酸氫鹽分泌、維持黏膜血流，是胃黏膜的防禦因子，不是攻擊因子。",
+   "B": "本項不選。酒精可直接破壞胃黏膜屏障、引起急性胃炎。",
+   "C": "本項不選。H. pylori 引起慢性發炎、削弱黏膜防禦，屬於攻擊因子。",
+   "D": "本項不選。膽鹽（bile salt）逆流可破壞胃黏膜屏障，造成化學性胃病。",
+   "summary": "前列腺素保護胃黏膜；NSAID 抑制它才會增加潰瘍風險。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48587,12 +48587,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "糞便潛血陽性也可由息肉、痔瘡或其他出血造成，不代表已確診大腸癌。",
-   "B": "肛門指診只能觸及低位直腸，無法篩檢大部分結直腸。",
-   "C": "正確。糞便潛血陽性後須做完整大腸鏡尋找出血來源並切除或切片病灶。",
-   "D": "傳統下消化道鋇劑攝影無法同時切片或切息肉，現行篩檢地位不等同大腸鏡。",
-   "summary": "FIT/FOBT 是篩檢，不是確診；陽性必須接續大腸鏡。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。糞便潛血陽性也可能由息肉、痔瘡或其他出血造成，不代表已確診大腸癌。",
+   "B": "本項不選。肛門指診只摸得到低位直腸，篩檢不了大部分的結直腸。",
+   "C": "正確答案。糞便潛血陽性之後，要做完整的大腸鏡尋找出血來源，並切除或切片病灶。",
+   "D": "本項不選。傳統的下消化道鋇劑攝影沒辦法同時切片或切息肉，現行篩檢的地位不等同大腸鏡。",
+   "summary": "糞便潛血（FIT／FOBT）是篩檢不是確診；陽性一定要接著做大腸鏡。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -49110,12 +49110,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "高動物性脂肪、加工肉品與低纖飲食型態和大腸癌風險相關。",
-   "B": "長期且廣泛的發炎性腸道疾病會提高 colitis-associated colorectal cancer 風險。",
-   "C": "Lynch syndrome 是重要遺傳性大腸癌症候群。",
-   "D": "正確答案。與結腸腫瘤具經典關聯的是 Streptococcus gallolyticus bacteremia，不是一般 enterococcus bacteremia。",
-   "summary": "大腸癌菌血症線索是 Streptococcus gallolyticus；enterococcus 不是經典配對。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。高動物性脂肪、加工肉品和低纖維的飲食型態，和大腸癌風險相關。",
+   "B": "本項不選。長期且廣泛的發炎性腸道疾病會提高大腸炎相關大腸癌（colitis-associated colorectal cancer）的風險。",
+   "C": "本項不選。Lynch syndrome 是重要的遺傳性大腸癌症候群。",
+   "D": "本項應選。這是最不恰當的敘述。和結腸腫瘤有經典關聯的是 Streptococcus gallolyticus（舊稱 S. bovis）菌血症，不是一般的 enterococcus 菌血症。",
+   "summary": "大腸癌的菌血症線索是 Streptococcus gallolyticus；enterococcus 不是經典配對。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50487,12 +50487,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確答案。主動脈弓位於左側，會在食道左前側造成生理性壓跡，而非右側。",
-   "B": "左主支氣管跨越食道前方，可形成正常壓跡。",
-   "C": "鋇劑檢查可依食道進入橫膈裂孔處辨識胃食道交界與裂孔疝氣。",
-   "D": "吞嚥引發原發性蠕動波，將食團向胃推進。",
-   "summary": "正常食道壓跡包括主動脈弓與左主支氣管；主動脈弓壓跡不在右側。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。主動脈弓位於左側，會在食道的左前側造成生理性壓跡，不是右側。",
+   "B": "本項不選。左主支氣管跨越食道前方，可形成正常的壓跡。",
+   "C": "本項不選。鋇劑檢查可依食道進入橫膈裂孔的位置，辨識胃食道交界和裂孔疝氣。",
+   "D": "本項不選。吞嚥會引發原發性蠕動波，把食團往胃推進。",
+   "summary": "正常的食道壓跡包括主動脈弓和左主支氣管；主動脈弓的壓跡不在右側。"
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -60374,15 +60374,15 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "產傷、神經疾病、肌肉疾病與腹瀉型 IBS 均可能破壞儲便或括約肌控制，增加大便失禁。",
-   "B": "大便失禁可用纖維、bulking agent、止瀉藥及生物回饋，並依病因治療。",
-   "C": "正確答案。需要手推復位是第三級內痔；第四級為持續脫出且無法推回。",
-   "D": "肛門直腸膿瘍的核心治療是及時切開引流；免疫低下者感染風險與嚴重度較高。",
-   "summary": "內痔分級陷阱：grade III 可手推回，grade IV 無法復位。",
    "guideline": null,
    "concepts": [
     "internal-hemorrhoid-grading"
-   ]
+   ],
+   "A": "本項不選。產傷、神經疾病、肌肉疾病和腹瀉型腸躁症（IBS）都可能破壞儲便或括約肌的控制，增加大便失禁。",
+   "B": "本項不選。大便失禁可用纖維、糞便體積增加劑（bulking agent）、止瀉藥和生物回饋，並依病因治療。",
+   "C": "本項應選。這是錯的敘述。需要用手推復位的是「第三級」內痔；第四級是持續脫出、沒辦法推回去。",
+   "D": "本項不選。肛門直腸膿瘍的核心治療是及時切開引流。免疫低下的人感染風險和嚴重度都比較高。",
+   "summary": "內痔分級陷阱：grade III 可以用手推回去，grade IV 推不回去。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60415,12 +60415,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "腸穿孔使腸菌進入腹腔，造成需要 source control 的續發性腹膜炎。",
-   "B": "正確答案。自發性細菌性腹膜炎主要風險是肝硬化腹水蛋白低與嚴重肝病，不是周邊白血球過低。",
-   "C": "McBurney tenderness、Murphy sign、反彈痛與板狀僵硬有助定位感染源及辨識腹膜刺激。",
-   "D": "膈下游離氣體提示中空臟器穿孔，合併腹膜炎通常需緊急外科評估。",
-   "summary": "SBP 的核心背景是肝硬化腹水與低腹水蛋白，不是白血球低下。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。腸穿孔讓腸菌進入腹腔，造成需要感染源控制（source control）的續發性腹膜炎。",
+   "B": "本項應選。這是錯的敘述。自發性細菌性腹膜炎（spontaneous bacterial peritonitis, SBP）的主要風險是肝硬化腹水的蛋白低和嚴重肝病，不是周邊白血球過低。",
+   "C": "本項不選。McBurney 點壓痛、Murphy 徵象、反彈痛和板狀僵硬有助於定位感染源、辨識腹膜刺激。",
+   "D": "本項不選。膈下的游離氣體提示中空臟器穿孔，合併腹膜炎通常需要緊急外科評估。",
+   "summary": "SBP 的核心背景是肝硬化腹水和低腹水蛋白，不是白血球低下。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60453,12 +60453,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "酒精與吸菸有協同效應，是食道鱗狀細胞癌（esophageal squamous cell carcinoma）的主要危險因子。",
-   "B": "相同暴露也增加口腔、咽喉與喉部鱗癌，形成 field cancerization。",
-   "C": "先固體後液體的進行性吞嚥困難提示機械性阻塞；固液皆難較支持動力障礙。",
-   "D": "正確答案。鱗狀細胞癌可分泌 PTHrP 造成副腫瘤性高鈣血症，不需要骨轉移。",
-   "summary": "食道鱗癌可用 PTHrP 在沒有骨轉移時造成高鈣血症。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。酒精和吸菸有協同效應，是食道鱗狀細胞癌（esophageal squamous cell carcinoma）的主要危險因子。",
+   "B": "本項不選。同樣的暴露也增加口腔、咽喉和喉部的鱗癌，形成癌化區域效應（field cancerization）。",
+   "C": "本項不選。先固體後液體、進行性的吞嚥困難提示機械性阻塞；固體和液體一起都難，比較支持動力障礙。",
+   "D": "本項應選。這是錯的敘述。鱗狀細胞癌可分泌 PTHrP，造成副腫瘤性的高鈣血症，不需要骨轉移。",
+   "summary": "食道鱗癌可以用 PTHrP，在沒有骨轉移的情況下造成高鈣血症。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60524,12 +60524,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "Germline BRCA2 mutation 會增加胰腺癌風險，也可能影響鉑類與 PARP inhibitor 的治療考量。",
-   "B": "慢性胰臟炎的長期發炎與纖維化增加胰腺癌風險。",
-   "C": "腫瘤包繞或侵犯 superior mesenteric artery 通常屬局部不可切除。",
-   "D": "正確答案。可切除胰腺癌術後 adjuvant chemotherapy 能改善存活，是標準治療。",
-   "summary": "胰腺癌切除後必須考慮輔助化療；SMA 侵犯通常不可切除。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。生殖系 BRCA2 突變（germline BRCA2 mutation）會增加胰腺癌風險，也可能影響鉑類和 PARP inhibitor 的治療考量。",
+   "B": "本項不選。慢性胰臟炎（chronic pancreatitis）的長期發炎和纖維化會增加胰腺癌風險。",
+   "C": "本項不選。腫瘤包繞或侵犯上腸繫膜動脈（superior mesenteric artery, SMA）通常屬於局部不可切除。",
+   "D": "本項應選。這是錯的敘述。可切除的胰腺癌，術後的輔助化療（adjuvant chemotherapy）能改善存活，是標準治療。",
+   "summary": "胰腺癌切除後一定要考慮輔助化療；侵犯 SMA 通常不可切除。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61185,12 +61185,12 @@
    "book": "FC醫(三)(4)(風免、血液、腫瘤、家醫)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第四冊_免疫風濕科、血液科、腫瘤科、家庭醫學科.pdf"
   },
   "explanation": {
-   "A": "胃 lymphoma 以 B-cell origin 為主，包括 MALT lymphoma 與 diffuse large B-cell lymphoma。",
-   "B": "正確。局限且 H. pylori 陽性的胃 MALT lymphoma，第一線根除 H. pylori 可使許多病例退縮。",
-   "C": "局限胃 leiomyosarcoma 以完整外科切除為核心，不是化放療優先。",
-   "D": "轉移性 GIST 對傳統組合化療反應差，應依 KIT/PDGFRA 等使用 tyrosine kinase inhibitor。",
-   "summary": "胃 MALT lymphoma 先根除 H. pylori；GIST 用標靶而非傳統組合化療。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。胃淋巴瘤（lymphoma）以 B 細胞來源為主，包括 MALT lymphoma 和瀰漫性大 B 細胞淋巴瘤。",
+   "B": "正確答案。局限、又 H. pylori 陽性的胃 MALT lymphoma，第一線根除 H. pylori 可讓許多病例退縮。",
+   "C": "本項不選。局限的胃平滑肌肉瘤（leiomyosarcoma）以完整外科切除為核心，不是化放療優先。",
+   "D": "本項不選。轉移性 GIST 對傳統組合化療反應差，應依 KIT／PDGFRA 等使用酪胺酸激酶抑制劑（tyrosine kinase inhibitor）。",
+   "summary": "胃 MALT lymphoma 先根除 H. pylori；GIST 用標靶不是傳統組合化療。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62498,12 +62498,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確答案。Barium esophagogram 評估食道解剖與吞嚥，無法偵測急性胰臟炎。",
-   "B": "CT 或 ultrasonography 可追蹤 pancreatic pseudocyst 的大小與併發症。",
-   "C": "Barium esophagogram 可顯示狹窄、阻塞與部分動力異常。",
-   "D": "Contrast-enhanced CT 可評估胰臟壞死與局部併發症，適用於重症或診斷不明者。",
-   "summary": "食道鋇攝影不看胰臟；重症胰臟炎與 pseudocyst 用橫斷面影像。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。鋇劑吞嚥食道攝影（barium esophagogram）評估的是食道的解剖和吞嚥，沒辦法偵測急性胰臟炎。",
+   "B": "本項不選。CT 或超音波（ultrasonography）可追蹤胰臟假性囊腫（pancreatic pseudocyst）的大小和併發症。",
+   "C": "本項不選。鋇劑吞嚥食道攝影可顯示狹窄、阻塞和部分動力異常。",
+   "D": "本項不選。含顯影劑的 CT（contrast-enhanced CT）可評估胰臟壞死和局部併發症，適用於重症或診斷不明的人。",
+   "summary": "食道鋇攝影不看胰臟；重症胰臟炎和 pseudocyst 用橫斷面影像。"
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -72283,12 +72283,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "克隆氏病（Crohn disease）與腸道菌相、遺傳易感性及失調的黏膜免疫反應共同相關。",
-   "B": "克隆氏病（Crohn disease）可累及口腔至肛門任何部位，呈 skip lesions 與全層發炎，會形成 fistula、abscess 與 stricture。",
-   "C": "非乾酪性肉芽腫（noncaseating granuloma）支持 克隆氏病（Crohn disease），但切片未見也不能排除。",
-   "D": "正確答案。中重度或傳統藥物無效時可升級 biologics 或 small molecules；手術用於阻塞、瘻管、膿瘍等併發症且不能根治 克隆氏病（Crohn disease）。",
-   "summary": "克隆氏病（Crohn disease）傳統藥物失敗後可升級生物製劑，不是直接手術。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。克隆氏病（Crohn disease）和腸道菌相、遺傳易感性以及失調的黏膜免疫反應共同相關。",
+   "B": "本項不選。克隆氏病可累及口腔到肛門任何部位，呈現跳躍性病灶（skip lesions）和全層發炎，會形成瘻管（fistula）、膿瘍（abscess）和狹窄（stricture）。",
+   "C": "本項不選。非乾酪性肉芽腫（noncaseating granuloma）支持克隆氏病，但切片沒看到也不能排除。",
+   "D": "本項應選。這是錯的敘述。中重度或傳統藥物無效時，可升級生物製劑（biologics）或小分子藥。手術用於阻塞、瘻管、膿瘍等併發症，而且不能根治克隆氏病。",
+   "summary": "克隆氏病傳統藥物失敗後可升級生物製劑，不是直接手術。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72316,12 +72316,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Antacid 直接中和胃腔內既有胃酸，起效快但作用短。",
-   "B": "正確答案。H2 receptor 位於分泌胃酸的 parietal cell，不是分泌 pepsinogen 的 chief cell。",
-   "C": "PPI 在酸性環境活化後不可逆抑制 H+/K+-ATPase，需等待新幫浦生成才恢復分泌。",
-   "D": "長期 PPI 停藥後可因 hypergastrinemia 等出現 rebound acid hypersecretion。",
-   "summary": "H2 blocker 的作用細胞是 parietal cell，不是 chief cell。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。制酸劑（antacid）直接中和胃腔內既有的胃酸，起效快但作用短。",
+   "B": "本項應選。這是錯的敘述。H2 receptor 位在分泌胃酸的壁細胞（parietal cell），不是分泌胃蛋白酶原（pepsinogen）的主細胞（chief cell）。",
+   "C": "本項不選。PPI 在酸性環境活化後，不可逆抑制 H⁺/K⁺-ATPase，要等新的幫浦生成才恢復分泌。",
+   "D": "本項不選。長期用 PPI 停藥後，可能因為高胃泌素血症（hypergastrinemia）等出現反彈性胃酸過度分泌（rebound acid hypersecretion）。",
+   "summary": "H2 blocker 的作用細胞是壁細胞（parietal cell），不是主細胞（chief cell）。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72349,12 +72349,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "病史可辨識潰瘍、肝病、NSAID、抗凝劑與既往出血等來源和風險。",
-   "B": "心跳、血壓、姿勢性變化與末梢灌流是判斷大量出血及休克的即時資訊。",
-   "C": "正確答案。急性大量出血早期血液與紅血球等比例流失，Hb 可暫時正常，不能據此排除嚴重出血。",
-   "D": "活動性出血或可見血管屬高風險潰瘍，內視鏡止血能降低再出血與不良結局。",
-   "summary": "急性失血早期 Hb 可能正常；先看 hemodynamics，不能等 Hb 才判斷嚴重度。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。病史可辨識潰瘍、肝病、NSAID、抗凝劑和既往出血等來源和風險。",
+   "B": "本項不選。心跳、血壓、姿勢性變化和末梢灌流是判斷大量出血和休克的即時資訊。",
+   "C": "本項應選。這是最不恰當的做法。急性大量出血早期，血液和紅血球等比例流失，Hb 可能暫時正常，不能據此排除嚴重出血。",
+   "D": "本項不選。活動性出血或可見血管屬於高風險潰瘍，內視鏡止血能降低再出血和不良結局。",
+   "summary": "急性失血早期 Hb 可能正常；先看血流動力學，不能等 Hb 才判斷嚴重度。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72382,12 +72382,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Iron 主要在十二指腸、calcium 主要在十二指腸與近端空腸吸收。",
-   "B": "Bile acids 主要在末端迴腸主動回收，不是大腸。",
-   "C": "Vitamins A、D、E、K 是脂溶性而非水溶性維生素。",
-   "D": "Secretory diarrhea 通常禁食仍持續；禁食後明顯改善較支持 osmotic diarrhea。",
-   "summary": "鐵與鈣在近端小腸吸收；膽酸回收在末端迴腸，分泌型腹瀉禁食仍持續。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。鐵主要在十二指腸吸收，鈣主要在十二指腸和近端空腸吸收。",
+   "B": "本項不選。膽酸（bile acids）主要在末端迴腸主動回收，不是大腸。",
+   "C": "本項不選。維生素 A、D、E、K 是脂溶性，不是水溶性維生素。",
+   "D": "本項不選。分泌型腹瀉（secretory diarrhea）通常禁食後仍持續；禁食後明顯改善比較支持滲透型腹瀉（osmotic diarrhea）。",
+   "summary": "鐵和鈣在近端小腸吸收；膽酸回收在末端迴腸；分泌型腹瀉禁食仍持續。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72420,12 +72420,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "小腸阻塞比大腸阻塞常見，且症狀較早出現嘔吐與中央腹脹。",
-   "B": "Postoperative adhesion 是成人小腸阻塞最常見原因之一。",
-   "C": "正確答案。大腸阻塞最常見原因是 colorectal cancer；volvulus 是重要但非最常見病因。",
-   "D": "無缺血或穿孔的 sigmoid volvulus 可先用內視鏡減壓及置管，之後評估 definitive surgery。",
-   "summary": "大腸阻塞最常見是腫瘤，不是 volvulus。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。小腸阻塞比大腸阻塞常見，而且症狀較早出現嘔吐和中央腹脹。",
+   "B": "本項不選。手術後沾黏（postoperative adhesion）是成人小腸阻塞最常見的原因之一。",
+   "C": "本項應選。這是錯的敘述。大腸阻塞最常見的原因是大腸直腸癌（colorectal cancer）；腸扭轉（volvulus）是重要但不是最常見的病因。",
+   "D": "本項不選。沒有缺血或穿孔的乙狀結腸扭轉（sigmoid volvulus），可先用內視鏡減壓和置管，之後再評估確定性手術。",
+   "summary": "大腸阻塞最常見是腫瘤，不是腸扭轉。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74426,12 +74426,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確。慢性胰臟炎可沿胰管出現粗大、中央上腹部鈣化。",
-   "B": "Bladder stone 位於骨盆正中而非腹部中央胰臟位置。",
-   "C": "臀部注射肉芽腫鈣化位於骨盆外側軟組織，常為多發環狀。",
-   "D": "Iliac 或 femoral vascular calcification 沿骨盆側壁與血管走向，不在腹部正中央。",
-   "summary": "中央上腹部沿胰臟分布的鈣化是慢性胰臟炎經典影像。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。慢性胰臟炎（chronic pancreatitis）可沿著胰管出現粗大的、位於中央上腹部的鈣化。",
+   "B": "本項不選。膀胱結石（bladder stone）位在骨盆正中，不在腹部中央的胰臟位置。",
+   "C": "本項不選。臀部注射的肉芽腫鈣化位在骨盆外側的軟組織，常是多發、環狀。",
+   "D": "本項不選。髂或股血管的鈣化沿著骨盆側壁和血管走向，不在腹部正中央。",
+   "summary": "中央上腹部、沿胰臟分布的鈣化，是慢性胰臟炎的經典影像。"
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -83716,12 +83716,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "喝水嗆咳與鼻腔逆流表示口咽轉送階段障礙，即 transfer dysphagia。",
-   "B": "正確答案。Aphagia 是完全無法吞嚥；本例仍能吞但困難，沒有描述完全不能吞。",
-   "C": "吞嚥時後咽刺痛屬吞嚥痛（odynophagia）。",
-   "D": "因嗆咳而害怕吞嚥符合 phagophobia。",
-   "summary": "本例同時有 transfer dysphagia、odynophagia 與 phagophobia，但不是完全 aphagia。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。喝水嗆咳加上鼻腔逆流，表示口咽轉送階段的障礙，也就是轉送性吞嚥困難（transfer dysphagia）。",
+   "B": "正確答案。aphagia 是完全沒辦法吞嚥。這一例還能吞、只是困難，沒有描述到「完全不能吞」。",
+   "C": "本項不選。吞嚥時後咽的刺痛屬於吞嚥痛（odynophagia）。",
+   "D": "本項不選。因為嗆咳而害怕吞嚥，符合吞嚥恐懼（phagophobia）。",
+   "summary": "這一例同時有 transfer dysphagia、odynophagia 和 phagophobia，但不是完全的 aphagia。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84236,15 +84236,15 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "正確答案。IBS 不造成黏膜發炎或出血，糞便 occult blood 與大量 leukocytes 應促使尋找 IBD、感染或腫瘤。",
-   "B": "IBS 可依 Bristol stool form 分 IBS-C、IBS-D、IBS-M 與未分類型。",
-   "C": "建立治療關係、解釋疾病並個別嘗試 low-FODMAP diet 是合理初始策略。",
-   "D": "Fiber、loperamide、osmotic laxative、antispasmodic 與部分 neuromodulators 可依主要症狀選用。",
-   "summary": "IBS 是腸腦互動障礙，不應有潛血或糞便白血球。",
    "guideline": null,
    "concepts": [
     "rome-iv-ibs"
-   ]
+   ],
+   "A": "本項應選。這是錯的敘述。IBS 不會造成黏膜發炎或出血。糞便潛血（occult blood）和大量白血球（leukocytes）應該促使去找發炎性腸道疾病（IBD）、感染或腫瘤。",
+   "B": "本項不選。IBS 可依 Bristol 糞便型態量表分成便秘型（IBS-C）、腹瀉型（IBS-D）、混合型（IBS-M）和未分類型。",
+   "C": "本項不選。建立治療關係、解釋疾病，並個別嘗試低 FODMAP 飲食（low-FODMAP diet），是合理的初始策略。",
+   "D": "本項不選。纖維、loperamide、滲透性瀉劑、抗痙攣藥和部分神經調節劑，可依主要症狀選用。",
+   "summary": "IBS 是腸腦互動障礙，不應該有潛血或糞便白血球。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84272,12 +84272,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Adhesion、tumor、hernia、intussusception、volvulus 與發炎狹窄都是 機械性阻塞（mechanical obstruction）病因。",
-   "B": "Pseudo-obstruction 或 ileus 是推進蠕動失效，可由神經、代謝、藥物、缺血或重症引起。",
-   "C": "機械阻塞近端擴張使靜脈回流受阻、腸壁水腫，進一步可發生缺血與壞死。",
-   "D": "正確答案。機械性小腸阻塞早期先出現高頻、金屬音與蠕動亢進；晚期疲乏或缺血才變低弱乃至消失，題述順序顛倒。",
-   "summary": "機械性腸阻塞腸音是早期 high-pitched、晚期 hypoactive/absent。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。沾黏、腫瘤、疝氣、腸套疊、腸扭轉和發炎狹窄都是機械性阻塞（mechanical obstruction）的病因。",
+   "B": "本項不選。偽阻塞（pseudo-obstruction）或腸阻塞性腸麻痺是推進蠕動失效，可由神經、代謝、藥物、缺血或重症引起。",
+   "C": "本項不選。機械阻塞的近端擴張讓靜脈回流受阻、腸壁水腫，進一步可發生缺血和壞死。",
+   "D": "本項應選。這是錯的敘述。機械性小腸阻塞早期先出現高頻、金屬音和蠕動亢進；晚期疲乏或缺血才變低弱、甚至消失。題目把順序講顛倒了。",
+   "summary": "機械性腸阻塞的腸音是早期 high-pitched、晚期 hypoactive／absent。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84305,12 +84305,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "本項應選。7 天的 clarithromycin 三合一**已經不被推薦**，除菌率掉到八成以下。抗藥性逐年上升是主因，療程太短更放大這個問題。",
-   "B": "本項不選。同樣的三合一延長到 14 天仍可使用，但前提就是題目給的條件：clarithromycin 抗藥率低於 15%。台灣多數地區的抗藥率已接近或超過這個門檻，所以實務上第一線常直接用四合一。",
+   "guideline": null,
+   "A": "本項應選。7 天的 clarithromycin 三合一已經不被推薦，除菌率掉到八成以下。抗藥性逐年上升是主因，療程太短更放大這個問題。",
+   "B": "本項不選。同樣的三合一延長到 14 天還可以用，但前提就是題目給的條件：clarithromycin 抗藥率低於 15%。台灣多數地區的抗藥率已接近或超過這個門檻，所以實務上第一線常直接用四合一。",
    "C": "本項不選。concomitant therapy 是四種藥同時給 10 到 14 天，除菌率高，適合抗藥率較高的地區。",
    "D": "本項不選。含 bismuth 的四合一是最不受 clarithromycin 抗藥影響的方案，也是除菌失敗後的救援首選。",
-   "summary": "幽門桿菌除菌別再用 7 天療程；就算抗藥率低也要 14 天，抗藥率高就直接走四合一。",
-   "guideline": null
+   "summary": "幽門桿菌除菌別再用 7 天療程；就算抗藥率低也要 14 天，抗藥率高就直接走四合一。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84338,12 +84338,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "沒有感染性壞死等證據時不應預防性使用 antibiotics 治療急性胰臟炎。",
-   "B": "只有合併 cholangitis 或持續 biliary obstruction 時才需 urgent ERCP，不是所有膽結石胰臟炎都先做。",
-   "C": "正確。早期適量 isotonic crystalloid resuscitation 是維持灌流的核心治療，並須反覆依生命徵象與尿量調整以免過量。",
-   "D": "Nasogastric drainage 只用於嚴重嘔吐或 ileus，並非例行最重要處置。",
-   "summary": "膽結石胰臟炎先支持治療與適量輸液；ERCP 留給 cholangitis 或持續阻塞。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。沒有感染性壞死等證據時，不應該預防性使用抗生素治療急性胰臟炎。",
+   "B": "本項不選。只有合併膽管炎（cholangitis）或持續膽道阻塞時才需要緊急 ERCP，不是所有膽結石胰臟炎都先做。",
+   "C": "正確答案。早期適量的等張晶體液復甦是維持灌流的核心治療，並要反覆依生命徵象和尿量調整，以免過量。",
+   "D": "本項不選。鼻胃管引流只用在嚴重嘔吐或腸阻塞性腸麻痺（ileus），不是例行最重要的處置。",
+   "summary": "膽結石胰臟炎先做支持治療和適量輸液；ERCP 留給膽管炎或持續阻塞。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84376,12 +84376,12 @@
    "book": "FC醫(三)(2)(腸胃內、肝膽內、新陳代謝)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第二冊_腸胃內科、肝膽內科、新陳代謝科.pdf"
   },
   "explanation": {
-   "A": "慢性腹痛是 慢性胰臟炎（chronic pancreatitis）常見且難治的主要症狀。",
-   "B": "正確答案。胰性糖尿病可發生，但 glucagon 同時缺乏使典型 DKA 相對少見，不能列為常見併發症。",
-   "C": "外分泌功能不足造成脂肪便、體重下降與 fat-soluble vitamin malabsorption。",
-   "D": "胰頭纖維化或 pseudocyst 可壓迫 common bile duct，造成 biliary stricture。",
-   "summary": "慢性胰臟炎常見痛、吸收不良、糖尿病與膽道狹窄，但 DKA 相對不常見。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。慢性腹痛是慢性胰臟炎（chronic pancreatitis）常見又難治的主要症狀。",
+   "B": "正確答案。胰性糖尿病可以發生，但因為 glucagon 同時也缺乏，典型的糖尿病酮酸中毒症（DKA）相對少見，不能列為常見併發症。",
+   "C": "本項不選。外分泌功能不足造成脂肪便、體重下降和脂溶性維生素吸收不良。",
+   "D": "本項不選。胰頭纖維化或假性囊腫（pseudocyst）可壓迫總膽管，造成膽道狹窄。",
+   "summary": "慢性胰臟炎常見疼痛、吸收不良、糖尿病和膽道狹窄，但 DKA 相對不常見。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84450,12 +84450,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Afferent loop syndrome 主要是 Billroth II 後輸入袢阻塞造成餐後上腹痛與膽汁性嘔吐，不以兩小時後低血糖症狀為主。",
-   "B": "Adhesion ileus 造成絞痛、腹脹、嘔吐與停止排便，不會特異出現進食兩小時後盜汗。",
-   "C": "正確。胃切除後食物快速進入小腸；兩小時後頭暈盜汗是 late dumping 的 reactive hypoglycemia。",
-   "D": "Postvagotomy diarrhea 可為水樣腹瀉，但缺乏高碳水餐後血管舒縮與低血糖時序。",
-   "summary": "胃切除後餐後腹瀉加兩小時後盜汗頭暈，典型為 late dumping syndrome。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。輸入袢症候群（afferent loop syndrome）主要是 Billroth II 後的輸入袢阻塞，造成餐後上腹痛和膽汁性嘔吐，不以「兩小時後的低血糖症狀」為主。",
+   "B": "本項不選。沾黏性腸阻塞（adhesion ileus）造成絞痛、腹脹、嘔吐和停止排便，不會特異地在進食兩小時後盜汗。",
+   "C": "正確答案。胃切除後食物快速進入小腸；兩小時後的頭暈、盜汗是晚期傾食症候群（late dumping）的反應性低血糖（reactive hypoglycemia）。",
+   "D": "本項不選。迷走神經切斷後腹瀉（postvagotomy diarrhea）可為水樣腹瀉，但缺少「高碳水餐後的血管舒縮症狀和低血糖時序」。",
+   "summary": "胃切除後餐後腹瀉加上兩小時後的盜汗、頭暈，典型是晚期傾食症候群（late dumping syndrome）。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86361,12 +86361,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Acute appendicitis 常見右下腹 appendix 擴張與周圍 fat stranding，無圖不能用題幹區分。",
-   "B": "Aortic dissection 多見突發撕裂胸背痛，發燒嘔吐並非典型首發。",
-   "C": "正確答案。Superior mesenteric vein thrombosis 可造成腸壁水腫、腹痛與發燒，CT 可顯示靜脈 filling defect。",
-   "D": "Colonic diverticulitis 通常見局部結腸壁增厚與周圍脂肪發炎，仍須影像定位。",
-   "summary": "本題官方答案為上腸繫膜靜脈血栓；關鍵 CT filling defect 需看原圖確認。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。急性闌尾炎（acute appendicitis）常見右下腹的闌尾擴張和周圍脂肪發炎（fat stranding），這張影像看到的不是這個。",
+   "B": "本項不選。主動脈剝離（aortic dissection）多見突發的撕裂性胸背痛，發燒嘔吐不是典型首發。",
+   "C": "正確答案。圖上箭頭指的是上腸繫膜靜脈（superior mesenteric vein）裡的充盈缺損（filling defect），周圍腸繫膜水腫、腸壁增厚。上腸繫膜靜脈血栓可造成腸壁水腫、腹痛和發燒。",
+   "D": "本項不選。大腸憩室炎（colonic diverticulitis）通常見局部結腸壁增厚和周圍脂肪發炎，位置和影像重點跟這一題不同。",
+   "summary": "這題官方答案是上腸繫膜靜脈血栓；CT 的關鍵是靜脈腔內的充盈缺損加上腸繫膜水腫。"
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -96101,12 +96101,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "高齡、atrial fibrillation、atherosclerosis、低血壓與近期血管操作都提高 急性腸繫膜缺血（acute mesenteric ischemia）可能。",
-   "B": "正確答案。應用 fluids、blood products 與治療病因恢復灌流；vasoconstrictor 可能加劇 mesenteric ischemia，不能為升壓而優先使用。",
-   "C": "CBC、chemistry、lactate、ABG、coagulation、cardiac evaluation 可評估鑑別與器官灌流，但正常 lactate 早期不能排除。",
-   "D": "CT angiography 是首要影像；廣效 Gram-negative 與 anaerobic coverage、抗凝或 revascularization 依病因處置，有 peritonitis 須手術。",
-   "summary": "腸繫膜缺血要恢復灌流，避免不必要 vasoconstriction；腹痛與體徵不成比例是線索。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。高齡、心房顫動（atrial fibrillation）、動脈粥狀硬化、低血壓和最近的血管操作，都提高急性腸繫膜缺血（acute mesenteric ischemia）的可能。",
+   "B": "本項應選。這是錯的敘述。應該用輸液、血品和治療病因來恢復灌流。血管收縮劑（vasoconstrictor）可能加劇腸繫膜缺血，不能為了升壓而優先使用。",
+   "C": "本項不選。CBC、生化、乳酸（lactate）、動脈血液氣體（ABG）、凝血功能、心臟評估可幫忙鑑別和評估器官灌流，但早期乳酸正常不能排除。",
+   "D": "本項不選。CT 血管攝影（CT angiography）是首要影像；廣效涵蓋革蘭氏陰性菌和厭氧菌、抗凝或血管重建（revascularization）依病因處置，有腹膜炎就要手術。",
+   "summary": "腸繫膜缺血要恢復灌流、避免不必要的血管收縮；「腹痛與體徵不成比例」是線索。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96134,12 +96134,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Type I sliding hiatal hernia 最常見，GE junction 上移至橫膈上方。",
-   "B": "Zenker diverticulum 從 Killian dehiscence 向後突出，屬 hypopharyngeal pulsion diverticulum。",
-   "C": "正確答案。Achalasia 是 distal lower esophageal sphincter 吞嚥時無法充分放鬆及食道體失去正常蠕動，不是近端括約肌。",
-   "D": "High-resolution manometry 是 achalasia 與其他 esophageal motility disorder 的關鍵診斷工具。",
-   "summary": "Achalasia 的問題在遠端 LES 與食道體，不在近端括約肌。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。第一型的滑動型食道裂孔疝氣（type I sliding hiatal hernia）最常見，胃食道交界（GE junction）上移到橫膈上方。",
+   "B": "本項不選。Zenker 憩室從 Killian 裂隙（Killian dehiscence）向後突出，屬於下咽的推進型憩室（hypopharyngeal pulsion diverticulum）。",
+   "C": "本項應選。這是錯的敘述。食道遲緩不能（achalasia）是遠端的下食道括約肌（lower esophageal sphincter, LES）吞嚥時無法充分放鬆，加上食道體失去正常蠕動，不是近端括約肌。",
+   "D": "本項不選。高解析度食道壓力測量（high-resolution manometry）是 achalasia 和其他食道動力障礙的關鍵診斷工具。",
+   "summary": "Achalasia 的問題在遠端 LES 和食道體，不在近端括約肌。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96167,12 +96167,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "H. pylori 可用 histology、rapid urease test、culture、urea breath test 或 stool antigen 等檢測，不只有切片組織學。",
-   "B": "Culture 敏感度受取樣、PPI、antibiotics 與運送影響，陰性不能排除 H. pylori。",
-   "C": "正確。H. pylori 增加 non-cardia gastric adenocarcinoma 與 gastric MALT lymphoma 風險。",
-   "D": "Urea breath test 是 bacterial urease 水解標記尿素，增加呼氣中標記 CO₂，不是抑制反應。",
-   "summary": "H. pylori 有多種侵入與非侵入檢查，並增加胃腺癌與 MALT lymphoma。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。H. pylori 可用組織學、快速尿素酶試驗、培養、尿素呼氣試驗或糞便抗原等檢測，不只有切片組織學。",
+   "B": "本項不選。培養的敏感度受取樣、PPI、抗生素和運送影響，陰性不能排除 H. pylori。",
+   "C": "正確答案。H. pylori 增加非賁門部胃腺癌（non-cardia gastric adenocarcinoma）和胃 MALT lymphoma 的風險。",
+   "D": "本項不選。尿素呼氣試驗是細菌的尿素酶（urease）水解標記尿素，「增加」呼氣中標記的 CO₂，不是抑制反應。",
+   "summary": "H. pylori 有多種侵入和非侵入檢查，並增加胃腺癌和 MALT lymphoma 風險。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96200,12 +96200,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "克隆氏病（Crohn disease）常侵犯小腸，亦可侵犯 colon 或消化道任何部位。",
-   "B": "Terminal ileum 是 克隆氏病（Crohn disease）最典型且常見的部位之一。",
-   "C": "Ileal inflammation、bile acid malabsorption 或廣泛小腸病變可造成 postprandial pain 與 steatorrhea。",
-   "D": "正確答案。Anti-TNF agents 對中重度 克隆氏病（Crohn disease）的誘導與維持緩解有明確療效，並非效果不佳。",
-   "summary": "中重度 克隆氏病（Crohn disease）可有效使用 anti-TNF 等 biologics。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。克隆氏病（Crohn disease）常侵犯小腸，也可侵犯大腸或消化道任何部位。",
+   "B": "本項不選。末端迴腸（terminal ileum）是克隆氏病最典型、也最常見的部位之一。",
+   "C": "本項不選。迴腸發炎、膽酸吸收不良或廣泛的小腸病變，可造成餐後腹痛和脂肪便（steatorrhea）。",
+   "D": "本項應選。這是錯的敘述。抗腫瘤壞死因子（anti-TNF）製劑對中重度克隆氏病的誘導和維持緩解有明確療效，不是效果不佳。",
+   "summary": "中重度克隆氏病可以有效使用 anti-TNF 等生物製劑。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96233,15 +96233,15 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "BUN >25 mg/dL 是 BISAP 的 B 項，反映腎灌流與嚴重度。",
-   "B": "Impaired mental status 是 BISAP 的 I 項。",
-   "C": "正確答案。BISAP 包含 SIRS、age >60 與 pleural effusion，不包含 ascites。",
-   "D": "Pleural effusion 是 BISAP 的 P 項，可由 chest imaging 判定。",
-   "summary": "BISAP＝BUN、Impaired mental status、SIRS、Age、Pleural effusion；沒有 ascites。",
    "guideline": null,
    "concepts": [
     "bisap-score"
-   ]
+   ],
+   "A": "本項不選。BUN > 25 mg/dL 是 BISAP 的 B 項，反映腎灌流和嚴重度。",
+   "B": "本項不選。意識障礙（impaired mental status）是 BISAP 的 I 項。",
+   "C": "正確答案。BISAP 包含 SIRS、年齡 > 60 和肋膜積液，不包含腹水（ascites）。",
+   "D": "本項不選。肋膜積液（pleural effusion）是 BISAP 的 P 項，可由胸部影像判定。",
+   "summary": "BISAP ＝ BUN、Impaired mental status、SIRS、Age、Pleural effusion；沒有腹水。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -96812,12 +96812,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Chromogranin A 是 neuroendocrine granule marker，免疫組織染色可支持 NET 診斷。",
-   "B": "Synaptophysin positivity 同樣支持而非排除 neuroendocrine differentiation。",
-   "C": "腫瘤組織含 serotonin 或 substance P 不等於血中足量分泌並造成 clinical syndrome，須結合症狀與生化。",
-   "D": "G1、G2 通常都可是 well-differentiated NET；poorly differentiated neuroendocrine carcinoma 屬另一形態分類，不能把所有 G2/G3 一概稱 poorly differentiated。",
-   "summary": "NET 常用 chromogranin A 與 synaptophysin 染色；組織表現不等於功能性症候群。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。Chromogranin A 是神經內分泌顆粒的標記，免疫組織染色可支持 NET 的診斷。",
+   "B": "本項不選。synaptophysin 陽性同樣是「支持」而不是排除神經內分泌分化。",
+   "C": "本項不選。腫瘤組織含 serotonin 或 substance P，不等於血中有足量分泌並造成臨床症候群（clinical syndrome），要結合症狀和生化。",
+   "D": "本項不選。G1、G2 通常都可以是分化良好的 NET（well-differentiated NET）；分化不良的神經內分泌癌（poorly differentiated neuroendocrine carcinoma）屬於另一個形態分類，不能把所有 G2／G3 一概稱為分化不良。",
+   "summary": "NET 常用 chromogranin A 和 synaptophysin 染色；組織表現不等於功能性症候群。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98117,12 +98117,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "攝取 acetaminophen 10 g 且已滿四小時，應依濃度與時序立即評估並及早給 N-acetylcysteine。",
-   "B": "正確答案。Activated charcoal 是口服吸附而非「洗胃」，且通常在攝入後早期最有益；四小時後例行使用效益有限。",
-   "C": "肝功能與 INR 可建立基線並追蹤 hepatotoxicity，但早期可能仍正常。",
-   "D": "四小時 acetaminophen level 可套用 Rumack–Matthew nomogram 評估單次急性攝入風險。",
-   "summary": "Acetaminophen 過量四小時應測濃度並及早 NAC；activated charcoal 不是洗胃且已過最佳時窗。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。攝取的 acetaminophen 是 10 g、又已滿四小時，應該依血中濃度和時序立即評估，並及早給 N-acetylcysteine。",
+   "B": "本項應選。這是最不適當的做法。活性碳（activated charcoal）是口服的吸附劑，不是「洗胃」，而且通常在攝入後的早期最有益，四小時後例行使用效益有限。",
+   "C": "本項不選。肝功能和 INR 可建立基線並追蹤肝毒性（hepatotoxicity），只是早期可能還正常。",
+   "D": "本項不選。四小時的 acetaminophen 濃度可套用 Rumack–Matthew 列線圖（nomogram），評估單次急性攝入的風險。",
+   "summary": "acetaminophen 過量四小時要測濃度並及早給 NAC；activated charcoal 不是洗胃，而且已經過了最佳時窗。"
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -106856,12 +106856,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "克隆氏病（Crohn disease）的 transmural inflammation 可穿透腸壁形成 enteroenteric、enterocutaneous 或 perianal fistula。",
-   "B": "正確答案。克隆氏病（Crohn disease）是 segmental skip lesions；連續自直腸向近端侵犯是 潰瘍性大腸炎（ulcerative colitis）。",
-   "C": "克隆氏病（Crohn disease）可跳過 rectum，直腸侵犯不是必要條件。",
-   "D": "反覆全層發炎與纖維化使小腸 stricture、obstruction 常見。",
-   "summary": "克隆氏病（Crohn disease）是節段性 skip lesions，不是連續性病灶。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。克隆氏病（Crohn disease）的全層發炎（transmural inflammation）可穿透腸壁，形成腸—腸、腸—皮膚或肛周的瘻管（fistula）。",
+   "B": "本項應選。這是錯的敘述。克隆氏病是節段性的跳躍病灶（skip lesions）；從直腸連續往近端侵犯的是潰瘍性大腸炎（ulcerative colitis）。",
+   "C": "本項不選。克隆氏病可以跳過直腸，直腸侵犯不是必要條件。",
+   "D": "本項不選。反覆的全層發炎和纖維化，讓小腸狹窄（stricture）和阻塞很常見。",
+   "summary": "克隆氏病是節段性的跳躍病灶（skip lesions），不是連續性病灶。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -106891,12 +106891,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "肥胖增加腹壓與 GERD，減重可減少逆流症狀。",
-   "B": "PPI 抑制胃酸，能改善 GERD 症狀與 erosive esophagitis 癒合。",
-   "C": "Barrett metaplasia 通常不因 antisecretory therapy 完全逆轉，仍依異生程度監測。",
-   "D": "正確答案。題圖應為 Barrett esophagus，其增加的是 食道腺癌（esophageal adenocarcinoma）而非 squamous cell carcinoma 風險。",
-   "summary": "Barrett esophagus 由 GERD 相關 intestinal metaplasia 形成，增加食道腺癌風險。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。肥胖增加腹壓和胃食道逆流，減重可減少逆流症狀。",
+   "B": "本項不選。PPI 抑制胃酸，能改善 GERD 症狀並幫助糜爛性食道炎（erosive esophagitis）癒合。",
+   "C": "本項不選。Barrett 化生（metaplasia）通常不會因為抑酸治療（antisecretory therapy）而完全逆轉，仍要依異生程度做監測。",
+   "D": "本項應選。這是錯的敘述。圖上是巴瑞特氏食道（Barrett esophagus）——胃食道交界往上有舌狀的鮭魚色柱狀黏膜。它增加的是「食道腺癌（esophageal adenocarcinoma）」的風險，不是鱗狀細胞癌。",
+   "summary": "巴瑞特氏食道由 GERD 相關的腸化生形成，增加的是食道腺癌風險。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -106924,12 +106924,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Pancreatic head tumor 容易早期壓迫 distal common bile duct，故 painless jaundice 較 body/tail tumor 常見。",
-   "B": "Weight loss 可見於任何部位胰腺癌，並非 head 特異。",
-   "C": "Abdominal/back pain 在 body 或 tail tumor 也常見，且常較晚才被發現。",
-   "D": "Nausea/vomiting 可由十二指腸阻塞或晚期病灶造成，不是 head tumor 最具代表性的差異。",
-   "summary": "胰頭癌靠近 distal CBD，因此相對常以阻塞性黃疸表現。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。胰頭腫瘤（pancreatic head tumor）容易早期壓迫遠端總膽管（distal common bile duct），所以無痛性黃疸（painless jaundice）比體尾部腫瘤常見。",
+   "B": "本項不選。體重減輕在任何部位的胰腺癌都可能出現，不是胰頭特異的。",
+   "C": "本項不選。腹痛或背痛在體部或尾部腫瘤也常見，而且常比較晚才被發現。",
+   "D": "本項不選。噁心嘔吐可由十二指腸阻塞或晚期病灶造成，不是胰頭腫瘤最具代表性的差異。",
+   "summary": "胰頭癌靠近遠端總膽管（distal CBD），所以相對常以阻塞性黃疸表現。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107126,12 +107126,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Achalasia 確由 myenteric plexus ganglion cell loss 所致，但可見於多個成人年齡層，不能限定好發 60～80 歲。",
-   "B": "Corkscrew esophagus 是 diffuse esophageal spasm 影像；eosinophilic esophagitis 較典型是 rings、furrows 與狹窄。",
-   "C": "Eosinophil-predominant inflammation 與 steroid response 描述 eosinophilic esophagitis，不是 diffuse esophageal spasm。",
-   "D": "正確。GERD 涉及 transient LES relaxations、hypotensive LES 與 hiatal hernia 等解剖失真。",
-   "summary": "Corkscrew＝diffuse spasm；eosinophilic inflammation＝EoE；GERD 核心是 LES barrier failure。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。食道遲緩不能（achalasia）確實是肌間神經叢（myenteric plexus）神經節細胞喪失所致，但可見於多個成人年齡層，不能限定好發於 60～80 歲。",
+   "B": "本項不選。開瓶器食道（corkscrew esophagus）是瀰漫性食道痙攣（diffuse esophageal spasm）的影像；嗜酸性球性食道炎（eosinophilic esophagitis）較典型是環狀（rings）、溝紋（furrows）和狹窄。",
+   "C": "本項不選。嗜酸性球為主的發炎（eosinophil-predominant inflammation）和對類固醇反應好，描述的是嗜酸性球性食道炎，不是瀰漫性食道痙攣。",
+   "D": "正確答案。GERD 涉及暫時性下食道括約肌鬆弛（transient LES relaxation）、低張力的 LES（LES hypotension）以及食道裂孔疝氣等解剖失真。",
+   "summary": "開瓶器食道＝diffuse spasm；嗜酸性球發炎＝EoE；GERD 的核心是 LES 屏障失效。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107829,12 +107829,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "APC tumor-suppressor inactivation 是傳統 adenoma–carcinoma sequence 的早期事件。",
-   "B": "正確答案。KRAS 是 proto-oncogene，致癌事件是 activating mutation，不是 inactivation。",
-   "C": "SMAD4 inactivation 可參與晚期 adenoma 向 carcinoma 進展。",
-   "D": "TP53 inactivation 是進展至 invasive carcinoma 的晚期事件之一。",
-   "summary": "大腸 adenoma–carcinoma sequence 中 KRAS 要「活化」，APC、SMAD4、TP53 才是失活。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。APC 抑癌基因失活（APC inactivation）是傳統腺瘤—癌序列（adenoma–carcinoma sequence）的早期事件。",
+   "B": "正確答案。KRAS 是原致癌基因（proto-oncogene），致癌事件是「活化性突變」（activating mutation），不是失活（inactivation）。",
+   "C": "本項不選。SMAD4 失活可參與晚期腺瘤往癌進展的過程。",
+   "D": "本項不選。TP53 失活是進展到侵襲性癌（invasive carcinoma）的晚期事件之一。",
+   "summary": "大腸腺瘤—癌序列裡 KRAS 要「活化」，APC、SMAD4、TP53 才是失活。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108875,12 +108875,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Acute appendicitis 可有右下腹痛與發燒，但不典型造成黏液便及超音波 target sign。",
-   "B": "Inguinal hernia 會見腹股溝腫塊或腸阻塞，影像不會呈典型 intussusception 套疊。",
-   "C": "12 歲惡性 colon cancer 極罕見，且三日便秘加黏液排泄物更像急性阻塞。",
-   "D": "正確。Intussusception 可造成間歇絞痛、阻塞及黏液血便，ultrasound 常見 target/doughnut sign。腹部 X 光可見右上腹的腸氣被推開、右下腹缺乏氣體，超音波橫切面則出現一圈一圈同心圓的標靶徵象（縱切為假腎徵象）。這是腸子套進遠端腸腔造成的腸套疊，好發於嬰幼兒；年紀較大的孩子要找病理性引導點，例如 Meckel 憩室或淋巴瘤。血行動力學穩定又沒有腹膜炎時，先用空氣或水壓灌腸復位。",
-   "summary": "兒童黏液便合併阻塞及超音波 target sign 指向 intussusception。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。急性闌尾炎（acute appendicitis）可有右下腹痛和發燒，但不典型造成黏液便，也不會有超音波的標靶徵象（target sign）。",
+   "B": "本項不選。腹股溝疝氣（inguinal hernia）會見腹股溝腫塊或腸阻塞，影像不會呈現典型的腸套疊套疊影像。",
+   "C": "本項不選。12 歲得惡性大腸癌極罕見，而且三日便秘加黏液排泄物更像急性阻塞。",
+   "D": "正確答案。腸套疊（intussusception）可造成間歇絞痛、阻塞和黏液血便。圖上腹部 X 光可見右上腹的腸氣被推開、右下腹缺乏氣體；超音波橫切面出現一圈一圈同心圓的標靶徵象（縱切為假腎徵象）。這是腸子套進遠端腸腔，好發於嬰幼兒；年紀較大的孩子要找病理性引導點，例如 Meckel 憩室或淋巴瘤。血流動力學穩定又沒有腹膜炎時，先用空氣或水壓灌腸復位。",
+   "summary": "兒童黏液便合併阻塞加上超音波的標靶徵象，指向腸套疊。"
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -117698,12 +117698,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Sucralfate 常用 1 g 一日四次，在酸性環境形成保護屏障；須留意與其他藥物錯開。",
-   "B": "正確答案。因 NDMA 污染而大規模下架的是 ranitidine，不是 cimetidine；cimetidine 仍有 CYP inhibition 與 antiandrogen effects 等限制。",
-   "C": "PPI 降低胃酸後解除 gastrin 負回饋，可造成 hypergastrinemia。",
-   "D": "PPI 使用與 C. difficile infection 風險相關，持續腹瀉須評估。",
-   "summary": "NDMA 下架的是 ranitidine，不是 cimetidine。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。sucralfate 常用 1 g、一日四次，在酸性環境形成保護屏障；要留意和其他藥物錯開時間。",
+   "B": "本項應選。這是錯的敘述。因為 NDMA 污染而大規模下架的是 ranitidine，不是 cimetidine。cimetidine 仍有 CYP 抑制和抗雄性素作用等限制，但不是因 NDMA 下架。",
+   "C": "本項不選。PPI 降低胃酸後，解除了胃泌素（gastrin）的負回饋，可造成高胃泌素血症（hypergastrinemia）。",
+   "D": "本項不選。PPI 使用和困難梭菌感染（Clostridium difficile infection）的風險相關，持續腹瀉要評估。",
+   "summary": "因 NDMA 下架的是 ranitidine，不是 cimetidine。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117797,12 +117797,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Iron deficiency 會造成 microcytic anemia。",
-   "B": "Vitamin K deficiency 使凝血因子活化不足，造成 ecchymosis 與出血。",
-   "C": "Essential fatty acid deficiency 可造成乾燥脫屑性 dermatitis。",
-   "D": "正確答案。Vitamin B12 deficiency 造成 megaloblastic anemia 與 neuropathy；tetany 典型來自 hypocalcemia。",
-   "summary": "Tetany 配對 calcium 缺乏；vitamin B12 缺乏配對巨球性貧血與神經病變。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。缺鐵會造成小球性貧血（microcytic anemia），配對正確。",
+   "B": "本項不選。維生素 K 缺乏讓凝血因子活化不足，造成瘀斑（ecchymosis）和出血，配對正確。",
+   "C": "本項不選。必需脂肪酸缺乏可造成乾燥、脫屑性的皮膚炎（dermatitis），配對正確。",
+   "D": "本項應選。這是錯的配對。維生素 B12 缺乏造成的是巨球性貧血（megaloblastic anemia）和神經病變（neuropathy）；抽搐（tetany）典型來自低血鈣（hypocalcemia）。",
+   "summary": "抽搐配對的是鈣缺乏；維生素 B12 缺乏配對巨球性貧血和神經病變。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117830,12 +117830,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Severe hypertriglyceridemia 是 急性胰臟炎（acute pancreatitis）的重要代謝性病因。",
-   "B": "正確答案。Hypocalcemia 是嚴重 急性胰臟炎（acute pancreatitis）因 fat saponification 等造成的結果與重症指標，不是典型病因；hypercalcemia 才可能誘發。",
-   "C": "Pancreatic tumor 可阻塞 pancreatic duct 並引起 pancreatitis。",
-   "D": "Gallstone migration 暫時阻塞 ampulla，是 急性胰臟炎（acute pancreatitis）最常見病因之一。",
-   "summary": "低血鈣是胰臟炎結果；會誘發胰臟炎的是高血鈣。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。嚴重的高三酸甘油酯血症（hypertriglyceridemia）是急性胰臟炎（acute pancreatitis）的重要代謝性病因。",
+   "B": "正確答案。低血鈣（hypocalcemia）是嚴重急性胰臟炎因為脂肪皂化（fat saponification）等造成的「結果」和重症指標，不是典型病因；反而是「高血鈣」才可能誘發。",
+   "C": "本項不選。胰臟腫瘤可阻塞胰管（pancreatic duct）而引起胰臟炎。",
+   "D": "本項不選。膽結石移動暫時阻塞壺腹（ampulla），是急性胰臟炎最常見的病因之一。",
+   "summary": "低血鈣是胰臟炎的結果；會誘發胰臟炎的是高血鈣。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -117933,12 +117933,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Acute mesenteric ischemia 可由 arterial embolus、arterial thrombosis、mesenteric venous thrombosis 或 nonocclusive hypoperfusion 引起。",
-   "B": "早期典型為 pain out of proportion to examination，因此可尚無 rebound tenderness。",
-   "C": "正確答案。治療須緊急 resuscitation、antibiotics、anticoagulation 或 revascularization；懷疑壞死或 peritonitis 時不可避免手術。",
-   "D": "CT angiography 是快速且高敏感度的首選診斷工具，可顯示阻塞與腸缺血。",
-   "summary": "Acute mesenteric ischemia 是血管急症，不能為避免手術而延誤 revascularization 或切除壞死腸。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。急性腸繫膜缺血（acute mesenteric ischemia）可由動脈栓塞、動脈血栓、腸繫膜靜脈血栓或非阻塞性低灌流引起。",
+   "B": "本項不選。早期典型是「腹痛與理學檢查不成比例」（pain out of proportion to examination），所以可能還沒有反彈痛。",
+   "C": "本項應選。這是最不適當的敘述。治療要緊急復甦、抗生素、抗凝或血管重建（revascularization）；懷疑壞死或腹膜炎時，手術不可避免。",
+   "D": "本項不選。CT 血管攝影（CT angiography）是快速、高敏感度的首選診斷工具，可顯示阻塞和腸缺血。",
+   "summary": "急性腸繫膜缺血是血管急症，不能為了避免手術而延誤血管重建或切除壞死腸。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -118468,12 +118468,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Alcohol 與 tobacco 是 ESCC 的主要危險因子。",
-   "B": "Chronic GERD 經 Barrett esophagus 增加 EAC 風險。",
-   "C": "HER2/ERBB2 amplification 在 EAC 較 ESCC 常見，並可能有標靶治療意義。",
-   "D": "正確答案。Lynch syndrome 主要增加 colorectal、endometrial 等癌症，並沒有 ESCC 大於 EAC 的典型關聯。",
-   "summary": "ESCC 連結酒精吸菸；EAC 連結 GERD/Barrett；Lynch 並非 ESCC 典型症候群。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。飲酒和吸菸是食道鱗狀細胞癌（ESCC）的主要危險因子。",
+   "B": "本項不選。慢性胃食道逆流經巴瑞特氏食道，增加食道腺癌（EAC）的風險。",
+   "C": "本項不選。HER2／ERBB2 擴增在 EAC 比 ESCC 常見，還可能有標靶治療的意義。",
+   "D": "本項應選。這是最不適當的敘述。Lynch syndrome 主要增加大腸直腸癌、子宮內膜癌等癌症，沒有「ESCC 大於 EAC」這種典型關聯。",
+   "summary": "ESCC 連結酒精、吸菸；EAC 連結 GERD／Barrett；Lynch 不是 ESCC 的典型症候群。"
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -128400,12 +128400,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "Esophageal squamous cell carcinoma 多見中上段，與 tobacco、alcohol 明確相關。",
-   "B": "Betel nut chewing 暴露與上消化呼吸道鱗癌、包括食道鱗癌風險增加相關。",
-   "C": "Barrett esophagus 增加 distal 食道腺癌（esophageal adenocarcinoma）風險。",
-   "D": "正確答案。Obesity 主要經 GERD/Barrett 路徑增加 食道腺癌（esophageal adenocarcinoma），而非 ESCC。",
-   "summary": "肥胖對應 distal 食道腺癌（esophageal adenocarcinoma）；酒、菸、檳榔對應 ESCC。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。食道鱗狀上皮細胞癌（squamous cell carcinoma）多見於食道中上段，和吸菸、喝酒明確相關。",
+   "B": "本項不選。嚼食檳榔（betel nut chewing）的暴露和上消化呼吸道的鱗癌（包括食道鱗癌）風險增加相關。",
+   "C": "本項不選。巴瑞特氏食道（Barrett's esophagus）增加食道下段腺癌（esophageal adenocarcinoma）的風險。",
+   "D": "本項應選。這是錯的敘述。肥胖主要是經 GERD／Barrett 路徑增加「食道腺癌」的風險，不是鱗狀細胞癌（ESCC）。",
+   "summary": "肥胖對應的是食道下段的腺癌；酒、菸、檳榔對應的才是 ESCC。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128433,12 +128433,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "臨床使用的是 stool antigen test，不是糞便 H. pylori antibody 作為活動性感染的標準檢查。",
-   "B": "正確。Rapid urease test 需要胃鏡取得 gastric biopsy，故屬 invasive test。",
-   "C": "13C 是穩定、非放射性同位素，可用於兒童及孕婦；具有放射性的是 14C。",
-   "D": "根除後通常至少等 antibiotics 結束 4 週並停 PPI 約 2 週再以 breath 或 stool antigen test 確認，非一週。",
-   "summary": "Rapid urease test 因需胃切片而是侵入性；13C breath test 非放射性。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。臨床用的是糞便抗原檢測（stool antigen test），不是「糞便 H. pylori 抗體」作為活動性感染的標準檢查。",
+   "B": "正確答案。快速尿素酶試驗（rapid urease test）要靠胃鏡取得胃切片（gastric biopsy），所以屬於侵入性檢查。",
+   "C": "本項不選。13C 是穩定、非放射性的同位素，可以用在兒童和孕婦。具有放射性的是 14C。",
+   "D": "本項不選。根除後通常至少等抗生素結束 4 週、並停 PPI 約 2 週，再用吹氣或糞便抗原試驗確認，不是一週。",
+   "summary": "快速尿素酶試驗因為要胃切片所以是侵入性；13C 吹氣試驗不具放射性。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128532,12 +128532,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "只有可切除 localized 胰腺癌（pancreatic cancer）才有藉手術達根治的可能。",
-   "B": "Adjuvant chemotherapy 是切除後標準，可降低 recurrence risk 並延長存活。",
-   "C": "正確答案。Stage IV 胰腺癌（pancreatic cancer）是 systemic disease，以 systemic therapy 與緩和照護為主，不做根治切除後輔助化療。",
-   "D": "Pancreatic cancer 具高度 thrombogenicity，可造成 migratory thrombophlebitis 與 venous thromboembolism。",
-   "summary": "Stage IV 胰腺癌不能以手術加 adjuvant chemotherapy 當標準根治策略。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。只有可切除、局限的胰腺癌（pancreatic cancer）才有藉手術達到根治的可能。",
+   "B": "本項不選。輔助化療（adjuvant chemotherapy）是切除後的標準，可降低復發風險並延長存活。",
+   "C": "本項應選。這是錯的敘述。第四期（stage IV）胰臟癌是全身性疾病，以全身治療（systemic therapy）和緩和照護為主，不做根治切除後再加輔助化療。",
+   "D": "本項不選。胰腺癌有高度的血栓生成性（thrombogenicity），可造成遊走性血栓性靜脈炎（migratory thrombophlebitis）和靜脈血栓栓塞。",
+   "summary": "第四期胰腺癌不能以「手術加輔助化療」當標準的根治策略。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128601,12 +128601,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Early-onset colorectal cancer 在歐美與亞太多地均呈上升趨勢。",
-   "B": "Adenoma 是前驅病灶但只有少部分逐步癌化；大腸鏡仍切除腺瘤，理由是無法可靠預知哪顆會進展，不是幾乎全部會癌化。",
-   "C": "Lynch-associated colorectal cancer 常有 MSI-high 生物學，stage-adjusted prognosis 不一定比 sporadic cancer 差。",
-   "D": "Tobacco 是可修改風險因子之一，但年齡、家族史、遺傳症候群、diet/obesity 等皆重要，不能稱最重要。",
-   "summary": "早發型大腸癌正在上升；腺瘤須移除但不代表幾乎每顆都會癌化。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。早發型大腸直腸癌（early-onset colorectal cancer）在歐美和亞太多地都呈上升趨勢。",
+   "B": "本項不選。腺瘤是前驅病灶，但只有少部分會逐步癌化。大腸鏡仍切除腺瘤，理由是無法可靠預知哪一顆會進展，不是「幾乎全部會癌化」。",
+   "C": "本項不選。Lynch 相關的大腸直腸癌常有微衛星不穩定高（MSI-high）的生物學，經分期校正後的預後不一定比散發性癌差。",
+   "D": "本項不選。吸菸是可修改的風險因子之一，但年齡、家族史、遺傳症候群、飲食／肥胖等都重要，不能說最重要。",
+   "summary": "早發型大腸癌正在上升；腺瘤要移除，但不代表幾乎每顆都會癌化。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128634,12 +128634,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "①錯：胸痛即使像 GERD 仍不能排除 coronary artery disease。",
-   "B": "②錯：nonerosive reflux disease 可在 endoscopy 正常時成立。",
-   "C": "正確答案。只有④正確：PPI 對 GERD symptom relief 與 erosive esophagitis healing 通常優於 H2RA。",
-   "D": "③錯：Barrett low-grade dysplasia 增加的是 食道腺癌（esophageal adenocarcinoma），不是 squamous cell carcinoma；故含③的組合錯。",
-   "summary": "GERD 可無內視鏡炎症，胸痛仍須排除心臟病；Barrett 對應腺癌，PPI 優於 H2RA。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。① 錯：胸痛就算像 GERD，仍不能排除冠狀動脈疾病（coronary artery disease）。",
+   "B": "本項不選。② 錯：非糜爛性逆流疾病（nonerosive reflux disease）可以在內視鏡正常時成立。",
+   "C": "正確答案。只有 ④ 正確：PPI 對 GERD 的症狀緩解和糜爛性食道炎癒合，通常優於 H2RA。",
+   "D": "本項不選。③ 錯：Barrett 低度分化異常（low-grade dysplasia）增加的是食道腺癌（esophageal adenocarcinoma），不是鱗狀細胞癌。所以含 ③ 的組合是錯的。",
+   "summary": "GERD 可以沒有內視鏡發炎，胸痛仍要排除心臟病；Barrett 對應腺癌；PPI 優於 H2RA。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -128667,12 +128667,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "SIBO deconjugates bile acids，造成脂肪吸收不良與 steatorrhea。",
-   "B": "細菌消耗 vitamin B12 可造成 macrocytic/megaloblastic anemia。",
-   "C": "Blind loop、術後解剖改變、stricture 與 motility disorder 會造成 stasis 並誘發 SIBO。",
-   "D": "正確答案。SIBO 常因細菌合成使 folate 正常或升高，典型缺乏的是 vitamin B12，不是 folate。",
-   "summary": "SIBO 的典型營養型態是 vitamin B12 低、folate 正常或高，並可有脂肪便。",
-   "guideline": null
+   "guideline": null,
+   "A": "本項不選。SIBO 會把膽酸去共軛（deconjugate），造成脂肪吸收不良和脂肪便（steatorrhea）。",
+   "B": "本項不選。細菌消耗維生素 B12，可造成大球性／巨母紅血球性貧血（macrocytic/megaloblastic anemia）。",
+   "C": "本項不選。盲袢（blind loop）、術後解剖改變、狹窄和蠕動障礙會造成滯留（stasis），誘發 SIBO。",
+   "D": "本項應選。這是錯的敘述。SIBO 常因為細菌會「合成」葉酸，讓葉酸正常或升高。典型缺乏的是維生素 B12，不是葉酸。",
+   "summary": "SIBO 的典型營養型態是維生素 B12 低、葉酸正常或高，並可能有脂肪便。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -129212,12 +129212,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確。Chromogranins 與 synaptophysin 是支持 neuroendocrine differentiation 的常用免疫染色。",
-   "B": "多數 pancreatic NET 是 nonfunctional；有功能者才以 hormone syndrome 表現。",
-   "C": "Functional pancreatic NET 最常見通常是 insulinoma，不是 gastrinoma。",
-   "D": "血中可測的是 chromogranin A 等有限用途指標；synaptophysin 是組織染色，不是常規血液追蹤 marker。",
-   "summary": "NET 病理看 chromogranin/synaptophysin；多數 pancreatic NET 非功能性，最常見功能型是 insulinoma。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。Chromogranins 和 synaptophysin 是支持神經內分泌分化（neuroendocrine differentiation）的常用免疫染色。",
+   "B": "本項不選。多數胰臟 NET 是「無功能性」（nonfunctional）；有功能的才以荷爾蒙症候群表現。",
+   "C": "本項不選。有功能的胰臟 NET 最常見的通常是胰島素瘤（insulinoma），不是胃泌素瘤（gastrinoma）。",
+   "D": "本項不選。血中可測的是 chromogranin A 等用途有限的指標；synaptophysin 是組織染色，不是常規的血液追蹤標記。",
+   "summary": "NET 病理看 chromogranin／synaptophysin；多數胰臟 NET 非功能性，最常見的功能型是 insulinoma。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130382,12 +130382,12 @@
   "specialty": "腸胃內科",
   "fc_ref": null,
   "explanation": {
-   "A": "正確答案。Gallstones 是 急性胰臟炎（acute pancreatitis）的病因，不是其晚期局部併發症。",
-   "B": "Inflammation、fibrosis 或 collection 可造成 pancreatic duct obstruction。",
-   "C": "Pseudocyst 通常在 interstitial edematous pancreatitis 後超過四週形成，是晚期併發症。",
-   "D": "感染性壞死可演變成後腹腔感染或 abscess，是嚴重晚期併發症。",
-   "summary": "膽結石先造成胰臟炎；pseudocyst、duct obstruction 與 retroperitoneal infection 才是晚期併發症。",
-   "guideline": null
+   "guideline": null,
+   "A": "正確答案。膽結石（gallstones）是急性胰臟炎（acute pancreatitis）的「病因」，不是它的晚期局部併發症。",
+   "B": "本項不選。發炎、纖維化或積液可造成胰管阻塞（pancreatic duct obstruction）。",
+   "C": "本項不選。假性囊腫（pseudocyst）通常在間質水腫性胰臟炎後超過四週形成，是晚期併發症。",
+   "D": "本項不選。感染性壞死可演變成後腹腔感染或膿瘍（abscess），是嚴重的晚期併發症。",
+   "summary": "膽結石是先造成胰臟炎；假性囊腫、胰管阻塞和後腹腔感染才是晚期併發症。"
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
