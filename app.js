@@ -23,7 +23,7 @@ const SLOGANS=['今天「腎」下幾題？','「血」無止境。','「肌」�
  '不「藥」放棄。','「藥」不要再來一題？','「腸」保安康，也「腸」保及格。','「皮」一下，很開心。','大「膽」假設，小心求證。',
  '「膜」急，把選項看完。','「炎」重懷疑我讀過這題。','「鈣」念很重要。','「髓」時都能刷。','「痔」在必得。'];
 const sessionSlogan=SLOGANS[Math.floor(Math.random()*SLOGANS.length)];
-const STATUS=[['new','沒做過'],['wrong','做錯過'],['flagged','已標記'],['figure','有附圖'],['bonus','送分／複選']];
+const STATUS=[['new','沒做過'],['wrong','做錯過'],['flagged','已標記'],['noted','有註記'],['figure','有附圖'],['bonus','送分／複選']];
 let questions=[],state=loadState(),session=null,timer=null,currentUser=null,firebase=null,touchStartX=0;
 let filters={years:new Set(),sessions:new Set(),subjects:new Set(),specialties:new Set(),statuses:new Set()};
 let settings={count:20,reveal:'instant',random:true,weak:false,timed:false};
@@ -82,8 +82,19 @@ function specialtySubjects(sp){const r=new Set();for(const q of questions)if(q.s
 function specialtySubject(sp){const r=specialtySubjects(sp);return r.size===1?[...r][0]:null}
 function toggleChip(b){const group=b.dataset.group,set=filters[group],raw=b.dataset.value,value=['years','sessions'].includes(group)?Number(raw):raw;set.has(value)?set.delete(value):set.add(value);renderFilters()}
 function toggleAll(group){const prop={years:'year',sessions:'session',subjects:'subject',specialties:'specialty'}[group],values=[...new Set(questions.map(q=>q[prop]).filter(v=>v!=null))];filters[group]=filters[group].size===values.length?new Set():new Set(values);renderFilters()}
-function statusPool(status){const attempted=new Set(state.attempts.map(a=>a.id));return questions.filter(q=>status==='new'?!attempted.has(q.id):status==='wrong'?Boolean(state.wrong[q.id]):status==='flagged'?Boolean(state.flags[q.id]):status==='figure'?q.figures.length>0:q.answer.length>1)}
-function filteredQuestions(){const attempted=new Set(state.attempts.map(a=>a.id));const any=(set,v)=>!set.size||set.has(v);return questions.filter(q=>any(filters.years,q.year)&&any(filters.sessions,q.session)&&any(filters.subjects,q.subject)&&any(filters.specialties,q.specialty||'未分類')&&[...filters.statuses].every(s=>s==='new'?!attempted.has(q.id):s==='wrong'?Boolean(state.wrong[q.id]):s==='flagged'?Boolean(state.flags[q.id]):s==='figure'?q.figures.length>0:q.answer.length>1))}
+// 狀態判定集中一份：原本 statusPool 與 filteredQuestions 各寫一串三元運算子，
+// 兩邊必須手動保持同步，而且結尾是「其餘都當 bonus」——多一個狀態就會靜靜地判錯。
+// 2026-09-06 抽成表，順便加上「有註記」。
+const STATUS_TEST={
+ new:(q,ctx)=>!ctx.attempted.has(q.id),
+ wrong:q=>Boolean(state.wrong[q.id]),
+ flagged:q=>Boolean(state.flags[q.id]),
+ noted:q=>Boolean(state.notes[q.id]),
+ figure:q=>q.figures.length>0,
+ bonus:q=>q.answer.length>1};
+function statusCtx(){return{attempted:new Set(state.attempts.map(a=>a.id))}}
+function statusPool(status){const ctx=statusCtx();return questions.filter(q=>Boolean(STATUS_TEST[status]&&STATUS_TEST[status](q,ctx)))}
+function filteredQuestions(){const ctx=statusCtx();const any=(set,v)=>!set.size||set.has(v);return questions.filter(q=>any(filters.years,q.year)&&any(filters.sessions,q.session)&&any(filters.subjects,q.subject)&&any(filters.specialties,q.specialty||'未分類')&&[...filters.statuses].every(s=>Boolean(STATUS_TEST[s]&&STATUS_TEST[s](q,ctx))))}
 function names(set,all,label){return set.size===all.length?'全部':set.size?([...set].join('、')):'不限'}
 function emptyReason(){
  // 交集為 0 時指出是哪一組把題目篩光了，並提供一鍵修正
