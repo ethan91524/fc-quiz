@@ -3,7 +3,11 @@ export function localDateKey(value=new Date()){const d=value instanceof Date?val
 export function addLocalDays(key,days){const[y,m,d]=key.split('-').map(Number);return localDateKey(new Date(y,m-1,d+days))}
 export function daysBetween(a,b){const p=s=>s.split('-').map(Number),x=p(a),y=p(b);return Math.round((Date.UTC(x[0],x[1]-1,x[2])-Date.UTC(y[0],y[1]-1,y[2]))/86400000)}
 export function updateSrs(record,correct,today=localDateKey(),attempt={}){const old=record||{stage:0,due:today,streak:0,history:[]},history=[...(old.history||[]),{date:today,correct,...attempt}];if(!correct)return{stage:1,due:addLocalDays(today,1),streak:0,history};if(!record)return null;if(old.stage===21&&old.streak>=1)return{...old,graduated:true,graduatedAt:today,streak:old.streak+1,history};const i=Math.max(0,SRS_INTERVALS.indexOf(old.stage)),stage=SRS_INTERVALS[Math.min(i+1,3)];return{stage,due:addLocalDays(today,stage),streak:old.streak+1,history}}
-export function queueBuckets(srs,today=localDateKey()){const b={today:0,tomorrow:0,3:0,7:0,21:0};Object.values(srs||{}).filter(r=>r&&!r.graduated).forEach(r=>{const d=daysBetween(r.due,today);if(d<=0)b.today++;else if(d===1)b.tomorrow++;else if([3,7,21].includes(d))b[d]++});return b}
+// 桶子用「區間」不是「剛好等於」：due 是 today+stage，所以剛排進去時 d 正好是 1/3/7/21，
+// 但每過一天 d 就少 1——原本只收 d===3/7/21，等於 d 是 2、4、5、6、8…20 的題目
+// 完全不會出現在任何桶子裡，佇列面板在大多數日子都少報。2026-09-06 改成互斥區間，
+// 0–21 天全覆蓋（due 最遠就是 today+21，不會超出）。
+export function queueBuckets(srs,today=localDateKey()){const b={today:0,tomorrow:0,3:0,7:0,21:0};Object.values(srs||{}).filter(r=>r&&!r.graduated).forEach(r=>{const d=daysBetween(r.due,today);if(d<=0)b.today++;else if(d===1)b.tomorrow++;else if(d<=3)b[3]++;else if(d<=7)b[7]++;else b[21]++});return b}
 export function dueIds(srs,today=localDateKey()){return Object.entries(srs||{}).filter(([,r])=>r&&!r.graduated&&daysBetween(r.due,today)<=0).map(([id])=>id)}
 export function classifyQuestion(q){return q.figures?.length?'image':(q.stem||'').length>=120?'long':'general'}
 export const TYPE_LABELS={image:'影像判讀題',long:'長題幹臨床情境',general:'一般題'};
