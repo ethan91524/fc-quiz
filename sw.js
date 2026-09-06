@@ -1,4 +1,4 @@
-const CACHE = 'fc-quiz-v63';
+const CACHE = 'fc-quiz-v64';
 
 // 不會變動的資源 → cache-first
 // 2026-09-06：拿掉 vendor/pdf.min.mjs 與 pdf.worker.min.mjs。那是「Phase 0：FC 儲存與跳頁

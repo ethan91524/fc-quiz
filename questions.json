@@ -9971,7 +9971,10 @@
    "C": "正確。腮腺結石的礦化程度通常較低，許多在傳統 X 光呈 radiolucent；超音波、CT 或 sialoendoscopy 較能定位。",
    "D": "單純唾液腺內視鏡適合較小、可移動的導管內結石；約 1 cm 以上結石常需內視鏡輔助 combined approach、碎石或其他手術，不能保證無輔助移除。",
    "summary": "下頷下腺是 sialolithiasis 最常見部位；腮腺結石常不透過單純 X 光顯影。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sialolithiasis-sialadenitis"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10009,7 +10012,10 @@
    "C": "正確。腺樣囊狀癌（adenoid cystic carcinoma）往往生長緩慢，卻具有明顯神經旁侵犯，因而可有疼痛、神經症狀及沿神經遠距延伸。",
    "D": "腺樣囊狀癌可晚期血行轉移，尤其肺部，且局部復發亦重要；轉移可能在治療多年後出現，並非均在三年內。",
    "summary": "腺樣囊狀癌呈緩慢但持續的病程，特色是 perineural invasion、晚期復發與遠端轉移。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "salivary-gland-tumors"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -21825,7 +21831,11 @@
    "C": "大腸桿菌（Escherichia coli）可在特定免疫低下或院內感染情境出現，但不是一般急性細菌性唾液腺炎的首要致病菌。",
    "D": "綠膿桿菌（Pseudomonas aeruginosa）較須在重症、免疫低下或醫療照護相關感染考慮，整體常見度不及 S. aureus。",
    "summary": "急性化膿性唾液腺炎最典型病原是 S. aureus；脫水與唾液鬱滯促成口腔菌逆行感染。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sialolithiasis-sialadenitis",
+    "ent-common-pathogens"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -33827,11 +33837,14 @@
   },
   "explanation": {
    "A": "肺炎鏈球菌（Streptococcus pneumoniae）是急性中耳炎與急性細菌性鼻竇炎的經典共同致病菌，因此 A 本身不能作為「不是常見菌」的唯一答案。官方因題目瑕疵一律給分。",
-   "B": "非典型流行性感冒嗜血桿菌（nontypeable Haemophilus influenzae）是兩種疾病的常見致病菌，尤其在疫苗時代的重要性增加；官方更正仍判本題全給分。",
+   "B": "不可分型流行性感冒嗜血桿菌（nontypeable Haemophilus influenzae）是兩種疾病的常見致病菌，尤其在疫苗時代的重要性增加；官方更正仍判本題全給分。",
    "C": "卡他莫拉菌（Moraxella catarrhalis）亦是兒童急性中耳炎與急性鼻竇炎的常見病原，常產生 β-lactamase；因此 C 也不是明確的排除項。",
    "D": "金黃色葡萄球菌（Staphylococcus aureus）不是一般社區型急性中耳炎與急性鼻竇炎的主要共同病原，原命題可能預期此項；但官方答案註明第 23 題一律給分，故不得硬指定唯一答案。",
    "summary": "三大常見共同病原為 S. pneumoniae、nontypeable H. influenzae、M. catarrhalis；原題可能想選 S. aureus，但官方更正為全給分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ent-common-pathogens"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -45695,7 +45708,10 @@
    "C": "本項不選。這是第一線選項。類固醇鼻噴劑（intranasal corticosteroid）能抑制鼻黏膜發炎，對鼻塞的效果尤其好。",
    "D": "本項不屬於起始第一線。免疫治療（allergen immunotherapy）適合症狀持續、藥物控制不佳或想減少長期用藥且已確認過敏原者。",
    "summary": "過敏性鼻炎先用鼻噴 steroid／antihistamine；免疫治療留給確認過敏原且控制不佳的病人。",
-   "guideline": "FC 醫學(六)第4冊 p.252"
+   "guideline": "FC 醫學(六)第4冊 p.252",
+   "concepts": [
+    "allergic-rhinitis"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -45840,7 +45856,10 @@
    "C": "不正確。舌下腺結石罕見。該腺分泌量較少，導管構造不是典型的結石滯留處。",
    "D": "不正確。小唾液腺可有黏液囊腫等病變，但不是唾液腺結石最常發生的位置。",
    "summary": "唾液腺結石最愛下頷腺：導管長、逆重力，唾液又濃。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sialolithiasis-sialadenitis"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -57645,7 +57664,10 @@
    "C": "本項不選。這是常見病原，所以不是本題要選的。流行性感冒嗜血桿菌（Haemophilus influenzae）常見於急性細菌性鼻竇炎。",
    "D": "本項不選。這是常見病原，所以不是本題要選的。卡他莫拉菌（Moraxella catarrhalis）尤其常見於兒童，也可能產生 β-lactamase。",
    "summary": "急性細菌性鼻竇炎先背 pneumococcus、H. influenzae、Moraxella；Pseudomonas 留給特殊情境。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ent-common-pathogens"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -57787,7 +57809,10 @@
    "C": "本項不選。「遠端轉移是治療失敗常見的原因」本身正確，因此不是題目答案。局部控制後仍可能晚期肺轉移，遠端轉移是常見治療失敗型態。",
    "D": "本項不選。「出現遠端轉移後，部分病人疾病進程緩慢，仍可存活數年」本身正確，因此不是題目答案。即使有肺轉移，腺樣囊狀癌有時進展緩慢，部分病人可存活多年。",
    "summary": "腺樣囊狀癌愛沿神經走、也會晚期肺轉移；病理的 solid 型才是較差預後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "salivary-gland-tumors"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -57825,7 +57850,10 @@
    "C": "正確。Warthin tumor 好發於腮腺尾端，因該處有腺體內淋巴結，偶可多發或雙側出現。",
    "D": "本項不正確。Warthin tumor 是良性唾液腺腫瘤，別名為 papillary cystadenoma lymphomatosum。",
    "summary": "Warthin tumor 是年長抽菸男性的腮腺尾端良性腫瘤，也可能雙側或多發。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "salivary-gland-tumors"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59673,7 +59701,10 @@
    "C": "不正確。血管瘤常見於兒童或年輕人，可有可壓縮性與血流訊號；65 歲兩年硬塊不典型。",
    "D": "不正確。腺癌需警覺快速長大、疼痛、顏面神經麻痺或侵犯邊界；單靠無痛長期病程較不支持。",
    "summary": "腮腺無痛、慢長的界線清楚腫塊，第一個想到 pleomorphic adenoma。",
-   "guideline": "FC 醫學(六)第4冊 p.391"
+   "guideline": "FC 醫學(六)第4冊 p.391",
+   "concepts": [
+    "salivary-gland-tumors"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -69688,7 +69719,10 @@
    "C": "不正確。這不是典型徵象。眼睫毛縮短沒有特異性，不能用來診斷過敏性鼻炎。",
    "D": "不正確。Dennie-Morgan folds 位於下眼瞼，是異位性體質相關的皺褶，不是上眼瞼皺褶。",
    "summary": "鼻尖橫紋是長期 allergic salute 留下的痕跡；Dennie-Morgan folds 在下眼瞼。",
-   "guideline": "FC 醫學(六)第4冊 p.261"
+   "guideline": "FC 醫學(六)第4冊 p.261",
+   "concepts": [
+    "allergic-rhinitis"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -69864,7 +69898,10 @@
    "C": "不正確。Warthin tumor 常見於抽菸男性是對的，但 enucleation 不是標準概括說法；須依位置以適當腮腺切除或局部手術處理。",
    "D": "正確。Warthin tumor 的別名就是 papillary cystadenoma lymphomatosum，為良性腮腺腫瘤。",
    "summary": "多形性腺瘤不能只挖掉，因為有假足會復發；Warthin tumor 也叫 papillary cystadenoma lymphomatosum。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "salivary-gland-tumors"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -81614,7 +81651,10 @@
    "C": "正確。反覆暴露後可出現晚期發炎反應，eosinophils、Th2 cells 與細胞激素浸潤使鼻塞持續更久。",
    "D": "本項不正確。慢性過敏性鼻炎可能增加鼻竇炎、氣喘等共病，但不是每個病人都必然產生後遺症。",
    "summary": "過敏性鼻炎先致敏、再早期 IgE 反應，數小時後才是 eosinophil 主導的晚期發炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "allergic-rhinitis"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -104602,7 +104642,10 @@
    "C": "不正確。蟑螂過敏可見於室內環境，亦和氣喘相關，但不是本題最典型、最常見的臺灣過敏原。",
    "D": "不正確。黴菌在潮濕環境可引發症狀，但整體盛行率與晨起典型表現仍較符合塵蟎。",
    "summary": "臺灣晨起鼻癢、打噴嚏的經典過敏原是塵蟎；溫暖潮濕正好養它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "allergic-rhinitis"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -104635,7 +104678,10 @@
    "C": "正確。IL-10 以免疫調節與抑制發炎聞名，不是典型未治療 Th2 過敏性鼻炎最可能升高的效應細胞激素。",
    "D": "不正確。IL-13 與 IL-4 共同促進 IgE 反應、黏液分泌與氣道／鼻黏膜過敏發炎，因此可增加。",
    "summary": "過敏性鼻炎的 Th2 三兄弟是 IL-4、IL-5、IL-13；IL-10 比較像煞車。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "allergic-rhinitis"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -104668,7 +104714,10 @@
    "C": "不正確。topical intranasal corticosteroid 是過敏性鼻炎最有效的單一藥物之一，對鼻塞、流鼻水與鼻癢都有幫助。",
    "D": "不正確。antihistamine 可抑制 histamine 造成的打噴嚏、鼻癢與流鼻水，是常用治療。",
    "summary": "普通過敏性鼻炎先用鼻噴 steroid 和 antihistamine；anti-IgE 不是常規起手式。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "allergic-rhinitis"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -115359,7 +115408,10 @@
    "C": "本項不選。金黃色葡萄球菌是慢性中耳炎耳漏最常培養到的革蘭氏陽性菌之一。",
    "D": "本項不選。綠膿桿菌是慢性化膿性中耳炎最典型的病原，帶著特殊的臭味與綠色分泌物。",
    "summary": "急性中耳炎＝呼吸道菌（肺炎鏈球菌、流感嗜血桿菌、卡他莫拉菌）；慢性中耳炎＝外耳道進來的綠膿桿菌與葡萄球菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ent-common-pathogens"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -126140,7 +126192,10 @@
    "C": "本項不選。卡他莫拉菌排第三，症狀通常較輕，自癒的比例較高。",
    "D": "本項應選。綠膿桿菌不是急性中耳炎的常見菌。它出現在慢性化膿性中耳炎、耳漏長期不止或惡性外耳炎，機轉是從外耳道進來而不是耳咽管上行。",
    "summary": "急性中耳炎三隻菌：肺炎鏈球菌、流感嗜血桿菌、卡他莫拉菌；看到綠膿桿菌要想慢性或外耳道來源。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ent-common-pathogens"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
