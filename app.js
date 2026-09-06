@@ -134,8 +134,11 @@ function renderHero(){
  set('heroLine', sessionSlogan);
  const ex=$('#heroExam'); if(ex)ex.onclick=openExamDate;
  const go=$('#heroGo');
+ // 沒設考試日期（或今天配額已完成）時，退回一般練習。
+ // 原本退回的是 #randomButton，那個 id 在 HTML 裡不存在，加上 ?. 之後就變成靜靜地什麼都不做——
+ // 首頁最大顆的按鈕按了沒反應。2026-09-06 改指向真的存在的 #startButton。
  if(go)go.onclick=()=>{const b=$('#startPlanButton');
-   if(state.examDate&&b&&!b.disabled)b.click(); else $('#randomButton')?.click()};
+   if(state.examDate&&b&&!b.disabled)b.click(); else $('#startButton')?.click()};
 }function openExamDate(){$('#examDateInput').min=addLocalDays(localDateKey(),1);$('#examDateInput').value=state.examDate||'';$('#examDateDialog').showModal()}function saveExamDate(){const v=$('#examDateInput').value;if(!v||v<=localDateKey())return toast('請選擇未來的日期');state.examDate=v;saveState();$('#examDateDialog').close();renderLearningHome();toast('讀書計畫已重算')}
 function showView(id){['loadingView','homeView','quizView','resultView','analysisView','mockView','cardsView'].forEach(v=>{const el=$('#'+v);if(el)el.classList.toggle('hidden',v!==id)});window.scrollTo(0,0);
  // 進場動畫：移除再強制 reflow 才會重播（同一個元素連續切換時 class 沒變就不會觸發）
@@ -293,7 +296,16 @@ function openImage(src){$('#largeImage').src=src;$('#imageDialog').showModal()}
 function restoreSession(){try{const saved=JSON.parse(sessionStorage.getItem(SESSION_KEY));if(saved?.ids?.length&&confirm('找到尚未完成的練習，要繼續嗎？')){session=saved;session.enteredAt=Date.now();showView('quizView');startTimer();renderQuestion()}else sessionStorage.removeItem(SESSION_KEY)}catch{sessionStorage.removeItem(SESSION_KEY)}}
 function registerServiceWorker(){if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{})}
 async function initFirebase(){ $('#firebaseNotice').textContent=firebaseEnabled?'用 Google 或 Apple 登入，主題與進度會跨裝置同步。':'Firebase 尚未設定，目前使用訪客模式。';if(!firebaseEnabled){['#googleButton','#appleButton'].forEach(k=>{const b=$(k);if(b)b.disabled=true});return}try{const [{initializeApp},{getAuth,onAuthStateChanged,GoogleAuthProvider,OAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut:fbSignOut},{getFirestore,doc,setDoc,getDoc}]=await Promise.all([import('https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js')]);const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app);firebase={auth,db,doc,setDoc,getDoc,GoogleAuthProvider,OAuthProvider,signInWithPopup,signInWithRedirect,fbSignOut};onAuthStateChanged(auth,handleUser);getRedirectResult(auth).catch(()=>{})}catch(e){$('#authMessage').textContent='Firebase 初始化失敗：'+(e&&(e.code||e.message)||'未知錯誤');console.error('[firebase init]',e)}}
-async function handleUser(user){currentUser=user;$('#accountButton').textContent=user?user.email:'訪客';$('#signOutButton').classList.toggle('hidden',!user);$('#signInButton').classList.toggle('hidden',!!user);$('#signUpButton').classList.toggle('hidden',!!user);if(user)await mergeCloud()}
+// 2026-09-06 修：這裡本來還去抓 #signInButton／#signUpButton，但登入介面早就換成
+// Google／Apple 兩顆（class="signin-btn"），那兩個 id 在 HTML 裡根本不存在。
+// $() 回 null → .classList 直接丟例外，而且是在 mergeCloud() 之前——
+// 所以每次 onAuthStateChanged 都噴一個 uncaught promise，**登入後的雲端合併從來沒跑過**。
+// console 看起來只是紅字，實際上跨裝置同步是壞的。
+async function handleUser(user){currentUser=user;
+ $('#accountButton').textContent=user?user.email:'訪客';
+ $('#signOutButton').classList.toggle('hidden',!user);
+ $$('.signin-btn').forEach(b=>b.classList.toggle('hidden',!!user));
+ if(user)await mergeCloud()}
 async function authenticate(kind){
  if(!firebase)return;
  const msg=$('#authMessage'); if(msg)msg.textContent='';
