@@ -1597,7 +1597,9 @@
    "D": "本項不選。算一下就知道：pH = 6.1 + log(26 ÷ (0.03 × 70)) ≈ 7.19，確實低於 7.30。這是典型的急性呼吸性酸中毒。",
    "summary": "神經肌肉疾病造成的是 pump failure：先看 PaCO2 而不是 PaO2，代償失敗就要通氣支持。",
    "guideline": "FC 醫學(三)第1冊 p.414",
-   "concepts": []
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -9533,7 +9535,9 @@
    "D": "冰敷試驗（ice pack test）可使 acetylcholinesterase 活性下降並暫時改善 MG 的 ptosis，屬快速床邊篩檢，但陰性結果不能單獨排除疾病。",
    "summary": "MG 的眼部表現重點是疲勞性與波動性，可單側起始；並應留意 autoimmune thyroid disease 與 thymoma。",
    "guideline": "FC 醫學(六)第2冊 p.224",
-   "concepts": []
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11288,7 +11292,9 @@
    "D": "慢性神經病變經軸突側芽再支配後，運動單元電位（MUAP）可呈時間延長、振幅增大及多相波增加；此針極肌電圖變化可伴隨慢性脫髓鞘病變中的繼發軸突損害。",
    "summary": "脫髓鞘主要造成傳導變慢、潛期延長與傳導阻斷；CMAP 振幅不會因脫髓鞘而增加。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "axonal-vs-demyelinating-neuropathy"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -28295,7 +28301,10 @@
    "C": "本項敘述錯誤。淋巴結裡被刺激的 T 細胞會增殖成專一的效應與記憶 T 細胞，再靠皮膚歸巢機轉回到皮膚。T 細胞不會變成肥大細胞（mast cell）——後者來自骨髓的髓系細胞，是不同的來源。",
    "D": "本項敘述錯誤。致敏期大約要 10～14 天甚至更久，而且第一次致敏時通常沒有明顯皮疹。真正起疹是再次接觸後的激發期（elicitation phase），在 24～72 小時後才出現，屬於遲發型過敏。",
    "summary": "過敏性接觸性皮膚炎是第四型遲發型過敏（type IV delayed hypersensitivity）：小分子半抗原→藍格罕氏細胞帶去淋巴結→記憶 T 細胞回皮膚；跟 IgE 和肥大細胞無關。",
-   "guideline": "FC 醫學(四)第2冊 p.124"
+   "guideline": "FC 醫學(四)第2冊 p.124",
+   "concepts": [
+    "irritant-vs-allergic-contact-derm"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29005,7 +29014,10 @@
    "C": "本項不選。格林–巴利症候群（Guillain-Barré syndrome）經典型是急性發炎性去髓鞘多發性神經根神經病變；雖有軸突變異型，但不是本題問的主要典型。",
    "D": "本項不選。單株免疫球蛋白增高血症相關神經病變常與抗 MAG 抗體或免疫介導去髓鞘有關，表現較偏感覺性與慢性遠端病變。",
    "summary": "鉛中毒的神經病變先傷運動軸突，記憶點是橈神經受累造成手腕下垂。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "axonal-vs-demyelinating-neuropathy"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29076,7 +29088,10 @@
    "C": "本項最恰當。糖尿病神經病變主要是軸突退化，但慢性代謝與微血管傷害也可造成節段性去髓鞘，因此病理可同時有兩種變化。",
    "D": "本項不選。急性軸突神經病變不必然同時有去髓鞘；把兩種病理綁成必定共存會混淆 AMAN 與典型 AIDP 的分類。",
    "summary": "糖尿病神經病變以軸突傷害為主，但可同時帶有去髓鞘變化，不要把兩者硬切開。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "axonal-vs-demyelinating-neuropathy"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -40881,7 +40896,10 @@
    "C": "本項錯誤。肉毒桿菌中毒可造成下降性麻痺並侵犯呼吸肌，嚴重時需要通氣支持；不能因為是周邊病變就忽略呼吸衰竭。",
    "D": "本項不選。肉毒桿菌中毒需支持治療與 antitoxin，類固醇不能中和毒素或恢復突觸前釋放，因此沒有治療效果。",
    "summary": "botulism 會自律神經失調、下降性麻痺與呼吸衰竭；病灶在突觸前，不是 MG 的突觸後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -47850,7 +47868,9 @@
    "D": "本項不選。心包膜填塞屬於阻塞型休克，頸靜脈壓會**升高**。這位病人頸靜脈是低陷的，這一點就把它排除了。",
    "summary": "休克先摸頸靜脈：低陷＝血容量不夠，鼓脹＝心臟或心包出問題。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "shock-hemodynamic-profiles"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -52013,7 +52033,10 @@
    "C": "本項不選。過敏性接觸性皮膚炎確實是遲發型的第四型過敏（type IV hypersensitivity）：致敏過的 T 淋巴球在再次接觸後引起濕疹性發炎。它的診斷工具是貼膚試驗（patch test），不是用即時型 IgE 的機轉去解釋。",
    "D": "本項應選。刺激性接觸性皮膚炎沒有特定過敏原、也沒有抗原專一的免疫機轉，所以抽血驗過敏原專一性 IgE 根本不是它的主要診斷方法。真正靠的是接觸史、病灶分布、刺激物劑量，加上把過敏性的那一型排除掉；要排除時才做貼膚試驗。",
    "summary": "刺激性是「直接燒傷」——快、限在接觸處、抽血驗不到；過敏性是第四型過敏——會擴散、要靠貼膚試驗。",
-   "guideline": "FC 醫學(四)第2冊 p.121"
+   "guideline": "FC 醫學(四)第2冊 p.121",
+   "concepts": [
+    "irritant-vs-allergic-contact-derm"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52683,7 +52706,10 @@
    "C": "本項不選。吞嚥困難可見於 GBS 的延髓受累，也可見於重症肌無力的延髓型表現，因此鑑別力不足。",
    "D": "本項不選。兩者都可能使呼吸肌無力並需要密切監測；GBS 看 FVC 下降，重症肌無力也可能出現 myasthenic crisis。",
    "summary": "GBS 和重症肌無力都會無力、吞嚥差、呼吸差；真正拉開差距的是 GBS 常連自律神經一起失控。",
-   "guideline": "FC 醫學(四)第4冊 p.284"
+   "guideline": "FC 醫學(四)第4冊 p.284",
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -57040,7 +57066,10 @@
    "C": "這題不選 C：Severe sepsis 是舊分類。原本指 sepsis 合併器官功能障礙或低灌流。現行定義已將這些情形納入 sepsis，不再獨立使用此名詞。",
    "D": "這題要選 D：病人已接受約 43 mL/kg 輸液後仍低血壓 90/45 mmHg。正考慮 vasopressor。符合感染合併持續循環衰竭的 septic shock 概念；仍應評估 lactate 與灌流。",
    "summary": "感染病人補液後仍低血壓、需要升壓劑時，要直接想到 septic shock；不要停在舊名詞 severe sepsis。",
-   "guideline": "FC 醫學(六)第4冊 p.161"
+   "guideline": "FC 醫學(六)第4冊 p.161",
+   "concepts": [
+    "shock-hemodynamic-profiles"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -63513,7 +63542,10 @@
    "C": "本項應選。心包膜填塞限制心室舒張與充填，機轉和張力性氣胸一樣是 obstructive shock，不是因周邊血管擴張造成的 distributive shock。",
    "D": "本項不選。腎病症候群大量蛋白尿使血管內膠體滲透壓下降，液體移到間質而有效循環容積不足，可形成 hypovolemic shock。",
    "summary": "休克分類抓住卡在哪裡：心包填塞、張力性氣胸是血回不來的阻塞性。心肌病是幫浦壞掉。腎病症候群是血管內缺水。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "shock-hemodynamic-profiles"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -76617,7 +76649,10 @@
    "C": "本項敘述正確。LEMS 可與惡性腫瘤相關，最典型是小細胞肺癌；因此新診斷病人需要系統性找腫瘤。",
    "D": "本項敘述正確。口乾、便秘、勃起障礙等自律神經症狀常見，因突觸前鈣離子通道受影響不只在神經肌接頭。",
    "summary": "LEMS 是『突觸前鈣通道』加自律神經症狀和小細胞肺癌；把它寫成鉀通道就把核心打錯。",
-   "guideline": "FC 醫學(四)第4冊 p.284"
+   "guideline": "FC 醫學(四)第4冊 p.284",
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -87783,7 +87818,10 @@
    "C": "本項應選。心搏過速常是休克早期代償，用來維持 cardiac output；也要同時排除發燒、疼痛或焦慮。",
    "D": "本項不選。過敏性反應造成血管擴張與微血管滲漏，屬 distributive shock，不是 obstructive shock。",
    "summary": "休克分類別背反：張力氣胸是阻塞性、anaphylaxis 是分布性；早期常先快心跳，低血壓常較晚。官方本題 A、C 皆給分。",
-   "guideline": "FC 醫學(四)第1冊 p.67"
+   "guideline": "FC 醫學(四)第1冊 p.67",
+   "concepts": [
+    "shock-hemodynamic-profiles"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -87932,7 +87970,10 @@
    "C": "正確答案。過敏性接觸性皮膚炎是半抗原專一的第四型遲發過敏（type IV delayed hypersensitivity）：第一次接觸先把 T 細胞致敏，再次接觸才起濕疹。所以「先前暴露」是它必經的步驟，這正是它和刺激性最根本的差別。",
    "D": "本項敘述錯誤。貼膚試驗（patch testing）是用來證實過敏性接觸性皮膚炎的，靠延遲判讀找出引起第四型過敏的接觸過敏原。刺激性接觸性皮膚炎要靠暴露史、分布與排除過敏性來診斷，貼膚試驗確診不了它。",
    "summary": "過敏性要「先致敏、再發作」，而且靠貼膚試驗抓兇手；刺激性是第一次碰就傷，貼膚試驗驗不出來。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "irritant-vs-allergic-contact-derm"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88645,7 +88686,10 @@
    "C": "本項不選。腦動脈瘤（cerebral artery aneurysm）壓迫第三腦神經時，眼瞼下垂會伴隨瞳孔放大與眼球外斜。而且是突發合併劇烈頭痛，不會有日夜起伏。",
    "D": "本項不選。運動神經元疾病（motor neuron disease）攻擊前角細胞與皮質脊髓束。表現是肌肉萎縮、肌束顫動與吞嚥構音障礙，眼外肌通常到末期都不受影響。",
    "summary": "眼瞼下垂「早上輕、晚上重」＝疲乏性，先想重症肌無力；突發劇痛加瞳孔散大才想動脈瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -97252,7 +97296,10 @@
    "B": "正確答案。病毒性心肌炎造成心因性休克（cardiogenic shock）。心輸出量低會引發代償性的血管收縮，SVR 反而「升高」，跟其他三者相反。",
    "C": "本項不選。嚴重脊髓損傷造成的神經性休克（neurogenic shock）失去交感張力，SVR 下降。",
    "D": "本項不選。金黃色葡萄球菌敗血症（sepsis）是分佈性休克，早期常見 SVR 下降。",
-   "summary": "三種分佈性休克的 SVR 下降；心肌炎的心因性休克是代償性 SVR 上升。"
+   "summary": "三種分佈性休克的 SVR 下降；心肌炎的心因性休克是代償性 SVR 上升。",
+   "concepts": [
+    "shock-hemodynamic-profiles"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -109750,7 +109797,10 @@
    "C": "本項敘述正確。ScvO2 反映組織取氧後剩下的靜脈氧；維持 ≥70% 表示氧輸送與需求較平衡。",
    "D": "本項不選。休克復甦的尿量目標通常至少約 1 mL/kg/hr；0.1–0.5 mL/kg/hr 仍提示腎灌流不足。",
    "summary": "兒童休克看灌流有沒有回來：ScvO2 ≥70%、尿量約 ≥1 mL/kg/hr，比只看血壓可靠。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "shock-hemodynamic-profiles"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -121004,7 +121054,10 @@
    "C": "本項應選。para-phenylenediamine（PPD）是永久性染髮劑的重要過敏原，皮疹會出現在髮際、額頭、耳後、眼瞼與頸部這些接觸或藥水流過的地方。而且頭皮角質層厚，症狀反而可能比臉和脖子還輕——說「只會發生於頭皮」剛好講反。",
    "D": "本項敘述正確。貼膚試驗把標準化的過敏原貼在皮膚上，延遲判讀有沒有濕疹反應，可以找出致敏物。它評估的是第四型過敏，不是用來診斷單純的刺激性皮膚炎或立即型蕁麻疹。",
    "summary": "染髮過敏最慘的往往不是頭皮而是額頭、耳後和脖子——藥水流到哪就長到哪。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "irritant-vs-allergic-contact-derm"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -131726,7 +131779,10 @@
    "C": "本項不選。鉻（chromium），尤其六價鉻，常見於水泥、皮革與某些工業材料，是職業性接觸過敏的重要來源。它的暴露情境不是染髮。",
    "D": "本項不選。環氧樹脂（epoxy resin）讓建築、油漆、黏著劑與複合材料的工作者發生接觸性皮膚炎，屬於重要職業性過敏原，但不是染髮劑裡最常見的致敏物。",
    "summary": "染髮過敏就是 PPD；鎳想飾品、鉻想水泥皮革、環氧樹脂想黏著劑，來源分清楚就不會選錯。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "irritant-vs-allergic-contact-derm"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -132493,7 +132549,10 @@
    "C": "本項不選。皮肌炎靠皮膚表現、肌酸激酶、肌電圖與肌肉切片；神經傳導檢查同樣正常。",
    "D": "正確。慢性脫髓鞘多發性神經炎的診斷核心就是神經傳導檢查：傳導速度變慢、遠端潛時延長、傳導阻滯與時間離散，這些電生理指標直接寫在診斷準則裡。診斷成立後可用類固醇、免疫球蛋白或血漿置換治療，這也是它與肌萎縮性側索硬化必須分清楚的理由——一個可治療，一個不可逆。",
    "summary": "神經傳導檢查測的是「神經」：脫髓鞘病變（CIDP、GBS）最有用；肌肉病變與神經肌肉接合處要用別的工具。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "axonal-vs-demyelinating-neuropathy"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
