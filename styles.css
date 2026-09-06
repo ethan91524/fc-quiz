@@ -154,3 +154,21 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
   .ctable tbody td+td{border-top:1px solid var(--hair)}
   .ctable tbody td::before{content:attr(data-col);display:block;font-size:10px;letter-spacing:.16em;color:var(--muted);font-weight:800;margin-bottom:3px}
 }
+
+/* 概念卡瀏覽頁（2026-09-06）：272 張卡原本只有答到掛卡的那 567 題才看得到，
+   等於整份資產沒有入口。這裡把 .card 直接複用，只補外框、篩選列與頁尾。 */
+.cards-bar{display:flex;gap:12px;align-items:flex-end;flex-wrap:wrap;margin:14px 0 10px}
+.cards-search{display:flex;flex-direction:column;gap:4px;flex:1;min-width:220px}
+.cards-search input{border:1px solid var(--hair);background:var(--paper);color:var(--ink);
+  padding:9px 11px;font:inherit;font-size:13px;border-radius:var(--r);width:100%}
+.cards-search input:focus{outline:none;border-color:var(--sig)}
+.cchip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--hair);padding:6px 10px;
+  font-size:12.5px;background:var(--panel);color:var(--ink);border-radius:var(--r);cursor:pointer}
+.cchip.on{border-color:var(--sig);background:var(--sigs);color:var(--sig)}
+.cchip em{font-style:normal;color:var(--muted);font-size:11px}
+.cards-list{display:flex;flex-direction:column;gap:12px;margin-top:14px}
+.card-wrap{border:1px solid var(--hair);border-radius:var(--r);overflow:hidden;background:var(--panel)}
+.card-wrap .card{border:0;border-radius:0;background:var(--paper)}
+.card-foot{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;
+  padding:9px 13px;border-top:1px solid var(--hair);background:var(--panel)}
+.card-foot .btn{flex:none}

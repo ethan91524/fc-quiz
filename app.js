@@ -50,6 +50,7 @@ function bindEvents(){
   const rs=$('#resetStatsButton');if(rs)rs.onclick=resetStats;
   $$('[data-select]').forEach(b=>b.onclick=()=>toggleAll(b.dataset.select));$$('[data-reveal]').forEach(b=>b.onclick=()=>{settings.reveal=b.dataset.reveal;renderControls()});$$('[data-setting]').forEach(b=>b.onclick=()=>{settings[b.dataset.setting]=!settings[b.dataset.setting];renderControls()});
   $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
+  $('#cardsButton').onclick=openCards;$('#cardSearch').oninput=e=>{cardFilter.q=e.target.value;renderCardsView()};
   $('#searchButton').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};$('#searchInput').oninput=renderSearch;$$('dialog [data-close]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
   $('#accountButton').onclick=()=>$('#accountDialog').showModal();$('#googleButton').onclick=()=>authenticate('google');$('#appleButton').onclick=()=>authenticate('apple');$('#signOutButton').onclick=signOut;
   $('#exitQuiz').onclick=confirmExit;$('#prevButton').onclick=()=>navigate(-1);$('#nextButton').onclick=nextAction;$('#submitButton').onclick=submitSession;(function(){const nav=$('#qnav'),btn=$('#qnavToggle');
@@ -136,7 +137,7 @@ function renderHero(){
  if(go)go.onclick=()=>{const b=$('#startPlanButton');
    if(state.examDate&&b&&!b.disabled)b.click(); else $('#randomButton')?.click()};
 }function openExamDate(){$('#examDateInput').min=addLocalDays(localDateKey(),1);$('#examDateInput').value=state.examDate||'';$('#examDateDialog').showModal()}function saveExamDate(){const v=$('#examDateInput').value;if(!v||v<=localDateKey())return toast('請選擇未來的日期');state.examDate=v;saveState();$('#examDateDialog').close();renderLearningHome();toast('讀書計畫已重算')}
-function showView(id){['loadingView','homeView','quizView','resultView','analysisView','mockView'].forEach(v=>{const el=$('#'+v);if(el)el.classList.toggle('hidden',v!==id)});window.scrollTo(0,0);
+function showView(id){['loadingView','homeView','quizView','resultView','analysisView','mockView','cardsView'].forEach(v=>{const el=$('#'+v);if(el)el.classList.toggle('hidden',v!==id)});window.scrollTo(0,0);
  // 進場動畫：移除再強制 reflow 才會重播（同一個元素連續切換時 class 沒變就不會觸發）
  const cur=$('#'+id);if(cur){cur.classList.remove('view-in');void cur.offsetWidth;cur.classList.add('view-in')}}
 function weightedSample(pool,count){const rates={};state.attempts.forEach(a=>{const k=a.specialty||a.subject;(rates[k]??={n:0,c:0}).n++;if(a.correct)rates[k].c++});const bag=pool.map(q=>({q,w:1+(rates[q.specialty||q.subject]?1-rates[q.specialty||q.subject].c/rates[q.specialty||q.subject].n:0)}));const out=[];while(bag.length&&out.length<count){let total=bag.reduce((s,x)=>s+x.w,0),r=Math.random()*total,i=0;for(;i<bag.length;i++){r-=bag[i].w;if(r<=0)break}out.push(bag.splice(Math.min(i,bag.length-1),1)[0].q)}return out}
@@ -210,6 +211,36 @@ function renderCard(c){const en=c.en&&c.en!==c.zh?`<em>${escapeHtml(c.en)}</em>`
  note=c.note?`<p class="cnote">${mdBold(c.note)}</p>`:'',
  src=c.source?`<p class="csrc">${escapeHtml(c.source)}</p>`:'';
  return`<article class="card k-${escapeHtml(c.kind||'definition')}"><h3>${escapeHtml(c.zh||'')} ${en}</h3>${body}${table}${items}${note}${src}</article>`}
+// ── 概念卡瀏覽 ──────────────────────────────────────────────────────────
+// 272 張卡本來只有「答到那 567 題其中一題」才看得到，等於整份資產沒有入口。
+// 這個頁面把它們攤開來查，並且每張卡都能直接練它考過的那幾題。
+// 索引以 key 去重：同一張卡可能同時放在兩科的檔案裡（例如 brown-sequard-syndrome）。
+function conceptIndex(){const idx=new Map();
+ for(const [sp,pool] of Object.entries(conceptData||{}))
+  for(const [key,card] of Object.entries(pool||{}))
+   if(!idx.has(key))idx.set(key,{key,card,home:sp,ids:[],specs:new Set()});
+ questions.forEach(q=>{const ks=(q.explanation&&q.explanation.concepts)||[];
+  ks.forEach(k=>{const e=idx.get(k);if(e){e.ids.push(q.id);e.specs.add(q.specialty||'未分類')}})});
+ return idx}
+function cardText(c){return[c.zh,c.en,c.body,c.note,(c.items||[]).join(' '),(c.columns||[]).join(' '),
+ (c.rows||[]).flat().join(' ')].join(' ').toLowerCase()}
+const cardFilter={spec:'',q:''};
+function openCards(){loadConcepts().then(()=>{showView('cardsView');renderCardsView()})}
+function renderCardsView(){const idx=conceptIndex(),all=[...idx.values()].filter(e=>e.ids.length);
+ // 科別用「有掛這張卡的題目」算，比卡片放在哪個檔案更貼近使用者的心智
+ const counts={};all.forEach(e=>e.specs.forEach(s=>counts[s]=(counts[s]||0)+1));
+ $('#cardSpecChips').innerHTML=[`<button class="cchip ${cardFilter.spec?'':'on'}" data-spec="">全部<em>${all.length}</em></button>`]
+  .concat(Object.keys(counts).sort().map(s=>`<button class="cchip ${cardFilter.spec===s?'on':''}" data-spec="${escapeHtml(s)}">${escapeHtml(s)}<em>${counts[s]}</em></button>`)).join('');
+ $$('#cardSpecChips .cchip').forEach(b=>b.onclick=()=>{cardFilter.spec=b.dataset.spec;renderCardsView()});
+ const kw=cardFilter.q.trim().toLowerCase(),
+  rows=all.filter(e=>(!cardFilter.spec||e.specs.has(cardFilter.spec))&&(!kw||cardText(e.card).includes(kw)))
+   .sort((a,b)=>b.ids.length-a.ids.length||String(a.card.zh||'').localeCompare(String(b.card.zh||''),'zh-Hant'));
+ $('#cardsCount').textContent=`${rows.length} 張${rows.length===all.length?'':` · 共 ${all.length} 張`}`;
+ $('#cardsList').innerHTML=rows.length?rows.map(e=>`<div class="card-wrap">${renderCard(e.card)}<div class="card-foot"><span class="tiny">題庫裡 ${e.ids.length} 題考過 · ${[...e.specs].map(escapeHtml).join('、')}</span><button class="btn" data-cardkey="${escapeHtml(e.key)}">練這 ${e.ids.length} 題</button></div></div>`).join(''):'<p class="tiny">沒有符合的概念卡。換個關鍵字或選「全部」。</p>';
+ $$('#cardsList [data-cardkey]').forEach(b=>b.onclick=()=>{const e=idx.get(b.dataset.cardkey);
+  const pool=e.ids.map(id=>questions.find(q=>q.id===id)).filter(Boolean);
+  if(!pool.length)return toast('找不到對應題目');
+  startSession(pool,'concept',`概念卡：${e.card.zh||e.key}`,false)})}
 function renderConceptLinks(q){const key=fcKey(q.fc_ref);if(!key)return'';const related=questions.filter(x=>x.id!==q.id&&fcKey(x.fc_ref)===key),years=new Set([q,...related].map(x=>x.year));if(!related.length)return'';const done=new Map(state.attempts.map(a=>[a.id,a]));return`<section class="concept-links"><span class="lbl">這個考點 ${years.size} 年考過 ${related.length+1} 次</span><div class="link">${related.slice(0,8).map(x=>`<div class="lrow"><span>${escapeHtml(paperLabel(x))}　${escapeHtml(x.stem.slice(0,35))}</span><em>${done.has(x.id)?(done.get(x.id).correct?'你答對了':'曾答錯'):'還沒做過'}</em></div>`).join('')}</div></section>`}
 function formatFcRef(ref){const volume=ref.volume||ref.book||ref['冊別']||'',chapter=ref.chapter||ref['章節']||ref.specialty||'',page=ref.page||ref['頁次']||'';return`<div class="ref"><span class="lbl">FC 原文</span><br><b>${escapeHtml(volume)} · ${escapeHtml(chapter)} · <span class="fc-page" title="長按可複製">p.${escapeHtml(page)}</span></b></div>`}
 function jump(index){commitQuestionTime();session.index=index;session.enteredAt=Date.now();renderQuestion()}function navigate(d){const n=session.index+d;if(n>=0&&n<session.ids.length)jump(n)}
