@@ -2962,7 +2962,9 @@
    "D": "正確。肺炎鏈球菌疫苗是非活性疫苗，高劑量 IVIG 不會像對活性病毒疫苗那樣中和疫苗病毒，因此原定接種期程不受影響。",
    "summary": "高劑量 IVIG 主要影響部分活性病毒疫苗；肺炎鏈球菌等非活性疫苗可依原時程接種。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "kawasaki-diagnostic-criteria"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4072,7 +4074,10 @@
    "C": "這題不選。斷掌紋（single transverse palmar crease）可見於唐氏症，但一般人也可能有，特異性不足，不能單憑它確診。",
    "D": "正確。唐氏症常合併房室中隔缺損（atrioventricular septal defect），舊稱心內膜墊缺損（endocardial cushion defect），所以出生後需評估先天性心臟病。",
    "summary": "看到唐氏症先想到低張力與房室中隔缺損；斷掌紋只能當線索，不能單獨診斷。",
-   "guideline": "FC 醫學(四)第1冊 p.535"
+   "guideline": "FC 醫學(四)第1冊 p.535",
+   "concepts": [
+    "down-syndrome"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -22599,7 +22604,10 @@
    "C": "生長激素應在發現生長遲滯後及早開始，通常早於青春期，才能增加成年身高；等到青春期才開始會錯失部分生長潛力。",
    "D": "性腺類固醇補充一般在接近正常青春期年齡、確認卵巢衰竭後以低劑量逐步誘導，不是所有患者固定從 9–10 歲開始；過早 estrogen 也可能加速骨齡成熟。",
    "summary": "Turner syndrome 的懷孕風險重點是先天心血管病與主動脈剝離；受孕前須完整心臟及主動脈評估。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "turner-syndrome"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -39307,7 +39315,10 @@
    "C": "本項不選。病毒性肝炎可造成膽囊壁水腫與膽囊擴張，反映肝膽發炎或全身性水腫變化，因此可見急性膽囊水腫。",
    "D": "本項不選。Salmonella 感染可侵入膽道並引發膽囊炎或膽囊水腫，特別是菌血症或全身感染時要納入鑑別。",
    "summary": "急性膽囊水腫會出現在 Kawasaki disease、肝炎或 Salmonella 等發炎情境；CF 比較像濃稠膽汁與慢性膽道問題。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kawasaki-diagnostic-criteria"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39928,7 +39939,10 @@
    "C": "正確。唐氏症兒童較常見 Acute myelogenous leukemia（AML），尤其 acute megakaryoblastic leukemia；新生兒期的 transient abnormal myelopoiesis 也支持其髓系易感性。",
    "D": "本項不選。CML 是 BCR::ABL1 相關的慢性骨髓性腫瘤，並非唐氏症兒童的典型白血病關聯。",
    "summary": "看到唐氏症合併白血病，要先連到 AML，尤其巨核母細胞型；不是把所有急性白血病都當成同樣風險。",
-   "guideline": "FC 醫學(四)第1冊 p.535"
+   "guideline": "FC 醫學(四)第1冊 p.535",
+   "concepts": [
+    "down-syndrome"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40156,7 +40170,11 @@
    "C": "本項不選。特納氏症（Turner syndrome）只發生於女性，較典型的心臟病是 coarctation of aorta 或 bicuspid aortic valve。",
    "D": "本項不選。唐氏症（Down syndrome）常見低肌張力、典型臉貌及 endocardial cushion defect，與題幹的肺動脈瓣狹窄組合較不符。",
    "summary": "矮小、ptosis、低耳位加 pulmonary stenosis 是 Noonan syndrome 的招牌組合；它和 Turner 相似，但男孩也會得。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-syndrome",
+    "turner-syndrome"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40189,7 +40207,10 @@
    "C": "本項不選。下位頸椎 C3 並非唐氏症頸椎不穩定最具代表性的部位。",
    "D": "本項不選。C4 病變不會解釋唐氏症常被篩檢的 atlantoaxial instability。",
    "summary": "唐氏症的頸椎風險要記寰樞椎不穩定：C1–C2 區域最重要，活動或麻醉前須留意神經症狀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-syndrome"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -58399,7 +58420,9 @@
    "D": "本項是本題要選的最不適當處置。Turner syndrome 若帶有 Y chromosome material，應在發現後儘早評估預防性 gonadectomy，而不是等到成年才處理。",
    "summary": "Turner syndrome 帶 Y material 的重點是 gonadoblastoma 風險；預防性 gonadectomy 不要拖到成年。",
    "guideline": "FC 醫學(六)第1下冊 p.49",
-   "concepts": []
+   "concepts": [
+    "turner-syndrome"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -75599,7 +75622,10 @@
    "C": "本項不選。SHOX haploinsufficiency 會造成短肢與低身高，適當評估後可使用 growth hormone 改善生長。",
    "D": "本項不選。Prader-Willi syndrome 使用 growth hormone 除了改善身高，也可改善 body composition。開始前仍需評估嚴重肥胖、睡眠呼吸障礙等風險。",
    "summary": "生長激素適應症記 Turner、SHOX、PWS。DiGeorge 的核心是免疫與心臟缺陷，不是拿 GH 來治。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "turner-syndrome"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -87109,7 +87135,10 @@
    "C": "本項應選。肥胖是膽結石的危險因子，卻不是兒童無結石膽囊水腫的典型直接原因；因此也列入官方可給分答案。",
    "D": "本項應選。全靜脈營養會降低腸道刺激與膽囊收縮，容易膽汁鬱積或 sludge；和典型急性膽囊水腫的關聯不如川崎病明確。",
    "summary": "這題為官方送分題：川崎病可見膽囊水腫；其餘三項都不是最典型的直接連結，所以答 B、C、D 任一或組合都給分。",
-   "guideline": "FC 醫學(四)第1冊 p.131"
+   "guideline": "FC 醫學(四)第1冊 p.131",
+   "concepts": [
+    "kawasaki-diagnostic-criteria"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -120598,7 +120627,10 @@
    "C": "本項應選。川崎病最常發生在五歲以下；猩紅熱較常見於學齡兒童，不能說兩者都好發於五歲以上。",
    "D": "本項不選。A 群鏈球菌需以適當 antibiotics 根除；川崎病急性期以 IVIG 加 aspirin 降低冠狀動脈併發症。",
    "summary": "草莓舌與脫皮兩病都有，年齡幫你分：川崎病多在五歲以下，猩紅熱偏學齡兒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kawasaki-diagnostic-criteria"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -120796,7 +120828,10 @@
    "C": "本項不選。Prader-Willi syndrome 在專科評估、排除嚴重呼吸問題後，可作為生長激素治療的適應症之一。",
    "D": "本項不選。Turner syndrome 可用生長激素改善成人身高，是常見的非 GH-deficient 給付適應症。",
    "summary": "生長激素給付不等於所有矮小症都能用；題目中的 Taiwan-policy 例外是 Russell-Silver syndrome。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "turner-syndrome"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
