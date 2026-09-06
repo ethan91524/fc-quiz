@@ -196,3 +196,10 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .backup-zone{border-top:1px solid var(--hair);margin-top:14px;padding-top:12px;display:flex;flex-direction:column;gap:8px}
 .backup-row{display:flex;gap:8px;flex-wrap:wrap}
 .backup-row .btn{flex:1;min-width:120px;text-align:center;cursor:pointer}
+
+/* 搜尋：可切換是否連詳解一起找，命中處給前後文並標示（2026-09-06） */
+.search-scope{display:flex;gap:9px;align-items:flex-start;margin:8px 0 4px;font-size:12.5px;color:var(--ink2);cursor:pointer}
+.search-scope input{margin-top:2px;accent-color:var(--sig);flex:none}
+.search-scope small{display:block;color:var(--muted);font-size:10.5px}
+.hitsnip{display:block;margin-top:3px;font-size:11.5px;line-height:1.6;color:var(--muted)}
+.hitsnip mark{background:var(--sigs);color:var(--sig);padding:0 2px;border-radius:2px}

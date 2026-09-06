@@ -53,7 +53,7 @@ function bindEvents(){
   $$('[data-select]').forEach(b=>b.onclick=()=>toggleAll(b.dataset.select));$$('[data-reveal]').forEach(b=>b.onclick=()=>{settings.reveal=b.dataset.reveal;renderControls()});$$('[data-setting]').forEach(b=>b.onclick=()=>{settings[b.dataset.setting]=!settings[b.dataset.setting];renderControls()});
   $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
   $('#cardsButton').onclick=openCards;$('#cardSearch').oninput=e=>{cardFilter.q=e.target.value;renderCardsView()};
-  $('#searchButton').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};$('#searchInput').oninput=renderSearch;$$('dialog [data-close]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
+  $('#searchButton').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};$('#searchInput').oninput=renderSearch;const se=$('#searchInExpl');if(se)se.onchange=renderSearch;$$('dialog [data-close]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
   $('#accountButton').onclick=()=>$('#accountDialog').showModal();$('#googleButton').onclick=()=>authenticate('google');$('#appleButton').onclick=()=>authenticate('apple');$('#signOutButton').onclick=signOut;
   $('#exitQuiz').onclick=confirmExit;$('#prevButton').onclick=()=>navigate(-1);$('#nextButton').onclick=nextAction;$('#submitButton').onclick=submitSession;(function(){const nav=$('#qnav'),btn=$('#qnavToggle');
  if(!nav||!btn)return;
@@ -321,7 +321,34 @@ function showResults(){const pool=sessionQuestions(),correct=pool.filter(q=>isCo
 function startReview(){session.review=true;session.index=0;session.enteredAt=Date.now();showView('quizView');renderQuestion()}function confirmExit(){if(confirm('確定結束本次作答？'))goHome()}function goHome(){stopTimer();session=null;sessionStorage.removeItem(SESSION_KEY);renderHome();showView('homeView')}
 function startTimer(){stopTimer();timer=setInterval(()=>{if(!session)return;$('#timer').textContent=formatTime(Math.round((Date.now()-session.startedAt)/1000));const qsec=(session.times[currentQuestion().id]||0)+Math.round((Date.now()-session.enteredAt)/1000);$('#questionTimer').textContent=`本題 ${formatTime(qsec)}`;if(settings.timed&&qsec>=90&&!session.answers[currentQuestion().id]){toast('本題已達 90 秒');settings.timed=false}},1000)}function stopTimer(){clearInterval(timer);timer=null}
 function keyboard(e){if(!$('#quizView').classList.contains('hidden')&&!['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)){const key=e.key.toLowerCase();if(['a','b','c','d','e'].includes(key)){e.preventDefault();selectAnswer(key.toUpperCase())}else if(e.key==='ArrowLeft'){e.preventDefault();navigate(-1)}else if(e.key==='ArrowRight'){e.preventDefault();navigate(1)}else if(key==='f'){e.preventDefault();toggleFlag()}else if(e.code==='Space'){e.preventDefault();nextAction()}}}
-function renderSearch(){const term=$('#searchInput').value.trim().toLocaleLowerCase();if(!term){$('#searchResults').innerHTML='<p class="tiny">輸入關鍵字開始搜尋。</p>';return}const hits=questions.filter(q=>(q.stem+' '+Object.values(q.options).join(' ')).toLocaleLowerCase().includes(term));$('#searchResults').innerHTML=`<span class="tiny">命中 ${hits.length} 題</span>${hits.slice(0,100).map(q=>`<button class="lrow" data-search-id="${q.id}"><span>${escapeHtml(q.stem)}</span><em class="mono">${paperLabel(q)}</em></button>`).join('')}`;$$('[data-search-id]').forEach(b=>b.onclick=()=>{$('#searchDialog').close();startSession([questions.find(q=>q.id===b.dataset.searchId)],'search','搜尋結果',false)})}
+// 搜尋原本只看題幹與選項。詳解全部重寫成 v3 之後，機制、口訣與鑑別點都寫在詳解裡
+// （「whirl sign」「膝胸位」這種字只出現在詳解），不讓它可搜等於把最有用的一層藏起來。
+// 索引只在第一次用到時建，建好就快取；沒有勾選詳解時完全不碰它。
+let searchIndex=null;
+function buildSearchIndex(){if(searchIndex)return searchIndex;
+ searchIndex=questions.map(q=>{const e=q.explanation||{},parts=[q.stem,...Object.values(q.options||{})];
+  for(const k of ['A','B','C','D','E','summary','guideline'])if(typeof e[k]==='string')parts.push(e[k]);
+  return{q,base:(q.stem+' '+Object.values(q.options||{}).join(' ')).toLocaleLowerCase(),
+   full:parts.join(' · ').toLocaleLowerCase(),raw:parts.join(' · ')}});
+ return searchIndex}
+// 命中處前後各留 34 字，讓使用者看得出來為什麼這題被找出來
+// 命中處前後各留 34 字，讓使用者看得出來為什麼這題被找出來。
+// 回傳分段而不是把標記字元塞進字串——先 escapeHtml 再組 <mark>，才不會有跳脫順序的坑。
+function snippet(raw,lower,term){const i=lower.indexOf(term);if(i<0)return null;
+ const s=Math.max(0,i-34),t=Math.min(raw.length,i+term.length+34);
+ return{lead:s?'…':'',before:raw.slice(s,i),hit:raw.slice(i,i+term.length),
+  after:raw.slice(i+term.length,t),tail:t<raw.length?'…':''}}
+function markSnippet(p){return p?`${p.lead}${escapeHtml(p.before)}<mark>${escapeHtml(p.hit)}</mark>${escapeHtml(p.after)}${p.tail}`:''}
+function renderSearch(){const term=$('#searchInput').value.trim().toLocaleLowerCase();
+ const box=$('#searchResults');
+ if(!term){box.innerHTML='<p class="tiny">輸入關鍵字開始搜尋。</p>';return}
+ const inExpl=$('#searchInExpl')?.checked!==false,rows=buildSearchIndex();
+ const hits=rows.filter(r=>(inExpl?r.full:r.base).includes(term));
+ box.innerHTML=`<span class="tiny">命中 ${hits.length} 題${hits.length>100?'（只列前 100）':''}</span>`+
+  hits.slice(0,100).map(r=>{const hitInStem=r.base.includes(term),
+    snip=hitInStem?'':markSnippet(snippet(r.raw,r.full,term));
+   return`<button class="lrow" data-search-id="${r.q.id}"><span>${escapeHtml(r.q.stem.slice(0,70))}${snip?`<small class="hitsnip">${snip}</small>`:''}</span><em class="mono">${paperLabel(r.q)}</em></button>`}).join('');
+ $$('[data-search-id]').forEach(b=>b.onclick=()=>{$('#searchDialog').close();startSession([questions.find(q=>q.id===b.dataset.searchId)],'search','搜尋結果',false)})}
 function renderAnalysis(){const attempts=state.attempts,correct=attempts.filter(a=>a.correct).length,rate=attempts.length?Math.round(correct/attempts.length*100):0,speeds=speedStats(attempts,new Map(questions.map(q=>[q.id,q]))),subjects=subjectStats(attempts),speedRows=speeds.map(x=>`<div class="lrow ${x.slowButAccurate?'needs-speed':''}"><span>${x.label}${x.slowButAccurate?' · 要練速度':''}</span><em class="mono">平均 ${x.average}s　正確率 ${x.rate}%　${x.n} 題</em></div>`).join(''),subjectRows=subjects.length?subjects.map(x=>`<div class="lrow"><span>${escapeHtml(x.name)}</span><em class="mono">平均 ${x.average}s　正確率 ${x.rate}%</em></div>`).join(''):'<p class="tiny">完成題目後顯示。</p>';$('#analysisContent').innerHTML=`<div class="heat"><div class="metric"><b>${attempts.length}</b><span>累積作答</span></div><div class="metric"><b>${rate}%</b><span>累積正確率</span></div><div class="metric"><b>${attempts.length?Math.round(attempts.reduce((s,a)=>s+(a.seconds||0),0)/attempts.length):0}s</b><span>平均每題</span></div></div><div class="analysis-card"><span class="lbl">作答速度 · 國考目標每題 90 秒</span><div class="link">${speedRows}</div><p class="tiny">有附圖＝影像；無圖且題幹 ≥ 120 字＝長題幹；其餘＝一般。正確率 ≥ 60% 且平均超過 90 秒會標示要練速度。</p></div><div class="analysis-card"><span class="lbl">單科平均作答時間 · 最弱的先出現</span><div class="link">${subjectRows}</div></div><div class="analysis-card" id="weakCards"><span class="lbl">最弱的概念卡 · 載入中</span></div>${renderExamTrend()}`;showView('analysisView');renderWeakCards()}
 // 模擬考成績趨勢：state.exams 只收 mode==='mock' 的整卷，本來只被模擬考列表拿去顯示
 // 「上次幾分」，沒有地方看得出來到底有沒有進步——那是備考時最想知道的一件事。
