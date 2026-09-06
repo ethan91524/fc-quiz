@@ -48,6 +48,8 @@ function bindEvents(){
   document.addEventListener('click',e=>{if(!e.target.closest('.switch'))themeMenu(false)});
   document.addEventListener('keydown',e=>{if(e.key==='Escape')themeMenu(false)});
   const rs=$('#resetStatsButton');if(rs)rs.onclick=resetStats;
+  const eb=$('#exportButton');if(eb)eb.onclick=exportBackup;
+  const ii=$('#importInput');if(ii)ii.onchange=e=>{const f=e.target.files&&e.target.files[0];if(f)importBackup(f);e.target.value=''};
   $$('[data-select]').forEach(b=>b.onclick=()=>toggleAll(b.dataset.select));$$('[data-reveal]').forEach(b=>b.onclick=()=>{settings.reveal=b.dataset.reveal;renderControls()});$$('[data-setting]').forEach(b=>b.onclick=()=>{settings[b.dataset.setting]=!settings[b.dataset.setting];renderControls()});
   $('#countSlider').oninput=e=>{settings.count=Number(e.target.value);renderControls()};$('#startButton').onclick=startPractice;$('#mockButton').onclick=openMock;$('#wrongButton').onclick=startWrong;$('#analysisButton').onclick=renderAnalysis;$('#startReviewButton').onclick=startDueReview;$('#startPlanButton').onclick=startDailyPlan;$('#examDateButton').onclick=openExamDate;$('#saveExamDate').onclick=saveExamDate;
   $('#cardsButton').onclick=openCards;$('#cardSearch').oninput=e=>{cardFilter.q=e.target.value;renderCardsView()};
@@ -181,6 +183,33 @@ function openMock(){
 }
 function startMock(key){const [year,sessionNo,subject]=key.split('|'),pool=questions.filter(q=>q.year===+year&&q.session===+sessionNo&&q.subject===subject).sort((a,b)=>a.number-b.number);if(pool.length!==80)return toast(`這份試卷有 ${pool.length} 題`);startSession(pool,'mock',`${year}-${sessionNo} · ${subject}`,true)}
 // 重設統計：清作答/錯題/複習/成績，但保留主題、考試日期與登入狀態（那些不是「統計」）
+// ── 備份與還原 ──────────────────────────────────────────────────────────
+// 所有讀書紀錄都只存在 localStorage。首頁那張安裝提示自己就寫著
+// 「iOS 長期未使用仍可能清除網站資料」——真的被清掉就全沒了。
+// Firebase 同步在今天之前一直是壞的（handleUser 丟例外，mergeCloud 從沒跑過），
+// 所以這裡補一個不依賴任何服務的離線備份。
+function exportBackup(){const blob=new Blob([JSON.stringify({app:'fc-quiz',version:2,exportedAt:new Date().toISOString(),state},null,1)],{type:'application/json'});
+ const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+ a.download=`fc-quiz-備份-${localDateKey()}.json`;a.click();
+ setTimeout(()=>URL.revokeObjectURL(a.href),3000);
+ toast(`已匯出 ${state.attempts.length} 筆作答紀錄`)}
+function importBackup(file){const r=new FileReader();
+ r.onload=()=>{let data;
+  try{data=JSON.parse(String(r.result))}catch{return toast('檔案不是有效的 JSON')}
+  const s=data&&data.state;
+  if(!s||!Array.isArray(s.attempts))return toast('這不是科內考古的備份檔');
+  // 合併而不是覆蓋：同一題在兩邊都做過時，用 id+時間戳去重，兩邊的紀錄都留著。
+  const before=state.attempts.length;
+  state={...state,...s,
+   attempts:dedupe([...state.attempts,...s.attempts],a=>a.id+'|'+a.at),
+   exams:dedupe([...(state.exams||[]),...(s.exams||[])],e=>e.id),
+   wrong:{...(s.wrong||{}),...state.wrong},flags:{...(s.flags||{}),...state.flags},
+   notes:{...(s.notes||{}),...state.notes},noteLevels:{...(s.noteLevels||{}),...state.noteLevels},
+   srs:{...(s.srs||{}),...state.srs},conquered:{...(s.conquered||{}),...state.conquered},
+   dailyCompletions:{...(s.dailyCompletions||{}),...state.dailyCompletions}};
+  saveState();setTheme(state.theme,false);renderHome();
+  toast(`已匯入：作答紀錄 ${before} → ${state.attempts.length} 筆`)};
+ r.readAsText(file)}
 function resetStats(){
  if(!confirm('確定要清除所有作答紀錄、錯題本、複習進度與模擬考成績？\n主題與考試日期會保留。此動作無法復原。'))return;
  const keep={theme:state.theme,examDate:state.examDate};

@@ -1,9 +1,9 @@
-const CACHE = 'fc-quiz-v51';
+const CACHE = 'fc-quiz-v52';
 
 // 不會變動的資源 → cache-first
 const IMMUTABLE = ['./vendor/pdf.min.mjs', './vendor/pdf.worker.min.mjs', './icon.svg', './manifest.webmanifest'];
 // 會改版的文件 → network-first（離線時才回快取）
-const DOCS = ['./', './index.html', './styles.css?v=32', './app.js?v=34', './learning-core.js?v=8', './config.js'];
+const DOCS = ['./', './index.html', './styles.css?v=33', './app.js?v=35', './learning-core.js?v=8', './config.js'];
 const DATA = ['./questions.json', './concepts.json'];
 
 // GitHub Pages 對所有檔案回 Cache-Control: max-age=600，所以 SW 的 fetch() 本身

@@ -191,3 +191,8 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .ebar b.pass{background:var(--sig)}
 .ebar b.fail{background:var(--no)}
 .ebar small{font-size:9.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+
+/* 備份與還原（2026-09-06）：紀錄只在 localStorage，iOS 可能清掉，補一個離線出入口。 */
+.backup-zone{border-top:1px solid var(--hair);margin-top:14px;padding-top:12px;display:flex;flex-direction:column;gap:8px}
+.backup-row{display:flex;gap:8px;flex-wrap:wrap}
+.backup-row .btn{flex:1;min-width:120px;text-align:center;cursor:pointer}
