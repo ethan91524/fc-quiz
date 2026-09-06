@@ -35591,7 +35591,9 @@
    "D": "不正確。脊椎手術需要考慮曲線進展、呼吸功能與骨骼成熟度，並非一般腦性麻痺下肢手術時間點的早期例外。",
    "summary": "腦性麻痺的手術多等較大再做，但髖脫位會越拖越難救，所以髖關節是例外。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cp-musculoskeletal"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -47469,7 +47471,9 @@
    "D": "不正確。失調型腦性麻痺主要和小腦系統功能障礙相關，表現為平衡與協調不良，並非膽紅素基底核毒性的典型結果。",
    "summary": "核黃疸傷基底核，所以高膽紅素血症後的 CP 要想到徐動／肌張力不全型。",
    "guideline": "FC 醫學(六)第3冊 p.186",
-   "concepts": []
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -59441,7 +59445,9 @@
    "D": "本項最不適當。癲癇較常見於半邊麻痺或四肢麻痺等皮質病變較廣的類型；單純雙邊麻痺型的癲癇比例通常較低。",
    "summary": "早產 PVL 常給 diplegia；癲癇多要警覺 hemiplegia 或 quadriplegia 的較廣皮質傷害。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -71436,7 +71442,9 @@
    "D": "本項不選。長期使用部分抗癲癇藥會影響 vitamin D 與骨代謝，活動量低的 CP 患者更可能出現 osteopenia 或骨折風險。",
    "summary": "CP 的核心是早期非進行性腦傷，不是通常遺傳；但聽力、認知、癲癇和骨質都要一起看。",
    "guideline": "FC 醫學(六)第3冊 p.184",
-   "concepts": []
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -83400,7 +83408,10 @@
    "C": "本項應選。早產兒最容易受傷的位置是腦室周圍白質（periventricular leukomalacia）。那裡通過的下行纖維以支配下肢的最靠內側，所以典型後果是雙下肢為重的痙攣型雙邊麻痺（spastic diplegia）。",
    "D": "本項不選。長期用異常張力與代償姿勢活動，關節與肌腱磨損得比同齡人快。腦性麻痺病人三、四十歲就出現疼痛、退化與體能下滑並不罕見。",
    "summary": "早產＋腦性麻痺＝下肢為主的 spastic diplegia；四肢麻痺多來自足月兒的嚴重缺氧或腦部畸形。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -87927,7 +87938,10 @@
    "C": "本項不選。資源不足地區的產科照護較受限，急性產程併發症所占比例可能高於已開發國家。",
    "D": "本項不選。雙胞胎較容易早產、低出生體重與胎盤相關問題，因此腦性麻痺風險高於單胞胎。",
    "summary": "腦性麻痺不是「大多因難產窒息」：多數風險早在產前或早產相關，雙胞胎也因早產而更高風險。",
-   "guideline": "FC 醫學(四)第1冊 p.314"
+   "guideline": "FC 醫學(四)第1冊 p.314",
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -99481,7 +99495,10 @@
    "C": "本項不選。核黃疸傷害 basal ganglia，可能造成 dyskinetic/athetoid cerebral palsy。",
    "D": "本項不選。腦性麻痺常合併癲癇、認知困難、視聽障礙或語言發展遲緩，評估不能只看肢體。",
    "summary": "CP 的腦傷來源很多：早產兒常是 PVL，核黃疸會出現 athetoid 型；別把七成病因都推給窒息。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -110327,7 +110344,10 @@
    "C": "本項不選。spastic quadriplegia 多見於廣泛缺氧缺血性腦傷或嚴重腦畸形。",
    "D": "本項敘述正確。未結合膽紅素沉積在 basal ganglia，kernicterus 最常造成 dyskinetic/athetoid cerebral palsy，表現不自主扭動。",
    "summary": "核黃疸傷 basal ganglia，所以 CP 型態是 athetoid/dyskinetic；早產 PVL 才較像 spastic diplegia。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -117023,7 +117043,10 @@
    "C": "本項敘述正確。行走能力越差（GMFCS 級數越高），髖關節脫位的風險越高，第五級可達九成。",
    "D": "本項應選。髖痛與脫位的嚴重度並不成正比：有些完全脫位的病人不痛，有些半脫位卻很痛。所以疼痛評估要獨立進行，不能只看影像上的脫位程度來決定要不要處理。",
    "summary": "腦性麻痺的髖關節要定期照 X 光監測（移位百分比），因為「不痛」不代表沒有脫位。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cp-musculoskeletal"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -127824,7 +127847,10 @@
    "C": "本項敘述正確。這類病人的典型是長 C 形彎曲合併骨盆歪斜，坐姿平衡差、容易壓瘡。",
    "D": "本項應選。背架對神經肌肉型側彎無法阻止惡化，它的角色是改善坐姿平衡與延緩手術時機，不是矯正。真正能阻止的只有手術（脊椎融合到骨盆）。",
    "summary": "神經肌肉型側彎的背架只買時間、不改變曲線；能阻止惡化的是手術。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cp-musculoskeletal"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131133,7 +131159,10 @@
    "C": "本項敘述正確。早產兒的腦室旁白質軟化症是最常見的致病機轉，影像上可見腦室周圍白質減少與腦室變形。",
    "D": "本項敘述正確。要特別留意動作發展，尤其爬行時只用上肢拖著下肢前進，常是最早被家長發現的異常。",
    "summary": "痙攣型雙側麻痺＝早產＋腦室旁白質軟化，下肢重於上肢、剪刀步態；上肢重的那型要想別的病因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138630,7 +138659,10 @@
    "C": "本項應選。大約有六到七成的腦性麻痺患者最終能夠行走（含使用輔具），並非大部分無法行走。真正無法行走的集中在 GMFCS 第四、五級的重度病人。",
    "D": "本項敘述正確。十八到二十四個月大時殘留的原始反射越少，行走預後越好。",
    "summary": "腦性麻痺的行走預後看三件事：兩歲前能不能坐、四歲時的坐姿能力、殘留原始反射數目。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cerebral-palsy"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
