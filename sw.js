@@ -1,7 +1,10 @@
-const CACHE = 'fc-quiz-v58';
+const CACHE = 'fc-quiz-v59';
 
 // 不會變動的資源 → cache-first
-const IMMUTABLE = ['./vendor/pdf.min.mjs', './vendor/pdf.worker.min.mjs', './icon.svg', './manifest.webmanifest'];
+// 2026-09-06：拿掉 vendor/pdf.min.mjs 與 pdf.worker.min.mjs。那是「Phase 0：FC 儲存與跳頁
+// 可行性測試頁」留下的，app.js 完全沒有引用（全庫只有這一行提到 vendor/），
+// 卻讓每次安裝都先下載並常駐 1.7 MB。檔案留在 repo 裡，之後真的做 PDF 檢視器再掛回來。
+const IMMUTABLE = ['./icon.svg', './manifest.webmanifest'];
 // 會改版的文件 → network-first（離線時才回快取）
 const DOCS = ['./', './index.html', './styles.css?v=35', './app.js?v=41', './learning-core.js?v=9', './config.js'];
 const DATA = ['./questions.json', './concepts.json'];
