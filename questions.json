@@ -3156,7 +3156,9 @@
    "D": "增加有效母乳餵食次數可改善攝取不足型母乳黃疸（suboptimal intake jaundice），促進排便並減少 bilirubin 的腸肝循環。",
    "summary": "新生兒黃疸先分直接與間接型；本例是間接型高膽紅素血症，不應直接走膽道阻塞的 MRCP 評估。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "neonatal-jaundice"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -15160,7 +15162,10 @@
    "C": "本項不選。顏色正常不能排除膽道閉鎖。早期糞便可能還有顏色，之後才逐漸變白，所以要**連續觀察**。有黃疸持續超過兩週就該驗直接型膽紅素，不能只看便色。",
    "D": "本項不選。母乳性黃疸是**未結合型**膽紅素上升，糞便顏色正常。色卡異常代表的是結合型膽紅素升高的膽汁滯留，兩者剛好相反。",
    "summary": "糞便卡 1–6 號是異常、7–9 號正常；它篩的是膽道閉鎖，而黃金時間是出生後 60 天內完成 Kasai 手術。",
-   "guideline": "國健署兒童健康手冊嬰兒大便卡（1–6 號異常、7–9 號正常）"
+   "guideline": "國健署兒童健康手冊嬰兒大便卡（1–6 號異常、7–9 號正常）",
+   "concepts": [
+    "biliary-atresia"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -27670,7 +27675,11 @@
    "C": "這題不選。direct-to-total bilirubin 3% 且 total 12 mg/dL 主要是未結合型黃疸，是否照光要依年齡與風險，不是單看這個比例就住院。",
    "D": "正確。direct bilirubin 占 total 21% 代表 conjugated hyperbilirubinemia，應儘快評估 cholestasis、膽道閉鎖與感染代謝病，不能當單純母乳黃疸。",
    "summary": "延長性黃疸最怕漏直接型：direct fraction 明顯高就往膽汁鬱積查，不要只叫它母乳黃疸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-jaundice",
+    "biliary-atresia"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28206,7 +28215,10 @@
    "C": "正確。大血管轉位（D-transposition of the great arteries）讓肺循環與全身循環變成平行迴路，必須靠卵圓孔、VSD 或動脈導管混血才能存活，因此新生兒血氧篩檢可先發現低飽和度。",
    "D": "本項不選。單純開放性動脈導管（patent ductus arteriosus）在出生前幾天可為正常過渡現象，通常不會使健康足月兒雙下肢飽和度降到 90%。",
    "summary": "新生兒血氧低先想需要「混血」才能活的大血管轉位；VSD 或 AVSD 通常是分流和心衰竭，不是早期明顯發紺。",
-   "guideline": "FC 醫學(四)第1冊 p.27"
+   "guideline": "FC 醫學(四)第1冊 p.27",
+   "concepts": [
+    "ductal-dependent-chd"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -31115,7 +31127,8 @@
    "guideline": null,
    "concepts": [
     "cyanotic-vs-acyanotic-chd",
-    "tetralogy-of-fallot"
+    "tetralogy-of-fallot",
+    "ductal-dependent-chd"
    ]
   },
   "source": "111020/302_33",
@@ -51035,7 +51048,10 @@
    "C": "本項不選。母乳哺餵若攝取不足或腸肝循環增加，可使未鍵結型 bilirubin 上升，需同時評估餵食量與體重變化。",
    "D": "本項不選。核黃疸是未鍵結型 bilirubin 通過血腦屏障後沉積在 basal ganglia 與腦幹神經核，可能留下不可逆神經傷害。",
    "summary": "新生兒黃疸最危險的早期線索是出生 24 小時內出現；風險因子要記早產，不是過期產。",
-   "guideline": "FC 醫學(四)第1冊 p.592"
+   "guideline": "FC 醫學(四)第1冊 p.592",
+   "concepts": [
+    "neonatal-jaundice"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -63207,7 +63223,10 @@
    "C": "本項應選。三尖瓣閉鎖合併肺動脈狹窄會使肺血流減少，胸片不應是明顯肺充血，因此也較不需要考慮。",
    "D": "本項不選。動脈幹異常（truncus arteriosus）會有混合血與肺血流增加，可在新生兒出現發紺合併肺充血。",
    "summary": "新生兒發紺又肺充血要找『肺血流增加的混合血病』；VSD 多不早發紺，三尖瓣閉鎖合肺狹窄則是肺血流太少。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ductal-dependent-chd"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -63240,7 +63259,10 @@
    "C": "本項不選。葛西氏手術（Kasai procedure）以腸道引流肝門殘存膽管，是膽道閉鎖的標準早期手術。",
    "D": "本項不選。Kasai 越早做越能保留膽汁引流，常強調在約 8 週前完成，因此不能拖延灰白便的評估。",
    "summary": "灰白便、深色尿與直接型黃疸先追膽道閉鎖；切片若只有廣泛肝炎且無膽管病變，反而比較像 neonatal hepatitis。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "biliary-atresia"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -74914,7 +74936,10 @@
    "C": "本項應選。7 天只比出生體重少 50 g，表示接近恢復出生體重。搭配正常大便與精神，適合持續母乳、追蹤體重和黃疸。",
    "D": "本項不選。母乳性黃疸或早期哺乳相關黃疸不等於必須停母乳。確認攝取量與排尿排便後，多數情況可持續哺餵。",
    "summary": "足月嬰第 7 天快回到出生體重、精神與糞便正常、膽紅素 12，先持續母乳追蹤，不要急著照光或停奶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-jaundice"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -75099,7 +75124,10 @@
    "C": "本項不選。critical pulmonary stenosis 的右心流出受阻，PGE1 維持 PDA 可提供額外肺血流，是救命性的橋接治療。",
    "D": "本項應選。阻塞型 supracardiac TAPVR 的問題是肺靜脈回流受阻而肺水腫。維持 PDA 不會解除靜脈阻塞，需緊急外科或介入矯正。",
    "summary": "PGE1 只救「血流要靠 PDA 繞路」的導管依賴病。阻塞型 TAPVR 是肺靜脈出口塞住，開導管也解不了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ductal-dependent-chd"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -75137,7 +75165,10 @@
    "C": "本項應選。輕至中度 pulmonary stenosis 通常不會造成顯著右向左分流或導管前後 10% 的血氧差，最不符合此篩檢結果。",
    "D": "本項不選。interrupted aortic arch 的下半身需經 PDA 供血，因此下肢 saturation 可比右手低，尤其導管開始關閉時更明顯。",
    "summary": "右手比腳高 10% 代表導管後血混了去氧血，先想需要 PDA 的左側阻塞病。輕度肺狹窄通常做不出這種差。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ductal-dependent-chd"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -98811,7 +98842,10 @@
    "C": "本項敘述正確。peripheral smear 的 fragmented RBCs 表示紅血球受機械破壞，是溶血的直接線索。",
    "D": "本項不選。Hct 55% 對新生兒可屬正常範圍，既不支持貧血也不特異支持溶血。",
    "summary": "新生兒黃疸若是溶血，找未結合膽紅素、貧血與 smear 的破碎紅血球；direct bilirubin 高是另一條路。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-jaundice"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",

@@ -150,11 +150,7 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
   .ctable thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
   .ctable tbody tr{display:block;border:1px solid var(--hair);margin-bottom:6px}
   .ctable tbody th,.ctable tbody td{display:block;width:auto;border:0}
-  /* 堆疊模式一定要放掉 nowrap：桌機版 tbody th 是「列標題那一欄」所以不換行，
-     但手機堆疊後它變成整塊的標題列，長名稱（例如 Pleomorphic adenoma（多形性腺瘤））
-     會撐到 350px 而外框只有 313px，overflow 又是 visible，等於直接被切掉且捲不到。 */
-  .ctable tbody th{background:var(--rule);color:var(--paper);font-size:12px;
-    white-space:normal;overflow-wrap:anywhere}
+  .ctable tbody th{background:var(--rule);color:var(--paper);font-size:12px}
   .ctable tbody td+td{border-top:1px solid var(--hair)}
   .ctable tbody td::before{content:attr(data-col);display:block;font-size:10px;letter-spacing:.16em;color:var(--muted);font-weight:800;margin-bottom:3px}
 }
