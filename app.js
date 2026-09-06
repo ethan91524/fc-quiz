@@ -200,11 +200,14 @@ function renderConceptCards(q){const exp=q.explanation;if(!exp||typeof exp!=='ob
  // 先找該科自己的卡，再退到 _shared 共用池（CD vs UC 這種對照同時被兩科考到，不該複製兩份）
  const pool=conceptData[q.specialty]||{},shared=conceptData._shared||{},cards=ids.map(id=>pool[id]||shared[id]).filter(Boolean);if(!cards.length)return'';
  return`<section class="cards"><span class="lbl">概念卡</span>${cards.map(renderCard).join('')}</section>`}
+// 卡片內文也走 mdBold：卡片和詳解一樣用 **粗體** 標重點（2026-09-06 起共 51 處），
+// 只用 escapeHtml 的話線上會原樣顯示成星號——和先前詳解踩過的是同一個坑。
+// data-col 是屬性值，仍用 escapeHtml，不能讓 <strong> 跑進屬性裡。
 function renderCard(c){const en=c.en&&c.en!==c.zh?`<em>${escapeHtml(c.en)}</em>`:'',
- body=c.body?`<p class="cbody">${escapeHtml(c.body)}</p>`:'',
- items=Array.isArray(c.items)&&c.items.length?`<ul class="citems">${c.items.map(i=>`<li>${escapeHtml(i)}</li>`).join('')}</ul>`:'',
- table=c.kind==='compare'&&Array.isArray(c.columns)&&Array.isArray(c.rows)?`<div class="ctable"><table><thead><tr>${c.columns.map(h=>`<th>${escapeHtml(h||'')}</th>`).join('')}</tr></thead><tbody>${c.rows.map(r=>`<tr>${r.map((cell,i)=>i?`<td data-col="${escapeHtml(c.columns[i]||'')}">${escapeHtml(cell)}</td>`:`<th scope="row">${escapeHtml(cell)}</th>`).join('')}</tr>`).join('')}</tbody></table></div>`:'',
- note=c.note?`<p class="cnote">${escapeHtml(c.note)}</p>`:'',
+ body=c.body?`<p class="cbody">${mdBold(c.body)}</p>`:'',
+ items=Array.isArray(c.items)&&c.items.length?`<ul class="citems">${c.items.map(i=>`<li>${mdBold(i)}</li>`).join('')}</ul>`:'',
+ table=c.kind==='compare'&&Array.isArray(c.columns)&&Array.isArray(c.rows)?`<div class="ctable"><table><thead><tr>${c.columns.map(h=>`<th>${mdBold(h||'')}</th>`).join('')}</tr></thead><tbody>${c.rows.map(r=>`<tr>${r.map((cell,i)=>i?`<td data-col="${escapeHtml(c.columns[i]||'')}">${mdBold(cell)}</td>`:`<th scope="row">${mdBold(cell)}</th>`).join('')}</tr>`).join('')}</tbody></table></div>`:'',
+ note=c.note?`<p class="cnote">${mdBold(c.note)}</p>`:'',
  src=c.source?`<p class="csrc">${escapeHtml(c.source)}</p>`:'';
  return`<article class="card k-${escapeHtml(c.kind||'definition')}"><h3>${escapeHtml(c.zh||'')} ${en}</h3>${body}${table}${items}${note}${src}</article>`}
 function renderConceptLinks(q){const key=fcKey(q.fc_ref);if(!key)return'';const related=questions.filter(x=>x.id!==q.id&&fcKey(x.fc_ref)===key),years=new Set([q,...related].map(x=>x.year));if(!related.length)return'';const done=new Map(state.attempts.map(a=>[a.id,a]));return`<section class="concept-links"><span class="lbl">這個考點 ${years.size} 年考過 ${related.length+1} 次</span><div class="link">${related.slice(0,8).map(x=>`<div class="lrow"><span>${escapeHtml(paperLabel(x))}　${escapeHtml(x.stem.slice(0,35))}</span><em>${done.has(x.id)?(done.get(x.id).correct?'你答對了':'曾答錯'):'還沒做過'}</em></div>`).join('')}</div></section>`}
