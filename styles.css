@@ -172,3 +172,10 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .card-foot{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;
   padding:9px 13px;border-top:1px solid var(--hair);background:var(--panel)}
 .card-foot .btn{flex:none}
+.cards-sort{display:flex;flex-direction:column;gap:4px;flex:none}
+.cards-sort .segs{grid-template-columns:repeat(3,minmax(66px,1fr));gap:4px}
+.card-score{display:flex;align-items:baseline;gap:6px;margin-left:auto}
+.cscore{font:800 15px/1 var(--font);font-variant-numeric:tabular-nums}
+.cscore.good{color:var(--ok)}
+.cscore.mid{color:var(--flag)}
+.cscore.bad{color:var(--no)}

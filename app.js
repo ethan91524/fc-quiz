@@ -224,7 +224,12 @@ function conceptIndex(){const idx=new Map();
  return idx}
 function cardText(c){return[c.zh,c.en,c.body,c.note,(c.items||[]).join(' '),(c.columns||[]).join(' '),
  (c.rows||[]).flat().join(' ')].join(' ').toLowerCase()}
-const cardFilter={spec:'',q:''};
+const cardFilter={spec:'',q:'',sort:'freq'};
+// 每張卡的作答成績：只看每題「最後一次」作答，才反映現在的掌握度而不是歷史累積。
+function cardStat(e,last){let done=0,ok=0;e.ids.forEach(id=>{const a=last.get(id);if(a){done++;if(a.correct)ok++}});
+ return{done,n:e.ids.length,ok,rate:done?Math.round(ok/done*100):null}}
+function lastAttempts(){const m=new Map();state.attempts.forEach(a=>m.set(a.id,a));return m}
+const CARD_SORTS=[['freq','最常考'],['weak','我最弱'],['todo','還沒做']];
 function openCards(){loadConcepts().then(()=>{showView('cardsView');renderCardsView()})}
 function renderCardsView(){const idx=conceptIndex(),all=[...idx.values()].filter(e=>e.ids.length);
  // 科別用「有掛這張卡的題目」算，比卡片放在哪個檔案更貼近使用者的心智
@@ -232,11 +237,22 @@ function renderCardsView(){const idx=conceptIndex(),all=[...idx.values()].filter
  $('#cardSpecChips').innerHTML=[`<button class="cchip ${cardFilter.spec?'':'on'}" data-spec="">全部<em>${all.length}</em></button>`]
   .concat(Object.keys(counts).sort().map(s=>`<button class="cchip ${cardFilter.spec===s?'on':''}" data-spec="${escapeHtml(s)}">${escapeHtml(s)}<em>${counts[s]}</em></button>`)).join('');
  $$('#cardSpecChips .cchip').forEach(b=>b.onclick=()=>{cardFilter.spec=b.dataset.spec;renderCardsView()});
+ $('#cardSorts').innerHTML=CARD_SORTS.map(([v,l])=>`<button class="${cardFilter.sort===v?'on':''}" data-sort="${v}">${l}</button>`).join('');
+ $$('#cardSorts button').forEach(b=>b.onclick=()=>{cardFilter.sort=b.dataset.sort;renderCardsView()});
+ const last=lastAttempts();all.forEach(e=>e.stat=cardStat(e,last));
  const kw=cardFilter.q.trim().toLowerCase(),
-  rows=all.filter(e=>(!cardFilter.spec||e.specs.has(cardFilter.spec))&&(!kw||cardText(e.card).includes(kw)))
-   .sort((a,b)=>b.ids.length-a.ids.length||String(a.card.zh||'').localeCompare(String(b.card.zh||''),'zh-Hant'));
+  byName=(a,b)=>String(a.card.zh||'').localeCompare(String(b.card.zh||''),'zh-Hant'),
+  // 「我最弱」把還沒做過的排到最後——沒資料不等於弱，混在一起會誤導；
+  // 「還沒做」則反過來，優先列出這張卡底下還有題目沒碰過的。
+  sorter={freq:(a,b)=>b.ids.length-a.ids.length||byName(a,b),
+   weak:(a,b)=>(a.stat.done?0:1)-(b.stat.done?0:1)||(a.stat.rate??101)-(b.stat.rate??101)||b.stat.done-a.stat.done||byName(a,b),
+   todo:(a,b)=>(b.stat.n-b.stat.done)-(a.stat.n-a.stat.done)||b.ids.length-a.ids.length||byName(a,b)}[cardFilter.sort],
+  rows=all.filter(e=>(!cardFilter.spec||e.specs.has(cardFilter.spec))&&(!kw||cardText(e.card).includes(kw))).sort(sorter);
  $('#cardsCount').textContent=`${rows.length} 張${rows.length===all.length?'':` · 共 ${all.length} 張`}`;
- $('#cardsList').innerHTML=rows.length?rows.map(e=>`<div class="card-wrap">${renderCard(e.card)}<div class="card-foot"><span class="tiny">題庫裡 ${e.ids.length} 題考過 · ${[...e.specs].map(escapeHtml).join('、')}</span><button class="btn" data-cardkey="${escapeHtml(e.key)}">練這 ${e.ids.length} 題</button></div></div>`).join(''):'<p class="tiny">沒有符合的概念卡。換個關鍵字或選「全部」。</p>';
+ $('#cardsList').innerHTML=rows.length?rows.map(e=>{const s=e.stat,
+   score=s.done?`<b class="cscore ${s.rate>=80?'good':s.rate>=60?'mid':'bad'}">${s.rate}%</b><span class="tiny">做過 ${s.done}／${s.n}</span>`
+    :`<span class="tiny">還沒做過這 ${s.n} 題</span>`;
+   return`<div class="card-wrap">${renderCard(e.card)}<div class="card-foot"><span class="tiny">${[...e.specs].map(escapeHtml).join('、')} · 考過 ${e.ids.length} 題</span><span class="card-score">${score}</span><button class="btn" data-cardkey="${escapeHtml(e.key)}">練這 ${e.ids.length} 題</button></div></div>`}).join(''):'<p class="tiny">沒有符合的概念卡。換個關鍵字或選「全部」。</p>';
  $$('#cardsList [data-cardkey]').forEach(b=>b.onclick=()=>{const e=idx.get(b.dataset.cardkey);
   const pool=e.ids.map(id=>questions.find(q=>q.id===id)).filter(Boolean);
   if(!pool.length)return toast('找不到對應題目');
@@ -263,7 +279,16 @@ function startReview(){session.review=true;session.index=0;session.enteredAt=Dat
 function startTimer(){stopTimer();timer=setInterval(()=>{if(!session)return;$('#timer').textContent=formatTime(Math.round((Date.now()-session.startedAt)/1000));const qsec=(session.times[currentQuestion().id]||0)+Math.round((Date.now()-session.enteredAt)/1000);$('#questionTimer').textContent=`本題 ${formatTime(qsec)}`;if(settings.timed&&qsec>=90&&!session.answers[currentQuestion().id]){toast('本題已達 90 秒');settings.timed=false}},1000)}function stopTimer(){clearInterval(timer);timer=null}
 function keyboard(e){if(!$('#quizView').classList.contains('hidden')&&!['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)){const key=e.key.toLowerCase();if(['a','b','c','d','e'].includes(key)){e.preventDefault();selectAnswer(key.toUpperCase())}else if(e.key==='ArrowLeft'){e.preventDefault();navigate(-1)}else if(e.key==='ArrowRight'){e.preventDefault();navigate(1)}else if(key==='f'){e.preventDefault();toggleFlag()}else if(e.code==='Space'){e.preventDefault();nextAction()}}}
 function renderSearch(){const term=$('#searchInput').value.trim().toLocaleLowerCase();if(!term){$('#searchResults').innerHTML='<p class="tiny">輸入關鍵字開始搜尋。</p>';return}const hits=questions.filter(q=>(q.stem+' '+Object.values(q.options).join(' ')).toLocaleLowerCase().includes(term));$('#searchResults').innerHTML=`<span class="tiny">命中 ${hits.length} 題</span>${hits.slice(0,100).map(q=>`<button class="lrow" data-search-id="${q.id}"><span>${escapeHtml(q.stem)}</span><em class="mono">${paperLabel(q)}</em></button>`).join('')}`;$$('[data-search-id]').forEach(b=>b.onclick=()=>{$('#searchDialog').close();startSession([questions.find(q=>q.id===b.dataset.searchId)],'search','搜尋結果',false)})}
-function renderAnalysis(){const attempts=state.attempts,correct=attempts.filter(a=>a.correct).length,rate=attempts.length?Math.round(correct/attempts.length*100):0,speeds=speedStats(attempts,new Map(questions.map(q=>[q.id,q]))),subjects=subjectStats(attempts),speedRows=speeds.map(x=>`<div class="lrow ${x.slowButAccurate?'needs-speed':''}"><span>${x.label}${x.slowButAccurate?' · 要練速度':''}</span><em class="mono">平均 ${x.average}s　正確率 ${x.rate}%　${x.n} 題</em></div>`).join(''),subjectRows=subjects.length?subjects.map(x=>`<div class="lrow"><span>${escapeHtml(x.name)}</span><em class="mono">平均 ${x.average}s　正確率 ${x.rate}%</em></div>`).join(''):'<p class="tiny">完成題目後顯示。</p>';$('#analysisContent').innerHTML=`<div class="heat"><div class="metric"><b>${attempts.length}</b><span>累積作答</span></div><div class="metric"><b>${rate}%</b><span>累積正確率</span></div><div class="metric"><b>${attempts.length?Math.round(attempts.reduce((s,a)=>s+(a.seconds||0),0)/attempts.length):0}s</b><span>平均每題</span></div></div><div class="analysis-card"><span class="lbl">作答速度 · 國考目標每題 90 秒</span><div class="link">${speedRows}</div><p class="tiny">有附圖＝影像；無圖且題幹 ≥ 120 字＝長題幹；其餘＝一般。正確率 ≥ 60% 且平均超過 90 秒會標示要練速度。</p></div><div class="analysis-card"><span class="lbl">單科平均作答時間 · 最弱的先出現</span><div class="link">${subjectRows}</div></div>`;showView('analysisView')}
+function renderAnalysis(){const attempts=state.attempts,correct=attempts.filter(a=>a.correct).length,rate=attempts.length?Math.round(correct/attempts.length*100):0,speeds=speedStats(attempts,new Map(questions.map(q=>[q.id,q]))),subjects=subjectStats(attempts),speedRows=speeds.map(x=>`<div class="lrow ${x.slowButAccurate?'needs-speed':''}"><span>${x.label}${x.slowButAccurate?' · 要練速度':''}</span><em class="mono">平均 ${x.average}s　正確率 ${x.rate}%　${x.n} 題</em></div>`).join(''),subjectRows=subjects.length?subjects.map(x=>`<div class="lrow"><span>${escapeHtml(x.name)}</span><em class="mono">平均 ${x.average}s　正確率 ${x.rate}%</em></div>`).join(''):'<p class="tiny">完成題目後顯示。</p>';$('#analysisContent').innerHTML=`<div class="heat"><div class="metric"><b>${attempts.length}</b><span>累積作答</span></div><div class="metric"><b>${rate}%</b><span>累積正確率</span></div><div class="metric"><b>${attempts.length?Math.round(attempts.reduce((s,a)=>s+(a.seconds||0),0)/attempts.length):0}s</b><span>平均每題</span></div></div><div class="analysis-card"><span class="lbl">作答速度 · 國考目標每題 90 秒</span><div class="link">${speedRows}</div><p class="tiny">有附圖＝影像；無圖且題幹 ≥ 120 字＝長題幹；其餘＝一般。正確率 ≥ 60% 且平均超過 90 秒會標示要練速度。</p></div><div class="analysis-card"><span class="lbl">單科平均作答時間 · 最弱的先出現</span><div class="link">${subjectRows}</div></div><div class="analysis-card" id="weakCards"><span class="lbl">最弱的概念卡 · 載入中</span></div>`;showView('analysisView');renderWeakCards()}
+// 概念卡層級的弱點：科別太粗（一科上百題），單題又太細。概念卡剛好是「一個考點」的粒度，
+// 而且點下去就有整理好的卡可以讀——比只告訴使用者「你某科很弱」有用。
+function renderWeakCards(){const box=$('#weakCards');if(!box)return;
+ loadConcepts().then(()=>{const last=lastAttempts(),
+  rows=[...conceptIndex().values()].filter(e=>e.ids.length).map(e=>({e,s:cardStat(e,last)}))
+   .filter(x=>x.s.done>=3&&x.s.rate<100).sort((a,b)=>a.s.rate-b.s.rate||b.s.done-a.s.done).slice(0,8);
+  box.innerHTML=`<span class="lbl">最弱的概念卡 · 至少做過 3 題才列入</span>`+(rows.length
+   ?`<div class="link">${rows.map(({e,s})=>`<div class="lrow"><span>${escapeHtml(e.card.zh||e.key)}</span><em class="mono">正確率 ${s.rate}%　做過 ${s.done}／${s.n}</em></div>`).join('')}</div><p class="tiny">到「概念卡」頁可以直接讀這些卡，並用「練這 N 題」重做。</p>`
+   :'<p class="tiny">還沒有任何概念卡累積到 3 題作答。</p>')})}
 function openImage(src){$('#largeImage').src=src;$('#imageDialog').showModal()}
 function restoreSession(){try{const saved=JSON.parse(sessionStorage.getItem(SESSION_KEY));if(saved?.ids?.length&&confirm('找到尚未完成的練習，要繼續嗎？')){session=saved;session.enteredAt=Date.now();showView('quizView');startTimer();renderQuestion()}else sessionStorage.removeItem(SESSION_KEY)}catch{sessionStorage.removeItem(SESSION_KEY)}}
 function registerServiceWorker(){if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{})}
