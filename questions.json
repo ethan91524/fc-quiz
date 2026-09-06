@@ -12317,7 +12317,10 @@
    "B": "本項不選。心室中隔缺損（ventricular septal defect）出生時多為非發紺型的左向右分流。大型缺損不治療，可能因 Eisenmenger syndrome 才出現晚期發紺。",
    "C": "正確答案。法洛氏四合症（tetralogy of Fallot）因為右心室出口阻塞，促成心室層級的右向左分流，是出生時就會發紺的先天性心臟病。",
    "D": "本項不選。開放性動脈導管（patent ductus arteriosus）一開始由主動脈流向肺動脈，是非發紺型。晚期 Eisenmenger 生理可造成差異性發紺，但不是出生就發紺。",
-   "summary": "ASD、VSD、PDA 一開始都是非發紺型左向右分流；tetralogy of Fallot 因右向左分流，出生就可發紺。"
+   "summary": "ASD、VSD、PDA 一開始都是非發紺型左向右分流；tetralogy of Fallot 因右向左分流，出生就可發紺。",
+   "concepts": [
+    "cyanotic-vs-acyanotic-chd"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -16057,7 +16060,10 @@
    "C": "這題要選。法洛氏四重症以右向左分流與肺血流減少為主，典型不是早期 congestive heart failure；心衰竭反而較少。",
    "D": "這題不選。右向左分流會讓細菌繞過肺部過濾，增加 brain abscess 的風險。",
    "summary": "TOF 的右向左分流會帶來腦膿瘍與血栓；因肺血流少，鬱血性心衰竭反而最少。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tetralogy-of-fallot"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18739,7 +18745,10 @@
    "C": "正確。肺動脈吊索（pulmonary artery sling）是左肺動脈由右肺動脈異常起源並繞過氣管，主要造成氣道壓迫、喘鳴或呼吸窘迫，本身不是心內右向左分流的發紺性心臟病。",
    "D": "三尖瓣閉鎖（tricuspid atresia）阻斷右心房至右心室血流，必須經 ASD 與 VSD/PDA 維持循環，常呈發紺。",
    "summary": "Pulmonary artery sling 的核心是異常肺動脈壓迫氣管，不是造成右向左分流的 cyanotic heart disease。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cyanotic-vs-acyanotic-chd"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -28111,7 +28120,10 @@
    "C": "本項不選。心室中隔缺損（ventricular septal defect）是法洛氏四重症的結構成分，但是否發紺主要取決於右心室流出道阻塞與右向左分流，不是 VSD 造成心衰竭。",
    "D": "正確。嬰兒成長時，右心室流出道的漏斗部肥厚可使肺動脈狹窄更嚴重；肺血流變少後，血液更容易經 VSD 從右往左分流，所以發紺在後來才變明顯。",
    "summary": "TOF 發紺晚出現不是 VSD 突然變大，而是右心室流出道越來越窄，右向左分流才加重。",
-   "guideline": "FC 醫學(四)第1冊 p.26"
+   "guideline": "FC 醫學(四)第1冊 p.26",
+   "concepts": [
+    "tetralogy-of-fallot"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28831,7 +28843,10 @@
    "C": "本項最符合。一氧化碳與血紅素結合降低氧運送，蒼白球（globus pallidus）對缺氧特別脆弱；雙側蒼白球病灶可留下巴金森症候群。",
    "D": "本項不選。黑質（substantia nigra）退化是原發性巴金森氏病的核心病理；一氧化碳中毒則更常考蒼白球壞死。",
    "summary": "CO 中毒的定位題：雙側蒼白球受傷，之後可出現巴金森症候群。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "parkinson-disease-core"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28864,7 +28879,10 @@
    "C": "本項不選。巴金森氏病的靜止顫抖在主動做動作時常減輕，這個現象可與本態性顫抖的動作時加重區分。",
    "D": "本項不選。心算、緊張或雙重作業會使靜止顫抖更明顯，是原發性巴金森氏病常見的臨床觀察，並不需要等到晚期才出現。",
    "summary": "巴金森病早期可不對稱顫抖，但太早出現凍僵步態要回頭想是不是非典型病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "parkinson-disease-core"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -31046,7 +31064,10 @@
    "C": "正確。阻塞型心下型全肺靜脈回流異常是肺靜脈回流受阻，PGE1 無法解除橫膈下垂直靜脈的阻塞，會快速惡化為肺水腫與低氧，需緊急手術。",
    "D": "大動脈轉位可用 PGE1 維持動脈導管以增加兩循環混合；若混合仍不足，需緊急氣球心房中隔造口，但並非 PGE1 完全無效。",
    "summary": "PGE1 只能維持動脈導管；阻塞型 TAPVR 的問題在肺靜脈出口，必須緊急解除阻塞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cyanotic-vs-acyanotic-chd"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -40858,7 +40879,10 @@
    "C": "本項最符合。巴金森氏病（Parkinson disease）以動作遲緩為核心，合併靜止顫抖、僵硬、手臂擺動減少與小字症；早期可明顯不對稱。",
    "D": "本項不選。本態性顫抖（essential tremor）多在拿杯子、寫字等動作時加重，通常雙側上肢較對稱；本例是靜止時拇食指顫抖加動作遲緩。",
    "summary": "靜止顫抖不是單獨判斷點；加上動作遲緩、小字與單側手不擺，才是巴金森病的組合。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "parkinson-disease-core"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -51022,7 +51046,10 @@
    "C": "本項不選。鎮靜可減少哭鬧與 catecholamine surge，避免右心室流出道痙攣持續惡化。",
    "D": "本項應選。β2 agonist 是支氣管擴張劑，無法解除法洛氏四重症的右向左分流或流出道痙攣；它不是 blue spell 的標準處置。",
    "summary": "TOF blue spell 的救法是增加全身阻力、減少哭鬧並給氧；不是把它當氣喘而給 β2 agonist。",
-   "guideline": "FC 醫學(四)第1冊 p.25"
+   "guideline": "FC 醫學(四)第1冊 p.25",
+   "concepts": [
+    "tetralogy-of-fallot"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52898,7 +52925,10 @@
    "C": "本項敘述正確。銅沉積可造成肝炎、肝硬化與神經精神症狀；角膜 Descemet membrane 的 Kayser-Fleischer rings 是棕綠色環。",
    "D": "本項不選。治療 Wilson disease 要用銅螯合劑如 penicillamine 或 trientine，並可用 zinc 降低腸道吸收；penicillin 是抗生素。",
    "summary": "Wilson disease 要背 ATP7B、隱性遺傳、銅堆積與 KF ring；看到 penicillin 要停一下，它不是 penicillamine。",
-   "guideline": "FC 醫學(四)第4冊 p.228"
+   "guideline": "FC 醫學(四)第4冊 p.228",
+   "concepts": [
+    "wilson-disease"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -88541,7 +88571,10 @@
    "C": "本項敘述正確。巴金森氏病（Parkinson disease）是最常見的神經退化性動作障礙。顫抖、動作遲緩、僵硬與姿勢不穩就是四大主徵。",
    "D": "本項應選。巴金森氏病的非動作症狀不但存在，還常比手抖早好幾年出現。便祕、嗅覺喪失、REM 睡眠行為障礙、憂鬱與姿勢性低血壓都算。晚期的失智與幻覺也屬於這一類。",
    "summary": "巴金森氏病的便祕、嗅覺喪失與 REM 睡眠行為障礙常比手抖早好幾年，說它沒有非動作症狀必錯。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "parkinson-disease-core"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88579,7 +88612,10 @@
    "C": "本項應選。ATP7B 壞掉時，銅裝不進 ceruloplasmin 這個載體。空的載體在血中很快被分解，所以濃度是偏低而不是偏高。低 ceruloplasmin 加上高尿銅才是診斷組合。",
    "D": "本項敘述正確。治療走兩條路：penicillamine 或 trientine 把體內的銅螯合排掉，zinc sulphate 則誘導腸道 metallothionein 擋住吸收。",
    "summary": "Wilson disease 的 ceruloplasmin 是低不是高——銅裝不進去，空載體就被拆掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wilson-disease"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -99300,7 +99336,10 @@
    "C": "本項不選。肝炎、肝硬化、急性肝衰竭與凝血異常都是 Wilson disease 的重要非神經表現。",
    "D": "本項不選。ceruloplasmin 會受急性發炎、雌激素與妊娠等影響，不能單靠它確診或排除，須合併尿銅、眼檢與基因等。",
    "summary": "Wilson disease 的小孩先看肝，不是先看癲癇；ceruloplasmin 受情境影響，診斷要把銅代謝證據湊在一起。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wilson-disease"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -112591,7 +112630,10 @@
    "C": "本項較不合適。vasodilator 降低 systemic vascular resistance，會讓血液更容易經 VSD 往右左分流，反而加重發紺；此時要避免降低全身血管阻力。",
    "D": "本項不選：這是可考慮的處置。鎮靜可減少哭鬧、交感刺激與耗氧量，打斷發紺發作越焦慮越缺氧的惡性循環。",
    "summary": "TOF 發紺發作要提高肺血流：給氧、鎮靜、補液與 beta-blocker；別用 vasodilator 降 SVR。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tetralogy-of-fallot"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -120127,7 +120169,11 @@
    "C": "本項不選。未矯正 d-TGA 的肺循環情況取決於混合與分流，但可出現肺血流過多與 pulmonary hypertension。",
    "D": "本項敘述正確。TOF 的右心室流出道狹窄限制肺血流，因此不像典型大量左到右分流病那樣容易造成 pulmonary hypertension。",
    "summary": "肺高壓要有長期肺血流過多；TOF 因肺動脈狹窄讓血流進不去，反而最不典型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tetralogy-of-fallot",
+    "cyanotic-vs-acyanotic-chd"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -129837,7 +129883,10 @@
    "C": "本項敘述錯誤。ATP7B 是一種 P-type ion-motive ATPase 沒錯，但它處理的是**銅**不是鋁：負責把銅排到膽汁並嵌進 ceruloplasmin。金屬寫錯，整句就錯了。",
    "D": "本項敘述錯誤。早期治療是排銅劑（chelation）或鋅，不是肝臟移植。移植留給猛爆性肝衰竭或失代償的病人。",
    "summary": "威爾森氏症是「銅」排不出去（ATP7B）；早期用排銅劑就好，移植是最後手段。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wilson-disease"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
