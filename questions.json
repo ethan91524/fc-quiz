@@ -4489,7 +4489,10 @@
    "C": "本項不選。貼膚試驗（patch test）測的是接觸性過敏（allergic contact dermatitis）的延遲型反應。這題沒有接觸分布或反覆暴露的線索，做了也回答不了感染的鑑別。",
    "D": "本項不選。黴菌培養（fungal culture）可以驗出菌種，但要等很久。它用在 KOH 結果不確定、治療失敗，或需要鑑定菌種的時候，不是第一步。",
    "summary": "小孩臉上的脫屑白斑，要分白色糠疹（pityriasis alba）和黴菌感染——刮一點鱗屑做 KOH 最快。",
-   "guideline": "FC 醫學(四)第2冊 p.126"
+   "guideline": "FC 醫學(四)第2冊 p.126",
+   "concepts": [
+    "wood-lamp-fluorescence"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -16460,7 +16463,10 @@
    "C": "本項敘述錯誤。體癬（tinea corporis）是皮癬菌（dermatophyte）感染，KOH 鏡檢通常看得到有隔膜的菌絲。這題 KOH 是陰性、伍氏燈又是珊瑚紅，兩個證據都指向紅癬。",
    "D": "本項敘述錯誤。外用類固醇殺不掉紅癬的細菌，單用還可能把感染蓋住或弄得更糟。正確做法是抗菌治療，外用 clindamycin 或 erythromycin；範圍很廣才考慮口服。",
    "summary": "抗黴菌藥治三週沒效＋KOH 陰性＋珊瑚紅螢光，三個湊起來就是紅癬——治療要換成抗菌不是抗黴菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wood-lamp-fluorescence"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -40331,7 +40337,10 @@
    "C": "本項應選。griseofulvin 對馬拉色菌沒有好療效，不是口服首選。範圍廣或反覆發作時選 itraconazole 或 fluconazole；口服 ketoconazole 則因嚴重肝毒性應避免。",
    "D": "本項敘述正確。馬拉色菌喜歡高溫、潮濕又富含皮脂的環境，所以悶熱、流汗多、皮膚出油或免疫抑制的人治好後還是容易復發。",
    "summary": "汗斑的口服藥要選 azole 類——griseofulvin 對馬拉色菌無效，這是最常被拿來考的錯誤選項。",
-   "guideline": "FC 醫學(四)第2冊 p.64"
+   "guideline": "FC 醫學(四)第2冊 p.64",
+   "concepts": [
+    "wood-lamp-fluorescence"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -76242,7 +76251,10 @@
    "C": "本項不選。Auspitz sign 是刮掉乾癬斑塊的鱗屑後，真皮乳頭層擴張的微血管被暴露而出現點狀出血。那是乾癬用的徵象。",
    "D": "本項不選。Nikolsky sign 是在看起來正常或發紅的皮膚上施加切線方向壓力後，表皮就被推開剝離，可見於尋常型天疱瘡、葡萄球菌燙傷樣皮膚症候群或毒性表皮壞死溶解。它和黑色素延伸完全不同機轉。",
    "summary": "指甲的黑線爬出甲板、跑到旁邊的皮膚上＝Hutchinson sign，看到就要當黑色素瘤處理。",
-   "guideline": "FC 醫學(四)第2冊 p.190"
+   "guideline": "FC 醫學(四)第2冊 p.190",
+   "concepts": [
+    "derm-bedside-signs"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -88265,7 +88277,10 @@
    "C": "本項不選。Auspitz sign 是刮掉乾癬斑塊的鱗屑後出現點狀出血，來自真皮乳頭內擴張的微血管被暴露。它跟肥大細胞去顆粒無關，也不會腫成風團。",
    "D": "本項不選。Nikolsky sign 是對皮膚施加切線方向壓力後表皮就被推開，反映角質細胞黏著或表皮真皮結合出問題。常見於尋常型天疱瘡、毒性表皮壞死溶解與葡萄球菌燙傷樣皮膚症候群。",
    "summary": "四個徵象用「刺激後發生什麼」分：摩擦後腫是 Darier、外傷後長新病灶是 Koebner、刮屑後出血是 Auspitz、推一下就剝離是 Nikolsky。",
-   "guideline": "FC 醫學(四)第2冊 p.120"
+   "guideline": "FC 醫學(四)第2冊 p.120",
+   "concepts": [
+    "derm-bedside-signs"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -110564,7 +110579,10 @@
    "C": "本項不選。Auspitz sign 是刮掉乾癬鱗屑後出現點狀出血，來自乳突上方表皮變薄、真皮乳頭內的擴張微血管被弄破。那是鱗屑斑塊的刮除徵象，不是按壓凹陷。",
    "D": "本項不選。Nikolsky sign 是對外觀正常或發紅的皮膚施加側向壓力後造成表皮剝離，反映表皮黏著力喪失。它見於尋常型天疱瘡、葡萄球菌燙傷樣皮膚症候群或毒性表皮壞死溶解。",
    "summary": "軟到可以按進皮膚裡的神經纖維瘤＝buttonhole sign；四個徵象記「用什麼手法、看到什麼反應」就不會混。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "derm-bedside-signs"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110668,7 +110686,11 @@
    "C": "本項敘述正確。活動期可以看到 Koebner phenomenon：在摩擦、外傷、壓迫或抓傷的地方長出新的脫色斑。它是判斷疾病還在活動的臨床線索之一。",
    "D": "本項敘述正確。伍氏燈發出的主要是長波紫外線 A，能讓白斑病灶呈現界線清楚的亮白或藍白色。對膚色較淺的人、早期病灶與有毛髮遮住的部位，它在診斷與範圍評估上特別有用。",
    "summary": "白斑是黑色素細胞「不見了」不是「偷懶」——這個差別決定它為什麼是自體免疫病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "derm-bedside-signs",
+    "wood-lamp-fluorescence"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -121317,7 +121339,10 @@
    "C": "本項應選。頭髮呈黃綠色或藍綠色螢光比較典型是 Microsporum 屬，例如 Microsporum canis；多數 Trichophyton 屬並不會發出這種螢光。所以只憑黃綠色螢光就斷定是髮癬菌屬，方向剛好相反。",
    "D": "本項敘述正確。黴菌藏在毛囊與毛幹裡，外用藥的濃度到不了，所以確診後首選口服抗黴菌藥。常用的有 griseofulvin、terbinafine、itraconazole 或 fluconazole，依菌種與病人條件選擇。",
    "summary": "頭癬要吃藥不能只擦藥（菌在毛幹裡）；而伍氏燈的黃綠螢光是 Microsporum，不是 Trichophyton。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wood-lamp-fluorescence"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -121353,7 +121378,10 @@
    "C": "本項不選。對磨疹（intertrigo）是潮濕、摩擦與悶熱造成的皺褶處發炎，表現為紅斑、浸潤與疼痛，還可能續發細菌或黴菌感染。但單純對磨疹沒有紅癬那種珊瑚紅螢光。",
    "D": "本項不選。念珠菌感染（candidiasis）在皺褶處造成鮮紅、浸潤或糜爛的斑塊，周邊有衛星狀丘疹或膿疱。它通常不呈珊瑚紅螢光，KOH 下看得到出芽酵母與假菌絲。",
    "summary": "腹股溝紅疹照伍氏燈：珊瑚紅是紅癬（細菌），沒螢光要往黴菌或單純對磨疹想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wood-lamp-fluorescence"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -132015,7 +132043,10 @@
    "C": "本項不選。Auspitz sign 是刮掉銀白鱗屑後冒出點狀出血，原因是乳突上方表皮變薄、下面的擴張微血管容易被弄破。它是斑塊型乾癬的經典徵象，只是不見得每個病人都誘發得出來。",
    "D": "本項不選。Koebner phenomenon 是皮膚受傷後，在受傷的地方長出原本疾病的新病灶，常見於乾癬、扁平苔癬與白斑。乾癬病人的抓痕、手術疤痕或摩擦處都可能冒出新斑塊。",
    "summary": "乾癬的三個徵象（Auspitz、Koebner、Woronoff）都跟角化與血管有關；Darier sign 是肥大細胞的事，混不進來。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "derm-bedside-signs"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
