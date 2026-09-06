@@ -33,7 +33,10 @@ function saveState(){localStorage.setItem(STORAGE_KEY,JSON.stringify(state));syn
 function saveSession(){sessionStorage.setItem(SESSION_KEY,JSON.stringify(session))}
 function escapeHtml(v=''){return String(v).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
 function toast(message){const el=$('#toast');el.textContent=message;el.classList.add('show');clearTimeout(el.t);el.t=setTimeout(()=>el.classList.remove('show'),2200)}
-function shuffle(a){a=[...a];for(let i=a.length-1;i;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+// 迴圈條件原本是 `i`，空陣列時 i 從 -1 開始且 -1 是 truthy，會一路往負數跑，
+// 對陣列寫入 a[-1]、a[-2]… 直到 V8 丟 RangeError: Too many properties to enumerate。
+// 2026-09-06 實際踩到：讀書計畫補題時剛好沒題可補，整個「開始今天的配額」靜靜失效。
+function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 function isCorrect(q,a){return Boolean(a&&q.answer.includes(a))}
 function formatTime(s){return`${String(Math.floor(s/60)).padStart(2,'0')}:${String(s%60).padStart(2,'0')}`}
 function figureUrl(path){return`${ASSET_BASE}${path}`}
@@ -160,7 +163,10 @@ function weightedSample(pool,count){const rates={};state.attempts.forEach(a=>{co
 function startPractice(){let pool=filteredQuestions();if(!pool.length)return toast('目前篩選沒有符合題目');const count=Math.min(settings.count,pool.length);pool=settings.weak?weightedSample(pool,count):settings.random?shuffle(pool).slice(0,count):pool.slice(0,count);startSession(pool,'practice','自訂練習',settings.reveal==='end')}
 function startWrong(){const pool=questions.filter(q=>state.wrong[q.id]&&!state.conquered[q.id]);if(!pool.length)return toast('目前沒有待複習的錯題');startSession(shuffle(pool).slice(0,Math.min(20,pool.length)),'wrong','錯題複習',false)}
 function startDueReview(){const ids=new Set(dueIds(state.srs)),pool=questions.filter(q=>ids.has(q.id));if(!pool.length)return toast('今天沒有到期題目');startSession(pool,'srs','今日間隔複習',false)}
-function startDailyPlan(){if(!state.examDate)return openExamDate();const p=currentPlan(),review=new Set(p.reviewIds),seen=new Set(review),unseen=questions.filter(q=>!state.attempts.some(a=>a.id===q.id)&&!seen.has(q.id)),by=k=>unseen.filter(q=>(q.specialty||q.subject||'尚未分類')===k),attack=shuffle(by(p.weak)).slice(0,p.attack);attack.forEach(q=>seen.add(q.id));let maintain=shuffle(by(p.strong).filter(q=>!seen.has(q.id))).slice(0,p.maintain),need=p.attack+p.maintain-attack.length-maintain.length;if(need>0)maintain=maintain.concat(shuffle(unseen.filter(q=>!seen.has(q.id)&&!attack.includes(q))).slice(0,need));const pool=[...questions.filter(q=>review.has(q.id)),...attack,...maintain];if(!pool.length)return toast('今天沒有待完成題目');startSession(pool,'plan','今天的讀書計畫',false)}
+// 2026-09-06 修：補題那一段原本只排除 review 與 attack，**沒有把已選進 maintain 的題加進 seen**，
+// 所以弱／強科的未做題不夠時，補題會把剛選過的同一題再放一次——同一場配額裡出現重複題。
+// 實測（只留 5 題未做的情境）：修正前 7 題只有 5 個不重複。順便拿掉 attack.includes 的線性搜尋。
+function startDailyPlan(){if(!state.examDate)return openExamDate();const p=currentPlan(),review=new Set(p.reviewIds),seen=new Set(review),unseen=questions.filter(q=>!state.attempts.some(a=>a.id===q.id)&&!seen.has(q.id)),by=k=>unseen.filter(q=>(q.specialty||q.subject||'尚未分類')===k),attack=shuffle(by(p.weak)).slice(0,p.attack);attack.forEach(q=>seen.add(q.id));let maintain=shuffle(by(p.strong).filter(q=>!seen.has(q.id))).slice(0,p.maintain);maintain.forEach(q=>seen.add(q.id));const need=p.attack+p.maintain-attack.length-maintain.length;if(need>0)maintain=maintain.concat(shuffle(unseen.filter(q=>!seen.has(q.id))).slice(0,need));const pool=[...questions.filter(q=>review.has(q.id)),...attack,...maintain];if(!pool.length)return toast('今天沒有待完成題目');startSession(pool,'plan','今天的讀書計畫',false)}
 // 模擬考改成完整頁面（原本是彈窗的下拉選單，看不到哪幾份做過）：
 // 依年度→梯次分組列出 48 份考卷，每份直接顯示做過沒、上次幾分。
 // 醫學(三)(四)(五)(六) 的順序不能靠 localeCompare——中文數字排出來是 三五六四
