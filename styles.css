@@ -179,3 +179,15 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .cscore.good{color:var(--ok)}
 .cscore.mid{color:var(--flag)}
 .cscore.bad{color:var(--no)}
+
+/* 模擬考成績趨勢（2026-09-06）：state.exams 本來只拿來顯示「上次幾分」，
+   看不出有沒有進步。60% 那條虛線是及格線。 */
+.ebars{display:flex;align-items:flex-end;justify-content:flex-start;gap:5px;height:104px;margin:12px 0 4px;padding-top:4px;
+  position:relative;border-bottom:1px solid var(--hair)}
+.ebars::before{content:"";position:absolute;left:0;right:0;bottom:40%;border-top:1px dashed var(--hair)}
+.ebar{flex:1 1 0;min-width:10px;max-width:64px;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;
+  height:100%;gap:3px}
+.ebar b{width:100%;border-radius:2px 2px 0 0;display:block}
+.ebar b.pass{background:var(--sig)}
+.ebar b.fail{background:var(--no)}
+.ebar small{font-size:9.5px;color:var(--muted);font-variant-numeric:tabular-nums}
