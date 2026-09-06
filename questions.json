@@ -64952,7 +64952,10 @@
    "C": "本項不選。PSEN2 突變也與少數家族性 Alzheimer disease 有關，但不是唐氏症三體造成 amyloid 增加的關鍵基因。",
    "D": "本項最符合。APP 位在第 21 號染色體；唐氏症有第三份 chromosome 21，使 APP 產量增加、amyloid-β 沉積提前，所以 40 歲後常見 Alzheimer 病理。",
    "summary": "唐氏症早發 Alzheimer 的連線很直接：第 21 號染色體多一份，就把同在上面的 APP 一起多做一份。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-syndrome"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -71071,7 +71074,9 @@
    "D": "本項不選。中央脊髓傷害常見上肢功能比下肢差，恢復時下肢通常也比上肢好，符合本項。",
    "summary": "老人跌倒、頸椎過伸、上肢比下肢弱，先叫 central cord；不必先有骨折脫位。",
    "guideline": "FC 醫學(六)第3冊 p.69",
-   "concepts": []
+   "concepts": [
+    "central-cord-syndrome"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71841,7 +71846,9 @@
    "D": "本項不對，高層次超音波可找 soft markers 或結構異常，但正常超音波不能排除 Down syndrome，不能取代羊膜穿刺的確診能力。",
    "summary": "篩檢高風險不等於診斷：1/30 先做羊膜穿刺確認，再談是否終止妊娠。",
    "guideline": "FC 醫學(六)第1上冊 p.37",
-   "concepts": []
+   "concepts": [
+    "down-prenatal-screening"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -81799,7 +81806,9 @@
    "D": "本項不對，羊膜穿刺核型正常仍不代表後續一切正常。增厚 NT 也和結構性心臟病相關，仍需詳細超音波與胎兒心臟評估。",
    "summary": "NT 增厚先想染色體異常，尤其 Down syndrome；核型正常也別漏掉後續的結構超音波與 fetal echocardiography。",
    "guideline": "FC 醫學(六)第1上冊 p.35",
-   "concepts": []
+   "concepts": [
+    "down-prenatal-screening"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -94166,7 +94175,10 @@
    "C": "本項不選。卵巢生殖細胞腫瘤雖然也會分泌 AFP，但那是極罕見的解釋。孕婦 AFP 升高要先排除的是週數低估、多胞胎與胎兒開放性缺損。",
    "D": "本項不選。重驗母血只會得到差不多的數字，中間耗掉的是週數。3.8 MoM 這種幅度不像檢驗誤差，該做的是直接看胎兒。",
    "summary": "AFP 高＝先找胎兒身上的「破洞」（神經管、腹壁），不是去查染色體；唐氏症反而是 AFP 低。",
-   "guideline": "FC 醫學(六)第1上冊 p.35"
+   "guideline": "FC 醫學(六)第1上冊 p.35",
+   "concepts": [
+    "down-prenatal-screening"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -110319,7 +110331,10 @@
    "C": "本項不選。21;21 carrier 產生的可存活受精卵不會有一半正常、一半 Down syndrome。",
    "D": "本項敘述正確。21;21 Robertsonian translocation carrier 的配子不是帶兩條 21 長臂就是沒有 21；後者形成 monosomy 21 會流產，因此活產幾乎都是 trisomy 21。",
    "summary": "21;21 translocation 的關鍵是「沒有正常活產配子」：能活下來的後代幾乎都會是 Down syndrome。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-syndrome"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115724,7 +115739,10 @@
    "C": "本項不選。薦尾畸胎瘤與腹壁裂等胎兒體表缺損同樣會讓蛋白外漏而升高。",
    "D": "本項應選。唐氏症的母血甲型胎兒蛋白是「下降」的。第二孕期四指標的方向要一起記：AFP 低、雌三醇低、hCG 高、inhibin A 高。",
    "summary": "母血甲型胎兒蛋白升高想「開放性缺損或週數低估」；唐氏症反而是降低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-prenatal-screening"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -115790,7 +115808,10 @@
    "C": "本項不選。頸部皺褶增厚是第二孕期最具預測力的唐氏症軟指標之一。",
    "D": "本項不選。輕度腎盂擴張也是常見的軟指標，多數為暫時性，但要合併其他指標一起評估風險。",
    "summary": "唐氏症軟指標＝頸部皺褶厚、腸道回音強、腎盂輕度擴張、股骨肱骨短；腹壁裂不在名單，臍膨出才是。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-prenatal-screening"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -132566,7 +132587,10 @@
    "C": "正確。羊膜穿刺取得胎兒細胞做染色體核型分析，是確診三染色體的標準方法，約在 16 到 20 週施行。母血篩檢或非侵入性胎兒游離 DNA 只能給風險值，確診仍要靠絨毛膜取樣或羊膜穿刺。",
    "D": "本項不選。成年後運動神經元死亡造成的肌肉萎縮是肌萎縮性側索硬化的描述；唐氏症成年後的主要神經問題是早發性阿茲海默症。",
    "summary": "唐氏症＝三染色體 21；篩檢只給風險，確診要靠羊膜穿刺或絨毛膜取樣的核型分析。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-syndrome"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137343,7 +137367,10 @@
    "C": "本項敘述正確。頸部透明帶超過 3 公厘時染色體異常與先天性心臟病風險都上升，即使染色體正常也要追蹤心臟超音波。",
    "D": "本項應選。第一孕期篩檢用的是頸部透明帶加上母血 PAPP-A 與游離 β-hCG；甲型胎兒蛋白屬於第二孕期四指標，被放錯孕期了。",
    "summary": "第一孕期＝NT＋PAPP-A＋free β-hCG；第二孕期四指標＝AFP、uE3、hCG、inhibin A。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "down-prenatal-screening"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
