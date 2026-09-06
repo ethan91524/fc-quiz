@@ -6457,7 +6457,9 @@
    "D": "膠原蛋白（collagen）是增生與重塑期由纖維母細胞製造的 extracellular matrix；它增加傷口強度，並非最早出現的啟動細胞。",
    "summary": "血小板先完成止血並釋放生長因子，才由發炎細胞與纖維母細胞接續修復。",
    "guideline": "FC 醫學(五)第2冊 p.292",
-   "concepts": []
+   "concepts": [
+    "wound-healing-phases"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6914,7 +6916,10 @@
    "B": "本項應選。這是錯的敘述。手術結紮胸管多從右側胸腔進入。胸管在較低胸椎層通常位在主動脈和 azygos vein 之間、食道後方，右側比較好接近，不是常規從左側處理。",
    "C": "本項不選。初期可禁食、改用極低脂或中鏈脂肪飲食、全靜脈營養並充分引流，觀察大約 1～2 週。如果每日流量很大、營養惡化或一直不停，要提早介入，敘述適當。",
    "D": "本項不選。保守治療控制不住時，常在橫膈膜上方把胸管（thoracic duct）整束結紮，以涵蓋可能的解剖變異；也可視情況考慮胸管栓塞（thoracic duct embolization），敘述正確。",
-   "summary": "胸管在下胸段從右胸比較好接近；持續高流量乳糜胸可在橫膈上整束結紮胸管。"
+   "summary": "胸管在下胸段從右胸比較好接近；持續高流量乳糜胸可在橫膈上整束結紮胸管。",
+   "concepts": [
+    "chylothorax"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -7025,7 +7030,9 @@
    "D": "急性液體聚積可演變為具成熟囊壁的胰臟偽囊腫（pancreatic pseudocyst）；胰臟炎亦可能因酵素侵蝕、感染或 mass effect 造成出血、阻塞等局部併發症。",
    "summary": "壞死性胰臟炎先分 sterile 與 infected necrosis；無感染證據時不以預防性抗生素避免感染。",
    "guideline": "FC 醫學(五)第3冊 p.208",
-   "concepts": []
+   "concepts": [
+    "ranson-criteria"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -7859,7 +7866,10 @@
    "C": "中心脊髓症候群（central cord syndrome）的運動缺損典型是上肢重於下肢，尤其手部最明顯，與本選項相反。",
    "D": "正確。MRI 能顯示脊髓挫傷、出血、椎間盤及韌帶損傷；CT 較擅長骨折，因此評估脊髓本身 MRI 優於 CT。",
    "summary": "CT 看骨性損傷，MRI 看 spinal cord、disc 與 ligament；神經缺損與影像目的須分開選擇。",
-   "guideline": "FC 醫學(五)第1冊 p.230"
+   "guideline": "FC 醫學(五)第1冊 p.230",
+   "concepts": [
+    "brown-sequard-syndrome"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -10384,7 +10394,9 @@
    "D": "預防性 uterotonic 是核心措施，首選通常為 oxytocin，可降低子宮收縮無力與產後出血。",
    "summary": "第三產程主動處理以預防性 uterotonic 為核心，搭配適當臍帶牽引與子宮張力評估；不含例行人工取胎盤。",
    "guideline": "FC 醫學(六)第1上冊 p.164",
-   "concepts": []
+   "concepts": [
+    "postpartum-hemorrhage-definition"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11836,7 +11848,8 @@
    "summary": "PPH 要先復甦並按 4T 找病因；uterine atony 最常見，methylergonovine 禁用於高血壓或 preeclampsia。",
    "guideline": "FC 醫學(六)第1上冊 p.164",
    "concepts": [
-    "postpartum-hemorrhage-4ts"
+    "postpartum-hemorrhage-4ts",
+    "postpartum-hemorrhage-definition"
    ]
   },
   "source": "110020/302_44",
@@ -12319,7 +12332,8 @@
    "D": "本項不選。開放性動脈導管（patent ductus arteriosus）一開始由主動脈流向肺動脈，是非發紺型。晚期 Eisenmenger 生理可造成差異性發紺，但不是出生就發紺。",
    "summary": "ASD、VSD、PDA 一開始都是非發紺型左向右分流；tetralogy of Fallot 因右向左分流，出生就可發紺。",
    "concepts": [
-    "cyanotic-vs-acyanotic-chd"
+    "cyanotic-vs-acyanotic-chd",
+    "tetralogy-of-fallot"
    ]
   },
   "source": "110080/302_11",
@@ -18747,7 +18761,8 @@
    "summary": "Pulmonary artery sling 的核心是異常肺動脈壓迫氣管，不是造成右向左分流的 cyanotic heart disease。",
    "guideline": null,
    "concepts": [
-    "cyanotic-vs-acyanotic-chd"
+    "cyanotic-vs-acyanotic-chd",
+    "tetralogy-of-fallot"
    ]
   },
   "source": "110080/302_33",
@@ -18900,7 +18915,10 @@
    "B": "正確答案。中段食道憩室（midesophageal diverticulum）傳統多屬牽引型（traction diverticulum），是縱膈發炎牽拉形成的，包含食道壁各層，所以是真性憩室，常位在右側。",
    "C": "本項不選。胃底折疊術（fundoplication）不必一律做 360°。Nissen 全環包覆抗逆流較強，但吞嚥困難和 gas-bloat 風險較高；食道蠕動不良的人可視情況選 Toupet 這類 partial wrap。",
    "D": "本項不選。腐蝕性食道傷害不能在沒評估的情況下盲放鼻胃管，脆弱的食道可能因此穿孔。氣道和循環穩定後，要依傷勢安排內視鏡或 CT 評估，再在直視下決定管路。",
-   "summary": "食道憩室看部位：Zenker 以食道攝影為主；中段的牽引型憩室多是真性、偏右。"
+   "summary": "食道憩室看部位：Zenker 以食道攝影為主；中段的牽引型憩室多是真性、偏右。",
+   "concepts": [
+    "fundoplication-classification"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -19344,7 +19362,8 @@
    "summary": "副甲狀腺亢進合併 calcitonin 升高的甲狀腺結節，應優先想到 MEN2A 的甲狀腺髓質癌。",
    "guideline": null,
    "concepts": [
-    "men-syndromes"
+    "men-syndromes",
+    "familial-hypocalciuric-hypercalcemia"
    ]
   },
   "source": "110080/302_33",
@@ -30508,7 +30527,10 @@
    "C": "基底池血量愈多，Fisher radiographic grade 愈高，血液分解產物刺激血管的負荷愈大，症狀性 vasospasm 風險上升。",
    "D": "症狀性 vasospasm 或延遲性腦缺血可在排除禁忌後以 induced hypertension 等 hemodynamic augmentation 改善腦灌流；現今不主張例行預防性 triple-H。",
    "summary": "SAH vasospasm 多在 day 3–14、約 day 7–10 peak；出血量與臨床 grade 越高風險越大。",
-   "guideline": "FC 醫學(五)第1冊 p.177"
+   "guideline": "FC 醫學(五)第1冊 p.177",
+   "concepts": [
+    "hunt-hess-scale"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31066,7 +31088,8 @@
    "summary": "PGE1 只能維持動脈導管；阻塞型 TAPVR 的問題在肺靜脈出口，必須緊急解除阻塞。",
    "guideline": null,
    "concepts": [
-    "cyanotic-vs-acyanotic-chd"
+    "cyanotic-vs-acyanotic-chd",
+    "tetralogy-of-fallot"
    ]
   },
   "source": "111020/302_33",
@@ -31522,7 +31545,9 @@
    "D": "正確。已客觀證實 severe GERD、PPI 治療失敗且 esophageal motility 正常時，可考慮 Nissen fundoplication；完整 wrap 可加強 gastroesophageal junction，即使沒有 hiatal hernia 仍可施作。",
    "summary": "客觀 GERD、藥物治療失敗且 motility 正常時可選 Nissen fundoplication；Heller myotomy 是 achalasia 手術。",
    "guideline": "FC 醫學(五)第3冊 p.35",
-   "concepts": []
+   "concepts": [
+    "hiatal-hernia-types"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32634,7 +32659,9 @@
    "D": "裂孔疝氣（hiatal hernia）在 barium study 可見胃的一部分位於 diaphragm 上方，常伴 GERD；不會典型造成整段食道擴張與 distal bird-beak narrowing。",
    "summary": "Dysphagia、regurgitation/aspiration 加 barium bird-beak appearance 指向 achalasia，確診與分型仍靠 high-resolution manometry。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "hiatal-hernia-types"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -42066,7 +42093,10 @@
    "C": "本項不選：遺傳性胰臟炎反覆造成胰管與胰實質發炎，長期胰臟癌風險升高；PRSS1 變異是常考的相關線索。",
    "D": "本項應選：這項才是本題要選的。縮胃手術是治療肥胖的手術，並不是已知的胰臟癌危險因子；肥胖反而本身與較高胰臟癌風險有關。",
    "summary": "看到胰臟癌風險，先記吸菸、慢性／遺傳性胰臟炎與 Peutz-Jeghers；減重手術不是危險因子。",
-   "guideline": "FC 醫學(五)第3冊 p.223"
+   "guideline": "FC 醫學(五)第3冊 p.223",
+   "concepts": [
+    "peutz-jeghers-syndrome"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44215,7 +44245,10 @@
    "C": "本項不選：缺血性壞死與不癒合風險確實高。但急性處置不應等待 bone scan；重點是儘早復位固定。",
    "D": "本項應選：Shenton line 是股骨頸內側與恥骨上支形成的平滑弧線；不連續表示髖部骨折或脫位已造成位移。",
    "summary": "年輕人移位股骨頸骨折先求早期復位固定；Shenton line 斷裂就是髖部對位跑掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "garden-classification"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -55142,7 +55175,10 @@
    "C": "正確。輸入環症候群（afferent loop syndrome）是膽汁與胰液積在輸入環出不去。腸腔壓力被撐高，胰液逆流進血液，血中澱粉酶就跟著上升。壓力大到衝開阻塞時噴出大量苦膽汁，裡面不含食物，吐完壓力解除疼痛立刻消失。",
    "D": "本項不選。急性闌尾炎（acute appendicitis）的痛從肚臍周圍慢慢移到右下腹，而且持續加重。它跟二十幾年前的胃空腸吻合沒有解剖上的關聯，也解釋不了嘔吐膽汁後疼痛全消。",
    "summary": "Billroth II 病人餐後上腹痛、吐一大攤苦水後立刻不痛又合併澱粉酶上升，就想輸入環阻塞。",
-   "guideline": "FC 醫學(五)第3冊 p.34"
+   "guideline": "FC 醫學(五)第3冊 p.34",
+   "concepts": [
+    "dumping-syndrome"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -63859,7 +63895,10 @@
    "C": "本項不選。單純型發作通常在發燒初期、24 小時內出現，為全身性抽搐且同一次發燒只發作一次。",
    "D": "本項應選。抽搐超過 15 分鐘、24 小時內復發或具局部性表現，已屬 complex febrile seizure。不能稱為單純型。",
    "summary": "熱性痙攣三個「單純」條件是全身性、少於 15 分鐘、24 小時只一次。任一破格就轉想 complex。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "simple-febrile-seizure-definition"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -76865,7 +76904,10 @@
    "C": "本項應選。Wilson disease 是 ATP7B 突變造成銅代謝異常，並非三核苷酸重複擴增疾病。",
    "D": "本項不選。第三型小腦脊髓共濟失調症（SCA3／Machado-Joseph disease）由 ATXN3 的 CAG repeat expansion 所致。",
    "summary": "Huntington、SCA2、SCA3 都是 CAG repeat；Wilson disease 走的是 ATP7B 銅代謝，完全不同路線。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wilson-disease"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80293,7 +80335,10 @@
    "C": "正確。原發性 VUR 的核心是膀胱輸尿管接合處（UVJ）先天抗逆流機制不足，黏膜下輸尿管太短或開口異常使尿液倒流。",
    "D": "本項敘述錯誤。脊神經管閉合不全造成神經性膀胱，膀胱壓力與協調異常會導致續發性逆流。",
    "summary": "原發性 VUR 是 UVJ 的抗逆流結構問題；高壓膀胱、出口阻塞和神經性膀胱都屬續發性。",
-   "guideline": "FC 醫學(五)第5冊 p.62"
+   "guideline": "FC 醫學(五)第5冊 p.62",
+   "concepts": [
+    "vesicoureteral-reflux-grading"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -84042,7 +84087,10 @@
    "B": "正確答案。LBBB 型態表示去極化先從右心室往左傳。修補後的 Fallot 常在右心室流出道的切口或 patch 周圍形成迴旋（reentry）VT。",
    "C": "本項不選。左心房來源也是上心室心律，不是單形性 VT 的心室起源。",
    "D": "本項不選。左心室起源的 VT 通常呈 RBBB 型態，因為左側先去極化再傳向右側，和本題的 LBBB 型態相反。",
-   "summary": "VT 的束支型態可幫忙定側：LBBB 型多指右心室起源；修補後的 Fallot 常見右室瘢痕迴旋。"
+   "summary": "VT 的束支型態可幫忙定側：LBBB 型多指右心室起源；修補後的 Fallot 常見右室瘢痕迴旋。",
+   "concepts": [
+    "tetralogy-of-fallot"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -91036,7 +91084,10 @@
    "C": "本項不選。輸入環症候群（afferent loop syndrome）是膽汁與胰液在近端腸段受阻，會造成膽汁性嘔吐與胰澱粉酶上升。輸出環阻塞比較表現為食物無法往遠端通過。",
    "D": "正確。全胃切除後失去壁細胞與 intrinsic factor，vitamin B12 無法在末端迴腸正常吸收，因此需要長期補充。缺乏常在肝臟儲存耗盡後才出現巨球性貧血。",
    "summary": "胃切除後的配對：Billroth II 容易 dumping 和 bile reflux；全胃切除少 intrinsic factor，所以一定要補 vitamin B12。",
-   "guideline": "FC 醫學(五)第3冊 p.58"
+   "guideline": "FC 醫學(五)第3冊 p.58",
+   "concepts": [
+    "dumping-syndrome"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -104330,7 +104381,9 @@
    "D": "本項不選：Sarcoidosis 可造成肉芽腫型葡萄膜炎，常見 mutton-fat keratic precipitates。",
    "summary": "角膜環先問沉積的是什麼：Wilson 是銅的 Kayser-Fleischer ring，高脂血症才是脂質 arcus。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "wilson-disease"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -111022,7 +111075,10 @@
    "C": "正確。上肢無力比下肢嚴重、痛溫覺喪失但本體感覺保留，這組合就是中央脊髓症候群。機轉是脊髓中央受損：皮質脊髓束中支配上肢的纖維排在內側先受影響，交叉的脊髓丘腦纖維也在中央通過，而走後柱的本體感覺剛好在外圍被保留。老年人頸椎狹窄加上過度伸展的外傷是最常見情境。",
    "D": "本項不選。Brown-Séquard 症候群是半側損傷：同側無力與本體感覺喪失、對側痛溫覺喪失，症狀左右不對稱。",
    "summary": "中央脊髓症候群＝手比腳無力、痛溫沒了、位置覺還在；典型是老人頸椎狹窄加後仰外傷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "central-cord-syndrome"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115738,7 +115794,10 @@
    "C": "正確。逐項加起來：擴張 1 到 2 公分得 1 分、變薄 50% 得 1 分、先露部位置 −2 得 1 分、質地柔軟得 2 分、子宮頸朝前得 2 分，總共 7 分。Bishop score 8 分以上代表子宮頸條件好、催生成功率接近自然產；6 分以下則建議先做子宮頸成熟處理。",
    "D": "本項不選。要拿到 9 分，擴張與變薄必須更進一步，例如開 3 到 4 公分或變薄 60% 到 70%。",
    "summary": "Bishop 五項：擴張、變薄、位置、質地、子宮頸方向；≥8 分催生像自然產，≤6 分先催熟子宮頸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bishop-score"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -116879,7 +116938,10 @@
    "C": "本項也被列為可給分。外籍看護的申請門檻近年多次放寬——曾有「80 歲以上總分 60 分以下」的規定，也有更放寬到 85 歲以上僅需巴氏量表 90 分以下、甚至特定條件免評的做法，所以這個數字會隨政策變動。",
    "D": "本項不選。總分 0 分代表完全依賴，100 分代表完全獨立，這個方向是正確的。",
    "summary": "巴氏量表 10 項、滿分 100 分；外籍看護的申請門檻是會變的政策，記大方向不要死背數字。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "barthel-index"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -127625,7 +127687,10 @@
    "C": "本項敘述正確。工具性項目是與環境互動、維持獨立生活所需的較複雜活動，例如烹飪、購物、理財、用藥管理與交通。",
    "D": "本項應選。巴氏量表只評基本日常生活活動這十項，不含工具性項目。要評工具性要用另外的量表（例如 Lawton-Brody IADL scale）。臨床意義在於：巴氏量表滿分的病人仍可能無法獨居，因為理財與用藥管理沒被評到。",
    "summary": "巴氏量表只量基本 ADL；能不能獨居要另外用 IADL 量表評理財、用藥、購物與交通。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "barthel-index"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -134016,7 +134081,10 @@
    "C": "本項不選。T 細胞辨識外來抗原後最關鍵的產物是介白素-2，它是 T 細胞自我增殖的驅動力，也是 cyclosporine 與 tacrolimus 要擋掉的目標。",
    "D": "本項不選。鈣調磷酸酶抑制劑擋的是辨識之後的訊息傳遞，讓 NFAT 進不了細胞核、做不出介白素-2；它不會阻止 T 細胞去辨識外來抗原。",
    "summary": "移植免疫記三組數字：HLA 在第六對染色體、class I 配 CD8、class II 配 CD4；CNI 擋的是辨識後的 IL-2。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-rejection-classification"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -134356,7 +134424,8 @@
    "summary": "疤痕縫合先把 dermis 對好來卸張力；hypertrophic scar 不越界且會退，keloid 越界又容易繼續長。",
    "guideline": null,
    "concepts": [
-    "hypertrophic-scar-vs-keloid"
+    "hypertrophic-scar-vs-keloid",
+    "wound-healing-phases"
    ]
   },
   "source": "115070/302_0103",
@@ -137307,7 +137376,10 @@
    "C": "本項不選。6 分屬於可疑，要在 24 小時內重測；本例四個項目滿分，達不到這一級。",
    "D": "本項不選。2 分代表幾乎確定窒息，應立即生產，與本例的表現差距極大。",
    "summary": "生物物理評估五項各 2 分：無壓力測試、呼吸、胎動、張力、羊水；8–10 正常、6 可疑重測、≤4 要生。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "biophysical-profile"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -138379,7 +138451,10 @@
    "C": "本項不選。上下樓梯是巴氏量表的項目之一。",
    "D": "本項不選。平地走動（或使用輪椅移動）同樣是巴氏量表的項目。",
    "summary": "巴氏量表十項全是基本自我照顧與移動；只要出現煮飯、購物、理財、用藥就是 IADL。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "barthel-index"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
