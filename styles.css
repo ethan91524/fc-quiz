@@ -203,3 +203,10 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .search-scope small{display:block;color:var(--muted);font-size:10.5px}
 .hitsnip{display:block;margin-top:3px;font-size:11.5px;line-height:1.6;color:var(--muted)}
 .hitsnip mark{background:var(--sigs);color:var(--sig);padding:0 2px;border-radius:2px}
+
+/* 我的註記清單（2026-09-06）：分析頁把所有註記依重要程度集中列出，點一則直接開那題 */
+.note-row{text-align:left}
+.ndot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:7px;vertical-align:middle;flex:none}
+.ndot.lv-red{background:var(--no)}
+.ndot.lv-yellow{background:var(--flag)}
+.ndot.lv-green{background:var(--ok)}
