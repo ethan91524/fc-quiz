@@ -10517,7 +10517,9 @@
    "D": "Beta-mimetic tocolytics 會造成心搏過速、鈉水滯留，與大量靜脈輸液或多胎妊娠合併時可誘發肺水腫。",
    "summary": "孕期肺水腫常見高風險背景為 preeclampsia、sepsis、心臟病、過量輸液及 beta-mimetic tocolysis，而非單純 GDM。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "preeclampsia-pathophysiology"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -34412,7 +34414,9 @@
    "D": "本項不對。MgSO4 在治療濃度下是抗痙攣藥；濃度過高才會依序出現深腱反射消失、呼吸抑制與心傳導或心跳停止。",
    "summary": "MgSO4 是靠腎臟排出：腎功能正常就照常給，並持續到產後 24 小時；真正的毒性要看反射、呼吸與心臟。",
    "guideline": "FC 醫學(六)第1上冊 p.186",
-   "concepts": []
+   "concepts": [
+    "preeclampsia-pathophysiology"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -37932,7 +37936,10 @@
    "C": "本項敘述正確。葛瑞夫氏病常有心悸、心跳過速、體重減輕。anti-TPO 可以是陽性，但真正對這個病有病因意義、診斷特異性最高的抗體，其實是 TSH 受體抗體。",
    "D": "本項應選。葛瑞夫氏眼病變（Graves orbitopathy）的活動度與嚴重度，跟甲狀腺荷爾蒙的高低並不成正比。眼病可以在甲狀腺功能正常時就出現，還會受抽菸、放射碘治療這些因素影響，選項說兩者成正相關是錯的。",
    "summary": "葛瑞夫氏眼病的嚴重度跟甲狀腺功能高低沒有單純正相關；控制好甲亢不代表眼睛會跟著好。",
-   "guideline": "FC 醫學(三)第2冊 p.233"
+   "guideline": "FC 醫學(三)第2冊 p.233",
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -45533,7 +45540,9 @@
    "D": "本項要選：向下看時上眼瞼跟不上眼球叫 lid lag，是動態徵象；lid retraction 是在原位凝視時眼瞼位置偏高，兩者不能當成同一件事。",
    "summary": "甲狀腺眼病變要分清楚：原位上瞼太高是 lid retraction，往下看才慢半拍是 lid lag。",
    "guideline": "FC 醫學(六)第2冊 p.208",
-   "concepts": []
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46191,7 +46200,9 @@
    "D": "正確。胎兒生長受限（fetal growth restriction）常反映胎盤功能不全，和慢性缺氧、死產風險密切相關，是胎兒死亡最重要的相關併發症之一。",
    "summary": "胎兒生長受限不是單純「小一點」；它常在提醒胎盤供應失敗，也是死產風險的重要訊號。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "preeclampsia-pathophysiology"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46269,7 +46280,9 @@
    "D": "本項不對，肝功能達正常上限兩倍可屬 severe feature，需密切監測；是否立即分娩仍要看是否惡化、血小板、疼痛及血壓等整體母胎狀態。",
    "summary": "嚴重子癇前症想幫胎兒爭取 48 小時前，先問母體是否安全；高血壓急症控制不了，就要立即分娩。",
    "guideline": "FC 醫學(六)第1上冊 p.185",
-   "concepts": []
+   "concepts": [
+    "preeclampsia-pathophysiology"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46308,7 +46321,9 @@
    "D": "本項是本題要選的例外：子癇前症的主要病理是血管收縮、滲漏和微血栓，不是以血管充血為核心的 congestive lesion。",
    "summary": "子癇前症的內皮傷害三連招是「痙攣、滲漏、微血栓」；水腫不等於血管裡的量變多。",
    "guideline": "FC 醫學(六)第1上冊 p.185",
-   "concepts": []
+   "concepts": [
+    "preeclampsia-pathophysiology"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -49963,7 +49978,10 @@
    "C": "正確答案。葛雷夫茲氏症（Graves' disease）的 TSH-receptor antibody 一邊刺激整個甲狀腺造成瀰漫性甲狀腺毒症，一邊造成特異性的眼病變。雙眼突出加紅腫是它獨有的線索——其他甲狀腺毒症不會有。",
    "D": "本項不選。亞急性甲狀腺炎常有頸部疼痛與感染前驅症狀，甲狀腺毒症是暫時的。它不會造成 Graves 眼病變。",
    "summary": "甲狀腺毒症誰都會有，但「眼睛突出」只有葛雷夫茲氏症——眼睛就是分水嶺。",
-   "guideline": "FC 醫學(三)第2冊 p.233"
+   "guideline": "FC 醫學(三)第2冊 p.233",
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -58226,7 +58244,9 @@
    "D": "這一項也是子癇前症核心。Endothelial damage 會引起通透性增加、血小板活化與微血栓。",
    "summary": "子癇前症常「看起來水腫、血管裡反而缺量」：血漿外漏後會 hemoconcentration，不是 hypervolemia。",
    "guideline": "FC 醫學(六)第1上冊 p.185",
-   "concepts": []
+   "concepts": [
+    "preeclampsia-pathophysiology"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -69502,7 +69522,9 @@
    "D": "本項不選：斜視手術前要等甲狀腺功能控制且偏斜角度穩定，通常至少數月，避免病情仍變動而過度或不足矯正。",
    "summary": "Graves 的影像口訣是 muscle belly 大、tendon spared；如果連肌腱都腫，改想 orbital myositis。",
    "guideline": "FC 醫學(六)第2冊 p.206",
-   "concepts": []
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -75708,7 +75730,10 @@
    "C": "本項不選。toxic multinodular goiter 多見於較年長者，特色為自主性結節，不符合兒童與自體免疫家族史的組合。",
    "D": "本項不選。acute infectious thyroiditis 通常有疼痛、發燒與細菌感染表現，病理不會以慢性淋巴球與漿細胞眼眶浸潤為主。",
    "summary": "甲狀腺腫合併眼眶浸潤、家族自體免疫史，指向 Graves。眼睛的線索能把它和 Hashimoto 分開。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -93354,7 +93379,9 @@
    "D": "本項不選：radioactive iodine 後活動性 Graves 眼病可能加重，特別是吸菸者或既有活動性眼病者需共同評估預防策略。",
    "summary": "Graves 眼病不是把甲狀腺壓到越低越好，而是維持 euthyroid；出現 ptosis 先別怪 Graves，要找 MG。",
    "guideline": "FC 醫學(六)第2冊 p.205",
-   "concepts": []
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -99228,7 +99255,10 @@
    "C": "本項不選。papillary thyroid cancer 常是結節或頸部淋巴結病灶，不典型造成瀰漫性甲狀腺毒症。",
    "D": "本項不選。subacute thyroiditis 常伴頸部疼痛、壓痛與發炎症狀，題幹明確是無痛性腫大。",
    "summary": "free T4 高、TSH 低再加無痛性瀰漫 goiter，青少年先想 Graves；痛的甲狀腺才轉向 thyroiditis。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "graves-disease"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
