@@ -6220,7 +6220,10 @@
    "C": "急性細胞型排斥（acute cellular rejection）常以靜脈注射高劑量 methylprednisolone pulse 作第一線治療；若 steroid-resistant，才進一步考慮 lymphocyte-depleting therapy。",
    "D": "初期高劑量 corticosteroid 具有 sodium/water retention 等作用，可能造成體液滯留、體重增加與全身水腫；同時需監測血壓、血糖與感染。",
    "summary": "移植後 steroid 可治療急性細胞型排斥，但維持期會盡量降低累積劑量，並非所有病人都需終身合併使用。",
-   "guideline": "FC 醫學(五)第1冊 p.86"
+   "guideline": "FC 醫學(五)第1冊 p.86",
+   "concepts": [
+    "transplant-immunosuppressants"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6258,7 +6261,10 @@
    "C": "對原發腫瘤已受控制、全身疾病負荷低且可完整切除的寡轉移病人，肺、肝或腦單一轉移灶的 metastasectomy 或局部治療可能延長存活；並非所有轉移病人皆適用。",
    "D": "CEA 對癌症篩檢的 sensitivity 與 specificity 均不足；若 colorectal cancer 病人術前曾升高，術後連續追蹤其趨勢可協助偵測復發，但不能單靠一次數值確診。",
    "summary": "Bence Jones protein 指向 plasma-cell dyscrasia；CEA 的主要價值是已知癌症治療後趨勢追蹤，而非一般人口篩檢。",
-   "guideline": "FC 醫學(五)第1冊 p.119"
+   "guideline": "FC 醫學(五)第1冊 p.119",
+   "concepts": [
+    "surgical-oncology-basics"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6296,7 +6302,10 @@
    "C": "正確。肺泡塌陷（atelectasis）常在麻醉、疼痛造成淺呼吸與分泌物滯留後的早期出現，傳統考題將其列為術後 48–72 小時發燒的常見相關原因；臨床仍應排除 pneumonia、aspiration 等感染。",
    "D": "導尿相關泌尿道感染（catheter-associated urinary tract infection）通常與導尿時間增加相關，較少在術後 48–72 小時內成為最常見原因；應依尿路症狀與尿液檢驗判斷。",
    "summary": "術後發燒要依時間軸判斷：最初 48–72 小時傳統上先想到 atelectasis；傷口感染、UTI 與腹內膿瘍通常較晚。",
-   "guideline": "FC 醫學(五)第1冊 p.57"
+   "guideline": "FC 醫學(五)第1冊 p.57",
+   "concepts": [
+    "postop-fever-complications"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6334,7 +6343,10 @@
    "C": "正確。正常體重成人的每日能量需求常以 25–30 kcal/kg/day 作簡便估算；70 kg 成人約為 1,750–2,100 kcal/day，之後再依病程、活動量與 indirect calorimetry 調整。",
    "D": "30–35 kcal/kg/day 較可能用於高需求或需增加體重者；若未評估 stress factor 就套用，可能造成 overfeeding、hyperglycemia、hypercapnia 與 hepatic steatosis。",
    "summary": "正常體重外科病人的每日能量常先用 25–30 kcal/kg 估算，再依重症階段與 indirect calorimetry 個別化。",
-   "guideline": "FC 醫學(五)第1冊 p.21"
+   "guideline": "FC 醫學(五)第1冊 p.21",
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -7975,7 +7987,10 @@
    "C": "暴露恥骨與 Cooper ligament 可確認內側解剖界標並建立足夠的 mesh 覆蓋範圍；操作是分離周圍 preperitoneal tissue，不是切斷韌帶本身。",
    "D": "外側 preperitoneal dissection 須充分延伸，使 mesh 能覆蓋 indirect space 與 lateral recurrence zone；接近 anterior superior iliac spine 的描述用來強調外側剝離範圍。",
    "summary": "TEP repair 要復位疝囊並充分顯露 Cooper ligament 與外側 preperitoneal space；神經應保護，不需結紮 lateral femoral cutaneous nerve。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8054,7 +8069,10 @@
    "C": "不適當。未控制出血的穿透傷不應用大量 crystalloid 與 vasopressor 強拉 systolic BP 至 120 mmHg，因可能沖掉血塊、增加出血與稀釋凝血因子；應以血液製品復甦並採 permissive hypotension，除非合併嚴重 traumatic brain injury 等例外。",
    "D": "嚴重創傷復甦應優先使用血液製品；需要 crystalloid 時可用 lactated Ringer’s 或 normal saline，但須限制大量使用，避免 dilutional coagulopathy、hypothermia 與 hyperchloremic acidosis。",
    "summary": "未止血的 hemorrhagic shock 以 airway、平衡輸血與立即止血為主，不應用升壓劑把 SBP 強推至 120 mmHg。",
-   "guideline": "FC 醫學(五)第1冊 p.41"
+   "guideline": "FC 醫學(五)第1冊 p.41",
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -9299,7 +9317,10 @@
    "C": "正確。發燒使代謝率與 CO2 產生量增加；若肺泡通氣與循環未同步增加，ETCO2 傾向上升，而不是突然降低。",
    "D": "急性肺栓塞使肺灌流突然下降、肺泡死腔增加，送到肺泡排出的 CO2 減少，因此 ETCO2 可突然下降，並常伴 PaCO2–ETCO2 gradient 增大。",
    "summary": "麻醉中 ETCO2 突降要先排除迴路脫落或氣道阻塞，再考慮肺灌流突然下降；發燒反而傾向增加 CO2 產生。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9337,7 +9358,10 @@
    "C": "錯誤。區域麻醉（regional anesthesia）會阻斷交感血管收縮與傳入溫度感覺，並降低中樞血管收縮閾值，因此仍可能造成不易察覺的低體溫；是否觸發惡性高熱不是省略監測的理由。",
    "D": "老年人對寒冷的血管收縮與發抖反應較弱、啟動閾值也較低，因此麻醉下更容易持續散熱而形成低體溫。",
    "summary": "區域麻醉同樣會破壞體溫調節；手術時間、暴露範圍與體溫變化需要監測，而非只用惡性高熱風險判斷。",
-   "guideline": "FC 醫學(六)第4冊 p.61"
+   "guideline": "FC 醫學(六)第4冊 p.61",
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9375,7 +9399,10 @@
    "C": "局部麻醉劑全身毒性（local anesthetic systemic toxicity, LAST）可抑制心肌傳導與收縮，尤其 bupivacaine 可造成難治型心室心律不整及循環崩潰。",
    "D": "脂溶性通常與 potency 相關，蛋白結合度則更直接影響作用時間；高度脂溶性藥物往往也有較高蛋白結合，臨床作用可較持久，但不能把脂溶性視為唯一決定因子。",
    "summary": "局部麻醉劑靠阻斷 voltage-gated sodium channel 中止神經傳導；過量時可同時危及中樞神經與心血管系統。",
-   "guideline": "FC 醫學(六)第4冊 p.123"
+   "guideline": "FC 醫學(六)第4冊 p.123",
+   "concepts": [
+    "local-anesthetic-pharmacology"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9413,7 +9440,10 @@
    "C": "相較 fentanyl 等脂溶性 opioid，remifentanil 不會因長時間輸注而明顯堆積於脂肪與周邊 compartment，適合需要快速調整與甦醒的麻醉。",
    "D": "錯誤。Remifentanil 由非特異性血液與組織 esterases 代謝，不仰賴 plasma pseudocholinesterase；pseudocholinesterase 缺乏會延長 succinylcholine 或 mivacurium 作用，並非 remifentanil 禁忌。",
    "summary": "Remifentanil 的核心特色是非特異性 esterase 代謝、幾乎不累積；pseudocholinesterase 缺乏不會阻止使用。",
-   "guideline": "FC 醫學(六)第4冊 p.142"
+   "guideline": "FC 醫學(六)第4冊 p.142",
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9446,7 +9476,10 @@
    "C": "頭低會提高中央靜脈壓並妨礙腦與眼的靜脈回流，因此顱內壓（intracranial pressure）與眼內壓（intraocular pressure）均可上升。",
    "D": "腹腔內容物向頭側推擠橫膈，會降低功能性肺餘容量（functional residual capacity）與順應性，增加 dependent atelectasis 與低氧血症風險。",
    "summary": "Trendelenburg 適合骨盆或下腹術野，但會增加頭頸水腫、顱眼壓與肺塌陷；上腹部手術通常採相反方向。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "positioning-pregnancy-physiology"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9525,7 +9558,10 @@
    "C": "正確。單獨坐骨神經阻斷（sciatic nerve block）主要涵蓋小腿後外側與膝後方，無法處理膝關節置換術以 femoral/saphenous distribution 為主的疼痛，因此四者中效果最差。",
    "D": "收肌管阻斷（adductor canal block）主要阻斷 saphenous nerve，可保留較多 quadriceps strength 並提供膝前內側止痛，常用於促進早期活動的 multimodal analgesia。",
    "summary": "全膝關節置換術不能只阻斷 sciatic distribution；femoral 或 adductor canal coverage 才能處理主要前內側疼痛。",
-   "guideline": "FC 醫學(六)第4冊 p.142"
+   "guideline": "FC 醫學(六)第4冊 p.142",
+   "concepts": [
+    "pain-medicine-regional-analgesia"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9558,7 +9594,10 @@
    "C": "正確。Norepinephrine 以 α1 vasoconstriction 提升 systemic vascular resistance，並具有限 β1 支持；在適當輸液後仍低血壓的 septic shock 是第一線 vasopressor。",
    "D": "Vasopressin 常以固定低劑量加在 norepinephrine 上，藉 V1 receptor 增加血管張力並降低 catecholamine 需求；通常是 adjunct，而非起始單藥。",
    "summary": "敗血性休克第一線 vasopressor 是 norepinephrine；vasopressin 或 epinephrine 多在反應不足時加用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sepsis-septic-shock-management"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -12244,7 +12283,10 @@
    "C": "正確。Lidocaine 合併 epinephrine 常用最大劑量約 7 mg/kg；72 kg × 7 mg/kg = 504 mg，選項以 500 mg 最接近。仍須依注射部位、血管豐富度與病人共病下修。",
    "D": "700 mg 約 9.7 mg/kg，超過 lidocaine 合併 epinephrine 常用 7 mg/kg 上限；不能只因病人體重大就忽略絕對總量與 LAST 風險。",
    "summary": "Lidocaine 加 epinephrine 常用上限約 7 mg/kg；72 kg 約為 504 mg，因此選 500 mg，臨床仍應採最低有效劑量。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "local-anesthetic-pharmacology"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -19693,7 +19735,10 @@
    "C": "Major adverse cardiac events 是 noncardiac surgery 的重要死亡原因；既往 myocardial infarction、heart failure、arrhythmia 與 diabetes 均會提高 perioperative cardiovascular risk。",
    "D": "正確。腹壁疝氣可回復且無 incarceration/strangulation，屬 elective surgery；在近期 myocardial infarction 後應延後，依本題時代背景至少等待 6 個月再評估，並同時考量 coronary stent 與 antiplatelet therapy。",
    "summary": "可回復性 ventral hernia 不需冒近期 MI 的 perioperative cardiac risk；先延後 elective repair 並完成跨科風險評估。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perioperative-cardiac-antithrombotic"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20466,7 +20511,10 @@
    "C": "本項不選。腹腔鏡的手術創傷小，術後免疫抑制反應較開腹輕，IL-6 與 CRP 上升幅度都較小。這也是它術後恢復較快的機轉之一。",
    "D": "本項不選（依題目）。腹腔鏡的發炎指標明確較低，但**皮質醇的差異在研究間並不一致**，有報告顯示兩者相當甚至腹腔鏡略高，可能與氣腹造成的腹內壓與 CO2 吸收有關。本題未把它列為錯誤選項。",
    "summary": "免氣腹腹腔鏡換來的是心肺負擔小，代價是視野與空間變差；腹腔鏡真正明確較低的是發炎反應，不是皮質醇。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "laparoscopy-physiology-complications"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20504,7 +20552,10 @@
    "C": "兩個 working ports 與 camera port 對 target 形成等腰三角形，是 laparoscopy 常用的 triangulation 原則，可改善 depth perception 與雙手操作角度。",
    "D": "錯誤。理想 port placement 應讓左右手器械維持自然同側操作，避免 crossed-hands posture；若經常必須交叉雙手，通常代表 port geometry 不佳。",
    "summary": "Multi-port laparoscopy 靠 camera 居中、working ports 分開與 triangulation，目標是避免 instrument collision 和 crossed hands。",
-   "guideline": "FC 醫學(五)第1冊 p.135"
+   "guideline": "FC 醫學(五)第1冊 p.135",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21427,7 +21478,10 @@
    "C": "最不適當。高感染風險 bite wound 除 prophylactic antibiotics 外，需要較早的 wound review，通常約 24–48 小時，而非固定等到第 3 日；同時應評估 tetanus 與 rabies prophylaxis。",
    "D": "Cat bite 常造成狹深 puncture wound，容易把 Pasteurella multocida 等菌接種至 tendon sheath、joint 或深層組織，感染率一般高於 dog bite。",
    "summary": "動物咬傷先 irrigation/debridement；臉部低風險傷可 primary closure，高風險傷需 antibiotics 並於 24–48 小時早期複查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bites-envenomation"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21614,7 +21668,10 @@
    "C": "氣管內管（endotracheal tube）的 cuff 可在氣管內建立密閉通路，是控制氣道及施行正壓通氣的標準工具之一。",
    "D": "麻醉面罩（anesthetic mask）若能與臉部形成良好密合，可配合 breathing circuit 與 bag-mask ventilation 施予正壓呼吸。",
    "summary": "Venturi mask 是固定濃度氧療裝置，不是正壓通氣介面；面罩、LMA 與 endotracheal tube 均可傳遞正壓。",
-   "guideline": "FC 醫學(六)第4冊 p.34"
+   "guideline": "FC 醫學(六)第4冊 p.34",
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21652,7 +21709,10 @@
    "C": "Serum creatinine 增加通常反映 GFR 降低，兩者有明確反向關係；但非線性且 creatinine 的時間延遲使其無法即時量出損傷。",
    "D": "NGAL 可在腎小管損傷後數小時上升，確實屬早期 biomarker；題目若以「最早在術後 24 小時內」暗示須等到接近 24 小時才可測得，並不精確，且 NGAL 的臨床 specificity 會受發炎等因素影響。",
    "summary": "AKI 不能把術後少尿當正常；creatinine 上升會落後於 GFR 下降，直接功能量測與早期 injury biomarkers 各有用途。",
-   "guideline": "FC 醫學(六)第4冊 p.164"
+   "guideline": "FC 醫學(六)第4冊 p.164",
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21690,7 +21750,10 @@
    "C": "正確。腦電圖（electroencephalography, EEG）會隨 sedative-hypnotic effect 由高頻低振幅轉變，processed EEG 因而可作鎮靜程度及全身麻醉深度的輔助監測，但不能取代生命徵象與藥物劑量判斷。",
    "D": "過低 BIS 代表較深 hypnotic state，可能伴 burst suppression；並沒有「越低、術後後遺症越少」的線性關係，反而應避免不必要的過深麻醉。",
    "summary": "Processed EEG 可輔助追蹤 hypnosis；cerebral oximetry 看的是腦氧合，而 BIS 也不是越低越安全。",
-   "guideline": "FC 醫學(六)第4冊 p.60"
+   "guideline": "FC 醫學(六)第4冊 p.60",
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21723,7 +21786,10 @@
    "C": "乾燥的 CO2 absorbent，尤其含強鹼者，可促使 desflurane 等吸入性麻醉劑產生 carbon monoxide；預防重點是避免吸收劑乾燥失水。",
    "D": "Sevoflurane 可被 CO2 absorbent 降解形成 Compound A，低 fresh-gas flow、較高溫度與特定強鹼吸收劑會增加產生量。",
    "summary": "Desflurane 與 sevoflurane 都是 fluorinated volatile anesthetics；前者低溶解度甦醒快，乾燥吸收劑相關降解產物則不同。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21761,7 +21827,10 @@
    "C": "眩暈（dizziness）可屬 LAST 早期神經症狀；若在區域阻斷注藥時突然出現，應立刻停止注射並評估 intravascular injection。",
    "D": "正確。典型 LAST 教學中的前驅症狀包括口周麻木、舌部異常、metallic taste、耳鳴與眩暈，接著可有 seizure 或昏迷；hallucination 不是本題所列的典型核心表現。",
    "summary": "注射局部麻醉劑時出現口周或舌部異常、耳鳴、眩暈，應把它當作 LAST 早期警訊並立即停藥。",
-   "guideline": "FC 醫學(六)第4冊 p.122"
+   "guideline": "FC 醫學(六)第4冊 p.122",
+   "concepts": [
+    "local-anesthetic-pharmacology"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21922,7 +21991,10 @@
    "C": "錯誤。只要營養輸入下降而外源 insulin、內生 insulin 或降血糖藥效仍在，TPN 與 enteral feeding 減量或意外中斷都可能造成 hypoglycemia；兩者均須同步調整 insulin 並監測血糖。",
    "D": "Parenteral nutrition 需經周邊或中央 venous catheter；重症病人新發 sepsis 時應評估 catheter-related bloodstream infection，包含血液培養與管路處置。",
    "summary": "營養支持減量時，enteral 與 parenteral routes 都可能因 insulin 未同步下修而低血糖；靜脈營養另須警覺導管感染。",
-   "guideline": "FC 醫學(六)第4冊 p.164"
+   "guideline": "FC 醫學(六)第4冊 p.164",
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -30996,7 +31068,10 @@
    "C": "正確答案。HTLV antibody positive donor 可能將 HTLV-1/2 傳給受贈者，造成 adult T-cell leukemia/lymphoma 或 myelopathy 等嚴重後果，在臺灣不適合作一般腦死器官捐贈者。",
    "D": "Toxoplasma antibody positive 多表示既往感染而非 active disease，並非一律不能捐贈；心臟等高風險器官須依 donor/recipient serostatus 給 prophylaxis 與監測。",
    "summary": "Donor seropositivity 不等於一律禁用；CMV、HBV、Toxoplasma 可風險分層處理，而 HTLV transmission 後果嚴重。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31039,7 +31114,10 @@
    "C": "Emergency thoracotomy/aortic repair 只在影像與臨床支持重大 thoracic vascular injury 時適用；題幹可由圖片判讀的細節目前不可見，不能僅以胸痛與左呼吸音降低就選擇開胸。",
    "D": "正確。鈍性腹部創傷、腹脹與 diffuse tenderness，加上輸液後再度 hypotension，符合不穩定且持續 intra-abdominal hemorrhage；應立即 exploratory laparotomy 進行止血與 contamination control。",
    "summary": "創傷病人對輸液僅短暫反應又陷入 shock，若腹部來源明確就應立即 laparotomy，不能為重複影像延誤止血。",
-   "guideline": "FC 醫學(五)第1冊 p.93"
+   "guideline": "FC 醫學(五)第1冊 p.93",
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31113,7 +31191,10 @@
    "C": "Nausea and vomiting 是 acute hyponatremia 常見的早期 neurologic/GI manifestations，也可能進一步刺激 ADH 而加重 free-water retention。",
    "D": "Weakness and fatigue 可見於低血鈉，常伴 lethargy、confusion 或 muscle cramps；症狀缺乏 specificity，仍須以 serum sodium 與 tonicity 確認。",
    "summary": "Hyponatremia 常見 headache、nausea/vomiting、weakness 與意識症狀；tachycardia 應尋找 volume loss 等其他原因。",
-   "guideline": "FC 醫學(五)第1冊 p.29"
+   "guideline": "FC 醫學(五)第1冊 p.29",
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31420,7 +31501,10 @@
    "C": "NOTES 的潛在優點包括減少體表 incision、postoperative pain 與 wound-related disability；實際效益仍取決於術式、適應症與操作者經驗。",
    "D": "錯誤。經肛門內視鏡顯微手術（transanal endoscopic microsurgery, TEMS）受器械長度與操作角度限制，主要處理距 anal verge 約 4–20 cm 的 rectal lesion；>25 cm 通常超出合適範圍。",
    "summary": "NOTES 以自然孔減少體表創傷但技術較難；TEMS 有距離限制，不能處理 anal verge 以上 >25 cm 的腫瘤。",
-   "guideline": "FC 醫學(五)第1冊 p.134"
+   "guideline": "FC 醫學(五)第1冊 p.134",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31728,7 +31812,10 @@
    "C": "正確答案。Lymphocytes 可在傷口免疫反應中出現，但典型 granulation tissue 的主要組成是 proliferating capillaries、fibroblasts、loose extracellular matrix 與 macrophages，不把 lymphocyte 列為其構成細胞。",
    "D": "Endothelial cells 增生並形成新生 capillary loops，是 granulation tissue 呈紅色顆粒外觀與供應修復組織氧氣、營養的基礎。",
    "summary": "Granulation tissue 的代表成分是 new capillaries、fibroblasts、macrophages 與 loose ECM；lymphocyte 不是典型結構成分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32348,7 +32435,10 @@
    "C": "LMWH bridging 是針對部分 anticoagulant interruption 的 thromboembolic risk，不會取代 antiplatelet effect，也不能預防 coronary stent thrombosis；反而可增加 pancreatic surgery bleeding。",
    "D": "正確。應立即告知 attending surgeon，釐清 6 個月前 cardiac procedure、stent type/indication 與 dual antiplatelet therapy 所需時程，和 cardiology/anesthesia 共同評估並暫緩 elective pancreatic surgery。正常 PT/aPTT 不代表 platelet function 正常。",
    "summary": "Aspirin/clopidogrel 抑制 platelet function，PT/aPTT 可正常；重大 elective surgery 前須跨科評估，不能只停 2 天或用 LMWH bridging。",
-   "guideline": "FC 醫學(五)第3冊 p.224"
+   "guideline": "FC 醫學(五)第3冊 p.224",
+   "concepts": [
+    "perioperative-cardiac-antithrombotic"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33803,7 +33893,10 @@
    "C": "全脊椎 contrast-enhanced MRI 是確認 metastatic spinal cord compression 範圍與規劃 surgery/radiotherapy 的首選影像，應緊急安排；但題目問「下一步」時，先給 dexamethasone 以減少 edema。",
    "D": "正確。已知 metastatic prostate cancer 合併急性 bilateral leg weakness、urinary retention 與 incontinence，高度懷疑惡性脊髓壓迫（malignant spinal cord compression）；應立即給 dexamethasone，並同步緊急 MRI 與 spine surgery/radiation oncology consultation。",
    "summary": "疑似 malignant spinal cord compression 出現 motor 與 sphincter deficits 時，先立即 dexamethasone，再緊急 MRI 與 definitive decompression/radiotherapy。",
-   "guideline": "FC 醫學(五)第5冊 p.122"
+   "guideline": "FC 醫學(五)第5冊 p.122",
+   "concepts": [
+    "surgical-oncology-basics"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33983,7 +34076,10 @@
    "C": "持續出現有規則的呼氣末二氧化碳（end-tidal CO2）波形是確認氣管插管最可靠的臨床方法；只看單次顏色變化不如連續 waveform capnography。",
    "D": "光纖支氣管鏡（fiberoptic bronchoscopy）可直接看見 tracheal rings、carina 與 tube tip，能確認位置並判斷是否過深。",
    "summary": "確認 endotracheal intubation 以持續 waveform capnography 為核心，配合胸腹聽診或 bronchoscopy；超音波應掃前頸而非後頸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34021,7 +34117,10 @@
    "C": "正確。Stroke volume variation 等 dynamic indices 觀察 mechanical ventilation 引起的 preload change，可在適當條件下預測 fluid responsiveness；單次 central venous pressure 是 static pressure，預測輸液後 cardiac output 是否增加的能力差。",
    "D": "Central venous pressure 受 venous tone、right ventricular compliance、intrathoracic pressure、tricuspid disease 等影響，不能與 circulating blood volume 畫成固定正比。",
    "summary": "預測 fluid responsiveness 應優先用合適情境下的 dynamic indices；CVP 不是循環血量計，也不能單獨指導輸液。",
-   "guideline": "FC 醫學(六)第4冊 p.58"
+   "guideline": "FC 醫學(六)第4冊 p.58",
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34054,7 +34153,10 @@
    "C": "呼吸道加溫與加濕（airway heating and humidification）只能回收相對少量 respiratory heat loss；兒童因 surface-area-to-mass ratio 較大更易失溫，不能說成人比小兒更有效。",
    "D": "區域麻醉（regional anesthesia）會阻斷交感血管收縮、降低 vasoconstriction threshold，且病人可能感覺不到阻斷區域的冷，因此同樣會發生低體溫。",
    "summary": "麻醉第一小時降溫主因是核心熱量向周邊重分布；預防要靠 prewarming 加上術中主動保溫，區域麻醉也不例外。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34087,7 +34189,10 @@
    "C": "錯誤。加入 epinephrine 會以 α1 receptor 造成注射部位血管收縮，減慢局部麻醉劑進入全身循環，延長作用並降低 peak plasma concentration；不是血管擴張。",
    "D": "局部麻醉劑會影響 CNS sodium channels，血中濃度上升可由感覺異常、興奮與 seizure 進展為 CNS depression、coma 與 respiratory arrest。",
    "summary": "局部麻醉劑偏好阻斷 open/inactivated sodium channels；epinephrine 造成局部 vasoconstriction，而非 vasodilation。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "local-anesthetic-pharmacology"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34125,7 +34230,10 @@
    "C": "Fentanyl 是 opioid analgesic；opioid exposure 本身是 PONV 與 respiratory depression 的危險因子，應採 opioid-sparing strategy，而非用 fentanyl 預防噁心嘔吐。",
    "D": "Atracurium 是 nondepolarizing neuromuscular blocker，用來提供 muscle relaxation；它沒有 antiemetic 作用，且殘餘阻斷需另外監測與 reversal。",
    "summary": "Dexamethasone 可預防 PONV；opioid 反而增加風險，edrophonium 與 atracurium 也不是 antiemetics。",
-   "guideline": "FC 醫學(六)第4冊 p.163"
+   "guideline": "FC 醫學(六)第4冊 p.163",
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34163,7 +34271,10 @@
    "C": "40 mmHg 對應速度約 3.16 m/s；雖已接近，但直接代入簡化 Bernoulli equation 所得仍約 49 mmHg。",
    "D": "正確。簡化 Bernoulli equation 為 ΔP = 4V²；V = 3.5 m/s 時，ΔP = 4 × 12.25 = 49 mmHg，故最接近 50 mmHg。這是 peak instantaneous gradient，不等同 mean gradient。",
    "summary": "跨主動脈瓣最高流速換算 peak gradient 用 ΔP=4V²；3.5 m/s 約為 49 mmHg，因此選 50 mmHg。",
-   "guideline": "FC 醫學(六)第4冊 p.59"
+   "guideline": "FC 醫學(六)第4冊 p.59",
+   "concepts": [
+    "perioperative-cardiac-antithrombotic"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34196,7 +34307,10 @@
    "C": "PACU 標準觀察包含 airway/respiration、oxygenation、circulation、temperature、consciousness、pain 與 nausea 等，以判斷是否安全離開密集監測。",
    "D": "Aminoglycosides 等部分抗生素可干擾 neuromuscular transmission，增強或延長 nondepolarizing neuromuscular blockade；PACU 出現 weakness 或 hypoventilation 時須納入評估。",
    "summary": "PACU 同時可能出現高血壓或低血壓；必須系統監測呼吸、循環、體溫與清醒度，並警覺 residual neuromuscular block。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34275,7 +34389,10 @@
    "C": "正壓提高 intrathoracic pressure，減少 systemic venous return 與 right ventricular preload，之後 left ventricular filling 也下降，可能使 cardiac output 與 blood pressure 降低。",
    "D": "錯誤。10 cmH2O 的 PEEP 在許多病人是常用範圍，不能單憑達到此數值就判定 barotrauma risk 明顯增加；風險取決於 plateau pressure、driving pressure、肺病變不均一性與過度擴張。",
    "summary": "過高正壓會增加 dead space、PVR 與 RV afterload，並減少 venous return；barotrauma 不能用 PEEP 10 cmH2O 當單一固定切點。",
-   "guideline": "FC 醫學(六)第4冊 p.163"
+   "guideline": "FC 醫學(六)第4冊 p.163",
+   "concepts": [
+    "ards-ventilation-co-inhalation"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -43344,7 +43461,10 @@
    "C": "HER2-amplified breast cancer 可用 trastuzumab、pertuzumab 與 antibody-drug conjugates 等 HER2-directed therapy，治療選擇依 stage、prior therapy 與 receptor testing 決定。",
    "D": "Renal cell carcinoma 常受 VHL/HIF/VEGF angiogenesis pathway 驅動，可用 VEGF/VEGFR-directed agents；現代治療也常結合 immune checkpoint inhibitors。",
    "summary": "BCR::ABL1 對應 CML/部分 ALL，不是 myeloma；EGFR、HER2、VEGF 分別是特定 colorectal、breast、renal cancers 的標靶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-oncology-basics"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44341,7 +44461,10 @@
    "C": "Blunt chest trauma 即使外表沒有 ecchymosis，仍可造成 occult pneumothorax、hemothorax、pulmonary contusion 或 cardiac injury；需依 mechanism、exam、ultrasound 與 imaging 判斷。",
    "D": "正確。Subcutaneous emphysema 與 pneumomediastinum 表示 air 從 airway、lung 或 esophagus 漏入組織；在相關 trauma mechanism 下須考慮 tracheobronchial 或 esophageal injury。",
    "summary": "頸胸外傷不能靠表皮外觀排除深部傷；impaled object 留置，pneumomediastinum/subcutaneous emphysema 要查 airway 與 esophagus。",
-   "guideline": "FC 醫學(五)第4冊 p.149"
+   "guideline": "FC 醫學(五)第4冊 p.149",
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44412,7 +44535,10 @@
    "C": "正確。脾臟切除後清除莢膜菌的能力下降，肺炎鏈球菌（Streptococcus pneumoniae）是重要風險病原，因此需要疫苗與發燒時及早就醫教育。",
    "D": "正確。兒童脾切除後較容易發生猛爆性脾切除後感染（overwhelming postsplenectomy infection），病程可在短時間內惡化成敗血症。",
    "summary": "脾切除不是治療肝硬化血小板低下的常規捷徑；切脾後反而要防莢膜菌敗血症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45163,7 +45289,10 @@
    "C": "正確。橫結腸由橫結腸繫膜懸吊在腹腔內，能活動而非附著在後腹膜；它的血管供應也經由繫膜進入。",
    "D": "錯誤。直腸上段前方與部分側方有腹膜覆蓋，但大部分位置固定在骨盆後方；以本題解剖分類，它不是最明確的腹腔內活動腸段。",
    "summary": "橫結腸會被橫結腸繫膜吊著活動；升、降結腸則多固定在後腹膜。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45237,7 +45366,10 @@
    "C": "本項要選。TAPP 先進入腹腔，視野和操作空間通常較大；TEP 的腹膜前空間反而較侷限。",
    "D": "正確。大型系統性回顧顯示 TAPP 與 TEP 的復發率相近，選擇通常取決於病人腹部手術史與術者熟悉度。",
    "summary": "TAPP 先進腹腔所以空間較大；TEP 不進腹腔所以較少腹內臟器風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45311,7 +45443,10 @@
    "C": "正確。以縫線牽引膽囊或腹壁可增加暴露，是減少額外 trocar 的常用輔助技巧。",
    "D": "本項要選。單一切口的深層筋膜需要可靠關閉，但皮膚縫合通常可使用可吸收縫線；不可吸收線不是此手術的必要條件。",
    "summary": "單一切口可為美觀減少切口，但安全優先：需要時加 port、皮膚也不必限定不可吸收線。",
-   "guideline": "FC 醫學(五)第4冊 p.134"
+   "guideline": "FC 醫學(五)第4冊 p.134",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46045,7 +46180,10 @@
    "C": "正確。trocar 插入是腹腔鏡的關鍵危險步驟，可能傷及腸道、大血管或腹腔臟器，不能因切口小而忽略。",
    "D": "本項要選。小切口仍可能因筋膜缺損形成 trocar-site 或切口疝氣，尤其 port 較大、肥胖或傷口感染時風險更高。",
    "summary": "腹腔鏡傷口雖小，port-site 還是會長切口疝氣；小不是零風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "laparoscopy-physiology-complications"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46268,7 +46406,10 @@
    "C": "疑似顱底骨折（basilar skull fracture）時，nasopharyngeal airway 可能沿破裂處造成顱內誤置或加重損傷，應避免經鼻放置。",
    "D": "鼻咽人工氣道（nasopharyngeal airway）通過鼻腔時可能擦傷高度血管化的 mucosa，epistaxis 是常見併發症；應潤滑並選擇合適尺寸。",
    "summary": "有 gag reflex 的清醒病人不應優先放 oropharyngeal airway；nasopharyngeal airway 較可耐受，但顱底骨折時禁用。",
-   "guideline": "FC 醫學(六)第4冊 p.33"
+   "guideline": "FC 醫學(六)第4冊 p.33",
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46306,7 +46447,10 @@
    "C": "這題不選 C：動態指標如脈壓變異（pulse pressure variation）是在看正壓呼吸每一拍造成的 stroke volume 變化。較能預測輸液後 cardiac output 是否上升。肺微血管楔壓（pulmonary capillary wedge pressure）是單一時點的靜態壓力。不能可靠預測 fluid responsiveness。",
    "D": "這題不選 D：CVP 與肺動脈導管的常見問題不是導管本身。而是把單一壓力數字直接等同於血容量或輸液反應。數值必須連同呼吸型態、心室功能與臨床灌流一起解讀。",
    "summary": "看到 SvO2 要先記得正常約 65%–75%；它是全身氧供需平衡指標，不是低到 30%–50% 才叫正常。",
-   "guideline": "FC 醫學(六)第4冊 p.57"
+   "guideline": "FC 醫學(六)第4冊 p.57",
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46344,7 +46488,10 @@
    "C": "這題要選 C：麻醉中保護腎臟的核心是維持有效組織灌流：確認 cardiac output、血管內容量與血壓足以供應腎血流。並避免持續低血壓與腎毒性暴露。",
    "D": "這題不選 D：IL-18 是腎小管受傷與發炎相關的 biomarker。並非和腎小管壓力反應完全無關。它可早於 creatinine 上升，但受全身發炎影響，不能單獨確診 AKI。",
    "summary": "術中腎保護不是追一個尿量數字；先維持血流動力與組織灌流，才能降低腎缺血風險。",
-   "guideline": "FC 醫學(六)第4冊 p.162"
+   "guideline": "FC 醫學(六)第4冊 p.162",
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46382,7 +46529,10 @@
    "C": "這題不選 C：Dexmedetomidine 是 α2 agonist。提供鎮靜與部分止痛。但不是 opioid receptor antagonist。它本身可造成 bradycardia 或 hypotension。不能拿來急救 opioid overdose。",
    "D": "這題不選 D：Ketamine 主要拮抗 NMDA receptor。屬 dissociative anesthetic；它不會競爭中樞 opioid receptor。因此不能特異性逆轉 opioid-induced respiratory depression。",
    "summary": "術後 opioid 呼吸抑制要想到 naloxone；flumazenil 只解 benzodiazepine，不能互換。",
-   "guideline": "FC 醫學(六)第4冊 p.140"
+   "guideline": "FC 醫學(六)第4冊 p.140",
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46456,7 +46606,10 @@
    "C": "這題不選 C：鼻咽人工氣道（nasopharyngeal airway）可繞過部分舌根阻塞。清醒度較淺者也較能耐受。疑似顱底骨折或嚴重鼻部創傷時則不應經鼻放置。",
    "D": "這題不選 D：壓額抬下巴（head tilt and chin lift）將下顎前移、拉開舌根與咽後壁。是基本氣道開放手法；頸椎受傷疑慮時改採 jaw thrust 並維持頸椎中立。",
    "summary": "面罩通氣差時不要硬壓面罩；先打開氣道、前移下顎，再用口咽或鼻咽人工氣道。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46489,7 +46642,10 @@
    "C": "這題不選 C：TEE 能直接看主動脈瓣形態與跨瓣血流速度；利用 Doppler 可估計 pressure gradient。因此可評估 aortic stenosis 的嚴重度。",
    "D": "本項是 TEE 無法可靠提供的資訊。TEE 雖可能看到部分冠狀動脈近端或區域壁運動異常。卻不能像 coronary angiography 一樣判定冠狀動脈狹窄程度。",
    "summary": "TEE 很會看心室、瓣膜與即時血流，但不能取代冠狀動脈攝影來量冠狀動脈狹窄。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46527,7 +46683,10 @@
    "C": "這題不選 C：在適當病人。局部麻醉藥合併類固醇可同時提供短暫神經阻斷與抗發炎效果。整體短期止痛常優於單用局部麻醉藥；長期效益則不一定。",
    "D": "這題要選 D：把頸椎 epidural injection 說成臨床完全不用。過度絕對。頸椎 epidural injection 並非完全不用。但因脊髓、椎動脈與罕見嚴重神經併發症風險較高。必須嚴格選案、使用影像導引並審慎選擇技術與藥物。",
    "summary": "頸椎 epidural injection 不是禁做，而是高風險程序；要記得它需要嚴格選案與影像導引。",
-   "guideline": "FC 醫學(六)第4冊 p.141"
+   "guideline": "FC 醫學(六)第4冊 p.141",
+   "concepts": [
+    "pain-medicine-regional-analgesia"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46560,7 +46719,10 @@
    "C": "這題不選 C：嚴重感染的全身性發炎可同時啟動凝血、抑制纖溶並消耗凝血因子。因而併發瀰漫性血管內凝血（disseminated intravascular coagulation）。病人可同時有 microthrombosis 與出血。",
    "D": "這題不選 D：重症的低灌流、黏膜缺血與生理壓力會造成 stress-related mucosal disease。嚴重時可出現上消化道出血。高風險病人常需依適應症給予 prophylaxis。",
    "summary": "敗血症的代謝陷阱是 stress hyperglycemia；看到血小板下降時，還要想到凝血消耗與 DIC。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sepsis-septic-shock-management"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -55632,7 +55794,10 @@
    "C": "錯誤。提供機械性保護是理想敷料的重要功能，可避免摩擦、剪力與外來撞擊再次傷害新生組織。",
    "D": "錯誤。易於操作也很重要。敷料若難以更換或移除時造成疼痛，會降低病人遵從性並傷害脆弱的肉芽組織。",
    "summary": "傷口敷料不是越乾越好；目標是濕潤平衡，讓細胞能爬過傷口表面。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -55670,7 +55835,10 @@
    "C": "錯誤。高齡會增加手術與長期風險，但年齡超過 70 歲本身不是絕對禁忌；重點是功能狀態、預期存活與共病。",
    "D": "錯誤。已治療的大腸癌超過五年且無復發，通常可在腫瘤風險評估後考慮移植，不等同活動性惡性腫瘤。",
    "summary": "移植最怕未控制感染或活動性癌症；年齡與穩定 HIV 要看整體風險，不是自動淘汰。",
-   "guideline": "FC 醫學(五)第4冊 p.37"
+   "guideline": "FC 醫學(五)第4冊 p.37",
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -56724,7 +56892,10 @@
    "C": "錯誤。單獨胰臟移植（pancreas transplant alone, PTA）較少見，通常只考慮嚴重低血糖無感或血糖極難控制且腎功能尚可的人。",
    "D": "錯誤。先胰後腎移植不是常規主流策略。末期腎病者通常優先考慮 SPK 或先腎後胰的安排。",
    "summary": "第一型糖尿病合併尿毒症，首選記憶掛鉤是 SPK：一台手術同時補胰島素和腎功能。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -57236,7 +57407,10 @@
    "C": "錯誤。傷口感染需要處理，但無感染網片修補的常規術後發生率低於疼痛。",
    "D": "錯誤。復發是重要長期結果，通常不會是手術後短期最常見的併發症。",
    "summary": "鼠蹊疝氣術後最常抱怨的是疼痛；短期疼痛不等於復發。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -57513,7 +57687,10 @@
    "C": "正確。操作時要避免子宮損傷，並注意氣腹可能影響子宮血流、母體 CO2 與胎兒酸鹼狀態。",
    "D": "正確。腹腔鏡切口較小，通常能減少腹壁創傷與子宮牽拉，也較少傷口感染和切口疝氣。",
    "summary": "孕期不是腹腔鏡禁忌；真正要做的是調整進腹方式、氣腹壓與母胎監測。",
-   "guideline": "FC 醫學(五)第4冊 p.132"
+   "guideline": "FC 醫學(五)第4冊 p.132",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -57551,7 +57728,10 @@
    "C": "本項要選。門脈高壓常伴側枝血管與脾腫大，會提高出血風險；即使採腹腔鏡，也必須納入術前與術中評估。",
    "D": "正確。腹腔鏡脾切除可依病灶、脾臟大小與術者習慣採仰臥或右側臥位。",
    "summary": "腹腔鏡脾切除不是看到門脈高壓就忽略；門脈高壓意味著側枝血管和出血風險。",
-   "guideline": "FC 醫學(五)第4冊 p.132"
+   "guideline": "FC 醫學(五)第4冊 p.132",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -57589,7 +57769,10 @@
    "C": "正確。腹腔鏡造成的組織創傷較小，術後全身性發炎與免疫抑制反應通常較開腹手術少。",
    "D": "正確。腹腔鏡仍會引起手術壓力反應，cortisol 可上升，只是整體應激反應多較傳統開腹手術輕。",
    "summary": "lift device 的優點是少氣腹生理負擔，不是比 CO2 氣腹提供更大的手術空間。",
-   "guideline": "FC 醫學(五)第4冊 p.133"
+   "guideline": "FC 醫學(五)第4冊 p.133",
+   "concepts": [
+    "laparoscopy-physiology-complications"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58152,7 +58335,10 @@
    "C": "正確。嗜伊紅白血球升高不會用來界定腎移植的 alloimmune risk；它要另行找過敏、寄生蟲、藥物或血液疾病原因。",
    "D": "錯誤。先前輸血可能造成 anti-HLA antibodies，增加 panel reactive antibody 與排斥風險，會影響 induction 與配對策略。",
    "summary": "腎移植免疫風險看 ABO、HLA 抗體與致敏史；eosinophilia 不是 alloimmune 風險指標。",
-   "guideline": "FC 醫學(五)第4冊 p.82"
+   "guideline": "FC 醫學(五)第4冊 p.82",
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58190,7 +58376,10 @@
    "C": "錯誤。結石造成反覆腎盂腎炎的原生腎是持續感染來源，移植前通常需要處理，必要時切除。",
    "D": "正確。藥物能控制的高血壓不是切除原生腎的適應症；切腎只為降壓會增加手術風險且未必改善血壓。",
    "summary": "移植前切原生腎是為了移除癌、感染或嚴重症狀來源，不是單為可控制的高血壓。",
-   "guideline": "FC 醫學(五)第4冊 p.82"
+   "guideline": "FC 醫學(五)第4冊 p.82",
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58353,7 +58542,10 @@
    "C": "本項不選。這組配對可成立。海水魚或海水傷口需涵蓋 Vibrio 等革蘭陰性菌，fluoroquinolone 是常用選擇之一。",
    "D": "本項不選。這組配對合適。狗咬傷需要涵蓋 Pasteurella、Capnocytophaga 與厭氧菌，amoxicillin-clavulanate 是常用第一線口服藥。",
    "summary": "動物咬傷不只背抗生素：猴咬傷要特別想 B virus 風險與暴露處置。",
-   "guideline": "FC 醫學(五)第4冊 p.67"
+   "guideline": "FC 醫學(五)第4冊 p.67",
+   "concepts": [
+    "bites-envenomation"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58591,7 +58783,10 @@
    "C": "這題不選 C：環甲膜切開術可能造成出血、感染、皮下氣腫、軟骨或氣管損傷與後續狹窄。無法通氣且無法插管時，這些風險仍低於持續缺氧的致命風險。",
    "D": "這題不選 D：Cricothyrotomy 是暫時的緊急通氣道；若需長期人工氣道。病人穩定後通常轉換為正式 tracheostomy。而不是把環甲膜切開當永久 airway。",
    "summary": "CICO 的救命出口是 cricothyrotomy，但幼兒不是成人技術的縮小版；年齡會決定 emergency front-of-neck access 策略。",
-   "guideline": "FC 醫學(六)第4冊 p.32"
+   "guideline": "FC 醫學(六)第4冊 p.32",
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -58624,7 +58819,10 @@
    "C": "這題不選 C：誘導後初期低體溫主要是麻醉造成 peripheral vasodilation。讓核心熱量重新分布到較冷的周邊組織。不是身體立刻失去大量總熱量。",
    "D": "這題要選 D：神經軸麻醉（neuraxial anesthesia）也會削弱體溫調節。不能當成不會 hypothermia。神經軸麻醉（neuraxial anesthesia）同樣阻斷交感血管收縮與溫覺傳入。也會發生 hypothermia；病人甚至可能因感覺阻斷而不覺得冷。",
    "summary": "麻醉後體溫先掉，常是核心熱往周邊重新分布；全麻與 neuraxial anesthesia 都會破壞保溫反應。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -58662,7 +58860,10 @@
    "C": "這題不選 C：此順序把 brachial artery 排在 femoral artery 前。忽略 femoral 的周邊脈波放大效應；兩者雖接近，通常 femoral systolic pressure 較高。",
    "D": "這題不選 D：Subclavian artery 是較近心端血管。收縮壓不會高於多個周邊動脈。此選項的排列方向與脈波反射造成的 peripheral amplification 相反。",
    "summary": "直接量動脈壓時，收縮壓會往周邊放大：足背最高、鎖骨下最低；不要把不同位置的 systolic BP 當成同一數字。",
-   "guideline": "FC 醫學(六)第4冊 p.56"
+   "guideline": "FC 醫學(六)第4冊 p.56",
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -58695,7 +58896,10 @@
    "C": "這題不選 C：Endorphins 是人體產生的 endogenous opioid peptides。可作用於 μ、κ、δ 等 opioid receptors。參與疼痛調節與壓力反應。",
    "D": "這題不選 D：Fentanyl 脂溶性高且分子量適合。能從 transdermal patch 緩慢穿過皮膚進入循環。常用於穩定慢性疼痛而非急性快速滴定。",
    "summary": "Opioid 的突觸機轉要背成「關 Ca2+、開 K+」；前者少釋放 neurotransmitter，後者讓神經元更難放電。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -58851,7 +59055,10 @@
    "C": "這題要選 C：ERAS 不會刻意避開 peripheral nerve blockade。因為它正是減少 opioid 的方法。ERAS 常把 peripheral nerve blockade 納入 multimodal analgesia。因為它可減少 systemic opioid、噁心與嗜睡。反而有利早期下床與出院。",
    "D": "這題不選 D：例行鼻胃管會增加不適並可能延後進食與活動；多數腸胃道手術在沒有特別適應症時，ERAS 傾向避免常規留置。",
    "summary": "ERAS 不是少做止痛，而是用 NSAID、區域阻斷等多種方法減少 opioid，讓病人能早吃、早走、早出院。",
-   "guideline": "FC 醫學(六)第4冊 p.161"
+   "guideline": "FC 醫學(六)第4冊 p.161",
+   "concepts": [
+    "pain-medicine-regional-analgesia"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -67910,7 +68117,10 @@
    "C": "錯誤。急性左心衰竭會使左心房與肺靜脈壓上升，形成心因性肺水腫。",
    "D": "正確。單純高血壓若未造成急性左心衰竭或高血壓急症，較不會直接導致術後肺水腫；真正造成水腫的是心功能失代償或過量輸液。",
    "summary": "肺水腫要找壓力或滲漏：左心衰竭、輸液過量、嚴重發炎都比單純高血壓直接。",
-   "guideline": "FC 醫學(五)第4冊 p.55"
+   "guideline": "FC 醫學(五)第4冊 p.55",
+   "concepts": [
+    "postop-fever-complications"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -67948,7 +68158,10 @@
    "C": "本項要選。應停止非必要的原抗生素，但治療 CDI 要用針對 C. difficile 的口服 vancomycin 或 fidaxomicin，不是再加廣效抗革蘭陰性菌藥物。",
    "D": "正確。持續腹瀉會流失水分、鉀與其他電解質，因此補液與校正電解質是基本支持治療。",
    "summary": "抗生素後水瀉別再加廣效藥；想 CDI 時要停非必要抗生素並給口服 vancomycin 或 fidaxomicin。",
-   "guideline": "FC 醫學(五)第4冊 p.56"
+   "guideline": "FC 醫學(五)第4冊 p.56",
+   "concepts": [
+    "postop-fever-complications"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68100,7 +68313,10 @@
    "C": "正確。淨體重損失約 30% 時，蛋白質與肌肉儲備大幅耗損，肺炎、壓瘡與傷口癒合不良的風險都會明顯提高。",
    "D": "錯誤。40% 淨體重損失代表極嚴重營養耗竭，會增加死亡風險；把它只連結到脆弱性骨折太低估其急性全身影響。",
    "summary": "燒傷病人的 lean body mass 掉到約 30%，要想到肺炎、壓瘡與嚴重營養耗竭。",
-   "guideline": "FC 醫學(五)第4冊 p.117"
+   "guideline": "FC 醫學(五)第4冊 p.117",
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68963,7 +69179,10 @@
    "C": "本項要選。胸管剛放出 500 mL 且生命徵象已回穩，未達大量持續出血的開胸門檻，應繼續監測引流量與生理狀態。",
    "D": "本項不選。持續漏氣合併肺無法復張表示可能有大氣道或肺實質傷害，若胸管無法解決可成為手術評估適應症。",
    "summary": "胸管初始引流 500 mL 且人穩定，先監測；開胸重點是持續大量出血或無法控制的胸腔問題。",
-   "guideline": "FC 醫學(五)第4冊 p.139"
+   "guideline": "FC 醫學(五)第4冊 p.139",
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69279,7 +69498,10 @@
    "C": "錯誤。吸收不良或合併型手術較容易造成維生素與微量元素缺乏；限制型手術也需補充，但不是相對最需要補充的一類。",
    "D": "錯誤。術後早期腸道滲漏可能導致腹膜炎與敗血症，不能假設大部分只需保守治療；是否引流、內視鏡或再手術取決於病人穩定度。",
    "summary": "減重手術主力是 sleeve gastrectomy；營養缺乏最要警覺腸道繞道的吸收不良成分。",
-   "guideline": "FC 醫學(五)第4冊 p.70"
+   "guideline": "FC 醫學(五)第4冊 p.70",
+   "concepts": [
+    "bariatric-metabolic-surgery"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69894,7 +70116,10 @@
    "C": "本項應選。手術決定的主體是**病人本人**，不是家庭會議。家屬支持對術後長期飲食調整很有幫助，但那是支持系統，不是適應症。把決定權交給家庭會議也違反自主原則。",
    "D": "本項不選。術前一定要做精神評估：未控制的精神疾病、酒精依賴或藥物濫用會嚴重影響術後遵從度與結果，屬於相對禁忌。",
    "summary": "減重手術的適應症看 BMI、共病、非手術治療失敗與精神狀態；決定的人是病人自己，不是家庭會議。",
-   "guideline": "台灣健保給付門檻：BMI ≥37.5，或 ≥32.5 併有第二型糖尿病等代謝共病"
+   "guideline": "台灣健保給付門檻：BMI ≥37.5，或 ≥32.5 併有第二型糖尿病等代謝共病",
+   "concepts": [
+    "bariatric-metabolic-surgery"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69932,7 +70157,10 @@
    "C": "正確。手術模擬可以在術前熟悉個案影像與解剖關係，降低真正手術時才摸索路徑的負擔。",
    "D": "正確。數位影像可重建三維 VR 模型，讓術者先在虛擬環境規劃切除範圍與重要血管位置。",
    "summary": "simulation 的目的就是先練深度感、手眼與雙手協調；不是因為沒有病人就練不到。",
-   "guideline": "FC 醫學(五)第4冊 p.117"
+   "guideline": "FC 醫學(五)第4冊 p.117",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69970,7 +70198,10 @@
    "C": "錯誤。腹腔鏡疝氣修補是常見的基本腹腔鏡術式，雖然 TEP/TAPP 各有技術學習曲線。",
    "D": "錯誤。腹腔鏡闌尾切除是基本腹腔鏡手術之一，常用於急性闌尾炎。",
    "summary": "基本腹腔鏡常背膽囊、闌尾、疝氣；子宮切除牽涉骨盆深部結構，屬較進階術式。",
-   "guideline": "FC 醫學(五)第4冊 p.131"
+   "guideline": "FC 醫學(五)第4冊 p.131",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -70669,7 +70900,10 @@
    "C": "錯誤。閉孔疝氣常造成腸阻塞與大腿內側痛，並非會陰紅腫疼痛合併感染指標上升的典型診斷。",
    "D": "正確。糖尿病、會陰紅腫劇痛與白血球上升高度提示 Fournier's gangrene，這是壞死性筋膜炎，CT 常見軟組織氣體；需立刻廣效抗生素與手術清創。",
    "summary": "糖尿病病人的會陰劇痛、感染徵象加 CT 氣體，要當 Fournier's gangrene 緊急清創。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -70822,7 +71056,10 @@
    "C": "錯誤。直腸癌較可能造成遠端大腸阻塞與結腸擴張，不能很好解釋整個小腸擴張和左鼠蹊腫塊。",
    "D": "正確。高齡病人無手術史卻有小腸阻塞，加上鼠蹊硬塊，最應懷疑嵌頓疝氣（incarcerated hernia）造成機械性阻塞。",
    "summary": "沒開過刀卻小腸阻塞，摸到鼠蹊硬塊就先想 incarcerated hernia。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -70977,7 +71214,10 @@
    "C": "這題不選 C：BMI 小於 20 kg/m2 並不增加此風險；反而 obesity、頸圍大與 OSA 常使軟組織塌陷和面罩密合變差。",
    "D": "這題不選 D：Mallampati II 只代表口咽視野輕度受限。並非強的 difficult mask ventilation 預測因子。高 Mallampati 對困難喉頭鏡的提示也要與其他評估併看。",
    "summary": "面罩通氣先看「會不會漏、會不會塌」：大鬍鬚會漏氣，肥胖／OSA 會塌；Mallampati II 不足以預測。",
-   "guideline": "FC 醫學(六)第4冊 p.20"
+   "guideline": "FC 醫學(六)第4冊 p.20",
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71015,7 +71255,10 @@
    "C": "這題不選 C：中央靜脈導管通常測到 ScvO2，主要來自上腔靜脈回流；它可作趨勢追蹤。但不完全等同 mixed venous oxygen saturation。",
    "D": "這題要選 D：肺動脈導管遠端位於 pulmonary artery。已混合上、下腔靜脈與冠狀竇回流。抽到的血才是最精確的 SvO2。",
    "summary": "SvO2 要在肺動脈抽；中央靜脈抽到的是 ScvO2，可追趨勢但不是完全同一件事。",
-   "guideline": "FC 醫學(六)第4冊 p.55"
+   "guideline": "FC 醫學(六)第4冊 p.55",
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71048,7 +71291,10 @@
    "C": "這題不選 C：Capnography 顯示呼出 CO2 波形。可確認有持續肺泡通氣。也能及早辨認插管後持續無 CO2 的食道插管。",
    "D": "這題要選 D：ETCO2 不能用固定差距完全代替 PaCO2。病人死腔或肺灌流一變就會失準。ETCO2 與 PaCO2 的差距受死腔、肺灌流、通氣分布與低心輸出量影響。並非固定；病況變化時需要 ABG 校正。",
    "summary": "SpO2 看氧合、ETCO2 看通氣；PaCO2–ETCO2 的差距會隨死腔與灌流改變，不能把 ETCO2 當固定換算值。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71086,7 +71332,10 @@
    "C": "這題不選 C：非離子化比例較高的局部麻醉劑較容易穿過神經膜；藥物 pKa 與組織 pH 因而影響 onset。感染酸性組織常使 block 變慢或失敗。",
    "D": "這題不選 D：Bupivacaine 與心肌 sodium channel 結合強、解離慢。意外血管內注射可造成嚴重 ventricular arrhythmia 與循環崩潰。是 LAST 的高風險藥物。",
    "summary": "局部麻醉藥先分 amide 與 ester：amide 走肝、ester 才靠 pseudocholinesterase；bupivacaine 誤入血管尤其危險。",
-   "guideline": "FC 醫學(六)第4冊 p.121"
+   "guideline": "FC 醫學(六)第4冊 p.121",
+   "concepts": [
+    "local-anesthetic-pharmacology"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71124,7 +71373,10 @@
    "C": "這題要選 C：長期 opioid 使用不保證痛覺越來越鈍，反而可能出現痛覺敏化。長期 opioid 使用較可能產生 tolerance、physical dependence。且部分病人會出現 opioid-induced hyperalgesia；不是痛覺減退。",
    "D": "這題不選 D：高劑量 opioid 可鈍化手術刺激引起的 catecholamine surge。因此在心血管高風險手術常作為 balanced anesthesia 的一部分；代價是呼吸抑制與術後鎮靜。",
    "summary": "長期 opioid 的反直覺陷阱是越用越痛的 opioid-induced hyperalgesia，不是持續 hypoalgesia。",
-   "guideline": "FC 醫學(六)第4冊 p.139"
+   "guideline": "FC 醫學(六)第4冊 p.139",
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71162,7 +71414,10 @@
    "C": "這題不選 C：過度頭低或頭高腳低會明顯改變 venous return、肺順應性與子宮胎盤灌流。孕婦手術時應避免不必要的極端姿勢。",
    "D": "這題不選 D：25 週胎兒已具可存活性邊界。圍術期適當監測 fetal heart rate 有助辨識胎兒窘迫；實施方式仍依手術急迫性、孕週與可否介入而定。",
    "summary": "孕婦腹腔鏡的通氣目標是維持母體正常 CO2，不是 permissive hypercapnia；氣腹壓與姿勢也要兼顧子宮胎盤灌流。",
-   "guideline": "FC 醫學(六)第4冊 p.160"
+   "guideline": "FC 醫學(六)第4冊 p.160",
+   "concepts": [
+    "positioning-pregnancy-physiology"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71241,7 +71496,10 @@
    "C": "本項不適合。Meperidine 的代謝物 normeperidine 可累積並造成 neurotoxicity、tremor 或 seizure。長期 intravenous 使用也不便於門診癌痛維持。",
    "D": "這題不選 D：Oral oxycodone 可作為長期癌痛 opioid 選項。須依腎肝功能、既往 opioid exposure 與便祕、噁心等副作用調整。",
    "summary": "癌痛長期 opioid 要避開 meperidine：不是因止痛不夠，而是 normeperidine 累積會造成神經毒性。",
-   "guideline": "FC 醫學(六)第4冊 p.139"
+   "guideline": "FC 醫學(六)第4冊 p.139",
+   "concepts": [
+    "pain-medicine-regional-analgesia"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71279,7 +71537,10 @@
    "C": "這題不選 C：ARDS 的肺水腫不能主要由 cardiac failure 或 fluid overload 解釋；若有左心衰竭，仍須證明它不是雙側浸潤與低氧的主要原因。",
    "D": "這題不選 D：ARDS 影像應見 bilateral opacities。不能完全由 effusion、lobar collapse 或 nodules 解釋；單側左側浸潤加心臟擴大更像其他肺水腫或肺炎情境。",
    "summary": "Berlin ARDS 四格：一週內、雙側浸潤、不能由心衰單獨解釋、PEEP 下 PaO2/FiO2 分級。",
-   "guideline": "FC 醫學(六)第4冊 p.160"
+   "guideline": "FC 醫學(六)第4冊 p.160",
+   "concepts": [
+    "ards-ventilation-co-inhalation"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -80221,7 +80482,10 @@
    "C": "本項不選。骨盆 X 光可快速確認骨盆環骨折，對低血壓創傷病人判斷可能的大量後腹膜出血有價值。",
    "D": "本項不選。心跳、血壓與 EKG 變化不能直接定位器官傷害，但能辨識休克、心律不整與灌流惡化，對初期處置很重要。",
    "summary": "鈍傷腹部要找出血靠 FAST/CT，不靠 abdominal film；平片對實質臟器傷太不敏感。",
-   "guideline": "FC 醫學(五)第4冊 p.91"
+   "guideline": "FC 醫學(五)第4冊 p.91",
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80259,7 +80523,10 @@
    "C": "正確。可經 Foley catheter 間接量測膀胱壓，膀胱壓是臨床常用的腹內壓替代值。",
    "D": "正確。高腹內壓減少靜脈回流並增加胸腔壓力，會使 cardiac output 下降。",
    "summary": "腹壓太高不只壓肚子：它會抬橫膈讓呼吸器變難，也會壓低腎灌流和 cardiac output。",
-   "guideline": "FC 醫學(五)第4冊 p.69"
+   "guideline": "FC 醫學(五)第4冊 p.69",
+   "concepts": [
+    "postop-fever-complications"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80292,7 +80559,10 @@
    "C": "正確。肺坍塌（atelectasis）是常見術後肺部併發症，早期下床、止痛、深呼吸與 incentive spirometry 可降低風險。",
    "D": "本項要選。氣管內插管、全身麻醉與正壓通氣都會改變肺容量和分泌物清除，和術後 atelectasis 有關。",
    "summary": "術後 atelectasis 的關鍵是痛、淺呼吸、分泌物和麻醉；插管當然不是完全無關。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "postop-fever-complications"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80371,7 +80641,10 @@
    "C": "正確。移植物血管栓塞（graft vascular thrombosis）是胰臟移植最常見且重要的早期手術併發症，可能迅速導致 graft loss。",
    "D": "錯誤。這句話錯誤。移植後長期死亡多和心血管疾病、感染或惡性腫瘤相關，不是糖尿病復發最常見。",
    "summary": "胰臟移植早期最怕 graft thrombosis；現代胰液引流以腸道為主，不是膀胱。",
-   "guideline": "FC 醫學(五)第4冊 p.229"
+   "guideline": "FC 醫學(五)第4冊 p.229",
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -82008,7 +82281,10 @@
    "C": "正確。兒童胸壁柔軟，沒有肋骨骨折也可能有肺挫傷或血胸；右側胸部是否有血胸仍需依影像確認。",
    "D": "本項要選。胸管初始引流 230 mL 對約 10 kg 兒童雖需警覺，但不能單靠這個數字直接開胸；要看持續出血速率與血流動力學。",
    "summary": "小兒血胸是否開胸看持續出血和生理狀態；單次胸管 230 mL 不能自動等於立刻開胸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -82279,7 +82555,10 @@
    "C": "正確。高畫質鏡頭能提高組織邊界、血管與解剖層次的辨識，對單一切口受限視角尤其重要。",
    "D": "正確。slimline instruments 佔用空間較小，可降低腹腔內外器械互撞並改善操作自由度。",
    "summary": "單一切口的器械會打架；用不同長度與較細器械，目的就是把碰撞錯開。",
-   "guideline": "FC 醫學(五)第4冊 p.167"
+   "guideline": "FC 醫學(五)第4冊 p.167",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83277,7 +83556,10 @@
    "C": "這題不選 C：清醒 fiberoptic intubation 正是預期困難氣道常用技術。會以 topical anesthesia、適當鎮靜與氧氣支持維持自主呼吸。",
    "D": "這題不選 D：病人已麻醉時也可使用 fiberoptic bronchoscope。例如確認 double-lumen tube 位置或經 supraglottic airway 引導插管；只是失去自主呼吸後要先確保 oxygenation 策略。",
    "summary": "Fiberoptic bronchoscope 的重點是少動頸椎、可清醒也可麻醉、鼻口都能走；不是只能經鼻的工具。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83315,7 +83597,10 @@
    "C": "這題不選 C：正確。插管後早期確認位置靠持續 capnography；SpO2 在預氧與補充氧氣下可維持正常數分鐘，太晚才下降。",
    "D": "本項最不適當。右主支氣管插管可能先有單側呼吸音與呼吸道壓力變化。SpO2 不一定快速下降——尤其兩肺原本正常又有補氧時，血氧可以維持好幾分鐘才掉下來。",
    "summary": "插管位置要用 ETCO2，不要等 SpO2 掉；右主支氣管插管可先無低氧，先查呼吸音與管深。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83476,7 +83761,10 @@
    "C": "這題不選 C：趴臥可能壓迫腹部與骨盆靜脈。造成 venous return 減少與靜脈鬱滯；長時間手術反而要做 DVT prophylaxis。",
    "D": "這題不選 D：避免直接壓眼很重要。但視力喪失還和貧血、低血壓、手術時間長、失血與靜脈壓增加相關。不能說無壓迫就完全沒有風險。",
    "summary": "趴臥的肺功能可更好，前提是腹部懸空；眼睛沒被壓不等於沒有 postoperative visual loss 風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "positioning-pregnancy-physiology"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83596,7 +83884,10 @@
    "C": "這題要選 C：吸入 NO 只到通氣仍存在的肺泡附近。選擇性擴張那些區域的肺血管。把灌流導向較好通氣處。暫時改善 V/Q matching 與 oxygenation。",
    "D": "這題不選 D：若肺血管收縮。肺動脈壓與 right ventricular afterload 反而上升。會惡化 ARDS 的循環負擔。和 inhaled NO 的目的相反。",
    "summary": "Inhaled NO 是只在通氣肺區張開血管的藥，所以可暫時改善 V/Q matching，不會全身降血壓。",
-   "guideline": "FC 醫學(六)第4冊 p.159"
+   "guideline": "FC 醫學(六)第4冊 p.159",
+   "concepts": [
+    "ards-ventilation-co-inhalation"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -92569,7 +92860,10 @@
    "C": "本項要選。抽血培養後不應等結果才開始抗生素；敗血性休克需盡早給經驗性廣效抗生素，結果回來再去升階或降階。",
    "D": "正確。norepinephrine 是敗血性休克首選升壓劑，能提高血管張力並相對較少引起心律不整。",
    "summary": "septic shock 的抗生素是抽培養後立刻給，不是等培養長出來才治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sepsis-septic-shock-management"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92640,7 +92934,10 @@
    "C": "正確。導管相關血流感染常見 coagulase-negative staphylococci、Staphylococcus aureus 等皮膚菌叢。",
    "D": "本項不選。這句話大致合適。TPN 病人發燒且無其他感染源時要考慮 catheter-related infection，抽血培養並依嚴重度決定是否拔管。",
    "summary": "中心靜脈導管感染不是靠每週換新預防；每天評估還需不需要這條線才是關鍵。",
-   "guideline": "FC 醫學(五)第4冊 p.20"
+   "guideline": "FC 醫學(五)第4冊 p.20",
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92750,7 +93047,10 @@
    "C": "正確。tacrolimus 的 neurotoxicity 較明顯，可見顫抖、頭痛、癲癇或後可逆性腦病症候群。",
    "D": "正確。tacrolimus 較容易造成移植後糖尿病，因它會影響胰島 β 細胞胰島素分泌。",
    "summary": "calcineurin inhibitor 快速配對：tacrolimus 想糖尿病、顫抖、掉髮；cytosporine 想牙齦肥厚、多毛。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-immunosuppressants"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -93144,7 +93444,10 @@
    "C": "錯誤。Level IIB 同在上頸靜脈鏈但位於 spinal accessory nerve 後方，位置更偏外側與上方。",
    "D": "錯誤。Level III 是中頸靜脈鏈，從 hyoid 到 cricoid 附近，並不位於兩側 digastric anterior belly 之間。",
    "summary": "下巴正中的 submental triangle 就是 level IA；記得 IA 在正中、IB 在下頜下。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-oncology-basics"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -93182,7 +93485,10 @@
    "C": "本項不正確。T2 可包含較淺的腫瘤，但本題 depth of invasion 11 mm 已達 T3。",
    "D": "正確。口腔舌病灶 depth of invasion >10 mm 為 T3；同側多顆淋巴結、皆 ≤6 cm 且無 extranodal extension 為 N2b，所以是 T3N2bM0。",
    "summary": "口腔舌癌 DOI >10 mm 就升到 T3；多顆同側 nodes、無 ENE 是 N2b。",
-   "guideline": "AJCC 8th edition；FC 醫學(五)第4冊 p.239"
+   "guideline": "AJCC 8th edition；FC 醫學(五)第4冊 p.239",
+   "concepts": [
+    "surgical-oncology-basics"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -94564,7 +94870,10 @@
    "C": "正確。port 形成 fulcrum effect，器械在腹壁切口處受限，活動範圍和手眼方向都比開腹受拘束。",
    "D": "本項要選。CO2 氣腹的目的在建立工作空間與分開腹壁和臟器，但它不是為了維持腹腔內正壓；壓力本身還可能造成心肺生理負擔。",
    "summary": "CO2 氣腹是為了撐出工作空間，不是為了「維持正壓」；正壓反而是要控制的生理負荷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -94643,7 +94952,10 @@
    "C": "本項要選。兒童尤其嬰幼兒的氣腹壓通常要較成人低，以減少靜脈回流下降與呼吸受限；固定 12 mmHg 不應視為有利的通則。",
    "D": "正確。兒童 DVT 基礎風險低，並非所有小兒腹腔鏡都需藥物預防；應依青春期、肥胖、惡性腫瘤與手術時間等風險分層。",
    "summary": "小兒腹腔鏡不是縮小版成人：器械更短、氣腹壓也要更低。",
-   "guideline": "FC 醫學(五)第4冊 p.160"
+   "guideline": "FC 醫學(五)第4冊 p.160",
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95447,7 +95759,10 @@
    "C": "本項不選。骨盆骨折可造成隱匿性大量後腹膜出血，符合高風險創傷轉送條件。",
    "D": "本項最不符合。單純右小腿脛骨開放性骨折雖需抗生素、清創與骨科處理，但若沒有休克、血管傷或多發傷，通常不單獨構成最高層級創傷中心轉送標準。",
    "summary": "創傷轉送先抓會要命的頭傷、穿透軀幹傷和骨盆出血；單一小腿開放骨折通常不是最高級分流。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "trauma-triage-thoracoabdominal"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95646,7 +95961,10 @@
    "C": "這題不選 C：麻醉前評估不能抓出所有困難氣道。因此每次誘導前都要備妥 unanticipated difficult intubation algorithm、設備與求援計畫。",
    "D": "這題不選 D：Cannot intubate, cannot ventilate 表示無法以面罩或 supraglottic device 有效氧合。且無法插管。是需要立即 emergency front-of-neck access 的缺氧情境。",
    "summary": "Aspiration 最危險的時段是 induction；困難氣道評估再完整也會漏，所以每次誘導都要準備 CICO 救援。",
-   "guideline": "FC 醫學(六)第4冊 p.31"
+   "guideline": "FC 醫學(六)第4冊 p.31",
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95684,7 +96002,10 @@
    "C": "這題要選 C：burst suppression 代表深度腦活動抑制。BIS 不會固定停在 40。Burst suppression 是深度腦活動抑制。BIS 通常顯著低於 40。可能接近 0；BIS 40 並不是其典型固定數值。",
    "D": "這題不選 D：BIS 主要反映 hypnosis 或 consciousness level。不包含 analgesia、autonomic response 與 neuromuscular block。因此不能完整代表全部麻醉深度。",
    "summary": "BIS 40–60 是一般麻醉參考帶；看到 burst suppression 要想到更深的腦抑制，而不是剛好 BIS 40。",
-   "guideline": "FC 醫學(六)第4冊 p.54"
+   "guideline": "FC 醫學(六)第4冊 p.54",
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95719,7 +96040,10 @@
    "C": "這題不選 C：Soda lime 耗盡會造成 inspiratory CO2 baseline 上升。是 rebreathing 波形；不會讓整段 capnogram 消失。",
    "D": "這題不選 D：單肺通氣仍會有來自通氣肺的持續 ETCO2 波形；管子過深比較靠呼吸音不對稱、airway pressure 與影像確認。",
    "summary": "插管後「有 SpO2、沒持續 ETCO2」先當食道插管處理；補氧會掩蓋低氧，capnography 不會。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95793,7 +96117,10 @@
    "C": "這題不選 C：Desflurane 不易被 CO2 absorbent 明顯分解。且 blood-gas solubility 很低。可使用低流量技術；仍需注意吸入濃度快速上升會刺激 airway。",
    "D": "這題要選 D：最低肺泡濃度（MAC）會隨年齡下降，老年人不需要與年輕人相同濃度。MAC 會隨年齡上升而下降，老年人需要較低濃度；體溫、其他鎮靜藥與生理狀態也會改變 MAC。",
    "summary": "MAC 不是固定常數：年紀越大通常需要越少；把年齡因素忘掉，容易造成 volatile anesthetic 過量。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95872,7 +96199,10 @@
    "C": "這題不選 C：Lidocaine 的 brachial plexus block onset 通常需要約 10–20 分鐘。5 分鐘內就開始手術太急。會有 block 不完整風險。",
    "D": "這題要選 D：少量 sodium bicarbonate 使 lidocaine 溶液較鹼性、增加非離子化比例。可加速穿過神經膜並縮短 onset；混合後也要注意相容性與沉澱。",
    "summary": "手腕 block 的技巧題：lidocaine 加少量 bicarbonate 可加速 onset；bupivacaine 反而是長效藥。",
-   "guideline": "FC 醫學(六)第4冊 p.120"
+   "guideline": "FC 醫學(六)第4冊 p.120",
+   "concepts": [
+    "local-anesthetic-pharmacology"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95951,7 +96281,10 @@
    "C": "這題不選 C：高劑量 steroid 沒有證實可降低 septic shock 90 天死亡率。還會增加 hyperglycemia、neuromuscular weakness 等風險；refractory shock 的低劑量 hydrocortisone 是另一問題。",
    "D": "這題不選 D：Renal-dose dopamine 可增加尿量表象。卻不能保護腎功能或降低 dialysis；它還會增加 arrhythmia，因此已不建議用作腎保護。",
    "summary": "敗血症治療不是追高血壓或低血糖：MAP 常以 65 起步，血糖避免高於 180，別用 renal-dose dopamine。",
-   "guideline": "FC 醫學(六)第4冊 p.158"
+   "guideline": "FC 醫學(六)第4冊 p.158",
+   "concepts": [
+    "sepsis-septic-shock-management"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -104461,7 +104794,10 @@
    "C": "本項不選。清創能去除壞死組織與受污染組織，讓抗生素與宿主免疫反應有機會進入剩餘健康組織。",
    "D": "本項要選。強效抗生素可以輔助治療，卻不能取代引流、清創和移除異物；膿瘍若沒排出，藥物很難單獨治好。",
    "summary": "感染的 source control 是把膿、壞死組織和異物拿掉；抗生素再強也不能替代手術引流。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104494,7 +104830,10 @@
    "C": "正確。卡波西氏肉瘤（Kaposi sarcoma）和 human herpesvirus 8 有關，免疫抑制會讓病毒驅動的腫瘤更容易出現。",
    "D": "本項要選。移植後發生癌症時須由移植與腫瘤團隊權衡調整免疫抑制，不能一律立即停藥，否則可能引起急性排斥與 graft failure。",
    "summary": "移植後癌症不是直接停光免疫抑制劑；要在排斥風險和腫瘤控制之間個別調整。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-immunosuppressants"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104527,7 +104866,10 @@
    "C": "錯誤。這句話是 TPN 的可能併發症。長期配方若未足量補充 zinc、selenium、copper 等微量元素，會造成缺乏症。",
    "D": "錯誤。這句話是 TPN 的可能併發症。長期 TPN 可引起膽汁鬱積、脂肪肝或肝功能異常，需要監測 liver tests。",
    "summary": "TPN 的坑在導管、代謝、肝膽與微量元素；它不會直接把腸道塞住。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104560,7 +104902,10 @@
    "C": "本項不正確。預防重點是先辨識高風險、補 thiamine、校正並密切監測 phosphate、potassium、magnesium，再由低熱量逐步增加。",
    "D": "正確。低血磷（hypophosphatemia）會降低 ATP 與心肌收縮功能，可造成心律不整、心衰竭、呼吸肌無力與神經症狀。",
    "summary": "營養不良者一餵就掉 phosphate；refeeding syndrome 先補 thiamine、慢慢加熱量、盯 P/K/Mg。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -105932,7 +106277,10 @@
    "C": "本項不選。鼠蹊疝氣是外部疝氣的一種，位置在腹股溝。",
    "D": "本項不選。腹壁疝氣同樣屬於外部疝氣，包含臍疝氣與手術切口疝氣。",
    "summary": "疝氣先分內外：突到體表看得到的是外部，卡在腹腔內孔隙的是內部，後者只能靠電腦斷層與臨床警覺抓到。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106182,7 +106530,10 @@
    "C": "本項應選。腹腔鏡膽囊切除確實是孕期膽囊疾病的首選，但沒有限定在第三孕期。實際上第三孕期子宮已經很大，手術視野最差、早產風險也最高；最適合的是第二孕期。指引的立場是「有適應症就做，不必因為懷孕而延後」。",
    "D": "本項不選。有症狀的總膽管結石可以先做內視鏡逆行性膽胰管攝影取石，再做腹腔鏡膽囊切除，過程中注意腹部遮蔽以減少輻射。",
    "summary": "孕婦要開刀就開，不因懷孕而拖；能選時間就選第二孕期，膽囊切除照樣走腹腔鏡。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106251,7 +106602,10 @@
    "C": "本項不選。金屬支架讓組織長進網目中可以固定位置、減少移位，代價是日後腫瘤或肉芽長進管腔造成阻塞。",
    "D": "本項應選。塗藥支架抑制內皮增生確實可以降低再狹窄，但正因為內皮長不回來，金屬表面長時間暴露在血流中，血栓風險反而更高。所以放了塗藥支架必須接受雙重抗血小板治療，這也是為什麼放完支架的病人要開刀前得先和心臟科討論能不能停藥。",
    "summary": "塗藥支架的代價是內皮不長＝血栓風險在，雙重抗血小板不能省；停藥時機要和心臟科談。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107016,7 +107370,10 @@
    "C": "本項不選。單純、乾淨、及時處理的傷口不需要常規給抗生素；是否給要看汙染程度、咬傷、深部組織受累與宿主狀況。",
    "D": "本項不選。雙氧水對細菌的殺傷力有限，卻會傷害正在生長的纖維母細胞與新生血管，反而拖慢癒合。乾淨的傷口用大量生理食鹽水加壓沖洗就好。",
    "summary": "傷口處理三個反直覺：毛用剪的不用剃、眉毛絕對不剃、雙氧水傷組織不如生理食鹽水沖乾淨。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107151,7 +107508,10 @@
    "C": "這題不選 C：Translaryngeal block 經 cricothyroid membrane 注入 local anesthetic。病人咳嗽時可把藥散布到 glottis 與 subglottis。",
    "D": "這題要選 D：本項不包括在常規 awake intubation 的神經阻斷技術。Recurrent laryngeal nerve 在喉內深處。直接 block 風險高；通常用 translaryngeal block 達到其感覺區域麻醉。",
    "summary": "Awake intubation 常背三招：glossopharyngeal、superior laryngeal、translaryngeal；不直接去 block recurrent laryngeal nerve。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107220,7 +107580,10 @@
    "C": "這題不選 C：Pulse oximeter 利用動脈脈動訊號。不是以靜脈血為主要測量對象；低灌流或 venous pulsation 反而會造成誤差。",
    "D": "這題不選 D：SpO2 與 PaO2 是 oxyhemoglobin dissociation curve 的 S 型關係。不是線性；PaO2 在高飽和區下降一段，SpO2 可幾乎不變。",
    "summary": "SpO2 用雙波長量脈動動脈血氧合；它不量 CO2，且和 PaO2 是 S 型不是直線。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107253,7 +107616,10 @@
    "C": "這題不選 C：局部麻醉藥 baricity 直接影響它在 CSF 中浮沉。和姿勢一起決定往頭側或尾側 spread 的程度。",
    "D": "這題要選 D：以一般臨床範圍而言。注射速度對 spinal anesthesia block height 的影響最小；藥物 dose、baricity、姿勢與 CSF volume 較關鍵。",
    "summary": "脊椎 block 高度優先看 baricity、劑量與姿勢；不要把注射快慢當主要旋鈕。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107322,7 +107688,10 @@
    "C": "這題不選 C：Oxygen saturation 依是否需要氧氣及給氧後的飽和度評分。是 PACU 離開前確認 oxygenation 的項目。",
    "D": "這題要選 D：Pain 很重要但不在 Aldrete score 的五個項目內；該分數主要看 activity、respiration、circulation、consciousness 與 oxygen saturation。",
    "summary": "Aldrete 只背五項：活動、呼吸、循環、意識、血氧；疼痛要處理，但不列入這個出 PACU 分數。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107355,7 +107724,10 @@
    "C": "這題不選 C：腦幹死的確認需符合完整臨床與法規流程；EEG 可呈 electrocerebral silence。但不能單以 EEG 取代全部判定。",
    "D": "本項最不適當。植物狀態（unresponsive wakefulness syndrome）保留睡醒週期但 EEG 通常異常、瀰漫性慢波。不能說近似正常睡眠 EEG。",
    "summary": "植物人有睡醒週期不等於正常睡眠腦波；EEG 通常仍顯示嚴重瀰漫性腦功能異常。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "temperature-eeg-pacu"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107388,7 +107760,10 @@
    "C": "本項最不適當。化療造成的 peripheral neuropathy 仍是癌症或癌症治療相關疼痛。應納入癌痛管理。常需 duloxetine、gabapentinoid 等 adjuvant analgesics。",
    "D": "這題不選 D：明顯 cachexia 使 transdermal absorption 可能不穩定。但 subcutaneous morphine 仍可有效止痛；要依腎功能、循環與臨床反應滴定。",
    "summary": "癌痛不只腫瘤壓痛：化療造成的 neuropathic pain 也是癌痛，需把 adjuvant analgesics 納入。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pain-medicine-regional-analgesia"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107422,7 +107797,10 @@
    "C": "本項也被官方接受。這是更早的 AECC 定義：PaO2/FiO2 ≤200 才叫 ARDS，200 到 300 之間稱為急性肺損傷（ALI）。Berlin 定義取消了 ALI 這個名詞，把它併成輕度 ARDS，所以兩個數字各自對應不同版本。",
    "D": "本項不選。100 以下是 Berlin 定義中的**重度** ARDS，不是診斷門檻。",
    "summary": "ARDS 的診斷門檻是 P/F ≤300（Berlin），200 只是舊 AECC 定義的分界；記住重度是 ≤100。",
-   "guideline": "官方更正：本題答 B 或 C 均給分（Berlin 定義 ≤300／舊 AECC 定義 ≤200）"
+   "guideline": "官方更正：本題答 B 或 C 均給分（Berlin 定義 ≤300／舊 AECC 定義 ≤200）",
+   "concepts": [
+    "ards-ventilation-co-inhalation"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -115606,7 +115984,10 @@
    "C": "本項不選。體重是權重最大的變數。",
    "D": "正確。Harris-Benedict 公式用的是性別、年齡、身高、體重四項，沒有體表面積。體表面積另有 Du Bois 公式，用在藥物劑量與燒傷面積計算。",
    "summary": "Harris-Benedict 只吃性別、年齡、身高、體重；體表面積是另一條公式的事。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115639,7 +116020,10 @@
    "C": "本項不選。血清白蛋白低於 3 g/dL 雖然也受發炎影響而下降，仍是術後併發症與死亡率的重要預測因子。",
    "D": "本項應選。前白蛋白的正常範圍大約是 15 到 35 mg/dL，用 40 mg/dL 當門檻等於幾乎所有人都算營養不良，這個切點沒有鑑別力。真正代表營養不良的是低於 10 到 15 mg/dL。前白蛋白半衰期只有兩天左右，適合用來追蹤短期變化，但同樣會被發炎壓低。",
    "summary": "術前營養不良的四個門檻：身體質量指數 <18.5、半年掉 >10%、白蛋白 <3、前白蛋白 <15 mg/dL。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115708,7 +116092,10 @@
    "C": "本項敘述正確。嚴重度評估看局部腫脹範圍的進展速度、疼痛、水泡瘀斑，加上全身性的生命徵象與凝血功能。",
    "D": "本項應選。抗蛇毒血清是依中毒嚴重度給，不是照體重算。所以小孩與成人給的劑量相同——毒液量取決於蛇注入多少，與被咬的人多重無關。給完後要看腫脹是否停止進展、凝血功能有沒有改善來決定要不要追加。",
    "summary": "抗蛇毒血清照「毒的量」給不照人的體重給，小孩和大人同劑量；切開、吸毒、綁止血帶三件事都不要做。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bites-envenomation"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115741,7 +116128,10 @@
    "C": "本項敘述正確。OKT3 第一次給藥時會讓 T 細胞大量釋出細胞激素，造成發燒、畏寒、低血壓的細胞激素釋放症候群，所以事前要給類固醇與抗組織胺。",
    "D": "本項敘述正確。脈衝式類固醇的副作用包括高血糖、高血壓、失眠與情緒變化，短期使用也會出現。",
    "summary": "免疫抑制劑對號入座：cyclosporine 擋 IL-2、類固醇擋 IL-1、azathioprine 打骨髓、OKT3 引發細胞激素風暴。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-immunosuppressants"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115810,7 +116200,10 @@
    "C": "本項不選。飢餓時身體會主動降低代謝率來省能量，不可能是三者中最高的。",
    "D": "正確。大面積燒傷的基礎能量消耗可以上升到原本的一倍以上，是所有創傷中最高的；一般外科手術大約上升一到兩成；單純飢餓則是下降約一到三成。差別在於前兩者有發炎與壓力荷爾蒙驅動的高分解代謝，飢餓沒有感染或組織破壞，身體會進入節能模式。",
    "summary": "代謝率排序：燒傷（可加倍）＞手術（微升）＞飢餓（反而下降）——飢餓是省電模式不是耗能模式。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115843,7 +116236,10 @@
    "C": "正確。rituximab 針對的是 B 細胞表面的 CD20。移植領域用它處理抗體媒介的排斥、ABO 血型不相容移植的減敏治療，以及移植後淋巴增生疾病。要注意 CD20 不表現在漿細胞上，所以已經產生的抗體不會馬上消失，常需併用血漿置換。",
    "D": "本項不選。CD34 是造血幹細胞的標記，用於幹細胞收集與計數。",
    "summary": "rituximab 打 CD20：清得掉 B 細胞，清不掉已經在製造抗體的漿細胞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-immunosuppressants"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -116658,7 +117054,10 @@
    "C": "本項應選。間接型指的是疝氣囊經由未閉合的鞘狀突、從深環沿著精索走的路徑，屬於先天結構問題，位置在下腹壁動脈的外側。因腹壓長期增加、腹壁薄弱而形成的是直接型。",
    "D": "本項敘述正確。直接型從 Hesselbach 三角直接頂出來，該三角的邊界是下腹壁動脈、腹直肌外緣與腹股溝韌帶。",
    "summary": "直接與間接的分界是下腹壁動脈：外側走深環的是間接（先天），內側從三角頂出的是直接（後天）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -117509,7 +117908,10 @@
    "C": "本項敘述正確。氣腹壓迫下腔靜脈使下肢靜脈回流變差，加上手術時間長，深層靜脈血栓的風險上升，要用間歇性壓迫或藥物預防。",
    "D": "本項應選。腹內壓應維持在 12 到 15 毫米汞柱。壓到 25 會壓扁下腔靜脈使靜脈回流大減，同時把橫膈往上推增加氣道壓，心輸出量反而下降。",
    "summary": "腹腔鏡的氣腹壓上限是 15 毫米汞柱；壓越高視野越好但靜脈回流越差，心輸出量會掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "laparoscopy-physiology-complications"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -118400,7 +118802,10 @@
    "C": "這題不選 C：快速作用的 nondepolarizing NMBD 如 rocuronium 可用於 RSI。尤其 succinylcholine 有禁忌時；需事前計畫後續通氣與 reversal。",
    "D": "這題不選 D：Succinylcholine 是快速作用的 depolarizing NMBD。onset 快、duration 短。傳統上是 RSI 常用選項；高血鉀與 malignant hyperthermia 風險者要避開。",
    "summary": "RSI 的節奏是 preoxygenation 加快速 induction／paralysis；fiberoptic 是精細的困難氣道工具，不是搶時間的 RSI 標配。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118469,7 +118874,10 @@
    "C": "這題不選 C：心肺復甦時 ETCO2 與 pulmonary blood flow 有關；數值突然持續上升可提示 chest compression quality 改善或 ROSC。需與其他徵象確認。",
    "D": "這題不選 D：麻醉中 ETCO2 快速上升可因 CO2 產生增加或 ventilation 不足。malignant hyperthermia 是重要早期鑑別。常同時有 tachycardia、rigidity 或溫度後續上升。",
    "summary": "ETCO2 最擅長確認通氣與追 CPR 灌流；它看不出 tube 過深，但突然上升要想到 malignant hyperthermia。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118574,7 +118982,10 @@
    "C": "本項應選。瓣口面積 0.9 平方公分已達重度主動脈瓣狹窄（門檻 1.0 平方公分）。這種病人心輸出量固定，麻醉造成的血管擴張會讓冠狀動脈灌流急速下降，非急迫手術應該先處理瓣膜。經尿道攝護腺切除術正好是可以等的手術。",
    "D": "本項不選。二尖瓣平均壓力梯度 6 mmHg 屬於輕到中度狹窄，重度是 10 mmHg 以上。",
    "summary": "重度主動脈瓣狹窄記三個數字：瓣口面積 <1.0 cm²、流速 >4 m/s、平均梯度 >40 mmHg；符合就先別開非急刀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perioperative-cardiac-antithrombotic"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118607,7 +119018,10 @@
    "C": "本項應選。孕婦的曲線是右移不是左移，因為 2,3-DPG 上升，母體才容易把氧氣卸給胎兒。左移的是胎兒血紅素，它對氧的親和力高，負責把氧接過來。",
    "D": "本項敘述正確。黃體素讓食道下括約肌鬆弛，子宮又把胃往上推，加上生產時的疼痛與鴉片類藥物延長胃排空，所以孕婦一律當作飽胃處理。",
    "summary": "母體曲線右移放氧、胎兒曲線左移接氧——方向相反才交得了班。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "positioning-pregnancy-physiology"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118640,7 +119054,10 @@
    "C": "星狀神經節阻斷用於上肢與頭頸的交感神經相關疼痛，例如複雜性局部疼痛症候群，和腹部內臟痛無關。",
    "D": "Bier block 是把局部麻醉劑打進上了止血帶的肢體靜脈內，只能用在四肢的短時間手術。",
    "summary": "內臟痛阻斷看器官分區：上腹部找腹腔神經叢、骨盆腔找上腹下神經叢。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pain-medicine-regional-analgesia"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118673,7 +119090,10 @@
    "C": "本項不選。感染加重會放大發炎細胞激素，例如 TNF-α 與 IL-6，這些細胞激素直接造成胰島素阻抗。",
    "D": "本項不選。分解代謝率上升時，蛋白質與脂肪被拆解出來當作糖質新生的原料，血糖跟著往上走。",
    "summary": "術後高血糖的驅動力是壓力荷爾蒙與胰島素阻抗；免疫活化是高血糖的受害者不是原因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sepsis-septic-shock-management"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -127076,7 +127496,10 @@
    "C": "正確。深環是腹橫筋膜上的開口，位置在腹股溝韌帶中點上方約一到二公分、下腹壁動脈的外側。間接型疝氣就是從這個口進去，再沿著精索走進腹股溝管，所以修補時要處理的正是這個環。",
    "D": "本項不選。錐狀肌是腹直肌前方的小三角形肌肉，與腹股溝管的結構無關。",
    "summary": "腹股溝管兩個口：深環在腹橫筋膜、淺環在腹外斜肌腱膜；間接疝氣從深環進、順著精索走。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -127429,7 +127852,10 @@
    "C": "本項敘述正確。年長者肌肉流失、脂肪比例上升，體內水分比例低於同體型的年輕男性。",
    "D": "本項應選。新生兒的體內水分占體重約七成五到八成，遠高於成年男性的六成。出生後隨著脂肪增加與細胞外液減少，這個比例會逐漸下降到成人的水準。也因為新生兒的水分周轉率高，脫水進展得比成人快得多。",
    "summary": "體內水分比例由高到低：新生兒約 75–80%＞成年男性 60%＞成年女性 50%＞老年人更低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -127462,7 +127888,10 @@
    "C": "本項不選。體液分成細胞內液與細胞外液，細胞外液再分成血漿與組織間液，這個分類正確。",
    "D": "本項不選。細胞內液約占總體水分的三分之二，以 38 到 42 公斤估算大約是 25 到 28 公斤。",
    "summary": "血漿滲透壓＝2×Na＋glucose/18＋BUN/2.8，正常 285–295；先算再看選項才不會被數字唬住。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -127604,7 +128033,10 @@
    "C": "本項應選。預防性抗生素的關鍵是「切皮時血中濃度夠高」，所以要在切皮前 60 分鐘內給，手術超過三小時或大量失血時追加。提前一週給不但沒有保護力，還會篩選出抗藥菌並增加困難梭狀桿菌腸炎的風險。",
    "D": "本項不選。要除毛就在手術當下用電動剪毛器，越接近手術時間、越不傷皮膚越好。",
    "summary": "預防性抗生素講究時機不是天數：切皮前一小時內給、必要時術中追加、術後 24 小時內停。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -128198,7 +128630,10 @@
    "C": "本項不選。復發手術時發現原來是股疝氣的比例約在一成上下，這也是為什麼修補時要順手檢查股管。",
    "D": "本項不選。無張力網膜修補讓縫線不承受張力，復發率明顯低於傳統的組織對縫法。",
    "summary": "直接型復發率高於間接型，因為它壞的是一整片筋膜；復發手術時記得回頭找有沒有漏掉的股疝氣。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -128657,7 +129092,10 @@
    "C": "本項不選。懷疑氣體栓塞時要採頭低腳高的左側臥位，讓氣泡浮在右心室頂端不進肺動脈，這叫 Durant 姿勢；頭高腳低方向剛好相反。",
    "D": "正確。孕婦的非緊急手術盡量安排在第二孕期：第一孕期是器官形成期、流產風險最高，第三孕期子宮大、早產風險高且手術視野受限。當然，急症不能等，該開就開。",
    "summary": "孕婦擇期手術挑第二孕期；氣體栓塞擺 Durant 姿勢（頭低左側臥）；Pringle 要間歇夾放不是一路夾到底。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "mis-technique-special-populations"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -129421,7 +129859,10 @@
    "C": "本項不選。臉部與頭皮的咬傷在充分沖洗清創後可以考慮一期縫合，因為外觀重要而且感染率較低。",
    "D": "本項不選。人咬傷多為多重細菌混合感染，最常見的是葡萄球菌與鏈球菌，還要涵蓋厭氧菌與 Eikenella corrodens。",
    "summary": "咬傷風險看部位：手最危險、臉最安全；貓咬想巴斯德氏菌，人咬想 Eikenella 加葡萄球菌與鏈球菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bites-envenomation"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -129596,7 +130037,10 @@
    "C": "本項也應選，官方同樣給分。術中只監測兩到三個導程，而且缺血多是瀰漫性的需求性缺血，通常無法像十二導程心電圖那樣定位到特定冠狀動脈區域。",
    "D": "本項不選。單一導程中 V5 的敏感度最高、V4 次之；把 II 與 V5 一起看可以再往上提。",
    "summary": "術中缺血監測看 V5＋II 的 ST 段下降；它告訴你「有缺血」，不告訴你「哪條血管」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129629,7 +130073,10 @@
    "C": "本項不選。中央靜脈壓受心臟順應性、胸內壓與瓣膜疾病影響，單一數值預測輸液反應的能力接近擲銅板，早就不建議當作容量指標。",
    "D": "正確。在通氣量與代謝穩定的前提下，潮氣末二氧化碳的高低取決於肺血流，也就是心輸出量。心輸出量掉下來時它會跟著掉，心肺復甦時它突然上升更是自發循環恢復的重要指標。",
    "summary": "潮氣末二氧化碳突然掉＝先想心輸出量出問題（或管路脫落）；它是床邊最快的循環警報。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -132199,7 +132646,10 @@
    "C": "本項應選。這位病人皮膚沒有明顯燒傷，不需要按燒傷公式大量補液。過度輸液會加重氣道水腫與肺水腫，讓本來就受傷的呼吸道更難處理。輸液量要看灌流指標而不是照公式給。",
    "D": "本項不選。密閉空間火場一定要驗一氧化碳血紅素，而且脈搏血氧儀看不出來，必須抽血用共氧血比色計檢驗。",
    "summary": "吸入性傷害要早插管、給純氧、驗一氧化碳；輸液照燒傷面積算，沒燒到皮膚就不要灌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ards-ventilation-co-inhalation"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -137894,7 +138344,10 @@
    "C": "本項不選。革蘭氏陰性桿菌是腸內菌，多造成術後較晚出現的深部或器官腔隙感染。",
    "D": "本項不選。革蘭氏陰性球菌在傷口感染中極少見，主要是腦膜炎雙球菌與淋病雙球菌。",
    "summary": "術後 24 小時內高燒＋傷口劇痛＝先想梭狀芽孢菌或 A 群鏈球菌；一個是陽性桿菌、一個是陽性球菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -137994,7 +138447,10 @@
    "C": "本項敘述正確。切除邊緣陽性或無法完整切除時，放射治療可作為輔助，但在年輕病人要權衡長期併發症。",
    "D": "本項敘述正確。全身性治療的選項很廣，從抗荷爾蒙藥物、非類固醇抗發炎藥、低劑量甲氨蝶呤合併長春鹼，到酪胺酸激酶抑制劑都有，近年還有 gamma-secretase 抑制劑。",
    "summary": "腹腔內纖維瘤不轉移但很會復發，所以策略是「先觀察、必要才治療」，不是一發現就大範圍切。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-oncology-basics"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138027,7 +138483,10 @@
    "C": "本項敘述正確。硒參與去碘酶的作用，缺乏時甲狀腺素轉換受影響；它也是免疫功能所需的微量元素。",
    "D": "本項敘述正確。每個麩胱甘肽過氧化氫酶分子含四個硒原子，這是硒在體內最主要的功能形式。",
    "summary": "硒＝麩胱甘肽過氧化氫酶的核心，清掉過氧化氫；缺乏時想心肌病變（克山病）與肌肉無力。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-nutrition-fluids"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138312,7 +138771,10 @@
    "C": "本項不選。腹水持續把腹壁往外推，肝硬化病人的疝氣與臍疝氣都很常見。",
    "D": "本項應選。出生體重超過 3000 克是正常範圍，不是危險因子。真正有關的是早產與低出生體重，因為鞘狀突還來不及閉合就出生了，這也是早產兒間接型疝氣特別多的原因。",
    "summary": "疝氣的危險因子分兩類：讓腹壓上升的（咳嗽、肥胖、腹水、便祕）與結構沒長好的（早產、低出生體重）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "abdominal-wall-inguinal-hernia"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138420,7 +138882,10 @@
    "C": "本題一律給分。二氧化碳在體內最大的儲存庫是骨骼與肌肉組織，把功勞只算給肌肉並不完整。",
    "D": "本題一律給分。高碳血症直接作用會擴張血管降低周邊阻力，但它同時強力興奮交感神經，臨床上表現多是心搏過速與血壓上升，不是心搏過緩。四個選項都站不住腳，官方因此公告一律給分。",
    "summary": "氣腹的生理反應：二氧化碳吸收快、緩衝主要靠骨骼與肌肉、高碳血症會興奮交感造成心跳快而不是慢。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "laparoscopy-physiology-complications"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138454,7 +138919,10 @@
    "C": "本項應選，官方公告 C、D 都給分。嚼口香糖這種假餵食確實有研究支持能稍微縮短腸道恢復時間，但紅黴素當促腸蠕動藥在術後腸阻塞的試驗中並未證實有效。把兩者一起說成「已被證實有效」並不成立。",
    "D": "本項也應選。內容方向是對的——非類固醇抗發炎藥比嗎啡類少造成腸阻塞，是術後多模式止痛的重要角色。它被列為可給分是因為題目把 NSAIDs 譯成「類固醇類消炎止痛藥」，名稱本身寫錯了。",
    "summary": "術後腸阻塞先修電解質與感染，止痛盡量少用嗎啡多用非類固醇抗發炎藥；促腸蠕動藥沒有一支真正有效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "postop-fever-complications"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138487,7 +138955,10 @@
    "C": "本項不選。裝修環境中的塵土帶有大量麴菌孢子，移植病人接觸後容易得到侵襲性麴菌症，所以衛教一定要問工作與居住環境。",
    "D": "本項應選。輸血相關的感染風險屬於移植早期或圍手術期的問題，而且在現行血品篩檢下已經很低。它不是晚期（移植六個月以後）感染的風險因子。",
    "summary": "移植後感染看時間軸：一個月內是手術與院內感染、一到六個月是伺機性感染、六個月後看免疫抑制強度與環境暴露。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "transplant-candidate-donor-pancreas"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -139766,7 +140237,10 @@
    "C": "本項應選。吸收進血液的二氧化碳主要靠肺排掉，臨床上調整呼吸器的每分鐘換氣量就能處理。腎臟處理的是代謝性酸鹼平衡，反應以小時到天計，救不了術中急性上升的二氧化碳。",
    "D": "本項敘述正確。灌氣太快會撐開腹膜刺激迷走神經，造成心搏過緩甚至心跳停止，處理是立刻停止灌氣、消氣，必要時給 atropine。",
    "summary": "氣腹吸收的二氧化碳由肺排掉，所以術中酸中毒是調呼吸器不是等腎臟。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "laparoscopy-physiology-complications"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -140493,7 +140967,10 @@
    "C": "本項不選。鐵片這類金屬異物在 X 光下會顯影，木屑與塑膠才是容易漏掉的那一類，必要時要用超音波或電腦斷層找。",
    "D": "本項不選。下肢的血流與靜脈回流較差、離地面近容易汙染，感染率確實高於上肢。",
    "summary": "傷口感染看血流：臉與頭皮血多最耐感染、下肢血少最容易爛；金屬異物 X 光看得到，木屑看不到。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "surgical-infection-wound-care"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -140694,7 +141171,10 @@
    "C": "本項不選。杓狀軟骨脫位是插管或拔管時的機械性傷害，表現為持續聲音沙啞，發生率低但確實會發生。",
    "D": "本項應選。拔管後會遇到的是負壓性肺水腫：喉痙攣時病人用力吸氣對抗關閉的聲門，胸腔內負壓把液體拉進肺泡。神經性肺水腫是嚴重中樞神經損傷（如蜘蛛膜下腔出血、癲癇重積）引起的，機轉與拔管無關。",
    "summary": "拔管後喉痙攣造成的是負壓性肺水腫；神經性肺水腫要有腦部災難才會發生。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "airway-devices-difficult-airway"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140727,7 +141207,10 @@
    "C": "本項不選。被動式抬腿測試需要把下肢抬高 45 度，這位病人骨盆與大腿骨骨折，抬腿既做不到也不安全。",
    "D": "本項不選。血壓被血管張力與代償機制掩蓋，血壓正常不代表沒有低血容，是最遲鈍的指標。",
    "summary": "脈壓變異率的三個前提：控制通氣、無自主呼吸、心律規則——不符合就改用抬腿測試或超音波。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140761,7 +141244,10 @@
    "C": "本項不選。症狀從頭痛、噁心、無力開始，隨濃度上升到意識混亂、心肌缺血與休克，因為缺乏特異性常被誤診為感冒或腸胃炎。",
    "D": "本項不選。先給 100% 氧氣把半衰期從 4 到 5 小時縮短到約 1 小時；有意識喪失、神經症狀、心肌缺血或懷孕時考慮高壓氧，可再縮短到 20 分鐘左右。",
    "summary": "一氧化碳中毒時脈搏血氧儀會騙人——要抽血驗一氧化碳血紅素，並用共氧血比色計才看得到真相。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ards-ventilation-co-inhalation"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140794,7 +141280,10 @@
    "C": "本項不選。肺部超音波在床邊看氣胸、實質化與肋膜積水既快又準，手術室與加護病房的使用越來越普及。",
    "D": "本項應選。胸部 X 光對早期肺水腫並不敏感，肺水要增加約三成才看得出變化，落後於臨床。要早期偵測該用肺部超音波的 B 線。",
    "summary": "早期肺水腫用超音波 B 線抓，胸部 X 光要等肺水多三成才顯影。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "capnography-oximetry-airway-confirmation"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140899,7 +141388,10 @@
    "C": "本項不選。心尖四腔視圖能同時比較左右心室大小，判斷急性肺栓塞造成的右心室擴大特別有用。",
    "D": "本項不選。劍突下四腔在急救時最實用，因為胸壓不必中斷、也不受肺氣干擾，還能順勢看下腔靜脈。",
    "summary": "聚焦心臟超音波的核心切面是胸骨旁長短軸、心尖四腔、劍突下四腔加下腔靜脈；心尖長軸屬於完整檢查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hemodynamic-renal-monitoring-echo"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140968,7 +141460,10 @@
    "C": "本項不選。病人自己掌握給藥時機，血中濃度較平穩，滿意度提高，總用量反而比按時肌肉注射少。",
    "D": "本項不選。因為總用量下降、濃度波動變小，噁心嘔吐與過度鎮靜等副作用跟著減少。",
    "summary": "病人自控式止痛的安全來自「只有病人自己能按」——旁人代按就破壞了整個安全機制。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "opioids-inhaled-anesthetics"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
