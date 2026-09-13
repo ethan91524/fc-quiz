@@ -6408,7 +6408,10 @@
    "C": "鄰近顱骨增生（hyperostosis）是腦膜瘤的典型影像線索，可能與長期刺激或腫瘤侵犯骨質相關。",
    "D": "腦膜瘤可沿硬腦膜生長並侵犯上矢狀竇等靜脈竇；此特徵會影響安全切除範圍及手術規劃。",
    "summary": "腦膜瘤雖緊貼硬腦膜，真正來源是 arachnoid cap cells，並可伴 hyperostosis 或 venous sinus invasion。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6446,7 +6449,10 @@
    "C": "正確。小腦上動脈（superior cerebellar artery）最常在橋腦旁壓迫三叉神經的 root entry zone，引發短暫、電擊樣顏面痛。",
    "D": "前脈絡膜動脈（anterior choroidal artery）供應內囊後肢、視徑等深部結構，解剖位置不符合典型三叉神經根壓迫。",
    "summary": "典型三叉神經痛最常由 superior cerebellar artery 壓迫 trigeminal root entry zone。",
-   "guideline": "FC 醫學(五)第1冊 p.273"
+   "guideline": "FC 醫學(五)第1冊 p.273",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -6484,7 +6490,10 @@
    "C": "神經性間歇跛行在腰椎伸展或行走時加重，坐下或軀幹前彎可增加椎管空間，因此常能暫時緩解。",
    "D": "踝反射主要經 S1 神經根及脛神經傳入傳出；S1 radiculopathy 常使 Achilles reflex 降低。",
    "summary": "腰椎退化考點：disc herniation 最常在 L4–5/L5–S1，S1 壓迫可降低踝反射，屈曲可改善神經性跛行。",
-   "guideline": "FC 醫學(五)第1冊 p.230"
+   "guideline": "FC 醫學(五)第1冊 p.230",
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -11470,7 +11479,9 @@
    "D": "閉孔神經（obturator nerve）支配大腿內收肌並提供大腿內側感覺；受損以髖內收無力及內側感覺異常為主，分布不符合本題。",
    "summary": "疝氣手術後大腿前外側純感覺麻痛是股外側皮神經受壓所致的 meralgia paresthetica。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lower-limb-nerve-lesions"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11550,7 +11561,9 @@
    "D": "正確。Brown-Séquard syndrome 造成病灶同側皮質脊髓束受損而無力，並因脊髓丘腦束已在進入脊髓後交叉，造成病灶以下對側痛覺與溫度覺喪失；同側後索感覺也會受損。",
    "summary": "Brown-Séquard syndrome＝病灶以下同側運動與後索感覺喪失，加上對側痛溫覺喪失。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "incomplete-spinal-cord-syndromes"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11630,7 +11643,9 @@
    "D": "第一蹠趾關節僵硬（hallux limitus）限制推蹬期大拇趾背屈，使 windlass mechanism 失常並出現代償性受力，可促成足底筋膜症狀。",
    "summary": "足底筋膜炎常見因素包括足弓異常、踝與第一蹠趾活動受限；典型相關的距下關節問題是過度旋前而非旋後。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11664,7 +11679,9 @@
    "D": "電腦斷層（CT）主要用於複雜骨折細節；若懷疑韌帶或半月板等軟組織損傷，穩定後以磁振造影較有價值，並非一律立即做 CT。",
    "summary": "急性外傷性膝關節積血且疼痛限制檢查時，可先穿刺減壓；再評估韌帶損傷並選擇適當影像。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11703,7 +11720,9 @@
    "D": "C 型纖維傳遞慢速、灼痛與部分溫度覺，是被抑制的傷害感覺輸入之一；用 C 纖維刺激來抑制 A 纖維與 gate control theory 的方向相反。",
    "summary": "門閾學說以粗大有髓 Aβ 觸覺纖維啟動背角抑制，降低細小無髓 C 纖維的疼痛傳遞。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pain-mechanisms-terms"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11742,7 +11761,9 @@
    "D": "正確。背架的主要目的不是把既有曲線永久矯直到正常，而是在仍成長的患者降低曲線繼續惡化及進入手術範圍的風險。",
    "summary": "Scoliometer 測軀幹旋轉、X 光 Cobb angle 測側彎；成長期背架的核心目標是防止曲線進展。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11781,7 +11802,9 @@
    "D": "錯誤。腋窩燒傷容易造成肩內收攣縮；飛機副木（airplane splint）應維持肩外展而非內收，藉此延長腋窩組織並保留活動度。",
    "summary": "燒傷復健採反攣縮擺位；腋窩燒傷用 airplane splint 維持肩外展，而不是內收。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11820,7 +11843,9 @@
    "D": "正確。單純二尖瓣脫垂（mitral valve prolapse）很常見，多數預後良好；雖有少數 arrhythmic MVP 可致猝死，但相較前三項並非典型常見原因。",
    "summary": "運動員運動中猝死的重要結構性原因包括 HCM、冠狀動脈異常與主動脈病變；一般 MVP 並非常見主因。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11859,7 +11884,9 @@
    "D": "分泌物堵塞可導致吸收性肺不張並增加感染風險；適當氣道清除有助維持肺泡通氣，降低這些併發症。",
    "summary": "氣道清除可結合姿勢引流、咳嗽技巧與適當 mucoactive therapy，不能把袪痰藥一概列為應避免。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11898,7 +11925,9 @@
    "D": "肌肉失養症（muscular dystrophy）是遺傳性肌病，以進行性肌無力為主；可有心肺併發症，但水腦症並非典型共同病變。",
    "summary": "Myelomeningocele 常伴 Chiari II malformation，因而是四個選項中最常合併水腦症者。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11973,7 +12002,9 @@
    "D": "口腔癌頸部淋巴結廓清可造成肩帶與頸部功能問題，但腋網症候群的解剖位置與腋窩淋巴手術關聯更直接。",
    "summary": "乳癌腋窩淋巴結手術後出現腋窩至上臂的疼痛索帶與肩活動受限，應想到 axillary web syndrome。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -12100,7 +12131,9 @@
    "D": "磁振血管攝影（MRA）可無侵入性顯示頸動脈管腔與狹窄，常與頸動脈超音波、CTA 或導管血管攝影依情境搭配。",
    "summary": "頸動脈狹窄以分叉處常見；無症狀者以最佳內科治療為基礎，但選定的嚴重狹窄患者不等於永遠不能介入。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "carotid-stenosis-dissection-fmd"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -18798,7 +18831,10 @@
    "C": "髓內腫瘤（intramedullary tumor）常見 ependymoma 與 astrocytoma；轉移到脊髓實質者相對少見。",
    "D": "腦膜瘤通常是硬膜內髓外病灶，不長在脊髓實質內，因此不能列為最常見 intramedullary tumor。",
    "summary": "Spinal tumor compartment 決定常見病因：extradural 多 metastasis，intradural-extramedullary 多 schwannoma/meningioma。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18836,7 +18872,10 @@
    "C": "脈絡叢乳頭狀瘤可由腫瘤上皮過度分泌腦脊髓液，形成交通性或合併型水腦症。",
    "D": "腫瘤出血可使血液進入腦脊髓液，引起蜘蛛膜發炎與顆粒吸收受損，進而造成交通性水腦症。",
    "summary": "Choroid plexus papilloma 可藉腦室阻塞、CSF 過度分泌及出血後吸收不良造成 hydrocephalus。",
-   "guideline": "FC 醫學(五)第1冊 p.269"
+   "guideline": "FC 醫學(五)第1冊 p.269",
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -18869,7 +18908,10 @@
    "C": "C3–4 的伸展性損傷不是 Hangman fracture 的解剖定義；此名稱特指 axis 的 bilateral pars fracture。",
    "D": "雙側小面關節鎖住常見於嚴重屈曲牽張傷，可造成椎體明顯前脫位，與 C2 pars 骨折不同。",
    "summary": "Hangman fracture＝bilateral C2 pars interarticularis fractures，須與 C1 Jefferson fracture 及 locked facets 區分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21798,7 +21840,10 @@
    "C": "本項不選。術後要繼續插管進加護病房時，以麻醉性止痛劑為主再加肌肉鬆弛劑，血流動力學穩定、也避免嗆咳造成顱內壓飆升。",
    "D": "本項不選。腦灌流壓等於平均動脈壓減去顱內壓，低於 60 mmHg 就有缺血風險。所以處理顱內高壓時，不能只想著降顱內壓，還要維持足夠的血壓。",
    "summary": "顱內血腫的麻醉兩件事：不要用讓腦血管擴張的藥，並把腦灌流壓維持在 60 mmHg 以上。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23810,7 +23855,9 @@
    "D": "副神經（spinal accessory nerve）支配斜方肌；病變可造成肩下垂、外展困難及另一型翼狀肩胛，但推牆時內側緣明顯突出最先考慮 long thoracic nerve。",
    "summary": "推牆時明顯 winged scapula 是前鋸肌無力的典型表現，定位至 long thoracic nerve。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "upper-limb-nerve-lesions"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23849,7 +23896,9 @@
    "D": "錯誤。急性下肢深部靜脈栓塞開始有效抗凝且病況穩定後，通常可依評估早期下床活動；強制臥床至少一週會增加失能與其他臥床併發症，並非標準處置。",
    "summary": "中風常見肩痛、水腫與 aspiration pneumonia；穩定且已治療的急性 DVT 不需例行臥床一週。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23888,7 +23937,9 @@
    "D": "選擇性雌激素受體調節劑（SERM）如 raloxifene 主要藉雌激素樣作用降低骨吸收，並非以刺激骨合成為主要機轉。",
    "summary": "骨鬆藥中 teriparatide 是促骨生成藥；bisphosphonate、calcitonin 與 SERM 主要屬抗骨吸收作用。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23927,7 +23978,9 @@
    "D": "長期追蹤需同時檢查殘肢容積與皮膚、socket 和零件、步態、疼痛及功能目標；身體狀況與義肢需求也會隨時間改變。",
    "summary": "截肢復健從術後早期即開始；義肢評估、殘肢準備與訓練不必一律等到傷口完全癒合才啟動。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amputation-prosthetics"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24079,7 +24132,9 @@
    "D": "術前即進行風險評估、戒菸、呼吸訓練與衛教，讓病人在手術後能正確執行，可提升整體胸腔照護效果。",
    "summary": "胸腹手術肺復健應從術前開始；一般改善氧合的側臥原則是 good lung down，而非好肺固定朝上。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24118,7 +24173,9 @@
    "D": "運動模式的種類決定主要受刺激的肌群與能量系統，並涉及專項性原則；選錯模式即使很費力，也未必改善目標能力。",
    "summary": "超負荷由訓練的頻率、強度、時間與模式調整；場所不是決定生理刺激的主要變項。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24157,7 +24214,9 @@
    "D": "發展遲緩兒童在腦部可塑性高的早期及早辨識並介入，通常較能改善功能與參與，故不應等待問題自行消失後才轉介。",
    "summary": "Early intervention 是早期、跨專業且家庭中心的服務，不是把兒童集中在醫院接受治療。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24196,7 +24255,9 @@
    "D": "極重度通常指 IQ 約低於 20–25，並伴廣泛適應功能支持需求；35 分尚未低到此範圍。",
    "summary": "本題依傳統 IQ 切點將 35 分列為重度；現行智能障礙嚴重度應以概念、社會與實用適應功能評估。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24230,7 +24291,9 @@
    "D": "肌皮神經（musculocutaneous nerve）支配肱二頭肌等肘屈肌，末端感覺分布在前臂外側；病變不會造成肘內側與尺側手指症狀。",
    "summary": "Cubital tunnel syndrome 是肘部尺神經壓迫，典型為第四、五指麻木及手內在肌無力。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "upper-limb-nerve-lesions"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24269,7 +24332,9 @@
    "D": "增稠劑可降低液體流速，讓部分吞嚥反射延遲或控制不足者有較多時間保護氣道；但需同時監測飲水量與殘留，不能對所有人一律使用。",
    "summary": "單側咽部無力的代償是頭轉向患側、食團走健側；頭傾則傾向健側利用重力。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24308,7 +24373,9 @@
    "D": "肩胛下肌（subscapularis）負責內旋，常用 lift-off、belly-press 或 bear-hug test 評估；其損傷與空罐陽性的定位不同。",
    "summary": "Empty can/Jobe test 主要挑戰 supraspinatus；其他旋轉袖肌需用其特定內、外旋測試定位。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -31432,7 +31499,10 @@
    "C": "給予足量 benzodiazepine 後若癲癇仍持續，應迅速進入第二線長效抗癲癇治療，例如 levetiracetam、fosphenytoin 或 valproate，而非反覆等待。",
    "D": "持續約 5 分鐘即按癲癇重積狀態（status epilepticus）處理；需同步維持 airway，持續或鎮靜後無法保護呼吸道者應插管。",
    "summary": "Convulsive status epilepticus 第一線是 benzodiazepine，不是 propofol；5 分鐘門檻即啟動分階段急救。",
-   "guideline": "FC 醫學(五)第1冊 p.155"
+   "guideline": "FC 醫學(五)第1冊 p.155",
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31501,7 +31571,10 @@
    "C": "90 mmHg 並非題給數值依 CPP＝MAP−ICP 算出的結果，常見錯誤是錯算 MAP 或忽略舒張壓權重。",
    "D": "正確。MAP＝(150＋2×90)/3＝110 mmHg；CPP＝MAP−ICP＝110−25＝85 mmHg。",
    "summary": "CPP＝MAP−ICP；150/90 的 MAP 為 110，扣 ICP 25 後 CPP 為 85 mmHg。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31539,7 +31612,10 @@
    "C": "正確。顱內漿果動脈瘤（cerebral berry aneurysm）雖有遺傳與血管分叉弱點，但多在血流壓力、吸菸及高血壓等因素下逐漸形成，屬後天獲得性病灶。",
    "D": "發育性靜脈異常（developmental venous anomaly）是先天靜脈引流變異，常為偶然影像發現。",
    "summary": "AVM、capillary telangiectasia、DVA 多屬發育性；saccular berry aneurysm 多為後天逐漸形成。",
-   "guideline": "FC 醫學(五)第1冊 p.177"
+   "guideline": "FC 醫學(五)第1冊 p.177",
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -31577,7 +31653,10 @@
    "C": "CSF 由第四腦室流入蜘蛛網膜下腔，會環繞腦與脊髓循環；稱「少部分進入脊髓腔」不影響其基本循環方向。",
    "D": "CSF 主要經蜘蛛膜絨毛／顆粒（arachnoid villi/granulations）回流至硬腦膜靜脈竇。",
    "summary": "成人 CSF 約 20 mL/hr、每日約 500 mL，由 choroid plexus 產生並經 arachnoid granulations 吸收。",
-   "guideline": "FC 醫學(五)第1冊 p.269"
+   "guideline": "FC 醫學(五)第1冊 p.269",
+   "concepts": [
+    "hydrocephalus-chiari-functional-neurosurgery"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -36148,7 +36227,9 @@
    "D": "不正確。工作導向動作訓練直接反覆練習有意義的任務，例如拿杯子或轉位；它強調任務與練習量，不是傳統 Bobath 式的姿勢抑制策略。",
    "summary": "看到「抑制異常姿勢、帶出獨立控制」就選 Bobath/NDT；Brunnstrom 則利用協同動作作為恢復階段。",
    "guideline": "FC 醫學(六)第3冊 p.51",
-   "concepts": []
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36223,7 +36304,9 @@
    "D": "不正確。眼內直肌必須做細緻的眼球定位，運動單元非常小，才能把眼位調整到精確角度。",
    "summary": "力量型肌肉用大運動單元，精細控制的喉頭與眼肌則用小運動單元；股四頭肌是前者。",
    "guideline": "FC 醫學(六)第3冊 p.230",
-   "concepts": []
+   "concepts": [
+    "neurorehab-tbi-bladder-principles"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36262,7 +36345,9 @@
    "D": "不正確。小腦病灶較典型表現為同側共濟失調、步態不穩與眼震，不會直接造成明顯錐體束無力和周邊型顏面麻痺。",
    "summary": "同側顏面神經麻痺加對側肢體無力是腦幹交叉徵象；顏面神經核在橋腦。",
    "guideline": "FC 醫學(六)第3冊 p.16",
-   "concepts": []
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36342,7 +36427,9 @@
    "D": "不正確。頸圈不能矯正縮短的胸鎖乳突肌，也可能限制嬰兒主動動作；首選是定向擺位與溫和伸展。",
    "summary": "斜頸先看「頭傾向短肌、臉轉向對側」；先天性肌肉斜頸還要記得篩檢髖發育不良。",
    "guideline": "FC 醫學(六)第3冊 p.176",
-   "concepts": []
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36381,7 +36468,9 @@
    "D": "本項不選。適當的 AFO 可藉控制踝部蹠屈與足部位置，減少膝過伸或膝不穩，因此能間接增加站立與步行時的膝關節穩定。",
    "summary": "AFO 不只控踝，也會影響足部與距骨下關節；選型時要連膝部力矩一起想。",
    "guideline": "FC 醫學(六)第3冊 p.122",
-   "concepts": []
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36420,7 +36509,9 @@
    "D": "本項不選。RPE 是估計運動強度的指標，可和心率、症狀及血壓一起使用來調整訓練負荷。",
    "summary": "Borg RPE 的方向要記反：分數越高，不是越輕鬆，而是越接近最大努力。",
    "guideline": "FC 醫學(六)第3冊 p.157",
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36454,7 +36545,9 @@
    "D": "不正確。心肺適能改善常使靜息心率下降，因迷走神經張力增加與每搏輸出量改善；靜息心率增加不是期待效果。",
    "summary": "心臟復健把 VO2max 拉高，靠的是更好的每搏輸出與周邊取氧；休息心跳通常更低。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36560,7 +36653,9 @@
    "D": "本項錯誤。吞嚥時舌骨會往上、往前移動，牽動喉部上提並協助打開上食道括約肌；向後拉反而不符合這個機制。",
    "summary": "吞嚥保護氣道靠「停呼吸、聲帶關、會厭翻、舌骨與喉往前上」；舌骨不是往後。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36601,7 +36696,9 @@
    "D": "本項不選。輪距加寬可增加側向支撐基底，所以後輪外傾能提高輪椅的側向穩定度。",
    "summary": "輪椅 camber 換來的是手部保護、較小肩外展和側向穩定；代價是輪距變寬，不是保護輪胎。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36640,7 +36737,9 @@
    "D": "本項錯誤。失用症的核心是動作計畫與執行網絡受損，不是聽覺認知受損；若聽不懂指令應先考慮失語症或聽覺理解障礙。",
    "summary": "失用不是不懂或沒力，而是腦中動作計畫接不上執行；常定位在左頂葉網絡。",
    "guideline": "FC 醫學(六)第3冊 p.22",
-   "concepts": []
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36714,7 +36813,9 @@
    "D": "不正確。SAH 可因血液阻塞腦脊髓液循環造成急性水腦，出現意識惡化；因此需要密切監測並視情況引流。",
    "summary": "爆炸性頭痛先想 SAH；CT 證實後用 CTA 找動脈瘤，還要防水腦與再出血。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36750,7 +36851,9 @@
    "D": "不正確。結核性肉芽腫需要感染暴露、慢性全身症狀或相應的骨關節破壞證據，不能以偏癱後局部僵硬直接解釋。",
    "summary": "偏癱後髖部腫脹、DVT 排除且活動越來越卡，優先想異位性骨化。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36784,7 +36887,9 @@
    "D": "正確。典型 Guillain-Barré syndrome 的核心臨床條件是進行性肢體無力合併腱反射減弱或消失；無反射是最具代表性的必要徵象之一。",
    "summary": "GBS 的必背核心是進行性無力加無反射；自主神經與電生理是支持線索，未必每例都有。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "guillain-barre-syndrome"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -43165,7 +43270,10 @@
    "C": "老人因腦萎縮使 bridging veins 被拉長，更易在輕微外傷後發生硬腦膜下出血；不是兒童普遍比老人容易。",
    "D": "正確。自發性高血壓性腦出血常位於 basal ganglia、thalamus、pons 或 cerebellum；這些深部位置比單純表面挫傷更支持內科性出血。",
    "summary": "Trauma 可有 coup/contrecoup；深部 basal ganglia 或 cerebellar hemorrhage 應考慮 hypertensive ICH。",
-   "guideline": "FC 醫學(五)第1冊 p.156"
+   "guideline": "FC 醫學(五)第1冊 p.156",
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -43433,7 +43541,10 @@
    "C": "Pineal region 是 germinoma 的主要好發處之一，另一常見位置為 suprasellar region；約半數位於松果體區的敘述合理。",
    "D": "錯誤。Pineal germinoma 明顯好發於男性，男女比不是 1：1；suprasellar germinoma 的性別差異較不明顯。",
    "summary": "Intracranial germinoma 好發年輕人；pineal lesion 明顯男性優勢，suprasellar lesion 性別較均衡。",
-   "guideline": "FC 醫學(五)第1冊 p.258"
+   "guideline": "FC 醫學(五)第1冊 p.258",
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -43466,7 +43577,10 @@
    "C": "Tectal glioma 可阻塞 cerebral aqueduct，使阻塞性水腦症、頭痛與 papilledema 成為主要表現。",
    "D": "Pontine glioma 可侵犯或壓迫多條腦神經核與長徑，造成 multiple cranial nerve palsies、共濟失調及錐體徵象。",
    "summary": "Brainstem glioma 的位置決定預後：diffuse pontine 最差；tectal 常較緩慢並以 aqueductal hydrocephalus 表現。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -43506,7 +43620,10 @@
    "C": "腦類澱粉血管病（cerebral amyloid angiopathy）常造成高齡者皮質或皮質下腦葉性出血，因此 70 歲患者可列入鑑別。",
    "D": "出血性轉移瘤可呈腦葉性或多發出血，melanoma、renal cell carcinoma 等腫瘤尤具傾向；需結合增強影像與病史。",
    "summary": "高齡者 lobar ICH 的病因可含 CAA、AVM 或 hemorrhagic metastasis；手術不能僅由「有血塊」決定。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -43582,7 +43699,10 @@
    "C": "脊髓空洞症（syringomyelia）是 Chiari I 的重要合併症，可造成披肩狀痛溫覺喪失與手部肌肉萎縮。",
    "D": "有症狀或合併 syrinx 的 Chiari I 可行 posterior fossa decompression，包括 suboccipital craniectomy 與常見的 C1 laminectomy。",
    "summary": "Chiari I 是 cerebellar tonsillar herniation，不是 medulla herniation；可合併 syringomyelia 並以後顱窩減壓治療。",
-   "guideline": "FC 醫學(五)第1冊 p.276"
+   "guideline": "FC 醫學(五)第1冊 p.276",
+   "concepts": [
+    "hydrocephalus-chiari-functional-neurosurgery"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -43620,7 +43740,10 @@
    "C": "外傷性 direct carotid-cavernous fistula 是 cavernous ICA 與海綿竇直接相通，通常屬 high-flow fistula，而非低流速。",
    "D": "正確。Carotid-cavernous fistula 多以經動脈或經靜脈血管內栓塞治療，目標是封閉瘻口並盡量保留 internal carotid artery。",
    "summary": "外傷後延遲出現 pulsatile proptosis、red eye 與 visual decline 應想 carotid-cavernous fistula，首選 endovascular therapy。",
-   "guideline": "FC 醫學(五)第1冊 p.193"
+   "guideline": "FC 醫學(五)第1冊 p.193",
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -48378,7 +48501,9 @@
    "D": "本項不選。神經失用（neuropraxia）只有傳導暫時阻斷、軸突仍連續，通常在數週到數月恢復，大多三個月內可有明顯改善。",
    "summary": "neuropraxia 多會自己回來；neurotmesis 是整條神經斷掉，不能死等三個月才找外科。",
    "guideline": "FC 醫學(六)第3冊 p.246",
-   "concepts": []
+   "concepts": [
+    "nerve-injury-classification-emg"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48419,7 +48544,10 @@
    "C": "本項不選。正中神經麻痺造成的是猿手與拇指外展無力，測的是 abductor pollicis brevis。有趣的是 Froment sign 中代償的那條肌肉正是正中神經支配的。",
    "D": "本項不選。肌皮神經支配肘屈曲（biceps），與手部小肌肉的萎縮無關。",
    "summary": "Froment sign 是尺神經：捏紙時拇指指間關節彎起來，就是 adductor pollicis 沒力靠正中神經代償。",
-   "guideline": "官方更正：本題一律給分（題幹拼字誤植為 Formet）"
+   "guideline": "官方更正：本題一律給分（題幹拼字誤植為 Formet）",
+   "concepts": [
+    "upper-limb-nerve-lesions"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48494,7 +48622,9 @@
    "D": "正確。外側上髁痛（lateral epicondylalgia）最常侵犯 ECRB 肌腱在外上髁的共同伸肌起點，反覆握力與手腕伸展會加重疼痛。",
    "summary": "網球肘不是「肘發炎」而已；最常是 ECRB 在外上髁起點的慢性肌腱病。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48533,7 +48663,9 @@
    "D": "不正確。直立坐姿的椎間盤壓力高於站立，但沒有前傾帶來的額外屈曲負荷，因此低於選項 C。",
    "summary": "腰椎間盤最怕「坐著再前彎」；平躺最低、站立居中、直坐已高、前傾最高。",
    "guideline": "FC 醫學(六)第3冊 p.247",
-   "concepts": []
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48572,7 +48704,9 @@
    "D": "不正確。膕肌腱位於膝窩後方，壓迫可能造成疼痛並干擾屈膝，通常需避免直接高壓。",
    "summary": "PTB socket 的原則是把壓力放到有軟組織的地方；骨突和腓總神經附近要卸壓。",
    "guideline": "FC 醫學(六)第3冊 p.137",
-   "concepts": []
+   "concepts": [
+    "amputation-prosthetics"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48611,7 +48745,9 @@
    "D": "不正確。有氧運動通常是較大肌群、節律性且可持續的活動，例如快走或單車；短時間小肌群活動不符合典型定義。",
    "summary": "有氧與無氧不是開關：兩者都在做，只是運動強度越高，無氧供能比例越大。",
    "guideline": "FC 醫學(六)第3冊 p.156",
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48645,7 +48781,9 @@
    "D": "不正確。高齡會影響運動處方和跌倒風險，但 65 歲以上本身不是心臟復健高危險分級的決定條件。",
    "summary": "心臟復健高危險不是看年紀或有沒有開刀；EF <30% 才是這題最重要的高風險訊號。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48761,7 +48899,9 @@
    "D": "不正確。蹠神經是脛神經遠端足底分支，與足背屈動作的運動控制無關。",
    "summary": "垂足 FES 的目標是擺盪期背屈，所以電極找深腓神經／脛前肌，不是脛神經。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lower-limb-nerve-lesions"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48795,7 +48935,9 @@
    "D": "不正確。顳葉病灶可造成記憶、語言理解或聽覺辨識問題；不會穿衣且肌力近正常的核心缺損更像頂葉失用。",
    "summary": "中風後「有力、聽得懂、卻不會穿衣」不是笨拙，而是頂葉動作計畫失用。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48834,7 +48976,9 @@
    "D": "不正確。伸拇長肌位於第三腱室，外展拇短肌則不是此腱鞘的一部分，不能形成 De Quervain 的典型組合。",
    "summary": "De Quervain 只背 EPB + APL：兩條都在第一背側伸肌腱室。",
    "guideline": "FC 醫學(六)第3冊 p.122",
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -55605,7 +55749,10 @@
    "C": "Grade I 腫瘤如 pilocytic astrocytoma 若能完整切除可長期存活，grade II 的中位存活也常超過 3 年；不能把 I–IV 預後視為相同。",
    "D": "最大安全切除是多數可切除 astrocytoma 的核心治療，兼具取得病理與減少腫瘤量價值；並非因神經風險就一律只做化放療。",
    "summary": "傳統 astrocytoma grade I–II 為 low grade、III–IV 為 high grade，但只有 grade IV 稱 glioblastoma。",
-   "guideline": "FC 醫學(五)第1冊 p.257"
+   "guideline": "FC 醫學(五)第1冊 p.257",
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -55646,7 +55793,10 @@
    "C": "無外傷史、血壓 196/103 mmHg 且影像若位於典型深部區域，較支持自發性高血壓性出血，不能據此懷疑家屬謊報。",
    "D": "正確。長期高血壓造成小穿通動脈脂玻璃樣變，與深部腦出血直接相關；冠心病則反映共同的血管危險因子背景。",
    "summary": "嚴重高血壓、昏迷與典型深部 ICH 應先視為 spontaneous hypertensive hemorrhage，並合理控制血壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -55679,7 +55829,10 @@
    "C": "後顱窩空間有限，擴大的血腫可迅速壓迫 brainstem、阻塞 CSF 循環並造成猝死，因此需密切追蹤。",
    "D": "小腦是高血壓性腦出血的典型位置之一，其他常見深部部位包括 basal ganglia、thalamus 與 pons。",
    "summary": "Cerebellar ICH 可迅速造成 brainstem compression 與 hydrocephalus；steroid 無效，不能用來取代必要手術。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -55791,7 +55944,10 @@
    "C": "顳骨骨折較典型造成 CSF otorrhea；即使發生 CSF leak，也通常先保守處理，不等同立即手術指徵。",
    "D": "正確。35 mL 腦實質血腫合併中線偏移 >1 cm 與意識改變代表顯著 mass effect 及疝脫風險，需立即神經外科減壓／清除血腫。",
    "summary": "Skull fracture 本身未必手術；大型 intracerebral hematoma 加 midline shift 與 neurologic decline 才是立即減壓警訊。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -60702,7 +60858,9 @@
    "D": "不正確。環咽肌切開僅適用於明確的環咽肌功能障礙且保守治療無效；吞嚥反射消失不等於有可手術解決的環咽肌阻塞。",
    "summary": "腦幹中風若吞嚥反射叫不出來，先用冷覺的 thermal stimulation 喚醒感覺輸入。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60741,7 +60899,9 @@
    "D": "本項不選。阻抗性吸氣肌訓練可改善部分四肢癱瘓者的吸氣肌力與呼吸功能，可能對睡眠呼吸障礙有幫助，但仍需正式睡眠評估。",
    "summary": "頸髓損傷也會有睡眠呼吸障礙，但最常見仍偏阻塞型；肥胖會把風險再拉高。",
    "guideline": "FC 醫學(六)第3冊 p.70",
-   "concepts": []
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60780,7 +60940,9 @@
    "D": "不正確。隱神經是純感覺神經，受傷可麻木小腿內側，但不會造成任何足部背屈無力。",
    "summary": "foot drop 先沿腓骨頸找腓神經：它壞了，脛前肌抬不起腳。",
    "guideline": "FC 醫學(六)第3冊 p.48",
-   "concepts": []
+   "concepts": [
+    "lower-limb-nerve-lesions"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60901,7 +61063,9 @@
    "D": "不正確。ACL 重建通常先等待急性腫脹消退並恢復關節活動，過早手術可能增加 arthrofibrosis；不是受傷一週內一律較好。",
    "summary": "ACL 撕裂不等於立刻開刀：先看不穩、需求與復健可否達標，再決定重建。",
    "guideline": "FC 醫學(六)第3冊 p.215",
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60935,7 +61099,9 @@
    "D": "正確。規律運動訓練可改善心衰竭患者的運動耐受與生活品質，並可能降低住院與死亡等不良結局；前提是先排除急性失代償。",
    "summary": "穩定心衰竭不該因怕而不動：漸進運動改善功能，也有機會減少住院。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -61051,7 +61217,9 @@
    "D": "本項不選。面對感染、手術或情緒壓力時，老年人適應能力下降，較容易出現失能、譫妄或功能衰退。",
    "summary": "老化不是更穩，而是儲備變少、恆定更容易被壓力打亂。",
    "guideline": "FC 醫學(六)第3冊 p.242",
-   "concepts": []
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -61090,7 +61258,9 @@
    "D": "本項不選。適當運動可改善體能、睡眠與壓力調節，並透過內生性止痛機制降低部分慢性疼痛，需避開會加重病灶的負荷。",
    "summary": "痛得很厲害也不是先開刀；先找病因，採多專業、階梯式的疼痛復健。",
    "guideline": "FC 醫學(六)第3冊 p.242",
-   "concepts": []
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -61129,7 +61299,9 @@
    "D": "本項最不適當。無障礙空間評估是跨專業工作，職能治療師、物理治療師、建築與輔具專業者都可依職責參與，不限復健科醫師。",
    "summary": "無障礙不是醫師獨做；重點是跨專業把家裡變成患者能安全完成日常事的地方。",
    "guideline": "FC 醫學(六)第3冊 p.242",
-   "concepts": []
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -61168,7 +61340,9 @@
    "D": "不正確。肝臟有很大的功能儲備，早期肝癌常無症狀；嚴重失能通常不是早期必然表現。",
    "summary": "癌症失能看的是器官儲備：儲備差的器官，早期小病灶也可能先讓功能垮掉。",
    "guideline": "FC 醫學(六)第3冊 p.243",
-   "concepts": []
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -67959,7 +68133,10 @@
    "C": "TSH-secreting adenoma 多以 transsphenoidal resection 為第一線，必要時搭配 somatostatin analog 控制甲狀腺功能或殘存病灶。",
    "D": "正確。泌乳激素瘤（prolactinoma）第一線通常是 dopamine agonist，如 cabergoline，可降低 prolactin 並縮小腫瘤；手術留給抗藥或不耐受者。",
    "summary": "Functional pituitary tumors 多先手術，但 prolactinoma 例外，優先 dopamine agonist。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -67997,7 +68174,10 @@
    "C": "意識障礙與活動受限使 pressure injury 風險上升，需翻身、皮膚評估、營養與減壓照護。",
    "D": "錯誤。沒有臨床或電圖癲癇時，不建議所有 spontaneous ICH 患者例行預防性使用 antiseizure medication；應依 seizure evidence 與個別風險處理。",
    "summary": "ICH supportive care 包括合理控糖、平順降壓與壓瘡預防；無 seizure 不例行給 prophylactic antiseizure drug。",
-   "guideline": "FC 醫學(五)第1冊 p.185"
+   "guideline": "FC 醫學(五)第1冊 p.185",
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68037,7 +68217,10 @@
    "C": "題圖的動脈瘤並非中大腦動脈分叉位置；僅憑目前文字無法再確認是哪一條血管。",
    "D": "CTA 可顯示 aneurysm 的位置與形態，但是否已破裂主要需看 noncontrast CT 的 SAH 分布與臨床，不能由血管瘤外觀直接判定。",
    "summary": "CTA 定位 aneurysm，但不能單靠瘤體外觀證明 rupture；治療也不是常規 antiplatelet。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68154,7 +68337,10 @@
    "C": "順行性或逆行性失憶可見於腦震盪，grade II 也可有 persistent confusion 與 amnesia，而不必伴失去意識。",
    "D": "頭痛、注意力或記憶障礙可在受傷後持續數日到數週，屬常見 post-concussive symptoms。",
    "summary": "傳統 grade II concussion 可有較久 confusion/amnesia 但無 loss of consciousness；恢復前不得重返碰撞運動。",
-   "guideline": "FC 醫學(五)第1冊 p.154"
+   "guideline": "FC 醫學(五)第1冊 p.154",
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -70600,7 +70786,10 @@
    "C": "本項要選。高齡者較常見的是硬腦膜下血腫（subdural hematoma），因腦萎縮拉扯 bridging veins；epidural hematoma 並不因此更常見。",
    "D": "正確。使用抗凝血藥後即使頭部外傷看似輕微，也有延遲性顱內出血風險，因此 CT 門檻應降低。",
    "summary": "老人跌倒後最怕 subdural hematoma；正常生命徵象也不能排除出血。",
-   "guideline": "FC 醫學(五)第4冊 p.118"
+   "guideline": "FC 醫學(五)第4冊 p.118",
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -73021,7 +73210,9 @@
    "D": "本項不選。第二型快縮肌纖維（type II fibers）較易萎縮，因此爆發力通常比單純最大力量更早下降。",
    "summary": "老化最先偷走的是下肢和 type II 纖維的爆發力，所以起身、爬樓、避免跌倒都變難。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73101,7 +73292,9 @@
    "D": "本項不選。軟顎與懸雍垂上提、後縮可封閉鼻咽，避免食物逆流到鼻腔。",
    "summary": "咽期一秒內完成：喉往前上保護氣道、軟顎後上封鼻咽，不是把喉壓下去。",
    "guideline": "FC 醫學(六)第3冊 p.29",
-   "concepts": []
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73135,7 +73328,9 @@
    "D": "本項不選。熱可經傳導、對流、輻射、蒸發及能量轉換傳遞；不同物理治療儀器利用的機制不同。",
    "summary": "物理因子不是復健專屬；重要的是知道每種能量怎麼傳、什麼病人不能用。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73174,7 +73369,9 @@
    "D": "本項不選。幻肢痛是已截除的部位仍被感覺為疼痛；它和殘肢局部真正疼痛不同，兩者可同時存在。",
    "summary": "截肢後不要等傷口全好才開始復健；殘肢痛要找病因，幻肢痛則是神經系統仍在痛。",
    "guideline": "FC 醫學(六)第3冊 p.101",
-   "concepts": []
+   "concepts": [
+    "amputation-prosthetics"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73254,7 +73451,9 @@
    "D": "不正確。呼吸運動與姿勢引流只是胸腔復健的一部分；完整計畫還應包含運動訓練、衛教、營養、心理與自我管理。",
    "summary": "胸腔復健不是拍拍痰而已；連 ADL、省力技巧、心情和自我管理都要一起復健。",
    "guideline": "FC 醫學(六)第3冊 p.169",
-   "concepts": []
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73293,7 +73492,9 @@
    "D": "不正確。Down syndrome 主要因染色體 21 非整倍體所致，葉酸補充不能預防染色體不分離。",
    "summary": "葉酸保護的是胚胎神經管閉合，不是所有神經或染色體疾病。",
    "guideline": "FC 醫學(六)第3冊 p.240",
-   "concepts": []
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73496,7 +73697,9 @@
    "D": "本項不選。扶手太低不能穩定支撐前臂與肩帶，患者可能出現姿勢歪斜或肩部下沉。",
    "summary": "輪椅扶手不是裝飾：太高傷肩又難推，太低撐不住；高度要跟著手肘量。",
    "guideline": "FC 醫學(六)第3冊 p.144",
-   "concepts": []
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73618,7 +73821,9 @@
    "D": "本項不選。足底筋膜斷裂多有突發撕裂痛、腫脹瘀青或明確受傷機轉。圖上筋膜雖然增厚，但纖維是連續的、沒有中斷或缺口。",
    "summary": "晨起第一步最痛、走開後稍鬆，是足底筋膜在跟骨附著處受牽拉的典型線索。",
    "guideline": "FC 醫學(六)第3冊 p.106",
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -73734,7 +73939,9 @@
    "D": "本項不選。肩關節炎（shoulder osteoarthritis）會使活動範圍逐漸下降，常有被動活動疼痛或摩擦感，與本題相對正常的被動外展不同。",
    "summary": "肩痛若主動抬手痛、被動還能動，先想軸轉肌；主被動都卡住才比較像冰凍肩。",
    "guideline": "FC 醫學(六)第3冊 p.107",
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -80284,7 +80491,10 @@
    "C": "本項才是答案。calcification 可以出現在某些膠質瘤，卻不是 WHO grade I–IV 以光學顯微鏡判級的核心特徵。",
    "D": "正確。這不是排除項。necrosis 是高級別膠質瘤的重要顯微鏡特徵，尤其支持 grade IV glioblastoma。",
    "summary": "膠質瘤傳統分級看細胞多不多、異型性、分裂與壞死；鈣化不是分級尺規。",
-   "guideline": "FC 醫學(五)第1冊 p.256"
+   "guideline": "FC 醫學(五)第1冊 p.256",
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80448,7 +80658,10 @@
    "C": "本項應選。手術目標是關閉顱骨與硬腦膜缺損；沒有功能的突出腦組織常需切除，不是例行回置。",
    "D": "正確。腦膨出合併腦組織發育異常時，神經發展遲緩或智力障礙較常見。",
    "summary": "腦膨出手術重點是修補缺損，不是把所有突出腦組織硬塞回顱內。",
-   "guideline": "FC 醫學(五)第1冊 p.274"
+   "guideline": "FC 醫學(五)第1冊 p.274",
+   "concepts": [
+    "hydrocephalus-chiari-functional-neurosurgery"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83342,7 +83555,10 @@
    "C": "這題不選 C：Tramadol 是弱 μ-opioid agonist 加 monoamine reuptake inhibitor。不能處理 trigeminal neuralgia 的典型神經放電機轉。也不宜作長期首選。",
    "D": "這題要選 D：Carbamazepine 阻斷 voltage-gated sodium channels、穩定過度興奮的神經膜。是典型三叉神經痛的首選藥物；需監測血球與肝功能等副作用。",
    "summary": "典型 trigeminal neuralgia 的第一線記 carbamazepine；它是 sodium-channel blocker，不是一般止痛藥。",
-   "guideline": "FC 醫學(六)第4冊 p.139"
+   "guideline": "FC 醫學(六)第4冊 p.139",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85316,7 +85532,9 @@
    "D": "本項應選。環咽肌構成上食道括約肌，吞嚥時必須鬆弛並開啟，食團才能進入食道；若關閉會造成咽部阻塞。",
    "summary": "吞嚥咽部期要記住：軟腭封鼻、喉部護氣道、環咽肌打開讓食團進食道。",
    "guideline": "FC 醫學(六)第3冊 p.28",
-   "concepts": []
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85355,7 +85573,9 @@
    "D": "本項不選。皮質脊髓束在延髓交叉後才下行，脊髓內單側病灶會造成同側運動無力，而非對側較嚴重。",
    "summary": "脊髓半切的交叉口訣：同側無力和本體覺掉，對側痛溫覺掉，走路預後通常不錯。",
    "guideline": "FC 醫學(六)第3冊 p.68",
-   "concepts": []
+   "concepts": [
+    "incomplete-spinal-cord-syndromes"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85394,7 +85614,9 @@
    "D": "本項不選。壓瘡標準分期沒有第五期；無法分期是因焦痂或腐肉遮住傷口深度，並非 stage 5。",
    "summary": "壓瘡見脂肪和肉芽、但筋骨沒露是第三期；一看到筋膜或骨頭才升到第四期。",
    "guideline": "FC 醫學(六)第3冊 p.92",
-   "concepts": []
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85474,7 +85696,9 @@
    "D": "本項不選。NSAIDs 可在疼痛明顯時短期緩解症狀，但仍須搭配活動調整與伸腕肌腱復健。",
    "summary": "網球肘不是屈腕肌：痛點在外上髁的伸腕肌腱起點，先減少反覆伸腕與握力負荷。",
    "guideline": "FC 醫學(六)第3冊 p.213",
-   "concepts": []
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85508,7 +85732,9 @@
    "D": "本項不選。C 是 compression，適度加壓可限制出血與組織間液累積，減少水腫。",
    "summary": "PEACE 的 A 不是 avoid movement，而是避開不必要的抗發炎介入；受傷後仍要依疼痛逐步活動。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85547,7 +85773,9 @@
    "D": "本項不選。傷口未癒合會延遲殘肢承重與義肢接受腔配置，也增加皮膚破損和感染風險。",
    "summary": "義肢成功靠殘肢能承重、認知能學、體力能走；高位截肢、認知問題、傷口不癒都會拖累成果。",
    "guideline": "FC 醫學(六)第3冊 p.137",
-   "concepts": []
+   "concepts": [
+    "amputation-prosthetics"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85581,7 +85809,9 @@
    "D": "本項不選。標準走道通常長 30 公尺且平坦堅實，軟地板反而增加步態不穩與量測差異。",
    "summary": "6 分鐘行走不是只測肺：它問的是「病人在日常六分鐘裡能走多遠」，流程必須標準化。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85619,7 +85849,10 @@
    "C": "本項不選。不對稱張力頸部反射（asymmetric tonic neck reflex）頭轉向哪側、哪側手腳就伸直，像在擊劍。它約 4–6 個月消失，超過 6 個月還在要懷疑腦性麻痺（cerebral palsy）。",
    "D": "本項不選。莫洛氏反射（Moro reflex）是突然失去支撐時雙臂外展再抱攏的驚嚇反應。它約 4–6 個月消失，比降落傘反射早收場。",
    "summary": "原始反射都要退場，只有降落傘反射是上場後不走；問「持續最久」就選它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85698,7 +85931,10 @@
    "C": "本項不選。20% 對應的名稱是「超高齡社會」（super-aged society），台灣約在 2025 年到達。",
    "D": "本項不選。30% 沒有對應的正式分級，只是更後面的推估比例，不在世界衛生組織的門檻裡。",
    "summary": "老化三門檻 7／14／20 分別是高齡化、高齡、超高齡社會；台灣 1993／2018／2025 各踩一次。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85736,7 +85972,10 @@
    "C": "本項不選。獨立生活、社交與娛樂正是老年復健要顧的重點。長者一旦退出社交活動，失能與憂鬱都會加速。",
    "D": "本項不選。精神狀態、共病與體能從第一次評估就要納入。它們決定運動強度與安全上限，不能等到長期計畫才考慮。",
    "summary": "老年復健的關鍵詞是「維持與獨立」，不是「恢復到病前」；看到就業導向或延後評估先剔除。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85774,7 +86013,10 @@
    "C": "本項不選。內旋（internal rotation）主要用胸前與肩胛下肌群，受影響程度比抬高動作輕。臨床上很少以它為主訴。",
    "D": "本項不選。外旋（external rotation）確實可能一起受限，但最早出現、也最妨礙穿衣梳頭的是把手臂外展抬起來。",
    "summary": "乳癌術後肩膀抬不起來，先想腋下疤痕束縛：外展受限最早也最明顯。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85807,7 +86049,10 @@
    "C": "本項不選。加溫會擴張血管，正在出血、急性發炎或急性感染時等於火上加油。腫瘤處增加血流供應也不妥，同列禁忌。",
    "D": "本項不選。非類固醇類消炎止痛藥（NSAIDs）擋的是前列腺素驅動的發炎反應。慢性疼痛常來自組織退化或中樞敏感化，效果自然不如急性期。",
    "summary": "急性冰、慢性熱是預設值；看到「冷敷急慢性發炎都適用」就當它寫錯了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85840,7 +86085,10 @@
    "C": "本項不選。新生兒溢奶多是下食道括約肌尚未成熟的生理性逆流，會隨月齡改善。沒有嗆咳、發紺或體重不長就不必影像檢查。",
    "D": "本項不選。年輕女性突發的胸悶灼熱感，比較像胃食道逆流或非心因性胸痛。這種情況先問病史、必要時試驗性用藥。",
    "summary": "吞嚥要不要照影，看有沒有「固體卡住＋逐漸加劇」這組紅旗；偶發不惡化就先觀察。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85873,7 +86121,10 @@
    "C": "正確。血管攝影下一段狹窄接一段擴張交替出現，看起來像一串珠子（string of beads）。這是中膜型肌纖維發育不全的招牌影像。",
    "D": "本項不選。病人以中年女性為主，男性少見。年輕女性出現腎血管性高血壓或頸動脈剝離時要把它列入。",
    "summary": "串珠影像＋中年女性＋腎動脈三件套就是 fibromuscular dysplasia；長在分叉處的才是動脈硬化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "carotid-stenosis-dissection-fmd"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -92579,7 +92830,10 @@
    "C": "錯誤。腎臟癌轉移灶也容易出血，卻不是最常見的腦轉移原發癌。",
    "D": "正確。肺癌是成人腦轉移最常見的原發來源；因此新發多發腦轉移時要優先檢查胸部。",
    "summary": "成人發現腦轉移，先想到肺癌是最常見原發灶。",
-   "guideline": "FC 醫學(五)第1冊 p.254"
+   "guideline": "FC 醫學(五)第1冊 p.254",
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92617,7 +92871,10 @@
    "C": "錯誤。ganglioglioma 常見於兒童或年輕人，也常與難治型癲癇相關；但 peak age 仍晚於 medulloblastoma。",
    "D": "正確。神經管胚細胞瘤（medulloblastoma）是典型兒童後顱窩惡性腫瘤，四者中好發年齡最小。",
    "summary": "兒童後顱窩腫瘤想到 medulloblastoma；它比 pineocytoma、central neurocytoma、ganglioglioma 更早發病。",
-   "guideline": "FC 醫學(五)第1冊 p.255"
+   "guideline": "FC 醫學(五)第1冊 p.255",
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92655,7 +92912,10 @@
    "C": "錯誤。這句不對。cavernous malformation 可以出血，但多為低流量、小量出血，並非一破裂就常致命。",
    "D": "正確。皮質附近的 cavernous malformation 可反覆微出血或刺激皮質，因此能以癲癇發作表現。",
    "summary": "海綿狀血管畸形是低流量病灶：MRI 比血管攝影有用，癲癇是常見表現。",
-   "guideline": "FC 醫學(五)第1冊 p.192"
+   "guideline": "FC 醫學(五)第1冊 p.192",
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92693,7 +92953,10 @@
    "C": "正確。L5 支配 tibialis anterior 等足背屈肌群；L5 radiculopathy 可造成 foot drop。",
    "D": "錯誤。這句不對。knee jerk 主要反映 L3–L4，L5 病變更常以足背屈無力與足背感覺異常辨認。",
    "summary": "L5 記住三件事：足背與第一趾間感覺、足背屈、嚴重時 foot drop；knee jerk 看 L3–4。",
-   "guideline": "FC 醫學(五)第1冊 p.218"
+   "guideline": "FC 醫學(五)第1冊 p.218",
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92731,7 +92994,10 @@
    "C": "本項最不適當。GCS 13、額葉血腫僅 10 c.c. 時，若沒有明顯中線偏移或惡化，通常先密切神經監測與追蹤影像，不會只為降顱壓就開顱。",
    "D": "正確。顱腦外傷要避免低血壓；收縮壓維持至少 100 mmHg 有助避免 secondary brain injury。",
    "summary": "小型額葉血腫、GCS 13 若無 mass effect，核心是避免低氧低血壓與追蹤，不是立刻開顱。",
-   "guideline": "FC 醫學(五)第1冊 p.153"
+   "guideline": "FC 醫學(五)第1冊 p.153",
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95145,7 +95411,10 @@
    "C": "本項最不適當。raccoon eye 與耳漏腦脊髓液提示顱底骨折；鼻胃管可能經篩板骨折處誤入顱內，應改用口胃管。",
    "D": "正確。頭部 CT 可確認顱骨骨折、腦出血與顱內壓升高的結構性原因。",
    "summary": "顱底骨折有 raccoon eye、CSF 耳鼻漏時，禁放鼻胃管，改走口胃管。",
-   "guideline": "FC 醫學(五)第1冊 p.153"
+   "guideline": "FC 醫學(五)第1冊 p.153",
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95641,7 +95910,10 @@
    "C": "這題要選 C：analgesia 只處理痛覺，不等於所有感覺與意識都消失。Analgesia 是痛覺消失或減少，不代表視覺、觸覺、聽覺等所有知覺都沒有反應；後者較接近 unconsciousness 或 anesthesia。",
    "D": "這題不選 D：Paresthesia 是沒有明確外在刺激時出現的異常感覺。如麻、刺、蟻走感；它可以不痛，也可與 neuropathic pain 共存。",
    "summary": "名詞別混：allodynia 是不痛刺激變痛，hyperalgesia 是痛刺激更痛，analgesia 只拿掉痛覺。",
-   "guideline": "FC 醫學(六)第4冊 p.138"
+   "guideline": "FC 醫學(六)第4冊 p.138",
+   "concepts": [
+    "pain-mechanisms-terms"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97632,7 +97904,10 @@
    "C": "本項不選。伸拇長肌（extensor hallucis longus）把大腳趾往上拉，順帶協助背屈。它痙攣的表現是大腳趾翹起來。",
    "D": "正確。腓腸肌（gastrocnemius）與比目魚肌合成小腿三頭肌，經阿基里斯腱把腳跟往上拉。它痙攣就形成踮腳的馬蹄足（equinus）步態。",
    "summary": "痙攣造成的踮腳走路，元凶固定在小腿後側的 gastrocnemius 與 soleus；前側肌群管的是把腳板抬起來。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97794,7 +98069,10 @@
    "C": "本項不選。理學檢查可在臀部梨狀肌走行處摸到局部壓痛點，是臨床診斷的重要線索。",
    "D": "本項應選。梨狀肌緊繃測試要把髖關節屈曲、內收、內旋（FAIR test），才拉得長梨狀肌並壓到坐骨神經。改成外展、外旋反而讓肌肉放鬆，誘發不出症狀。",
    "summary": "梨狀肌測試記 FAIR：flexion–adduction–internal rotation；寫成外展外旋就是把方向做反了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97868,7 +98146,10 @@
    "C": "正確。有氧訓練會提高 HDL、降低三酸甘油酯，血脂結構因此改善（ameliorated serum lipids）。這是繞道手術後心臟復健最確立的好處之一。",
    "D": "本項不選。訓練後同樣強度下交感神經活性下降，血漿兒茶酚胺（catecholamines）是變少而不是變多。心跳與血壓也跟著降低。",
    "summary": "心臟復健的效果看「同一個工作量做起來更輕鬆」：缺血閾值上升、兒茶酚胺下降、血脂改善。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97901,7 +98182,10 @@
    "C": "本項不選。肌纖維膜本身脆弱，最大強度運動（maximal exercise）容易造成離心收縮傷害與過度使用無力。訓練以中低強度、避免疲勞為原則。",
    "D": "本項應選。dystrophin 也存在於心肌，病人常在青少年期出現擴張性心肌病變與心律不整。心肺併發症正是主要死因。",
    "summary": "Duchenne 不是只有骨骼肌的病：心肌與呼吸肌一起垮，所以要定期追心臟功能。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97939,7 +98223,10 @@
    "C": "正確。SMN1 的產前 DNA 檢測（prenatal DNA testing）可在胎兒期提供診斷依據，也用於帶因夫妻的下一胎評估。",
    "D": "本項不選。肌電圖（electromyography）會顯示前角細胞退化的去神經變化，例如自發性顫動電位與大振幅運動單元電位。完全正常反而不支持診斷。",
    "summary": "嬰兒期軟趴趴＋舌頭顫動＋反射消失，先想 SMA，確診靠 SMN1 基因而不是肌肉切片。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97972,7 +98259,10 @@
    "C": "本項不選。挑對運動種類與強度、再加上有人在旁監督，正是降低風險最有效的做法。本項把有效的措施講成無效。",
    "D": "本項不選。老年人在復健中最令人擔心的是心血管事件，例如心律不整或心肌缺血。肌肉骨骼傷害常見但少致命。",
    "summary": "老人家不動的併發症比運動傷害嚴重，所以答案永遠是「評估後動起來」而不是「怕受傷不動」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -98005,7 +98295,10 @@
    "C": "本項不選。改造要花錢，經濟能力決定做到什麼程度。同樣的需求可能只能先做扶手，暫時放棄整間浴室重做。",
    "D": "本項不選。家屬能提供多少照顧、病人希望多獨立，會直接改變改造的優先順序。這些期待要在計畫前談清楚。",
    "summary": "無障礙評估的時間點在出院前，做法是先量人、再看錢、最後對期待；出院後才評就太慢了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -98038,7 +98331,10 @@
    "C": "本項不選。手部協調差到推不動或操作不了搖桿時，可改用頭部操控或吹吸開關驅動的電動輪椅。輸入介面要配合殘存功能挑。",
    "D": "本項不選。髖、膝、踝的關節活動度決定坐姿角度與腳踏板位置。攣縮沒量出來，坐上去就會歪斜或壓到局部。",
    "summary": "開輪椅處方要一路量到人：關節角度、皮膚、操控介面、還有推得動與否的心肺耐力。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -98201,7 +98497,10 @@
    "C": "本項不選。磁振造影看得到病灶下方的水腫訊號與碎片是否仍附著，用來分期與決定要不要手術。",
    "D": "本項不選。好發於中學生，膝關節股骨內髁最多，踝關節的距骨也是常見位置。反覆微創傷是主要成因。",
    "summary": "看到青少年運動員關節卡住、影像有軟骨下碎片就想 osteochondritis dissecans；老人家的壞死是另一條路。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -98318,7 +98617,10 @@
    "C": "本項應選。spinal stenosis 的典型表現正是站久走久才痛、坐下彎腰就緩解，病程以月至年計。除非合併馬尾症狀，否則不需急診處理。",
    "D": "本項不選。epidural abscess 會有發燒、局部壓痛與進行性神經學缺損，延誤引流會造成不可逆癱瘓。",
    "summary": "背痛要先分「等得起」與「等不起」：血管、感染、馬尾三類等不起，退化性狹窄等得起。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -104291,7 +104593,10 @@
    "C": "錯誤。這句不對。小型至中型 vestibular schwannoma 可選觀察或 stereotactic radiosurgery，不只用於術後殘存。",
    "D": "正確。雙側 vestibular schwannomas 是 neurofibromatosis type 2 的代表性表現。",
    "summary": "聽神經瘤其實是 vestibular schwannoma；雙側病灶就要想到 NF2。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104324,7 +104629,10 @@
    "C": "錯誤。這句不對。典型 moyamoya 常為雙側性，但可有單側起病或進展中的個案。",
    "D": "錯誤。這句不對。阻塞主要在顱內 internal carotid artery 末端及近端 ACA/MCA，不是以後大腦動脈為主。",
    "summary": "moyamoya 的堵塞點在 ICA 末端與 ACA/MCA 起始處；成人有症狀時常要考慮 revascularization。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104357,7 +104665,10 @@
    "C": "正確。顱底外傷可撕裂 cavernous segment 的 internal carotid artery，形成外傷性 carotid-cavernous fistula。",
    "D": "這項不是外傷後疾病。capillary telangiectasia 是發育性微血管畸形，常偶然在 MRI 發現。",
    "summary": "頭部外傷後出現紅眼、突眼或血管雜音，要想到 carotid-cavernous fistula。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104390,7 +104701,10 @@
    "C": "錯誤。這句不對。脊髓受壓可造成下肢痙攣步態、hyperreflexia 與本體覺受損，不能說下肢本體覺正常。",
    "D": "錯誤。這句不對。減壓手術可阻止惡化並改善部分功能，但恢復不一定立即或完全，常仍需復健。",
    "summary": "spondylosis 是退化骨贅造成狹窄；頸髓病變要防的是下肢痙攣、手功能變差與持續退化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106180,7 +106494,10 @@
    "C": "正確。OPLL 可與 diffuse idiopathic skeletal hyperostosis、spondylosis 等骨化或退化疾病共存。",
    "D": "本項最不適當。手術減壓用於進行性 myelopathy、明顯壓迫或功能惡化；沒有症狀或輕症並非人人手術才會改善。",
    "summary": "OPLL 在亞洲男性、中下頸椎常見；有沒有進行性脊髓病變，才決定是否需要減壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106594,7 +106911,10 @@
    "C": "這項不符合。硬腦膜上血腫（epidural hematoma）受顱縫限制，典型是凸透鏡形；雙側亞急性病灶也較少見。",
    "D": "正確。高齡者步態不穩、頭痛，CT 若見雙側新月形低到等密度集液，最支持雙側亞急性硬腦膜下血腫（subdural hematoma）。電腦斷層上兩側大腦凸面各有一層新月形、密度接近腦組織的集合，把腦溝壓平、腦回往內推。密度變得跟腦差不多正是亞急性期（約一到三週）的特徵，這時病灶最容易被看漏；老人家與抗凝血藥使用者常常想不起明確外傷史。",
    "summary": "高齡、漸進頭痛步態差，加上 CT 新月形集液，先想 subdural hematoma；凸透鏡才是 epidural。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -108817,7 +109137,10 @@
    "C": "本項不選。下視丘（hypothalamus）處理體液平衡與自律神經的整體調節，和排尿反射的細部時序沒有直接關係。",
    "D": "正確。橋腦（pons）的排尿中樞在解尿時同時做兩件事：讓逼尿肌收縮、讓尿道括約肌放鬆。這一段一旦被切斷，就出現逼尿肌與括約肌不協調（detrusor-sphincter dyssynergia）。",
    "summary": "橋腦以上受損＝急尿失禁但仍協調，橋腦以下（脊髓）受損＝逼尿肌與括約肌打架的 DSD。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neurorehab-tbi-bladder-principles"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -108887,7 +109210,10 @@
    "C": "本項不選。複合肌肉動作電位的波幅高低反映還有多少軸突在傳導，可用來估算軸突損傷比例。",
    "D": "本項不選。去神經電位與再生電位隨時間的變化，能推測神經是否在恢復，臨床上用來估預後與決定要不要手術。",
    "summary": "EMG/NCS 是「下運動神經元的顯微鏡」；懷疑上運動神經元病變它幫不上忙，要看反射與影像。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nerve-injury-classification-emg"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -108920,7 +109246,10 @@
    "C": "本項不選。背肩胛神經（dorsal scapular nerve）支配菱形肌與提肩胛肌，這些肌肉位於肩胛骨內側緣，萎縮不會出現在肩胛脊上方。",
    "D": "正確。上肩胛神經（suprascapular nerve）穿過肩胛切跡，支配棘上肌與棘下肌。排球、舉重這類反覆過頂動作會在切跡處壓迫它，於是肩胛脊上方的棘上肌窩凹下去。",
    "summary": "過頂運動員肩痛加肩胛窩凹陷就想 suprascapular nerve 卡在切跡；翼狀肩胛才是 long thoracic。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-nerve-lesions"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -108989,7 +109318,10 @@
    "C": "本項不選。血管收縮同時代表局部血流減少，周邊循環不良或雷諾氏現象（Raynaud phenomenon）的病人可能因此缺血。這是使用冷療要留意的地方。",
    "D": "本項不選。冷水浴靠水流對流帶走熱量，降溫效率比冰敷袋高。燒燙傷後的第一時間沖水降溫就是用這個原理。",
    "summary": "冷療的禁忌看循環與感覺（雷諾氏、感覺缺失、冷過敏），不是看急性或慢性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109022,7 +109354,10 @@
    "C": "本項不選。急性期冰敷可以壓下摩擦造成的發炎，伸展與放鬆髂脛束、闊筋膜張肌則減少張力。兩者都是第一線處置。",
    "D": "本項應選。這個診斷靠病史與理學檢查就能成立，例如 Ober test 與外上髁壓痛。影像只在懷疑半月板或軟骨病變時才需要。",
    "summary": "跑者膝外側痛＋Ober test 陽性就足以診斷髂脛束症候群，影像是用來排除別的病，不是必需品。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109055,7 +109390,10 @@
    "C": "正確。休息血壓 160/100 mmHg 還沒到禁止運動的門檻，一般以收縮壓超過 180 或舒張壓超過 110 才暫緩。這位病人可以在監測下開始訓練，運動本身也有助降壓。",
    "D": "本項不選。第三度房室傳導阻斷沒裝節律器時，心跳無法隨運動需求增加，還有猝死風險。要先處理心律問題。",
    "summary": "心臟復健的禁忌看「現在穩不穩」：不穩定心絞痛、危險心律、姿勢性低血壓要先擋，單純高血壓可以練。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cardiac-rehab-exercise-physiology"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109124,7 +109462,10 @@
    "C": "本項不選。上腰椎 L1-L2 病灶保有屈髖，但伸膝以下都沒有功能，長距離移動仍以輪椅為主。",
    "D": "本項不選。中腰椎 L3-L4 病灶保有股四頭肌，可以用膝踝足支架與助行器行走，功能比更高位病灶好，但仍比頸椎病灶差。",
    "summary": "myelomeningocele 的行走能力大致隨病灶越低越好，但頸／上胸椎病灶是例外——這群人下肢反而多半正常。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109193,7 +109534,10 @@
    "C": "本項應選。定位不清的是 C 纖維：它們接受域大又在脊髓匯聚，所以痛得很模糊。Aδ 纖維接受域小、投射精準，定位反而準確。",
    "D": "本項不選。經皮神經電刺激（TENS）刺激粗的 Aβ 纖維，在脊髓背角把痛覺閘門關小，這就是門閥理論（gate control theory）。",
    "summary": "Aδ 是「指得出哪裡痛」的快痛，C 是「講不清哪裡痛」的慢痛；TENS 走的是 Aβ 關閘門。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pain-mechanisms-terms"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109226,7 +109570,10 @@
    "C": "本項不選。樓梯扶手提供上下時的支撐點，讓病人可以用上肢分擔重量並修正重心。",
    "D": "本項不選。馬桶旁扶手讓下肢肌力不足的人靠上肢撐起身體完成轉位，是能否獨立如廁的關鍵。",
    "summary": "無障礙改造的原則是「不彎腰、不絆倒、有得扶」；把東西放地上當復健是最典型的錯誤選項。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109259,7 +109606,10 @@
    "C": "本項不選。偏癱病人可用健側手推輪圈、健側腳在地上划，配合較低的半高型輪椅就能自行移動。",
    "D": "本項不選。手推圈直徑越小，每一次推動需要出的力越大，對肩膀反而不利。直徑要依使用者肌力與活動需求挑選。",
    "summary": "手動輪椅是「用肩膀當腳走路」：處方重點在保護旋轉肌袖，而不是假設誰推不動。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109294,7 +109644,10 @@
    "C": "本項應選。梗塞最常發生在 anterior spinal artery 供應的區域，因為它只有一條且分水嶺區血流最不穩。posterior spinal arteries 有兩條又互相吻合，比較不容易單獨缺血。",
    "D": "本項不選。脊髓由一條 anterior spinal artery 供應前三分之二，加上一對 posterior spinal arteries 供應後三分之一，這個解剖是本題的推理基礎。",
    "summary": "脊髓梗塞＝前脊髓動脈症候群：運動與痛溫覺沒了、本體感覺留著，MRI 看到 owl's eye。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "incomplete-spinal-cord-syndromes"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -109398,7 +109751,10 @@
    "C": "本項不選。brisk reflexes 是反射被放大，來自上位抑制消失，同樣指向中樞而非周邊神經。",
    "D": "正確。周邊神經受損時反射弧被切斷，深部肌腱反射消失，也就是 areflexia。合併肌張力低下與肌肉萎縮。",
    "summary": "反射「變大」看中樞，反射「不見」看周邊；Babinski 與 Hoffman 都是中樞那一邊的訊號。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -115520,7 +115876,10 @@
    "C": "本項不選。電解質異常不會在三十分鐘內讓意識從清楚掉到 E2V1M4，這個時間軸指向顱內出血或休克。",
    "D": "正確。昏迷指數 8 分以下就是保護氣道的門檻，處置順序回到 ABC：先重新測生命徵象、確保呼吸道，插管後再去做影像。一開始清醒後來變差的意識變化，最典型的就是硬腦膜上出血的清醒期，但那也要先把氣道處理好才有機會處理出血。",
    "summary": "意識掉到 8 分以下先插管再照相；「清醒期後急轉直下」要想硬腦膜上出血，但順序永遠是 ABC。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115555,7 +115914,10 @@
    "C": "正確。contused intracranial hematoma 是腦實質挫傷後的小血管破裂，不同於 epidural hematoma 的中腦膜動脈來源。",
    "D": "正確。瞳孔擴大可能表示 uncal herniation 與第三顱神經壓迫；合併血腫 mass effect 時需緊急開顱減壓。",
    "summary": "頭傷 CT 要先分外形：凸透鏡是 epidural，腦實質混雜出血常是 contusion；瞳孔變大是疝脫警報。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115624,7 +115986,10 @@
    "C": "正確。髓內腫瘤常見 astrocytoma 與 ependymoma；成人較常 ependymoma。",
    "D": "正確。脊椎腫瘤整體最常發生於胸椎，與胸椎節段長且轉移常見有關。",
    "summary": "脊椎腫瘤先看 compartment：extradural 多轉移惡性，intradural-extramedullary 多 meningioma/schwannoma。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115657,7 +116022,10 @@
    "C": "錯誤。pituitary adenoma 常見於成人，兒童僅占少數。",
    "D": "正確。medulloblastoma 是兒童常見的惡性後顱窩腫瘤，在成人相對少見。",
    "summary": "小孩的後顱窩惡性腫瘤，最經典就是 medulloblastoma；成人的 GBM、meningioma、pituitary adenoma 較常見。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115690,7 +116058,10 @@
    "C": "本項應選。moyamoya 的主要狹窄在 ICA 末端、ACA 與 MCA 起始處，不是以 MCA 與 posterior cerebral artery 為最常見組合。",
    "D": "正確。小孩多以反覆短暫缺血或缺血性腦中風表現；成人較可能出血。",
    "summary": "moyamoya 堵在 ICA 末端到 ACA/MCA，不是 PCA；兒童偏缺血、成人較容易出血。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -117378,7 +117749,10 @@
    "C": "本項最不適當。頸髓病變會讓病灶以下長徑徵象變強，尤其下肢 hyperreflexia、clonus；上肢反射可受節段性神經根或前角病灶影響而下降。",
    "D": "正確。cervical myelopathy 常使腹部反射減弱；保留腹部反射的 ALS 可作為鑑別線索之一。",
    "summary": "頸髓病變的反射不會所有肢體都一樣：下肢 UMN 徵象突出，上肢可混入節段性 LMN 表現。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -120015,7 +120389,10 @@
    "C": "本項不選。無力從遠端肌肉群（distal musculature）開始，典型表現是垂足、高弓足與小腿倒香檳瓶外觀。",
    "D": "本項應選（原設定答案），但本題官方公告一律給分。課本描述此病以無力、萎縮與感覺遲鈍為主，疼痛不算招牌症狀。可是臨床研究發現相當比例的病人有肌肉骨骼疼痛或神經痛，「最不恰當」因此站不住腳，才會送分。",
    "summary": "CMT 的核心是遠端對稱萎縮＋高弓足；疼痛不是診斷線索，但也不能說病人不會痛——這題因此送分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120192,7 +120569,10 @@
    "C": "本項敘述正確。上肢截肢以外傷為主，其中手指截肢最常見，職業傷害是大宗。",
    "D": "本項敘述正確。顯微重建與再植技術進步加上職業安全提升，外傷性截肢比例逐年下降，相對地血管性截肢比例上升。",
    "summary": "先天缺損上肢多、後天截肢下肢多（糖尿病與血管病變是主因）；上肢截肢則以外傷手指最常見。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amputation-prosthetics"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120225,7 +120605,10 @@
    "C": "本項不選。橈神經受壓造成的是垂腕或後骨間神經症候群的伸指無力，感覺症狀在手背橈側。",
    "D": "本項不選。肌皮神經支配肱二頭肌與前臂外側皮膚感覺，受損表現是屈肘無力。",
    "summary": "同樣是正中神經：腕隧道症候群魚際感覺正常，旋前圓肌症候群連魚際也麻且前臂會痛。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-nerve-lesions"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120258,7 +120641,10 @@
    "C": "本項不選。意識不清時做的是被動關節活動、擺位與胸腔照護，呼吸肌力訓練需要病人配合才做得到。",
    "D": "正確。加護病房的早期復健能改善呼吸器脫離率、縮短住院天數並減少加護病房後衰弱症候群。做法包括漸進式的四肢運動、坐起、床邊站立，配合每日的鎮靜中斷評估。",
    "summary": "加護病房復健的原則是「穩定就開始、能主動就別被動」；最重要的成果是提高脫離呼吸器的比例。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120327,7 +120713,10 @@
    "C": "本項應選。世界衛生組織估計發展遲緩的發生率約為 6% 到 8%，也就是百分之六到八而不是千分之六到八。這個數字差了十倍，直接影響對篩檢與資源需求的判斷。",
    "D": "本項敘述正確。早期療育的核心精神就是早期發現、早期診斷、早期治療，把握神經可塑性最高的階段。",
    "summary": "發展遲緩盛行率約 6–8%（不是千分之六），台灣的早療對象是未滿六歲；越早介入效果越好。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120363,7 +120752,10 @@
    "C": "本題一律給分。長期嚼食檳榔造成口腔黏膜下纖維化，手術前就常已經張口受限，與敘述相反。",
    "D": "本題一律給分。牙關緊閉的復健越早開始越好，通常術後或放療期間就要開始張口運動，等病情穩定才做已經纖維化難以恢復。四個選項都有問題，官方因此一律給分。",
    "summary": "頭頸癌後的牙關緊閉：門齒間距 <35 mm 為診斷、放療纖維化是主因、復健要早不要等。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dysphagia-rehab-swallowing"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120433,7 +120825,10 @@
    "C": "本項敘述正確。復健處理的是人在環境中的功能，所以評估要涵蓋身體、心理、家庭與社會參與。",
    "D": "本項敘述正確。急性期決定要進哪一層級的復健服務，主要看復健潛能與可耐受的治療強度。",
    "summary": "復健看的是功能不是病名：療程由失能程度與復健潛能決定，這也是 ICF 架構的精神。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neurorehab-tbi-bladder-principles"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120466,7 +120861,10 @@
    "C": "本項不選。淋浴與馬桶旁裝扶手是浴室安全的基本配備，符合他想自己洗澡上廁所的目標。",
    "D": "本項不選。階梯加扶手並在階緣漆白漆增加對比，是預防跌倒的標準做法，對視覺辨識也有幫助。",
    "summary": "居家改造的原則是「補環境不是補人力」：先移除障礙、加扶手與提高辨識度，保留病人自己做的機會。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120499,7 +120897,10 @@
    "C": "本項應選。第一次血管攝影陰性不能排除動脈瘤破裂——約有一到兩成因為血管痙攣、血栓暫時封住破口或影像技術限制而看不到。標準做法是兩週後重做血管攝影，仍陰性且出血型態屬中腦周圍型才傾向良性預後。",
    "D": "本項敘述正確。血管內線圈栓塞與開顱夾除都是標準治療，選擇取決於動脈瘤位置、形態與病人狀況。",
    "summary": "蜘蛛膜下腔出血但血管攝影陰性，不能就此收工——要在兩週後重照一次。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120602,7 +121003,10 @@
    "C": "本項應選。方向反了。它是「上行性」麻痺：從下肢遠端開始無力，往上蔓延到軀幹、上肢，嚴重時侵犯呼吸肌與顱神經。由軀幹往下延伸不是它的模式。",
    "D": "本項敘述正確。約兩到三成需要呼吸器支持，所以住院期間要密集監測肺活量與最大吸氣壓力。",
    "summary": "格林–巴利是「由下往上」的對稱無力加反射消失；要盯的是肺活量，別等到喘才插管。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "guillain-barre-syndrome"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -127233,7 +127637,10 @@
    "C": "這項不符合。carotid-cavernous fistula 造成眼靜脈鬱血、突眼或紅眼，不是基底核穿通動脈出血。",
    "D": "這項不符合。hemorrhagic transformation 必須有缺血性中風接受 thrombolysis 的背景，題幹沒有這個病史。",
    "summary": "高血壓患者的基底核出血，看到 Charcot-Bouchard microaneurysm 就是最典型的機轉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -127266,7 +127673,10 @@
    "C": "本項應選。diffuse pontine glioma 與重要腦幹結構混雜，無法安全完整切除；治療以放射治療為主。",
    "D": "正確。tectal glioma 可壓迫 cerebral aqueduct，因而合併 obstructive hydrocephalus。",
    "summary": "兒童腦幹腫瘤看位置：diffuse pontine 不能靠切除治療；tectal 常因 aqueduct 阻塞而水腦。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-cns-and-spinal-tumors"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -127299,7 +127709,10 @@
    "C": "正確。corpus callosotomy 透過切斷胼胝體減少雙側癲癇放電傳播，常用於 drop attack。",
    "D": "正確。microvascular decompression 用血管移位解除神經壓迫，典型治療三叉神經痛或 hemifacial spasm，不是癲癇手術。",
    "summary": "癲癇手術不只切除病灶，還包括 VNS 與 corpus callosotomy；microvascular decompression 是神經血管壓迫手術。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hydrocephalus-chiari-functional-neurosurgery"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -127332,7 +127745,10 @@
    "C": "正確。新生兒 meningitis 後蜘蛛膜絨毛吸收受損，常形成 communicating hydrocephalus。",
    "D": "正確。Chiari II malformation 與 myelomeningocele 相關，是先天性水腦症的重要原因。",
    "summary": "水腦症先問阻塞在哪：aqueductal stenosis 卡在腦室內，所以是 non-communicating。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hydrocephalus-chiari-functional-neurosurgery"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -131132,7 +131548,10 @@
    "C": "本項敘述正確。嚴重且長期壓迫時，正中神經支配的拇指球肌會萎縮，表現為魚際塌陷與拇指外展無力。",
    "D": "本項應選。魚際部位的皮膚感覺由掌皮支支配，而這條分支在進入腕隧道「之前」就分出來，所以不會麻。麻的範圍是拇指、食指、中指與無名指橈側的掌面。魚際也麻反而要往更近端的旋前圓肌症候群想。",
    "summary": "腕隧道症候群麻的是三指半的掌面，魚際皮膚不麻（掌皮支走隧道外）——但魚際肌肉會萎縮。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-nerve-lesions"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131165,7 +131584,10 @@
    "C": "本項不選。diazepam 口服可用於痙攣，但鎮靜作用明顯，也沒有脊椎腔內劑型。",
    "D": "本項不選。dantrolene 直接作用在肌肉的肌漿網，是唯一的周邊型抗痙攣藥，主要副作用是肝毒性。",
    "summary": "脊椎腔內幫浦給的是 baclofen：劑量小、副作用少，但絕不能突然斷藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131198,7 +131620,10 @@
    "C": "本項不選。駐波發生在超音波遇到骨骼等反射面時，入射波與反射波疊加，可能造成血球停滯與內皮損傷，是治療時要移動探頭的理由。",
    "D": "正確答案是它——都卜勒效應是超音波用於「診斷」時測量血流速度的物理原理，不是治療性超音波的生物效應。治療性超音波的效應分兩類：熱效應（深層加熱）與非熱效應（空穴、聲射流、駐波）。",
    "summary": "治療超音波的效應分熱與非熱兩類；都卜勒是診斷用的物理原理，不屬於生物效應。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131231,7 +131656,10 @@
    "C": "本項敘述正確。上肢無法推動時可用足驅動輪椅（座位較低讓腳踩得到地）或電動輪椅。",
    "D": "本項敘述正確。手推圈直徑越大，力臂越長，推動所需的力量越小，代價是每推一次前進的距離較短。",
    "summary": "輪椅省力的兩個調整：後輪軸往前移、手推圈直徑加大；代價是穩定度下降與每推距離變短。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131264,7 +131692,10 @@
    "C": "本項不選。肩外展屬於屈曲協同的一部分。",
    "D": "本項不選。肩外轉同樣包含在屈曲協同動作中。",
    "summary": "上肢屈曲協同＝肩外展外轉、肘屈、前臂旋後；伸展協同才是肩內收內轉、肘伸、前臂旋前。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-rehab-techniques-complications"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131297,7 +131728,10 @@
    "C": "本項不選。吞嚥障礙是腦傷急性期的重要問題，但多數會恢復，不是這個三角的成員。",
    "D": "本項不選。肢體失用症屬於局部皮質功能缺損，不是形成長期失能的典型三角組合。",
    "summary": "腦傷後的失能三角：慢性疼痛＋創傷後壓力症＋腦傷後症狀；三者要一起處理才有效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neurorehab-tbi-bladder-principles"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131330,7 +131764,10 @@
    "C": "本項敘述正確。前十字韌帶、內側副韌帶與內側半月板同時受傷就是不幸三聯徵。",
    "D": "本項敘述正確。前十字韌帶損傷遠比後十字韌帶常見，後者多來自屈膝時前方直接撞擊。",
    "summary": "Lachman 與前抽屜測前十字；後抽屜與 sag sign 測後十字，別接反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131399,7 +131836,10 @@
    "C": "本項不選。側臥時下肢屈曲能放鬆腹肌、減少橫膈負擔。",
    "D": "本項不選。仰臥屈膝可放鬆腹壁，讓橫膈活動更有效率。",
    "summary": "慢性阻塞性肺病的放鬆擺位重點是「把上肢撐住」：肩帶固定住，輔助呼吸肌才拉得動胸廓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131468,7 +131908,10 @@
    "C": "本項不選。腰椎病灶保留部分髖屈與伸膝功能，足部變形多為跟骨足或馬蹄外翻足。",
    "D": "正確。薦椎病灶保留了大部分下肢功能，只有足內在肌與部分屈肌失去神經支配，肌力失衡的結果就是弓形的空凹足。這也符合一個通則：變形來自「有力與無力的拉扯」，完全沒有肌肉活動反而不會形成高足弓。",
    "summary": "神經管缺陷的足部變形看殘存肌力：完全麻痺是連枷足，病灶越低（薦椎）肌力失衡越明顯，形成空凹足。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131537,7 +131980,10 @@
    "C": "本項不選。在關節中立位活動可減少關節壓力與疼痛，是關節保護的核心原則。",
    "D": "本項不選。以工具或設備取代人力，是工作簡化的基本做法。",
    "summary": "省力與工作簡化四原則：常用物品放手邊、善用槓桿與重力、關節保持中立位、能用工具就別用蠻力。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "home-accessibility-orthoses"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131570,7 +132016,10 @@
    "C": "本項敘述正確。大輪一般 22 到 26 吋，太大時病人手臂搆不到後方的推圈起始點，反而更費力。",
    "D": "本項應選。椅背高度要落在肩胛骨「下角」以下，讓肩胛骨能自由活動；高到肩胛上緣會卡住肩胛動作、限制推行。只有軀幹控制很差需要支撐時，才刻意選高背。",
    "summary": "輪椅椅背高度以肩胛下角為界：低於它才推得動，高背是給需要軀幹支撐的人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -137611,7 +138060,10 @@
    "C": "正確。頭傷後先短暫失去意識、再出現 lucid interval，提示 epidural hematoma 逐漸擴大壓迫腦部。",
    "D": "錯誤。這句不對。corticosteroids 不改善 TBI 預後，反而可能增加死亡風險，不作常規腦水腫治療。",
    "summary": "外傷後 lucid interval 要警覺 epidural hematoma；primary injury 不能逆轉，重點是防 secondary injury。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tbi-hematomas-icp"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138138,7 +138590,10 @@
    "C": "正確。急性不完全脊髓損傷合併持續壓迫時，24 小時內手術減壓可望改善部分神經功能，需依穩定度與病人狀況判斷。",
    "D": "錯誤。這句不對。急性創傷先以 CT 評估骨折與排列；MRI 對脊髓、韌帶與椎間盤更敏感，但不是所有人首選第一張影像。",
    "summary": "acute SCI 先固定、CT 看骨頭；有不完全損傷和壓迫時，早期減壓才是有機轉的治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "incomplete-spinal-cord-syndromes"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138171,7 +138626,10 @@
    "C": "正確。cervical myelopathy 可造成 spasticity、clonus、步態僵硬與手部精細動作變差，都是長徑壓迫訊號。",
    "D": "錯誤。這句不對。患者可有手麻、paresthesia 或本體覺異常，感覺神經不會一概正常。",
    "summary": "頸髓病變看到 hyperreflexia、clonus、spastic gait，加上手麻手笨，就要連到脊髓受壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138204,7 +138662,10 @@
    "C": "正確。放射治療與化學治療會依 glioma 的組織學、grade 與分子標記選擇。",
    "D": "正確。diffuse pontine glioma 可侵犯腦神經核，臨床上會有多發性腦神經麻痺。",
    "summary": "glioma 最難的不是找到，而是它沿白質浸潤；所以追求最大安全切除，不等於硬拚全切。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138237,7 +138698,10 @@
    "C": "正確。這句可接受。Barrow type B、C、D 的 carotid-cavernous fistula 屬間接型 dural fistula；題目所稱第二型是此分類概念。",
    "D": "正確。這句正確。靜脈竇栓塞後形成異常硬腦膜動靜脈交通，是 dural arteriovenous fistula 的重要成因。",
    "summary": "dural AV fistula 的危險不是只有頭痛；回流進皮質靜脈時會出血，且常和靜脈竇栓塞有關。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138270,7 +138734,10 @@
    "C": "正確。NF1 患者一生發生 malignant peripheral nerve sheath tumor 的風險約可達 8–13%，10% 是常用考點。",
    "D": "本項應選。NF1 與 optic pathway glioma、其他 glioma 及周邊神經鞘腫瘤都相關；schwannoma 更典型於 NF2，但不能說 NF1 無關。",
    "summary": "NF1 在 17q11.2，會想到 neurofibroma、optic pathway glioma、MPNST；雙側 schwannoma 才更像 NF2。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brain-tumors-adult"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -142229,7 +142696,10 @@
    "C": "本項不選。腫塊效應來自血腫或水腫擴大，屬於續發性。",
    "D": "本項不選。腦水腫在傷後數小時到數天逐漸形成，同樣是續發性損傷。",
    "summary": "原發性損傷（挫傷、軸突剪切）在撞擊當下就決定了；治療能改變的是續發性損傷（水腫、顱壓、缺氧、低血壓）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neurorehab-tbi-bladder-principles"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142262,7 +142732,10 @@
    "C": "本項敘述正確。脛前肌由深腓神經支配，負責足背屈；受損就是垂足。",
    "D": "本項敘述正確。腓長肌與腓短肌由淺腓神經支配，負責足外翻。",
    "summary": "腓神經分工：深腓管背屈（垂足）＋第一二趾間那塊皮膚，淺腓管外翻＋足背其餘感覺。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lower-limb-nerve-lesions"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142295,7 +142768,10 @@
    "C": "正確答案是它——脊柱側彎的發生率與病灶高度密切相關：胸椎病灶幾乎都會側彎，薦椎病灶則少見，整體而言比前三項少。前三項幾乎是這個疾病的必然組合。",
    "D": "本項不選。Arnold-Chiari 第二型畸形幾乎見於所有脊髓脊膜膨出病人，是水腦症的解剖基礎。",
    "summary": "脊髓脊膜膨出的三個幾乎必然：神經性膀胱、水腦、Chiari II；側彎則要看病灶多高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-neuromuscular-myelomeningocele"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142328,7 +142804,10 @@
    "C": "正確。Rancho Los Amigos 認知功能量表把腦傷後的恢復分成八個層級，從沒有反應、混亂躁動一路到有目的且適當的反應。它是復健團隊在腦傷病房共同溝通病人認知狀態、決定治療策略與環境安排的標準工具。",
    "D": "本項不選。功能獨立性測量評的是日常生活功能與所需協助量，雖然含有認知子項，但不是專門評估認知恢復階段的工具。",
    "summary": "腦傷認知恢復用 Rancho Los Amigos 八級；動作恢復用布氏階段、張力用阿修氏、功能用 FIM。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neurorehab-tbi-bladder-principles"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142361,7 +142840,10 @@
    "C": "本項敘述正確。PEACE 中的 A 是避免抗發炎藥物與冰敷，理由是發炎是修復的必要過程，過度壓抑反而影響癒合。",
    "D": "本項應選。LOVE 的 E 是「運動（exercise）」而不是抬高。完整是 Load（負荷）、Optimism（樂觀）、Vascularisation（有氧促進血流）、Exercise（運動），對應的是急性期之後的亞急性處理。",
    "summary": "新版口訣是 PEACE & LOVE：前期避免抗發炎與過度保護，後期靠負荷與運動修復；E 是 exercise 不是 elevation。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142394,7 +142876,10 @@
    "C": "本項敘述正確。義足要重建踝與足的功能，可依活動需求選擇 SACH 足、單軸、多軸或能量儲存型。",
    "D": "本項敘述正確。套筒太鬆會產生活塞運動，造成殘肢皮膚摩擦破皮與步態不穩。",
    "summary": "膝下義肢的懸吊有多種：綁帶、髁上夾持、矽膠插銷、真空吸附；太緊會壓瘡、太鬆會活塞運動。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amputation-prosthetics"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142463,7 +142948,10 @@
    "C": "本項不選。這個方法訓練的主角是橫膈，不是外肋間肌。",
    "D": "本項不選。加重的門檻通常是能在正確呼吸型態下維持 15 分鐘，5 分鐘太短。",
    "summary": "沙包放上腹訓練橫膈：從輕開始、能撐 15 分鐘再加重；病人一用到頸肩輔助肌就代表太重了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pulmonary-rehab-airway-clearance"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142499,7 +142987,10 @@
    "C": "本題一律給分。斜頸病人合併髖關節發育不良的比例約一到兩成，確實應該一併評估，這一項是對的。",
    "D": "本題一律給分。兩者的發生率相近（都在千分之幾的等級），把斜頸說成明顯較低並不精確。因為選項的正確與否互相矛盾，官方公告一律給分。",
    "summary": "看到先天性肌肉性斜頸就順手檢查髖關節；髖關節發育不良的高風險是女嬰、臀位產、頭胎與家族史。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "peds-rehab-development-msk"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142604,7 +143095,10 @@
    "C": "本項不選。運動用的是輕量化的手動運動輪椅，電動輪椅並不適合。",
    "D": "本項不選。電動輪椅需要學習操控搖桿、判斷路況與充電維護，上手門檻反而較高，認知功能不佳者還不一定適用。",
    "summary": "電動輪椅換來的是「省上肢」：代價是重量、運輸、費用與學習門檻。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "wheelchair-prescription"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142637,7 +143131,10 @@
    "C": "正確答案是它——淋巴水腫的治療原則是「加壓」而不是「減壓」。完整消腫治療四大要素是徒手淋巴引流、多層低彈性繃帶加壓、運動與皮膚照護，維持期再換成壓力臂套。所謂減壓治療不是這個領域的標準名詞。",
    "D": "本項不選。壓力臂套是維持期的主力，用來防止已消退的水腫再回來。",
    "summary": "淋巴水腫治療＝完整消腫治療：徒手引流、加壓繃帶、運動、皮膚照護；核心邏輯是加壓不是減壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cancer-and-geriatric-rehab"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142670,7 +143167,10 @@
    "C": "本項應選。血栓性靜脈炎是電療的「禁忌」而不是適應症——刺激可能讓血栓脫落造成肺栓塞。其他選項列的下背痛、退化性關節炎、肌腱炎與韌帶扭傷都是合理適應症。",
    "D": "本項敘述正確。頸動脈竇附近禁用，以免刺激壓力感受器造成心搏過緩或心律不整。",
    "summary": "電療禁忌記：心律調節器、頸動脈竇、血栓性靜脈炎、惡性腫瘤處、感覺喪失區、孕婦腹部與骨盆。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "physical-modalities-soft-tissue-injury"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142705,7 +143205,10 @@
    "C": "本項不選。退化性關節炎的影像重點是關節間隙變窄、骨刺與軟骨下硬化，位置在盂肱關節而不是肌腱內。",
    "D": "本項不選。外生骨疣是與骨皮質相連的骨性突起，不會出現在肌腱實質內。",
    "summary": "肩痛加上肌腱內的界線清楚鈣化團＝鈣化性肌腱炎；急性劇痛期正是鈣化被吸收的時候。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-soft-tissue-rehab"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142780,7 +143283,10 @@
    "C": "正確。年輕人在外傷後出現腦梗塞，加上 T1 脂肪抑制影像看到內頸動脈管壁的新月形高訊號（壁內血腫）與管腔狹窄，就是頸動脈剝離。它是年輕型中風最重要的原因之一，治療用抗凝血或抗血小板，多數血管會自行癒合。",
    "D": "本項不選。頸動脈體腫瘤位在頸動脈分岔處，會把內外頸動脈撐開（高腳杯徵象），是富血管的腫塊而不是管壁增厚。",
    "summary": "年輕人外傷後中風＋管壁新月形血腫＝頸動脈剝離；影像關鍵是 T1 脂肪抑制看壁內血腫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "carotid-stenosis-dissection-fmd"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -142882,7 +143388,10 @@
    "C": "本項敘述正確。單側或雙側坐骨神經痛是常見表現，雙側坐骨神經痛更要提高警覺。",
    "D": "本項敘述正確。會陰部的鞍狀感覺異常是典型徵象。",
    "summary": "馬尾症候群的紅旗：鞍狀感覺異常、尿滯留、雙側坐骨神經痛、肛門括約肌張力下降——要當急診手術處理。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "degenerative-spine-radiculopathy-myelopathy"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
