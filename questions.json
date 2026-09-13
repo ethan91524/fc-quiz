@@ -316,7 +316,10 @@
    "B": "本項不選。beta-blocker 要在沒有明顯水腫、血流動力穩定時才開始，這正是選項強調「臨無水腫」的原因。急性代償不全時先利尿，穩定後再從小劑量慢慢加。有實證的是 carvedilol、bisoprolol、metoprolol succinate。",
    "C": "本項不選。aldosterone antagonist 用在 HFrEF 不是為了利尿，而是阻斷醛固酮造成的心肌纖維化。所以沒有水腫也該用，要監測血鉀和腎功能。",
    "D": "本項應選。這是錯的敘述。nitrate 加 hydralazine 不是優先選擇。它的定位是兩種情況：完全不能用 ACEI／ARB／ARNI 的人，或已用足四大支柱仍有症狀的非裔族群加藥。把它排第一線就是錯的。",
-   "summary": "HFrEF 背四大支柱：ARNI／ACEI、beta-blocker、MRA、SGLT2 inhibitor；nitrate 加 hydralazine 是備案不是首選。"
+   "summary": "HFrEF 背四大支柱：ARNI／ACEI、beta-blocker、MRA、SGLT2 inhibitor；nitrate 加 hydralazine 是備案不是首選。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -963,7 +966,10 @@
    "C": "本項不選。thiazide 增加遠端腎小管的鈣再吸收，讓尿鈣下降。這位病人本來就有高血壓，一藥兩用剛好。",
    "D": "本項應選。低鈣飲食反而幫倒忙。腸道裡的鈣本來會抓住草酸一起排掉；鈣少了，游離的草酸吸收變多，尿草酸反而上升。所以要維持正常飲食鈣，不是限制。",
    "summary": "草酸鈣結石要「多喝水、少吃鹽、鈣照常吃」——限鈣是最常見的錯誤衛教。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1672,7 +1678,9 @@
    "D": "本項不選。瀰散障礙加上通氣灌流不均會讓 PaO2 下降。運動時血液流過肺微血管更快，來不及交換，低血氧會更明顯。",
    "summary": "間質性肺疾是「肺容積變小＋DLco 降低＋運動更喘」，不是氣道被塞住。",
    "guideline": "FC 醫學(三)第1冊 p.353",
-   "concepts": []
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1706,7 +1714,9 @@
    "D": "本項不選。結核性胸水靠的是完整的抗結核藥物療程；引流只是為了症狀或診斷。肋膜粘連術（pleurodesis）留給反覆的惡性胸水或復發性氣胸。",
    "summary": "結核性胸水＝病灶破進肋膜後的免疫反應：淋巴球多、間皮細胞少、ADA 高，治療靠藥不靠粘連術。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pleural-fluid-analysis"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2473,7 +2483,10 @@
    "C": "Tamoxifen 等風險降低藥物只建議提供給乳癌風險增加且藥物傷害風險低的女性，必須個別權衡血栓與子宮內膜癌等傷害，並非普遍 Grade A。",
    "D": "補充 vitamin D 預防社區老年人骨折的證據與建議取決於族群及合併 calcium 等條件，不能概括為所有 65 歲以上者的 Grade A 化學預防。",
    "summary": "USPSTF Grade A 的經典化學預防是具懷孕可能者每日 400～800 µg folic acid。",
-   "guideline": "USPSTF, Folic Acid Supplementation to Prevent Neural Tube Defects: Preventive Medication (2023)"
+   "guideline": "USPSTF, Folic Acid Supplementation to Prevent Neural Tube Defects: Preventive Medication (2023)",
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2511,7 +2524,10 @@
    "C": "成人 alcohol misuse 可先用篩檢工具辨識，再施行 brief behavioral counseling；簡短介入本身就是基層醫療的重要有效策略。",
    "D": "戒菸可由簡短的 5A 諮詢啟動，並搭配藥物及後續追蹤；即使完整治療常需追蹤，也不表示簡短諮詢毫無作用。",
    "summary": "STI 風險降低需要比單次提醒更密集的行為諮詢；酒精與戒菸則可由 brief intervention 啟動。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -3122,7 +3138,9 @@
    "D": "病毒性哮吼常見於晚秋至初冬，parainfluenza virus 是重要病原，季節敘述符合其流行病學。",
    "summary": "Croup 的影像考點是 steeple sign；thumb sign 指向 epiglottitis，兩者不可混淆。",
    "guideline": "FC 醫學(四)第1冊 p.221",
-   "concepts": []
+   "concepts": [
+    "croup-vs-epiglottitis"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3694,7 +3712,9 @@
    "D": "5α-reductase deficiency 使 testosterone 無法充分轉為 DHT，46,XY 胎兒的外生殖器男性化不足，可表現 micropenis、hypospadias 或外觀女性化。",
    "summary": "46,XY 嚴重 hypospadias 加 micropenis 指向 androgen 生成或作用不足；會造成 androgen 過多的 21-hydroxylase deficiency 最不相符。",
    "guideline": "FC 醫學(四)第1冊 p.378",
-   "concepts": []
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3957,7 +3977,9 @@
    "D": "不是適應症。Qp:Qs <2:1 通常代表分流量未達大型血流動力學負荷；若沒有症狀、左心擴大或肺高壓，不能僅憑此值要求嬰兒期修補。",
    "summary": "VSD 嬰兒期修補看難治性 heart failure、failure to thrive、肺高壓與顯著左至右分流；Qp:Qs <2:1 本身不支持。",
    "guideline": "FC 醫學(四)第1冊 p.38",
-   "concepts": []
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3996,7 +4018,9 @@
    "D": "單純 VSD 是左至右分流，通常不造成 cyanosis；哭泣時唇色稍偏紫可能受周邊灌流或觀察影響，不如 prolonged feeding 具血流動力學意義。",
    "summary": "VSD 嬰兒的心衰竭常先表現在餵食：時間過長、流汗、呼吸急促與體重增加不良。",
    "guideline": "FC 醫學(四)第1冊 p.39",
-   "concepts": []
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4150,7 +4174,10 @@
    "C": "本項不選。先天性甲狀腺低能症用 TSH 篩檢。這是新生兒篩檢裡效益最高的項目之一——及早補充甲狀腺素就能完全避免智能障礙。",
    "D": "本項應選。先天性腎上腺增生症篩的是 **17-hydroxyprogesterone**，不是雄性素。因為最常見的 21-hydroxylase 缺乏會讓 17-OHP 大量堆積在酵素阻斷點的上游。及早發現的意義是避免失鹽危象致命。",
    "summary": "先天性腎上腺增生症篩 17-OHP——它是 21-hydroxylase 缺乏時堆在上游的那個代謝物，不是驗雄性素。",
-   "guideline": "國健署新生兒篩檢項目（CAH 以 17-OHP 為初篩指標）"
+   "guideline": "國健署新生兒篩檢項目（CAH 以 17-OHP 為初篩指標）",
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4875,7 +4902,10 @@
    "C": "正確。早期 Alzheimer disease 的典型 CSF biomarker 是 Aβ42 降低、phosphorylated tau 上升；前者反映腦內沉積，後者反映 tau-related neuronal injury。",
    "D": "Aβ42 下降雖符合 amyloid pathology，但 phosphorylated tau 通常上升而非下降；兩項方向合併可提高診斷支持度。",
    "summary": "Alzheimer disease 的 CSF 組合為 Aβ42 下降、phosphorylated tau 上升。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4913,7 +4943,10 @@
    "C": "快速動眼期睡眠行為障礙（REM sleep behavior disorder）反映 REM atonia 消失，常先於或伴隨 dementia with Lewy bodies。",
    "D": "路易氏體失智症（dementia with Lewy bodies） 可有 marked cognitive fluctuation、unexplained falls、syncope 與 transient unresponsiveness，與 autonomic dysfunction 及警醒度波動相關。",
    "summary": "路易氏體失智症的早期視幻覺、認知波動與 REM sleep behavior disorder 很典型；dopamine agonist 可能惡化精神症狀。",
-   "guideline": "FC 醫學(四)第4冊 p.207"
+   "guideline": "FC 醫學(四)第4冊 p.207",
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4946,7 +4979,10 @@
    "C": "周邊神經病變常有 numbness、paresthesia、neuropathic pain，長纖維病變多呈 length-dependent stocking-glove distribution。",
    "D": "小纖維或 autonomic nerve 受損可造成 orthostatic hypotension、出汗異常、腸胃蠕動或膀胱與性功能障礙。",
    "summary": "周邊神經病變可同時影響運動、感覺與自律神經，但反射通常下降而非增強。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -8116,7 +8152,10 @@
    "C": "正確。軟骨性腫瘤的良惡性與分級可能在單一小片檢體上難以判斷，須整合疼痛等臨床表現、影像侵襲性及組織細胞異型性，避免低估異質性腫瘤。",
    "D": "傳統型軟骨肉瘤對一般化學治療與放射治療相對不敏感，治療核心是取得足夠邊界的完整手術切除；術前放射治療並非常規流程。",
    "summary": "軟骨肉瘤的分級需臨床、影像與病理三方整合；傳統型治療以廣泛切除為核心。",
-   "guideline": "FC 醫學(五)第6冊 p.134"
+   "guideline": "FC 醫學(五)第6冊 p.134",
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8377,7 +8416,10 @@
    "C": "最不適宜。感染合併阻塞時應先引流並給抗生素，不宜立刻操作結石；體外震波碎石術（extracorporeal shock wave lithotripsy）更因胎兒受震波與輻射風險而禁用於孕期。",
    "D": "單純補液觀察只適合症狀可控且沒有感染性阻塞者；本例已有尿路感染與中度腎積水，若出現發燒、敗血症或腎功能惡化仍須緊急引流。",
    "summary": "孕婦合併感染性輸尿管阻塞時先以 PCN 或 ureteral stent 引流；孕期不可做 ESWL，感染未控制前也不做立即碎石。",
-   "guideline": "FC 醫學(五)第5冊 p.139"
+   "guideline": "FC 醫學(五)第5冊 p.139",
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8605,7 +8647,10 @@
    "C": "只有抗生素無法充分處理由結石封閉的感染集尿系統；source control 延誤可能進展為 septic shock。",
    "D": "利尿劑不能越過 1 cm 上段輸尿管結石，反而可能提高阻塞系統內壓；低血壓病人也不應以利尿促排取代復甦與引流。",
    "summary": "感染性阻塞是泌尿急症：先抗生素、復甦與緊急 PCN 或 stent 減壓，感染控制後才碎石。",
-   "guideline": "FC 醫學(五)第5冊 p.140"
+   "guideline": "FC 醫學(五)第5冊 p.140",
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -12282,7 +12327,10 @@
    "B": "正確答案。肥胖會讓 BNP 和 NT-proBNP 濃度低於同樣嚴重、但不肥胖的心衰竭病人，所以偏低的數值不能輕易排除心衰竭。",
    "C": "本項不選。腎衰竭會降低利鈉胜肽的清除，又常伴容量負荷，讓 BNP 或 NT-proBNP 的基準值偏「高」，不是有心衰竭也不易上升。",
    "D": "本項不選。反覆系列測 BNP 不是住院心衰竭調藥的唯一或常規依據。治療還是靠症狀、鬱血、體重、尿量、腎功能和血流動力學整體判斷。",
-   "summary": "BNP 是支持或排除心衰竭的輔助值，不是單一確診值；肥胖讓數值偏低，腎衰竭讓數值偏高。"
+   "summary": "BNP 是支持或排除心衰竭的輔助值，不是單一確診值；肥胖讓數值偏低，腎衰竭讓數值偏高。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13563,7 +13611,9 @@
    "D": "本項不選。支氣管激發試驗是用在懷疑氣喘、但基礎肺功能正常的人身上。這位長期吸菸加上影像過度充氣，該先評估的是 COPD。",
    "summary": "抽菸史＋爬坡喘＋X 光雙肺過黑＝先做含肺容積的完整肺功能，一次看阻塞與過度充氣。",
    "guideline": "FC 醫學(三)第1冊 p.294",
-   "concepts": []
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13984,7 +14034,8 @@
    "summary": "CAH 最常見是 CYP21A2 缺陷：cortisol 低、ACTH 高、17-OH progesterone 也高。",
    "guideline": "FC 醫學(三)第2冊 p.264",
    "concepts": [
-    "21-hydroxylase-deficiency"
+    "21-hydroxylase-deficiency",
+    "cah-enzyme-deficiencies"
    ]
   },
   "source": "110080/302_11",
@@ -15048,7 +15099,10 @@
    "C": "正確。麻疹（measles）先有發燒、咳嗽、鼻炎、結膜炎，再出現由臉開始向下蔓延的斑丘疹。圖上在臼齒對應的頰黏膜可以看到細小的白色斑點，也就是柯氏斑（Koplik spots）。它出現在出疹前一到兩天，是麻疹最具特異性的徵象。加上三 C（咳嗽、鼻炎、結膜炎）與從臉部往下蔓延的紅疹，還有國外旅遊史，診斷就相當明確；台灣屬法定傳染病要 24 小時內通報。",
    "D": "這題不選。玫瑰疹（roseola）通常是高燒退後才由軀幹冒疹，和本例仍在發燒期且先臉部出疹不同。",
    "summary": "發燒加咳嗽、鼻炎、結膜炎後從臉往下出疹，是麻疹的時間順序。",
-   "guideline": "FC 醫學(四)第1冊 p.623"
+   "guideline": "FC 醫學(四)第1冊 p.623",
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -15545,7 +15599,10 @@
    "C": "官方一律給分。急性腎小管壞死（acute tubular necrosis）時小管不能有效重吸收鈉，urine sodium 常較高。",
    "D": "官方一律給分。泌尿道阻塞的尿鈉表現會隨阻塞早晚期與腎功能改變，單一數值不一定可靠。",
    "summary": "第 15 題官方一律給分；判尿鈉時先分腎前性保鈉與腎小管損傷漏鈉，但別把單一數字當絕對。",
-   "guideline": "FC 醫學(四)第1冊 p.192"
+   "guideline": "FC 醫學(四)第1冊 p.192",
+   "concepts": [
+    "aki-prerenal-intrinsic-postrenal"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -15654,7 +15711,10 @@
    "C": "這題不選。Guillain-Barré syndrome 是急性、進展性的周邊神經病變，常有近期感染與反射減弱，不是慢性嬰兒型低張力的典型答案。",
    "D": "這題不選。acute myositis 多在病毒感染後造成短暫小腿肌痛或無力，無法解釋嬰兒的 tongue fasciculation。",
    "summary": "嬰兒低張力加舌束顫動，先鎖定下運動神經元疾病 SMA。",
-   "guideline": "FC 醫學(四)第1冊 p.304"
+   "guideline": "FC 醫學(四)第1冊 p.304",
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -15763,7 +15823,10 @@
    "C": "正確。一歲兩個月仍不能拉著物體站起來，表示粗大動作落後較明顯，應進一步評估肌張力、肌力與整體發展。",
    "D": "這題不選。有意義叫爸爸、媽媽通常在約一歲前後出現；若語言、互動和聽力都異常才更需加速轉介。",
    "summary": "一歲多的發展篩檢先看大動作是否前進：不會扶物站起來比單一精細動作更需要評估。",
-   "guideline": "FC 醫學(四)第1冊 p.348"
+   "guideline": "FC 醫學(四)第1冊 p.348",
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16029,7 +16092,10 @@
    "C": "這題不選。未處理 ASD 長期右心房擴張，成年後會增加 atrial flutter 或 atrial fibrillation 等心房心律不整。",
    "D": "這題不選。多數有合適邊緣的 secundum ASD 可用 catheter device occlusion 關閉，並非都需開心手術。",
    "summary": "ASD 聽診是固定分裂 S2，不是 thrill；sinus venosus 型要聯想異常肺靜脈回流。",
-   "guideline": "FC 醫學(四)第1冊 p.38"
+   "guideline": "FC 醫學(四)第1冊 p.38",
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -20108,7 +20174,10 @@
    "C": "微血管擴張性骨肉瘤（telangiectatic osteosarcoma）與動脈瘤性骨囊腫都可呈膨脹性溶骨病灶及液液平面；前者具有惡性細胞與惡性骨樣組織，須靠取樣充分的病理區分。",
    "D": "骨旁骨肉瘤多為低度惡性、附著於皮質表面的骨生成腫瘤；完整廣泛切除是主要治療，若邊界不足會增加局部復發風險。",
    "summary": "stuck-on 骨化腫塊屬骨旁骨肉瘤，不是骨膜骨肉瘤；不同表面型骨肉瘤的分級與影像要分清。",
-   "guideline": "FC 醫學(五)第6冊 p.133"
+   "guideline": "FC 醫學(五)第6冊 p.133",
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20413,7 +20482,10 @@
    "C": "經皮腎造瘻取石術需穿刺腎實質，出血風險高於 ureteroscopy；對持續抗凝或抗血小板者不是本例首選。",
    "D": "開放式腎盂截石術創傷與出血風險均大，現代多保留給特殊解剖或內視鏡治療失敗，不適合優先處理此 1.5 cm 結石。",
    "summary": "不能中斷抗栓治療的症狀性腎結石，ureteroscopy 通常比 ESWL、PCNL 更合適。",
-   "guideline": "FC 醫學(五)第5冊 p.139"
+   "guideline": "FC 醫學(五)第5冊 p.139",
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21382,7 +21454,9 @@
    "D": "VKH 初期可有 meningismus、頭痛及 CSF lymphocytic pleocytosis，屬神經耳科前驅表現；即使沒有腰椎穿刺結果也不能排除。",
    "summary": "VKH 急性期以雙眼葡萄膜炎、serous retinal detachment、神經與聽覺症狀為主；vitiligo、poliosis、alopecia 通常較晚出現。",
    "guideline": "FC 醫學(六)第2冊 p.84",
-   "concepts": []
+   "concepts": [
+    "retinal-detachment-types"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21421,7 +21495,9 @@
    "D": "虹彩炎（iritis）樣的前房反應可見於長期或廣泛 retinal detachment；脫離的 retina 釋出色素細胞與發炎介質，使 anterior chamber 出現 cells。",
    "summary": "Rhegmatogenous retinal detachment 可有 RAPD、低眼壓與輕度前房反應；macropsia 不是典型表現。",
    "guideline": "FC 醫學(六)第2冊 p.154",
-   "concepts": []
+   "concepts": [
+    "retinal-detachment-types"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22668,7 +22744,10 @@
    "C": "黏液性囊腺瘤（mucinous cystadenoma）常為巨大、多房且內含黏液的腫瘤，組織學以黏液上皮為主，不以砂粒體為特徵。",
    "D": "成熟囊性畸胎瘤含外胚層、中胚層或內胚層衍生組織，常見皮脂、毛髮與鈣化牙齒或骨骼；其鈣化不是典型砂粒體。",
    "summary": "卵巢腫瘤見同心圓狀砂粒體時，應優先聯想到漿液性上皮腫瘤。",
-   "guideline": "FC 醫學(六)第1下冊 p.27"
+   "guideline": "FC 醫學(六)第1下冊 p.27",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22785,7 +22864,10 @@
    "C": "輸卵管子宮外孕需在輸卵管組織中辨認 chorionic villi 或 trophoblast，並常有 β-hCG 陽性與停經；最後月經 27 天前本身不能證實異位妊娠。",
    "D": "正確。成熟囊性畸胎瘤（mature cystic teratoma）常見於年輕女性，可因卵巢扭轉造成急性腹痛、噁心與嘔吐；病理可見皮膚、毛髮、皮脂腺等成熟組織。切下來的標本裡看得到成團的毛髮與黃白色的皮脂樣物質，這是成熟囊性畸胎瘤最直接的證據——它由三個胚層分化而來，所以才會長出皮膚附屬器。年輕女性突發下腹痛加上附屬器腫塊，要優先想到它扭轉。",
    "summary": "年輕女性的附件腫塊合併急性扭轉症狀，若病理見多胚層成熟組織，最支持成熟囊性畸胎瘤。",
-   "guideline": "FC 醫學(六)第1下冊 p.27"
+   "guideline": "FC 醫學(六)第1下冊 p.27",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22940,7 +23022,10 @@
    "C": "正確。不孕與未生育常和較多終生排卵週期及某些不孕病因相關，因此相較多產、口服避孕藥與輸卵管結紮，是卵巢癌較相關的危險因子。",
    "D": "輸卵管結紮與上皮性卵巢癌風險降低相關，可能減少致癌物或發炎因子由下生殖道到達附件；它不是本題要找的增加風險因子。",
    "summary": "卵巢癌風險與終生排卵次數相關：不孕／未生育提高風險，多產與口服避孕藥降低風險。",
-   "guideline": "FC 醫學(六)第1下冊 p.36"
+   "guideline": "FC 醫學(六)第1下冊 p.36",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23854,7 +23939,9 @@
    "D": "不正確。無力突然發生可由腦中風、癲癇後 Todd paralysis 或急性周邊神經病變造成；發作速度本身不能定位到周邊神經。",
    "summary": "無力若合併神經痛與感覺異常，要先想到周邊神經；反射亢進則把定位拉回中樞。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24479,7 +24566,10 @@
    "B": "本項不選。bisoprolol 是 β1-selective blocker，已證實可改善穩定 HFrEF 的預後。開始和調升時要確認沒有急性低灌流或明顯失代償。",
    "C": "正確答案。propranolol 雖然是 β-blocker，但沒有被列為改善 HFrEF 存活的實證藥物。它的非選擇性作用也不能取代 carvedilol、bisoprolol 或 metoprolol succinate。",
    "D": "本項不選。metoprolol succinate 是長效製劑，有改善 HFrEF 死亡和住院的實證。不能把證據外推成所有 metoprolol 劑型都一樣。",
-   "summary": "能改善 HFrEF 預後的實證 β-blocker 是 carvedilol、bisoprolol、metoprolol succinate；propranolol 不在其中。"
+   "summary": "能改善 HFrEF 預後的實證 β-blocker 是 carvedilol、bisoprolol、metoprolol succinate；propranolol 不在其中。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24972,7 +25062,10 @@
    "C": "本項不選。tiopronin 與 penicillamine 是用來治胱胺酸尿症（cystinuria）的：靠 thiol 結合 cystine 增加溶解度。不是胱胺酸結石就不該用。",
    "D": "本項不選。高劑量 vitamin C 在體內會代謝成草酸，反而可能造成高草酸尿與草酸鈣結石，不能拿來預防。",
    "summary": "結石預防要先看結晶種類：草酸鈣調 pH 沒用，胱胺酸才用 thiol 類藥物。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25735,7 +25828,9 @@
    "D": "本項不選。呼出氣一氧化氮（FeNO）支持第二型（type 2）氣道發炎、也能預測吸入型類固醇（ICS）的反應，但單靠它不能確診。",
    "summary": "有症狀又聽得到哮鳴時，先做支氣管擴張試驗證明可逆性；基礎肺功能正常才輪到激發試驗。",
    "guideline": "FC 醫學(三)第1冊 p.324",
-   "concepts": []
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25808,7 +25903,9 @@
    "D": "本項不選。肺氣腫是阻塞型的：FEV1/FVC 會下降、TLC 正常或上升。這題比值 78% 不低、TLC 又只有 70%，方向完全相反。",
    "summary": "肺功能三步走：先看 FEV1/FVC 分阻塞或限制，再看 TLC 定容積，最後用 DLco 判斷是不是肺實質出問題。",
    "guideline": "FC 醫學(三)第1冊 p.294",
-   "concepts": []
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26414,7 +26511,10 @@
    "C": "錯誤。梅毒螺旋體（Treponema pallidum）不造成典型「露珠狀水泡」；dewdrop on a rose petal 是水痘（varicella）的不同時期水疱。",
    "D": "HSV-1 常造成復發性唇疱疹（herpes labialis），表現為唇緣疼痛或灼熱後出現群聚小水疱。",
    "summary": "病原與皮膚型態配對：Pseudomonas—hot-tub folliculitis、S. pyogenes—lymphangitis、HSV-1—唇疱疹；dewdrop vesicle 是水痘。",
-   "guideline": "FC 醫學(三)第3冊 p.188"
+   "guideline": "FC 醫學(三)第3冊 p.188",
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26845,7 +26945,10 @@
    "B": "本項不選。ACE inhibitor 有胎兒毒性，懷孕期間禁用，不是孕婦心衰竭的首選。孕期用藥要依血流動力學和病因，選對胎兒較安全的方案。",
    "C": "正確答案。furosemide 增加尿中鈣排泄，可能造成低血鈣。它也會因容量收縮增加近端尿酸再吸收，導致高尿酸血症或誘發痛風。",
    "D": "本項不選。calcium channel blocker 沒被證實可降低 HFrEF 死亡率。有負性肌力的 verapamil、diltiazem 還可能讓收縮功能不全惡化。",
-   "summary": "HFrEF 的實證 β-blocker 能改善存活；loop diuretic 主要改善鬱血，要留意低血鈣和高尿酸這些代謝副作用。"
+   "summary": "HFrEF 的實證 β-blocker 能改善存活；loop diuretic 主要改善鬱血，要留意低血鈣和高尿酸這些代謝副作用。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -28256,7 +28359,10 @@
    "C": "本項不選。肺動脈瓣狹窄（pulmonary valve stenosis）是右心室流出阻塞，重點是壓力負荷與跨瓣壓差，不是肺血流過多的容量負荷。",
    "D": "本項不選。開放性動脈導管（patent ductus arteriosus）讓主動脈血流入肺動脈，會增加肺血流並使左心房與左心室容量負荷上升，和 PAPVR 偏右心負荷不同。",
    "summary": "PAPVR 記成「含氧血繞回右心」：右心擴大、肺血流多，血行力學像 ASD。",
-   "guideline": "FC 醫學(四)第1冊 p.37"
+   "guideline": "FC 醫學(四)第1冊 p.37",
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28972,7 +29078,10 @@
    "C": "本項不選。amyloid PET 陽性代表腦內有類澱粉蛋白沉積，能支持阿茲海默病理；它須配合症狀判讀，因為部分無症狀高齡者也可能陽性。",
    "D": "本項不選。FDG-PET 顯示顳頂葉（temporoparietal lobes）代謝降低，是阿茲海默症常見的功能性影像型態，和額顳葉失智症的前額顳葉低代謝不同。",
    "summary": "阿茲海默症的 CSF Aβ42 是下降，不是上升；看到海馬萎縮與顳頂葉低代謝可互相印證。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29125,7 +29234,10 @@
    "C": "本項不選。fasciculation 是整個運動單位自發放電造成病人可見或可感的肌束跳動，常見於前角細胞、神經根或周邊運動神經受損。",
    "D": "本項不選。下運動神經元斷線後，肌肉失去神經營養與收縮刺激，會逐漸肌肉萎縮（muscle atrophy），這與上運動神經元早期不同。",
    "summary": "LMN 病灶記四個字：萎縮、跳動、纖顫、反射低；痙攣是 UMN。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -32409,7 +32521,10 @@
    "C": "尿酸可自行形成 uric acid stone，也可作為 calcium oxalate crystal 的 nucleation nidus，故會促進成石。",
    "D": "正確。尿中 magnesium 可與 oxalate 結合並降低 calcium oxalate crystallization，一般被視為 inhibitor 而不是 promoter。",
    "summary": "Matrix、oxalate 與 uric acid 可促進結晶；magnesium 對 calcium oxalate 成石具有抑制作用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33364,7 +33479,9 @@
    "D": "每天 10 mg lutein 的證據主要涉及部分 macular pigment 或 age-related macular degeneration 議題，沒有可靠證據可預防 axial elongation 所致的 myopic CNV。",
    "summary": "Myopic CNV 來自眼軸延長與後極退化，corneal refractive surgery 或 lutein 不能消除風險；有活動性病灶用 intravitreal anti-VEGF。",
    "guideline": "FC 醫學(六)第2冊 p.153",
-   "concepts": []
+   "concepts": [
+    "amd-dry-vs-wet"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34597,7 +34714,10 @@
    "C": "骨盆超音波無游離輻射，可分辨囊性／實質、大小、血流及扭轉線索，是評估兒少卵巢腫瘤的第一線影像。",
    "D": "上皮性卵巢腫瘤的比例會隨年齡上升；在兒童與青少女遠少於生殖細胞腫瘤，因此「不常見」合理。",
    "summary": "兒少卵巢腫瘤多為生殖細胞來源；多數良性，但惡性比例不可用「很低」輕忽。",
-   "guideline": "FC 醫學(六)第1下冊 p.50"
+   "guideline": "FC 醫學(六)第1下冊 p.50",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35557,7 +35677,9 @@
    "D": "本項較不可能。12 個月多能敲兩塊積木、把物品放入容器；穩定重疊兩塊積木通常較晚才成熟。",
    "summary": "一歲先記扶走、拍手與揮手；積木能疊高是後面才逐步成熟的精細動作。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36501,7 +36623,10 @@
    "B": "本項不選。mineralocorticoid receptor antagonist 如 spironolactone、eplerenone，可降低適當 HFrEF 病人的死亡和住院，使用時要監測血鉀和腎功能。",
    "C": "正確答案。第二代 dihydropyridine calcium channel blocker 如 amlodipine，對部分 HFrEF 病人的血壓或心絞痛可算中性選擇，但不改善心衰竭的存活預後。",
    "D": "本項不選。angiotensin receptor–neprilysin inhibitor 同時阻斷 angiotensin receptor 和抑制 neprilysin，是降低 HFrEF 死亡和住院的核心治療之一。",
-   "summary": "ACE inhibitor、MRA、ARNI 都有 HFrEF 預後效益；第二代 calcium channel blocker 至多預後中性，不能取代疾病修飾治療。"
+   "summary": "ACE inhibitor、MRA、ARNI 都有 HFrEF 預後效益；第二代 calcium channel blocker 至多預後中性，不能取代疾病修飾治療。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38835,7 +38960,10 @@
    "B": "本項不選。主動脈假性動脈瘤（aortic pseudoaneurysm）是血管壁破裂後由周邊組織包起來的囊狀外凸，常有手術、外傷或感染背景，不會形成主動脈到肺動脈的導管交通。",
    "C": "本項不選。主動脈瘤（aortic aneurysm）是主動脈全層擴張，可能造成壓迫或主動脈瓣逆流雜音，但不會是連接肺動脈的持續管道。",
    "D": "本項不選。主動脈縮窄（coarctation of the aorta）是常位在左鎖骨下動脈遠端的管腔狹窄，典型有上肢高血壓、股動脈延遲和側枝循環，影像重點跟 PDA 不同。",
-   "summary": "CT 看到降主動脈和左肺動脈之間有持續管道、加上連續性雜音，就是 PDA。"
+   "summary": "CT 看到降主動脈和左肺動脈之間有持續管道、加上連續性雜音，就是 PDA。",
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39138,7 +39266,10 @@
    "C": "本項不選。Nagayama spots 是軟顎與懸雍垂交界的紅色丘疹，可見於嬰兒玫瑰疹，尤其在亞洲病童的描述中常被列為口腔線索。",
    "D": "本項不選。嬰兒玫瑰疹的高燒階段可誘發熱性痙攣（febrile seizure），有時痙攣甚至是就醫前最明顯的表現。",
    "summary": "玫瑰疹的時間軸是「先高燒、退燒才出疹」；病原是 HHV-6/7，不是 HHV-8。",
-   "guideline": "FC 醫學(四)第1冊 p.265"
+   "guideline": "FC 醫學(四)第1冊 p.265",
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39838,7 +39969,10 @@
    "C": "正確。stridor 是上呼吸道、尤其喉頭或氣管近端狹窄造成的吸氣性聲音；它把阻塞位置指向上呼吸道，不是下呼吸道。",
    "D": "本項不選。tachypnea 是呼吸作功增加時常見的代償，無論下呼吸道阻塞或肺實質疾病都可能出現。",
    "summary": "聽聲音定位：wheeze 是下呼吸道小氣道，stridor 是上呼吸道喉頭附近。",
-   "guideline": "FC 醫學(四)第1冊 p.221"
+   "guideline": "FC 醫學(四)第1冊 p.221",
+   "concepts": [
+    "croup-vs-epiglottitis"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40822,7 +40956,10 @@
    "C": "本項最不適當。serotonin 或 norepinephrine reuptake blockers 可能誘發或加重 RBD；常用治療是安全措施、melatonin 或個別情況下 clonazepam。",
    "D": "本項不選。RBD 與 α-synucleinopathy 密切相關，未來發展 Parkinson disease、dementia with Lewy bodies 或多重系統萎縮症的風險增加。",
    "summary": "會把夢演出來是 RBD；抗憂鬱劑可惡化，反而要追蹤日後的 synucleinopathy。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nocturnal-episodes-parasomnia-epilepsy"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41081,7 +41218,10 @@
    "C": "本項最符合。維生素 B12 缺乏造成亞急性合併退化症（subacute combined degeneration），同時傷後柱與皮質脊髓束；周邊神經受累可使踝反射反而下降。",
    "D": "本項不選。慢性發炎性去髓鞘多發性神經病變會有近遠端無力與普遍腱反射減弱，但不會典型造成上運動神經元痙攣步態。",
    "summary": "素食者的 B12 缺乏會同時傷後柱和皮質脊髓束：位置覺掉、走路痙攣，踝反射卻可低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41192,7 +41332,8 @@
    "summary": "MS 的 CSF 重點是局部寡株帶與輕度細胞上升；蛋白若衝到很高、糖又低，就要轉頭找別的病因。",
    "guideline": null,
    "concepts": [
-    "nmosd-diagnostic-features"
+    "nmosd-diagnostic-features",
+    "multiple-sclerosis-core"
    ]
   },
   "source": "111080/302_22",
@@ -41561,7 +41702,10 @@
    "C": "本項的 認知波動合併 不是本題答案。認知波動，尤其注意力與警覺力明顯起伏，是重要核心線索。",
    "D": "本項的 認知退化進展 不是本題答案。自發性 parkinsonism 在認知退化過程中出現，也是核心特徵；病人對 antipsychotic 常特別敏感。",
    "summary": "Lewy body dementia 的三把鑰匙是反覆視幻覺、認知波動與自發 parkinsonism；妄想不是核心條件。",
-   "guideline": "FC 醫學(四)第3冊 p.154"
+   "guideline": "FC 醫學(四)第3冊 p.154",
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41795,7 +41939,10 @@
    "C": "本項不選。路易氏體失智症靠的是波動性認知、視幻覺與巴金森症狀，磁振造影通常沒有特異變化。",
    "D": "本項最符合。T1 冠狀切面看到腦室擴大與腦萎縮，T2 軸切則是腦室周圍大片的高訊號白質病變與多個腔隙梗塞，這是小血管疾病累積的結果。血管性失智症的臨床線索是階梯式退化、早期就出現步態不穩與執行功能障礙，加上明確的血管危險因子。",
    "summary": "失智合併 MRI 多發血管病灶時，先把它當成血管性失智症；影像分布會決定診斷把握度。",
-   "guideline": "FC 醫學(四)第3冊 p.153"
+   "guideline": "FC 醫學(四)第3冊 p.153",
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -44059,7 +44206,10 @@
    "C": "本項不選：傳統型軟骨肉瘤對化療和放療相對不敏感；能否取得足夠切除邊界才是治療核心。",
    "D": "本項應選：骨軟骨瘤的軟骨帽在成人變厚超過約 2 cm。須警覺次發性軟骨肉瘤並進一步評估。",
    "summary": "骨軟骨瘤成人後持續長大或軟骨帽 >2 cm，要先排除次發性軟骨肉瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44351,7 +44501,10 @@
    "C": "結石附近嚴重 skeletal deformity 可能妨礙定位與安全 shock-wave path，使治療無法有效或增加周邊傷害，屬重要限制或禁忌。",
    "D": "Shock wave 經過鄰近 arterial aneurysm 可能造成 vascular injury 或 rupture，因此結石附近動脈瘤是 ESWL 禁忌。",
    "summary": "Obesity 會降低 ESWL 技術成功率但非絕對禁忌；未矯正凝血異常與鄰近 aneurysm 才是重大禁忌。",
-   "guideline": "FC 醫學(五)第5冊 p.139"
+   "guideline": "FC 醫學(五)第5冊 p.139",
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45280,7 +45433,9 @@
    "D": "Fibrotic disciform scar 代表 neovascular AMD 的終末期永久結構破壞；沒有活動性滲漏時 anti-VEGF 難以恢復瘢痕區視力。",
    "summary": "Anti-VEGF 治療的是有活動性 choroidal neovascularization 的 neovascular AMD，不治療單純 drusen、atrophy 或已纖維化 scar。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amd-dry-vs-wet"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -45314,7 +45469,9 @@
    "D": "Acute posterior vitreous detachment 是 vitreous cortex 與 retina 分離；主要風險是拉出 retinal tear，繼而造成 rhegmatogenous 而非 tractional retinal detachment。",
    "summary": "Tractional retinal detachment 需要持續收縮的 fibrovascular membrane；acute PVD 若造成裂孔，典型導向 rhegmatogenous detachment。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "retinal-detachment-types"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46404,7 +46561,10 @@
    "C": "正確，17α-hydroxyprogesterone 升高正是 21-hydroxylase deficiency 的堆積物，作為診斷線索很合理。",
    "D": "正確，hydrocortisone 能補 cortisol 並壓低 ACTH，因而減少過量 androgen。salt-wasting 型另需 mineralocorticoid。",
    "summary": "CAH 的核心是類固醇合成缺陷：17α-hydroxyprogesterone 升高、補 glucocorticoid 抑制 ACTH。",
-   "guideline": "FC 醫學(六)第1下冊 p.228"
+   "guideline": "FC 醫學(六)第1下冊 p.228",
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46743,7 +46903,10 @@
    "C": "錯誤，晚期卵巢癌可經骨盆與主動脈旁淋巴結擴散。不能說末期較少經由淋巴轉移。",
    "D": "錯誤，卵巢癌雖極少見皮膚或臍部轉移。但這不是最能代表其轉移路徑的選項。本題考的是腹膜播散。",
    "summary": "卵巢癌最典型的擴散方式是腹膜種植；看到腹水與大網膜病灶要先想到這條路徑。",
-   "guideline": "FC 醫學(六)第1下冊 p.36"
+   "guideline": "FC 醫學(六)第1下冊 p.36",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47208,7 +47371,9 @@
    "D": "不正確。神經根病變可在受支配肌肉出現去神經電位，但 fasciculation 若廣泛且多區域，更應警覺 motor neuron disease。",
    "summary": "EMG 若看到多區域明顯 fasciculation，加上去神經與再支配，優先想 motor neuron disease。",
    "guideline": "FC 醫學(六)第3冊 p.230",
-   "concepts": []
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47695,7 +47860,10 @@
    "C": "正確，成熟囊性畸胎瘤常含牙齒、骨骼或脂肪，骨盆 X 光可見鈣化。它也可能因扭轉造成急性下腹痛。腹部 X 光上骨盆腔中央有一團界線清楚的軟組織腫塊，裡面看得到兩顆比骨頭更白的牙齒狀鈣化。含牙齒或骨質的骨盆腔腫塊等於畸胎瘤，年輕女性急性下腹痛時要立刻想到它扭轉。",
    "D": "錯誤，薦骨骨折應有外傷或骨質脆弱病史，影像會沿薦骨呈骨皮質中斷。不會是附件腫瘤的鈣化成分。",
    "summary": "年輕女性急腹痛加骨盆 X 光內牙齒／骨樣鈣化時，要先想到成熟囊性畸胎瘤與卵巢扭轉。",
-   "guideline": "FC 醫學(六)第1下冊 p.50"
+   "guideline": "FC 醫學(六)第1下冊 p.50",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48160,7 +48328,10 @@
    "B": "本項不選。BNP 和 NT-proBNP 不只協助診斷收縮性心衰竭，濃度也和疾病嚴重度、預後相關，只是要結合年齡、腎功能、心律和肥胖一起解讀。",
    "C": "正確答案。就算是健康族群，BNP 和 NT-proBNP 的基準濃度也傾向隨年齡增加，所以診斷切點和臨床判讀都要考慮年齡。",
    "D": "本項不選。右心衰竭造成右心室壁張力增加，同樣可讓 BNP 或 NT-proBNP 上升。肺高壓和右心負荷也是非左心衰竭的升高原因。",
-   "summary": "利鈉胜肽反映心室壁張力，不限於左心收縮衰竭；年齡、腎功能、心房顫動和肥胖都會影響數值。"
+   "summary": "利鈉胜肽反映心室壁張力，不限於左心收縮衰竭；年齡、腎功能、心房顫動和肥胖都會影響數值。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48371,7 +48542,10 @@
    "B": "本項不選。甲狀腺毒症（thyrotoxicosis）增加心輸出量、降低周邊血管阻力，可讓收縮壓相對升高、舒張壓降低而形成寬脈壓。",
    "C": "本項不選。感染發燒可造成高心輸出和周邊血管擴張，出現洪脈（bounding pulse）和寬脈壓，尤其在明顯高動力循環時。",
    "D": "本項不選。開放性動脈導管（patent ductus arteriosus）讓舒張期血液由主動脈流向肺動脈，降低舒張壓、增加左心輸出，典型產生寬脈壓和水錘脈。",
-   "summary": "寬脈壓見於高輸出或舒張期分流，像 thyrotoxicosis、發燒、PDA；aortic stenosis 反而造成窄脈壓和 parvus et tardus。"
+   "summary": "寬脈壓見於高輸出或舒張期分流，像 thyrotoxicosis、發燒、PDA；aortic stenosis 反而造成窄脈壓和 parvus et tardus。",
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -49571,7 +49745,9 @@
    "D": "本項不選。胸水白血球（WBC）7000/μL 在發炎性積液很常見，光靠細胞數不能決定要不要放胸管。",
    "summary": "肺炎旁積液要不要引流，看的是「代謝耗竭」的證據：glucose 極低、pH 低、有膿或培養陽性。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pleural-fluid-analysis"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50544,7 +50720,10 @@
    "C": "本項不選。113 是保護專線，家暴、性侵、兒虐都可以打，24 小時有社工接線，可諮詢也可通報。適合非緊急但需要協助的情況。",
    "D": "本項不選。暴力正在發生就打 110。警察能當場制止、保全證據、護送就醫，也能協助聲請保護令。緊急打 110、諮詢打 113，這兩個號碼要分清楚。",
    "summary": "IPV 篩檢有實證（B 級），老人虐待篩檢是證據不足（I 級）；台灣的號碼分工是當下危險打 110、諮詢通報打 113。",
-   "guideline": "USPSTF：育齡女性 IPV 篩檢 B 級；老人與弱勢成人虐待篩檢為 I statement（證據不足）"
+   "guideline": "USPSTF：育齡女性 IPV 篩檢 B 級；老人與弱勢成人虐待篩檢為 I statement（證據不足）",
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50943,7 +51122,10 @@
    "C": "本項不選。由躺姿自行坐起的成熟動作可在較晚月齡出現，單獨缺少此項不如不能獨坐具警訊性。",
    "D": "本項不選。揮手再見屬社會互動與模仿能力，9 個月尚未穩定出現時可追蹤，但不是本題最優先的紅旗。",
    "summary": "9 個月發展篩檢先抓『能不能獨坐』；不會獨坐比還不扶站或不揮手更需要立刻評估。",
-   "guideline": "FC 醫學(四)第1冊 p.347"
+   "guideline": "FC 醫學(四)第1冊 p.347",
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51128,7 +51310,10 @@
    "C": "本項應選。心電圖上呈現右軸偏移與 V1 的 rsR′ 型態，也就是右心室傳導延遲與右心負荷的樣子。主動脈弓窄縮造成的是左心室壓力負荷（左心室肥厚、左軸），方向完全相反，所以最不可能。",
    "D": "本項不選。法洛氏四重症（tetralogy of Fallot）常有右心室肥厚，因此可見右軸偏移與右心負荷表現。",
    "summary": "看到右心室肥厚型心電圖，就想到 ASD、肺動脈狹窄或 TOF；coarctation 是左心壓力問題，方向相反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51506,7 +51691,10 @@
    "C": "本項不選。FEV1 降幅通常大於 FVC，因此 FEV1/FVC 會降低，是 obstructive pattern 的核心。",
    "D": "本項應選。氣喘會 air trapping 與 hyperinflation，TLC 常正常或增加，不是最可能下降的肺容量。",
    "summary": "氣喘的肺功能是『流得慢』：PEF、FEV1、FEV1/FVC 降；被困住的空氣反而讓 TLC 不降甚至升高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51724,7 +51912,10 @@
    "C": "本項不選。異物吸入通常突然發生，較少先有流鼻水與發燒，且聲音沙啞不是典型線索。",
    "D": "正確。哮吼（croup）多由病毒引起喉與氣管下方水腫，典型是上呼吸道感染後的狗吠咳嗽、聲音沙啞與吸氣性 stridor。",
    "summary": "狗吠咳嗽加沙啞和吸氣性 stridor，就是 croup；wheeze 則是下呼吸道的聲音。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "croup-vs-epiglottitis"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51840,7 +52031,10 @@
    "C": "本項不選。手足口病偏好手、足與口腔，水疱可見於臀部，但題幹臉和軀幹的分布及班級群聚較支持 varicella。",
    "D": "本項不選。COVID-19 可有多樣皮疹，但無法比 varicella 更典型地解釋同時存在丘疹、水疱與抓破結痂。",
    "summary": "水痘最記得住的是病灶不同期：紅疹、水疱、結痂同時存在；圖像細節仍須以原圖確認。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52935,7 +53129,10 @@
    "C": "本項不選。巴金森氏病以動作遲緩、僵直與靜止顫抖為主，不造成肌束跳動、明顯肌萎縮及同時上下運動神經元徵象。",
    "D": "本項最符合。肌萎縮性側索硬化（amyotrophic lateral sclerosis）同時傷上、下運動神經元，所以會見到腱反射亢進與肌萎縮、肌束跳動並存，且感覺通常保留。",
    "summary": "ALS 的記憶組合是『反射很高卻肌肉在萎縮跳動』，而且沒有感覺缺損。",
-   "guideline": "FC 醫學(四)第4冊 p.246"
+   "guideline": "FC 醫學(四)第4冊 p.246",
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -53086,7 +53283,10 @@
    "C": "正確。急性發作、病前功能好、正性症狀較明顯且有誘發因素，通常是思覺失調症較佳預後的組合。",
    "D": "本項的 負性症狀比正 不是本題答案。負性症狀如 avolition、flat affect 與社交退縮越突出，通常越預測長期功能不佳。",
    "summary": "思覺失調症好預後要記『急、有誘因、病前好、正性多』；早發和負性症狀重反而較差。",
-   "guideline": "FC 醫學(四)第3冊 p.19"
+   "guideline": "FC 醫學(四)第3冊 p.19",
+   "concepts": [
+    "schizophrenia-prognostic-factors"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -53124,7 +53324,10 @@
    "C": "本項敘述錯誤。女性通常發病較晚，且整體預後常優於男性；把性別方向全部反過來了。",
    "D": "本項的 clozapine 不是本題答案。治療阻抗且已有足夠 antipsychotic trials 失敗時可考慮 clozapine；它也能降低自殺風險，但要監測 agranulocytosis、癲癇與代謝副作用。",
    "summary": "Schizophrenia 的性別考點：女性通常較晚發病、預後較好；治療阻抗才把 clozapine 拿出來。",
-   "guideline": "FC 醫學(四)第3冊 p.19"
+   "guideline": "FC 醫學(四)第3冊 p.19",
+   "concepts": [
+    "schizophrenia-prognostic-factors"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54776,7 +54979,10 @@
    "C": "正確。動脈下型心室中隔缺損（subarterial VSD）缺乏主動脈瓣下支持，右冠瓣或 noncoronary cusp 易脫垂進缺損並逐漸產生 aortic regurgitation。",
    "D": "Muscular VSD 四周由肌肉包圍，與主動脈瓣瓣葉距離較遠，因此較少造成 aortic cusp prolapse。",
    "summary": "Subarterial VSD 因主動脈瓣下缺乏支撐，最易合併 cusp prolapse 與 aortic regurgitation。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -55981,7 +56187,10 @@
    "C": "本項不選：chondromyxoid fibroma 偏好長骨 metaphysis，不是典型 epiphysis。",
    "D": "本項應選：multiple exostosis 常為 autosomal dominant，與 EXT 基因相關。",
    "summary": "Ollier 是多發 enchondroma；加上血管瘤才是 Maffucci syndrome。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -56277,7 +56486,10 @@
    "C": "本項應選。Randall's plaque 是腎乳頭間質的 calcium phosphate 沉積，常作為 calcium oxalate 結石的成核點，不是 cystine 結石的典型機轉。",
    "D": "本項敘述正確。尿酸在酸性尿中較不溶，尿液偏酸會促進尿酸結石形成；鹼化尿液可提高其溶解度。",
    "summary": "Randall's plaque 要連到 calcium oxalate，不是 cystine；尿酸結石則要想到酸性尿。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58762,7 +58974,10 @@
    "C": "正確，純未成熟畸胎瘤沒有穩定專屬血清標記。若 AFP 或 β-hCG 升高。應考慮 mixed germ cell tumor 成分。",
    "D": "錯誤，gliomatosis peritonei 是成熟膠質組織在腹膜種植。可見於未成熟畸胎瘤。通常不等同高惡性度轉移且預後未必差。",
    "summary": "未成熟畸胎瘤本身沒有可靠血清標記；若 AFP／hCG 異常，要找混合型生殖細胞腫瘤。",
-   "guideline": "FC 醫學(六)第1下冊 p.49"
+   "guideline": "FC 醫學(六)第1下冊 p.49",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60127,7 +60342,10 @@
    "C": "本項應選。這題的結石在超音波看得到、X 光卻照不出來，是典型的尿酸結石（radiolucent）。probenecid 是促尿酸排泄劑，會讓尿裡的尿酸更多，等於火上加油。",
    "D": "本項不選。sodium bicarbonate 鹼化尿液、增加尿酸溶解度，也可以用。只是長期使用要注意鈉負荷。",
    "summary": "X 光照不到的結石先想尿酸石：治療靠鹼化尿液，最不能用的是把尿酸往尿裡趕的 probenecid。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60960,7 +61178,10 @@
    "C": "本項敘述正確。內科排出療法（例如 alpha blocker）降低輸尿管張力，對比較大的遠端輸尿管結石可以提高自行排出率。",
    "D": "本項應選。體外震波（ESWL）不是所有輸尿管結石的統一首選。要選觀察、輸尿管鏡還是體外震波，取決於結石大小、位置、有無阻塞或感染，以及病人本身的條件。",
    "summary": "輸尿管結石沒有「一招打天下」——大小與位置決定術式，體外震波不是通用首選。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61610,7 +61831,9 @@
    "D": "本項不選。血中 alpha-1 antitrypsin 是在找遺傳性的病因，尤其年輕或家族史明顯的人。它是補充檢查，取代不了肺功能。",
    "summary": "COPD 一定要用「吸藥後」的肺功能證明氣流阻塞持續存在——這是診斷的定義本身。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61722,7 +61945,9 @@
    "D": "正確答案。三個數字連起來就是呼吸肌無力：TLC 70%（限制型）、FEV1/FVC 80%（沒有阻塞）、最大吸氣壓力只有 55%。重症肌無力造成吸氣肌無力，造出來的正是這一組數字。",
    "summary": "限制型肺功能加上最大吸氣壓力偏低＝問題在呼吸肌（幫浦），不在肺實質。",
    "guideline": "FC 醫學(三)第1冊 p.294",
-   "concepts": []
+   "concepts": [
+    "pft-patterns"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62466,7 +62691,10 @@
    "C": "本項不選。他有親密伴侶，屬於性活躍族群。性傳染病的行為諮詢在高風險青少年與成人是 B 級建議，衣原體與淋病篩檢也要視風險評估。",
    "D": "本項不選。菸品使用是所有預防保健裡等級最高的一群：成人詢問並提供戒菸協助是 A 級，未使用的青少年給預防性衛教也有建議。門診花一分鐘問，效益比多數篩檢都好。",
    "summary": "健康 18 歲男生的預防保健重點是 BMI、菸、性健康；脊椎側彎普篩是證據不足的 I 級，不是常規項目。",
-   "guideline": "USPSTF：青少年脊椎側彎篩檢 I statement；肥胖篩檢 B；菸品 A"
+   "guideline": "USPSTF：青少年脊椎側彎篩檢 I statement；肥胖篩檢 B；菸品 A",
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62967,7 +63195,10 @@
    "C": "本項不選。高燒退後出現由軀幹向外擴散的短暫皮疹是典型時間軸，通常 1–3 天內消退。",
    "D": "本項應選。原發 HHV-6B 感染的高燒多持續約 3–5 天；不能說有一半孩子都會燒到 6 天以上。",
    "summary": "roseola 的記憶順序是先高燒、退燒才出疹；若把長達 6 天以上高燒當成常態就不對。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -63930,7 +64161,10 @@
    "C": "本項不選。帶狀疱疹可傳播 VZV，但接觸後 5 天太短，尚未達水痘的典型潛伏期。",
    "D": "本項不選。手足口病常在接觸後約 3–6 天發病，且多伴口腔潰瘍、手掌腳掌病灶。3 週前接觸不合時間軸。",
    "summary": "水痘潛伏期背 10–21 天。嬰兒兩週前接觸水痘、現在全身水疱，就先把 VZV 接觸史接起來。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64677,7 +64911,10 @@
    "C": "本項應選。夢境實演是 REM sleep behavior disorder 的典型，常在後半夜 REM 睡眠發生且可記得夢境；夢遊者多做簡單動作，隔天不記得。",
    "D": "本項敘述正確。多數夢遊症以睡眠衛生、避免睡眠不足和環境安全處理即可；只有頻繁、危險或合併其他問題才考慮藥物。",
    "summary": "夢遊是 N3 的半醒半睡，隔天沒記憶；會把夢演出來、醒後記得夢，才轉頭想 REM behavior disorder。",
-   "guideline": "FC 醫學(四)第4冊 p.303"
+   "guideline": "FC 醫學(四)第4冊 p.303",
+   "concepts": [
+    "nocturnal-episodes-parasomnia-epilepsy"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64898,7 +65135,10 @@
    "C": "本項不選。週期性麻痺本來就是間歇性無力，發作可被高醣餐、休息、運動後或鉀離子變化誘發。",
    "D": "本項最符合。運動神經元疾病的神經元會持續退化，無力和萎縮通常漸進不可逆，不會規律地時好時壞。",
    "summary": "會波動的無力先找接頭或電解質；無力一路往下走、伴肌萎縮，才像 motor neuron disease。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65007,7 +65247,10 @@
    "C": "本項敘述正確。視神經炎可作為 MS 的初發症狀，常有單眼視力下降、眼球轉動痛與色覺下降。",
    "D": "本項敘述正確。疲倦、憂鬱、認知困難等非局灶症狀也常見於 MS，不能只盯著肢體無力或感覺缺失。",
    "summary": "MS 的流行病學要反著背：離赤道越遠、日照越少，發生率越高；視神經炎是常見第一聲警報。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "multiple-sclerosis-core"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65419,7 +65662,10 @@
    "C": "本項不選。多數失智症確實是漸進且不可逆，盛行率隨年齡上升，65 歲以後大約每 5 歲翻倍。少數可回復的類型是例外，那正是選項 D 在講的。",
    "D": "本項不選。憂鬱症造成的假性失智、甲狀腺功能低下、B12 或葉酸缺乏，都會表現得像失智。這些是初次評估一定要驗掉的可回復原因。",
    "summary": "失智症的精神症狀比例要分開記：妄想 30–40%、幻覺 15–20%，而路易氏體失智的視幻覺高達八成。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66774,7 +67020,10 @@
    "C": "錯誤。Inferior sinus venosus ASD 主要與 inferior vena cava／右下肺靜脈異常連接相關；mitral regurgitation 並非其典型伴隨病灶。",
    "D": "青春期前女性採 right anterolateral thoracotomy 可能影響乳房組織發育與外觀，因此切口選擇須審慎。",
    "summary": "Sinus venosus ASD 的關聯是 anomalous pulmonary venous return，不是 mitral regurgitation。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68002,7 +68251,10 @@
    "C": "本項不選：單發原發性骨淋巴瘤預後較佳。常見組織型為 diffuse large B-cell lymphoma。",
    "D": "本項不選：原發性骨淋巴瘤以多藥化療為主，可改善長期存活。",
    "summary": "Ewing sarcoma 的招牌是 t(11;22)／EWSR1-FLI1，不要把染色體號碼背反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -70792,7 +71044,10 @@
    "C": "正確，granulosa cell tumor 可分泌 AMH 與 inhibin，兩者可協助追蹤復發或殘存病灶。",
    "D": "錯誤，上皮性卵巢癌常用 CA-125 追蹤，不是 SCC antigen。SCC antigen 更常用於鱗狀細胞癌相關情境。",
    "summary": "卵巢腫瘤標記配對：yolk sac—AFP、choriocarcinoma—hCG、granulosa—AMH／inhibin。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72915,7 +73170,10 @@
    "C": "本項不選。雙側阻塞可以造成氮血症、高血鉀與代謝性酸中毒。要注意的是，還有一些尿量不代表沒有阻塞。",
    "D": "本項不選。阻塞後的腎小管功能異常會造成後天性腎源性尿崩症（nephrogenic DI, NDI），解除阻塞後還會大量利尿。這反而提示曾經有阻塞。",
    "summary": "無尿、高血鉀、後天腎源性尿崩症都要想阻塞；姿勢性低血壓指的是缺水，方向不同。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aki-prerenal-intrinsic-postrenal"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72991,7 +73249,10 @@
    "C": "本項不選。BUN 與 creatinine 比值 >20 多半來自尿素再吸收增加，也偏向腎前性氮血症。",
    "D": "正確答案。尿沉渣看到泥棕色的顆粒性圓柱，來自受損脫落的腎小管上皮細胞。這是急性腎小管損傷、也就是內生性急性腎損傷（intrinsic AKI）最直接的證據。",
    "summary": "腎前性看「功能還在」（FeNa 低、尿濃縮、BUN/Cr 高）；內生性看「細胞掉下來」——顆粒性圓柱。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aki-prerenal-intrinsic-postrenal"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74403,7 +74664,10 @@
    "C": "本項應選。衛福部在長照 2.0 下推動失智照護服務，全台 22 縣市都設有失智共同照護中心，另有失智社區服務據點。它做的是確診後的銜接：個案管理、照顧者支持、轉介資源。",
    "D": "本項不選。控制血壓、血糖、血脂與抗血小板確實是血管性失智的核心，但不能說 AChEI 完全沒幫助。研究顯示 donepezil 等藥對認知有小幅但可測得的改善，混合型失智更常使用。",
    "summary": "失智診斷後不是只有開藥：台灣 22 縣市都有失智共同照護中心可以轉介，照顧者支持跟藥一樣重要。",
-   "guideline": "衛福部長照 2.0：全台 22 縣市均設失智共同照護中心"
+   "guideline": "衛福部長照 2.0：全台 22 縣市均設失智共同照護中心",
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -75777,7 +76041,10 @@
    "C": "本項應選。aldosterone 不足會減少腎小管排鉀，失鹽型 CAH 應出現 hyperkalemia，不是 hypokalemia。",
    "D": "本項不選。cortisol 缺乏使肝醣分解與糖質新生受損，嬰兒急性發作時可合併 hypoglycemia。",
    "summary": "失鹽型 CAH 是 aldosterone 與 cortisol 都不夠：低鈉、高鉀、酸中毒、低血糖。看到低鉀就不對。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -75927,7 +76194,10 @@
    "C": "本項不選。若持續發燒加皮疹需與 Kawasaki disease 鑑別，echocardiography 查看冠狀動脈可提供重要器官侵犯證據。",
    "D": "本項不選。血液培養可在持續高燒與發炎指標升高時評估 bacteremia，並有助排除細菌性敗血症等替代診斷。",
    "summary": "咳、鼻炎、結膜炎後出疹先追疫苗和旅遊接觸史。IgE 不會解答麻疹、川崎或菌血症的鑑別。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -75998,7 +76268,10 @@
    "C": "本項不選。畫圓形多為 3 歲左右的 fine motor milestone，2 歲不會畫尚屬常見。",
    "D": "本項應選。揮手再見是約 9–12 個月就應出現的社交手勢。2 歲仍不會應評估社會溝通與整體發展。",
    "summary": "2 歲發展題看早就該會的社交手勢：不會揮手再見比不會單腳站、騎三輪車或畫圓更是紅旗。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76069,7 +76342,10 @@
    "C": "本項應選。沒有水痘病史或疫苗、且在暴露後第 3 天，應儘快接種水痘疫苗。暴露後 3–5 天內接種仍可提供 post-exposure prophylaxis 效益。",
    "D": "本項不選。暴露後是否工作限制要依醫療機構感染管制規範與免疫狀態處理，單純立刻在家隔離一週並非完整或最適當的措施。",
    "summary": "未免疫者接觸水痘要記「3–5 天內補打疫苗」。不要傻等出疹才處理，也不是人人先吃抗病毒藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76826,7 +77102,10 @@
    "C": "本項應選。SOD1 是最早發現的 ALS 基因之一，但『目前歐洲 familial ALS 最常見』的說法不夠準確；C9orf72 repeat expansion 在歐洲家族性 ALS／FTD 很重要且常更常見。",
    "D": "本項敘述正確。無痛漸進肌萎縮、無力與 fasciculation，卻沒有顯著感覺、眼肌、膀胱問題，是 ALS 的典型臨床輪廓。",
    "summary": "ALS 題先抓『運動神經元一路退、感覺和眼外肌多保留』；家族基因不能只背 SOD1，C9orf72 也很關鍵。",
-   "guideline": "FC 醫學(四)第4冊 p.245"
+   "guideline": "FC 醫學(四)第4冊 p.245",
+   "concepts": [
+    "umn-vs-lmn-signs"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79962,7 +80241,10 @@
    "C": "本項不選：骨巨大細胞瘤可在刮除後局部復發，不能說復發率極低。",
    "D": "本項不選：單純性骨囊腫主要見於兒童與青少年肱骨近端或股骨近端。不是成年肱骨遠端。",
    "summary": "青少年 epiphysis 病灶先想 chondroblastoma；Ollier 加血管瘤才是 Maffucci。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80267,7 +80549,10 @@
    "C": "正確。經皮腎臟碎石取石手術（percutaneous nephrolithotripsy, PCNL）可直接建立進入腎盂腎盞的通道，最適合一次處理大量或完整鹿角結石，必要時可分期。",
    "D": "本項敘述錯誤。鹼化尿液只對尿酸結石溶解有幫助，無法清除多數完整鹿角結石，且不該延誤感染石的根除。",
    "summary": "完整鹿角結石首選 PCNL；ESWL、URS 或鹼化無法有效取代直接清除大量結石。",
-   "guideline": "FC 醫學(五)第5冊 p.137"
+   "guideline": "FC 醫學(五)第5冊 p.137",
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80635,7 +80920,10 @@
    "C": "正確。十四歲、長骨幹骺端、影像上有骨破壞合併造骨與明顯骨膜反應，這是傳統型骨肉瘤最典型的組合。它的好發年齡就在生長最快的青春期，好發位置是膝關節周圍與肱骨近端。",
    "D": "本項不選。軟骨肉瘤好發於四十歲以上，影像上是環狀與弧狀的軟骨性鈣化，青少年原發的機會很低。",
    "summary": "青少年＋長骨幹骺端＋造骨性病灶加骨膜反應＝骨肉瘤；軟骨肉瘤是中老年、鈣化呈環弧狀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -81244,7 +81532,9 @@
    "D": "正確。濕性年齡相關黃斑部退化由脈絡膜新生血管滲漏造成，玻璃體內 anti-VEGF 可抑制滲漏與出血，是標準治療。",
    "summary": "wet AMD 的病灶是黃斑下 CNV，所以直接打 anti-VEGF；PRP、grid laser、scleral buckle 都是在治別的視網膜問題。",
    "guideline": "FC 醫學(六)第2冊 p.150",
-   "concepts": []
+   "concepts": [
+    "amd-dry-vs-wet"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -81283,7 +81573,9 @@
    "D": "本項不選：氣體視網膜固定術以膨脹氣泡頂住合適位置的裂孔，再配合冷凍或雷射固定。",
    "summary": "裂孔性剝離要做的是封裂孔、解除牽拉、讓視網膜貼回去；PDT 是 CNV 的治療，不會修補裂孔。",
    "guideline": "FC 醫學(六)第2冊 p.151",
-   "concepts": []
+   "concepts": [
+    "retinal-detachment-types"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -82581,7 +82873,10 @@
    "C": "正確，成熟囊性畸胎瘤多含皮膚與鱗狀上皮，惡性轉化時最常見 squamous cell carcinoma。",
    "D": "錯誤，mucinous cystadenocarcinoma 是黏液性上皮腫瘤，和成熟畸胎瘤的典型惡性轉化沒有最常見的關係。",
    "summary": "成熟畸胎瘤裡若長出惡性腫瘤，先想 squamous cell carcinoma，因為它常含皮膚鱗狀上皮。",
-   "guideline": "FC 醫學(六)第1下冊 p.48"
+   "guideline": "FC 醫學(六)第1下冊 p.48",
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -82723,7 +83018,10 @@
    "C": "正確，choriocarcinoma 的代表性標記是 hCG，AFP 通常陰性，這和 trophoblastic differentiation 有關。",
    "D": "正確，endodermal sinus tumor（yolk sac tumor）典型分泌 AFP，hCG 通常陰性，是重要的診斷與追蹤線索。",
    "summary": "生殖細胞腫瘤標記不硬背一串：yolk sac—AFP、choriocarcinoma—hCG；純 immature teratoma 沒固定標記。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ovarian-tumor-families"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -84127,7 +84425,10 @@
    "B": "本項不選。Ebstein anomaly 是三尖瓣的瓣葉向心尖移位，造成三尖瓣逆流和右心房擴大，不是二尖瓣和左心房。",
    "C": "本項不選。PAPVR 要不要手術取決於分流量、右心擴大、症狀和肺血管阻力。小分流不是確診後就一律立刻開刀。",
    "D": "本項不選。小型 VSD 很多會自發閉合。缺損大小決定分流和自然史，不能說無論大小都很少關閉。",
-   "summary": "成人 ASD 可因左向右分流造成右心擴大；Ebstein 是三尖瓣病變，小 VSD 常可自閉。"
+   "summary": "成人 ASD 可因左向右分流造成右心擴大；Ebstein 是三尖瓣病變，小 VSD 常可自閉。",
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84356,7 +84657,10 @@
    "B": "本項不選。心衰竭可以呈家族聚集，遺傳和共享的環境會影響後代的左心室質量、心臟大小和收縮功能，敘述正確。",
    "C": "本項不選。長期未控制的高血壓造成肥厚、舒張障礙，後期也可造成收縮衰竭，敘述正確。",
    "D": "本項應選。這是錯的敘述。HFpEF 和 HFrEF 的病因確實有相當大的重疊，但病理生理和臨床試驗的治療反應並不相同，不能視為同等效果。",
-   "summary": "HFpEF 和 HFrEF 有共同的危險因子，但疾病修飾藥物的證據不能直接互相外推。"
+   "summary": "HFpEF 和 HFrEF 有共同的危險因子，但疾病修飾藥物的證據不能直接互相外推。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84793,7 +85097,10 @@
    "C": "本項不選。potassium citrate 把尿液鹼化到尿酸比較容易溶解的範圍，是溶石與預防復發的核心。",
    "D": "本項不選。febuxostat 抑制 xanthine oxidase、減少尿酸生成，適用於高尿酸尿等特定病人。",
    "summary": "尿酸結石的邏輯是「少做、多溶、別再往尿裡趕」——促尿酸排泄劑正好犯最後一條。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86896,7 +87203,10 @@
    "C": "本項不選。辨認或說出顏色多在更後面的幼兒期成熟，18 個月只會一種顏色本身不是明確紅旗。",
    "D": "本項不選。指認 3 種動物可受家庭接觸與提問方式影響，應合併語言理解、手勢與社會互動整體判讀。",
    "summary": "18 個月語言紅旗是有意義單字太少。只會 2 個字要轉介評估，別被顏色或動物名稱這種較晚技巧分散注意。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -87529,7 +87839,10 @@
    "C": "本項應選。伊文氏肉瘤（Ewing sarcoma）高峰多在學齡至青少年，不能以「10 歲以下較骨肉瘤高」作為穩定的單一判斷；官方將此列為送分選項。",
    "D": "本項應選。Ewing sarcoma 經典好發於長骨骨幹（diaphysis）或骨盆，不是骨幹骺端；幹骺端是 osteosarcoma 的典型位置。",
    "summary": "骨腫瘤定位口訣：osteosarcoma 愛幹骺端，Ewing sarcoma 愛骨幹；這題 C、D 都是官方可給分答案。",
-   "guideline": "FC 醫學(四)第1冊 p.503"
+   "guideline": "FC 醫學(四)第1冊 p.503",
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -87747,7 +88060,10 @@
    "C": "本項敘述正確。CAH 尤其 21-hydroxylase deficiency 會使 androgen 過多，是 46,XX 新生兒 virilization 最常見的病因。",
    "D": "本項不選。產前診斷主要用於已知家族帶因或曾有受影響子女的高風險妊娠，不是每一胎都常規進行。",
    "summary": "46,XX 女嬰外生殖器男性化先想 21-hydroxylase deficiency；最常見不代表唯一，失鹽也不會出生 72 小時內必定爆發。",
-   "guideline": "FC 醫學(四)第1冊 p.377"
+   "guideline": "FC 醫學(四)第1冊 p.377",
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -87823,7 +88139,10 @@
    "C": "本項不選。多數玫瑰疹會自行緩解，處置以補水、退燒與觀察為主；高熱期仍可能引發熱性痙攣。",
    "D": "本項不選。Nagayama spots 是軟顎與小舌交界處的紅色丘疹，可作為玫瑰疹的口腔線索。",
    "summary": "玫瑰疹最會考「退燒才出疹」：病原是 HHV-6/7，不是 HHV-8。",
-   "guideline": "FC 醫學(四)第1冊 p.264"
+   "guideline": "FC 醫學(四)第1冊 p.264",
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -87862,7 +88181,10 @@
    "C": "本項不選。viral croup 多由病毒引起，沒有細菌感染證據時 antibiotics 不會縮短症狀或消除 stridor。",
    "D": "本項應選。dexamethasone 可減少聲門下水腫、改善犬吠咳與 stridor，是所有嚴重度哮吼的主要治療。",
    "summary": "哮吼真正消腫靠 steroid；本題官方同時給 B、D 分，臨床上 bronchodilator 並非聲門下水腫的主力。",
-   "guideline": "FC 醫學(四)第1冊 p.220"
+   "guideline": "FC 醫學(四)第1冊 p.220",
+   "concepts": [
+    "croup-vs-epiglottitis"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -89375,7 +89697,10 @@
    "C": "本項不選。amyloid PET 陽性支持沉積，但腦脊髓液 Aβ42 會下降，並非升高。",
    "D": "本項不選。海馬迴萎縮是神經退化（neurodegeneration）標記；它不直接代表類澱粉蛋白沉積。",
    "summary": "Alzheimer 生物標記要分三類：amyloid PET／CSF Aβ42 低是 A；海馬萎縮屬神經退化，不是 amyloid。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92230,7 +92555,10 @@
    "C": "本項敘述正確。把尿液 pH 拉高可讓尿酸轉成較可溶的 urate，是溶石與預防復發的核心。",
    "D": "本項敘述正確。增加尿量能降低尿液過飽和度，對尿酸與其他常見結石都能減少形成。",
    "summary": "尿酸結石最要緊的是酸性尿；血尿酸正常也可能長結石，治療要喝水並鹼化尿液。",
-   "guideline": "FC 醫學(五)第5冊 p.138"
+   "guideline": "FC 醫學(五)第5冊 p.138",
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -93211,7 +93539,9 @@
    "D": "本項不選：AMD 是已開發國家高齡者不可逆中央視力喪失的重要原因之一，因為它直接傷害黃斑。",
    "summary": "AMD 是年齡越大越常見，不是 70 歲才開始；乾性比較多，濕性比較兇，因為 CNV 會出血結疤。",
    "guideline": "FC 醫學(六)第2冊 p.150",
-   "concepts": []
+   "concepts": [
+    "amd-dry-vs-wet"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -93250,7 +93580,9 @@
    "D": "本項不選：前玻璃體的 tobacco dust 是從視網膜裂孔逸出的色素細胞，看到時要積極尋找裂孔。",
    "summary": "裂孔性剝離常是低眼壓，不是高眼壓；tobacco dust 是裂孔漏出色素的煙霧警報。",
    "guideline": "FC 醫學(六)第2冊 p.150",
-   "concepts": []
+   "concepts": [
+    "retinal-detachment-types"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95694,7 +96026,10 @@
    "C": "本項不正確。呼吸窘迫時先確保氣道，不能為了 CT 延誤；影像只適用於氣道穩定者。",
    "D": "本項不正確。清醒且呼吸窘迫者的鎮靜與肌肉鬆弛可能使原本勉強維持的氣道完全塌陷，應由熟悉困難氣道團隊處理。",
    "summary": "會厭炎看到 stridor 先救氣道；窘迫病人不能先送 CT，也不能隨便鎮靜。",
-   "guideline": "FC 醫學(六)第4冊 p.288"
+   "guideline": "FC 醫學(六)第4冊 p.288",
+   "concepts": [
+    "croup-vs-epiglottitis"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -96237,7 +96572,10 @@
    "B": "本項不選。甲狀腺毒症（thyrotoxicosis）可造成高輸出心衰竭或心房顫動（AF），不是典型的 HFpEF 基礎。",
    "C": "正確答案。有多年高血壓的老年人常有同心性肥厚、心室僵硬和舒張功能障礙，是 HFpEF 的典型族群。",
    "D": "本項不選。急性病毒性心肌炎主要造成心肌損傷和收縮功能下降，不是典型的 HFpEF。",
-   "summary": "HFpEF 典型是高齡、長期高血壓、肥胖等造成心室僵硬和舒張壓升高。"
+   "summary": "HFpEF 典型是高齡、長期高血壓、肥胖等造成心室僵硬和舒張壓升高。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97050,7 +97388,10 @@
    "C": "本項不選。反覆的骨膜反應會在影像上疊成洋蔥皮樣（onion-peel）外觀。磁振造影（MRI）則用來評估骨髓與軟組織侵犯的範圍。",
    "D": "本項不選。Ewing 氏肉瘤循血行轉移，最常到肺、其他骨頭與骨髓。",
    "summary": "Ewing 氏肉瘤四件套：年輕人、長在骨幹、洋蔥皮骨膜反應、EWSR1–FLI1 融合。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97450,7 +97791,9 @@
    "D": "本項敘述錯誤。血胸的定義是胸水的血比容（hematocrit）達到周邊血的 50% 以上，看的是比例不是血紅素絕對值 10 g/dL。",
    "summary": "胸水三個定義別搞混：結核＝淋巴球滲出液、乳糜胸＝三酸甘油酯、血胸＝血比容比例。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pleural-fluid-analysis"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98185,7 +98528,10 @@
    "C": "本項不選。男性骨鬆篩檢的證據不足，USPSTF 給的是 I statement，不論幾歲都沒有普篩建議。臨床上仍會針對有長期類固醇、雄性素剝奪治療等風險的男性個別評估。",
    "D": "本項不選。這句話把話說死了。50 歲以下若有長期使用糖皮質類固醇、性腺功能低下、慢性發炎疾病等次發性骨鬆風險，一樣該做骨密度檢查。年齡只是普篩的分界，不是禁令。",
    "summary": "骨鬆普篩只有一條硬規則：65 歲以上女性。更年輕的停經女性先算 FRAX，男性則是證據不足。",
-   "guideline": "USPSTF：女性 ≥65 歲篩檢 B 級；<65 歲停經女性依風險工具；男性為 I statement"
+   "guideline": "USPSTF：女性 ≥65 歲篩檢 B 級；<65 歲停經女性依風險工具；男性為 I statement",
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -100305,7 +100651,10 @@
    "C": "本項也被列為可給分。標準說法就是細胞外類澱粉斑塊加細胞內神經纖維糾結，這樣寫本來是對的。爭議在於神經元死亡後，糾結會裸露成細胞外的 ghost tangle。官方公告答 B 或 C 或 BC 都給分。",
    "D": "本項敘述正確。妄想在阿茲海默氏病並不罕見，被偷妄想與認錯人最常見。這些精神行為症狀往往是照顧者最難處理的部分。",
    "summary": "早發型阿茲海默三基因 APP／PSEN1／PSEN2 一律顯性；本題另有 C 的病理描述爭議而送分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100826,7 +101175,10 @@
    "C": "本項不選。病人多半在失智出現前就有高血壓、糖尿病、心房顫動或中風病史。控制這些血管危險因子是目前唯一能改變病程的介入。",
    "D": "本項不選。血管性失智症的退化是階梯式的：每次新梗塞掉一階，之後持平一段時間。阿茲海默症則是緩慢而持續地下滑。神經學檢查常找得到局部缺損，也是兩者的差別。",
    "summary": "血管性失智症＝第二常見、男性偏多、階梯式惡化；能改變病程的只有控制血管危險因子。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103181,7 +103533,10 @@
    "C": "本項應選。肺轉移的機率大約只有百分之二到五，不是八成。它雖然被歸類為良性但行為侵襲，局部復發率高；即使發生肺轉移，多半生長緩慢、切除後預後仍不錯。",
    "D": "本項敘述正確。許多骨病灶的病理切片裡都看得到多核巨大細胞，例如動脈瘤性骨囊腫、棕色腫瘤與非骨化性纖維瘤，所以不能只憑巨大細胞就下診斷。",
    "summary": "骨巨大細胞瘤＝良性但會轉移的怪咖：局部復發高、肺轉移約 2–5%，機轉靠 RANKL。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -103752,7 +104107,10 @@
    "C": "正確。箭頭指的是骨膜被腫瘤頂起後新生的骨質。骨肉瘤把骨膜掀起來時，邊緣會形成三角形的新生骨，也就是 Codman 三角；如果腫瘤是分次頂起，則呈現洋蔥皮或日光放射狀。這類骨膜反應代表病灶生長速度快，是惡性的重要線索。",
    "D": "本項不選。骨折線是穿過骨皮質的透亮線，與這種沿著骨幹外側新生的緻密骨影不同。",
    "summary": "骨膜反應的形狀透露速度：層狀洋蔥皮、日光放射與 Codman 三角都代表長得快，要想惡性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104320,7 +104678,9 @@
    "D": "正確。中心視網膜靜脈阻塞主要造成靜脈鬱血、出血與黃斑水腫，不會一般性地拉出視網膜裂孔。",
    "summary": "裂孔性剝離需要『裂孔＋液化玻璃體＋牽拉』；PVD、近視、鈍傷都有這條路，CRVO 沒有。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "retinal-detachment-types"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106210,7 +106570,10 @@
    "C": "本項不選。自己上下樓梯要 2 歲以後，扶著欄杆一階一階走。這需要單腳承重與平衡都成熟。",
    "D": "本項不選。用湯匙吃飯大約 15–18 個月，牽涉手眼協調與前臂旋轉控制。翻身在這之前很久就會了。",
    "summary": "粗大動作先於精細與語言：翻身 4–6 個月最早，叫爸媽 1 歲，湯匙 1 歲半，上下樓梯 2 歲後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107687,7 +108050,10 @@
    "C": "本項不選。如果出現頑固性肺水腫、高血鉀或代謝性酸中毒，而且藥物治療壓不下來，就符合腎臟替代治療的傳統適應症。這句敘述是對的。",
    "D": "本項不選。橫紋肌溶解會釋出大量細胞內容物，造成高血鉀、高血磷，早期還可能出現低血鈣。確實應該監測電解質與腎功能，並找出誘發的藥物或毒物。",
    "summary": "橫紋肌溶解的FeNa低於1%不能拍板定案是脫水，色素性腎損傷一樣會壓低這個數字。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aki-prerenal-intrinsic-postrenal"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108398,7 +108764,9 @@
    "D": "本項敘述錯誤。長期只放豬尾巴導管引流會把淋巴球、蛋白質、脂肪與電解質一起流掉，病人會營養不良、免疫下降。正確做法是處理漏點與病因，同時調整營養（中鏈脂肪酸飲食或禁食加靜脈營養）。",
    "summary": "乳糜胸看三酸甘油酯不看膽固醇；治療是止漏加營養，不是一直引流。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pleural-fluid-analysis"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109034,7 +109402,10 @@
    "C": "本項應選。所有計畫懷孕或可能懷孕的女性，每天補充 0.4 到 0.8 mg 葉酸預防神經管缺陷，是 **A 級**建議——USPSTF 化學預防裡等級最高的一項。關鍵在時機：受孕前一個月就要開始，因為神經管在懷孕第 4 週就閉合了。",
    "D": "本項不選。60 歲以上「開始」服用 aspirin 做初級預防，USPSTF 2022 改為 D 級——出血風險超過效益。40 到 59 歲且十年心血管風險 ≥10% 者才是個別化決定（C 級）。注意這只講初級預防，已有心血管疾病的次級預防不受影響。",
    "summary": "化學預防的等級差異很大：葉酸是 A 級唯一亮點，維生素 D、維生素 E 和 60 歲以上初級預防用 aspirin 都是 D 級不建議。",
-   "guideline": "USPSTF：葉酸 A 級；維生素 D 預防跌倒、維生素 E、≥60 歲起始 aspirin 初級預防均為 D 級"
+   "guideline": "USPSTF：葉酸 A 級；維生素 D 預防跌倒、維生素 E、≥60 歲起始 aspirin 初級預防均為 D 級",
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -110177,7 +110548,10 @@
    "C": "本項不選。先天性腎上腺增生會累積 adrenal androgens，性腺軸尚未啟動也可出現 virilization。",
    "D": "本項不選。familial male precocious puberty 是 LH receptor 持續活化，睪丸自行製造 testosterone，屬 gonadotropin-independent。",
    "summary": "性早熟先問 GnRH 軸有沒有開：hypothalamic hamartoma 是中樞型；CAH、hCG tumor、testotoxicosis 是周邊型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110210,7 +110584,10 @@
    "C": "本項不選。CYP21A2 與鄰近 pseudogene 高度同源，常因 gene conversion 或 deletion/recombination 造成致病變異。",
    "D": "本項不選。失鹽型無法製造足量 aldosterone，出生後數週可出現低鈉、高鉀、脫水與休克。",
    "summary": "21-hydroxylase deficiency 最危險的是 salt-wasting crisis：幾週大的嬰兒低鈉高鉀又休克要立刻想到它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110311,7 +110688,10 @@
    "C": "本項不選。rubella 常伴後耳或枕部淋巴結腫大與較輕發燒，題目的嬰兒高燒型態不典型。",
    "D": "本項不選。Kawasaki disease 要持續發燒至少 5 天並合併黏膜、結膜、四肢或淋巴結等特徵；目前資料不足。",
    "summary": "10 個月嬰兒高燒三天、檢驗乾淨又沒局部症狀，先等著看退燒後的 roseola rash。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110413,7 +110793,10 @@
    "C": "本項不選。ADEM 有較多瀰漫性腦部受累與 encephalopathy，癲癇也相對較常見；MS 較少以癲癇表現。",
    "D": "本項應選。視丘與 basal ganglia 的大片深灰質病灶較支持 ADEM；MS 較典型的是 periventricular、juxtacortical 或 corpus callosum 病灶。",
    "summary": "兒童 demyelination 看 MRI：深灰質視丘、基底核大片病灶偏 ADEM；典型白質分布才偏 MS。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "multiple-sclerosis-core"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111008,7 +111391,10 @@
    "C": "正確。額葉癲癇的四個特徵這題全中：發作短（數十秒）、動作誇張怪異、每次表現一模一樣（刻板性）、結束後意識立刻清楚，而且好發於睡眠中並成串出現。因為表現戲劇化，常被誤診為心因性發作，要靠影像腦電圖確認。",
    "D": "本項不選。顳葉癲癇有預兆（似曾相識、上腹不適）、口部自動症，發作後會有一段意識混亂期，與本例發作後立刻清醒不同。",
    "summary": "夜間成串、短促、刻板、醒後立刻清楚＝額葉癲癇；顳葉癲癇會有預兆與發作後混亂。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nocturnal-episodes-parasomnia-epilepsy"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111691,7 +112077,10 @@
    "C": "本項應選。有明確家族史的只占少數，真正的體染色體顯性早發型（APP、PSEN1、PSEN2 突變）不到 5%。多數是散發性，APOE ε4 只是提高風險而非決定發病。九成有家族史的說法明顯過高。",
    "D": "本項敘述正確。乙醯膽鹼系統退化是最經典的變化，這也是膽鹼酯酶抑制劑的用藥基礎；正腎上腺素等其他系統也會受影響。",
    "summary": "阿茲海默症多為散發性，家族性不到 5%；治療的藥理基礎是乙醯膽鹼不足。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114297,7 +114686,10 @@
    "C": "本項敘述錯誤。逆行性腎盂攝影需經膀胱鏡侵入性操作，主要留給無法完成其他影像或要同時放 stent 的情況。",
    "D": "本項敘述錯誤。核子閃爍攝影可評估分腎功能與引流，時間解析度與空間解析度都不適合快速找急性輸尿管結石。",
    "summary": "急性 renal colic 的第一張影像記 noncontrast CT：快、準、看得到結石與阻塞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stone-intervention-selection"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115162,7 +115554,9 @@
    "D": "本項不選：黃斑結構被液體或 CNV 拉扯時，直線會變彎，形成 metamorphopsia。",
    "summary": "wet AMD 是黃斑病，所以壞的是中央：看字糊、中央黑點、直線歪；周邊視野掉了要找別的病。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amd-dry-vs-wet"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118468,7 +118862,10 @@
    "C": "本項不選。尿酸結石最重要的驅動因子，是持續偏酸的尿液，加上尿酸排泄量高會進一步增加過飽和。這句話講對了重點。",
    "D": "本項應選。胱胺酸結石的成因是遺傳性胱胺酸尿症，造成尿中胱胺酸濃度太高，而且在偏酸的尿液裡更不容易溶解。並不是靠高尿鈣與低尿檸檬酸來定義，這句話把危險因子講錯了。",
    "summary": "胱胺酸結石看cystinuria和酸性尿，不是鈣結石那套高尿鈣/低檸檬酸的邏輯。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -120811,7 +121208,8 @@
    "summary": "草莓舌與脫皮兩病都有，年齡幫你分：川崎病多在五歲以下，猩紅熱偏學齡兒。",
    "guideline": null,
    "concepts": [
-    "kawasaki-diagnostic-criteria"
+    "kawasaki-diagnostic-criteria",
+    "childhood-exanthems"
    ]
   },
   "source": "115020/302_0104",
@@ -121145,7 +121543,10 @@
    "C": "本項敘述正確。永山斑是軟顎與懸壅垂根部的紅色丘疹或小潰瘍，在亞洲病童的檢出率高，發燒期就看得到，可以幫忙提早診斷。",
    "D": "本項敘述正確。玫瑰疹是嬰幼兒熱性痙攣的常見原因，但這類單純熱性痙攣日後演變成癲癇的機率與一般族群相近。",
    "summary": "玫瑰疹記「燒三天、退燒才出疹、疹出人就好」；發燒期先找永山斑。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "childhood-exanthems"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -124821,7 +125222,10 @@
    "C": "本項敘述正確。術前化療後的腫瘤壞死率是重要預後指標，壞死率達九成以上者存活明顯較好。",
    "D": "本項應選。Ollier 氏症與 Maffucci 氏症候群是多發性內生軟骨瘤，惡性轉型後變成軟骨肉瘤，不是骨肉瘤。會轉成次發性骨肉瘤的背景是佩吉特病、放射線照射後與骨梗塞。",
    "summary": "多發性內生軟骨瘤（Ollier、Maffucci）轉的是軟骨肉瘤；佩吉特病與放射線後才轉骨肉瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bone-tumors-by-location"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -125057,7 +125461,10 @@
    "C": "本項敘述錯誤。Staphylococcus aureus 不是常見的尿路上行感染菌，也不是典型感染性結石的首要病原。",
    "D": "正確。奇異變形桿菌（Proteus mirabilis）產生 urease，把尿素分解成 ammonia，使尿液鹼化並促進 struvite 結石形成。",
    "summary": "感染性/struvite 結石要直接連到 urease-producing Proteus mirabilis 與鹼性尿。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "kidney-stone-types"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -125913,7 +126320,10 @@
    "C": "本項也應選。血管收縮素轉化酶抑制劑放鬆的是出球小動脈，結果是腎絲球內壓與過濾率下降；腎血流本身反而可能維持或增加，所以不算低灌流。",
    "D": "本項也應選。低劑量硝化甘油主要擴張靜脈、降低前負荷，對腎血管的直接作用很小。",
    "summary": "腎前性氮血症的藥物分三類機轉：直接收縮（升壓藥）、拿掉入球擴張（NSAIDs）、放鬆出球（ACEI）——只有第一類是直接作用在腎血管。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aki-prerenal-intrinsic-postrenal"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -128633,7 +129043,10 @@
    "B": "本項應選。肥胖和代謝發炎、心室僵硬高度相關，是 HFpEF 的典型危險標記，本題四個選項都給分。",
    "C": "本項應選。若硬要單選，這一項最接近答案：心搏緩慢（bradycardia）本身通常不算 HFpEF 的典型危險標記。官方已判定一律給分。",
    "D": "本項應選。老化是 HFpEF 最重要的人口學風險之一；這也是官方給分的選項。",
-   "summary": "官方一律給分；醫學上高血壓、肥胖、老化都是 HFpEF 的風險標記，單純心搏緩慢最不像。"
+   "summary": "官方一律給分；醫學上高血壓、肥胖、老化都是 HFpEF 的風險標記，單純心搏緩慢最不像。",
+   "concepts": [
+    "heart-failure-ef-categories"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -129945,7 +130358,9 @@
    "D": "本項不選。冠狀動脈繞道手術後的肋膜積液很常見：早期偏血性，晚期則多為淋巴球為主。",
    "summary": "胸水澱粉酶高＝往胰臟、食道、腫瘤找；食道破裂尤其不能漏，那是會致命的。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "pleural-fluid-analysis"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130579,7 +130994,10 @@
    "C": "本項不選。美國預防醫學工作小組現行建議是不要為了預防跌倒而常規補充維他命 D，這是明確的 D 級建議。有缺乏才補，補的是缺乏本身。",
    "D": "本項不選。多數老人跌倒是滑倒、絆倒或起身時失去平衡，內在因素（肌力、視力、藥物、姿勢性低血壓）比撞到東西更重要。",
    "summary": "預防老人跌倒最有證據的是運動（太極、阻力訓練）與環境改善；維他命 D 已被 USPSTF 判為不建議常規補充。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uspstf-recommendation-grades"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131027,7 +131445,10 @@
    "C": "本項不選。兩歲的手部操作已經能轉門把開門，也會翻書、疊六塊積木。",
    "D": "本項不選。兩歲能雙腳離地跳躍，跑步也已經穩定。",
    "summary": "兩歲的四個指標：跑得穩、會跳、兩字詞句、詞彙 50；會講全名與年齡是三歲的事。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "developmental-milestones"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -131792,7 +132213,10 @@
    "C": "本項敘述正確。滲出液的乳酸脫氫酶偏高，Light 準則的門檻是肋膜液與血清比大於 0.6，或超過血清正常上限的三分之二。",
    "D": "本項敘述正確。漏出液的葡萄糖與血糖相近，通常在 60 mg/dL 以上；低血糖值出現在膿胸、結核與類風濕相關的積水。",
    "summary": "肋膜液看四個值：蛋白、乳酸脫氫酶、pH、葡萄糖；pH <7.2 加葡萄糖低就要放胸管。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pleural-fluid-analysis"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -131858,7 +132282,10 @@
    "C": "本項不選。前腦無裂畸形常合併腦下垂體發育異常，造成多種垂體荷爾蒙缺乏，包含 ACTH。",
    "D": "本項不選。腦下垂體接受放射線治療後，垂體功能會逐年下降，ACTH 缺乏是其中一種。",
    "summary": "分原發或次發看 ACTH：原發（腎上腺壞掉）ACTH 高且會色素沉著、缺鹽；次發（垂體問題）ACTH 低、醛固酮多半正常。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cah-enzyme-deficiencies"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -132568,7 +132995,10 @@
    "C": "本項不選。它是「突觸核蛋白病變」的前驅症狀——巴金森氏病、路易氏體失智症與多重系統萎縮症，不是運動神經元疾病。這個關聯很重要，超過七成的病人十幾年後會發展成上述疾病。",
    "D": "本項不選。modafinil 是促醒藥物，用於猝睡症與嗜睡症；這裡要的是抑制快速動眼期異常動作的藥。",
    "summary": "夢境演出＋醒來說得出夢境＝快速動眼期行為障礙：要 PSG 確診、要防跌，而且是巴金森症候群的前驅。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nocturnal-episodes-parasomnia-epilepsy"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -132667,7 +133097,10 @@
    "C": "正確。步態變慢、注意力與執行功能下降、情緒低落、輕度錐體外症狀，加上影像的多發深部白質缺血病灶與明確的血管危險因子，符合血管性（多發梗塞）失智症。它的病程常呈階梯式惡化，而且處置重點在控制血壓、血糖與抗血小板以防止再中風。",
    "D": "本項不選。路易氏體失智症要有波動性認知、反覆生動的視幻覺與自發性巴金森症狀，本例沒有幻覺。",
    "summary": "血管性失智先壞「速度與執行功能」而不是記憶；影像看白質病灶，治療重點是防下一次中風。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "dementia-subtypes"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -132937,7 +133370,10 @@
    "C": "本項敘述正確。它同時有發炎（急性去髓鞘病灶）與神經退化（軸突流失造成的持續惡化）兩個面向。",
    "D": "本項敘述正確。McDonald 準則的核心是證明病灶在「空間」與「時間」上的多發性，可以用臨床發作、磁振造影病灶，或腦脊髓液的寡株帶來滿足。",
    "summary": "多發性硬化症八成五是復發緩解型；診斷靠空間與時間多發性，寡株帶可以取代時間上的證據。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "multiple-sclerosis-core"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -136945,7 +137381,10 @@
    "C": "典型視神經炎多半會痛，尤其眼球轉動時更明顯，這個痛可以早於視力下降幾天出現。完全無痛反而要懷疑缺血性視神經病變。",
    "D": "典型視神經炎有三分之二是球後型，眼底看起來完全正常，所以有「病人看不見、醫師也看不到」的說法。滲出與棉絮斑是視網膜血管病變的表現。",
    "summary": "視神經炎是「會痛、眼底正常、p100 變慢」；痛與否是它和缺血性視神經病變最快的分界。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "multiple-sclerosis-core"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
