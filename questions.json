@@ -867,7 +867,10 @@
    "C": "本項不選。血鉀可以幫忙分「哪一型」腎小管酸血症，例如第四型常合併高血鉀。但腹瀉與第一、二型都可能低血鉀，所以它分不出酸是從腸道還是腎臟流失的。",
    "D": "本項不選。腹瀉與腎小管酸血症都會為了維持電中性而讓血氯相對升高。高血氯只能告訴你「這是正常陰離子隙酸中毒」，定位不了鹼是從哪裡漏掉的。",
    "summary": "正常陰離子隙的酸中毒，用尿陰離子隙定位漏鹼的地方：負值往腸子想、零或正值往腎臟想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -900,7 +903,10 @@
    "C": "本項應選。急性腹瀉是從腸道流失 HCO3−，造成的是高血氯、**正常**陰離子隙的酸中毒。這個病人陰離子隙 29 明顯升高，光靠腹瀉解釋不了。",
    "D": "本項不選。慢性腎衰竭晚期排不掉硫酸鹽、磷酸鹽這些固定酸，也會形成高陰離子隙酸中毒，所以仍然可能。",
    "summary": "看到代謝性酸中毒先算陰離子隙：升高就把腹瀉排除，因為腸道漏鹼是正常陰離子隙。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -933,7 +939,10 @@
    "C": "本項應選。血漿置換術（plasmapheresis）移除的是致病抗體或血漿蛋白，用在 anti-GBM disease、血栓性微血管病那類。這個病人是肺炎併急性腎損傷加高血鉀與酸中毒，沒有這個適應症；而且它清不掉小分子溶質，取代不了透析。",
    "D": "本項不選。腹膜透析也是腎臟替代治療，能矯正尿毒與酸鹼異常。要非常快清鉀時它不如血液透析，但仍比沒有適應症的血漿置換合理。",
    "summary": "腎損傷合併高血鉀要「清小分子」——那是透析的工作；血漿置換清的是抗體，兩者目的不同。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1639,7 +1648,9 @@
    "D": "本項不選。①對、③不對。肺部纖維化雖然會咳、會喘，卻不影響意識、吞嚥或賁門功能，因此①③不成立。",
    "summary": "判斷吸入風險只問一句話：吞嚥、意識或咳嗽反射有沒有壞掉？肺實質病變本身不算。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2093,7 +2104,10 @@
    "C": "肺結核（pulmonary tuberculosis）多呈較亞急性或慢性的咳嗽、夜間盜汗與體重下降；此例四天內進展為嚴重肺炎與休克，不符合典型病程。",
    "D": "正確。退伍軍人症（Legionnaires’ disease）常見高燒、乾咳、腹瀉、神經症狀與低血鈉；旅遊住宿的供水或空調水系統暴露也是重要線索，Legionella 在一般 Gram stain 不易顯示。",
    "summary": "嚴重非典型肺炎合併腹瀉、意識改變與低血鈉，尤其有旅館或郵輪水系統暴露時，優先考慮退伍軍人症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -3515,7 +3529,9 @@
    "D": "6 不是本題提供數值的計算結果；蛋白尿、尿糖、低血鉀與 normal-anion-gap metabolic acidosis 另提示 proximal renal tubular dysfunction，但不改變公式。",
    "summary": "Anion gap 使用 Na − (Cl + HCO3−)；本題為 13 mmol/L，並有 proximal tubular dysfunction 的線索。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -6702,7 +6718,10 @@
    "C": "①把中風誤當成不給 warfarin 的理由；二尖瓣狹窄合併心房顫動及栓塞事件正是高栓塞風險情境。②與③可成立，但只要①錯誤，此組合即不正確。",
    "D": "正確。②術前心導管可評估肺壓、瓣膜血流動力學及冠狀動脈；③若進行二尖瓣手術，可同時施行 Cox-Maze procedure 治療心房顫動。既往右側膿胸開胸常有廣泛沾黏，不宜直接假定可採右胸腔鏡或小切口。",
    "summary": "二尖瓣狹窄合併心房顫動與栓塞需抗凝；瓣膜手術可合併 Maze，但右胸既往膿胸開胸會妨礙微創進路。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -10101,7 +10120,9 @@
    "D": "正確。地中海貧血（thalassemia）是 globin chain 合成異常的遺傳疾病，帶因者廣布於地中海、中東、南亞與東南亞，合計為全球最常見的單基因疾病。",
    "summary": "全球最常見的單基因疾病是地中海貧血，關鍵在瘧疾流行區的帶因者選擇優勢與廣泛族群分布。",
    "guideline": "FC 醫學(六)第1上冊 p.40",
-   "concepts": []
+   "concepts": [
+    "thalassemia-alpha-vs-beta"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11289,7 +11310,9 @@
    "D": "錯誤。骨化仍在成熟中的早期病灶若切除，復發與出血風險較高；通常待骨化成熟且功能受限明確後才評估手術，並配合復發預防，而不是為避免惡化而立即切除。",
    "summary": "脊髓損傷後異位性骨化常在數月內侵犯髖周；早期可用骨掃描偵測，但手術通常等病灶成熟後再做。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11715,7 +11738,9 @@
    "D": "經皮質感覺型失語症（transcortical sensory aphasia）多與優勢半球顳頂區域和語言網絡隔離有關，特徵為流暢但理解差、覆誦保留，並非小腦症候。",
    "summary": "小腦病變破壞言語動作的時序與協調，典型造成 ataxic dysarthria，而非 aphasia。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "aphasia-types"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -12152,7 +12177,10 @@
    "B": "正確答案。低血鉀不是 ACE inhibitor 的禁忌。ACE inhibitor 會降低 aldosterone、傾向讓血鉀「升高」，不過仍要監測血鉀和腎功能。",
    "C": "本項不選。ACE inhibitor 會干擾胎兒腎臟發育、造成嚴重胎兒毒性，懷孕時禁用，要換孕期可用的降壓藥。",
    "D": "本項不選。雙側腎動脈狹窄時，腎絲球過濾要靠 angiotensin II 維持出球小動脈張力。ACE inhibitor 可能讓 GFR 急降，是重要禁忌。",
-   "summary": "ACE inhibitor 讓血鉀升不是降；懷孕、雙側腎動脈狹窄、持續腎功能惡化才是要避開或停藥的情況。"
+   "summary": "ACE inhibitor 讓血鉀升不是降；懷孕、雙側腎動脈狹窄、持續腎功能惡化才是要避開或停藥的情況。",
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12223,7 +12251,10 @@
    "C": "本項不選。acarbose 抑制的是腸道的 α-glucosidase。常見副作用是腹脹、排氣跟腹瀉，不會造成這麼嚴重的乳酸中毒。",
    "D": "本項不選。pioglitazone 是透過活化 PPAR-γ 來增加身體對 insulin 的敏感度。主要的風險是水分滯留、體重增加跟心臟衰竭，跟腎衰竭後乳酸堆積是兩回事。",
    "summary": "造影後 AKI 讓 metformin 排不掉，乳酸飆高又合併嚴重酸中毒、酮體陰性，就是在講 MALA。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12806,7 +12837,10 @@
    "B": "本項不選。慢性 B 型肝炎可有免疫複合體相關的肝外表現，包括關節痛或關節炎，也可見腎小球腎炎和結節性多動脈炎。",
    "C": "本項不選。HAI 和 METAVIR 都可評估肝炎的活動度和纖維化，題目所述的纖維化分期範圍分別是 0–6 和 0–4。",
    "D": "本項不選。血清纖維化指標和肝臟彈性測量可非侵入性地估計肝纖維化，能減少部分病人做肝切片的需要。",
-   "summary": "HBV DNA 高代表風險升高，但抗病毒治療的適應症不能只靠病毒量，仍要結合肝炎活動度和纖維化程度。"
+   "summary": "HBV DNA 高代表風險升高，但抗病毒治療的適應症不能只靠病毒量，仍要結合肝炎活動度和纖維化程度。",
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12960,7 +12994,10 @@
    "C": "本項不選。紅斑性狼瘡腎炎是免疫複合體活化古典補體路徑，所以 C3、C4 都會下降，也會有血尿、紅血球圓柱、蛋白尿與腎功能惡化。",
    "D": "本項不選。感染性心內膜炎會形成免疫複合體腎絲球腎炎，同樣造成低補體、血尿與蛋白尿。而且病人持續發燒，這個鑑別要留著。",
    "summary": "急性腎炎先看補體：低補體是免疫複合體病，補體正常才想 ANCA 血管炎。",
-   "guideline": "FC 醫學(三)第4冊 p.84"
+   "guideline": "FC 醫學(三)第4冊 p.84",
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12993,7 +13030,10 @@
    "C": "本項不選。遠端腎小管的 Na-Cl cotransporter 缺陷是 Gitelman syndrome，效應像 thiazide，還常合併低血鎂與低尿鈣。兩者要分清楚。",
    "D": "本項不選。集尿小管的 ENaC 過度活化是 Liddle syndrome，功能不足則是假性低醛固酮症。這些病的血壓與醛固酮表現都與巴特氏症候群不同。",
    "summary": "把兩個症候群對到兩種利尿劑：Bartter 像 loop diuretic（粗上升支）、Gitelman 像 thiazide（遠曲小管）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13435,7 +13475,10 @@
    "C": "本項不選。它可以出現在原發性抗磷脂症候群、感染或藥物相關的情況，並不要求病人一定有全身性紅斑狼瘡（SLE）。",
    "D": "本項不選。抗磷脂抗體會和 VDRL 使用的 cardiolipin 抗原起反應，造成生物性偽陽性。所以 VDRL 陽性仍要用梅毒螺旋體專一的檢驗確認。",
    "summary": "混合試驗是關鍵分岔：校正得回來＝因子缺乏，校正不回來＝有抑制物（如 lupus anticoagulant）。",
-   "guideline": "FC 醫學(三)第4冊 p.29"
+   "guideline": "FC 醫學(三)第4冊 p.29",
+   "concepts": [
+    "coagulation-test-patterns"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13468,7 +13511,10 @@
    "C": "本項不選。慢性肝炎會先讓 PT 延長，晚期才有血小板低下。這題 PT 與血小板都正常，身體檢查也沒有肝病線索。",
    "D": "本項不選。尿毒症確實會造成後天的血小板功能障礙與出血時間延長，但它不會造成跨姊妹的終生家族性黏膜出血，題目也沒有腎功能異常的線索。",
    "summary": "黏膜型出血＋家族史＋血小板數與 PT 正常但出血時間與 aPTT 延長＝von Willebrand 病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "coagulation-test-patterns"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13572,7 +13618,10 @@
    "C": "本項不選。胃腸繞道手術減少胃酸、又繞過十二指腸與近端空腸這些主要吸收鐵的地方，所以可能造成缺鐵。",
    "D": "本項應選。海洋性貧血是**血紅素球蛋白鏈合成**的缺陷，不會讓人特別容易缺鐵。相反地，反覆輸血或不當補鐵反而造成鐵過載。看到 MCV 偏低的小球性貧血不能直接補鐵，要先證實真的缺鐵。",
    "summary": "小球性貧血有兩大來源：缺鐵與海洋性貧血——補鐵前先驗鐵蛋白，補錯會造成鐵過載。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "microcytic-anemia"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13759,7 +13808,9 @@
    "D": "正確答案。要決定治療方向就得抽胸水：胸腔穿刺術（thoracentesis）能分辨單純型與複雜型肺炎旁積液，也才知道要不要放引流管。",
    "summary": "呼吸音小＋觸覺震顫低＋叩診濁音＝胸水；肺炎旁積液要靠 thoracentesis 決定要不要引流。",
    "guideline": "FC 醫學(三)第1冊 p.286",
-   "concepts": []
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13915,7 +13966,11 @@
    "C": "正確答案。原發性醛固酮症（primary aldosteronism）是腎上腺自己過量分泌醛固酮，造成鈉滯留、血壓上升。同時它會讓腎臟一直流失鉀離子和氫離子，變成低血鉀合併代謝性鹼中毒。體液增加又會回過頭壓低腎素——這位病人腎素低、醛固酮高，正是這個模式。",
    "D": "本項不選。庫欣氏症候群（Cushing's syndrome）的 cortisol 也有類鹽皮質素作用，可以造成高血壓與低血鉀。但題目直接給出醛固酮高、腎素低，這組數字更直接支持原發性醛固酮症。",
    "summary": "高血壓＋低血鉀＋代謝性鹼中毒，還看到腎素低、醛固酮高，直接鎖定原發性醛固酮症。",
-   "guideline": "FC 醫學(三)第2冊 p.259"
+   "guideline": "FC 醫學(三)第2冊 p.259",
+   "concepts": [
+    "acid-base-approach",
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14069,7 +14124,10 @@
    "C": "本項應選。缺碘地區的甲狀腺確實會偏向合成比較省碘的 T3，這部分沒錯。但錯在活性方向：T3 對受體的作用力比 T4 強，不是 T4 比 T3 強。T4 其實是作用較弱、效果較久的前驅荷爾蒙，要轉成 T3 才有活性。",
    "D": "本項敘述正確。正常的下視丘－腦下垂體－甲狀腺軸裡，游離 T3、T4 上升會抑制 TSH；T3、T4 下降則會讓 TSH 上升。腦下垂體本身有病變時，這個關係可能被打破。",
    "summary": "T3 才是活性強的那個荷爾蒙；T4 分泌量多但是效力較弱的前驅物，要轉成 T3 才有作用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14317,7 +14375,10 @@
    "C": "Listeria monocytogenes 是短小革蘭氏陽性桿菌，主要造成高風險族群菌血症或腦膜炎，並非此社區型葉性肺炎最典型病原。",
    "D": "化膿性鏈球菌（Streptococcus pyogenes）在 Gram stain 呈鏈狀革蘭氏陽性球菌，可造成侵襲性感染，但肺炎遠不如 pneumococcus 常見。",
    "summary": "社區型葉性肺炎若痰液見 lancet-shaped 革蘭氏陽性雙球菌，指向 Streptococcus pneumoniae；本題影像仍須核對。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14350,7 +14411,10 @@
    "C": "本項不選。血漿滲透壓主要由 Na+ 決定，這位病人 Na+ 136 mmol/L 並沒有明顯低鈉。沒有理由推論血液滲透壓 <270 mOsmol/kg H2O。",
    "D": "本項不選。嘔吐造成容積收縮、醛固酮上升，加上鹼中毒讓遠端鈉輸送增加，腎臟反而持續排鉀。所以尿鉀不一定 <10 mmol/L——病人已經低血鉀（K+ 2.9）就是證據。",
    "summary": "嘔吐後的鹼中毒是「缺氯」造成的：尿氯 <20 是招牌，而且腎臟還在漏鉀，所以血鉀會低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14383,7 +14447,10 @@
    "C": "正確答案。0.9% NaCl 一次做兩件事：補回有效循環容積，同時補回氯。這樣才關得掉維持鹼中毒的 RAAS 與遠端鈉再吸收機轉。再加 20 mmol KCl（題幹印成「20 mmolKCl」，就是這個意思）矯正 K+ 2.9 mmol/L，正好對症。",
    "D": "本項不選。lactated Ringer's solution 可以復甦容量，但 lactate 代謝後會產生等同 bicarbonate 的鹼，對已經鹼中毒的人方向不對，而且它沒有額外補鉀。",
    "summary": "缺氯造成的鹼中毒就要補氯：0.9% NaCl 加 KCl；Ringer's 會再產鹼，方向相反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14902,7 +14969,10 @@
    "C": "本項敘述錯誤。方向寫反了：低血鉀常合併的是**低**血鎂。而且缺鎂會讓腎臟一直排鉀，鉀怎麼補都補不起來，所以要同時驗鎂並補鎂。",
    "D": "本項敘述錯誤。把 KCl 加進葡萄糖液會刺激胰島素分泌，把鉀趕進細胞內，血鉀反而先掉下去。需要靜脈補鉀時通常選不含葡萄糖的溶液，並依安全速率監測給藥。",
    "summary": "補鉀三個要點：能吃就口服、順便驗鎂、靜脈補鉀別配葡萄糖（會把鉀壓進細胞）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15978,7 +16048,10 @@
    "C": "這題不選。PT 篩檢 extrinsic 與 common pathway，延長時可提示 factor VII、維生素 K 缺乏或肝病。",
    "D": "這題不選。aPTT 篩檢 intrinsic 與 common pathway，對 hemophilia 或 von Willebrand disease 的初步鑑別有幫助。",
    "summary": "小孩容易瘀青先做 CBC、PT、aPTT；血小板功能是第一輪結果不能解釋時再往下查。",
-   "guideline": "FC 醫學(四)第1冊 p.465"
+   "guideline": "FC 醫學(四)第1冊 p.465",
+   "concepts": [
+    "coagulation-test-patterns"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18733,7 +18806,10 @@
    "C": "正確。無症狀、LVEF 尚正常且 LVESD 僅 30 mm，未達常用的左心室收縮末期擴大門檻，單憑這個數值不是手術適應症；應定期追蹤症狀、LVEF 與左心室尺寸。",
    "D": "無症狀 severe aortic regurgitation 一旦出現左心室收縮功能下降，表示長期容量負荷已造成心肌失代償；題目所用 LVEF <50% 屬明確手術考量。",
    "summary": "Severe aortic regurgitation 的手術時機看急性失代償、症狀與左心室功能／尺寸；無症狀且 LVESD 30 mm 不足以支持手術。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21301,7 +21377,10 @@
    "C": "正確。黃韌帶（ligamentum flavum）提供明顯而有彈性的阻力；針尖穿出黃韌帶進入負壓或低阻力的硬膜外腔（epidural space）時，注射器阻力突然消失。",
    "D": "若穿破硬脊膜（dura mater），針尖會進入 intrathecal space 並可能流出 CSF，這是 unintended dural puncture，不是正確 epidural endpoint。",
    "summary": "Epidural loss-of-resistance 發生在針穿過 ligamentum flavum、剛進入 epidural space 時；見 CSF 則代表已穿破 dura。",
-   "guideline": "FC 醫學(六)第4冊 p.123"
+   "guideline": "FC 醫學(六)第4冊 p.123",
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21377,7 +21456,10 @@
    "C": "腋下神經叢阻斷（axillary brachial plexus block）麻醉前臂與手部主要周邊神經，解剖 coverage 與胸壁切口無關，不能處理 thoracotomy pain。",
    "D": "口服 NSAID 可減少發炎痛與 opioid 需求，是 multimodal analgesia 的一部分；單獨使用不足以控制全肺切除後的重度切口與呼吸動作疼痛。",
    "summary": "傳統 open thoracotomy 疼痛強且隨呼吸加劇，thoracic epidural 比單用 IV opioid 或口服 NSAID 更能提供完整區域止痛。",
-   "guideline": "FC 醫學(六)第4冊 p.141"
+   "guideline": "FC 醫學(六)第4冊 p.141",
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22288,7 +22370,10 @@
    "D": "正確。多數甲型地中海貧血（alpha-thalassemia）帶因者的常規 hemoglobin electrophoresis 可正常，需依 MCV、排除缺鐵與 alpha-globin gene testing 判定。",
    "summary": "Thalassemia 篩檢先看 microcytosis 但不能以 MCV 確診；alpha trait 常無法由一般 Hb electrophoresis 偵測。",
    "guideline": "FC 醫學(六)第1上冊 p.59",
-   "concepts": []
+   "concepts": [
+    "microcytic-anemia",
+    "thalassemia-alpha-vs-beta"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22526,7 +22611,9 @@
    "D": "90% 可見於 HBeAg 陽性母親完全未做新生兒免疫預防的情境，並非已給 HBIG 與疫苗後的殘餘風險。",
    "summary": "HBIG 加疫苗可大幅降低 HBV 垂直感染，但母體 HBV DNA 極高仍約有一成失敗風險，故須評估孕晚期 antiviral prophylaxis。",
    "guideline": "FC 醫學(六)第1上冊 p.40",
-   "concepts": []
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24679,7 +24766,10 @@
    "C": "ALT 反映肝細胞損傷，須與 HBV DNA、HBeAg 狀態、年齡及纖維化程度一起判斷是否進入免疫活化期並需要治療。",
    "D": "準備接受抗癌化學治療者有 HBV 再活化風險；依 HBsAg、anti-HBc 與免疫抑制強度，可能需預防性抗病毒治療。",
    "summary": "慢性 B 型肝炎治療看 HBV DNA、ALT、纖維化與再活化風險，不是看 HBV RNA。",
-   "guideline": "FC 醫學(三)第2冊 p.114"
+   "guideline": "FC 醫學(三)第2冊 p.114",
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -24989,7 +25079,10 @@
    "C": "isolated anti-HBc 可見於急性感染的空窗期，也可能代表既往感染後 anti-HBs 消退、偽陽性或隱匿性 B 型肝炎；需依 IgM、HBV DNA 與風險判讀。",
    "D": "錯誤。anti-HBc IgM 在急性感染早期即出現，約與症狀或 ALT 上升相近，並在 HBsAg 消失、anti-HBs 尚未出現的空窗期成為關鍵標誌；不能固定說要等 HBsAg 出現四週後。",
    "summary": "急性 HBV 的 HBsAg 先出現；空窗期以 anti-HBc IgM 辨識，isolated anti-HBc 必須結合病程與 HBV DNA 解讀。",
-   "guideline": "FC 醫學(三)第2冊 p.114"
+   "guideline": "FC 醫學(三)第2冊 p.114",
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25171,7 +25264,9 @@
    "summary": "腎病症候群都會高凝，但「膜性腎病變＋腎靜脈栓塞」是考題裡固定的一對。",
    "guideline": null,
    "concepts": [
-    "nephrotic-syndrome-definition"
+    "nephrotic-syndrome-definition",
+    "nephrotic-vs-nephritic",
+    "glomerular-disease-patterns"
    ]
   },
   "source": "111020/302_11",
@@ -26223,7 +26318,10 @@
    "C": "本項不選。anti-TPO 陽性支持自體免疫甲狀腺炎。這位病人有白斑（vitiligo），也是自體免疫疾病群聚的線索，跟橋本氏甲狀腺炎常常並存，這項檢查有意義。",
    "D": "正確答案。這位病人 free T4 低、TSH 卻明顯升高，這是原發性甲狀腺低下的典型組合。如果是腦下垂體病變造成的中樞性甲狀腺低下，TSH 通常應該偏低或不成比例地正常，跟這裡的表現不符，所以不需要先做腦下垂體 MRI。",
    "summary": "free T4 低、TSH 高是原發性甲狀腺低下的組合；這種模式不需要先照腦下垂體 MRI。",
-   "guideline": "FC 醫學(三)第2冊 p.227"
+   "guideline": "FC 醫學(三)第2冊 p.227",
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26473,7 +26571,10 @@
    "C": "Legionella 尿液抗原可快速偵測 Legionella pneumophila serogroup 1，但無法排除其他血清群或其他 Legionella species。",
    "D": "肺炎鏈球菌（Streptococcus pneumoniae）尿液抗原可輔助診斷，尤其在成人重症肺炎或已先使用抗生素、培養敏感度下降時。",
    "summary": "好痰檢體的重點是嗜中性球多、鱗狀上皮細胞少；Legionella 與 pneumococcus 都有尿液抗原可用。",
-   "guideline": "FC 醫學(三)第1冊 p.367"
+   "guideline": "FC 醫學(三)第1冊 p.367",
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -27858,7 +27959,10 @@
    "C": "這題不選。高血壓、腎病與類固醇治療都可和 PRES 相關，常表現頭痛、視覺症狀與抽搐。",
    "D": "這題不選。腎病症候群會流失 anticoagulant proteins 並提高血液黏稠度，cerebral venous sinus thrombosis 是必須排除的抽搐病因。",
    "summary": "腎病症候群病童抽搐先想低鈉、PRES 和腦靜脈栓塞；高凝是關鍵背景。",
-   "guideline": "FC 醫學(四)第1冊 p.179"
+   "guideline": "FC 醫學(四)第1冊 p.179",
+   "concepts": [
+    "nephrotic-vs-nephritic"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -27896,7 +28000,11 @@
    "C": "本項不選。Bartter 氏症候群（Bartter syndrome）在 Henle loop 的鹽分再吸收出問題，常見低血鉀與代謝性鹼中毒；不會以尿糖和 bicarbonate 流失造成酸中毒為主。",
    "D": "本項不選。吉特曼症候群（Gitelman syndrome）是遠端曲小管鹽分再吸收缺陷，典型為低血鉀、低鎂血症與低尿鈣的代謝性鹼中毒，和本題的近端腎小管症候群不同。",
    "summary": "看到尿糖加上低血鉀與高氯性酸中毒，要想到近端腎小管一起漏溶質的 Fanconi syndrome。",
-   "guideline": "FC 醫學(四)第1冊 p.202"
+   "guideline": "FC 醫學(四)第1冊 p.202",
+   "concepts": [
+    "acid-base-approach",
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28013,7 +28121,10 @@
    "C": "本項不選。Free T4 與 total T4 升高、TSH 被抑制，是原發性甲狀腺功能亢進的典型檢驗組合，和 Graves disease 的生理方向相符。",
    "D": "本項不選。Methimazole 是兒童 Graves disease 常用的抗甲狀腺藥，藉抑制甲狀腺荷爾蒙合成控制亢進狀態；開始後仍需追蹤血球與肝功能相關不良反應。",
    "summary": "小兒甲亢常是吃得多卻變瘦、長得快，檢驗是 T4 高而 TSH 低；別把體重下降誤認成食慾下降。",
-   "guideline": "FC 醫學(四)第1冊 p.367"
+   "guideline": "FC 醫學(四)第1冊 p.367",
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28239,7 +28350,10 @@
    "C": "本項不選。海洋性貧血（thalassemia）使 globin chain 合成不足，紅血球常明顯小球性；其 MCV 可很低而與貧血嚴重度不完全成比例。",
    "D": "本項不選。鉛中毒（lead poisoning）會抑制 heme 合成相關酵素，造成小球性貧血，周邊血抹片還可見 basophilic stippling。",
    "summary": "小球性貧血先想鐵、thalassemia、鉛；若是 pancytopenia 加低 reticulocyte，要轉想骨髓衰竭的 aplastic anemia。",
-   "guideline": "FC 醫學(四)第1冊 p.457"
+   "guideline": "FC 醫學(四)第1冊 p.457",
+   "concepts": [
+    "microcytic-anemia"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29119,7 +29233,10 @@
    "C": "本項不選。週期性麻痺是骨骼肌離子通道病（channelopathy），病灶在肌膜興奮性，不是神經肌肉接合處傳遞失敗。",
    "D": "本項最恰當。反覆發作的家族性週期性麻痺可用 acetazolamide 預防；它改變腎臟碳酸氫鹽處理與酸鹼狀態，實際選藥仍要依亞型決定。",
    "summary": "週期性麻痺是肌肉離子通道病；反覆發作可考慮 acetazolamide，先分清低鉀或高鉀亞型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30166,7 +30283,10 @@
    "C": "Septic shock 常因 tissue hypoperfusion、mitochondrial dysfunction 與 catecholamine-driven glycolysis 形成 lactic acidosis；早期也可能因 hyperventilation 合併 respiratory alkalosis，不是典型 metabolic alkalosis。",
    "D": "正確。大量快速輸注 normal saline 帶來相對過多 chloride，使 strong ion difference 降低並造成 hyperchloremic normal-anion-gap metabolic acidosis。",
    "summary": "大量 normal saline 會造成 hyperchloremic metabolic acidosis；diarrhea 失 bicarbonate 也酸中毒，過度通氣則是 respiratory alkalosis。",
-   "guideline": "FC 醫學(五)第1冊 p.30"
+   "guideline": "FC 醫學(五)第1冊 p.30",
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33402,7 +33522,10 @@
    "C": "胸腰段 epidural 可減少 systemic opioid、阻斷 surgical stress 並促進 gastrointestinal motility，部分腹部手術病人可較早恢復 bowel function。",
    "D": "良好 thoracic epidural analgesia 讓病人更能深呼吸、咳嗽與活動，可減少 atelectasis 與部分 pulmonary complications，效益仍取決於手術與病人風險。",
    "summary": "Epidural analgesia 的優點來自 segmental analgesia 與 sympathetic blockade；它不會增加 sympathetic outflow。",
-   "guideline": "FC 醫學(六)第4冊 p.141"
+   "guideline": "FC 醫學(六)第4冊 p.141",
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36297,7 +36420,10 @@
    "C": "Kussmaul's sign 指吸氣時 jugular venous pressure 反常上升，見於 constrictive pericarditis、restrictive cardiomyopathy 或右心室梗塞；代謝性酸中毒的深快呼吸叫 Kussmaul respiration，兩者名稱相似但不是同一徵象。",
    "D": "Romberg's sign 在閉眼後站立不穩，表示視覺代償被移除後暴露 proprioception 缺損，與 sensory ataxia 有直接關聯。",
    "summary": "本題陷阱是 Kussmaul sign 與 Kussmaul respiration：前者為 JVP 徵象，後者才見於代謝性酸中毒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37176,7 +37302,10 @@
    "C": "本項應選。方向講反了：塌陷型（collapsing）FSGS 有腎絲球叢塌陷與足細胞增生，進展快、預後**差**，不是比較好。",
    "D": "本項不選。續發性 FSGS 要處理的是肥胖、腎元數量減少、病毒或藥物這些根本原因，加上支持治療，一般不用類固醇免疫抑制。",
    "summary": "FSGS 切片要取夠深（近髓質）；看到 collapsing 型別就是預後最差的那一種。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37940,7 +38069,9 @@
    "D": "正確答案。心因性肺水腫如果適合用非侵襲性正壓通氣（NIV），就能避開插管，也就避開了管路帶來的微量吸入與生物膜，呼吸器相關肺炎自然變少。",
    "summary": "預防呼吸器相關肺炎兩招最有效：能不插管就不插管，插了就把床頭抬到 30–45 度。",
    "guideline": "FC 醫學(三)第1冊 p.367",
-   "concepts": []
+   "concepts": [
+    "hap-vap-definition-prevention"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39599,7 +39730,10 @@
    "C": "本項不選。急性溶血會以貧血、reticulocyte 增加、LDH 上升與間接 bilirubin 上升為主，不能解釋腎絲球性血尿和水腫。",
    "D": "本項不選。腎病症候群（nephrotic syndrome）以大量蛋白尿、低 albumin 與廣泛水腫為主；本題明顯血尿加感染後時間軸更支持腎炎。",
    "summary": "皮膚感染後的血尿、水腫、高血壓是 APSGN；大量蛋白尿才是 nephrotic syndrome 的主場。",
-   "guideline": "FC 醫學(四)第1冊 p.178"
+   "guideline": "FC 醫學(四)第1冊 p.178",
+   "concepts": [
+    "nephrotic-vs-nephritic"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39637,7 +39771,10 @@
    "C": "本項不選。肝臟為補償低 albumin 會增加脂蛋白合成，加上脂質清除下降，所以病童常有 hyperlipidemia。",
    "D": "本項應選。腎病症候群不是 hypocoagulability，而是容易血栓的 hypercoagulable state；尿中流失 antithrombin 等抗凝蛋白，加上血液濃縮都會提高凝血風險。",
    "summary": "nephrotic syndrome 的四個字串起來：大量蛋白尿、低膠體壓水腫、高血脂、還會高凝而不是容易出血。",
-   "guideline": "FC 醫學(四)第1冊 p.178"
+   "guideline": "FC 醫學(四)第1冊 p.178",
+   "concepts": [
+    "nephrotic-vs-nephritic"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39670,7 +39807,10 @@
    "C": "本項不選。持續抽搐會造成缺氧、乳酸累積與通氣不足，處置要先終止癲癇並給予適當呼吸支持，才能同時處理兩種酸中毒來源。",
    "D": "本項不選。全身性強直陣攣發作讓骨骼肌高代謝且暫時缺氧，乳酸增加後會拉低 HCO3−，造成代謝性酸中毒。",
    "summary": "酸鹼題先算：AG＝25 是高，不是低；Winter 預期 CO2 約 34，實測 46 表示癲癇後還合併呼吸性酸中毒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41035,7 +41175,10 @@
    "C": "本項不選。純字聾（pure word deafness）是聽覺語言理解障礙，病人可能能說、讀、寫；題目只給急性失語與重複能力，不能優先選它。",
    "D": "本項最符合。跨皮質失語症（transcortical aphasia）的關鍵是重複能力保留；依流利度和理解力可再分 motor、sensory 與 mixed 型。",
    "summary": "失語分類先抓重複：能重複就往 transcortical aphasia 想，不能重複才想 Broca、Wernicke 或 conduction。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aphasia-types"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42912,7 +43055,10 @@
    "C": "無症狀 severe aortic stenosis 合併 LVEF <50% 表示左心室失代償，可在症狀出現前進行瓣膜置換。",
    "D": "最不適當。不能只以預防猝死為由替所有無症狀 severe aortic stenosis 置換；須看 LVEF、運動測試、very severe stenosis、進展速度等高風險特徵。",
    "summary": "無症狀 severe AS 不是一律手術；需有 LV dysfunction 或其他高風險指標。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45262,7 +45408,10 @@
    "C": "這題不選 C：Barbiturate 可抑制腦幹網狀活化系統（reticular activating system）。降低大腦皮質興奮性。因此產生催眠與麻醉作用。",
    "D": "這題要選 D：把 barbiturate 說成靠 NMDA receptor 起效。是把 ketamine 的機轉套錯了。Barbiturate 主要增強 GABA-A receptor 的抑制性訊號。延長 chloride channel 開啟時間；NMDA receptor antagonism 是 ketamine 的代表機轉。",
    "summary": "靜脈麻醉藥要配對機轉：barbiturate 走 GABA-A，ketamine 才是 NMDA antagonist。",
-   "guideline": "FC 醫學(六)第4冊 p.83"
+   "guideline": "FC 醫學(六)第4冊 p.83",
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47597,7 +47746,9 @@
    "D": "正確。無論 Erb 或 Klumpke 型，多數新生兒臂神經叢損傷都有良好自然恢復；但早期仍要追蹤肌力、關節攣縮及是否需轉介重建手術。",
    "summary": "產傷臂神經叢：Erb 是上幹 C5–6、Klumpke 是下幹 C8–T1；多數會恢復，但要追蹤。",
    "guideline": "FC 醫學(六)第3冊 p.193",
-   "concepts": []
+   "concepts": [
+    "neonatal-brachial-plexus-palsy"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47969,7 +48120,9 @@
    "D": "這題不選 D：Propofol 能降低 cerebral metabolic rate 與 cerebral blood flow。但會造成 vasodilation 與 hypotension。本例血壓極高，仍須小心滴定並準備處理誘導後的血壓變化。",
    "summary": "頭傷合併嚴重高血壓做 RSI 時，傳統考點會避開 ketamine 的交感刺激；實務仍要同時守住 CPP 與血壓。",
    "guideline": "FC 醫學(六)第4冊 p.83",
-   "concepts": []
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48369,7 +48522,10 @@
    "B": "本項應選。這是錯的敘述。主動脈瓣閉鎖不全本身的雜音是左胸骨緣的早期舒張遞減型吹風樣雜音。Austin Flint murmur 是嚴重主動脈逆流的血柱干擾二尖瓣開啟，在心尖聽到的低頻舒張中晚期隆隆聲，不是那個吹風樣雜音的名字。",
    "C": "本項不選。二尖瓣狹窄的 opening snap 出現在第二心音後不久（約 0.05 到 0.12 秒）。常在心尖內側或左下胸骨緣較清楚，瓣膜還有活動性時比較容易聽到，敘述正確。",
    "D": "本項不選。二尖瓣閉鎖不全典型是心尖最響的全收縮期雜音，常向左腋下傳導。如果病因或射流方向不同，傳導方向也可能改變，敘述正確。",
-   "summary": "主動脈逆流的基本雜音是左胸骨緣的早期舒張吹風聲；Austin Flint 是嚴重 AR 在心尖造成的舒張期隆隆聲，不是同一個。"
+   "summary": "主動脈逆流的基本雜音是左胸骨緣的早期舒張吹風聲；Austin Flint 是嚴重 AR 在心尖造成的舒張期隆隆聲，不是同一個。",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -48544,7 +48700,8 @@
    "D": "本項不選。開放性動脈導管（patent ductus arteriosus）讓舒張期血液由主動脈流向肺動脈，降低舒張壓、增加左心輸出，典型產生寬脈壓和水錘脈。",
    "summary": "寬脈壓見於高輸出或舒張期分流，像 thyrotoxicosis、發燒、PDA；aortic stenosis 反而造成窄脈壓和 parvus et tardus。",
    "concepts": [
-    "acyanotic-shunt-lesions"
+    "acyanotic-shunt-lesions",
+    "valvular-murmurs"
    ]
   },
   "source": "112020/302_11",
@@ -50079,7 +50236,10 @@
    "C": "本項不選。腫瘤標記對鼻咽癌追蹤或許有輔助價值，但兩個月前才確認沒有復發。這組內分泌表現不會靠腫瘤標記確診。",
    "D": "本項不選。FSH、LH 與 testosterone 可以評估性腺功能低下，體毛減少也確實與它有關。但當下最急、最需要先排除的是腎上腺那條軸線。",
    "summary": "放療後的倦怠＋低血鈉＋體毛變少，先驗 ACTH／cortisol——腎上腺不足是會致命但補得回來的那個。",
-   "guideline": "FC 醫學(三)第2冊 p.215"
+   "guideline": "FC 醫學(三)第2冊 p.215",
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50942,7 +51102,10 @@
    "C": "本項不選（但方向其實也可議）。TTKG 是用來判斷腎臟有沒有在漏鉀：低血鉀時若 TTKG 大於 7，代表腎臟仍在排鉀，屬腎性流失。醛固酮過多正是典型的腎性漏鉀，TTKG 應該偏高。題目寫「通常低於 5」與這個原則不合，只是官方選的最不適當是 D。",
    "D": "本項應選。方向剛好相反。甲狀腺亢進週期性癱瘓因交感神經過度活化，會出現**高尿鈣、低尿磷**，所以尿鈣磷比是**偏高**（文獻多以大於 1.7 作為與其他低血鉀癱瘓的區分點）。寫成小於 1.6 剛好把鑑別點顛倒。",
    "summary": "低血鉀癱瘓的鑑別記一個方向：甲亢性週期性癱瘓的尿鈣磷比偏「高」（>1.7），而且補鉀要小心反彈性高血鉀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -51392,7 +51555,10 @@
    "C": "本項不選。HBsAg 陽性表示目前仍有病毒抗原，不能用來辨別已具有 anti-HBs 的兩種免疫來源。",
    "D": "本項不選。HBV DNA 用來評估正在複製的病毒；既往感染已清除與疫苗免疫都可能測不到，因此辨別力較差。",
    "summary": "anti-HBs 陽性想分疫苗還是自然感染，只要找 anti-HBc IgG：自然感染有，疫苗沒有。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51577,7 +51743,10 @@
    "C": "本項不選。第二型膜增生性腎小球腎炎與補體替代路徑異常相關，病因可持續影響移植腎，復發風險不低。",
    "D": "本項不選。IgA 腎病變的異常 IgA 來源不在原腎，移植後仍可能重新沉積並復發。",
    "summary": "移植後最不會復發的是腎臟本身的先天結構性病因；FSGS、補體病與 IgA 病是全身性機制，會回到新腎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51770,7 +51939,10 @@
    "C": "本項應選。缺鐵時 ferritin 下降，transferrin saturation 也會下降，因為可供運鐵蛋白結合的血清鐵不足；高飽和度與缺鐵相反。",
    "D": "本項不選。有效鐵劑治療後骨髓造血恢復，reticulocytosis 常在數天內開始增加，是早期治療反應。",
    "summary": "缺鐵的實驗室方向一起背：ferritin 低、serum iron 低、transferrin saturation 低；不要把低鐵寫成高飽和。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "microcytic-anemia"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51991,7 +52163,10 @@
    "C": "本項不選。iodide transport defect 使碘無法有效進入甲狀腺濾泡細胞，屬 dyshormonogenesis。",
    "D": "本項不選。iodide organification defect 是 TPO 相關的碘化與偶聯失敗，同樣屬 dyshormonogenesis。",
    "summary": "先天甲低的選項若都在比病因，lingual thyroid 是『位置跑錯』的 dysgenesis；碘運輸、organification、Pendred 都是合成障礙。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55615,7 +55790,9 @@
    "D": "「術後 90% 完全不需降壓藥」明顯高估。單側原發性醛固酮增多症術後生化治癒率高，但臨床血壓完全治癒率遠低於 90%，並受年齡與高血壓病程影響。",
    "summary": "單側原發性醛固酮增多症手術多能矯正低血鉀與 aldosterone 過多，但持續高血壓並不少見。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -56987,7 +57164,10 @@
    "C": "錯誤。高血鉀主要危險是心律不整與肌無力，不是最常見的術後 ileus 原因。",
    "D": "錯誤。低血鈣可造成神經肌肉興奮性上升，例如 tetany；它和術後腸蠕動停止的關聯不如低血鉀直接。",
    "summary": "術後腹脹又沒腸音，先抽 potassium；低血鉀會讓腸平滑肌不會動。",
-   "guideline": "FC 醫學(五)第4冊 p.29"
+   "guideline": "FC 醫學(五)第4冊 p.29",
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -57284,7 +57464,10 @@
    "C": "這題要選 C：ketamine 一般不會降心率與血壓，反而多由交感刺激使兩者上升。Ketamine 通常提高心率、血壓與 cardiac output。因為它保留或刺激交感神經；只有交感儲備耗竭者才可能顯露直接心肌抑制。",
    "D": "這題不選 D：Etomidate 會抑制 11β-hydroxylase。暫時降低 cortisol synthesis；重症病人反覆或持續使用時，這個 adrenal suppression 特別值得注意。",
    "summary": "Ketamine 的考點是交感刺激、血壓心率常上升；etomidate 則是血流動力穩但會壓低 adrenal cortisol synthesis。",
-   "guideline": "FC 醫學(六)第4冊 p.82"
+   "guideline": "FC 醫學(六)第4冊 p.82",
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -57322,7 +57505,10 @@
    "C": "這題要選 C：Ketamine 通常保留自主呼吸與 airway reflexes。對呼吸抑制較 thiopental、fentanyl、propofol 少；但高劑量、快速給藥或合併其他鎮靜藥仍可能 apnea。",
    "D": "這題不選 D：Propofol 明顯降低呼吸驅動與上呼吸道肌張力。常在誘導後造成 apnea。且會抑制對 hypoxia 與 hypercapnia 的反應。",
    "summary": "需要保留呼吸時，四者中先想到 ketamine；但「較少抑制」不等於不用監測 airway 與 ventilation。",
-   "guideline": "FC 醫學(六)第4冊 p.82"
+   "guideline": "FC 醫學(六)第4冊 p.82",
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -57355,7 +57541,10 @@
    "C": "這題不選 C：注藥後早期的病人姿勢會改變重力方向。尤其使用 hyperbaric 或 hypobaric solution 時，可明顯改變 sensory block height。",
    "D": "這題要選 D：肥胖會改變腦脊髓液空間，不能說對脊椎麻醉阻斷高度毫無影響。肥胖可因腹壓與 epidural venous engorgement 改變 CSF volume。使相同 intrathecal dose 的 block height 上升；它不能視為完全沒有影響。",
    "summary": "脊椎麻醉高度不是只看劑量：baricity、姿勢與 CSF volume 都會改變藥液往頭側擴散多少。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59324,7 +59513,9 @@
    "D": "不正確。經皮質感覺型失語症可流暢且理解差，但複誦通常保留；題幹強調 neologism 的經典答案是 Wernicke aphasia。",
    "summary": "流暢卻聽不懂、講出新造字，直接想到 Wernicke aphasia。",
    "guideline": "FC 醫學(六)第3冊 p.21",
-   "concepts": []
+   "concepts": [
+    "aphasia-types"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59626,7 +59817,9 @@
    "D": "本項不選。Erb palsy 若長期肩外旋肌與後方結構不足，可能造成肩盂肱骨關節發育不良，因此需早期復健與追蹤肩關節位置。",
    "summary": "Horner syndrome 要連 Klumpke 的 T1 想，不要連到 Erb 的 C5–6。",
    "guideline": "FC 醫學(六)第3冊 p.192",
-   "concepts": []
+   "concepts": [
+    "neonatal-brachial-plexus-palsy"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60013,7 +60206,11 @@
    "C": "這題不選 C：Subarachnoid hemorrhage 並非 succinylcholine 的絕對禁忌；需更重視 preoxygenation、避免缺氧與劇烈血流動力波動。並依顱內壓與禁忌症選擇 RSI 藥物。",
    "D": "本項最不適當。Propofol 的 vasodilation 與負性肌力作用可讓低血容性休克病人的血壓進一步崩落；這種情境通常選較能維持循環的誘導策略。",
    "summary": "RSI 選藥先看 physiology：低血容量休克要避開 propofol 的血壓崩落；MG 則對 rocuronium 特別敏感。",
-   "guideline": "FC 醫學(六)第4冊 p.82"
+   "guideline": "FC 醫學(六)第4冊 p.82",
+   "concepts": [
+    "iv-induction-agents",
+    "neuromuscular-blockers"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60233,7 +60430,10 @@
    "C": "正確答案。非類固醇抗發炎藥（NSAIDs）抑制腎臟的前列腺素，讓腎素與醛固酮都下降；同時它還可能降低腎絲球過濾率（GFR）。兩條路一起走，血鉀就上去了。",
    "D": "本項不選。β2 腎上腺素受體促效劑（beta2-adrenergic agonist）同樣把鉀往細胞內推，可以短暫降低血鉀，臨床上也拿來急救高血鉀。",
    "summary": "會把鉀推進細胞的（胰島素、β2 促效劑）是降鉀；擋住醛固酮那條路的（NSAID）才升鉀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60456,7 +60656,10 @@
    "B": "本項不選。曾因 VT／VF 心跳停止、又沒有可逆原因的人，再發惡性心律不整的風險高，ICD 是次級預防的重要處置，敘述正確。",
    "C": "本項不選。有症狀的阻塞型 HCM 如果藥物無效，可評估中隔切除術（septal myectomy）或酒精中隔消融（alcohol septal ablation）。末期難治的心衰竭才考慮移植，敘述正確。",
    "D": "本項應選。這是錯的敘述。過度利尿會降低前負荷、加重動態的左心室出口阻塞。這種病人的心室僵硬、要靠足夠前負荷才填得飽，利尿劑只能在鬱血時謹慎小量使用，不能為了「預防心衰竭」而增加用量。",
-   "summary": "阻塞型 HCM 要避免過度降低前負荷；猝死存活者考慮 ICD，難治症狀才做中隔減積治療。"
+   "summary": "阻塞型 HCM 要避免過度降低前負荷；猝死存活者考慮 ICD，難治症狀才做中隔減積治療。",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60721,7 +60924,10 @@
    "B": "本項不選。免疫耐受期（immune tolerance phase）通常是 HBeAg 陽性、HBV DNA 很高而 ALT 正常；本例 HBeAg 陰性，不符合。",
    "C": "正確答案。媽媽和哥哥都是帶原者、患者年輕就發現感染，最可能是出生時的母嬰垂直感染或幼年家庭內傳染。",
    "D": "本項不選。慢性 HBV 又有肝癌（HCC）家族史，仍要每半年做腹部超音波，不能因為 ALT 正常或 HBeAg 陰性就免除。",
-   "summary": "HBeAg 轉陰（seroconversion）不等於清除 HBV；家族聚集提示垂直感染，HCC 家族史讓定期監測更重要。"
+   "summary": "HBeAg 轉陰（seroconversion）不等於清除 HBV；家族聚集提示垂直感染，HCC 家族史讓定期監測更重要。",
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62577,7 +62783,9 @@
    "D": "本項應選。長期預防性抗生素會養出抗藥菌、也帶來副作用。肺炎治好之後不該常規長期給抗生素。",
    "summary": "COPD 預防肺炎靠戒菸加兩支疫苗（肺炎鏈球菌、流感），不是靠長期吃抗生素。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -63608,7 +63816,10 @@
    "C": "本項不選。尿中流失 C3、C5 等補體成分會削弱 opsonization 與終末補體功能，增加感染風險。",
    "D": "本項不選。factor B 與 factor D 是 alternative complement pathway 成分，流失後也會讓補體防禦力下降。",
    "summary": "腎病症候群易感染不是因為白血球少，而是尿把 Ig 和補體一起漏掉，特別怕莢膜菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nephrotic-vs-nephritic"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65214,7 +65425,10 @@
    "C": "本項不選。中央脊髓症候群常見上肢比下肢無力明顯、可有薦部保留；題目描述的是完整反射與功能暫停。",
    "D": "本項最符合。急性脊髓休克（spinal shock）在嚴重脊髓損傷後可出現損傷以下弛緩性癱瘓、感覺消失與肛門／球海綿體肌反射消失，之後才逐步恢復反射。",
    "summary": "急性脊損後全癱又連肛門、球海綿體肌反射都消失，先叫它 spinal shock，不要急著硬分前後中央脊髓。",
-   "guideline": "FC 醫學(四)第4冊 p.21"
+   "guideline": "FC 醫學(四)第4冊 p.21",
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -69421,7 +69635,10 @@
    "C": "這題不選 C：第二產程加入會陰與陰道的 somatic pain。需要延伸至較低 sacral segments；較濃的 local anesthetic 或 dense block 可能影響用力並延長第二產程。",
    "D": "這題不選 D：Epidural catheter 放好後先給 test dose。可協助偵測誤入 intrathecal 或 intravascular space；同時仍要持續觀察血壓、感覺高度與局部麻醉毒性。",
    "summary": "分娩 epidural 不必等 3 cm；第一產程記 T10–L1，第二產程再加上 sacral coverage。",
-   "guideline": "FC 醫學(六)第4冊 p.121"
+   "guideline": "FC 醫學(六)第4冊 p.121",
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71778,7 +71995,10 @@
    "C": "本項不選。C6 多了伸腕，可利用 tenodesis 抓握，操作輪椅比 C5 順很多。但題目問的是「最高位」，C6 不是最高的那個。",
    "D": "本項不選。C7 有伸肘（triceps），能做轉位與撐起減壓，功能獨立度更高，離「最高位」更遠。",
    "summary": "脊髓損傷的手動輪椅分界：C5 靠改裝輪圈勉強可推，C6 有伸腕靠 tenodesis 抓握，C7 有伸肘才能自行轉位。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72018,7 +72238,10 @@
    "C": "這題不選 C：Propofol 會顯著降低 systemic vascular resistance 與血壓。本例 86/54 mmHg 已處於 shock。不是首選誘導藥。",
    "D": "這題不選 D：Barbiturate 可造成 myocardial depression 與 vasodilation。也抑制呼吸。對此例低血壓、呼吸衰竭病人的血流動力不利。",
    "summary": "重症氣喘合併低血壓插管，ketamine 同時保留循環並有支氣管擴張，是最能符合這題 physiology 的藥。",
-   "guideline": "FC 醫學(六)第4冊 p.81"
+   "guideline": "FC 醫學(六)第4冊 p.81",
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72602,7 +72825,10 @@
    "B": "本項應選。這是錯的敘述。三尖瓣逆流（tricuspid regurgitation）是右心雜音，在「吸氣」增加右心回流時變大聲（Carvallo sign），不是吐氣時。",
    "C": "本項不選。站立降低前負荷，多數流量型雜音（像二尖瓣逆流）會變小聲。HCM 和二尖瓣脫垂（MVP）是重要例外，敘述正確。",
    "D": "本項不選。蹲下增加前負荷和後負荷，減少 HOCM 的動態出口阻塞，所以雜音變小，敘述正確。",
-   "summary": "右心雜音通常吸氣增強；HOCM 在站立／Valsalva 增強、蹲下減弱。"
+   "summary": "右心雜音通常吸氣增強；HOCM 在站立／Valsalva 增強、蹲下減弱。",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -72640,7 +72866,10 @@
    "B": "本項不選。HCM 的肥厚有年齡相關的外顯率，許多基因帶原者出生時還沒有明顯的左心室肥厚。",
    "C": "本項不選。有左心室出口阻塞時應降低心率、維持足夠的前後負荷。擴張血管會降低後負荷、可能加重阻塞，不是治療原則。",
    "D": "本項不選。運動時血壓反應異常指的是「未能適當上升」或「下降」。正常增加 30 mmHg 不是猝死的危險因子。",
-   "summary": "HCM 可晚發肥厚；阻塞型要避免擴張血管和低前負荷，只有少數才進展成擴張、低收縮型。"
+   "summary": "HCM 可晚發肥厚；阻塞型要避免擴張血管和低前負荷，只有少數才進展成擴張、低收縮型。",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -73211,7 +73440,10 @@
    "C": "本項不選。第五類的膜性狼瘡腎炎，特徵是上皮下免疫複合體沉積與微血管壁增厚，也是狼瘡腎炎的一型。",
    "D": "本項不選。嚴重的增生型狼瘡腎炎會有全球性內皮增生與新月體形成，正好對應這位病人 BUN 110、creatinine 4.0 的快速惡化。",
    "summary": "狼瘡腎炎是免疫複合體病，分型從增生到膜性到新月體都有；FSGS 不在這個家族裡。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -73912,7 +74144,10 @@
    "C": "不正確：肺炎克雷伯氏菌 Klebsi。肺炎克雷伯氏菌（Klebsiella pneumoniae）較常見於酒精使用、糖尿病或衰弱者，典型可有上葉實變與濃稠痰，不符合此病例背景。",
    "D": "不正確：綠膿桿菌 Pseudomon。Pseudomonas aeruginosa 社區型肺炎通常需結構性肺病、嚴重 COPD、近期醫療暴露等危險因子；健康 18 歲男性機率低。",
    "summary": "年輕人肺炎、白血球不高、影像與症狀不成比例時，先想到 Mycoplasma 的非典型肺炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -73950,7 +74185,10 @@
    "C": "本項（C：給與靜脈輸液，維持足夠器官灌）不選。適當靜脈輸液是初始復甦的一部分，目標是改善血壓、尿量、乳酸與器官灌流。",
    "D": "本項（D：當血壓太低，給與靜脈輸液後血）不選。充分輸液後仍低血壓時，norepinephrine 等 vasopressor 可維持 MAP 與重要器官灌流。",
    "summary": "敗血症酸中毒先救灌流、控感染；不是先用 bicarbonate 把數字拉回正常。",
-   "guideline": "Surviving Sepsis Campaign"
+   "guideline": "Surviving Sepsis Campaign",
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74210,7 +74448,10 @@
    "C": "本項不選。內生性的甲狀腺毒症會釋出甲狀腺球蛋白，所以血中數值上升；吃甲狀腺素造成的偽症因為腺體被抑制，甲狀腺球蛋白反而低。這正是分辨兩者的好方法。",
    "D": "本項應選。單獨測 TSH 抓不到腦下垂體造成的中樞性甲狀腺功能低下——那時 TSH 可能是正常或偏低的。必須同時看 free T4 才判讀得出來。",
    "summary": "懷疑腦下垂體問題時，單看 TSH 會被騙——一定要配 free T4 一起讀。",
-   "guideline": "FC 醫學(三)第2冊 p.224"
+   "guideline": "FC 醫學(三)第2冊 p.224",
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74360,7 +74601,10 @@
    "C": "本項不選。培養沒長出抗藥菌、臨床也在改善時，療程縮短到 7 到 8 天的效果不輸長療程，還能減少後續抗藥菌定殖。Pseudomonas 等難纏菌種才需要個別延長。",
    "D": "本項應選。防吸入的床頭角度標準是 30 到 45 度，只抬 15 到 20 度不夠。這是 VAP 預防 bundle 裡最便宜也最常被打折扣的一項。",
    "summary": "床頭抬高記 30–45 度；抬不夠等於沒做。培養沒長抗藥菌又有改善，療程 7–8 天就夠。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hap-vap-definition-prevention"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -75587,7 +75831,10 @@
    "C": "本項不選。橫紋肌溶解會釋放細胞內大量 potassium，若合併急性腎損傷更容易出現高血鉀。",
    "D": "本項不選。cyclosporine 可降低腎小管排鉀並造成腎功能受損，因此是藥物性 hyperkalemia 的原因之一。",
    "summary": "高血鉀想「排不掉、細胞漏出、藥物擋排鉀」。loop diuretic furosemide 則把鉀一起排走，方向相反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -75663,7 +75910,10 @@
    "C": "本項不選。對 furosemide 完全無反應的 AKI 不應反覆加量硬利尿。在容量狀態確認後需調整輸入、限水並評估腎臟替代治療。",
    "D": "本項應選。AKI 的代謝性酸中毒應依嚴重度與病因處理，並非一律積極補 NaHCO3 把 HCO3 維持在正常範圍。不當補鈉可能造成容量負荷與鹼中毒。",
    "summary": "高血鉀先用 calcium 穩住心臟，但它不降鉀。AKI 的 bicarbonate 也不是看到數字低就一律補到正常。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -81265,7 +81515,10 @@
    "C": "這題不選 C：Sugammadex 以包合 rocuronium、vecuronium 等 aminosteroid NMBDs 為主。不能有效解除 cisatracurium 的 benzylisoquinolinium block。",
    "D": "這題不選 D：Volatile anesthetics 會增強 nondepolarizing block。反而較容易殘留；高齡者風險來自藥效時間延長與清除下降，不能歸咎於 TIVA 本身。",
    "summary": "Neostigmine 要等 TOF 已回來才給；拔管前真正的安全線是 quantitative TOF ratio ≥0.9。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -81303,7 +81556,10 @@
    "C": "這題不選 C：Rocuronium 以肝膽排泄為主。嚴重肝功能異常時 onset 或 duration 可能改變。需減量並以 TOF 監測。",
    "D": "這題不選 D：Succinylcholine 由 plasma pseudocholinesterase 水解。不是肝臟主要代謝；但它有高血鉀、malignant hyperthermia 等重要禁忌。且本題的首選是 cisatracurium。",
    "summary": "肝腎功能差要先想到 cisatracurium：Hofmann elimination 讓它不依賴主要器官代謝。",
-   "guideline": "FC 醫學(六)第4冊 p.108"
+   "guideline": "FC 醫學(六)第4冊 p.108",
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -81341,7 +81597,10 @@
    "C": "這題不選 C：Intrathecal opioid 會作用脊髓 sacral autonomic pathways。可能造成 urinary retention；高齡男性或前列腺阻塞病人更要監測。",
    "D": "這題不選 D：交感神經阻斷造成 vasodilation 是 spinal anesthesia 最常見併發症之一。因此給藥前後要監測血壓並處理低血壓。",
    "summary": "脊椎麻醉的時間要記得 bupivacaine 比 lidocaine 長；最常見併發症則是交感阻斷造成低血壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -81417,7 +81676,10 @@
    "C": "這題不選 C：胎兒娩出前盡量避免大量 opioid。因它可穿過胎盤造成 neonatal respiratory depression；娩出後再補 analgesia 較安全。",
    "D": "這題不選 D：胎兒娩出後可將 volatile anesthetic 維持在較低濃度如約 0.5 MAC。以兼顧麻醉與避免過度 uterine relaxation、子宮出血。",
    "summary": "剖腹全麻把母體當 full stomach 做 RSI；succinylcholine 是常用工具，opioid 則留到胎兒娩出後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -84250,7 +84512,10 @@
    "C": "本項不選。methimazole 在第一孕程與胚胎病變風險相關，所以這一期通常改用 PTU，後期再考慮換回來。",
    "D": "本項應選。方向剛好相反：懷孕會讓甲狀腺素需求**增加**，所以已在治療的甲狀腺功能低下通常需要**提高** levothyroxine 劑量，不是降低。",
    "summary": "懷孕對甲狀腺是「需求變大」——已在吃 levothyroxine 的人要加量，不是減量。",
-   "guideline": "FC 醫學(三)第2冊 p.223"
+   "guideline": "FC 醫學(三)第2冊 p.223",
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -85178,7 +85443,10 @@
    "C": "本項不選。局部節段性腎絲球硬化（FSGS）也會有蛋白尿與高血壓，但補體通常是正常的，而且它不是 C 型肝炎典型的免疫複合體型態。",
    "D": "本項不選。IgA 血管炎（舊稱 Henoch-Schönlein purpura）通常有可觸摸性紫斑、腹痛與關節痛，不是 C 型肝炎低補體腎病的首選。",
    "summary": "C 型肝炎＋低補體＋蛋白尿＝冷凝球蛋白血症的膜增生性腎炎，這是固定組合。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86017,7 +86285,10 @@
    "C": "正確：②④。沒有結構性肺病、近期廣效抗生素或醫療暴露時，不需因中風史就常規擴大到 Pseudomonas aeruginosa。",
    "D": "不正確：僅①④。肺炎合併肋膜積液要住院評估，並依積液大小與複雜度做 thoracentesis，排除 empyema。",
    "summary": "大葉性肺炎加 Gram-positive diplococci 先治 pneumococcus；同側 pleural effusion 要評估是否需抽液。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86605,7 +86876,10 @@
    "C": "本項（C：近期接觸過鳥 — Chlam）不選。接觸鳥類、鸚鵡或其排泄物後的非典型肺炎，要想 Chlamydia psittaci。",
    "D": "本項（D：近期接觸過羊 — Coxie）不選。羊、山羊等牲畜的胎盤或分泌物氣膠暴露是 Coxiella burnetii（Q fever）的典型線索。",
    "summary": "旅館／郵輪水系統＝Legionella；鳥＝C. psittaci；羊＝Coxiella。暴露史能把非典型肺炎快速分流。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -87495,7 +87769,10 @@
    "C": "本項敘述錯誤。Anti-HCV 陽性只表示曾暴露過 HCV，不能分辨目前仍有病毒或已清除；要看 HCV RNA 才能判定活動性感染。",
    "D": "本項敘述錯誤。HBsAg 與 anti-HBc IgM 同時陽性較支持急性或近期 HBV 感染。慢性感染通常是 HBsAg 持續超過 6 個月，anti-HBc 以 IgG 為主。",
    "summary": "肝炎血清學先抓 anti-HBc：疫苗只留下 anti-HBs；anti-HBc IgM 指向急性 HBV；HCV 是否還活著要看 RNA。",
-   "guideline": "FC 醫學(四)第1冊 p.280"
+   "guideline": "FC 醫學(四)第1冊 p.280",
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -87690,7 +87967,10 @@
    "C": "本項敘述正確。Alport syndrome 是第四型膠原蛋白異常造成的遺傳性腎病。血尿合併家族中腎衰竭、聽力障礙與 anterior lenticonus 是經典組合。",
    "D": "本項不選。局部節段性腎絲球硬化（focal segmental glomerulosclerosis）多以蛋白尿或腎病症候群表現，不能解釋題目的耳與眼線索。",
    "summary": "血尿再加耳與眼，就想到 Alport：腎臟的第四型膠原缺陷，同時傷到耳與晶狀體。",
-   "guideline": "FC 醫學(四)第1冊 p.177"
+   "guideline": "FC 醫學(四)第1冊 p.177",
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90864,7 +91144,10 @@
    "C": "本項不選：慢性二尖瓣逆流可先由心室重塑代償，所以 C 不會是錯項。左心房與左心室逐漸擴大後，早期仍可維持前向心輸出而沒有症狀。",
    "D": "本項不選：嚴重二尖瓣逆流能造成肺水腫和左心房擴大，所以 D 不會是錯項。失代償時左心房壓上升會引起肺鬱血，胸部 X 光也可能看見左心房擴大。",
    "summary": "二尖瓣逆流是收縮期從心尖傳到腋下的雜音；舒張期雜音要想別的瓣膜病。",
-   "guideline": "FC 醫學(五)第2冊 p.99"
+   "guideline": "FC 醫學(五)第2冊 p.99",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -93315,7 +93598,10 @@
    "C": "這題不選 C：Mivacurium 也不是 sugammadex 的專一性標的。主要由 plasma cholinesterase 代謝；偽膽鹼酯酶缺乏時作用可延長。",
    "D": "這題不選 D：Pancuronium 為 aminosteroid。但 sugammadex 對 rocuronium 的親和力最高；本題問臨床專一性配對，答案是 rocuronium。",
    "summary": "Sugammadex 要配 rocuronium（也可 vecuronium）；cisatracurium 走 Hofmann elimination，不能被它包住。",
-   "guideline": "FC 醫學(六)第4冊 p.108"
+   "guideline": "FC 醫學(六)第4冊 p.108",
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -93386,7 +93672,10 @@
    "C": "這題不選 C：Pia mater 緊貼脊髓表面，脊椎穿刺不應穿到此層；穿得太深可能傷害神經組織。",
    "D": "這題不選 D：Ligamentum flavum 位在 epidural space 之前。穿過它可出現 loss of resistance。但此時尚未到 CSF。",
    "summary": "脊椎針過 dura 還不夠；最後穿 arachnoid 才進 subarachnoid space、才會見到 CSF。",
-   "guideline": "FC 醫學(六)第4冊 p.120"
+   "guideline": "FC 醫學(六)第4冊 p.120",
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95361,7 +95650,10 @@
    "C": "本項不選。起雞皮疙瘩來自損傷平面以下豎毛肌的交感興奮，屬於這個症候群的常見表徵。",
    "D": "本項不選。血壓急升會造成搏動性頭痛，常是病人最先講出來的不適。",
    "summary": "T6 以上脊髓損傷病人突然頭痛、冒汗又血壓飆高，第一件事是找膀胱脹或糞便阻塞這類刺激源。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95432,7 +95724,10 @@
    "C": "本項應選。失語症（aphasia）是優勢半球皮質語言區的問題，屬於中大腦動脈的地盤。椎底動脈供應腦幹、小腦與枕葉，管不到語言的產生與理解。",
    "D": "本項不選。平衡困難（disequilibrium）來自小腦與前庭核缺血，走路歪斜與眩暈都常見。",
    "summary": "後循環中風記 4D：dysphagia、dysarthria、diplopia、dizziness；一出現 aphasia 就要改想前循環。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aphasia-types"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95470,7 +95765,10 @@
    "C": "本項應選。肱三頭肌由 C7 支配，第六頸髓損傷的人做不出主動伸肘。C6 真正拿到的是伸腕，再靠肌腱固定效應（tenodesis）做出抓握。",
    "D": "本項不選。第六胸髓損傷的上肢完全正常，軀幹也有部分控制。配合下肢支架，可用前臂枴或助行器做治療性行走。",
    "summary": "頸髓關鍵肌：C5 屈肘、C6 伸腕、C7 伸肘、C8 屈指；伸不了肘就代表還沒到 C7。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -96207,7 +96505,10 @@
    "C": "本項不選。吸入型 beta-2 促效劑 albuterol 用到 10～20 mg 是高血鉀專用的高劑量，經 β2 受體把鉀推進細胞。但它不能當唯一的治療。",
    "D": "本項應選。patiromer 在腸道（GI）結合鉀後排出，常見副作用是便秘與**低**血鎂（hypomagnesemia），不是高血鎂。而且它起效慢，不能用在立即危及生命的高血鉀。",
    "summary": "急性高血鉀先穩心臟（鈣）、再趕進細胞（胰島素／β2）、最後才排出去；patiromer 會讓鎂變低不是變高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97590,7 +97891,10 @@
    "C": "本項不選。HbH 這個名字指的就是 **β4 四聚體**。它對氧親和力極高、幾乎不放氧，所以雖然帶氧卻不能供組織使用。",
    "D": "本項官方同樣給分，爭議在數字。三個 alpha 基因缺失時，alpha 鏈產量大約只剩正常的 25 到 30%，HbA 的合成也受同等限制。這個數字是否等同題目所說的「HbA 生成」，看採用的計算方式而定。",
    "summary": "HbH 是 alpha 型不是 beta 型：三個 alpha 基因壞掉，多出的 beta 鏈聚成 β4，沉澱成 Heinz body 造成溶血。",
-   "guideline": "官方更正：本題答 A 或 D 或 AD 均給分"
+   "guideline": "官方更正：本題答 A 或 D 或 AD 均給分",
+   "concepts": [
+    "thalassemia-alpha-vs-beta"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98131,7 +98435,10 @@
    "C": "本項不選。飽和碘化鉀溶液要在 thionamide 之後才給，可以急性抑制已合成荷爾蒙的釋放。順序不能顛倒，否則反而供料給甲狀腺。",
    "D": "本項應選。amiodarone 本身含大量碘，而且會造成甲狀腺功能異常，不是甲狀腺風暴心搏過速的常規建議用藥。這種情況控制心跳要用 β 阻斷劑。",
    "summary": "甲狀腺風暴控制心跳用 β 阻斷劑；amiodarone 含碘，等於火上加油。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98165,7 +98472,9 @@
    "D": "本項不選。每天評估能不能拔管，可以縮短使用呼吸器的天數，連帶降低呼吸器相關肺炎的機會。",
    "summary": "預防措施要先看禁忌：活動性出血時，抗凝血的預防要換成機械性壓迫。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "hap-vap-definition-prevention"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98330,7 +98639,10 @@
    "C": "本項（C：需住院之社區型肺炎患者，一般）不選。住院社區型肺炎死亡率隨年齡、共病、嚴重度與 ICU 需求上升，題述用來強調它非輕症。",
    "D": "本項（D：若後續胸部X 光追蹤又再次發）不選。相同部位反覆或不消退浸潤，要想阻塞性腫瘤、異物或支氣管結構異常。",
    "summary": "肺炎的 fever 可先退，X-ray 卻常慢很多；同一處反覆浸潤才要追查 obstructing cancer。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -99004,7 +99316,10 @@
    "C": "本項敘述正確。新生兒 Hb 9.7 g/dL、Hct 30%、MCV 80 fL 都偏低，出生即有小球性貧血應優先想到 α-thalassemia。",
    "D": "本項不選。G6PD deficiency 是氧化壓力下溶血，可能黃疸或急性貧血，卻不固定造成出生即小球性貧血。",
    "summary": "出生當下就小球性貧血，先想 α-thalassemia；β-thalassemia 通常等胎兒血紅素退場後才發病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "thalassemia-alpha-vs-beta"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -99304,7 +99619,10 @@
    "C": "本項不選。PSGN 常見 C3 降低而 C4 正常；兩者都明顯下降不典型。",
    "D": "本項敘述正確。治療鏈球菌可防止傳播與風濕熱，但在感染已發生後不能可靠預防 PSGN。",
    "summary": "咽炎後血尿看時間：隔 1–3 週又只有 C3 低像 PSGN；隔幾天就血尿反而偏 IgA nephropathy。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -101653,7 +101971,10 @@
    "C": "正確。這是可見的血流動力改變。靜脈擴張會讓血液滯留周邊，回心靜脈血流與前負荷下降。",
    "D": "正確。這句正確。高位脊髓損傷會中斷交感神經傳出，是神經性休克的典型背景。",
    "summary": "低血壓卻心跳慢的休克，想到神經性休克；一般失血性休克反而會心跳快。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104412,7 +104733,10 @@
    "C": "這題要選 C：ketamine 和 propofol 的 EEG 圖形不同。不能把兩者的腦波效應視為相似。Propofol 常使 EEG 轉為較低頻、高振幅的 slow-delta／alpha pattern；ketamine 則可增加高頻 activity、造成不同的 dissociative EEG 形態。因此 BIS 可不可靠。",
    "D": "這題不選 D：Propofol 達 unconsciousness 時，EEG 常從清醒的高頻低振幅活動轉向較低頻率且振幅較高的波形。符合其強化 GABA-A inhibition 的腦電效果。",
    "summary": "BIS 遇到 ketamine 要小心：它的 EEG 形態不像 propofol，所以單一 BIS 數值可能誤導。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -104511,7 +104835,10 @@
    "C": "這題不選 C：分娩 epidural 現代多採低濃度 local anesthetic。避免密集 motor block；提高濃度不一定換來更好整體結果，反會影響活動與用力。",
    "D": "這題要選 D：低濃度 bupivacaine 較偏 sensory analgesia、較少 motor block。產婦在合適監測與院內政策下可保留活動能力。",
    "summary": "分娩 epidural 要兼顧痛與動：低濃度 bupivacaine 可少掉 motor block，不必靠高濃度把腿完全麻掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106336,7 +106663,10 @@
    "C": "本項不選。視放射（optic radiation）走在中大腦動脈供應的顳頂葉白質，受損會出現對側也就是右側的視野缺損。",
    "D": "本項不選。左側頂葉的感覺皮質受影響時，右側肢體會有麻木或辨識覺變差。這在中大腦動脈中風很常見。",
    "summary": "MCA 中風＝對側偏癱、偏身感覺缺損、偏盲加優勢側失語；出現小腦徵象就要換想後循環。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "aphasia-types"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107516,7 +107846,10 @@
    "B": "本項不選。黏液性退化（myxomatous degeneration）可呈現多瓣膜的結締組織異常，三尖瓣等也可能受影響，敘述正確。",
    "C": "本項不選。MVP 可和 Marfan、Ehlers-Danlos、成骨不全症（osteogenesis imperfecta）等結締組織疾病相關，敘述正確。",
    "D": "本項不選。二尖瓣逆流合併心房顫動、又已經有缺血性中風時，通常有強的抗凝適應症，要依瓣膜性質和出血風險選藥，敘述正確。",
-   "summary": "MVP 不能簡單概括成「40–60 歲女性」；嚴重 MR、AF 和栓塞風險才決定治療。"
+   "summary": "MVP 不能簡單概括成「40–60 歲女性」；嚴重 MR、AF 和栓塞風險才決定治療。",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107750,7 +108083,10 @@
    "C": "本項不選。免疫抑制的人做不出穩定的免疫記憶，所以規則跟一般人不同：anti-HBs 掉到 10 以下就該追加，不能只靠「以前打過」。",
    "D": "本項不選。透析病人對疫苗反應差，需要加倍劑量或多劑次，而且要每年監測 anti-HBs，低於 10 就追加。這也是透析室感染管制的一部分。",
    "summary": "anti-HBs 的保護門檻是 10 mIU/mL；一般人不用追加，但透析與免疫抑制者要定期驗、掉了就補。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107885,7 +108221,10 @@
    "C": "本項不選。如果真的合併呼吸性鹼中毒，PaCO2應該比Winter's formula預估的還低。這裡預期值是32±2，實測剛好32，是恰到好處的代償，不是額外多了呼吸性鹼中毒。",
    "D": "本項不選。急性呼吸性酸中毒的PaCO2應該是升高的，而且HCO3-會跟著代償性上升。這個病人PaCO2只有32、HCO3-也偏低，方向完全相反。",
    "summary": "看到代謝性酸中毒先算AG＝Na－Cl－HCO3，再用Winter's formula驗代償對不對。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107951,7 +108290,10 @@
    "C": "本項不選。大腸絨毛腺瘤造成的是分泌性腹瀉、體液流失與低血鉀。血壓多半偏低，酸鹼異常方向也常是代謝性酸中毒，跟這裡的鹼中毒相反。",
    "D": "正確。鹽皮質素過多會讓腎小管的ENaC通道拚命回收鈉，造成高血壓。同時把鉀和氫離子往尿裡排，形成低血鉀合併代謝性鹼中毒。剛好對上血壓160/100、K+ 2.5、HCO3- 26這組數字。",
    "summary": "高血壓＋低血鉀先想鹽皮質素過多；Gitelman／Bartter是同款電解質但血壓不高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -107984,7 +108326,10 @@
    "C": "本項不選。腎素低、醛固酮高，正是原發性醛固酮增多症的典型組合。",
    "D": "本項不選。腎素低、醛固酮也低，可見於 Liddle syndrome、表象性礦物皮質素過多，或外來礦物皮質素的作用。",
    "summary": "低血鉀＋高血壓要看 renin 與 aldosterone 的組合；唯一講不通的是「腎素高卻醛固酮低」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108595,7 +108940,9 @@
    "D": "本項應選。療程訂死兩週太短：肺膿瘍或壞死性肺炎常需要更長的療程，而且要依臨床反應與影像變化調整，不是固定給廣效抗生素兩週就結束。",
    "summary": "糖尿病＋空洞性肺炎兩件事別漏：找 Klebsiella 的肝與眼併發症，療程按影像走不按日曆走。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108696,7 +109043,10 @@
    "C": "本項應選。呼吸器相關肺炎的定義是**插管後超過 48 小時**才發生，不是 24 小時。24 小時內出現的多半是插管當下的吸入或本來就在潛伏的感染。",
    "D": "本項不選（依題目年代）。這是舊的 HCAP 定義。要注意的是 2016 年之後的指引**已經廢除 HCAP 這個分類**，因為它會讓太多人被過度使用廣效抗生素；現在改成依個別的多重抗藥性風險因子判斷。",
    "summary": "兩個 48 小時要記牢：入院 48 小時後發病算 HAP、插管 48 小時後算 VAP；HCAP 這個分類現在已經不用了。",
-   "guideline": "2016 年起 ATS/IDSA 指引已廢除 HCAP 分類"
+   "guideline": "2016 年起 ATS/IDSA 指引已廢除 HCAP 分類",
+   "concepts": [
+    "hap-vap-definition-prevention"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -110083,7 +110433,10 @@
    "C": "本項不選。超音波是首選，會量幽門肌厚度與管長；string sign 與 pseudokidney sign 是上消化道攝影較常描述的影像。",
    "D": "本項敘述正確。先矯正脫水與電解質後，pyloromyotomy 是根治治療；無法手術時可在監測下以 atropine 降低幽門收縮。",
    "summary": "噴射性非膽汁嘔吐配低氯代謝性鹼中毒就是幽門狹窄；先補液補電解質，再做 pyloromyotomy。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110347,7 +110700,10 @@
    "C": "本項應選。重型 β-thalassemia 出生時仍有大量 HbF，β 鏈需求低；通常在出生後數月 HbF 下降才出現明顯貧血。",
    "D": "本項不選。重型 α-thalassemia 缺少 α 鏈，胎兒期就無法正常形成 HbF，可造成 Hb Bart’s、嚴重貧血與 hydrops fetalis。",
    "summary": "出生即重度小球性貧血先想 α-thalassemia；β-thalassemia 要等 HbF 退場後才現形。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "thalassemia-alpha-vs-beta"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110413,7 +110769,10 @@
    "C": "本項應選。嚴重 hemophilia A 不應只在出血時給 factor VIII；規律 prophylaxis 可減少關節出血與關節破壞。",
    "D": "本項不選。顱內、頸部或其他危及生命出血需立即補 factor VIII，目標活性接近 100% 以先止血。",
    "summary": "嚴重 hemophilia A 的核心是預防關節出血，不是等流血才補 factor VIII。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "coagulation-test-patterns"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110515,7 +110874,10 @@
    "C": "本項應選。台灣新生兒篩檢初篩是測 TSH，不是只測 T4；TSH 升高可抓到原發性甲狀腺低下。",
    "D": "本項不選。確診後 levothyroxine 初始常用 10–15 μg/kg/day，並以 free T4、TSH 追蹤調整。",
    "summary": "先天甲低的新生兒篩檢要記 TSH；確診後越早給足量 levothyroxine，越保護腦發育。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "thyroid-function-patterns"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115289,7 +115651,10 @@
    "C": "這題不選 C：TOF ratio 0.7–0.75 時有些臨床動作如咳嗽或短暫抬頭可恢復。卻仍可能存在吞嚥、上呼吸道保護與 hypoxic response 缺陷。",
    "D": "這題要選 D：TOF ratio 0.8 還留有殘餘神經肌肉阻斷。不能當作已完全恢復。TOF ratio 0.8 仍不足以代表完整功能恢復；量化監測通常要達 ≥0.9 才較能安全拔管。降低 aspiration 與 airway obstruction。",
    "summary": "TOF 0.8 看起來會動也不夠；拔管安全門檻記 quantitative TOF ratio ≥0.9。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -115355,7 +115720,10 @@
    "C": "這題不選 C：MG 病人有術後 respiratory failure 風險。使用 quantitative TOF 可避免 NMBD 殘留。並協助規劃 reversal 與拔管時機。",
    "D": "本項最不適當。MG 因 ACh receptor 減少。對 succinylcholine 往往相對 resistant。可能需要較高劑量；反而對 nondepolarizing NMBD 很敏感，應小劑量滴定。",
    "summary": "MG 的肌鬆藥陷阱相反：對非去極化藥很敏感要減量，對 succinylcholine 可能 resistant，不能一概減量。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -115388,7 +115756,10 @@
    "C": "本項應選。燒傷病人會出現的是高血鉀不是低血鉀。燒傷後肌肉細胞膜長出大量接合處外的乙醯膽鹼受體，去極化時鉀離子大量湧出，可以在幾分鐘內引發心跳停止。危險期大約從受傷 24 到 48 小時開始，持續到一年以上。",
    "D": "本項敘述正確。它和吸入性麻醉劑都是惡性高熱的誘發藥物，有家族史或病史的人一律避開。",
    "summary": "succinylcholine 的高血鉀禁忌記三類：燒傷、擠壓傷、去神經支配（脊髓損傷、中風、長期臥床）——都是受體增生。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117203,7 +117574,10 @@
    "C": "本項不選。損傷平面以下失去輸入後，大腦感覺皮質會重新組織，疼痛可以在完全沒有感覺的區域被感受到。",
    "D": "本項應選。幻肢痛（phantom pain）專指截肢後「不存在的肢體」在痛。脊髓損傷病人的肢體還在，這種痛叫做損傷平面以下的中樞神經性疼痛。",
    "summary": "肢體還在卻痛＝脊髓損傷的 below-level 中樞痛；肢體被切掉才叫 phantom pain。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117236,7 +117610,10 @@
    "C": "本項不選。電腦斷層要等到已經形成礦化的骨質才顯影，用來看成熟骨化的範圍與手術規劃比較合適。",
    "D": "本項不選。X 光通常要等傷後數週、骨化到一定程度才看得出來，早期會是陰性。",
    "summary": "脊髓損傷病人關節突然腫熱、角度變小，X 光還乾淨時就靠三相骨掃描；鹼性磷酸酶只能當輔助。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117818,7 +118195,10 @@
    "C": "本項不選。它會短暫升高顱內壓與眼壓，所以頭部外傷或開放性眼球傷要斟酌；不過在需要快速保護呼吸道時，插管失敗造成的缺氧與高碳酸血症對顱內壓的傷害更大。",
    "D": "本項不選。肌束顫動會使胃內壓上升，理論上增加逆流風險，這也是快速順序插管要壓環狀軟骨的理由之一。",
    "summary": "燒傷、擠壓傷、去神經支配的病人做快速插管，一律改用高劑量 rocuronium。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118796,7 +119176,10 @@
    "C": "本項不選。就算感染還存在，抗生素能做的是控制感染、避免傳播。但沒辦法逆轉已經啟動的免疫複合體腎炎，治療主要還是靠支持性的體液與血壓（BP）控制。",
    "D": "正確。感染後腎絲球腎炎通常會有補體C3下降，並在幾週內恢復。IgA腎病變多半補體正常，而且血尿常跟感染同步發生，兩者可以靠這幾點區分。",
    "summary": "感染後腎絲球腎炎看時間差＋一過性低C3；IgA腎病變補體正常、血尿跟感染同步。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glomerular-disease-patterns"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119401,7 +119784,10 @@
    "C": "本項不選。敗血症可造成瀰漫性血管內凝血（DIC），牽涉廣泛的凝血活化、因子與血小板被消耗，還加上纖維蛋白溶解，是多重異常。",
    "D": "本項不選。維生素 K 缺乏一次影響第二（II）、七（VII）、九（IX）、十（X）因子與蛋白質 C、S，同樣不是單一因子缺乏。",
    "summary": "單一因子缺乏的代表是血友病；肝病、敗血症與維生素 K 缺乏都是「一次壞一整組」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "coagulation-test-patterns"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119470,7 +119856,10 @@
    "C": "不正確：stroke。stroke 增加 aspiration pneumonia 風險，常見病原方向是口咽菌叢與厭氧菌相關，而非單獨指向 Pseudomonas。",
    "D": "不正確：diabetes melli。diabetes mellitus 會提高多種感染嚴重度，但沒有 severe COPD 那樣直接的結構性氣道定殖風險。",
    "summary": "社區型 Pseudomonas pneumonia 要找結構性肺病：severe COPD、bronchiectasis、近期醫療暴露比單純糖尿病更關鍵。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -120471,7 +120860,10 @@
    "B": "正確答案。明顯的低體溫（hypothermia）可在 ECG 看到 J 點抬高的 Osborn J wave，也容易出現緩慢型心律不整。",
    "C": "本項不選。calcium gluconate 是穩定心肌膜，不會把 K⁺ 移進細胞。是 insulin／glucose 和碳酸氫鈉（特定情境）才有把鉀移進細胞內的作用。",
    "D": "本項不選。無症狀、意識清楚的溺水者，觀察時程依氧合、病史和症狀而定，不是一律至少 12 小時。",
-   "summary": "低體溫可見 Osborn J wave；高血鉀時 calcium 是穩定心肌，不是移鉀。"
+   "summary": "低體溫可見 Osborn J wave；高血鉀時 calcium 是穩定心肌，不是移鉀。",
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -120770,7 +121162,10 @@
    "C": "本項不選。HBIG 的保護效益隨延遲下降，不能把 48 小時當作可接受的常規時限。",
    "D": "本項不選。72 小時太晚；圍生期暴露後的被動免疫必須在出生當天即完成。",
    "summary": "B 肝母子垂直感染預防記「24 小時」：HBIG 加第一劑疫苗，同天、不同注射部位。",
-   "guideline": "Taiwan CDC HBIG guidance (accessed 2026-08)"
+   "guideline": "Taiwan CDC HBIG guidance (accessed 2026-08)",
+   "concepts": [
+    "hbv-serology"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -121107,7 +121502,10 @@
    "C": "本項敘述正確。Bartter syndrome 是 loop of Henle 鹽分再吸收缺陷，造成低鉀低氯代謝性鹼中毒、高腎素高醛固酮與高尿鈣。",
    "D": "本項不選。Gitelman syndrome 較像 thiazide 作用，典型是低鎂與低尿鈣，發病年齡也通常較晚。",
    "summary": "低鉀鹼中毒加高尿鈣是 Bartter；低鎂低尿鈣才往 Gitelman 想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -121276,7 +121674,10 @@
    "C": "本項不選。Fanconi anemia 是骨髓衰竭症候群，常見 macrocytosis 可早於明顯 pancytopenia。",
    "D": "本項不選。folate deficiency 會使 DNA 合成受阻，出現 megaloblastic macrocytic anemia。",
    "summary": "大球性貧血想 DNA 合成或骨髓衰竭；鉛是 heme 合成問題，所以是小球性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "microcytic-anemia"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -121444,7 +121845,10 @@
    "C": "本項不選。酮酸把碳酸氫根消耗掉，總二氧化碳明顯下降；病人為了代償而過度換氣（Kussmaul 呼吸），二氧化碳分壓也是低的。",
    "D": "正確。酮酸是不可測量的陰離子，會把陰離子隙撐大到 20 mEq/L 以上，這正是判斷酮酸中毒嚴重度的核心數字。追蹤治療反應時看陰離子隙關不關得起來，比看血糖降到多少更準。",
    "summary": "酮酸中毒的四個方向：陰離子隙上升、碳酸氫根下降、滲透壓上升、鈉是被稀釋的假性偏低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -121510,7 +121914,10 @@
    "C": "正確。學齡兒的非典型肺炎，黴漿菌抗體兩次都陰性，卻對 azithromycin 反應很好，剩下最合理的就是肺炎披衣菌。它與黴漿菌臨床上幾乎分不出來，都以乾咳、輕微全身症狀與影像比聽診嚴重為特徵，治療也同樣用巨環類抗生素。",
    "D": "本項不選。Mycoplasma hominis 屬於泌尿生殖道的常在菌，與產後感染有關，不是呼吸道病原。",
    "summary": "非典型肺炎的巨環類有效但黴漿菌抗體陰性，下一個就想肺炎披衣菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122393,7 +122800,10 @@
    "C": "本項敘述正確。前脊髓症候群傷的是前三分之二，後柱保留，所以本體感覺與振動覺還在，但運動與痛溫覺喪失。",
    "D": "本項敘述正確。中央脊髓症候群的無力是上肢重於下肢，因為支配上肢的皮質脊髓束纖維排在較內側。",
    "summary": "脊髓休克是反射「全部消失」；反射回來才開始分級。各症候群靠「哪幾條徑路被切斷」推症狀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -124032,7 +124442,10 @@
    "C": "本項不選。酸中毒時氫離子進入細胞、鉀被交換出來，敗血症合併的組織灌流不足與腎功能惡化又讓鉀排不掉。",
    "D": "本項應選。furosemide 作用在亨利氏環抑制鈉鉀二氯共同運輸體，結果是鉀大量從尿中流失。穩定使用這個藥的病人要擔心的是低血鉀而不是高血鉀。",
    "summary": "高血鉀三條路：細胞崩解、酸中毒把鉀換出來、腎臟排不掉；利尿劑走的是反方向。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hyperkalemia-causes-treatment"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -126150,7 +126563,10 @@
    "C": "本項不選。張力性頭痛是雙側緊箍感、和姿勢無關，不會躺下就立刻緩解。",
    "D": "正確。坐起來加劇、躺下很快緩解的姿勢性頭痛，加上枕部延伸到肩頸的分布，就是硬脊膜穿刺後頭痛。機轉是腦脊髓液從穿刺孔漏出、腦部下沉牽拉痛覺敏感結構。保守治療無效時做硬脊膜外自體血液貼片。",
    "summary": "頭痛跟著姿勢走就想腦脊髓液漏：坐起來痛＝壓力太低，躺著痛＝壓力太高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -126183,7 +126599,10 @@
    "C": "本項不選。止痛要靠鴉片類藥物或局部麻醉，肌肉鬆弛劑一點止痛效果都沒有。",
    "D": "本項不選。同樣把止痛與記憶缺失誤算在肌肉鬆弛劑頭上。",
    "summary": "肌肉鬆弛劑只做一件事：讓肌肉不動。意識、止痛、失憶都要各自給藥，否則就是清醒的癱瘓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuromuscular-blockers"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -126216,7 +126635,10 @@
    "C": "本項不選。重度主動脈瓣狹窄的病人心輸出量固定，硬脊膜外阻斷造成的交感阻斷會讓後負荷驟降、冠狀動脈灌流不足。要用也是極慢速分次給藥並嚴密監測。",
    "D": "本項不選。顱內腫瘤可能已有顱內壓升高，萬一不小心刺破硬脊膜造成腦脊髓液流失，會有腦疝脫的風險。",
    "summary": "減痛分娩的禁忌記四類：穿刺部位感染、凝血異常、顱內壓升高、固定心輸出量的心臟病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -126285,7 +126707,10 @@
    "C": "本項不選。打進蜘蛛膜下腔就是脊髓麻醉，起效快、阻斷密，但那是另一種技術。",
    "D": "本項不選。薦尾韌帶是進針要穿過的結構，不是藥物擴散的空間。",
    "summary": "尾骨阻斷＝從薦骨裂孔進入硬脊膜外腔的最尾端，是小兒臍下手術的常用止痛法。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spinal-vs-epidural"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129178,7 +129603,10 @@
    "B": "本項不選。嚴重的鈣化性主動脈瓣狹窄在 75 歲以上族群較常見，敘述正確。",
    "C": "本項不選。人口高齡化、人工材料和心內裝置改變了感染性心內膜炎（IE）的風險和菌群，也增加複雜的抗藥性感染，敘述正確。",
    "D": "本項應選。這是最不適當的敘述。二葉式主動脈瓣（bicuspid aortic valve, BAV）男性較多，而且會「提早」造成嚴重的主動脈瓣狹窄（AS）和升主動脈病變，不是女性常見、又不易狹窄。",
-   "summary": "二葉式主動脈瓣（BAV）男性較多，會提早鈣化狹窄並合併升主動脈病變。"
+   "summary": "二葉式主動脈瓣（BAV）男性較多，會提早鈣化狹窄並合併升主動脈病變。",
+   "concepts": [
+    "valvular-murmurs"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130123,7 +130551,10 @@
    "C": "本項敘述錯誤。它的血球計數（CBC）特徵是**單獨的**血小板低下——白血球數與分類、血紅素都應該正常。如果同時有白血球增多、分類異常或不明貧血，就要往別的診斷找。",
    "D": "本項敘述錯誤。骨髓裡的巨核細胞是正常或**增加**的，因為問題出在血小板到了周邊才被抗體破壞、骨髓拚命補。巨核細胞明顯減少反而代表製造出問題。",
    "summary": "免疫性血小板低下紫斑症＝單獨血小板低＋皮膚黏膜出血＋骨髓巨核細胞不減反增。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "coagulation-test-patterns"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130291,7 +130722,9 @@
    "D": "本項不選。單一次的 Mycoplasma pneumoniae IgG 力價多半反映過去曾接觸過。要有診斷力得看**成對**血清（急性期與恢復期）或改用其他檢驗。",
    "summary": "抗原檢驗贏在特異性：尿液退伍軍人菌抗原陽性就能定案，但陰性不能拿來排除。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cap-pathogens-by-clue"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130460,7 +130893,11 @@
    "C": "本項應選。方向相反：醛固酮同時促進腎小管分泌 H+，造成代謝性**鹼**中毒，不是酸中毒。",
    "D": "本項不選。腎素被壓低、醛固酮又自主分泌，所以醛固酮／腎素活性比值升高，這正是篩檢用的指標。",
    "summary": "原發性醛固酮增多症是「高血壓＋低血鉀＋鹼中毒」——酸中毒方向就錯了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach",
+    "hypokalemia-hypertension-tubulopathies"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -132249,7 +132686,10 @@
    "C": "本項不選。呼吸衰竭的核心是換氣不足造成二氧化碳堆積，所以是呼吸性酸中毒；代謝性酸中毒代表的是循環休克或中毒等其他問題。",
    "D": "本項不選。呼吸衰竭是靠血氣與臨床表現定義的，胸部 X 光只是找原因；兩側白肺是急性呼吸窘迫症候群的影像，不是呼吸衰竭的診斷標準。",
    "summary": "小兒呼吸衰竭：氧合目標 90–94%、急救時可用微血管血看 pH 與二氧化碳、典型是呼吸性酸中毒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acid-base-approach"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -136233,7 +136673,10 @@
    "C": "本項應選。最早恢復的是球海綿體反射，它的回復代表脊髓休克結束，通常在受傷後二十四到四十八小時內。提睪反射回復得較晚，不能用來判斷休克是否結束。",
    "D": "本項敘述正確。脊髓休克沒有特定療法，處置重點在維持血壓與灌流、避免二次傷害，等它自然消退。",
    "summary": "球海綿體反射一回來，脊髓休克就結束，這時才能判斷是不是完全性損傷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sci-levels-function"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -137007,7 +137450,10 @@
    "C": "本項不選。方向相反，它會降低吸入麻醉劑的最小肺泡濃度，也就是讓麻醉藥用得更少。",
    "D": "本項不選。不容易造成呼吸抑制正是它最大的優點，所以特別適合用在拔管前後與需要保留自主呼吸的病人。它要小心的是心搏過緩與低血壓。",
    "summary": "dexmedetomidine 三個賣點：叫得醒的鎮靜、省鴉片、不壓呼吸；副作用集中在心跳與血壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "iv-induction-agents"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
