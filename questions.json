@@ -4338,7 +4338,10 @@
    "C": "本項不選。對抗生素有抗藥性的嚴重痘痘（severe acne），本來就是改用 isotretinoin 的理由之一。開藥前要確認的是另外三件事：懷孕風險、肝功能、血脂。",
    "D": "正確答案。懷孕期間絕對不能用 isotretinoin，因為它有很強的致畸胎性（teratogenicity）。造成的不是小瑕疵：顏面（craniofacial）、心臟（cardiac）與中樞神經系統（central nervous system）都可能出現嚴重畸形（malformations）。",
    "summary": "看到 isotretinoin 先問一句「會不會懷孕」——它的絕對禁忌是懷孕，不是肝炎帶原，也不是抗藥性。",
-   "guideline": "FC 醫學(四)第2冊 p.69；American Academy of Dermatology, Guidelines of care for the management of acne vulgaris (2024)"
+   "guideline": "FC 醫學(四)第2冊 p.69；American Academy of Dermatology, Guidelines of care for the management of acne vulgaris (2024)",
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4585,7 +4588,10 @@
    "C": "本項不選。硬化性黏液水腫（scleromyxedema）是全身性的丘疹合併硬皮樣變化，常伴單株免疫球蛋白病變（monoclonal gammopathy）。它會有蠟樣丘疹，也不會只侷限在糖尿病人的上背。",
    "D": "本項不選。皮肌炎（dermatomyositis）以近端肌無力加 Gottron papules、heliotrope 疹為主。上背雖有披肩徵象（shawl sign），但那是光敏感的紅疹，不是無症狀的硬塊。",
    "summary": "糖尿病人後頸到上背摸起來像一塊木板、又不痛不癢，先想硬腫病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4618,7 +4624,10 @@
    "C": "本項敘述正確。成人皮肌炎與內臟惡性腫瘤（internal malignancy）風險上升有關，確診後要安排癌症篩檢。癌種隨族群不同：女性注意卵巢癌（ovarian cancer），東亞族群要注意鼻咽癌（nasopharyngeal cancer）。",
    "D": "本項敘述正確。皮膚鈣化（calcinosis cutis）是小兒皮肌炎（juvenile dermatomyositis）較具代表性的慢性併發症。鈣鹽會沉積在皮下、筋膜或肌肉，成人型相對少見。",
    "summary": "皮肌炎的皮疹會癢，考題最愛用「不癢」設陷阱；另外記成人要找癌、小孩會鈣化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -6057,7 +6066,10 @@
    "C": "本項應選。lindane lotion 有神經毒性（neurotoxicity），可能引起癲癇發作（seizure）。既然有更安全又有效的替代藥，孕婦、哺乳者、嬰幼兒與體重過輕的人都不該用它。",
    "D": "本項敘述正確。抗組織胺（antihistamines）加中強度局部類固醇可緩解疥瘡後搔癢（post-scabetic pruritus）。要先跟病人講清楚：蟲殺死後癢還會持續數週，那不代表治療失敗。",
    "summary": "lindane 有神經毒、會誘發癲癇，孕婦小孩絕對不能用——題目說它「不具神經毒」就是錯的那個。",
-   "guideline": "CDC, Clinical Care of Scabies (2023)"
+   "guideline": "CDC, Clinical Care of Scabies (2023)",
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -8724,7 +8736,10 @@
    "C": "mitotane 具有 adrenolytic 作用，可用於無法切除或轉移性腎上腺皮質癌（adrenocortical carcinoma），治療中須監測內分泌缺乏與藥物毒性。",
    "D": "Cortisol 過多會造成中央型肥胖、胰島素阻抗與高血壓，亦常伴皮膚變薄、紫紋和近端肌無力。",
    "summary": "雙側 adrenalectomy 後會形成永久性腎上腺皮質功能不足，必須補充類固醇。",
-   "guideline": "FC 醫學(五)第5冊 p.198"
+   "guideline": "FC 醫學(五)第5冊 p.198",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8762,7 +8777,10 @@
    "C": "錯誤。VEGF-pathway inhibitors 的代表性共同毒性是高血壓、蛋白尿、出血或傷口癒合問題；甲狀腺功能低下可見於部分 TKIs，但不是整類最主要副作用。",
    "D": "temsirolimus 抑制 mTOR，作用在 PI3K–AKT–mTOR 生長訊號路徑；它不是直接的 VEGF inhibitor，但可降低與 HIF/VEGF 相關的下游效應。",
    "summary": "晚期 RCC 的標靶治療源於 VHL–HIF–VEGF 軸；VEGF 抑制的核心毒性不是甲狀腺低下。",
-   "guideline": "FC 醫學(五)第5冊 p.38"
+   "guideline": "FC 醫學(五)第5冊 p.38",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8800,7 +8818,10 @@
    "C": "依題目年代的標準，經直腸超音波導引前列腺切片可取得組織診斷。現行實務常先做 multiparametric MRI，並優先考慮經會陰標靶加系統性切片以降低感染風險。",
    "D": "荷爾蒙治療用於特定進展性或高風險前列腺癌；未取得病理診斷與分期前立即 androgen deprivation therapy 不恰當。",
    "summary": "可疑 PSA、較低 free PSA ratio 與病灶需組織確診；不能僅憑 PSA 直接手術或給荷爾蒙。",
-   "guideline": "FC 醫學(五)第5冊 p.123"
+   "guideline": "FC 醫學(五)第5冊 p.123",
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8838,7 +8859,10 @@
    "C": "M1 並非逼尿肌的主要 subtype，因此 M1 與 M3 的組合漏掉了數量占優勢的 M2。",
    "D": "M4 主要屬神經系統抑制性 receptor，並非膀胱逼尿肌的主要 muscarinic receptor；此組合也缺少 M2、M3。",
    "summary": "膀胱逼尿肌主要表現 M2、M3；M3 負責主要收縮效應，M2 數量較多並具調節作用。",
-   "guideline": "FC 醫學(五)第5冊 p.170"
+   "guideline": "FC 醫學(五)第5冊 p.170",
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8876,7 +8900,10 @@
    "C": "解尿灼熱與疼痛是膀胱炎常見主訴，通常合併頻尿、急尿與恥骨上不適。",
    "D": "發燒最不符合局限於膀胱的 uncomplicated cystitis；明顯發燒、寒顫或肋脊角疼痛應懷疑腎盂腎炎或其他複雜性感染。",
    "summary": "單純膀胱炎以 dysuria、frequency、urgency 為主；發燒提示上泌尿道或全身性感染。",
-   "guideline": "FC 醫學(五)第5冊 p.154"
+   "guideline": "FC 醫學(五)第5冊 p.154",
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8955,7 +8982,10 @@
    "C": "嚴重大動脈狹窄（aortic stenosis）屬固定性左心室出口阻塞，對血壓下降耐受差；PDE5 inhibitor 的 vasodilation 可能造成症狀性低血壓。",
    "D": "rifampin 是強 CYP3A inducer，可能降低 PDE5 inhibitor 濃度與療效，但並非 nitrate 那類絕對禁忌；可在評估交互作用與療效後使用。",
    "summary": "PDE5 inhibitor 的絕對重點是 nitrate 禁忌與心血管穩定性；rifampin 主要造成濃度下降而非危險性加成。",
-   "guideline": "FC 醫學(五)第5冊 p.184"
+   "guideline": "FC 醫學(五)第5冊 p.184",
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8995,7 +9025,10 @@
    "C": "腎盂尿路上皮癌（renal urothelial carcinoma）多位於 collecting system，呈 filling defect 或浸潤性病灶，並非典型皮質含脂肪腫塊。",
    "D": "正確。CT 上左腎外側皮質有一顆圓形病灶，密度明顯低於周圍強化的腎實質，而且**和腎周脂肪一樣暗**——腫瘤內含巨觀脂肪（macroscopic fat），這對腎血管肌肉脂肪瘤（renal angiomyolipoma）的提示性極高。少脂型（fat-poor）的病灶才需要再和腎細胞癌鑑別。",
    "summary": "腎腫塊內只要看到脂肪密度（和腎周脂肪一樣暗），就幾乎可以定為 angiomyolipoma。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -9158,7 +9191,10 @@
    "C": "血尿常見原因包括感染、結石、腎小球疾病與良性前列腺病變；泌尿道腫瘤是必須排除的重要原因，但不能概括為最常見。",
    "D": "泌尿道感染的血尿通常伴 dysuria、frequency、urgency 或發燒；無痛性肉眼血尿反而應優先排除 urothelial malignancy。",
    "summary": "血尿的病因依年齡與症狀而變；兒童偏向 glomerular disease，成人無痛性肉眼血尿須排除 malignancy。",
-   "guideline": "FC 醫學(五)第5冊 p.39"
+   "guideline": "FC 醫學(五)第5冊 p.39",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -16990,7 +17026,10 @@
    "C": "本項敘述錯誤。皮下組織（subcutis）由脂肪與纖維隔構成，病變表現是脂膜炎（panniculitis）或脂肪分布異常。它離角質層很遠，不會直接造成鱗屑。",
    "D": "本項敘述錯誤。汗腺（sweat gland）異常造成的是少汗或無汗。魚鱗癬的核心是表皮分化、脂質屏障與脫屑出問題；出汗變少可能是伴隨現象，不是原發病灶。",
    "summary": "魚鱗癬＝表皮角質層的脫屑機制壞掉，不是真皮、皮下或汗腺的病——記住病灶在最外面那一層。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17190,7 +17229,10 @@
    "C": "本項敘述錯誤。臉上的白斑可以接受劑量受控的照光治療，但曬太陽不等於治療：日曬的紫外線（UV）劑量沒辦法控制，而且脫色的地方沒有黑色素保護，特別容易曬傷。不防曬還會讓病灶和正常皮膚的色差更明顯。",
    "D": "本項敘述錯誤。白斑確實常合併自體免疫甲狀腺疾病、第一型糖尿病（type 1 diabetes mellitus）或圓禿。但局部病灶的第一線是外用類固醇、外用鈣調磷酸酶抑制劑（calcineurin inhibitor）或照光。全身性類固醇副作用大，只可能短期用在快速進展的病例，不是長期第一線。",
    "summary": "白斑治療記三件事：308 nm 照光讓毛囊的色素細胞爬出來、外用藥是第一線、照光不等於可以不防曬。",
-   "guideline": "FC 醫學(四)第2冊 p.167"
+   "guideline": "FC 醫學(四)第2冊 p.167",
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -21197,7 +21239,10 @@
    "C": "膀胱是 urothelium 最常發生腫瘤的部位；上泌尿道尿路上皮癌相對少見。",
    "D": "正確。膀胱癌典型為無痛性血尿，但 carcinoma in situ 或部分腫瘤可表現頻尿、急尿、解尿疼痛等膀胱刺激症狀。",
    "summary": "膀胱癌以 urothelial carcinoma 最常見；除無痛血尿外，部分病人會以 irritative voiding symptoms 表現。",
-   "guideline": "FC 醫學(五)第5冊 p.65"
+   "guideline": "FC 醫學(五)第5冊 p.65",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21235,7 +21280,10 @@
    "C": "經皮腎鏡切除可用於選定的保腎病例，但 tract seeding 與不完全控制風險使其不適合作為腎功能正常之 high-grade 腎盂癌首選。",
    "D": "放射治療不是可切除 high-grade upper tract urothelial carcinoma 的主要根治方式，無法取代腎輸尿管與膀胱袖口整塊切除。",
    "summary": "High-grade renal pelvic urothelial carcinoma 且對側腎功能正常時，首選 radical nephroureterectomy with bladder cuff。",
-   "guideline": "FC 醫學(五)第5冊 p.65"
+   "guideline": "FC 醫學(五)第5冊 p.65",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21304,7 +21352,10 @@
    "C": "本項不選。胸髓 10 到 12 節仍低於 T6，多數不會發生。要注意的是這是概略界線，個別病人偶有例外。",
    "D": "本項應選。自主神經反射異常發生在**T6 以上**的損傷，四個選項中只有 T6-8 符合。機轉是損傷面以下的刺激（最常見是膀胱脹或便秘）引發交感反射，但大腦的抑制訊號下不來，造成突發高血壓與劇烈頭痛，損傷面以上則反射性心跳變慢、臉部潮紅出汗。處置順序是**先坐起來、鬆開束縛、找刺激源（先導尿）**，血壓仍高才給藥。",
    "summary": "T6 以上損傷才會有自主神經反射異常；發作時先坐起來、找膀胱有沒有脹——那是最常見的元凶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21342,7 +21393,10 @@
    "C": "氮血症（azotemia）可能影響藥物選擇與劑量，卻不是細菌接受第一療程後仍持續菌尿的主要直接原因。",
    "D": "腎乳突壞死（papillary necrosis）可形成感染持續的結構性病灶，但遠不如對抗生素抗藥常見，且題目沒有 analgesic abuse 線索。",
    "summary": "Unresolved bacteriuria 最先想到抗生素未涵蓋或致病菌抗藥；須以培養與 susceptibility 調整治療。",
-   "guideline": "FC 醫學(五)第5冊 p.154"
+   "guideline": "FC 醫學(五)第5冊 p.154",
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21380,7 +21434,10 @@
    "C": "兒童 febrile pyelonephritis 可能造成 renal scarring，反覆感染、延遲治療或 vesicoureteral reflux 會提高風險。",
    "D": "隨年齡增加，女孩因尿道較短等因素更常發生 UTI；不能說年紀較大的兒童沒有較高機率。",
    "summary": "兒童 UTI 多由 fecal flora ascending infection；嬰兒男孩與較大女孩各有不同的年齡風險。",
-   "guideline": "FC 醫學(五)第5冊 p.154"
+   "guideline": "FC 醫學(五)第5冊 p.154",
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21418,7 +21475,10 @@
    "C": "正確。nitrate 增加 NO–cGMP，而 sildenafil 阻斷 cGMP 降解，合併可造成危險性 severe hypotension，屬禁忌。",
    "D": "sildenafil 主要抑制 PDE5；對 retinal PDE6 的較弱交叉抑制可造成 blue-tinged vision，但不是主要治療機轉。",
    "summary": "Sildenafil 透過 PDE5 inhibition 保存 cGMP；與 nitrate 合用會造成嚴重低血壓。",
-   "guideline": "FC 醫學(五)第5冊 p.184"
+   "guideline": "FC 醫學(五)第5冊 p.184",
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -29451,7 +29511,10 @@
    "C": "本項不選。膿痂疹（impetigo）是表淺的細菌感染，典型是蜜黃色結痂；大疱型可見鬆弛水疱。它不會有劇烈的夜間神經痛，也不會排成帶狀。",
    "D": "正確答案。帶狀疱疹（herpes zoster）是躲在感覺神經節裡的水痘帶狀疱疹病毒（varicella-zoster virus）再活化。典型長相是單側、侷限在一個皮節內的群聚水疱，伴灼痛或神經痛，而且通常不越過身體中線。70 歲、右背延伸到右腹、疼痛劇烈，完全對得上。圖上右側背部是一整片沿單一皮節分布的紅斑，上面散布群聚的小水疱與結痂，而且沒有越過中線，正是帶狀疱疹的典型樣貌。",
    "summary": "單側、不過中線、照著皮節走的群聚水疱，加上劇痛，就是帶狀疱疹——痛到睡不著是很強的提示。",
-   "guideline": "FC 醫學(四)第2冊 p.39"
+   "guideline": "FC 醫學(四)第2冊 p.39",
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29532,7 +29595,10 @@
    "C": "本項不選。黏液囊腫（mucous cyst）幾乎都長在遠端指間關節（DIP）附近或甲摺，常和退化性關節炎、關節囊相通有關，裡面是透明黏液。大腿內側不是它的地盤。",
    "D": "本項不選。爆發性纖毛囊腫（eruptive vellus hair cyst）多見於兒童或年輕人的胸腹與四肢，是多發性小丘疹，囊內看得到細毛。題目講的是單一顆逐漸長大的腫瘤，不符合。",
    "summary": "看到中央有個小開口（punctum）的皮下結節就想表皮囊腫；其他幾種囊腫不是多發，就是位置固定在手指。",
-   "guideline": "FC 醫學(四)第2冊 p.222"
+   "guideline": "FC 醫學(四)第2冊 p.222",
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29570,7 +29636,10 @@
    "C": "本項不選。Proteus syndrome 與鑲嵌型 AKT1 活化有關，表現是不對稱且持續進展的骨骼與軟組織過度生長，加上結締組織痣與血管畸形。它不以大腸息肉合併多發表皮囊腫為主。",
    "D": "正確答案。Gardner syndrome 是家族性腺瘤性息肉症（familial adenomatous polyposis）的一種表現型，多由 APC 致病變異引起。它會有大量大腸腺瘤性息肉、骨瘤（osteoma）、硬纖維瘤（desmoid tumor）、牙齒異常與多發表皮囊腫，也可能合併甲狀腺癌。沒有監測與預防性處置的話，大腸癌風險極高。",
    "summary": "皮膚長一堆表皮囊腫＋大腸息肉＋骨瘤，要想 APC 的 Gardner syndrome——皮膚是線索，真正要命的是大腸癌。",
-   "guideline": "FC 醫學(四)第2冊 p.221"
+   "guideline": "FC 醫學(四)第2冊 p.221",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29605,7 +29674,10 @@
    "C": "正確答案。盤狀紅斑性狼瘡（discoid lupus erythematosus）臨床是附著性鱗屑、毛孔角栓、中央萎縮、疤痕與色素改變。病理則是表皮萎縮、交界性皮膚炎、基底空泡變性與附屬器周圍淋巴球浸潤。直接免疫螢光在表皮真皮交界呈線狀沉積，就是狼瘡帶（lupus band），整題湊起來最支持它。圖上臉頰與下頜可見數個界線清楚的紅色斑塊，表面附著鱗屑、中央已經萎縮凹陷並有色素改變，符合盤狀病灶的長相。",
    "D": "本項不選。亞急性皮膚紅斑性狼瘡長在照得到光的地方，呈環狀多環型或丘疹鱗屑型，通常不留明顯疤痕，也沒有明顯毛囊角栓。它常與 anti-Ro/SSA 抗體相關。",
    "summary": "會留疤、有毛孔角栓、中央萎縮的是盤狀狼瘡（DLE）；亞急性型（SCLE）長在曬得到的地方但不留疤——留不留疤是最快的分法。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29643,7 +29715,10 @@
    "C": "本項敘述正確。好發於中老年人，長相是界線清楚、蠟樣或疣狀的丘疹與斑塊，看起來像用膠水貼上去的一樣。",
    "D": "本項敘述正確。短時間內突然爆出大量脂漏性角化症，稱為 Leser-Trélat sign。傳統上把它視為可能的伴腫瘤徵象，要特別評估胃腸道腺癌等內臟惡性腫瘤。",
    "summary": "脂漏性角化症是良性的「貼上去」病灶；但短期內一次冒出一堆（Leser-Trélat sign），就要去找內臟的癌。",
-   "guideline": "FC 醫學(四)第2冊 p.178"
+   "guideline": "FC 醫學(四)第2冊 p.178",
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29683,7 +29758,10 @@
    "C": "正確答案。除了腸胃道的錯構瘤性息肉，這個症候群還會提高胰臟、胃、小腸、大腸、乳房、卵巢、子宮頸與睪丸的腫瘤風險，良性惡性都有。所以病人需要終生做腫瘤監測，不是切掉息肉就結束。",
    "D": "本項敘述錯誤。Peutz-Jeghers 的息肉最常長在小腸，尤其是空腸，其次才是大腸與胃。息肉會造成出血、貧血、腸套疊或腸阻塞。",
    "summary": "嘴唇黑斑＋血便的小孩要想 Peutz-Jeghers：顯性遺傳、息肉在小腸、而且要終生防癌。",
-   "guideline": "FC 醫學(四)第1冊 p.621"
+   "guideline": "FC 醫學(四)第1冊 p.621",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -31060,7 +31138,10 @@
    "C": "本項敘述正確。微血管栓塞或血管炎會在結膜、口腔黏膜與四肢造成瘀點（petechiae），這是心內膜炎的周邊徵象之一。",
    "D": "本項敘述正確。Janeway lesion 長在手掌或腳底，是不痛的紅色到出血性斑塊。它來自敗血性微栓子在真皮造成的微膿瘍，和 Osler node 的免疫機轉不同。",
    "summary": "心內膜炎四個皮膚徵象用「痛不痛、在哪裡」記：Osler 會痛在指尖、Janeway 不痛在手掌、Roth 在眼底、甲床那條是 splinter。",
-   "guideline": "FC 醫學(四)第2冊 p.220"
+   "guideline": "FC 醫學(四)第2冊 p.220",
+   "concepts": [
+    "soft-tissue-infection-necrotizing-ie-skin"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -33637,7 +33718,10 @@
    "C": "正確。Hydronephrosis 常表示腫瘤侵犯 ureteral orifice、局部病灶較廣或較高分期，因此是較差 prognosis 的指標。",
    "D": "腎功能差會限制 metabolic reserve，也常使病人不適合 orthotopic neobladder；尿液與腸段接觸可加重 acid-base 或 electrolyte complications，應選適當 diversion。",
    "summary": "MIBC 合併 hydronephrosis 預後較差；標準照護通常是 neoadjuvant cisplatin-based chemotherapy 加 radical cystectomy。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33712,7 +33796,10 @@
    "C": "Urinalysis 是男性 lower urinary tract symptoms 初評的重要檢查，可找 UTI、hematuria、glycosuria 等會改變診斷與處置的原因，因此應較早完成。",
    "D": "PSA 是否檢測應經 shared decision-making，並考量年齡、預期壽命與結果是否會改變治療；在本題官方命題中，它比 creatinine 或 renal ultrasound 更屬初評項目。",
    "summary": "官方更正接受 A、B 或 AB：無併發症線索的 LUTS/BPH 初評不必立即常規驗 creatinine 或做 renal ultrasound。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33750,7 +33837,10 @@
    "C": "L3–L4 仍通常高於 S2–S4 parasympathetic reflex center；若 sacral reflex arc 保留，可形成 suprasacral pattern 的反射亢進。",
    "D": "正確。S2–S4 完全損傷直接破壞 parasympathetic detrusor reflex arc，較典型造成 areflexic、acontractile bladder，而非 detrusor hyperreflexia。",
    "summary": "Suprasacral spinal injury 保留 S2–S4 reflex arc 而易 detrusor overactivity；直接 sacral injury 則偏 areflexia。",
-   "guideline": "FC 醫學(五)第5冊 p.170"
+   "guideline": "FC 醫學(五)第5冊 p.170",
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33788,7 +33878,10 @@
    "C": "高齡、無痛性 gross hematuria 且有 clots 是尿路腫瘤警訊，需要 cystoscopy 與 upper tract evaluation，而非由病史判為感染。",
    "D": "正確。年輕女性突發 dysuria、urgency、frequency、suprapubic discomfort 與血尿構成 acute cystitis 的典型 symptom cluster。",
    "summary": "血尿合併 dysuria、frequency、urgency 與 suprapubic pain 最支持 cystitis；高齡無痛血尿則先排除 malignancy。",
-   "guideline": "FC 醫學(五)第5冊 p.154"
+   "guideline": "FC 醫學(五)第5冊 p.154",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33862,7 +33955,10 @@
    "C": "本項應選。方向相反。靜脈閉鎖功能良好時 RI 應該**大於 0.9**（甚至接近 1），代表舒張期幾乎沒有血流漏走。RI 小於 0.9 反而暗示靜脈滲漏。",
    "D": "本項不選。海綿體動脈的收縮期最大流速（PSV）是判斷動脈供血的指標，一般大於 25 到 30 cm/s 視為正常。PSV 低代表動脈性勃起功能障礙。",
    "summary": "陰莖都卜勒兩個數字分工：PSV 看動脈進得來（>25–30 cm/s），RI 看靜脈關得住（>0.9）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -41763,7 +41859,10 @@
    "C": "本項不選。omalizumab 是對付游離 IgE 的單株抗體，可以降低 FcεRI 相關的活化。高劑量第二代抗組織胺控制不佳時，它是重要的後線治療。",
    "D": "本項應選。長期口服類固醇不建議用來治療慢性蕁麻疹，因為會帶來感染、骨質疏鬆、糖尿病、高血壓與腎上腺抑制。急性嚴重惡化時只能短期救援使用，不能長期吃下去。",
    "summary": "慢性蕁麻疹是階梯治療：抗組織胺→加量→omalizumab→cyclosporine；類固醇只能救火，不能當常備藥。",
-   "guideline": "FC 醫學(四)第2冊 p.125"
+   "guideline": "FC 醫學(四)第2冊 p.125",
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41886,7 +41985,10 @@
    "C": "本項敘述正確。典型是口腔水疱或潰瘍，加上手掌、腳底、臀部與四肢的皮疹。Coxsackievirus A6 感染時病灶可能更廣泛，還會延伸到嘴巴周圍。",
    "D": "本項應選。方向剛好相反：Coxsackievirus A16 造成的手足口病通常較輕，enterovirus 71 才是容易造成腦幹腦炎、自律神經失調、肺水腫甚至死亡的那一型。Coxsackievirus A6 雖然皮疹比較廣，但不能因此說它重症率高於 EV71。",
    "summary": "手足口病看病毒型別分輕重：克沙奇多半自限，EV71 才是會腦幹腦炎、肺水腫的重症元凶。",
-   "guideline": "FC 醫學(四)第1冊 p.249"
+   "guideline": "FC 醫學(四)第1冊 p.249",
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41967,7 +42069,10 @@
    "C": "本項應選。一般的蕁麻疹又癢、每一塊在 24 小時內就消退，這種缺乏特異性，不是診斷狼瘡的核心皮膚特徵。狼瘡確實可能出現蕁麻疹性血管炎，但那種病灶會持續超過 24 小時、會痛或灼熱，消退後還可能留下紫斑或色素沉著——判斷關鍵在「留多久、留不留痕」。",
    "D": "本項不選。盤狀疹是界線清楚的紅斑性斑塊，帶黏著性鱗屑、毛孔角栓、萎縮與疤痕，屬於慢性皮膚型狼瘡的代表病灶，也會出現在全身性紅斑性狼瘡病人身上。",
    "summary": "蕁麻疹在狼瘡要問「一塊疹子留多久」：24 小時內就退是普通蕁麻疹，超過 24 小時又留痕才是蕁麻疹性血管炎。",
-   "guideline": "FC 醫學(四)第2冊 p.101"
+   "guideline": "FC 醫學(四)第2冊 p.101",
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42005,7 +42110,10 @@
    "C": "本項敘述錯誤。Ito 氏母斑長在肩頸、鎖骨上區與上臂，分布大致對應鎖骨上後神經與臂外側皮神經。沿臉部三叉神經分布、還可能合併鞏膜色素異常的是 Ota 氏母斑。",
    "D": "本項敘述錯誤。蒙古斑就是先天性真皮黑色素細胞增生，常見於亞洲與其他深膚色新生兒，但最典型的位置是腰薦部或臀部，不是下腹部。",
    "summary": "藍灰色＝色素在真皮（Tyndall effect）；位置記三個：臉是 Ota、肩臂是 Ito、腰臀是蒙古斑。",
-   "guideline": "FC 醫學(四)第2冊 p.166"
+   "guideline": "FC 醫學(四)第2冊 p.166",
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42038,7 +42146,10 @@
    "C": "本項不選。對羥基苯甲酸酯（parabens）是防腐劑，少數人接觸後可能發生過敏性接觸皮膚炎。但它不是造成類白斑脫色的代表性黑色素細胞毒性物質。",
    "D": "本項不選。酒精會讓皮膚乾燥、去脂並引發刺激性接觸皮膚炎，表現是紅斑、脫屑與龜裂。它不會選擇性消滅黑色素細胞而留下持續脫色斑。",
    "summary": "工廠工人手上長「白斑」要問接觸什麼：phenol／catechol／hydroquinone 這類才會毒死黑色素細胞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42071,7 +42182,10 @@
    "C": "本項敘述正確。它的核心病理是對雄性素敏感的毛囊逐漸微小化：終毛變細變短，慢慢變成像毳毛的樣子。所以頭皮鏡下會看到毛幹粗細不一與毳毛增加。",
    "D": "本項敘述正確。外用 minoxidil 能延長生長期並促進毛囊生長，男女都可以用。要先跟病人說兩件事：初期可能短暫掉更多，而且必須持續使用才能維持效果。",
    "summary": "雄性禿是「悄悄變細」不是「大量掉落」——會一把一把掉的要想休止期落髮。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42111,7 +42225,10 @@
    "C": "正確答案。丑角樣魚鱗癬（harlequin ichthyosis）是嚴重的體染色體隱性先天性魚鱗癬，多由 ABCA12 突變造成脂質運送與屏障形成障礙。新生兒全身被巨大厚角質板包住，中間裂開深溝，還會有眼瞼外翻（ectropion）與唇外翻（eclabium）。",
    "D": "本項不選。色素失禁症（incontinentia pigmenti）是 X 染色體顯性的 IKBKG 突變疾病，主要發生在女性。皮疹會依序經過水疱期、疣狀期、渦旋狀色素沉著與色素減退，沿著 Blaschko lines 走，不會形成出生時包覆全身的厚角質膜；男性胎兒常在子宮內就死亡。",
    "summary": "出生就像穿盔甲、皮膚裂成一塊塊＝丑角樣魚鱗癬（ABCA12）；其他魚鱗癬都晚發且輕得多。",
-   "guideline": "FC 醫學(四)第1冊 p.550"
+   "guideline": "FC 醫學(四)第1冊 p.550",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -43494,7 +43611,10 @@
    "C": "本項敘述錯誤。壞死性軟組織感染的核心處置是及早外科探查與徹底清創，因為抗生素進不了已經壞死、灌流不良的組織。等到廣效抗生素反應不佳才會診外科，會延誤感染源控制並拉高死亡率。",
    "D": "本項敘述錯誤。norepinephrine 是敗血性休克在輸液復甦後仍低血壓時的第一線升壓藥，靠 α1 受體收縮血管把平均動脈壓拉起來。這個病人血壓 80/54 mmHg、心跳 140/min，已經是休克，不但沒有禁忌，還應該及早使用。",
    "summary": "海鮮刺傷＋肝硬化＋出血性水疱＝Vibrio vulnificus：抗生素給 ceftriaxone 加 doxycycline，而且要馬上開刀清創，不能等。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "soft-tissue-infection-necrotizing-ie-skin"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -43801,7 +43921,10 @@
    "C": "長期免疫抑制降低 immune surveillance，使 EBV、HPV、HHV-8 等病毒相關腫瘤與其他 malignancy 風險增加。",
    "D": "最不恰當。移植後淋巴增生性病變（post-transplant lymphoproliferative disorder；PTLD）主要與 EBV-driven B-cell proliferation 有關，不是 HPV activation。",
    "summary": "PTLD 的代表病毒是 EBV；BK virus 會傷害移植腎，CMV 可依風險給預防治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46042,7 +46165,10 @@
    "C": "本項敘述錯誤。這一步先不選。經直腸超音波導引前列腺切片（TRUS-guided prostate biopsy）可能把細菌帶入血流；有膿尿時先治療感染，再重測 PSA 並決定是否需取樣。",
    "D": "正確。膿尿代表先處理泌尿道感染較安全；感染消退後再重測 PSA，才能判斷 7.2 ng/mL 是否仍需要 MRI 或切片。",
    "summary": "看到 PSA 上升又有膿尿，先治療感染再重測；不要在感染中直接把 PSA 當癌症診斷。",
-   "guideline": "FC 醫學(五)第5冊 p.121"
+   "guideline": "FC 醫學(五)第5冊 p.121",
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46075,7 +46201,10 @@
    "C": "本項敘述錯誤。這一步不宜優先。creatinine 3.0 mg/dL 時注射顯影劑可能加重腎損傷，CT urography 不適合作為此刻的上泌尿道檢查。",
    "D": "正確。逆行性腎盂攝影（retrograde pyelography）由膀胱鏡逆向注入顯影劑，可在腎功能不佳時描出集尿系統，避免靜脈顯影劑負荷。",
    "summary": "無痛性血尿要查尿路腫瘤；腎功能不佳不能直接做 CT urography，可用 retrograde pyelography 評估上泌尿道。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46144,7 +46273,10 @@
    "C": "本項敘述錯誤。閉孔神經（obturator nerve）支配大腿內收肌群，沒有供應尿道括約肌。",
    "D": "正確。會陰神經（pudendal nerve）是體神經，支配橫紋肌構成的尿道外括約肌，所以可讓人隨意憋尿或放鬆排尿。",
    "summary": "尿道外括約肌是隨意控制的橫紋肌，記住由 pudendal nerve 支配。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46249,7 +46381,10 @@
    "C": "本項敘述錯誤。尿路動力學檢查能量出儲尿壓力、順應性與括約肌協調，是追蹤高壓神經性膀胱的重要工具。",
    "D": "本項不適合。第一度膀胱輸尿管逆流（vesicoureteral reflux）在神經性膀胱常是高壓與排空不良的結果，應先降低膀胱壓力，不宜急做輸尿管重建。",
    "summary": "神經性膀胱合併低度 VUR，先把膀胱排空、降壓；逆流手術不是第一步。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -54160,7 +54295,10 @@
    "C": "本項敘述正確。典型病灶是珍珠樣、圓頂、中央有臍凹的丘疹。免疫正常的人常在數月到數年內自行消退，所以病灶少、沒併發症又不影響生活時，可以先觀察，同時減少搔抓與皮膚接觸傳播。",
    "D": "本項敘述正確。imiquimod cream 是 Toll-like receptor 7 促效劑，可誘發干擾素與細胞性免疫反應，過去曾被當成仿單標示外的選項。不過它的療效證據有限、局部刺激也大，兒童現在多半還是以觀察、刮除或冷凍為主。",
    "summary": "軟疣是痘病毒不是 HPV——名字有「疣」但病毒完全不同，這是最常設的陷阱。",
-   "guideline": "FC 醫學(四)第2冊 p.37"
+   "guideline": "FC 醫學(四)第2冊 p.37",
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54244,7 +54382,10 @@
    "C": "正確答案。後天性指纖維角化瘤（acquired digital fibrokeratoma）是良性纖維性腫瘤，典型就是成人手指或腳趾上單發、無症狀、膚色到淡紅色的硬實突起，基部有一圈角化領圈。病理三件事：角化過度、棘層肥厚，以及真皮內垂直於表皮排列的粗大膠原束。",
    "D": "本項不選。角化棘皮瘤是數週內快速長大、中央有角質栓的火山口狀鱗狀增生，好發於日曬皮膚。這題病灶已經五個月、沒有症狀、又長在拇指，病理若沒有中央角質火山口與唇狀表皮，就不支持它。",
    "summary": "手指上一顆硬實突起、基部有角化領圈，病理是垂直站著的粗膠原束＝後天性指纖維角化瘤。",
-   "guideline": "FC 醫學(四)第2冊 p.192"
+   "guideline": "FC 醫學(四)第2冊 p.192",
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54282,7 +54423,10 @@
    "C": "本項敘述正確。食道平滑肌會萎縮與纖維化，讓下食道括約肌壓力下降、蠕動變差。病人因此常有胃食道逆流、吞嚥困難，也比較容易嗆到。",
    "D": "本項敘述正確。這些病人的抗核抗體（ANA）多半陽性。特異性抗體還能分型：侷限型常見 anticentromere antibody，瀰漫型常見 anti-topoisomerase I 與 anti-RNA polymerase III，這些抗體也用來評估間質性肺病與硬皮症腎危象的風險。",
    "summary": "全身性硬化症＝雷諾＋皮膚硬化＋食道蠕動差＋ANA 陽性；看到 heliotrope 要轉念想皮肌炎。",
-   "guideline": "FC 醫學(四)第2冊 p.100"
+   "guideline": "FC 醫學(四)第2冊 p.100",
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54358,7 +54502,10 @@
    "C": "本項不選。硬皮症（scleroderma）的特徵是真皮膠原堆積、皮膚繃緊變硬，會有手指硬化、口周放射狀皺紋與色素變化。它不會是皺褶處柔軟的天鵝絨樣增厚。",
    "D": "本項不選。發炎後色素沉澱是皮膚發炎或受傷後黑色素增加、或掉進真皮造成的，分布會對應先前的濕疹或外傷。題目沒有提到之前發炎，而且拖了五年、多處皺褶又變厚，更像黑色棘皮症。",
    "summary": "皺褶處對稱、變黑又像天鵝絨＝黑色棘皮症；「摸起來厚而軟」是和單純色素沉澱最快的分法。",
-   "guideline": "FC 醫學(四)第2冊 p.217"
+   "guideline": "FC 醫學(四)第2冊 p.217",
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54391,7 +54538,10 @@
    "C": "本項不選。惡性型黑色棘皮症確實是內臟癌的伴腫瘤徵象，最典型和胃腺癌相關，特徵是突然出現、進展很快、範圍又廣。但在年輕人慢慢長出來的皺褶病灶，癌症不是最常見的原因。",
    "D": "本項不選。感染不是黑色棘皮症的機轉。感染性的皺褶炎會讓皺褶發紅、浸軟、脫屑或留下發炎後色素沉澱，那是另一回事；黑色棘皮症的核心仍是胰島素阻抗。",
    "summary": "黑色棘皮症先想胖與胰島素阻抗；要懷疑癌症的是「突然冒出、進展很快、還侵犯黏膜或手掌」的成人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54429,7 +54579,10 @@
    "C": "本項應選。它的細小灰白鱗屑主要長在四肢伸側，小腿最明顯，而且會相對避開屈側。如果反而是屈側與關節內側特別嚴重，就不符合這個病的經典分布。",
    "D": "本項敘述正確。毛孔角化症與異位性皮膚炎常和它共病，三者都牽涉表皮屏障功能異常。所以臨床上會同時看到毛囊性角化丘疹、皮膚乾燥、搔癢與掌紋增多。",
    "summary": "尋常性魚鱗癬長在伸側、避開屈側；再加掌紋變多與毛孔角化，就是 filaggrin 那一組。",
-   "guideline": "FC 醫學(四)第2冊 p.209"
+   "guideline": "FC 醫學(四)第2冊 p.209",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -58433,7 +58586,10 @@
    "C": "本項敘述錯誤。根除性膀胱切除術保留給 BCG 無反應、極高風險或進展病例；初次診斷 CIS 直接切膀胱過度治療。",
    "D": "本項敘述錯誤。gemcitabine 加 cisplatin 的新輔助全身化療主要用於肌肉侵犯型膀胱癌；局限於黏膜的 CIS 沒有這個適應症。",
    "summary": "膀胱 CIS 是高風險 NMIBC：先完整處理病灶，再做 intravesical BCG，而非直接根除膀胱。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58471,7 +58627,10 @@
    "C": "本項敘述正確。Queyrat 紅斑病（erythroplasia of Queyrat）是龜頭或包皮內側的紅色原位鱗狀細胞癌表現。",
    "D": "本項敘述正確。陰莖癌早期多先沿淋巴路徑到腹股溝淋巴結，再可進一步到骨盆腔淋巴結。",
    "summary": "陰莖癌最常見是 squamous cell carcinoma；早期擴散先沿腹股溝淋巴結，而非把 basal cell carcinoma 當主角。",
-   "guideline": "FC 醫學(五)第5冊 p.92"
+   "guideline": "FC 醫學(五)第5冊 p.92",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58509,7 +58668,10 @@
    "C": "本項敘述正確。「以肛門指診檢測前列腺癌的敏感度（sensitivity）不高，約只有40～50%」符合本題考點。肛門指診對早期前列腺癌的敏感度有限，不能因觸診正常就排除癌症。",
    "D": "本項敘述正確。肛門指診估算體積常低於超音波或 MRI 測得的實際前列腺大小，尤其較大的腺體更明顯。",
    "summary": "BPH 症狀不等於前列腺大小；DRE 用來找硬結很重要，卻不能精準量體積或排除癌症。",
-   "guideline": "FC 醫學(五)第5冊 p.120"
+   "guideline": "FC 醫學(五)第5冊 p.120",
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58547,7 +58709,10 @@
    "C": "本項敘述錯誤。逼尿肌收縮力不足會使尿排不乾淨、殘尿增加，較像 overflow 或排尿困難，不能解釋中風後的急迫症狀。",
    "D": "本項敘述錯誤。出口無法排空也會造成殘尿和尿滯留；本題的症狀組合更符合膀胱本身過動。",
    "summary": "中風後尿急、頻尿、急迫失禁，先想到腦部抑制消失造成的 detrusor overactivity。",
-   "guideline": "FC 醫學(五)第5冊 p.169"
+   "guideline": "FC 醫學(五)第5冊 p.169",
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58585,7 +58750,10 @@
    "C": "本項敘述錯誤。dapoxetine 不會提高 testosterone；本例性腺荷爾蒙正常，治療目標是射精控制而非補充雄性素。",
    "D": "本項敘述錯誤。它不是抑制周邊 acetylcholine 的藥物；其主要作用位置是中樞 serotonergic pathway。",
    "summary": "早洩用 dapoxetine 要記成短效 SSRI：提高 serotonin、延後射精，不是補 testosterone。",
-   "guideline": "FC 醫學(五)第5冊 p.183"
+   "guideline": "FC 醫學(五)第5冊 p.183",
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58792,7 +58960,10 @@
    "C": "本項敘述錯誤。膀胱假性憩室是長期出口阻塞造成的黏膜疝出，不能解釋外傷後急性血尿與攝影顯影劑外漏。",
    "D": "本項敘述錯誤。前列腺肥大會造成慢性排尿症狀，與外傷後下腹痛、血尿的急性情境不符。",
    "summary": "外傷後膀胱攝影若顯影劑跑進腹腔，就想 intraperitoneal bladder rupture，通常需手術修補。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -66681,7 +66852,10 @@
    "C": "本項不選。尋常性痤瘡是毛囊皮脂腺單位的角化、皮脂、Cutibacterium acnes 與發炎共同造成，病灶會有開放或閉鎖性粉刺、丘疹、膿疱與結節。如果頸部病灶大小一致、平頂又找不到粉刺，就不支持痤瘡。",
    "D": "正確答案。扁平疣（verruca plana）是 HPV 感染造成的，好發於兒童與青少年的臉部、頸部或手背，特徵是多發、膚色到淡褐色、表面平滑的平頂小丘疹——「平」是它最好認的地方。",
    "summary": "青少年頸部一堆平頂、表面平滑的小丘疹＝扁平疣；痤瘡一定找得到粉刺，這是最快的分法。",
-   "guideline": "FC 醫學(四)第2冊 p.38"
+   "guideline": "FC 醫學(四)第2冊 p.38",
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66714,7 +66888,10 @@
    "C": "本項不選。外用抗生素像 mupirocin 或 fusidic acid 針對的是細菌感染，對 HPV 沒有抗病毒作用。除非病灶被抓破、續發細菌感染，否則用它治扁平疣沒有道理。",
    "D": "正確答案。冷凍治療用液態氮製造細胞內外的冰晶、破壞血管並引發局部免疫反應，可以把被 HPV 感染的表皮清掉。扁平疣要用比較輕的冷凍，臉頸部更要控制深度，以免起水疱、留疤或留下發炎後色素變化。",
    "summary": "扁平疣的治療邏輯是「破壞受感染的表皮或叫免疫系統來處理」——類固醇和抗生素都打不到 HPV。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66754,7 +66931,10 @@
    "C": "正確答案。甲下外生骨（subungual exostosis）是從末節指骨背側或背內側長出來的良性骨軟骨增生，會痛、會把甲板頂高、還會冒出甲下增生物。決定性證據在 X 光：可以看到一塊附著在末節指骨上的緻密骨性突起，正是圖②③箭頭指的東西。",
    "D": "本項不選。甲下血管球腫瘤來自血管球體，典型是劇烈局部疼痛、碰冷會痛、按壓點非常精準，可能透出藍紅色。小的腫瘤 X 光通常正常，大的偶爾造成骨侵蝕，但不會長出明顯的骨性增生。",
    "summary": "會痛的甲下腫物先照 X 光：看到與指骨相連的骨性突起就是外生骨；碰冷劇痛而 X 光正常的才想血管球腫瘤。",
-   "guideline": "FC 醫學(四)第2冊 p.251"
+   "guideline": "FC 醫學(四)第2冊 p.251",
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66828,7 +67008,10 @@
    "C": "本項敘述錯誤。微血管擴張是小血管撐開了，要處理就用血管雷射，例如 pulsed dye laser。口服類固醇不會讓擴張的血管縮回去，而且劑量偏高時反而增加硬皮症腎危象的風險。",
    "D": "本項敘述錯誤。皮膚鈣化是鈣鹽沉積在皮膚或皮下，會痛、會潰瘍、會感染，治療本來就困難；局部症狀明顯的可考慮手術取出。復健能維持關節活動與功能，卻清不掉鈣化本身，所以不是「皮膚鈣化」這一項的正確配對。",
    "summary": "全身性硬化症要按機轉配治療：皮膚硬化照 UVA1、指端潰瘍打通血流、血管擴張打雷射——而全身性類固醇要小心腎危象。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66866,7 +67049,10 @@
    "C": "本項應選。油滴狀變色是甲床乾癬的經典徵象，在甲板下透出黃紅到橘褐色，專屬於乾癬。圓禿的指甲變化是細而規則的點狀凹陷、粗糙甲（trachyonychia）、甲弧影紅點或脆甲，不是油滴斑。",
    "D": "本項不選。甲癬是皮癬菌造成的甲黴菌感染，最常見的遠端側緣甲下型會有甲板變色、甲床分離與甲下角質增厚。要確診可用 KOH、黴菌培養、PAS 染色或分子檢驗。",
    "summary": "油滴斑是乾癬的專利；圓禿的指甲要記「細而規則的凹陷」，兩個一混就選錯。",
-   "guideline": "FC 醫學(四)第2冊 p.218"
+   "guideline": "FC 醫學(四)第2冊 p.218",
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66902,7 +67088,10 @@
    "C": "本項一律給分，而且這段敘述在臨床上是合理的。廣泛反覆、已經形成竇道與疤痕的 Hurley stage III（第三期），可以做大範圍切除，傷口再用二次癒合、植皮或皮瓣重建。",
    "D": "本項一律給分。長期慢性發炎的病灶，尤其男性臀部或肛周，確實可能併發皮膚鱗狀細胞癌，而且往往侵襲性高、預後不好。這是罕見但一定要記得的長期併發症。",
    "summary": "官方第 42 題一律給分。真正要記的四件事：女多於男、長在皺褶處、重症可切除重建、慢性肛臀病灶會癌變。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66940,7 +67129,10 @@
    "C": "本項敘述正確。它的指甲會脆裂，並出現縱向的紅色或白色條紋，還有遠端 V 形缺口（V-shaped nicking）。皮膚病灶不典型時，指甲反而是很好的診斷線索。",
    "D": "本項敘述正確。屏障與細胞黏著都異常，所以病灶容易續發細菌感染，也可能被單純疱疹病毒（HSV）大範圍感染。突然變痛、糜爛、起水疱或出現全身症狀時，要當成疱疹性濕疹那類併發症來處理。",
    "summary": "Darier disease 是「怕熱怕汗」不是怕乾——夏天惡化＋指甲縱紋＋V 形缺口，三件湊起來就是它。",
-   "guideline": "FC 醫學(四)第2冊 p.210"
+   "guideline": "FC 醫學(四)第2冊 p.210",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -68316,7 +68508,10 @@
    "C": "本項敘述正確。從隧道末端刮下皮屑、用礦物油製片後鏡檢，可以找疥蟲、蟲卵或糞粒（scybala）。看到就能確診；但看不到不代表沒有，因為一般型疥瘡身上的蟲可能很少。",
    "D": "本項敘述正確。免疫低下、高齡、神經功能障礙或抓不動的人，可能變成痂皮型疥瘡（crusted scabies，舊稱 Norwegian scabies）。特徵是蟲量極大、大片高度角化斑塊與厚痂，傳染力遠高於一般疥瘡。",
    "summary": "疥瘡的隧道要去指縫和手腕屈側找，不是找肚子；安養機構一群人一起癢，就先想它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -70906,7 +71101,10 @@
    "C": "本項敘述錯誤。等三個月才處理會讓腎實質長期承受高壓，已錯過避免永久傷害的安全窗口。",
    "D": "本項敘述錯誤。等六個月更不恰當；持續阻塞不是可以靠忍耐等腎臟自行恢復的問題。",
    "summary": "輸尿管阻塞不要拖：大約一個月已可能出現不可逆傷害，感染或 AKI 時更要先減壓。",
-   "guideline": "FC 醫學(五)第5冊 p.138"
+   "guideline": "FC 醫學(五)第5冊 p.138",
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -70944,7 +71142,10 @@
    "C": "正確。腎細胞癌較常因 PTHrP 造成高血鈣，不是低血鈣；低鈣不能作為其代表性副腫瘤表現。",
    "D": "本項敘述正確。腫瘤異位分泌 erythropoietin 可造成紅血球增多症，是腎細胞癌的典型考點。",
    "summary": "RCC 的副腫瘤表現可記 renin、EPO、PTHrP 與 Stauffer syndrome；鈣要想到高血鈣，不是低血鈣。",
-   "guideline": "FC 醫學(五)第5冊 p.37"
+   "guideline": "FC 醫學(五)第5冊 p.37",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -71058,7 +71259,10 @@
    "C": "本項敘述錯誤。這句話不正確。即使技術進步，TURP 仍可能造成暫時或少數持續性尿失禁，也可能發生逆行性射精與出血。",
    "D": "正確。傳統單極 TURP 吸收低滲灌流液可造成低鈉的 TUR syndrome，表現為噁心、嘔吐、意識改變與心血管不穩。",
    "summary": "TURP 的效果強且久，但不是零風險：要記住住院較久、逆行性射精與低鈉 TUR syndrome。",
-   "guideline": "FC 醫學(五)第5冊 p.121"
+   "guideline": "FC 醫學(五)第5冊 p.121",
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -71127,7 +71331,10 @@
    "C": "正確。球海綿體肌（bulbocavernosus muscle）在 expulsion phase 反覆收縮，由 pudendal nerve 的體神經支配。",
    "D": "本項敘述錯誤。膀胱頸收縮確實是交感神經經 hypogastric nerve 作用，但題目把它列為體神經，所以整組不正確。",
    "summary": "射精分兩段：交感神經負責 emission，pudendal 讓 bulbocavernosus 收縮把精液射出。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -71165,7 +71372,10 @@
    "C": "本項敘述正確。局部節段型腎絲球硬化（FSGS）可因循環通透性因子在移植腎早期復發，造成蛋白尿並影響移植物存活。",
    "D": "本項最不恰當。全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）腎炎在移植腎仍可復發，只是臨床嚴重復發率較低；不能說絕不復發。",
    "summary": "移植後仍可能復發的疾病要記 FSGS 與 lupus nephritis；「不會復發」這種絕對句最危險。",
-   "guideline": "FC 醫學(五)第5冊 p.38"
+   "guideline": "FC 醫學(五)第5冊 p.38",
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -79186,7 +79396,10 @@
    "C": "本項敘述錯誤。crotamiton 10% cream 兼有止癢與部分殺蟲作用，但療效通常不如 permethrin，治療失敗並不少見。一般型疥瘡的第一線外用藥是 permethrin 5%。",
    "D": "正確答案。痂皮型（Norwegian scabies）身上的蟲量極高，常要外用 permethrin 合併多次口服 ivermectin，同時處理皮表與大量寄生。厚痂還可以搭配角質溶解劑，並嚴格接觸隔離、接觸者同步治療。",
    "summary": "一般疥瘡外用 permethrin 就好；痂皮型蟲太多，才需要外用加口服 ivermectin 雙管齊下。",
-   "guideline": "FC 醫學(四)第2冊 p.53"
+   "guideline": "FC 醫學(四)第2冊 p.53",
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79268,7 +79481,10 @@
    "C": "正確答案。卡波西氏肉瘤（Kaposi sarcoma）與 HHV-8 相關，出現在 HIV 感染、器官移植後免疫抑制或其他免疫低下的人身上。紫色斑塊或丘疹，加上真皮紡錘狀細胞、裂隙狀血管腔與紅血球外滲，是非常典型的組合——這個病人五年前腎臟移植，背景剛好對上。",
    "D": "本項不選。鬱血性皮膚炎是慢性靜脈高壓造成的下肢濕疹，會有紅褐色色素沉著、鱗屑、水腫、脂肪皮膚硬化與潰瘍。病理以含鐵血黃素、微血管增生、纖維化與發炎為主，不會有腫瘤性的紡錘細胞增生。",
    "summary": "移植後免疫抑制＋紫色斑塊＋裂隙狀血管腔＝卡波西氏肉瘤（HHV-8）；「免疫抑制史」是這題的鑰匙。",
-   "guideline": "FC 醫學(四)第2冊 p.191"
+   "guideline": "FC 醫學(四)第2冊 p.191",
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79346,7 +79562,10 @@
    "C": "本項敘述錯誤。剝離性的二氧化碳（CO2）雷射容易引起發炎後色素沉著、色素脫失或肝斑復發，不是常規首選。治療核心是嚴格防曬、避開誘因與外用淡斑藥，雷射只在挑對病人時謹慎使用。",
    "D": "正確答案。氫醌（hydroquinone）抑制 tyrosinase、減少黑色素合成，是肝斑常用的外用淡斑藥。可以單用，也可以做成三合一複方；但治療期間一定要搭配廣效防曬，否則做白工。",
    "summary": "肝斑跟肝無關，是荷爾蒙加紫外線；治療靠防曬＋氫醌，雷射反而可能讓它更黑。",
-   "guideline": "FC 醫學(四)第2冊 p.165"
+   "guideline": "FC 醫學(四)第2冊 p.165",
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79384,7 +79603,10 @@
    "C": "本項敘述正確。依亞型與嚴重度不同，可能侵犯指甲、牙齒、眼睛與頭髮。部分病人還會有食道狹窄、營養不良、手指沾黏，甚至鱗狀細胞癌的風險。",
    "D": "本項應選。這是遺傳性的機械性水疱病——皮膚結構蛋白的基因出問題，不是自體免疫水疱病。治療以傷口照護、避免摩擦、控制感染、止痛與營養支持為主，免疫抑制劑不是主力。",
    "summary": "水疱性表皮鬆解症是「基因造成的結構脆弱」，不是自體免疫——所以免疫抑制劑不管用，照顧傷口才是重點。",
-   "guideline": "FC 醫學(四)第2冊 p.82"
+   "guideline": "FC 醫學(四)第2冊 p.82",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80380,7 +80602,10 @@
    "C": "本項不選。家人照片、時鐘與日夜線索可幫助定向，屬低風險的非藥物處置。",
    "D": "本項應選。長時間約束會增加受傷、壓瘡、激躁與譫妄惡化；只有立即危險且替代方法無效時，才短暫、密切監測地使用。",
    "summary": "譫妄治療先找病因、幫助定向；長期約束會讓病人更亂，不是防跌倒的常規答案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "delirium-management-principles"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80577,7 +80802,10 @@
    "C": "本項不選。想維持 sick role 是佯病的內在動機，不是詐病的主要目的。",
    "D": "本項應選。詐病（malingering）是為外在利益而裝病，例如逃避刑責、兵役或取得金錢；這點與佯病最能區分。",
    "summary": "裝病先問動機：為逃責、錢或兵役是 malingering；為了當病人、接受照顧才是 factitious disorder。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "somatic-factitious-malingering"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80768,7 +80996,10 @@
    "C": "本項應選。高壓氧有時被當成壞死性軟組織感染的輔助治療，但證據有限，而且絕對不能因此延誤緊急手術探查與廣泛清創。這個病的核心治療是立刻開刀、廣效靜脈抗生素加重症支持，說高壓氧「療效極佳」會誤導處置順序。",
    "D": "本項敘述正確。痛得和外觀不成比例（pain out of proportion）是壞死性筋膜炎的重要早期警訊，因為深層筋膜已經壞死時，表皮可能還看不太出來。再加上快速進展、水疱、皮膚麻木、捻髮音、低血壓或全身毒性，就要馬上找外科。",
    "summary": "壞死性筋膜炎的救命點是「痛得不合理就開刀」；高壓氧只是輔助，永遠不能拿來拖延清創。",
-   "guideline": "FC 醫學(四)第2冊 p.68"
+   "guideline": "FC 醫學(四)第2冊 p.68",
+   "concepts": [
+    "soft-tissue-infection-necrotizing-ie-skin"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -83386,7 +83617,10 @@
    "C": "本項敘述錯誤。若病灶限於包皮，包皮環切可完整切除並保留陰莖，是合適的局部治療方式。",
    "D": "本項敘述錯誤。Mohs 顯微手術逐層確認切緣，能在選定的早期陰莖癌保留較多組織，是可考慮的器官保留選項。",
    "summary": "極早期小型陰莖 SCC 優先器官保留；radical penectomy 留給侵犯較深或無法局部控制的疾病。",
-   "guideline": "FC 醫學(五)第5冊 p.92"
+   "guideline": "FC 醫學(五)第5冊 p.92",
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83455,7 +83689,10 @@
    "C": "本項敘述正確。TURP 是經尿道解除阻塞的手術，並不切除前列腺及精囊，因此不是前列腺癌的根除術。",
    "D": "本項敘述正確。「治療轉移性攝護腺癌，使用LHRH agonist 或 antagonist 效果相當」符合本題考點。LHRH agonist 與 antagonist 都能達到 androgen deprivation；兩者主要差異是 agonist 初期可能有 testosterone flare。",
    "summary": "局限性前列腺癌、壽命超過十年要想根治性治療或監測；不要先把單獨 ADT 當標準。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83488,7 +83725,10 @@
    "C": "本項最不恰當。BPH 並非與遺傳無關；家族史，特別是較年輕即需手術的家族，會增加風險。",
    "D": "本項敘述正確。這句話本身符合傳統病理生理考點。老化後 androgen-estrogen 平衡改變可能影響前列腺生長，但不是唯一成因。",
    "summary": "BPH 是多因素疾病：年齡、雄性素與家族史都重要，不能說它和遺傳完全無關。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83524,7 +83764,10 @@
    "C": "本項敘述正確。糖尿病、高血壓等血管危險因子與 Peyronie's disease 盛行率較高相關。",
    "D": "本項敘述正確。Clostridial collagenase 注射可分解部分斑塊膠原，是選定彎曲病人的非手術療法之一。",
    "summary": "Peyronie's disease 的四個敘述皆可成立：創傷後纖維斑塊、彎曲疼痛、血管危險因子與 collagenase 治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83598,7 +83841,10 @@
    "C": "正確。先以導尿改善下泌尿道排空並降低壓力，可保護上泌尿道；之後再依尿路動力學決定藥物、重建或膀胱擴大。",
    "D": "本項敘述錯誤。膀胱擴大術只用於保守治療失敗的低順應性高壓膀胱，不能作為每個排尿障礙合併 VUR 兒童的第一步。",
    "summary": "排尿障礙合併 VUR，先治下泌尿道壓力與排空；逆流手術要排在膀胱穩定之後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83761,7 +84007,10 @@
    "C": "本項敘述正確。脊椎或硬膜外麻醉會暫時抑制骶神經反射與膀胱感覺，比單純全身麻醉更容易造成術後尿滯留。",
    "D": "本項敘述正確。肛門直腸手術疼痛、局部水腫與骨盆神經反射都會增加排尿困難，所以四項都不是最不適當。",
    "summary": "術後尿滯留的組合是男性、輸液多、脊椎麻醉與骨盆/肛門直腸手術；本題四項均為風險因子。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -91539,7 +91788,10 @@
    "C": "本項敘述正確。部分急性蕁麻疹確實是過敏原專一的 IgE 交聯肥大細胞上的 FcεRI 造成，屬於第一型過敏反應（type I hypersensitivity）。慢性自發性蕁麻疹則常不是單純外來過敏原，有些病人是針對 FcεRI 或 IgE 的自體免疫機轉。",
    "D": "本項應選。慢性蕁麻疹的第一線是第二代、低鎮靜的 H1 抗組織胺，控制不夠就依指引加量。cyclosporine 是難治病例的後線免疫調節藥，要等高劑量抗組織胺與 omalizumab 都失敗才考慮，不是第一線。",
    "summary": "慢性蕁麻疹以六週為界，第一線永遠是第二代抗組織胺——cyclosporine 排在很後面。",
-   "guideline": "FC 醫學(四)第1冊 p.413"
+   "guideline": "FC 醫學(四)第1冊 p.413",
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91579,7 +91831,10 @@
    "C": "本項不選。蕁麻疹是短暫、隆起又會跑位置的風團，單一病灶通常 24 小時內完全消退，而且不留鱗屑。固定長在頭皮與伸側十幾年，時間特性完全不合。",
    "D": "本項不選。玫瑰糠疹會先出現前驅斑（herald patch），之後沿軀幹皮膚張力線排成聖誕樹狀，病程幾週就自己好。它不會在頭皮、手肘與膝蓋反覆十餘年。",
    "summary": "慢性、界線清楚、有銀白鱗屑，又長在頭皮和肘膝伸側——這組合就是尋常性乾癬。",
-   "guideline": "FC 醫學(四)第2冊 p.152"
+   "guideline": "FC 醫學(四)第2冊 p.152",
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91734,7 +91989,10 @@
    "C": "本項不選。血管纖維瘤是血管加纖維組織構成的丘疹，像結節性硬化症的臉部血管纖維瘤多長在臉部中央。腳底單發皮下腫塊被摩擦後起蕁麻疹樣反應，不是它的行為。",
    "D": "本項不選。皮膚平滑肌瘤是平滑肌腫瘤，常是堅實的紅褐色丘疹或結節，遇冷或被碰到時會痛。它不會因為搔抓而出現組織胺造成的風團。",
    "summary": "小孩身上一顆黃褐色腫塊，一抓就腫起來像蕁麻疹＝肥大細胞瘤，這個「抓了就腫」是決定性線索。",
-   "guideline": "FC 醫學(四)第2冊 p.119"
+   "guideline": "FC 醫學(四)第2冊 p.119",
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91815,7 +92073,10 @@
    "C": "本項不選。補體 C3、C4 下降反映免疫複合體造成的狼瘡活性，尤其狼瘡腎炎，但不是每個皮膚型狼瘡都會低補體。若圖上是典型皮肌炎皮疹，補體更不能取代肌肉酵素的評估。",
    "D": "正確答案。皮肌炎的皮膚線索是 Gottron papules、Gottron sign、heliotrope 疹、V 領徵象、披肩徵象與甲周變化，肌肉侵犯則造成近端肌無力。要看肌肉有沒有受傷，最直接的就是肌胺酸激酶（creatine kinase, CK），所以這組配對最恰當。",
    "summary": "看到皮肌炎的皮疹，第一個要驗的是 CK 不是 ANA——因為真正會要命的是肌肉與潛在的癌症。",
-   "guideline": "FC 醫學(四)第2冊 p.240"
+   "guideline": "FC 醫學(四)第2冊 p.240",
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91853,7 +92114,10 @@
    "C": "本項不選。維他命 B12 缺乏可造成瀰漫或局部的色素沉著，在手背、指關節、掌蹠皺褶與口腔黏膜比較明顯。病人還可能有巨球性貧血、舌炎與神經症狀。",
    "D": "本項應選。Waardenburg 症候群是神經嵴發育異常造成的遺傳病，典型是先天感音性聽力損失、內眥外移、白額髮與虹膜異色。它的色素問題是黑色素細胞不足造成的色素減少，方向和題目要的色素增加剛好相反。",
    "summary": "三個會變黑（Addison、紫質症、B12 缺乏），Waardenburg 是變白——它缺的是黑色素細胞本身。",
-   "guideline": "FC 醫學(四)第2冊 p.166"
+   "guideline": "FC 醫學(四)第2冊 p.166",
+   "concepts": [
+    "pigmentary-disorders"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91891,7 +92155,10 @@
    "C": "本項敘述正確。葡萄酒色斑若侵犯上下眼瞼或眼周的血管分布，患側青光眼風險明顯上升，可能在嬰兒期發生，也可能較晚才出現。病人需要長期眼科追蹤，包括眼壓與視神經評估。",
    "D": "本項敘述正確與否有疑義，答案設定值得存疑。史特基–韋伯氏症候群公認的分子病因是胚胎期合子後體細胞的 GNAQ 活化突變，少數相關表型可涉及 GNA11；EPHB4 一般與微血管畸形合併動靜脈畸形那一群比較有關。依現行遺傳學資料，本選項的基因敘述也有命題疑義，[TODO]需核對原題是否有文字或答案設定問題。",
    "summary": "史特基–韋伯的四個重點：單側 V1 葡萄酒色斑、腦膜血管瘤、癲癇很常見、患側青光眼要長期追。官方答案選 B，但 D 寫的 EPHB4 與公認的 GNAQ 病因不符，本題有複選疑義。",
-   "guideline": "FC 醫學(四)第1冊 p.297"
+   "guideline": "FC 醫學(四)第1冊 p.297",
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -93185,7 +93452,10 @@
    "C": "本項不選。皮下或軟組織裡有氣體，可能來自產氣菌或組織壞死，是很有提示性的 CT 徵象。但沒看到氣體不能排除，尤其病原不是產氣菌時。",
    "D": "本項不選。深層筋膜增厚是重要的 CT 與 MRI 表現，來自筋膜發炎與水腫。MRI 的 T2 加權或對液體敏感的序列常呈現深層筋膜高訊號。",
    "summary": "壞死的筋膜是「不吃顯影劑」的——看到會增強反而代表還有血流；影像陰性也不能取代開刀探查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "soft-tissue-infection-necrotizing-ie-skin"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -93253,7 +93523,10 @@
    "C": "本項不選。曬傷是紫外線造成的急性光毒性傷害，在曝曬處形成瀰漫性、會痛的紅斑，要很嚴重才起大水疱。這題以雙手多發小水疱加劇癢為主，比較像濕疹性反應。",
    "D": "正確答案。接觸性皮膚炎可以由植物過敏原引起，在接觸的部位長出紅斑、丘疹、小水疱與劇癢，有時排成線狀或不規則形狀。採集花草後雙手急性發作，暴露與時序的關係很明確。",
    "summary": "上山採花草回來雙手起癢水疱——「暴露的時間與位置」對得上，就是接觸性皮膚炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "irritant-vs-allergic-contact-derm"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -95829,7 +96102,10 @@
    "C": "本項敘述正確。「最大的風險因子為抽菸」符合本題考點。抽菸是腎細胞癌重要且可改變的危險因子，此外還有肥胖與高血壓等因素。",
    "D": "本項敘述正確。VHL gene 變異與遺傳性透明細胞腎細胞癌相關，也解釋其血管新生訊號異常。",
    "summary": "洗腎後的 acquired cystic kidney disease 是 RCC 危險訊號；不是腎囊泡越多、癌症越少。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95867,7 +96143,10 @@
    "C": "本項敘述錯誤。5α-reductase inhibitor（5-ARI）會抑制 DHT 並使 PSA 約下降一半；追蹤癌症風險時需依用藥狀況解讀數值。",
    "D": "正確。前晚吃高脂肪食物不會直接改變 PSA；PSA 主要受前列腺體積、發炎、操作與 5-ARI 影響。",
    "summary": "解讀 PSA 前先排除感染、尿道操作與 5-ARI；高脂飲食不是常見干擾因子。",
-   "guideline": "FC 醫學(五)第5冊 p.119"
+   "guideline": "FC 醫學(五)第5冊 p.119",
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95905,7 +96184,10 @@
    "C": "本項敘述錯誤。尿道懸吊手術用於壓力性尿失禁，靠增加尿道支撐來處理咳嗽、用力時漏尿，不適合急尿主導的病人。",
    "D": "正確。抗膽鹼藥物（antimuscarinic agents）抑制膀胱 M3 受體，降低不自主逼尿肌收縮，是急迫性尿失禁常用藥物。",
    "summary": "急迫性尿失禁是膀胱過動問題，先想 antimuscarinic；尿道懸吊是壓力性失禁才用。",
-   "guideline": "FC 醫學(五)第5冊 p.169"
+   "guideline": "FC 醫學(五)第5冊 p.169",
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95943,7 +96225,10 @@
    "C": "本項敘述錯誤。陰莖段尿道位於更遠端，雖可看到但此選項把前列腺組織排在外括約肌前，與由遠端到近端的方向不符。",
    "D": "本項敘述錯誤。膀胱頸在前列腺近端；若尚未經過前列腺組織就看到膀胱頸，表示順序不正確。",
    "summary": "TURP 進鏡方向記成：外括約肌 → 精阜 → 增生前列腺 → 膀胱頸，才能保護 continence。",
-   "guideline": "FC 醫學(五)第5冊 p.119"
+   "guideline": "FC 醫學(五)第5冊 p.119",
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95981,7 +96266,10 @@
    "C": "本項敘述錯誤。芳香酶抑制劑可降低 testosterone 轉為 estradiol，適合選定有高 estrogen 或肥胖相關低 testosterone 的不孕男性。",
    "D": "本項敘述錯誤。hCG 模擬 LH 刺激 Leydig cells 產生 testosterone；和 FSH 或 SERM 視情況合用，可保留生精軸。",
    "summary": "不孕又低 testosterone，禁忌是外源性 testosterone；要保精子就用能維持 LH/FSH 軸的治療。",
-   "guideline": "FC 醫學(五)第5冊 p.182"
+   "guideline": "FC 醫學(五)第5冊 p.182",
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -96019,7 +96307,10 @@
    "C": "本項最不適當。血壓不穩且瀕臨休克時，先依 ABC 復甦與控制出血；詳細影像只能在病人穩定後進行，不能延誤救命處置。",
    "D": "本項敘述正確。「在急診室看到的所有外傷個案中，約有10%會有若干程度的泌尿生殖系統損傷」符合本題的概略流行病學考點。急診外傷病例中可有一部分合併泌尿生殖損傷，但個別比例會隨外傷中心與定義改變。",
    "summary": "外傷病人若休克，先救命再影像；看到尿道口出血則先 retrograde urethrogram，不要盲插 Foley。",
-   "guideline": "FC 醫學(五)第5冊 p.63"
+   "guideline": "FC 醫學(五)第5冊 p.63",
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -96052,7 +96343,10 @@
    "C": "正確。陰莖海綿體神經（cavernosal nerve）沿前列腺後外側的 neurovascular bundle 走行，傳遞副交感勃起訊號，是 nerve-sparing 的目標。",
    "D": "本項敘述錯誤。pudendal nerve 支配會陰橫紋肌與外括約肌，也提供感覺；雖與性功能相關，卻不是海綿體平滑肌勃起的主要神經。",
    "summary": "保留勃起功能的 radical prostatectomy 要保住前列腺後外側的 cavernous nerves。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -103629,7 +103923,10 @@
    "C": "本項敘述正確。手足口病主要由腸病毒引起，例如 coxsackievirus A16 或 enterovirus A71，重要傳播途徑就是糞口傳染。接觸呼吸道分泌物與水疱液也可能傳播。",
    "D": "本項敘述正確。尖圭濕疣主要由低致癌風險的 HPV-6 與 HPV-11 造成，在生殖器或肛周形成乳突狀疣。HPV-16、HPV-18 這些高風險型別則和上皮內瘤變與癌症關係較大。",
    "summary": "疫苗降風險不等於絕對免疫——打過水痘疫苗還是可能得突破性水痘，只是輕很多。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103700,7 +103997,10 @@
    "C": "本項應選。史特基–韋伯氏症候群來自體細胞的 GNAQ 鑲嵌突變，問題出在血管：臉部葡萄酒色斑、腦膜血管畸形、癲癇與青光眼。它既不是紫外線修復缺陷，也不是色素保護不足，不以皮膚鱗狀細胞癌高風險著稱。",
    "D": "本項不選。眼皮膚白化症因為黑色素合成或黑色素體功能缺陷，皮膚少了對紫外線的天然保護。長期日光傷害會明顯增加日光性角化與皮膚鱗狀細胞癌，在紫外線強的地區尤其嚴重。",
    "summary": "會增加皮膚癌的遺傳病，看兩件事：修不修得好 DNA、擋不擋得住紫外線；史特基–韋伯是血管病，兩者都不沾。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103736,7 +104036,10 @@
    "C": "本項不選。蟹足腫是傷口後膠原過度增生、還長出原本傷口範圍的纖維化病灶，病理是粗厚玻璃樣變的蟹足腫膠原。多發紅色脫屑斑塊逐漸變成腫瘤、又有異型的親表皮細胞，蟹足腫解釋不了。",
    "D": "本項不選。結節性癢疹是劇癢反覆搔抓造成的角化性結節，病理是角化過度、不規則棘層肥厚、垂直走向的膠原與神經纖維變化。這題病灶長期「無症狀」又從斑塊變結節，加上異常細胞浸潤，比較支持皮膚淋巴瘤。",
    "summary": "多年斑片→斑塊→長出腫瘤，加上異常淋巴球往表皮跑，就是蕈狀肉芽腫的三部曲。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103771,7 +104074,10 @@
    "C": "本項敘述錯誤。狼瘡性脂膜炎通常是小葉型或混合型脂膜炎，可見淋巴球浸潤、淋巴濾泡、玻璃樣脂肪壞死與上方的狼瘡變化。單純的間隔性脂膜炎加上下肢急性病灶，還是結節性紅斑。",
    "D": "正確答案。結節性紅斑是反應性的間隔性脂膜炎，常見誘因包括鏈球菌感染、結核、藥物、類肉瘤、發炎性腸道疾病與懷孕。所以除了止痛與休息，重點是回頭把感染、藥物或免疫性的原因找出來處理。",
    "summary": "結節性紅斑是「別的病踢過來的球」——看到它就要去找感染、藥物、類肉瘤或腸道疾病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103804,7 +104110,10 @@
    "C": "本項敘述正確。輕度可用外用 clindamycin；範圍較廣的輕到中度常用口服 tetracycline 類抗生素。這些藥除了抑菌還有抗發炎作用——用抗生素有效，不等於這個病就是單純細菌感染。",
    "D": "本項應選。它的核心機轉是毛囊阻塞、毛囊破裂與免疫失調，不是原發性細菌感染，所以不能因為怕感染就一律禁用免疫抑制治療。病灶內注射或短期全身性類固醇可用在特定急性狀況，難治病例也可能用到 cyclosporine，只是要個別評估風險。",
    "summary": "化膿性汗腺炎不是「感染」是「毛囊阻塞＋免疫失調」——搞錯這點就會誤以為不能用免疫抑制藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103837,7 +104146,10 @@
    "C": "正確答案。著色性乾皮症是四個選項裡唯一的體染色體隱性遺傳，缺陷落在核苷酸切除修復相關基因。修不好紫外線造成的 DNA 損傷，所以很早就出現雀斑樣色素變化與多種皮膚癌。",
    "D": "本項不選。Peutz-Jeghers syndrome 由 STK11 致病變異引起，是體染色體顯性。特徵是口唇與口腔黏膜色素斑、腸胃道錯構瘤性息肉，以及多器官癌症風險上升。",
    "summary": "皮膚科的遺傳病大多是顯性；著色性乾皮症是那個例外——隱性，而且修不好 DNA。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -107490,7 +107802,10 @@
    "C": "本項敘述正確。腎血管性高血壓可在受傷後因缺血、腎動脈狹窄或 Page kidney 等機轉延遲出現。",
    "D": "本項敘述正確。腎盂或集尿系統裂傷若尿液持續外漏，可在周圍形成尿性囊腫（urinoma）。",
    "summary": "腎外傷分級看有沒有集尿系統尿外漏：一旦 extravasation，就要想到 AAST grade IV。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107523,7 +107838,10 @@
    "C": "本項敘述錯誤。FGFR3、p53 等分子變異可提供腫瘤生物學資訊，不能直接取代侵犯深度的組織診斷。",
    "D": "正確。TURBT 必須在檢體中取得 detrusor muscle，病理才能判斷是否肌肉侵犯，這是膀胱癌局部分期的關鍵。",
    "summary": "膀胱癌侵犯深度最終靠 TURBT 標本中的 detrusor muscle，不是影像或基因檢查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107556,7 +107874,10 @@
    "C": "本項敘述錯誤。腫瘤栓或合併靜脈血栓可脫落到肺循環，肺栓塞是重要且危險的併發症。",
    "D": "本項敘述錯誤。腫瘤栓可沿下腔靜脈向上延伸至右心房，影像上可形成右心房內腫塊。",
    "summary": "RCC 合併 IVC tumor thrombus 會造成靜脈回流與栓塞問題；血尿屬原發腫瘤症狀，不是栓塞表現。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107589,7 +107910,10 @@
    "C": "本項敘述正確。膀胱鏡不是初評 BPH 的例行檢查，但在要接受侵入性治療或懷疑其他病灶時可協助手術規畫。",
    "D": "本項敘述正確。疑似神經性膀胱或術後治療失敗時，尿路動力學能分辨逼尿肌問題與出口阻塞。",
    "summary": "BPH 初評先用病史、DRE、尿檢與選擇性 PSA；上泌尿道影像只留給有併發症線索的人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107622,7 +107946,10 @@
    "C": "本項敘述錯誤。糖尿病自主神經病變會先讓膀胱感覺變差，進一步造成膀胱容量大、殘尿多與逼尿肌無力。",
    "D": "正確。尿路結石主要造成疼痛或阻塞，並不直接傷害控制逼尿肌的神經或肌肉，所以最不會導致 detrusor underactivity。",
    "summary": "逼尿肌無力多是神經或骨盆手術問題；結石會卡住尿路，卻不會讓逼尿肌失去收縮力。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107655,7 +107982,10 @@
    "C": "本項敘述錯誤。輸精管位於副睪與儲精囊之間，阻塞性無精症患者仍可能在其近端抽取精子。",
    "D": "正確。儲精囊（seminal vesicle）主要產生精液的一部分，不是精子儲存或成熟場所，因此最不可能從這裡取得精子。",
    "summary": "阻塞性無精症取精要往 testis、epididymis 或 vas deferens 找；seminal vesicle 只做精液，不製造精子。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -107874,7 +108204,10 @@
    "C": "正確。高燒、肋脊角疼痛與明顯膿尿組成急性腎盂腎炎（pyelonephritis）的典型臨床圖像。",
    "D": "本項敘述錯誤。穩定、能口服且沒有敗血症的病人不一定要全程靜脈抗生素；可先給適當經驗性治療，再依培養與臨床反應轉口服。",
    "summary": "高燒＋腰痛/CVA tenderness＋pyuria 就想 acute pyelonephritis；穩定者不必一律住院打 7–14 天 IV。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -114960,7 +115293,10 @@
    "C": "本項敘述正確。慢性搔癢引發反覆摩擦與抓傷，正是這兩個病形成與維持的關鍵。形態上前者偏多發結節，後者偏局部苔癬化斑塊與皮紋加深。",
    "D": "本項應選。異位性皮膚炎的病人因為長期癢，任何年齡都可能發生這兩個病，沒有「通常年紀較長」這種固定關係。相反地，有異位體質背景的結節性癢疹，發病年齡甚至可能更年輕。",
    "summary": "這兩個病都是抓出來的，抓得到的地方就會長；「年紀較長」不是它們的判準。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114993,7 +115329,10 @@
    "C": "本項不選。「抑制病毒複製」是 acyclovir 那種針對疱疹病毒 DNA 聚合酶的概念，但 HPV 沒有相同的胸苷激酶活化途徑。imiquimod 也不是直接擋住 HPV 的複製機器。",
    "D": "正確答案。imiquimod 是 Toll-like receptor 7 促效劑，會活化漿細胞樣樹突細胞與其他先天免疫細胞，促進 interferon-α、TNF-α 等細胞激素生成。這種細胞性免疫的增強，才是它清掉尖圭濕疣的方式。",
    "summary": "imiquimod 不打病毒，它是叫免疫系統來打——所以機轉是增強宿主免疫，不是抗病毒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115026,7 +115365,10 @@
    "C": "本項敘述錯誤。帶狀疱疹常有疼痛、灼熱、感覺異常或搔癢，但少數病人痛得很輕、甚至沒有明顯神經症狀。只要是單側、沿皮節分布的群聚水疱，形態與分布仍支持診斷，不能因為不痛就排除。",
    "D": "本項敘述錯誤。帶狀疱疹是潛伏在感覺神經節的 VZV 再活化。病人可能忘了小時候的水痘，初次感染也可能非常輕微而沒被發現。否認水痘病史，不能斷定不可能發生帶狀疱疹。",
    "summary": "Tzanck smear 只能證明「是疱疹病毒家族」，分不出單純疱疹還是帶狀疱疹——要分型得做 PCR。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115138,7 +115480,10 @@
    "C": "本項不選。貧血讓皮膚與結膜蒼白，特定營養缺乏還可能造成舌炎、匙狀甲或皮膚乾燥。它不會造成後頸全層真皮增厚、粗膠原束中間夾黏液這種病理。",
    "D": "本項不選。尿毒症的皮膚問題是乾燥、搔癢、色素沉著、後天穿通性皮膚病或鈣化防禦。後頸硬化配上「粗大膠原束被黏液分隔」不是它的典型病理。",
    "summary": "後頸到上背按不出凹陷的硬塊，病理是粗膠原束夾黏液＝硬腫病，先去查糖尿病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "connective-tissue-disease-skin"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115208,7 +115553,10 @@
    "C": "本項不選。Gardner syndrome 是家族性腺瘤性息肉症的表現型，由 APC 致病變異引起，會有大量大腸腺瘤、骨瘤、表皮囊腫與硬纖維瘤。它的口腔線索偏向顎骨骨瘤或牙齒異常，不是黏膜神經瘤。",
    "D": "本項不選。Gorlin syndrome 又叫痣樣基底細胞癌症候群，與 PTCH1 路徑異常有關，常見多發基底細胞癌、齒源性角化囊腫、掌蹠小凹與大腦鐮鈣化。它不以唇舌黏膜神經瘤為特徵。",
    "summary": "嘴唇舌頭一堆神經瘤＋馬凡體型＝MEN 2B，要馬上想甲狀腺髓質癌與嗜鉻細胞瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -116536,7 +116884,10 @@
    "C": "本項應選。以前用 penicillin 沒過敏，不能保證下次安全：病人可能在先前的暴露中已經被致敏，再接觸就可能發生 IgE 媒介的過敏性休克。致死性反應完全可能出現在過去耐受良好的人身上。",
    "D": "本項敘述正確。注射型 penicillin 讓藥物迅速進入全身循環，一旦發生 IgE 媒介的過敏，起始速度與嚴重度通常高於口服。任何途徑都可能嚴重過敏，但注射的致死風險特別受重視。",
    "summary": "「以前用過沒事」不是安全保證——致敏本來就發生在前一次暴露，這題考的就是這個直覺陷阱。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -118944,7 +119295,10 @@
    "C": "正確。前列腺癌最常位於 peripheral zone，其次是 transition zone，central zone 最少，這也是 DRE 能摸到部分癌症的原因。",
    "D": "本項敘述錯誤。central zone 不是最常見發生區；若以它排第一會和前列腺癌常見的周邊分布相反。",
    "summary": "前列腺癌分布背成 P→T→C：peripheral zone 最多，transition 次之，central 最少。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -118977,7 +119331,10 @@
    "C": "本項應選。疑似可切除 RCC 通常可依典型增強影像直接治療；經皮切片保留給診斷不明、擬消融或結果會改變全身治療的情境。",
    "D": "本項敘述正確。小型、影像較像良性的腎腫瘤可在適當病人採主動監測，並以影像追蹤大小與特徵變化。",
    "summary": "可切除的典型 RCC 不必先例行穿刺；腎腫瘤的核心判斷靠增強影像與是否會改變處置。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urothelial-renal-penile-tumors"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -119010,7 +119367,10 @@
    "C": "本項敘述錯誤。尿道括約肌機能障礙不是 diabetic cystopathy 的核心尿路動力學發現；主問題是膀胱感覺與逼尿肌收縮。",
    "D": "正確。糖尿病自主神經病變先使膀胱感覺損傷（impaired bladder sensation）使充盈感變差，病人越裝越多卻不覺得尿急，最後出現大容量殘尿與逼尿肌無力。",
    "summary": "Diabetic cystopathy 先失去「膀胱滿了」的感覺，接著才是大容量、殘尿與逼尿肌無力。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -119043,7 +119403,10 @@
    "C": "正確。dopamine 不是陰莖海綿體局部 NO–cGMP–PKG 鬆弛路徑的必要因子；勃起的關鍵是副交感神經釋放 NO。",
    "D": "本項敘述錯誤。nitric oxide 從神經末梢與內皮釋放，啟動 guanylate cyclase，是勃起充血的起始訊號。",
    "summary": "勃起路徑是 NO → cGMP → PKG → 平滑肌鬆弛；dopamine 不在這條海綿體局部路徑。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -119076,7 +119439,10 @@
    "C": "本項敘述錯誤。下端腎臟的輸尿管因黏膜下隧道較短，較容易膀胱輸尿管逆流；但題目問的是上端輸尿管開口位置。",
    "D": "本項敘述錯誤。三套輸尿管的解剖變異更複雜，不能不加區分地套用雙套系統的 Weigert-Meyer rule。",
    "summary": "雙套輸尿管記「上端腎 → 下內側 → 異位/ureterocele；下端腎 → 上外側 → VUR」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -119109,7 +119475,10 @@
    "C": "本項敘述錯誤。20 cm H2O 單獨不足以定義高壓危險膀胱，仍要看膀胱容量、順應性與影像。",
    "D": "本項敘述錯誤。10 cm H2O 接近低壓儲尿範圍，不能當成上泌尿道高風險門檻。",
    "summary": "神經性膀胱保腎的數字鉤子是 40 cm H2O：超過就要警覺 VUR、腎積水與腎損傷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "voiding-physiology-neurogenic-bladder"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -126297,7 +126666,10 @@
    "C": "本項敘述正確。口腔黏膜是常見侵犯部位，可以是網狀白紋、斑塊、萎縮或會痛的糜爛。糜爛型口腔扁平苔癬病程慢性反覆，還要追蹤少見但重要的鱗狀細胞癌風險。",
    "D": "本項敘述正確。外用類固醇可以壓制 T 細胞介導的交界性發炎，是局部皮膚或口腔扁平苔癬的常用第一線治療。肥厚或難治的病灶可能還要病灶內注射、照光或全身性治療。",
    "summary": "扁平苔癬記四個 P（癢、紫、多角、扁平）＋Wickham striae；有膿疱就不是它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126479,7 +126851,10 @@
    "C": "本項敘述錯誤。起始機轉是毛囊阻塞、毛囊擴張與破裂，接著引發強烈的免疫發炎，不是大汗腺的原發細菌感染。細菌可以在慢性竇道裡續發定殖，但那解釋不了疾病本身。",
    "D": "正確答案。adalimumab 是抑制 TNF-α 的單株抗體，已核准用於中重度化膿性汗腺炎（hidradenitis suppurativa, HS）。它能減少發炎性結節與膿瘍的負荷，也改善疼痛與疾病活動度。",
    "summary": "化膿性汗腺炎的三個關鍵字：毛囊阻塞（不是感染）、長在皺褶、adalimumab 可用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126512,7 +126887,10 @@
    "C": "本項敘述正確。血中 testosterone、dehydroepiandrosterone sulfate 這些雄性素可能上升，常見原因有多囊性卵巢症候群、非典型先天性腎上腺增生與腫瘤。不過特發性的病人雄性素可以正常，可能是毛囊局部比較敏感。",
    "D": "本項敘述正確。若在數月內快速出現或惡化，尤其合併聲音低沉、陰蒂肥大、肌肉增加這些男性化表現，要警覺會分泌雄性素的卵巢或腎上腺腫瘤。此時要驗 testosterone、DHEA-S，再依結果安排影像。",
    "summary": "hirsutism 是「女性長男性毛」，hypertrichosis 是「哪裡都可能長太多毛」——名字像但定義不同。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126545,7 +126923,10 @@
    "C": "正確答案。Hailey-Hailey disease 是 ATP2C1 突變造成的家族性良性慢性天疱瘡，多在青春期後發作。腋下、腹股溝這些屈側反覆出現會痛、會癢的糜爛性紅斑塊，而且被高溫、流汗與摩擦加劇——三代都有，完全對得上。",
    "D": "本項不選。腳氣病是維他命 B1（thiamine）缺乏造成的全身性疾病，表現是周邊神經病變、高輸出量心衰竭或 Wernicke 腦病變。它不會跨世代遺傳，也不會造成夏天加劇的屈側糜爛。",
    "summary": "家族性、青春期後、腋下腹股溝一到夏天就爛＝Hailey-Hailey（ATP2C1）；Darier 是 ATP2A2，兩個基因別記反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -130006,7 +130387,10 @@
    "C": "本項敘述錯誤。血壓穩定且沒有持續出血的證據時，不需先做動脈攝影與栓塞；先確認尿道損傷更直接。",
    "D": "正確。骨盆骨折合併尿道口出血要先做動態逆行性尿道攝影（retrograde urethrogram），確認尿道是否受傷後再決定導尿或引流。",
    "summary": "骨盆骨折＋blood at meatus＝先 RUG，千萬不要先插 Foley。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -130253,7 +130637,10 @@
    "C": "本項應選。攝護腺癌的骨轉移是成骨性（osteoblastic），X 光上看到的是變白變硬的病灶，不是被蛀空。也因為造骨活性高，ALP 會跟著上升。",
    "D": "本項敘述正確。約七成起源於周邊區（peripheral zone），這正是指診摸得到、系統性切片主要取樣的位置。",
    "summary": "攝護腺癌的骨轉移是「白的」＝osteoblastic；蟲蝕狀溶骨要想肺癌、腎癌、多發性骨髓瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -130286,7 +130673,10 @@
    "C": "本項敘述正確。以腺體上皮增生為主、體積又大的攝護腺，把 DHT 擋掉才會真的縮小，5α-還原酶抑制劑因此更有利。",
    "D": "本項應選。被結節擠壓成手術包膜的是周邊區，不是中央區。開放性摘除或經尿道刮除時，外科醫師就是沿著這層被壓扁的組織把腺瘤挖出來。",
    "summary": "BPH 長在過渡區、把周邊區壓成 surgical capsule——手術剝離的界線就是這層。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -130319,7 +130709,10 @@
    "C": "本項應選。療程太短了。口服 fluoroquinolone 至少 5–7 天，β-lactam 或 TMP-SMX 要 10–14 天；3–5 天是單純膀胱炎的用法。",
    "D": "本項敘述正確。發燒加上腰部叩痛（CVA tenderness）就是典型組合，這也是它跟單純膀胱炎最好用的分界。",
    "summary": "膀胱炎三天可以了事，腎盂腎炎要 7–14 天——療程長短就是兩者的分水嶺。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -130352,7 +130745,10 @@
    "C": "本項敘述正確。感染源常是尿路、肛周膿瘍或副睪炎，往會陰筋膜擴散後才變成壞死性筋膜炎。",
    "D": "本項應選。它是沿著淺層筋膜（Colles、Dartos、Scarpa）快速蔓延，深層的 Buck 氏筋膜反而常擋住它，所以陰莖海綿體多半保得住。也因為壞死先在筋膜層跑，皮膚外觀常落後於實際範圍。",
    "summary": "Fournier 走的是淺筋膜高速公路——皮膚看起來還好，筋膜下已經爛一大片，清創範圍要抓大。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -130385,7 +130781,10 @@
    "C": "本項應選。rigid erection 時坐骨海綿體肌（ischiocavernosus）用力收縮，把海綿體內壓推到超過收縮壓，動脈灌流幾乎降到零。這也是這個階段只能維持很短時間的原因。",
    "D": "本項不選。detumescence 一開始平滑肌恢復張力、靜脈通道打開，血往外走，動脈灌流反而回升。",
    "summary": "勃起最硬的那一刻血流最少：腔內壓超過收縮壓，等於自己把水龍頭壓住，所以撐不久。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sexual-function-male-infertility"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -130525,7 +130924,10 @@
    "C": "本項敘述正確。AAST 腎損傷分級的用途就是預測要不要手術：低級數多可保守觀察，第五級才多需修補或切除。",
    "D": "本項應選。尿道口有血代表尿道可能斷裂，這時插導尿管會把部分斷裂變成完全斷裂，或戳出假通道。要先做逆行性尿道攝影，需要引流就改放恥骨上膀胱造廔。",
    "summary": "尿道口見血＝先照 RUG 再決定；想監測尿量就走恥骨上造廔，別硬插 Foley。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -137565,7 +137967,10 @@
    "C": "本項不選。尿液檢查是這個病最重要的評估之一，可以抓出血尿、蛋白尿與紅血球圓柱，代表腎臟受侵犯。就算初診尿液正常，之後還是要追血壓與尿液，因為腎炎可能延後才出現。",
    "D": "本項應選。血清 IgE 主要用來評估第一型過敏、部分寄生蟲感染或特定免疫疾病。這個病的核心是含 IgA 的免疫複合體造成的小血管炎，驗 IgE 對診斷與器官風險分層幫助有限。",
    "summary": "感冒後下肢紫斑＋腹痛＋關節痛＝IgA 血管炎：要驗的是尿液和腎功能，不是 IgE。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "urticaria-papulosquamous-inflammatory"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137634,7 +138039,10 @@
    "C": "本項敘述錯誤。耳廓或外耳道長水疱，合併耳痛、耳鳴、聽力或前庭症狀與周邊性顏面麻痺，要想 Ramsay Hunt syndrome。但它是病毒侵犯膝狀神經節與第七對腦神經（顏面神經），不是第五對。",
    "D": "正確答案。帶狀疱疹後神經痛（postherpetic neuralgia）指皮疹都好了，原本那個皮節還持續疼痛、灼熱或觸摸就痛，臨床常以起疹後至少 90 天仍痛為準。高齡、急性期痛得厲害、皮疹範圍廣，都會提高發生機率。",
    "summary": "帶狀疱疹的三個位置陷阱：排尿看 S2–S4、鼻尖水疱是眼睛要出事、耳朵那組是第七對腦神經。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137669,7 +138077,10 @@
    "C": "本項敘述正確。切片可見杯狀的表皮增生，角質細胞裡塞滿大型嗜伊紅性的 Henderson-Patterson bodies。這些胞質內包涵體由痘病毒顆粒構成，愈接近表面愈可能偏嗜鹼性。",
    "D": "本項敘述正確。抓摳會把含病毒的角質帶到旁邊的皮膚，造成自體接種，還可能排成一條線。避免搔抓、不共用刮鬍刀、減少直接皮膚接觸，都能降低傳播。",
    "summary": "軟疣會自己好，但「會自己好」不等於「不用查」——成人一直長就要查免疫狀態。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137704,7 +138115,10 @@
    "C": "正確答案。指端黏液樣偽囊腫（digital myxoid pseudocyst）長在近端甲摺旁，是表面光滑的圓形結節，常和遠端指間關節（distal interphalangeal joint）的退化性變化相通。關鍵在位置對得上：結節從上方壓住甲母質（nail matrix），指甲長出來就帶一條縱向凹溝。磁振造影（MRI）上呈邊界清楚、含黏液的囊性病灶。",
    "D": "本項不選。甲下外生骨（subungual exostosis）是末節指骨表面長出來的骨軟骨增生，好發於大腳趾，會把甲板頂高並造成疼痛或甲下硬塊。它在 X 光或 CT 上是與骨皮質相連的骨性突起，不是近端甲緣的黏液囊腫。",
    "summary": "指甲上一條縱溝，往近端找到一顆軟結節——結節壓著甲母質，就是黏液樣偽囊腫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137739,7 +138153,10 @@
    "C": "本項不選。神經纖維瘤（neurofibroma）是柔軟的肉色丘疹或結節，用手指往下按時會陷進皮膚，那叫 buttonhole sign。注意兩者手法不同：buttonhole 是「往下按進去」，dimple sign 是「兩側捏起來反而凹下去」。",
    "D": "本項不選。血管瘤（hemangioma）是血管增生病灶，呈紅色、紫色或藍色，按壓可能褪色或變扁。它的質地與壓迫反應都不是硬結節加 dimple sign。",
    "summary": "掐兩側會凹＝dimple sign＝皮膚纖維瘤；往下按會陷＝buttonhole sign＝神經纖維瘤，手法不同別記混。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137772,7 +138189,10 @@
    "C": "本項不選。圓禿（alopecia areata）是自體免疫攻擊生長期毛囊，典型是界線清楚的非瘢痕性禿斑，看得到驚嘆號毛、黑點或黃點。這題是每天大量、瀰漫性掉髮，沒有局部禿斑的線索。",
    "D": "本項不選。紅斑性狼瘡可造成非瘢痕性瀰漫落髮，盤狀病灶則會有紅斑、鱗屑、毛孔角栓、萎縮與永久性疤痕禿。但這題頭皮沒有發炎，時間又和急速節食緊密相連，不支持狼瘡。",
    "summary": "掉髮要問「三個月前發生什麼事」——休止期落髮永遠比誘因晚 2–3 個月才報到。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hair-nail-benign-skin-tumors"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137805,7 +138225,10 @@
    "C": "本項敘述正確。它的指甲變化包括紅白相間的縱向條紋、縱向甲脊，以及遠端甲板的 V 形缺口。這些指甲徵象配上脂漏部位的油膩角化丘疹，是重要的診斷線索。",
    "D": "本項敘述正確。皺褶處或廣泛的病灶容易浸潤、糜爛，又被細菌或酵母菌定殖，所以會產生明顯異味。疼痛、外觀與氣味都會影響社交、工作與生活品質，衛教時要一起處理。",
    "summary": "Darier disease（ATP2A2）怕熱怕汗也怕曬——治療期間口服 A 酸還要嚴格避孕，這兩件是必講的衛教。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "genodermatoses-skin-syndromes"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -139058,7 +139481,10 @@
    "C": "本項不選。乾癬是界線清楚的紅色斑塊配銀白鱗屑，好發於伸側、頭皮與薦部；反轉型雖然長在皺褶，但通常是光滑紅斑。夜間劇癢加上安養院接觸史不是它的組合。",
    "D": "本項不選。異位性皮膚炎是慢性反覆的搔癢性濕疹，成人常見屈側苔癬化，多半有個人或家族異位體質。75 歲突然全身夜間劇癢、又集中在疥瘡的典型部位，先想疥瘡而不是新發的異位性皮膚炎。",
    "summary": "安養院＋半夜癢＋臍周腋下生殖器丘疹＝疥瘡；「同住的人也癢」是最強的一句病史。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "scabies-molluscum-warts-herpes"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -141397,7 +141823,10 @@
    "C": "本項應選。敗血症期間做輸尿管鏡要灌流加壓，會把含菌的尿推回腎內、讓敗血症惡化，何況還想一併處理腎結石、手術時間更長。正確順序是先引流，感染控制後再擇期碎石。",
    "D": "本項敘述正確。體外震波碎石在急性感染、敗血或腎功能受損時都不適合，而且對嵌頓的阻塞性結石效果也差。",
    "summary": "阻塞＋發燒＋低血壓＝先減壓、後碎石；急性期進去做輸尿管鏡等於把細菌往腎裡打。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -141500,7 +141929,10 @@
    "C": "本項敘述正確。這是慢藥，通常要 6 個月才看到體積與症狀的最大效果。這點要先跟病人講清楚，不然他會提早自行停藥。",
    "D": "本項應選。攝護腺不夠大就沒效。體積小於 30–40 mL 或 PSA 偏低的人，在臨床試驗中的表現與安慰劑差不多，這類病人該用 α 阻斷劑。",
    "summary": "5α-還原酶抑制劑是「大腺體才划算」的藥：腺體小就無效，而且要等半年。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prostate-bph-cancer"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -141606,7 +142038,10 @@
    "C": "本項敘述正確。移植腎功能延遲恢復的灌流大致保留，只是排泄慢；連續追蹤會看到一次比一次好轉。",
    "D": "本項應選。動態腎臟閃爍攝影正好很擅長找尿漏：示蹤劑會跑到腎外、在傷口或骨盆腔慢慢積起來，而且不必打顯影劑，腎功能差的人也能做。",
    "summary": "移植腎掃描看兩件事：灌流掉下來想排斥、示蹤劑跑到腎外想尿漏；要定性還是得切片。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -141712,7 +142147,10 @@
    "C": "本項不選。腎結核的鈣化通常是單側、形狀不規則的塊狀，還會伴隨腎實質破壞與輸尿管狹窄變形，不會兩側整齊地長在錐體上。",
    "D": "本項不選。泌尿上皮細胞癌是軟組織腫瘤，在 KUB 上不顯影，要靠 CT urography 或膀胱鏡加尿液細胞學診斷。",
    "summary": "KUB 上兩側腎錐體滿是點狀鈣化＝medullary nephrocalcinosis，先想遠端腎小管酸中毒、副甲狀腺亢進、髓質海綿腎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uti-trauma-transplant-urology"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
