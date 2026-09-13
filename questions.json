@@ -2521,7 +2521,10 @@
    "C": "目前沒有 FDA 核准專門治癒譫妄的藥物；核心是找出感染、藥物、代謝異常等原因並採多成分非藥物介入，抗精神病藥僅限特定危險躁動。",
    "D": "術前老年醫學評估可辨識衰弱、多重用藥與認知風險，搭配定向、睡眠、活動與水分等多成分措施，可降低高風險患者術後譫妄。",
    "summary": "譫妄是急性且波動的注意力障礙，可躁動也可安靜；預防重於特效藥，術前老年整合照護有益。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -4721,7 +4724,10 @@
    "C": "von Hippel-Lindau disease 易有視網膜或中樞神經血管母細胞瘤、腎細胞癌等腫瘤；葡萄酒色斑與同側腦膜血管異常並非其表現。",
    "D": "正確。Sturge-Weber disease 的 facial port-wine stain 常位於三叉神經 V1 分布，合併同側 leptomeningeal angiomatosis，可造成癲癇及對側肢體無力。",
    "summary": "先天單側葡萄酒色斑加癲癇與對側神經缺損，是 Sturge-Weber disease 的典型神經皮膚組合。",
-   "guideline": "FC 醫學(四)第1冊 p.297"
+   "guideline": "FC 醫學(四)第1冊 p.297",
+   "concepts": [
+    "neurocutaneous-syndromes"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4759,7 +4765,10 @@
    "C": "正確。von Hippel-Lindau disease 可形成中樞神經血管母細胞瘤（hemangioblastoma）；這類高度血管化腫瘤可能出血，四項中與腦出血關聯最直接。",
    "D": "抗凝血酶 III 缺乏症（antithrombin III deficiency） 使 thrombin 與 factor Xa 抑制不足，常見深部靜脈栓塞或肺栓塞；它提高血栓而非自發性腦出血風險。",
    "summary": "三種天然抗凝蛋白缺乏症主要導致血栓；von Hippel-Lindau disease 的高度血管化中樞腫瘤才與腦出血相關。",
-   "guideline": "FC 醫學(四)第1冊 p.298"
+   "guideline": "FC 醫學(四)第1冊 p.298",
+   "concepts": [
+    "neurocutaneous-syndromes"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4797,7 +4806,10 @@
    "C": "顱內壓升高且可能有腫塊效應時，緊急 lumbar puncture 可能促發腦疝；應先影像評估，不能把腰椎穿刺當作常規緊急引流。",
    "D": "正確。腦靜脈栓塞的核心治療是 therapeutic anticoagulation；即使有血栓相關的顱內出血，通常仍須處理造成出血的靜脈阻塞。",
    "summary": "腦靜脈栓塞可合併出血性靜脈梗塞，但核心治療仍是抗凝，診斷仰賴靜脈影像。",
-   "guideline": "FC 醫學(四)第4冊 p.117"
+   "guideline": "FC 醫學(四)第4冊 p.117",
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4876,7 +4888,10 @@
    "C": "若有 papilledema、局灶缺損、意識改變等顱內壓上升風險，lumbar puncture 前須先做 neuroimaging，以免壓力梯度引發腦疝。",
    "D": "眼底鏡可見視乳突水腫（papilledema），它反映顱內壓傳至 optic nerve sheath；但急性升壓早期不一定立即出現。",
    "summary": "顱內壓危象的 Cushing triad 是高血壓、心搏過緩與呼吸不規則，而非休克型生命徵象。",
-   "guideline": "FC 醫學(四)第4冊 p.165"
+   "guideline": "FC 醫學(四)第4冊 p.165",
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4955,7 +4970,10 @@
    "C": "錯誤。阻塞型睡眠呼吸中止症（obstructive sleep apnea） 可發生於 NREM 與 REM sleep，只是 REM 的肌張力更低，某些病人的呼吸事件在 REM 較嚴重。",
    "D": "CPAP 以 pneumatic splint 維持上氣道開放，是中重度 obstructive sleep apnea 最常用且有效的治療之一；central apnea 則須針對病因選擇治療。",
    "summary": "阻塞型睡眠呼吸中止並非 REM 專屬；CPAP 的作用是避免睡眠時上氣道塌陷。",
-   "guideline": "FC 醫學(四)第4冊 p.304"
+   "guideline": "FC 醫學(四)第4冊 p.304",
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5142,7 +5160,10 @@
    "C": "Thoracic dermatomes 是 herpes zoster 最常見分布之一，因此肋間神經帶狀疼痛與水疱很典型。",
    "D": "Trigeminal V1 是常見且臨床重要的 cranial distribution，因 herpes zoster ophthalmicus 可能危及角膜與視力。",
    "summary": "Herpes zoster 主要是感覺神經節再活化；胸神經節與三叉神經 V1 都是常見分布。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5180,7 +5201,10 @@
    "C": "高血鉀性週期性麻痺症（hyperkalemic periodic paralysis）通常與 SCN4A sodium channel 異常相關，會出現 episodic weakness，屬 channelopathy。",
    "D": "正確。肌強直性失養症（myotonic dystrophy）是 CTG 或 CCTG repeat expansion 所致的 multisystem disorder，不是原發離子通道基因缺陷。",
    "summary": "前三者是 skeletal-muscle chloride/sodium channelopathy；myotonic dystrophy 是 nucleotide repeat expansion disease。",
-   "guideline": "FC 醫學(四)第1冊 p.316"
+   "guideline": "FC 醫學(四)第1冊 p.316",
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5218,7 +5242,10 @@
    "C": "Serum treponemal test 只證明目前或過去感染，無法單獨確認 CNS involvement；週期性單側放電也不是 neurosyphilis 的特異腦波。",
    "D": "CSF treponemal test 敏感度較高但特異性受 passive transfer 或污染影響；再加非特異的週期性單側放電，仍不如 CSF-VDRL 組合。",
    "summary": "Neurosyphilis 最具特異性的 CSF 證據是 reactive CSF-VDRL；EEG 的週期性單側放電不是特異標記。",
-   "guideline": "FC 醫學(四)第4冊 p.188"
+   "guideline": "FC 醫學(四)第4冊 p.188",
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5256,7 +5283,10 @@
    "C": "中樞神經 tuberculosis 需長療程多藥治療，通常至少 9–12 個月；因此「6 個月以上」方向正確，但實際療程依指引與反應調整。",
    "D": "Isoniazid 會干擾 pyridoxine metabolism，可能造成 peripheral neuropathy；併用 pyridoxine 對高風險患者尤其重要。",
    "summary": "結核性腦膜炎須早期多藥治療並加 corticosteroid，isoniazid 同時注意 pyridoxine 補充。",
-   "guideline": "FC 醫學(四)第4冊 p.181"
+   "guideline": "FC 醫學(四)第4冊 p.181",
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5929,7 +5959,10 @@
    "C": "本項不選。蜘蛛膜下腔出血是瞬間爆發的雷擊頭痛，電腦斷層在基底池會看到高密度出血，與這種持續一週、隨姿勢起伏的頭痛不同。",
    "D": "本項不選。硬腦膜下水瘤可以是低顱內壓的伴隨表現，但它是結果不是病因，單靠它解釋不了姿勢性頭痛。",
    "summary": "姿勢性頭痛＋影像上腦組織下沉（腦室變小、腦溝腦池變窄）＝顱內低壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -17150,7 +17183,10 @@
    "C": "急性期 consciousness impairment 會削弱 airway protection 與 cough reflex，吞嚥障礙也使 aspiration pneumonia 風險升高。",
    "D": "最不恰當。Post-stroke depression 可接受 antidepressant 與心理社會治療；藥物並非「沒有幫助」，但須個別評估副作用與出血、跌倒風險。",
    "summary": "腦中風復健能減少臥床與吞嚥相關併發症；中風後憂鬱也可治療。",
-   "guideline": "FC 醫學(四)第4冊 p.91"
+   "guideline": "FC 醫學(四)第4冊 p.91",
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17224,7 +17260,10 @@
    "C": "Lateral tongue bite，尤其舌側咬傷，較支持 generalized tonic-clonic seizure；單純舌尖受傷則特異性較低。",
    "D": "短暫意識喪失後數秒至短時間迅速恢復、缺乏 postictal confusion，且伴 arrhythmia，較符合 cardiogenic syncope。",
    "summary": "盜汗與倦怠是 vasovagal prodrome；舌側咬傷及明顯 postictal confusion 才較支持癲癇。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "seizure-syncope-epilepsy-basics"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17303,7 +17342,10 @@
    "C": "正確。右臉與左肢感覺異常、hoarseness、ataxia、vertigo 與 vomiting 是 right lateral medullary syndrome，涉及 spinal trigeminal tract、spinothalamic tract、nucleus ambiguus 及 vestibular/inferior cerebellar pathways。",
    "D": "小腦病灶（cerebellar lesion） 可造成 gait ataxia、vertigo 與 vomiting，卻不能單獨解釋 hoarseness 及右臉左身的 crossed sensory loss。 因此「小腦（cerebellum）」不是最佳定位。",
    "summary": "交叉性臉—身感覺缺損合併聲嘶、眩暈與共濟失調，定位為外側延髓。",
-   "guideline": "FC 醫學(四)第4冊 p.23"
+   "guideline": "FC 醫學(四)第4冊 p.23",
+   "concepts": [
+    "brainstem-localization-eye-movement"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17342,7 +17384,10 @@
    "C": "橫竇（transverse sinus）同樣是最常受累的靜脈竇之一；不同系列的排序會因影像定義及合併栓塞而異，故官方 A、C 均給分。",
    "D": "海綿竇（cavernous sinus）栓塞多與顏面、鼻竇或眼眶感染相關，表現眼肌麻痺、proptosis 等，整體不如 superior sagittal/transverse sinus 常見。",
    "summary": "官方更正 A、C 均給分：superior sagittal 與 transverse sinus 都是 CVST 最常見受累部位。",
-   "guideline": "FC 醫學(四)第4冊 p.116"
+   "guideline": "FC 醫學(四)第4冊 p.116",
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17421,7 +17466,10 @@
    "C": "下肢依賴性水腫（dependent leg edema） 可有脹重感，但不呈明顯 circadian pattern，也不會因短暫踏步而符合 urge-to-move 的感覺運動症候群。",
    "D": "靜坐不能（akathisia） 是全身性的 inner restlessness，常由 dopamine-blocking drugs 引起，不具局限雙腿、夜間休息加重的典型 pattern；題幹也無相關用藥。",
    "summary": "孕婦夜間休息時雙腿不適、強烈想動且活動緩解，是 restless legs syndrome。",
-   "guideline": "FC 醫學(四)第4冊 p.304"
+   "guideline": "FC 醫學(四)第4冊 p.304",
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17459,7 +17507,10 @@
    "C": "正確。D3 receptor 富集於 mesolimbic reward circuitry；對 D3 親和力較高的 dopamine agonist 可引發 gambling、hypersexuality、shopping 等 impulse-control disorders。",
    "D": "5-HT 受體（5-HT receptor） 不是 Parkinson disease dopamine agonist 引起 pathological gambling 的主要受體機轉。",
    "summary": "Dopamine agonist 過度刺激 mesolimbic D3 receptor，會增加病態賭博等衝動控制障礙。",
-   "guideline": "FC 醫學(四)第4冊 p.229"
+   "guideline": "FC 醫學(四)第4冊 p.229",
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17497,7 +17548,10 @@
    "C": "NSAID 可止痛但不能取代 anti-inflammatory steroid；有 facial palsy 的 Ramsay Hunt 症候群（Ramsay Hunt syndrome） 治療核心不是 antiviral 加 NSAID 而漏掉 steroid。",
    "D": "正確。Ramsay Hunt 症候群（Ramsay Hunt syndrome） 是 VZV reactivation 侵犯 geniculate ganglion，通常早期合併 corticosteroid 與 antiviral，並作眼睛保護。 這正是 steroids 與 antivirals 的合併策略。",
    "summary": "耳殼／耳道痛性水疱加同側周邊型顏面麻痺是 Ramsay Hunt syndrome，治療用 steroid 加 antiviral。",
-   "guideline": "FC 醫學(四)第4冊 p.49"
+   "guideline": "FC 醫學(四)第4冊 p.49",
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17535,7 +17589,10 @@
    "C": "血 lactate 升高可支持 impaired oxidative phosphorylation，是有價值的 noninvasive clue；但正常 lactate 不能排除 mitochondrial disease。",
    "D": "Heteroplasmy 使 mutant mtDNA 比例在不同組織不同；超過組織特定 threshold 才出現症狀，可解釋同一家族表現差異。",
    "summary": "粒線體疾病具 heteroplasmy 與 threshold effect，病程高度異質，並非都在青春期前死亡。",
-   "guideline": "FC 醫學(四)第4冊 p.287"
+   "guideline": "FC 醫學(四)第4冊 p.287",
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17573,7 +17630,10 @@
    "C": "正確。典型表現是對稱性上行肢體無力、areflexia，並可有 distal paresthesia 或 neuropathic pain；感覺症狀通常較運動缺損輕。",
    "D": "Guillain-Barré 症候群（Guillain-Barré syndrome） 可有嚴重 autonomic dysfunction，如 blood-pressure lability、arrhythmia、ileus 或 urinary retention，須監測。",
    "summary": "GBS 是急性免疫性多發神經根病，4 週內達 nadir，可同時有感覺與危險的自律神經症狀。",
-   "guideline": "FC 醫學(四)第4冊 p.265"
+   "guideline": "FC 醫學(四)第4冊 p.265",
+   "concepts": [
+    "guillain-barre-syndrome"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17611,7 +17671,10 @@
    "C": "眼瞼紫紅斑徵象（heliotrope sign） 是 dermatomyositis 的 violaceous eyelid eruption，與 tuberous sclerosis complex 無關。",
    "D": "正確。Subependymal giant cell astrocytoma 常靠近 foramen of Monro，可造成 obstructive hydrocephalus，是 tuberous sclerosis complex 的重要 CNS manifestation。",
    "summary": "Tuberous sclerosis 的腦部考點是 cortical tubers、subependymal nodules 與 SEGA。",
-   "guideline": "FC 醫學(四)第4冊 p.125"
+   "guideline": "FC 醫學(四)第4冊 p.125",
+   "concepts": [
+    "neurocutaneous-syndromes"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17685,7 +17748,10 @@
    "C": "Orthostatic hypotension 是站立後 systolic BP 下降至少 20 mmHg 或 diastolic BP 下降至少 10 mmHg；變化小於 10 mmHg 不支持此自主神經表徵。",
    "D": "每夜 1–2 次 nocturia 可受飲水、年齡、睡眠或泌尿疾病影響，缺乏自主神經病變特異性；neurogenic bladder 更需看 retention、incontinence 等。",
    "summary": "瞳孔明暗調節是自主神經功能；血壓或心率判讀必須符合姿勢測試定義，單純少量夜尿不具特異性。",
-   "guideline": "FC 醫學(四)第4冊 p.312"
+   "guideline": "FC 醫學(四)第4冊 p.312",
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17991,7 +18057,9 @@
    "D": "官方亦接受 D 為錯項。「沒有任何研究」過度絕對；部分研究評估過較長期使用，但長期效益與安全性、依賴及複雜睡眠行為仍須個別衡量。",
    "summary": "官方第66題 A、D 給分；Z-drugs 仍有依賴、失憶與 complex sleep behaviors，且「完全沒有長期研究」過度絕對。",
    "guideline": "FC 醫學(四)第3冊 p.203",
-   "concepts": []
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18302,7 +18370,10 @@
    "C": "本項不選。神經纖維瘤第二型（neurofibromatosis type 2）最具代表性的是雙側前庭神經鞘瘤，常以聽力下降或平衡問題就診，和本題的癲癇組合不同。",
    "D": "本項不選。馮希伯－林島氏症候群（von Hippel-Lindau syndrome）會想到視網膜或小腦血管母細胞瘤及腎細胞癌；它不會優先解釋智能障礙合併結節性腦病灶。",
    "summary": "看到癲癇、智能障礙加腦室旁鈣化結節時，先想到結節硬化症；但影像題仍要回看結節位置。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neurocutaneous-syndromes"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18342,7 +18413,10 @@
    "C": "本項不選。硬腦膜外血腫（epidural hematoma）多是外傷後雙凸透鏡形血腫，受縫合線限制；它不符合本題頭痛嘔吐配合顯影後箭頭所指病灶。",
    "D": "本項最符合。顯影後的影像在上矢狀竇後段看到中央不顯影、周圍一圈強化的三角形缺損，也就是空三角徵象，代表竇內有血栓。頭痛加噁心嘔吐正是靜脈回流受阻造成顱內壓上升的結果；這類病人即使已有出血性梗塞，治療仍是抗凝血。",
    "summary": "頭痛嘔吐又在顯影後看到靜脈竇充盈缺損，要想到靜脈竇栓塞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -29577,7 +29651,10 @@
    "C": "本項不選。左側正中旁橋腦網狀結構（paramedian pontine reticular formation, PPRF）損傷會造成雙眼向左共同凝視障礙，不會只挑右眼內收失敗。",
    "D": "本項不選。右側 PPRF 病灶會影響雙眼向右看，應見兩眼共同外轉受限；本例向右、上下看均正常，因此不支持。",
    "summary": "一眼內收不了、另一眼外展時眼震，就是同側 MLF 的核間性眼肌麻痺。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brainstem-localization-eye-movement"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29615,7 +29692,10 @@
    "C": "本項不選。FLAIR imaging 可在較早期顯示缺血相關高訊號，也常用來估計病灶年齡；但它對分鐘級細胞毒性水腫不如 DWI 敏感。",
    "D": "本項最符合。diffusion-weighted imaging（DWI）量的是水分子移動；缺血使細胞膜離子幫浦失效、水移入細胞內後擴散受限，所以數分鐘內就可變亮。",
    "summary": "急性腦梗塞最早看 DWI：缺血後水被困在細胞裡，擴散先受限。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29686,7 +29766,10 @@
    "C": "本項不選。熱痙攣（febrile convulsion）後多數兒童不會發展成癲癇；是否有複雜型發作、神經發育異常或家族史才會改變風險。",
    "D": "本項最恰當。暈厥時短暫腦灌流不足也可出現強直、抽動或失禁，稱為 convulsive syncope；不能只因有肌肉強直就診斷癲癇。",
    "summary": "有抽動不等於癲癇：暈厥也能抽，診斷要把病史、誘因與恢復過程一起看。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "seizure-syncope-epilepsy-basics"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30462,7 +30545,10 @@
    "C": "本項的 praxis 不是本題答案。工作記憶（working memory）暫存並操作資訊，例如心算或依序執行多步指令，是 executive function 的核心。",
    "D": "本項的 decision 不是本題答案。決策（decision making）須比較風險、報酬與後果，也是 executive function 的範圍。",
    "summary": "Executive function 管規劃、工作記憶、決策與修正；praxis 是把想法做成動作，歸 perceptual-motor。",
-   "guideline": "FC 醫學(四)第3冊 p.202"
+   "guideline": "FC 醫學(四)第3冊 p.202",
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -42003,7 +42089,10 @@
    "C": "本項最符合。比對兩張片子：第一天幾乎看不出變化，第三天出現半球大範圍低密度、腦溝消失、腦室被壓扁與中線偏移，這就是惡性大腦中動脈梗塞。意識開始惡化時做減壓性顱骨切除術能顯著降低死亡率，年齡 60 歲以下、發病 48 小時內手術效果最好。",
    "D": "本項不選。把收縮壓控制在 160 mmHg 以下並不能取代減壓手術；急性缺血期過度降壓還可能降低缺血半暗帶灌流。",
    "summary": "大 MCA 梗塞後越來越昏迷，要想到惡性腦水腫；能增加存活的是減壓性顱骨切除術。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42041,7 +42130,10 @@
    "C": "本項最不建議。感染性心內膜炎（infective endocarditis）的栓塞來自感染性贅生物，抗凝未必防栓塞且可能提高顱內出血或出血性轉化風險。",
    "D": "本項不選。非細菌性血栓性心內膜炎（nonbacterial thrombotic endocarditis）常和惡性腫瘤或高凝狀態相關，系統性抗凝通常是預防反覆栓塞的重要策略。",
    "summary": "心因性中風不等於都抗凝：感染性心內膜炎的贅生物會栓，但抗凝風險高又不一定有益。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42240,7 +42332,10 @@
    "C": "本項不選。SOD1 變異最常連結家族性肌萎縮性側索硬化，會以運動神經元徵象而非反覆中風與失智為主。",
    "D": "本項不選。PSEN-1 變異會造成早發型阿茲海默症，主要是進行性記憶障礙；它不會典型導致家族多人反覆缺血性中風。",
    "summary": "早發中風加失智又有顯性家族史，看到前顳極白質病灶就要想到 NOTCH3 的 CADASIL。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42355,7 +42450,10 @@
    "C": "本項不選。肌萎縮性側索硬化（amyotrophic lateral sclerosis）可由局部肢體無力開始，但常是不對稱遠端手部或延髓症狀，並非典型近端對稱無力。",
    "D": "本項不選。肘隧道症候群是尺神經受壓，會造成第四、五指麻木與手內在肌無力，範圍侷限在上肢遠端。",
    "summary": "對稱近端無力先想肌肉病；襪套感覺麻痛才較像糖尿病周邊神經病變。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42429,7 +42527,10 @@
    "C": "本項不選。結核菌可造成基底腦膜炎、腦積水或結核瘤，病灶位置較多變；前顳葉特異性受累不是它的經典考點。",
    "D": "本項不選。隱球菌腦膜炎常見於免疫低下者，較常有腦膜炎、顱壓升高或膠樣假囊腫，並不特別選擇前顳葉。",
    "summary": "前顳葉腦炎是 HSV 的定位記憶點；遇到發燒、癲癇、人格改變更要立刻想到它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42467,7 +42568,10 @@
    "C": "本項敘述正確。優勢半球的額葉或顳葉受到侵犯會影響語言網路，因此高惡性度腫瘤病人較可能出現失語症（aphasia）。",
    "D": "本項應選。癲癇反而較常是低惡性度神經膠質瘤的初發表現，因為病人存活較久，慢性皮質刺激更容易表現為反覆發作。",
    "summary": "看到低惡性度膠質瘤要先想癲癇；高惡性度腫瘤則更常用快速惡化的局灶缺損與認知下降現身。",
-   "guideline": "FC 醫學(四)第4冊 p.124"
+   "guideline": "FC 醫學(四)第4冊 p.124",
+   "concepts": [
+    "seizure-syncope-epilepsy-basics"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42578,7 +42682,10 @@
    "C": "本項的 memantine 不是本題答案。memantine 是 NMDA receptor antagonist，藉由減少過度 glutamate excitotoxicity 發揮作用，不是 agonist。",
    "D": "本項的 memantine 不是本題答案。memantine 多用於 moderate to severe Alzheimer disease，常與 cholinesterase inhibitor 合用，不是輕度期的主要選擇。",
    "summary": "Donepezil 記『中樞較選擇』；memantine 記『NMDA antagonist、用在中重度』，兩個方向別顛倒。",
-   "guideline": "FC 醫學(四)第3冊 p.154"
+   "guideline": "FC 醫學(四)第3冊 p.154",
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42972,7 +43079,10 @@
    "C": "本項的 focus 不是本題答案。聚焦注意力（focus attention）是把注意放到某個刺激上，例如果濾背景雜訊，不等同換題。",
    "D": "本項的 sustain 不是本題答案。維持注意力（sustain attention）是長時間保持警覺，例如持續完成測驗；perseveration 的核心不是撐不久而是轉不開。",
    "summary": "譫妄病人卡在上一題，不是沒聽到下一題，而是注意力『切不過去』：shift attention 壞了。",
-   "guideline": "FC 醫學(四)第3冊 p.160"
+   "guideline": "FC 醫學(四)第3冊 p.160",
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -54227,7 +54337,10 @@
    "C": "本項不選。dot sign 可用於描述某些血管內高密度血栓的影像線索；它不等於 CTA 顯示正在活動性出血。",
    "D": "本項不選。insula ribbon sign 是中大腦動脈缺血時島葉皮質灰白質界線消失的早期 CT 徵象，與出血後的 spot sign 不同。",
    "summary": "腦出血 CTA 看到 spot sign，就是血腫裡還在漏顯影劑：下一步要警覺血腫可能繼續變大。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54260,7 +54373,10 @@
    "C": "本項敘述正確。頭痛、視覺模糊或皮質盲、意識改變與癲癇都是 PRES 常見表現，反映後部腦區水腫影響。",
    "D": "本項敘述正確。典型病灶在雙側頂枕葉白質，但 PRES 也可累及額葉、顳葉、小腦、腦幹或深部灰質。",
    "summary": "高血壓加頭痛、視覺症狀與後腦白質水腫時想到 PRES；它的影像異常通常會隨病因控制而退。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54375,7 +54491,10 @@
    "C": "本項敘述正確。扁桃腺肥大會縮小上呼吸道管腔，尤其在兒童或有明顯肥大者，可促成睡眠時的氣道阻塞。",
    "D": "本項應選。下顎後縮會使舌根後移、加重氣道狹窄；下顎前突反而通常不會造成這種咽腔塌陷。",
    "summary": "鼾聲停住再喘、白天嗜睡就是 OSA；記後縮下巴會塞氣道，前突下巴不是危險因子。",
-   "guideline": "FC 醫學(四)第4冊 p.303"
+   "guideline": "FC 醫學(四)第4冊 p.303",
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54454,7 +54573,10 @@
    "C": "本項不選。失智症除了認知測驗異常，還必須已影響獨立生活或工作能力；仍可勝任志工工作是反對此診斷的重要線索。",
    "D": "本項不選。主觀認知退化是自己覺得變差、客觀測驗仍正常；本例已有 MoCA 與延遲回憶的客觀缺損。",
    "summary": "記憶測驗已掉分但生活仍自理，就是 MCI；一旦認知缺損開始妨礙獨立生活，才跨進失智症。",
-   "guideline": "FC 醫學(四)第4冊 p.205"
+   "guideline": "FC 醫學(四)第4冊 p.205",
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54494,7 +54616,10 @@
    "C": "本項最符合。多重系統萎縮症（multiple system atrophy）同時有巴金森症狀、步態不穩與自律神經衰竭，例如姿勢性低血壓、性功能障礙或排尿問題。",
    "D": "本項不選。進行性上眼神經核麻痺症的關鍵是早期向下凝視受限、後仰跌倒與軸性僵直；題目沒有這些定位線索。",
    "summary": "巴金森症狀一碰上姿勢性低血壓與性功能障礙，要立刻從 Parkinson disease 轉想 MSA。",
-   "guideline": "FC 醫學(四)第4冊 p.227"
+   "guideline": "FC 醫學(四)第4冊 p.227",
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54532,7 +54657,10 @@
    "C": "本項不選。庫賈氏病的潛伏期可很長，醫療暴露或食源性病例尤其可能多年後才發病，不是短暫潛伏期疾病。",
    "D": "本項敘述正確。食用 BSE 污染牛肉相關的變異型庫賈氏病（variant CJD）常影響較年輕病人，臨床表現也可先以精神或感覺症狀開始。",
    "summary": "Prion 沒有核酸、又特別耐消毒；vCJD 的考點則是牛海綿狀腦病暴露後常見於較年輕族群。",
-   "guideline": "FC 醫學(四)第4冊 p.193"
+   "guideline": "FC 醫學(四)第4冊 p.193",
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55384,7 +55512,10 @@
    "C": "本項應選。影像上的病灶位在腦實質內（額葉皮質與皮質下），FLAIR 呈大片高訊號並侵犯皮質。腦膜瘤是長在硬腦膜上的軸外腫瘤，會有硬腦膜尾徵象並把腦組織往內推，與這張片子的位置關係不符。",
    "D": "本項敘述正確。寡樹突膠質細胞瘤常位於大腦半球皮質附近，鈣化是典型影像線索之一，因此可列入診斷。",
    "summary": "年輕成人腦內鈣化腫瘤先想 oligodendroglioma；它是 diffuse glioma，不是硬腦膜長出來的 meningioma。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55424,7 +55555,10 @@
    "C": "本項不選。CT 加 CTA 已可在急性期確認多數動脈瘤與出血來源；MRA 可作替代或補充，並非一定要再做才能確診。",
    "D": "本項不選。內頸動脈剝離常見頸痛、頭痛與缺血性症狀，CTA 多見長段狹窄或 mural hematoma；它不是典型 SAH 動脈瘤處置題的答案。",
    "summary": "疑似破裂腦動脈瘤的急事是封住再出血點；能用 coil 也能 clipping，CTA 已常足夠帶路。",
-   "guideline": "FC 醫學(四)第4冊 p.104"
+   "guideline": "FC 醫學(四)第4冊 p.104",
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55503,7 +55637,10 @@
    "C": "本項敘述正確。症狀較輕的 Hunt and Hess grade 1 蜘蛛膜下腔出血容易被當成普通頭痛而誤診，典型 thunderclap headache 仍不能忽略。",
    "D": "本項不選。小腦出血常與高血壓相關，但會造成軀幹共濟失調、步態不穩與 dysmetria，所以 Romberg test 或 tandem gait 不會正常。",
    "summary": "SAH 最會漏掉的是看起來還很清醒的 grade 1；小腦出血則會直接把平衡和直線走路弄壞。",
-   "guideline": "FC 醫學(四)第4冊 p.105"
+   "guideline": "FC 醫學(四)第4冊 p.105",
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55541,7 +55678,10 @@
    "C": "本項最符合。讓病人側躺可使口水與嘔吐物流出，降低吸入風險；同時移開危險物並計時發作。",
    "D": "本項不選。大多數短暫癲癇發作會自行停止，不需立刻插管；只有持續缺氧、無法保護氣道或難治性重積時才考慮。",
    "summary": "看到人抽搐，第一步不是塞東西也不是壓住他：側躺、清空周圍、計時，先保住氣道。",
-   "guideline": "FC 醫學(四)第4冊 p.137"
+   "guideline": "FC 醫學(四)第4冊 p.137",
+   "concepts": [
+    "seizure-syncope-epilepsy-basics"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -66675,7 +66815,10 @@
    "C": "本項最符合。毛毛樣血管疾病（moyamoya disease）是終末內頸動脈及近端 ACA/MCA 漸進狹窄或阻塞，基底部長出細小側枝，在血管攝影像一團煙霧。",
    "D": "本項不選。中樞結核可造成血管炎與梗塞，但不是定義上的 moyamoya disease；兩者病因與治療都不同。",
    "summary": "Moyamoya 不是畸形血管，而是大血管慢慢塞住後，腦底長出一團救援側枝的煙霧影。",
-   "guideline": "FC 醫學(四)第4冊 p.82"
+   "guideline": "FC 醫學(四)第4冊 p.82",
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66751,7 +66894,10 @@
    "C": "本項不選。MS 急性發作多有白質去髓鞘病灶與時間空間散布，不會典型在 CT 出現急性腦出血。",
    "D": "本項不選。弓形蟲腦炎常見於免疫低下者，影像多為多發環狀病灶，不是高血壓患者急性出血的優先診斷。",
    "summary": "高血壓病人突然偏癱又在 CT 看見血腫，先當高血壓性腦出血；腫瘤和感染通常不是這麼突發。",
-   "guideline": "FC 醫學(四)第4冊 p.104"
+   "guideline": "FC 醫學(四)第4冊 p.104",
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66833,7 +66979,10 @@
    "C": "本項應選。乙醯膽鹼在偏頭痛的角色不像 CGRP 或 serotonin 那樣是核心考點；但題目正式更正為所有選項皆給分，不能硬說唯一答案。",
    "D": "本項應選。多巴胺（dopamine）相關路徑可參與偏頭痛的噁心、倦怠等前驅或伴隨症狀；官方更正為本題一律給分。",
    "summary": "這題不是要背唯一神經傳導物質：考選部已更正 A–D 一律給分，重點是不要把爭議答案硬套成定論。",
-   "guideline": "FC 醫學(四)第4冊 p.163"
+   "guideline": "FC 醫學(四)第4冊 p.163",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66907,7 +67056,10 @@
    "C": "本項敘述正確。dopamine agonist 直接刺激不同 dopamine receptors，和 levodopa 需先轉成 dopamine 的作用方式不同。",
    "D": "本項敘述正確。藥效明顯波動且選擇合適的 Parkinson disease 病人，可用 subthalamic nucleus deep brain stimulation 改善 off time 與 dyskinesia。",
    "summary": "Levodopa 是最有效不是越早越大劑量越好；年輕病人要先權衡未來的波動、異動症和 agonist 副作用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66945,7 +67097,10 @@
    "C": "本項敘述正確。散發性 CJD 常快速進展認知下降，伴 myoclonus、運動失調、錐體或錐體外徵象與視覺症狀，病程通常很快。",
    "D": "本項敘述正確。CJD 診斷要整合臨床與檢查；EEG、DWI MRI、CSF 14-3-3 或較新的 RT-QuIC 都可提供支持證據。",
    "summary": "Prion disease 的核心錯誤不是『病毒』，而是異常蛋白把正常蛋白帶壞；快速失智加 DWI 異常才是 CJD 的組合。",
-   "guideline": "FC 醫學(四)第4冊 p.192"
+   "guideline": "FC 醫學(四)第4冊 p.192",
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66983,7 +67138,10 @@
    "C": "本項最符合。亨丁頓氏病（Huntington disease）是 autosomal dominant 的 CAG repeat disease，典型為漸進舞蹈症、認知下降與精神症狀；父親早發自殺是強烈線索。",
    "D": "本項不選。ALS 造成上下運動神經元無力、肌萎縮與肌束跳動，並不會產生不自主扮鬼臉、扭腰等 chorea。",
    "summary": "舞蹈症加認知與精神改變，又有父代早發病史，就是 Huntington disease 的三連線索。",
-   "guideline": "FC 醫學(四)第4冊 p.227"
+   "guideline": "FC 醫學(四)第4冊 p.227",
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67057,7 +67215,10 @@
    "C": "本項敘述正確。上樓、從椅子起身、梳頭困難反映近端肌無力，是 polymyositis 的主要表現。",
    "D": "本項敘述正確。類固醇是發炎性肌病的初始治療骨幹；難治或需減類固醇時可加其他免疫抑制療法。",
    "summary": "Polymyositis 是近端肌爬樓梳頭困難，不是眼外肌病；一出現複視就該換神經肌接頭的方向想。",
-   "guideline": "FC 醫學(四)第4冊 p.293"
+   "guideline": "FC 醫學(四)第4冊 p.293",
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67866,7 +68027,10 @@
    "C": "本項應選。早期缺血性中風的 CT 可以正常，這正是用來排除出血後仍可考慮血栓溶解的情境；正常 CT 不等於不需治療。",
    "D": "本項敘述正確。dense artery sign 是血栓使近端動脈顯得高密度的早期 CT 線索，常提示大血管阻塞。",
    "summary": "急性缺血中風的 CT 正常不是『沒事』，而是『沒出血，還在治療窗內就快救腦』。",
-   "guideline": "FC 醫學(四)第4冊 p.89"
+   "guideline": "FC 醫學(四)第4冊 p.89",
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67899,7 +68063,10 @@
    "C": "本項應選。震顫可能是 alcohol withdrawal、藥物、巴金森症或代謝異常的線索，完全不能用來排除譫妄；譫妄本身也可有顫抖或不安。",
    "D": "本項敘述正確。急性意識或行為改變時，床邊血糖可迅速排除低血糖這個可逆且危險的原因，應優先做。",
    "summary": "失智患者突然走失、亂語不是自動等於失智惡化；血糖、感染、譫妄和藥物問題要先一輪排掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -79041,7 +79208,10 @@
    "C": "本項不選。腦膜炎可因局部發炎、脫水或感染相關凝血活化而導致靜脈竇血栓，尤其耳鼻感染延伸時更要注意。",
    "D": "本項應選。會增加靜脈血栓風險的是 homocysteine 升高，而不是缺乏；題目把方向倒過來了。",
    "summary": "CVST 的血栓危險因子要記『homocysteine 高』，不是低；避孕藥、APS、感染都會把風險往上推。",
-   "guideline": "FC 醫學(四)第4冊 p.116"
+   "guideline": "FC 醫學(四)第4冊 p.116",
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79079,7 +79249,10 @@
    "C": "本項最符合。第十因子抑制劑相關的腦出血要盡快中和藥效：有 andexanet alfa 時優先使用，取得不易時以四因子凝血酶原複合濃縮物（約 50 U/kg）替代。同時要停藥、積極把收縮壓降到 140 mmHg 上下，並記錄最後服藥時間與腎功能。",
    "D": "本項不選。血小板輸注是處理嚴重血小板低下或部分 antiplatelet 相關情境，不會直接反轉 factor Xa inhibitor。",
    "summary": "反轉劑要對藥：idarucizumab 對 dabigatran；factor Xa inhibitor 腦出血則考慮 4F-PCC 與特異性反轉策略。",
-   "guideline": "FC 醫學(四)第4冊 p.102"
+   "guideline": "FC 醫學(四)第4冊 p.102",
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79117,7 +79290,10 @@
    "C": "本項不選。去極化促使 glutamate 過度釋放，造成 excitotoxicity；粒線體受損又會增加自由基，兩者都會擴大梗塞核心與半暗帶傷害。",
    "D": "本項不選。缺血後微膠細胞、白血球與發炎介質被活化，發炎反應會在後續持續加劇神經細胞死亡。",
    "summary": "缺血腦細胞最先沒 ATP，接著鈣大量灌進來，不是掉下去；鈣、glutamate、自由基一起把傷害放大。",
-   "guideline": "FC 醫學(四)第4冊 p.79"
+   "guideline": "FC 醫學(四)第4冊 p.79",
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79197,7 +79373,10 @@
    "C": "本項不選。逐日延後睡眠時間繞一圈的 chronotherapy 可在嚴格規劃下重置時鐘，但需要防止復發並確保可執行。",
    "D": "本項不選。melatonin agonist 可作為調整晝夜節律的選擇之一；個別藥物的適應症與時點仍需依病人情況評估。",
    "summary": "晚睡晚起不是靠晚上照更亮的光救；要把時鐘往前拉，關鍵是早晨光線與正確時點的 melatonin。",
-   "guideline": "FC 醫學(四)第4冊 p.302"
+   "guideline": "FC 醫學(四)第4冊 p.302",
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79235,7 +79414,10 @@
    "C": "本項不選。15 歲以下常見病因包括遺傳性癲癇症候群、先天腦病變或發育異常；腦血管病變是高齡新發癲癇的常見原因。",
    "D": "本項敘述正確。接受適當抗癲癇藥物後，約 60–70% 病人可達長期發作緩解；其餘可能成為藥物抗性癲癇，需要重新評估。",
    "summary": "癲癇病因要看年齡：小孩偏遺傳與發育，高齡偏中風；治療後大約 6–7 成能獲得發作緩解。",
-   "guideline": "FC 醫學(四)第4冊 p.136"
+   "guideline": "FC 醫學(四)第4冊 p.136",
+   "concepts": [
+    "seizure-syncope-epilepsy-basics"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79275,7 +79457,10 @@
    "C": "本項不選。血管性失智症多呈階梯式惡化並有局灶血管病灶，通常不是一個多月內快速加上聲音誘發肌陣攣的病程。",
    "D": "本項不選。MS 多為反覆發作的局灶去髓鞘症狀，發病年齡也較年輕；快速失智與 DWI 特徵並不典型。",
    "summary": "快速失智一個月內衝上來，再加聲音一嚇就 myoclonus，先想 CJD 並找 DWI 的 cortical ribboning。",
-   "guideline": "FC 醫學(四)第4冊 p.192"
+   "guideline": "FC 醫學(四)第4冊 p.192",
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79313,7 +79498,10 @@
    "C": "本項不選。抑制 γ-secretase 會干預 APP 切割，但不是目前 memantine 的機轉，也不是常規 Alzheimer disease 治療策略。",
    "D": "本項不選。β-secretase 也參與 amyloid-β 形成；memantine 不會直接抑制它，而是調節 NMDA 受體。",
    "summary": "Memantine 不是膽鹼酯酶抑制劑；它擋的是 NMDA 上過量的 glutamate 刺激，避免神經元被一直轟炸。",
-   "guideline": "FC 醫學(四)第4冊 p.204"
+   "guideline": "FC 醫學(四)第4冊 p.204",
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79474,7 +79662,10 @@
    "C": "本項不選。呼吸肌無力可在短時間內進展至呼吸衰竭，需要密切監測 FVC、必要時插管與免疫治療，絕非只支持療法即可。",
    "D": "本項最符合。血漿交換（plasma exchange）可移除致病抗體與免疫介質，是嚴重 GBS 的有效治療；IVIG 為等效常用替代，兩者通常不併用。",
    "summary": "GBS 一碰到呼吸肌無力就是 ICU 思維：監測肺活量、預備氣道，免疫治療選 plasma exchange 或 IVIG。",
-   "guideline": "FC 醫學(四)第4冊 p.265"
+   "guideline": "FC 醫學(四)第4冊 p.265",
+   "concepts": [
+    "guillain-barre-syndrome"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79548,7 +79739,10 @@
    "C": "本項應選。腦下垂體腫瘤反而常見泌乳激素升高，可能是 prolactinoma 分泌或 stalk effect 使 dopamine 抑制減少；低泌乳激素不是典型。",
    "D": "本項敘述正確。腫瘤擴張鞍膈、壓迫周邊結構或造成荷爾蒙異常時可頭痛，臨床上相當常見。",
    "summary": "腦下垂體腫瘤往上長先切雙顳視野，泌乳激素通常是高不是低；看到這兩個方向就別搞反。",
-   "guideline": "FC 醫學(四)第4冊 p.47"
+   "guideline": "FC 醫學(四)第4冊 p.47",
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79816,7 +80010,10 @@
    "C": "本項應選。失眠可以是獨立疾患，也可與精神或身體疾病共病；不是每一位患者都能找出單一潛在疾病來解釋。",
    "D": "本項不選。鎮靜安眠藥通常只短期使用，以降低耐受、依賴、跌倒與反彈性失眠風險。",
    "summary": "失眠不一定是別的病的附屬症狀；慢性失眠要同時看頻率、三個月病程與白天功能。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80188,7 +80385,10 @@
    "C": "本項不選。前大腦動脈的動脈瘤會出現在前交通動脈或更遠端的前大腦動脈上，與圖上凸起的位置不同。",
    "D": "本項不選。左側前大腦動脈在造影上沒有異常膨出，而且方向與本例的出血分布也不吻合。",
    "summary": "SAH 的真正功課是從血管攝影找出再出血來源；這題側別只能看圖，不該用文字硬猜。",
-   "guideline": "FC 醫學(四)第4冊 p.103"
+   "guideline": "FC 醫學(四)第4冊 p.103",
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80221,7 +80421,10 @@
    "C": "本項應選。MRI，尤其 susceptibility-weighted imaging 或 gradient echo，對小量出血與出血性轉化較敏感；CT 並不比 MRI 更容易偵測。",
    "D": "本項敘述正確。DWI 的高訊號可在腦梗塞後持續約數天到兩週左右，需搭配 ADC 判讀避免把時間點看錯。",
    "summary": "梗塞後找微量出血性轉化，MRI 的敏感度勝過 CT；DWI 亮很久，不能只看一張就判定『剛發作』。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -91471,7 +91674,10 @@
    "C": "本項敘述正確。急性 cerebral venous sinus thrombosis 的核心治療是抗凝，即使已有靜脈性出血性梗塞也常仍需處理血栓。",
    "D": "本項敘述正確。頭頸動脈剝離的 antiplatelet 與 anticoagulant 在多數病人療效相近，實務上依出血風險與病灶型態個別選擇。",
    "summary": "缺血性動脈中風不是一律早期抗凝；但靜脈竇栓塞反而要抗凝，先分清楚『哪一種血管』。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91511,7 +91717,10 @@
    "C": "本項不選。PRES 多是後部為主的對稱血管源性水腫，常與高血壓、腎病或免疫抑制相關；題目極高 D-dimer 與局灶無力較不典型。",
    "D": "本項最符合。擴散加權影像上兩側大腦、跨越不同血管供應區出現多個散在的高訊號小病灶，這是多發性栓塞性梗塞的樣子。肺癌加上 D-dimer 高到 16 mg/L，指向癌症相關的高凝狀態，典型代表是非細菌性血栓性心內膜炎打出來的多發栓塞。",
    "summary": "癌症病人 D-dimer 飆高又在 DWI 看見多區急性病灶，先想高凝造成的多發腦梗塞，不要只盯著腦轉移。",
-   "guideline": "FC 醫學(四)第4冊 p.60"
+   "guideline": "FC 醫學(四)第4冊 p.60",
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91549,7 +91758,10 @@
    "C": "本項不選。左外側橋腦病灶會產生左側顏面感覺或顏面神經徵象與右側身體痛溫覺異常；題目為右側 Horner 與右臉症狀，側別不合。",
    "D": "本項最符合。右外側延腦（lateral medulla）傷三叉神經脊束、交感下行路與脊髓丘腦束，造成右臉痛覺異常、右 Horner syndrome、右側共濟失調及左身痛覺下降。",
    "summary": "右臉感覺問題＋右 Horner＋右 ataxia，卻是左身痛溫覺掉，這種交叉定位就是右 lateral medulla。",
-   "guideline": "FC 醫學(四)第4冊 p.20"
+   "guideline": "FC 醫學(四)第4冊 p.20",
+   "concepts": [
+    "brainstem-localization-eye-movement"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91587,7 +91799,10 @@
    "C": "本項應選。癲癇症不會造成躺下時雙腿非動不可、活動後緩解的感覺不適；這種晝夜節律和動作緩解型態是 RLS，不是 seizure。",
    "D": "本項不選。睡眠週期性肢體抽動症（periodic limb movements in sleep）常和 RLS 共存；前者在睡眠中反覆刻板踢動，後者是清醒休息時主觀想動腿。",
    "summary": "晚上躺下雙腿非動不可、走一走就好，是 RLS；先查缺鐵與腎病，別把它誤成癲癇。",
-   "guideline": "FC 醫學(四)第4冊 p.302"
+   "guideline": "FC 醫學(四)第4冊 p.302",
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91707,7 +91922,10 @@
    "C": "本項不選。腸病毒腦炎（enterovirus encephalitis）好發於幼童，以急性發燒、嗜睡、肌抽躍為主。不會持續兩週演出妄想與幻聽。",
    "D": "本項不選。鏈球菌腦膜炎（streptococcal meningitis）病程以小時到天計算，會有高燒、頸部僵硬與意識急速惡化。這位病人沒有腦膜刺激徵，時間軸也對不上。",
    "summary": "年輕女性癲癇＋幻覺妄想＋嘴臉亂動而 MRI 正常，先想抗NMDA受體腦炎並去找卵巢畸胎瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91858,7 +92076,10 @@
    "C": "本項不選。糖尿病多發性神經病變（diabetic polyneuropathy）以軸突退化為主。遠端肌肉如脛前肌與足部小肌肉常出現顫波。",
    "D": "本項應選。週期性麻痺（periodic paralysis）是離子通道病，發作時肌膜去極化到失去興奮性。神經、軸突與肌纖維結構都完好無損。發作間期的肌電圖多半乾淨，看不到去神經電位。",
    "summary": "顫波與正相尖波要有結構性破壞才生得出來；純離子通道病的週期性麻痺看不到。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91932,7 +92153,10 @@
    "C": "本項敘述正確。女性發生率約為男性的兩倍。腫瘤常帶有黃體素受體，所以懷孕期間體積可能變大、產後又縮回去。這個性別差異在脊髓腦膜瘤更明顯。",
    "D": "本項敘述正確。腦膜瘤起源於蜘蛛膜的 arachnoid cap cells，而脊髓外面同樣包著硬膜。所以脊髓硬膜也長得出腦膜瘤，是成人髓外硬膜內腫瘤的大宗。",
    "summary": "腦膜瘤現在是最常見的原發性顱內腫瘤，中老年女性最多，別再背成第二名。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -91970,7 +92194,10 @@
    "C": "本項不選。LRRK2 是最常見的體染色體顯性巴金森氏病（Parkinson disease）致病基因。它的臨床表現跟散發型幾乎分不出來。",
    "D": "本項不選。parkin 突變造成早發型隱性巴金森氏病，多在四十歲以前發病。這型對 levodopa 反應好，但容易早早出現異動症。",
    "summary": "基因先分家：ALS 想 SOD1，APP 配失智，LRRK2 與 parkin 配巴金森。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92624,7 +92851,10 @@
    "C": "本項應選。成人的後顱窩腦實質病灶反而要先想到轉移，小腦是成人後顱窩最常見的腫瘤來源。原發性小腦腫瘤主要出現在兒童。",
    "D": "本項敘述正確。單一顆轉移瘤的影像跟膠質母細胞瘤（glioblastoma）或淋巴瘤可以長得一模一樣。要靠病史與全身影像找到原發灶才分得開。",
    "summary": "成人後顱窩冒出腦實質病灶，先想轉移；原發性小腦腫瘤是小孩的戲。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -101393,7 +101623,10 @@
    "C": "本項不選。此項不對。抗精神病藥若用於危險躁動，只是控制症狀；感染、尿滯留或藥物毒性等根因仍要另行處理。",
    "D": "本項應選。正確。混亂評估方法（CAM）以急性波動、注意力不集中、思考混亂與意識改變辨識譫妄，適合臨床篩檢。",
    "summary": "譫妄用 CAM 找，但真正治療是找出感染、缺氧、藥物等誘因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -103368,7 +103601,10 @@
    "C": "本項不選。急性期會進入脊髓休克狀態，損傷平面以下的肌腱反射先消失。要幾天到幾週後才轉成反射亢進與痙攣。",
    "D": "本項不選。梗塞節段常出現該皮節（dermatome）的背痛或帶狀疼痛。這種突發疼痛是脊髓梗塞早期最容易被忽略的線索。",
    "summary": "前脊髓症候群是痛溫覺掉、本體感覺留——後柱有後脊髓動脈另外供血，躲過這一劫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "incomplete-spinal-cord-syndromes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103447,7 +103683,10 @@
    "C": "本項不選。枕葉（occipital lobe）出血同樣屬於葉狀位置，臨床上以對側視野缺損為主。它不是高血壓的典型好發部位。",
    "D": "本項不選。小腦（cerebellum）確實也是高血壓性出血的好發位置之一。但典型表現是劇烈暈眩、嘔吐與共濟失調，不會是單純的單側偏癱。",
    "summary": "沒治療的高血壓＋對側偏癱，出血位置先猜殼核；葉狀出血反而要想類澱粉血管病變。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103526,7 +103765,10 @@
    "C": "本項不選。睡前劇烈運動讓交感神經還處在亢奮狀態，入睡時肌肉張力放不下來，抽動更容易冒出來。咖啡因與尼古丁也是同樣道理。",
    "D": "本項不選。情緒壓力把警醒度拉高，入睡過程一再被打斷，抽動的次數跟著增加。這也是考試期間特別明顯的原因。",
    "summary": "入睡抽動的誘因都是「讓神經系統靜不下來」那一類：睡不夠、咖啡因、睡前運動、壓力大。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103600,7 +103842,10 @@
    "C": "本項不選。巴金森氏病（Parkinson disease）的主軸是動作遲緩與靜止性顫抖。它不會有眼震與測距不準，肌腱反射也不會亢進。",
    "D": "本項不選。庫賈氏病（Creutzfeldt-Jakob disease）進展以週到月計算，會出現快速失智與肌抽躍。拖一年還只是走路不穩與口齒不清，時間軸完全不合。",
    "summary": "小腦症狀＋眼震＋家族連續三代發病＝顯性遺傳的 spinocerebellar ataxia，先問家族史再排基因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103638,7 +103883,10 @@
    "C": "正確。偏頭痛病史是這個病的已知危險因子，也和它容易再發有關。用力、冷水刺激、情緒激動與性行為都是常被記錄到的誘因。這位病人唱卡拉OK 後發作就屬於這類情境。",
    "D": "本項不選。影像上的異常落在海馬迴，擴散加權影像可見 CA1 區的點狀高訊號。這是靜脈或代謝機轉，跟大腦前動脈灌流不良無關。",
    "summary": "數小時內只忘不記、反覆問同一句話、之後對那段完全空白＝TGA；它不是中風前兆，但跟偏頭痛有關。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103708,7 +103956,10 @@
    "C": "本項不選。上運動神經元受侵犯正是病名裡「側索硬化」的由來。臨床上表現為反射亢進、痙攣與 Babinski sign 陽性。",
    "D": "本項不選。下運動神經元受侵犯造成肌肉萎縮與肌束顫動，這就是「肌萎縮」三個字的來源。舌頭萎縮跳動是很典型的一幕。",
    "summary": "ALS 只打運動神經元：上、下都打，感覺與自律神經放過；有明顯感覺症狀就該懷疑診斷錯了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103746,7 +103997,10 @@
    "C": "正確。症狀隨著一天的使用逐漸累積、到晚餐時最嚴重，這種日內波動是神經肌肉接合處傳導疲乏的指紋。中風造成的吞嚥困難是固定的結構性缺損，不會早輕晚重。",
    "D": "本項不選。drooling 反映的是口腔期控制與閉唇不全，中風病人相當常見。它不是重症肌無力的專利。",
    "summary": "吞嚥困難要問「一天之內會不會越來越糟」；會就往重症肌無力想，不會就是結構性病灶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nmj-mg-lems-botulism"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103784,7 +104038,10 @@
    "C": "正確。光反射壞掉但聚焦反射保留，就是 Argyll Robertson pupil。再加上後柱受損造成的感覺性共濟失調、振動與本體感覺喪失、反射消失與尿失禁，整組指向梅毒脊髓症（tabes dorsalis）。病變位置在後根與後柱。",
    "D": "本項不選。亞急性合併退化（subacute combined degeneration）來自維生素 B12 缺乏，會同時打後柱與側索。所以典型是反射亢進加 Babinski sign 陽性，也不會出現瞳孔反射分離。",
    "summary": "光反射壞掉、聚焦反射還在＝Argyll Robertson pupil，配上後柱症狀就是 tabes dorsalis，記得驗梅毒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103822,7 +104079,10 @@
    "C": "本項應選。腦脊髓液白血球正常並不能排除腦炎。免疫低下者、發病極早期，或部分自體免疫性腦炎的細胞數都可能不高。診斷還要靠影像、腦電圖與病原或抗體檢測。",
    "D": "本項敘述正確。疑似病毒性腦炎就要先給 acyclovir，不能等病原報告出來。HSV 腦炎不治療死亡率極高，晚一天差很多。",
    "summary": "腦脊髓液乾淨不能排除腦炎；懷疑就先打 acyclovir，等報告等出來的是後遺症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103860,7 +104120,10 @@
    "C": "本項不選。威爾森氏病（Wilson disease）多在 40 歲以前發病，以肝病、震顫與肌張力不全為主。它是隱性遺傳，父親不會有相同表現。",
    "D": "本項不選。第六型小腦脊髓共濟失調症（spinocerebellar ataxia type 6）核心是純小腦性的步態不穩與眼震。它不會以情緒暴躁與舞蹈動作起病。",
    "summary": "情緒先變、動作後亂、記憶再壞，加上父親同齡發病＝Huntington disease，記得問 CAG 重複數。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103899,7 +104162,10 @@
    "C": "本項也被列為可給分。教科書標準說法是單一病程不再發，這樣寫本來算對。但臨床上確實存在會再發的 multiphasic ADEM，官方因此公告答 C 或 D 或 CD 都給分。",
    "D": "本項應選。急性瀰漫性腦脊髓炎（acute disseminated encephalomyelitis）好發於兒童，成人反而少見。年齡分布正是它跟多發性硬化症的分野之一。",
    "summary": "ADEM＝小孩、感染或疫苗後、單次發作的大片脫髓鞘；本題因 multiphasic 型存在而 C、D 都給分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104238,7 +104504,10 @@
    "C": "本項不選。社會認知（social cognition）是 DSM-5 才明列的一格。它看的是辨識他人情緒與拿捏行為分寸，額顳葉退化最早壞的就是這裡。",
    "D": "本項應選。DSM-5 的六格是複雜注意力、執行功能、學習與記憶、語言、知覺動作、社會認知。定向感（orientation）沒有單獨列為一格。臨床上它被拆進注意力與記憶裡評估，所以不是獨立範疇。",
    "summary": "DSM-5 認知六格：複雜注意力、執行功能、學習記憶、語言、知覺動作、社會認知——定向感不在名單上。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104444,7 +104713,10 @@
    "C": "本項不選。膠質母細胞瘤長在大腦白質，典型是厚壁不規則環狀強化加上大片水腫。圖上腫瘤位在中線鞍區，形態與位置都不吻合。",
    "D": "正確。冠狀影像看到腫瘤以蝶鞍為中心往上長進鞍上池，在鞍膈的位置被束出腰身，形成雪人狀輪廓。打完顯影劑後整體均勻強化。這是腦下垂體腺瘤最典型的長相，也解釋了她的頭痛。",
    "summary": "鞍內為中心、往上長出腰身的雪人形腫塊＝pituitary macroadenoma；記得追問視野缺損與內分泌症狀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -114652,7 +114924,10 @@
    "C": "本項不選。內囊後肢的感覺纖維與視丘外側部分也在它的灌流範圍內，因此會有對側感覺功能下降（hypesthesia）。",
    "D": "本項應選。半邊忽略（hemineglect）要頂葉皮質受損才會出現，屬於中大腦動脈皮質分支的地盤。前脈絡叢動脈只走深部構造，碰不到頂葉皮質。",
    "summary": "前脈絡叢動脈記三徵：偏癱、偏身感覺缺失、偏盲；一旦出現忽略或失語就要改想皮質分支。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brainstem-localization-eye-movement"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114690,7 +114965,10 @@
    "C": "本項不選。視丘（thalamus）由後大腦動脈近端的穿通枝供應，這些血管就從基底動脈頂端分出，最容易一起被截斷。",
    "D": "本項不選。枕葉（occipital lobe）由後大腦動脈供應，而後大腦動脈正是基底動脈頂端的終末分支。所以會出現皮質盲或視野缺損。",
    "summary": "Top of the basilar 打的是頂端往上的中腦、視丘、枕葉；橋腦在上游有自己的穿通枝，反而躲過。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brainstem-localization-eye-movement"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114730,7 +115008,10 @@
    "C": "本項應選。類固醇對缺血性中風造成的細胞毒性水腫無效，而且會升高血糖、增加感染風險，指引明確不建議。它有用的是腫瘤或感染造成的血管源性水腫——兩種水腫機轉不同，這是最常被混淆的地方。",
    "D": "本項不選。過度換氣讓二氧化碳分壓下降、腦血管收縮，可以在幾分鐘內降腦壓，但效果只能撐幾小時，僅作為等待手術的橋接。",
    "summary": "缺血性中風的水腫是細胞毒性的，類固醇沒用；腫瘤與感染的血管源性水腫才是類固醇的舞台。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114881,7 +115162,10 @@
    "C": "本項敘述正確。唐氏症患者第 21 對染色體多一份，而類澱粉前驅蛋白基因正好在 21 號染色體上，所以四十歲後幾乎都會出現阿茲海默症的病理變化。",
    "D": "本項敘述正確。額顳葉失智症最常見的亞型是行為型，以人格改變、去抑制與同理心喪失為主，記憶反而相對保留。",
    "summary": "類澱粉斑塊要 β 與 γ 兩種分泌酶接力才生成；唐氏症因為 APP 基因在 21 號染色體，早發阿茲海默病理。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114919,7 +115203,10 @@
    "C": "正確。垂直向下凝視麻痺加上頸部後仰、早期反覆向後跌倒，是進行性上眼神經核麻痺症的三個招牌。它對左旋多巴反應差，這也是與巴金森氏病鑑別的重點；影像上中腦萎縮呈現蜂鳥徵象。",
    "D": "本項不選。路易氏體失智症的核心是波動性認知、生動視幻覺與巴金森症狀，還有對抗精神病藥的高度敏感。",
    "summary": "早期向後跌＋看不下去（垂直向下凝視麻痺）＋左旋多巴無效＝進行性上眼神經核麻痺症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114957,7 +115244,10 @@
    "C": "本項不選。僵硬對屈肌與伸肌的影響相當（鉛管樣）；痙攣才有明顯的分布偏好——上肢屈肌、下肢伸肌。",
    "D": "本項不選。方向改變時阻力延後出現不是僵硬的描述；僵硬在任何方向、任何速度下阻力都一樣。",
    "summary": "僵硬 vs 痙攣：僵硬與速度無關、鉛管樣、基底核問題；痙攣與速度有關、折疊刀、上運動神經元問題。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114995,7 +115285,10 @@
    "C": "本項不選。重症肌無力的問題在神經肌肉接合處，特徵是易疲勞性無力、症狀波動，反射正常。",
    "D": "本項不選。多發性肌炎是肌肉本身發炎，近端無力加肌酸激酶上升，反射正常或稍減。",
    "summary": "萎縮＋反射亢進＝上下運動神經元同時受損，先想肌萎縮性側索硬化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115033,7 +115326,10 @@
    "C": "本項不選。典型的腦脊髓液是「蛋白高但細胞數正常」的蛋白細胞分離，白血球通常少於 10；細胞數明顯上升反而要想 HIV 或其他感染。",
    "D": "本項不選。血漿置換與靜脈免疫球蛋白療效相當，選擇取決於可近性與病人狀況；免疫球蛋白因為方便，實務上常先用。兩者併用沒有額外好處。",
    "summary": "格林–巴利記三件事：蛋白細胞分離、類固醇無效、血漿置換與免疫球蛋白二選一，並密切監測呼吸功能。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "guillain-barre-syndrome"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115112,7 +115408,10 @@
    "C": "本項敘述正確。磁振造影對後顱窩病灶明顯優於電腦斷層，後者常受骨頭假影干擾；擴散加權影像還能區分膿瘍與腫瘤壞死。",
    "D": "本項敘述正確。立體定位抽吸同時達成診斷（取得培養）與治療（減壓引流），是標準做法。",
    "summary": "懷疑腦膿瘍先影像再抽吸，不要做腰椎穿刺；培養靠膿液不是腦脊髓液。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115150,7 +115449,10 @@
    "C": "本項不選。攝護腺癌與乳癌容易轉移到顱骨並侵犯硬腦膜，形成硬腦膜轉移。",
    "D": "本項不選。灰白質交界處血管管徑驟減，栓子最容易卡在這裡，是腦轉移的好發位置。",
    "summary": "腦轉移三個層次：腦實質（肺癌、乳癌）、硬腦膜（乳癌、攝護腺癌）、軟腦膜（乳癌、肺癌、黑色素瘤與白血病）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115188,7 +115490,10 @@
    "C": "本項不選。視神經炎是最經典的核心症狀，而且常是雙側或侵犯視交叉、視力損害嚴重。",
    "D": "本項不選。急性脊髓炎且病灶延伸超過三節脊椎（長節段橫貫性脊髓炎）是它與多發性硬化症最重要的分界。",
    "summary": "視神經脊髓炎的招牌：雙側嚴重視神經炎、長節段脊髓炎、頑固打嗝嘔吐（最後區症候群）；抗體驗 AQP4。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nmosd-diagnostic-features"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115748,7 +116053,10 @@
    "C": "本項敘述正確。腦膜瘤可以侵犯鄰近顱骨造成骨質增生（hyperostosis），這在影像上很有特異性。",
    "D": "本項敘述正確。它血管豐富且沒有血腦障壁，打完顯影劑會明顯均勻強化。",
    "summary": "腦膜瘤四個影像特徵：硬腦膜尾、明顯均勻強化、鄰近顱骨增生、包住血管會使其狹窄。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115783,7 +116091,10 @@
    "C": "本項不選。Wernicke 腦病變的病灶集中在乳頭體、視丘內側與導水管周圍灰質，分布很有特徵。",
    "D": "正確。急性心臟衰竭造成全腦低灌流後昏迷，影像上呈現灰白質分界消失與瀰漫性腦水腫，這就是缺氧缺血性腦病變。它的預後評估要靠神經學檢查、腦電圖、體感覺誘發電位與 NSE，而且要在停用鎮靜藥物並回溫後才判讀。",
    "summary": "心跳停止或休克後昏迷＋灰白質分界消失＝缺氧缺血性腦病變；預後判斷要等鎮靜退掉且回溫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -125906,7 +126217,10 @@
    "C": "本項不選。alteplase 的半衰期只有幾分鐘，所以先給總劑量 10% 的快速注射，剩下 90% 在 60 分鐘內持續輸注。",
    "D": "本項不選。給藥前一定要影像排除顱內出血，這是絕對必要的步驟。",
    "summary": "溶栓走靜脈、劑量 0.9 mg/kg（上限 90 mg）、10% 推注加 60 分鐘輸注；大血管阻塞則加做取栓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -125941,7 +126255,10 @@
    "C": "正確。高齡病人、出血位置在腦葉（枕葉）而非深部基底核，加上磁敏感加權影像顯示多發、侷限在皮質與皮質下分布的微出血，這組合就是大腦類澱粉血管病變。深部與腦幹的微出血反而指向高血壓性小血管病變，兩者分布不同。這類病人日後再出血率高，抗凝血劑要非常謹慎。",
    "D": "本項不選。原發性中樞神經血管炎多以多發缺血病灶與頭痛、認知變化表現，血管攝影可見多處狹窄。",
    "summary": "微出血看位置：皮質與皮質下＝類澱粉血管病變（老人腦葉出血）；深部與腦幹＝高血壓性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "intracerebral-hemorrhage-management"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126082,7 +126399,10 @@
    "C": "本項不選。神經肌肉接合處異常是重症肌無力，那是持續且會疲勞的無力，不會由大笑誘發、也不會有嗜睡與睡眠麻痺。",
    "D": "本項不選。低血鉀週期性麻痺的發作與運動後或高醣飲食有關，發作時血鉀低，與情緒誘發無關。",
    "summary": "猝睡症四聯徵：白天嗜睡、情緒誘發猝倒、睡眠麻痺、入睡幻覺；機轉是 hypocretin 神經元喪失。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126118,7 +126438,10 @@
    "C": "本題均給分。模仿檢查者的動作通常比自己憑指令做要好一些，但仍可能有困難。",
    "D": "本題均給分。實際拿真的工具操作時表現最好，這正是意想運動性失用的特色——用真剪刀反而剪得出來。四個選項的難易關係使得單一答案難以成立，官方因此除未作答外均給分。",
    "summary": "意想運動性失用的特色是「說得出、也用得了真工具，就是比不出手勢」；自動化情境下的動作反而正常。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126153,7 +126476,10 @@
    "C": "本項不選。尿失禁的改善排在步態之後，不是最容易改善的項目。",
    "D": "本項不選。術後的改善常隨時間遞減，能維持五年以上的比例不高，而且要注意分流管阻塞或引流過度。",
    "summary": "常壓水腦症＝步態不穩、尿失禁、認知退化；分流後改善順序也是這個順序，走路最有機會好。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126186,7 +126512,10 @@
    "C": "本項不選。多巴胺促效劑是年輕病人常用的起始選擇，可延後左旋多巴造成的動作波動，但要注意衝動控制障礙。",
    "D": "本項不選。單胺氧化酶 B 抑制劑（selegiline、rasagiline）可作為早期單一治療或輔助用藥。",
    "summary": "巴金森氏病動作症狀的藥都在多巴胺這條線上；膽鹼酯酶抑制劑是給合併失智時用的。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126255,7 +126584,10 @@
    "C": "本項不選。錐體徑受損表現為無力與反射亢進，不是以麻木疼痛為主。",
    "D": "本項不選。後柱受損會失去本體感覺與振動覺、走路不穩，不是燒灼樣麻痛。",
    "summary": "揮鞭式頸部外傷後兩手麻痛＝脊髓中央的交叉脊髓丘腦纖維受損，是中央脊髓症候群的輕型表現。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "brainstem-localization-eye-movement"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126288,7 +126620,10 @@
    "C": "正確。類澱粉樣神經病變是異常摺疊的蛋白（transthyretin 或免疫球蛋白輕鏈）沉積在神經與血管壁，屬於蛋白代謝異常。它典型造成小纖維與自律神經病變：痛溫覺喪失、姿勢性低血壓、腸胃蠕動異常，而且現在有基因沉默療法可用，所以早期辨識很重要。",
    "D": "本項不選。皮肌炎是自體免疫的發炎性肌病變，不是代謝性神經病變。",
    "summary": "周邊神經病變的機轉分類：免疫（GBS、CIDP）、代謝（糖尿病、類澱粉）、遺傳（CMT）、毒性（藥物、酒精）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126321,7 +126656,10 @@
    "C": "本項應選。與它有關的是 EB 病毒而不是人類疱疹病毒第 6 型。這個區別有臨床意義：免疫低下病人的腦脊髓液驗到 EBV DNA，配合影像就能高度懷疑診斷。",
    "D": "本項敘述正確。類固醇會讓淋巴瘤細胞快速凋亡、病灶暫時消失，導致切片取不到診斷（所謂的幽靈腫瘤），所以切片前應避免使用。",
    "summary": "原發性中樞神經淋巴瘤：免疫低下＋EB 病毒；切片前千萬別先給類固醇，會把診斷打掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126354,7 +126692,10 @@
    "C": "本項敘述正確。發病年齡可以延到二十歲甚至更晚，部分病人以心肌病變先表現。",
    "D": "本項應選。它是 X 染色體性聯隱性遺傳，突變由「母親」傳給兒子，父親不會把 X 染色體傳給兒子。另外約三分之一是新生突變。",
    "summary": "Duchenne 與 Becker 都是 X 性聯隱性的 dystrophin 病：母傳子；Becker 蛋白有殘餘功能所以較輕較晚。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126387,7 +126728,10 @@
    "C": "本項不選。方向相反。得過水痘的人病毒才會潛伏在神經節，日後免疫力下降時再活化成帶狀疱疹；沒得過水痘反而不會有帶狀疱疹。",
    "D": "本項不選。疱疹病毒腦炎侵犯的是顳葉內側與邊緣系統，不是延腦；影像上顳葉內側的不對稱高訊號是重要線索。",
    "summary": "疱疹病毒腦炎打的是顳葉內側：發燒＋人格或語言改變＋癲癇，懷疑就先給 acyclovir。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126561,7 +126905,10 @@
    "C": "本項敘述正確。低活動型譫妄表現為安靜、退縮、反應慢，最常被誤認為憂鬱，也最容易被漏診。",
    "D": "本項應選。譫妄的腦波是「廣泛性慢波」，反映大腦整體代謝下降；廣泛陣發性快波是其他狀況（例如某些癲癇型態）的表現。唯一的例外是鎮靜安眠藥戒斷造成的譫妄，那時可能看到快波。",
    "summary": "譫妄腦波＝廣泛慢波；急性起病、注意力受損、一天內起伏，是與失智鑑別的三把尺。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126627,7 +126974,10 @@
    "C": "正確。譫妄不是良性事件：住院期間發生譫妄的病人三個月死亡率約兩到三成，一年死亡率更高，還會延長住院、增加日後失智風險。這正是要把譫妄當成醫療急症來處理的理由。",
    "D": "本項不選。苯二氮平類反而會加重譫妄，只有在酒精或鎮靜藥戒斷造成的譫妄才是首選。",
    "summary": "譫妄的死亡率高得驚人（三個月 20–30%）；處置以找病因與非藥物介入為主，苯二氮平只留給戒斷型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126977,7 +127327,10 @@
    "C": "本項不選。動脈瘤在影像上是與血管相連、流空訊號明顯的病灶，臨床上多以急性症狀表現。",
    "D": "本項不選。松果體腫瘤壓迫的是中腦頂蓋，造成 Parinaud 症候群（向上凝視麻痺、瞳孔對光反射差）而不是雙顳側偏盲。",
    "summary": "蝶鞍上腫塊壓視交叉＝雙顳側偏盲，先想腦下垂體腺瘤並驗荷爾蒙；泌乳素瘤先用藥不用開刀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neuro-oncology-imaging-pituitary"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -127046,7 +127399,10 @@
    "C": "本項敘述正確。分數越高代表神經功能缺損越嚴重，也用來篩選取栓的適應症。",
    "D": "本項敘述正確。nimodipine 用於蜘蛛膜下腔出血後預防血管痙攣造成的延遲性腦缺血，可改善預後。",
    "summary": "溶栓前血壓門檻 185/110；蜘蛛膜下腔出血記 nimodipine 防血管痙攣。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-ischemic-stroke-imaging-treatment"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -137085,7 +137441,10 @@
    "C": "本項不選。輕度中風的短期雙重抗血小板是 aspirin 加 clopidogrel（或 aspirin 加 ticagrelor），不是 clopidogrel 與 ticagrelor 兩種 P2Y12 抑制劑併用。",
    "D": "正確。頸動脈或椎動脈剝離造成的中風，抗凝血劑與抗血小板藥物的效果相當（CADISS 試驗），兩者都可以用來預防再次中風，選擇看出血風險與病灶型態。",
    "summary": "急性缺血性中風：不溶栓就允許性高血壓（<220/120）、血糖 140–180、輕度中風短期雙抗；動脈剝離抗凝或抗血小板都行。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cvst-antithrombotic-ich-reversal"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137118,7 +137477,10 @@
    "C": "本項不選。同樣大小的動脈瘤，後循環（後交通、基底動脈頂端）的破裂風險高於前循環，位置本身就是重要因子。",
    "D": "本項不選。體染色體顯性多囊腎是顱內動脈瘤的明確危險因子，盛行率約一般人的四到五倍，有家族史者建議篩檢。",
    "summary": "動脈瘤風險看三件事：大小、位置（後循環較危險）、病人因素（家族史、多囊腎、抽菸、高血壓）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137223,7 +137585,10 @@
    "C": "本項不選。多發性硬化症的病灶在腦室旁、近皮質、幕下與脊髓，呈現時空多發性，不會侷限在雙側顳葉內側。",
    "D": "本項不選。代謝性腦病變以瀰漫性意識障礙與撲翼樣震顫為主，影像通常沒有這種局部結構性病灶。",
    "summary": "亞急性記憶退化＋癲癇＋顳葉內側高訊號＝邊緣葉腦炎；驗抗體、找腫瘤、給免疫治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cns-infection-encephalitis-prion"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137328,7 +137693,10 @@
    "C": "本項不選。皮質基底核退化症同樣屬於 4R tau 病變，臨床上有不對稱失用與異手症。",
    "D": "本項不選。阿茲海默症的神經纖維纏結由過度磷酸化的 tau 組成，屬於 tau 病變（同時也有類澱粉病變）。",
    "summary": "分兩大家族：tau 病變（阿茲海默、PSP、CBD、皮克氏病）與突觸核蛋白病變（巴金森、路易氏體、多重系統萎縮）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137361,7 +137729,10 @@
    "C": "本項不選。propranolol 與 primidone 是第一線用藥；苯二氮平類可作為輔助，尤其焦慮加重顫抖時。",
    "D": "本項不選。藥物治療效果不佳且嚴重影響生活的病人，可以考慮磁振導引聚焦超音波燒灼視丘腹中間核，或做深部腦刺激。這是近年才納入的選項，優點是不必開顱。",
    "summary": "本態性顫抖動起來才抖、喝酒會好、常有家族史；靜止時抖、走路手不擺才是巴金森。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "movement-disorders-neurodegeneration"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137430,7 +137801,10 @@
    "C": "正確。感染後數日出現眼肌麻痺、共濟失調與深部肌腱反射消失，就是米勒費雪症候群的三聯徵。它是格林–巴利症候群的變異型，與抗 GQ1b 抗體有關（那個抗體正好高度表現在支配眼外肌的神經上）。治療與格林–巴利相同，多數預後良好。",
    "D": "本項不選。重症肌無力的無力會隨疲勞波動、症狀晚上加重，而且深部肌腱反射正常，也不會有共濟失調。",
    "summary": "眼肌麻痺＋共濟失調＋反射消失＝米勒費雪症候群，驗抗 GQ1b；它是格林–巴利的變異型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "guillain-barre-syndrome"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137463,7 +137837,10 @@
    "C": "本項不選。關節痛在許多結締組織疾病都會出現。",
    "D": "正確。Gottron 丘疹（指關節伸側的紫紅色丘疹）與 heliotrope 疹（眼瞼周圍的紫羅蘭色斑加水腫）是皮肌炎的病理性診斷指標，特異性最高，光看到就能與其他發炎性肌病變分開。診斷後別忘了成人病人要篩檢潛在惡性腫瘤。",
    "summary": "皮肌炎靠皮膚診斷：Gottron 丘疹與 heliotrope 疹最特異；成人確診後一定要查有沒有癌症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137496,7 +137873,10 @@
    "C": "本項不選。多發性肌炎是發炎性肌病變，肌酸激酶會明顯上升，與本例的正常數值不符。",
    "D": "本項不選。重症肌無力的無力會波動、常先侵犯眼外肌，與這種穩定的近端無力不同。",
    "summary": "近端無力但 CK 正常，先想類固醇肌病；CK 高才往發炎性肌病變（多發性肌炎、皮肌炎）想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "myopathy-motor-neuron-neuromuscular"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137703,7 +138083,10 @@
    "C": "本項不選。suvorexant 是食慾素受體拮抗劑，對睡眠維持困難有建議等級。",
    "D": "本項不選。ramelteon 是褪黑激素受體促效劑，針對入睡困難被列為建議用藥——注意它與「褪黑激素本身」是不同的東西。",
    "summary": "失眠的第一線永遠是認知行為治療；藥物指引裡 ramelteon 有建議、褪黑激素本身反而不建議。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sleep-disorders-insomnia-drugs"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137841,7 +138224,10 @@
    "C": "本項不選。同樣地，影像生物標記反映的是病理變化而不是功能狀態。",
    "D": "正確。兩者的分界線就是「日常生活功能有沒有退化」：輕度認知障礙的認知測驗已有缺損，但日常生活仍能獨立；一旦影響到工作、理財、用藥、開車等日常功能，就進入失智症。這個判準完全靠病史與旁人描述，不靠檢驗。",
    "summary": "輕度認知障礙與失智症的分界不是檢驗數值而是「還能不能自己生活」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137874,7 +138260,10 @@
    "C": "本項敘述正確。注意力受損是譫妄的核心，失智症早期的注意力相對保留。",
    "D": "本項應選。兩者不但會併存，而且非常常見——失智症正是譫妄最強的危險因子，這種「失智症上疊加譫妄」的情況佔住院老人相當比例，也最容易被當成失智症惡化而漏掉可治療的病因。",
    "summary": "失智症是譫妄的溫床：病人突然變得更混亂時要先找感染、藥物、脫水，不要直接歸給失智症退化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137943,7 +138332,10 @@
    "C": "本項應選。憂鬱情緒在「皮質下」失智（如巴金森症、亨丁頓舞蹈症、血管性）更為突出，因為額葉皮質下迴路受損直接影響動機與情感。皮質型失智早期以記憶與語言為主，情感改變相對晚出現。",
    "D": "本項不選。動作變慢正是皮質下失智的核心特徵，手指輕敲測驗會明顯變慢。",
    "summary": "皮質型失智先壞「知識」（記憶、語言、計算）；皮質下失智先壞「速度與動機」（動作慢、憂鬱、淡漠）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138110,7 +138502,10 @@
    "C": "本項敘述正確。右邊那張影像在左側顳葉外側裂區有一塊界線清楚的高密度血塊，屬於腦實質內出血，還可看到血液進入腦室。",
    "D": "本項敘述正確。這種型態一定要做電腦斷層血管攝影找動脈瘤或血管畸形，因為找到病灶就要盡快夾除或栓塞以防再出血。",
    "summary": "基底池為中心的蜘蛛膜下腔出血＋外側裂旁血塊＝動脈瘤破裂（常是大腦中動脈），下一步就是 CTA。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sah-aneurysm-vascular-malformations"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138209,7 +138604,10 @@
    "C": "本項敘述正確。失智加上步態不穩與尿失禁就是常壓水腦症的三聯徵，這是少數可以靠引流手術改善的失智原因。",
    "D": "本項應選。假性失智指的是「憂鬱症造成的認知退化」，治療憂鬱後認知會改善，不是腦炎或中樞神經感染。臨床上分辨的線索是：假性失智的病人會抱怨自己記性差、答「我不知道」，真失智則常否認問題並編造答案。",
    "summary": "假性失智＝憂鬱裝成失智：病人自己抱怨記憶差、常答「不知道」，治療憂鬱後認知會回來。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cognitive-impairment-delirium-dementia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
