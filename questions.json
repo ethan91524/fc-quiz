@@ -584,7 +584,10 @@
    "B": "本項不選。建立大口徑靜脈通路、保護呼吸道都對，但 propranolol 不適合用在血壓 90/50 mmHg 的急性出血期。非選擇性 β-blocker 是穩定後的再出血預防用。",
    "C": "本項不選。propranolol 沒辦法處理正在休克的出血，大腸鏡也不能優先評估已知的食道靜脈瘤出血。這組合反而漏掉循環復甦和呼吸道保護。",
    "D": "正確答案。大量吐血合併休克，要立即建立兩條大口徑周邊靜脈或適當的血管通路。意識不清又躁動的人應先氣管插管，避免吸入並方便後續做上消化道內視鏡止血。",
-   "summary": "急性食道靜脈瘤大出血先做 ABC：建立血管通路復甦，意識不清者先插管；急性休克期不用 propranolol。"
+   "summary": "急性食道靜脈瘤大出血先做 ABC：建立血管通路復甦，意識不清者先插管；急性休克期不用 propranolol。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1160,7 +1163,10 @@
    "C": "正確答案。HLA-C*06:02（傳統寫法 HLA-Cw6）是尋常型乾癬最重要的 HLA 關聯，尤其和早發型乾癬有關。",
    "D": "本項不選。HLA-DR4 有名的是類風濕性關節炎的 shared epitope，不是乾癬。",
    "summary": "HLA 配對背三組：乾癬－C*06:02、僵直性脊椎炎－B27、類風濕性關節炎－DR4。",
-   "guideline": "FC 醫學(三)第4冊 p.106"
+   "guideline": "FC 醫學(三)第4冊 p.106",
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -5507,7 +5513,9 @@
    "D": "雙相情緒障礙症（bipolar disorder）的躁期可能由家屬或警消送醫，且患者常缺乏病識感；「主動」求助的比例不如感到即將死亡的 panic disorder。",
    "summary": "Panic attack 的突發自主神經症狀與瀕死感常被當成身體急症，使 panic disorder 患者最常主動至急診。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5626,7 +5634,9 @@
    "D": "低劑量 intravenous ketamine 及 esketamine 對部分治療抗拒型憂鬱症可快速降低 depressive symptoms，但需在醫療監測下使用並留意血壓、解離與濫用風險。",
    "summary": "Ketamine 的核心機轉是 NMDA receptor antagonism；低劑量具快速抗憂鬱效果，但可致 dissociation 與濫用。",
    "guideline": "FC 醫學(四)第3冊 p.132",
-   "concepts": []
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5966,7 +5976,9 @@
    "D": "Lorazepam 通常歸為中效 benzodiazepine，經 glucuronidation 代謝且無重要活性代謝物；其半衰期仍比 midazolam 長。",
    "summary": "四者中 midazolam 半衰期最短；diazepam 最長且有活性代謝物，alprazolam、lorazepam 居中。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -7223,7 +7235,9 @@
    "D": "痔瘡靜脈叢曲張（hemorrhoidal venous plexus）所涉直腸上靜脈屬 portal circulation，與 middle/inferior rectal systemic veins 可形成側枝；門靜脈高壓可造成 anorectal varices，但它與一般痔瘡（hemorrhoids）並非完全同義。",
    "summary": "門靜脈高壓的典型側枝位於食道胃、臍周及直腸；varicocele 屬 gonadal venous drainage 問題。",
    "guideline": "FC 醫學(五)第3冊 p.108",
-   "concepts": []
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -7421,7 +7435,10 @@
    "C": "本項應選。這是唯一錯的敘述。前哨淋巴結（sentinel lymph node）有轉移不會取消保乳資格，乳房那一端照樣可以局部切除加放療。腋下要不要進一步清除或放療，是另外依陽性顆數和放療計畫決定的。",
    "D": "本項不選。病灶散在不同象限（多中心）時，一次局部切除很難同時拿到乾淨切緣和可接受的外觀，通常不適合保乳，這句沒錯。",
    "summary": "保乳的門檻是「切得乾淨＋做得了放療」，前哨淋巴結陽性不在否決條件裡。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -10497,7 +10514,9 @@
    "D": "肥胖可因巨大兒、產程延長、子宮收縮無力與手術生產增加產後出血（postpartum hemorrhage）風險，仍不是題目所問增幅最多者。",
    "summary": "肥胖孕婦的多項風險都上升，其中妊娠糖尿病的增加最突出。",
    "guideline": "FC 醫學(六)第1上冊 p.197",
-   "concepts": []
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -12278,7 +12297,10 @@
    "C": "本項應選。第一型糖尿病（type 1 diabetes）的性別差異，沒有像狼瘡或自體免疫甲狀腺疾病那樣呈現明顯的女性優勢；不同地區的數據可能相近甚至略偏男性。把它概括成「女性發生率較高」最不適當。",
    "D": "本項不選。僵直性脊椎炎在臨床辨識與影像確診的病例上以男性較多，男性也較容易出現典型的影像進展，符合傳統流行病學。",
    "summary": "不是每個自體免疫病都偏女性——第一型糖尿病就是那個例外。",
-   "guideline": "FC 醫學(三)第2冊 p.296"
+   "guideline": "FC 醫學(三)第2冊 p.296",
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12570,7 +12592,10 @@
    "B": "本項不選。陣發性頭痛、心悸、盜汗是嗜鉻細胞瘤（pheochromocytoma）的典型三聯症。合併高血壓時要想到 catecholamine 過度分泌。",
    "C": "本項不選。打鼾加白天嗜睡提示阻塞性睡眠呼吸中止症（obstructive sleep apnea）。它會經交感活化造成或加重高血壓，是常見的次發性原因。",
    "D": "正確答案。高血脂症和原發性高血壓共享代謝與心血管風險，但它指不出任何一個特定的次發性高血壓病因。",
-   "summary": "低血鉀、頭痛心悸盜汗、睡眠呼吸中止都提示次發性高血壓；單純高血脂不指向特定病因。"
+   "summary": "低血鉀、頭痛心悸盜汗、睡眠呼吸中止都提示次發性高血壓；單純高血脂不指向特定病因。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12679,7 +12704,10 @@
    "B": "本項不選。紅掌（palmar erythema）可見於肝硬化，通常出現在大小魚際，和周邊血管擴張有關。",
    "C": "本項不選。男性女乳症（gynecomastia）可由慢性肝病的雌雄激素失衡造成，也可能因為 spironolactone 治療而加重。",
    "D": "本項應選。這是錯的敘述。下肢靜脈曲張不是肝硬化的典型身體表徵。門脈高壓比較典型造成食道胃靜脈曲張、腹壁側枝循環和痔靜脈叢擴張。",
-   "summary": "肝硬化典型外觀包括蜘蛛痣、紅掌和男性女乳症；一般下肢靜脈曲張不是門脈高壓的代表徵象。"
+   "summary": "肝硬化典型外觀包括蜘蛛痣、紅掌和男性女乳症；一般下肢靜脈曲張不是門脈高壓的代表徵象。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13427,7 +13455,10 @@
    "C": "正確答案。家族成員 BRCA1／BRCA2 陰性，不代表沒有其他遺傳性癌症基因。家族腫瘤譜還是可疑時，應由遺傳專業評估多基因套組，例如 PALB2、CHEK2、ATM、TP53。",
    "D": "本項敘述錯誤。芳香環轉化酶抑制劑不是憑一段家族史就能開始吃的。要先做正式的風險估計，而且它的適用還牽涉停經狀態與骨質、關節等副作用。",
    "summary": "BRCA 陰性只排除了兩個基因，不是排除遺傳；而且父系與母系傳的機率一樣。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13465,7 +13496,10 @@
    "C": "本項應選。腸平滑肌惡性肉瘤是肉瘤不是上皮癌，本來就不走 EGFR 或 HER2 這條路。它要依實際的肉瘤組織型與分子特徵選藥。",
    "D": "本項不選。HER2 陽性乳癌可以用 trastuzumab、pertuzumab。HER2 屬於 EGFR 受體家族的成員，所以也算在題目問的範圍內。",
    "summary": "EGFR 家族標靶的三個主場：RAS 野生型結直腸癌、EGFR 突變肺癌、HER2 陽性乳癌——都是上皮來源的癌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15897,7 +15931,10 @@
    "C": "這題不選。central diabetes insipidus 缺 ADH，會排出大量稀尿並傾向高鈉、高血滲透壓，方向與本題相反。",
    "D": "這題不選。adrenal crisis 可造成低鈉與低血壓，但通常有容量不足、低血糖或高鉀等線索，不能解釋正常血管內容積。",
    "summary": "低鈉時先看體液量：euvolemic 加濃尿是 SIADH；同樣尿鈉高但脫水才較像 cerebral salt wasting。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16355,7 +16392,10 @@
    "C": "這題要選。McCune-Albright syndrome 典型是 café-au-lait spots、纖維性骨發育不良與周邊性性早熟，不以肥胖合併青少年糖尿病為主要表徵。",
    "D": "這題不選。Prader-Willi syndrome 因食慾失控與低肌張力導致嚴重肥胖，後續容易發生 type 2 diabetes。",
    "summary": "兒童肥胖加糖尿病的遺傳症候群要想到 Prader-Willi、Bardet-Biedl、Alström；McCune-Albright 的核心是骨、皮膚和性早熟。",
-   "guideline": "FC 醫學(四)第1冊 p.389"
+   "guideline": "FC 醫學(四)第1冊 p.389",
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17473,7 +17513,10 @@
    "C": "本項不選。早期的連鎖分析確實指向第 18 對與第 22 對染色體長臂。後來的全基因組關聯研究找到更多小效應基因（例如 CACNA1C、ANK3），但題目講的是舊的連鎖研究結論，本身沒錯。",
    "D": "本項應選。這個比例剛好反過來。雙相情緒障礙症的遺傳度估計在 60 到 85%，是精神科疾病中最高的一群。環境（生活壓力、睡眠剝奪、物質使用）多半扮演誘發角色，不是主因。",
    "summary": "雙相情緒障礙症是精神科遺傳度最高的病之一（60–85%），環境是扳機不是主因；雙胞胎共病率記單卵 40–70%、異卵 5–25%。",
-   "guideline": "官方更正：本題答 B 或 D 或 BD 均給分"
+   "guideline": "官方更正：本題答 B 或 D 或 BD 均給分",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17512,7 +17555,9 @@
    "D": "錯誤。已有 antipsychotics 用於 bipolar maintenance treatment 的證據，部分可預防 mania 或 depressive relapse；選藥需依既往有效急性治療與長期副作用決定。",
    "summary": "Antipsychotics 不只治 acute mania，也可用於 bipolar maintenance；須依個別藥物監測 metabolic 與 extrapyramidal effects。",
    "guideline": "FC 醫學(四)第3冊 p.44",
-   "concepts": []
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18271,7 +18316,10 @@
    "C": "正確。HLA 越相合通常可降低腎移植免疫風險；HLA-DP、DQ、DR 屬 MHC class II；pregnancy、transfusion 與 prior transplantation 都可能使受贈者對 HLA sensitized。",
    "D": "此組合含①②⑤；②與⑤正確，但①把 HLA 所在的 chromosome 6 誤寫為 chromosome 9，因此整組不是正確答案。",
    "summary": "HLA 位於 chromosome 6；DP/DQ/DR 是 MHC class II，pregnancy、transfusion、prior transplant 可造成 HLA sensitization。",
-   "guideline": "FC 醫學(五)第1冊 p.85"
+   "guideline": "FC 醫學(五)第1冊 p.85",
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -19679,7 +19727,10 @@
    "C": "本項不選。緻密乳房（dense breast）會把攝影上的腫塊蓋掉，所以攝影陰性不能安心，必要時要加做超音波，這句沒錯。",
    "D": "本項不選。族群篩檢的主力工具就是乳房攝影，超音波只是輔助，不能單獨拿來取代 50 歲以上婦女的篩檢攝影，這句沒錯。",
    "summary": "鈣化看攝影、腫塊在緻密乳房會被蓋掉——這兩點是攝影和超音波的分工。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -19758,7 +19809,10 @@
    "C": "本項不選。陽性切緣代表腫瘤可能沒切乾淨，同側乳房局部復發（local recurrence）率會上升，通常要再次擴大切除或改變手術方式，這句沒錯。",
    "D": "本項不選。嚴重肺病（severe pulmonary disease）的人做胸部放療，肺毒性風險可能高到不能接受，需要放射腫瘤團隊個別評估，這句沒錯。",
    "summary": "保乳加放療只是「不輸給」全乳切除，不是贏過它——考點是別把等效講成優效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21045,7 +21099,9 @@
    "D": "肝血管瘤（hepatic hemangioma）通常無症狀且自發破裂罕見；影像 enhancement pattern 與 HCC 不同，需由題圖判別，不能僅以「血管性病灶」推斷。",
    "summary": "肝腫瘤患者突發 RUQ pain 與 hemoperitoneum 要想到 ruptured HCC；angiography 同時具診斷與 embolization 價值。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -22689,7 +22745,9 @@
    "D": "只在產檢時追蹤會漏掉每日血糖型態，也無法及時治療；GDM 需居家 self-monitoring 並按結果調整營養與藥物。",
    "summary": "GDM 經飲食後空腹仍 168 mg/dL，須加 insulin 並持續飲食控制與居家血糖監測。",
    "guideline": "FC 醫學(六)第1上冊 p.197",
-   "concepts": []
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23658,7 +23716,9 @@
    "D": "早期軸性脊椎關節炎的薦腸關節 X 光可能仍正常；骨髓發炎可先在 MRI 顯示，明顯侵蝕與硬化屬較後期結構變化。",
    "summary": "Ankylosing spondylitis 的代表特徵是 enthesitis；HLA-B27 非全陽性，早期 X 光可正常，運動應重視伸展與姿勢。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23697,7 +23757,9 @@
    "D": "感染性關節炎（septic arthritis）通常急性單關節紅腫熱痛，常伴全身症狀或發炎指數上升，需要緊急關節液分析；不會以長期步行後痛與典型退化影像呈現。",
    "summary": "承重後膝痛加上內側間室狹窄、subchondral cyst 是膝 osteoarthritis 的典型臨床與影像組合。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23736,7 +23798,9 @@
    "D": "加熱可降低肌肉痙攣並增加膠原組織延展性，配合伸展或運動能讓關節周圍肌肉與韌帶較放鬆。",
    "summary": "熱敷是 OA 的症狀性物理治療，可增進循環、止痛與放鬆軟組織，但不能再生關節軟骨。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -25502,7 +25566,10 @@
    "C": "本項敘述錯誤。早期痛風的 X 光可能完全正常，要到慢性痛風石期才看得到穿鑿樣侵蝕。反過來，肌肉骨骼超音波反而看得到雙軌徵象（double-contour sign）與痛風石這些尿酸鹽沉積。",
    "D": "本項敘述錯誤。腎功能不全時限制的是 NSAIDs 與 colchicine，類固醇反而常是急性痛風可以考慮的抗發炎選項之一。當然還是要看感染風險與共病。",
    "summary": "急性痛風不能靠單次尿酸值排除；腎功能差時類固醇是可用的，被限制的是 NSAID 與 colchicine。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25535,7 +25602,10 @@
    "C": "正確答案。hydroxychloroquine 與 sulfasalazine 通常可以在孕期全程使用，是備孕的類風濕性關節炎（RA）病人維持疾病控制的主力。要注意 sulfasalazine 會影響葉酸代謝，孕前與孕期都要依醫囑補充葉酸。",
    "D": "本項不選。低劑量類固醇不是一驗到懷孕就絕對禁用。如果控制母體疾病需要，可以用最低有效劑量，同時監測孕婦與胎兒的風險。",
    "summary": "備孕的原則是「受孕前停掉致畸的疾病修飾抗風濕藥（DMARDs）」，不是懷孕後才停；能留下來的是 hydroxychloroquine 與 sulfasalazine。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25614,7 +25684,10 @@
    "C": "正確答案。用藥一年後新出現光曝露處皮疹，而且 ANA 與 anti-dsDNA 從陰性轉陽性，符合 adalimumab 誘發的狼瘡。處置是停掉 adalimumab；如果類風濕性關節炎（RA）仍需標靶治療，改用**不同機轉**的 rituximab。",
    "D": "本項不選。infliximab 也是 TNF 抑制劑。停了 adalimumab 立刻換它，等於還留在同一類可能誘發狼瘡樣症候群的機轉裡。",
    "summary": "藥物誘發的狼瘡先停元凶；要接著治療就換一條路，不要在 TNF 抑制劑裡面換來換去。",
-   "guideline": "FC 醫學(三)第4冊 p.50"
+   "guideline": "FC 醫學(三)第4冊 p.50",
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25647,7 +25720,10 @@
    "C": "本項不選。硬骨（尤其軟骨下骨）確實參與薦腸關節炎與後續的新骨生成，但把它當成最起始的病灶，不如附著點準確。",
    "D": "本項不選。滑膜是類風濕性關節炎（RA）的主戰場。脊椎關節炎雖然也會有滑膜炎，起點仍是附著點——這正是兩個病最常被拿來對比的地方。",
    "summary": "脊椎關節炎從「肌腱接骨頭的那一點」開始（enthesitis），類風濕性關節炎從滑膜開始。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26317,7 +26393,10 @@
    "C": "本項不選。類固醇會增加肝臟糖質新生，也會造成周邊胰島素阻抗，可以引起類固醇誘發的糖尿病，最常見的是餐後血糖升高。",
    "D": "正確答案。雙胍類的 metformin 會降低肝臟糖質新生、改善身體對 insulin 的敏感度。它是拿來治療糖尿病的藥，不是造成糖尿病的原因。",
    "summary": "病毒觸發自體免疫、胰島素阻抗、類固醇都會致糖尿病；metformin 反而是治療用藥，不會引起糖尿病。",
-   "guideline": "FC 醫學(三)第2冊 p.294"
+   "guideline": "FC 醫學(三)第2冊 p.294",
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26350,7 +26429,10 @@
    "C": "本項敘述正確。肥胖是熱量攝取、活動量、睡眠、藥物、環境跟多基因體質一起造成的結果，不該只怪病人意志力不夠。",
    "D": "本項敘述正確。脂肪細胞其實是內分泌細胞，會分泌 leptin、adiponectin 跟多種細胞激素，這些物質會影響食慾、胰島素敏感度跟發炎反應。",
    "summary": "BMI 越大才是越胖，這題把方向講反了；肥胖是多重因素的病，脂肪組織本身也在分泌荷爾蒙。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26383,7 +26465,10 @@
    "C": "本項不選。脂質營養不良的病人缺乏脂肪組織，也就缺 leptin，因而出現嚴重胰島素阻抗與高三酸甘油酯。補充重組人類 leptin（metreleptin）是這個罕見疾病的對因治療。",
    "D": "本項應選。80 歲以上不該一律追求 HbA1c 小於 6.5%。高齡的控制目標要看健康狀態分層：健康良好者約 7.0 到 7.5%，多重共病或衰弱者放寬到 8.0 到 8.5%。理由很實際——**低血糖對老人的傷害遠大於稍高的血糖**，一次跌倒骨折就可能改變餘生。",
    "summary": "高齡糖尿病的目標是「別低血糖」不是「數字漂亮」：健康者 7.0–7.5%，衰弱者可放寬到 8.5%。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26906,7 +26991,10 @@
    "C": "森林圖各 subgroup 的 effect size 與信賴區間不同，代表不同族群或介入條件下的降壓幅度可能不一致。",
    "D": "納入研究的族群、高血壓狀態、介入時間、樣本數及 baseline BP 不同，都可能造成臨床與方法學異質性，需配合 I² 等指標解讀。",
    "summary": "Meta-analysis 的 pooled effect 顯示 DASH 顯著降收縮壓；不能把其證據層級誤列為 IIa。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -27104,7 +27192,10 @@
    "B": "正確答案。圖上動脈期先在病灶邊緣出現一顆一顆不連續的結節狀強化。接著這些強化慢慢往中央填。延遲期整顆變得跟血管一樣亮、顯影劑滯留。這組「周邊結節→向心填充→延遲滯留」就是海綿狀血管瘤（cavernous hemangioma）的招牌，剛好和 HCC 的「快進快出」相反。",
    "C": "本項不選。多房性包蟲囊腫（multilocular hydatid cyst）是多間隔的囊、常有子囊或鈣化，不會有血管瘤這種向心填充的增強。",
    "D": "本項不選。膽管癌（cholangiocarcinoma）多半是延遲期纖維組織才慢慢增強，常合併膽管擴張，和血管瘤的周邊結節狀向心填充不同。",
-   "summary": "dynamic CT 看到「周邊結節狀增強、之後向心填充」就是肝海綿狀血管瘤。"
+   "summary": "dynamic CT 看到「周邊結節狀增強、之後向心填充」就是肝海綿狀血管瘤。",
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -27789,7 +27880,10 @@
    "C": "正確。應先給 IV dextrose bolus，再以持續 glucose infusion 維持血糖，並反覆測量確認不再下降。",
    "D": "這題不選。高濃度 dextrose 才可能需要 central line；初始復甦不必先為此延誤治療或放置臍靜脈導管。",
    "summary": "新生兒低血糖只要有 jitteriness 就是症狀性：先 IV dextrose bolus，再持續輸注。",
-   "guideline": "FC 醫學(四)第1冊 p.604"
+   "guideline": "FC 醫學(四)第1冊 p.604",
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28298,7 +28392,10 @@
    "C": "本項應選。T1DM 反而較常和其他自體免疫疾病共存，例如自體免疫甲狀腺疾病與 celiac disease；「較不常」把關聯方向說反了。",
    "D": "本項不選。T1DM 的核心問題是自身胰島素分泌不足，治療通常需要外源性 insulin，不是只靠飲食或口服降血糖藥就能取代。",
    "summary": "T1DM 的線索是消瘦、容易 DKA、需要 insulin，還要記得主動留意甲狀腺與 celiac disease 等自體免疫共病。",
-   "guideline": "FC 醫學(四)第1冊 p.388"
+   "guideline": "FC 醫學(四)第1冊 p.388",
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29697,7 +29794,10 @@
    "C": "本項敘述正確。反覆躁症發作會增加未來復發與功能損害，維持期治療的目標就是降低再次發作。",
    "D": "本項敘述正確。早發、反覆或對 antidepressant 反應不佳的鬱症，應追問既往 hypomania/mania，以免漏掉 bipolar spectrum。",
    "summary": "雙相症不是單純『憂鬱比較重』：物質使用共病高，且每次躁期都提醒要做復發預防。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29730,7 +29830,10 @@
    "C": "本項是本題要選的。lamotrigine 主要用於 bipolar depression 與維持期預防鬱期復發，不是 FDA 核准治療急性躁期的藥物。",
    "D": "本項敘述正確。aripiprazole 可用於 bipolar I disorder 的急性 manic 或 mixed episodes。",
    "summary": "Lamotrigine 記『守鬱不救躁』：偏向 bipolar depression/維持期，不能當急性 mania 的答案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29768,7 +29871,10 @@
    "C": "本項的 malingering 不是本題答案。詐病（malingering）同樣是故意裝病，但必須有外在利益，如金錢、逃兵役或逃避法律責任；題幹特別否定這些動機。",
    "D": "本項的 conversion 不是本題答案。轉化症（functional neurological symptom disorder）是非意識控制的神經功能症狀，不能以病人故意造成血便或血尿來解釋。",
    "summary": "故意造病但沒有外在好處，是 factitious disorder；有賠償、逃役或逃責任才叫 malingering。",
-   "guideline": "FC 醫學(四)第3冊 p.104"
+   "guideline": "FC 醫學(四)第3冊 p.104",
+   "concepts": [
+    "somatic-factitious-malingering"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29806,7 +29912,10 @@
    "C": "本項的 conversion 不是本題答案。轉化症的症狀不是故意製造，且通常呈現運動或感覺功能異常，不能用來描述有計畫的裝病。",
    "D": "本項的 panic 不是本題答案。恐慌症會出現突發心悸、胸悶與瀕死感，沒有刻意裝病以逃避役期的核心行為。",
    "summary": "只要題幹出現逃兵役、求償或躲法律責任，就把『故意裝病』接到 malingering。",
-   "guideline": "FC 醫學(四)第3冊 p.104"
+   "guideline": "FC 醫學(四)第3冊 p.104",
+   "concepts": [
+    "somatic-factitious-malingering"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29839,7 +29948,10 @@
    "C": "本項的 belle 不是本題答案。la belle indifférence 是可能出現的淡然態度，既不敏感也不特異，不能當作診斷轉化症的主要特徵。",
    "D": "正確。癱瘓或無力（paralysis/weakness）是轉化症常見表現之一；關鍵是表現與已知神經疾病的分布不相符。",
    "summary": "轉化症常見無力或癱瘓，但診斷靠正向不一致的神經發現，不靠 la belle indifférence。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "somatic-factitious-malingering"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29877,7 +29989,10 @@
    "C": "本項敘述正確。短效藥起效快、停藥後濃度下降快，較容易造成反彈症狀與強化反覆使用。",
    "D": "本項敘述錯誤。長期使用 benzodiazepine 不宜突然全停，可能引發焦慮、失眠、delirium 或 seizure；通常應個別化漸進減量。",
    "summary": "長期 BZD 不是住院就一刀切停藥；突然戒斷會反彈甚至 seizure，安全作法是漸進減量。",
-   "guideline": "FC 醫學(四)第3冊 p.202"
+   "guideline": "FC 醫學(四)第3冊 p.202",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30068,7 +30183,10 @@
    "C": "正確。認知行為治療（cognitive behavioral therapy）會處理對負面評價的災難化想法，並透過漸進暴露練習降低逃避，對社交焦慮症有療效。",
    "D": "本項的 良好預後的預 不是本題答案。較早發病、病程久與合併憂鬱症通常提示較差預後；較晚發病反而不是這句所稱的良好指標。",
    "summary": "一上台就怕被看笑、乾脆逃課，是社交焦慮；CBT 用認知重建加暴露治療最對題。",
-   "guideline": "FC 醫學(四)第3冊 p.73"
+   "guideline": "FC 醫學(四)第3冊 p.73",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30299,7 +30417,10 @@
    "C": "停止 stimulant 後可出現疲倦、無力、嗜睡、憂鬱與食慾增加，屬戒斷期常見的『crash』表現。官方本題一律給分。",
    "D": "中毒處置先做支持治療、降溫、補液與控制 agitation；benzodiazepine 常用於鎮靜與降低交感亢進。官方本題一律給分。",
    "summary": "官方一律給分；amphetamine intoxication 是過度興奮與高體溫，戒斷則像 crash：疲倦、嗜睡、憂鬱。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -32020,7 +32141,9 @@
    "D": "肝臟移植（liver transplantation）能根治 decompensated cirrhosis 所致 portal hypertension；它不是急性現場最快止血手段，但對符合條件的 end-stage liver disease 是 definitive therapy。",
    "summary": "一般 portal-hypertensive variceal bleeding 救援可用 TIPS；splenectomy 只適合 splenic-vein thrombosis 的 left-sided portal hypertension。",
    "guideline": "FC 醫學(五)第3冊 p.107",
-   "concepts": []
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32059,7 +32182,9 @@
    "D": "單純肝囊腫（simple hepatic cyst）內襯 benign epithelium，通常 incidental；出血或感染偶可發生，但不具有 hepatocellular adenoma 的惡性轉化特性。",
    "summary": "Benign liver lesions 中 hepatocellular adenoma 同時具有出血與 malignant transformation 風險；FNH 通常兩者皆無。",
    "guideline": "FC 醫學(五)第3冊 p.124",
-   "concepts": []
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32204,7 +32329,10 @@
    "C": "本項不選。只要摸得到腫塊、或底下是侵襲癌，腋下淋巴結轉移就不少見。說「即使有腫瘤也少見」會低估分期風險。",
    "D": "正確答案。乳房 Paget 病是乳癌侵犯乳頭表皮的表現。當底下合併侵襲性腫瘤時，腋下轉移的機會明顯升高，所以乳房和腋下都要完整分期。",
    "summary": "乳頭上治不好的濕疹＝先想 Paget 病，而且要往底下找 DCIS 或侵襲癌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -34822,7 +34950,9 @@
    "D": "本項可成立。臍帶血 C-peptide 反映胎兒自身胰島素分泌，數值超過第 90 百分位支持胎兒曾暴露於較高的母體葡萄糖。",
    "summary": "HAPO 的記憶線是「母體糖高→胎兒胰島素高」：巨嬰、C-peptide 高，出生後反而容易低血糖。",
    "guideline": "FC 醫學(六)第1上冊 p.196",
-   "concepts": []
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -36491,7 +36621,10 @@
    "C": "本項不選。中樞性尿崩症缺乏 ADH，典型是大量低張尿，尿液滲透壓多半小於 300 mOsm/kg。",
    "D": "本項不選。腎源性尿崩症是腎臟對 ADH 沒反應，同樣排出大量稀釋尿，與本題的濃度對不上。",
    "summary": "多尿先看尿液滲透壓：>300 是溶質性利尿，<300 才往水利尿（尿崩症或多飲）想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36524,7 +36657,10 @@
    "C": "本項不選（依題目年代）。這句話反映的是 2022 年以前的看法。CHAP 試驗之後結論已經改變：治療輕度慢性高血壓可降低子癇前症與早產，而且不會造成胎兒生長受限。現在的建議是血壓達 140/90 就開始治療。",
    "D": "本項不選（依題目年代）。130–150／80–100 mmHg 是舊版目標，用意是避免降太低影響胎盤灌流。CHAP 之後目標已收緊到低於 140/90 mmHg。答題看年代，臨床用新的。",
    "summary": "孕期高血壓先記死一條：ACEI／ARB 絕對不能用，主力是 labetalol 與 nifedipine；治療門檻已從「輕度不用治」改成 140/90 就治。",
-   "guideline": "CHAP trial（NEJM 2022）後 ACOG 改為孕期慢性高血壓 ≥140/90 mmHg 即治療、目標 <140/90"
+   "guideline": "CHAP trial（NEJM 2022）後 ACOG 改為孕期慢性高血壓 ≥140/90 mmHg 即治療、目標 <140/90",
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37451,7 +37587,10 @@
    "C": "本項不選。labetalol 是妊娠高血壓常用的第一線藥，只要注意氣喘與心搏過慢這些禁忌。",
    "D": "本項應選。ACE inhibitors 在懷孕期間是禁用的：會造成胎兒腎功能損害、羊水過少與其他胎兒病變。而且它也不能拿來預防子癇前症。",
    "summary": "孕期降壓三選一：labetalol、長效 nifedipine、methyldopa；ACEi／ARB 一律停掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37690,7 +37829,10 @@
    "C": "正確答案。乾燥症的發炎性關節炎大多是**非侵蝕性**的，可以有對稱性小關節痛或滑膜炎，但影像上不會啃出骨頭。真的出現典型侵蝕，就要考慮同時合併類風濕性關節炎。",
    "D": "本項不選。乾燥症的 HLA 關聯會隨族群而異，經典常提的是 HLA-DR3、DQA1*05:01 與 DQB1*02:01。HLA-DR5 不是它的代表性關聯。",
    "summary": "乾燥症的關節炎「會痛但不會啃骨頭」——看到侵蝕就要想是不是合併類風濕性關節炎。",
-   "guideline": "FC 醫學(三)第4冊 p.59"
+   "guideline": "FC 醫學(三)第4冊 p.59",
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37840,7 +37982,10 @@
    "C": "本項不選。腫瘤異位分泌 vasopressin 造成抗利尿激素分泌不當症候群（SIADH），最經典的還是小細胞肺癌。",
    "D": "本項應選。甲狀腺素不會造成惡性高血鈣。最常見的體液性機轉是 PTH-related peptide，其次是 calcitriol、骨轉移的局部溶骨，極少數才是異位 PTH。",
    "summary": "副腫瘤內分泌症候群要背對介質：SIADH 配 vasopressin、庫欣配 ACTH、高血鈣主要配 PTHrP。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38491,7 +38636,10 @@
    "C": "本項不選。statin 對糖尿病人降低心血管事件證據充分。aspirin 則要分清楚：**次級預防**明確有益；**初級預防**只在心血管風險高又出血風險低時個別考慮，不是每個糖尿病人都該吃。",
    "D": "本項不選。thiazolidinedione 會造成鈉與水分滯留，增加心衰竭住院風險，所以已有心衰竭者不建議使用。這是它最重要的安全性議題。",
    "summary": "metformin 不是心衰竭的禁忌，真正的紅線是 eGFR<30 與灌流不足；會惡化心衰竭的是 thiazolidinedione。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38529,7 +38677,10 @@
    "C": "本項不選。SGLT2（sodium-glucose cotransporter 2）抑制劑讓葡萄糖從尿裡排掉，因此常帶來輕度體重下降。跟會增重的 sulfonylurea、insulin 與 TZD 相比更明顯。",
    "D": "本項不選。metformin 的主要作用就是抑制肝臟葡萄糖新生（hepatic gluconeogenesis），同時改善胰島素敏感度。它本身不刺激胰島素分泌，所以低血糖風險低。",
    "summary": "DPP-4 抑制劑是「看血糖辦事」的藥，單用不會低血糖——會低血糖的是 insulin 與 sulfonylurea。",
-   "guideline": "FC 醫學(三)第2冊 p.297"
+   "guideline": "FC 醫學(三)第2冊 p.297",
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39321,7 +39472,10 @@
    "C": "本項應選。要不要給 3% 高張鹽水，取決於有沒有嚴重神經症狀以及是急性還是慢性，不是看血鈉有沒有低於 130 mEq/L。無症狀的慢性低血鈉一律衝高張鹽水反而危險。",
    "D": "本項不選。慢性或病程不明的嚴重低血鈉，矯正速度通常限制在每 24 小時 6–8 mEq/L 以內，高風險者更保守，就是為了避免滲透性脫髓鞘。",
    "summary": "低血鈉的急不急看「症狀」不看數字；矯正速度每天不超過 6–8 mEq/L，衝太快會脫髓鞘。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -40189,7 +40343,10 @@
    "C": "本項應選。insulin 也會抑制 ketogenesis，因此低血糖時 ketone bodies 應很低；3.0 mmol/L 代表有明顯生酮，反而不支持 hyperinsulinism。",
    "D": "本項不選。hyperinsulinism 會把肝臟 glycogen 留住，給 glucagon 後若血糖明顯上升，表示可動員的肝醣多，支持 insulin 過高在抑制釋放。",
    "summary": "低血糖時 insulin 應關掉；還測得到 insulin、脂肪酸低、ketone 低、glucagon 後糖上升，都指向 hyperinsulinism。",
-   "guideline": "FC 醫學(四)第1冊 p.388"
+   "guideline": "FC 醫學(四)第1冊 p.388",
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41723,7 +41880,10 @@
    "C": "本項的 誇大妄想 不是本題答案。自認能力超常、肩負拯救地球任務，是誇大妄想（grandiose delusion）。",
    "D": "本項的 無病識感 不是本題答案。不理解自己為何住院、否認需要治療，反映缺乏病識感（poor insight）。",
    "summary": "躁期的快講、跳題、三天不睡和拯救世界，分別掛在 flight of ideas、decreased sleep、grandiosity，不是 dissociation。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41794,7 +41954,10 @@
    "C": "本項的 transcranial 不是本題答案。rTMS 已核可用於特定重鬱症病人；思覺失調症的幻聽可有研究用途，但不是題幹所稱的標準核可治療。",
    "D": "本項的 bipolar 不是本題答案。bipolar depression 單用 antidepressant 可能誘發 mania 或 rapid cycling，通常要先考慮 mood stabilizer、特定 antipsychotic 或合併策略。",
    "summary": "Aripiprazole 可加在難治型單極憂鬱症；但 bipolar depression 不能照搬單極憂鬱症的 antidepressant 首選邏輯。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41870,7 +42033,10 @@
    "C": "本項的 schizophrenia 不是本題答案。思覺失調症以 psychosis 與功能退化為核心，並非 functional gastrointestinal disorder 的典型共病。",
    "D": "本項的 delusional 不是本題答案。妄想症是固定妄想至少一個月的精神病性疾患，不能解釋腸胃功能症狀常伴的焦慮機轉。",
    "summary": "反覆腸胃不適、檢查找不到結構性病因時，別只盯腸子；functional GI disorder 最常要一起評估 anxiety。",
-   "guideline": "FC 醫學(四)第3冊 p.63"
+   "guideline": "FC 醫學(四)第3冊 p.63",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41908,7 +42074,10 @@
    "C": "本項的 transcranial 不是本題答案。rTMS 常見的是頭皮不適或頭痛；seizure 很罕見，不能說是最常見副作用。",
    "D": "正確。嚴重憂鬱症同時合併藥物與心理治療，常比單一治療更能改善症狀與功能；若有自殺急症或精神病症狀仍須考慮 ECT 等升級處置。",
    "summary": "憂鬱治療別把短暫有效當持久有效：嚴重個案常是藥物加心理治療，比單打獨鬥更有效。",
-   "guideline": "FC 醫學(四)第3冊 p.42"
+   "guideline": "FC 醫學(四)第3冊 p.42",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41987,7 +42156,10 @@
    "C": "本項的 tolerance 不是本題答案。短效 BZD 起效快且易產生 tolerance、interdose withdrawal 與反覆服用，成癮風險較需注意。",
    "D": "本項的 高劑量或混合 不是本題答案。高劑量或與 alcohol、opioid 等合用會增加事故與呼吸抑制風險；長期使用也與跌倒、認知與功能問題相關。",
    "summary": "BZD 的『急性』是嗜睡跌倒，『突然停』才是嚴重戒斷；把兩個時間點分開就不會選錯。",
-   "guideline": "FC 醫學(四)第3冊 p.201"
+   "guideline": "FC 醫學(四)第3冊 p.201",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42020,7 +42192,10 @@
    "C": "正確。短效 opioid 如 heroin 停用後約 6–8 小時可出現戒斷，急性症狀多在約一週內改善。",
    "D": "本項的 ②③④ 不是本題答案。停用 heroin 時 locus coeruleus 的 noradrenergic neurons 會反彈性增加活性，造成出汗、焦慮、腹瀉等戒斷症狀，不是降低。",
    "summary": "Heroin 中毒是『縮瞳、昏睡、呼吸慢』；戒斷才是『交感反彈』，locus coeruleus 活性會升高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42099,7 +42274,10 @@
    "C": "本項敘述錯誤。思覺失調症患者的吸菸率通常明顯高於一般族群與許多其他精神疾病群體，不是只有約 30% 且較少。",
    "D": "本項的 替代性治療可 不是本題答案。nicotine replacement therapy 以較穩定的 nicotine 減輕戒斷與 craving，能作為戒菸治療的一部分。",
    "summary": "精神科最常考的菸癮陷阱：schizophrenia 吸菸率是更高，不是更低；NRT 是拿穩定 nicotine 降戒斷。",
-   "guideline": "FC 醫學(四)第3冊 p.130"
+   "guideline": "FC 醫學(四)第3冊 p.130",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -43235,7 +43413,10 @@
    "C": "本項不選。重建常要分階段：先放組織擴張器（tissue expander）、換永久義乳、再做乳頭乳暈重建和對側對稱手術。多步驟手術是常態，這句沒錯。",
    "D": "本項應選。這是錯的敘述。延遲重建（delayed reconstruction）指的是全乳切除後另一次手術做重建，沒有「一律等兩年」這回事。時機看放療、全身治療、傷口狀況和病人意願決定。",
    "summary": "延遲重建沒有固定等待期；「等兩年」是這題編出來的錯誤數字。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44061,7 +44242,10 @@
    "C": "本項不選。單側乳頭反覆濕疹樣變化、擦藥又沒效時，要切片排除乳房 Paget 病（Paget disease），這句沒錯。",
    "D": "本項不選。侵襲性乳癌會引發結締組織增生（desmoplastic reaction），所以腫塊摸起來硬、邊界不規則，這句沒錯。",
    "summary": "橘皮＝真皮淋巴阻塞、皮膚凹陷＝Cooper 韌帶牽扯——這兩個徵象別接錯機制。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44099,7 +44283,10 @@
    "C": "本項不選。全乳切除後一般不放療，但腋下轉移顆數多、或腫瘤大於 5 公分（>5 cm）時，胸壁復發風險高，要評估術後放療，這句沒錯。",
    "D": "本項應選。這是最不適當的敘述。化療打的是全身微小轉移，放療控制的是留在乳房裡的局部病灶，兩者目的不同。年齡再輕，化療也換不掉保乳後該做的放療。",
    "summary": "化療管全身、放療管局部——保乳後這兩個不能互相頂替。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44137,7 +44324,10 @@
    "C": "本項應選。這是最不適當的敘述。停經後婦女照樣可以用 tamoxifen。aromatase inhibitor 常被列為第一優先，但遇到不耐受或禁忌時，tamoxifen 是有效的替代。",
    "D": "本項不選。同時需要化療和內分泌治療時，一般先做完化療再開始內分泌治療，避免兩者療程重疊，這句沒錯。",
    "summary": "停經後不是不能用 tamoxifen，只是 aromatase inhibitor 通常排在它前面。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46809,7 +46999,9 @@
    "D": "本項不是懷孕的典型現象。餐後 glucagon 通常仍會受到抑制；孕期主要問題是胰島素阻抗，不是升糖激素完全失去抑制。",
    "summary": "正常孕期像「空腹低、飯後高」：胎盤荷爾蒙讓胰島素阻抗增加，但不代表餐後 glucagon 不受控制。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -49458,7 +49650,10 @@
    "C": "本項不選。慢性腎絲球腎炎過去是重要原因，但目前比例已經低於糖尿病腎病變。",
    "D": "本項不選。中草藥腎病變會造成慢性間質性腎病，在臺灣有其特殊地位，但不是整體最主要的病因。",
    "summary": "臺灣新洗腎的第一名是糖尿病腎病變——這題考的是流行病學排序，不是機轉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50024,7 +50219,10 @@
    "C": "本項不選。letrozole 和 anastrozole 一樣是非固醇類芳香酶抑制劑，同樣抑制雌激素合成。",
    "D": "本項應選。tamoxifen 是選擇性雌激素受體調節劑（SERM），它在乳房組織上**擋住受體**，並不抑制芳香酶。兩者作用的環節完全不同。",
    "summary": "同樣是抗雌激素但機轉分兩層：芳香酶抑制劑斷貨源，tamoxifen 擋門口的受體。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50100,7 +50298,10 @@
    "C": "本項不選。腫瘤侵犯乳頭乳暈複合體時，能不能保留要看切乾淨之後的外觀還能不能接受，屬於難度很高的情況。",
    "D": "本項不選。部分膠原血管疾病，尤其是活動期的硬皮症，做放射治療的嚴重毒性風險很高。而保留手術後幾乎都要放療，所以這是重要的相對禁忌。",
    "summary": "能不能保留乳房只問兩件事：切得乾淨嗎、術後放療做得下去嗎——淋巴結有沒有轉移不影響這兩題。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50974,7 +51175,10 @@
    "C": "本項不選。此項不對。抗憂鬱藥通常需在緩解後持續一段維持期，再依復發風險與病人狀況討論是否漸停，不必人人終身服用。",
    "D": "本項應選。正確。認知行為治療（cognitive behavioral therapy）可辨識負向自動思考並練習新行為，是憂鬱症的重要非藥物治療。",
    "summary": "憂鬱症可復發、也可用心理治療；治療不是一輩子吃藥或完全不管高齡者。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -51918,7 +52122,10 @@
    "C": "本項不選。無症狀或輕症 SIADH 的核心是限水；鈉攝取不必像水分一樣一律嚴格限制。",
    "D": "本項應選。SIADH 的水分滯留會造成稀釋與尿酸排泄增加，所以 BUN 與 uric acid 通常偏低，不是偏高。",
    "summary": "SIADH 是『血變稀、尿卻不夠稀』，而且水分稀釋後 BUN 和 uric acid 常一起偏低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52371,7 +52578,10 @@
    "C": "本項不選。Wolfram syndrome 可合併 diabetes insipidus、diabetes mellitus、optic atrophy 與 deafness，屬中樞性病因之一。",
    "D": "本項應選。高血鈣會降低腎臟對 ADH 的反應，造成 nephrogenic diabetes insipidus；ADH 分泌系統本身沒有被破壞。",
    "summary": "尿崩症先分中樞還是腎性：下視丘病變是中樞，高血鈣是腎臟不聽 ADH 的腎性尿崩。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -53916,7 +54126,11 @@
    "C": "本項的 僅 不是本題答案。SSRI/SNRI 也可治療恐慌症，初期常低劑量開始以減少焦慮暫時升高。",
    "D": "正確。抗憂鬱劑不能單獨治療 bipolar mania，可能誘發或加重躁期；躁期優先使用 mood stabilizer 或 antipsychotic。",
    "summary": "SSRI/SNRI 可用在 pain、GAD、panic；看到 bipolar mania 就踩煞車，不能單獨用 antidepressant。",
-   "guideline": "FC 醫學(四)第3冊 p.62"
+   "guideline": "FC 醫學(四)第3冊 p.62",
+   "concepts": [
+    "bipolar-vs-major-depression",
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -53954,7 +54168,10 @@
    "C": "正確。解離症（dissociative disorder）可在嚴重壓力或創傷後出現解離性失憶或迷遊，病人失去重要自傳記憶且神經檢查無法解釋。",
    "D": "本項的 泛焦慮症 不是本題答案。泛焦慮症需跨多領域、難控制的過度焦慮持續至少 6 個月，不能解釋本例突發的身分與路徑記憶障礙。",
    "summary": "重大壓力後突然忘記自己怎麼回家、檢查正常，先想 dissociative amnesia/fugue，不是中風。",
-   "guideline": "FC 醫學(四)第3冊 p.102"
+   "guideline": "FC 醫學(四)第3冊 p.102",
+   "concepts": [
+    "somatic-factitious-malingering"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54183,7 +54400,11 @@
    "C": "本項的 schizophrenia 不是本題答案。兒童可有妄想與幻覺，也可診斷思覺失調症；只是需仔細排除發展、創傷、物質與身體疾病。",
    "D": "正確。兒童 bipolar disorder 可能呈現較非典型、易怒或混合的躁鬱表現，診斷時要與 ADHD、破壞性情緒失調及正常發展鑑別。",
    "summary": "兒童精神科不是『不會有 psychosis』；兒童 bipolar 常不只開心亢奮，易怒與混合表現更常見。",
-   "guideline": "FC 醫學(四)第1冊 p.50"
+   "guideline": "FC 醫學(四)第1冊 p.50",
+   "concepts": [
+    "bipolar-vs-major-depression",
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -56140,7 +56361,10 @@
    "C": "本項不選。符合 Z0011 條件的保乳病人——1 到 2 顆 sentinel node 轉移、會做全乳放療和全身治療——可以不做腋下淋巴結廓清（ALND），減少淋巴水腫，這句沒錯。",
    "D": "本項不選。全乳切除後 sentinel node 有大轉移（macrometastasis）時，傳統上就進一步做 ALND。能不能改用區域淋巴放療取代，要看現行指引和個別條件，這句沒錯。",
    "summary": "DCIS＋要做全乳切除＝順手做 SLNB；保乳且只有 1–2 顆陽性＝可以不做 ALND。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -56178,7 +56402,10 @@
    "C": "本項不選。手腳刺麻是 taxane 常見的周邊神經病變，下肢水腫則多跟 docetaxel 造成的體液滯留有關。這組症狀比較像 taxane，不是 anthracycline。",
    "D": "本項不選。ANC 900/mm³ 只是中度嗜中性球低下。沒有發燒的人不會單看一個數值就治療性打 granulocyte colony stimulating factor（G-CSF），要看感染、療程和發燒性嗜中性球低下（febrile neutropenia）的風險。",
    "summary": "小紅莓＝心毒性＋骨髓抑制（10–14 天到 nadir）；紫杉醇＝周邊神經病變＋水腫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -59942,7 +60169,9 @@
    "D": "本項不選。手部多發性骨性關節炎可侵犯第一腕掌關節（CMC joint），拇指捏握痛會明顯影響開瓶、握鑰匙等手功能。",
    "summary": "骨性關節炎最常見在膝，不是髖；手部則別忘了第一 CMC 會直接傷害捏握。",
    "guideline": "FC 醫學(六)第3冊 p.108",
-   "concepts": []
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60780,7 +61009,10 @@
    "C": "本項不選。ibuprofen 屬於非類固醇抗發炎藥（NSAIDs），只要沒有嚴重腎病、活動性消化道出血或其他禁忌，可以拿來當急性期的抗發炎治療。",
    "D": "本項不選。prednisolone 是急性期可用的全身性類固醇，尤其在 NSAID 或 colchicine 不能用的時候。給之前仍要先排除化膿性關節炎。",
    "summary": "急性痛風用「止炎」三選一（colchicine／NSAID／類固醇）；降尿酸藥是之後的事，急性期不靠它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61326,7 +61558,10 @@
    "B": "本項應選。這是錯的敘述。自發性細菌性腹膜炎（spontaneous bacterial peritonitis, SBP）的主要風險是肝硬化腹水的蛋白低和嚴重肝病，不是周邊白血球過低。",
    "C": "本項不選。McBurney 點壓痛、Murphy 徵象、反彈痛和板狀僵硬有助於定位感染源、辨識腹膜刺激。",
    "D": "本項不選。膈下的游離氣體提示中空臟器穿孔，合併腹膜炎通常需要緊急外科評估。",
-   "summary": "SBP 的核心背景是肝硬化腹水和低腹水蛋白，不是白血球低下。"
+   "summary": "SBP 的核心背景是肝硬化腹水和低腹水蛋白，不是白血球低下。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61397,7 +61632,10 @@
    "B": "本項不選。Terlipressin 或 octreotide 會降低門脈血流，一懷疑靜脈瘤出血就該及早給。",
    "C": "正確答案。這句是錯的。非選擇性乙型阻斷劑（nonselective beta blockers, NSBB）會壓低血壓，不能用來止住正在流的急性出血。它是等循環穩定後拿來做初級或次級預防的。",
    "D": "本項不選。內視鏡要一併看胃靜脈瘤（gastric varices）有沒有出血跡象，因為它的處理方式和食道靜脈瘤可能不同。",
-   "summary": "急性靜脈瘤出血：血管收縮藥（vasoactive drug）＋內視鏡止血；NSBB 留到循環穩定後才用來預防再出血。"
+   "summary": "急性靜脈瘤出血：血管收縮藥（vasoactive drug）＋內視鏡止血；NSBB 留到循環穩定後才用來預防再出血。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61511,7 +61749,10 @@
    "B": "本項不選。腹水（ascites）來自門脈高壓加上鈉水滯留，是常見的失代償表現。",
    "C": "正確答案。肝臟局部結節性增生（focal nodular hyperplasia, FNH）是獨立的良性肝病灶，不是門脈高壓或肝硬化造成的併發症。",
    "D": "本項不選。食道靜脈曲張（esophageal varices）來自門脈高壓形成的側枝循環，是肝硬化的重要併發症。",
-   "summary": "肝硬化常見腹水、肝性腦病變、食道靜脈曲張；FNH 是不相干的良性病灶。"
+   "summary": "肝硬化常見腹水、肝性腦病變、食道靜脈曲張；FNH 是不相干的良性病灶。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61844,7 +62085,10 @@
    "C": "本項敘述錯誤。屈側肌腱鞘受侵犯其實很常見，會造成板機指甚至肌腱斷裂。不能說伸側的腱鞘滑膜炎比屈側常見很多。",
    "D": "本項敘述錯誤。頸椎病變（尤其寰樞椎不穩定）多發生在病程長、嚴重或控制不佳的病人身上，不是通常出現在疾病早期。",
    "summary": "類風濕性關節炎「碰掌指與近端指間、放過遠端指間」——遠端指間出問題要想退化性或乾癬性關節炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61957,7 +62201,10 @@
    "C": "本項不選。華人族群的髖關節 OA 盛行率一般低於白人，族群間的解剖、遺傳與生活型態差異都可能參與。",
    "D": "本項應選（官方複選之一）。OA 的治療核心是衛教、運動與體重管理，藥物要依症狀與腸胃道、腎臟、心血管風險個別化。不存在「90% 以上都要先用 NSAIDs」這種規定。",
    "summary": "本題官方 B、D 或 BD 均給分。OA 的治療是先動起來與減重，不是先開消炎藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -61995,7 +62242,10 @@
    "C": "本項不選。卵巢去功能可以處理停經前的荷爾蒙受體陽性疾病，但既沒涵蓋 HER2 標靶，也不能取代完整的抗荷爾蒙策略；而且做了保留手術就一定要放療。",
    "D": "正確答案。這位病人是 ER 陽性、PR 陽性、HER2 3+ 的三重陽性，腫瘤 3 公分又有 2 顆腋下淋巴結轉移。四條線要同時做：化療、trastuzumab、抗荷爾蒙治療，再加乳房保留術後的放射治療。",
    "summary": "三重陽性又有淋巴結轉移，四個治療缺一不可——最容易被漏掉的是 trastuzumab。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62657,7 +62907,10 @@
    "B": "本項不選。糖尿病合併白蛋白尿或冠心／腎病時，ACE inhibitor 或 ARB 特別有利。是不是所有糖尿病病人的唯一首選仍要依共病個別化，但大方向是對的。",
    "C": "本項應選。這是錯的敘述。糖尿病增加心腎風險，血壓目標通常不會刻意比沒有糖尿病的人更寬鬆。具體目標要依指引、年齡和耐受性個別化。",
    "D": "本項不選。高血壓會加速糖尿病的冠腦周邊大血管病，以及腎病、視網膜病變等微血管併發症，敘述正確。",
-   "summary": "糖尿病合併高血壓要積極、個別化控制，不能一概採比一般病人更寬鬆的目標。"
+   "summary": "糖尿病合併高血壓要積極、個別化控制，不能一概採比一般病人更寬鬆的目標。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62728,7 +62981,10 @@
    "C": "本項不選。嚴重低血糖會造成抽搐、昏迷、心律不整，甚至死亡。這是為什麼低血糖比高血糖更急。",
    "D": "本項應選。metformin 單獨使用低血糖風險很低，因為它不刺激胰島素分泌。真正最常造成低血糖的口服藥是 sulfonylurea 與 meglitinide。",
    "summary": "口服藥會不會低血糖，看它「逼不逼胰島素出來」——sulfonylurea 會，metformin 不會。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62804,7 +63060,10 @@
    "C": "本項不選。甲狀腺功能不足來自前葉的 TSH 軸或甲狀腺本身，同樣不是後葉負責的範圍。",
    "D": "本項不選。性功能異常主要牽涉前葉分泌的性腺激素，不是後葉的典型缺損。",
    "summary": "腦下垂體後葉只管兩個激素，其中 AVP 出問題就是尿崩症——其他內分泌不足都要往前葉想。",
-   "guideline": "FC 醫學(三)第2冊 p.219"
+   "guideline": "FC 醫學(三)第2冊 p.219",
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62954,7 +63213,10 @@
    "C": "本項不選。泌尿道來源的反應性關節炎最常見的元凶就是 Chlamydia trachomatis；腸道來源則是 Shigella、Salmonella、Yersinia、Campylobacter。治療感染本身不一定能改變關節炎病程。",
    "D": "本項不選。反應性關節炎與 HLA-B27 高度相關，帶原者症狀較重、較容易慢性化。文獻報告的比例多落在六到八成之間，題目取的是上緣。",
    "summary": "感染後一到四週才出現的無菌性關節炎加結膜炎與掌蹠皮疹＝反應性關節炎，不是細菌跑進關節。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -64146,7 +64408,10 @@
    "C": "本項不選。夜間禁食後尿液滲透壓可協助判斷是否有夜間多尿或尿液濃縮能力不足。",
    "D": "本項應選。第一線是衛教、規律排尿與 enuresis alarm；desmopressin 等藥物可短期使用，但停藥後復發常見，不是所有人第一選擇。",
    "summary": "夜間遺尿先做行為介入和 alarm；藥物能暫時壓尿量，但不是一開始就取代習慣與排除次發病因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nocturnal-enuresis"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64522,7 +64787,10 @@
    "C": "本項不選。原發性多喝症先攝入過多水分，腎臟為維持滲透壓必須排出相應大量稀尿，所以可表現多尿。",
    "D": "本項不選。第 1 型糖尿病高血糖超過腎糖閾值時，尿糖會帶走水分形成 osmotic diuresis，造成多尿、多喝與體重下降。",
    "summary": "多尿常見三條路：缺 ADH、喝太多水、尿糖滲透利尿。低血鈣想的是 tetany，不是大量稀尿。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65919,7 +66187,10 @@
    "C": "本項敘述錯誤。psychosis 的定義就包含 reality testing 受損；病人通常難以以反證修正妄想或辨認幻覺非真實。",
    "D": "本項的 temporal 不是本題答案。顳葉癲癇（temporal lobe epilepsy）可出現嗅幻覺等 aura，評估新發精神症狀時要注意神經學病因。",
    "summary": "Psychosis 的關鍵不是『怪想法』而是 reality testing 壞掉；cocaine 的 formication 和 temporal lobe 的嗅幻覺都要記。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66031,7 +66302,10 @@
    "C": "正確。暴露與反應預防（exposure and response prevention）等行為治療，合併 SSRI 或 clomipramine，對 OCD 有實證療效。",
    "D": "lithium 並非 OCD 首選，所以本項不選。lithium 主要是 bipolar disorder 的 mood stabilizer，不是 OCD 首選；難治 OCD 的增強策略也須由專科個別決定。",
    "summary": "OCD 最重要的行為治療是 ERP：碰到觸發物，但不做 ritual；再搭 SSRI/clomipramine 才對核心循環下手。",
-   "guideline": "FC 醫學(四)第3冊 p.69"
+   "guideline": "FC 醫學(四)第3冊 p.69",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66069,7 +66343,10 @@
    "C": "本項的 major 不是本題答案。bipolar I 的 substance use、panic disorder 與 OCD 等共病負擔可高，臨床上須主動篩檢。",
    "D": "本項敘述錯誤。bipolar II 並不因沒有 full mania 就代表自殺死亡風險較低；其鬱期負擔與自殺風險可很高，發病年齡也不能概括較晚。",
    "summary": "Bipolar II 不是『比較輕的 bipolar』：雖無 full mania，鬱期與自殺風險仍可能很重。",
-   "guideline": "FC 醫學(四)第3冊 p.41"
+   "guideline": "FC 醫學(四)第3冊 p.41",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66107,7 +66384,10 @@
    "C": "本項的 basal 不是本題答案。基底核功能過低不是 PTSD 的典型神經影像考點；較常討論的是 amygdala、hippocampus 與 medial prefrontal network。",
    "D": "本項的 parietal 不是本題答案。頂葉鈣化不是 PTSD 的典型病理或影像表現，不能用來解釋本例創傷後症候群。",
    "summary": "創傷後症狀超過 1 個月就想 PTSD；恐懼記憶的核心影像線索是 amygdala，不是頂葉鈣化。",
-   "guideline": "FC 醫學(四)第3冊 p.81"
+   "guideline": "FC 醫學(四)第3冊 p.81",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66224,7 +66504,10 @@
    "C": "正確。急性戒斷過後，craving、睡眠與情緒問題可持續數月，增加復發風險。",
    "D": "本項的 ②③④ 不是本題答案。methadone 和 buprenorphine 不只可協助 withdrawal，也可作長期維持治療，能降低 overdose 與死亡風險，不是戒斷後就不利。",
    "summary": "Opioid 題先分方向：縮瞳呼吸慢＝中毒要 naloxone；瞳孔大腹瀉焦躁＝戒斷，維持治療仍有價值。",
-   "guideline": "FC 醫學(四)第3冊 p.129"
+   "guideline": "FC 醫學(四)第3冊 p.129",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66262,7 +66545,10 @@
    "C": "本項的 不會導致如思 不是本題答案。大量或長期使用 ketamine 可引起 paranoia、hallucinations 等 psychotic-like symptoms，與既有精神病風險互相影響。",
    "D": "本項的 dopamine 不是本題答案。ketamine 主要是 NMDA receptor antagonist，並非像 amphetamine 以 dopamine 系統刺激為主要機轉。",
    "summary": "Ketamine 的關鍵字是 NMDA antagonist 加 dissociation；它不只一種使用途徑，也能出現 psychotic-like symptoms。",
-   "guideline": "FC 醫學(四)第3冊 p.129"
+   "guideline": "FC 醫學(四)第3冊 p.129",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66300,7 +66586,10 @@
    "C": "本項不選。haloperidol 不能補回缺乏的維生素 B1，也不是這組眼部、步態與意識症狀的病因治療。",
    "D": "本項應選。長期飲酒又營養不良時，要把眼震、共濟失調與意識混亂當成 Wernicke 腦病變處理，立即給 thiamine，且應先於葡萄糖補充。",
    "summary": "長期飲酒者一見眼震＋走不穩＋混亂，就先想到 Wernicke 腦病變：先 thiamine，後葡萄糖。",
-   "guideline": "FC 醫學(四)第3冊 p.129"
+   "guideline": "FC 醫學(四)第3冊 p.129",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -66548,7 +66837,10 @@
    "C": "本項不選。恐慌發作通常在數分鐘內達到高峰，心悸、喘、胸悶與瀕死感容易因此被誤以為心肺急症。",
    "D": "本項不選。SSRI 或 SNRI 可作長期維持治療；alprazolam 雖能短期緩解，卻有依賴與戒斷風險。",
    "summary": "恐慌症最要記住「突發、非預期、數分鐘達峰」；長期治療優先 SSRI/SNRI，不靠 alprazolam 維持。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67344,7 +67636,10 @@
    "C": "本項不選。生理性 gynecomastia 在新生兒期、青春期、晚年期三個階段都會出現，分別跟母體荷爾蒙、青春期荷爾蒙比例波動、老化有關，這句沒錯。",
    "D": "本項應選。這是錯的敘述。Klinefelter 症候群（Klinefelter syndrome）確實常有 gynecomastia，但這群人的男性乳癌風險明顯升高，不能說跟乳癌無關。",
    "summary": "Klinefelter syndrome 是「男性女乳症不增乳癌風險」這句話的重要例外。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -67992,7 +68287,10 @@
    "C": "本項不選。兩者在影像上其實分得開：FNH 典型帶有中央星狀疤痕，用肝膽特異性顯影劑在延遲期會滯留成等訊號或高訊號。腺瘤沒有功能性膽管，延遲期呈現訊號缺損。",
    "D": "本項不選。FNH 既不會惡性化也很少出血，無症狀就定期追蹤即可。真正要考慮切除的是腺瘤，尤其男性、大於 5 公分或已經有症狀的病灶。",
    "summary": "腺瘤會出血又會變壞所以要切，FNH 有中央疤痕又乖只要追蹤；病史裡出現避孕藥先想腺瘤。",
-   "guideline": "FC 醫學(五)第3冊 p.124"
+   "guideline": "FC 醫學(五)第3冊 p.124",
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68219,7 +68517,10 @@
    "C": "本項不選。粗針切片能區分原位癌（in situ）和侵襲癌（invasive cancer）。這一點會決定要不要做前哨淋巴結分期，敘述正確。",
    "D": "本項應選。這是最不恰當的做法。細針穿刺細胞學（fine needle aspiration cytology）只取得細胞，看不到組織結構。它沒辦法確認侵襲性和完整的生物標記。只憑幾顆惡性細胞就切掉整個乳房，證據不夠。",
    "summary": "乳癌動刀前要有能看組織結構的診斷；FNA 抓到惡性細胞不足以單獨拍板全乳切除。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68257,7 +68558,10 @@
    "C": "本項應選。後方回音增強（posterior acoustic enhancement）比較常出現在囊腫或部分良性實質腫塊。惡性比較典型的是後方陰影（posterior shadowing），少數癌雖然也會出現增強，但整體上最不常見。",
    "D": "本項不選。低回音（hypoechoic）是乳癌常見的超音波表現之一，只是單看低回音不夠特異，還要合併形狀和邊緣一起判讀。",
    "summary": "乳癌超音波常見 taller-than-wide、angular margin、hypoechoic 和後方陰影；後方回音「增強」反而偏良性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -68295,7 +68599,10 @@
    "C": "本項應選。etoposide 抑制 topoisomerase II，主要用在小細胞肺癌、睪丸腫瘤，不是乳癌的化療骨幹，乳癌最少用到它。",
    "D": "本項不選。epirubicin 也是 anthracycline，在乳癌輔助化療裡常拿來當 doxorubicin 的替代藥，仍屬常用。",
    "summary": "乳癌化療骨幹是 anthracycline＋taxane；看到 etoposide 要想到小細胞肺癌、睪丸腫瘤，不是乳癌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -71078,7 +71385,9 @@
    "D": "本項不對，White class C 也是 pregestational diabetes 的病程分類，和本題的飲食控制 gestational diabetes 不符。",
    "summary": "White 分類先分 GDM：飲食控制是 A1，需要藥物或 insulin 才是 A2；B、C 留給孕前糖尿病。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72775,7 +73084,10 @@
    "C": "本項不選。生活型態調整達不到目標時，傳統首選是胰島素。部分指引與地區也會使用 metformin 這類口服藥。",
    "D": "本項應選。方向完全相反：得過 GDM 的女性，將來罹患 type 2 diabetes 的終生風險明顯升高，絕不是跟沒得過的人接近。所以產後一定要持續追蹤血糖。",
    "summary": "GDM 不是「生完就沒事」——它是未來 type 2 diabetes 的預告，產後要繼續追。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -73568,7 +73880,10 @@
    "B": "正確答案。每天限水 1.5 L、限 sodium 約 2 g，利尿用 spironolactone 100 mg／furosemide 40 mg 這個比例，是肝硬化腹水的典型起始策略。血鈉偏低時再視情況加強限水。",
    "C": "本項不選。每天灌 2 L normal saline 會增加 sodium 和細胞外液量，讓腹水惡化，不是常規治療。",
    "D": "本項不選。Normal saline 再加補鈉，既沒處理門脈高壓造成的鈉滯留，還會明顯加重腹水和下肢水腫。",
-   "summary": "肝硬化腹水治療核心是限鈉＋以 aldosterone antagonist 為主的利尿；不是灌 saline，也不是補鈉。"
+   "summary": "肝硬化腹水治療核心是限鈉＋以 aldosterone antagonist 為主的利尿；不是灌 saline，也不是補鈉。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -73881,7 +74196,10 @@
    "C": "正確答案。CPP 結晶是菱形或棒狀，在補償偏光顯微鏡下呈**弱正**雙折射——這正好和痛風的針狀、強負雙折射相反。膝關節是常見的侵犯部位。",
    "D": "本項不選。軟骨鈣化（chondrocalcinosis）是 CPPD 的典型影像線索，有時無症狀也看得到。但它不是痛風性關節炎常見的影像，痛風更典型的是侵蝕與痛風石。",
    "summary": "兩種結晶用偏光鏡分：痛風是針狀、強負雙折射；CPPD 是菱形、弱正雙折射。",
-   "guideline": "FC 醫學(三)第4冊 p.116"
+   "guideline": "FC 醫學(三)第4冊 p.116",
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74130,7 +74448,10 @@
    "C": "本項不選。ribociclib 是 CDK4/6 抑制劑，和抗荷爾蒙治療合併，用於荷爾蒙受體陽性、HER2 陰性的晚期乳癌。",
    "D": "本項應選。標靶配錯了：everolimus 是 **mTOR** 抑制劑不是 EGFR 抑制劑。它在乳癌可以和 exemestane 合併，處理特定的抗荷爾蒙治療失效族群。",
    "summary": "乳癌四組標靶配對：pertuzumab–HER2、denosumab–RANKL、ribociclib–CDK4/6、everolimus–mTOR。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74815,7 +75136,10 @@
    "C": "本項不選。肝臟葡萄糖新生在不該進行的時候仍然增加，造成空腹血糖偏高。",
    "D": "本項應選。需要打胰島素只代表 type 2 diabetes 進展了，或當下有急性需求。它不會把疾病變成自體免疫的 type 1 diabetes——分型看的是病因，不是用什麼藥。",
    "summary": "打不打胰島素跟糖尿病分型無關：分型看的是病因（自體免疫 vs 胰島素阻抗），不是治療方式。",
-   "guideline": "FC 醫學(三)第2冊 p.293"
+   "guideline": "FC 醫學(三)第2冊 p.293",
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74894,7 +75218,10 @@
    "C": "本項不選。長期高尿酸會增加尿酸結石的風險，尤其在尿液 pH 偏酸、尿量又少的情況下。",
    "D": "本項應選。無症狀的高尿酸血症**不是**一律要給降尿酸藥。要不要治療得看有沒有痛風發作、痛風石、尿路結石，以及特定的高風險情境與指引建議。",
    "summary": "尿酸高不等於要吃藥——先看有沒有痛風、結石或高風險情境，無症狀者多半只需追蹤。",
-   "guideline": "FC 醫學(三)第2冊 p.310"
+   "guideline": "FC 醫學(三)第2冊 p.310",
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -75530,7 +75857,10 @@
    "B": "正確答案。肝血管瘤（hepatic hemangioma）在 dynamic CT 的典型表現是：動脈期病灶周邊出現不連續的結節狀增強，之後顯影劑慢慢往中央填（peripheral nodular enhancement with central fill-in）。",
    "C": "本項不選。肝血管瘤在 MRI T1WI 通常是低訊號，不是高訊號結節。",
    "D": "本項不選。肝血管瘤的血管腔血流慢，在 T2WI 通常是明顯高訊號，不是低訊號。",
-   "summary": "肝血管瘤的經典影像 ＝ 周邊結節狀增強、之後向心（centripetal）填充。"
+   "summary": "肝血管瘤的經典影像 ＝ 周邊結節狀增強、之後向心（centripetal）填充。",
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -76204,7 +76534,10 @@
    "C": "本項不選。降低鈉攝取可減少腎臟必須排出的溶質負荷，連帶降低尿量，是 CNDI 的非藥物治療原則。",
    "D": "本項不選。thiazide 會造成輕微容量縮減，增加近端水鈉再吸收，反而能讓到達集合管的水量下降並減少多尿。",
    "summary": "腎源性尿崩症不是 ADH 不夠，而是腎臟聽不到 ADH。多數是 X-linked AVPR2，少數才是 AQP2。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78015,7 +78348,10 @@
    "C": "本項不選。雙相疾患患者常有鬱期，且鬱期的總病程往往多於躁期；只出現躁期而從未鬱期者是較少數。",
    "D": "本項不選。急性躁期使用 lithium 時常將血中濃度維持在約 0.6–1.2 mEq/L，仍須依年齡、腎功能與臨床反應調整。",
    "summary": "雙相疾患的雙胞胎一致率高，且患者多數會經歷鬱期；急性期 lithium 常落在 0.6–1.2 mEq/L。",
-   "guideline": "FC 醫學(四)第3冊 p.39"
+   "guideline": "FC 醫學(四)第3冊 p.39",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78053,7 +78389,10 @@
    "C": "本項不選。對嚴重中毒或清除困難者，血液透析能有效移除 lithium，是重要的解毒處置。",
    "D": "本項應選。臨床觀察很重要，但最可靠的監測不能只靠症狀；需測 serum lithium level，並追蹤腎功能、電解質與甲狀腺功能。",
    "summary": "lithium 中毒不能只靠「看起來像不像」：血中濃度配合腎功能與症狀，嚴重時考慮透析。",
-   "guideline": "FC 醫學(四)第3冊 p.39"
+   "guideline": "FC 醫學(四)第3冊 p.39",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78091,7 +78430,10 @@
    "C": "本項應選。診斷思覺失調症前，必須排除 amphetamine 等物質造成的精神病症狀，因物質誘發精神病可有妄想與幻覺。",
    "D": "本項不選。思覺失調症的主要藥物是抗精神病藥；benzodiazepine 只在焦躁、失眠或 catatonia 等特定情況作輔助。",
    "summary": "有妄想幻覺先別急著貼思覺失調症標籤；amphetamine 等物質誘發精神病一定要先排除。",
-   "guideline": "FC 醫學(四)第3冊 p.17"
+   "guideline": "FC 醫學(四)第3冊 p.17",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78266,7 +78608,11 @@
    "C": "本項不選。焦慮疾患多在成年早期或中年出現，但老年期仍可能首次發病，也要排除藥物與身體疾病。",
    "D": "本項不選。年齡增加使呼吸相關睡眠障礙更常見，且可造成白天嗜睡、認知下降與情緒症狀。",
    "summary": "老年新出現焦慮不能只當心理問題；同時要想睡眠呼吸障礙、藥物與身體疾病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd",
+    "somatic-factitious-malingering"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78337,7 +78683,10 @@
    "C": "本項不選。methadone 是 opioid agonist，會造成身體依賴；治療價值在穩定受體刺激、避免非法 opioid 的高低起伏。",
    "D": "本項應選。長期穩定治療後，methadone 的效應通常可覆蓋 24 小時以上，因此多採每日一次口服給藥。",
    "summary": "Methadone 是口服、每日一次的 opioid 維持治療；它會依賴，但可把危險的非法使用變成穩定治療。",
-   "guideline": "FC 醫學(四)第3冊 p.127"
+   "guideline": "FC 醫學(四)第3冊 p.127",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78375,7 +78724,10 @@
    "C": "本項不選。短效、起效快的 BZD 較容易出現強烈的增強感與戒斷波動，濫用風險通常較高。",
    "D": "本項不選。BZD 使用疾患不能用性別作可靠判斷；應看處方暴露、共病物質使用與取得方式。",
    "summary": "BZD 戒斷像酒精戒斷：焦慮失眠，嚴重可抽搐；短效藥停得快，戒斷常來得更早。",
-   "guideline": "FC 醫學(四)第3冊 p.127"
+   "guideline": "FC 醫學(四)第3冊 p.127",
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -78628,7 +78980,10 @@
    "C": "本項不選。alcohol 戒斷可有顫抖、出汗、心跳快、抽搐或譫妄，危險性較高。",
    "D": "本項不選。benzodiazepine 戒斷會焦慮、失眠、顫抖，嚴重可抽搐；呼吸 10/min 的表現不支持典型戒斷。",
    "summary": "Stimulant 戒斷是「崩掉」：疲倦、嗜睡、低落；opioid、alcohol、BZD 戒斷則多是焦躁與自律神經症狀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79438,7 +79793,10 @@
    "C": "本項不選。自體組織游離皮瓣（free autologous tissue reconstruction）通常優先用內乳血管（internal mammary vessels）當受區血管，位置和管徑比較合適。胸背血管（thoracodorsal vessels）不是一律最佳，還可能要留給背闊肌皮瓣使用。",
    "D": "本項不選。乳房植入物相關間變性大細胞淋巴瘤（BIA-ALCL）主要跟粗糙面義乳（textured implants）有關，已知病例是西方比東方多，不能說西方人比東方人少見。",
    "summary": "義乳重建最普遍但有莢膜攣縮、破裂、感染這些特有風險；DIEP 自然卻不是最常用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -79959,7 +80317,10 @@
    "C": "本項不選。失代償肝硬化常呈高心輸出、心跳快、周邊血管阻力低的高動力循環。內臟血管擴張會讓有效循環血量看似不足，進一步啟動腎素系統。",
    "D": "本項應選。肝硬化的肌肉痙攣和腹水通常伴隨有效動脈血量不足與腎素活性上升，不會是高平均動脈壓。把低血壓寫成高血壓，正好把病理生理方向顛倒。",
    "summary": "肝硬化雖然水腫腹水，動脈端其實是「不夠用」：周邊血管擴張、平均動脈壓低、腎素升高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80064,7 +80425,10 @@
    "C": "本項不選。hamartoma 多為先天性或良性組織發育異常，沒有典型的避孕藥關聯與出血風險。題目的急性腹痛更需要能解釋破裂的病灶。",
    "D": "本項不選。肝血管瘤（hemangioma）在動脈期可見周邊結節狀增強並向心填充，但一般不與避孕藥造成的破裂連結。題幹的避孕藥與腹腔液體把診斷拉向腺瘤。",
    "summary": "年輕女性、避孕藥、肝腫瘤又突然腹痛出血，先想 hepatocellular adenoma；FNH 有中央疤痕，hemangioma 才是典型向心填充。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80288,7 +80652,10 @@
    "C": "本項應選。分散在不同象限、良惡性不明的多處微小鈣化（microcalcifications），可能代表廣泛或多中心病灶。一次局部切除很難同時清乾淨又保住外觀，最不適合保乳。",
    "D": "本項不選。侵襲性乳癌（invasive carcinoma）本身不排除保乳，適當局部切除加放療的存活率和全乳切除相當。",
    "summary": "多象限的可疑鈣化比「淋巴結陽性」或「是侵襲癌」更會擋掉保乳。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80326,7 +80693,10 @@
    "C": "本項應選。這是錯的敘述。攝影在緻密乳房（dense breast）的敏感度反而較差。50 歲以上效果較好，是因為乳腺隨年齡逐漸脂肪化、影像對比變好，不是因為對緻密乳房靈敏。",
    "D": "本項不選。年輕族群的乳癌可能長得快、間隔癌（interval cancer）比例高，加上乳房緻密，一起拉低定期攝影的篩檢效益，這句沒錯。",
    "summary": "攝影在「脂肪型」乳房才敏感；把「50 歲以上較好」歸因於對緻密乳房靈敏，因果剛好講反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83191,7 +83561,9 @@
    "D": "本項不對，規律自我監測血糖能及早調整飲食或 insulin，將血糖維持在目標範圍，可降低巨嬰（macrosomia）機率。",
    "summary": "孕期 insulin 不是全打長效：空腹看 basal、餐後看餐前短效；控制餐後血糖才能減少巨嬰。",
    "guideline": "FC 醫學(六)第1上冊 p.195",
-   "concepts": []
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83229,7 +83601,10 @@
    "C": "本項不選。長效型 nifedipine 口服是孕期慢性高血壓的常用選擇。它同時是急性降壓可以用的口服藥，安全性資料充足。",
    "D": "本項應選。這類藥把胎兒的 renin-angiotensin 系統整個關掉，胎兒腎臟灌流不足就尿不出來。尿少直接造成羊水過少（oligohydramnios），接著是肺發育不全與頭骨骨化不良。第二、三孕期風險最高，血管張力素受體阻斷劑（angiotensin receptor blocker, ARB）同理要停。",
    "summary": "看到孕婦要降壓，先把「-pril」「-sartan」畫掉：胎兒腎臟停工＝羊水乾掉＝肺長不出來。",
-   "guideline": "FC 醫學(六)第1上冊 p.184"
+   "guideline": "FC 醫學(六)第1上冊 p.184",
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -85651,7 +86026,10 @@
    "B": "本項給分。約半數新診斷的肝硬化病人已有胃食道靜脈曲張，這個流行病學描述合理。",
    "C": "本項給分。官方給分，但這句不符現行原則：nonselective beta blockers（NSBB）能降低首次出血和再出血風險，不是只有內視鏡結紮有效。",
    "D": "本項給分。官方給分，但醫學上靜脈曲張出血本身就是肝硬化失代償事件，就算還沒黃疸、腹水、肝性腦病變。",
-   "summary": "本題官方一律給分；但醫學上靜脈曲張出血＝失代償，且 NSBB 可預防出血，四項不能照題面全當對。"
+   "summary": "本題官方一律給分；但醫學上靜脈曲張出血＝失代償，且 NSBB 可預防出血，四項不能照題面全當對。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86073,7 +86451,10 @@
    "C": "本項不選。肺動脈高壓不是它最常見的關節外表現。類風濕性關節炎的肺部問題比較常考間質性肺病、肋膜炎與肺結節。",
    "D": "本項不選。腰椎脊髓病變不是它的典型脊椎併發症。真正要警覺的是頸椎的寰樞椎不穩定造成頸髓病變。",
    "summary": "類風濕性關節炎最常見的關節外問題是骨質疏鬆；脊椎的危險區在頸椎不在腰椎。",
-   "guideline": "FC 醫學(三)第4冊 p.48"
+   "guideline": "FC 醫學(三)第4冊 p.48",
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86111,7 +86492,10 @@
    "C": "本項不選。乾燥症有多種 HLA class II 關聯而且受族群影響，HLA-DR8 不是這四組裡最典型、關聯最強的配對。",
    "D": "正確答案。類風濕性關節炎與 HLA-DRB1 的 shared epitope 等位基因關聯明確，傳統上就概括寫成 HLA-DR4。四個選項裡只有這一組配對是對的。",
    "summary": "這題三個選項都是「病配錯基因」；B*58:01 與 B*15:02 其實是藥物過敏的基因，不是疾病的。",
-   "guideline": "FC 醫學(三)第4冊 p.48"
+   "guideline": "FC 醫學(三)第4冊 p.48",
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86185,7 +86569,10 @@
    "C": "本項不選。局部放射治療涵蓋同側乳房與適當的區域淋巴結，是隱匿性乳癌局部控制的重要手段。",
    "D": "本項不選。全身性化療或抗荷爾蒙治療依淋巴結負荷、ER／PR、HER2 與整體復發風險決定。即使找不到乳房腫塊，仍照推定的乳癌原發生物標記來治療。",
    "summary": "腋下腺癌找不到乳房腫塊＝隱匿性乳癌：照乳癌治，但不必為了「找不到」就切掉整個乳房。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86223,7 +86610,10 @@
    "C": "本項不選。trastuzumab 會造成左心室功能下降，治療期間要定期追蹤心功能。它和 anthracycline 的差別在於較常是可逆的。",
    "D": "本項不選。長期或高劑量類固醇會增加骨頭缺血性壞死的風險，最常侵犯股骨頭。",
    "summary": "四組長期毒性配對：anthracycline–心臟、bleomycin–肺、trastuzumab–心臟、類固醇–股骨頭壞死。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86872,7 +87262,10 @@
    "C": "本項應選。衛教其實非常有效：每天檢查腳、選對鞋、戒菸、早點處理厚繭，可以預防掉很多潰瘍。說「很難透過衛教來預防」與臨床事實不符。",
    "D": "本項不選。潰瘍治療的核心之一就是減壓（off-loading），避免患部持續受壓與反覆摩擦，否則傷口好不了。",
    "summary": "糖尿病足最有效的介入其實是衛教與減壓——不是等潰瘍長出來才處理。",
-   "guideline": "FC 醫學(三)第2冊 p.301"
+   "guideline": "FC 醫學(三)第2冊 p.301",
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -87539,7 +87932,10 @@
    "C": "本項不選。社福介入可能有幫助，但應先確認憂鬱診斷、功能與自殺風險，再依社會需求轉介。",
    "D": "本項應選。正確。GDS 是篩檢工具不是診斷，9／15 提示憂鬱可能，下一步是完整病史、功能與安全評估來確認。",
    "summary": "GDS 9 分不是直接開藥或忽略，而是提醒你把憂鬱診斷與安全評估做完整。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -87758,7 +88154,10 @@
    "C": "本項一律給分，而且就藥理來說這一項才是答案。sulfonylurea 類的 glipizide 關掉 β 細胞的 KATP 通道，不管血糖高低都逼胰島素出來，所以四者中最常低血糖。",
    "D": "本項一律給分。α-glucosidase inhibitor 類的 acarbose 只是延緩醣類吸收，單獨使用不容易低血糖。",
    "summary": "本題官方一律給分。真正要記的是：只有 sulfonylurea 是「不看血糖硬逼胰島素」，所以只有它常低血糖。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -88020,7 +88419,10 @@
    "C": "本項不選。infant of diabetic mother 可出現暫時性 hypertrophic cardiomyopathy。常見 interventricular septal hypertrophy 與 cardiomegaly。",
    "D": "本項應選。這類嬰兒確實容易 hypoglycemia 並可嗜睡、吸吮差，但典型電解質問題是 hypocalcemia，不是 hypercalcemia。",
    "summary": "糖尿病母親嬰兒的高胰島素會帶來巨嬰與出生後低血糖。電解質別背反，常見的是低鈣而非高鈣。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88289,7 +88691,10 @@
    "C": "本項應選。夜尿症的診斷年齡通常是 5 歲以上且持續反覆夜間失禁，不是 4 歲；4 歲仍可能屬膀胱控制成熟中的正常範圍。",
    "D": "本項不選。夜尿症有明顯家族與遺傳傾向；詢問父母童年是否夜尿有助於解釋風險，但不取代找器質性原因。",
    "summary": "夜尿不是 4 歲就下診斷：通常滿 5 歲才算，並先排除便祕、感染與糖尿病等可處理原因。",
-   "guideline": "FC 醫學(四)第1冊 p.203"
+   "guideline": "FC 醫學(四)第1冊 p.203",
+   "concepts": [
+    "nocturnal-enuresis"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90137,7 +90542,10 @@
    "C": "本項不選。valproic acid 可升高 lamotrigine 暴露量，併用時應降低 lamotrigine 起始與加量速度，以減少嚴重皮疹風險。",
    "D": "本項應選。姿態性低血壓主要來自抗精神病藥的 alpha-1 adrenergic blockade，不是 dopamine receptor blockade 本身造成。",
    "summary": "抗精神病藥的副作用要分受體：D2 阻斷帶來 EPS，alpha-1 阻斷才容易姿態性低血壓。",
-   "guideline": "FC 醫學(四)第3冊 p.197"
+   "guideline": "FC 醫學(四)第3冊 p.197",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90170,7 +90578,10 @@
    "C": "本項不選。精神運動遲滯屬較嚴重的鬱症特徵，與雙相光譜的可能性較相關。",
    "D": "本項應選。與明確生活事件相關的單次鬱症發作較不像雙相轉換的典型預測因子；仍不能單靠此項排除雙相疾患。",
    "summary": "鬱症若早發、反覆、帶精神病症狀或明顯遲滯，要主動追問輕躁期；明確壓力事件本身較不提示雙相。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90246,7 +90657,10 @@
    "C": "本項應選。行為治療，尤其漸進暴露（exposure），讓患者反覆安全地面對害怕刺激，是特定畏懼症最有效的治療。",
    "D": "本項不選。抗精神病藥不處理畏懼症的核心恐懼制約；藥物若使用也不是首選。",
    "summary": "特定畏懼症別先找藥：最有效的是漸進暴露，讓大腦重新學會「這個刺激其實安全」。",
-   "guideline": "FC 醫學(四)第3冊 p.61"
+   "guideline": "FC 醫學(四)第3冊 p.61",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90284,7 +90698,10 @@
    "C": "本項應選。反覆突發的心悸、喘、頭暈與瀕死感，檢查排除心肺疾病後，符合恐慌症（panic disorder）的恐慌發作表現。",
    "D": "本項不選。適應障礙須有可辨識壓力源後的情緒或行為反應；題幹重點是非預期、反覆的恐慌發作。",
    "summary": "急診心臟檢查正常又反覆突然覺得要死，先想到恐慌發作；廣泛焦慮則是長期一直擔心。",
-   "guideline": "FC 醫學(四)第3冊 p.61"
+   "guideline": "FC 醫學(四)第3冊 p.61",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90322,7 +90739,10 @@
    "C": "本項應選。抗憂鬱劑不以成癮為典型問題；症狀改善後仍需持續治療一段時間以降低復發，不能在 4–6 週就停藥。",
    "D": "本項不選。三環抗憂鬱劑過量可致嚴重心律不整與死亡；SSRI 的過量安全性相對較好。",
    "summary": "抗憂鬱劑不是成癮藥；剛有效就停最怕復發，療程要依病情持續而非只看前幾週。",
-   "guideline": "FC 醫學(四)第3冊 p.40"
+   "guideline": "FC 醫學(四)第3冊 p.40",
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90429,7 +90849,10 @@
    "C": "本項敘述錯誤。眼球運動異常（ocular motility abnormality）以雙側為主。最常見的是外展神經麻痺與眼球震顫，而且左右可以不對稱。說成單側為主又要求對稱，剛好把臨床表現講反了。",
    "D": "本項敘述錯誤。Korsakoff 的失憶病灶在間腦，主要是乳頭體與視丘背內側核。顳葉內側受損造成的失憶是另一回事，典型見於腦炎或海馬迴病變。壞掉的也不是 short-term memory 本身，而是把新訊息存成長期記憶的能力。",
    "summary": "酒癮病人意識混亂：先打 thiamine 再給糖；Korsakoff 記不住新事的病灶在乳頭體與視丘，不在顳葉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -90467,7 +90890,10 @@
    "C": "本項不選。興奮劑誘發的精神病最像思覺失調症，幻聽是最主要的知覺症狀。視幻覺與觸幻覺會出現但相對少。觸幻覺以蟲爬感最典型，病人會抓到皮膚破皮。",
    "D": "本項應選。這類焦慮與精神病多半在停用後數天到數週內緩解。處置是短期使用抗精神病藥物加上支持性照顧與環境安全。一律吃滿一年是把它當原發性思覺失調症在治，多數人只是多承受副作用。若症狀在戒斷期過後仍持續，才要重新考慮共病的原發精神病。",
    "summary": "興奮劑中毒睡不著、戒斷睡不停；誘發的精神病以幻聽為主，短期用抗精神病藥就好，不必吃滿一年。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92421,7 +92847,10 @@
    "C": "本項不選。2 到 5 公分（2–5 cm）的侵襲癌保乳、前哨淋巴陰性，代表 SLNB 分期已經做完且是陰性，不需要再做 ALND。",
    "D": "本項不選。保乳、只有 1 到 2 顆前哨淋巴陽性、又會做全乳放療和全身藥物治療，正是 Z0011 可以省略 ALND 的情境。",
    "summary": "全乳切除後前哨淋巴陽性＝加做 ALND；同樣陽性但在保乳＋放療下＝可省略（Z0011）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -92459,7 +92888,10 @@
    "C": "正確答案。113 年的政策是提供 45–69 歲、一般風險婦女每 2 年 1 次公費乳房攝影。沒有家族史的人就是從 45 歲開始，這是本題官方答案的時點。",
    "D": "本項不選。50 歲在 113 年確實符合資格，但不是最早可以開始的年齡；一般風險婦女滿 45 歲就能受檢。",
    "summary": "台灣公費乳攝先看年份：113 年一般風險從 45 歲、114 年起下修到 40 歲，都是每 2 年 1 次。",
-   "guideline": "國民健康署：113 年一般風險婦女 45–69 歲每 2 年 1 次，40–44 歲需二等親內乳癌家族史；自 114 年 1 月 1 日起擴大為 40–74 歲婦女每 2 年 1 次。https://www.hpa.gov.tw/Pages/Detail.aspx?form=MG0AV3&nodeid=4878&pid=18916"
+   "guideline": "國民健康署：113 年一般風險婦女 45–69 歲每 2 年 1 次，40–44 歲需二等親內乳癌家族史；自 114 年 1 月 1 日起擴大為 40–74 歲婦女每 2 年 1 次。https://www.hpa.gov.tw/Pages/Detail.aspx?form=MG0AV3&nodeid=4878&pid=18916",
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -93633,7 +94065,10 @@
    "C": "本項不選。化膿性關節炎幾乎都是單一關節急性發作，不會多處對稱侵犯，也不會有這種慢性變形。",
    "D": "正確。片子上呈現雙手對稱、以掌指關節與近端指間關節為主的關節間隙變窄與邊緣性骨侵蝕，加上關節周圍骨質疏鬆，這是類風濕性關節炎的典型組合。它與退化性關節炎最好用的分界是「侵犯哪些關節」：類風濕不碰遠端指間關節，退化性最常從那裡開始。",
    "summary": "手部關節炎看分布：類風濕對稱侵犯掌指與近端指間、跳過遠端；退化性專攻遠端指間並長骨刺。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95084,7 +95519,10 @@
    "C": "本項不選。足月超音波估重的誤差可以到 10～15%，數字本身就不夠準。它既篩不出誰會發生肩難產，更不可能「預防」它發生。",
    "D": "本項不選。計畫性剖腹產只有在估重非常大時才拿出來討論：沒有糖尿病的孕婦以 5,000 公克為門檻，有糖尿病者以 4,500 公克為門檻。估 4,050 公克還差得遠，直接開刀不合適。",
    "summary": "估重 4,050 公克只夠讓你「備好肩難產手法」；排刀的門檻是非糖尿病 5,000、糖尿病 4,500 公克。",
-   "guideline": "FC 醫學(六)第1上冊 p.137"
+   "guideline": "FC 醫學(六)第1上冊 p.137",
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95271,7 +95709,10 @@
    "C": "本項不選。第一次追蹤正常只代表當下的糖代謝沒事。糖尿病是往後幾年慢慢浮現的，所以要維持每 1～3 年一次的定期篩檢。",
    "D": "本項不選。妊娠糖尿病同時預告日後代謝症候群與心血管疾病的風險上升。這群人因心血管疾病住院的機率高於一般孕婦。",
    "summary": "妊娠糖尿病不是生完就結案：4～12 週補一次 75g OGTT，之後每 1～3 年再驗一次。",
-   "guideline": "FC 醫學(六)第1上冊 p.195"
+   "guideline": "FC 醫學(六)第1上冊 p.195",
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -96310,7 +96751,10 @@
    "C": "本項應選。赫伯登結（Heberden nodes）長在遠端指間關節，是退化性關節炎的骨贅。類風濕性關節炎典型會放過遠端指間關節。",
    "D": "本項不選。掌指關節往尺側偏移（ulnar deviation）是類風濕性關節炎的招牌變形，常伴隨腕部滑膜炎與橈側偏移。",
    "summary": "手指按關節分科：DIP 有骨贅想退化性關節炎，MCP／PIP 變形加滑膜炎想類風濕性關節炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97889,7 +98333,10 @@
    "C": "本項不選。心血管疾病確實是慢性腎臟病病人最主要的死因，而且eGFR越低、白蛋白尿越多，這個風險就越高。",
    "D": "本項不選。低蛋白飲食能減輕尿毒素負擔、改善尿毒症狀，但限制過頭會造成蛋白質－熱量耗損，需要搭配營養監測，這句話兩面都講到了。",
    "summary": "台灣新發透析的第一名病因是糖尿病，不是高血壓，這是最容易背錯的一句。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97958,7 +98405,10 @@
    "C": "本項敘述錯誤。OA 的 X 光四件套是不對稱的關節間隙變窄、骨刺（osteophytes）、軟骨下硬化與軟骨下囊腫。**骨侵蝕（bone erosion）不是 OA**，看到它要往發炎性關節炎想。",
    "D": "本項敘述錯誤。腫瘤壞死因子（TNF）不是 OA 的主導機轉，anti-TNF 藥物在一般 OA 也沒有證實的療效。OA 的核心處置是運動、體重管理與症狀控制。",
    "summary": "OA 影像看「窄、刺、硬、囊」四樣；一旦出現骨侵蝕，診斷就要改往發炎性關節炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98024,7 +98474,10 @@
    "C": "本項不選。ixekizumab 同樣是 IL-17A 抑制劑，和 secukinumab 屬同一類，主戰場也在乾癬與脊椎關節炎。",
    "D": "正確答案。tocilizumab 阻斷 IL-6 受體，正是傳統 DMARD 反應不佳的中重度 RA 可加上的生物製劑。用藥期間要追感染、血球（CBC）、肝指數與血脂。",
    "summary": "四個選項先分家：IL-17 與 IL-12/23 是乾癬那一國，IL-6 受體抑制劑才是 RA 這一國。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98162,7 +98615,10 @@
    "C": "本項不選。GnRH agonist 造成可逆的卵巢抑制，常和芳香酶抑制劑、tamoxifen 或其他標靶藥合併使用。",
    "D": "本項應選。芳香酶抑制劑**單獨**用在停經前病人身上最不適宜：卵巢還在運作，雌激素照樣做得出來，藥效會被繞過。要用它就必須同時抑制或去除卵巢功能。",
    "summary": "停經前用芳香酶抑制劑一定要配卵巢抑制——否則卵巢會把藥的效果整個抵銷掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98744,7 +99200,10 @@
    "C": "本項應選。glucagon 的作用完全相反：它促進肝醣分解與葡萄糖新生，是**升**血糖的。臨床上正是拿它來救嚴重低血糖。",
    "D": "本項不選。degludec 是超長效胰島素，主要降低空腹血糖。",
    "summary": "四個裡有兩個是胰島素、一個是口服降糖藥，只有 glucagon 是升血糖——它是低血糖的解藥不是病因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98777,7 +99236,10 @@
    "C": "本項不選。庫欣氏症候群的脂肪重新分布會造成中心性肥胖，是典型表現。",
    "D": "本項不選。肥胖透過胰島素阻抗大幅提高 type 2 diabetes 的風險，兩者關係非常強。",
    "summary": "臺灣腰圍切點男 90、女 80——男女不同是這題唯一的考點。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -100436,7 +100898,10 @@
    "C": "本項不選。IDM 有 hypertrophic cardiomyopathy 等心臟問題風險；呼吸喘時可考慮心臟超音波。",
    "D": "本項不選。LGA 嬰兒增加 shoulder dystocia、鎖骨骨折與臂神經叢傷害等產傷機率，需理學檢查。",
    "summary": "有症狀低血糖先救但也要留 critical sample；IDM 還要連想低鈣、心肌肥厚與 LGA 產傷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -101796,7 +102261,10 @@
    "C": "本項應選。只發作一次就終身不再發的是少數，不是一半。有過一次躁症發作的病人，超過九成會再發作。所以治療重點在長期維持，不是急性期解決就收工。",
    "D": "本項不選。雙相情緒障礙症的平均發病年齡約二十歲出頭，比重鬱症早了十年上下。年輕發病、反覆而短暫的憂鬱，要提高對雙相的警覺。",
    "summary": "躁症發作過一次，九成以上會再來，所以要長期維持治療；bipolar 也比重鬱症早發病約十年。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -101895,7 +102363,10 @@
    "C": "本項不選。多數焦慮症在青少年期到成年早期發病。特定畏懼症更早，廣泛性焦慮症相對晚一些。",
    "D": "本項應選。整群焦慮症的女性盛行率約為男性的兩倍。恐慌症與廣泛性焦慮症的女性比例都明顯較高。只有社交焦慮症的男女比例接近，是要記的例外。",
    "summary": "焦慮症是盛行率最高的一大類，女男約 2:1；記住例外——社交焦慮症男女差不多。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -102030,7 +102501,10 @@
    "C": "本項不選。蟲爬感（formication）是典型的觸幻覺，病人會覺得皮膚底下有蟲在爬。反覆搔抓會留下抓痕與潰瘍，四肢與臉部最常見。",
    "D": "本項不選。處置以短期抗精神病藥物為主，haloperidol 是常用選擇。同時要顧安全環境、水分與電解質。多數症狀在停用興奮劑後數天到數週緩解，不需長期服藥。",
    "summary": "興奮劑精神病＝幻聽＋被害妄想＋蟲爬感，很像思覺失調症；反過來說，以視幻覺為主就要想譫妄或戒斷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -102301,7 +102775,10 @@
    "C": "本項敘述錯誤。被拿來當性侵協助藥物的是 GHB、flunitrazepam 與 ketamine，共同點是鎮靜與順行性失憶。卡西酮的方向剛好相反，會讓人亢奮而不是昏睡。",
    "D": "本項敘述錯誤。常規尿液免疫分析驗不到卡西酮類，也不會報成 ketamine 陽性。要確認得靠 GC-MS 或 LC-MS/MS。這正是它一度在夜店流通而難以查緝的原因。",
    "summary": "卡西酮＝amphetamine 加酮基：催 NE 與 DA、表現躁動高血壓高體溫；常規尿篩驗不到，要靠質譜。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103461,7 +103938,10 @@
    "C": "本項不選。caput medusae 是再通的臍靜脈把左門靜脈與腹壁 epigastric veins 連起來，腹壁靜脈因此放射狀擴張。它是表淺但很有辨識度的側枝循環。",
    "D": "本項應選。酒精性肝硬化的主要阻力在肝竇（sinusoidal）與肝竇後纖維化區域，不是 presinusoidal level。把阻力位置寫到肝竇前，會錯過肝硬化的核心病變。",
    "summary": "肝硬化的門脈阻力卡在 sinusoid，不是前面；臍靜脈再通就會在腹壁畫出 caput medusae。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -103869,7 +104349,10 @@
    "C": "本項不選。HER2/neu 3+ 要走 HER2 陽性路線、優先用抗 HER2 標靶。就算 Ki-67 大於 50% 很高，也不會因此變成 PARP 抑制劑的典型適應症。",
    "D": "本項不選。ER 90%、PR 50% 荷爾蒙受體陽性又 HER2/neu 3+、也沒有 BRCA 突變資訊，治療重點是抗 HER2、內分泌和適當化療，不是 PARP 抑制。",
    "summary": "乳癌用 PARP 抑制劑的關鍵是 germline BRCA1/2 mutation 且 HER2 陰性——受體狀態和 Ki-67 都不是重點。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-drugs"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106404,7 +106887,10 @@
    "C": "正確。4,800 公克的巨嬰經陰道生產，肩膀卡在恥骨聯合後方的機會大幅上升。肩難產（shoulder dystocia）正是妊娠糖尿病巨嬰最典型的產程併發症。",
    "D": "本項不選。妊娠糖尿病不會因為生完就結案。建議產後 6 到 12 週做 75 公克口服葡萄糖耐受試驗複檢。之後每一到三年追蹤一次，因為日後得第二型糖尿病的風險明顯較高。",
    "summary": "妊娠糖尿病生出巨嬰等於血糖沒控好，要警覺肩難產與新生兒低血糖；產後 6 至 12 週還得回來做 OGTT。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106437,7 +106923,10 @@
    "C": "本項應選。胰臟不在子癇前症攻擊的器官名單上。這個病的根本病灶在血管內皮，表現集中在腦、肝、腎、肺與凝血系統。孕婦的急性胰臟炎多半來自膽結石或高三酸甘油酯。",
    "D": "本項不選。血小板低於 100,000/μL 是嚴重子癇前症的明確指標。它反映內皮受損後血小板被大量消耗，也是 HELLP syndrome 的組成之一。",
    "summary": "子癇前症的器官清單是腦肝腎肺加凝血，沒有胰臟；血小板低於 10 萬與右上腹痛都是踩到嚴重線。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107963,7 +108452,10 @@
    "C": "本項不選。類固醇可以口服、肌肉注射，單一大關節也可以考慮關節內注射。NSAIDs 與 colchicine 不適合的人特別用得上。",
    "D": "本項應選。allopurinol 是長期降尿酸藥，對當下的疼痛與發炎沒有作用，急性期單獨給它並不適當。要注意的是：原本就規律在吃的人，發作時通常不需要停藥。",
    "summary": "急性痛風靠 NSAID、colchicine、類固醇止炎；allopurinol 管的是長期尿酸，不是這一次的發作。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108101,7 +108593,10 @@
    "B": "正確答案。老年、吸菸、有動脈粥樣硬化風險，加上突然惡化的高血壓和 creatinine 上升，符合動脈硬化性腎動脈狹窄（atherosclerotic renal artery stenosis）。",
    "C": "本項不選。庫欣氏症候群（Cushing syndrome）常伴向心性肥胖、紫紋、肌無力和糖代謝異常。這一例體重食慾沒變化、又有腎功能惡化，不典型。",
    "D": "本項不選。甲狀腺毒症（thyrotoxicosis）常見體重減輕、心搏過速、顫抖和寬脈壓，跟這一例不符。",
-   "summary": "老年、動脈粥樣硬化高風險者突然出現頑固性高血壓加腎功能惡化，要想到腎動脈狹窄。"
+   "summary": "老年、動脈粥樣硬化高風險者突然出現頑固性高血壓加腎功能惡化，要想到腎動脈狹窄。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108135,7 +108630,10 @@
    "B": "本項應選。這是最明確的錯點。蛋白尿應優先用 ACE inhibitor 或 ARB 來降低腎絲球內壓和蛋白尿，不是 beta blocker 或利尿劑優先。",
    "C": "本項不選。比較年輕的單純高血壓（hypertension）常可選 ACE inhibitor／ARB，要排除妊娠和其他禁忌，敘述可接受。",
    "D": "本項不選。高齡的單純高血壓常以 thiazide-like 利尿劑或長效 dihydropyridine CCB 起始，並注意姿勢性低血壓，敘述可接受。",
-   "summary": "官方 A、B 或 AB 均給分；最明確的錯點是蛋白尿應優先 RAAS blocker，不是 beta blocker／利尿劑。"
+   "summary": "官方 A、B 或 AB 均給分；最明確的錯點是蛋白尿應優先 RAAS blocker，不是 beta blocker／利尿劑。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108201,7 +108699,10 @@
    "B": "本項不選。標準化的居家血壓可顯示診間外的血壓是否正常，也有助於長期追蹤。",
    "C": "本項不選。心臟超音波不能直接確診白袍效應，但可看左心室肥厚等標的器官損害（target-organ damage），對風險評估仍可能有幫助。",
    "D": "正確答案。運動 ECG 主要評估誘發缺血、運動能力和心律，沒辦法判定「診間高、平時正常」的白袍高血壓（white-coat hypertension），幫助最小。",
-   "summary": "白袍高血壓要靠 ABPM 或居家血壓確認；運動 ECG 回答不了診間外平時的血壓。"
+   "summary": "白袍高血壓要靠 ABPM 或居家血壓確認；運動 ECG 回答不了診間外平時的血壓。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108272,7 +108773,10 @@
    "B": "本項不選。肺部檢查和 X 光正常、又沒有喘鳴時，不能先用支氣管擴張劑取代用藥史的評估。",
    "C": "正確答案。治療高血壓後新出現、持續的乾咳，要先問是不是在用 ACE inhibitor。如果相關，可以換其他藥再觀察。",
    "D": "本項不選。還沒檢視常見的藥物原因之前就直接做 CT 不是最優先，除非有警訊或停藥後仍持續。",
-   "summary": "高血壓治療後新發乾咳先查 ACE inhibitor；用藥史優先於影像和症狀藥。"
+   "summary": "高血壓治療後新發乾咳先查 ACE inhibitor；用藥史優先於影像和症狀藥。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108548,7 +109052,10 @@
    "B": "本項不選。舊稱 type 1 HRS 是兩星期內快速惡化的腎衰竭；現在多用 HRS-AKI 概念、依 creatinine 變化定義。",
    "C": "本項給分。這句是錯的：HRS 的機轉是內臟血管擴張（splanchnic vasodilation）讓有效循環量下降，接著腎血管代償性收縮，不是全身血管阻力上升。",
    "D": "本項給分。HRS 預後差、肝移植是根本治療，但移植前可先用 albumin 加血管收縮劑（vasoconstrictor）改善腎功能，不能說「只能靠移植」。",
-   "summary": "HRS 的循環機轉 ＝ 內臟血管擴張＋腎血管收縮；肝移植最根本，移植前有藥物橋接。"
+   "summary": "HRS 的循環機轉 ＝ 內臟血管擴張＋腎血管收縮；肝移植最根本，移植前有藥物橋接。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108965,7 +109472,10 @@
    "C": "本項應選。Clostridium 不在反應性關節炎的經典誘因名單上。那份名單是 Salmonella、Shigella、Yersinia、Campylobacter，加上泌尿生殖道的 Chlamydia。",
    "D": "本項不選。Campylobacter 腸胃炎可以誘發反應性關節炎，在帶有 HLA-B27 等易感體質的人身上更明顯。",
    "summary": "反應性關節炎的四隻腸道菌記法：沙門氏、志賀氏、耶氏、曲狀桿菌；泌尿道那隻是 Chlamydia。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spondyloarthritis-reactive-hla"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109754,7 +110264,10 @@
    "C": "本項應選（官方複選之一）。糖尿病足是神經病變、感染與周邊動脈疾病（PAD）三者一起造成的。把它說成「只有微血管、不是大血管」不成立——缺血正是它難癒合的主因。",
    "D": "本項應選（官方複選之一）。慢性高血糖確實與大血管風險相關。但「嚴格降糖能不能改善大血管結果」在試驗上比微血管複雜得多，官方把這一項也列為不適當。",
    "summary": "本題官方複選 C、D。要記的是糖尿病足是大小血管加神經一起出問題，不是單純微血管病變。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109823,7 +110336,10 @@
    "C": "本項不選。glimepiride 屬 sulfonylurea，過量會持續刺激胰島素釋放，造成長時間的低血糖，而且可能反覆。",
    "D": "本項不選。敗血症會耗盡肝醣、損害葡萄糖新生又大量消耗能量，因此可能造成低血糖。",
    "summary": "thiazide 是把血糖往上推的藥——問「不會低血糖」時它就是答案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -112698,7 +113214,10 @@
    "C": "本項敘述錯誤。第一型只要出現過一次躁期就能診斷，不需要曾經有過鬱期。要求輕躁加鬱期同時存在的是第二型。",
    "D": "本項敘述錯誤。第一型雙相的男女比例大致相當。女性明顯多於男性的是重鬱症，約為兩倍。快速循環型女性較多，但那是亞型不是整體。",
    "summary": "重鬱症女多於男約 2:1、三十幾歲發病；bipolar I 男女相當、二十歲出頭發病，而且一次躁期就能診斷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -112797,7 +113316,10 @@
    "C": "本項不選。這群病人共病焦慮症的比例確實高於一般族群，而且焦慮會讓呼吸更急促，形成惡性循環。",
    "D": "本項不選。這裡描述的是氣管擴張劑過量的交感亢進：心悸、顫抖、焦慮。臨床上用的是 beta-2 agonist，題目寫成 alpha-2 agonists 在用字上有疑義。但官方答案取 (A)，本項不是要挑出來的那一個。",
    "summary": "COPD 與恐慌症是難兄難弟：喘與恐慌發作的身體感受重疊；治喘的 beta-2 agonist 過量又會心悸手抖，看起來更像焦慮。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -112866,7 +113388,10 @@
    "C": "本項不選。憂鬱症的睡眠特徵是 REM 睡眠比例增加、第一段 REM 提早出現，深睡則減少。前額葉功能低下也是常被報告的影像發現。",
    "D": "本項不選。藥物與心理治療都能改變腦部功能，影像研究顯示兩者都可讓異常活性回到接近正常。這也是「憂鬱症是可治療的腦部疾病」這句話的依據。",
    "summary": "壓力讓 cortisol 上去不是下去：急性壓力 HPA 活化，長期高 cortisol 才把海馬迴磨掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -112932,7 +113457,10 @@
    "C": "本項敘述正確。可以只有強迫思考而沒有明顯的外顯行為，這類病人常被漏診，因為看不到反覆洗手或檢查。",
    "D": "本項敘述正確。發病年齡偏早，多數在 25 歲以前，男性又比女性更早發病。",
    "summary": "強迫症的想法是「自我不協調」——病人自己也覺得荒謬卻停不下來；覺得理所當然的是人格特質不是強迫症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -113001,7 +113529,10 @@
    "C": "本項敘述正確。減藥要慢，否則會出現反彈性焦慮與失眠，一般建議每一到兩週減少四分之一劑量。",
    "D": "本項敘述正確。長期使用與記憶損害、譫妄風險上升有關，老年人尤其明顯，也是 Beers 準則列為潛在不當用藥的原因。",
    "summary": "苯二氮平戒斷「短效猛、長效緩」；要停藥先換長效再慢慢減。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -113067,7 +113598,10 @@
    "C": "本項不選。β 阻斷劑可作為輔助控制心跳與血壓，但不能單獨使用——它壓得住交感症狀卻擋不住抽搐。",
    "D": "本項應選。酒精戒斷的抽搐是全身強直陣攣型（大發作），通常在停酒後 12 到 48 小時出現，多為短暫且會自行停止。小發作（失神發作）是兒童原發性癲癇的型態，與這裡完全無關。",
    "summary": "停酒時間軸：6–12 小時發抖、12–48 小時大發作抽搐、48–96 小時震顫性譫妄；治療核心是苯二氮平加補充維生素 B1。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -113133,7 +113667,10 @@
    "C": "本項應選。無價值感與罪惡感一樣要評估，只是要用孩子聽得懂的方式問，例如「你會不會覺得都是你的錯」。跳過這一項會漏掉憂鬱最核心也最與自殺相關的症狀。",
    "D": "本項敘述正確。專注力下降、反應變慢與做白日夢是兒童憂鬱常見的認知表現，也是它與過動症容易混淆的地方。",
    "summary": "兒童憂鬱的臉孔常是易怒、拒學與注意力差；罪惡感與無價值感一定要問，那與自殺風險直接相關。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114498,7 +115035,10 @@
    "C": "本項不選。反覆或無法控制的曲張靜脈出血可考慮 TIPS 降低門脈壓；少數情況才考慮外科分流。它們是針對門脈高壓本身的救援策略。",
    "D": "本項應選。血管攝影栓塞術適合動脈性消化道出血，不是門靜脈高壓造成的靜脈曲張出血。持續出血應優先內視鏡結紮、氣球填塞作橋接或 TIPS。",
    "summary": "食道靜脈曲張出血是門脈壓問題：藥物加內視鏡，失敗就 TIPS；動脈栓塞不是它的止血路線。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -114597,7 +115137,10 @@
    "C": "本項不選。短期明顯增大要重新確認診斷、評估壓迫或破裂風險，可能需要治療。穩定不變的典型病灶通常只追蹤。",
    "D": "本項應選。單純大於 5 cm 的血管瘤不是自動開刀理由；許多大型但無症狀、影像典型的病灶可觀察。真正決定處置的是症狀、併發症、診斷不確定或快速成長。",
    "summary": "肝血管瘤不是大就切：出血、消耗性凝血病、症狀或長很快才是處置理由。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "benign-liver-lesions"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -114840,7 +115383,10 @@
    "C": "本項應選。放射狀疤痕（radial scar）可能和非典型增生或鄰近惡性並存，粗針切片（core biopsy）後常要依大小和取樣一致性決定切除或追蹤。這也是官方給分的選項之一。",
    "D": "本項應選。纖維腺瘤（fibroadenoma）多數良性，但複雜型（complex fibroadenoma）或合併增生性病變時風險可能略增。官方更正為除未作答外一律給分。",
    "summary": "四個選項官方都給分，但風險高低和有無 atypia 各不相同，不能當成一樣高風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -114873,7 +115419,10 @@
    "C": "本項應選。這是錯的敘述。DCIS 的惡性分化度（grade）不能用 papillary、comedo、solid、cribriform 這四種建築型態直接二分。comedo necrosis 確實常對應 high grade。但 papillary 不是一律 high grade，solid、cribriform 也不是一律 low grade。",
    "D": "本項不選。乳癌預後確實跟組織學型態、分化度、ER／PR、HER2/neu 和腫瘤分期有關，這些也決定要不要做全身治療。這句沒錯。",
    "summary": "DCIS 的建築型態（papillary／comedo／solid／cribriform）不等於固定的 grade，尤其別把 papillary 一律當高惡性度。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -114906,7 +115455,10 @@
    "C": "本項應選。這是錯的敘述。重建可以做立即（immediate）、延遲立即（delayed-immediate）或延遲（delayed），沒有「一定要等化療完成半年」這條規則。時機是跟放療和全身治療協調出來的。",
    "D": "本項不選。臨床上接受重建的人確實常較年輕、社經資源較多，這反映的是選擇和醫療可近性的差異，不是手術適應症。這句敘述本身沒錯。",
    "summary": "重建時機可立即也可延遲，「化療後固定等半年」是這題編出來的硬性規則。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -117371,7 +117923,10 @@
    "C": "正確。母體高血糖使葡萄糖大量通過胎盤，胎兒也跟著高血糖，尿中糖分升高造成滲透性利尿；胎兒尿液正是羊水的主要來源，因此羊水量增加。這也解釋了為什麼血糖控制好之後羊水量常會跟著改善。",
    "D": "本項不選。腸胃道閉鎖確實會造成羊水過多（吞不下去），但那是先天結構異常的機轉，不是妊娠糖尿病本身造成的。",
    "summary": "羊水過多的兩條路：胎兒尿太多（母體高血糖造成滲透性利尿）或吞不下去（食道閉鎖、神經肌肉疾病）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117404,7 +117959,10 @@
    "C": "本項應選。碳水化合物不是越低越好。建議占總熱量的 40% 左右並分散到三正餐加二到三次點心，重點在「選複合碳水並平均分配」而不是砍到最低。極低碳飲食會產生酮體，對胎兒神經發育不利。",
    "D": "本項敘述正確。脂肪約占四成，以不飽和脂肪為主。",
    "summary": "妊娠糖尿病飲食是分配問題不是減量問題：醣約 40%、蛋白 20%、脂肪 40%，少量多餐避免酮體。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "gestational-diabetes-idm"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -119091,7 +119649,10 @@
    "B": "本項應選。這是錯的敘述。高血壓確實是中風最重要的可修正危險因子之一，但大多數中風是「缺血性腦梗塞」（ischemic stroke），不是腦出血。",
    "C": "本項不選。中年高血壓和晚年的認知下降、血管性失智（vascular dementia）以及整體失智風險相關，敘述正確。",
    "D": "本項不選。腎臟損傷和收縮壓負荷高度相關，控制血壓和蛋白尿可減緩惡化，敘述正確。",
-   "summary": "高血壓相關中風以缺血性腦梗塞占多數；它也造成心、腎和認知損傷。"
+   "summary": "高血壓相關中風以缺血性腦梗塞占多數；它也造成心、腎和認知損傷。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119263,7 +119824,10 @@
    "B": "本項不選。低血鉀提示原發性醛固酮增多症（primary aldosteronism）或利尿劑的影響，是高血壓機轉的線索。",
    "C": "本項不選。甲狀腺素異常可造成次發性的收縮期或舒張期高血壓。",
    "D": "正確答案。uric acid 常和高血壓、代謝風險相關，但對辨識高血壓的「直接致病機轉」專一性最低。",
-   "summary": "探索次發性高血壓時 creatinine、potassium、thyroid function 可指向病因；uric acid 多半是相關的標記。"
+   "summary": "探索次發性高血壓時 creatinine、potassium、thyroid function 可指向病因；uric acid 多半是相關的標記。",
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119870,7 +120434,10 @@
    "C": "本項不選。ACEi與ARB雙重阻斷（dual blockade）會增加急性腎損傷（AKI）、高血鉀與低血壓的風險，長期腎臟保護效益卻沒有額外增加。就算蛋白尿很嚴重，也不應該兩種藥一起用。",
    "D": "本項不選。腎病症候群的低白蛋白血症，不能靠高蛋白飲食矯正。多吃的蛋白質反而會增加腎絲球內壓力、加重蛋白尿，應該給適量而非高量的蛋白質。",
    "summary": "糖尿病腎病變記SGLT2 inhibitor；RAAS阻斷用ACEi或ARB擇一，不要兩個一起上。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -120005,7 +120572,10 @@
    "C": "正確答案。RA 典型是左右對稱的多關節炎，但**早期可以只從一兩個關節開始**。這一點臨床上很重要：不能因為初期只是單關節炎就把 RA 排除掉。",
    "D": "本項敘述錯誤。遠端指間關節（DIP）通常是 RA 會放過的地方。DIP 被侵犯要先想退化性關節炎或乾癬性關節炎，而不是判斷 RA 比較嚴重。",
    "summary": "RA 看三件事：晨僵長、小關節、左右對稱；DIP 受累是換診斷的訊號，不是嚴重度的指標。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -120760,7 +121330,10 @@
    "C": "本項不選。anti-glutamic acid decarboxylase antibody（anti-GAD65）是 LADA 最常用的胰島自體抗體標記。",
    "D": "本項應選。速度講反了。LADA 的 β 細胞功能流失比典型 type 1 diabetes **慢**，但比 type 2 diabetes 快——它正好卡在兩者中間。",
    "summary": "LADA 是「慢速版的 type 1」：抗體像 type 1、速度介於兩者之間，所以早期看起來像 type 2。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -121123,7 +121696,10 @@
    "C": "本項敘述錯誤。DPP-4 抑制劑單用低血糖確實少，但它對體重是中性的，不以減重見長。這一項把「不易低血糖」對了、「降低體重」錯了。",
    "D": "正確答案。SGLT-2 抑制劑讓葡萄糖從尿排掉，所以帶來輕度體重下降；它也不逼胰島素分泌，單用低血糖風險低。兩個好處都成立。",
    "summary": "「減重＋不易低血糖」兩個都要的是 SGLT-2 抑制劑；DPP-4 抑制劑只有後者，體重是中性的。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-drug-classes"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -121361,7 +121937,10 @@
    "C": "本項不選。痛風的典型影像是關節旁穿鑿狀（punched-out）侵蝕加上突出的骨緣，而且要配合痛風石或尿酸結晶才成立。這裡看不到侵蝕。",
    "D": "正確答案。片子上月狀骨的密度明顯比鄰近腕骨白，外形大致還保留、尚未明顯塌陷——這是月狀骨缺血性壞死，也就是 Kienböck disease。",
    "summary": "月狀骨單獨變白＝Kienböck disease；影像上再往下看的是有沒有塌陷與腕骨排列改變。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -122141,7 +122720,10 @@
    "C": "本項不選。病史、理學與尿液檢查可找出糖尿病、尿崩症、便祕、睡眠呼吸障礙或腎病等次發原因。",
    "D": "本項不選。夜尿與膀胱成熟、夜間 ADH 節律、遺傳、睡眠與心理社會因素都可能有關。",
    "summary": "夜尿先做行為與 alarm，不是先開 desmopressin；先分清單純夜尿和糖尿病、便祕等次發問題。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nocturnal-enuresis"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123633,7 +124215,10 @@
    "C": "本項不選。lurasidone 是雙極鬱期少數有明確適應症的非典型抗精神病藥，代謝副作用也相對少。",
    "D": "本項不選。lamotrigine 對雙極鬱期的預防特別有價值，缺點是要慢慢加量以避免史蒂芬強生症候群。",
    "summary": "雙極鬱期有實證的是 quetiapine、lurasidone、cariprazine、lamotrigine 與鋰鹽；risperidone 是躁期用藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123666,7 +124251,10 @@
    "C": "正確。合併身體症狀障礙症的憂鬱症病人，電痙攣治療的反應明顯較差。同樣預測反應差的還有人格障礙共病與長期慢性化的病程；反過來，有精神病症狀、緊張型或嚴重食慾睡眠障礙的人反應最好。",
    "D": "本項不選。躁期對鋰鹽反應不佳時可以加上電痙攣治療沒錯，但這一項在本題不是最適當的敘述，因為 C 的臨床判準更明確。",
    "summary": "電痙攣治療效果最好的是嚴重、有精神病症狀或緊張型的憂鬱；共病身體症狀障礙或人格障礙時反應差。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123699,7 +124287,10 @@
    "C": "正確。安非他命類戒斷的典型是「當機」：極度疲倦嗜睡、食慾大增、情緒低落，還有生動不愉快的夢境。上夜店後兩三天發作的時間軸也吻合。這一型戒斷沒有生命危險，處置以支持療法與觀察自殺風險為主。",
    "D": "本項不選。鎮靜安眠藥戒斷會焦慮、失眠、發抖甚至抽搐，與嗜睡食慾增加相反。",
    "summary": "戒斷方向記反差：刺激劑戒斷是「累、餓、做惡夢」，鴉片與酒精戒斷則是「亢奮、失眠、冒汗」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123831,7 +124422,10 @@
    "C": "正確。大多數病人是持續且慢性化的病程，症狀強度隨壓力起伏但不會完全消失，約只有兩成能完全緩解。這也是治療要長期維持、不能症狀一好就停藥的原因。",
    "D": "本項不選。它不像退化性疾病那樣持續惡化，治療下多數可以顯著改善功能。",
    "summary": "強迫症是慢性病：治療反應慢、需要高劑量血清素回收抑制劑加暴露不反應法，症狀起伏但不會自行痊癒。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123864,7 +124458,10 @@
    "C": "本項不選。雙極情緒障礙症的共病以物質使用與焦慮症為主，但不是懼曠症最經典的配對。",
    "D": "正確。懼曠症與恐慌症的關係最緊密：病人因為害怕在難以脫身或無人求助的場合發生恐慌發作，才開始避開人多、密閉或獨自外出的情境。DSM-5 已把兩者拆成獨立診斷，但臨床上仍常常並存。",
    "summary": "懼曠症的核心是「怕在逃不掉的地方發作」，所以與恐慌症最常共病；治療同樣走 SSRI 加暴露療法。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123930,7 +124527,10 @@
    "C": "本項不選。派醋甲酯（利他能）是治療過動症的刺激劑，機轉與古柯鹼類似但作用較緩。",
    "D": "正確。愷他命是 NMDA 受體拮抗劑，屬於解離性麻醉劑而不是刺激劑。它造成的是解離、幻覺與鎮靜，長期使用還會造成膀胱纖維化（愷他命膀胱炎）與認知損害。",
    "summary": "刺激劑走多巴胺（古柯鹼、安非他命、派醋甲酯）；愷他命走 NMDA 拮抗，屬解離劑。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123963,7 +124563,10 @@
    "C": "本項不選。大麻造成的是欣快、結膜充血、心跳加快與食慾「增加」，食慾降低方向相反。",
    "D": "本項不選。幻覺劑以知覺扭曲與幻覺為主，瞳孔放大，但不會有這樣典型的食慾抑制與高血壓組合。",
    "summary": "刺激劑中毒的四件事：不想吃、睡不著、血壓心跳高、疑神疑鬼；大麻反而讓人變餓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -124235,7 +124838,10 @@
    "C": "本項不選。它的作用時間只有 30 到 90 分鐘，比多數鴉片類藥物短，所以病人可能在藥效退去後再度呼吸抑制，必須重複給藥或持續輸注並持續觀察。",
    "D": "本項不選。給了之後可能誘發急性戒斷：噁心嘔吐、激躁、心跳快血壓高，成癮者尤其明顯，所以劑量要慢慢調到呼吸恢復就好，不必追求完全清醒。",
    "summary": "naloxone 的兩個陷阱：作用時間比毒品短（會反彈）、給太快會誘發急性戒斷；目標是恢復呼吸不是叫醒他。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -124670,7 +125276,10 @@
    "C": "本項不選。intrahepatic vascular occlusive disease 通常造成肝竇或肝竇後微血管阻塞，不能作為最典型的 presinusoidal 答案。",
    "D": "正確。sarcoid 的肉芽腫可分布於 portal tracts，阻礙門脈血進入肝竇，屬 presinusoidal portal hypertension。它常在肝功能尚未非常差時就出現門脈高壓。",
    "summary": "門脈高壓先問阻力在哪：sarcoid 的 portal tract granuloma 在 sinusoid 前；心衰竭則在肝臟後面。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -124771,7 +125380,10 @@
    "C": "本項不選。BRCA1 突變帶因者屬高風險族群。乳房磁振造影（MRI）對多發病灶、對側病灶和緻密乳房敏感度高，可以當完整評估的一環。",
    "D": "本項應選。這是最不適合的檢查。正子斷層造影（positron emission tomography, PET）不用在可觸摸乳房腫塊的初始診斷，也不能取代局部影像和組織切片，通常留給較晚期的分期情境。",
    "summary": "可疑乳房腫塊先做局部影像（超音波／攝影／MRI）加組織切片；PET 不是初始檢查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -125899,7 +126511,10 @@
    "C": "本項不選。侵襲性乳癌（invasive breast cancer）一定要排除，尤其分泌物是血性、又合併腫塊或皮膚變化時，但它不是最常見的病因。",
    "D": "本項不選。乳房纖維囊腫變化（fibrocystic change）造成的是週期性疼痛、結節感或囊腫，比較不會是單一乳管持續分泌。",
    "summary": "單側單一乳管的乳頭分泌物，最常見是 intraductal papilloma，但血性或合併腫塊時要排除惡性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -125932,7 +126547,10 @@
    "C": "本項不選。純 DCIS 沒有侵襲、也沒有淋巴結轉移，輔助化療沒有適應症。腫瘤大於 5 公分（>5 cm）也不會把原位癌變成需要化療的疾病。",
    "D": "本項不選。Oncotype 這類復發風險基因檢測是用在特定的侵襲性、HR 陽性／HER2 陰性乳癌。這例全乳切除後是純 DCIS，不靠它決定要不要化療。",
    "summary": "純 DCIS 不套用侵襲癌的「>5 cm 就化療或放療」規則；HR 陽性時內分泌治療主要在防新發病灶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-cancer-local-therapy"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -128295,7 +128913,10 @@
    "C": "本項不選。單純子癇前症的前提是原本血壓正常，她在 16 週前就診斷高血壓並服藥，屬於慢性高血壓。",
    "D": "正確。20 週前就存在的高血壓屬於慢性高血壓；到 28 週突然血壓飆高並出現蛋白尿、血小板低下與肝功能異常，代表在慢性高血壓的基礎上疊加了子癇前症。這個診斷的意義在於處置更積極：要評估器官侵犯、給硫酸鎂預防抽搐，並依週數與嚴重度決定生產時機。",
    "summary": "看兩件事定名稱：20 週前有沒有高血壓（慢性 vs 妊娠），以及有沒有蛋白尿或器官侵犯（是否加上子癇前症）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -130359,7 +130980,10 @@
    "B": "正確答案。Lactulose 把結腸酸化，讓 NH3 變成較不易吸收的 NH4+，再靠瀉劑效應增加含氮廢物排出，是明顯肝性腦病變（overt hepatic encephalopathy）的治療主力。",
    "C": "本項不選。neomycin 和 metronidazole 可減少腸道產氨菌，但會被全身吸收，造成腎毒性（nephrotoxicity）、耳毒性（ototoxicity）或神經毒性，不能說「避免副作用」。",
    "D": "本項不選。rifaximin 的特色是腸道幾乎不吸收，常和 lactulose 合用來預防復發；「全身吸收率高」剛好講反。",
-   "summary": "肝性腦病變先找誘因、用 lactulose；rifaximin 低吸收，多用於預防復發或合併治療。"
+   "summary": "肝性腦病變先找誘因、用 lactulose；rifaximin 低吸收，多用於預防復發或合併治療。",
+   "concepts": [
+    "portal-hypertension-cirrhosis"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130560,7 +131184,10 @@
    "C": "本項不選。糖尿病是慢性腎臟病最重要的病因與危險因子之一，長期高血糖會造成腎絲球過度過濾與微血管損傷。",
    "D": "本項不選。高血壓會造成腎小動脈硬化（nephrosclerosis），也會加速任何原發性慢性腎臟病的惡化。",
    "summary": "慢性腎臟病危險因子記糖尿病、高血壓、吸菸；一般飲酒不在核心清單裡。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-evaluation-drug-choice"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131457,7 +132084,10 @@
    "C": "本項不選。SIADH的慢性維持期治療可以用限水療法。但如果是像這位病人一樣有嚴重神經症狀，當下應該先用高張生理食鹽水處理，而不是只靠限水，這句話講的是慢性期做法，本身沒有錯。",
    "D": "本項不選。小細胞肺癌生長速度快，而且常常異位分泌抗利尿激素（ADH）。跟鱗狀細胞癌相比，更符合這個病人短期內長到10公分的腫瘤，加上SIADH的表現。",
    "summary": "嚴重症狀性低血鈉，頭24小時只能小幅上升約4到6 mEq/L，衝到正常值反而會造成永久腦傷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "polyuria-di-siadh"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131594,7 +132224,10 @@
    "C": "本項敘述錯誤。方向相反：亞洲族群常在較低 BMI 就出現較差的 β 細胞儲備；西方族群則以肥胖相關的胰島素阻抗更突出。",
    "D": "正確答案。糖尿病人的胰島素阻抗主要是受體後（postreceptor）訊號傳遞出問題，不是受體本身普遍缺失。這也是為什麼補胰島素可以壓血糖，卻改不掉根本的阻抗。",
    "summary": "胰島素阻抗的問題出在受體「後面」的訊號，不是受體不夠——這解釋了為什麼打再多胰島素也治不好阻抗。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -132585,7 +133218,10 @@
    "C": "正確。不論哪一型，飲食控制與規律運動都是治療的基礎：第一型需要靠醣類計算來配合胰島素劑量，第二型則靠減重與運動改善胰島素阻抗。這也是照護上唯一兩型共通的處方。",
    "D": "本項不選。第一型不是先天性疾病，而是後天的自體免疫破壞；第二型也不只是吃出來的，遺傳背景與胰島素阻抗同樣關鍵。",
    "summary": "兩型糖尿病的共同基礎是飲食與運動；差別在第一型是免疫破壞 β 細胞、第二型是胰島素阻抗。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "diabetes-types-t1-t2-lada"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -134489,7 +135125,10 @@
    "C": "本項敘述正確。第一型的躁期至少要持續一週（或任何時間長度但需住院）。",
    "D": "本項應選。第二型的輕躁期只需要至少四天，不是一週。這個數字差別是兩型鑑別的關鍵之一——另一個關鍵是輕躁期不會造成明顯功能損害、也沒有精神病症狀。",
    "summary": "躁期一週、輕躁期四天；輕躁不影響功能也沒有精神病症狀，否則就是躁期。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -134654,7 +135293,10 @@
    "C": "本項敘述正確。血清素回收抑制劑與血清素正腎上腺素回收抑制劑是焦慮症的第一線藥物，苯二氮平只作短期橋接。",
    "D": "本項應選。目前沒有任何影像生物標記可以用來診斷焦慮症。影像研究看到的是群體層次的差異（例如杏仁核反應性），個體層次無法拿來診斷，這一點在所有精神疾病都一樣。",
    "summary": "精神科目前沒有可診斷用的影像或抽血標記；焦慮症的診斷靠病史與症狀，第一線治療是 SSRI/SNRI 加認知行為治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -134687,7 +135329,10 @@
    "C": "本項敘述正確。青少年憂鬱常以反社會行為、逃學、易怒或物質使用表現，不一定講得出情緒低落。",
    "D": "本項敘述正確。重鬱症病人終身自殺死亡率約在一成上下，住院過的重症族群更高。",
    "summary": "看到憂鬱先問有沒有躁症史：雙極鬱期自殺風險更高，而且單用抗憂鬱劑可能把人推進躁期。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "bipolar-vs-major-depression"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -134786,7 +135431,10 @@
    "C": "本項不選。酒精誘發的憂鬱情緒多在戒酒後二到四週自行改善，一般建議先觀察再決定要不要用抗憂鬱劑，以免把物質造成的情緒變化誤當成原發憂鬱症。",
    "D": "本項不選。酒精相關焦慮疾患中自陳有恐慌發作的比例遠高於兩成，戒斷期間尤其常見。",
    "summary": "物質誘發的精神症狀要看「停用後會不會好」：酒精誘發的幻覺與憂鬱多在數週內恢復，持續不退才想原發疾病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "substance-intoxication-withdrawal"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -136705,7 +137353,10 @@
    "C": "本項不選。直接開刀前應先做針刺切片確認病理和受體狀態，這樣手術方式和腋下分期才能事先規劃。",
    "D": "本項不選。乳房攝影（mammogram）陰性不能抵銷 MRI 上這個可疑的 washout 病灶。如果病灶只在 MRI 看得到，應該考慮 MRI 導引切片（MRI-guided biopsy）。",
    "summary": "MRI 出現可疑 washout pattern 就要取得組織；其他影像陰性不能把它降級成追蹤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "breast-imaging-biopsy-lesions"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -137558,7 +138209,10 @@
    "C": "本項官方列為可給分。前半段沒問題：夜尿警鈴與 desmopressin 都是第一線且證據強，desmopressin 起效也確實快。爭議在最後一句把停藥講得太死——臨床上會先確認晚上有沒有限水、服藥時間對不對，調整後再評估，通常給到 1–2 週才判定無效。",
    "D": "本項應選。目前找到的夜尿症風險基因座在第 13 號（ENUR1）、第 12 號與第 22 號染色體，不是第 6 號與第 11 號。這題官方公告 C、D、CD 都給分。",
    "summary": "單症狀尿床第一線＝夜尿警鈴或 desmopressin；基因座記 13q（ENUR1），不是 6 或 11。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "nocturnal-enuresis"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -139190,7 +139844,10 @@
    "C": "本項不選。前一胎有子癇前症是最強的單一危險因子，再發率可達兩成以上，這類孕婦要從 12 到 16 週開始吃低劑量阿斯匹靈預防。",
    "D": "本項不選。高齡（大於 35 歲）會增加子癇前症風險。",
    "summary": "子癇前症危險因子：初產、前胎病史、高齡、肥胖、多胎、慢性高血壓與糖尿病；抽菸反而是唯一降低風險的（但別學）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139223,7 +139880,10 @@
    "C": "本項應選。舌下給 nifedipine 會讓血壓急速下降，造成胎盤灌流驟減與胎兒窘迫，而且降幅難以預測，現行指引明確不建議。要用 nifedipine 就用口服短效劑型並監測血壓。",
    "D": "本項不選。目標是把血壓降到收縮壓 140 到 150、舒張壓 90 到 100 左右，避免降得太低影響胎盤灌流，本項的敘述在合理範圍。",
    "summary": "孕期高血壓危象三線用藥：靜脈 labetalol、靜脈 hydralazine、口服短效 nifedipine；舌下給藥是禁忌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139256,7 +139916,10 @@
    "C": "本項不選。足細胞的小足在早期大致保留、彼此緊靠，與微小變化腎病變那種廣泛小足消失不同。",
    "D": "本項不選。內皮腫脹使整個腎絲球體積變大、微血管腔被塞住，切片下看起來腫脹無血色。",
    "summary": "子癇前症的腎臟變化是內皮腫脹加窗孔關閉——過濾面積變小，所以尿酸上升、過濾率下降。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypertension-in-pregnancy"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140097,7 +140760,10 @@
    "C": "本項敘述正確。抗瓜胺酸化蛋白抗體陽性者關節破壞較快、預後較差，是重要的預後指標。",
    "D": "本項敘述正確。長期發炎造成尺側偏移、天鵝頸與鈕扣狀變形等典型手部變形。",
    "summary": "類風濕性關節炎是免疫過度活化的滑膜炎；ACPA 陽性代表病情較猛，要及早用疾病修飾藥物。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "arthritis-ra-oa-gout-cppd"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
