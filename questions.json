@@ -103,7 +103,10 @@
    "C": "休克（shock）造成組織灌流不足與熱量散失，末梢循環及代謝失衡可伴低體溫，也是嚴重感染或創傷預後不良的警訊。",
    "D": "營養不良（malnutrition）使皮下脂肪隔熱與產熱所需能量不足，遇冷、感染或慢性病時更容易發生低體溫。",
    "summary": "低體溫風險來自產熱不足、散熱增加或調節失常；健康中年本身並非危險因子。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2445,7 +2448,10 @@
    "C": "生物心理社會模式（biopsychosocial model）會同時排除內分泌或感染等身體病因，評估焦慮、憂鬱與睡眠，並探索換工作及職場壓力，最符合此多面向個案。",
    "D": "民族醫療文化模式適用於文化信念、傳統療法或疾病歸因明顯影響照護的情境；題幹沒有文化衝突或族群醫療信念的線索。",
    "summary": "換工作後出現長期睡眠、情緒與身體症狀，應用 biopsychosocial model 同時處理生物、心理與社會因素。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2483,7 +2489,10 @@
    "C": "青少男在 testosterone 刺激 erythropoiesis 後，紅血球量與 hemoglobin 通常高於青少女；月經失血也使女性平均值較低，因此本項方向顛倒。",
    "D": "女性通常較早進入青春期與出現身高成長最大速率（peak height velocity）；男性起始較晚，最大速率也較晚但成長幅度較大。",
    "summary": "青春期男性較晚抽高、肌肉與紅血球量增加較多；說男性 hemoglobin 低於女性是錯誤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2639,7 +2648,10 @@
    "C": "個人空間（personal space）約為 45～120 cm，0～45 cm 才是親密空間；題目把下限錯置為零。",
    "D": "醫護人員問診與檢查常需進入患者的個人甚至親密空間，因此應先說明、取得同意並維持隱私，這是臨床空間溝通的重點。",
    "summary": "常用人際距離由近至遠為 intimate、personal、social、public；臨床檢查進入近距離前需先告知。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2677,7 +2689,10 @@
    "C": "過敏性肺炎（hypersensitivity pneumonitis）是對黴菌、鳥類蛋白等有機抗原的免疫反應，不是典型由無機物質暴露造成。",
    "D": "職業危害最有效的控制依 hierarchy of controls 優先消除或替代危害，再採工程與行政控制；個人防護具位於較後層，不能取代源頭控制。",
    "summary": "職業肺病先辨識暴露種類並依控制層級從源頭預防；PPE 不是最有效的第一順位。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2715,7 +2730,10 @@
    "C": "焦慮、家庭互動、孤立與靈性痛苦會放大 breathlessness 的主觀感受；評估不能只看氧氣飽和度或影像。",
    "D": "Morphine 等 opioids 可緩解難治性末期呼吸困難，但須依症狀強度、腎功能與既往 opioid 暴露個別滴定；並非不論原因與嚴重度都一律使用。",
    "summary": "末期 dyspnea 要先找可逆原因並做全人評估；opioids 適用於持續難治症狀，不是無條件使用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -5482,7 +5500,9 @@
    "D": "重鬱症（major depressive disorder）可在移植後發生，風險與疾病負擔、功能受限、免疫抑制藥物及社會心理壓力有關，並會影響治療遵從性。",
    "summary": "移植後常見 depression、adjustment disorder 與創傷症狀；孤立的 delusional disorder 最不典型，應先查器質性原因。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5639,7 +5659,9 @@
    "D": "妄想症（delusional disorder）可在中晚年出現，老年期以被害型內容常見；新發妄想仍須排除 neurocognitive disorder、delirium、感官缺損與藥物因素。",
    "summary": "老年 psychosis 並非對 antipsychotics 普遍無效；治療重點是低劑量、慢調整及嚴密監測不良反應。",
    "guideline": "FC 醫學(四)第3冊 p.154",
-   "concepts": []
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5842,7 +5864,9 @@
    "D": "ADHD 與後續 bipolar disorder 風險增加有關，但躁症診斷仍需 episodic mood elevation/irritability 與能量增加，不能把慢性過動直接當成躁症。",
    "summary": "ADHD 常與 ODD、anxiety、specific learning disorder 共病；診斷彼此不互斥。",
    "guideline": "FC 醫學(四)第1冊 p.325",
-   "concepts": []
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -12459,7 +12483,10 @@
    "C": "神經學檢查可尋找局部缺損、腦膜刺激徵與意識層級變化，協助區分 stroke、seizure、中樞感染及代謝性 encephalopathy。",
    "D": "CBC、電解質、肝腎功能可辨識感染、低鈉、尿毒或藥物清除異常等常見可逆誘因，屬合理的初始檢驗。",
    "summary": "老人急性意識改變先做病史、用藥核對、全身及神經檢查與基本檢驗；LP 依中樞感染疑慮選擇。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14972,7 +14999,10 @@
    "C": "青少年應於約 11～12 歲接受一次 Tdap，未完成者可補接；它補強 tetanus、diphtheria 與 pertussis 保護。",
    "D": "Zoster vaccine 用於較高年齡或特定免疫低下成人，健康 15 歲青少年沒有常規接種適應症，因此是目前最不需要者。",
    "summary": "15 歲應確認 HPV、Tdap 與其他補接疫苗；zoster vaccine 並非健康青少年的常規疫苗。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15005,7 +15035,10 @@
    "C": "周全性照顧（comprehensive care）不只處理咳嗽，還主動涵蓋疫苗預防、營養與心理睡眠等需求，正是題幹的多面向看診。",
    "D": "負責性（accountability）是對照護品質、資源運用與結果負責；它不是本題同時詢問預防及身心問題所呈現的主要特色。",
    "summary": "一次就診除主訴外同時涵蓋預防、營養與心理需求，體現家庭醫學的 comprehensive care。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15043,7 +15076,10 @@
    "C": "5 分鐘暖身、20 分鐘主要運動與 5 分鐘緩和可作起始結構；之後應依耐受度逐步增加總運動時間。",
    "D": "每週至少 3 天有氧活動是可接受起點；心血管預防通常鼓勵分散於更多天並累積足夠週總量。",
    "summary": "運動處方不能把預估最大心率 150/min 當 70 歲者的中等強度目標，強度須個別化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15122,7 +15158,10 @@
    "C": "聆聽階段維持約八成時間的眼神接觸可傳達專注，同時保留自然移開視線的空間；此為本題採用的溝通觀察值。",
    "D": "憂鬱患者常減少 eye contact、視線較低或反應遲緩，不會典型維持非憂鬱患者三倍的眼神接觸時間。",
    "summary": "有效 eye contact 是適度而非全程凝視；聆聽時約八成可傳達專注，憂鬱患者反而常減少目光接觸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15160,7 +15199,10 @@
    "C": "民眾健康識能充足有助理解風險與參與選擇，屬促進因素而非障礙；真正的挑戰是健康識能不足或資訊呈現不合適。",
    "D": "缺乏 decision aid、風險圖示或適當語言教材，會使選項比較困難，因此是落實共享決策的實際障礙。",
    "summary": "SDM 的障礙包括權威文化、時間不足、低健康識能與缺乏決策工具；充足識能不是障礙。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -15198,7 +15240,10 @@
    "C": "在宅死亡可依患者價值維持隱私、陪伴與自主，因而可能提升尊嚴；前提是患者意願、家屬能力與醫療支持均被確認。",
    "D": "家中缺乏即時檢查、注射、設備與 24 小時人力時，症狀控制未必比機構方便；需要完善居家團隊及緊急支援才能安全處理。",
    "summary": "居家安寧的優勢是熟悉、自主與可能減少支出，但症狀處置便利性取決於團隊與設備，不能一概而論。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -17790,7 +17835,9 @@
    "D": "Schizophrenia 整體暴力風險可受 untreated psychosis、物質使用與既往暴力提高，但多數患者不暴力；題目區分一般 aggression 與罕見 homicide。",
    "summary": "Schizophrenia 以 auditory hallucination 常見；olfactory hallucination 非典型，應先排器質性原因。",
    "guideline": "FC 醫學(四)第3冊 p.22",
-   "concepts": []
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -17983,7 +18030,10 @@
    "C": "本項不選。厭食症的兩個代謝矛盾要一起記：肝醣耗竭造成低血糖，但膽固醇反而升高（甲狀腺功能下降、膽酸代謝改變）。看到「瘦到皮包骨卻高膽固醇」不要以為驗錯了。",
    "D": "本項不選。ipecac（emetine）是催吐劑，會累積在心肌與骨骼肌造成心肌病變與肌病變，嚴重可致命。這是暴食症患者一個常被忽略的致死原因。",
    "summary": "厭食症住院門檻記 75% 理想體重；治療最怕的是再餵食症候群，所以要有內科監測，不是挑哪一科病房的問題。",
-   "guideline": "APA Eating Disorders 指引：體重低於理想體重 75% 為住院適應症之一"
+   "guideline": "APA Eating Disorders 指引：體重低於理想體重 75% 為住院適應症之一",
+   "concepts": [
+    "eating-disorders-obesity-psych"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18017,7 +18067,9 @@
    "D": "錯誤。Vitamin B12 與 iron 是預防特定營養缺乏，不會單獨防止 weight regain；復胖涉及飲食行為、胃腸解剖、荷爾蒙與心理因素，須多專業長期介入。",
    "summary": "Bariatric surgery 可改善 type 2 diabetes，但防復胖靠長期多專業追蹤，不是只補 Vitamin B12 與 iron。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "eating-disorders-obesity-psych"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18133,7 +18185,10 @@
    "C": "本項不選。血中酒精 150 mg/dL 的人若還能正常走路說話，代表已經產生耐受性——多半有長期大量飲酒史。這種人反而要提早警覺戒斷症狀。",
    "D": "本項不選。台灣的換算與門檻就是這樣：血液 0.03%（30 mg/dL）約等於吐氣 0.15 mg/L，達到就違規。吐氣達 0.25 mg/L 以上就進入刑事責任。",
    "summary": "酒精中毒會死於呼吸抑制與嗆吸；台灣的酒駕門檻記吐氣 0.15 mg/L 等於血液 0.03%，0.25 mg/L 以上是刑責。",
-   "guideline": "道路交通管理處罰條例：吐氣 0.15 mg/L（血液 0.03%）以上違規；0.25 mg/L 以上涉刑責"
+   "guideline": "道路交通管理處罰條例：吐氣 0.15 mg/L（血液 0.03%）以上違規；0.25 mg/L 以上涉刑責",
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -18330,7 +18385,10 @@
    "C": "洞察力是合適條件。個案要能把反覆的情緒與人際模式連回自己的內在衝突，才能從詮釋中受益。",
    "D": "充分的自我強度是合適條件。自我功能足以承受焦慮、挫折與現實考驗時，深入探索才不會讓病人失去穩定。",
    "summary": "想到心理分析就先看三件事：有沒有動機、能不能建立關係、以及自我是否夠穩；缺低動機最不適合。",
-   "guideline": "FC 醫學(四)第3冊 p.106"
+   "guideline": "FC 醫學(四)第3冊 p.106",
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -25007,7 +25065,10 @@
    "C": "中樞 cholinergic toxicity 可引起意識混亂、癲癇發作（seizure）與昏迷，因此 seizure 是可能表現。",
    "D": "腸胃道 muscarinic stimulation 會增加蠕動與分泌，造成腹痛、腹瀉及大便失禁，符合有機磷中毒。",
    "summary": "有機磷造成 cholinergic toxidrome：分泌增加、腹瀉、縮瞳、支氣管分泌及肌無力，而非口乾少淚。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25045,7 +25106,10 @@
    "C": "Physostigmine 是可進入中樞的 acetylcholinesterase inhibitor，用於特定嚴重 anticholinergic toxicity；有機磷已抑制此酵素，再使用會加重 cholinergic crisis。",
    "D": "Pralidoxime（2-PAM）在酵素 aging 前再活化 acetylcholinesterase，尤其改善 nicotinic manifestation 如 fasciculation 與 weakness，應儘早給予。",
    "summary": "有機磷治療以去污、支持呼吸、atropine 與早期 pralidoxime 為主；physostigmine 會使膽鹼過量更嚴重。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -27442,7 +27506,10 @@
    "C": "家族樹可呈現癌症、心血管病、遺傳疾病與死亡年齡等跨代聚集，協助風險評估與篩檢規劃。",
    "D": "初診可在說明目的並尊重隱私下開始詢問 family history；患者可能不適不代表應一律避免，敏感處可取得同意後逐步補充。",
    "summary": "Genogram 是家庭取向照護的實用工具；初診即可適度建立，不應因假設患者緊張而完全避問。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -27641,7 +27708,10 @@
    "C": "NSAIDs 沒有直接緩解癌症末期 breathlessness 的作用；只有疼痛或特定發炎適應症才使用，且須注意腎臟與胃腸傷害。",
    "D": "Albuterol 適用於 bronchospasm 或可逆性氣流阻塞；題幹只有腫瘤增大且未提供 wheezing，不能期待常規 bronchodilator 最有效。",
    "summary": "末期難治性 dyspnea 可用低劑量 opioids 緩解主觀呼吸困難，效益不以 hypoxemia 為前提。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -30238,7 +30308,10 @@
    "C": "正確。Bleuler 的 4 A 包括 association 障礙、autism、affect 障礙與 ambivalence；它描述的是思覺失調症的基本症狀。",
    "D": "錯誤。多數第二代抗精神病藥仍以 D2 blockade 加上 serotonin 5-HT2A antagonism 為主要藥理特徵，不是以 glutamate 為主。",
    "summary": "Bleuler 的思覺失調症 4 A 是 association、autism、affect、ambivalence；看到這四個 A 就選它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30276,7 +30349,10 @@
    "C": "本項敘述錯誤。思考內容異常是妄想、強迫思考等『相信什麼』的問題；formal thought disorder 是『怎麼把想法組織說出來』。",
    "D": "本項敘述正確。新語症（neologism）是病人自創且旁人無法理解的詞，反映語言與思考組織異常。",
    "summary": "思考形式障礙考的是思路怎麼走、話怎麼組織；妄想才是思考內容。",
-   "guideline": "FC 醫學(四)第3冊 p.20"
+   "guideline": "FC 醫學(四)第3冊 p.20",
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30581,7 +30657,10 @@
    "C": "本項敘述正確。共用針具可直接讓血液暴露，是 HIV 的重要傳播途徑之一。",
    "D": "本項敘述錯誤。HIV 相關精神病症狀較常見於晚期疾病、HIV-related neurocognitive disorder 或中樞神經伺機感染；新發精神病應先找這些器質性原因。",
    "summary": "HIV 病人的新精神病症狀先別急著當原發精神病：它多提示晚期 CNS 疾病、感染或藥物因素。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30737,7 +30816,10 @@
    "C": "本項的 ADHD 不是本題答案。家庭功能不良不是 ADHD 的單一病因，但會影響親職策略、治療遵從與孩子在家中的功能表現。",
    "D": "本項的 過動症狀比注 不是本題答案。過動通常比注意力不足與衝動控制問題更容易隨年齡減輕，因此成人可能主要抱怨分心與組織困難。",
    "summary": "ADHD 不會長大就全好：過動較會退，注意力與衝動問題可留到成人，而且藥物仍有效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -37466,7 +37548,10 @@
    "C": "本項不選。膽囊或膽道發炎可刺激橫膈腹膜，經膈神經轉移到右肩或肩胛下區。",
    "D": "本項應選。轉移痛區本身沒有原發病灶，按壓該處通常不能再製原發痛；應尋找真正病灶及其神經支配。",
    "summary": "看到肩痛合併膽道症狀要想到膈神經轉移痛；轉移痛區不是按壓就能誘發的病灶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39815,7 +39900,10 @@
    "C": "本項應選。正確。整體模式（holistic model）不只問症狀，也把疾病看成患者重新理解生活、關係與價值的可能契機。",
    "D": "本項不選。此項不對。民族醫療文化模式（ethnomedical cultural model）主要探討文化如何塑造病因歸屬與求醫行為，不是三種模式的簡單相加。",
    "summary": "整體照護不只消除症狀，也會把 illness 視為理解患者生活與改變的切入點。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39853,7 +39941,10 @@
    "C": "本項不選。加害者常是有信任關係的照顧者或家人，也可能是機構內其他住民或陌生人。",
    "D": "本項不選。羞辱、威嚇、孤立等言語或非言語行為造成情緒痛苦，就是心理虐待（psychological abuse）。",
    "summary": "長者被推倒受傷先想到身體虐待；忽略是該照顧卻沒有照顧。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39886,7 +39977,10 @@
    "C": "本項不選。青春期肥胖與飲食失調會影響代謝、身體意象和心理健康，應同時和青少年及家屬討論。",
    "D": "本項不選。青少年開始騎車或開車時，要主動問酒精、藥物與其他物質使用，因為它們會降低反應與判斷力。",
    "summary": "青少年門診用 HEADSS 類全人評估：成績只是其中一格，安全、情緒與物質使用同樣重要。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39965,7 +40059,10 @@
    "C": "本項不選。此項屬 Assist。病人已表達想戒菸後，才共同訂停菸日、處理誘因並提供藥物或支持。",
    "D": "本項不選。此項屬 Arrange。約診、電話或其他追蹤是為了預防復吸並及早調整戒菸計畫。",
    "summary": "5A 的轉折是先 Assess：還沒問「30 天內想不想戒」前，不能跳到替他訂戒菸計畫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -40003,7 +40100,10 @@
    "C": "本項不選。實地走訪能發現環境問題，但觀察與零散訪談容易受訪者選擇偏差影響，不能先取代完整的資料盤點。",
    "D": "本項應選。正確。官方衛政統計與既有流病報告可先呈現死亡、疾病、人口與服務缺口的基線，之後再決定需要訪談或調查什麼。",
    "summary": "做社區診斷先看既有官方資料建立地圖，再用訪談和調查補上資料缺口。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -40082,7 +40182,10 @@
    "C": "本項不選。這也是目的。疼痛、呼吸困難、噁心與焦慮等症狀若被控制，生活品質與家屬照顧負荷都會改善。",
    "D": "本項應選。本項不是安寧緩和醫療的主要目的。安寧療護不以延長或縮短生命為目標，而是避免無效侵入處置並改善舒適度。",
    "summary": "安寧療護的方向是活得舒服、走得有尊嚴，不是以延長生命作績效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -42759,7 +42862,10 @@
    "C": "本項的 persecutory 不是本題答案。相信女傭偷錢、試圖加害他，是被害妄想（persecutory delusion）。",
    "D": "正確。思考置入（thought insertion）是相信外來想法被塞進腦中；題幹說的是想法被抽走，沒有置入內容。",
    "summary": "被『拿走』的想法叫 thought withdrawal，被『放進來』的才叫 thought insertion。",
-   "guideline": "FC 醫學(四)第3冊 p.20"
+   "guideline": "FC 醫學(四)第3冊 p.20",
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -42882,7 +42988,10 @@
    "C": "恐慌症在多數研究也較常見於女性，但臨床樣本與社區樣本數值未必一致。官方本題一律給分。",
    "D": "強迫症的性別差異較不如前三者固定，早發男性可能較多；題目選項的概括性使官方一律給分。",
    "summary": "官方一律給分；焦慮疾患的性別盛行率有族群與年代差異，考題不能用過度絕對的句子硬分。",
-   "guideline": "FC 醫學(四)第3冊 p.62"
+   "guideline": "FC 醫學(四)第3冊 p.62",
+   "concepts": [
+    "anxiety-ocd-ptsd"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -49730,7 +49839,10 @@
    "C": "本項不選。0.20 g/dL 常造成嚴重步態不穩、噁心與意識受損，但題幹所述昏迷及生命徵候抑制更高。",
    "D": "本項應選。正確。血中酒精濃度超過約 0.30 g/dL 時，中樞神經抑制可進展到輕度昏迷與呼吸、循環不穩，須急救監測。",
    "summary": "酒精濃度跨過 0.30 g/dL 要警覺昏迷與呼吸抑制，不只是醉態失調。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -51605,7 +51717,10 @@
    "C": "本項不選。長期酗酒可能取代正常熱量攝取，並引起吸收不良、肝病與 thiamine 等微量營養素缺乏。",
    "D": "本項應選。正確。偏好汽水可樂本身不是營養不良的高危險群特徵；只有在它明顯取代正餐並造成飲食失衡時才需另行評估。",
    "summary": "營養不良高風險看疾病分解、老化與酒精，不是單看某一種飲料偏好。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -52102,7 +52217,10 @@
    "C": "本項不選。帕金森氏症是內在因子。動作遲緩、僵硬、姿勢反射差與 freezing 都會直接破壞平衡。",
    "D": "本項不選。退化性膝關節炎是內在因子。膝痛、關節活動受限與股四頭肌無力會讓步態不穩。",
    "summary": "跌倒內在因子是患者自身的功能或疾病問題；高齡是風險背景，不是本題要的那一類。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -52255,7 +52373,10 @@
    "C": "本項不選。此項不對。從屬關係比較可能出現明顯的姿勢收縮、低頭或迴避目光，不能只由鏡相判定。",
    "D": "本項不選。此項不對。鏡相代表已出現互動同步，不只是關係即將開始的單向訊號。",
    "summary": "診間姿勢不自覺同步通常是 rapport 已形成的線索，不是敵對或從屬。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -52487,7 +52608,10 @@
    "C": "本項不選。安靜環境、定向提示、家屬陪伴、睡眠與感官輔具常能減少躁動，不可只靠藥物。",
    "D": "本項應選。老人反而更易受抗精神病藥、benzodiazepine 與 anticholinergic 藥物影響，可能跌倒、嗜睡或加重 delirium。",
    "summary": "高齡躁動先找原因、先用非藥物；需要藥物時要從低劑量開始，因副作用更大。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -52561,7 +52685,10 @@
    "C": "本項不選。地震直接死亡多集中在震後初期，常因建築倒塌、擠壓傷與創傷造成。",
    "D": "本項不選。地震復原期需面對慢性病照護中斷、飲水衛生、避難所擁擠與傳染病風險。",
    "summary": "颱風的健康傷害不只在登陸當下；復原期的淹水、清理與醫療中斷同樣會傷人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -55016,7 +55143,10 @@
    "C": "本項敘述錯誤。trihexyphenidyl 是 anticholinergic，可被濫用以產生欣快或改變感受，也會造成 delirium、口乾與便祕。",
    "D": "本項的 trihexyphenidyl 不是本題答案。trihexyphenidyl 的 anticholinergic 效應會使瞳孔擴張與尿滯留惡化，因此可能加重 angle-closure glaucoma 和 BPH。",
    "summary": "Trihexyphenidyl 不是無害的 EPS 藥：會濫用，也會讓青光眼、攝護腺肥大與 delirium 更糟。",
-   "guideline": "FC 醫學(四)第3冊 p.20"
+   "guideline": "FC 醫學(四)第3冊 p.20",
+   "concepts": [
+    "psychotropic-adverse-effects"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55090,7 +55220,10 @@
    "C": "本項的 僅 不是本題答案。antidepressants 可調節 descending pain pathways，部分慢性疼痛與神經病理性疼痛可受益，即使沒有重鬱症。",
    "D": "正確。hypnosis 也可作為疼痛管理的心理介入之一；四種方法可依疼痛原因與病人目標搭配使用。",
    "summary": "疼痛不是只有止痛藥：生理回饋、hypnosis、antidepressant 與 nerve block 都能依機轉組合。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55206,7 +55339,10 @@
    "C": "本項的 oldest-old 不是本題答案。最老年期的人格可有些微趨勢改變，例如外向性稍降、隨和性稍升，但個體差異很大。",
    "D": "本項的 老年人的孤立 不是本題答案。社會孤立與孤獨感會提高老年憂鬱風險，也與較差身心健康和功能退化相關。",
    "summary": "正常老化會有腦容量變化與社交風險，但人格不是每年都被重寫；neuroticism 通常相對穩定。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55285,7 +55421,10 @@
    "C": "正確。手指失辨識（finger agnosia）是無法辨認、命名或區分自己的手指，是 dominant angular gyrus lesion 的 Gerstmann syndrome 成分。",
    "D": "本項的 finger 不是本題答案。amnesia 是記憶缺損，不能精確命名本例這種局限於手指辨識的障礙。",
    "summary": "Gerstmann syndrome 在左 angular gyrus：finger agnosia、agraphia、acalculia、left-right disorientation。",
-   "guideline": "FC 醫學(四)第3冊 p.103"
+   "guideline": "FC 醫學(四)第3冊 p.103",
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55364,7 +55503,10 @@
    "C": "本項的 ADHD 不是本題答案。stimulants 是 ADHD 的一線選擇，不是因有濫用風險就一律留到最後；應做適應症與濫用風險評估。",
    "D": "本項的 agonist 不是本題答案。clonidine 等 α2-agonist 可幫助 ADHD 與 tic，並非會惡化 tic 而禁用。",
    "summary": "ADHD 核心症狀藥物有效，但有焦慮憂鬱或家庭學校困難時，加上行為與社會心理治療才是完整處方。",
-   "guideline": "FC 醫學(四)第3冊 p.168"
+   "guideline": "FC 醫學(四)第3冊 p.168",
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55439,7 +55581,10 @@
    "C": "正確。不帶情感地詳述創傷，將情緒從記憶內容切開，符合情感抽離（isolation of affect）。",
    "D": "正確。把自己不願面對的無力或不努力歸咎醫師不專業，是把內在問題外歸，符合投射（projection）。",
    "summary": "防衛機轉看『心理內容被怎麼處理』：忘身份是 dissociation，只有故事沒情緒是 isolation of affect，把責任丟人是 projection。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -55477,7 +55622,10 @@
    "C": "本項敘述錯誤。乳房壓痛、腹脹或水腫等身體症狀可與情緒症狀並存，並不排除 PMDD。",
    "D": "本項的 selective 不是本題答案。SSRI 是 PMDD 的有效治療，可採連續或黃體期給藥；也可考慮生活調整與荷爾蒙策略。",
    "summary": "PMDD 不只情緒，也可有乳房痛、腹脹與水腫；月經前一週起、月經來後緩解才是時間軸。",
-   "guideline": "FC 醫學(四)第3冊 p.103"
+   "guideline": "FC 醫學(四)第3冊 p.103",
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -64582,7 +64730,10 @@
    "C": "本項應選。效能感（self-efficacy）是另一個心理學概念，不是 OCEAN 五因素的字母 E；E 代表外向性 Extraversion。",
    "D": "本項不選。親和性（Agreeableness）反映合作、信任與願意維持人際和諧的傾向。",
    "summary": "OCEAN 的 E 是 Extraversion，不是 self-efficacy；效能感雖重要，但不在五大人格內。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -64620,7 +64771,10 @@
    "C": "本項不選。此項不對。下肢水腫常見於心腎肝疾病、靜脈問題或藥物，並非虐待的特異警訊。",
    "D": "本項應選。正確。藥物順從性突然變差可能反映照顧者未協助給藥、刻意限制資源或患者受控制，需連同用藥取得方式與安全一起評估。",
    "summary": "老人用藥突然失控別只怪病人；照顧被忽略或受控制也可能藏在背後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -64822,7 +64976,10 @@
    "C": "本項不選。完善的初級照護能控制血壓、糖尿病與吸菸等風險，降低心血管疾病與中風。",
    "D": "本項不選。孕前與孕期的可近基層照護有助處理營養、吸菸與慢性病，低出生體重比例可下降。",
    "summary": "醫療不是專科越多越好；初級照護的連續整合才是兼顧品質與成本的骨架。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -64860,7 +65017,10 @@
    "C": "本項應選。本項是本題最不適當的常規作法。鎮靜會降低意識，只在難治性症狀經充分評估、其他方法無效且取得同意時考慮。",
    "D": "本項不選。若有 COPD、bronchospasm 等可逆氣道阻塞，支氣管擴張劑仍有症狀治療角色。",
    "summary": "末期呼吸困難可用低劑量 opioid；鎮靜是難治症狀的最後手段，不是先發選項。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -64982,7 +65142,10 @@
    "C": "本項不選。血容量下降使站立時血壓無法維持，會出現姿勢性低血壓與頭暈。",
    "D": "本項應選。本項不是典型熱衰竭表現。意識混亂提示中樞神經功能受影響，應優先懷疑熱中暑（heat stroke）並緊急降溫。",
    "summary": "熱衰竭會心悸、抽筋、站起來暈；一旦混亂就升級想熱中暑。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -67410,7 +67573,10 @@
    "C": "本項的 jealousy 不是本題答案。把同事微笑解讀成愛上自己，是 erotomanic delusion，不是嫉妒妄想；嫉妒妄想是堅信伴侶不忠。",
    "D": "本項的 control 不是本題答案。把同事聊天解讀為密謀加害，較像關係或被害妄想；控制妄想是相信外力操控自己的感覺、行為或想法。",
    "summary": "妄想命名看核心：被追殺是 persecutory，自認救世主是 grandiose，別人愛我才是 erotomanic。",
-   "guideline": "FC 醫學(四)第3冊 p.18"
+   "guideline": "FC 醫學(四)第3冊 p.18",
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67484,7 +67650,10 @@
    "C": "本項的 思覺失調症患 不是本題答案。思覺失調症可合併憂鬱症狀，經診斷與安全評估後可考慮 adjunctive antidepressant；也要分辨 negative symptoms、藥物副作用與 post-psychotic depression。",
    "D": "本項的 思覺失調症患 不是本題答案。認知缺損如工作記憶、注意力與 executive function 受損，常比正性症狀更能預測長期社會與職業功能。",
    "summary": "Schizophrenia 的 dopamine 路徑要配對：mesolimbic 過高是正性症狀，mesocortical 功能不足才連到負性與認知問題。",
-   "guideline": "FC 醫學(四)第3冊 p.19"
+   "guideline": "FC 醫學(四)第3冊 p.19",
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67681,7 +67850,10 @@
    "C": "lithium 的性功能副作用存在，所以本項不選。lithium 也可能影響性慾、勃起與高潮，應在治療中主動詢問而非誤當純心理問題。",
    "D": "本項敘述錯誤。bupropion 相對較少性副作用，可能改善 SSRI 相關問題；risperidone 卻可能升高 prolactin，造成性欲降低與性功能障礙。",
    "summary": "性功能副作用的反差要記：bupropion 較友善，risperidone 會拉高 prolactin，反而常把性欲拉低。",
-   "guideline": "FC 醫學(四)第3冊 p.41"
+   "guideline": "FC 醫學(四)第3冊 p.41",
+   "concepts": [
+    "psychotropic-adverse-effects"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67883,7 +68055,10 @@
    "C": "本項不選。部分患者確有語言發展困難，但不能以三分之二以上從未有實用語言來概括整個自閉症族群，能力差異很大。",
    "D": "本項應選。過度朗讀（hyperlexia）是能很早辨認或朗讀文字，卻未必理解語意；它正好呈現自閉症患者解碼能力與語言理解可不對等。",
    "summary": "ASD 孩童若會早讀卻不懂內容，要想到 hyperlexia：能解碼文字，不等於理解語言。",
-   "guideline": "FC 醫學(四)第3冊 p.175"
+   "guideline": "FC 醫學(四)第3冊 p.175",
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67916,7 +68091,10 @@
    "C": "本項不選。腦影像研究可見群體平均的功能或發育差異，但臨床上多數患者沒有可供個別診斷的明顯結構異常。",
    "D": "本項應選。前額葉（prefrontal cortex）負責維持注意、抑制衝動與執行控制，因此是 ADHD 神經生物學最常研究的區域之一。",
    "summary": "ADHD 不是單純教養問題；前額葉的注意與抑制控制，是理解其症狀的核心。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67954,7 +68132,10 @@
    "C": "本項不選。醫囑要寫清楚採取何種方式、持續多久與監測要求，才能避免處置變成沒有界限的限制。",
    "D": "本項不選。初始時限到期若仍考慮延長，必須重新確認必要性，而不是把原醫囑自動延長。",
    "summary": "隔離約束不是方便管理的工具：要有明確書面醫囑、定期記錄，延長前必須重新評估。",
-   "guideline": "FC 醫學(四)第3冊 p.102"
+   "guideline": "FC 醫學(四)第3冊 p.102",
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -74548,7 +74729,10 @@
    "C": "本項不選。這個配對恰當。International Prognostic Index 以年齡、分期、LDH、體能與結外病灶分層非何杰金氏淋巴瘤預後。",
    "D": "本項不選。這個配對恰當。TIMI risk score 可估計 non-ST elevation acute coronary syndrome 的缺血事件風險。",
    "summary": "BODE 的 B 是 BMI、O 是 obstruction：它是 COPD 指數，不是壓傷指數。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74581,7 +74765,10 @@
    "C": "本項應選。正確。四個量表中，APACHE II、IPI、TIMI 三種包含年齡；BODE index 沒有年齡項目。",
    "D": "本項不選。此答案多算了 BODE。BODE 評分項目是 BMI、FEV1、dyspnea 與 exercise capacity，不含年齡。",
    "summary": "四個量表只要記住 BODE 不含年齡，其餘 APACHE II、IPI、TIMI 都有年齡。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -75291,7 +75478,10 @@
    "C": "本項不選。C 型肝炎感染者可能有共同血液或性暴露風險，也關係到肝炎病毒共感染的臨床處置，應加強篩檢。",
    "D": "本項不選。免疫抑制治療可使既往 HBV 感染再活化，因此治療前須辨識 HBsAg 與 anti-HBc 狀態。",
    "summary": "HBV 篩檢看暴露與再活化風險，不是把所有性傾向當作固定高風險標籤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -76984,7 +77174,10 @@
    "C": "本項不選。此項不對。A 是 Acknowledge，承認並討論彼此相同與不同的理解，不是 Affect。",
    "D": "本項應選。正確。R 是 Recommend，提出符合醫療證據且考量患者文化與信念的治療建議。",
    "summary": "LEARN 先聽 Listen、再解釋 Explain、承認差異 Acknowledge、建議 Recommend、最後協商 Negotiate。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77063,7 +77256,10 @@
    "C": "本項不選。立即轉精神科未必最合適。患者認知與判斷正常，家庭醫師可先在基層完成心理社會與家庭功能評估，再依結果轉介。",
    "D": "本項應選。正確。家庭功能評估可釐清喪偶後的支持、角色與擔憂如何維持疼痛與求醫行為，符合生物心理社會處置。",
    "summary": "檢查都正常卻一直怕中風，下一步別再加掃描；先把喪偶與家庭支持放進診斷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77096,7 +77292,10 @@
    "C": "本項應選。正確。高血壓已確立後用藥控制，可減少中風、心衰竭等併發症，是三段預防。",
    "D": "本項不選。此項不對。衛生教育是促進健康與預防暴露的初段預防，不是篩檢的次段預防。",
    "summary": "初段防生病、次段早抓病、三段防失能；高血壓治療是在防併發症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77134,7 +77333,10 @@
    "C": "本項應選。衛福部的減重藥物使用規範是 BMI 達 27 以上並合併肥胖相關併發症，或 BMI 達 30 以上。她 BMI 33.2 已符合。要提醒的是：符合資格不等於直接開藥，仍要先做生活型態介入並排除次發性肥胖。",
    "D": "本項不選。跨理論模式用在體重管理的**長期**效果並不一致，多數研究只看到短期改善。把它說成「已證實具有長期效果」太滿。",
    "summary": "減重藥物的門檻背兩個數字：BMI ≥27 加併發症，或 BMI ≥30；主動來門診的人已經在準備期，不是認知期。",
-   "guideline": "衛福部減重藥物使用規範：BMI ≥27 合併併發症，或 BMI ≥30"
+   "guideline": "衛福部減重藥物使用規範：BMI ≥27 合併併發症，或 BMI ≥30",
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77167,7 +77369,10 @@
    "C": "本項不選。此項不對。這個現象反而表示患者還有未說出口的議題，不是急著離開。",
    "D": "本項不選。此項不對。它可出現在各種患者，不能直接標記為身體化或把提出問題視為不合理要求。",
    "summary": "病人手碰門把才問，常是在測試「我現在說這件事，你會不會接住」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77244,7 +77449,10 @@
    "C": "本項不選。本體痛由組織損傷刺激 nociceptor 所致，常對 opioid 有良好反應。",
    "D": "本項不選。骨轉移痛常需 opioid 為主並可加 NSAID、放射治療或骨標靶藥物；NSAID 是可用的輔助鎮痛。",
    "summary": "末期止痛能口服就先口服；針劑不是因為快就自動成為第一選擇。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77354,7 +77562,10 @@
    "C": "本項不選。4,500 mL 仍接近把不需計入的一度燒傷算進去，沒有依部分厚度與全厚度燒傷的 25% 計算。",
    "D": "本項不選。5,500 mL 超過本題前 8 小時所需量；5,000 mL 是正確面積下的全天總量，不是前 8 小時量。",
    "summary": "Parkland 先只算二、三度：4×50×25%=5,000 mL，前 8 小時只給一半＝2,500 mL。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -77425,7 +77636,10 @@
    "C": "本項不選。類固醇可減輕腫瘤相關腸阻塞水腫或顱內壓升高，從而緩解噁心嘔吐。",
    "D": "本項不選。metoclopramide 等 dopamine antagonist 可依嘔吐機轉使用，但完全阻塞時要避免促動力藥。",
    "summary": "呼吸困難用 morphine 是低劑量慢慢滴定，不是把止痛劑量翻倍。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -79816,7 +80030,10 @@
    "C": "本項不選。抗精神病藥可能誘發或惡化僵直狀態，並須與惡性抗精神病症候群（neuroleptic malignant syndrome）鑑別。",
    "D": "本項不選。模仿言語（echolalia）與模仿動作（echopraxia）都是 catatonia 可見的行為徵象。",
    "summary": "看到不動、緘默或模仿動作別只想思覺失調症；catatonia 常與情感性疾患連在一起。",
-   "guideline": "FC 醫學(四)第3冊 p.38"
+   "guideline": "FC 醫學(四)第3冊 p.38",
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -79977,7 +80194,10 @@
    "C": "本項不選。主動式安樂死涉及自主、傷害原則、醫療角色與法律，至今仍有重大倫理與社會爭議。",
    "D": "本項不選。評估要求死亡的病人時，需辨識可治療的鬱症、絕望感與自殺風險，避免將疾病造成的意願誤當穩定自主。",
    "summary": "「撤除治療」和「直接促成死亡」不是同一件事；處理安樂死議題要先評估鬱症與決策能力。",
-   "guideline": "FC 醫學(四)第3冊 p.101"
+   "guideline": "FC 醫學(四)第3冊 p.101",
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80046,7 +80266,10 @@
    "C": "本項不選。嗜食症患者可能困擾體重，但不像暴食症以「維持纖瘦」與反覆代償行為作為核心診斷結構。",
    "D": "本項應選。暴食症的自我評價常過度受體型與體重影響；否認這個核心心理特徵，與疾病定義不符。",
    "summary": "暴食症要記「暴食後清除、身材主宰自我評價」；嗜食症有暴食，但沒有規律代償行為。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eating-disorders-obesity-psych"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80084,7 +80307,10 @@
    "C": "本項不選。SAMe 參與甲基化等生化途徑，可能影響 monoamine 的合成與代謝；其使用不應取代標準憂鬱症治療。",
    "D": "本項應選。Omega-3 不是 serotonin reuptake inhibitor；它主要與細胞膜脂肪酸、發炎訊號及神經傳導調節相關。",
    "summary": "Omega-3 不是 SSRI；看到營養補充品題，先把「可能輔助」與「標準抗憂鬱藥機轉」分開。",
-   "guideline": "FC 醫學(四)第3冊 p.101"
+   "guideline": "FC 醫學(四)第3冊 p.101",
+   "concepts": [
+    "psychotropic-adverse-effects"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80274,7 +80500,10 @@
    "C": "本項應選。部分 ASD 患者呈現視覺空間能力相對強、口語理解相對弱的認知輪廓，這能解釋某些非語文任務表現較好。",
    "D": "本項不選。心智理論（theory of mind）是推測他人信念與意圖的能力，ASD 常在此出現困難。",
    "summary": "ASD 的社交困難和心智理論缺損有關；有些患者視覺空間能力反而比口語理解突出。",
-   "guideline": "FC 醫學(四)第3冊 p.174"
+   "guideline": "FC 醫學(四)第3冊 p.174",
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80312,7 +80541,10 @@
    "C": "本項不選。中樞神經刺激劑對 ADHD 的注意力不足、過動與衝動三大核心症狀多有效。",
    "D": "本項不選。食慾下降與入睡困難是 methylphenidate 常見副作用，須追蹤體重、食量與服藥時間。",
    "summary": "Methylphenidate 不是 SSRI；它調節 dopamine/norepinephrine，代價常是食慾下降和睡不好。",
-   "guideline": "FC 醫學(四)第3冊 p.166"
+   "guideline": "FC 醫學(四)第3冊 p.166",
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -89424,7 +89656,10 @@
    "C": "本項應選。LEARN 沒有 Reward；A 是 Acknowledge，承認醫療人員與患者觀點的相同與不同。",
    "D": "本項不選。Negotiate 是在安全與醫療可行範圍內，和患者共同找可接受的治療方案。",
    "summary": "跨文化 LEARN 沒有 Reward；差異要先被 Acknowledge，才有空間一起 Negotiate。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "clinical-communication-cross-cultural"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -89503,7 +89738,10 @@
    "C": "本項應選。本項是本題最不適當的處置。症狀性低血壓會增加跌倒與灌流不足風險，不能為了抽象預防中風而不調整兩種藥。",
    "D": "本項不選。這句話本身合理，所以不是本題要選的。女兒一個月前過世，悲傷撫慰能支持正常哀傷並辨識持續惡化或自殺風險。",
    "summary": "血壓藥讓人頭暈時先防跌倒與過度治療；悲傷和家庭支持也要同步處理。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -89577,7 +89815,10 @@
    "C": "本項應選。正確。認知行為治療（CBT）會辨識觸發情境、負向想法與行為反應，再設定可練習的具體目標並支持家庭應對。",
    "D": "本項不選。Family psychoeducation 重點是疾病知識、復發警訊與家庭溝通，並非以認知重建和限時行為目標為中心。",
    "summary": "看到「觸發想法—反應—練新行為」這條鏈，就想到 CBT。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -89610,7 +89851,10 @@
    "C": "本項不選。行為環境著重健康行為與日常實踐，例如飲食、活動和作息，不是職業倦怠的內在調適。",
    "D": "本項不選。外在環境指居住空間、社區、自然與制度資源，和題幹的內省過程不同。",
    "summary": "OHE 問醫師如何保持熱誠，是在問自己內在的覺察，不是外在環境。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -89689,7 +89933,10 @@
    "C": "本項不選。醫療法規範醫療機構與人員管理，並非預立醫療決定的直接法律依據。",
    "D": "本項應選。正確。臺灣的預立醫療照護諮商與預立醫療決定由《病人自主權利法》規範，重點是知情、意願與程序。",
    "summary": "臺灣 ACP 加預立醫療決定，法源是《病人自主權利法》，別和安寧緩和醫療條例混在一起。",
-   "guideline": "病人自主權利法"
+   "guideline": "病人自主權利法",
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -89799,7 +90046,10 @@
    "C": "本項不選。胸壁僵硬與呼吸肌力下降會降低咳痰和通氣儲備，創傷後較易呼吸衰竭。",
    "D": "本項不選。腎濃縮能力與口渴反應下降，使老人遇到發燒、利尿或進食差時容易脫水。",
    "summary": "老人不是「心跳一定慢」；真正危險是面對壓力時心肺腎的代償儲備變小。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -92271,7 +92521,10 @@
    "C": "本項不選。認知障礙主要是注意、工作記憶與執行功能下降，不能完整解釋題幹的自我照顧與動機缺失。",
    "D": "本項不選。焦慮可造成迴避，但不會是長期情感表達減少、意志缺乏與自我照護變差的典型組合。",
    "summary": "思覺失調症藥後不再幻聽卻越來越退縮，要想到負性症狀，不是正性症狀復發。",
-   "guideline": "FC 醫學(四)第3冊 p.17"
+   "guideline": "FC 醫學(四)第3冊 p.17",
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92386,7 +92639,10 @@
    "C": "本項不選。部分患者會進展為思覺失調症，因此診斷後仍需持續追蹤病程是否超過 6 個月。",
    "D": "本項不選。類思覺失調症常有較好的預後指標，抗精神病藥治療反應可優於慢性思覺失調症。",
    "summary": "思覺失調症病程 ≥6 個月；1–6 個月先叫 schizophreniform，追蹤時間本身就是診斷的一部分。",
-   "guideline": "FC 醫學(四)第3冊 p.18"
+   "guideline": "FC 醫學(四)第3冊 p.18",
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92547,7 +92803,10 @@
    "C": "本項不選。此症候群常有活動後不適（post-exertional malaise），單純叫患者多休息未必能改善，需個別化活動調整。",
    "D": "本項不選。重鬱症等精神共病並不少見；不能用「僅少數」淡化評估情緒疾患的重要性。",
    "summary": "慢性疲勞不是先下診斷再休息：先排除感染與其他可治療病因，尤其留意活動後症狀惡化。",
-   "guideline": "FC 醫學(四)第3冊 p.40"
+   "guideline": "FC 醫學(四)第3冊 p.40",
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92739,7 +92998,10 @@
    "C": "本項敘述錯誤。年幼的自閉症類群障礙症（autism spectrum disorder）個案很常合併過動與注意力不集中。DSM-5 起也允許 ASD 與 ADHD 同時診斷。把過動排除掉會漏掉一大群需要處理的行為問題。",
    "D": "本項敘述錯誤。感官反應是 overrespond 與 underrespond 並存。有人聽到吸塵器就崩潰、拒絕特定質地的衣服。也有人對疼痛與冷熱明顯遲鈍，撞傷了也沒反應。",
    "summary": "ASD 的智能分布：合併智能不足約七成，其中三成輕中度、其餘偏重度；感覺是過敏與遲鈍並存，不是只有遲鈍。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -92777,7 +93039,10 @@
    "C": "本項敘述錯誤。atomoxetine 是選擇性正腎上腺素回收抑制劑，屬於非興奮劑。它要連續使用數週才看得到效果，沒有興奮劑當天見效的特性。也因為不是管制藥，適合有物質濫用疑慮的個案。",
    "D": "本項敘述錯誤。FDA 核准 methylphenidate 的年齡下限是 6 歲。3 歲那個下限是 dextroamphetamine，兩個數字常被記混。學齡前個案臨床上優先做行為介入。",
    "summary": "ADHD 先用藥再談心理治療；台灣的興奮劑只有 methylphenidate，FDA 下限 6 歲，3 歲是 dextroamphetamine。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -101590,7 +101855,10 @@
    "C": "本項不選。此項不對。較低社經地位常伴健康食物與運動資源不足、慢性壓力與醫療可近性差，風險通常較高而非較低。",
    "D": "本項不選。此項不對。胎兒期營養不足和低出生體重可能透過發育程式化增加日後胰島素阻抗與代謝風險。",
    "summary": "代謝症候群不能只怪吃太多：基因、精神疾病與藥物、社經條件及胎兒期都會疊加風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -101659,7 +101927,10 @@
    "C": "本項不選。即使常外食，誰採買、共食與家庭習慣仍會影響飲食選擇。",
    "D": "本項應選。家庭成員吸菸確會提高青少年吸菸風險，但「增加兩倍」不是可對所有家庭與研究一概套用的固定數字。",
    "summary": "家庭會形塑抽菸、飲食和運動，但流行病學風險不能硬背成每個情境都剛好兩倍。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -101692,7 +101963,10 @@
    "C": "本項應選。正確。絕對風險降低 ARR＝8／1000－4／1000＝0.004；NNS＝1／0.004＝250。",
    "D": "本項不選。500 會把絕對風險差少算一半；題幹兩組相差的是每千人 4 位，不是每千人 2 位。",
    "summary": "NNS 不看 RR 直接倒數；先算 ARR＝4／1000，再倒數就是 250。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -104198,7 +104472,10 @@
    "C": "本項敘述錯誤。妄想症以非怪異的妄想為主，幻覺不明顯。若有幻覺也多是與妄想主題相符的觸覺或嗅覺，且不佔主導。持續而突出的幻聽要往思覺失調症想。",
    "D": "正確。移民、聽力或視力障礙、獨居都會切斷用來校正錯誤推論的資訊來源。聽不清楚別人在講什麼，就容易把它填成「他們在說我」。這種社會或感官隔離因此被列為危險因子。",
    "summary": "妄想症＝中年以後才發病、幻覺不突出、其他功能大致保留；耳背、獨居、移民這種資訊被隔絕就是它的溫床。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104231,7 +104508,10 @@
    "C": "本項不選。男性的負性症狀（negative symptoms）較明顯，情感平淡與社會退縮更重。這也是男性長期功能與預後較差的主因之一。",
    "D": "本項應選。晚發性思覺失調症（late-onset schizophrenia）的切點是 45 歲，不是 60 歲。60 歲以後才首次發病的另有名稱。英文叫 very-late-onset schizophrenia-like psychosis。這個年紀首發要先排除失智、腦部病灶與藥物引起的精神病。",
    "summary": "晚發性思覺失調症的切點是 45 歲；60 歲以後才首發要另外叫 very-late-onset，而且要先排除器質性病因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104264,7 +104544,10 @@
    "C": "本項不選。同卵雙胞胎的共病率（concordance rate）約 50%，異卵約 10% 到 15%。是一半而不是全部，說明基因很重要但環境同樣有份。",
    "D": "本項不選。父親年齡越大，精子在反覆分裂中累積的新生突變越多。父親 60 歲以上所生的子代，日後罹患思覺失調症的風險上升。母親年齡則沒有同樣穩定的關聯。",
    "summary": "思覺失調症的兩個「一半」：同卵雙胞胎共病率約 50%、身體疾病約一半沒被診斷；生育率則已接近一般人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104333,7 +104616,10 @@
    "C": "正確。俗稱的壓力荷爾蒙就是 cortisol。它來自下視丘–腦下垂體–腎上腺軸（hypothalamic-pituitary-adrenal axis）。路徑是 CRH 刺激 ACTH，ACTH 再促使腎上腺皮質分泌 cortisol。長期壓力會讓負回饋失靈，cortisol 居高不下並傷害海馬迴。",
    "D": "本項不選。血清素系統（serotonergic system）調節情緒、睡眠與衝動控制，也與憂鬱有關。但它是神經傳導物質系統，題目問的是內分泌系統。",
    "summary": "問「壓力荷爾蒙」一律回 HPA axis：CRH→ACTH→cortisol；serotonin 是神經傳導，不是內分泌軸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104366,7 +104652,10 @@
    "C": "本項不選。抗鬱劑是主力，例如 duloxetine、milnacipran 與低劑量 amitriptyline。它們增加中樞的 serotonin 與 norepinephrine，加強下行抑痛路徑。止痛效果與抗憂鬱效果是分開的，不憂鬱的病人一樣能用。",
    "D": "本項不選。acetaminophen 與 NSAIDs 這類一般止痛藥效果有限，但部分病人確實得到緩解。臨床上常拿來當輔助，搭配運動與睡眠處理，不會被列為最不適當。",
    "summary": "纖維肌痛是中樞把痛放大：抗鬱劑與 pregabalin 排前面，opioid 排最後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104435,7 +104724,10 @@
    "C": "本項不選。臨床樣本中女性明顯多於男性，男女比常被引用為 3:1。女性也比較常因為這件事被法院或家屬轉介到精神科。",
    "D": "本項應選。偷竊癖是臨時起意，沒有事先規劃，也不會找共犯或銷贓管道。偷到的東西多半不值錢、拿了也用不到，甚至被丟掉或送人。有計畫、為了金錢利益而偷，要往一般竊盜或反社會人格想。",
    "summary": "偷竊癖＝衝動不是計畫：動手前緊張、得手後鬆口氣，東西還不一定用得到；女多於男約 3:1。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104612,7 +104904,10 @@
    "C": "本項敘述錯誤。methylphenidate 對 ASD 合併的過動與注意力不足有效，只是效果比單純 ADHD 略差、副作用比例較高。所以是可以用但要從低劑量慢慢加，不是無效。",
    "D": "本項敘述錯誤。綜合維他命與必需脂肪酸（essential fatty acid）目前沒有一致的療效證據。少數小型研究的正向結果沒有被大型試驗複製。家長常用，但不能拿來取代行為治療。",
    "summary": "ASD 的藥只管旁邊不管核心：risperidone 與 aripiprazole 專治 irritability，社交溝通缺損還是靠早期行為介入。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104645,7 +104940,10 @@
    "C": "本項不選。反過來就不成立：符合 ODD 的孩子只有一小部分達得到 DMDD 的門檻。DMDD 要求脾氣爆發平均每週三次以上、持續 12 個月以上，且發作之間也幾乎天天易怒。",
    "D": "本項應選。DMDD 的診斷要件是嚴重反覆的脾氣爆發，加上發作之間持續的易怒。條文裡沒有 annoyance 與 defiance 這兩項。惱怒與對立違抗寫在 ODD 的準則裡，兩邊不能互套。DSM-5 另有規定：同時符合時只下 DMDD。",
    "summary": "DMDD 考的是爆發頻率（每週≥3 次、≥12 個月、發作間也易怒），對立違抗是 ODD 的字；兩者同時符合時只下 DMDD。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -104678,7 +104976,10 @@
    "C": "本項不選。精神官能症同樣列在條文的範圍內，焦慮症與強迫症等都算。",
    "D": "本項不選。酒癮與藥癮明文列入，這也是成癮者可以進入治療與社區支持體系的法源。",
    "summary": "精神衛生法的精神疾病＝精神病＋精神官能症＋酒癮藥癮＋主管機關認定者；唯一被明文排除的是反社會人格違常。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -110644,7 +110945,10 @@
    "C": "本項應選。正確。厭食症因攝食少與腸胃蠕動變慢較常便秘；腹瀉不是典型表現，出現時應另找瀉藥、感染或其他原因。",
    "D": "本項不選。飢餓壓力可使 cortisol 上升，屬厭食症常見的內分泌適應變化。",
    "summary": "厭食症腸胃變慢，所以常便秘；腹瀉反而提醒你找別的原因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -112899,7 +113203,10 @@
    "C": "本項不選。工作與家庭壓力會增加肌肉緊繃和睡眠失調，進而提高頭痛頻率。",
    "D": "本項不選。社會支持不足會減少壓力緩衝，使症狀更容易持續或惡化。",
    "summary": "壓力和憂鬱不會把疼痛門檻墊高，反而會讓頭痛更容易被觸發。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -112932,7 +113239,10 @@
    "C": "本項應選。正確。老人新出現的任何症狀都要先想是否為 adverse drug event，因多重用藥常以跌倒、疲倦、混亂或食慾差表現。",
    "D": "本項不選。此項不實際。住院病人可每日檢討，門診則應在每次照護轉換與定期追蹤時更新，不是要求所有人每日回顧。",
    "summary": "老人冒出新症狀，先問「是不是藥造成的？」常比再多開一顆藥更安全。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -112965,7 +113275,10 @@
    "C": "本項不選。雙性人青少年可能有醫療與社會污名壓力，但本題的流行病學比較所指最高族群不是此項。",
    "D": "本項應選。正確。跨性別青少年較常面對性別肯認受阻、霸凌與人身攻擊，因此憂鬱與自殺風險特別高；門診要提供肯認且安全的支持。",
    "summary": "LGBTQIA+ 青少年問診要主動創造安全感；跨性別者的暴力與自殺風險尤其需要被看見。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -112998,7 +113311,10 @@
    "C": "本項不選。熱身、主要運動與緩和可讓心率和血流逐步變化，減少不適。",
    "D": "本項不選。至少 3–5 分鐘緩和能避免運動突然停止後的靜脈回流下降與頭暈。",
    "summary": "RPE 9–11 太輕；中等強度要到「能說話、不能唱歌」的程度。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -113137,7 +113453,10 @@
    "C": "本項應選，官方也給分。不可逆的臨終譫妄以鎮靜為主，lorazepam 舌下 1–2 mg、必要時每小時給，是標準做法；沒有靜脈路徑時舌下給藥特別實用。",
    "D": "本項不選。高劑量抗精神病藥在臨終病人只會增加錐體外症候群與心律風險，而且再加上另一類鎮靜藥物，呼吸抑制難以預期。抗精神病藥要用也是低劑量。",
    "summary": "臨終譫妄的順序是先調環境、再用 benzodiazepine 鎮靜；目標是舒適不是叫醒他。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -113241,7 +113560,10 @@
    "C": "正確。快速順序插管的藥物劑量不因懷孕而改變。要改的是流程細節：孕婦氧儲備少、去飽和快，所以預氧化要更確實，插管管徑也常要小半號。",
    "D": "本項不選。20 週以後子宮壓迫下腔靜脈，從股靜脈打的藥回流受阻，要選橫膈以上的路徑，也就是上肢靜脈或骨內注射。",
    "summary": "孕婦急救三件事：平躺加左推子宮、藥物走橫膈以上、插管劑量照成人但要多預氧化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -115562,7 +115884,10 @@
    "C": "本項不選。混亂無組織的言語與行為也在準則 A 中，包含語意跳脫、答非所問與僵直行為。",
    "D": "本項應選。定向感異常（disorientation）不在思覺失調症的診斷準則裡。這些病人多半知道自己是誰、在哪裡、今天幾號。看到定向感壞掉要先想譫妄、物質使用或其他腦部病變。",
    "summary": "思覺失調症準則 A 只有五項：妄想、幻覺、混亂言語、混亂或僵直行為、負性症狀；定向感壞掉先想譫妄。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "schizophrenia-delusional-disorder"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115595,7 +115920,10 @@
    "C": "本項不選。有明顯誘發因子反而是好預後。壓力事件清楚、起病急促的個案，去除壓力源後緩解機會較高。",
    "D": "本項應選。思考貧乏與社交退縮屬於負性症狀，是預後差的核心指標。這類症狀對抗精神病藥物反應差，也最直接拖垮工作與人際功能。相對的正性症狀反而比較好處理。",
    "summary": "思覺失調症預後差的長相：早發、男性、隱襲起病、找不到誘因、負性症狀為主、病前功能差。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "schizophrenia-prognostic-factors"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115736,7 +116064,10 @@
    "C": "本項不選。系統減敏感法是把放鬆訓練配上焦慮階層的暴露技術。它是一套治療方法，不是生理回饋背後的學習原理。",
    "D": "本項不選。洪水法一次給到最強刺激，靠焦慮自然消退達到消弱。它沒有即時回饋與強化的成分。",
    "summary": "生理回饋＝把看不見的生理訊號變成即時獎賞，所以原理是操作制約；古典制約是刺激配刺激，不是行為換後果。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115877,7 +116208,10 @@
    "C": "本項不選。原本就有認知障礙的人腦部儲備少，是最強的單一前置因子。",
    "D": "本項不選。失明或失聰造成感覺輸入不足，病人無法校正對環境的判斷，容易混亂；所以住院時要記得讓病人戴上眼鏡與助聽器。",
    "summary": "譫妄要分前置因子（老、失智、感官差、多病）與誘發因子（感染、藥物、脫水、疼痛、約束）；預防從兩邊一起做。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115946,7 +116280,10 @@
    "C": "本項不選。這段描述反了：在熟悉情境說話正常、特定情境不說話的是選擇性緘默症；自閉症的社交溝通困難是跨情境、持續存在的。",
    "D": "正確。DSM-5 起解除了兩者不能並列的限制，符合各自診斷條件時可以同時給予自閉症與注意力不足過動症兩個診斷。這在臨床上很重要——共病時的過動與注意力問題同樣需要處理，不能只當成自閉症的一部分。",
    "summary": "自閉症的共病是常態不是例外；DSM-5 起 ASD 與 ADHD 可以並存診斷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -116015,7 +116352,10 @@
    "C": "本項應選。為了減少過度感覺刺激而採取的是「隔離」（seclusion），把病人移到安靜的環境；身體約束反而增加刺激與屈辱感。兩者的適應症有重疊但不完全相同，這一項屬於隔離而非約束。",
    "D": "本項不選。作為行為治療計畫中事先約定的一部分，是被列出的適應症之一。",
    "summary": "約束是為了「防止傷害或干擾治療」；為了降低刺激該用的是隔離，兩者不要混。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -116127,7 +116467,10 @@
    "C": "本項敘述正確。工作與社交功能退化是失智症診斷的必要條件之一。",
    "D": "本項應選。約束與導尿管都是譫妄的誘發因子，會讓躁動更嚴重，導尿管還增加尿路感染。病人想下床解尿代表有需求，正確做法是協助如廁、定時帶去廁所並改善環境安全。",
    "summary": "失智病人躁動先找原因（感染、疼痛、尿滯留），別直接上約束與導尿管——那兩樣正是讓譫妄惡化的元凶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -122018,7 +122361,10 @@
    "C": "本項不選。病人已經無法吞嚥，改短效口服只是把同樣的困難再做一次。就算經鼻胃管給，長效換短效還需要每 4 小時給一次，夜間疼痛更難壓住。",
    "D": "本項不選。他描述的是刀割般的疼痛，先給抗焦慮藥等於把止痛的事往後延。焦慮要處理，但不能取代疼痛控制。",
    "summary": "末期病人不能吞藥時，是換給藥路徑並做等效換算，不是換成弱一階的止痛藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -124200,7 +124546,10 @@
    "C": "本項敘述正確。走路速度代表身體功能表現，切點是每秒 1.0 公尺以下；它同時也能預測失能與死亡率。",
    "D": "本項應選。肌少症的三支腳是肌肉量、肌力、體能表現，沒有一項在測肌耐力。半身仰臥起坐是體適能檢測的項目，不是老年醫學評估肌少症會用的工具。",
    "summary": "肌少症只量三件事：肌肉量（DXA/BIA）、肌力（握力）、表現（步速）——沒有仰臥起坐這一項。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -124302,7 +124651,10 @@
    "C": "本項不選。dexamethasone 確實能改善急性高山症的症狀，但它是把發炎與腦水腫壓下去，並沒有幫助身體適應高度。停藥後症狀可能反彈，所以用了它仍應下降高度。",
    "D": "正確。acetazolamide 在上升前 24 小時開始服用，到達最高海拔後再吃 2–3 天、確定適應才停。它讓腎臟排出碳酸氫根、造成輕度代謝性酸中毒，逼呼吸加快，等於幫身體提早完成適應。",
    "summary": "acetazolamide 是幫你「提早適應」、dexamethasone 只是「壓症狀」；預防門檻在 2,500 公尺過夜。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -124335,7 +124687,10 @@
    "C": "本項不選。急性期最要先確認的就是現在還安不安全：有沒有自殺意念、會不會再受暴、有沒有需要立即處理的外傷。",
    "D": "本項不選。從家族史與社會心理資源開始盤點支持系統，是暴力事件後的標準做法，也能決定病人回不回得去原本的環境。",
    "summary": "暴力事件後的順序是還原事實、評估當下危險、建立支持系統；任何形式的檢討受害者都是禁區。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "environmental-toxic-emergency-fm"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -124368,7 +124723,10 @@
    "C": "本項應選。這裡指的是一般性、沒有結構化操作手冊的心理動力取向治療，它並沒有針對邊緣性人格障礙的實證支持。有效的那幾種雖然理論根源相近，但都經過改寫成有手冊、有頻率規定的療法才被證實有效。",
    "D": "本項不選。心智化導向治療訓練病人辨識自己與他人的心理狀態，在隨機試驗中降低了自傷與住院。",
    "summary": "邊緣性人格障礙有效的是「有手冊的」療法：DBT、TFP、MBT、schema therapy；泛泛的動力取向治療不算。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -124403,7 +124761,10 @@
    "C": "本項不選。這個名稱在家庭醫學的模式分類裡並不存在，是干擾選項。",
    "D": "正確。圖上的循環是先界定目標人口、找出健康需求，接著排優先順序、做詳細問題評估、擬定並執行介入，再評值與重新評估——這正是社區導向基層醫療（COPC）的六步驟循環。關鍵辨識點是它的起點是「一群人」而不是一位病人，而且做完會回頭再測一次。",
    "summary": "看到「界定目標人口→評估需求→排序→介入→評值」的環狀圖就是 COPC；起點是社區人口不是個別病人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -126764,7 +127125,10 @@
    "C": "本項應選。虛無妄想（nihilism）是「我已經死了、內臟不見了」這類妄想內容，屬於重度憂鬱的精神病症狀（Cotard 症候群），不是僵直症的動作症狀。",
    "D": "本項不選。違拗（negativism）指對指令毫無理由地抗拒或做反向動作，是典型的僵直症表現。",
    "summary": "僵直症看的是「動作」：僵住、緘默、違拗、作態、蠟樣彎曲；虛無妄想是思考內容的問題。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126941,7 +127305,10 @@
    "C": "本項敘述正確。dantrolene 可以放鬆肌肉、降低產熱，與 bromocriptine 同為常用的藥物治療，基礎仍是停藥與支持療法。",
    "D": "本項應選。臨床上最常用的長效針劑是兩週到一個月一針，近年才有三個月與六個月的劑型；效期一年的產品並不是主流。這一點在衛教與治療計畫上會直接影響回診安排。",
    "summary": "長效針劑的常見間隔是 2 週到 1 個月，新劑型可到 3 或 6 個月；沒有「一年一針」這種主流選項。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "psychotropic-adverse-effects"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -127082,7 +127449,10 @@
    "C": "本項不選。不論年齡，診斷都要求不一致的狀態持續至少六個月。",
    "D": "本項不選。方向完全相反。美國精神醫學會與各大專業組織都反對試圖改變性別認同或性傾向的「迴轉治療」，認為它無效且有害。",
    "summary": "性別不安要持續六個月；兒童還必須有「堅持自己是另一個性別」這一條；迴轉治療是被明確反對的。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -127187,7 +127557,10 @@
    "C": "本項敘述正確。診斷限定在 6 歲到 18 歲之間首次診斷，發病要在 10 歲以前。",
    "D": "本項敘述正確。當表現與雙極情緒障礙症難以區分時，藥物會用非典型抗精神病藥或情緒穩定劑；這個診斷被創造出來，本來就是為了減少兒童被過度診斷成雙極症。",
    "summary": "侵擾性情緒失調症＝6–18 歲、10 歲前發病、每週三次以上暴怒；不能與對立反抗症並列，但可以和過動症共病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -127220,7 +127593,10 @@
    "C": "本項不選。方向相反。過動與衝動的症狀隨年齡較容易緩解，注意力不足反而最常延續到成年。",
    "D": "本項不選。MTA 研究的結論是藥物治療對核心症狀的改善優於單純行為治療，合併治療則在功能與共病上更有優勢。",
    "summary": "過動症遺傳度七到八成；長大後先消失的是過動，留下來的是注意力不足。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -127253,7 +127629,10 @@
    "C": "正確。辯證行為治療是邊緣型人格障礙症證據最強的療法，對減少自傷與自殺行為特別有效。它教的是情緒調節、痛苦耐受、人際效能與正念四組技巧，這也解釋了為什麼它剛好打中這類病人的核心困難。",
    "D": "本項不選。苯二氮平類反而會造成去抑制、增加衝動與自傷風險，在這類病人身上應盡量避免。",
    "summary": "邊緣型人格的四個特徵：怕被拋棄、關係擺盪、身分不穩、衝動自傷；首選治療是辯證行為治療，避開苯二氮平。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "personality-impulse-somatic-pain-psych"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -133175,7 +133554,10 @@
    "C": "本項應選，官方也給分。20 到 80 歲之間左心室壁增厚、舒張早期充填變慢，心室對心房收縮的依賴增加——這就是老人一旦心房顫動就容易失代償的原因。",
    "D": "本項應選，官方也給分。血清睪固酮大約 30 歲以後每年下降 1%，是逐年緩降而不是像女性更年期那樣斷崖式下降。",
    "summary": "老化速率記兩個數字：腎功能每年降約 1%、睪固酮每年降約 1%；掉 5% 那種幅度是疾病不是老化。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -135344,7 +135726,10 @@
    "C": "本項不選。腦膜炎雙球菌也是有莢膜菌，脾切除者建議接種並依廠牌完成追加劑。",
    "D": "本項應選。人類乳突瘤病毒疫苗預防的是子宮頸癌，和脾臟功能無關；何況這位病人 55 歲，也超過建議接種年齡。",
    "summary": "脾臟切除補三支有莢膜菌疫苗：肺炎鏈球菌、Hib、腦膜炎雙球菌——記「無脾怕包膜」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -135449,7 +135834,10 @@
    "C": "本項不選。生產造成膀胱頸過動導致的是應力性尿失禁，也就是咳嗽、打噴嚏時漏尿。急迫型尿失禁的機轉是逼尿肌過動。",
    "D": "正確。夜間多尿常常是藥物造成的，利尿劑與部分降壓藥都會；睡前的水分、咖啡因、酒精也算。問診時先把這幾項問完，往往不用加藥就能改善。",
    "summary": "尿失禁先分型：漏在用力時想應力型、憋不住想急迫型；夜尿先查藥物與睡前飲料再談用藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "geriatric-care-abuse-falls-aging"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -135482,7 +135870,10 @@
    "C": "本項不選。病人期待家庭醫師是任何問題都能先找的人，這正是基層醫療「廣泛性」的定義。",
    "D": "本項應選。病人要的是誠實而且直接的提醒。拐彎抹角只會讓訊息模糊，也讓病人懷疑醫師在隱瞞壞消息。",
    "summary": "病人對家醫的期待是「聽我說、認識我、什麼都能問、有話直說」——間接反而扣分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fm-care-models-principles"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -135656,7 +136047,10 @@
    "C": "正確。相對風險＝介入組發生率÷對照組發生率＝(38/10,000)÷(28/10,000)＝38÷28＝1.357。大於 1 代表接受荷爾蒙補充療法者的冠心病事件較多，與 WHI 試驗的結論方向一致。",
    "D": "本項不選。1,000 是把分母當成答案抄下來，沒有做除法。相對風險是沒有單位的比值，正常範圍多落在 0.1 到 10 之間。",
    "summary": "相對風險就是兩組發生率相除；分子放介入組，算出來大於 1 就是介入組風險較高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "prevention-screening-epi-adolescent"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -135689,7 +136083,10 @@
    "C": "本項敘述正確。回家善終是安寧療護的重要目標之一，居家安寧與社區安寧就是為此設計。",
    "D": "本項敘述正確。安寧的照顧對象包含家屬，喪親後的悲傷輔導可提供到一年，這是它和一般醫療照顧最不同的地方。",
    "summary": "安寧收案看「六個月」；病人走了之後家屬的悲傷輔導還要再陪一年。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "palliative-care-end-of-life-symptoms"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -138017,7 +138414,10 @@
    "C": "本項不選。第③項的持續悲傷與失去興趣屬於情緒評估，不是認知功能。",
    "D": "本項不選。它把思考形式與情緒都算進認知功能，範圍過寬。",
    "summary": "精神狀態檢查裡真正測認知的是記憶、定向、注意力、執行功能（畫鐘）；思考流程與情緒屬於別的欄位。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138050,7 +138450,10 @@
    "C": "本項不選。「行為被別人控制」是被控制妄想，屬於被動體驗。",
    "D": "正確。關係妄想的核心是把中性、與自己無關的外界訊息解讀成「這是針對我來的」——電視節目、路人交談、報紙標題都可能被套上個人意義。它與被害妄想常一起出現，但關係妄想不一定帶有惡意。",
    "summary": "關係妄想＝把無關的訊息當成專門講給我聽的；被控制、被廣播那些屬於自我界線被侵犯的一類。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "psychopathology-delusions-catatonia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138119,7 +138522,10 @@
    "C": "本項敘述正確。憂鬱既是冠心病的獨立危險因子，也讓心肌梗塞後的預後變差。",
    "D": "本項應選。身體疾病病人的自殺危險因子是男性、年長、獨居、疼痛控制不佳與新診斷的重大疾病，不是女性與未滿 40 歲。要注意的是：女性自殺「企圖」較多，但男性自殺「死亡」較多，兩者不要混為一談。",
    "summary": "自殺完成的危險因子是男性、高齡、獨居、有慢性疼痛或重大疾病；女性企圖多但致死率較低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138368,7 +138774,10 @@
    "C": "正確。兩歲的孩子會用自己的名字稱呼自己（例如「妹妹要」），這是自我概念發展的重要里程碑，也是這個年紀語言與社會性發展的代表指標。",
    "D": "本項不選。分辨熟悉的人與陌生人在六到九個月大就出現（陌生人焦慮），兩歲當然做得到。",
    "summary": "兩歲的社會性指標是「用名字稱呼自己」；一步一階下樓與因果回答都要等到三歲以後。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138401,7 +138810,10 @@
    "C": "本項不選。六到十歲之間往往正是症狀最明顯、影響學業最大的階段，不是自然改善期。",
    "D": "正確。超過一半的兒童病人症狀會延續到成年，只是表現形式改變：外顯的過動變成內在的坐立不安，衝動則表現在工作轉換頻繁、財務與駕駛風險上。這也是成人過動症診斷近年受重視的原因。",
    "summary": "過動症不會自動長好：一半以上延續到成年，過動變成內在不安，注意力不足留最久。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "adhd-course-treatment"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138434,7 +138846,10 @@
    "C": "本項不選。它把「不宜觸及自殺想法」也算進去，那是最需要破除的迷思。",
    "D": "本項不選。四項全選會同時納入兩個錯誤敘述。",
    "summary": "評估自殺一定要直接問，問了不會害他去做；高致命性方式與憂鬱、人格障礙都是高風險指標。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cl-psychiatry-legal-restraint-suicide"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -138467,7 +138882,10 @@
    "C": "本項不選。生病卻延遲或拒絕就醫屬於「醫療疏忽」，不是身體虐待——身體虐待指的是主動施加的傷害。",
    "D": "本項不選。到了學齡卻沒讓孩子入學屬於「教育疏忽」，不是情緒虐待。",
    "summary": "疏忽是「該做而沒做」，虐待是「做了不該做的」；台灣的兒少通報以疏忽最多。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asd-dmdd-child-psychiatry"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
