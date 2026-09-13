@@ -3842,7 +3842,9 @@
    "D": "年齡較大的兒童常轉為肘窩、膕窩、頸部等 flexural eczema；這與嬰兒期臉部及伸側分布不同。",
    "summary": "Atopic dermatitis 分布隨年齡改變：嬰兒臉與伸側、較大兒童屈側；尿布區通常不是嬰兒期好發處。",
    "guideline": "FC 醫學(四)第1冊 p.417",
-   "concepts": []
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4264,7 +4266,10 @@
    "C": "本項應選。異位性皮膚炎要問的過敏背景是異位體質（atopy）。具體是這三樣：氣喘（asthma）、過敏性鼻炎（allergic rhinitis）、異位性皮膚炎本身，本人或家族有都算。藥物過敏史是另一回事，不能拿來當主要診斷依據。",
    "D": "本項敘述正確。慢性、反覆發作的濕疹（eczema）病程是典型特徵。但光看病程不夠，要同時有搔癢、典型形態與年齡相關分布才成立。",
    "summary": "異位性皮膚炎問家族史是問氣喘和鼻炎，不是問藥物過敏——這兩個搞混就會選錯。",
-   "guideline": "American Academy of Dermatology, Guidelines of care for the management of atopic dermatitis in adults with topical therapies (2023)"
+   "guideline": "American Academy of Dermatology, Guidelines of care for the management of atopic dermatitis in adults with topical therapies (2023)",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4304,7 +4309,10 @@
    "C": "本項不選。異位性皮膚炎（atopic dermatitis）的濕疹長在屈側（flexural distribution），癢很久，多半有個人或家族異位體質（atopy）。這題病灶集中在出油部位（sebaceous area），又有巴金森氏症，方向不同。",
    "D": "本項不選。接觸性皮膚炎（contact dermatitis）要有對得上的接觸史，病灶界線清楚，就長在碰到的地方。眉間、鼻周和頭皮同時發作，找不出一個共同的接觸源。",
    "summary": "巴金森氏症＋頭皮和鼻唇溝的油性脫屑紅斑＝脂漏性皮膚炎，這個組合幾乎是送分。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4345,7 +4353,10 @@
    "C": "本項敘述正確。吃藥後起疹，又合併口腔、眼睛或生殖器黏膜受侵犯，要擔心的是史蒂芬強生症候群／毒性表皮壞死溶解（Stevens–Johnson syndrome/toxic epidermal necrolysis）。這類嚴重藥物疹（severe cutaneous adverse reaction）會致命，所以一定要主動問。",
    "D": "本項應選。血中總 IgE（total IgE）升高對異位性皮膚炎（atopic dermatitis）沒有專一性，數值正常也不能排除。成人突然冒出手腳掌紅斑，更不可能靠一個 IgE 就下這個診斷。",
    "summary": "新長的手腳掌紅斑，先想梅毒和藥物疹；IgE 高低不能拿來診斷異位性皮膚炎。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4385,7 +4396,10 @@
    "C": "正確答案。角化棘皮瘤（keratoacanthoma）長在曬得到太陽的臉上（sun-exposed face），快速變大成圓頂結節，中央是一個塞滿角質的火山口（keratin-filled crater）。但不能只做臨床判斷：它和分化良好的鱗狀細胞癌（well-differentiated squamous cell carcinoma）很難分，仍要切除送病理（pathology）。",
    "D": "本項不選。惡性黑色素瘤（malignant melanoma）的警訊是色素病灶不對稱、邊緣不規則、顏色不均，而且一直在變（evolving）。中央角質栓不是它的長相。",
    "summary": "三個月內長大、中央塞角質的火山口＝角化棘皮瘤；但一定要切下來送病理，因為它和鱗狀細胞癌分不乾淨。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4423,7 +4437,10 @@
    "C": "本項不選。表淺擴散型黑色素瘤（superficial spreading melanoma）在白人族群最常見。它早期沿表皮橫向擴散（radial growth），呈不規則色素斑。在臺灣，它的比例不及肢端黑痣型。",
    "D": "本項不選。惡性黑痣型黑色素瘤（lentigo maligna melanoma）長在高齡者長期曬太陽的臉上，由原位的惡性黑痣（lentigo maligna）進展而來。它不是臺灣最常見的型別。",
    "summary": "臺灣人的黑色素瘤要翻手掌、腳底和指甲——族群不同，最常見的型別就不同，這題考的就是這個差別。",
-   "guideline": "FC 醫學(四)第2冊 p.194"
+   "guideline": "FC 醫學(四)第2冊 p.194",
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4536,7 +4553,8 @@
    "summary": "小孩臉上的脫屑白斑，要分白色糠疹（pityriasis alba）和黴菌感染——刮一點鱗屑做 KOH 最快。",
    "guideline": "FC 醫學(四)第2冊 p.126",
    "concepts": [
-    "wood-lamp-fluorescence"
+    "wood-lamp-fluorescence",
+    "superficial-skin-infections"
    ]
   },
   "source": "110020/302_22",
@@ -4578,7 +4596,10 @@
    "C": "本項一律給分。乾癬指甲病變整體與乾癬性關節炎（psoriatic arthritis）有關，尤其是遠端指間關節（distal interphalangeal joint）受累。但單獨把點狀凹陷說成「強烈相關」算過度延伸，這也是本題被質疑的地方。",
    "D": "本項一律給分。油滴斑反映的是甲床（nail bed）的乾癬，看起來是半透明的黃紅色斑。它對乾癬指甲的專一性（specificity）較高，但不是每個病人都有。",
    "summary": "官方第 43 題一律給分。真正要記的是分層：點狀凹陷來自甲母質，油滴斑與甲床分離來自甲床。",
-   "guideline": "FC 醫學(四)第2冊 p.154"
+   "guideline": "FC 醫學(四)第2冊 p.154",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4730,7 +4751,10 @@
    "C": "正確。自發性顱內低壓（spontaneous intracranial hypotension）多由 spinal CSF leak 所致，典型為 orthostatic headache；對比 MRI 可見 diffuse smooth pachymeningeal enhancement。",
    "D": "叢發性頭痛（cluster headache）是單側眶周劇痛，伴流淚、鼻塞等同側 autonomic symptoms，呈叢集發作，並非姿勢改變所誘發。",
    "summary": "姿勢性頭痛加 diffuse pachymeningeal enhancement，應優先診斷自發性顱內低壓。",
-   "guideline": "FC 醫學(四)第4冊 p.139"
+   "guideline": "FC 醫學(四)第4冊 p.139",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -4806,7 +4830,10 @@
    "C": "發燒合併 convulsive status epilepticus 應積極排除 CNS infection；在無禁忌且完成必要影像評估後，CSF 檢查可辨識腦膜炎或腦炎。",
    "D": "成人首次或原因未明的 convulsive status epilepticus，以及無發燒兒童，須以 CT/MRI 排除出血、腫瘤或其他結構性病灶。",
    "summary": "重積癲癇是高風險急症，但兒童死亡率並非超過一半；評估重點是病因、感染與結構性病灶。",
-   "guideline": "FC 醫學(四)第1冊 p.335"
+   "guideline": "FC 醫學(四)第1冊 p.335",
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -9463,7 +9490,9 @@
    "D": "網膜芽細胞瘤（retinoblastoma）可因腫瘤細胞播散至前房形成 pseudohypopyon；白瞳、斜視或不尋常的眼內炎症是幼兒的重要警訊。",
    "summary": "兒童 hypopyon 不只代表感染或 uveitis，也要排除 leukemia、toxocariasis 與 retinoblastoma 等偽裝疾病；HLA-B27 acute anterior uveitis 的典型年齡較大。",
    "guideline": "FC 醫學(六)第2冊 p.233",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -9660,7 +9689,9 @@
    "D": "遮眼療法治療的是合併弱視，藉遮蔽優眼刺激弱眼視覺發育；它本身不矯正遠視，也不是處理調節性內斜視的第一步。",
    "summary": "Accommodative esotropia 先用 cycloplegic refraction 所得的完整 hyperopic correction；弱視另加遮眼，殘餘偏斜才評估其他處置。",
    "guideline": "FC 醫學(六)第2冊 p.188",
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -16391,7 +16422,10 @@
    "C": "本項不選。遠心性環狀紅斑（erythema annulare centrifugum）是慢慢往外擴大的環狀病灶，內緣有拖曳的鱗屑（trailing scale）。它不會因為再吃同一種藥就固定在原位復發。",
    "D": "本項不選。自體免疫水疱症（autoimmune blistering disease）會出現水疱、大疱與糜爛，並有對應的免疫病理（immunopathology）表現。這題只有單一紅斑，時序又和 diclofenac 完全吻合，方向是固定藥物疹。",
    "summary": "同一種藥、同一個位置、又復發一次——這三件事湊在一起就是固定藥物疹。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16424,7 +16458,10 @@
    "C": "本項應選。基底細胞癌的危害是在原地往周邊侵犯、破壞組織，轉移（metastasis）極其罕見。說它「極易轉移到內臟」等於把它的生物行為講反了。",
    "D": "本項敘述正確。莫氏顯微手術（Mohs micrographic surgery）會逐層檢查周邊與深部切緣。它適合高風險部位、邊界不清、復發，或需要盡量保留組織的病灶。",
    "summary": "基底細胞癌是「在地流氓」：破壞力強但幾乎不轉移——看到「容易轉移到內臟」就是錯的那個。",
-   "guideline": "National Comprehensive Cancer Network, Basal Cell Skin Cancer, Version 2.2025"
+   "guideline": "National Comprehensive Cancer Network, Basal Cell Skin Cancer, Version 2.2025",
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16464,7 +16501,10 @@
    "C": "本項不選。基底細胞癌（basal cell carcinoma）長得慢，是帶珍珠光澤的丘疹，邊緣捲起、表面有微血管擴張（telangiectasia）。它可能潰瘍，但中央通常沒有角質栓。",
    "D": "本項不選，但要保留戒心。鱗狀細胞癌（squamous cell carcinoma）也可以是角化或潰瘍的結節，在臨床與病理上都可能與角化棘皮瘤重疊。題述的快速、對稱、火山口最像角化棘皮瘤，但實務上仍要完整切除送病理（pathology）。",
    "summary": "兩個月內從無到有的臉部火山口結節，先當角化棘皮瘤處理——但切下來一定要送病理。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16502,7 +16542,10 @@
    "C": "本項應選。尋常型天疱瘡的直接免疫螢光（direct immunofluorescence）是 IgG/C3 沉積在表皮細胞之間，形成魚網狀（fishnet pattern）。沿著表皮真皮交界呈線狀沉積的，是類天疱瘡（bullous pemphigoid）那類表皮下水疱病。",
    "D": "本項敘述正確。desmoglein 3 是以黏膜為主型的主要自體抗原；有皮膚侵犯時常同時針對 desmoglein 1。抗體讓角質細胞（keratinocyte）之間的黏合失效，細胞就散開。",
    "summary": "天疱瘡的免疫螢光是細胞之間的魚網，類天疱瘡才是交界處的一條線——記住位置就不會選錯。",
-   "guideline": "FC 醫學(四)第2冊 p.83"
+   "guideline": "FC 醫學(四)第2冊 p.83",
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16573,7 +16616,10 @@
    "C": "本項敘述正確。乾癬（psoriasis）可以和脂漏性皮膚炎重疊，形成脂漏性乾癬（sebopsoriasis）。病灶界線變清楚、鱗屑變厚、或超出髮際線往外長，就要回頭想這個鑑別。",
    "D": "本項敘述正確。巴金森氏症（Parkinson disease）與比較嚴重的脂漏性皮膚炎有已知關聯。推測和皮脂分泌多、神經因素以及皮膚菌相互作用都有關。",
    "summary": "脂漏性皮膚炎難治時要想兩件事：HIV 和乾癬；而抗黴菌藥本來就是它的主力治療。",
-   "guideline": "FC 醫學(四)第2冊 p.126"
+   "guideline": "FC 醫學(四)第2冊 p.126",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16615,7 +16661,8 @@
    "summary": "抗黴菌藥治三週沒效＋KOH 陰性＋珊瑚紅螢光，三個湊起來就是紅癬——治療要換成抗菌不是抗黴菌。",
    "guideline": null,
    "concepts": [
-    "wood-lamp-fluorescence"
+    "wood-lamp-fluorescence",
+    "superficial-skin-infections"
    ]
   },
   "source": "110080/302_22",
@@ -16654,7 +16701,10 @@
    "C": "本項敘述錯誤。接合菌症（zygomycosis）現在多稱毛黴菌症（mucormycosis），特別和沒控制的糖尿病酮酸中毒、嚴重免疫抑制或鐵過載有關。它侵襲性很強，但整體遠不如念珠菌症常見。",
    "D": "本項敘述錯誤。隱球菌症（cryptococcosis，題目拼成 cryotococcosis）在晚期 HIV/AIDS、移植或長期類固醇使用時很重要，常造成腦膜炎或肺部病灶。但它不是免疫不全者最常見的黴菌感染。",
    "summary": "免疫不全的黴菌感染要分「最常見」和「最兇」：最常見是念珠菌，毛黴菌、麴菌、隱球菌各有自己的高風險族群。",
-   "guideline": "FC 醫學(四)第2冊 p.65"
+   "guideline": "FC 醫學(四)第2冊 p.65",
+   "concepts": [
+    "superficial-skin-infections"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16687,7 +16737,10 @@
    "C": "本項敘述錯誤。desmoglein 3 抗體造成基底層上方棘細胞鬆解，那是尋常型天疱瘡（pemphigus vulgaris）的機轉。類天疱瘡打的是半橋粒上的 BP180 與 BP230，靠的是 anti-BP180／anti-BP230 抗體，水疱長在表皮下方。",
    "D": "正確答案。類天疱瘡與後天水疱性表皮鬆解症（epidermolysis bullosa acquisita）在一般 H&E 下都是表皮下水疱，光看 H&E 分不出來。要靠直接免疫螢光；還可以用鹽裂皮膚（salt-split skin）分辨：訊號黏在表皮側是類天疱瘡，黏在真皮側是後天水疱性表皮鬆解症。",
    "summary": "類天疱瘡＝高齡＋BP180/BP230＋表皮下水疱；它和 EBA 只有免疫螢光分得開，H&E 分不開。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16801,7 +16854,10 @@
    "C": "Ergotamine 對 5-HT 受體（5-HT receptor）s、特別是 5-HT1 類受體具有親和力，這與其抑制 trigeminovascular transmission 及 vasoconstriction 有關。",
    "D": "Ergotamine 曾用於 acute migraine abortive therapy，但因副作用、藥物交互作用及 medication-overuse risk，現多非優先選擇。",
    "summary": "Ergotamine 是具 serotonin receptor activity 的 vasoconstrictor，不是 beta-adrenergic agonist。",
-   "guideline": "FC 醫學(四)第4冊 p.164"
+   "guideline": "FC 醫學(四)第4冊 p.164",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16872,7 +16928,10 @@
    "C": "清晨 myoclonic jerks、可能合併 generalized tonic-clonic seizure 與 absence seizure，是 juvenile myoclonic epilepsy 的典型組合。",
    "D": "錯誤。青少年肌抽躍癲癇（juvenile myoclonic epilepsy） 是 genetic generalized epilepsy，不是 secondary generalized epilepsy；多數可由適當藥物控制，但常需長期治療。",
    "summary": "清晨肌抽躍加 generalized tonic-clonic/absence seizure 與 4–6 Hz polyspike-wave，指向 genetic generalized 的 JME。",
-   "guideline": "FC 醫學(四)第1冊 p.334"
+   "guideline": "FC 醫學(四)第1冊 p.334",
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -21657,7 +21716,9 @@
    "D": "Wilson disease 在角膜 Descemet membrane 沉積 copper，形成周邊 Kayser-Fleischer ring；這是色素環，不是輪部白色點狀浸潤。",
    "summary": "Horner-Trantas dots 指向 vernal keratoconjunctivitis；須與 trachoma 的 Herbert pits、keratoconus 的 Fleischer ring、Wilson disease 的 Kayser-Fleischer ring 分清。",
    "guideline": "FC 醫學(六)第2冊 p.48",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21696,7 +21757,9 @@
    "D": "Laser trabeculoplasty 需要開放且可看見的 trabecular meshwork，適用部分 open-angle glaucoma；急性隅角閉鎖時隅角被虹膜阻塞，應在控制眼壓與角膜水腫後做 laser peripheral iridotomy。",
    "summary": "急性隅角閉鎖先以抑制房水、滲透劑及適時縮瞳降壓， definitive treatment 是 peripheral iridotomy；trabeculoplasty 不適用閉鎖隅角。",
    "guideline": "FC 醫學(六)第2冊 p.114",
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -21735,7 +21798,9 @@
    "D": "手術療法（surgery）只能處理斜視或白內障等造成 abnormal visual input 的結構問題，不能單獨逆轉已形成的 cortical amblyopia；術後仍需 optical correction 與 amblyopia therapy。",
    "summary": "弱視是視覺發育問題，治療靠清除視覺障礙、完整配鏡及促進弱眼使用；手術本身不是弱視療法。",
    "guideline": "FC 醫學(六)第2冊 p.187",
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -26071,7 +26136,10 @@
    "C": "顱內動脈瘤破裂常造成蛛網膜下腔出血（subarachnoid hemorrhage），典型為瞬間最劇烈頭痛、頸僵、噁心嘔吐，嚴重時迅速喪失意識。",
    "D": "偏頭痛（migraine）可伴噁心嘔吐，但通常數十分鐘內進展且有既往發作型態；首次 thunderclap headache 合併頸僵與昏迷不能先歸因偏頭痛。",
    "summary": "突發 thunderclap headache、meningismus、嘔吐與意識喪失應優先視為 aneurysmal subarachnoid hemorrhage。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -28241,7 +28309,10 @@
    "C": "本項應選。適當泡澡後立刻保濕是皮膚照護的一部分，短時間溫水浴能補水，接著擦 emollient 才能把水分鎖住；不是因敏感皮膚就完全不能洗澡。",
    "D": "本項不選。隨年齡增加，異位性皮膚炎的病灶常轉到肘窩、膝窩等四肢屈側，和嬰兒期較常見的臉部與伸側分布不同。",
    "summary": "異位性皮膚炎照護記住「洗後三分鐘保濕」：癢會抓、幼兒轉到屈側，尿布區反而較少是典型病灶。",
-   "guideline": "FC 醫學(四)第1冊 p.415"
+   "guideline": "FC 醫學(四)第1冊 p.415",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28514,7 +28585,10 @@
    "C": "本項應選。血中 IgE 在很多病人會升高，卻不是診斷的必要條件——有一型內因性異位性皮膚炎的 IgE 是正常的。診斷靠的是臨床：慢性反覆的搔癢性濕疹、典型分布，加上個人或家族的異位體質。",
    "D": "本項敘述正確。病程會被情緒壓力、溫濕度、流汗、刺激物、感染與過敏原影響。壓力可以透過神經免疫的互動把癢—抓循環放大。",
    "summary": "IgE 高是常見現象，不是診斷條件——內因性異位性皮膚炎的 IgE 就是正常的。",
-   "guideline": "FC 醫學(四)第2冊 p.124"
+   "guideline": "FC 醫學(四)第2冊 p.124",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28552,7 +28626,10 @@
    "C": "本項不選。乾癬（psoriasis）是落屑性皮膚炎的重要原因之一，可以演變成紅皮型乾癬（erythrodermic psoriasis），紅斑與脫屑蓋過約 90% 的體表，並伴隨全身性發炎。",
    "D": "本項不選。皮膚 T 細胞淋巴癌（cutaneous T-cell lymphoma），尤其是 Sézary syndrome，典型就是廣泛紅皮、脫屑、劇癢、淋巴結腫大，周邊血裡還找得到異常 T 細胞。",
    "summary": "落屑性皮膚炎要想「全身性」的病：乾癬、濕疹、藥物疹、皮膚 T 細胞淋巴癌；毛囊炎只是局部，湊不出紅皮症。",
-   "guideline": "FC 醫學(四)第2冊 p.154"
+   "guideline": "FC 醫學(四)第2冊 p.154",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28671,7 +28748,10 @@
    "C": "本項敘述正確。它偏好溫暖、潮濕又互相摩擦的皺褶處，所以腋下、腹股溝最常見，趾縫和乳房下方也會長。",
    "D": "本項敘述正確。病灶是界線相對清楚的紅褐色或褐色斑塊，表面帶細細的脫屑，多數人症狀輕微甚至沒感覺。",
    "summary": "紅癬的「癬」字是陷阱：它是細菌不是黴菌，所以抗黴菌藥治不好。",
-   "guideline": "FC 醫學(四)第2冊 p.25"
+   "guideline": "FC 醫學(四)第2冊 p.25",
+   "concepts": [
+    "superficial-skin-infections"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28973,7 +29053,10 @@
    "C": "本項最符合。影像顯示單側大腦中動脈供應區出現大範圍低密度、灰白質分界消失並壓迫同側腦室。病人是右側臉手腳無力合併失語，代表病灶在左側；心律不整則指向心源性栓塞這個機轉。",
    "D": "本項不選。左側後大腦動脈（posterior cerebral artery）主要造成右同向偏盲、視覺或記憶症狀，通常不會以嚴重失語和全右側無力為主。",
    "summary": "左 MCA 大梗塞要記住：右側無力加失語，之後還可能因腦水腫昏迷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29044,7 +29127,10 @@
    "C": "本項最不恰當。carbamazepine 不屬於偏頭痛常規預防藥；較有證據的抗癲癇藥包括 topiramate 與 valproate，應同時衡量孕齡風險。",
    "D": "本項不選。預防藥要依共病選擇，例如有高血壓可考慮 β-blocker，合併雙相情緒疾患則須避免會惡化既有病情的選擇。",
    "summary": "偏頭痛預防不是所有抗癲癇藥都能用；先記 topiramate、valproate，不是 carbamazepine。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -29082,7 +29168,10 @@
    "C": "本項不選。valproate 對 JME 的肌躍、失神與強直陣攣發作都有效，是常見選擇；但有懷孕可能者必須嚴格評估其致畸風險。",
    "D": "本項不選。topiramate 可作為 JME 的替代或加用治療之一；需留意認知副作用、體重下降及腎結石風險，而不是因會加重肌躍而禁用。",
    "summary": "JME 要避開會加重全面性發作的 phenytoin；valproate 有效但育齡者要先談致畸風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30103,7 +30192,10 @@
    "C": "本項不選。多形性紅斑（erythema multiforme）多與單純疱疹感染有關，典型是四肢對稱的靶狀病灶，黏膜受累比 SJS/TEN 輕。它不會造成 40% 體表的廣泛表皮壞死剝落。",
    "D": "本項不選。尋常型天疱瘡（pemphigus vulgaris）是 anti-desmoglein 3、有時再加 anti-desmoglein 1 抗體造成的表皮內水疱病，也會有黏膜糜爛與鬆弛水疱。但它病程偏慢性，和「吃 allopurinol 兩週後急性大面積壞死」的時序對不上。",
    "summary": "SJS 和 TEN 就是看剝離面積：<10% 是 SJS、10–30% 重疊、>30% 是 TEN；allopurinol 是最該記的元凶藥。",
-   "guideline": "FC 醫學(四)第2冊 p.143"
+   "guideline": "FC 醫學(四)第2冊 p.143",
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -33643,7 +33735,9 @@
    "D": "Ankylosing spondylitis 相關 HLA-B27 acute anterior uveitis 通常急性、疼痛、畏光且一次以單眼發作，之後可在同眼或對側反覆。",
    "summary": "系統性疾病相關 uveitis 的 laterality 有定位價值：HLA-B27/ankylosing spondylitis 常急性單眼，VKH、sarcoidosis、Behçet 較常雙眼受累。",
    "guideline": "FC 醫學(六)第2冊 p.84",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -33682,7 +33776,9 @@
    "D": "新生兒結膜炎（ophthalmia neonatorum）定義上發生於出生後第一個月，而非主要在 3 個月後；不同起始日可提示 chemical、gonococcal、chlamydial 或 herpetic cause。",
    "summary": "Conjunctivitis 可由分泌物與結膜反應鑑別：viral 常 follicles、allergic 常 papillae；ophthalmia neonatorum 發生在出生後 28 天內。",
    "guideline": "FC 醫學(六)第2冊 p.47",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -33716,7 +33812,9 @@
    "D": "老花（presbyopia）是年齡增加後 accommodation amplitude 下降，造成近距離聚焦困難，屬眼的屈光與調節功能問題。",
    "summary": "Refractive error 包括 myopia、hyperopia 等光學聚焦異常；strabismus 是眼位不正，不等於屈光不正。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -33750,7 +33848,9 @@
    "D": "嬰兒 sclera 與 cornea 具延展性，長期高眼壓會使眼球與角膜增大，形成 buphthalmos，這與成人 glaucoma 不同。",
    "summary": "Congenital glaucoma 的線索是 epiphora、photophobia、blepharospasm，加上高眼壓、corneal edema 與 buphthalmos；虹膜變色不典型。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -33789,7 +33889,9 @@
    "D": "Phacoanaphylactic glaucoma 指 lens proteins 暴露後引起 granulomatous inflammation，常見於 lens capsule disruption，並非由水晶體膨大直接閉鎖隅角。",
    "summary": "Lens-induced glaucoma 要分機轉：phacomorphic 是 swollen lens 推擠造成 angle closure；phacolytic 與 phacoanaphylactic 主要靠蛋白與發炎阻塞流出。",
    "guideline": "FC 醫學(六)第2冊 p.96",
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -33828,7 +33930,9 @@
    "D": "單眼白內障造成的遮蔽性弱視（deprivation amblyopia）必須及早手術移除視軸遮蔽，接著以 contact lens 或 intraocular lens 矯正屈光，並以遮蔽（occlusion/patch）優眼促進患眼發育。",
    "summary": "弱視治療需先提供清楚影像，再減少優眼抑制；斜視手術只校正眼位，不能取代 amblyopia therapy。",
    "guideline": "FC 醫學(六)第2冊 p.187",
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -40183,7 +40287,10 @@
    "C": "本項應選。異位性皮膚炎皮膚繼發感染最常見的是金黃色葡萄球菌（Staphylococcus aureus），不是鏈球菌；若感染範圍大或有全身症狀，也不能只靠局部抗生素。",
    "D": "本項不選。topical calcineurin inhibitors 可作為局部類固醇效果不足、敏感部位或需減少類固醇暴露時的 steroid-sparing 治療選項。",
    "summary": "異位性皮膚炎感染先想 S. aureus；治療核心仍是保濕和抗發炎，calcineurin inhibitor 是敏感部位的類固醇替代選項。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40601,7 +40708,10 @@
    "C": "本項敘述正確。肥胖既是乾癬的危險因子，也和疾病嚴重度有關。脂肪組織會分泌促發炎的細胞激素讓發炎更嚴重，減重則可能改善治療反應。",
    "D": "本項應選。口服類固醇不是斑塊型乾癬的首選。更危險的是停藥：突然減量或停掉可能引發嚴重反彈，變成全身膿疱型乾癬或紅皮型乾癬。正規做法是依嚴重度選外用藥、照光、傳統系統性藥或生物製劑。",
    "summary": "乾癬不是只長在皮膚：要一起看關節炎、肥胖與心血管；而口服類固醇是它的地雷，停藥會反彈。",
-   "guideline": "FC 醫學(四)第2冊 p.154"
+   "guideline": "FC 醫學(四)第2冊 p.154",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40641,7 +40751,8 @@
    "summary": "汗斑的口服藥要選 azole 類——griseofulvin 對馬拉色菌無效，這是最常被拿來考的錯誤選項。",
    "guideline": "FC 醫學(四)第2冊 p.64",
    "concepts": [
-    "wood-lamp-fluorescence"
+    "wood-lamp-fluorescence",
+    "superficial-skin-infections"
    ]
   },
   "source": "111080/302_22",
@@ -40722,7 +40833,10 @@
    "C": "本項不選。黑色素瘤（melanoma）的色素病灶不對稱、邊界不規則、顏色不均且會持續變化，唇部與黏膜的黑色素瘤更要提高警覺。但這題病灶柔軟、可壓縮，病理又是擴張的血管腔，方向不同。",
    "D": "本項不選。色素性基底細胞癌通常是珍珠樣丘疹或潰瘍性結節，帶微血管擴張與色素；病理可見基底樣細胞巢、周邊柵欄狀排列與間質退縮。下唇黏膜面不是它典型的地盤。",
    "summary": "老人家下唇一顆壓得扁的藍紫色軟丘疹，就是靜脈湖——「壓得下去」是和黑色素瘤最快的分法。",
-   "guideline": "FC 醫學(四)第2冊 p.220"
+   "guideline": "FC 醫學(四)第2冊 p.220",
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40942,7 +41056,10 @@
    "C": "本項不選。右側無力加雙眼偏向左側，表示左側額葉眼區與運動皮質受損，較符合大血管 MCA 梗塞而非 lacunar stroke。",
    "D": "本項最符合。左側無力合併左側肢體共濟失調是 ataxic hemiparesis，常由橋腦或內囊穿通動脈梗塞造成，沒有失語、忽略等皮質徵象。",
    "summary": "小血管中風不做皮質症狀；無力加同側共濟失調是典型 lacunar pattern。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41058,7 +41175,10 @@
    "C": "本項不選。phenytoin 與 carbamazepine 是酵素誘導劑，可加速部分口服避孕藥代謝，使避孕失敗風險上升；需要改用可靠的非交互作用避孕法。",
    "D": "本項不選。藥物仍無法控制、且發作影響生活品質的局灶性癲癇，可評估癲癇手術；不是等所有藥物永遠失敗才討論。",
    "summary": "台灣癲癇用藥的基因陷阱是 HLA-B*1502，不是題目寫的 HLA-B*1500；育齡者也要避開 valproate。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -41137,7 +41257,10 @@
    "C": "本項不選。alprazolam 雖可能暫時減少焦慮，沒有治療慢性緊縮型頭痛的長期證據，且會造成依賴、鎮靜與停藥反彈。",
    "D": "本項不選。onabotulinum toxin type A 對慢性偏頭痛有特定適應症，但未被證實可有效治療慢性緊縮型頭痛。",
    "summary": "慢性緊縮型頭痛預防要記 amitriptyline；verapamil 是叢發性頭痛、botulinum toxin 是慢性偏頭痛。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -45659,7 +45782,9 @@
    "D": "本項不選：病毒性結膜炎常有水樣分泌物、濾泡與耳前淋巴結腫大，和細菌性膿性分泌物不同。",
    "summary": "紅眼先看分泌物：病毒偏水樣、過敏重搔癢，淋病大量膿液要當角膜急症處理。",
    "guideline": "FC 醫學(六)第2冊 p.47",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -45737,7 +45862,9 @@
    "D": "本項不選：先天性白內障術後可能因前節發育與手術改變而出現續發性青光眼，需要長期追蹤眼壓。",
    "summary": "先天性白內障最怕單眼遮住視軸：兩眼影像不平衡，比雙側對稱輕混濁更容易弱視。",
    "guideline": "FC 醫學(六)第2冊 p.96",
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -45771,7 +45898,9 @@
    "D": "正確。弱視在視覺發育關鍵期越早恢復清晰、對稱的視覺輸入，越可能改善；學齡前視力與立體感篩檢可及早找出斜視或屈光問題。",
    "summary": "弱視不是單純看不清，而是發育期長期收不到清楚影像；越早矯正原因，視力越有機會追上。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47401,7 +47530,9 @@
    "D": "本項也是本題要選的非典型表現。動作不能性緘默（akinetic mutism）多與雙側額葉內側、前扣帶迴或間腦病變相關，不是一般 MCA 梗塞的常見症狀。",
    "summary": "MCA 中風會考頂葉功能：右側病灶易 neglect、左側病灶易 apraxia；akinetic mutism 不屬 MCA 的典型表現。",
    "guideline": "FC 醫學(六)第3冊 p.15",
-   "concepts": []
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48293,7 +48424,10 @@
    "C": "本項不選。此項不對。次發性頭痛可由感染、藥物、外傷、高血壓急症等多種原因造成，不能說腦血管異常最常見。",
    "D": "本項不選。此項不對。新發且劇烈的頭痛是紅旗警訊，要先評估雷擊性發作、神經學缺損、發燒或癌症病史，不能只開止痛藥。",
    "summary": "單側搏動痛合併噁心、畏光像偏頭痛；第一次很劇烈的頭痛則先當次發性原因找。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -52511,7 +52645,10 @@
    "C": "本項敘述正確。HIV 感染可以讓乾癬第一次發作或明顯惡化，甚至變成廣泛、頑固、膿疱型或紅皮型。所以乾癬突然變嚴重時，要依病史評估免疫缺陷或 HIV 感染。",
    "D": "本項敘述正確。HIV 感染者的脂漏性皮膚炎盛行率與嚴重度都會增加，常變得更廣泛、發炎更明顯、對一般治療更頑固。嚴重的脂漏性皮膚炎本身就可能是免疫功能下降的皮膚警訊。",
    "summary": "會合併關節炎的是乾癬不是脂漏性皮膚炎；但兩者都會被 HIV 放大，看到突然惡化就要想免疫問題。",
-   "guideline": "FC 醫學(四)第2冊 p.153"
+   "guideline": "FC 醫學(四)第2冊 p.153",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52630,7 +52767,10 @@
    "C": "本項敘述錯誤。ketoconazole 是 azole 類抗黴菌藥，抑制黴菌的 lanosterol 14-α-demethylase、減少 ergosterol 合成，對 Malassezia 有效。外用 ketoconazole 乳膏或洗劑正是汗斑的標準治療，不能說沒有療效。",
    "D": "正確答案。Malassezia 除了造成汗斑，也會鑽進毛囊造成 Malassezia 毛囊炎。典型是胸背部大小一致、會癢的毛囊性丘疹與膿疱——同一隻菌，換個位置就換一個病名。",
    "summary": "汗斑和足癬不是同一隻菌：汗斑是 Malassezia，它還會另外造成毛囊炎；足癬是皮癬菌。",
-   "guideline": "FC 醫學(四)第2冊 p.63"
+   "guideline": "FC 醫學(四)第2冊 p.63",
+   "concepts": [
+    "superficial-skin-infections"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52742,7 +52882,10 @@
    "C": "本項不選。增殖型天疱瘡（pemphigus vegetans）是尋常型的少見變異型，一樣以基底層上方棘細胞鬆解為基礎，再加上乳頭瘤樣增生與增殖性斑塊。它常長在皺褶處，裂隙層次並沒有比落葉型淺。",
    "D": "本項不選。類天疱瘡的抗體打的是半橋粒的 BP180 與 BP230，水疱形成在表皮真皮交界處，位置在整層表皮的下方。它是四者裡最深的，剛好與題目要問的相反。",
    "summary": "水疱由淺到深背一次：落葉型在角質層下、尋常型與增殖型在基底層上、類天疱瘡在表皮下。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52959,7 +53102,10 @@
    "C": "本項應選。凝血功能正常不能拿來排除新型口服抗凝血劑的影響：PT 與 aPTT 對這類藥物並不敏感，數值正常仍可能有足夠的藥效在體內。要判斷能不能溶栓，看的是最後一次服藥時間（一般以 48 小時為界）、腎功能，以及有沒有特異性檢驗（dabigatran 看 thrombin time、Xa 抑制劑看 anti-Xa 活性）。dabigatran 另有 idarucizumab 可先逆轉再溶栓。",
    "D": "本項敘述正確。懷疑主動脈剝離時給溶栓可能使主動脈破裂或心包填塞惡化，因此屬絕對禁忌。",
    "summary": "溶栓前先排出血；遇到 NOAC 不能被正常 PT/aPTT 騙過，要回頭追最後一劑與藥物濃度。",
-   "guideline": "FC 醫學(四)第4冊 p.90"
+   "guideline": "FC 醫學(四)第4冊 p.90",
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52992,7 +53138,10 @@
    "C": "本項不選。phenytoin 主要用於局部或強直陣攣發作，對失神發作無效且可能使其惡化。",
    "D": "本項不選。carbamazepine 以局部癲癇為主，可能加重失神等全面性癲癇，不能因為病人只是恍神就選它。",
    "summary": "兒童一天上百次恍神加 3 Hz 棘慢波，是 absence seizure；別把局部癲癇藥 carbamazepine 當成答案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -53068,7 +53217,10 @@
    "C": "本項不選。本例從青春期起反覆出現符合偏頭痛的發作，後期頻率改變可由藥物過度使用疊加，不能因此否定原發性頭痛。",
    "D": "本項最符合。原有偏頭痛病人近年頻繁喝止痛糖漿，最後幾乎天天頭痛，符合偏頭痛合併藥物過度使用頭痛（medication-overuse headache）。",
    "summary": "偏頭痛患者若止痛藥越喝越勤、頭痛越來越天天發作，要想到不是治不好，而是藥物過度使用在維持頭痛。",
-   "guideline": "FC 醫學(四)第4冊 p.163"
+   "guideline": "FC 醫學(四)第4冊 p.163",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -57662,7 +57814,9 @@
    "D": "本項不選：發作通常急性且以單眼為主，日後可在同眼或對側復發。",
    "summary": "僵直性脊椎炎眼炎的記憶點是 HLA-B27、急性單眼前葡萄膜炎，不是慢性雙眼全葡萄膜炎。",
    "guideline": "FC 醫學(六)第2冊 p.249",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -57822,7 +57976,9 @@
    "D": "正確。睫狀體帶位在最深的隅角後方；真正閉鎖時虹膜根部遮住後方結構，因此不會在隅角鏡下露出。",
    "summary": "隅角鏡由前往後看 Schwalbe line、小樑網、鞏膜突、睫狀體；看不到最深的睫狀體帶表示隅角很窄或閉鎖。",
    "guideline": "FC 醫學(六)第2冊 p.113",
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -57861,7 +58017,9 @@
    "D": "本項要選：房水經小樑網進入 Schlemm 管與集液管，最後回到上鞏膜靜脈循環，不是由淋巴系統回收。",
    "summary": "房水走的是靜脈回流：睫狀體→後房→瞳孔→前房角→Schlemm 管→上鞏膜靜脈，不是淋巴。",
    "guideline": "FC 醫學(六)第2冊 p.113",
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -63933,7 +64091,10 @@
    "C": "本項應選。包尿布區域因潮濕與尿液刺激，較常見尿布疹且通常相對避開異位性皮膚炎的典型分布。",
    "D": "本項不選。幼兒的異位性皮膚炎可侵犯四肢伸側，之後才逐漸偏向屈側。",
    "summary": "異位性皮膚炎分布會隨年齡移動：嬰兒臉和伸側、青少年屈側；尿布區反而不是典型位置。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64639,7 +64800,10 @@
    "C": "本項敘述正確。嬰幼兒可能合併 IgE 媒介的食物過敏，常見的是蛋、牛奶、花生、小麥與大豆。但要有立即型反應病史、或中重度且治療效果不好，才進一步評估——不能光憑濕疹就亂禁食物。",
    "D": "本項敘述正確。成人型可以表現成慢性手部濕疹，尤其反覆碰水、清潔劑或職業刺激物時會加劇。成人也常見屈側苔癬化、頭頸型皮膚炎與眼周病灶。",
    "summary": "異位性皮膚炎的位置會隨年齡搬家：嬰兒在臉和伸側，長大才換到屈側，成人可能只剩手部濕疹。",
-   "guideline": "FC 醫學(四)第1冊 p.415"
+   "guideline": "FC 醫學(四)第1冊 p.415",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64677,7 +64841,10 @@
    "C": "本項不選。prazosin 是選擇性 α1 阻斷劑，降低周邊血管阻力，用於高血壓或某些創傷後壓力症（PTSD）的惡夢。它和乾癬惡化的關聯，比起 lithium、β 阻斷劑、抗瘧藥與干擾素明顯弱得多。",
    "D": "本項不選。atorvastatin 抑制 HMG-CoA reductase 來降膽固醇，主要副作用是肌病變與轉胺酶上升。statin 不是乾癬惡化的典型誘因，甚至有研究在探討它的抗發炎作用對乾癬可能有益。",
    "summary": "會把乾癬弄壞的藥記四個加一個：β 阻斷劑、lithium、抗瘧藥、干擾素，還有「停掉全身性類固醇」的反彈。",
-   "guideline": "FC 醫學(四)第2冊 p.153"
+   "guideline": "FC 醫學(四)第2冊 p.153",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64828,7 +64995,10 @@
    "C": "正確答案。carbamazepine 引起的 SJS/TEN 與 HLA-B*15:02 在漢人與部分東南亞族群有強烈關聯，所以國內建議開藥前先驗。驗出陽性就不要用，改選交叉風險較低的替代藥。",
    "D": "本項不選。hydralazine 的代表性問題是藥物誘發性狼瘡，會出現 ANA 與 anti-histone antibodies，長期高劑量或慢乙醯化者風險更高。它和 HLA-B*15:02 相關的 SJS/TEN 沒有典型對應。",
    "summary": "三組藥與 HLA 一起背：carbamazepine–B*15:02、allopurinol–B*58:01、abacavir–B*57:01。",
-   "guideline": "FC 醫學(四)第2冊 p.143"
+   "guideline": "FC 醫學(四)第2冊 p.143",
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65044,7 +65214,10 @@
    "C": "本項敘述正確。來源不明之栓塞型中風（ESUS）不能常規以 DOAC 取代 antiplatelet；沒有心房顫動等明確心源性來源時，抗血小板是合理策略。",
    "D": "本項敘述正確。CHA2DS2-VASc 為 0 的非瓣膜性心房顫動屬極低栓塞風險，通常不需抗血栓治療；個別共病仍要重新評估。",
    "summary": "顱內動脈狹窄不是看到『70%』就上抗凝；它先靠抗血小板和危險因子控制，不把出血風險換成假安全感。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -65204,7 +65377,10 @@
    "C": "本項不選。已知癲癇病人突然停用抗癲癇藥會使血中藥物濃度下降，是最常見且可避免的突破性發作原因之一。",
    "D": "本項不選。糖尿病酮酸中毒伴隨酸鹼、電解質與代謝失衡，可降低腦部發作閾值並誘發急性症狀性癲癇。",
    "summary": "真正常見的誘發因子是停藥、感染和代謝亂掉；幼年單純熱痙攣且完全正常，別被它嚇成高癲癇風險。",
-   "guideline": "FC 醫學(四)第4冊 p.136"
+   "guideline": "FC 醫學(四)第4冊 p.136",
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -69792,7 +69968,9 @@
    "D": "本項不選：眼部 Behçet 常需 corticosteroid 合併免疫調節劑或 biologics，目標是壓住反覆發炎並保住視力。",
    "summary": "Behçet 診斷看反覆口腔潰瘍加多系統表現；HLA-B51 是線索，不是拿到陽性就能確診。",
    "guideline": "FC 醫學(六)第2冊 p.248",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -69981,7 +70159,9 @@
    "D": "本項也有弱視風險。雙眼 4 D 遠視會使兩眼視網膜影像持續模糊，可造成雙眼屈光性弱視。",
    "summary": "弱視最怕一眼一直收不到清楚影像；交替性間歇外斜視兩眼都有輪流工作的機會，所以風險較小。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -70020,7 +70200,9 @@
    "D": "正確。長期全身或眼用類固醇可造成白內障、眼壓上升與中心性漿液性脈絡膜視網膜病變；視神經炎不是標準副作用。",
    "summary": "類固醇眼毒性記三件事：後囊下白內障、眼壓升高、中心性漿液性脈絡膜視網膜病變；不是視神經炎。",
    "guideline": "FC 醫學(六)第2冊 p.249",
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72275,7 +72457,9 @@
    "D": "本項不正確。治療以儘早全身性 antiviral 為主；局部類固醇只在特定角膜或葡萄膜炎情境由眼科監測使用，抗生素藥膏不能處理 VZV。",
    "summary": "帶狀疱疹長到鼻頭是 Hutchinson sign：代表 nasociliary nerve 受累，角膜與眼內發炎風險更高，要及早給全身 antiviral。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -76027,7 +76211,10 @@
    "C": "本項不選。嬰兒期常見雙頰、頭皮與四肢伸側濕疹。學齡後才較偏向肘窩、膝窩等屈側。",
    "D": "本項不選。嚴重、早發、持續的 dermatitis，合併家族 atopy 與很高 IgE，較可能持續並發展成其他過敏疾病。",
    "summary": "異位性皮膚炎不是出生就有。嬰兒先長在臉和伸側，並可能一路走向氣喘、過敏鼻炎的 atopic march。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76666,7 +76853,10 @@
    "C": "本項應選。filaggrin 負責角質層屏障與天然保濕因子，它的功能缺失突變確實會提高風險——但只出現在部分病人，不是絕大多數。這個病是屏障、免疫失衡、微生物與環境一起造成的多因子疾病。",
    "D": "本項敘述正確。Wiskott-Aldrich syndrome 是 X 染色體性聯的免疫缺陷，三聯徵是濕疹、反覆感染，加上「小血小板」的血小板低下。男童同時有濕疹樣病灶、出血傾向與免疫異常時，要往 WAS 基因相關疾病查。",
    "summary": "filaggrin 突變只解釋一部分病人，不是全部——看到「絕大多數」這種絕對字眼就要警覺。",
-   "guideline": "FC 醫學(四)第1冊 p.413"
+   "guideline": "FC 醫學(四)第1冊 p.413",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76699,7 +76889,10 @@
    "C": "本項敘述錯誤。藥物誘發的亞急性皮膚紅斑性狼瘡表現為光敏感的環狀或丘疹鱗屑病灶，相關藥物包括 thiazide、terbinafine、質子幫浦抑制劑與部分鈣離子通道阻斷劑。它的潛伏期是數週到數月，不是一週。",
    "D": "正確答案。sorafenib 是多重激酶抑制劑，會造成手足皮膚反應：在掌蹠受壓的位置出現疼痛性紅斑、角化或水疱。落髮也是它可見的附屬器副作用，兩個症狀都對得上。",
    "summary": "藥物疹要一起記時間軸：AGEP 是幾天內爆膿疱，藥物誘發的 SCLE 要拖數週到數月才出現。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76737,7 +76930,10 @@
    "C": "本項應選。乾癬性關節炎屬於血清陰性脊椎關節病，類風濕因子（RF）多半是陰性。RF 陽性反而要回頭想類風濕性關節炎；少數病人可能剛好 RF 陽性，所以它對診斷幫助最小。",
    "D": "本項不選。乾癬的指甲變化包括點狀凹陷、甲床分離、甲下角化增厚與甲板增厚，反映甲單位與遠端指間關節（DIP）在解剖上相連。指甲乾癬與乾癬性關節炎、特別是 DIP 受累明顯相關。",
    "summary": "乾癬性關節炎是血清陰性的：RF 陽性不但幫不上忙，還會把你帶去類風濕性關節炎。",
-   "guideline": "FC 醫學(四)第1冊 p.444"
+   "guideline": "FC 醫學(四)第1冊 p.444",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76775,7 +76971,10 @@
    "C": "本項應選。griseofulvin 雖然能治皮癬菌造成的甲癬，但療程很長、治癒率偏低，而且對 Candida 與非皮癬菌黴菌效果不足，不是最佳選擇。趾甲的皮癬菌甲癬通常優先用口服 terbinafine，部分情況才選 itraconazole。",
    "D": "本項敘述正確。糖尿病會因為周邊循環差、神經病變與免疫防禦下降而提高風險；HIV 感染或其他免疫低下也會增加感染與治療失敗機率。高齡、足癬、反覆足部外傷與周邊血管疾病同樣是常見危險因子。",
    "summary": "甲癬口服藥首選 terbinafine，不是 griseofulvin；而且一定要連足癬一起治，否則會復發。",
-   "guideline": "FC 醫學(四)第2冊 p.62"
+   "guideline": "FC 醫學(四)第2冊 p.62",
+   "concepts": [
+    "superficial-skin-infections"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76855,7 +77054,8 @@
    "summary": "指甲的黑線爬出甲板、跑到旁邊的皮膚上＝Hutchinson sign，看到就要當黑色素瘤處理。",
    "guideline": "FC 醫學(四)第2冊 p.190",
    "concepts": [
-    "derm-bedside-signs"
+    "derm-bedside-signs",
+    "skin-tumors-compare"
    ]
   },
   "source": "113020/302_22",
@@ -76929,7 +77129,10 @@
    "C": "本項不選。Enterovirus 71 造成的是手足口病，典型是手足與口腔的水疱、丘疹水疱或潰瘍，以幼兒居多。它不會讓成年人多年反覆長靶心疹。",
    "D": "本項不選。Epstein-Barr virus 造成傳染性單核球增多症，若合併使用 aminopenicillin 還會冒出瀰漫性麻疹樣疹。但它不是反覆性多形性紅斑的代表性誘因。",
    "summary": "會反覆發作的靶心疹先問疱疹：HSV 是反覆性多形性紅斑的頭號誘因，抓到就能預防性治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -77160,7 +77363,10 @@
    "C": "本項不選。phenytoin 主要治療局部與強直陣攣發作，對 JME 的 myoclonus 沒有優勢，且可能使全面性癲癇控制變差。",
    "D": "本項不選。carbamazepine 對局部癲癇有效，卻可能加重 JME 的 myoclonic 或 absence seizure，不能因有全身痙攣就選它。",
    "summary": "熬夜後清晨雙上肢 myoclonus 加 polyspike-wave 是 JME；valproate 和 levetiracetam 都可得分，局部癲癇藥別選。",
-   "guideline": "FC 醫學(四)第4冊 p.135"
+   "guideline": "FC 醫學(四)第4冊 p.135",
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -77434,7 +77640,10 @@
    "C": "本項應選。最典型的血管壓迫是上小腦動脈（superior cerebellar artery）在三叉神經根進入區壓迫，而不是尤其下小腦動脈。",
    "D": "本項敘述正確。carbamazepine 是典型三叉神經痛的第一線藥物；有效也可反過來支持診斷，但仍要注意低鈉等副作用。",
    "summary": "三叉神經痛像電擊、會被觸發；經典壓迫血管是 superior cerebellar artery，第一線藥是 carbamazepine。",
-   "guideline": "FC 醫學(四)第4冊 p.48"
+   "guideline": "FC 醫學(四)第4冊 p.48",
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -82032,7 +82241,9 @@
    "D": "本項不正確。交替偏斜的確較不易造成單眼弱視，但仍要矯正屈光不正、追蹤眼位與立體視，不能因此完全不治療。",
    "summary": "調視性內斜視的開關是遠視調節：先完整配遠視眼鏡，讓集合不用一直被調節拉過頭。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83746,7 +83957,9 @@
    "D": "本項應選。失讀症（alexia）多與優勢側後大腦動脈供應區的枕葉及胼胝體壓部病灶有關，不是 ACA 中風的常見表現。",
    "summary": "ACA 想額葉內側：尿失禁、行為改變、釋放徵象；失讀要回想後腦循環的枕葉路徑。",
    "guideline": "FC 醫學(六)第3冊 p.15",
-   "concepts": []
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -84329,7 +84542,9 @@
    "D": "本項不正確。甲醇中毒造成蟻酸傷害視神經與視網膜，典型是無痛性視力下降、視野缺損與代謝性酸中毒，不是嚴重眼痛。",
    "summary": "眼科急症要抓病原與部位：隱形眼鏡角膜炎先防 Pseudomonas，甲醇是無痛視神經毒性，UV keratitis 才是表面損傷。",
    "guideline": "FC 醫學(六)第2冊 p.240",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -88003,7 +88218,10 @@
    "C": "本項不選。反覆搔抓會讓皮膚變厚、皮紋加深，形成苔癬化（lichenification），常見於慢性病灶。",
    "D": "本項應選。風疹塊（wheal）是蕁麻疹的短暫水腫性病灶，會在 24 小時內消退；不是異位性皮膚炎的典型皮疹。",
    "summary": "異位性皮膚炎是癢、乾、抓久變厚；看到會跑掉的 wheal，反而應轉想蕁麻疹。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88619,7 +88837,10 @@
    "C": "本項不選。疾病初期可見 prolonged、focal 或 alternating febrile seizures，甚至 focal febrile status epilepticus，是重要警訊。",
    "D": "本項應選。Dravet syndrome 最常見的是 SCN1A 變異，影響鈉離子通道；CDKL5 更常與另一類早發性發展性癲癇腦病相關。",
    "summary": "嬰兒期、低熱就抽且容易 prolonged focal seizure，要想到 Dravet；關鍵基因是 SCN1A，不是 CDKL5。",
-   "guideline": "FC 醫學(四)第1冊 p.332"
+   "guideline": "FC 醫學(四)第1冊 p.332",
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88846,7 +89067,10 @@
    "C": "本項不選。脂漏性皮膚炎好發於頭皮、眉間、鼻唇溝與前胸這些皮脂多的地方，發炎和 Malassezia、皮脂與宿主免疫反應都有關。治療常用 ketoconazole 這類外用抗黴菌藥，發炎明顯時再短期加抗發炎藥。",
    "D": "本項應選。凹陷性角質溶解症是腳底角質層的細菌感染，病原是 Corynebacterium、Kytococcus sedentarius 這類革蘭氏陽性菌。典型是承重部位一堆小凹洞加上腳臭，和 Malassezia 沒關係。",
    "summary": "Malassezia 家族三個：汗斑、脂漏性皮膚炎、新生兒頭部膿疱病；腳底那些小凹洞是細菌，不是它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "superficial-skin-infections"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88886,7 +89110,10 @@
    "C": "本項不選。水痘的水疱以向心性分布、會癢，而且同一時間看得到斑疹、丘疹、水疱與結痂等不同階段並存。這題是原本的濕疹突然變痛惡化，方向不同。",
    "D": "本項不選。葡萄球菌皮膚燙傷樣症候群是剝離性毒素把 desmoglein 1 切開造成的，多見於幼兒或腎功能不好的成人，表現是大範圍壓痛紅斑、表淺剝落與 Nikolsky sign 陽性。它不會侷限在濕疹區形成打洞狀病灶。",
    "summary": "異位性皮膚炎突然變「痛」就要警覺——疱疹性濕疹的關鍵字是刺痛、發燒、一群大小一致的打洞狀糜爛。",
-   "guideline": "FC 醫學(四)第2冊 p.36"
+   "guideline": "FC 醫學(四)第2冊 p.36",
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -89270,7 +89497,10 @@
    "C": "正確。levetiracetam 主要以原型經腎臟排除，不走肝臟 CYP 系統。所以肝硬化不必調整劑量，也幾乎不跟高血壓、糖尿病用藥打架。中風後癲癇正需要這種好上手的藥。",
    "D": "本項不選。perampanel 由 CYP3A4 代謝，肝功能不全要減量。它還有攻擊行為與精神症狀的黑框警語，不適合當老年病人的首選。",
    "summary": "肝硬化的癲癇病人選藥先看代謝路徑：走腎、不碰 CYP 的 levetiracetam 最省事。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -89308,7 +89538,10 @@
    "C": "本項不選。dihydroergotamine 屬於 ergot 類血管收縮劑，有鼻噴與針劑劑型。常用在已經拖一段時間、triptan 效果不好的急性發作。",
    "D": "本項不選。prochlorperazine 是 dopamine 拮抗劑，急診常拿來靜脈注射。它可以同時壓住頭痛與噁心嘔吐，屬於急性期用藥。",
    "summary": "看到 CGRP 單株抗體（如 erenumab）就想「每月一針的預防」，不是發作當下的救火藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -93910,7 +94143,9 @@
    "D": "本項要選：HSV 會在三叉神經節潛伏，之後可因壓力、發燒或免疫變化再活化，所以治癒後仍可能復發。",
    "summary": "HSV 角膜炎的樹枝狀潰瘍會好，但病毒躲在神經節不會消失，所以眼病可以反覆發作。",
    "guideline": "FC 醫學(六)第2冊 p.63",
-   "concepts": []
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -93983,7 +94218,9 @@
    "D": "本項不選：局部 carbonic anhydrase inhibitor 如 dorzolamide 可降眼壓，但整體效果通常較口服急性降壓弱。",
    "summary": "acetazolamide 會讓 bicarbonate 和鉀一起從腎臟流掉：麻刺感、代謝性酸中毒、低血鉀，不是高血鉀。",
    "guideline": "FC 醫學(六)第2冊 p.113",
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -94061,7 +94298,9 @@
    "D": "本項會造成遮蔽性弱視。上瞼 capillary hemangioma 若垂下遮住瞳孔，會像眼瞼下垂一樣阻斷視覺刺激。",
    "summary": "遮蔽性弱視是光進不去：白內障、重度 ptosis、上瞼血管瘤都會；內斜視是抑制影像，屬另一種弱視。",
    "guideline": "FC 醫學(六)第2冊 p.186",
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -94136,7 +94375,9 @@
    "D": "正確。OCT 對黃斑微結構有價值，但六個月嬰兒白瞳伴紅痛流淚時，優先是找腫瘤、白內障或剝離，不是先做 OCT。",
    "summary": "嬰兒白瞳先排 retinoblastoma：超音波、間接眼底鏡和適當影像能救命；OCT 不是第一優先。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95726,7 +95967,8 @@
    "summary": "後循環中風記 4D：dysphagia、dysarthria、diplopia、dizziness；一出現 aphasia 就要改想前循環。",
    "guideline": null,
    "concepts": [
-    "aphasia-types"
+    "aphasia-types",
+    "stroke-vascular-syndromes"
    ]
   },
   "source": "113070/302_44",
@@ -100332,7 +100574,10 @@
    "C": "本項不選。汗疱疹又叫異汗性濕疹，典型是手指側面、手掌或腳底出現深在、極癢、像西谷米的小水疱。它解釋不了軀幹四肢的靶心病灶，也解釋不了口、眼、會陰三處糜爛。",
    "D": "本項不選。結節性紅斑的病理是間隔性脂膜炎，臨床是雙側小腿脛前會痛的紅色皮下結節。它不是表皮水疱或靶心疹，也不會有廣泛黏膜糜爛。",
    "summary": "靶心病灶＋三處黏膜糜爛＝重型多型性紅斑；但若有高風險藥物史又開始表皮剝離，就要往 Stevens–Johnson 想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100365,7 +100610,10 @@
    "C": "本項應選。IL-4 走的是第二型免疫（Th2）路徑，和異位性皮膚炎、IgE 類別轉換與過敏性發炎關係密切，不在乾癬核心的 IL-23/Th17 軸上。所以單獨阻斷 IL-4 治不好乾癬；IL-4/IL-13 受體的阻斷藥是拿來治異位性皮膚炎的。",
    "D": "本項不選。IL-23 負責維持並擴增致病性的 Th17 細胞，再往下推動 IL-17A、IL-17F 等發炎訊號。guselkumab、risankizumab 與 tildrakizumab 這些 IL-23 p19 inhibitor 都是有效的乾癬生物製劑。",
    "summary": "乾癬走的是 IL-23／Th17 軸，異位性皮膚炎走的是 Th2（IL-4／IL-13）——藥打錯軸就沒效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100398,7 +100646,10 @@
    "C": "正確答案。難控制、或鱗屑厚又界線清楚的脂漏性皮膚炎，要回頭考慮乾癬，尤其是脂漏性乾癬（sebopsoriasis）。它同時具備脂漏部位的分布與乾癬樣斑塊，常見於頭皮、眉間、耳後與鼻唇溝。",
    "D": "本項敘述錯誤。巴金森氏症與嚴重脂漏性皮膚炎有已知關聯，可能牽涉皮脂分泌、神經調控與皮膚微環境的改變。神經疾病病人的病灶反而更明顯，所以「不會加重」不成立。",
    "summary": "難治的脂漏性皮膚炎有三條路要查：乾癬重疊、HIV、巴金森氏症——三個都會讓它更難搞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100466,7 +100717,10 @@
    "C": "正確答案。凹陷性角質溶解症是 Corynebacterium、Kytococcus 這類細菌在潮濕密閉的環境裡分解足底角質造成的。承重處會出現一堆像小火山口的凹洞，還伴隨明顯臭味——長時間穿軍靴又多汗，正是典型危險因子。",
    "D": "本項不選。掌蹠膿疱症是手掌或腳底反覆冒出無菌性膿疱、紅斑、脫屑與角化，和抽菸及乾癬光譜有關。膿疱不是角質被溶出來的凹洞，也不會典型造成腳臭。",
    "summary": "腳臭＋承重處一堆小凹洞＝凹陷性角質溶解症，那是細菌分解角質，不是黴菌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "superficial-skin-infections"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100712,7 +100966,10 @@
    "C": "本項敘述正確。半影區（penumbra）是血流已經不足、細胞卻還沒死的地帶。取栓搶的就是這塊還救得回來的組織，核心梗塞區則無法挽回。",
    "D": "本項敘述正確。灌流造影（perfusion scan）可以挑出核心小、半影區大的病人。DAWN 與 DEFUSE 3 兩個試驗就是靠這種篩選把時間窗延到 24 小時。",
    "summary": "取栓打通後不再常規追加溶栓；取栓救的是半影區，灌流影像才是把時窗撐到 24 小時的鑰匙。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100788,7 +101045,10 @@
    "C": "本項不選。topiramate 每天服用可以把發作次數壓下來，是預防的一線選擇。副作用有感覺異常、體重下降與思考變慢。",
    "D": "本項不選。慢性偏頭痛（每月頭痛達 15 天以上）可用 onabotulinum toxin type A。每 12 週在頭頸部固定的 31 個點注射一輪。",
    "summary": "偏頭痛預防藥四大類：β 阻斷劑、抗癲癇（valproate／topiramate）、三環抗憂鬱、肉毒；carbamazepine 是三叉神經痛的藥。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100864,7 +101124,10 @@
    "C": "本項應選。一般癲癇病人並不需要一開始就衝到高血中濃度。劑量拉太快只會把副作用叫出來，病人吃不下去就談不上療效。真正需要立刻達到有效濃度的是重積癲癇。",
    "D": "本項敘述正確。後續加減量要看發作有沒有再來、副作用能不能忍受。血中濃度只是輔助參考，不是調藥的唯一依據。",
    "summary": "一般癲癇是「單一藥物、低劑量起步、慢慢往上調」；要一開始就衝濃度的只有重積癲癇。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -105075,7 +105338,9 @@
    "D": "本項不符合定義。斜視是雙眼眼位不對準，並非角膜曲率不平造成的單眼屈光問題。",
    "summary": "角膜像橄欖球而不是籃球，兩個方向彎度不同，就叫散光；斜視則是兩眼沒對準。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -105143,7 +105408,9 @@
    "D": "本項不選：年齡增加使視神經更容易受損，也是高眼壓症轉化風險的組成因子。",
    "summary": "高眼壓症轉青光眼要記薄角膜危險、厚角膜相對保護；厚角膜還會把眼壓量得偏高。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -105177,7 +105444,9 @@
    "D": "本項不選：類固醇可改變小樑網細胞外基質與吞噬功能，使房水外流阻力升高。",
    "summary": "類固醇不只眼藥水會升眼壓；任何途徑只要暴露夠久夠多，都可能讓小樑網排水變差。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -105211,7 +105480,9 @@
    "D": "本項要選：患側上斜肌無力時下視內收功能變差，患眼通常相對上飄呈 hypertropia，而不是 hypotropia。",
    "summary": "上斜肌麻痺讓患眼壓不下來，所以是患側 hypertropia；看下樓更明顯，常用歪頭代償。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106665,7 +106936,8 @@
    "summary": "MCA 中風＝對側偏癱、偏身感覺缺損、偏盲加優勢側失語；出現小腦徵象就要換想後循環。",
    "guideline": null,
    "concepts": [
-    "aphasia-types"
+    "aphasia-types",
+    "stroke-vascular-syndromes"
    ]
   },
   "source": "114020/302_0106",
@@ -107174,7 +107446,10 @@
    "C": "本項不選。聽診頸部雜音不用任何儀器，床邊就能做，是判斷要不要趕快安排血管檢查的初步線索。",
    "D": "本項應選。腦波檢查（EEG）針對的是癲癇。本例症狀刻板、持續 30 分鐘後完全恢復又有血管危險因子，缺血才是主軸。",
    "summary": "反覆單側無力又完全恢復＝TIA，要衝的是查血管、防中風；EEG 是抽搐才排的檢查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -111260,7 +111535,10 @@
    "C": "本項不選。外用類固醇是急性發炎的第一線抗發炎治療，強度要依部位、年齡與病灶厚度挑。臉部與皺褶處用低效價的，才能降低皮膚萎縮、妊娠紋樣變化與微血管擴張。",
    "D": "本項不選。窄波紫外線 B 光（narrow-band UVB）適合廣泛、中重度而外用治療不夠的病人，能調節免疫並減少搔癢。要考量的是曬傷、光老化、就醫可近性與累積的紫外線暴露量。",
    "summary": "異位性皮膚炎什麼都能用，就是別長期吃類固醇——停掉會反彈，而且全身副作用一次到齊。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111293,7 +111571,10 @@
    "C": "本項應選。表皮下水疱不是一般斑塊型乾癬的病理，看到它要想類天疱瘡、疱疹樣皮膚炎、線狀 IgA 水疱病或後天水疱性表皮鬆解症。乾癬的問題是角化異常、表皮增生與嗜中性球發炎，不是表皮跟真皮分開。",
    "D": "本項不選。乾癬的真皮乳突層會有 T 淋巴球、巨噬細胞這類單核發炎細胞增加，同時伴隨擴張迂曲的微血管。這些免疫細胞正是 IL-23/Th17 發炎的參與者。",
    "summary": "乾癬的水疱是「表皮裡的膿疱」，不是「表皮下的水疱」——看到表皮下水疱就換去想自體免疫水疱病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111466,7 +111747,10 @@
    "C": "本項不選。皮脂腺癌最常長在眼周，尤其上眼瞼的瞼板腺，眼外皮膚也可能發生。病理要看到有泡沫狀或空泡狀細胞質的皮脂腺分化，而不是異型的血管腔。",
    "D": "本項不選。鱗狀細胞癌常是角化性丘疹、斑塊、結節或不癒合的潰瘍，病理可見異型鱗狀細胞、角珠與細胞間橋。頭皮上兩年來一片片瘀傷樣斑塊，反而是血管肉瘤的警訊型態。",
    "summary": "老人家頭皮上「瘀青兩年不退」要當血管肉瘤看——它最會裝成瘀傷，等長結節就晚了。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111720,7 +112004,10 @@
    "C": "本項不選。acetaminophen 對這類三叉自律神經頭痛效果有限。",
    "D": "正確。發作 2 到 45 分鐘、一天五次以上、伴隨同側流淚流鼻水，符合陣發性半邊頭痛。它的診斷特色是「對 indomethacin 絕對有效」——完全反應本身就是診斷條件之一，所以治療與診斷是同一件事。",
    "summary": "三叉自律神經頭痛看時間：叢發性 15 分–3 小時、陣發性半邊 2–30 分、SUNCT 只有幾秒；陣發性半邊對 indomethacin 百分百有效。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111794,7 +112081,10 @@
    "C": "正確。lamotrigine 與 levetiracetam 是致畸風險最低的兩支，是生育年齡女性的優先選擇。要注意懷孕時 lamotrigine 的血中濃度會因代謝加快而下降，必須追蹤濃度並調整劑量，同時全程補充葉酸。",
    "D": "本項不選。phenytoin 有胎兒 hydantoin 症候群的風險，也會干擾葉酸代謝。",
    "summary": "育齡女性抗癲癇藥選 lamotrigine 或 levetiracetam，避開 valproate；懷孕時 lamotrigine 濃度會掉，要追蹤加量。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -116095,7 +116385,10 @@
    "C": "本項不選。中央視網膜動脈阻塞也會造成視網膜缺血，只是比例低得多，約百分之一到五的病人後續出現虹膜新生血管。",
    "D": "本項應選。過熟白內障造成的是另外兩種青光眼：水晶體蛋白漏出堵住小樑網的溶解性青光眼，或水晶體膨脹推擠虹膜的膨脹性青光眼。它不會製造 VEGF，也就長不出新生血管。",
    "summary": "新生血管性青光眼的共同起點是視網膜缺血放出 VEGF；白內障造成的青光眼走的是機械或蛋白阻塞，機轉完全不同。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -116161,7 +116454,10 @@
    "C": "本項不選。負的 kappa 角讓角膜反光點落在瞳孔中心的顳側，外觀上兩眼像往內偏，高度近視者常見。",
    "D": "本項應選。早產兒視網膜病變把黃斑部往顳側牽拉後，眼睛要往外轉才能對準目標，看起來是往外偏，屬於假性外斜視而不是假性內斜視。",
    "summary": "假性斜視要看方向：內眥贅皮與負 kappa 角像內斜，黃斑部被往顳側拉走則像外斜。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amblyopia-strabismus"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118472,7 +118768,10 @@
    "C": "本項不選。HLA-B*57:01 是用藥前篩檢 abacavir 過敏用的，藥物與基因都對不上這題。",
    "D": "正確答案。漢族血統者使用 allopurinol 引起 SJS/TEN 或 DRESS，與 HLA-B*58:01 的關聯最強。帶因者應避免使用 allopurinol，改用其他降尿酸藥。",
    "summary": "這題實際是在問「哪個藥配哪個基因」：allopurinol 配 B*58:01，carbamazepine 配 B*15:02，abacavir 配 B*57:01。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -122022,7 +122321,10 @@
    "C": "正確。鯊魚皮斑、灰葉狀白斑、臉部血管纖維瘤加上心臟橫紋肌瘤，四個一起出現就是結節硬化症。嬰兒點頭性痙攣（West 症候群）常是它的第一個表現，這時要做腦部影像找皮質結節與室管膜下結節，治療首選 vigabatrin。",
    "D": "本項不選。線狀皮脂腺痣症候群的皮膚病灶是沿 Blaschko 線分布的黃橙色斑塊，多在頭皮或臉部，不會有這組合。",
    "summary": "嬰兒點頭痙攣＋白斑＋鯊魚皮斑＝結節硬化症；癲癇首選 vigabatrin，心臟要看橫紋肌瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122055,7 +122357,10 @@
    "C": "本項不選。原本就有神經發展異常的孩子，日後癲癇風險明顯上升，是最重要的預測因子之一。",
    "D": "本項不選。癲癇（不是熱性痙攣）的家族史會提高日後發展成癲癇的機率。",
    "summary": "熱性痙攣轉癲癇的四個危險因子：複雜型、發燒短時間內就抽、神經發展異常、癲癇家族史；單純型風險最低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122154,7 +122459,10 @@
    "C": "本項不選。acitretin 致畸胎性很強，育齡女性停藥後還要長期避孕；methotrexate 干擾葉酸代謝，也有胚胎毒性與致畸胎風險。病人有懷孕計畫，這兩個都要避開，並依各自規定安排排空期。",
    "D": "本項不選。IL-17 路徑參與腸道黏膜屏障的維持，所以 IL-17A 抑制劑可能讓既有的發炎性腸道疾病惡化，少數還會誘發新的腸炎。IL-23 抑制劑一般沒有同等程度的警訊，合併或高風險 IBD 的病人通常會優先選它。",
    "summary": "乾癬合併關節炎要挑「皮膚關節一起打」的藥；有腸道疾病風險時，IL-23 抑制劑比 IL-17A 安全。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "eczema-psoriasis-seborrheic"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122258,7 +122566,8 @@
    "summary": "頭癬要吃藥不能只擦藥（菌在毛幹裡）；而伍氏燈的黃綠螢光是 Microsporum，不是 Trichophyton。",
    "guideline": null,
    "concepts": [
-    "wood-lamp-fluorescence"
+    "wood-lamp-fluorescence",
+    "superficial-skin-infections"
    ]
   },
   "source": "115020/302_0104",
@@ -122297,7 +122606,8 @@
    "summary": "腹股溝紅疹照伍氏燈：珊瑚紅是紅癬（細菌），沒螢光要往黴菌或單純對磨疹想。",
    "guideline": null,
    "concepts": [
-    "wood-lamp-fluorescence"
+    "wood-lamp-fluorescence",
+    "superficial-skin-infections"
    ]
   },
   "source": "115020/302_0104",
@@ -122331,7 +122641,10 @@
    "C": "本項應選。它會在局部一直侵犯，但遠端轉移極為罕見，根本不需要常規合併化學治療。只有在無法手術也無法放療的局部晚期、或極罕見的轉移性病例，才可能用 Hedgehog 路徑抑制劑或其他全身性治療。",
    "D": "本項敘述正確。紫外線（UV）曝曬，尤其累積性與間歇性高強度暴露，是重要危險因子。淺膚色、年長、免疫抑制、放射線暴露與某些遺傳症候群也會增加風險。",
    "summary": "基底細胞癌「最常見但最不會轉移」——看到選項說它容易轉移、要化療，就是錯的那個。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122364,7 +122677,10 @@
    "C": "正確答案。天生紅髮或金髮反映的是真黑色素少、褐黑色素多、又容易曬傷的體質，部分紅髮者還帶有 MC1R 變異。淺膚、淺色眼睛加雀斑這一組宿主特徵，是黑色素瘤的重要危險因子。",
    "D": "本項不選。容易曬黑又不容易曬傷，代表黑色素的光保護比較好，風險通常低於容易曬傷的人。真正高風險的是曬不黑、一曬就傷，再加上痣多或有非典型痣。",
    "summary": "黑色素瘤的高風險長相是「白、紅髮、一曬就傷、痣又多」；曬得黑反而是保護。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "skin-tumors-compare"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122564,7 +122880,10 @@
    "C": "本項不選。中大腦動脈狹窄造成的是對側肢體無力或失語，不會只影響單眼視力。",
    "D": "本項不選。心因性栓塞造成的症狀分布隨機、不會固定反覆在同一隻眼睛。「反覆」且「固定同側」正是指向局部動脈狹窄的線索。",
    "summary": "單眼黑矇＝同側內頸動脈；雙眼同側視野缺損才想後循環；反覆固定同一部位偏向局部狹窄而非心因性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122597,7 +122916,10 @@
    "C": "本項不選。第二線是抗癲癇藥物靜脈注射，phenytoin、valproic acid 與 levetiracetam 三者效果相當。",
    "D": "本項不選。第三線是麻醉深度的鎮靜（propofol、midazolam 或 phenobarbital），此時需插管與腦電圖監測。",
    "summary": "重積癲癇的三線流程：5 分鐘給苯二氮平、20 分鐘給第二線抗癲癇藥、40 分鐘進麻醉；時鐘從 5 分鐘開始跑。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122630,7 +122952,10 @@
    "C": "本項不選。噁心或嘔吐與畏光怕吵並列，是伴隨症狀的其中一組。",
    "D": "正確答案是它——味覺異常不在國際頭痛學會的偏頭痛診斷標準裡。標準的架構是：至少五次發作、每次 4 到 72 小時、疼痛特徵四取二、伴隨症狀（噁心嘔吐或畏光怕吵）二取一。",
    "summary": "偏頭痛標準記「5 次、4–72 小時、疼痛四取二、伴隨二取一」；味覺異常不在名單上。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "primary-headache-types"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -123567,7 +123892,10 @@
    "C": "本項敘述正確。持續抽搐會造成興奮毒性神經元死亡，時間越久預後越差，也越難用藥物終止。",
    "D": "本項敘述正確。重積癲癇必須靜脈給藥，先苯二氮平再接第二線抗癲癇藥物。",
    "summary": "重積癲癇的時間門檻是 5 分鐘；治療越早越有效，拖到 30 分鐘藥物反應率會明顯下降。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -126814,7 +127142,10 @@
    "C": "本項應選。RPR 與 VDRL 是非特異性抗體，效價會隨治療下降，正是用來追蹤療效的工具。終身陽性、不能追療效的是 TPPA 或 FTA-ABS 那類特異性抗體，兩者角色被寫反了。",
    "D": "本項不選。高眼壓合併前葡萄膜炎要懷疑疱疹病毒，抽前房水做 PCR 可以直接找到病毒 DNA，是確立診斷最快的方法。",
    "summary": "梅毒兩套抗體分工：非特異性（RPR/VDRL）追療效、特異性（TPPA/FTA-ABS）終身陽性只能確認得過。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "conjunctivitis-uveitis-red-eye"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -126883,7 +127214,8 @@
    "summary": "Van Herick ≤1/4 角膜厚度就要做隅角鏡；它是快篩不是診斷。",
    "guideline": null,
    "concepts": [
-    "van-herick-grading"
+    "van-herick-grading",
+    "glaucoma-types"
    ]
   },
   "source": "115020/302_0106",
@@ -126917,7 +127249,10 @@
    "C": "本項敘述正確。這類病人的視神經對灌流壓特別敏感，若降血壓藥在睡前吃導致夜間血壓過低，視神經在半夜缺血，視野會持續惡化。問診要問清楚吃藥時間。",
    "D": "本項應選。正常眼壓性青光眼的中央角膜厚度偏薄。角膜薄會讓量到的眼壓低於真實眼壓，也是視神經本身較脆弱的指標，所以它是被低估而不是真的「眼壓正常」。",
    "summary": "角膜薄＝量出來的眼壓偏低；正常眼壓性青光眼要同時查角膜厚度與夜間血壓。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -133099,7 +133434,10 @@
    "C": "本項敘述正確。它常侵犯兩個以上的黏膜部位，眼睛可能出現結膜炎、角膜上皮缺損、瞼球黏連，後續造成視力損傷。要及早會診眼科，不能等到病人喊看不見才處理。",
    "D": "本項敘述正確。處置核心是立刻停掉元凶藥物，加上輸液電解質、傷口照護、營養、止痛與黏膜專科照顧。沒有感染證據時不建議常規預防性抗生素，以免增加抗藥性、藥物反應與黴菌感染的風險。",
    "summary": "SJS 的免疫螢光是「陰性」——會出現線狀沉積的是自體免疫水疱病，這是最容易被拿來設陷阱的地方。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "blistering-and-severe-drug-eruptions"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -133402,7 +133740,10 @@
    "C": "本項不選。椎基底動脈區的低灌流會有頭暈、複視、步態不穩等後循環症狀，本例沒有。",
    "D": "本項不選。可逆性腦血管收縮症候群以雷擊頭痛為主要表現，多見於年輕女性或用血管活性藥物者。",
    "summary": "同樣的症狀反覆上演、每次幾分鐘＝穿通小動脈的警示症候群，之後常接著出現腔隙性梗塞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "stroke-vascular-syndromes"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -133504,7 +133845,10 @@
    "C": "本項不選。topiramate 同樣有致畸風險（唇顎裂、胎兒體重過輕），不是安全的替代選項。",
    "D": "本項不選。levetiracetam 確實是較安全的選擇，但懷孕期間它的清除率上升、血中濃度會下降，仍需監測濃度與調整劑量。",
    "summary": "育齡女性癲癇治療的原則：孕前就換掉 valproate、單一藥物最低有效劑量、補葉酸、孕期監測藥物濃度。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "epilepsy-syndromes-aed"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137761,7 +138105,10 @@
    "C": "本項不選。②③兩項都錯，這個組合等於全錯。",
    "D": "正確。①與④都對：兩眼眼壓差 4 mmHg 以上代表眼壓調節不對稱，是公認的危險因子；而隅角開放型確實是歐洲裔與非洲裔族群最常見的青光眼型態，非洲裔還發病更早、進展更快。",
    "summary": "隅角開放型是歐美與非洲裔的主流、男性略多；亞洲與女性偏多的是隅角閉鎖型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -137794,7 +138141,10 @@
    "C": "本項不選。女性的前房本來就比男性淺，加上年長後水晶體變厚，發生率明顯高於男性。",
    "D": "本項應選。高度近視的眼軸長、前房深，隅角寬得很，反而是隅角開放性青光眼與視網膜剝離的危險因子。",
    "summary": "閉鎖性青光眼的體型是「小眼睛」：遠視、短眼軸、女性、年長；高度近視是另一組風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "glaucoma-types"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
