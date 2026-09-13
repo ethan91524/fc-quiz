@@ -390,7 +390,10 @@
    "B": "正確答案。拔股動脈鞘的疼痛會觸發血管迷走反射，迷走張力上升造成心搏過緩、血管擴張和低血壓。IV atropine 處理心搏過緩，輸液補回前負荷。",
    "C": "本項不選。主動脈內氣球幫浦（intra-aortic balloon pump, IABP）用在特定的嚴重心因性休克或機械性併發症。這一例有明確的疼痛誘發、心跳同步下降，是反射性模式，沒有先放 IABP 的依據。",
    "D": "本項不選。再次心導管適用於懷疑急性支架血栓或再梗塞。這一例症狀從鞘管傷口劇痛開始、以心搏過緩為主，比較像血管迷走反射。同時仍要檢查穿刺處或後腹膜出血。",
-   "summary": "拔 femoral sheath 時劇痛後出現低血壓加心搏過緩，先想血管迷走反射，給 atropine 加輸液。"
+   "summary": "拔 femoral sheath 時劇痛後出現低血壓加心搏過緩，先想血管迷走反射，給 atropine 加輸液。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -428,7 +431,10 @@
    "B": "本項不選。藥物塗層支架（drug-eluting stent）抑制新生內膜增生，再狹窄率低於裸金屬支架。支架血栓比較少見但仍可能發生，所以要適當抗血小板治療，敘述正確。",
    "C": "本項不選。慢性完全阻塞（chronic total occlusion）PCI 的成功率受病灶複雜度、操作者經驗和器材技術影響，各中心結果差異可以很大，敘述正確。",
    "D": "本項不選。糖尿病合併複雜多血管冠狀動脈疾病時，CABG 常比 PCI 有更好的長期臨床結果。實際策略仍要依冠狀動脈解剖和手術風險由 heart team 評估，敘述正確。",
-   "summary": "穩定冠心症的 PCI 主要優勢是控制症狀，不能一概說它比最佳藥物治療更能預防心肌梗塞（MI）或死亡。"
+   "summary": "穩定冠心症的 PCI 主要優勢是控制症狀，不能一概說它比最佳藥物治療更能預防心肌梗塞（MI）或死亡。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -468,7 +474,10 @@
    "B": "正確答案。圖上 V2、V3 的 ST 段明顯弓背向上抬高、和 T 波融合，是前壁 STEMI 的樣子。加上急性胸悶和冒冷汗，應立即通知心臟科、啟動緊急心導管和 primary PCI。從進急診大門起算，要在 90 分鐘內打通血管。",
    "C": "本項不選。氧氣不是 STEMI 常規給，留給低血氧或呼吸窘迫的人。aspirin 的急性負荷劑量不是 100 mg，IV nitroglycerin 也不是每個血壓穩定的 STEMI 都要固定給。",
    "D": "本項不選。纖維蛋白溶解治療（fibrinolysis）是在無法及時做 primary PCI、又沒有禁忌時的替代方案。能及時做 PCI 時，不能說溶栓療效更好而優先選它。",
-   "summary": "臨床加 ECG 已符合 STEMI 就立刻啟動 primary PCI，不等心肌酵素；溶栓是來不及做 PCI 時的替代。"
+   "summary": "臨床加 ECG 已符合 STEMI 就立刻啟動 primary PCI，不等心肌酵素；溶栓是來不及做 PCI 時的替代。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1326,7 +1335,10 @@
    "C": "本項不選。抗血管新生治療不是靠 VEGF receptor 突變來決定用不用。這個基因不在肺癌選標靶藥的驅動基因清單上。",
    "D": "本項不選。BRAF 突變確實是晚期非小細胞肺癌該一起檢測的可治療標的之一，但在這個族群裡的比例遠低於 EGFR。",
    "summary": "「亞裔＋不吸菸＋腺癌」是 EGFR 的招牌組合；但實務上仍要做完整的分子檢測，不是只驗一個基因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1573,7 +1585,9 @@
    "D": "本項敘述錯誤。FEV1 降到預測值 50% 代表中重度氣流受限，但 PaO2 會不會降低還要看通氣灌流不均、肺氣腫程度與有沒有急性惡化。單一個 FEV1 切點推不出「幾乎都低血氧」。",
    "summary": "COPD 三個易錯點：早期理學檢查可正常、阻塞在小氣道（<2 mm）、FEV1 的嚴重度不等於低血氧的程度。",
    "guideline": "FC 醫學(三)第1冊 p.336",
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1726,7 +1740,8 @@
    "summary": "結核性胸水＝病灶破進肋膜後的免疫反應：淋巴球多、間皮細胞少、ADA 高，治療靠藥不靠粘連術。",
    "guideline": null,
    "concepts": [
-    "pleural-fluid-analysis"
+    "pleural-fluid-analysis",
+    "tuberculosis-diagnosis-ltbi"
    ]
   },
   "source": "110020/302_11",
@@ -2350,7 +2365,10 @@
    "C": "本項應選。已在用吸入型類固醇卻仍未控制，下一步是**加上長效乙二型支氣管擴張劑（LABA）**，也就是升到 ICS-LABA 合併治療。要注意 LABA 絕不能單獨使用，一定要跟 ICS 一起。現行 GINA 更偏好以 ICS-formoterol 同時當維持與緩解用藥。",
    "D": "本項不選。口服類固醇是急性惡化時的短期救援，不是慢性控制的階梯。長期使用會帶來骨鬆、血糖上升、感染與腎上腺抑制。",
    "summary": "氣喘控制不好時要加的是抗發炎那條線（ICS 加 LABA），不是加急救藥；LABA 永遠不能單獨用。",
-   "guideline": "現行 GINA 偏好 ICS-formoterol 同時作為維持與緩解治療"
+   "guideline": "現行 GINA 偏好 ICS-formoterol 同時作為維持與緩解治療",
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -2803,7 +2821,10 @@
    "B": "正確答案。移植後的心臟已經去神經化，atropine 靠阻斷迷走神經來加速心率的作用可能無效，甚至造成反常反應。這種心搏過緩應儘速用 pacing，或依流程用不靠迷走阻斷的藥物，而不是先給 atropine 試 AV 傳導。",
    "C": "本項不選。意識昏迷如果是竇性心搏過緩造成腦灌流不足，屬於不穩定的心搏過緩，atropine 可以當初始治療，同時準備經皮節律器並找可逆原因。",
    "D": "本項不選。嚴重胸痛合併第一度房室傳導阻滯，如果心率低、胸痛代表缺血灌流不足，atropine 可依症狀性心搏過緩流程使用，同時要評估急性冠心症。",
-   "summary": "atropine 靠阻斷迷走神經改善結節性心搏過緩；移植心臟去神經化，所以最不適合靠 atropine。"
+   "summary": "atropine 靠阻斷迷走神經改善結節性心搏過緩；移植心臟去神經化，所以最不適合靠 atropine。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -3803,7 +3824,9 @@
    "D": "氣道異物阻塞（airway foreign body obstruction）常突然發作並造成單側呼吸音降低或局部 wheezing；雙側症狀與 bronchodilator 明顯改善較不支持固定異物。",
    "summary": "夜咳、雙側 wheezing 與 bronchodilator 可逆性共同支持 asthma；異物多突然且單側，bronchiolitis 多見於更小嬰兒。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -6786,7 +6809,10 @@
    "C": "內乳動脈（internal mammary artery）尤其接至 LAD 時，長期通暢率明顯優於大隱靜脈 graft。CABG 後以 aspirin 與 statin 為次級預防核心，beta-blocker 依心肌梗塞、左心室功能或心率適應症使用；題列藥物仍須依個別適應症調整。",
    "D": "CABG 的早期併發症確實包括出血、心包填塞、perioperative stroke、acute kidney injury 與縱膈腔炎（mediastinitis）；還須監測 perioperative myocardial infarction、心房顫動及傷口感染。",
    "summary": "Off-pump CABG 並未被一致證明具有較佳長期 graft patency；多支血管糖尿病患者與內乳動脈 graft 是常考重點。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -10349,7 +10375,10 @@
    "C": "子宮頸間質侵犯深度反映局部侵襲性，並與淋巴血管侵犯及淋巴結轉移機率相關，因此是早期子宮頸癌的重要病理預後資訊。",
    "D": "正確。HPV type 與致癌風險及病因相關，但在已完成根除手術的 IB 期鱗狀細胞癌中，不是像淋巴結、腫瘤大小或侵犯深度那樣的核心術後預後因子。",
    "summary": "早期子宮頸癌術後預後主要看腫瘤負荷、侵犯程度及淋巴結狀態，不以腫瘤內 HPV 型別決定。",
-   "guideline": "FC 醫學(六)第1下冊 p.113"
+   "guideline": "FC 醫學(六)第1下冊 p.113",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -12351,7 +12380,10 @@
    "B": "本項不選。digoxin 增強迷走張力、減慢房室結傳導，而且主要經腎臟排除。慢性腎功能不全會增加累積和毒性，可造成明顯心搏過緩或傳導阻滯。",
    "C": "本項不選。非二氫吡啶類鈣離子通道阻斷劑（non-dihydropyridine CCB）如 verapamil、diltiazem 會抑制房室結傳導，可能讓心房顫動的心室速率降得太低。",
    "D": "正確答案。α-blocker 主要擴張周邊血管，典型的副作用是姿勢性低血壓和頭暈，不會直接抑制竇房結或房室結，最不可能造成每分鐘 32 下的心搏過緩。",
-   "summary": "心房顫動出現極慢心室反應，先找抑制房室結的藥：β-blocker、digoxin、非二氫吡啶類 CCB 都可能；α-blocker 最不相關。"
+   "summary": "心房顫動出現極慢心室反應，先找抑制房室結的藥：β-blocker、digoxin、非二氫吡啶類 CCB 都可能；α-blocker 最不相關。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -12497,7 +12529,10 @@
    "B": "本項不選。adenosine 短暫阻斷房室結，是穩定、規則窄 QRS 心搏過速在迷走刺激無效後的常用急性治療。如果節律不規則或疑似心房顫動合併預激，就不能這樣用。",
    "C": "本項不選。頸動脈竇按摩（carotid sinus massage）是迷走神經刺激，可終止靠房室結折返的 AVNRT／orthodromic AVRT。做之前要排除頸動脈雜音、近期腦中風等禁忌。",
    "D": "本項不選。verapamil 可減慢房室結傳導、終止部分穩定的窄 QRS 上心室頻脈，但要留意低血壓、HFrEF、寬 QRS 或預激性心房顫動這些不宜使用的情況。",
-   "summary": "穩定的規則窄 QRS 上心室頻脈先用迷走刺激、再用 adenosine；同步電擊主要給不穩定病人。"
+   "summary": "穩定的規則窄 QRS 上心室頻脈先用迷走刺激、再用 adenosine；同步電擊主要給不穩定病人。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -13583,7 +13618,10 @@
    "C": "本項不選。肺尖溝瘤會侵犯下臂神經叢，牽涉 C8 到 T2 神經根，也常一併侵犯旁邊的交感神經鏈——所以 Pancoast 與 Horner 常一起出現。",
    "D": "本項不選。Pancoast 症候群常先以肩痛表現，痛沿著手臂內側、尺骨側往下放射，這正好反映下臂神經叢受侵。",
    "summary": "肺尖腫瘤壓到什麼就出現什麼：臂神經叢＝肩臂尺側痛，交感神經鏈＝Horner，膈神經＝橫膈麻痺。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14295,7 +14333,10 @@
    "C": "NTM 可暫時存在呼吸道而不構成疾病，也可在結構性肺病或免疫低下者造成肺病；診斷需合併臨床、影像與微生物條件，不能只看一次培養。",
    "D": "NTM 廣泛存在於天然水、供水系統與土壤，因此可由環境檢體培養出來，這也增加檢體污染或非致病性分離的可能。",
    "summary": "M. tuberculosis 典型為人傳人的空氣傳播；NTM 主要來自環境，分離到菌不必然等於致病。",
-   "guideline": "FC 醫學(三)第1冊 p.400"
+   "guideline": "FC 醫學(三)第1冊 p.400",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14366,7 +14407,10 @@
    "C": "本項不選。除了同樣有 rifampin 的交互作用問題，rifampin 加 pyrazinamide 的兩個月方案本身早就因為嚴重肝毒性與死亡個案被撤下，現在任何族群都不建議用。",
    "D": "本項不選。rifapentine 也是 rifamycin 類。3HP（每週 isoniazid 加 rifapentine、共 12 週）在台灣是常用的潛伏結核方案，但要搭配相容的抗病毒組合，和 boosted protease inhibitor 併用並不適合。真要用就得先換 ART，題目已排除這條路。",
    "summary": "HIV 病人治潛伏結核，先問「現在的 ART 能不能碰 rifamycin」：吃 PI 就走 9H，別動到抗病毒處方。",
-   "guideline": "台灣疾管署潛伏結核感染治療方案（9H／3HP／4R）；rifamycin 與 protease inhibitor 併用受限"
+   "guideline": "台灣疾管署潛伏結核感染治療方案（9H／3HP／4R）；rifamycin 與 protease inhibitor 併用受限",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14515,7 +14559,9 @@
    "D": "本項不選。接觸過敏原與運動都是氣喘的典型誘發因子，會引起支氣管收縮而咳嗽。",
    "summary": "咳嗽問時機：清晨、運動、碰過敏原＝氣喘；**吃完飯才咳**＝往逆流或吸入想。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -14967,7 +15013,10 @@
    "B": "本項不選。心房顫動合併快速心室反應、又意識不清，代表血流動力學不穩定，適合立即同步心臟整流。",
    "C": "本項不選。上心室頻脈（supraventricular tachycardia）合併急性肺水腫已經是急性心衰竭、屬不穩定徵象，適合同步心臟整流。",
    "D": "正確答案。無脈搏的心室顫動（ventricular fibrillation）沒有規則 QRS 可以同步，必須立即非同步去顫（defibrillation）加 CPR，不能等同步模式。",
-   "summary": "有脈搏又不穩定的 VT、AF、SVT 用同步整流；無脈搏 VF 用非同步去顫。"
+   "summary": "有脈搏又不穩定的 VT、AF、SVT 用同步整流；無脈搏 VF 用非同步去顫。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "110080/302_11",
   "specialty_source": "cougarbot",
@@ -19102,7 +19151,10 @@
    "B": "正確答案。肺鱗狀細胞癌（squamous cell carcinoma）較常長在中央大氣道、往支氣管腔脫落細胞，所以痰液細胞學（sputum cytology）的檢出率通常高於周邊型的肺腺癌。",
    "C": "本項不選。大型隨機試驗顯示低劑量電腦斷層（low-dose CT）篩檢能降低符合高風險條件吸菸族群的肺癌死亡率，不是跟一般胸部 X 光同義的替代品。",
    "D": "本項不選。正子攝影（PET）適合已知或疑似肺癌的分期和部分結節評估，但假陽性、輻射量、成本和對小病灶的敏感度限制，讓它不能取代 low-dose CT 做族群篩檢。",
-   "summary": "肺癌篩檢用符合條件者的 low-dose CT；PET 用於分期，中央型鱗狀細胞癌較容易被痰液細胞學抓到。"
+   "summary": "肺癌篩檢用符合條件者的 low-dose CT；PET 用於分期，中央型鱗狀細胞癌較容易被痰液細胞學抓到。",
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -23098,7 +23150,10 @@
    "C": "本項應選。ASC-US 的標準處置有兩條路：直接做陰道鏡，或 3 到 6 個月後追蹤抹片。現行更常用的是**反射性 HPV 檢測**分流——HPV 陽性就做陰道鏡，陰性則回到常規追蹤。這樣可以避免大量不必要的陰道鏡。",
    "D": "本項不選。前半句沒錯，ASC-US 確實常是暫時性感染。但既然已經有異常結果，就不能退回「維持每年一次」的常規追蹤，仍需分流處置。",
    "summary": "ASC-US 不是直接手術也不是放三年：走陰道鏡、3–6 個月追蹤，或用 HPV 檢測分流。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -23136,7 +23191,10 @@
    "C": "骨盆淋巴結轉移代表已有區域擴散，是根除手術後復發的重要高風險因子，也會改變 FIGO 2018 分期與術後治療。",
    "D": "顯微鏡下子宮旁結締組織侵犯表示腫瘤超出子宮頸，是根除手術後的高風險病理因子，即使肉眼未見也不能忽略。",
    "summary": "子宮頸癌術後 Peters 高風險因子是淋巴結陽性、切緣陽性與子宮旁侵犯；大腫瘤屬中度風險評估。",
-   "guideline": "FC 醫學(六)第1下冊 p.112"
+   "guideline": "FC 醫學(六)第1下冊 p.112",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24606,7 +24664,10 @@
    "B": "本項不選。Class II 抗心律不整藥就是 β-blocker，主要降低交感作用、減慢竇房結和房室結傳導。典型的 ECG 影響是心率和 PR 變化，不是誘發 Brugada 型 ST 上升。",
    "C": "本項不選。Class III 抗心律不整藥主要阻斷鉀通道、延長再極化和 QT interval。重要風險是 torsades de pointes，不是右胸前導程的 ST 上升。",
    "D": "本項不選。Class IV 抗心律不整藥 verapamil、diltiazem 阻斷 L-type calcium channel，主要延長房室結傳導和 PR interval，不是誘發 Brugada 的常用藥。",
-   "summary": "Class IC 鈉通道阻斷劑可顯露 Brugada 型右胸前導程 ST 上升；Class III 的代表性 ECG 風險是 QT 延長。"
+   "summary": "Class IC 鈉通道阻斷劑可顯露 Brugada 型右胸前導程 ST 上升；Class III 的代表性 ECG 風險是 QT 延長。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25730,7 +25791,9 @@
    "D": "本項不選。FEV1 大於 1 公升本身不是禁忌。真正要算的是**預估術後**的肺功能，再結合整體風險評估。",
    "summary": "肺癌能不能開，看的是局部侵犯範圍與心肺儲備；侵犯到縱膈大血管才是真禁忌。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -25949,7 +26012,9 @@
    "D": "本項敘述錯誤。IL-10 是抗發炎、做免疫調節的，IL-12 偏向 Th1 反應。把這兩個都說成隨氣喘嚴重度上升的促發炎介質並不正確。",
    "summary": "氣喘第二型發炎有兩條上游：過敏原走 Th2，病毒走上皮 alarmins→ILC2；兩條最後都用 IL-5 招嗜酸性球。",
    "guideline": "FC 醫學(三)第1冊 p.324",
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26103,7 +26168,10 @@
    "C": "ethambutol 抑制 arabinosyl transferase，其抗藥性較常與 embB 等基因變異相關，而不是 rpoB。",
    "D": "pyrazinamide 經 pncA 編碼的 pyrazinamidase 活化，抗藥性常與 pncA 相關；rpoB 突變不對應此藥。",
    "summary": "結核藥抗藥基因配對：rpoB—rifampin、katG/inhA—isoniazid、embB—ethambutol、pncA—pyrazinamide。",
-   "guideline": "FC 醫學(三)第1冊 p.400"
+   "guideline": "FC 醫學(三)第1冊 p.400",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -31562,7 +31630,10 @@
    "B": "本項不選。早期非小細胞肺癌術後要不要化療，看病理分期和風險。stage II 通常有 platinum-based 輔助化療的適應症，不能把 IIB 以前全部說成不需要。",
    "C": "正確答案。位置深或不利的肺腫瘤可能沒辦法靠 needle biopsy 或楔狀切除（wedge resection）確診。如果惡性機率高、病人又耐受得住，有時就用肺葉切除同時完成診斷和根治性切除。",
    "D": "本項不選。單一或寡發性腦轉移不一定排除肺原發腫瘤的局部治療。胸腔病灶可控制、全身轉移有限、體能又好時，可多專科評估腦轉移局部治療加肺切除。",
-   "summary": "肺癌手術不是只看一個標籤：極早期 N0 的 SCLC 和選擇性寡轉移 NSCLC 仍可能接受局部手術。"
+   "summary": "肺癌手術不是只看一個標籤：極早期 N0 的 SCLC 和選擇性寡轉移 NSCLC 仍可能接受局部手術。",
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -36599,7 +36670,10 @@
    "B": "本項應選（官方複選之一）。運動心電圖確實要在能急救的環境進行，但現代適當篩選病人後，檢查的死亡風險遠低於千分之一。這個數字被高估了。",
    "C": "本項不選。藥物壓力核醫心肌灌流造影（pharmacologic stress myocardial perfusion imaging）可用可逆性灌流缺損辨識誘發性缺血，固定缺損則提示梗塞後瘢痕，敘述正確。",
    "D": "本項應選。冠狀動脈鈣化分數（coronary calcium score）主要量化粥樣硬化負荷、做風險與預後分層，不能單憑它準確判定阻塞性冠狀動脈疾病。而且它的預後價值已有實證，不是「尚不明確」，所以這句也錯。",
-   "summary": "官方 B、D 或 BD 均給分：運動測試死亡率被高估，鈣化分數是風險分層工具而非阻塞性 CAD 的確診工具，且有預後價值。"
+   "summary": "官方 B、D 或 BD 均給分：運動測試死亡率被高估，鈣化分數是風險分層工具而非阻塞性 CAD 的確診工具，且有預後價值。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36665,7 +36739,10 @@
    "B": "本項不選。非心臟手術風險不能只看壓力造影的缺血範圍和左心室功能。手術本身風險、麻醉方式、功能容量和臨床危險因子也會改變決策，敘述適當。",
    "C": "正確答案。正常的 stress SPECT 通常代表短期心血管事件率低，但這不表示可以不做降血脂、控制血壓、戒菸這些預防用藥。影像結果不能取消對動脈粥樣硬化危險因子的治療。",
    "D": "本項不選。正常的壓力心肌灌流只表示檢查時沒有明顯的誘發性相對灌流缺損。不嚴重的斑塊仍可能突然破裂形成血栓，所以不能保證不會發生急性心肌梗塞，敘述適當。",
-   "summary": "正常的 stress SPECT 帶來低短期事件風險，但不等於沒有冠狀動脈粥樣硬化，更不能因此停掉危險因子控制。"
+   "summary": "正常的 stress SPECT 帶來低短期事件風險，但不等於沒有冠狀動脈粥樣硬化，更不能因此停掉危險因子控制。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36743,7 +36820,10 @@
    "B": "本項不選。房室結迴旋性心搏過速（AVNRT）的迴路在房室結雙路徑，典型表現正是突發、規則、窄 QRS 的心搏過速。",
    "C": "本項不選。心房心搏過速（atrial tachycardia）由異位心房焦點驅動。如果房室傳導規則、又沒有束支阻滯，也可呈規則窄 QRS tachycardia。",
    "D": "正確答案。心室心搏過速（ventricular tachycardia）起源於心室，通常不經正常 His–Purkinje 系統同步傳導，呈寬 QRS。這四項裡它最不可能造成規則窄 QRS。",
-   "summary": "規則窄 QRS tachycardia 常見 AVNRT、orthodromic AVRT、atrial tachycardia；心室起源的 VT 原則上是寬 QRS。"
+   "summary": "規則窄 QRS tachycardia 常見 AVNRT、orthodromic AVRT、atrial tachycardia；心室起源的 VT 原則上是寬 QRS。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -36894,7 +36974,10 @@
    "B": "本項不選。曾因心室顫動、或無可逆原因的持續性心室頻脈心跳停止而存活的人，再發致命心律不整的風險高，ICD 可作次級預防，敘述正確。",
    "C": "正確答案。這是錯的敘述。NYHA I 且 LVEF 大於 35% 不是普遍的預防性 ICD 適應症。一級預防要考量低 LVEF 門檻、最佳藥物治療後仍低下、病因，以及心肌梗塞後的等待期等條件。",
    "D": "本項不選。心肌梗塞後已過等待期、最佳藥物治療下仍有 LVEF ≤ 30% 且持續性心室頻脈，猝死風險高，通常符合 ICD 的次級或高風險預防考量，敘述正確。",
-   "summary": "ICD 不是所有心衰竭都植入：次級預防看既往致命的心室性心律不整，一級預防要符合持續低 LVEF 和適當等待期。"
+   "summary": "ICD 不是所有心衰竭都植入：次級預防看既往致命的心室性心律不整，一級預防要符合持續低 LVEF 和適當等待期。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -37567,7 +37650,9 @@
    "D": "正確答案。杵狀指加上肥厚性骨關節病變是典型的副腫瘤表現，最該找的就是支氣管肺癌，尤其是非小細胞肺癌。72 歲男性出現這組合，先安排胸部影像。",
    "summary": "杵狀指＋肥厚性骨關節病變＝先照胸部找肺癌，這是很經典的副腫瘤線索。",
    "guideline": "FC 醫學(三)第1冊 p.460",
-   "concepts": []
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38056,7 +38141,9 @@
    "D": "本項敘述錯誤。過敏性支氣管肺麴菌症（ABPA）反而要靠全身性類固醇壓下免疫反應，口服類固醇是治療不是禁忌。",
    "summary": "這題四個選項有三個把類固醇說成禁忌——懷孕、阿斯匹靈敏感型、ABPA 其實都該用。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -38587,7 +38674,10 @@
    "C": "照護疑似或確診傳染性肺結核患者時，醫療人員應使用經密合度測試的 N95 或更高等級呼吸防護具；一般外科口罩無法可靠過濾吸入性飛沫核。",
    "D": "錯誤。BCG 主要降低幼兒結核性腦膜炎與粟粒性結核等重症，對成人肺結核感染的保護效果不穩定；醫療人員仍須靠空氣隔離、呼吸防護與暴露後篩檢，不能以接種取代。",
    "summary": "傳染性肺結核須以負壓病室、足夠換氣與 N95 執行空氣隔離；BCG 不能有效取代成人職業暴露防護。",
-   "guideline": "FC 醫學(三)第1冊 p.399"
+   "guideline": "FC 醫學(三)第1冊 p.399",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -47255,7 +47345,10 @@
    "C": "正確，醋酸後白化（acetowhite epithelium）常見於 HPV 相關癌前病變，也可見於化生，單獨並不等於侵犯性病灶。",
    "D": "正確，腫瘤血管增生與表面壞死可造成紅白混雜或顏色不均，是陰道鏡下可能伴隨侵襲性病灶的外觀。",
    "summary": "陰道鏡的白化主要提示 HPV 相關上皮改變；看到不規則血管、潰爛才更要警覺侵襲。",
-   "guideline": "FC 醫學(六)第1下冊 p.189"
+   "guideline": "FC 醫學(六)第1下冊 p.189",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -48799,7 +48892,10 @@
    "B": "本項不選。ticagrelor 對急性冠症候群整體有事件效益，prasugrel 也可降低部分缺血事件，但把兩者在 STEMI 的心臟死亡、心肌梗塞、中風每一項都概括成有意義下降，超出試驗能一致支持的結論。",
    "C": "正確答案。aspirin 不可逆抑制血小板的 cyclooxygenase-1，讓 arachidonic acid 沒辦法生成 thromboxane A2，因此抑制血小板活化和聚集，作用維持到該血小板壽命結束。",
    "D": "本項不選。口服 glycoprotein IIb/IIIa antagonist 沒被證實能長期降低心肌梗塞和死亡，反而可能增加出血或不良結局。臨床上這類藥多是特定 PCI 情境下的靜脈製劑。",
-   "summary": "aspirin 以不可逆 COX-1 抑制阻斷 thromboxane A2；P2Y12 抑制劑的藥理和試驗結果不能用「半衰期更長、所有事件都下降」概括。"
+   "summary": "aspirin 以不可逆 COX-1 抑制阻斷 thromboxane A2；P2Y12 抑制劑的藥理和試驗結果不能用「半衰期更長、所有事件都下降」概括。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -49888,7 +49984,9 @@
    "D": "本項不選。先放射再化療會延誤擴散期小細胞肺癌最需要的全身治療。順序反了。",
    "summary": "上腔靜脈壓迫要分「影像上壓到」與「臨床有症候群」：沒症狀就照擴散期走全身化療。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50120,7 +50218,10 @@
    "C": "本項敘述正確。氣喘採階梯式治療：控制不佳就升階，穩定夠久再降階，每次調整前都要先確認吸入技巧與用藥順從度。",
    "D": "本項是本題唯一實質可爭議處。一般建議是**控制良好且穩定至少 3 個月**才考慮降階，題目寫 2 個月與此不同。但官方最後一律給分，所以四個選項都不需要選。",
    "summary": "氣喘降階的前提是「穩定至少 3 個月」，而且每次調整前先檢查吸入技巧——技巧錯的比藥不夠的多。",
-   "guideline": "官方更正：本題一律給分"
+   "guideline": "官方更正：本題一律給分",
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50159,7 +50260,9 @@
    "D": "本項不選。末期 COPD 經完整評估後，肺臟移植確實是少數合適病人的治療選項。",
    "summary": "COPD 的治療不是只有吸入劑：肺復健的效益明確，該和藥物一起排進計畫。",
    "guideline": "FC 醫學(三)第1冊 p.335",
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50232,7 +50335,9 @@
    "D": "本項不選。矽肺症會提高肺結核（tuberculosis, TB）、肺癌與某些自體免疫疾病的風險，機轉和巨噬細胞功能受損有關。所以確診後要主動篩結核。",
    "summary": "矽肺症最重要的兩件事：脫離暴露後仍會進展，而且要一路盯著肺結核。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50266,7 +50371,9 @@
    "D": "本項應選。TTF-1 在小細胞肺癌（SCLC）會陽性，在**肺腺癌**也常陽性。兩邊都會亮的標記，自然分不出小細胞與非小細胞。",
    "summary": "TTF-1 標的是「肺來源」不是「哪一型」；要分小細胞就看神經內分泌標記（CD56／NCAM／chromogranin）。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -50717,7 +50824,10 @@
    "C": "正確：M. chelonae。M. chelonae 是快速生長的非結核分枝桿菌（nontuberculous mycobacteria），不屬於 M. tuberculosis complex。",
    "D": "不正確：M. microti。M. microti 是 M. tuberculosis complex 成員，可感染囓齒類及少數人類病例。",
    "summary": "M. tuberculosis complex 包含 tuberculosis、bovis、africanum、microti；快速生長的 M. chelonae 是 NTM。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -51165,7 +51275,9 @@
    "D": "本項應選。剛好講反了：胸部電腦斷層（CT）、尤其是高解析度電腦斷層（HRCT），正是診斷支氣管擴張的**首選**影像，看得到管徑比伴行動脈粗、管壁增厚。",
    "summary": "支氣管擴張要確診就照電腦斷層；胸部 X 光只能提示，做不了診斷。",
    "guideline": "FC 醫學(三)第1冊 p.335",
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "112020/302_11",
   "specialty_source": "cougarbot",
@@ -55413,7 +55525,10 @@
    "B": "本項不選。肺腺癌源自有腺性或黏液分化的肺上皮細胞，可以表現黏液產生（mucus production）。現代分類是依組織形態和分子特徵，不是只用單一支氣管細胞來源界定，這句大方向沒錯。",
    "C": "本項不選。肺腺癌較常長在肺周邊，形成周邊結節、可能侵犯肋膜；相對地鱗狀細胞癌（squamous cell carcinoma）傳統上較常是中央型，敘述正確。",
    "D": "本項應選。這是錯的敘述。肺腺癌比起鱗狀細胞癌並不是比較不容易腦轉移。腺癌是造成腦轉移（brain metastasis）的常見非小細胞肺癌類型，還可能在較早期就出現遠端散播。",
-   "summary": "肺腺癌是最常見、偏周邊的組織型，遠端和腦部轉移傾向不會低於鱗狀細胞癌。"
+   "summary": "肺腺癌是最常見、偏周邊的組織型，遠端和腦部轉移傾向不會低於鱗狀細胞癌。",
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -59479,7 +59594,10 @@
    "C": "正確，持續高風險 HPV 感染是 CIN 與子宮頸癌前病變最重要的風險因子，尤其 HPV 16、18。",
    "D": "不正確，接種 HPV 疫苗後仍要篩檢。疫苗不能涵蓋所有致癌型別，也不能清除既有感染。所以仍依當地策略追蹤。",
    "summary": "HPV 疫苗是預防不是篩檢替代品；接種後仍要做子宮頸癌篩檢。",
-   "guideline": "FC 醫學(六)第1下冊 p.101"
+   "guideline": "FC 醫學(六)第1下冊 p.101",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60774,7 +60892,10 @@
    "B": "本項不選。短效 dihydropyridine 可能造成反射性心搏過速、增加缺血，不適合用來取代 beta blocker。如果要用，通常選長效製劑。",
    "C": "本項不選。aspirin 對血小板 COX-1 是不可逆抑制，不是可逆。它的抗血小板效應維持到該血小板壽命結束。冠心病常用劑量是每日 75～325 mg。",
    "D": "本項不選。nitrate 釋放 NO 後活化的是可溶性鳥苷酸環化酶（soluble guanylyl cyclase）、增加 cGMP 讓血管舒張，不是和 adenylyl cyclase 結合。",
-   "summary": "抗心絞痛藥理：beta blocker 降低耗氧；aspirin 不可逆抑制 COX-1；nitrate 走 NO–cGMP 路徑。"
+   "summary": "抗心絞痛藥理：beta blocker 降低耗氧；aspirin 不可逆抑制 COX-1；nitrate 走 NO–cGMP 路徑。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -60857,7 +60978,10 @@
    "B": "本項不選。心房心搏過速通常有規則的異位 P wave 和較規則的心室反應，跟圖上完全不規則的節律不符。",
    "C": "正確答案。圖上心室率約每分鐘 130 下，R-R 間距完全不規則，基線只看得到細碎的顫動波、找不到規則的 P 波。這三點就是心房顫動（atrial fibrillation）的判讀重點。",
    "D": "本項不選。心室心搏過速通常是規則的寬 QRS tachycardia，跟這張窄 QRS、完全不規則的圖不同。",
-   "summary": "心房顫動的 ECG 核心是沒有一致的 P 波、心室節律完全不規則。"
+   "summary": "心房顫動的 ECG 核心是沒有一致的 P 波、心室節律完全不規則。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62231,7 +62355,9 @@
    "D": "正確答案。算一下就清楚：白血球 9,500/mm³ × 嗜酸性球 5% ≈ 475/μL，這個數字夠高，代表加吸入型類固醇（ICS）會有效。用了長效支氣管擴張劑三個月仍不穩，正是加 ICS 降低急性惡化的時機。",
    "summary": "COPD 要不要加 ICS 看血中嗜酸性球：算法是白血球總數乘以百分比，數字高就加得有理由。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62345,7 +62471,9 @@
    "D": "本項不選。levofloxacin 預防性療程是留給接觸多重抗藥結核（multidrug-resistant TB, MDR-TB）的情況，而且要專家評估。單純 isoniazid 抗藥還輪不到它。",
    "summary": "潛伏結核感染的用藥要跟著**傳染源的抗藥性**走：對 isoniazid 抗藥就改用 4 個月 rifampin。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -63441,7 +63569,10 @@
    "B": "本項不選。主動脈剝離可有劇烈胸痛和休克，若剝離波及右冠狀動脈也可能有下壁缺血，但不是這種高風險典型壓迫痛的最佳答案。",
    "C": "正確答案。持續的壓迫性胸痛、冷汗、低血壓，加上 II、III、aVF 的 ST 段抬高，符合急性下壁 ST 段上升心肌梗塞。",
    "D": "本項不選。急性心肌炎可有胸痛和 ST-T 變化，但通常缺乏這種冠狀動脈區域性的 ST 抬高，也沒有這種急性冠症候群的病史。",
-   "summary": "II、III、aVF 的 ST 抬高配合典型缺血性胸痛就是急性下壁 STEMI；有低血壓還要評估右心室梗塞。"
+   "summary": "II、III、aVF 的 ST 抬高配合典型缺血性胸痛就是急性下壁 STEMI；有低血壓還要評估右心室梗塞。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -71554,7 +71685,10 @@
    "C": "正確，子宮頸小細胞癌早期就容易血行與遠端轉移，遠端轉移比例高於一般鱗狀上皮癌，預後也較差。",
    "D": "錯誤，肥胖與不當 estrogen 暴露較連到子宮內膜癌。子宮頸小細胞癌的主要特徵是神經內分泌分化與高轉移性。",
    "summary": "子宮頸小細胞癌最重要的不是肥胖，而是早期遠端轉移與高侵襲性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -72971,7 +73105,10 @@
    "B": "正確答案。dabigatran 的特異性反轉劑 idarucizumab，可用於危及生命的出血或緊急手術。",
    "C": "本項不選。apixaban 的標準用法是每日兩次。一天一次的 DOAC 選項要考慮 rivaroxaban 或 edoxaban，還要看腎功能。",
    "D": "本項不選。出血風險高應校正可逆因素、加強追蹤，不會用 aspirin 取代有適應症的口服抗凝，因為 aspirin 預防 AF 中風的效果較差。",
-   "summary": "高風險 AF 應抗凝；dabigatran 有 idarucizumab、apixaban 是每日兩次、aspirin 不能當替代品。"
+   "summary": "高風險 AF 應抗凝；dabigatran 有 idarucizumab、apixaban 是每日兩次、aspirin 不能當替代品。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74440,7 +74577,9 @@
    "D": "本項不選。心電圖（ECG）可以評估心律不整或心因性呼吸困難，但它不能直接診斷氣喘。",
    "summary": "氣喘診斷要的是「客觀證據」：把可變的氣流受限量出來，這只有肺功能做得到。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74480,7 +74619,10 @@
    "C": "不正確：肺炎。一般細菌性肺炎多為數日到數週的急性病程；數月咳痰較不符合，除非有反覆感染或特殊病原。",
    "D": "不正確：肺癌。肺癌可造成慢性咳嗽，但 30 歲男性且題目歸於感染科、加上影像題的病程設定，更先考慮肺結核。",
    "summary": "慢性咳痰數月的胸部影像題先想肺結核；空洞位置與病灶型態仍要回到附圖核對。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74864,7 +75006,10 @@
    "C": "本項（C：文獻報告少於一半的病人，腦脊）不選。CSF acid-fast stain 敏感度有限，陰性不能排除結核性腦膜炎；大量 CSF 離心可提高檢出率。",
    "D": "本項（D：腦脊髓液進行結核菌聚合酶鏈鎖）是本題要選。CSF TB PCR 可快速輔助診斷，但敏感度不足以取代培養；培養仍可提供確認與藥敏資訊。",
    "summary": "結核性腦膜炎的 PCR 是加速器，不是培養替代品；陰性 PCR 或 acid-fast stain 都不能單獨排除。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -75453,7 +75598,10 @@
    "B": "本項不選。圖上 II、III、aVF 的 ST 段抬高、I 和 aVL 有對應性壓低，是下壁 STEMI。這時加做右側導程（尤其 V4R）可看有沒有右心室梗塞，是適當的。",
    "C": "本項不選。床邊超音波可快速找心包積液、主動脈根擴張或瓣膜逆流等線索，只是不能單獨排除主動脈剝離，敘述適當。",
    "D": "本項應選。心肌梗塞早期 troponin 可能還沒升高，單次正常不能排除。要依發作時間重複驗高敏感度 troponin 並結合 ECG。這時決定要不要立刻打通血管的是心電圖，不是抽血——所以「酵素正常就排除 MI」這個處置不對。",
-   "summary": "急性缺血早期心肌酵素可正常，不能用單次正常值排除 MI；ECG 應在到院 10 分鐘內完成。"
+   "summary": "急性缺血早期心肌酵素可正常，不能用單次正常值排除 MI；ECG 應在到院 10 分鐘內完成。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -79630,7 +79778,10 @@
    "B": "本項不選。小細胞肺癌常用侷限期（limited stage）和擴展期（extensive stage）分期。這個分法直接影響能不能做放射治療，敘述正確。",
    "C": "本項不選。小細胞肺癌增殖快、早期就血行轉移，確診時常已經不是局限病灶，五年存活率確實很差，敘述正確。",
    "D": "本項應選。這是錯的敘述。小細胞肺癌發現時常已有縱膈淋巴結或遠端轉移，標準治療多是全身化療加適當放療。只有極少數完整分期為早期 N0 的病例才考慮手術。",
-   "summary": "小細胞肺癌是中央型、早轉移的腫瘤；看到它先想化放療，不是常規手術切除。"
+   "summary": "小細胞肺癌是中央型、早轉移的腫瘤；看到它先想化放療，不是常規手術切除。",
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83270,7 +83421,10 @@
    "C": "正確，HPV 6、11 是低風險型，最常造成外陰生殖器尖形濕疣。通常不直接導向癌前病變。",
    "D": "錯誤，HPV 31、45 屬較高風險型，和子宮頸癌前病變相關。並非典型尖形濕疣的主要病原。",
    "summary": "看到尖形濕疣就接 HPV 6、11；看到子宮頸癌風險才接 16、18 等高風險型。",
-   "guideline": "FC 醫學(六)第1下冊 p.93"
+   "guideline": "FC 醫學(六)第1下冊 p.93",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83382,7 +83536,10 @@
    "C": "錯誤，HIV 是重要慢性感染。但盛行率遠低於 HPV。不能作為本題的最高答案。",
    "D": "錯誤，梅毒近年可增加但仍遠不及 HPV 常見。其診斷與治療重點是血清試驗和 penicillin。",
    "summary": "婦女生殖道感染的盛行率第一名是 HPV；常見不等於每次感染都會進展為癌症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83458,7 +83615,10 @@
    "C": "正確，HPV 16 是 CIN2/3 與侵襲性子宮頸癌最常見的高風險型別，持續感染時風險尤其高。",
    "D": "正確，多數 HPV 感染是暫時性的，免疫系統可在約一到兩年內清除。持續高風險感染才是癌前病變的關鍵。",
    "summary": "CIN1 多會自行消退，真正危險的是持續高風險 HPV 感染與高級別 CIN。",
-   "guideline": "FC 醫學(六)第1下冊 p.101"
+   "guideline": "FC 醫學(六)第1下冊 p.101",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83532,7 +83692,10 @@
    "C": "正確，早期子宮頸癌在腫瘤大小、期別、淋巴結與 LVSI 等條件合適時。可做 radical trachelectomy 加淋巴結評估以保留子宮。",
    "D": "錯誤，單純圓錐切除適合極早期、低風險病灶。本例基質侵犯 5 mm 已達 IA2 邊界。通常需較完整的根治性評估。",
    "summary": "想保留生育的早期子宮頸癌，不是只能放棄治療；符合條件者可考慮 radical trachelectomy。",
-   "guideline": "FC 醫學(六)第1下冊 p.109"
+   "guideline": "FC 醫學(六)第1下冊 p.109",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83608,7 +83771,10 @@
    "C": "正確，高風險 HPV 的 E6 促進 p53 降解，E7 使 Rb pathway 失活，細胞因此失去 DNA 損傷停損與 cell-cycle brake。",
    "D": "錯誤，L1、L2 是病毒衣殼蛋白，負責組裝與進入。HPV 疫苗主要針對 L1。而不是其致癌作用。",
    "summary": "高風險 HPV 致癌要成對記：E6 壓 p53，E7 鬆開 Rb，細胞週期煞車一起失靈。",
-   "guideline": "FC 醫學(六)第1下冊 p.94"
+   "guideline": "FC 醫學(六)第1下冊 p.94",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -84582,7 +84748,10 @@
    "C": "錯誤，切除子宮與代理孕母不是 IA1 有生育考量者的唯一途徑，題目要考的是可保留子宮的局部治療。",
    "D": "正確，IA1 且有保留生育需求時。可考慮子宮頸圓錐切除並確認切緣與風險因子，之後密集追蹤。",
    "summary": "IA1 子宮頸癌想保留生育時，先看圓錐切除切緣與風險因子；不是一診斷就必須切子宮。",
-   "guideline": "FC 醫學(六)第1下冊 p.109"
+   "guideline": "FC 醫學(六)第1下冊 p.109",
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -84872,7 +85041,10 @@
    "B": "本項不選。及時再灌流可避免病理性 Q wave，部分 STEMI 也不會演變成 Q 波心肌梗塞，所以不是所有人最後都有 Q 波。",
    "C": "本項不選。第一型心肌梗塞的定義就是需要 troponin 動態升降、至少一次超過第 99 百分位上限，還要配合缺血證據。",
    "D": "正確答案。CABG 相關的第五型心肌梗塞，troponin 門檻是基準值正常者超過第 99 百分位上限的 10 倍，並且要有額外的缺血、影像或移植物閉塞證據。",
-   "summary": "MI 分型的 troponin 門檻不同：type 1 超過 99th percentile；CABG 相關的 type 5 採 >10 倍並需額外證據。"
+   "summary": "MI 分型的 troponin 門檻不同：type 1 超過 99th percentile；CABG 相關的 type 5 採 >10 倍並需額外證據。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -84984,7 +85156,10 @@
    "B": "本項不選。萊姆心臟炎（Lyme carditis）可侵犯傳導系統，典型造成程度快速變動的房室傳導阻滯。",
    "C": "本項不選。下壁或前壁心肌梗塞都可能因房室結缺血或廣泛傳導系統壞死而引起房室傳導阻滯。",
    "D": "正確答案。貓抓病（cat scratch disease）不是常見的房室傳導阻滯病因，在這四項裡最不可能。",
-   "summary": "房室傳導阻滯常見於迷走刺激、Lyme carditis、心肌梗塞；貓抓病沒有典型關聯。"
+   "summary": "房室傳導阻滯常見於迷走刺激、Lyme carditis、心肌梗塞；貓抓病沒有典型關聯。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -85181,7 +85356,10 @@
    "B": "本項不選。壓力時有缺損、休息時恢復是可逆缺損（reversible defect），支持可逆性的心肌缺血。左圖箭頭處就是這種型態，敘述正確。",
    "C": "本項不選。壓力和休息都有缺損是固定缺損（fixed defect），常代表舊梗塞的瘢痕，但也要排除衰減假影（attenuation artifact），敘述正確。",
    "D": "本項應選。這是錯的敘述。SPECT 評估的是功能性缺血，CCTA 評估解剖、敏感度很高。多支病變時 SPECT 還可能因為 balanced ischemia 而低估，不能說它更敏感。",
-   "summary": "SPECT 看功能性灌流：可逆缺損是缺血、固定缺損多為瘢痕；多支病變可能出現 balanced ischemia。"
+   "summary": "SPECT 看功能性灌流：可逆缺損是缺血、固定缺損多為瘢痕；多支病變可能出現 balanced ischemia。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86542,7 +86720,9 @@
    "D": "本項不選。短效支氣管擴張劑霧化治療是急性發作最核心的處置，效果最直接。",
    "summary": "COPD 急性發作的三根柱子：支氣管擴張劑、短期全身性類固醇、選擇性抗生素；靜脈茶鹼不在裡面。",
    "guideline": "FC 醫學(三)第1冊 p.334",
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86580,7 +86760,10 @@
    "C": "不正確：應立即另外再採集3套痰檢體進。重複採痰培養與鑑定有用，但不能取代對現有 smear-positive 檢體的快速 NAAT；後者能更早決定傳染性結核的處理。",
    "D": "不正確：應立刻進行胸部電腦斷層檢查。胸部 CT 可協助看病灶，但不能比 NAAT 更直接回答「這個 AFB 是不是結核菌」。",
    "summary": "AFB smear-positive 不等於 TB；先做 NAAT 分辨 M. tuberculosis complex 與 NTM，才能及早決定隔離。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -96948,7 +97131,10 @@
    "B": "本項不選。PCI 後 2 年內無症狀的人通常不例行做 MPI，避免低價值的檢查和後續的假陽性處置，敘述正確。",
    "C": "本項不選。CABG 後仍有症狀時，MPI 可量化缺血範圍，協助判斷是 graft 還是原生血管疾病（native-vessel disease）的功能影響，敘述正確。",
    "D": "本項不選。PCI 後早期可能因為微血管障礙、內皮功能或殘餘狹窄看到輕度可逆缺損，要結合臨床解讀，敘述正確。",
-   "summary": "無症狀的血管重建後不宜常規早期做 MPI；有症狀時才用來評估缺血負荷。"
+   "summary": "無症狀的血管重建後不宜常規早期做 MPI；有症狀時才用來評估缺血負荷。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97049,7 +97235,10 @@
    "B": "正確答案。digoxin 常「縮短」心房和心室的動作電位，典型造成 scooped ST depression 和 PR 延長，不是延長 QT 的藥。",
    "C": "本項不選。ibutilide 延長再極化和 QT，有 torsades 的風險。",
    "D": "本項不選。sotalol 有 class III 鉀通道阻斷作用，延長 QT，使用時要監測腎功能和 QT。",
-   "summary": "quinidine、ibutilide、sotalol 都延長 QT；digoxin 的典型 ECG 不是 QT 延長。"
+   "summary": "quinidine、ibutilide、sotalol 都延長 QT；digoxin 的典型 ECG 不是 QT 延長。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97082,7 +97271,10 @@
    "B": "本項不選。Brugada syndrome 多涉及鈉離子通道功能異常（sodium-channel dysfunction），是遺傳性心律不整症候群。",
    "C": "本項不選。catecholaminergic polymorphic VT 是運動或情緒誘發的遺傳性鈣處理異常。",
    "D": "正確答案。結構性心臟病相關的 VT 通常源自梗塞或心肌病瘢痕的迴旋（reentry），不是一個特定的遺傳性心律不整症候群。",
-   "summary": "LQTS、Brugada、CPVT 是遺傳性的原發電氣疾病；結構性心臟病 VT 屬瘢痕基質的心律不整。"
+   "summary": "LQTS、Brugada、CPVT 是遺傳性的原發電氣疾病；結構性心臟病 VT 屬瘢痕基質的心律不整。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -97151,7 +97343,10 @@
    "B": "本項不選。高血壓、糖尿病、心臟病、肥胖和睡眠呼吸中止都是心房顫動的風險因子，敘述正確。",
    "C": "本項不選。心房顫動顯著增加缺血性中風的風險，也占相當比例的中風。具體比例會因族群而異，但方向正確。",
    "D": "本項應選。這是錯的敘述。AF 超過 48 小時或時間未知時，就算 CHA₂DS₂-VASc 低，電復律前仍要至少 3 週有效抗凝，或用 TEE 排除血栓，並在復律後繼續抗凝一段時間。",
-   "summary": "AF 超過 48 小時或時間未知，不能沒抗凝就直接電復律；先抗凝或 TEE 導引，復律後仍要抗凝。"
+   "summary": "AF 超過 48 小時或時間未知，不能沒抗凝就直接電復律；先抗凝或 TEE 導引，復律後仍要抗凝。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98270,7 +98465,9 @@
    "D": "本項不選。肺纖維化是限制型，FEV1/FVC 通常正常或上升，不會掉到 58%。",
    "summary": "同樣是阻塞，DLCO 就分得出來：氣喘的 DLCO 保留，肺氣腫的 DLCO 掉下來。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98303,7 +98500,10 @@
    "C": "不正確：結核菌素皮膚測驗 tuber。TST 與 IGRA 都不能區分 latent TB infection 和 active TB；要排活動病須靠症狀、影像與微生物檢查。",
    "D": "正確：即使結核菌素皮膚測驗 tub。TST 陰性會降低感染機率，但早期感染、嚴重疾病、免疫低下或技術因素可造成偽陰性，因此不能單獨宣告未感染。",
    "summary": "TST／IGRA 回答的是「有沒有免疫反應」，不是「現在是否 active TB」或「以後一定會不會發病」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -98373,7 +98573,9 @@
    "D": "本項不選。痰量太多又咳不出來的人，面罩擋住抽痰的路，吸入與治療失敗的風險都上升。",
    "summary": "NIV 三個「不能」：意識不清、面罩貼不緊、痰多咳不出——這三種要走插管。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -99258,7 +99460,10 @@
    "C": "不正確：該病灶在X 光片上出現界線不。ill-defined infiltrate 可見於活性發炎或感染，較不支持純舊病灶。",
    "D": "正確：該病灶鈣化程度明顯，呈現近乎。本項最不傾向活動性肺結核。近乎完全鈣化常表示已癒合的舊肉芽腫病灶，雖不能絕對排除再活化。",
    "summary": "TB 影像的活動線索是新病灶、空洞、模糊浸潤；完全鈣化更像舊傷疤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -102878,7 +103083,10 @@
    "C": "本項不是答案。心室中隔破裂會形成急性左向右分流，常在心肌梗塞後數天出現新的粗糙收縮期雜音與心因性休克。",
    "D": "本項不是答案。游離壁破裂可造成心包填塞、電機機械分離與猝死，是急性心肌梗塞最致命的結構性併發症之一。",
    "summary": "MI 後三大機械併發症是乳突肌斷裂、VSD 與游離壁破裂；急性 AR 不在其中。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106667,7 +106875,10 @@
    "C": "正確。侵襲性子宮頸癌是後天免疫缺乏症候群的定義疾病之一，因為免疫功能下降時人類乳突病毒無法被清除、病變進展更快。所以感染人類免疫缺乏病毒的女性要更密集地做子宮頸篩檢。",
    "D": "本項不選。感染後產生的抗體保護力有限，可以重複感染同型病毒，這也是自然感染不能取代疫苗的原因。",
    "summary": "子宮頸癌是可預防也可篩檢的癌；它同時是愛滋病的指標疾病，免疫低下者要加強篩檢。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106700,7 +106911,10 @@
    "C": "本項不選。骨盆腔臟器剜除術用在放療後中央型復發且沒有遠處轉移的病人；已有淋巴轉移就不適合，因為那代表全身性疾病。",
    "D": "本項不選。化學治療在復發子宮頸癌多屬緩解性治療，不是最主要的根治手段。",
    "summary": "子宮頸癌復發看「之前用過哪一招」：開過刀就用放化療，放療過的中央型復發才考慮臟器剜除。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107851,7 +108065,10 @@
    "B": "本項不選。新一代藥物塗層支架（DES）的雙抗（DAPT）時程可依穩定 CAD／ACS、出血和缺血風險縮短或延長。穩定病人 6 個月是常見基準，不是絕對，這句可接受。",
    "C": "本項應選。這是錯的敘述。PCI 抗凝可用 unfractionated heparin、enoxaparin 或 bivalirudin。fibrinogen 是第一凝血因子，但臨床上不是用「第一因子抑制劑」來預防 PCI 血栓。",
    "D": "本項不選。急性冠症候群合併大量血栓或 bailout 情境，可考慮靜脈（IV）GPIIb/IIIa inhibitor，但不常規給所有病人，敘述正確。",
-   "summary": "PCI 術中抗凝不是用 fibrinogen inhibitor；DAPT 長度要依臨床和出血風險個別化。"
+   "summary": "PCI 術中抗凝不是用 fibrinogen inhibitor；DAPT 長度要依臨床和出血風險個別化。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108019,7 +108236,10 @@
    "B": "本項不選。離子通道異常可延長動作電位（action potential）和 QT。家族的青年猝死加上刺激誘發的昏厥，都支持先天性長 QT 症候群，敘述適當。",
    "C": "本項不選。不同 LQTS 基因型的誘發情境、事件風險和治療反應都不同，會影響預後，敘述適當。",
    "D": "本項應選。這是錯的敘述。圖上的節律條可見多形性心室頻脈、QRS 沿基線扭轉，就是尖端扭轉型（torsades），符合長 QT 症候群發作。這類病人如果已經發生心跳停止或反覆昏厥，植入式心律去顫器（ICD）能終止 VT／VF，正是能改善預後的治療。",
-   "summary": "家族性青年猝死加刺激誘發昏厥要查遺傳性長 QT；先排除藥物電解質，高風險者 ICD 有效。"
+   "summary": "家族性青年猝死加刺激誘發昏厥要查遺傳性長 QT；先排除藥物電解質，高風險者 ICD 有效。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -108088,7 +108308,10 @@
    "B": "本項應選。這一項最接近正確：糖尿病或左心室功能不全的冠心病（CAD）人常能從 ACE inhibitor 獲益，要監測 creatinine 和血鉀。",
    "C": "本項給分。CCB 和長效 nitrate 其實可以合用來控制症狀，水腫不是禁止併用的充分理由，這半句站不住。",
    "D": "本項給分。dipyridamole 可能造成冠狀動脈竊血（coronary steal），不是穩定冠心病的常規抗血小板藥，「建議常規給與」不對。",
-   "summary": "官方本題一律給分；逐項看 B 最合理，A 的「MI 除外」、C 的「禁止合用」、D 的「常規 dipyridamole」都不成立。"
+   "summary": "官方本題一律給分；逐項看 B 最合理，A 的「MI 除外」、C 的「禁止合用」、D 的「常規 dipyridamole」都不成立。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109251,7 +109474,9 @@
    "D": "本項不選。長效乙二型支氣管擴張劑（LABA）在氣喘**絕對不能單獨使用**，一定要和吸入型類固醇合併。只寫「長效支氣管擴張劑」並不完整。",
    "summary": "氣喘控制不好時要加的是抗發炎，不是擴張劑；LABA 單用在氣喘是禁忌。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109355,7 +109580,9 @@
    "D": "本項敘述錯誤。方向是反的：吸菸者大量補充 beta-carotene 這類抗氧化維生素，在試驗中反而讓肺癌風險上升，不能拿來預防。",
    "summary": "肺癌三個常見誤解：末期戒菸沒用（錯）、低劑量電腦斷層零輻射（錯）、抗氧化維生素能預防（錯，反而有害）。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -110408,7 +110635,10 @@
    "C": "本項應選。4–6 週出現小膿皰或淺潰瘍可屬正常反應，但不能擠壓或自行引流，否則增加感染與疤痕風險。",
    "D": "本項不選。病灶癒合後會留下小疤痕，完整局部反應可歷時數月；應追蹤持續擴大的潰瘍或化膿性淋巴結。",
    "summary": "BCG 的小膿皰、潰瘍常是正常歷程；重點是不擠、不挑，讓它自行癒合。",
-   "guideline": "Taiwan CDC BCG guidance (accessed 2026-08)"
+   "guideline": "Taiwan CDC BCG guidance (accessed 2026-08)",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110876,7 +111106,10 @@
    "C": "本項不選。FeNO 可結合症狀、肺功能與支氣管擴張反應，作為氣喘診斷與抗發炎治療反應的輔助資料。",
    "D": "本項不選。檢查需要穩定吐氣配合，多數五歲以上兒童能完成標準化測量。",
    "summary": "FeNO 量的是 type 2/eosinophilic 氣道發炎，不是嗜中性球；它幫忙判斷氣喘，不能單獨定案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -110909,7 +111142,10 @@
    "C": "本項不選。異位性皮膚炎代表 atopic tendency，是預測早期反覆喘鳴走向持續氣喘的重要線索。",
    "D": "本項不選。父母有氣喘反映遺傳與共同環境風險；尤其父母氣喘合併孩子過敏，預測力更高。",
    "summary": "幼兒 wheeze 要不要變持續氣喘，看 atopy、父母氣喘與菸害；女性本身不是這題的關鍵風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -114028,7 +114264,10 @@
    "B": "本項不選。Horner syndrome 是交感神經路徑受損造成的縮瞳、上眼瞼下垂和無汗，肺尖的 Pancoast tumor 可侵犯這條路徑。",
    "C": "本項應選。這是最不相關的症狀。假性紅血球增多症（pseudopolycythemia）多半是血漿容積減少讓血比容相對升高，不是胸腔腫瘤或胸腔解剖侵犯的表現。",
    "D": "本項不選。Pancoast syndrome 由肺尖腫瘤侵犯下臂神經叢和交感鏈，造成肩臂痛、手部肌肉萎縮，可合併 Horner syndrome，和胸腔疾病關聯明確。",
-   "summary": "肺尖腫瘤會串起 Pancoast syndrome 和 Horner syndrome；pseudopolycythemia 是體液容積問題，跟胸腔無關。"
+   "summary": "肺尖腫瘤會串起 Pancoast syndrome 和 Horner syndrome；pseudopolycythemia 是體液容積問題，跟胸腔無關。",
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -117265,7 +117504,10 @@
    "C": "本項不選。骨盆重建手術如薦骨陰道固定術，需要在深骨盆縫合網膜，也是常見的適應症。",
    "D": "本項應選。第二期子宮頸癌的標準治療本來就是同步放化療而不是手術。而且 LACC 試驗發現，即使是早期子宮頸癌，微創手術（含機器人）的無病存活與整體存活都比開腹差，所以子宮頸癌的根除手術已回頭以開腹為主。",
    "summary": "子宮頸癌是微創手術的禁區（LACC 試驗）；II 期以上更該直接走同步放化療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117433,7 +117675,10 @@
    "C": "本項不選。第 52 與 58 型是亞洲較常見的高危險型，與癌前病變有關。",
    "D": "本項不選。第 31 與 33 型同樣屬於高危險型，不是疣的主因。",
    "summary": "人類乳突病毒分工明確：6、11 長疣不致癌；16、18 致癌不長疣。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117603,7 +117848,10 @@
    "C": "本項不選。局部放療控制的是局部，對遠處轉移沒有作用。",
    "D": "本項不選。同時宣稱降低遠處轉移又提高存活，兩項都超出單純放療能做到的範圍。",
    "summary": "術後放療管的是局部復發，管不到遠處轉移；要動到存活率就得加上化療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117669,7 +117917,10 @@
    "C": "本項不選。多數子宮頸腺癌仍與人類乳突病毒有關，其中第 18 型的比例特別高。",
    "D": "本項不選。腺癌常呈跳躍性生長且位置深，單靠子宮頸切片容易低估，通常需要錐狀切除才能確定侵犯範圍。",
    "summary": "子宮頸腺癌治療跟鱗癌一樣，但它躲在頸管裡抹片抓不到，比例逐年上升、確診常要錐狀切除。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118804,7 +119055,10 @@
    "B": "本項不選。不能運動的人可用 adenosine 這類血管擴張劑的核醫灌流，或 dobutamine 壓力影像，敘述正確。",
    "C": "本項不選。Agatston 鈣化分數由無顯影劑的心電圖閘控 CT（noncontrast ECG-gated CT）計算，不需注射顯影劑，敘述正確。",
    "D": "本項應選。穩定心絞痛的侵入性造影／PCI 可以改善症狀，但不能一概說它能降低心肌梗塞（MI）和死亡，所以「有助減少心肌梗塞及死亡」這半句站不住。要不要做侵入檢查看風險和症狀。",
-   "summary": "穩定 IHD 的心導管可確定解剖、改善適當病人的症狀，不等同普遍降低心肌梗塞（MI）或死亡。"
+   "summary": "穩定 IHD 的心導管可確定解剖、改善適當病人的症狀，不等同普遍降低心肌梗塞（MI）或死亡。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -118973,7 +119227,10 @@
    "B": "正確答案。MAT 的栓塞風險缺乏大型試驗支持。現行治療重點是肺病、低氧和電解質，不會因為 MAT 本身就常規抗凝。",
    "C": "本項不選。心室顫動（ventricular fibrillation）是沒有有效心輸出的心跳停止節律，不能拿來跟慢性的房性心律比血栓風險。",
    "D": "本項不選。MAT 不會因為有三種 P 波就要立即抗凝。只有另外合併 AF、靜脈血栓栓塞（VTE）等適應症時才用。",
-   "summary": "MAT 本身沒有建立常規抗凝的適應症；先治療 COPD、低氧和電解質異常。"
+   "summary": "MAT 本身沒有建立常規抗凝的適應症；先治療 COPD、低氧和電解質異常。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119884,7 +120141,10 @@
    "C": "本項敘述錯誤。基因配錯了：E7 讓 RB 路徑失活沒錯，但作用在 p53 的是 **E6** 不是 E8。",
    "D": "本項敘述錯誤。真正與 HPV 無關的子宮頸癌很少見，而且多與特定腺癌亞型有關、年齡偏大、預後較差，不是多發生於年輕女性。",
    "summary": "HPV 致癌的三步：持續感染→病毒 DNA 嵌入→E6 打掉 p53、E7 打掉 RB。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -119983,7 +120243,10 @@
    "C": "本項敘述錯誤。療效被高估了：許多針對**細胞內抗原**的副腫瘤神經症候群是 T 細胞介導的神經損傷，對靜脈免疫球蛋白（IVIG）或血漿置換的反應常常有限。針對細胞表面抗原者反應才比較好。",
    "D": "本項敘述錯誤。時間順序寫反了：副腫瘤神經症候群常常**先於**癌症被診斷出來，而且部分症候群在數週到數月內快速進展，不是慢慢出現。",
    "summary": "副腫瘤神經症候群常是癌症的第一個線索：神經症狀先來、癌症後找到，最經典的是小細胞肺癌配 anti-Hu。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -120017,7 +120280,9 @@
    "D": "本項敘述錯誤。確診之後戒菸仍然有幫助：治療效果較好、併發症較少，也降低第二個原發癌的風險。",
    "summary": "肺癌分型不是學術問題而是治療問題——晚期腺癌要驗驅動基因，這一步不能省。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -121058,7 +121323,10 @@
    "B": "本項不選。依賴節律器的病人停用起搏，可能造成嚴重心搏過緩、低輸出、心絞痛或呼吸困難，需要共同決策和症狀緩和。",
    "C": "本項不選。ICD 電擊會造成明顯疼痛，臨終反覆電擊會增加痛苦，所以應該預先討論停用（deactivation）。",
    "D": "本項不選。在 ICD 上方放磁鐵通常暫時停用抗頻脈治療、但保留起搏，移除後恢復，要依裝置確認。",
-   "summary": "臨終照護常停用 ICD 電擊以免痛苦；心律調節器的影響看依賴程度，磁鐵多半只暫停 ICD 的抗頻脈治療。"
+   "summary": "臨終照護常停用 ICD 電擊以免痛苦；心律調節器的影響看依賴程度，磁鐵多半只暫停 ICD 的抗頻脈治療。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -121360,7 +121628,10 @@
    "C": "本項不選。BCG 對成人肺結核保護有限，但可降低幼兒結核性腦膜炎與 disseminated tuberculosis。",
    "D": "本項應選。BCG 後 tuberculin skin test 可能在數週後轉陽，並非必須等到 4–6 個月；TST 陽性也不能單獨診斷活動性結核。",
    "summary": "BCG 主要防小孩最嚴重的結核型態；TST 的陽性可受 BCG 影響，不能等同活動性結核。",
-   "guideline": "Taiwan CDC BCG guidance (accessed 2026-08)"
+   "guideline": "Taiwan CDC BCG guidance (accessed 2026-08)",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -121940,7 +122211,10 @@
    "C": "本項不選。未控制氣喘的運動誘發 bronchoconstriction 常使 FEV1 較基準下降超過 10–15%，依採用標準判讀。",
    "D": "本項應選。運動誘發支氣管收縮通常在運動停止後約 5–10 分鐘開始、10–15 分鐘最明顯；不是 20 分鐘才開始且 30 分鐘才到高峰。",
    "summary": "運動誘發氣喘不是跑到一半才最糟：常在停下後 5–10 分鐘開始，10–15 分鐘達峰。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -128489,7 +128763,10 @@
    "C": "本項不選。錐狀切除同時具有診斷與治療功能，適用於確認為高度病變的病人。",
    "D": "本項不選。子宮頸環形電燒切除是門診常用的切除方式，取得的檢體也能做病理診斷。",
    "summary": "高度鱗狀上皮內病變的下一步是「看清楚並切掉」：陰道鏡切片或直接切除；疫苗治不了已存在的病變。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129698,7 +129975,10 @@
    "B": "本項不選。① 把這個心律當成心房顫動不對——三種以上 P 波型態、肺病背景是 MAT 的樣子，所以整組排除。",
    "C": "本項不選。③ 錯：COPD 急性惡化不以靜脈（IV）propranolol 為首選急性心率控制。先治低氧、肺病和電解質，必要時選 verapamil 或謹慎使用 beta blocker。",
    "D": "本項不選。這組同時把互斥的 ⑤（需抗凝）和 ⑥（無明顯血栓風險）都列為正確，邏輯上不可能成立。",
-   "summary": "題幹像 MAT：機轉是多焦點自律性、頸動脈按摩無效；急性心率控制不選靜脈 propranolol；⑤ 抗凝與一般 MAT 原則有爭議，依官方組合。"
+   "summary": "題幹像 MAT：機轉是多焦點自律性、頸動脈按摩無效；急性心率控制不選靜脈 propranolol；⑤ 抗凝與一般 MAT 原則有爭議，依官方組合。",
+   "concepts": [
+    "arrhythmia-recognition-acute"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -129839,7 +130119,10 @@
    "B": "正確答案。血壓 160/80、又持續缺血性胸痛，可以給舌下硝酸甘油（nitroglycerin）0.4 mg，並立即啟動 primary PCI。如果是右室梗塞、低血壓或用過 PDE5 inhibitor 就禁用。",
    "C": "本項不選。速效型 nifedipine 會造成不可預測的低血壓和反射性心搏過速，不用在 STEMI 急救。",
    "D": "本項不選。enoxaparin 不是 5 mg/kg，這個劑量過高會造成嚴重出血。抗凝要依 PCI 策略和腎功能給標準劑量。",
-   "summary": "這位高血壓的前壁 STEMI 可先含服 nitroglycerin 並立即再灌流；aspirin 600 mg 和 enoxaparin 5 mg/kg 都過量。"
+   "summary": "這位高血壓的前壁 STEMI 可先含服 nitroglycerin 並立即再灌流；aspirin 600 mg 和 enoxaparin 5 mg/kg 都過量。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -129872,7 +130155,10 @@
    "B": "本項不選。左心室（LV）心尖血栓（apical thrombus）可考慮 3 到 6 個月的抗凝並追蹤影像，要和雙抗（DAPT）的出血風險一起權衡，敘述適當。",
    "C": "本項應選。這是最不適當的處置。心肌梗塞最初 24 到 48 小時的 VT／VF 多屬急性缺血性心律不整，恢復後不常規預防性給 lidocaine——它沒有存活效益，還可能有害。",
    "D": "本項不選。低血鎂會增加心室性心律不整的風險，應監測並補到正常，敘述適當。",
-   "summary": "心肌梗塞後不常規預防性用 lidocaine；心尖血栓要限期抗凝，ACEI／ARB 和電解質依狀況處理。"
+   "summary": "心肌梗塞後不常規預防性用 lidocaine；心尖血栓要限期抗凝，ACEI／ARB 和電解質依狀況處理。",
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130955,7 +131241,10 @@
    "C": "正確答案。alectinib 是 ALK 酪胺酸激酶抑制劑，而且**對中樞神經系統的穿透性好**——這一點很重要，因為 ALK 陽性肺癌很容易腦轉移。它是 EML4-ALK 融合陽性轉移性肺腺癌的第一線選擇。",
    "D": "本項不選。gefitinib 同樣是 EGFR 酪胺酸激酶抑制劑，抑制不了 ALK 融合蛋白。",
    "summary": "驅動基因要配對藥物：EML4-ALK 用 ALK 抑制劑，EGFR 突變才用 osimertinib 或 gefitinib。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lung-cancer-types-management"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -130989,7 +131278,9 @@
    "D": "本項應選。細胞來源配錯了：IL-17 主要由 **Th17** 細胞產生，不是 Th1。Th1 的代表產物是 interferon-γ。",
    "summary": "細胞激素配細胞：IL-4/5/13 配 Th2、IL-17 配 Th17、interferon-γ 配 Th1，別把 17 當成 1。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131023,7 +131314,9 @@
    "D": "本項應選。GOLD 的**追蹤期用藥**主要看三件事：呼吸困難程度、急性發作史、血中嗜酸性白血球。FEV1 與 FEV1/FVC 是用來診斷與評估預後的，不是選藥的主要依據。",
    "summary": "COPD 選藥看「症狀＋發作史＋嗜酸性球」，不是看肺功能數字排隊。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "asthma-vs-copd"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131092,7 +131385,10 @@
    "C": "正確。tuberculous lymphadenitis 是最常見的肺外結核，常表現為慢性、無痛的頸部淋巴結腫大。它可能形成冷膿瘍或瘻管，但不一定伴隨明顯肺部症狀。",
    "D": "不正確。tuberculous pericarditis 可引起心包膜積液、縮窄性心包膜炎或心包填塞，卻遠比淋巴結結核少見。遇到這種表現要重視嚴重度，不能因為少見而漏診。",
    "summary": "肺外結核最常跑到淋巴結；慢性無痛頸部腫大時，先把 tuberculous lymphadenitis 放進鑑別。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131631,7 +131927,10 @@
    "C": "本項應選。痰 AFS 陰性代表顯微鏡沒有看到足量 acid-fast bacilli，不等於病人沒有結核或完全不具傳染力。若仍有臨床與影像懷疑，必須持續做 NAAT、培養與感染管制評估。",
    "D": "本項不選。單純肺外結核通常不會經呼吸道排出菌，因此一般沒有傳染力。例外是合併肺部或喉部結核，或在某些會產生 aerosol 的處置中，仍可能有傳播風險。",
    "summary": "AFS 陰性不是「零傳染」保證；疑似肺結核仍要接 NAAT／培養並依臨床風險維持 airborne precautions。",
-   "guideline": "CDC, Clinical and Laboratory Diagnosis for Tuberculosis"
+   "guideline": "CDC, Clinical and Laboratory Diagnosis for Tuberculosis",
+   "concepts": [
+    "tuberculosis-diagnosis-ltbi"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -135120,7 +135419,10 @@
    "C": "本項可選：只在運動時才痛是穩定心絞痛的特徵，這正是 C 的錯誤。不穩定心絞痛可在休息、輕微活動或新發作時出現。",
    "D": "本項不選：這句話本身符合不穩定心絞痛，所以不是本題要選的。缺血疼痛持續更久，例如超過原本慣常時間或接近 20 分鐘，需當 acute coronary syndrome 處理。",
    "summary": "胸痛若更頻繁、更重、更久或休息也來，就從 stable angina 升級想 ACS。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acs-cad-management"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -139426,7 +139728,10 @@
    "C": "本項敘述正確。術後放射線治療對淋巴結轉移的病人可降低骨盆腔復發率。",
    "D": "本項敘述正確。同步化療（多用 cisplatin）能增敏，是局部晚期子宮頸癌的標準治療。",
    "summary": "A 點＝上 2 公分、外 2 公分（輸尿管與子宮動脈交會處），B 點＝外 5 公分（骨盆側壁）。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cervical-hpv-precancer-cancer"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
