@@ -1303,7 +1303,10 @@
    "C": "本項不選。CHOP 是侵襲性淋巴瘤的重要化療骨架，但這是 CD20 陽性的 B 細胞淋巴瘤——再加上 rituximab 效果更好，所以單用 CHOP 不是最適當的。",
    "D": "正確答案。R-CHOP 把兩件事一起做到：rituximab 打 CD20 這個 B 細胞標記，CHOP（cyclophosphamide、doxorubicin、vincristine、prednisolone）提供完整化療骨架。這是多數初診瀰漫性大 B 細胞淋巴瘤的標準第一線治療。",
    "summary": "四個選項只差兩個成分：有沒有 doxorubicin（COP vs CHOP）、有沒有 rituximab——CD20 陽性又體能夠好就兩個都要。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1377,7 +1380,10 @@
    "C": "本項不選。在酪胺酸激酶抑制劑出現之前，費城染色體陽性 ALL 只靠化療的復發風險高、預後確實比陰性者差，屬於傳統的高風險族群。",
    "D": "本項不選。imatinib 抑制 BCR::ABL1 酪胺酸激酶，和化療合併使用能加深緩解、改善預後。這是這個疾病預後翻轉的關鍵。",
    "summary": "費城染色體陽性 ALL 是「成人多、預後差」，但加上酪胺酸激酶抑制劑之後預後大幅改善。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -1552,7 +1558,10 @@
    "C": "本項不選。三氧化二砷會延長 QT 間期，電解質失衡時心律不整風險更高。治療期間要監測心電圖（ECG）與血鉀、血鎂。",
    "D": "本項應選。單用 ATRA 撐不住。抹片上滿是異常的前骨髓細胞：細胞質被粗大的紫紅色顆粒塞滿、細胞核多呈折疊或雙葉。ATRA 能逼這些細胞分化、取得緩解，但清不掉白血病的克隆，很快產生抗藥而復發。必須合併三氧化二砷或化療才能長期控制。",
    "summary": "急性前骨髓性白血病兩件事最急：先止住瀰漫性血管內凝血的出血，再用 ATRA 加三氧化二砷——ATRA 單獨用一定復發。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "110020/302_11",
   "specialty_source": "cougarbot",
@@ -3062,7 +3071,9 @@
    "D": "新生兒泌尿道感染最常見病原是 Escherichia coli；若圖示為 B 群鏈球菌，則其典型角色是早發型敗血症、肺炎與腦膜炎，不能稱為最常見泌尿道病原。",
    "summary": "抹片是紫色（革蘭氏陽性）成對球菌＋出生後很快發病＝B 群鏈球菌經產道上行感染。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3101,7 +3112,9 @@
    "D": "B 型肝炎疫苗與五合一疫苗均屬非活性疫苗，可在同一次就診分別注射於不同部位，不需彼此間隔。",
    "summary": "早產兒按實際年齡、用完整疫苗劑量接種；非活性疫苗可同時打，高劑量 IVIG 則會使部分活性病毒疫苗延後。",
    "guideline": "FC 醫學(四)第1冊 p.277",
-   "concepts": []
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3251,7 +3264,9 @@
    "D": "足月新生兒身長約 50 cm，50 cm 符合常見出生身長，應結合體重與頭圍共同評估生長。",
    "summary": "足月新生兒常見正常值：HR 100–160/min、RR 30–60/min、身長約 50 cm；頭圍 30 cm 明顯偏小。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3290,7 +3305,9 @@
    "D": "HTLV-1/2 可透過母乳中的感染淋巴球傳播，持續哺乳會增加母嬰傳染風險，因此通常不建議親自哺乳。",
    "summary": "哺乳禁忌要分辨乳房局部感染與可經乳汁傳播的病毒；適當治療且已無傳染性的結核病母親可哺乳。",
    "guideline": "FC 醫學(四)第1冊 p.605",
-   "concepts": []
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3324,7 +3341,9 @@
    "D": "C7–C8 損傷會較明顯影響肘、腕與手指伸屈；若下幹 C8–T1 受損，抓握力通常下降，與本例抓握反射正常不符。",
    "summary": "產傷後 waiter’s tip 姿勢加抓握保留是臂神經叢上幹 C5–C6 的 Erb palsy。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3441,7 +3460,9 @@
    "D": "膽道閉鎖的 Kasai portoenterostomy 越早完成越有利，通常希望在生命最初數週、尤其 2 個月前評估處理；等到滿 4 個月才手術預後較差。",
    "summary": "膽道閉鎖切片的 ductular proliferation 與 portal fibrosis，可和 neonatal hepatitis 的 lobular inflammation／giant cells 鑑別；Kasai 不可拖到 4 個月。",
    "guideline": "FC 醫學(四)第1冊 p.131",
-   "concepts": []
+   "concepts": [
+    "biliary-atresia"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3912,7 +3933,9 @@
    "D": "目前不建議為所有嬰幼兒常規使用 probiotics 來預防過敏，因不同菌株、劑量與研究結果不一致，不能視為標準預防措施。",
    "summary": "過敏預防不靠孕期全面忌口或延後副食品；應維持均衡飲食，嬰兒發展準備後正常引入食物。",
    "guideline": "FC 醫學(四)第1冊 p.417",
-   "concepts": []
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -3951,7 +3974,9 @@
    "D": "放射治療不是大多數兒童 ALL 的第一線主體；現代療程以 systemic 與 intrathecal chemotherapy 為主，cranial irradiation 只保留給部分高風險或 CNS disease 情境。",
    "summary": "兒童 ALL 採 induction、consolidation 等多階段多藥化療，並以 intrathecal chemotherapy 預防 CNS relapse。",
    "guideline": "FC 醫學(四)第1冊 p.481",
-   "concepts": []
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -5836,7 +5861,10 @@
    "C": "這題不選。懷疑氣管食道瘻管時避免高滲透壓離子性對比劑，若吸入氣道會造成嚴重化學性肺炎；多數病例也不需靠它確診。",
    "D": "這題不選。存活率會受出生體重、肺炎與合併重大心臟畸形影響，不能忽略合併異常而一概稱預後高。",
    "summary": "新生兒口胃管塞住又在 X 光捲曲，先想到食道閉鎖；同時找 VACTERL 與避免危險對比劑。",
-   "guideline": "FC 醫學(四)第1冊 p.103"
+   "guideline": "FC 醫學(四)第1冊 p.103",
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "110020/302_22",
   "specialty_source": "cougarbot",
@@ -8282,7 +8310,10 @@
    "C": "前臂旋前、旋後若因骨折塊產生真正的機械性阻擋，表示關節面不平整或碎片卡住，常需手術復位固定、切除碎片或處理橈骨頭。",
    "D": "關節內骨折塊或游離小體（loose body）會卡住肘關節及前臂旋轉，並加速軟骨磨損；有症狀的機械性阻擋不宜僅保守觀察。",
    "summary": "橈骨頭骨折能否保守治療的關鍵是穩定度與有無阻擋旋前、旋後的關節內碎片。",
-   "guideline": "FC 醫學(五)第6冊 p.95"
+   "guideline": "FC 醫學(五)第6冊 p.95",
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8315,7 +8346,10 @@
    "C": "正確。遠端橈骨骨折（distal radius fracture）急性期會持續腫脹，先用可容納腫脹的背側副木固定，消腫後再改環形石膏，可降低壓迫與循環障礙風險。",
    "D": "石膏浸水溫度越高，硬化反應越快且放熱越明顯，可能造成熱傷害；應依材料說明使用室溫或微溫水，而非攝氏 60 度以上熱水。",
    "summary": "急性骨折固定需容納腫脹、保持功能位，且石膏後疼痛要立即排除壓迫與腔室症候群。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8353,7 +8387,10 @@
    "C": "坐姿檢查由病人後方操作，便於觀察表情、穩定肩胛並控制肱骨頭；再定位測試可由前方給予後向力量減輕不安。",
    "D": "前側不安測試應將肩外展約 90 度並逐漸外旋（external rotation），模擬前脫位姿勢；最大內旋不會對前下關節囊造成同樣挑戰。",
    "summary": "前側肩不穩定以外展加外旋誘發即將脫位的不安感，不是單純疼痛或最大內旋。",
-   "guideline": "FC 醫學(五)第6冊 p.72"
+   "guideline": "FC 醫學(五)第6冊 p.72",
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -8429,7 +8466,10 @@
    "C": "大多角骨（trapezium）骨折少見，疼痛可位於拇指掌根與橈側腕部，但發生率遠低於舟狀骨，常與第一掌骨基底損傷鑑別。",
    "D": "小多角骨（trapezoid）受到周圍腕掌韌帶保護，是非常少見的腕骨骨折；其疼痛位置也較接近第二掌骨基底而非典型鼻煙窩。",
    "summary": "伸手撐地後橈側腕痛先想到舟狀骨骨折；早期平片陰性仍需固定與追蹤。",
-   "guideline": "FC 醫學(五)第6冊 p.106"
+   "guideline": "FC 醫學(五)第6冊 p.106",
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "110020/302_33",
   "specialty_source": "cougarbot",
@@ -10316,7 +10356,10 @@
    "C": "正確。月經延遲、陰道點狀出血與單側下腹痛必須先排除子宮外孕；尿液或血清 β-hCG 能迅速確認懷孕，再配合經陰道超音波定位。",
    "D": "子宮頸抹片用於子宮頸癌篩檢，不能判斷本次急性疼痛與出血是否源自懷孕相關併發症，因此不屬急診第一優先。",
    "summary": "生育年齡女性出現停經、陰道出血與單側腹痛時，先驗 β-hCG，再以經陰道超音波評估子宮外孕。",
-   "guideline": "FC 醫學(六)第1下冊 p.175"
+   "guideline": "FC 醫學(六)第1下冊 p.175",
+   "concepts": [
+    "ectopic-pregnancy"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10354,7 +10397,10 @@
    "C": "額外補充 estrogen 可能刺激異位的子宮內膜組織，也不能可靠抵銷 danazol 的雄性化作用；這不是處理聲音改變的標準方法。",
    "D": "正確。出現明顯雄性化副作用時應停用並改採其他有效治療，例如 progestin、複方口服避孕藥或 GnRH analogue，選擇依症狀與生育計畫調整。",
    "summary": "danazol 的體重增加、熱潮紅與聲音低沉是重要副作用；出現雄性化時應換藥，而非硬撐療程。",
-   "guideline": "FC 醫學(六)第1下冊 p.162"
+   "guideline": "FC 醫學(六)第1下冊 p.162",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -10714,7 +10760,9 @@
    "D": "羊膜腔內感染本身不是剖腹產適應症；胎位為頭位且胎心監測 reassuring，可引產或加強產程，只有一般產科適應症才剖腹。",
    "summary": "PPROM 合併臨床羊膜腔內感染需立即 antibiotics 與 delivery；不作 tocolysis，也不因感染本身直接剖腹。",
    "guideline": "FC 醫學(六)第1上冊 p.91",
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11893,7 +11941,10 @@
    "C": "輸卵管卵巢膿瘍（tubo-ovarian abscess）常伴發燒、白血球上升與 PID 病史，影像多見厚壁、周邊增強及周圍發炎，不以 T2 shading 為代表。",
    "D": "成熟囊性畸胎瘤（mature cystic teratoma）可因脂肪而呈 T1 高訊號，但脂肪抑制序列會下降，並可能見脂肪液面或鈣化；T2 shading 較支持陳舊血液。",
    "summary": "MRI 的 T1 高訊號加 T2 shading 是卵巢子宮內膜異位瘤的重要線索；脂肪抑制可協助排除畸胎瘤。",
-   "guideline": "FC 醫學(六)第1下冊 p.387"
+   "guideline": "FC 醫學(六)第1下冊 p.387",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -11936,7 +11987,9 @@
    "D": "本項不選。X 光上脛骨外側平台的邊緣可以看到一小片與骨頭分離的撕脫骨片，這就是 Segond 骨折。它與前十字韌帶損傷高度相關，看到它就要去找前十字韌帶。",
    "summary": "這是影像整合題：Segond fracture、ACL tear 與典型 bone contusion 可同時存在，官方認定 lateral meniscal tear 不成立。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "110020/302_44",
   "specialty_source": "cougarbot",
@@ -15441,7 +15494,10 @@
    "C": "這題不選。食道閉鎖合併氣管食道瘻管會流口水、嗆咳與無法放入胃管，腹部通常不會呈凹陷。",
    "D": "正確。先天性橫膈膜疝氣（congenital diaphragmatic hernia）讓腹腔臟器進胸腔，會壓迫肺部、使心音偏移且腹部呈舟狀凹陷。",
    "summary": "呼吸窘迫加心音偏移、舟狀腹，就是腹腔臟器跑進胸腔的橫膈膜疝氣。",
-   "guideline": "FC 醫學(四)第1冊 p.570"
+   "guideline": "FC 醫學(四)第1冊 p.570",
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -15481,7 +15537,10 @@
    "C": "這題不選。Mongolian spots 多為藍灰色斑，常在薦臀部，通常隨年齡淡化，不是棕色 café-au-lait lesions。",
    "D": "正確。多發 café-au-lait spots 是神經纖維瘤病（neurofibromatosis type 1）的重要線索；圖中斑點數與形態仍需看圖確認。圖上可見軀幹一塊界線清楚、均勻淡褐色的咖啡牛奶斑。青春期前有六個以上、每個大於 5 公厘的咖啡牛奶斑，就符合神經纖維瘤病第一型的診斷條件之一；接著要找腋下或腹股溝雀斑、Lisch 結節與視神經膠質瘤，並定期追蹤。",
    "summary": "多發咖啡牛奶斑先想到 NF1；藍灰、薦臀部的 Mongolian spots 是另一種常見良性斑。",
-   "guideline": "FC 醫學(四)第1冊 p.291"
+   "guideline": "FC 醫學(四)第1冊 p.291",
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -15519,7 +15578,10 @@
    "C": "這題不選。不對稱緊張性頸反射（asymmetrical tonic neck reflex）會在轉頭時出現劍士姿勢，正常發展中會被較成熟動作取代。",
    "D": "這題不選。sucking reflex 協助新生兒吸吮，隨口腔動作成熟轉為自主控制，不能視為終生保留的反射。",
    "summary": "會保留的不是所有原始反射：parachute 是保護反應，出現後應一直存在。",
-   "guideline": "FC 醫學(四)第1冊 p.584"
+   "guideline": "FC 醫學(四)第1冊 p.584",
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16127,7 +16189,10 @@
    "C": "這題不選。健康哺乳母親不需為了預防過敏而例行排除奶蛋，無必要限制可能影響母親營養。",
    "D": "這題不選。牛奶過敏常隨年齡產生耐受，尤其非 IgE-mediated 表型，不能預設終生持續。",
    "summary": "蛋過敏兒不是 MMR 禁忌；食物過敏重點是症狀和暴露的時間關係，不是健康母親先全面忌口。",
-   "guideline": "FC 醫學(四)第1冊 p.416"
+   "guideline": "FC 醫學(四)第1冊 p.416",
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -16206,7 +16271,10 @@
    "C": "這題不選。L-asparaginase 會造成 pancreatitis、血栓與過敏反應，因它影響蛋白質合成與凝血因子。",
    "D": "正確。Doxorubicin 是 anthracycline，累積劑量會產生自由基傷害心肌，造成不可逆 dilated cardiomyopathy。",
    "summary": "ALL 化療毒性要把 anthracycline 的 doxorubicin 連到累積性心肌病變。",
-   "guideline": "FC 醫學(四)第1冊 p.480"
+   "guideline": "FC 醫學(四)第1冊 p.480",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "110080/302_22",
   "specialty_source": "cougarbot",
@@ -20032,7 +20100,10 @@
    "C": "正確。先逆時針解開扭轉，再切開盲腸至右上腹的 Ladd bands、充分展寬小腸腸繫膜根部，並預防性切除位置異常而可能誤診的闌尾。",
    "D": "此項雖包含解扭、分離 Ladd bands 與闌尾切除，卻用結腸固定取代展寬腸繫膜根部；固定並非標準且未解決狹窄蒂部的再扭轉風險。",
    "summary": "Ladd 手術四要點是解扭、切 Ladd bands、展寬腸繫膜根部及切除闌尾，不靠結腸固定。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20497,7 +20568,10 @@
    "C": "伸拇長肌（extensor pollicis longus）止於拇指遠端指骨基底，負責拇指指間關節伸展；其力線不會將第一掌骨幹向近端橈側拉移。",
    "D": "正確。Bennett fracture 是第一掌骨基底關節內骨折；掌側尺側小骨片由前斜韌帶留在原位，外展拇長肌（abductor pollicis longus）將掌骨幹向近端、橈側牽移。",
    "summary": "Bennett fracture 的第一掌骨幹受外展拇長肌牽向近端橈側，形成骨折合併腕掌關節半脫位。",
-   "guideline": "FC 醫學(五)第6冊 p.215"
+   "guideline": "FC 醫學(五)第6冊 p.215",
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20573,7 +20647,10 @@
    "C": "後內側脛骨彎曲不是先天性脛骨假關節的典型前驅變形；方向不符時要另行評估胎內姿勢或其他骨骼發育異常。",
    "D": "後外側彎曲亦非典型先天性脛骨假關節表現；本病考點是前外側彎曲、脛骨營養不良與容易骨折不癒合的組合。",
    "summary": "先天性脛骨假關節以脛骨前外側彎曲為警訊，骨折後特別容易不癒合。",
-   "guideline": "FC 醫學(五)第6冊 p.160"
+   "guideline": "FC 醫學(五)第6冊 p.160",
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -20611,7 +20688,10 @@
    "C": "Watson test 又稱 scaphoid shift test，藉壓迫舟狀骨結節並使腕由尺偏轉向橈偏，評估舟月韌帶不穩定。",
    "D": "Allen test 透過分別壓迫橈、尺動脈後觀察掌部再灌流，用於評估手部側枝循環，不能診斷 de Quervain tenosynovitis。",
    "summary": "橈骨莖突疼痛的 de Quervain tenosynovitis 用 Finkelstein test 牽拉第一伸肌腔室誘發。",
-   "guideline": "FC 醫學(五)第6冊 p.110"
+   "guideline": "FC 醫學(五)第6冊 p.110",
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -21213,7 +21293,10 @@
    "C": "橫結腸及 mesentery 可能因 seat belt 壓迫受傷；然而 L1 Chance fracture 所伴隨的固定 retroperitoneal duodenum injury 是本題更典型的配對。",
    "D": "正確。Seat-belt sign 加腰椎 Chance fracture 代表軀幹繞安全帶劇烈 flexion-distraction，須高度懷疑十二指腸（duodenum）等腹內 hollow viscus injury，即使初期 vital signs 穩定也要持續評估。",
    "summary": "Seat-belt sign 與 Chance fracture 是腹內傷警訊；固定於 retroperitoneum 的 duodenum 是經典相關器官。",
-   "guideline": "FC 醫學(五)第3冊 p.97"
+   "guideline": "FC 醫學(五)第3冊 p.97",
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "110080/302_33",
   "specialty_source": "cougarbot",
@@ -22504,7 +22587,9 @@
    "D": "上腔靜脈（superior vena cava）回收胎兒腦部與上半身已利用氧氣的血液，是胎兒循環中含氧量最低的血流之一。",
    "summary": "胎兒最高氧血來自 placenta，經 umbilical vein 與 ductus venosus；混合後供應 ascending aorta 的氧含量稍降。",
    "guideline": "FC 醫學(六)第1上冊 p.20",
-   "concepts": []
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22899,7 +22984,10 @@
    "C": "子宮肌瘤切除術（myomectomy）後嘗試陰道生產確有罕見子宮破裂風險；題述 0.47% 為文獻估計量級，實際生產方式仍須依切口深度與是否進入子宮腔個別判斷。",
    "D": "黏膜下肌瘤會扭曲子宮腔，妨礙胚胎著床並提高流產風險，因此相較其他位置，與生育力下降的關係最明確。",
    "summary": "肌瘤對懷孕的影響取決於大小與位置，多數孕婦不會因此經常出現不良結局。",
-   "guideline": "FC 醫學(六)第1下冊 p.67"
+   "guideline": "FC 醫學(六)第1下冊 p.67",
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -22932,7 +23020,10 @@
    "C": "多數停經後婦女使用荷爾蒙治療不會造成顯著肌瘤生長，但仍可能有個體差異；若肌瘤快速增大或出血，需重新評估而不能一概歸因於治療。",
    "D": "性傳染病並非子宮平滑肌細胞形成肌瘤的既定危險因子；感染較直接相關的是骨盆腔發炎與輸卵管性不孕，而非肌瘤發生。",
    "summary": "子宮肌瘤較與未生育、年齡及荷爾蒙暴露相關；多產並非增加肌瘤的典型因子。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -24179,7 +24270,10 @@
    "C": "成熟囊性畸胎瘤常含肉眼脂肪、鈣化、牙齒或脂肪液面，這些是 CT 上的重要辨識點；單純液體密度囊腫較不支持畸胎瘤。",
    "D": "膀胱瘤通常由膀胱壁向腔內形成軟組織腫塊，可能造成血尿；它不會表現為與膀胱分離的卵巢來源單純囊性病灶。",
    "summary": "附件薄壁單純囊性病灶支持卵巢囊腺瘤；脂肪或鈣化則應轉而考慮畸胎瘤。",
-   "guideline": "FC 醫學(六)第1下冊 p.384"
+   "guideline": "FC 醫學(六)第1下冊 p.384",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "110080/302_44",
   "specialty_source": "cougarbot",
@@ -25945,7 +26039,10 @@
    "C": "本項不選。不適合移植的人常用 ATG 合併 cyclosporin 的免疫抑制治療。現代方案還可能加上血小板生成素受體促效劑 eltrombopag。",
    "D": "本項不選。G-CSF 只刺激顆粒球前驅細胞，矯正不了多系造血幹細胞衰竭，所以改變不了疾病本質。",
    "summary": "再生不良貧血的問題出在幹細胞被免疫攻擊：要嘛換掉（移植），要嘛壓下免疫（ATG 加 cyclosporin）。",
-   "guideline": "FC 醫學(三)第4冊 p.166"
+   "guideline": "FC 醫學(三)第4冊 p.166",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -26016,7 +26113,10 @@
    "C": "本項不選。定量 BCR-ABL1 轉錄本可以追蹤分子層次的治療反應，是慢性骨髓性白血病（CML）治療監測的核心工具。",
    "D": "本項應選。程度說得太滿：游離輻射確實是風險因子，但不能說它「常常」造成這個特定的 t(9;22)。**大多數病人根本沒有可辨識的輻射暴露史**。",
    "summary": "慢性骨髓性白血病的因果別搞反：BCR-ABL1 是明確病因，輻射只是少數人的風險因子。",
-   "guideline": "FC 醫學(三)第4冊 p.215"
+   "guideline": "FC 醫學(三)第4冊 p.215",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "111020/302_11",
   "specialty_source": "cougarbot",
@@ -27505,7 +27605,10 @@
    "C": "這題不選。症狀性先天性 CMV 可有肝脾腫大、黃疸、紫斑或藍莓鬆餅樣皮疹，也可能合併小頭症。",
    "D": "這題不選。新生兒聽力篩檢未通過時應考慮先天性 CMV，因感音性聽損是其重要後遺症。",
    "summary": "先天性 CMV 多數出生時沒症狀，但 hearing screen 沒過不能只當技術問題，要追 CMV。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -27842,7 +27945,10 @@
    "C": "正確。空腸閉鎖（jejunal atresia）阻塞更遠端，可出現 triple-bubble sign；附圖的三團腸氣是關鍵但仍需看圖確認。腹部 X 光在中腹部看到三團擴張的腸氣（胃、十二指腸與近端空腸）而遠端完全無氣，就是三泡徵象，代表阻塞點在空腸近端。若只有兩泡是十二指腸閉鎖，泡越多代表阻塞位置越遠。",
    "D": "這題不選。迴腸閉鎖位置更遠端，腹部常有多個擴張小腸袢，不會只呈現三個近端氣泡。",
    "summary": "腸閉鎖 X 光氣泡數是定位線索：double bubble 想十二指腸，triple bubble 往空腸。",
-   "guideline": "FC 醫學(四)第1冊 p.615"
+   "guideline": "FC 醫學(四)第1冊 p.615",
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28038,7 +28144,10 @@
    "C": "這題不選。配方奶通常會強化 iron 與 Vitamin D；相較之下純母乳兒在適當年齡需補充 Vitamin D 並留意鐵。",
    "D": "這題不選。膽汁淤積會影響脂肪吸收，所以較易缺乏的是脂溶性 Vitamins A、D、E、K，不是水溶性維生素。",
    "summary": "營養題用溶解性定位：膽汁淤積缺 A/D/E/K；全素兒童特別補 B12 和 Vitamin D。",
-   "guideline": "FC 醫學(四)第1冊 p.139"
+   "guideline": "FC 醫學(四)第1冊 p.139",
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -28515,7 +28624,10 @@
    "C": "本項不選。母乳哺育有多種益處，但它對預防日後氣喘的效果不確定，不能把母乳當作已證實的氣喘預防措施。",
    "D": "本項不選。目前不建議所有嬰幼兒都常規使用益生菌來預防過敏，因為不同菌株、劑量與研究結果差異很大，無法給出一致的普遍處方。",
    "summary": "預防過敏不是把食物拖越晚越好：副食品依發展準備度約 6 個月開始，別靠孕期忌口或常規益生菌。",
-   "guideline": "FC 醫學(四)第1冊 p.416"
+   "guideline": "FC 醫學(四)第1冊 p.416",
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "111020/302_22",
   "specialty_source": "cougarbot",
@@ -30600,7 +30712,10 @@
    "C": "齒突第一型骨折（type I odontoid fracture）是齒突尖端撕脫性骨折，較少見，也不造成典型 C2 椎體前移。",
    "D": "正確。絞刑骨折（hangman fracture）是雙側 C2 pars interarticularis 骨折，常伴 C2 相對 C3 前移；典型機轉為頸椎過伸合併軸向負荷。題目稱 pedicles 是常見概括寫法。",
    "summary": "hangman fracture 是雙側 C2 pars 骨折伴 C2–C3 創傷性滑脫；Jefferson fracture 則是 C1 環爆裂。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32440,7 +32555,10 @@
    "C": "隱睪症（cryptorchidism）增加 testicular cancer 風險；早期 orchiopexy 便於檢查且可能降低相對風險，但不能恢復至一般人口風險。",
    "D": "即使完成 orchiopexy，雙側或較高位隱睪仍有較高 subfertility risk，因 germ cell maturation 可能已受溫度與發育異常影響。",
    "summary": "Nonpalpable testis 不能靠陰性 ultrasound 判定萎縮；orchiopexy 應在嬰兒期完成。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -32664,7 +32782,10 @@
    "C": "大腿腔室症候群並非許多骨盆骨折患者的典型併發症；真正需優先警覺的是骨盆與後腹膜大量出血，以及泌尿生殖、腹腔與神經損傷。",
    "D": "不穩定骨盆骨折即使復位固定，若骨盆環不對稱、薦髂關節受損或神經受傷，仍可能留下慢性下背或後骨盆疼痛。",
    "summary": "骨盆骨折的重要併發症是大量出血與臟器、神經損傷；大腿腔室症候群並非常見伴隨問題。",
-   "guideline": "FC 醫學(五)第1冊 p.83"
+   "guideline": "FC 醫學(五)第1冊 p.83",
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33006,7 +33127,10 @@
    "C": "絨毛膜癌（choriocarcinoma）血行轉移傾向強，可在原發灶很小時即轉移至肺、腦等處，並常伴很高 hCG。",
    "D": "錯誤。Seminoma 典型沿 testicular lymphatics 先轉移至 retroperitoneal para-aortic nodes；只有陰囊手術或 scrotal invasion 改變淋巴引流時才較可能涉及 inguinal nodes。",
    "summary": "睪丸腫瘤的正常淋巴引流先到 retroperitoneal para-aortic nodes，不是腹股溝淋巴結。",
-   "guideline": "FC 醫學(五)第5冊 p.94"
+   "guideline": "FC 醫學(五)第5冊 p.94",
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -33149,7 +33273,10 @@
    "C": "睪丸扭轉（testicular torsion）常因 spermatic cord twisting 影響 genitofemoral reflex，出現 ipsilateral absent cremasteric reflex，是重要警訊。",
    "D": "發燒、dysuria、pyuria 或 urethral symptoms 比較支持 epididymitis；testicular torsion 常是突然 severe pain 且缺乏感染症狀。",
    "summary": "Prehn sign 緩解較傳統支持 epididymitis，但不能可靠排除 torsion；突然疼痛與 absent cremasteric reflex 要立即探查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "111020/302_33",
   "specialty_source": "cougarbot",
@@ -34636,7 +34763,9 @@
    "D": "腹內出血（intra-abdominal hemorrhage）提示 ruptured ectopic pregnancy 或持續性出血，需要緊急手術與復甦，不適合等待 methotrexate 發揮作用。",
    "summary": "Ectopic pregnancy 用 methotrexate 前須穩定、未破裂且肝腎與血球功能可接受；糖尿病本身不是禁忌。",
    "guideline": "FC 醫學(六)第1下冊 p.174",
-   "concepts": []
+   "concepts": [
+    "ectopic-pregnancy"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34755,7 +34884,10 @@
    "D": "完全性前置胎盤（placenta previa）阻塞胎兒通過子宮頸且陰道生產可引發嚴重出血，通常需計畫性剖腹生產。",
    "summary": "GBS colonization 的處置是產程中 antibiotics，不是 cesarean delivery；fetal compromise、arrest disorder 與 placenta previa 才可構成適應症。",
    "guideline": "FC 醫學(六)第1上冊 p.128",
-   "concepts": []
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines",
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -34911,7 +35043,9 @@
    "D": "本項是本題要選的錯誤敘述：前次剖腹產會增加 TOLAC 時子宮破裂的考量，但不是所有前次剖腹合併臀位都構成絕對禁忌；仍要依子宮切口、胎兒大小與團隊能力個別評估。",
    "summary": "陰道臀位產要嚴格挑選，frank breech 較合適；前次低橫位剖腹是風險評估條件，不是自動的絕對禁忌。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35104,7 +35238,10 @@
    "C": "tranexamic acid 抑制纖維蛋白溶解，可在月經期間減少大量經血，屬肌瘤相關重經的非荷爾蒙症狀治療。",
    "D": "正確。danazol 雖可減少經血，但雄性化、體重增加與血脂等副作用限制使用，並非現行子宮肌瘤重經的常規首選藥物。",
    "summary": "肌瘤重經可用 LNG-IUS、tranexamic acid 或限期 GnRH agonist；danazol 因副作用而不符常規。",
-   "guideline": "FC 醫學(六)第1下冊 p.67"
+   "guideline": "FC 醫學(六)第1下冊 p.67",
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35224,7 +35361,10 @@
    "C": "處女膜閉鎖、橫向陰道隔膜及子宮頸／陰道發育不全都可造成生殖道先天性阻塞或缺如，臨床常在青春期因閉經被發現。",
    "D": "若卵巢功能與子宮內膜週期正常，但流出道被處女膜或陰道隔膜阻塞，會出現原發性閉經合併週期性下腹痛與積血。",
    "summary": "Müllerian anomalies 常造成原發性閉經或經血流出阻塞，但卵巢功能正常，因此第二性徵多正常。",
-   "guideline": "FC 醫學(六)第1下冊 p.241"
+   "guideline": "FC 醫學(六)第1下冊 p.241",
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35264,7 +35404,10 @@
    "C": "卵巢纖維瘤是實質性 sex cord-stromal tumor，超音波常見低回音實質腫塊並可能伴腹水；不以長期週期性經痛為典型。",
    "D": "卵巢癌可呈複雜囊實性腫塊、乳突與腹水，但 30 歲女性的長期經痛更支持 endometrioma；仍須依影像惡性特徵與腫瘤標記評估。",
    "summary": "長期經痛合併卵巢 ground-glass 囊腫，最典型是卵巢子宮內膜異位瘤。",
-   "guideline": "FC 醫學(六)第1下冊 p.162"
+   "guideline": "FC 醫學(六)第1下冊 p.162",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35803,7 +35946,9 @@
    "D": "不正確。肌皮神經支配肱二頭肌與肱肌，受損會使肘屈曲及前臂旋後無力，感覺缺損在前臂外側。",
    "summary": "肱骨螺旋溝骨折加手腕下垂，是橈神經受傷的定位組合。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -35920,7 +36065,9 @@
    "D": "不正確。等速運動（isokinetic exercise）需在固定速度下讓關節活動，適合後期以儀器進行控制性訓練，不適合骨折初期。",
    "summary": "骨折早期要保住肌力又別帶動骨折端，就用不動關節的 isometric exercise。",
    "guideline": "FC 醫學(六)第3冊 p.216",
-   "concepts": []
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "111020/302_44",
   "specialty_source": "cougarbot",
@@ -38094,7 +38241,11 @@
    "C": "本項不選。接受過 cisplatin 化療後，長期第二個原發固態腫瘤的風險會上升。所以存活者追蹤要同時處理可以改變的致癌與心血管危險因子。",
    "D": "本項不選。放射治療照射過的區域，多年後第二原發固態腫瘤的風險會上升，程度與照射部位、劑量和追蹤時間有關。",
    "summary": "睪丸癌治癒後的長期副作用是真的，但要分清「風險上升」與「絕對風險很高」——這題錯在後者。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics",
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "111080/302_11",
   "specialty_source": "cougarbot",
@@ -39786,7 +39937,10 @@
    "C": "本項不選。早期先天性梅毒可有肝脾腫大、肝炎、黃疸與鼻炎；未治療的晚期病變可影響骨骼、牙齒、眼與神經系統。",
    "D": "本項不選。Penicillin G 是治療先天性梅毒的首選，因為它對 T. pallidum 有效且能穿透中樞神經系統；是否採 IV 或 IM 療程要依風險分層。",
    "summary": "新生兒 VDRL 陽性不等於確診，因為可能只是母體抗體；先天梅毒仍以 penicillin G 治療。",
-   "guideline": "FC 醫學(四)第1冊 p.559"
+   "guideline": "FC 醫學(四)第1冊 p.559",
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39824,7 +39978,10 @@
    "C": "本項不選。孕週越小，皮膚角質層與皮下脂肪越不成熟，熱散失較多，所以新生兒出生週數會影響所需的中性環境溫度。",
    "D": "正確。餵食量影響營養與生長，卻不是設定中性環境溫度的直接熱交換因子；中性環境關注的是在最少氧氣消耗下維持正常體溫。",
    "summary": "中性環境溫度考熱怎麼散：對流、濕度和早產程度都重要；餵多少奶不是直接的保溫箱設定因子。",
-   "guideline": "FC 醫學(四)第1冊 p.603"
+   "guideline": "FC 醫學(四)第1冊 p.603",
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39895,7 +40052,10 @@
    "C": "本項不選。後鼻孔閉鎖（choanal atresia）因新生兒偏鼻呼吸而造成週期性發紺，哭泣時反而改善；口胃管通常仍可通過食道。",
    "D": "本項不選。喉頭軟化症（laryngomalacia）常在出生後數週出現吸氣性喘鳴，平躺或餵食時加重，但不會造成無法通過口胃管。",
    "summary": "新生兒「流口水、餵就嗆、管子推不下去」是食道閉鎖；若哭反而變好，才轉想後鼻孔閉鎖。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -39933,7 +40093,10 @@
    "C": "正確。足月新生兒頭圍多約 34 至 35 cm，38 cm 明顯偏大，應重新量測並依生長曲線評估是否有巨頭症（macrocephaly）或其他原因。",
    "D": "本項不選。體溫 36.8°C 在正常新生兒體溫範圍內，沒有低體溫或發燒的警訊。",
    "summary": "足月兒常見是 3.3 kg、50 cm、頭圍約 34–35 cm；38 cm 的頭圍要停下來評估，不要只看體重。",
-   "guideline": "FC 醫學(四)第1冊 p.582"
+   "guideline": "FC 醫學(四)第1冊 p.582",
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -40305,7 +40468,10 @@
    "C": "本項不選。毒性紅斑（erythema toxicum）常在出生後第 2 至 3 天出現短暫紅斑與小丘疹或膿疱，是良性自限現象。",
    "D": "本項不選。Harlequin color change 是側臥新生兒一側發紅、一側變白的暫時性血管調節現象，通常自行消退而沒有病理意義。",
    "summary": "新生兒頭皮腫塊用骨縫分：caput 會跨縫，cephalohematoma 不跨縫。",
-   "guideline": "FC 醫學(四)第1冊 p.583"
+   "guideline": "FC 醫學(四)第1冊 p.583",
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "111080/302_22",
   "specialty_source": "cougarbot",
@@ -44438,7 +44604,10 @@
    "C": "錯誤。若 6 個月仍未下降，應轉介並安排 orchiopexy，通常於 12 個月左右、最晚 18 個月前完成，而不是等到 2 歲後。",
    "D": "Orchiopexy 將睪丸固定在陰囊，讓日後 self-examination 與 clinical examination 較容易，因此癌變能較早被偵測，但風險不會歸零。",
    "summary": "Cryptorchidism 在 6 個月後自發下降機會低，orchiopexy 應於 12–18 個月前完成。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44476,7 +44645,10 @@
    "C": "肝母細胞瘤（hepatoblastoma）是幼兒最常見的原發性肝惡性腫瘤，常伴 AFP 顯著升高；其器官別排名不等於所有顱外實質腫瘤之首。",
    "D": "睪丸畸胎瘤（testicular teratoma）是幼兒睪丸腫瘤的重要類型，但侷限於性腺且整體病例數較少，不能取代神經母細胞瘤的總體地位。",
    "summary": "神經母細胞瘤是兒童最常見的顱外實質惡性腫瘤；Wilms tumor 則是最常見腎惡性腫瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -44865,7 +45037,10 @@
    "C": "本項不選：繩肌自坐骨結節起始，衝刺或踢腿的偏心收縮可撕脫該處。",
    "D": "本項不選：髂腰肌附著小轉子，突然用力屈髖可造成小轉子撕除骨折。",
    "summary": "骨盆撕除骨折背附著點：rectus femoris 對 AIIS，hamstring 對坐骨結節。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45226,7 +45401,10 @@
    "C": "本項敘述正確。陰囊靜脈回流不良可能升高睪丸溫度與氧化壓力，精液分析可見精子數量、活動力或形態異常。",
    "D": "本項是本題要選的錯誤描述。經皮栓塞可治療 varicocele，但不是所有情況成功率最高的方式；顯微下腹股溝結紮通常有較低復發與併發症。",
    "summary": "Varicocele 與不孕及精液異常相關；不要把可做的栓塞術誤記成成功率最高的標準術式。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -45259,7 +45437,10 @@
    "C": "本項敘述錯誤。輸尿管複製（duplicated ureter）可合併異位開口、逆流或阻塞；其中有功能受損的一側可出現腎積水。",
    "D": "正確。尿道下裂（hypospadias）是尿道開口位置異常，通常不會阻塞尿液自膀胱流出，所以最不會單獨造成腎積水。",
    "summary": "會造成腎積水的是會擋到上尿路的病變；hypospadias 是開口位置異常，不是典型阻塞。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "111080/302_33",
   "specialty_source": "cougarbot",
@@ -46695,7 +46876,9 @@
    "D": "本項隨胎盤量增加而上升。Human placental lactogen 會提高母體胰島素阻抗，把葡萄糖留給胎兒使用。",
    "summary": "孕期荷爾蒙多數一路上升，唯一常考的例外是 hCG：第一孕期先衝高，之後下降到平台。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46732,7 +46915,9 @@
    "D": "本項同樣存在。Transmembranous flow 指羊水經羊膜往母體循環的移動，雖較小仍是羊水體積調節的一部分；本題官方更正為所有選項給分。",
    "summary": "羊水不是只靠胎兒尿液：吞嚥在移除，肺液在加入，胎盤表面的 intra- 與 transmembranous flow 也在調節。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46800,7 +46985,9 @@
    "D": "這一項屬於 passage。骨盆狹窄或軟組織阻力過多，會讓胎兒即使有足夠宮縮也難以下降。",
    "summary": "難產只背 3P：power 是宮縮，passenger 是胎兒，passage 是骨盆與軟產道；不要另加 pubis。",
    "guideline": "FC 醫學(六)第1上冊 p.67",
-   "concepts": []
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -46919,7 +47106,9 @@
    "D": "本項不對，妊娠糖尿病會增加某些感染風險，卻不是本題所問最主要的 chorioamnionitis 原因。",
    "summary": "絨毛膜羊膜炎最常是陰道菌上行感染；破水越久，細菌爬進羊膜腔的時間越多。",
    "guideline": "FC 醫學(六)第1上冊 p.91",
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47162,7 +47351,11 @@
    "C": "正確，生育年齡的附件腫塊多屬良性。影像要先分辨單純囊腫、畸胎瘤與子宮內膜異位瘤等。",
    "D": "正確，成熟囊性畸胎瘤與子宮內膜異位瘤確是這個年齡層常見的良性卵巢腫瘤。",
    "summary": "生育年齡骨盆腔腫塊先驗孕；肌瘤最常見但不是大多數都會有症狀。",
-   "guideline": "FC 醫學(六)第1下冊 p.66"
+   "guideline": "FC 醫學(六)第1下冊 p.66",
+   "concepts": [
+    "uterine-fibroids",
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -47350,7 +47543,10 @@
    "C": "正確，GnRH agonist 可先造成短暫 flare，之後降低 gonadotropin 與 estrogen，暫時縮小肌瘤並減少出血。",
    "D": "正確，黏膜下肌瘤突出子宮腔。會妨礙胚胎著床。以子宮腔鏡移除後可改善腔體形態與部分病人的受孕機會。",
    "summary": "肌瘤位置決定症狀：黏膜下最常重經與影響生育，漿膜下較常造成壓迫感。",
-   "guideline": "FC 醫學(六)第1下冊 p.66"
+   "guideline": "FC 醫學(六)第1下冊 p.66",
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "111080/302_44",
   "specialty_source": "cougarbot",
@@ -51771,7 +51967,10 @@
    "C": "本項應選。缺氧事件主要造成腦損傷風險，不是 large anterior fontanel 的典型病因；前囟大小應聯想骨化或顱壓問題。",
    "D": "本項不選。早產兒的顱骨骨化較不成熟，前囟可較大，評估時須以矯正年齡與頭圍趨勢一起判讀。",
    "summary": "大前囟先想早產、骨化延遲或甲狀腺功能低下；單純缺氧不是典型原因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -51809,7 +52008,10 @@
    "C": "本項不選。腸扭轉（volvulus）可造成腸阻塞與缺血，急性腹脹時仍須迅速排除。",
    "D": "本項應選。先天性巨結腸症（Hirschsprung disease）多以延遲排胎便、慢性腹脹或腸阻塞表現，不像早產兒第 4 天出現腹壁變色的急性缺血情境。",
    "summary": "早產兒第 4 天腹脹又腹壁變色，先想 NEC、穿孔或腸缺血；Hirschsprung 通常是較早開始的排胎便障礙。",
-   "guideline": "FC 醫學(四)第1冊 p.121"
+   "guideline": "FC 醫學(四)第1冊 p.121",
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52084,7 +52286,11 @@
    "C": "本項不選。阿拉吉歐症候群（Alagille syndrome）有肝內膽管稀少，屬肝內 cholestasis，常合併心臟與特徵臉貌。",
    "D": "本項不選。新生兒肝炎是肝細胞與肝內膽汁鬱積的疾病群，不是肝外膽管閉塞。",
    "summary": "嬰兒直接型黃疸加灰白便，先把膽道閉鎖當肝外阻塞；Byler、Alagille 與新生兒肝炎都在肝內。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-jaundice",
+    "biliary-atresia"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52428,7 +52634,10 @@
    "C": "本項不選。bleomycin 可造成劑量相關的肺炎與肺纖維化，氧暴露也可能加重肺毒性。",
    "D": "本項不選。L-asparaginase 可引起胰臟炎、血栓與肝毒性，治療時需注意腹痛及 lipase 變化。",
    "summary": "化療毒性配對的陷阱是膀胱炎：它要想到 cyclophosphamide/ifosfamide，不是 vincristine。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -52499,7 +52708,10 @@
    "C": "正確。早產兒正常呼吸速率約每分鐘 40–70 次；可有短暫週期性呼吸，但持續過快仍要排除呼吸窘迫。",
    "D": "本項不選。持續 75–90 次/分屬明顯 tachypnea，常見於呼吸窘迫、感染或代謝問題。",
    "summary": "早產兒正常呼吸比成人快：40–70/min；持續超過約 70 就要找呼吸窘迫原因。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "112020/302_22",
   "specialty_source": "cougarbot",
@@ -54807,7 +55019,10 @@
    "C": "正確。兒童胸腔容積小、呼吸儲備有限，氣胸惡化時較可能迅速影響通氣；臨床應密切觀察呼吸窘迫。",
    "D": "本項不選。這句話大致合適。需要轉送的氣胸病人途中無法即時處理惡化，通常會較保守地先放置胸管以避免轉送期間發展成張力性氣胸。",
    "summary": "兒童胸部鈍傷的陷阱：肋骨沒斷不代表胸腔沒事，因為兒童肋骨很有彈性。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -55178,7 +55393,10 @@
    "C": "本項不選：開口位 X 光與 CT 可診斷 C1 骨環骨折；MRI 是用來評估橫韌帶等軟組織穩定度。",
    "D": "本項應選：若橫韌帶斷裂，C1 可相對 C2 外移而不穩。須依不穩定程度選擇固定或融合。",
    "summary": "頭頂軸向力造成 Jefferson fracture；是否傷到 transverse ligament 決定 C1–2 穩不穩。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -56443,7 +56661,10 @@
    "C": "本項敘述錯誤。睪丸固定術（orchiopexy）可把睪丸置回陰囊並保留部分生育潛力，但不能逆轉既有的生殖細胞損傷，也不保證生育力正常。",
    "D": "本項敘述錯誤。Orchiopexy 可讓日後觸診與自我檢查較容易，可能降低部分風險；但隱睪造成的睪丸癌風險不會因手術完全消失。",
    "summary": "隱睪症的重點是早期 orchiopexy 保護生殖細胞；固定後仍須知道生育與癌症風險未完全歸零。",
-   "guideline": "FC 醫學(五)第5冊 p.92"
+   "guideline": "FC 醫學(五)第5冊 p.92",
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -56556,7 +56777,10 @@
    "C": "肥厚性幽門狹窄（hypertrophic pyloric stenosis）通常在 2–8 週出現漸進性、噴射狀但非膽汁性嘔吐，因阻塞位於十二指腸壺腹近端。",
    "D": "上腸繫膜動脈症候群（superior mesenteric artery syndrome）多見於快速減重或脊柱矯正後的較大兒童、青少年，不是十天新生兒急性膽汁性嘔吐的典型病因。",
    "summary": "新生兒任何急性膽汁性嘔吐都先當中腸扭轉排除，不能因先前餵食正常而延誤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -57500,7 +57724,10 @@
    "C": "本項不選：heterotopic ossification 是創傷後數週至數月的異位骨化，不是急診當下的脫位診斷。",
    "D": "本項不選：股骨頭缺血性壞死是脫位後的延遲併發症，不能解釋剛受傷 CT。",
    "summary": "高能量車禍的急性髖部骨折脫位先想後向型，並立刻復位以減少缺血。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "112020/302_33",
   "specialty_source": "cougarbot",
@@ -58929,7 +59156,9 @@
    "D": "本項不對，15–16 週當然多數可聽到，但不是最早的典型時間點。",
    "summary": "看得到心跳比聽得到早：TVUS 約 6 週可見，腹部 Doppler 約 11–12 週才常聽到。",
    "guideline": "FC 醫學(六)第1上冊 p.37",
-   "concepts": []
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59083,7 +59312,9 @@
    "D": "本項不對，GBS colonization 需要依產程時機給抗生素預防新生兒感染，但不是所有產後子宮感染最重要的預測因子。",
    "summary": "產後子宮感染先看 route of delivery：剖腹產的風險遠高於陰道生產，其他侵入性處置是加成因子。",
    "guideline": "FC 醫學(六)第1上冊 p.173",
-   "concepts": []
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59122,7 +59353,9 @@
    "D": "本項不是本題要選的，胎兒持續長大會增加肩難產與操作性陰道生產機會，因此會陰裂傷風險也會提高。",
    "summary": "過期妊娠的風險多來自胎兒變大與胎盤變差；placenta accreta 要聯想到剖腹疤痕加前置胎盤。",
    "guideline": "FC 醫學(六)第1上冊 p.157",
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59163,7 +59396,9 @@
    "D": "正確。複合先露（compound presentation）是胎頭或臀位和手、手臂等肢體一起成為先露部。圖上除了先露的胎頭之外，還有一隻手同時卡在產道口，這就是複合先露。處置原則是先觀察——多數的手會在產程進展中自行縮回；不要用力推回去，也不要硬拉。要注意的是臍帶脫垂的風險上升，並注意產程是否遲滯。",
    "summary": "看到胎頭旁多一隻手或手臂，就想 compound presentation；brow 是額頭先露，不是手腳跟著出來。",
    "guideline": "FC 醫學(六)第1上冊 p.114",
-   "concepts": []
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59282,7 +59517,9 @@
    "D": "本項不對，Antiphospholipid antibody 增加流產、胎盤血栓與子癇前症風險，和 neonatal lupus 的主要機轉不同。",
    "summary": "SLE 孕婦看到 neonatal lupus 或 fetal heart block，第一個找 anti-Ro/SS-A，不是 anti-Sm 或 antiphospholipid antibody。",
    "guideline": "FC 醫學(六)第1上冊 p.57",
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59359,7 +59596,10 @@
    "C": "錯誤，婦科超音波可辨識典型卵巢子宮內膜異位瘤，卻可能漏掉腹膜表淺病灶。不能取代病理確診。",
    "D": "錯誤，MRI 有助於評估深部浸潤型子宮內膜異位症的範圍。但影像支持診斷與組織確診是不同層次。",
    "summary": "懷疑子宮內膜異位症可先用症狀與影像評估；要說「確診」仍要靠腹腔鏡病理。",
-   "guideline": "FC 醫學(六)第1下冊 p.161"
+   "guideline": "FC 醫學(六)第1下冊 p.161",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -59862,7 +60102,10 @@
    "C": "正確，青春期異常出血雖常是無排卵。但仍要排除懷孕、避孕藥物與其他外因性荷爾蒙造成的出血。",
    "D": "正確，子宮頸炎或陰道炎等性傳染病可造成接觸性或不規則出血，青春期病史評估也不能漏掉。",
    "summary": "青春期月經可不規則，但間隔超過 90 天不是一句「剛初經」就能帶過。",
-   "guideline": "FC 醫學(六)第1下冊 p.200"
+   "guideline": "FC 醫學(六)第1下冊 p.200",
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60210,7 +60453,9 @@
    "D": "本項不選。脆弱性骨折常見於椎體、近端股骨與遠端橈骨，和跌倒時的受力與保護動作有關。",
    "summary": "骨鬆診斷別把 T/Z-score 搞反：典型成人診斷用 T-score ≤ −2.5。",
    "guideline": "FC 醫學(六)第3冊 p.245",
-   "concepts": []
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60673,7 +60918,9 @@
    "D": "正確。先輸血與復甦，並緊急剖腹探查和 salpingectomy 來控制內出血；低血壓表示救母體優先於保守治療。",
    "summary": "Ectopic pregnancy 一旦低血壓加腹腔積液，就不是 methotrexate 題，而是復甦後緊急手術止血題。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "ectopic-pregnancy"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -60786,7 +61033,10 @@
    "C": "正確，type 1 黏膜下肌瘤大部分位於子宮腔內，子宮腔鏡肌瘤切除可直接移除出血來源並保留子宮。",
    "D": "錯誤，腹腔鏡肌瘤切除較適用於漿膜下或肌壁間肌瘤。對主要在子宮腔內的 type 1 黏膜下肌瘤，不如子宮腔鏡直接。",
    "summary": "重經又是 type 1 黏膜下肌瘤時，先想到子宮腔鏡切除：從子宮腔直接處理出血來源。",
-   "guideline": "FC 醫學(六)第1下冊 p.65"
+   "guideline": "FC 醫學(六)第1下冊 p.65",
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "112020/302_44",
   "specialty_source": "cougarbot",
@@ -62311,7 +62561,10 @@
    "C": "本項不選。異體移植做 T 細胞去除會削弱針對 EBV 的免疫監視，因此增加移植後淋巴增生性疾病的風險。",
    "D": "本項不選。化學治療、尤其是烷化劑與 topoisomerase II 抑制劑，都可能造成治療相關的骨髓腫瘤，包括骨髓分化不良症候群（MDS）與急性骨髓性白血病。",
    "summary": "兩類藥兩種後果：烷化劑走「潛伏期長＋第 5/7 號染色體缺失」，topoisomerase II 抑制劑走「潛伏期短＋KMT2A 重排」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62497,7 +62750,10 @@
    "C": "本項官方亦給分。自體移植用的是病人自己的細胞，理論上沒有 GVHD 與排斥，這是通識。但文獻確實有少見的自體 GVHD 報告（多為輕微皮膚表現、可自限），把話說到「並無風險」就太絕對，這應是官方併列此項的理由。",
    "D": "本項不選。G-CSF 動員數天後從周邊血收集幹細胞是現在的標準做法。收集量不足時加上 plerixafor（CXCR4 拮抗劑），把幹細胞從骨髓微環境「趕」進血流，可明顯提高收集量。",
    "summary": "ABO 不合不影響幹細胞植入，處理的是產品不是病人；配對真正看的是 HLA。",
-   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分"
+   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -62535,7 +62791,10 @@
    "C": "本項不選。trisomy 12 的預後通常介在 del(13q) 與 del(11q)／del(17p) 之間，屬中間風險。",
    "D": "本項不選。del(17)(p13.1) 牽涉 TP53，對傳統的化學免疫治療反應差，是最高風險的變異。",
    "summary": "慢性淋巴性白血病的預後排序：del(13q) 最好 ＞ trisomy 12 ＞ del(11q) ＞ del(17p)／TP53 最差。",
-   "guideline": "FC 醫學(三)第4冊 p.233"
+   "guideline": "FC 醫學(三)第4冊 p.233",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "112080/302_11",
   "specialty_source": "cougarbot",
@@ -63997,7 +64256,10 @@
    "C": "正確。對照生長曲線圖：一個月大 6 公斤大約落在第 97 百分位之上，六個月大 7 公斤則掉到第 15 百分位附近，向下跨越了兩條主要曲線。生長曲線的警訊看的正是「跨越曲線區間」而不是單點的百分位——單點偏低但沿著自己的曲線穩定成長通常沒事，短期內掉兩個區間才需要轉介評估。",
    "D": "本項不選。生長評估看長期趨勢，不是強迫每個孩子追到平均值；沒有證據時也不應只以配方奶取代整體餵食評估。",
    "summary": "生長曲線最重要不是第幾百分位，而是有沒有一路掉跨兩條曲線；掉線比『低於平均』更需要轉介。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64035,7 +64297,10 @@
    "C": "本項不選。後鼻孔閉鎖常在安靜時發紺、哭時改善，腹部外觀與心尖位置不會改變。",
    "D": "本項不選。胃扭轉可造成腹脹與嘔吐，不能比橫膈膜疝氣更好解釋出生即發紺與胸腔壓迫。",
    "summary": "新生兒呼吸窘迫加舟狀腹、心尖右移，先把腹腔臟器跑進左胸的先天性橫膈膜疝氣抓出來。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64073,7 +64338,10 @@
    "C": "本項不選。RDS 呼吸支持會避免 hyperoxia，並可接受適度 permissive hypercapnia 以減少 ventilator-induced lung injury。",
    "D": "本項不選。缺少 surfactant 使表面張力上升、肺泡易塌陷，因此功能肺餘容積下降並需較大呼吸功。",
    "summary": "早產兒 RDS 是 surfactant 不夠，病程常在出生後 1–3 天變重；『出生最嚴重又很快好』比較像其他疾病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64111,7 +64379,10 @@
    "C": "本項不選。腸道菌叢失衡與 NEC 有關，這也是抗生素暴露與餵食策略需要謹慎的原因。",
    "D": "本項不選。足月兒若發生 NEC，常有先天性心臟病、缺血或其他前置因子，不像典型極早產兒那樣單純因成熟度不足。",
    "summary": "NEC 的保護因子要記母乳；高風險則是早產、腸道不成熟與異常菌叢，不要把母乳說成風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64642,7 +64913,10 @@
    "C": "本項應選。多數兒童癌症的主要治療仍是依疾病採化學治療、手術、放射治療或造血幹細胞移植。標靶藥物只適用於特定基因或復發情境。",
    "D": "本項不選。某些遺傳性疾病會提高腫瘤風險，例如 neurofibromatosis 可增加神經纖維瘤、視神經膠質瘤等相關腫瘤機率。",
    "summary": "兒童癌症的主力仍是化療、手術與放療的組合。標靶治療要有特定標的，不能當成所有癌症的通用答案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -64680,7 +64954,10 @@
    "C": "本項不選。嚴重型再生不良性貧血若有合適同胞供者，異體造血幹細胞移植可恢復失去的骨髓造血功能。",
    "D": "本項應選。系統性紅斑性狼瘡主要以免疫調節治療控制，自體或實驗性策略另當別論。一般不把異體造血幹細胞移植當作標準適應症。",
    "summary": "異體移植用來換掉失敗或惡性的造血系統：重型地中海型貧血、再障與部分高風險 ALL 都可能適用。SLE 不是標準答案。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "112080/302_22",
   "specialty_source": "cougarbot",
@@ -67399,7 +67676,10 @@
    "C": "本項不選：椎莖屬後方骨性結構。並不是 middle column 的定義成分。",
    "D": "本項不選：椎關節與椎莖主要屬 posterior column。不能取代椎體後半。",
    "summary": "Denis 中柱背椎體後半 + 後半纖維環 + PLL；中柱壞掉就警覺不穩定。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69120,7 +69400,10 @@
    "C": "本項要選。此情境應優先懷疑脂肪栓塞，不可因意識改變就假定顱內壓升高而立刻給 mannitol；先處理氧合與支持性復甦。",
    "D": "本項不選。支持性治療是脂肪栓塞的核心，包括氧合、通氣與骨折固定；類固醇的預防或治療效益仍有爭議，不能取代支持治療。",
    "summary": "長骨骨折後的低氧＋意識改變＋點狀出血，先想 fat embolism，不要直接當腦壓高。",
-   "guideline": "FC 醫學(五)第4冊 p.40"
+   "guideline": "FC 醫學(五)第4冊 p.40",
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69158,7 +69441,10 @@
    "C": "本項不選：Jones fracture 在第五蹠骨基底，與拇指掌骨無關。",
    "D": "本項不選：boxer’s fracture 是第五掌骨頸骨折。常因拳擊打牆造成。",
    "summary": "拇指掌骨基底：單一關節內骨折是 Bennett，粉碎成多塊才是 Rolando。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69196,7 +69482,10 @@
    "C": "本項應選：半月板的翻瓣或桶柄碎片可卡在關節間。造成無法完全伸直的 mechanical locking。",
    "D": "本項不選：髕腱斷裂會失去主動伸膝，不會以關節內卡住為主。",
    "summary": "膝蓋真的卡住、不能完全伸直，要先想 bucket-handle meniscal tear。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69234,7 +69523,10 @@
    "C": "本項不選：肱骨髁上骨折多位於幹骺端。不是跨生長板的 Salter-Harris II。",
    "D": "本項不選：外髁骨折是關節內骨折，並非最典型的近端肱骨 SH II。",
    "summary": "兒童近端肱骨骨折常考 Salter-Harris II：骨骺加上一小塊幹骺端。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69274,7 +69566,10 @@
    "C": "本項不選：月狀骨位於腕中央，較常和月狀骨周圍脫位或 Kienböck disease 相關。",
    "D": "本項不選：鈎狀骨鉤骨折多在掌側尺側，常見於握拍運動並可刺激尺神經。",
    "summary": "FOOSH 後鼻煙窩壓痛就是 scaphoid fracture；初次 X 光陰性也不能放掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69573,7 +69868,10 @@
    "C": "本項敘述正確。神經性膀胱可同時有高殘尿、導尿需求與逆流，這些都讓感染更容易反覆。",
    "D": "正確。尿道下裂（hypospadias）若沒有明顯阻塞、殘尿或反覆手術，本身通常不是常見尿路感染危險因子。",
    "summary": "UTI 危險因子抓住「細菌進得去、尿排不乾淨」：導管、阻塞、神經性膀胱都比 hypospadias 典型。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -69684,7 +69982,10 @@
    "C": "本項不選：生長板是否癒合不是本題側位軟組織徵象的重點。",
    "D": "本項應選：側位肘片的 posterior fat pad 或前脂肪墊抬高代表關節積液，應懷疑隱匿骨折。側位片上前脂肪墊被往前上方推開像船帆、後脂肪墊也被抬起而顯現，但找不到明確的骨折線。這代表關節腔內有積液（外傷情況下就是積血），成人多半藏著橈骨頭骨折、小孩則要想髁上骨折——看不到骨折線不等於沒骨折，要照樣固定並回診追蹤。",
    "summary": "兒童肘片見 fat-pad sign，就是關節積液；沒見骨折也要當隱匿骨折處理。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "112080/302_33",
   "specialty_source": "cougarbot",
@@ -71207,7 +71508,9 @@
    "D": "本項是本題要選的錯誤敘述：骨盆底肌肉與神經的直接拉扯主要發生在陰道生產，剖腹產反而較能避免這類產道創傷。",
    "summary": "剖腹產增加出血、感染和血栓；骨盆底直接受傷則更要想到陰道生產的胎頭與產道拉扯。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71318,7 +71621,10 @@
    "C": "本項應選。penicillin 嚴重過敏時的替代組合就是 clindamycin 加 gentamicin：clindamycin 補革蘭氏陽性菌與厭氧菌，gentamicin 補革蘭氏陰性菌。兩者都是切皮前單次給予。",
    "D": "本項不選。ceftriaxone 同屬 cephalosporin，過敏考量與 A 相同。而且它不是手術預防的標準選擇，每 12 小時連續給也不符合單次預防的原則。",
    "summary": "剖腹產預防感染的標準是切皮前單次 cefazolin 2 g；penicillin 過敏就換 clindamycin 加 gentamicin。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71465,7 +71771,9 @@
    "D": "本項不是本題要選的，Latency antibiotics 可延長破水到分娩的時間並降低母胎感染，因此在未感染的 PPROM 常建議使用。",
    "summary": "PPROM 沒感染時要給 steroid、latency antibiotics 和需要時的 GBS prophylaxis；不要為拖時間常規給 tocolysis。",
    "guideline": "FC 醫學(六)第1上冊 p.90",
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -71576,7 +71884,10 @@
    "C": "正確，estrogen 與 progesterone 都可促進肌瘤生長。所以肌瘤常在停經後縮小，這項合理。",
    "D": "正確，肌瘤不只靠細胞增生，細胞外基質堆積也使腫塊變大而變硬，這項正確。",
    "summary": "肌瘤是良性單株腫瘤，但不是會一路癌化成平滑肌肉瘤的癌前病變。",
-   "guideline": "FC 醫學(六)第1下冊 p.64"
+   "guideline": "FC 醫學(六)第1下冊 p.64",
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "112080/302_44",
   "specialty_source": "cougarbot",
@@ -74525,7 +74836,10 @@
    "C": "本項不選。腎病症候群不是 rituximab 的特徵性併發症；相反地，部分免疫性腎病還會用 rituximab 治療。",
    "D": "正確答案。rituximab 把 B 細胞清掉，罕見但嚴重的後果是 JC 病毒重新活化，造成進行性多灶性白質腦病（PML）。這個併發症預後極差，出現不明原因的神經學症狀時一定要想到。",
    "summary": "rituximab 清 B 細胞的代價：B 型肝炎再活化與 JC 病毒造成的 PML——用藥前要篩 HBV。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74563,7 +74877,10 @@
    "C": "本項不選。費城染色體陽性的病人一定要加上針對 BCR::ABL1 的酪胺酸激酶抑制劑（TKI），而且要延續到後續療程。",
    "D": "本項應選。imatinib 進不去中樞神經系統——血腦障壁的穿透性不足。中樞神經（CNS）的預防與治療仍然要靠鞘內化學治療，這一步不能被口服標靶藥取代。",
    "summary": "急性淋巴芽細胞白血病兩件必做：長達 2 年多的維持治療，以及鞘內化療做中樞預防。",
-   "guideline": "FC 醫學(三)第4冊 p.206"
+   "guideline": "FC 醫學(三)第4冊 p.206",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -74639,7 +74956,10 @@
    "C": "本項不選。CALR 第 9 外顯子的突變，是 JAK2 陰性的原發性血小板增多症與骨髓纖維化常見的驅動基因。",
    "D": "本項應選。FLT-3 突變主要見於急性骨髓性白血病（AML），不在 BCR::ABL1-negative 骨髓增生性腫瘤（myeloproliferative neoplasm, MPN）的三大驅動基因裡。那三個是 JAK2、CALR、MPL。",
    "summary": "骨髓增生性腫瘤的三個驅動基因固定背：JAK2、CALR、MPL；FLT3 屬於急性骨髓性白血病。",
-   "guideline": "FC 醫學(三)第4冊 p.215"
+   "guideline": "FC 醫學(三)第4冊 p.215",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "113020/302_11",
   "specialty_source": "cougarbot",
@@ -76076,7 +76396,10 @@
    "C": "本項不選。出生後前幾個月體重通常快速增加。1 個月由 3000 g 增至 4000 g 的增重趨勢可接受。",
    "D": "本項不選。2 個月 4900 g 代表持續穩定增重，單就這個數字不像新生兒早期過度體重下降。",
    "summary": "新生兒先算百分比：出生後掉超過 10% 不要只當正常水分流失。第 3 天 3000 掉到 2600 就已經越線。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76155,7 +76478,10 @@
    "C": "本項不選。暫停換氣會使血氧下降，臨床可見 cyanosis 或 pulse oximetry desaturation。",
    "D": "本項不選。早產兒呼吸暫停可分 central、obstructive 與 mixed 型，其中 mixed apnea 最常見。",
    "summary": "早產兒 apnea 不是停 10 秒就算。記住至少 20 秒，或短暫停呼吸但已帶來心慢、發紺或血氧下降。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76193,7 +76519,10 @@
    "C": "本項不選。單純氧氣面罩不能提供足夠肺泡擴張。新生兒復甦的初始治療重點是有效 ventilation。",
    "D": "本項應選。呼吸窘迫合併心跳 50/min 代表嚴重缺氧性心搏過緩，應立即以正壓換氣建立有效呼吸，再重新評估心跳。",
    "summary": "新生兒復甦先救通氣：心跳低於 100 就開始 PPV。只有 PPV 後仍低於 60，才加按壓與 epinephrine。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76231,7 +76560,10 @@
    "C": "本項不選。餵食不耐、腹脹、血便與活力差是 NEC 常見警訊，嚴重時腸穿孔可導致 peritonitis 與死亡。",
    "D": "本項應選。pneumatosis intestinalis 是 NEC 的經典 X 光徵象，但 NEC 多在出生後數週發生，並非通常在第一週內就出現。",
    "summary": "NEC 把「早產、配方奶、腹脹血便、腸壁積氣」串在一起。典型發病不是出生第一週就急著出現。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76384,7 +76716,10 @@
    "C": "本項應選。腹脹是 Hirschsprung disease 常見表現，也可有膽汁性嘔吐、餵食差、生長不良，甚至因腸炎出現腹瀉與敗血症。",
    "D": "本項不選。確定治療是切除無神經節段並 pull-through。是否先造口取決於病情與腸炎、穿孔等狀況，不是每個孩子唯一必經步驟。",
    "summary": "巨結腸看「遠端沒 ganglion、近端才擴張」。腹脹和晚排胎便是線索，但手術不一定都要先造口。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -76733,7 +77068,10 @@
    "C": "本項應選。KMT2A（MLL）-AF4 的 t(4;11) 特別見於嬰兒 ALL，和高復發風險及較差預後相關。",
    "D": "本項不選。TLX1/HOX11 rearrangement 多見於 T-ALL，並不等同 KMT2A 重排所代表的典型不良預後。",
    "summary": "ALL 遺傳題先分好壞：hyperdiploidy、ETV6-RUNX1 偏好。嬰兒的 KMT2A-AF4／t(4;11) 是不良訊號。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "113020/302_22",
   "specialty_source": "cougarbot",
@@ -80772,7 +81110,10 @@
    "C": "環狀胰（annular pancreas）環繞第二段十二指腸造成狹窄，可呈現十二指腸阻塞與 double-bubble，屬合理鑑別。",
    "D": "腸旋轉不良合併扭轉（malrotation with volvulus）可造成高位腸阻塞與胃、十二指腸擴張；若臨床有膽汁性嘔吐更須緊急排除。",
    "summary": "若 X 光呈十二指腸層級阻塞，十二指腸蹼、環狀胰與扭轉都合理；胃蹼通常只擴張胃。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -80805,7 +81146,10 @@
    "C": "正確。提睪肌（cremaster muscle）是腹內斜肌（internal oblique muscle）的下緣肌束延續，包覆精索與睪丸；這也解釋了提睪反射會把睪丸拉高。",
    "D": "不正確。睪丸動脈（testicular artery）直接由腹主動脈發出，再隨睪丸下降到陰囊；內髂動脈供應的是骨盆器官與部分會陰構造。",
    "summary": "看到兒童間接疝氣就把三件事連在一起：鞘突未閉、腹壁下動脈外側、提睪肌來自腹內斜肌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -81300,7 +81644,10 @@
    "C": "本項應選。固定兩個月太久了。復位後若關節穩定，只固定幾天到一週就要開始在可容忍範圍內活動，通常兩週內脫離副木。肘關節是全身最容易僵硬的關節，固定越久攣縮越難救回來。",
    "D": "本項敘述正確。復位後若關節仍不穩定、容易再脫位，代表韌帶或骨性支撐不足，要考慮修補或外固定架。",
    "summary": "肘關節怕的是僵硬不是再脫位：復位後穩定就早點動，固定超過兩三週就是在製造攣縮。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -81338,7 +81685,10 @@
    "C": "本項不選。經皮鋼針固定適合移位不大、骨質良好的骨折，這個病例移位太大且結節需要解剖復位，鋼針固定不夠。",
    "D": "本項不選。全肩置換要求旋轉肌腱完整，急性骨折且結節移位的病人不適合；真要置換也是選反式肩關節。",
    "summary": "年輕人的肱骨近端骨折先想保留自己的關節：能重建就內固定，人工關節留給骨頭碎到補不起來的老人家。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "113020/302_33",
   "specialty_source": "cougarbot",
@@ -83290,7 +83640,9 @@
    "D": "正確。妊娠 8 週後胎盤（placenta）接手大量 progesterone 分泌，持續維持子宮靜止與妊娠。",
    "summary": "早孕先靠黃體，約 8–10 週後由胎盤接棒分泌 progesterone，這就是 luteal-placental shift。",
    "guideline": "FC 醫學(六)第1上冊 p.17",
-   "concepts": []
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83329,7 +83681,9 @@
    "D": "本項不是本題要選的，已知 fetal bleeding disorder 是產鉗使用的相對禁忌，因頭皮與顱內出血風險增加；所以確認沒有凝血病變是合理先決條件。",
    "summary": "Forceps 的安全門檻：破水、子宮頸全開、胎頭已 engage、位置已知，且沒有不適合牽引的胎兒狀況。",
    "guideline": "FC 醫學(六)第1上冊 p.127",
-   "concepts": []
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83367,7 +83721,10 @@
    "C": "本項不選。初產婦第一產程擴張速度低於每小時 1.2 公分屬 protraction（進展慢但仍在進展），處置是持續觀察與支持，不是急著手術。真正需要積極處理的是 arrest（完全停住）。",
    "D": "本項不選。第二產程停滯超過兩小時，先評估有沒有胎頭骨盆不對稱；沒有的話可用 oxytocin 加強收縮。要提醒的是現行 ACOG 已放寬第二產程時限：初產婦無硬膜外麻醉可到 3 小時，有麻醉可到 4 小時。",
    "summary": "潛伏期拖太久先讓產婦休息再說，不是先催生；protraction 觀察、arrest 才處理。",
-   "guideline": "現行 ACOG 產程共識：活躍期以子宮頸 6 公分起算，第二產程時限較 Friedman 舊定義放寬"
+   "guideline": "現行 ACOG 產程共識：活躍期以子宮頸 6 公分起算，第二產程時限較 Friedman 舊定義放寬",
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83401,7 +83758,9 @@
    "D": "本項不是本題要選的，超音波對 abruption 敏感度有限，許多病人看不到 retroplacental clot；陰性超音波不能排除臨床診斷。",
    "summary": "陰道出血要先用痛不痛分路：痛又子宮硬是 abruption，無痛鮮紅出血較像 placenta previa。",
    "guideline": null,
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83483,7 +83842,9 @@
    "D": "本項不對，安胎藥不作為無宮縮、無立即分娩情形的長期預防；它無法修正子宮頸結構性縮短。",
    "summary": "短子宮頸要連同病史判斷：有前次自發早產又在中孕期縮短，國考優先想 cerclage。",
    "guideline": "FC 醫學(六)第1上冊 p.90",
-   "concepts": []
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83522,7 +83883,9 @@
    "D": "本項不對，子宮裂開（uterine dehiscence）與子宮破裂是 TOLAC 特別要告知的疤痕相關風險，選擇性重複剖腹較少遇到。",
    "summary": "TOLAC 最大代價是疤痕子宮裂開與緊急手術風險；成功陰道生產的好處之一是避免再做手術與 hysterectomy。",
    "guideline": "FC 醫學(六)第1上冊 p.112",
-   "concepts": []
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83719,7 +84082,10 @@
    "C": "錯誤，成熟畸胎瘤超音波常見高回音脂肪、鈣化或聲影，不像均質低迴音的陳舊血液囊腫。",
    "D": "錯誤，輸卵管子宮外孕通常要結合停經、β-hCG 與子宮外 gestational sac 判斷。並非穩定的 5 cm 卵巢均質囊腫。",
    "summary": "經痛＋卵巢 ground-glass 囊腫＋CA-125 輕升，最像 endometrioma，不要直接把 CA-125 當癌症。",
-   "guideline": "FC 醫學(六)第1下冊 p.160"
+   "guideline": "FC 醫學(六)第1下冊 p.160",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -83952,7 +84318,10 @@
    "C": "正確，追蹤時間拉長後累積復發率會上升，五年復發可超過四成，這項合理。",
    "D": "本項是本題要選的錯誤敘述。復發風險和殘存病灶、疾病嚴重度及術後抑制治療較相關。不能把右側骨盆病灶當成固定高風險因子。",
    "summary": "子宮內膜異位瘤復發看病灶與術後抑制，不看左右邊；術後 OCP 可降低復發。",
-   "guideline": "FC 醫學(六)第1下冊 p.160"
+   "guideline": "FC 醫學(六)第1下冊 p.160",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -84978,7 +85347,10 @@
    "C": "錯誤，endometrioma 常和經痛、ground-glass 囊腫相關，無法解釋腸道惡性阻塞與轉移性卵巢腫瘤的組合。",
    "D": "錯誤，dermoid cyst 常有脂肪或鈣化牙齒等成分，與結腸癌並存時不能因此忽略轉移的機率。",
    "summary": "有已知腸胃道癌又出現卵巢腫塊時，先想 Krukenberg tumor，不要先當成獨立良性囊腫。",
-   "guideline": "FC 醫學(六)第1下冊 p.25"
+   "guideline": "FC 醫學(六)第1下冊 p.25",
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "113020/302_44",
   "specialty_source": "cougarbot",
@@ -86765,7 +87137,10 @@
    "C": "本項不選。inv(16) 形成 CBFB-MYH11，同樣屬於核心結合因子型。",
    "D": "本項應選。配對錯了：t(9;11) 形成的是 KMT2A-MLLT3；DEK-NUP214 對應的是 **t(6;9)**。",
    "summary": "急性骨髓性白血病四組融合背熟：t(8;21)、inv(16) 是核心結合因子型，t(15;17) 是 APL，t(6;9) 才是 DEK-NUP214。",
-   "guideline": "FC 醫學(三)第4冊 p.205"
+   "guideline": "FC 醫學(三)第4冊 p.205",
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -86841,7 +87216,10 @@
    "C": "本項敘述錯誤。方向反了：HIV 相關的何杰金氏淋巴瘤，腫瘤細胞裡**高比例**驗得到 EBV，不是幾乎看不到。",
    "D": "本項敘述錯誤。非 HIV 相關者只有部分亞型與病例和 EBV 有關，比例受亞型與地區族群影響，不能說幾乎全部陽性。",
    "summary": "何杰金氏淋巴瘤的腫瘤細胞出身 B 細胞但「隱藏身分」；EBV 的關聯性隨 HIV 狀態與亞型變動。",
-   "guideline": "FC 醫學(三)第4冊 p.226"
+   "guideline": "FC 醫學(三)第4冊 p.226",
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "113070/302_11",
   "specialty_source": "cougarbot",
@@ -88348,7 +88726,10 @@
    "C": "本項應選。胎便造成氣道阻塞、化學性肺炎與肺血管收縮，會增加 persistent pulmonary hypertension of the newborn 的風險。",
    "D": "本項不選。胎便可造成完全阻塞而 atelectasis，也可形成 ball-valve air trapping。後者會過度膨脹並增加 pneumothorax 風險。",
    "summary": "胎便吸入不是只有肺塌陷。不完全阻塞會把空氣困住，進而造成氣胸與肺高壓，是兩個要一起記的併發症。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88386,7 +88767,10 @@
    "C": "本項不選。正常足月新生兒安靜時呼吸率約 30–60/min。持續超過 60/min 才須評估 tachypnea。",
    "D": "本項應選。Ortolani maneuver 是把已脫位的髖關節復位回 acetabulum。測試不穩定髖能否被推出的是 Barlow maneuver。",
    "summary": "髖關節檢查用動詞分：Barlow 是「推出去」，Ortolani 是「帶回來」。考題若把兩者顛倒就選它。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88460,7 +88844,10 @@
    "C": "本項不選。complete ECD 會有較大的房室間分流，嬰兒期容易心衰竭與體重增加差，尤其合併 Down syndrome 時。",
    "D": "本項不選。5 mm PDA 的連續性左向右分流可造成肺過度循環與 volume overload，能解釋心雜音和攝取量不足仍長不好。",
    "summary": "3 個月餵食差、長不大又有雜音，要想大左向右分流的心衰。小 secundum ASD 通常太安靜，最不會先惹出症狀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88498,7 +88885,10 @@
    "C": "本項應選。prostaglandin E1 的作用是維持或打開 ductus。要促使 PDA 關閉，通常用 indomethacin 或 ibuprofen 抑制 prostaglandin 合成。",
    "D": "本項不選。典型 PDA 在左上胸可聽到 continuous machinery murmur。肺高壓或小 PDA 時外觀也可能只剩 systolic murmur。",
    "summary": "PDA 藥物方向不要倒：PGE1 把導管打開，indomethacin／ibuprofen 才把它關上。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -88966,7 +89356,10 @@
    "C": "本項不選。視網膜母細胞瘤最具代表性的是白瞳（leukocoria），也可因腫瘤影響視軸出現斜視與視力下降。",
    "D": "本項應選。肝母細胞瘤通常以無痛性上腹腫塊、腹脹和 AFP 升高表現。血尿與高血壓較應聯想腎臟腫瘤如 Wilms tumor。",
    "summary": "腹部腫塊的方向要分清：肝母細胞瘤看肝與 AFP；血尿、高血壓更像 Wilms tumor。",
-   "guideline": "FC 醫學(四)第1冊 p.500"
+   "guideline": "FC 醫學(四)第1冊 p.500",
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -89004,7 +89397,10 @@
    "C": "本項不選。神經母細胞瘤常測尿液 VMA 或 HVA，因腫瘤細胞會產生 catecholamine 代謝物。",
    "D": "本項不選。急性淋巴性白血病確診與分層都需要骨髓細胞遺傳學；染色體和分子異常會影響預後與療程。",
    "summary": "兒癌腫瘤標記的配對：肝母細胞瘤—AFP，神經母細胞瘤—尿 VMA/HVA；hCG 不是肝母細胞瘤主力。",
-   "guideline": "FC 醫學(四)第1冊 p.501"
+   "guideline": "FC 醫學(四)第1冊 p.501",
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -89075,7 +89471,10 @@
    "C": "本項不選。插管繞過上呼吸道後，呼吸器氣流需加溫加濕，否則分泌物會變黏、纖毛清除功能下降。",
    "D": "本項不選。肌肉鬆弛劑只在特定不同步或操作情境使用，常規給予會掩蓋神經評估並增加肌無力風險。",
    "summary": "兒童呼吸支持先非侵入、再插管；插管後記得加溫加濕，有氣囊管可用但要監測 cuff pressure。",
-   "guideline": "FC 醫學(四)第1冊 p.568"
+   "guideline": "FC 醫學(四)第1冊 p.568",
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -89387,7 +89786,10 @@
    "C": "本項不選。毛叢提示底下可能有 tethered cord 或其他 spinal dysraphism，不能當成單純凹陷略過。",
    "D": "本項不選。附近血管瘤也是皮膚中線異常線索，合併凹陷時應提高對脊髓病變的警覺。",
    "summary": "sacral dimple 要分簡單與非典型：靠近肛門、孤立的小凹陷多可觀察；毛叢、血管瘤或皮膚缺損就要查。",
-   "guideline": "FC 醫學(四)第1冊 p.352"
+   "guideline": "FC 醫學(四)第1冊 p.352",
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "113070/302_22",
   "specialty_source": "cougarbot",
@@ -93531,7 +93933,10 @@
    "C": "本項不選。螺旋骨折來自扭轉力量，骨折線繞著骨幹旋轉，兩側皮質都完全斷裂。",
    "D": "本項不選。橫向骨折是垂直於骨長軸的完全斷裂，同樣不符合「一側斷、一側只是彎」的描述。",
    "summary": "小兒骨折三種特有型態：torus 是壓扁隆起、greenstick 是一側斷一側彎、塑形變形則完全沒斷。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "113070/302_33",
   "specialty_source": "cougarbot",
@@ -95410,7 +95815,10 @@
    "C": "本項不選。6～12 週太早，這段期間仍有相當比例的胚胎會自然流掉，縫了可能白縫。高齡本身也不是環紮的禁忌症。",
    "D": "正確。預防性環紮排在 12～16 週：早期流產的高峰過了，子宮頸也還沒開始變化。早期破水代表羊膜腔已經與陰道相通，這時候縫線等於把細菌關在子宮裡，是明確禁忌。同樣不能縫的還有活動性出血、子宮內感染與已進入產程。",
    "summary": "預防性環紮＝12–16 週動手；只要破水、感染、出血或已在產程，縫下去就是把細菌關進子宮。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95443,7 +95851,10 @@
    "C": "本項不選。唐氏症（Down syndrome）胎兒的腎上腺與胎盤功能較弱，母血非結合型 estriol（uE3）偏低。這正是第二孕期四指標篩檢用來抓唐氏症的訊號之一。",
    "D": "正確。胎兒溶血造成的成紅血細胞增多症會伴隨胎盤代償性肥大。合成雌激素的滋養細胞變多，母血雌激素反而往上走，不會下降。",
    "summary": "母體雌激素＝胎兒腎上腺供料 × 胎盤加工；原料斷了（死胎、缺酶、唐氏）就掉，胎盤變肥（溶血）反而升。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95481,7 +95892,10 @@
    "C": "本項敘述正確。分娩（parturition）分成四期，第 0 期就是靜止期。懷孕大半時間子宮被抑制住不收縮，這確實是整段分娩過程的起點。",
    "D": "本項敘述錯誤。活化期做的是產前準備：子宮肌層長出 gap junction 與 oxytocin receptor，子宮頸開始軟化。真正的臨床產程屬於下一期的刺激期（stimulation, phase 2）。",
    "summary": "分娩四期＝靜止(0)→活化(1)→刺激(2)→復舊(3)；臨床上的三個產程對應的是第 2 期，不是活化期。",
-   "guideline": "FC 醫學(六)第1上冊 p.126"
+   "guideline": "FC 醫學(六)第1上冊 p.126",
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95555,7 +95969,10 @@
    "C": "本項不選。減速期延長被歸在停滯型（arrest disorders）。它指的是子宮頸開到 9 公分後卡住不動，背後多半是胎頭下降受阻。",
    "D": "本項不選。潛伏期的異常在 Friedman 分類裡叫「延長（prolonged）」：初產婦超過 20 小時、經產婦超過 14 小時。潛伏期沒有固定的擴張速率可算，所以不用拖延來描述。",
    "summary": "拖延＝開得太慢但還在開，停滯＝完全不動；潛伏期只有「延長」，速率不足只講活動期。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -95593,7 +96010,10 @@
    "C": "本項不選。反覆性晚期減速要在基線變異度消失的前提下才算第三類。題目問的是屬不屬於第三類，這項確實列在裡面。",
    "D": "本項不選。反覆性變異性減速同樣要合併變異度消失才升級為第三類。它代表臍帶受壓已經久到胎兒代償不了。",
    "summary": "Category III 的鑰匙是「變異度消失」再配晚期／變異性減速或心搏過緩，外加自成一格的正弦波；變異度變大反而不算。",
-   "guideline": "FC 醫學(六)第1上冊 p.143"
+   "guideline": "FC 醫學(六)第1上冊 p.143",
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -96131,7 +96551,10 @@
    "C": "本項不選。這是很經典的迷思。停經前肌瘤長得快並不代表惡性，子宮肉瘤的機率仍然只有千分之一上下。真正的警訊是停經後才長大。",
    "D": "正確。肌壁間肌瘤如果沒有壓迫到子宮腔，切除它並不會提高受孕率，反而留下子宮壁的疤痕與日後懷孕子宮破裂的風險。真正該處理的是黏膜下肌瘤，因為它直接影響胚胎著床。",
    "summary": "會影響懷孕的是黏膜下肌瘤；肌壁間肌瘤沒有壓到子宮腔就別為了求子開刀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -97079,7 +97502,10 @@
    "C": "正確。腹部 X 光在骨盆腔中央可見一團爆米花樣的鈣化，經陰道超音波則在子宮前壁看到界線清楚的低回音腫塊並有後方聲影。這兩個影像合起來就是鈣化的子宮肌瘤——肌瘤長期缺血變性後會出現營養性鈣化，在停經後的女性特別常見。",
    "D": "本項不選。子宮內膜癌的表現是內膜增厚與異常出血，不會形成鈣化團塊。",
    "summary": "骨盆腔的爆米花樣鈣化＋子宮壁低回音伴後方聲影＝鈣化的子宮肌瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "113070/302_44",
   "specialty_source": "cougarbot",
@@ -98750,7 +99176,10 @@
    "C": "本項不選。CAR-T 細胞可以設計成針對 CD19，用於復發或頑固且帶 CD19 的急性淋巴芽細胞白血病。",
    "D": "本項不選。嵌合抗原受體（chimeric antigen receptor, CAR）T 細胞的重要急性毒性就是細胞激素釋放症候群（CRS），會發燒、低血壓，也可能伴隨神智不清這類神經毒性。",
    "summary": "B 細胞急性淋巴芽細胞白血病的三支免疫藥分抗原記：inotuzumab 打 CD22，blinatumomab 與 CAR-T 打 CD19。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "114020/302_0103",
   "specialty_source": "cougarbot",
@@ -100157,7 +100586,10 @@
    "C": "本項應選。母乳黃疸可使非結合型膽紅素延長，但一般不應直接假定可到 6 個月；持續或顯著黃疸仍須排除膽汁鬱積、溶血等病因。",
    "D": "本項不選。母乳嬰兒前幾個月大便可偏稀、次數多，若精神、體重與尿量正常，不等於腹瀉。",
    "summary": "母乳便稀不等於拉肚子；但黃疸不能因喝母乳就一路放著，先分清非結合型與病理性黃疸。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100192,7 +100624,10 @@
    "C": "本項不選。若有腹膜炎、腸穿孔或持續惡化，應及早會診小兒外科評估手術。",
    "D": "本項應選。腹部 X 光可見腸圈普遍擴張，腸壁上出現細碎的氣體影，也就是腸壁積氣，這是壞死性腸炎的診斷性徵象。這時絕對不能做上消化道攝影：灌顯影劑會增加穿孔風險又延誤處置，正確做法是禁食、放鼻胃管減壓、廣效抗生素與連續腹部 X 光追蹤有無游離氣體。",
    "summary": "早產兒餵食後腹脹、膽汁吐、血便先當 NEC：NPO、減壓、抗生素、補液與外科評估，不做上消化道攝影。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100261,7 +100696,10 @@
    "C": "本項不選。長期 parenteral nutrition 會使膽汁流動下降，造成 PN-associated cholestasis。",
    "D": "本項應選。Gilbert syndrome 是輕度非結合型高膽紅素血症，不會造成 pale stool 或 conjugated bilirubin 5.6 mg/dL。",
    "summary": "淡便加直接膽紅素高是 cholestasis，不是 Gilbert；膽道閉鎖、新生兒肝炎與長期 TPN 都要想。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-jaundice"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100327,7 +100765,10 @@
    "C": "本項應選。插管不是因為怕肺壓就一律避免；嚴重缺氧、呼吸衰竭或需安全轉送時仍要依病況建立氣道。",
    "D": "本項不選。arterial switch operation 是 d-TGA 的根治手術，通常需在新生兒早期完成。",
    "summary": "d-TGA 先求混合：PGE1 開 PDA、必要時做 atrial septostomy；插管依呼吸狀況決定，不能一概禁用。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ductal-dependent-chd"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100698,7 +101139,10 @@
    "C": "本項不選。Protein C 與 Protein S 在新生兒較低，是生理性發展差異，不代表必有血栓病。",
    "D": "本項不選。新生兒血小板數量通常正常，但功能與反應性並不比學齡兒童佳。",
    "summary": "新生兒不是縮小版成人：Hb/MCV 起初較高，凝血與 Protein C/S 較低，factor VIII 相對接近成人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100731,7 +101175,10 @@
    "C": "本項不選。普及 HBV 疫苗可降低慢性 HBV 與後續肝細胞癌，兒童肝細胞癌發生率也隨之下降。",
    "D": "本項不選。青少年相對較常見骨癌、Hodgkin lymphoma、性腺生殖細胞腫瘤與部分上皮癌。",
    "summary": "兒癌多半是散發，不是遺傳病的必然結果；兒童最常見仍是白血病，年紀大後骨癌與 Hodgkin 變多。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -100766,7 +101213,10 @@
    "C": "本項不選。infectious mononucleosis 可見 atypical lymphocytes，但不會在骨髓形成神經性 rosette。",
    "D": "本項不選。Gaucher disease 會見到皺紙狀細胞質的 Gaucher cells，並非 rosette formation。",
    "summary": "骨髓的 Homer Wright rosettes 要連到神經母細胞瘤：小圓細胞圍著 neuropil，不是 ALL 或 Gaucher。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "114020/302_0104",
   "specialty_source": "cougarbot",
@@ -103288,7 +103738,10 @@
    "C": "正確。這一節的椎管特別寬，骨折後椎弓向兩側裂開反而讓空間變大，所以很少壓到脊髓。多數穩定型可用硬式頸圈或 halo 背心外固定治療，這與它名字聽起來的可怕程度剛好相反。",
    "D": "本項不選。嚴重時脫位發生在第二與第三頸椎之間，不是第一與第二之間。",
    "summary": "Hangman 骨折是 C2 椎弓斷裂＋C2-C3 脫位；椎管寬所以神經多半沒事，穩定型戴頸圈就好。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -103321,7 +103774,10 @@
    "C": "正確。單純暈眩沒有伴隨意識改變、局部神經學缺損或反覆嘔吐時，可以先觀察並衛教家屬留意變化。決定要不要照的常用工具是加拿大頭部電腦斷層規則，它看的是年齡 65 歲以上、格拉斯哥昏迷指數兩小時內沒回到 15、疑似顱骨凹陷或顱底骨折、兩次以上嘔吐這幾項。",
    "D": "本項不選。穿刺傷屬於開放性顱腦損傷，一定要影像評估深度、異物與顱內出血。",
    "summary": "頭部外傷要不要馬上照電腦斷層，看的是意識、局部神經缺損、反覆嘔吐與骨折徵象；單純暈眩可以先觀察。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104844,7 +105300,10 @@
    "C": "本項敘述正確。力量夠大時可以造成雙踝甚至三踝骨折，這時關節已不穩定，多需手術。",
    "D": "本項敘述正確。合併外旋力量時可能傷到脛腓韌帶聯合，這種高位踝扭傷恢復期長，不穩定時要用螺絲或紐扣固定。",
    "summary": "踝扭傷看方向：內翻傷外側（前距腓韌帶最先），外翻傷內側（三角韌帶）；別把兩邊接反。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -104913,7 +105372,10 @@
    "C": "正確。Q 角越大，股四頭肌把髕骨往外拉的分力越強，脫臼風險越高；Q 角小反而是保護因子。臨床上女性骨盆較寬、Q 角較大，這正是女性髕骨脫臼較多的解剖原因。",
    "D": "本項不選。髕骨活動度過大代表內側髕股韌帶等軟組織約束不足，容易脫位。",
    "summary": "髕骨脫臼的危險因子都指向同一件事——把髕骨往外拉或缺少阻擋：Q 角大、高位髕骨、滑車發育不良、韌帶鬆。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -105276,7 +105738,10 @@
    "C": "正確。原有尿道板（urethral plate）若品質可用應盡量保留，它保有血流與組織彈性，可作為多種尿道下裂修補的基礎。",
    "D": "本項敘述錯誤。包皮旋轉皮瓣在選定、特別是較複雜的病例仍可提供可用的尿道重建組織，不能一概說不是好方法。",
    "summary": "尿道下裂修補盡量保留健康 urethral plate；先矯正 chordee，失敗後也要讓組織充分癒合再重做。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -105486,7 +105951,10 @@
    "C": "本項最不恰當。精索靜脈曲張（varicocele）多是慢性站立後加重的沉重感，極少造成數小時內劇烈腫痛；本例更應考慮 torsion 或 epididymitis。",
    "D": "本項敘述正確。彩色都卜勒超音波可比較兩側血流、避免輻射，適合評估睪丸扭轉；但高度懷疑時不應為了檢查延誤探查。",
    "summary": "青少年急性陰囊痛，varicocele 最不像；absent cremasteric reflex 要優先把 torsion 當急症處理。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "114020/302_0105",
   "specialty_source": "cougarbot",
@@ -106654,7 +107122,10 @@
    "C": "本項不選。產程卡住要回頭查三個 P：宮縮力量、胎兒大小與胎位、產道空間。宮縮夠不夠可用子宮內壓力導管換算 Montevideo units。頭骨盆不對稱（cephalopelvic disproportion）也一定要排除。",
    "D": "本項不選。減痛分娩會減弱產婦的用力感覺與骨盆底肌張力，第二產程平均會拉長。這是已知的副作用，不代表產程本身有病理問題。",
    "summary": "潛伏期過長分兩條線：初產婦 20 小時、經產婦 14 小時；1.2 與 1.5 公分/小時講的是活動期遲緩，別互相張冠李戴。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106687,7 +107158,10 @@
    "C": "正確。現行定義以子宮頸開到 6 公分當作活動產程（active phase）的起點。過了這一點擴張速度才明顯加快，也才適用每小時的進展標準。",
    "D": "本項不選。等到 8 公分才算活動期會太晚。6 到 8 公分之間產程其實正在快速推進，這段時間出狀況必須算進產程異常裡。",
    "summary": "活動產程從 6 公分起算而不是 4 公分；6 公分以前開得慢是常態，別急著診斷產程遲滯。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106720,7 +107194,10 @@
    "C": "本項不選。外觀雖然嚇人，肌肉層的收縮功能多半還在。真正造成子宮收縮乏力（uterine atony）的是大量失血後的凝血異常，不是這片瘀血本身。",
    "D": "本項應選。這種子宮外觀本身不構成切除子宮的理由。只要按摩加子宮收縮劑後收縮得起來、血止得住，就該把子宮留下來。真的止不住血才走到切除那一步。",
    "summary": "開腹看到子宮一片藍紫瘀斑先想胎盤早期剝離；它是外觀變化不是切子宮的指標，收縮得起來就留著。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106753,7 +107230,10 @@
    "C": "本項不選。常規時機是 15 到 20 週，這時羊水量足夠、細胞培養成功率也高。太早做會增加破水與胎兒足部畸形的風險。台灣國健署對 34 歲以上孕婦提供羊膜穿刺補助，也是依這個週數安排。",
    "D": "本項不選。羊水可以送培養或核酸檢測，用來找子宮內感染的病原。也可以測 lecithin/sphingomyelin 比值評估胎兒肺部成熟度。",
    "summary": "羊膜穿刺的流產不是被針扎到胎兒，是破水與感染；15 到 20 週做，台灣 34 歲以上有國健署補助。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -106821,7 +107301,10 @@
    "C": "本項應選。臍帶繞頸在足月生產相當常見，大約每四到五個新生兒就會遇到一個。多數繞頸的胎兒仍可順利自然產，只有胎心監測持續異常才需要介入。",
    "D": "本項不選。前胎的子宮縱切（vertical hysterotomy）傷口落在收縮最強的子宮體。試產時子宮破裂風險高，所以列為排定剖腹的適應症。",
    "summary": "臍帶繞頸本身不是剖腹指徵，要看的是胎心監測；真正非剖不可的是前胎子宮縱切這種傷口位置。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -107028,7 +107511,10 @@
    "C": "本項不選。子宮肌瘤是子宮切除術最常見的適應症，這在各國統計都一致。",
    "D": "本項不選。黏膜下肌瘤突入子宮腔，最容易造成經血過多與著床失敗。",
    "summary": "肌瘤治療看目的：想生育做肌瘤切除、不生育且以出血為主可考慮內膜消融或子宮切除、栓塞則避開想懷孕的人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "114020/302_0106",
   "specialty_source": "cougarbot",
@@ -108386,7 +108872,10 @@
    "C": "本項不選。泌尿道血吸蟲感染，特別是 Schistosoma haematobium，與膀胱的**鱗狀上皮癌（squamous cell carcinoma, SCC）**相關——這和一般膀胱癌以泌尿上皮癌為主不同。",
    "D": "本項應選。器官配錯了：幽門螺旋桿菌對到的是胃腺癌與胃部 MALT 淋巴瘤，不是肺癌。",
    "summary": "三組感染性致癌配對：HPV–子宮頸、血吸蟲–膀胱鱗狀上皮癌、幽門桿菌–胃癌與 MALT 淋巴瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109676,7 +110165,10 @@
    "C": "本項不選。Burkitt 淋巴瘤的中樞神經（CNS）風險高，必須做中樞預防性治療。用足量的短期高強度處方時，超過一半的病人可以長期存活。",
    "D": "本項不選。蕈狀肉芽腫（mycosis fungoides）是原發性皮膚 T 細胞淋巴瘤，早期以斑塊與丘疹樣皮膚病灶為主。",
    "summary": "rituximab 認的是 CD20；CD10 是生發中心標記，兩個不能混。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109709,7 +110201,10 @@
    "C": "本項不選。HTLV-1 是成人 T 細胞白血病／淋巴瘤的病因性反轉錄病毒，在日本與台灣部分地區有地方流行性。",
    "D": "本項不選。胃部 MALT 淋巴瘤常由幽門螺旋桿菌的慢性抗原刺激驅動，早期可以靠**除菌治療**就讓腫瘤消退——這是感染性致癌最漂亮的例子。",
    "summary": "四組淋巴瘤感染配對：EBV 配 Burkitt 與 NK/T、HTLV-1 配成人 T 細胞白血病、幽門桿菌配胃 MALT。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109744,7 +110239,10 @@
    "C": "本項不選。類白血病反應是反應性的嗜中性球增多，會有感染或發炎的病因、細胞帶毒性變化，而且**不會有嗜鹼性球增多**，也驗不到 BCR-ABL1。",
    "D": "本項不選。急性骨髓性白血病是芽細胞大量增加、正常造血被壓制，不會看到這種完整的骨髓系成熟光譜。而且這位病人血紅素 14.5 g/dL 是正常的。",
    "summary": "分辨慢性骨髓性白血病與類白血病反應看兩件事：有沒有完整成熟系列、有沒有嗜鹼性球增多。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -109845,7 +110343,10 @@
    "C": "本項不選。異體移植成功的定義就是骨髓造血由捐贈者細胞重建，所以骨髓的 DNA 會顯示捐贈者。",
    "D": "本項不選。白血球本身就是造血來源的細胞，移植後屬於捐贈者，代表不了病人原本的血緣。",
    "summary": "移植後「血是別人的、身體還是自己的」：血液、骨髓、白血球都換人了，鑑定要取非造血組織。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "114070/302_0101",
   "specialty_source": "cougarbot",
@@ -111253,7 +111754,10 @@
    "C": "本項不選。G6PD deficiency 發作時因氧化壓力溶血，問題是膽紅素來源增加。",
    "D": "本項敘述正確。Gilbert disease 的 UGT1A1 活性較低，肝細胞 conjugation 變慢，因此是 decreased hepatic bilirubin clearance。",
    "summary": "間接膽紅素高先分兩路：溶血是「生太多」，Gilbert 是 UGT1A1「清得慢」。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-jaundice"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111286,7 +111790,10 @@
    "C": "本項應選。PGE1 是用來維持 ductus 開放，會讓 PDA 更持續；促進關閉通常用 indomethacin、ibuprofen 或 acetaminophen。",
    "D": "本項不選。PDA ligation 後可能因前負荷突然下降與後負荷上升出現 post-ligation cardiac syndrome，早期須密切監測血壓。",
    "summary": "PDA 要關不是給 PGE1；PGE1 是救 ductal-dependent heart disease，NSAID 才是促導管關閉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111355,7 +111862,10 @@
    "C": "本項不選。TOF 的射出性收縮期雜音主要來自右心室流出道與肺動脈狹窄，不是 VSD 本身。",
    "D": "本項不選。ASD 的雜音是右心室流量增加後穿過肺動脈瓣所致，另有 fixed split S2；不是血流直接穿過 ASD 的聲音。",
    "summary": "聽到連續性雜音先想 PDA；TOF 的雜音看肺動脈狹窄，ASD 的雜音看肺血流增加。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acyanotic-shunt-lesions"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111421,7 +111931,10 @@
    "C": "本項敘述正確。圍生期感染因新生兒免疫清除能力未成熟，約九成會變成慢性 HBV 感染。",
    "D": "本項不選。成人感染多數可自行清除，慢性化約 5% 左右，不是 50%。",
    "summary": "HBV 慢性化看感染年齡：新生兒約九成會慢性化，成人反而多能清除。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -111763,7 +112276,10 @@
    "C": "本項敘述正確。青少年男性若有 mediastinal mass 與 peripheral blasts，要想到 T-cell ALL，因其常起源於胸腺。",
    "D": "本項不選。tumor lysis syndrome 會釋出 phosphate，典型是高尿酸、高血鉀與高血磷，低鈣才常見。",
    "summary": "青少年男孩的 mediastinal mass 加 lymphoblasts 是 T-ALL 線索；TLS 的磷是高不是低。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "114070/302_0102",
   "specialty_source": "cougarbot",
@@ -115931,7 +116447,10 @@
    "C": "本項敘述正確。男性尿道長且固定在泌尿生殖膈上，骨盆骨折時受傷機率明顯高於女性。",
    "D": "本項敘述正確。尿道口有血代表可能有尿道斷裂，先做逆行性尿道攝影再決定能不能放導尿管。",
    "summary": "骨盆骨折的三個附帶傷害：腰薦神經根（預後差）、男性尿道、後腹腔大出血。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -115964,7 +116483,10 @@
    "C": "本項敘述正確。飲食失調、停經與骨質疏鬆合稱女性運動員三聯症，是壓力性骨折的重要背景因素。",
    "D": "本項應選。大多數壓力性骨折靠休息、調整訓練量與矯正危險因子就會癒合。只有高風險部位（股骨頸張力側、舟狀骨、第五蹠骨基部）或已經完全骨折時才考慮手術固定。",
    "summary": "壓力性骨折先減量休息就好；只有股骨頸、舟狀骨、第五蹠骨這些血流差的位置才要開刀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -116433,7 +116955,10 @@
    "C": "本項不選。內側副韌帶附著在脛骨內側，受傷來自外翻力量，影像上不會表現為髁間隆突骨折。",
    "D": "本項不選。髕韌帶撕脫發生在脛骨粗隆，位置在髁間隆突的前下方，臨床上表現為無法主動伸直膝關節。",
    "summary": "脛骨髁間隆突撕脫＝前十字韌帶的骨性版本，處理骨塊就等於處理韌帶。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -116567,7 +117092,10 @@
    "C": "本項敘述正確。這句話本身符合常用的方向記憶：左側多順時鐘、右側多逆時鐘，但臨床不應靠方向延誤處置。",
    "D": "本項應選。高度懷疑扭轉時應立即手術探查；需要影像時選彩色都卜勒超音波，MRI 太慢且不適合急診決策。",
    "summary": "Torsion 是以小時計的急症：六小時內最有利，必要檢查是 Doppler ultrasound，不是 MRI。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "114070/302_0103",
   "specialty_source": "cougarbot",
@@ -117785,7 +118313,10 @@
    "C": "正確。無反應性時第一步是延長觀察到 40 分鐘，因為胎兒睡眠週期大約 20 到 40 分鐘，很多所謂的無反應只是睡著了。必要時可用聲音刺激喚醒，仍無反應才做生物物理評估或催產素壓力測試。",
    "D": "本項不選。早期減速反映的是胎頭受壓迫，屬於良性變化；真正緊急的是反覆的晚期減速或變異性減速。",
    "summary": "無壓力測試看「20 分鐘內兩次加速」；不反應先想胎兒在睡覺，延長到 40 分鐘再判讀。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117890,7 +118421,10 @@
    "C": "本項敘述正確。oxytocin 的半衰期只有三到五分鐘，出現子宮過度刺激時停藥就能快速緩解，這是它相對安全的原因。",
    "D": "本項應選。有效宮縮的門檻是十分鐘內累積超過 200 個 Montevideo 單位，150 還不夠。這個數字在判斷「產程遲滯是因為宮縮不足還是真的難產」時是關鍵——宮縮已達 200 單位以上還沒進展，才考慮剖腹產。",
    "summary": "催生看 Montevideo 單位：>200 才算有效宮縮；沒到就先加強宮縮，不要急著判定難產。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -117995,7 +118529,10 @@
    "C": "本項不選。胎兒持續長大造成巨嬰，肩難產的風險跟著上升。",
    "D": "本項不選。子宮過度撐大與產程延長都會增加產後子宮收縮不良、出血的風險。",
    "summary": "過期妊娠的核心是胎盤老化：羊水變少、胎便染色、巨嬰與肩難產、產後出血。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118134,7 +118671,10 @@
    "C": "本項不選。女性患者因為缺乏性腺刺激素而沒有青春期發育，典型表現就是原發性無月經。",
    "D": "本項應選。它屬於「低促性腺素性腺功能低下」：問題出在下視丘做不出促性腺激素釋放激素，所以濾泡刺激素與雌二醇「兩個都低」。濾泡刺激素高而雌二醇低的是卵巢本身衰竭，例如 Turner 症候群或早發性卵巢功能不全，兩者剛好是相反的荷爾蒙型態。",
    "summary": "無月經先看促性腺激素：都低是中樞問題（Kallmann），FSH 高而 E2 低是卵巢壞掉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118304,7 +118844,10 @@
    "C": "正確。圖中右側附屬器有一顆約九公分的腫塊，內部回音不均並可見明顯的強回音區合併後方聲影，這是成熟囊性畸胎瘤的典型表現——強回音來自其中的脂肪、毛髮與鈣化。它是年輕女性最常見的卵巢腫瘤，因為含脂肪比重輕，扭轉風險比其他囊腫高，超過五公分多建議手術。",
    "D": "本項不選。功能性囊腫是薄壁、無回音的單純囊腫，內部乾淨，不會有實質成分。",
    "summary": "卵巢腫塊超音波看內部：無回音是單純囊腫、毛玻璃是巧克力囊腫、強回音加聲影就是畸胎瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118511,7 +119054,10 @@
    "C": "本項不選。注射日雌二醇超過 3,000 到 3,500 pg/mL 是公認的警戒值，這時要考慮改用促性腺素釋放素促效劑觸發或全胚冷凍。",
    "D": "本項不選。取卵數超過二十顆代表被刺激起來的濾泡太多，是高風險指標。",
    "summary": "卵巢過度刺激的三個警訊：多囊性卵巢、雌二醇 >3,000 pg/mL、取卵 >20 顆；卵巢庫存低反而不是。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118577,7 +119123,10 @@
    "C": "本項不選。荷爾蒙療法能維持骨密度、減少骨折，是好處不是風險。",
    "D": "本項不選。它對失智症的影響仍有爭議，在停經早期使用並沒有證實會增加阿茲海默症。",
    "summary": "荷爾蒙療法要講的三個風險：靜脈血栓、中風、長期併用黃體素的乳癌；骨鬆與大腸癌反而是好處。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -118787,7 +119336,10 @@
    "C": "本項應選。剛發生又還沒固定的骨折處不能做電刺激——肌肉收縮會讓骨折端移位。骨折要用的是骨生長刺激器那類特定設備，而且必須在固定之後。",
    "D": "本項敘述正確。干擾波用兩組中頻電流交叉，電極要圍繞病灶擺放，讓兩組電流在深部交會產生治療用的低頻差頻。",
    "summary": "電療的禁忌記幾類：未固定的骨折、心律調節器、頸動脈竇、惡性腫瘤處、感覺喪失區與孕婦腹部。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "114070/302_0104",
   "specialty_source": "cougarbot",
@@ -120780,7 +121332,10 @@
    "C": "本項不選。原發性骨髓纖維化（primary myelofibrosis, PMF）同樣約一半到六成帶 JAK2 V617F，也看得到 CALR 與 MPL。",
    "D": "本項不選。慢性嗜中性球白血病（chronic neutrophilic leukemia, CNL）的代表驅動基因是 CSF3R，不是高比例的 JAK2 V617F。",
    "summary": "JAK2 突變比例分三級：真性紅血球增多症＞90%（幾乎人人有）、血小板增多症與骨髓纖維化約一半。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "leukemia-mpn-genetics"
+   ]
   },
   "source": "115020/302_0103",
   "specialty_source": "cougarbot",
@@ -122245,7 +122800,10 @@
    "C": "本項敘述正確。真空吸引後頭圍快速增加、蒼白、心搏過速與低血壓是 subgaleal hemorrhage，血液可在 galea aponeurotica 與 periosteum 間廣泛累積。圖上位置③是帽狀腱膜與骨膜之間的帽狀腱膜下腔。它是唯一「不受骨縫限制」的潛在腔隙，往前可到眼眶、往後到頸部，容量足以裝下新生兒的整個血容量，所以真空吸引後的帽狀腱膜下出血會造成頭圍快速增加與失血性休克。相對地，骨膜下的頭血腫被骨縫擋住，很少造成休克。",
    "D": "本項不選。圖中位置④在骨膜（periosteum）**下方**、緊貼顱骨，是頭血腫（cephalohematoma）。骨膜附著在骨縫上，所以這種出血絕對跨不過骨縫，範圍被鎖死在單一顱骨上，很少造成休克——這正是它和帽狀腱膜下出血最重要的差別。",
    "summary": "真空吸引後頭圍還在變大又休克，先救命地想到 subgaleal hemorrhage：它能藏下大量血液。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "newborn-exam-routine-care"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122865,7 +123423,10 @@
    "C": "本項不選。Wilms tumor 常以腹部腫塊與血尿表現；部分病例可有 acquired von Willebrand syndrome 而見 aPTT 延長。",
    "D": "本項不選。pheochromocytoma 的 catecholamine bursts 可造成陣發高血壓、心悸、蒼白與冒汗，尿液 metanephrine 升高是重要線索。",
    "summary": "腫瘤配對要看解剖位置：松果體瘤先想 Parinaud 或水腦，不是尿崩、乳溢與甲亢的拼盤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "pediatric-solid-tumors"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -122898,7 +123459,10 @@
    "C": "本項不選。左側橫膈膜疝氣常有左側呼吸音下降、腹部凹陷與腸音入胸，題幹明確不是這個組合。",
    "D": "本項不選。病毒性細支氣管炎需要先有感染前驅症狀，且在出生一小時就發作非常不合理。",
    "summary": "新生兒突然一側呼吸音變弱又發紺，先想 pneumothorax；左側疝氣才會配凹陷腹部。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -124700,7 +125264,10 @@
    "C": "本項不選。胃食道逆流的嘔吐不含膽汁，也不會造成十二指腸走向異常，出生第二天就不止的嘔吐更不能歸給它。",
    "D": "本項不選。空腸閉鎖在腹部 X 光上是幾個擴張的腸圈加上遠端完全無氣（triple bubble），顯影劑不會通過阻塞處往下走。",
    "summary": "新生兒吐膽汁＝先排除腸旋轉不良合併扭轉；上消化道攝影看十二指腸空腸交界有沒有跨到左側。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-gi-obstruction-nec"
+   ]
   },
   "source": "115020/302_0104",
   "specialty_source": "cougarbot",
@@ -124940,7 +125507,10 @@
    "C": "本項不選。小孩的肋廓還沒發育完全，肝脾相對更暴露在外，所以腹部鈍傷時實質器官受傷比例比成人高。",
    "D": "本項不選。小兒脾臟破裂的非手術治療成功率比成人高，這也是現在小兒外傷盡量保脾的原因。",
    "summary": "小兒外傷三個特點：頭皮出血就會休克、肋骨不斷但肺會挫傷、實質器官保守治療反而更容易成功。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -126275,7 +126845,10 @@
    "C": "本項敘述正確。非精細胞腫瘤包括胚胎癌、卵黃囊瘤、絨毛膜癌與畸胎瘤，臨床常為混合型。",
    "D": "本項最不適當。睪丸的惡性生殖細胞瘤主要發生於男性；女性卵巢也可有 germ cell tumor，但不能說非精細胞型多發生於女性。",
    "summary": "睪丸 germ cell tumor：seminoma 對放射線敏感；nonseminoma 多靠化療，且不是以女性為主。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -126616,7 +127189,10 @@
    "C": "不正確。確診後通常安排及早修補，以避免嵌頓與腸缺血；不需要等到三歲或 10 kg，嬰兒反而是嵌頓風險較高的一群。",
    "D": "正確。精索內的輸精管與睪丸血管細小且緊鄰鞘突，分離與高位結紮時可能受傷；術中未必立刻顯現，日後才可能表現為睪丸萎縮或輸精管阻塞。",
    "summary": "兒童疝氣修的是鞘突，不補網膜；手術最要小心貼著鞘突走的輸精管與睪丸血管。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -126822,7 +127398,10 @@
    "C": "本項不選。切片路徑要限制在單一腔室內，穿越腔室間的筋膜平面會把腫瘤細胞帶到原本乾淨的腔室，讓分期升級。",
    "D": "本項不選。病史不明的病理性骨折要先做全身檢查與分期，再決定處置。貿然打髓內釘會把腫瘤細胞散布到整根骨髓腔，原本可能保肢的病人因此得截肢。",
    "summary": "骨腫瘤切片四原則：縱向切口、不穿腔室、同時送培養、分期沒做完不要先固定。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fracture-principles-pediatric"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -126926,7 +127505,10 @@
    "C": "本項不選。拳擊手骨折是第五掌骨頸骨折，發生在手掌。",
    "D": "正確。片子上尺骨近端骨折，同時橈骨頭沒有對準肱骨小頭而向前脫位，這就是 Monteggia 骨折。看前臂骨折片有個必做動作：不論哪一根斷，都要確認上下兩端的關節有沒有脫位——橈骨頭在任何角度都應該對準肱骨小頭。",
    "summary": "前臂骨折要一起看關節：尺骨斷＋橈骨頭脫位是 Monteggia，橈骨斷＋遠端橈尺關節脫位是 Galeazzi。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "upper-limb-fractures-eponyms"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -126992,7 +127574,10 @@
    "C": "本項敘述正確。Bankart 病灶是前下方關節唇撕裂，是復發的解剖基礎；肱骨頭後上方的凹陷則是 Hill-Sachs 病灶。",
    "D": "本項應選。年輕人反而最容易復發，二十歲以下運動員的復發率可達七到九成，所以第一次脫臼後就要認真討論手術修補關節唇。年紀越大復發率越低，這與大家的直覺相反。",
    "summary": "肩前脫臼的復發率與年齡成反比：越年輕越會再脫，二十歲以下可達 70–90%，該早點修補。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "115020/302_0105",
   "specialty_source": "cougarbot",
@@ -128711,7 +129296,10 @@
    "C": "本項不選。橫位破水後子宮下段收縮、胎兒難以轉位，縱切能提供足夠空間取出胎兒。",
    "D": "本項應選。單純有子宮肌瘤手術病史並不構成縱切的理由，除非這次剖腹產遇到前面那些解剖上的困難。縱切的代價很高：日後子宮破裂風險約 4% 到 9%，而且從此不能嘗試自然產。",
    "summary": "縱向子宮切開是留給「下段進不去」的情況：巨大肌瘤、前壁前置胎盤、橫位破水、極早產下段未形成。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -128746,7 +129334,10 @@
    "C": "本項不選。手進入陰道從後肩的背側推動、讓胎兒肩膀斜過骨盆的最寬徑，是標準的旋轉手法之一（Rubin 或 Woods 手法），旋轉方向依胎兒面向而定。",
    "D": "本項應選。旋轉式手法並沒有比其他方法更有效。處理肩難產的順序是先做不侵入的 McRoberts 加恥骨上加壓，無效才進入陰道做旋轉或取出後臂；而且「絕對不能做」的是持續往下拉胎頭與壓宮底，那會加重臂神經叢損傷。",
    "summary": "肩難產先做 McRoberts＋恥骨上加壓；旋轉與取後臂是第二線，壓宮底與硬拉胎頭是禁忌。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -128779,7 +129370,10 @@
    "C": "本項不選。胎兒在子宮內本來就會有規律的呼吸樣運動，那是肺部發育與神經成熟的表現，也是生物物理評估的計分項目之一。",
    "D": "正確。羊水在中後期主要來自胎兒尿液，胎盤功能不足時胎兒血流優先供應腦與心臟、腎臟灌流下降、尿量減少，羊水就變少。所以羊水過少要同時想到胎盤功能不足、胎兒泌尿道阻塞與破水。",
    "summary": "羊水量反映胎兒腎灌流：變少想胎盤功能差或泌尿道阻塞，變多想吞嚥障礙或母體糖尿病。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -128949,7 +129543,10 @@
    "C": "本項不選。前一胎新生兒罹患侵襲性乙型鏈球菌感染，是不必篩檢就直接投藥的明確適應症。",
    "D": "本項不選。沒有篩檢結果又出現破水超過 18 小時、早產或產中發燒等危險因子時，就依危險因子投藥。",
    "summary": "乙型鏈球菌投藥看三件事：本次篩檢陽性或菌尿症、前一胎新生兒感染、未篩檢但有危險因子；前次懷孕陽性不算。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129085,7 +129682,10 @@
    "C": "本項不選。肌瘤溶解術同樣是原地破壞組織，會在子宮壁留下壞死區與疤痕，影響懷孕安全。",
    "D": "本項不選。子宮動脈栓塞會減少子宮與卵巢的血流，可能影響卵巢功能與胎盤著床，想懷孕的人不建議。",
    "summary": "還想生就只有肌瘤切除術；栓塞、溶解、聚焦超音波都是留給不打算懷孕的人。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129118,7 +129718,10 @@
    "C": "本項不選。同樣誤把漿液性納入。",
    "D": "本項不選。黏液性卵巢癌與子宮內膜異位症沒有這層關聯，反而要注意是不是腸胃道來源的轉移。",
    "summary": "巧克力囊腫會轉的是子宮內膜樣與亮細胞癌；漿液性癌來自輸卵管，不在這條路上。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129151,7 +129754,10 @@
    "C": "本項應選。Swyer 症候群的核型是 46,XY，因為 SRY 基因缺陷讓性腺無法發育成睪丸，做不出抗穆勒氏管荷爾蒙與睪固酮，所以長出子宮輸卵管與女性外生殖器。核型是 46,XX 的是另一種疾病。",
    "D": "本項不選。給予雌激素可以促成青春期發育並保護骨密度，而且因為子宮存在，這類病人可以接受捐卵懷孕。",
    "summary": "Swyer 症候群＝46,XY 但性腺沒發育：有子宮、身高正常、性腺要切除（有腫瘤風險），靠雌激素治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129252,7 +129858,10 @@
    "C": "本項不選。卵巢畸胎瘤長在附屬器不在子宮腔，影像特徵是強回音伴聲影。",
    "D": "正確。經陰道超音波在子宮內膜腔內看到一顆界線清楚的高回音病灶（箭號所指），周圍內膜線仍可辨識，這是子宮內膜息肉的典型表現。它的臨床型態也吻合：經期拖長與間斷性出血，但沒有經血過多或壓迫症狀。確診與治療靠子宮鏡下切除。",
    "summary": "經期拖長＋間斷出血＋內膜腔內高回音小病灶＝子宮內膜息肉，用子宮鏡切掉就能同時診斷與治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129486,7 +130095,10 @@
    "C": "本項應選。比例反過來了。約九成的病人找不到明確原因，被歸為特發性；只有一成左右能找到病因。這個事實在門診很重要——要告訴病人「查不出原因」是常態，不代表檢查做得不夠。",
    "D": "本項敘述正確。帶有 FMR1 前突變的女性發生早發性卵巢功能不全的機率約百分之十三到二十六，所以診斷後要做這項基因檢測，也關係到家族中生育脆折 X 症候群孩子的風險。",
    "summary": "早發性卵巢功能不全九成找不到原因；但一定要驗 FMR1 前突變與染色體，因為那牽涉家族生育風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -129849,7 +130461,10 @@
    "C": "正確。骨質疏鬆造成的壓迫性骨折多侷限在前柱，中後柱完整，屬於穩定型骨折，通常保守治療（止痛、背架、早期活動與抗骨鬆藥物）即可。要動到手術是因為神經壓迫、後柱受損或保守治療無效的持續疼痛。",
    "D": "本項不選。約三分之二的椎體壓迫性骨折是無症狀的，常在照 X 光時意外發現，這也是骨鬆篩檢重要的原因。",
    "summary": "骨鬆性壓迫性骨折多是前柱、穩定、保守治療；三分之二沒有症狀，發現時要順便啟動抗骨鬆治療。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -130158,7 +130773,10 @@
    "C": "本項不選。子宮頸癌是軟組織腫瘤，腹部 X 光無法顯示，診斷靠內診、切片與磁振造影。",
    "D": "本項不選。卵巢癌在 X 光上多半只表現為腹水造成的密度增加，除非是含牙齒鈣化的畸胎瘤，否則不會有這種鈣化團。",
    "summary": "腹部 X 光在骨盆腔看到爆米花樣鈣化＝鈣化子宮肌瘤；看到牙齒狀鈣化才想畸胎瘤。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "115020/302_0106",
   "specialty_source": "cougarbot",
@@ -131733,7 +132351,10 @@
    "C": "本項官方也給分。t(11;18) 確實是 MALT lymphoma 的重要變異，但形成的融合蛋白是 **API2-MALT1**，題目寫成 API1。這個變異的臨床意義很實際：帶有它的病人**對除菌治療反應差**，要直接考慮放療或全身治療。",
    "D": "本項不選。胃 DLBCL 可以是原發，也可以由 MALT lymphoma 轉化而來。原發型多帶 germinal center 表型（BCL-2、CD10 陽性），轉化型則常保留原本 MALT 的分子特徵。",
    "summary": "胃 MALT lymphoma 先除菌；但帶 t(11;18)（API2-MALT1）的除菌無效，要直接走放療或化療。",
-   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分"
+   "guideline": "官方更正：本題答 B 或 C 或 BC 均給分",
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -131766,7 +132387,10 @@
    "C": "本項應選。病毒配錯了：成人 T 細胞白血病／淋巴瘤的致病病毒是 **HTLV-1**，不是 HIV。HIV 是透過造成免疫缺陷，間接提高卡波西氏肉瘤與非何杰金氏淋巴瘤的風險。",
    "D": "本項不選。氯乙烯暴露的經典配對就是肝臟的血管肉瘤（angiosarcoma），這是職業醫學的代表案例。",
    "summary": "兩個 HTLV 與 HIV 常被混：HTLV-1 直接造成成人 T 細胞白血病；HIV 是靠免疫缺陷間接提高癌症風險。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "lymphoma-hodgkin-nhl"
+   ]
   },
   "source": "115070/302_0101",
   "specialty_source": "cougarbot",
@@ -133356,7 +133980,10 @@
    "C": "正確。胎兒在壓力下釋出大量兒茶酚胺，可以暫時撐住心跳與肌張力，讓 Apgar 分數看起來還可以，實際上組織已經缺氧、臍動脈血氣是酸的。這就是偽陰性——分數漂亮卻掩蓋了窒息，所以評估新生兒窒息不能只看 Apgar，要搭配臍帶血氣。",
    "D": "本項不選。早產兒因為神經肌肉未成熟，分數本來就偏低，是典型的偽陽性。",
    "summary": "Apgar 分數會騙人：早產、鎂離子、肌肉病變讓分數假低；兒茶酚胺高則讓窒息的孩子分數假高。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -133424,7 +134051,10 @@
    "C": "本項敘述正確。有效正壓換氣 30 秒後心跳仍低於每分鐘 60 下才開始胸部按壓，而在按壓前建議先建立確實的氣道（氣管內管或喉罩）以確保通氣有效。",
    "D": "本項敘述正確。新生兒的按壓與換氣比是 3：1，每分鐘約 90 次按壓加 30 次換氣，與兒童及成人的比例不同。",
    "summary": "新生兒復甦的核心是「先讓他呼吸」：走 ABC、比例 3：1、血氧看右上肢。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "neonatal-respiratory-distress-resuscitation"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -133623,7 +134253,10 @@
    "C": "本項敘述正確。肝切片看到膽管增生合併膽栓與門脈區纖維化，是與新生兒肝炎鑑別的關鍵。",
    "D": "本項敘述正確。葛西手術越早做效果越好，六十天內完成的膽汁引流成功率最高，超過九十天成功率明顯下降。",
    "summary": "膽道閉鎖在東亞比較多；看到灰白便就要衝，六十天內完成葛西手術是黃金線。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "biliary-atresia"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -134028,7 +134661,10 @@
    "C": "本項不選。母親在哺乳期間補充維生素 D 會提高乳汁中的含量，是保護因子而不是危險因子。",
    "D": "本項不選。皮膚白皙的人黑色素少，同樣日照下合成維生素 D 的效率反而較高；深色皮膚才是危險因子。",
    "summary": "維生素 D 缺乏的危險因子＝晒不到太陽或補充不足：高緯度冬季、深色皮膚、全身包覆、純母乳未補充。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "perinatal-infections-breastfeeding-vaccines"
+   ]
   },
   "source": "115070/302_0102",
   "specialty_source": "cougarbot",
@@ -137494,7 +138130,10 @@
    "C": "C 是本題要選的。睪丸生殖細胞腫瘤追蹤主要用 AFP、β-hCG 與 LDH；CEA 與 PSA 分別偏向腸胃道及攝護腺疾病，不能作為這個年齡層睪丸腫瘤的核心指標。",
    "D": "D 不是本題要選的，睪丸腫瘤必須先完成分期。超音波確認睪丸內病灶，腹部骨盆與胸部影像協助規劃後續治療。",
    "summary": "睪丸腫瘤指數背 AFP、β-hCG、LDH；看到 CEA 或 PSA 要立刻想到不是這題的標準組合。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -137565,7 +138204,10 @@
    "C": "不正確。單純遠端尿道下裂通常不需要 hormone studies 或 chromosome karyotyping；只有嚴重近端型合併隱睪或陰莖很小時，才要評估性別發育差異（DSD）。",
    "D": "不正確。手術目標是矯正 chordee、重建尿道與外觀，常以尿道板和局部皮瓣完成；不能把所有病例說成尿道海綿體完全缺失而必須重建。",
    "summary": "尿道下裂的外觀掛鉤是「腹側缺、背側帽」；只有近端嚴重型合併隱睪才要想 DSD 檢查。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -137805,7 +138447,10 @@
    "C": "本項應選。圖上標示 5 的那條線是髖臼前唇，髖臼頂是位置更高的編號 4。前唇與後唇這兩條線分別代表髖臼前壁與後壁，判讀髖關節後脫臼合併後壁骨折時，就是靠後唇線的中斷來發現。",
    "D": "本項不選。編號 6 的虛線確實是髖臼後唇邊緣，位置比前唇更外側也更向下延伸。",
    "summary": "髖關節正位六線：髂恥（前柱）、髂坐（後柱）、淚滴、髖臼頂、前唇、後唇——逐條看才不會漏掉骨折。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138175,7 +138820,10 @@
    "C": "本項敘述正確。提睪肌動脈由下淺腹動脈（inferior epigastric artery）發出，而下淺腹動脈是外髂動脈的分支。這一項正好和 B 互相矛盾，兩者只能有一個對。",
    "D": "本項敘述正確。睪丸動脈直接從腹主動脈發出，位置在腎動脈稍下方，這是睪丸胚胎期從後腹腔下降留下的痕跡。",
    "summary": "睪丸區三套血流：主動脈→睪丸動脈、內髂→輸精管動脈、外髂→下淺腹→提睪肌動脈；側枝多，所以高位結紮不會缺血。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "hypospadias-pediatric-inguinal-hernia"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138278,7 +138926,10 @@
    "C": "本項不選。外髂靜脈引流的是下肢與部分骨盆壁，睪丸的靜脈血不走這條路。",
    "D": "本項不選。下腹壁靜脈引流前腹壁，只在腹股溝區與陰囊表淺靜脈有側枝，不是睪丸的主要回流。",
    "summary": "右睪丸靜脈直入 IVC、左睪丸靜脈進左腎靜脈；右側新發的精索靜脈曲張要回頭找後腹腔腫瘤壓迫。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "acute-scrotum-testicular-tumors"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -138452,7 +139103,10 @@
    "C": "本項不選。脾臟破裂多見於左側撞擊或左下肋骨骨折，與腰椎的 Chance 骨折沒有直接關聯。",
    "D": "正確。安全帶橫過下腹造成的帶狀瘀傷加上第一腰椎 Chance 骨折，是典型的安全帶症候群。機轉是煞車瞬間身體以安全帶為支點向前折，脊椎被牽張拉開，同時腹腔內固定在後腹壁的器官被壓在安全帶與脊椎之間。十二指腸正是這類「被夾在中間」的器官，小腸與腸繫膜撕裂也常一起出現。這些傷在初次電腦斷層上可能不明顯，要重複評估。",
    "summary": "安全帶瘀傷＋Chance 骨折＝腸道與十二指腸損傷，初次影像正常也不能放心，要重複評估。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "spine-pelvic-fractures"
+   ]
   },
   "source": "115070/302_0103",
   "specialty_source": "cougarbot",
@@ -139572,7 +140226,10 @@
    "C": "本項不選。過去有子宮外孕病史是「再發」的危險因子，不是這次藥物治療失敗的預測因子。",
    "D": "正確。治療前的 hCG 數值是最強的預測因子：超過 5000 mIU/mL 時單劑失敗率明顯上升，7500 更高。其他預測失敗的因素還有超音波看到胎兒心跳、腹腔積血，以及治療後第四到第七天 hCG 下降不到 15%。",
    "summary": "methotrexate 失敗最看治療前 hCG（>5000 風險高）；有胎心跳或腹腔積血也是壞兆頭。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "ectopic-pregnancy"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139605,7 +140262,10 @@
    "C": "本項應選。方向完全相反。子宮頸成熟時膠原纖維被分解、纖維束變細而彼此「分開」，間隙變大、含水量增加，整體才會變軟變鬆；若纖維排列更緊密，子宮頸只會更硬。",
    "D": "本項敘述正確。中性球與巨噬細胞浸潤釋出膠原酶與細胞激素，是子宮頸軟化的關鍵——所以子宮頸成熟被形容成一種發炎過程。",
    "summary": "子宮頸成熟＝膠原被拆散、含水增加、發炎細胞進駐；同時子宮肌層催產素受體大增。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "labor-course-abnormal-labor"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139638,7 +140298,10 @@
    "C": "本項不選。高齡產婦的成功率較低。",
    "D": "本項不選。超過 41 週胎兒較大、子宮頸條件常不理想，成功率下降。",
    "summary": "剖腹產後想自然產，最有利的是「自己發動產程」；催生、肥胖、高齡、過期都往下拉。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139671,7 +140334,10 @@
    "C": "本項不選。臂神經叢損傷是肩難產最典型的併發症，多為 Erb 麻痺，大部分會恢復但仍是醫療糾紛常見來源。",
    "D": "本項應選。產瘤是胎頭通過產道時軟組織受壓造成的水腫，任何陰道生產都可能出現，會自行消退，與肩難產沒有特別關聯。",
    "summary": "肩難產的新生兒併發症是「缺氧」與「臂神經叢損傷」；產瘤只是壓出來的頭皮水腫，人人都可能有。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "cesarean-tolac-shoulder-dystocia"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139704,7 +140370,10 @@
    "C": "本項不選。胎兒游離 DNA 比率低於 4% 時訊號不足，容易報告失敗或偽陰性；孕婦肥胖與週數太早都會壓低這個比率。",
    "D": "本項應選。母親年齡不影響檢驗準確度。年齡影響的是「事前機率」——高齡孕婦本身唐氏症風險高，陽性預測值因此上升，但那與檢驗本身準不準是兩回事。",
    "summary": "cfDNA 出錯的原因：胎盤鑲嵌、母親腫瘤或本身染色體異常、胎兒分率太低；年齡只影響事前機率。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "fetal-assessment-placental-hormones"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -139775,7 +140444,10 @@
    "C": "本項不選。前置血管的出血是破水當下的胎兒出血，母親不會痛，胎心音會急速惡化。",
    "D": "本項不選。子宮翻出發生在第三產程、胎盤娩出前後，不會出現在產前 32 週。",
    "summary": "痛且子宮硬＝胎盤早期剝離；不痛的出血＝前置胎盤，這是產前出血最快的分流。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140057,7 +140729,10 @@
    "C": "正確。深層浸潤性子宮內膜異位症的定義是病灶浸潤到腹膜下超過五毫米。它與一般表淺型的差別不只在深度：這一型與慢性骨盆痛、性交疼痛、排便疼痛高度相關，常侵犯子宮薦韌帶、直腸陰道隔與腸壁，手術難度也高得多。",
    "D": "本項不選。十毫米超過了通用的定義，會漏掉一大群確實需要積極處理的病人。",
    "summary": "深層浸潤性子宮內膜異位症＝腹膜下 5 mm 以上；它是慢性骨盆痛與性交痛的主要來源。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "endometriosis-adnexal-mass"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140190,7 +140865,10 @@
    "C": "本項不選。它與早期破水、早產有明確關聯，是孕期最需要處理的陰道感染之一。",
    "D": "本項應選。反覆流產的原因要往抗磷脂質症候群、子宮結構異常、染色體異常與內分泌問題找，細菌性陰道炎並不是公認的原因。",
    "summary": "細菌性陰道炎的併發症集中在「上行感染與早產」；反覆流產要找免疫、結構與染色體問題。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "preterm-prom-antepartum-bleeding"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140223,7 +140901,10 @@
    "C": "本項不選。術前用促性腺素釋放素促效劑只是暫時縮小肌瘤方便手術，並不會降低術後的復發率，反而可能讓肌瘤與正常肌肉層的界線變模糊、增加剝離難度。",
    "D": "本項不選。腹腔鏡手術後的復發率並沒有比開腹低，甚至因為觸診不到深部小肌瘤而容易遺漏。",
    "summary": "肌瘤與雌激素暴露成正比：懷孕過的人較少長；術前打針只是縮小方便開刀，不減少復發。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "uterine-fibroids"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -140460,7 +141141,10 @@
    "B": "正確答案。這句是錯的。肥胖不保證熱潮紅較輕；較高 BMI 常和更頻繁或更嚴重的血管動力症狀相關，脂肪的周邊 estrogen 轉換不能直接推論出症狀較少。",
    "C": "本項不選。全身性更年期荷爾蒙治療（menopausal hormone therapy）是治療中重度熱潮紅（hot flashes）最有效的方法，但仍要確認適應症、子宮狀態和乳癌／血栓等禁忌。",
    "D": "本項不選。保持涼爽、戒菸有助減少誘發因子；瑜伽和針灸證據較不一致，可當個別輔助，但不能取代有效的藥物治療。",
-   "summary": "肥胖女性的熱潮紅不一定較輕、反而常更嚴重；全身性荷爾蒙仍是無禁忌者最有效的治療。"
+   "summary": "肥胖女性的熱潮紅不一定較輕、反而常更嚴重；全身性荷爾蒙仍是無禁忌者最有效的治療。",
+   "concepts": [
+    "amenorrhea-ovarian-insufficiency-menopause"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
@@ -141075,7 +141759,10 @@
    "C": "本項不選。色素性絨毛結節性滑膜炎的表現是滑膜大量增生、含鐵血黃素沉積造成的低訊號，關節液呈咖啡色。",
    "D": "本項不選。骨肉瘤好發於青少年，影像會有骨破壞、骨膜反應與軟組織腫塊，與這位病人的年齡及影像不符。",
    "summary": "老年女性膝痛突然加劇＋內側股骨髁軟骨下病灶＝膝關節自發性骨壞死，本質多是不全骨折。",
-   "guideline": null
+   "guideline": null,
+   "concepts": [
+    "sports-injuries-dislocations"
+   ]
   },
   "source": "115070/302_0104",
   "specialty_source": "cougarbot",
