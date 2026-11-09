@@ -8,7 +8,7 @@ const ASSET_BASE='./';
 // 詳解裡有 95 處寫成 **粗體** 的 markdown（各科作者用來標重點），
 // 但渲染是純 escapeHtml，線上會原樣顯示成星號。先跳脫再把 ** 轉成 <strong>：
 // 順序很重要——escapeHtml 在前，所以資料裡的角括號永遠進不了 HTML。
-function mdBold(s){return escapeHtml(s).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>')}
+function mdBold(s){return escapeHtml(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}
 let conceptData=null,conceptPending=null;
 function loadConcepts(){if(conceptData)return Promise.resolve(conceptData);
  if(!conceptPending)conceptPending=fetch(`${ASSET_BASE}concepts.json`).then(r=>r.ok?r.json():{}).catch(()=>({})).then(j=>{conceptData=j;return j});
@@ -257,9 +257,10 @@ function renderCard(c){const en=c.en&&c.en!==c.zh?`<em>${escapeHtml(c.en)}</em>`
  body=c.body?`<p class="cbody">${mdBold(c.body)}</p>`:'',
  items=Array.isArray(c.items)&&c.items.length?`<ul class="citems">${c.items.map(i=>`<li>${mdBold(i)}</li>`).join('')}</ul>`:'',
  table=c.kind==='compare'&&Array.isArray(c.columns)&&Array.isArray(c.rows)?`<div class="ctable"><table><thead><tr>${c.columns.map(h=>`<th>${mdBold(h||'')}</th>`).join('')}</tr></thead><tbody>${c.rows.map(r=>`<tr>${r.map((cell,i)=>i?`<td data-col="${escapeHtml(c.columns[i]||'')}">${mdBold(cell)}</td>`:`<th scope="row">${mdBold(cell)}</th>`).join('')}</tr>`).join('')}</tbody></table></div>`:'',
+ secs=Array.isArray(c.sections)?c.sections.map(x=>`<section class="csec">${x.h?`<h4>${mdBold(x.h)}</h4>`:''}${x.p?String(x.p).split(String.fromCharCode(10)).map(t=>`<p>${mdBold(t)}</p>`).join(''):''}${x.table?`<div class="ctable"><table><thead><tr>${x.table.columns.map(h=>`<th>${mdBold(h)}</th>`).join('')}</tr></thead><tbody>${x.table.rows.map(r=>`<tr>${r.map((cell,i)=>i?`<td data-col="${escapeHtml(x.table.columns[i]||'')}">${mdBold(cell)}</td>`:`<th scope="row">${mdBold(cell)}</th>`).join('')}</tr>`).join('')}</tbody></table></div>`:''}${x.box?`<div class="cbox">${mdBold(x.box)}</div>`:''}</section>`).join(''):'',
  note=c.note?`<p class="cnote">${mdBold(c.note)}</p>`:'',
  src=c.source?`<p class="csrc">${escapeHtml(c.source)}</p>`:'';
- return`<article class="card k-${escapeHtml(c.kind||'definition')}"><h3>${escapeHtml(c.zh||'')} ${en}</h3>${body}${table}${items}${note}${src}</article>`}
+ return`<article class="card k-${escapeHtml(c.kind||'definition')}"><h3>${escapeHtml(c.zh||'')} ${en}</h3>${body}${table}${secs}${items}${note}${src}</article>`}
 // ── 概念卡瀏覽 ──────────────────────────────────────────────────────────
 // 272 張卡本來只有「答到那 567 題其中一題」才看得到，等於整份資產沒有入口。
 // 這個頁面把它們攤開來查，並且每張卡都能直接練它考過的那幾題。

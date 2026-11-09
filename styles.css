@@ -214,3 +214,10 @@ dialog{border:0;padding:0;background:transparent;color:var(--ink);max-width:min(
 .ndot.lv-red{background:var(--no)}
 .ndot.lv-yellow{background:var(--flag)}
 .ndot.lv-green{background:var(--ok)}
+
+/* 講義式概念卡（2026-11-09）：問句小標→成段講解→表→重點框 */
+.csec{margin-top:10px}
+.csec h4{margin:0 0 4px;font-size:13px;font-weight:800;color:var(--ink);padding-bottom:3px;border-bottom:1px solid var(--hair)}
+.csec p{margin:4px 0;font-size:12.5px;line-height:1.75;color:var(--ink2)}
+.csec .ctable thead th:first-child{background:var(--rule);border-color:var(--hair)}
+.cbox{margin:6px 0 2px;padding:7px 10px;border-left:3px solid var(--sig);background:var(--panel);font-size:12.5px;line-height:1.7;color:var(--ink2)}
