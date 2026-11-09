@@ -2225,11 +2225,11 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。rhinoviruses 是普通感冒（common cold）最常見病原，主要造成鼻塞、流鼻水、打噴嚏、喉嚨痛與咳嗽。",
-      "B": "本項不選。parainfluenza viruses 以兒童哮吼（croup）最具代表性，也可引起呼吸道感染，但不是普通感冒最常見病原。",
-      "C": "本項不選。coxsackievirus A 較常與疱疹性咽峽炎（herpangina）及手足口病（hand-foot-and-mouth disease）相關，不是普通感冒首位病原。",
-      "D": "本項不選。coxsackievirus B 可造成心肌炎（myocarditis）、心包膜炎及胸膜痛等 enterovirus 疾病，並非普通感冒最常見原因。",
-      "summary": "普通感冒病原以 rhinoviruses 最常見；parainfluenza 想哮吼、coxsackievirus A 想手足口病、B 想心肌炎。",
+      "A": "本項應選。普通感冒（common cold）最常見的病原就是鼻病毒（rhinovirus），症狀是鼻塞、流鼻水、打噴嚏、喉嚨痛與咳嗽。",
+      "B": "本項不選。副流感病毒（parainfluenza virus）確實會造成呼吸道感染，所以容易被選。但它的代表病是兒童哮吼（croup），不是感冒的第一名。",
+      "C": "本項不選。看到克沙奇 A 要想到疱疹性咽峽炎（herpangina）與手足口病，不是普通感冒。",
+      "D": "本項不選。克沙奇 B 的代表是心肌炎、心包膜炎與胸膜痛，不是普通感冒。",
+      "summary": "感冒想 rhinovirus；parainfluenza 想哮吼，coxsackie A 想手足口，B 想心肌炎。",
       "guideline": null
     },
     "source": "110020/302_11",
@@ -2258,11 +2258,11 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Listeria monocytogenes 是具 tumbling motility 的革蘭氏陽性桿菌（gram-positive rod），不是革蘭氏陽性球菌。",
-      "B": "本項不選。Listeria monocytogenes 不產孢子，且為革蘭氏陽性而非革蘭氏陰性桿菌；「產孢子」常使人聯想到 Bacillus 或 Clostridium。",
-      "C": "正確。Listeria monocytogenes 可引起腦膜炎（meningitis）與菌血症，特別侵襲新生兒、孕婦、高齡者及細胞免疫低下者。",
-      "D": "本項不選。第三代 cephalosporin 對 Listeria monocytogenes 缺乏活性；侵襲性感染通常以 ampicillin 為核心，必要時依病況合併其他藥物。",
-      "summary": "Listeria 是不產孢子的革蘭氏陽性桿菌，可致高風險族群腦膜炎，且 cephalosporin 天生無效。",
+      "A": "本項不選。Listeria 是革蘭氏陽性「桿菌」，不是球菌，還有翻滾運動（tumbling motility）。",
+      "B": "本項不選。兩處都錯：它不產孢子，而且是革蘭氏陽性。會產孢子的陽性桿菌是 Bacillus 與 Clostridium，這裡就是拿它們來混淆。",
+      "C": "本項應選。Listeria 會造成腦膜炎與菌血症，特別好發於新生兒、孕婦、老人與細胞免疫低下者。",
+      "D": "本項不選。第三代 cephalosporin 對 Listeria 沒有活性。這是陷阱：它是腦膜炎常用藥，高風險族群因此要加 ampicillin 才蓋得到 Listeria。",
+      "summary": "老人、孕婦、新生兒的腦膜炎想 Listeria：陽性桿菌、不產孢子、cephalosporin 無效，要用 ampicillin。",
       "guideline": null
     },
     "source": "110020/302_11",
@@ -3505,11 +3505,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。新生兒持續膽汁鬱積的病因分布會因族群與定義而異，不能把膽道閉鎖概括為發生率必然稍高於 neonatal hepatitis；此敘述不是兩者穩定的鑑別點。",
-      "B": "正確。膽道閉鎖（biliary atresia）肝切片常見 portal tract fibrosis、bile plugs 與 bile ductular proliferation；新生兒肝炎（neonatal hepatitis）則可見 lobular inflammation、giant-cell transformation 與局部 hepatocyte necrosis。",
-      "C": "本項不選。新生兒肝炎可由多種感染、代謝或遺傳疾病造成；病毒性原因並非主要由 hepatitis B virus 單一主導，還須考慮 CMV 等病原。",
-      "D": "本項不選。膽道閉鎖的 Kasai portoenterostomy 越早完成越有利，通常希望在生命最初數週、尤其 2 個月前評估處理；等到滿 4 個月才手術預後較差。",
-      "summary": "膽道閉鎖切片的 ductular proliferation 與 portal fibrosis，可和 neonatal hepatitis 的 lobular inflammation／giant cells 鑑別；Kasai 不可拖到 4 個月。",
+      "A": "本項不選。新生兒持續膽汁鬱積的病因比例會隨族群與定義改變，不能斷言膽道閉鎖發生率一定較高，這也不是兩者的鑑別點。",
+      "B": "本項應選。膽道閉鎖（biliary atresia）是膽管堵住，切片看到小膽管增生、膽栓與門脈區纖維化。新生兒肝炎（neonatal hepatitis）是肝細胞受傷，看到小葉發炎、巨細胞變性與局部肝細胞壞死。",
+      "C": "本項不選。新生兒肝炎可由多種感染、代謝或遺傳疾病造成，病毒也不是以 B 型肝炎為主，還要考慮 CMV 等。",
+      "D": "本項不選。錯在「滿 4 個月」。葛西手術（Kasai portoenterostomy）越早越好，通常希望在 2 個月前處理，拖到 4 個月預後較差。",
+      "summary": "膽道閉鎖切片看小膽管增生與纖維化，新生兒肝炎看巨細胞與小葉發炎；Kasai 不能拖到 4 個月。",
       "guideline": "FC 醫學(四)第1冊 p.131",
       "concepts": [
         "biliary-atresia"
@@ -3663,11 +3663,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。腎骨失養症（renal osteodystrophy）由 CKD-mineral and bone disorder、secondary hyperparathyroidism 與維生素 D 代謝異常造成，可損害骨骼生長。",
-      "B": "本項不選。慢性代謝性酸中毒會增加蛋白分解、影響骨礦化並降低生長板功能，是 CKD 兒童生長遲滯的重要可治療原因。",
-      "C": "錯誤。CKD 兒童多不是 growth hormone 分泌量下降，而是 growth hormone–IGF-1 axis 的周邊阻抗與 IGF bioavailability 降低；因此部分患者可使用 recombinant growth hormone。",
-      "D": "本項不選。CKD 造成 erythropoietin 不足與貧血，降低氧氣運送、食慾與活動耐受，也會加重整體營養與生長問題。",
-      "summary": "CKD 矮小與酸中毒、腎骨病、貧血、營養不良及 GH resistance 有關，不是單純 GH 分泌下降。",
+      "A": "本項不選。腎骨失養症（renal osteodystrophy）來自鈣磷代謝異常、次發性副甲狀腺亢進與維生素 D 代謝異常，確實會妨礙骨骼生長。",
+      "B": "本項不選。慢性酸中毒會增加蛋白分解、影響骨礦化與生長板，而且是可以治療的矮小原因。",
+      "C": "本項應選。CKD 兒童多半不是生長激素分泌變少，而是身體對 GH–IGF-1 軸產生阻抗、IGF 可用量下降。正因如此，部分病人打重組生長激素仍有用。",
+      "D": "本項不選。腎臟製造的 erythropoietin 不足會貧血，氧氣運送、食慾與活動力下降，也會拖累生長。",
+      "summary": "CKD 矮小是生長激素「阻抗」，不是分泌減少；酸中毒、腎骨病、貧血都是幫兇。",
       "guideline": "FC 醫學(四)第1冊 p.192",
       "concepts": []
     },
@@ -3702,11 +3702,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。單純型熱性痙攣（simple febrile seizure）的發作時間短，定義上少於 15 分鐘；超過此時間即符合 complex feature。",
-      "B": "錯誤。Simple febrile seizure 應為 generalized seizure；focal onset 或局部神經表現屬複雜型熱性痙攣（complex febrile seizure）的特徵。",
-      "C": "本項不選。單純型熱性痙攣在同一次發燒疾病的 24 小時內不重複；若 24 小時內再發即分類為 complex febrile seizure。",
-      "D": "本項不選。抽搐後可有短暫 postictal drowsiness 或意識混亂；若意識長時間未恢復、出現 focal deficit 或 meningeal signs，則須另查 CNS infection 等原因。",
-      "summary": "Simple febrile seizure 的三項核心是 generalized、少於 15 分鐘、24 小時內不復發。",
+      "A": "本項不選。發作少於 15 分鐘本來就是單純型的定義，超過就算複雜型。",
+      "B": "本項應選。單純型熱性痙攣（simple febrile seizure）是全身性發作；局部發作或有局部神經表現屬複雜型。",
+      "C": "本項不選。同一次發燒 24 小時內不再發作是單純型的條件；再發就算複雜型。",
+      "D": "本項不選。抽完短暫想睡或混亂是正常的發作後狀態。若意識久久不恢復、有局部缺損或腦膜徵象，才要另查中樞感染。",
+      "summary": "單純型熱性痙攣三條件：全身性、少於 15 分鐘、24 小時內不再發。",
       "guideline": "FC 醫學(四)第1冊 p.335",
       "concepts": [
         "simple-febrile-seizure-definition"
@@ -3743,11 +3743,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。肌強直性失養症（myotonic dystrophy）主要與 DMPK 的 CTG repeat expansion（type 1）等核酸重複擴增相關，並非 dystrophin 蛋白量或品質異常。",
-      "B": "本項不選。中央軸空病（central core disease）常與 RYR1 變異及肌纖維 central cores 相關，也和 malignant hyperthermia susceptibility 有關；其缺陷不是 dystrophin。",
-      "C": "本項不選。脊髓性肌肉萎縮症（spinal muscular atrophy）是 SMN1 缺失或變異造成 anterior horn cell degeneration，屬 motor neuron disease，不是肌細胞 dystrophinopathy。",
-      "D": "正確。Becker muscular dystrophy 由 DMD 基因變異造成數量減少或結構異常但仍有部分功能的 dystrophin，病程通常比 Duchenne muscular dystrophy 緩和。",
-      "summary": "Dystrophinopathy 包括 Duchenne 與 Becker muscular dystrophy；Becker 通常仍保留部分功能性 dystrophin。",
+      "A": "本項不選。肌強直性失養症（myotonic dystrophy）名字有失養症，所以容易誤選。第一型其實是 DMPK 基因的 CTG 重複擴增，與 dystrophin 無關。",
+      "B": "本項不選。中央軸空病（central core disease）常是 RYR1 變異，也與惡性高熱體質有關，缺陷不在 dystrophin。",
+      "C": "本項不選。脊髓性肌肉萎縮症（spinal muscular atrophy）是 SMN1 缺失讓前角細胞退化，屬運動神經元疾病，病灶不在肌肉細胞。",
+      "D": "本項應選。Becker 肌肉失養症由 DMD 基因變異造成，dystrophin 量減少或結構異常但仍有部分功能，所以病程比 Duchenne 緩和。",
+      "summary": "Dystrophin 異常只有 Duchenne 與 Becker；Becker 還留部分功能，所以比較輕。",
       "guideline": "FC 醫學(四)第1冊 p.315",
       "concepts": []
     },
@@ -3821,11 +3821,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。部分雄性素不敏感症候群（partial androgen insensitivity syndrome）可使 46,XY 嬰兒對 androgen 反應不全，出現 micropenis、嚴重 hypospadias 或 bifid scrotum，因此是可能診斷。",
-      "B": "本項不選。性腺發育不全（gonadal dysgenesis）可使 46,XY 個案睪丸分化或功能不足，testosterone 與 AMH 分泌異常可造成外生殖器男性化不足。",
-      "C": "最不可能。典型 21-hydroxylase deficiency 造成 cortisol／aldosterone 不足與 androgen 過多；46,XY 嬰兒已有睪丸 androgen，額外腎上腺 androgen 不會解釋嚴重 hypospadias 與 micropenis。",
-      "D": "本項不選。5α-reductase deficiency 使 testosterone 無法充分轉為 DHT，46,XY 胎兒的外生殖器男性化不足，可表現 micropenis、hypospadias 或外觀女性化。",
-      "summary": "46,XY 嚴重 hypospadias 加 micropenis 指向 androgen 生成或作用不足；會造成 androgen 過多的 21-hydroxylase deficiency 最不相符。",
+      "A": "本項不選。部分雄性素不敏感症候群讓 46,XY 嬰兒對雄性素反應不全，可出現小陰莖、嚴重尿道下裂，是可能的診斷。",
+      "B": "本項不選。性腺發育不全讓 46,XY 個案的睪丸分化或功能不足，雄性素與 AMH 異常，外生殖器男性化不足。",
+      "C": "本項應選。方向相反：典型 21-hydroxylase 缺乏是雄性素過多。46,XY 嬰兒本來就有睪丸雄性素，多出來的腎上腺雄性素無法解釋男性化不足。",
+      "D": "本項不選。5α-還原酶缺乏讓 testosterone 轉不成 DHT，而外生殖器男性化靠 DHT，所以會有小陰莖與尿道下裂。",
+      "summary": "46,XY 男性化不足要找雄性素不夠或沒作用；21-hydroxylase 缺乏是雄性素過多，方向相反。",
       "guideline": "FC 醫學(四)第1冊 p.378",
       "concepts": [
         "cah-enzyme-deficiencies"
@@ -3862,11 +3862,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Hb 9.0 g/dL 合併 platelet 5,000/μL 是嚴重貧血與血小板低下；HSP 的 purpura 是小血管炎造成，定義上通常不是 thrombocytopenic purpura。",
-      "B": "正確。亨諾－許蘭紫斑症（Henoch–Schönlein purpura，現稱 IgA vasculitis）可有發炎性 leukocytosis，但 Hb 與 platelet 多正常；palpable purpura 並非由低血小板造成。",
-      "C": "本項不選。Platelet 5,000/μL 更支持免疫性血小板低下症（immune thrombocytopenia）等出血疾病，而非典型 IgA vasculitis；正常 Hb 不能抵銷極重度 thrombocytopenia 的不相符。",
-      "D": "本項不選。Platelet 正常符合 HSP，但 Hb 9.0 g/dL 並非最典型的初始組合；若有消化道出血或其他原因才可能貧血，題幹未提供此線索。",
-      "summary": "IgA vasculitis 是 nonthrombocytopenic palpable purpura；典型 CBC 可正常或僅有發炎性 leukocytosis，血小板不應降至極低。",
+      "A": "本項不選。血小板 5,000/μL 就不對了。HSP 的紫斑來自小血管炎，血小板不低。",
+      "B": "本項應選。亨諾－許蘭紫斑症（現稱 IgA vasculitis）可有發炎造成的白血球上升，血色素與血小板多半正常。摸得到的紫斑不是血小板低造成的。",
+      "C": "本項不選。血小板 5,000/μL 比較像免疫性血小板低下症（ITP），這就是用紫斑來誤導。",
+      "D": "本項不選。血小板正常符合，但血色素 9.0 g/dL 不是典型表現；除非有消化道出血等原因，而題幹沒有提供。",
+      "summary": "HSP 是血小板正常的可觸性紫斑；看到血小板極低要改想 ITP。",
       "guideline": "FC 醫學(四)第1冊 p.179",
       "concepts": []
     },
@@ -3896,11 +3896,11 @@
     "specialty": "小兒科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。上呼吸道感染（upper respiratory tract infection）可造成咳嗽與鼻症狀，但不會典型形成雙側 wheezing 並在 bronchodilator 後明顯可逆。",
-      "B": "本項不選。細支氣管炎（bronchiolitis）主要發生於 2 歲以下嬰幼兒，常先有病毒前驅症狀再出現 crackles／wheezing；3 歲半且無發燒、夜咳及支氣管擴張劑反應更支持 asthma。",
-      "C": "正確。氣喘（asthma）的氣流阻塞具有可逆性；夜間咳嗽、雙側 wheezing 且 short-acting bronchodilator 後明顯改善，是學齡前兒童氣喘的重要臨床線索。",
-      "D": "本項不選。氣道異物阻塞（airway foreign body obstruction）常突然發作並造成單側呼吸音降低或局部 wheezing；雙側症狀與 bronchodilator 明顯改善較不支持固定異物。",
-      "summary": "夜咳、雙側 wheezing 與 bronchodilator 可逆性共同支持 asthma；異物多突然且單側，bronchiolitis 多見於更小嬰兒。",
+      "A": "本項不選。上呼吸道感染會咳嗽、有鼻部症狀，但不會典型地出現雙側喘鳴，用支氣管擴張劑後也不會明顯改善。",
+      "B": "本項不選。細支氣管炎（bronchiolitis）主要在 2 歲以下，常先有病毒前驅症狀。本題 3 歲半、沒發燒、對藥物有反應，都不支持。",
+      "C": "本項應選。氣喘（asthma）的氣流阻塞是可逆的。夜間咳嗽、雙側喘鳴、短效支氣管擴張劑後明顯改善，三個線索都指向它。",
+      "D": "本項不選。氣道異物常突然發作，呼吸音或喘鳴偏單側。固定的異物也不會因支氣管擴張劑明顯改善。",
+      "summary": "夜咳、雙側喘鳴、用藥後變好想氣喘；突發單側想異物，2 歲以下才想細支氣管炎。",
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
@@ -3937,11 +3937,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "最不恰當。嬰兒異位性皮膚炎（atopic dermatitis）常見於臉頰、頭皮與四肢伸側，尿布覆蓋區因較濕潤通常相對 spared；尿布區皮疹應另想 diaper dermatitis。",
-      "B": "本項不選。Pruritus 是 atopic dermatitis 的核心症狀，兒童反覆搔抓會造成 excoriation、lichenification，並維持 itch–scratch cycle。",
-      "C": "本項不選。Atopic dermatitis 有 epidermal barrier dysfunction 與水分流失增加，皮膚乾燥（xerosis）是常見且支持診斷的表現。",
-      "D": "本項不選。年齡較大的兒童常轉為肘窩、膕窩、頸部等 flexural eczema；這與嬰兒期臉部及伸側分布不同。",
-      "summary": "Atopic dermatitis 分布隨年齡改變：嬰兒臉與伸側、較大兒童屈側；尿布區通常不是嬰兒期好發處。",
+      "A": "本項應選。嬰兒異位性皮膚炎好發在臉頰、頭皮與四肢伸側。尿布區較濕潤，通常反而不受影響，這裡的皮疹要想尿布疹。",
+      "B": "本項不選。癢是異位性皮膚炎的核心症狀，越抓越癢，還會造成抓痕與苔癬化。",
+      "C": "本項不選。表皮屏障功能差、水分流失多，所以皮膚乾燥很常見，也支持診斷。",
+      "D": "本項不選。年紀較大的兒童會轉到肘窩、膕窩、頸部等屈側，和嬰兒期分布不同。",
+      "summary": "異位性皮膚炎：嬰兒臉與伸側，大孩子屈側；尿布區皮疹先想尿布疹。",
       "guideline": "FC 醫學(四)第1冊 p.417",
       "concepts": [
         "eczema-psoriasis-seborrheic"
@@ -4019,11 +4019,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。兒童急性淋巴性白血病（acute lymphoblastic leukemia）需依風險分層使用多藥聯合化療；單一藥物容易留下抗藥性 clone，不能達到多數患童的長期治癒。",
-      "B": "本項不選。Induction phase 是 ALL 治療的第一個核心階段，目標是達到 remission；不能跳過 induction 直接進入 consolidation。",
-      "C": "正確。中樞神經系統是 systemic chemotherapy 較難充分到達的 sanctuary site，因此常以 lumbar puncture 注入 intrathecal methotrexate 等藥物進行 CNS prophylaxis。",
-      "D": "本項不選。放射治療不是大多數兒童 ALL 的第一線主體；現代療程以 systemic 與 intrathecal chemotherapy 為主，cranial irradiation 只保留給部分高風險或 CNS disease 情境。",
-      "summary": "兒童 ALL 採 induction、consolidation 等多階段多藥化療，並以 intrathecal chemotherapy 預防 CNS relapse。",
+      "A": "本項不選。兒童急性淋巴性白血病要依風險分層用多藥化療；單一藥物容易留下抗藥細胞株，無法治癒多數病童。",
+      "B": "本項不選。誘導期是治療的第一步，目標是達到緩解，不能跳過直接做鞏固期。",
+      "C": "本項應選。全身化療較難到達中樞神經，它是癌細胞的庇護所，所以常經腰椎穿刺打 methotrexate 等藥物來預防。",
+      "D": "本項不選。現代療程以全身與椎管內化療為主，顱部放療只留給部分高風險或已有中樞侵犯的情況。",
+      "summary": "兒童 ALL 是多階段多藥化療，中樞神經靠椎管內化療預防。",
       "guideline": "FC 醫學(四)第1冊 p.481",
       "concepts": [
         "leukemia-mpn-genetics"
@@ -4787,11 +4787,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。蛋白 C 缺乏症（protein C deficiency） 是遺傳性 thrombophilia，主要造成靜脈血栓；嚴重同型合子可有 neonatal purpura fulminans，但不是最典型會因腫瘤出血而呈現腦出血的疾病。",
-      "B": "本項不選。蛋白 S 缺乏症（protein S deficiency） 會降低 activated protein C 的抗凝作用，臨床重點是反覆 venous thromboembolism，而非中樞神經血管腫瘤破裂。",
-      "C": "正確。von Hippel-Lindau disease 可形成中樞神經血管母細胞瘤（hemangioblastoma）；這類高度血管化腫瘤可能出血，四項中與腦出血關聯最直接。",
-      "D": "本項不選。抗凝血酶 III 缺乏症（antithrombin III deficiency） 使 thrombin 與 factor Xa 抑制不足，常見深部靜脈栓塞或肺栓塞；它提高血栓而非自發性腦出血風險。",
-      "summary": "三種天然抗凝蛋白缺乏症主要導致血栓；von Hippel-Lindau disease 的高度血管化中樞腫瘤才與腦出血相關。",
+      "A": "本項不選。蛋白 C 缺乏症是遺傳性易栓症，主要造成靜脈血栓；嚴重的同型合子可有新生兒猛爆性紫斑。問題是血栓，不是出血。",
+      "B": "本項不選。蛋白 S 缺乏症會削弱活化蛋白 C 的抗凝作用，臨床重點是反覆靜脈血栓，方向與腦出血相反。",
+      "C": "本項應選。馮希伯–林島氏症（von Hippel-Lindau disease）會長中樞神經血管母細胞瘤（hemangioblastoma）。這種腫瘤血管很多，可能出血，四項中只有它和腦出血直接相關。",
+      "D": "本項不選。抗凝血酶 III 缺乏讓 thrombin 與 factor Xa 抑制不足，常見深部靜脈栓塞或肺栓塞，增加的是血栓。",
+      "summary": "蛋白 C、S、抗凝血酶缺乏都是血栓題；VHL 的血管母細胞瘤才會出血。",
       "guideline": "FC 醫學(四)第1冊 p.298",
       "concepts": [
         "neurocutaneous-syndromes"
@@ -4869,11 +4869,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。偏頭痛（migraine）可因活動加劇並伴噁心、畏光，但不具「站立即痛、平躺緩解」的固定姿勢性，也不典型造成 diffuse pachymeningeal enhancement。",
-      "B": "本項不選。蜘蛛網膜下腔出血（subarachnoid hemorrhage）典型是瞬間達高峰的 thunderclap headache；平躺迅速改善及瀰漫硬腦膜顯影不符合其主要影像表現。",
-      "C": "正確。自發性顱內低壓（spontaneous intracranial hypotension）多由 spinal CSF leak 所致，典型為 orthostatic headache；對比 MRI 可見 diffuse smooth pachymeningeal enhancement。",
-      "D": "本項不選。叢發性頭痛（cluster headache）是單側眶周劇痛，伴流淚、鼻塞等同側 autonomic symptoms，呈叢集發作，並非姿勢改變所誘發。",
-      "summary": "姿勢性頭痛加 diffuse pachymeningeal enhancement，應優先診斷自發性顱內低壓。",
+      "A": "本項不選。偏頭痛會因活動加劇，並伴噁心、畏光，但不會固定「站起來痛、躺下好」，也不會造成硬腦膜瀰漫顯影。",
+      "B": "本項不選。「突然劇烈頭痛」容易讓人想到蜘蛛網膜下腔出血，但它躺下不會幾分鐘內改善，影像也不是瀰漫性硬腦膜顯影。",
+      "C": "本項應選。自發性顱內低壓多來自脊椎的腦脊髓液滲漏。站起來時腦往下沉所以痛，躺下就緩解；顯影 MRI 可見瀰漫而平滑的硬腦膜顯影。",
+      "D": "本項不選。叢發性頭痛是單側眼眶周圍劇痛，伴同側流淚、鼻塞，成叢發作，與姿勢無關。",
+      "summary": "站著痛、躺下好，加上硬腦膜瀰漫顯影，就是自發性顱內低壓，要找脊椎 CSF 滲漏。",
       "guideline": "FC 醫學(四)第4冊 p.139",
       "concepts": [
         "primary-headache-types"
@@ -4992,11 +4992,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。中樞型睡眠呼吸中止症（central sleep apnea） 可由 brainstem stroke、腦幹發炎或影響呼吸驅動的疾病造成，因睡眠時中樞 respiratory effort 暫停。",
-      "B": "本項不選。阻塞型睡眠呼吸中止症（obstructive sleep apnea） 常見於 obesity、short thick neck 或 acromegaly；上氣道軟組織與骨骼結構使睡眠時咽部較易塌陷。",
-      "C": "錯誤。阻塞型睡眠呼吸中止症（obstructive sleep apnea） 可發生於 NREM 與 REM sleep，只是 REM 的肌張力更低，某些病人的呼吸事件在 REM 較嚴重。",
-      "D": "本項不選。CPAP 以 pneumatic splint 維持上氣道開放，是中重度 obstructive sleep apnea 最常用且有效的治療之一；central apnea 則須針對病因選擇治療。",
-      "summary": "阻塞型睡眠呼吸中止並非 REM 專屬；CPAP 的作用是避免睡眠時上氣道塌陷。",
+      "A": "本項不選。腦幹中風或發炎會影響呼吸驅動，睡眠時呼吸的中樞指令暫停，就是中樞型睡眠呼吸中止症。",
+      "B": "本項不選。肥胖、短頸或肢端肥大症的上呼吸道結構較窄，睡眠時咽部容易塌陷，是阻塞型的典型族群。",
+      "C": "本項應選。錯在「只」。阻塞型在非快速動眼期與快速動眼期都會發生，只是 REM 期肌張力更低，有些病人在 REM 較嚴重。",
+      "D": "本項不選。CPAP 用氣壓把上呼吸道撐開，是中重度阻塞型最常用且有效的治療；中樞型則要依病因處理。",
+      "summary": "看到「只發生於」先懷疑：阻塞型睡眠呼吸中止 NREM、REM 都有，只是 REM 較重。",
       "guideline": "FC 醫學(四)第4冊 p.304",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
@@ -5033,11 +5033,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。原發性常壓性水腦症（idiopathic normal pressure hydrocephalus） 的典型表現包含 urinary urgency/incontinence；它常在 gait dysfunction 後出現，不能說病人很少併有尿失禁。",
-      "B": "正確。步態障礙（gait disturbance）通常最早且最常見，呈 magnetic、short-stepped、wide-based gait，也最可能對 CSF diversion 有反應。",
-      "C": "本項不選。人臉辨識（face recognition） 的選擇性嚴重障礙屬 prosopagnosia，較指向 occipitotemporal network lesion；不是 normal pressure hydrocephalus 的核心認知型態。",
-      "D": "本項不選。大量腦脊髓液放液試驗（large-volume lumbar tap test） 或暫時 CSF drainage 後步態改善，可支持 shunt responsiveness；因此說引流無法改善步態並不正確。",
-      "summary": "常壓性水腦症以步態障礙最早最常見，之後可見認知下降與尿失禁；引流後步態反應具診斷價值。",
+      "A": "本項不選。尿急或尿失禁是常壓性水腦症的典型三症狀之一，常在步態問題之後出現，不是很少見。",
+      "B": "本項應選。步態障礙通常最早也最常見，走路像腳黏在地上、步伐小、兩腳距離寬。它也是引流後最可能改善的症狀。",
+      "C": "本項不選。特別嚴重的人臉辨識障礙是臉孔失認（prosopagnosia），要想枕顳葉網路病灶，不是常壓性水腦症的認知型態。",
+      "D": "本項不選。大量放腦脊髓液或暫時引流後步態改善，正是用來預測分流手術有效的方法。",
+      "summary": "常壓性水腦症三症狀：步態最早、接著認知與尿失禁；放腦脊髓液後走路變好，分流就有希望。",
       "guideline": "FC 醫學(四)第4冊 p.206",
       "concepts": [
         "idiopathic-normal-pressure-hydrocephalus-triad"
@@ -5069,11 +5069,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。阿茲海默症（Alzheimer disease）腦內 Aβ42 聚集成 plaque，使 CSF Aβ42 通常下降而非上升；phosphorylated tau 則反映 tau pathology 而上升。",
-      "B": "本項不選。CSF Aβ42 上升不符合 amyloid deposition 的典型 biomarker profile，且 phosphorylated tau 下降也不支持 Alzheimer neurodegeneration。",
-      "C": "正確。早期 Alzheimer disease 的典型 CSF biomarker 是 Aβ42 降低、phosphorylated tau 上升；前者反映腦內沉積，後者反映 tau-related neuronal injury。",
-      "D": "本項不選。Aβ42 下降雖符合 amyloid pathology，但 phosphorylated tau 通常上升而非下降；兩項方向合併可提高診斷支持度。",
-      "summary": "Alzheimer disease 的 CSF 組合為 Aβ42 下降、phosphorylated tau 上升。",
+      "A": "本項不選。tau 方向對，Aβ42 方向錯。Aβ42 被抓去腦內沉積成斑塊，腦脊髓液中的量會下降。",
+      "B": "本項不選。兩個方向都反了。",
+      "C": "本項應選。Aβ42 卡在腦內，流到腦脊髓液的變少，所以下降；磷酸化 tau 反映 tau 病變與神經損傷，所以上升。",
+      "D": "本項不選。Aβ42 下降對，但磷酸化 tau 在阿茲海默症是上升。",
+      "summary": "Aβ42 卡在腦裡，所以 CSF 變少；tau 從受傷神經放出來，所以 CSF 變多。",
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
@@ -5110,11 +5110,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "錯誤。路易氏體失智症（dementia with Lewy bodies）對 dopaminergic adverse effects 較敏感；dopamine agonist 可能加重 hallucination、confusion 與 impulse-control problems，不應「儘量使用」。",
-      "B": "本項不選。反覆且具體的視幻覺（recurrent well-formed visual hallucinations） 可在 dementia with Lewy bodies 早期出現，是其核心臨床特徵之一。",
-      "C": "本項不選。快速動眼期睡眠行為障礙（REM sleep behavior disorder）反映 REM atonia 消失，常先於或伴隨 dementia with Lewy bodies。",
-      "D": "本項不選。路易氏體失智症（dementia with Lewy bodies） 可有 marked cognitive fluctuation、unexplained falls、syncope 與 transient unresponsiveness，與 autonomic dysfunction 及警醒度波動相關。",
-      "summary": "路易氏體失智症的早期視幻覺、認知波動與 REM sleep behavior disorder 很典型；dopamine agonist 可能惡化精神症狀。",
+      "A": "本項應選。錯在「儘量使用」。路易氏體失智症對 dopamine 類藥物的副作用很敏感，dopamine agonist 可能加重幻覺、混亂與衝動控制問題。",
+      "B": "本項不選。反覆而具體的視幻覺可在早期出現，是核心臨床特徵。",
+      "C": "本項不選。快速動眼期睡眠行為障礙是 REM 期肌肉該放鬆卻沒放鬆，常比失智更早出現或同時出現。",
+      "D": "本項不選。認知明顯波動、不明原因跌倒、昏厥或短暫失去反應都常見，與自律神經失調和警醒度起伏有關。",
+      "summary": "路易氏體失智：視幻覺、認知波動、REM 睡眠行為障礙、巴金森症狀；dopamine agonist 會讓幻覺更糟。",
       "guideline": "FC 醫學(四)第4冊 p.207",
       "concepts": [
         "dementia-subtypes"
@@ -5146,11 +5146,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。周邊神經病變可損傷 motor axons，造成 distal weakness、atrophy、fasciculation 或 foot drop，因此運動障礙常見。",
-      "B": "錯誤。周邊神經病變破壞 reflex arc，典型是 deep tendon reflex 減弱或消失；肌腱反射增強較指向 upper motor neuron lesion。",
-      "C": "本項不選。周邊神經病變常有 numbness、paresthesia、neuropathic pain，長纖維病變多呈 length-dependent stocking-glove distribution。",
-      "D": "本項不選。小纖維或 autonomic nerve 受損可造成 orthostatic hypotension、出汗異常、腸胃蠕動或膀胱與性功能障礙。",
-      "summary": "周邊神經病變可同時影響運動、感覺與自律神經，但反射通常下降而非增強。",
+      "A": "本項不選。運動神經軸突受損會造成遠端無力、肌肉萎縮或足下垂，所以運動障礙常見。",
+      "B": "本項應選。周邊神經病變破壞反射弧，肌腱反射會減弱或消失。反射增強要想上運動神經元病灶。",
+      "C": "本項不選。麻木、感覺異常與神經痛都很常見，長纖維受損時呈手套襪套分布。",
+      "D": "本項不選。小纖維或自律神經受損可造成姿勢性低血壓、排汗異常、腸胃與膀胱及性功能障礙。",
+      "summary": "周邊神經病變反射只會變弱；反射變強就往上運動神經元找。",
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
@@ -5182,11 +5182,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。三叉神經眼支的 herpes zoster 若侵犯 nasociliary branch，可造成 keratitis、uveitis 等眼部併發症，因此 corneal injury 是重要風險。",
-      "B": "最不恰當。Herpes zoster 是 dorsal root ganglion 或 cranial sensory ganglion 內潛伏病毒再活化，主要侵犯 sensory nerve，而非以 motor neuron 為主。",
-      "C": "本項不選。Thoracic dermatomes 是 herpes zoster 最常見分布之一，因此肋間神經帶狀疼痛與水疱很典型。",
-      "D": "本項不選。Trigeminal V1 是常見且臨床重要的 cranial distribution，因 herpes zoster ophthalmicus 可能危及角膜與視力。",
-      "summary": "Herpes zoster 主要是感覺神經節再活化；胸神經節與三叉神經 V1 都是常見分布。",
+      "A": "本項不選。帶狀疱疹侵犯三叉神經眼支時可造成角膜炎、葡萄膜炎，所以角膜損傷是重要風險。",
+      "B": "本項應選。帶狀疱疹是潛伏在背根或腦神經感覺神經節的病毒再活化，主要侵犯感覺神經，不是運動神經元。",
+      "C": "本項不選。胸部皮節最常見，所以沿肋間神經的帶狀疼痛與水疱很典型。",
+      "D": "本項不選。三叉神經第一分支是常見而且重要的位置，因為眼部帶狀疱疹可能危及角膜與視力。",
+      "summary": "帶狀疱疹躲在感覺神經節：胸部最常見，V1 最要小心眼睛。",
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
@@ -5223,11 +5223,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。先天性肌強直症（myotonia congenita）多由 CLCN1 chloride channel mutation 引起，屬 skeletal-muscle channelopathy。",
-      "B": "本項不選。先天性副肌強直症（paramyotonia congenita）多與 SCN4A sodium channel mutation 有關，寒冷或運動可誘發 paradoxical myotonia，屬 channelopathy。",
-      "C": "本項不選。高血鉀性週期性麻痺症（hyperkalemic periodic paralysis）通常與 SCN4A sodium channel 異常相關，會出現 episodic weakness，屬 channelopathy。",
-      "D": "本項應選。肌強直性失養症（myotonic dystrophy）是 CTG 或 CCTG repeat expansion 所致的 multisystem disorder，不是原發離子通道基因缺陷。",
-      "summary": "前三者是 skeletal-muscle chloride/sodium channelopathy；myotonic dystrophy 是 nucleotide repeat expansion disease。",
+      "A": "本項不選。先天性肌強直症多由 CLCN1 氯離子通道突變造成，是通道病變。",
+      "B": "本項不選。先天性副肌強直症多為 SCN4A 鈉離子通道突變，寒冷或運動會誘發，也是通道病變。",
+      "C": "本項不選。高血鉀性週期性麻痺通常也是 SCN4A 鈉離子通道異常，表現為陣發性無力。",
+      "D": "本項應選。肌強直性失養症也有肌強直，所以容易和前三者混淆。但它的病因是 CTG 或 CCTG 重複擴增，是多系統疾病，不是原發離子通道缺陷。",
+      "summary": "同樣有肌強直，先天性（副）肌強直是通道病變；myotonic dystrophy 是核苷酸重複擴增。",
       "guideline": "FC 醫學(四)第1冊 p.316",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
@@ -5264,11 +5264,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "正確。Serum treponemal test 陽性證明曾感染 syphilis，而 CSF-VDRL 陽性在無明顯血液污染時對 neurosyphilis 高度特異；兩者合併最具診斷支持力。",
-      "B": "本項不選。CSF-VDRL 有高度特異性，但 periodic lateralized epileptiform discharges 並非 neurosyphilis 專屬，可見於多種急性局灶腦病變，不能增加特異診斷。",
-      "C": "本項不選。Serum treponemal test 只證明目前或過去感染，無法單獨確認 CNS involvement；週期性單側放電也不是 neurosyphilis 的特異腦波。",
-      "D": "本項不選。CSF treponemal test 敏感度較高但特異性受 passive transfer 或污染影響；再加非特異的週期性單側放電，仍不如 CSF-VDRL 組合。",
-      "summary": "Neurosyphilis 最具特異性的 CSF 證據是 reactive CSF-VDRL；EEG 的週期性單側放電不是特異標記。",
+      "A": "本項應選。①血清梅毒螺旋體試驗陽性，證明曾感染梅毒。②腦脊髓液 VDRL 陽性，在沒有明顯血液污染時，對神經性梅毒特異性很高。兩者合起來最有力。",
+      "B": "本項不選。②很好，但④週期性單側放電可見於多種急性局灶腦病變，對梅毒沒有特異性。",
+      "C": "本項不選。血清陽性只代表現在或過去感染，無法確認侵犯中樞；④也不特異。",
+      "D": "本項不選。腦脊髓液的 treponemal 試驗敏感度高，但會受血清抗體被動進入或污染影響；再搭配不特異的④，仍不如 CSF-VDRL。",
+      "summary": "神經性梅毒最特異的是 CSF-VDRL；腦波週期性放電不是它的標記。",
       "guideline": "FC 醫學(四)第4冊 p.188",
       "concepts": [
         "cns-infection-encephalitis-prion"
@@ -5305,11 +5305,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "錯誤。Tuberculous meningitis 應加用 adjunctive corticosteroid（如 dexamethasone），可降低死亡及嚴重神經後遺症風險，並非禁用。",
-      "B": "本項不選。Tuberculous meningitis 的培養或分子檢驗可能耗時且敏感度有限；臨床與 CSF 高度懷疑時應立即開始 empiric antituberculous therapy。",
-      "C": "本項不選。中樞神經 tuberculosis 需長療程多藥治療，通常至少 9–12 個月；因此「6 個月以上」方向正確，但實際療程依指引與反應調整。",
-      "D": "本項不選。Isoniazid 會干擾 pyridoxine metabolism，可能造成 peripheral neuropathy；併用 pyridoxine 對高風險患者尤其重要。",
-      "summary": "結核性腦膜炎須早期多藥治療並加 corticosteroid，isoniazid 同時注意 pyridoxine 補充。",
+      "A": "本項應選。結核性腦膜炎應加上類固醇（如 dexamethasone），可降低死亡與嚴重神經後遺症，並不是禁用。",
+      "B": "本項不選。培養與分子檢驗耗時，敏感度也有限，所以臨床與腦脊髓液高度懷疑時就要立即開始治療。",
+      "C": "本項不選。中樞神經結核要長療程多藥治療，通常至少 9–12 個月，「6 個月以上」的方向沒錯。",
+      "D": "本項不選。Isoniazid 干擾 pyridoxine 代謝，可能造成周邊神經炎，高風險病人尤其要補充。",
+      "summary": "結核性腦膜炎：懷疑就治、療程 9–12 個月、要加類固醇，isoniazid 配 pyridoxine。",
       "guideline": "FC 醫學(四)第4冊 p.181",
       "concepts": [
         "cns-infection-encephalitis-prion"
@@ -6284,11 +6284,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "錯誤。移植後免疫抑制雖常包含 corticosteroid，但現代維持療法可採 steroid minimization、早期停藥或無 steroid regimen，以降低感染、糖尿病、骨質疏鬆等長期毒性；不能稱長期合併使用必然是標準模式。",
-      "B": "本項不選。Corticosteroid 的許多副作用具有劑量與累積暴露相關性；高劑量或長期使用會增加高血糖、感染、骨質疏鬆、肌病與 Cushingoid appearance 等風險。",
-      "C": "本項不選。急性細胞型排斥（acute cellular rejection）常以靜脈注射高劑量 methylprednisolone pulse 作第一線治療；若 steroid-resistant，才進一步考慮 lymphocyte-depleting therapy。",
-      "D": "本項不選。初期高劑量 corticosteroid 具有 sodium/water retention 等作用，可能造成體液滯留、體重增加與全身水腫；同時需監測血壓、血糖與感染。",
-      "summary": "移植後 steroid 可治療急性細胞型排斥，但維持期會盡量降低累積劑量，並非所有病人都需終身合併使用。",
+      "A": "本項應選。錯在把長期類固醇說成標準。現代維持療法可減量、早期停藥或無類固醇，以減少感染、糖尿病、骨質疏鬆等長期毒性。",
+      "B": "本項不選。類固醇的許多副作用與劑量及累積暴露有關，高血糖、感染、骨質疏鬆、肌肉病變都會增加。",
+      "C": "本項不選。急性細胞型排斥常以靜脈高劑量 methylprednisolone 為第一線，無效才考慮清除淋巴球的治療。",
+      "D": "本項不選。高劑量類固醇會滯留鈉與水，可能造成體重增加與全身水腫。",
+      "summary": "移植的類固醇：急性排斥要大劑量，長期維持反而要盡量減量。",
       "guideline": "FC 醫學(五)第1冊 p.86",
       "concepts": [
         "transplant-immunosuppressants"
