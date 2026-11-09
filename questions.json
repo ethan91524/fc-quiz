@@ -3118,7 +3118,7 @@
     "explanation": {
       "A": "本項敘述錯誤。圖上的細菌被染成**紫色**，就是革蘭氏陽性，不是陰性。形態是球菌，成對與短鏈排列，符合 B 群鏈球菌（group B Streptococcus）。革蘭氏陰性菌會染成紅色，兩者在抹片上一眼就分得出來。",
       "B": "李斯特菌（Listeria monocytogenes）可造成早發型新生兒敗血症與腦膜炎，但並非最常見病原；B 群鏈球菌與 Escherichia coli 更常見。",
-      "C": "正確。出生後很快出現呼吸窘迫及血液培養陽性符合早發型新生兒敗血症，病原多在分娩前後由母體生殖泌尿道上行，經羊水或產道傳給新生兒。抹片上是成串與成對排列的革蘭氏陽性球菌，符合 B 群鏈球菌。它平時定殖在母親的生殖道與腸道，生產時經產道上行或吸入而感染新生兒，這正是早發型（出生七天內）新生兒敗血症最常見的路徑，也是台灣孕婦要在 35 到 37 週做篩檢、產程中給抗生素的原因。",
+      "C": "本項應選。出生後很快出現呼吸窘迫及血液培養陽性符合早發型新生兒敗血症，病原多在分娩前後由母體生殖泌尿道上行，經羊水或產道傳給新生兒。抹片上是成串與成對排列的革蘭氏陽性球菌，符合 B 群鏈球菌。它平時定殖在母親的生殖道與腸道，生產時經產道上行或吸入而感染新生兒，這正是早發型（出生七天內）新生兒敗血症最常見的路徑，也是台灣孕婦要在 35 到 37 週做篩檢、產程中給抗生素的原因。",
       "D": "新生兒泌尿道感染最常見病原是 Escherichia coli；若圖示為 B 群鏈球菌，則其典型角色是早發型敗血症、肺炎與腦膜炎，不能稱為最常見泌尿道病原。",
       "summary": "抹片是紫色（革蘭氏陽性）成對球菌＋出生後很快發病＝B 群鏈球菌經產道上行感染。",
       "guideline": null,
@@ -5226,7 +5226,7 @@
       "A": "先天性肌強直症（myotonia congenita）多由 CLCN1 chloride channel mutation 引起，屬 skeletal-muscle channelopathy。",
       "B": "先天性副肌強直症（paramyotonia congenita）多與 SCN4A sodium channel mutation 有關，寒冷或運動可誘發 paradoxical myotonia，屬 channelopathy。",
       "C": "高血鉀性週期性麻痺症（hyperkalemic periodic paralysis）通常與 SCN4A sodium channel 異常相關，會出現 episodic weakness，屬 channelopathy。",
-      "D": "正確。肌強直性失養症（myotonic dystrophy）是 CTG 或 CCTG repeat expansion 所致的 multisystem disorder，不是原發離子通道基因缺陷。",
+      "D": "本項應選。肌強直性失養症（myotonic dystrophy）是 CTG 或 CCTG repeat expansion 所致的 multisystem disorder，不是原發離子通道基因缺陷。",
       "summary": "前三者是 skeletal-muscle chloride/sodium channelopathy；myotonic dystrophy 是 nucleotide repeat expansion disease。",
       "guideline": "FC 醫學(四)第1冊 p.316",
       "concepts": [
@@ -5585,7 +5585,7 @@
       "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
     },
     "explanation": {
-      "A": "正確。廣泛性焦慮症（generalized anxiety disorder）要求對多個生活領域過度且難以控制的焦慮至少 6 個月，並伴不安、易疲倦、注意困難、易怒、肌肉緊繃或睡眠障礙；題幹持續 8 個月且功能受損。",
+      "A": "本項應選。廣泛性焦慮症（generalized anxiety disorder）要求對多個生活領域過度且難以控制的焦慮至少 6 個月，並伴不安、易疲倦、注意困難、易怒、肌肉緊繃或睡眠障礙；題幹持續 8 個月且功能受損。",
       "B": "解離症（dissociative disorder）核心是意識、記憶、身分或知覺整合中斷，例如解離性失憶或人格解體；題幹呈現持續多面向憂慮，沒有解離現象。",
       "C": "畏懼症（phobic disorder）通常由特定物體、情境或社交評價觸發，並有明顯逃避；本例焦慮橫跨工作、孩子與健康，沒有單一畏懼刺激。",
       "D": "強迫症（obsessive-compulsive disorder）需有侵入性強迫思考及／或為降低焦慮而反覆執行的強迫行為；一般性的現實生活擔心不等於 obsession。",
@@ -6451,7 +6451,7 @@
       "A": "失智（dementia）是常壓性水腦（normal pressure hydrocephalus）的典型表現，常呈注意力、執行功能與精神動作速度下降。",
       "B": "步態障礙通常最早且最明顯，可呈小碎步、寬基底及「磁吸步態」，是常壓性水腦三聯徵之一。",
       "C": "尿失禁屬典型三聯徵，常由尿急逐漸進展；與步態障礙及認知退化並列。",
-      "D": "正確。肢體顫抖（tremor）不是常壓性水腦的典型三聯徵；三項應為步態障礙、認知退化及尿失禁。",
+      "D": "本項應選。肢體顫抖（tremor）不是常壓性水腦的典型三聯徵；三項應為步態障礙、認知退化及尿失禁。",
       "summary": "常壓性水腦三聯徵是 gait disturbance、dementia、urinary incontinence，不包含 tremor。",
       "guideline": "FC 醫學(五)第1冊 p.270",
       "concepts": [
@@ -6646,7 +6646,7 @@
       "A": "大面積燒傷以靜脈管線（IV line）復甦時須迅速取得靜脈通路並放置導尿管；輸液後以每小時尿量評估器官灌流，並據此逐時調整晶體液速率。",
       "B": "Parkland 公式（Parkland formula）為 4 mL×70 kg×40＝11,200 mL，半量須於受傷後前 8 小時給完，若立即開始約為 700 mL/hr；時間自受傷時計算而非到院時。",
       "C": "成人燒傷體液復甦（burn fluid resuscitation）的尿量目標約 0.5 mL/kg/hr；70 kg 病人即至少 35 mL/hr，是合理的復甦終點之一。",
-      "D": "正確。復甦初期應先依尿量調整 lactated Ringer solution，不能因 2 小時尿量下降便按燒傷面積常規大量給 albumin；早期毛細血管滲漏會使膠體外滲，且題述 0.5 mL/kg/%TBSA 並非標準追加法。",
+      "D": "本項應選。復甦初期應先依尿量調整 lactated Ringer solution，不能因 2 小時尿量下降便按燒傷面積常規大量給 albumin；早期毛細血管滲漏會使膠體外滲，且題述 0.5 mL/kg/%TBSA 並非標準追加法。",
       "summary": "Parkland formula 決定首日 lactated Ringer solution，實際速率則以成人尿量約 0.5 mL/kg/hr 逐時校正。",
       "guideline": "FC 醫學(五)第1冊 p.119",
       "concepts": [
@@ -6928,7 +6928,7 @@
       "A": "①錯誤：二尖瓣狹窄（mitral stenosis）合併心房顫動與疑似栓塞性中風，反而是使用 warfarin 預防再次全身性栓塞的重要適應症；既往缺血性中風並非永久禁用抗凝血的理由。④也不恰當，既往右側膿胸與開胸術容易造成胸膜嚴重沾黏，使右胸微創進路困難。",
       "B": "②心導管檢查可在手術前釐清血流動力學，68 歲患者亦需評估冠狀動脈；③瓣膜手術時可合併 Cox-Maze procedure 處理心房顫動。然而④受既往右側膿胸開胸造成的沾黏限制，所以此組合多列了一項。",
       "C": "①把中風誤當成不給 warfarin 的理由；二尖瓣狹窄合併心房顫動及栓塞事件正是高栓塞風險情境。②與③可成立，但只要①錯誤，此組合即不正確。",
-      "D": "正確。②術前心導管可評估肺壓、瓣膜血流動力學及冠狀動脈；③若進行二尖瓣手術，可同時施行 Cox-Maze procedure 治療心房顫動。既往右側膿胸開胸常有廣泛沾黏，不宜直接假定可採右胸腔鏡或小切口。",
+      "D": "本項應選。②術前心導管可評估肺壓、瓣膜血流動力學及冠狀動脈；③若進行二尖瓣手術，可同時施行 Cox-Maze procedure 治療心房顫動。既往右側膿胸開胸常有廣泛沾黏，不宜直接假定可採右胸腔鏡或小切口。",
       "summary": "二尖瓣狹窄合併心房顫動與栓塞需抗凝；瓣膜手術可合併 Maze，但右胸既往膿胸開胸會妨礙微創進路。",
       "guideline": null,
       "concepts": [
@@ -7633,7 +7633,7 @@
     "explanation": {
       "A": "雙側 implant-based reconstruction 較容易用相同尺寸與投影的 implant 建立對稱外觀；自體組織則受兩側 donor tissue 分配與體積限制。",
       "B": "放射治療會增加 capsular contracture、感染、傷口問題及 implant loss，預計近期接受放療者須在術前共同評估時序與替代方案。",
-      "C": "正確。義乳會發生包膜攣縮、位置或外形改變，且不會像自體組織隨體重與老化自然變化；滿意度也不能保證五年仍固定 90%。",
+      "C": "本項應選。義乳會發生包膜攣縮、位置或外形改變，且不會像自體組織隨體重與老化自然變化；滿意度也不能保證五年仍固定 90%。",
       "D": "義乳重建通常比自體游離皮瓣手術時間短、donor-site morbidity 少，可考慮用於無法承受長時間麻醉的病人。",
       "summary": "Implant reconstruction 手術較短且雙側對稱較容易，但放療與時間會影響外觀、併發症及滿意度。",
       "guideline": "FC 醫學(五)第3冊 p.290",
@@ -8177,7 +8177,7 @@
       "A": "脊髓損傷最常累及活動度大且受力集中的頸椎區域，不是「絕大多數位於腰椎」；胸腰交界也屬常見受傷處。",
       "B": "C6 損傷通常仍保有由 C3–5 支配的橫膈功能，因此不一定立即呼吸衰竭；高位頸髓傷才更直接威脅自主呼吸。",
       "C": "中心脊髓症候群（central cord syndrome）的運動缺損典型是上肢重於下肢，尤其手部最明顯，與本選項相反。",
-      "D": "正確。MRI 能顯示脊髓挫傷、出血、椎間盤及韌帶損傷；CT 較擅長骨折，因此評估脊髓本身 MRI 優於 CT。",
+      "D": "本項應選。MRI 能顯示脊髓挫傷、出血、椎間盤及韌帶損傷；CT 較擅長骨折，因此評估脊髓本身 MRI 優於 CT。",
       "summary": "CT 看骨性損傷，MRI 看 spinal cord、disc 與 ligament；神經缺損與影像目的須分開選擇。",
       "guideline": "FC 醫學(五)第1冊 p.230",
       "concepts": [
@@ -8257,7 +8257,7 @@
     },
     "explanation": {
       "A": "聲音沙啞可由腫瘤侵犯喉返神經（recurrent laryngeal nerve）造成，尤其新出現且持續的嗓音改變是甲狀腺結節惡性警訊，需評估聲帶活動。",
-      "B": "正確。心悸較常反映甲狀腺毒症（thyrotoxicosis）或心律不整，並非局部侵襲性甲狀腺癌的典型警訊；惡性結節多數仍為甲狀腺功能正常。",
+      "B": "本項應選。心悸較常反映甲狀腺毒症（thyrotoxicosis）或心律不整，並非局部侵襲性甲狀腺癌的典型警訊；惡性結節多數仍為甲狀腺功能正常。",
       "C": "吞嚥困難提示較大腫瘤壓迫食道或侵入周邊結構，屬局部壓迫或侵犯症狀；合併快速增大時，更應提高對惡性的懷疑。",
       "D": "頸部淋巴結腫大可能是甲狀腺乳突癌（papillary thyroid carcinoma）的區域淋巴轉移；需以超音波評估可疑形態，必要時對淋巴結做 FNA。",
       "summary": "甲狀腺結節的惡性警訊包括持續沙啞、吞嚥困難與可疑頸部淋巴結；心悸主要指向功能異常。",
@@ -8337,7 +8337,7 @@
     },
     "explanation": {
       "A": "年齡會影響分化型甲狀腺癌（differentiated thyroid cancer）的 AJCC prognostic stage grouping；第八版以 55 歲為分界，因此同樣的 TNM 可因年齡落入不同期別。",
-      "B": "正確。性別雖可能與整體預後統計相關，並不是 AJCC TNM 病理分期的組成項目；不會改變 T、N、M 類別或期別分組。",
+      "B": "本項應選。性別雖可能與整體預後統計相關，並不是 AJCC TNM 病理分期的組成項目；不會改變 T、N、M 類別或期別分組。",
       "C": "侵犯甲狀腺旁帶狀肌（strap muscles）的肉眼甲狀腺外侵犯會影響 T category；顯微鏡下輕微侵犯在 AJCC 第八版已不再單獨升期。",
       "D": "腫瘤最大徑直接決定 T category 的重要界線，例如侷限甲狀腺內的腫瘤依大小分成 T1、T2 或 T3a，因此會影響病理分期。",
       "summary": "分化型甲狀腺癌分期看腫瘤大小／侵犯、淋巴結、遠端轉移及年齡，不納入性別。",
@@ -9230,7 +9230,7 @@
       "A": "顳顎關節脫位（temporomandibular joint dislocation）最常是髁突越過 articular eminence 的 anterior dislocation，病人呈張口不能閉合。",
       "B": "典型的開口固定、流涎、耳前凹陷與疼痛多可臨床診斷；若懷疑骨折、非典型方向或外傷機轉，再以影像確認。",
       "C": "順利復位且無外傷、神經缺損或骨折疑慮者，不一定要例行追蹤 X 光；復位後應確認咬合與張閉口功能。",
-      "D": "正確。多數病人在急診成功復位後可恢復閉口與吞嚥，短期採軟食並避免大幅張口即可；「常無法恢復進食」不符合一般病程。",
+      "D": "本項應選。多數病人在急診成功復位後可恢復閉口與吞嚥，短期採軟食並避免大幅張口即可；「常無法恢復進食」不符合一般病程。",
       "summary": "前方下頷骨脫位通常靠臨床診斷且可急診復位，成功後多能恢復進食。",
       "guideline": "FC 醫學(五)第6冊 p.49",
       "concepts": []
@@ -9369,7 +9369,7 @@
     "specialty": "麻醉科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。改良式 Mallampati 分級（modified Mallampati classification）第 IV 級只能看見硬顎（hard palate）；軟顎、懸雍垂與咽柱皆不可見，通常提示直接喉頭鏡插管可能較困難。",
+      "A": "本項應選。改良式 Mallampati 分級（modified Mallampati classification）第 IV 級只能看見硬顎（hard palate）；軟顎、懸雍垂與咽柱皆不可見，通常提示直接喉頭鏡插管可能較困難。",
       "B": "第 II 級仍可看見軟顎、咽部與部分懸雍垂，只是咽柱顯示不完整；題幹連軟顎都看不到，嚴重度高於第 II 級。",
       "C": "第 I 級可完整看見軟顎、咽部、懸雍垂及咽柱，是視野最好的一級，與題幹「只能看見硬顎」完全相反。",
       "D": "第 III 級可見軟顎及懸雍垂基部，但咽柱不可見；若軟顎也完全不可見，應再升為第 IV 級。",
@@ -9407,7 +9407,7 @@
     "explanation": {
       "A": "氣管內管彎折會增加呼氣阻力或造成通氣不足，使送達肺泡並呼出的 CO2 量下降；嚴重完全阻塞時 capnogram 甚至可消失。",
       "B": "呼吸迴路鬆脫會使病人的呼出氣無法到達採樣端，潮氣末二氧化碳（end-tidal CO2, ETCO2）會突然降至很低或零，是重要的設備警訊。",
-      "C": "正確。發燒使代謝率與 CO2 產生量增加；若肺泡通氣與循環未同步增加，ETCO2 傾向上升，而不是突然降低。",
+      "C": "本項應選。發燒使代謝率與 CO2 產生量增加；若肺泡通氣與循環未同步增加，ETCO2 傾向上升，而不是突然降低。",
       "D": "急性肺栓塞使肺灌流突然下降、肺泡死腔增加，送到肺泡排出的 CO2 減少，因此 ETCO2 可突然下降，並常伴 PaCO2–ETCO2 gradient 增大。",
       "summary": "麻醉中 ETCO2 突降要先排除迴路脫落或氣道阻塞，再考慮肺灌流突然下降；發燒反而傾向增加 CO2 產生。",
       "guideline": null,
@@ -10242,7 +10242,7 @@
       "A": "乳突切除術（mastoidectomy）可清除乳突及鼓竇內膽脂瘤，並依病灶範圍採 canal-wall-up 或 canal-wall-down 技術，是常見核心術式。",
       "B": "聽小骨鏈成型術（ossiculoplasty）可在清除疾病且中耳條件允許時重建遭膽脂瘤侵蝕的聽小骨鏈，以改善傳導性聽損。",
       "C": "上鼓室鑿開術（atticotomy）可進入 pars flaccida 膽脂瘤常累及的上鼓室，適用於範圍局限或作為更廣泛手術的一部分。",
-      "D": "正確。鐙骨切除術（stapedectomy）主要治療耳硬化症造成的鐙骨固定；膽脂瘤手術重點是清除角化上皮及建立安全耳，不會例行切除鐙骨足板。",
+      "D": "本項應選。鐙骨切除術（stapedectomy）主要治療耳硬化症造成的鐙骨固定；膽脂瘤手術重點是清除角化上皮及建立安全耳，不會例行切除鐙骨足板。",
       "summary": "膽脂瘤手術可含乳突切除、atticotomy 與 ossiculoplasty；stapedectomy 是耳硬化症術式。",
       "guideline": null,
       "concepts": [
@@ -10649,7 +10649,7 @@
       "A": "骨盆淋巴結轉移代表腫瘤已有淋巴途徑擴散，是子宮頸癌術後復發與存活的重要預後因子，也會影響是否追加同步化學放射治療。",
       "B": "原發腫瘤體積越大，局部控制困難、淋巴結轉移與復發風險通常越高；腫瘤大小亦是 FIGO 2018 子宮頸癌 IB 期細分依據。",
       "C": "子宮頸間質侵犯深度反映局部侵襲性，並與淋巴血管侵犯及淋巴結轉移機率相關，因此是早期子宮頸癌的重要病理預後資訊。",
-      "D": "正確。HPV type 與致癌風險及病因相關，但在已完成根除手術的 IB 期鱗狀細胞癌中，不是像淋巴結、腫瘤大小或侵犯深度那樣的核心術後預後因子。",
+      "D": "本項應選。HPV type 與致癌風險及病因相關，但在已完成根除手術的 IB 期鱗狀細胞癌中，不是像淋巴結、腫瘤大小或侵犯深度那樣的核心術後預後因子。",
       "summary": "早期子宮頸癌術後預後主要看腫瘤負荷、侵犯程度及淋巴結狀態，不以腫瘤內 HPV 型別決定。",
       "guideline": "FC 醫學(六)第1下冊 p.113",
       "concepts": [
@@ -10810,7 +10810,7 @@
     "explanation": {
       "A": "胎盤娩出後評估子宮張力並按摩子宮，可促進子宮收縮並及早辨認子宮收縮無力，是第三產程主動處理相關措施。",
       "B": "適度控制性臍帶牽引（controlled cord traction）可協助胎盤娩出；施作時需由受訓人員配合子宮反向支撐，不能暴力拉扯。",
-      "C": "正確。常規把手或器械伸入子宮人工剝離、取出胎盤不是第三產程主動處理；這是胎盤滯留或出血時才採取的侵入性處置，且增加感染與創傷風險。",
+      "C": "本項應選。常規把手或器械伸入子宮人工剝離、取出胎盤不是第三產程主動處理；這是胎盤滯留或出血時才採取的侵入性處置，且增加感染與創傷風險。",
       "D": "預防性 uterotonic 是核心措施，首選通常為 oxytocin，可降低子宮收縮無力與產後出血。",
       "summary": "第三產程主動處理以預防性 uterotonic 為核心，搭配適當臍帶牽引與子宮張力評估；不含例行人工取胎盤。",
       "guideline": "FC 醫學(六)第1上冊 p.164",
@@ -10851,7 +10851,7 @@
     "explanation": {
       "A": "子宮頸薄化（effacement）是 Bishop score 五項之一；子宮頸越薄，代表成熟度越佳，分數越高。",
       "B": "子宮頸軟硬度（consistency）屬 Bishop score，依 firm、medium、soft 評估；較軟的子宮頸較有利引產。",
-      "C": "正確。待產時間長短（labour course length）是產程結果而非引產前的子宮頸成熟指標，不納入 Bishop score。",
+      "C": "本項應選。待產時間長短（labour course length）是產程結果而非引產前的子宮頸成熟指標，不納入 Bishop score。",
       "D": "胎頭高低（station）描述 presenting part 相對 ischial spines 的位置，是 Bishop score 的五項指標之一。",
       "summary": "Bishop score 五項為 dilation、effacement、station、consistency、position，不包含待產時間。",
       "guideline": "FC 醫學(六)第1上冊 p.116",
@@ -10892,7 +10892,7 @@
     "explanation": {
       "A": "羊水量（amniotic fluid volume）是胎兒生物物理評分的超音波項目，羊水過少可能提示較慢性的胎盤功能不良。",
       "B": "胎兒呼吸運動（fetal breathing movement）是 BPP 項目；在規定觀察時間內出現符合持續時間的呼吸運動才得分。",
-      "C": "正確。臍動脈血流速度波形（umbilical artery velocimetry）用於評估胎盤阻力，尤其適用胎兒生長受限，但不屬傳統五項 BPP。",
+      "C": "本項應選。臍動脈血流速度波形（umbilical artery velocimetry）用於評估胎盤阻力，尤其適用胎兒生長受限，但不屬傳統五項 BPP。",
       "D": "胎動（gross body movement）與胎兒張力（fetal tone）分別是 BPP 的兩個超音波項目，反映不同層級的中樞神經功能。",
       "summary": "傳統 BPP＝NST 加四個超音波項目；臍動脈 Doppler 是另一種胎兒監測工具。",
       "guideline": "FC 醫學(六)第1上冊 p.68",
@@ -10926,7 +10926,7 @@
     "specialty": "產科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。單純妊娠糖尿病（gestational diabetes mellitus）不是典型直接造成孕期肺水腫的因素；若合併子癇前症、心臟病或大量輸液，風險才由那些病況提高。",
+      "A": "本項應選。單純妊娠糖尿病（gestational diabetes mellitus）不是典型直接造成孕期肺水腫的因素；若合併子癇前症、心臟病或大量輸液，風險才由那些病況提高。",
       "B": "子癇前症（preeclampsia）會增加血管通透性、降低膠體滲透壓並可能伴心功能異常；不當補液可觸發肺水腫。",
       "C": "敗血症（sepsis）可造成全身性毛細血管滲漏與急性呼吸窘迫症候群，是孕期肺水腫的重要危險情境。",
       "D": "Beta-mimetic tocolytics 會造成心搏過速、鈉水滯留，與大量靜脈輸液或多胎妊娠合併時可誘發肺水腫。",
@@ -10969,7 +10969,7 @@
     "explanation": {
       "A": "34 週早產胎膜早破原可考慮 betamethasone 等 antenatal corticosteroid，但本例高燒、母體心搏快與 WBC 19,000/mm3 強烈支持羊膜腔內感染；不可為等候類固醇完成而延遲抗生素及生產。",
       "B": "疑似羊膜腔內感染時禁用 tocolytic agents，因抑制產程會延長胎兒暴露於感染環境，增加母胎敗血症風險。",
-      "C": "正確。胎膜早破合併發燒、maternal tachycardia 與 leukocytosis 應立即給廣效靜脈 antibiotics（抗生素）並促進生產；抗生素是選項中最先必須執行的處置。",
+      "C": "本項應選。胎膜早破合併發燒、maternal tachycardia 與 leukocytosis 應立即給廣效靜脈 antibiotics（抗生素）並促進生產；抗生素是選項中最先必須執行的處置。",
       "D": "羊膜腔內感染本身不是剖腹產適應症；胎位為頭位且胎心監測 reassuring，可引產或加強產程，只有一般產科適應症才剖腹。",
       "summary": "PPROM 合併臨床羊膜腔內感染需立即 antibiotics 與 delivery；不作 tocolysis，也不因感染本身直接剖腹。",
       "guideline": "FC 醫學(六)第1上冊 p.91",
@@ -11115,7 +11115,7 @@
     "explanation": {
       "A": "晚停經延長一生中未受拮抗 estrogen 的暴露時間，會增加子宮內膜增生與第一型子宮內膜癌風險，並非較低風險情境。",
       "B": "Lynch syndrome 的 DNA mismatch repair 缺陷會顯著增加子宮內膜癌與大腸癌風險；有家族病史時應進一步做遺傳風險評估。",
-      "C": "正確。吸菸與子宮內膜癌呈反向流行病學關聯，可能與較低 estrogen 暴露有關；但吸菸造成多種癌症與心肺疾病，絕不能作為預防方法。",
+      "C": "本項應選。吸菸與子宮內膜癌呈反向流行病學關聯，可能與較低 estrogen 暴露有關；但吸菸造成多種癌症與心肺疾病，絕不能作為預防方法。",
       "D": "糖尿病常與肥胖及胰島素阻抗共存，這些因素提高周邊 estrogen 生成及子宮內膜癌風險，因此不屬低風險因子。",
       "summary": "晚停經、Lynch syndrome 與糖尿病提高子宮內膜癌風險；吸菸雖呈反向關聯，仍不可被當成保護建議。",
       "guideline": null
@@ -11770,7 +11770,7 @@
     },
     "explanation": {
       "A": "高弓足（pes cavus）會改變足底受力並使足底筋膜承受較高張力，因此是足底筋膜炎（plantar fasciitis）的可能生物力學危險因子。",
-      "B": "正確。距下關節過度旋前（pronation）而非旋後（supination），較典型地使足弓塌陷並增加足底筋膜牽拉；單純把旋後列為致病因素不恰當。",
+      "B": "本項應選。距下關節過度旋前（pronation）而非旋後（supination），較典型地使足弓塌陷並增加足底筋膜牽拉；單純把旋後列為致病因素不恰當。",
       "C": "踝背屈受限常來自腓腸肌—跟腱緊繃，題項所稱蹠屈活動度變差會影響正常步態與足踝力學；活動度異常可增加足底筋膜負荷。",
       "D": "第一蹠趾關節僵硬（hallux limitus）限制推蹬期大拇趾背屈，使 windlass mechanism 失常並出現代償性受力，可促成足底筋膜症狀。",
       "summary": "足底筋膜炎常見因素包括足弓異常、踝與第一蹠趾活動受限；典型相關的距下關節問題是過度旋前而非旋後。",
@@ -11972,7 +11972,7 @@
       "A": "肥厚性心肌症（hypertrophic cardiomyopathy）可因左心室流出道阻塞與惡性心室性心律不整造成運動中猝死，是年輕運動員的重要心因性病因。",
       "B": "主動脈瘤或相關主動脈病變在高強度運動時可能剝離或破裂，尤其有 Marfan syndrome 等結締組織疾病者，屬需排除的致命原因。",
       "C": "冠狀動脈起源或走向異常可能在運動時受壓，造成心肌缺血、心室性心律不整與猝死，是運動員猝死的已知原因。",
-      "D": "正確。單純二尖瓣脫垂（mitral valve prolapse）很常見，多數預後良好；雖有少數 arrhythmic MVP 可致猝死，但相較前三項並非典型常見原因。",
+      "D": "本項應選。單純二尖瓣脫垂（mitral valve prolapse）很常見，多數預後良好；雖有少數 arrhythmic MVP 可致猝死，但相較前三項並非典型常見原因。",
       "summary": "運動員運動中猝死的重要結構性原因包括 HCM、冠狀動脈異常與主動脈病變；一般 MVP 並非常見主因。",
       "guideline": null,
       "concepts": [
@@ -12409,7 +12409,7 @@
     "explanation": {
       "A": "放置中耳引流管是新增的侵入性處置，醫師未說明適應症、風險、替代方案與不處置後果，違反對該處置的告知義務。",
       "B": "病人只同意取出耳內異物，不能推定也同意放置引流管；在沒有立即危及生命的情況下逕行額外處置，違反知情同意。",
-      "C": "正確。題幹沒有醫師向第三人揭露病人資訊的情節，因此問題不在守密，而在未告知、未取得同意及侵害病人的自主決定。",
+      "C": "本項應選。題幹沒有醫師向第三人揭露病人資訊的情節，因此問題不在守密，而在未告知、未取得同意及侵害病人的自主決定。",
       "D": "病人原可在獲得中耳積水與引流管資訊後接受或拒絕；醫師直接代替病人決定，剝奪其自主決定權。",
       "summary": "同一次醫療接觸不代表概括同意所有處置；未經同意加做非緊急侵入性治療侵害告知、同意與自主。",
       "guideline": null,
@@ -14800,7 +14800,7 @@
     },
     "explanation": {
       "A": "金黃色葡萄球菌（Staphylococcus aureus）在 Gram stain 呈革蘭氏陽性球菌葡萄串狀，常見於流感後肺炎、壞死性肺炎或膿瘍。",
-      "B": "正確。肺炎鏈球菌（Streptococcus pneumoniae）是典型社區型肺炎病原，Gram stain 可見 lancet-shaped 革蘭氏陽性雙球菌；可造成迅速惡化的重症肺炎、菌血症與休克。",
+      "B": "本項應選。肺炎鏈球菌（Streptococcus pneumoniae）是典型社區型肺炎病原，Gram stain 可見 lancet-shaped 革蘭氏陽性雙球菌；可造成迅速惡化的重症肺炎、菌血症與休克。",
       "C": "Listeria monocytogenes 是短小革蘭氏陽性桿菌，主要造成高風險族群菌血症或腦膜炎，並非此社區型葉性肺炎最典型病原。",
       "D": "化膿性鏈球菌（Streptococcus pyogenes）在 Gram stain 呈鏈狀革蘭氏陽性球菌，可造成侵襲性感染，但肺炎遠不如 pneumococcus 常見。",
       "summary": "社區型葉性肺炎若痰液見 lancet-shaped 革蘭氏陽性雙球菌，指向 Streptococcus pneumoniae；本題影像仍須核對。",
@@ -15543,7 +15543,7 @@
       "A": "未婚夫雖不是法定配偶，仍可能是病人指定的關係人；不能僅因其身分便斷言永遠無告知可能，關鍵在成年有能力病人的意願與授權。",
       "B": "關係人身分不會自動產生知悉病情的權利；對有能力的成年病人，醫師原則上須取得本人同意，才能向未婚夫揭露。",
       "C": "病人本人是主要告知對象，但「不得」向任何配偶、親屬或關係人說明過於絕對；病人同意或法律例外時仍可適當告知。",
-      "D": "正確。成年且具決定能力的病人可用書面敘明不向特定人告知；醫師應尊重此選擇，並直接與病人討論治療及支持需求。",
+      "D": "本項應選。成年且具決定能力的病人可用書面敘明不向特定人告知；醫師應尊重此選擇，並直接與病人討論治療及支持需求。",
       "summary": "病情告知以病人本人為原則；親密關係不等於自動授權，具能力病人可指定或排除告知對象。",
       "guideline": "FC 醫學(三)第4冊 p.453",
       "concepts": [
@@ -15704,7 +15704,7 @@
       "A": "這題不選。BCG vaccine 是活性減毒牛分枝桿菌疫苗，免疫低下者需避免接種。",
       "B": "這題不選。口服 rotavirus vaccine 含減毒活病毒，可在腸道複製誘發免疫。",
       "C": "這題不選。MMR vaccine 是活性減毒病毒疫苗，懷孕與嚴重免疫抑制時通常不施打。",
-      "D": "正確。Hepatitis B vaccine 是重組次單位疫苗，只提供 HBsAg，不含可複製的活病毒。",
+      "D": "本項應選。Hepatitis B vaccine 是重組次單位疫苗，只提供 HBsAg，不含可複製的活病毒。",
       "summary": "辨認活性減毒疫苗時，把 BCG、rotavirus、MMR 放同組；Hepatitis B 是重組非活性疫苗。",
       "guideline": "FC 醫學(四)第1冊 p.276"
     },
@@ -15864,7 +15864,7 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "正確。保護傘反射（parachute reflex）在嬰兒坐姿向前傾時伸手保護，出現後會保留，不是會消失的原始反射。",
+      "A": "本項應選。保護傘反射（parachute reflex）在嬰兒坐姿向前傾時伸手保護，出現後會保留，不是會消失的原始反射。",
       "B": "這題不選。Moro reflex 是突發失去支撐後外展再內收的反應，通常在嬰兒期逐漸整合消失。",
       "C": "這題不選。不對稱緊張性頸反射（asymmetrical tonic neck reflex）會在轉頭時出現劍士姿勢，正常發展中會被較成熟動作取代。",
       "D": "這題不選。sucking reflex 協助新生兒吸吮，隨口腔動作成熟轉為自主控制，不能視為終生保留的反射。",
@@ -15938,7 +15938,7 @@
     "specialty": "小兒科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。Staphylococcus aureus 食物中毒主要是吃到預先形成的 enterotoxin，症狀不是靠活菌在腸道直接侵入造成。",
+      "A": "本項應選。Staphylococcus aureus 食物中毒主要是吃到預先形成的 enterotoxin，症狀不是靠活菌在腸道直接侵入造成。",
       "B": "這題不選。Shigella species 會侵入結腸黏膜並引發發炎性腹瀉，因此病原本身直接致病。",
       "C": "這題不選。Salmonella enteritidis 可侵入腸黏膜造成發燒、腹痛與腹瀉，並非單純攝入預形成毒素。",
       "D": "這題不選。Campylobacter jejuni 會侵犯腸道並造成發炎，有時糞便帶血，屬直接感染型腹瀉。",
@@ -17549,7 +17549,7 @@
     },
     "explanation": {
       "A": "肌肉病變（myopathy） 造成 proximal weakness、myalgia 或 CK elevation，不會典型在休息時出現難以形容的不適且活動後迅速緩解。",
-      "B": "正確。不寧腿症候群（restless legs syndrome）具 urge to move、休息時加重、活動後改善、傍晚或夜間較嚴重四項特徵；pregnancy 與 iron deficiency 都是常見相關情境。",
+      "B": "本項應選。不寧腿症候群（restless legs syndrome）具 urge to move、休息時加重、活動後改善、傍晚或夜間較嚴重四項特徵；pregnancy 與 iron deficiency 都是常見相關情境。",
       "C": "下肢依賴性水腫（dependent leg edema） 可有脹重感，但不呈明顯 circadian pattern，也不會因短暫踏步而符合 urge-to-move 的感覺運動症候群。",
       "D": "靜坐不能（akathisia） 是全身性的 inner restlessness，常由 dopamine-blocking drugs 引起，不具局限雙腿、夜間休息加重的典型 pattern；題幹也無相關用藥。",
       "summary": "孕婦夜間休息時雙腿不適、強烈想動且活動緩解，是 restless legs syndrome。",
@@ -19084,7 +19084,7 @@
     },
     "explanation": {
       "A": "脈絡叢乳頭狀瘤（choroid plexus papilloma）長大後可在腦室內造成腦脊髓液循環阻塞，因此能導致阻塞性水腦症。",
-      "B": "正確。後脈絡膜動脈受壓不是脈絡叢乳頭狀瘤造成腦室擴大的公認機轉；血管壓迫不會直接解釋腦脊髓液過多或吸收障礙。",
+      "B": "本項應選。後脈絡膜動脈受壓不是脈絡叢乳頭狀瘤造成腦室擴大的公認機轉；血管壓迫不會直接解釋腦脊髓液過多或吸收障礙。",
       "C": "脈絡叢乳頭狀瘤可由腫瘤上皮過度分泌腦脊髓液，形成交通性或合併型水腦症。",
       "D": "腫瘤出血可使血液進入腦脊髓液，引起蜘蛛膜發炎與顆粒吸收受損，進而造成交通性水腦症。",
       "summary": "Choroid plexus papilloma 可藉腦室阻塞、CSF 過度分泌及出血後吸收不良造成 hydrocephalus。",
@@ -19157,7 +19157,7 @@
     "explanation": {
       "A": "環狀全層肢體燒傷形成不具延展性的 eschar，水腫後可壓迫血管與神經；灌流下降是肢體 escharotomy 的典型適應症。",
       "B": "胸廓環狀或大片全層燒傷會限制胸壁擴張、提高通氣壓力；出現呼吸受限時須切開焦痂釋放。",
-      "C": "正確。Escharotomy 切開的是焦痂至皮下脂肪，使外殼鬆解；若需要切開 deep fascia，屬治療 compartment syndrome 的 fasciotomy。",
+      "C": "本項應選。Escharotomy 切開的是焦痂至皮下脂肪，使外殼鬆解；若需要切開 deep fascia，屬治療 compartment syndrome 的 fasciotomy。",
       "D": "危及灌流或通氣時可在 bedside 緊急執行 escharotomy；仍須適當止血、鎮痛與持續神經血管監測。",
       "summary": "Escharotomy 只切開限制性的焦痂；切開筋膜是 fasciotomy，兩者適應症與深度不同。",
       "guideline": null,
@@ -19197,7 +19197,7 @@
     },
     "explanation": {
       "A": "先天性併指症（syndactyly）可孤立發生，也可見於 Poland、Apert 等 syndrome；是否伴骨性融合與其他畸形會影響手術規劃。",
-      "B": "正確。手部最常見是中指與無名指相連，而非拇指與食指；border digits 長度差大，若相連還可能造成生長偏斜。",
+      "B": "本項應選。手部最常見是中指與無名指相連，而非拇指與食指；border digits 長度差大，若相連還可能造成生長偏斜。",
       "C": "胚胎指間組織須經 BMP signaling 促進 apoptosis 才能分離；此程序失敗可形成 syndactyly。",
       "D": "完全型 syndactyly 需要重建自然 webspace，dorsal flap 加 zig-zag incisions 是常用策略；dorsal cloverleaf flap 可提供指蹼頂端覆蓋。",
       "summary": "Syndactyly 最常累及中指—無名指，源於胚胎期指間 apoptosis／BMP signaling 異常。",
@@ -19233,7 +19233,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "拇指（thumb）提供對掌與大部分手部功能，任何 level 的拇指截斷通常都是 replantation 的強適應症。",
-      "B": "正確。單一手指的 多段截斷（multiple-level amputation） 造成血管、神經、肌腱與骨骼多段破壞，存活與功能結果差，是最不適合重接的情況。",
+      "B": "本項應選。單一手指的 多段截斷（multiple-level amputation） 造成血管、神經、肌腱與骨骼多段破壞，存活與功能結果差，是最不適合重接的情況。",
       "C": "幼兒組織修復、神經再生與功能適應能力佳，即使截斷型態較複雜也會積極考慮 replantation。",
       "D": "遠端指節（distal phalanx）截斷可在合適機轉與可辨識血管下重接，且能保留指長、指甲與 pulp；並非比多段截斷更差的選擇。",
       "summary": "斷指重接優先考慮拇指、兒童與多指截斷；單指多段截斷因結構廣泛破壞而最不利。",
@@ -19355,7 +19355,7 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "正確。股動脈（femoral artery）是供應下肢的大口徑主要動脈，取用會造成嚴重肢體缺血與 donor-site morbidity，管徑與性質也不適合作一般 coronary conduit。",
+      "A": "本項應選。股動脈（femoral artery）是供應下肢的大口徑主要動脈，取用會造成嚴重肢體缺血與 donor-site morbidity，管徑與性質也不適合作一般 coronary conduit。",
       "B": "內乳動脈（internal mammary artery）是 CABG 最重要的 arterial conduit；左內乳動脈接至 LAD 具有優良長期通暢率與存活效益。",
       "C": "大隱靜脈（great saphenous vein）長度充足、容易取得，可建立多條繞道；其長期通暢率低於內乳動脈，術後須以 antiplatelet 與 risk-factor control 降低 graft failure。",
       "D": "橈動脈（radial artery）是常用的第二 arterial conduit，尤其適合接到高度狹窄的冠狀動脈以減少 competitive flow；取用前需確認尺動脈與掌弓側枝循環足夠。",
@@ -19390,7 +19390,7 @@
     "explanation": {
       "A": "急性嚴重主動脈瓣逆流（acute severe aortic regurgitation）合併休克時，左心室來不及適應突增的逆流容量，容易肺水腫與低心輸出；這是需緊急瓣膜手術的危急適應症。",
       "B": "有症狀的慢性 severe aortic regurgitation 已表示容量負荷造成心臟代償不足，即使靜息 LVEF 尚保存，仍通常應進行主動脈瓣手術評估。",
-      "C": "正確。無症狀、LVEF 尚正常且 LVESD 僅 30 mm，未達常用的左心室收縮末期擴大門檻，單憑這個數值不是手術適應症；應定期追蹤症狀、LVEF 與左心室尺寸。",
+      "C": "本項應選。無症狀、LVEF 尚正常且 LVESD 僅 30 mm，未達常用的左心室收縮末期擴大門檻，單憑這個數值不是手術適應症；應定期追蹤症狀、LVEF 與左心室尺寸。",
       "D": "無症狀 severe aortic regurgitation 一旦出現左心室收縮功能下降，表示長期容量負荷已造成心肌失代償；題目所用 LVEF <50% 屬明確手術考量。",
       "summary": "Severe aortic regurgitation 的手術時機看急性失代償、症狀與左心室功能／尺寸；無症狀且 LVESD 30 mm 不足以支持手術。",
       "guideline": null,
@@ -19509,7 +19509,7 @@
     "explanation": {
       "A": "法洛氏四重症（tetralogy of Fallot）因右心室出口阻塞與心室中隔缺損造成右向左分流，是典型發紺性先天性心臟病。",
       "B": "大動脈轉位（transposition of the great arteries）使體、肺循環平行，若無 ASD、VSD 或 PDA 混合血流，新生兒會嚴重發紺。",
-      "C": "正確。肺動脈吊索（pulmonary artery sling）是左肺動脈由右肺動脈異常起源並繞過氣管，主要造成氣道壓迫、喘鳴或呼吸窘迫，本身不是心內右向左分流的發紺性心臟病。",
+      "C": "本項應選。肺動脈吊索（pulmonary artery sling）是左肺動脈由右肺動脈異常起源並繞過氣管，主要造成氣道壓迫、喘鳴或呼吸窘迫，本身不是心內右向左分流的發紺性心臟病。",
       "D": "三尖瓣閉鎖（tricuspid atresia）阻斷右心房至右心室血流，必須經 ASD 與 VSD/PDA 維持循環，常呈發紺。",
       "summary": "Pulmonary artery sling 的核心是異常肺動脈壓迫氣管，不是造成右向左分流的 cyanotic heart disease。",
       "guideline": null,
@@ -19789,7 +19789,7 @@
       "A": "膽道阻塞或感染是化膿性肝膿瘍（pyogenic liver abscess）的常見來源，包含 choledocholithiasis、stricture、cholangitis 或膽道處置後感染。",
       "B": "腹腔內感染可經 portal vein 播散至肝臟，例如 diverticulitis、appendicitis 或 bowel infection；即使現代比例下降，仍是成立的感染途徑。",
       "C": "菌血症可經 hepatic artery 形成肝膿瘍，尤其在 systemic infection 或 endocarditis 等情境；這是血行性播散途徑。",
-      "D": "正確。腫瘤中央壞死可模仿膿瘍或續發感染，但「腫瘤細胞壞死本身」不是常見的化膿性肝膿瘍致病來源；應尋找膽道、門靜脈或菌血症來源。",
+      "D": "本項應選。腫瘤中央壞死可模仿膿瘍或續發感染，但「腫瘤細胞壞死本身」不是常見的化膿性肝膿瘍致病來源；應尋找膽道、門靜脈或菌血症來源。",
       "summary": "化膿性肝膿瘍的三條典型路徑是膽道、portal venous spread 與 hepatic arterial bacteremia。",
       "guideline": "FC 醫學(五)第3冊 p.116",
       "concepts": [
@@ -20095,7 +20095,7 @@
     },
     "explanation": {
       "A": "上甲狀腺動脈（superior thyroid artery）通常源自外頸動脈，供應甲狀腺上極；手術結紮時需貼近腺體以降低上喉神經外支受傷風險。",
-      "B": "正確。沒有正常、固定存在的中甲狀腺動脈（middle thyroid artery）；容易混淆的是中甲狀腺靜脈，它由腺體外側引流至內頸靜脈。",
+      "B": "本項應選。沒有正常、固定存在的中甲狀腺動脈（middle thyroid artery）；容易混淆的是中甲狀腺靜脈，它由腺體外側引流至內頸靜脈。",
       "C": "下甲狀腺動脈（inferior thyroid artery）多源自甲狀頸幹，供應甲狀腺下部；其與喉返神經的交叉關係有解剖變異。",
       "D": "最下甲狀腺動脈（thyroidea ima artery）是少數人的變異血管，可源自頭臂幹或主動脈弓，沿氣管前方供應甲狀腺峽部。",
       "summary": "甲狀腺有上、下甲狀腺動脈，少數有 thyroidea ima artery；「中甲狀腺」是靜脈而非標準動脈。",
@@ -20295,7 +20295,7 @@
     "explanation": {
       "A": "雙側 mastectomy 後以 implants 重建，可較容易控制兩側 base width、projection 與 volume，因此是適應症之一。",
       "B": "義乳（implants）不會像自體脂肪與皮瓣形成自然 ptosis；優勢是雙側尺寸可控，缺點則包括較人工的輪廓與 capsular contracture。",
-      "C": "正確。Latissimus dorsi flap 皮島與脂肪量通常不足以單獨重建大型乳房，常需加 implant；它提供的是可靠、薄而有血流的覆蓋，不是大量寬厚體積。",
+      "C": "本項應選。Latissimus dorsi flap 皮島與脂肪量通常不足以單獨重建大型乳房，常需加 implant；它提供的是可靠、薄而有血流的覆蓋，不是大量寬厚體積。",
       "D": "既往腹部手術可能破壞 perforators、造成疤痕或增加腹壁併發症，因此是 TRAM/DIEP 評估中的相對禁忌而非一律禁止。",
       "summary": "Latissimus dorsi flap 血流可靠但體積有限，大型乳房常須合併 implant；腹部皮瓣則能提供較多自體組織。",
       "guideline": "FC 醫學(五)第3冊 p.289",
@@ -20365,7 +20365,7 @@
     "explanation": {
       "A": "①正確：水腎、皮質變薄而輸尿管不擴張，定位在腎盂輸尿管交界阻塞，感染可表現為腎盂腎炎。⑤不當：嚴重水腎與皮質變薄已提示腎功能受威脅，不能只等反覆感染。",
       "B": "②輸尿管膀胱交界阻塞通常會造成輸尿管擴張，與本題無 hydroureter 不符；④輸尿管再植術治療的是遠端輸尿管問題，不是腎盂輸尿管交界狹窄。",
-      "C": "正確。①的腎盂輸尿管交界阻塞（UPJ obstruction）最符合影像；③利尿腎圖可評估分腎功能及 furosemide 後排空情形，協助判定阻塞程度。",
+      "C": "本項應選。①的腎盂輸尿管交界阻塞（UPJ obstruction）最符合影像；③利尿腎圖可評估分腎功能及 furosemide 後排空情形，協助判定阻塞程度。",
       "D": "①與③正確，但⑤忽略已有嚴重水腎、皮質變薄與感染；這些是考慮腎盂成形術（pyeloplasty）的重要理由，不宜僅用抗生素等待。",
       "summary": "水腎但輸尿管不擴張要定位 UPJ；利尿腎圖評估阻塞與分腎功能，嚴重皮質變薄不能只觀察。",
       "guideline": null
@@ -21629,7 +21629,7 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "正確。腔室症候群以疼痛（pain），尤其與傷勢不相稱及被動牽拉痛為早期警訊；painless 與其典型表現相反，不屬 5 P。",
+      "A": "本項應選。腔室症候群以疼痛（pain），尤其與傷勢不相稱及被動牽拉痛為早期警訊；painless 與其典型表現相反，不屬 5 P。",
       "B": "感覺異常（paresthesia）源自腔室內神經缺血，可在病程早期至中期出現；若進展至完全麻木，通常代表更嚴重且持續的神經損害。",
       "C": "無脈（pulselessness）列於傳統 5 P，但屬非常晚期徵象；周邊脈搏存在不能排除腔室症候群，不能等待無脈才手術。",
       "D": "題目版本將 pressure 列入 5 P，用來表達腔室緊繃或壓力升高；臨床上常見的傳統列表也會列 pallor、paralysis 等缺血徵象。",
@@ -21855,7 +21855,7 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "正確。Venturi mask 利用 entrainment 提供相對固定的吸入氧濃度，系統本身不密閉且不產生足以推動吸氣的正壓，不能作為正壓通氣介面。",
+      "A": "本項應選。Venturi mask 利用 entrainment 提供相對固定的吸入氧濃度，系統本身不密閉且不產生足以推動吸氣的正壓，不能作為正壓通氣介面。",
       "B": "喉頭罩（laryngeal mask airway）在聲門上形成 seal，可連接 bag 或 ventilator 施行正壓通氣；但 seal pressure 有限且不能像 cuffed endotracheal tube 完整保護 aspiration。",
       "C": "氣管內管（endotracheal tube）的 cuff 可在氣管內建立密閉通路，是控制氣道及施行正壓通氣的標準工具之一。",
       "D": "麻醉面罩（anesthetic mask）若能與臉部形成良好密合，可配合 breathing circuit 與 bag-mask ventilation 施予正壓呼吸。",
@@ -22017,7 +22017,7 @@
       "A": "口周麻木（circumoral numbness）是局部麻醉劑全身毒性（local anesthetic systemic toxicity, LAST）的典型早期感覺症狀，常伴 metallic taste、耳鳴或 agitation。",
       "B": "舌頭感覺異常（tongue paresthesia）可在血中局部麻醉劑濃度上升初期出現，反映中樞神經興奮與感覺異常，之後可能進展為 seizure。",
       "C": "眩暈（dizziness）可屬 LAST 早期神經症狀；若在區域阻斷注藥時突然出現，應立刻停止注射並評估 intravascular injection。",
-      "D": "正確。典型 LAST 教學中的前驅症狀包括口周麻木、舌部異常、metallic taste、耳鳴與眩暈，接著可有 seizure 或昏迷；hallucination 不是本題所列的典型核心表現。",
+      "D": "本項應選。典型 LAST 教學中的前驅症狀包括口周麻木、舌部異常、metallic taste、耳鳴與眩暈，接著可有 seizure 或昏迷；hallucination 不是本題所列的典型核心表現。",
       "summary": "注射局部麻醉劑時出現口周或舌部異常、耳鳴、眩暈，應把它當作 LAST 早期警訊並立即停藥。",
       "guideline": "FC 醫學(六)第4冊 p.122",
       "concepts": [
@@ -22777,7 +22777,7 @@
     },
     "explanation": {
       "A": "眼眶膿瘍合併視力損傷代表鼻竇感染已威脅視神經與眼眶內容物，需緊急引流與抗生素，屬內視鏡手術的絕對適應症。",
-      "B": "正確。鼻竇炎單純急性加重通常先依嚴重度給予藥物治療；沒有眼眶、顱內併發症、侵襲性黴菌或其他緊急病況時，不是絕對手術適應症。",
+      "B": "本項應選。鼻竇炎單純急性加重通常先依嚴重度給予藥物治療；沒有眼眶、顱內併發症、侵襲性黴菌或其他緊急病況時，不是絕對手術適應症。",
       "C": "鼻竇炎併發腦膜炎屬顱內延伸，除靜脈抗生素與神經科處置外，常需手術處理感染源，屬絕對適應症。",
       "D": "急性侵襲性黴菌性鼻竇炎會快速血管侵犯與壞死，必須緊急廣泛清創並合併全身性抗黴菌治療，屬絕對適應症。",
       "summary": "鼻竇內視鏡的緊急絕對適應症包括視力受威脅的眼眶併發症、顱內併發症及侵襲性黴菌病；單純急性加重不是。",
@@ -23251,7 +23251,7 @@
       "A": "雙胞胎輸血症候群（twin–twin transfusion syndrome）可用 fetoscopic laser photocoagulation 封閉胎盤表面異常吻合血管，是胎兒鏡治療的經典適應症。",
       "B": "後尿道瓣膜（posterior urethral valve）造成嚴重 lower urinary tract obstruction 時，特定個案可考慮 fetal cystoscopy 與 valve ablation；須嚴格選案並評估腎功能可逆性。",
       "C": "威脅肢體或臍帶的羊膜帶可在精選病例以 fetoscopic amniotic band release 解除束縛，但手術本身有 PPROM 與早產風險。",
-      "D": "正確。薦尾椎畸胎瘤（sacrococcygeal teratoma）的胎兒介入多為 open fetal surgery、radiofrequency ablation 或其他血流阻斷策略；不屬本題列舉的常規 fetal endoscopic surgery。",
+      "D": "本項應選。薦尾椎畸胎瘤（sacrococcygeal teratoma）的胎兒介入多為 open fetal surgery、radiofrequency ablation 或其他血流阻斷策略；不屬本題列舉的常規 fetal endoscopic surgery。",
       "summary": "胎兒鏡可治 TTTS、部分 PUV 與羊膜帶；大型高血流 SCT 的介入策略並非常規胎兒鏡手術。",
       "guideline": "FC 醫學(六)第1上冊 p.39",
       "concepts": []
@@ -23329,7 +23329,7 @@
     },
     "explanation": {
       "A": "完成新生兒主動加被動免疫後，母體病毒量極高時仍有 breakthrough infection；1% 低估了 HBeAg 陽性且 HBV DNA 很高的殘餘風險。",
-      "B": "正確。高病毒量、HBeAg 陽性母親若孕期未接受 antiviral prophylaxis，即使新生兒及時接受 HBIG 與完整疫苗，垂直感染仍約可達 10%；現行會評估孕晚期 tenofovir 降低風險。",
+      "B": "本項應選。高病毒量、HBeAg 陽性母親若孕期未接受 antiviral prophylaxis，即使新生兒及時接受 HBIG 與完整疫苗，垂直感染仍約可達 10%；現行會評估孕晚期 tenofovir 降低風險。",
       "C": "50% 更接近未充分預防時的高傳播風險範圍；題中已完成新生兒 immunoprophylaxis，因此風險會大幅下降。",
       "D": "90% 可見於 HBeAg 陽性母親完全未做新生兒免疫預防的情境，並非已給 HBIG 與疫苗後的殘餘風險。",
       "summary": "HBIG 加疫苗可大幅降低 HBV 垂直感染，但母體 HBV DNA 極高仍約有一成失敗風險，故須評估孕晚期 antiviral prophylaxis。",
@@ -23443,7 +23443,7 @@
     },
     "explanation": {
       "A": "多數子宮肌瘤（uterine leiomyoma）在懷孕期間體積變化不大；少數會在早孕期增大或發生紅色變性，因此「大部分不會變大」尚屬合理。",
-      "B": "正確。多數有子宮肌瘤的孕婦仍可獲得良好母胎結果；雖某些位置或大型肌瘤增加疼痛、胎位不正、早產或產後出血風險，不能說經常導致不良結局。",
+      "B": "本項應選。多數有子宮肌瘤的孕婦仍可獲得良好母胎結果；雖某些位置或大型肌瘤增加疼痛、胎位不正、早產或產後出血風險，不能說經常導致不良結局。",
       "C": "子宮肌瘤切除術（myomectomy）後嘗試陰道生產確有罕見子宮破裂風險；題述 0.47% 為文獻估計量級，實際生產方式仍須依切口深度與是否進入子宮腔個別判斷。",
       "D": "黏膜下肌瘤會扭曲子宮腔，妨礙胚胎著床並提高流產風險，因此相較其他位置，與生育力下降的關係最明確。",
       "summary": "肌瘤對懷孕的影響取決於大小與位置，多數孕婦不會因此經常出現不良結局。",
@@ -23478,7 +23478,7 @@
     "specialty": "婦科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。子宮肌瘤與 nulliparity／低產次較相關，懷孕與生產帶來的排卵中斷及產後子宮重塑可能降低風險；因此說多產婦更容易長肌瘤最不適當。",
+      "A": "本項應選。子宮肌瘤與 nulliparity／低產次較相關，懷孕與生產帶來的排卵中斷及產後子宮重塑可能降低風險；因此說多產婦更容易長肌瘤最不適當。",
       "B": "吸菸在觀察研究中與較低子宮肌瘤發生率相關，可能涉及 anti-estrogenic effect；這不代表吸菸可用來預防，因其整體健康危害遠大於此關聯。",
       "C": "多數停經後婦女使用荷爾蒙治療不會造成顯著肌瘤生長，但仍可能有個體差異；若肌瘤快速增大或出血，需重新評估而不能一概歸因於治療。",
       "D": "性傳染病並非子宮平滑肌細胞形成肌瘤的既定危險因子；感染較直接相關的是骨盆腔發炎與輸卵管性不孕，而非肌瘤發生。",
@@ -23637,7 +23637,7 @@
     "explanation": {
       "A": "ELISA 可偵測 HIV 抗體，現代實驗室多以第四代 HIV-1/2 antigen/antibody immunoassay 作初篩，因此屬 HIV 診斷流程的一部分。",
       "B": "Rapid HIV test 可在短時間內偵測 HIV antibody 或 antigen/antibody，適合篩檢與急需結果的情境；反應性結果仍須依確認流程複驗。",
-      "C": "正確。Southern blot 用於偵測特定 DNA sequence，並非臨床 HIV 感染診斷的標準檢測；HIV 核酸檢測使用專門的 amplification assay。",
+      "C": "本項應選。Southern blot 用於偵測特定 DNA sequence，並非臨床 HIV 感染診斷的標準檢測；HIV 核酸檢測使用專門的 amplification assay。",
       "D": "Western blot 過去曾作 HIV 抗體確認試驗；現行演算法多改用 HIV-1/HIV-2 differentiation immunoassay，但歷史上確實屬診斷方法。",
       "summary": "HIV 診斷可用抗原抗體篩檢、快速試驗及特定確認／核酸檢測；Southern blot 不在標準流程。",
       "guideline": "FC 醫學(六)第1下冊 p.151"
@@ -23719,7 +23719,7 @@
       "A": "骨盆腔發炎（pelvic inflammatory disease）臨床表現可很輕微或沒有明顯症狀；即使症狀不典型，仍可能留下輸卵管損傷與不孕後遺症。",
       "B": "PID 多由下生殖道病原經內子宮頸上行至子宮內膜、輸卵管及鄰近腹膜；N. gonorrhoeae 與 C. trachomatis 是重要啟動病原。",
       "C": "PID 常為多菌種感染，除性傳染病原外還包括陰道 flora 與 anaerobes，因此治療需同時涵蓋 gonococcus、chlamydia 與 anaerobes。",
-      "D": "正確。輕至中度 PID 若生命徵象穩定、可服藥且能可靠追蹤，可在門診接受廣效抗生素；懷孕、重症、膿瘍、無法排除手術急症或口服失敗者才需住院。",
+      "D": "本項應選。輕至中度 PID 若生命徵象穩定、可服藥且能可靠追蹤，可在門診接受廣效抗生素；懷孕、重症、膿瘍、無法排除手術急症或口服失敗者才需住院。",
       "summary": "PID 不一定有明顯症狀，也不必一律住院；治療須涵蓋 gonococcus、chlamydia 與 anaerobes。",
       "guideline": "FC 醫學(六)第1下冊 p.151",
       "concepts": [
@@ -23799,7 +23799,7 @@
     },
     "explanation": {
       "A": "切除邊緣陽性或過近表示可能殘留局部腫瘤，是子宮頸癌根除手術後的重要高風險因子，常影響術後同步化學放射治療決策。",
-      "B": "正確。大腫瘤會增加復發風險，但傳統術後病理分層中屬 Sedlis 中度風險因子之一；不像淋巴結、切緣或子宮旁侵犯屬 Peters 高風險三項。",
+      "B": "本項應選。大腫瘤會增加復發風險，但傳統術後病理分層中屬 Sedlis 中度風險因子之一；不像淋巴結、切緣或子宮旁侵犯屬 Peters 高風險三項。",
       "C": "骨盆淋巴結轉移代表已有區域擴散，是根除手術後復發的重要高風險因子，也會改變 FIGO 2018 分期與術後治療。",
       "D": "顯微鏡下子宮旁結締組織侵犯表示腫瘤超出子宮頸，是根除手術後的高風險病理因子，即使肉眼未見也不能忽略。",
       "summary": "子宮頸癌術後 Peters 高風險因子是淋巴結陽性、切緣陽性與子宮旁侵犯；大腫瘤屬中度風險評估。",
@@ -24356,7 +24356,7 @@
     "explanation": {
       "A": "熱療造成局部血管擴張，可增加表淺組織血流並改善僵硬感；因此改善局部循環是合理的治療目的。",
       "B": "熱敷可藉提高疼痛閾值、降低肌肉防衛性緊繃與提供舒適感，短期減輕退化性關節炎（osteoarthritis）的疼痛。",
-      "C": "正確。成人關節軟骨再生能力有限，表淺熱敷只能改善症狀與軟組織延展性，不能促使已退化的關節面軟骨再生。",
+      "C": "本項應選。成人關節軟骨再生能力有限，表淺熱敷只能改善症狀與軟組織延展性，不能促使已退化的關節面軟骨再生。",
       "D": "加熱可降低肌肉痙攣並增加膠原組織延展性，配合伸展或運動能讓關節周圍肌肉與韌帶較放鬆。",
       "summary": "熱敷是 OA 的症狀性物理治療，可增進循環、止痛與放鬆軟組織，但不能再生關節軟骨。",
       "guideline": null,
@@ -24433,7 +24433,7 @@
     "explanation": {
       "A": "訓練頻率是 FITT 原則的一環，決定刺激出現的次數與總訓練量；要形成超負荷，頻率可在恢復允許下逐步增加。",
       "B": "訓練強度是超負荷的核心變項，必須高於個體平常適應的負荷，才會誘發心肺、肌力或代謝適應，同時需避免過度訓練。",
-      "C": "正確。訓練場所本身不決定生理負荷；只要安全且能提供相同的頻率、強度、時間與運動模式，在不同場所仍可達到超負荷。",
+      "C": "本項應選。訓練場所本身不決定生理負荷；只要安全且能提供相同的頻率、強度、時間與運動模式，在不同場所仍可達到超負荷。",
       "D": "運動模式的種類決定主要受刺激的肌群與能量系統，並涉及專項性原則；選錯模式即使很費力，也未必改善目標能力。",
       "summary": "超負荷由訓練的頻率、強度、時間與模式調整；場所不是決定生理刺激的主要變項。",
       "guideline": null,
@@ -24937,7 +24937,7 @@
     "explanation": {
       "A": "強迫（coercion）以可信的傷害威脅迫使病人選擇，會使拒絕某方案的代價被人為提高，因而破壞自願性。",
       "B": "操控（manipulation）藉由隱匿、扭曲資訊或刻意塑造選項，使病人按操控者期待決定，並非尊重其自主判斷。",
-      "C": "正確。說服（persuasion）以理由與證據嘗試改變病人看法，仍保留其拒絕空間；只要不轉為威脅、欺騙或過度施壓，不屬不當影響。",
+      "C": "本項應選。說服（persuasion）以理由與證據嘗試改變病人看法，仍保留其拒絕空間；只要不轉為威脅、欺騙或過度施壓，不屬不當影響。",
       "D": "限制（constraint）壓縮可選範圍或使某選擇實際不可行，可能削弱病人自由決定，須區分疾病本身限制與他人刻意施加的限制。",
       "summary": "自願性排除強迫、操控與不當限制，但允許透明、基於理由且保留拒絕權的說服。",
       "guideline": null,
@@ -28353,11 +28353,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。Down syndrome 常見低張力、單一掌橫紋與特徵性臉貌，但附圖肢體姿勢的關鍵細節需看圖才能確認。",
-      "B": "正確。Edwards syndrome 常見握拳、第二指覆蓋第三指與第五指覆蓋第四指的重疊手指，是辨識度很高的肢體線索；本題圖像需確認。圖上手掌握拳，食指壓在中指上、小指壓在無名指上，是重疊指的典型姿勢，也是愛德華氏症候群（18 三染色體）最好認的外觀。它常合併搖椅狀足、枕骨突出、小下巴與嚴重心臟畸形，多數活不過一歲。",
+      "A": "這題不選。Down syndrome 常見低張力、單一掌橫紋與特徵性臉貌，不是圖中握拳且手指重疊的姿勢。",
+      "B": "正確。圖上手掌握拳，食指壓在中指上、小指壓在無名指上，是重疊指的典型姿勢，也是愛德華氏症候群（18 三染色體）最好認的外觀。它常合併搖椅狀足、枕骨突出、小下巴與嚴重心臟畸形，多數活不過一歲。",
       "C": "這題不選。neonatal Marfan syndrome 可有長指、關節鬆弛與嚴重瓣膜病，但不是典型固定重疊手指。",
       "D": "這題不選。spinal muscular atrophy 以低張力、無力與舌束顫動表現，不能靠特定手指重疊姿勢診斷。",
-      "summary": "新生兒手指重疊、握拳的附圖題先想 Edwards syndrome，但要親眼確認影像姿勢。",
+      "summary": "新生兒握拳加手指重疊（食指壓中指、小指壓無名指），先想 Edwards syndrome。",
       "guideline": "FC 醫學(四)第1冊 p.627"
     },
     "source": "111020/302_22",
@@ -28625,7 +28625,7 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "正確。增生性胃幽門狹窄（hypertrophic pyloric stenosis）阻塞點在壺腹近端，所以吐出的是胃內容物，典型為非膽汁性噴射嘔吐。",
+      "A": "本項應選。增生性胃幽門狹窄（hypertrophic pyloric stenosis）阻塞點在壺腹近端，所以吐出的是胃內容物，典型為非膽汁性噴射嘔吐。",
       "B": "這題不選。十二指腸閉鎖位於膽汁可進入腸道的位置之後，常造成出生早期膽汁性嘔吐。",
       "C": "這題不選。腸旋轉不良合併 volvulus 會在 Vater ampulla 遠端扭轉，任何膽汁性嘔吐都要急查此病。",
       "D": "這題不選。Hirschsprung disease 多見腹脹、延遲排胎便與便秘，也可能出現膽汁性嘔吐，不是典型非膽汁性答案。",
@@ -28903,7 +28903,7 @@
       "A": "本項不選。硬腦膜下出血（subdural hemorrhage）是受虐性腦傷常見的顱內出血型態；反覆加減速會拉扯 bridging veins，形成硬腦膜下血腫。",
       "B": "本項不選。視網膜出血（retinal hemorrhage）是嬰兒受虐性腦傷的重要警訊，尤其雙側、廣泛且累及多層視網膜時更須警覺。它不能單獨確診，仍要合併病史與全身評估。",
       "C": "本項不選。腦水腫（brain edema）可來自缺氧缺血性損傷與嚴重頭部外傷，會加重顱內壓上升，因此是受虐性腦傷可見的嚴重併發表現。",
-      "D": "正確。小腦出血（cerebellar hemorrhage）不是嬰兒受虐性腦傷最典型的三聯相關發現；相較之下，硬腦膜下出血、視網膜出血與腦病變更常被討論。",
+      "D": "本項應選。小腦出血（cerebellar hemorrhage）不是嬰兒受虐性腦傷最典型的三聯相關發現；相較之下，硬腦膜下出血、視網膜出血與腦病變更常被討論。",
       "summary": "懷疑嬰兒受虐性腦傷時，先把 subdural hemorrhage、retinal hemorrhage 和腦損傷連在一起；小腦出血較不典型。",
       "guideline": "FC 醫學(四)第1冊 p.354"
     },
@@ -29218,7 +29218,7 @@
     },
     "explanation": {
       "A": "本項不選。缺鐵性貧血（iron deficiency anemia）因 hemoglobin 合成原料不足，紅血球會變小且偏淡，是典型小球性貧血。",
-      "B": "正確。再生不良性貧血（aplastic anemia）是骨髓造血衰竭，常見 pancytopenia 與 reticulocyte 低下；紅血球多為正球性或可偏大，不是典型小球性表現。",
+      "B": "本項應選。再生不良性貧血（aplastic anemia）是骨髓造血衰竭，常見 pancytopenia 與 reticulocyte 低下；紅血球多為正球性或可偏大，不是典型小球性表現。",
       "C": "本項不選。海洋性貧血（thalassemia）使 globin chain 合成不足，紅血球常明顯小球性；其 MCV 可很低而與貧血嚴重度不完全成比例。",
       "D": "本項不選。鉛中毒（lead poisoning）會抑制 heme 合成相關酵素，造成小球性貧血，周邊血抹片還可見 basophilic stippling。",
       "summary": "小球性貧血先想鐵、thalassemia、鉛；若是 pancytopenia 加低 reticulocyte，要轉想骨髓衰竭的 aplastic anemia。",
@@ -30694,9 +30694,9 @@
       "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
     },
     "explanation": {
-      "A": "本項是本題要選的。Praxis 指把目的轉成熟練動作的能力，例如依指令模仿刷牙；它屬知覺—動作（perceptual-motor）domain，不是 executive function。",
+      "A": "本項不選。工作記憶（working memory）暫存並操作資訊，例如心算或依序執行多步指令，是 executive function 的核心。",
       "B": "本項不選。錯誤修正需要監控行為結果、發現偏差後調整策略，屬 executive function 的自我調節功能。",
-      "C": "本項的 praxis 不是本題答案。工作記憶（working memory）暫存並操作資訊，例如心算或依序執行多步指令，是 executive function 的核心。",
+      "C": "本項應選。Praxis 指把目的轉成熟練動作的能力，例如依指令模仿刷牙。它屬知覺—動作（perceptual-motor）domain，不是 executive function。",
       "D": "本項不選。決策（decision making）須比較風險、報酬與後果，也是 executive function 的範圍。",
       "summary": "Executive function 管規劃、工作記憶、決策與修正；praxis 是把想法做成動作，歸 perceptual-motor。",
       "guideline": "FC 醫學(四)第3冊 p.202",
@@ -31397,7 +31397,7 @@
       "A": "原發性膽汁性膽管炎（primary biliary cholangitis）進展至 decompensated cirrhosis、難治搔癢或其他 transplant criteria 時，是 liver transplantation 的適應症。",
       "B": "肝細胞癌（hepatocellular carcinoma）若腫瘤負荷符合選定標準且無 macrovascular invasion 或 extrahepatic spread，可透過 liver transplantation 同時治療腫瘤與 underlying cirrhosis。",
       "C": "膽道閉鎖（biliary atresia）即使經 Kasai portoenterostomy，仍可能進展為 cholestatic cirrhosis，是兒童 liver transplantation 的常見適應症。",
-      "D": "正確。心衰竭造成的 congestive hepatopathy 應先處理 cardiac disease；單獨 liver transplantation 無法矯正持續的 venous congestion。不可逆的心肝雙重衰竭需評估 combined heart-liver transplantation，而非一般單獨肝移植適應症。",
+      "D": "本項應選。心衰竭造成的 congestive hepatopathy 應先處理 cardiac disease；單獨 liver transplantation 無法矯正持續的 venous congestion。不可逆的心肝雙重衰竭需評估 combined heart-liver transplantation，而非一般單獨肝移植適應症。",
       "summary": "肝移植可治末期膽汁鬱積性疾病、biliary atresia 與選定 HCC；由 heart failure 驅動的肝硬化須先解決心臟病因。",
       "guideline": null,
       "concepts": [
@@ -31864,7 +31864,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "腕隧道（carpal tunnel）位於 transverse carpal ligament 下方，其中受壓的是 median nerve，造成拇、食、中指與無名指橈側感覺症狀。",
-      "B": "正確。Guyon canal 內通過的是 ulnar nerve 與 ulnar artery；radial nerve 不通過此隧道，所以此配對錯誤。",
+      "B": "本項應選。Guyon canal 內通過的是 ulnar nerve 與 ulnar artery；radial nerve 不通過此隧道，所以此配對錯誤。",
       "C": "總腓神經（common peroneal nerve）繞過 fibular neck/head，位置表淺，容易因壓迫或骨折受損而出現 foot drop。",
       "D": "踝管（tarsal tunnel）位於 medial ankle flexor retinaculum 下，內含 tibial nerve；受壓可造成足底疼痛與感覺異常。",
       "summary": "Entrapment 配對：carpal tunnel—median、Guyon canal—ulnar、fibular head—peroneal、tarsal tunnel—tibial。",
@@ -32138,7 +32138,7 @@
       "A": "部分厚度植皮（split-thickness skin graft）包含 epidermis 與部分 dermis；donor site 留下 skin appendages，可由殘存上皮再生而自行癒合。",
       "B": "全層植皮（full-thickness skin graft）包含 epidermis 與全部 dermis，取下後 donor site 無法靠 dermal appendages 再生，通常需直接縫合。",
       "C": "全層植皮（full-thickness graft）保留較多 dermis，primary contraction 較大但後續 secondary contraction 較少，適合臉部或關節等重視色澤與攣縮處。",
-      "D": "正確。頭皮（scalp）因毛囊深且血流佳，是優良的 split-thickness donor site；若取 full-thickness 會留下無法自行上皮化的缺損及毛髮相關問題。",
+      "D": "本項應選。頭皮（scalp）因毛囊深且血流佳，是優良的 split-thickness donor site；若取 full-thickness 會留下無法自行上皮化的缺損及毛髮相關問題。",
       "summary": "Scalp 適合反覆取 split-thickness graft，不是 full-thickness graft 的理想供皮區。",
       "guideline": "FC 醫學(五)第2冊 p.301",
       "concepts": [
@@ -32517,7 +32517,7 @@
     "explanation": {
       "A": "Nissen fundoplication 是 360° total wrap，可增強抗逆流屏障；適合 esophageal motility 尚可且需手術治療的 GERD 患者。",
       "B": "Toupet fundoplication 是 posterior partial wrap，常在擔心 postoperative dysphagia 或 esophageal dysmotility 時作為抗逆流術式。",
-      "C": "正確。Kocher maneuver 是游離 duodenum 與 pancreatic head 的手術步驟，不是公認的 fundoplication 抗逆流術式；「Kocher fundoplication」不屬標準 GERD 手術。",
+      "C": "本項應選。Kocher maneuver 是游離 duodenum 與 pancreatic head 的手術步驟，不是公認的 fundoplication 抗逆流術式；「Kocher fundoplication」不屬標準 GERD 手術。",
       "D": "Dor fundoplication 是 anterior partial wrap，常搭配 Heller myotomy 以減少術後 reflux，也具有抗逆流用途。",
       "summary": "抗逆流 fundoplication 包括 Nissen、Toupet 與 Dor；Kocher 是十二指腸游離 maneuver，不是 fundoplication。",
       "guideline": "FC 醫學(五)第4冊 p.114",
@@ -32598,7 +32598,7 @@
     },
     "explanation": {
       "A": "遠端食道本身的 intrinsic circular smooth muscle 提供 lower esophageal sphincter（LES）的主要高壓區，是解剖與生理抗逆流屏障的一部分。",
-      "B": "正確。腹內壓（intra-abdominal pressure）是作用於腹段食道的生理力量，不是可被稱為 LES「解剖構造」的組織；它可增強壓力屏障，但不構成 sphincter 本體。",
+      "B": "本項應選。腹內壓（intra-abdominal pressure）是作用於腹段食道的生理力量，不是可被稱為 LES「解剖構造」的組織；它可增強壓力屏障，但不構成 sphincter 本體。",
       "C": "Gastric cardia 的 sling fibers 與 distal esophageal clasp fibers 共同參與 gastroesophageal junction 的高壓區及 angle of His 抗逆流機制。",
       "D": "橫膈腳（crura of the diaphragm）形成外在 pinch-cock，吸氣時收縮並支援 esophagogastric junction，屬抗逆流屏障的解剖組成。",
       "summary": "LES 抗逆流屏障由 distal esophageal muscle、gastric sling fibers 與 diaphragmatic crura 等組成；腹內壓是力量而非解剖組織。",
@@ -32841,7 +32841,7 @@
       "A": "Heller myotomy 用於食道失弛緩症（achalasia），目的是切開不適當緊縮的 LES；本例 esophageal motility 正常且主病為 GERD，反而可能因切開 sphincter 加重 reflux。",
       "B": "袖狀胃切除術（sleeve gastrectomy）可增加或惡化 GERD，並不是非肥胖 GERD 患者的抗逆流術式；若 bariatric context 且 severe reflux，通常較偏向 Roux-en-Y gastric bypass。",
       "C": "膽胰分流術（biliopancreatic diversion）是高複雜度 malabsorptive bariatric operation，適應症與代謝減重相關，不是本例藥物難治 GERD 的標準下一步。",
-      "D": "正確。已客觀證實 severe GERD、PPI 治療失敗且 esophageal motility 正常時，可考慮 Nissen fundoplication；完整 wrap 可加強 gastroesophageal junction，即使沒有 hiatal hernia 仍可施作。",
+      "D": "本項應選。已客觀證實 severe GERD、PPI 治療失敗且 esophageal motility 正常時，可考慮 Nissen fundoplication；完整 wrap 可加強 gastroesophageal junction，即使沒有 hiatal hernia 仍可施作。",
       "summary": "客觀 GERD、藥物治療失敗且 motility 正常時可選 Nissen fundoplication；Heller myotomy 是 achalasia 手術。",
       "guideline": "FC 醫學(五)第3冊 p.35",
       "concepts": [
@@ -32997,7 +32997,7 @@
     "explanation": {
       "A": "術後頸部血腫可迅速升高頸部壓力、壓迫氣管並造成致命性呼吸道阻塞；若病人頸部腫脹、喘鳴或窒息，需立即開放傷口減壓。",
       "B": "雙側喉返神經損傷會使兩側聲帶停在近正中位置，造成吸氣性喘鳴與嚴重呼吸困難，可能需要緊急插管或氣管切開。",
-      "C": "正確。術後甲狀腺功能低下通常逐漸出現，不會在甲狀腺手術後急性造成氣管黏膜水腫與呼吸困難，因此是最不可能原因。",
+      "C": "本項應選。術後甲狀腺功能低下通常逐漸出現，不會在甲狀腺手術後急性造成氣管黏膜水腫與呼吸困難，因此是最不可能原因。",
       "D": "困難插管或反覆操作可造成喉部創傷與聲門水腫，拔管後可能出現 stridor 與呼吸困難，屬急性術後氣道問題。",
       "summary": "甲狀腺術後急性呼吸困難先想血腫、雙側喉返神經損傷或插管性喉水腫，不是慢性甲低。",
       "guideline": null,
@@ -33147,7 +33147,7 @@
     "explanation": {
       "A": "TRAM flap 使用下腹皮膚、脂肪與部分 rectus abdominis，可提供足夠 volume 與自然 ptosis，能完成全乳房自體重建。",
       "B": "肥胖（obesity）增加 wound、fat necrosis 與 donor-site complication；既往腹部手術也可能破壞血流或腹壁，兩者均須視情況作相對禁忌評估。",
-      "C": "正確。抽菸（smoking）造成 vasoconstriction、降低 wound oxygenation，會增加 flap necrosis 與傷口併發症；重度 alcohol use 亦影響營養、肝功能與術後風險，不能說毫無影響。",
+      "C": "本項應選。抽菸（smoking）造成 vasoconstriction、降低 wound oxygenation，會增加 flap necrosis 與傷口併發症；重度 alcohol use 亦影響營養、肝功能與術後風險，不能說毫無影響。",
       "D": "TRAM 會犧牲部分腹直肌並削弱腹壁；術後須逐步恢復 core strength，待傷口與腹壁穩定後才進行劇烈運動。",
       "summary": "TRAM 能提供完整乳房體積，但 smoking、肥胖、腹部疤痕與腹壁功能都會影響安全性。",
       "guideline": "FC 醫學(五)第3冊 p.288",
@@ -33369,7 +33369,7 @@
     "explanation": {
       "A": "腹腔外硬纖維瘤（extraabdominal desmoid tumor）是不轉移但會局部侵犯、易復發的 fibroblastic proliferation，aggressive fibromatosis 是其慣用名稱。",
       "B": "第 1 型多發性神經纖維瘤（neurofibromatosis type 1）又稱 von Recklinghausen disease，可有多發 neurofibromas、café-au-lait macules 與其他系統表現。",
-      "C": "正確。滑膜肉瘤（synovial sarcoma）是重要的年輕成人 soft-tissue sarcoma，但不是整體第二常見類型；成人常見排序會因分類而異，undifferentiated pleomorphic sarcoma、liposarcoma、leiomyosarcoma 更常居前。",
+      "C": "本項應選。滑膜肉瘤（synovial sarcoma）是重要的年輕成人 soft-tissue sarcoma，但不是整體第二常見類型；成人常見排序會因分類而異，undifferentiated pleomorphic sarcoma、liposarcoma、leiomyosarcoma 更常居前。",
       "D": "惡性周圍神經鞘瘤（malignant peripheral nerve sheath tumor）可發生於 NF1 既有 plexiform neurofibroma；相較 sporadic solitary neurofibroma，NF1 相關病灶的惡性轉化風險確實較重要。",
       "summary": "Synovial sarcoma 名稱雖常見於考題，並非成人軟組織肉瘤中固定的第二常見組織型。",
       "guideline": null,
@@ -33680,7 +33680,7 @@
       "A": "尿結石基質（matrix）中的蛋白與細胞碎屑可作為 heterogeneous nucleation scaffold，促進晶體附著與成長。",
       "B": "尿中 oxalate 增加 calcium oxalate supersaturation，是最重要的成石 promoter 之一。",
       "C": "尿酸可自行形成 uric acid stone，也可作為 calcium oxalate crystal 的 nucleation nidus，故會促進成石。",
-      "D": "正確。尿中 magnesium 可與 oxalate 結合並降低 calcium oxalate crystallization，一般被視為 inhibitor 而不是 promoter。",
+      "D": "本項應選。尿中 magnesium 可與 oxalate 結合並降低 calcium oxalate crystallization，一般被視為 inhibitor 而不是 promoter。",
       "summary": "Matrix、oxalate 與 uric acid 可促進結晶；magnesium 對 calcium oxalate 成石具有抑制作用。",
       "guideline": null,
       "concepts": [
@@ -33835,7 +33835,7 @@
       "A": "C5–C7 是 suprasacral lesion，會中斷 descending inhibition，但保留 S2–S4 reflex arc，脊髓休克期後可出現 neurogenic detrusor overactivity。",
       "B": "T4–T7 同樣位於 sacral micturition center 以上；完整損傷後可造成 detrusor overactivity 並常合併 detrusor-sphincter dyssynergia。",
       "C": "L3–L4 仍通常高於 S2–S4 parasympathetic reflex center；若 sacral reflex arc 保留，可形成 suprasacral pattern 的反射亢進。",
-      "D": "正確。S2–S4 完全損傷直接破壞 parasympathetic detrusor reflex arc，較典型造成 areflexic、acontractile bladder，而非 detrusor hyperreflexia。",
+      "D": "本項應選。S2–S4 完全損傷直接破壞 parasympathetic detrusor reflex arc，較典型造成 areflexic、acontractile bladder，而非 detrusor hyperreflexia。",
       "summary": "Suprasacral spinal injury 保留 S2–S4 reflex arc 而易 detrusor overactivity；直接 sacral injury 則偏 areflexia。",
       "guideline": "FC 醫學(五)第5冊 p.170",
       "concepts": [
@@ -34071,7 +34071,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "淋巴瘤（lymphoma）常形成 retroperitoneal lymphadenopathy 或包繞大血管的 soft-tissue mass，是後腹膜腔腫瘤的重要鑑別。",
-      "B": "正確。多形性膠質母細胞瘤（glioblastoma）主要在 central nervous system 內迅速進展，顱外轉移極罕見；以後腹膜腔 solitary metastasis 表現遠不如其他三項合理。多形性膠質母細胞瘤幾乎不會轉移到中樞神經系統以外，這是它最著名的特性之一（原因與缺乏淋巴引流、腫瘤細胞難以在腦外存活有關）。所以在後腹腔腫瘤的鑑別診斷裡，它是最不可能的來源；真正要想的是淋巴瘤、肉瘤與生殖細胞瘤。",
+      "B": "本項應選。多形性膠質母細胞瘤（glioblastoma）主要在 central nervous system 內迅速進展，顱外轉移極罕見；以後腹膜腔 solitary metastasis 表現遠不如其他三項合理。多形性膠質母細胞瘤幾乎不會轉移到中樞神經系統以外，這是它最著名的特性之一（原因與缺乏淋巴引流、腫瘤細胞難以在腦外存活有關）。所以在後腹腔腫瘤的鑑別診斷裡，它是最不可能的來源；真正要想的是淋巴瘤、肉瘤與生殖細胞瘤。",
       "C": "未分化多形性肉瘤（undifferentiated pleomorphic sarcoma）可原發於 deep soft tissue 或 retroperitoneum，形成大型 heterogeneous mass，屬可能診斷。",
       "D": "精細胞瘤（seminoma）可轉移至 retroperitoneal para-aortic lymph nodes；中年男性後腹膜 mass 必須結合 testicular examination、ultrasound 與 tumor markers 評估 occult testicular primary。",
       "summary": "男性 retroperitoneal mass 可考慮 lymphoma、sarcoma 或 metastatic seminoma；glioblastoma 顱外轉移極罕見。",
@@ -34305,7 +34305,7 @@
       "A": "公開揭露財務、研究或其他次要利益，能讓病人、機構與審查者評估偏倚，是處理利益衝突的基本方式。",
       "B": "將利益衝突交由倫理委員會或其他獨立機制審議，可決定迴避、限制角色、加強監督或其他管理措施。",
       "C": "對無法妥善管理或風險過高的利益衝突，可明文禁止特定行為並設置處罰，以降低不當誘因。",
-      "D": "正確。賠償是在損害發生後填補損失，不是辨識、揭露、避免或管理利益衝突本身的主要方法。",
+      "D": "本項應選。賠償是在損害發生後填補損失，不是辨識、揭露、避免或管理利益衝突本身的主要方法。",
       "summary": "利益衝突的處理重點是揭露、獨立審議、迴避或禁止；損害賠償不屬事前管理機制。",
       "guideline": null
     },
@@ -34412,7 +34412,7 @@
     "specialty": "麻醉科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。麻醉誘導後 peripheral vasodilation 使核心熱量重新分布至周邊，第一小時常下降約 0.5–1.5°C，稱重分布性低體溫（redistribution hypothermia）。",
+      "A": "本項應選。麻醉誘導後 peripheral vasodilation 使核心熱量重新分布至周邊，第一小時常下降約 0.5–1.5°C，稱重分布性低體溫（redistribution hypothermia）。",
       "B": "麻醉開始後單靠 surface warming 難以完全阻止已存在的 core-to-peripheral heat redistribution；術前預熱（prewarming）可減少周邊與核心溫差，才更能預防第一小時快速下降。",
       "C": "呼吸道加溫與加濕（airway heating and humidification）只能回收相對少量 respiratory heat loss；兒童因 surface-area-to-mass ratio 較大更易失溫，不能說成人比小兒更有效。",
       "D": "區域麻醉（regional anesthesia）會阻斷交感血管收縮、降低 vasoconstriction threshold，且病人可能感覺不到阻斷區域的冷，因此同樣會發生低體溫。",
@@ -34608,7 +34608,7 @@
     },
     "explanation": {
       "A": "硬膜外止痛（epidural analgesia）直接在 neuraxis 提供 local anesthetic/opioid，可降低 systemic opioid dose，因而減少 sedation、ileus、nausea 與 respiratory depression。",
-      "B": "正確。Epidural local anesthetic 會阻斷 sympathetic outflow，而不是增加；適當 sympathetic block 可改善某些區域灌流，但也可能造成 hypotension 與 urinary retention。",
+      "B": "本項應選。Epidural local anesthetic 會阻斷 sympathetic outflow，而不是增加；適當 sympathetic block 可改善某些區域灌流，但也可能造成 hypotension 與 urinary retention。",
       "C": "胸腰段 epidural 可減少 systemic opioid、阻斷 surgical stress 並促進 gastrointestinal motility，部分腹部手術病人可較早恢復 bowel function。",
       "D": "良好 thoracic epidural analgesia 讓病人更能深呼吸、咳嗽與活動，可減少 atelectasis 與部分 pulmonary complications，效益仍取決於手術與病人風險。",
       "summary": "Epidural analgesia 的優點來自 segmental analgesia 與 sympathetic blockade；它不會增加 sympathetic outflow。",
@@ -35372,7 +35372,7 @@
     },
     "explanation": {
       "A": "鼻咽具有豐富中線與咽後淋巴引流，鼻咽癌常轉移至咽後淋巴結，不能選為最不容易者。",
-      "B": "正確。舌癌主要沿舌淋巴管轉移至 level I–III 頸部淋巴結；相較鼻咽、扁桃腺與咽後壁，咽後淋巴結不是典型首站。",
+      "B": "本項應選。舌癌主要沿舌淋巴管轉移至 level I–III 頸部淋巴結；相較鼻咽、扁桃腺與咽後壁，咽後淋巴結不是典型首站。",
       "C": "扁桃腺位於口咽，除 upper deep cervical nodes 外也可引流至咽後淋巴結，因此其機率高於口腔舌癌。",
       "D": "咽後壁病灶與咽後間隙淋巴網絡解剖相鄰，可直接轉移至咽後淋巴結，並非最不容易。",
       "summary": "咽後淋巴結常接受鼻咽與咽部引流；口腔舌癌較偏向 level I–III 頸結，最不易轉移至此。",
@@ -35453,7 +35453,7 @@
       "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
     },
     "explanation": {
-      "A": "正確。糖尿病（diabetes mellitus）本身不是 methotrexate 治療子宮外孕的絕對禁忌；仍須確認生命徵象穩定、未破裂、可追蹤，以及 CBC、肝腎功能適合。",
+      "A": "本項應選。糖尿病（diabetes mellitus）本身不是 methotrexate 治療子宮外孕的絕對禁忌；仍須確認生命徵象穩定、未破裂、可追蹤，以及 CBC、肝腎功能適合。",
       "B": "Methotrexate 會進入乳汁並抑制快速分裂細胞，因此哺乳是禁忌；若需治療應停止 breastfeeding 並依專業建議處理乳汁。",
       "C": "血小板低下症（thrombocytopenia）表示 bone-marrow dysfunction 或出血風險，methotrexate 可能加重骨髓抑制，因此屬禁忌。",
       "D": "腹內出血（intra-abdominal hemorrhage）提示 ruptured ectopic pregnancy 或持續性出血，需要緊急手術與復甦，不適合等待 methotrexate 發揮作用。",
@@ -35494,7 +35494,7 @@
       "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
     },
     "explanation": {
-      "A": "正確。目前屬妊娠位置不明（pregnancy of unknown location）：β-hCG 647 mIU/mL 尚低於多數機構的 discriminatory level，無法因超音波未見 gestational sac 就診斷 ectopic pregnancy；病人穩定，應 48 小時後再追 β-hCG 並複查超音波。",
+      "A": "本項應選。目前屬妊娠位置不明（pregnancy of unknown location）：β-hCG 647 mIU/mL 尚低於多數機構的 discriminatory level，無法因超音波未見 gestational sac 就診斷 ectopic pregnancy；病人穩定，應 48 小時後再追 β-hCG 並複查超音波。",
       "B": "單次 progesterone 可協助評估妊娠存活可能性，但不能可靠區分 intrauterine 與 ectopic pregnancy，也不如 serial β-hCG 能直接指引下一步。",
       "C": "病人生命徵象穩定、無 peritoneal signs、adnexal mass 或 free fluid，現在直接 laparoscopy 侵入性過高，也可能傷害仍太早而看不到的 intrauterine pregnancy。",
       "D": "AST、creatinine 與 hemoglobin 是準備 methotrexate 時的安全評估之一；但目前尚未確診 ectopic pregnancy，不能跳過 serial assessment 直接進入用藥流程。",
@@ -35576,7 +35576,7 @@
     "explanation": {
       "A": "持續不 reassuring fetal status 若經 intrauterine resuscitation 未改善，可能需要緊急剖腹以避免缺氧傷害，屬常見適應症。",
       "B": "產程遲滯須依 active-phase arrest 或 second-stage arrest 的診斷條件判定；確認無法安全陰道生產後可成為剖腹適應症。",
-      "C": "正確。陰道 B 群鏈球菌（group B Streptococcus）篩檢陽性應在產程中給予 intrapartum antibiotic prophylaxis，不能以剖腹代替常規預防，也不是剖腹適應症。",
+      "C": "本項應選。陰道 B 群鏈球菌（group B Streptococcus）篩檢陽性應在產程中給予 intrapartum antibiotic prophylaxis，不能以剖腹代替常規預防，也不是剖腹適應症。",
       "D": "完全性前置胎盤（placenta previa）阻塞胎兒通過子宮頸且陰道生產可引發嚴重出血，通常需計畫性剖腹生產。",
       "summary": "GBS colonization 的處置是產程中 antibiotics，不是 cesarean delivery；fetal compromise、arrest disorder 與 placenta previa 才可構成適應症。",
       "guideline": "FC 醫學(六)第1上冊 p.128",
@@ -35932,7 +35932,7 @@
       "A": "GnRH agonist 先短暫 flare，之後下調受體而造成低 estrogen，可縮小肌瘤並改善出血；因骨質流失與熱潮紅，通常限期作術前或過渡治療。",
       "B": "levonorgestrel-releasing intrauterine system 可使子宮內膜萎縮並減少經血，適合未明顯扭曲子宮腔者；它主要控制出血而非消除肌瘤。",
       "C": "tranexamic acid 抑制纖維蛋白溶解，可在月經期間減少大量經血，屬肌瘤相關重經的非荷爾蒙症狀治療。",
-      "D": "正確。danazol 雖可減少經血，但雄性化、體重增加與血脂等副作用限制使用，並非現行子宮肌瘤重經的常規首選藥物。",
+      "D": "本項應選。danazol 雖可減少經血，但雄性化、體重增加與血脂等副作用限制使用，並非現行子宮肌瘤重經的常規首選藥物。",
       "summary": "肌瘤重經可用 LNG-IUS、tranexamic acid 或限期 GnRH agonist；danazol 因副作用而不符常規。",
       "guideline": "FC 醫學(六)第1下冊 p.67",
       "concepts": [
@@ -35970,7 +35970,7 @@
       "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
     },
     "explanation": {
-      "A": "正確。兒童與青少女附件腫塊多數仍為良性，但相較成年生育年齡女性，惡性生殖細胞腫瘤占比不可忽視；籠統說惡性可能性「很低」最不適當。",
+      "A": "本項應選。兒童與青少女附件腫塊多數仍為良性，但相較成年生育年齡女性，惡性生殖細胞腫瘤占比不可忽視；籠統說惡性可能性「很低」最不適當。",
       "B": "兒童與青少女的卵巢腫瘤以生殖細胞來源最常見，約占半數以上；成熟囊性畸胎瘤是常見良性類型。",
       "C": "骨盆超音波無游離輻射，可分辨囊性／實質、大小、血流及扭轉線索，是評估兒少卵巢腫瘤的第一線影像。",
       "D": "上皮性卵巢腫瘤的比例會隨年齡上升；在兒童與青少女遠少於生殖細胞腫瘤，因此「不常見」合理。",
@@ -36053,7 +36053,7 @@
     },
     "explanation": {
       "A": "Müllerian agenesis 是原發性閉經的重要原因之一；患者通常有正常卵巢功能與女性第二性徵，但子宮與上段陰道發育不全。",
-      "B": "正確。多數 Müllerian anomalies 不影響卵巢與 estrogen 分泌，所以乳房與陰毛等第二性徵通常正常，而非發育遲緩。",
+      "B": "本項應選。多數 Müllerian anomalies 不影響卵巢與 estrogen 分泌，所以乳房與陰毛等第二性徵通常正常，而非發育遲緩。",
       "C": "處女膜閉鎖、橫向陰道隔膜及子宮頸／陰道發育不全都可造成生殖道先天性阻塞或缺如，臨床常在青春期因閉經被發現。",
       "D": "若卵巢功能與子宮內膜週期正常，但流出道被處女膜或陰道隔膜阻塞，會出現原發性閉經合併週期性下腹痛與積血。",
       "summary": "Müllerian anomalies 常造成原發性閉經或經血流出阻塞，但卵巢功能正常，因此第二性徵多正常。",
@@ -36253,7 +36253,7 @@
       "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
     },
     "explanation": {
-      "A": "正確。依 FIGO 2018，腫瘤侷限子宮頸且基質侵犯深度達 5 mm 不再屬 IA；最大徑 1 cm、未達 2 cm，故分為 IB1。",
+      "A": "本項應選。依 FIGO 2018，腫瘤侷限子宮頸且基質侵犯深度達 5 mm 不再屬 IA；最大徑 1 cm、未達 2 cm，故分為 IB1。",
       "B": "FIGO 2018 IIA1 必須已侵犯陰道上三分之二、但未侵犯子宮旁，且腫瘤最大徑 <4 cm；題幹僅見子宮頸 1 cm 腫瘤。",
       "C": "FIGO 2018 IIB 代表子宮旁侵犯但未達骨盆壁；題幹影像與檢查未顯示 parametrial involvement，因此不能列 IIB。",
       "D": "FIGO 2018 IIIB 需達骨盆壁、造成腎盂積水或無功能腎；本例膀胱鏡與骨盆 CT 正常，也無此類局部晚期線索。",
@@ -36956,9 +36956,9 @@
     "specialty": "復健科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確。約 12 個月的幼兒可扶著傢俱側步或走幾步，這是從扶站逐漸過渡到獨走的常見粗大動作里程碑。",
-      "B": "不正確。拍手是約 9–12 個月常見的社會互動與精細動作表現，可模仿大人拍手或參與遊戲。",
-      "C": "不正確。揮手表示再見需要模仿和社會溝通，約 9–12 個月通常已會出現。",
+      "A": "本項不選。約 12 個月的幼兒可扶著傢俱側步或走幾步，這是從扶站逐漸過渡到獨走的常見粗大動作里程碑。",
+      "B": "本項不選。拍手是約 9–12 個月常見的社會互動與精細動作表現，可模仿大人拍手或參與遊戲。",
+      "C": "本項不選。揮手表示再見需要模仿和社會溝通，約 9–12 個月通常已會出現。",
       "D": "本項較不可能。12 個月多能敲兩塊積木、把物品放入容器；穩定重疊兩塊積木通常較晚才成熟。",
       "summary": "一歲先記扶走、拍手與揮手；積木能疊高是後面才逐步成熟的精細動作。",
       "guideline": null,
@@ -36992,10 +36992,10 @@
     "specialty": "復健科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。腦性麻痺的髖關節容易因內收肌痙攣而逐漸半脫位或脫位，若髖位置惡化則不宜硬等到 7 歲後，需及早監測與介入。",
-      "B": "不正確。膝部矯正手術多會配合步態與生長評估安排，通常不屬於必須提早處理的例外部位。",
-      "C": "不正確。踝足的肌腱延長或骨性手術常須避免過早，以免生長期間復發或造成過度矯正；會依功能與攣縮狀態個別決定。",
-      "D": "不正確。脊椎手術需要考慮曲線進展、呼吸功能與骨骼成熟度，並非一般腦性麻痺下肢手術時間點的早期例外。",
+      "A": "本項應選。腦性麻痺的髖關節容易因內收肌痙攣而逐漸半脫位或脫位，若髖位置惡化則不宜硬等到 7 歲後，需及早監測與介入。",
+      "B": "本項不選。膝部矯正手術多會配合步態與生長評估安排，通常不屬於必須提早處理的例外部位。",
+      "C": "本項不選。踝足的肌腱延長或骨性手術常須避免過早，以免生長期間復發或造成過度矯正；會依功能與攣縮狀態個別決定。",
+      "D": "本項不選。脊椎手術需要考慮曲線進展、呼吸功能與骨骼成熟度，並非一般腦性麻痺下肢手術時間點的早期例外。",
       "summary": "腦性麻痺的手術多等較大再做，但髖脫位會越拖越難救，所以髖關節是例外。",
       "guideline": null,
       "concepts": [
@@ -39035,7 +39035,7 @@
     "explanation": {
       "A": "發燒性中性球低下（febrile neutropenia）可能在數小時內進展為敗血症，初始培養不能延誤具抗綠膿桿菌活性的經驗性廣效抗菌治療；這項處置能直接降低早期感染死亡。",
       "B": "高風險患者接受廣效抗生素後仍發燒 4–7 日、預期嗜中性球低下持續且找不到病原時，侵襲性黴菌感染風險升高，可依風險採經驗性或診斷驅動的抗黴菌治療。",
-      "C": "錯誤。經驗性抗病毒藥須有疱疹黏膜病灶、流行性感冒暴露或其他病毒感染證據；單靠發燒持續 7–10 日常規加入，既無法涵蓋主要細菌或黴菌威脅，也未證實可降低死亡。",
+      "C": "本項應選。經驗性抗病毒藥須有疱疹黏膜病灶、流行性感冒暴露或其他病毒感染證據；單靠發燒持續 7–10 日常規加入，既無法涵蓋主要細菌或黴菌威脅，也未證實可降低死亡。",
       "D": "預期絕對嗜中性球計數極低且超過 7 日者屬高風險，可在尚未發燒時選擇 fluoroquinolone 預防細菌感染；這是風險分層後的預防，不是所有化療患者一律使用。",
       "summary": "發燒性中性球低下先立即廣效抗菌；持續發燒才按黴菌風險加藥，抗病毒治療則需要特定病毒證據。",
       "guideline": "FC 醫學(三)第4冊 p.282",
@@ -39346,7 +39346,7 @@
       "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
     },
     "explanation": {
-      "A": "正確。此病人無噁心、食慾差或黃疸，AST 與 ALT 均未達正常上限 3 倍；輕度、無症狀的轉氨酶上升可續用 isoniazid、rifampin、ethambutol 與 pyrazinamide，並縮短追蹤間隔。",
+      "A": "本項應選。此病人無噁心、食慾差或黃疸，AST 與 ALT 均未達正常上限 3 倍；輕度、無症狀的轉氨酶上升可續用 isoniazid、rifampin、ethambutol 與 pyrazinamide，並縮短追蹤間隔。",
       "B": "停止全部抗結核藥適用於達肝毒性停藥門檻或有肝炎症狀者；本例 ALT 71 U/L 僅約正常上限 1.4 倍且臨床改善，全停藥反而增加療程中斷與抗藥風險。",
       "C": "streptomycin 與 moxifloxacin 組成的替代方案保留給無法使用主要肝毒性藥物的顯著肝損傷；本例尚未達停用 isoniazid、rifampin、pyrazinamide 的標準，過早換成次線藥會犧牲標準療程效力。",
       "D": "pyrazinamide 的確較具肝毒性，但不能只因輕微無症狀轉氨酶上升就單獨撤除；少了 pyrazinamide 通常需延長結核療程，且無法證明它就是本例肝指數變化的原因。",
@@ -39920,7 +39920,7 @@
       "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
     },
     "explanation": {
-      "A": "正確。Giardia lamblia 經山區水源的囊體傳播，造成無血、無發燒的惡臭腹瀉、腹脹與體重下降；低丙種球蛋白血症使黏膜抗 Giardia 防禦不足，容易持續或反覆感染。",
+      "A": "本項應選。Giardia lamblia 經山區水源的囊體傳播，造成無血、無發燒的惡臭腹瀉、腹脹與體重下降；低丙種球蛋白血症使黏膜抗 Giardia 防禦不足，容易持續或反覆感染。",
       "B": "azithromycin 主要用於若干細菌性腸炎，並非 giardiasis 標準首選；Giardia 感染通常以 tinidazole、metronidazole 或 nitazoxanide 等抗原蟲藥治療。",
       "C": "Giardia cyst 對一般飲水氯化相對耐受，僅喝經常規氯消毒的野外水仍不可靠；預防露營感染應將水煮沸，或使用能去除原蟲囊體的合格濾水方式。",
       "D": "Guillain–Barré syndrome 的經典感染前驅是 Campylobacter jejuni 腸炎，其脂寡糖與周邊神經節苷脂產生分子模仿；Giardia 治癒後並不常出現此併發症。",
@@ -40752,7 +40752,7 @@
       "A": "本項不選。對流（convection）是空氣流動帶走新生兒皮膚熱量；保溫箱的空氣流速改變熱散失，因此會影響中性環境溫度。",
       "B": "本項不選。相對濕度（relative humidity）會改變皮膚與呼吸道的水分蒸發，特別是早產兒皮膚屏障薄，濕度不同就會改變維持體溫所需的環境條件。",
       "C": "本項不選。孕週越小，皮膚角質層與皮下脂肪越不成熟，熱散失較多，所以新生兒出生週數會影響所需的中性環境溫度。",
-      "D": "正確。餵食量影響營養與生長，卻不是設定中性環境溫度的直接熱交換因子；中性環境關注的是在最少氧氣消耗下維持正常體溫。",
+      "D": "本項應選。餵食量影響營養與生長，卻不是設定中性環境溫度的直接熱交換因子；中性環境關注的是在最少氧氣消耗下維持正常體溫。",
       "summary": "中性環境溫度考熱怎麼散：對流、濕度和早產程度都重要；餵多少奶不是直接的保溫箱設定因子。",
       "guideline": "FC 醫學(四)第1冊 p.603",
       "concepts": [
@@ -40901,7 +40901,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。川崎病（Kawasaki disease）的全身性血管炎可波及膽囊，出現非結石性膽囊水腫（acute hydrops of the gallbladder），也可伴隨右上腹痛或黃疸。",
-      "B": "正確。囊腫性纖維化（cystic fibrosis）常因濃稠分泌物造成膽汁淤積、膽泥或 microgallbladder 等膽道問題，並不是急性膽囊水腫的典型相關情境。",
+      "B": "本項應選。囊腫性纖維化（cystic fibrosis）常因濃稠分泌物造成膽汁淤積、膽泥或 microgallbladder 等膽道問題，並不是急性膽囊水腫的典型相關情境。",
       "C": "本項不選。病毒性肝炎可造成膽囊壁水腫與膽囊擴張，反映肝膽發炎或全身性水腫變化，因此可見急性膽囊水腫。",
       "D": "本項不選。Salmonella 感染可侵入膽道並引發膽囊炎或膽囊水腫，特別是菌血症或全身感染時要納入鑑別。",
       "summary": "急性膽囊水腫會出現在 Kawasaki disease、肝炎或 Salmonella 等發炎情境；CF 比較像濃稠膽汁與慢性膽道問題。",
@@ -41399,7 +41399,7 @@
     "explanation": {
       "A": "本項不選。下呼吸道阻塞使呼氣變費力，病童會動用胸壁輔助肌，因此可見 intercostal retraction。",
       "B": "本項不選。wheezing 是小氣道狹窄時氣流振動產生的呼氣性高音調聲音，常見於氣喘或細支氣管炎等下呼吸道阻塞。",
-      "C": "正確。stridor 是上呼吸道、尤其喉頭或氣管近端狹窄造成的吸氣性聲音；它把阻塞位置指向上呼吸道，不是下呼吸道。",
+      "C": "本項應選。stridor 是上呼吸道、尤其喉頭或氣管近端狹窄造成的吸氣性聲音；它把阻塞位置指向上呼吸道，不是下呼吸道。",
       "D": "本項不選。tachypnea 是呼吸作功增加時常見的代償，無論下呼吸道阻塞或肺實質疾病都可能出現。",
       "summary": "聽聲音定位：wheeze 是下呼吸道小氣道，stridor 是上呼吸道喉頭附近。",
       "guideline": "FC 醫學(四)第1冊 p.221",
@@ -42857,7 +42857,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。話題快速跳躍、難被打斷，符合意念飛躍（flight of ideas），是躁期常見的思考形式改變。",
-      "B": "正確。解離是意識、記憶、身分或知覺整合中斷，例如人格解體或解離性失憶；題幹沒有這類現象。",
+      "B": "本項應選。解離是意識、記憶、身分或知覺整合中斷，例如人格解體或解離性失憶；題幹沒有這類現象。",
       "C": "本項不選。自認能力超常、肩負拯救地球任務，是誇大妄想（grandiose delusion）。",
       "D": "本項不選。不理解自己為何住院、否認需要治療，反映缺乏病識感（poor insight）。",
       "summary": "躁期的快講、跳題、三天不睡和拯救世界，分別掛在 flight of ideas、decreased sleep、grandiosity，不是 dissociation。",
@@ -43179,7 +43179,7 @@
     "explanation": {
       "A": "正確。成癮的獎賞與戒斷涉及 opioid、catecholamine/dopamine 與 GABA 等神經傳導系統；題幹的①可成立。",
       "B": "本項不選。heroin intoxication 是嗜睡、呼吸抑制與瞳孔縮小，不是過度興奮、話多與瞳孔擴大；後者較像 stimulant intoxication。",
-      "C": "正確。短效 opioid 如 heroin 停用後約 6–8 小時可出現戒斷，急性症狀多在約一週內改善。",
+      "C": "本項不選。短效 opioid 如 heroin 停用後約 6–8 小時可出現戒斷，急性症狀多在約一週內改善。",
       "D": "本項不選。停用 heroin 時 locus coeruleus 的 noradrenergic neurons 會反彈性增加活性，造成出汗、焦慮、腹瀉等戒斷症狀，不是降低。",
       "summary": "Heroin 中毒是『縮瞳、昏睡、呼吸慢』；戒斷才是『交感反彈』，locus coeruleus 活性會升高。",
       "guideline": null,
@@ -43680,7 +43680,7 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "正確。吳先生意識清楚且持續表達拒絕透析，應先確認他理解停止透析的後果與決定能力，再尊重其知情拒絕並提供症狀緩解與安寧支持。",
+      "A": "本項應選。吳先生意識清楚且持續表達拒絕透析，應先確認他理解停止透析的後果與決定能力，再尊重其知情拒絕並提供症狀緩解與安寧支持。",
       "B": "這項不選。生命的價值不能讓醫療人員無限期強制一位具決定能力的成人接受透析；行善不等於取代病人的治療目標。",
       "C": "這項不選。具決定能力的病人拒絕透析，不以先取得法院判決為前提；重點是能力評估、充分溝通與完整紀錄。",
       "D": "這項不選。病人沒有喪失決定能力時，不需要由法定代理人代替決定；照護依賴程度也不會消除他的自主權。",
@@ -44238,7 +44238,7 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "正確。游離皮瓣（free flap）並無一致證據支持所有病人常規 systemic heparin 可顯著提高存活率；抗凝策略須平衡 thrombosis 與 hematoma，不能稱為必用藥。",
+      "A": "本項應選。游離皮瓣（free flap）並無一致證據支持所有病人常規 systemic heparin 可顯著提高存活率；抗凝策略須平衡 thrombosis 與 hematoma，不能稱為必用藥。",
       "B": "游離皮瓣（flap）顯微血管栓塞（microvascular thrombosis）多集中在術後最初 48 小時；密集監測並立即 re-exploration 可在不可逆 no-reflow 前挽救吻合與皮瓣。",
       "C": "顏色、temperature、capillary refill 與 pinprick bleeding 可區分灌流；pale/cool、無出血偏 arterial insufficiency，dusky/blue、快速暗血偏 venous congestion。",
       "D": "吻合時若 vessel wall edge malapposition、intima/media 暴露於 lumen，會造成 turbulence 與 platelet aggregation，增加 thrombosis。",
@@ -44313,7 +44313,7 @@
       "A": "唇黏合術（lip adhesion）可在 definitive repair 前先縮小寬裂隙，選定病例可於出生後約 1–2 個月進行。",
       "B": "確定性唇裂修復（definitive cleft lip repair）常依 rule of 10s 於約 3 個月後進行，並可合併 primary nasal correction；3–6 個月屬合理時窗。",
       "C": "顎修復術（palate repair）通常在語言發展前完成，常用時程約 9–12 個月；題述 10–12 個月符合降低 velopharyngeal speech problem 的目標。",
-      "D": "正確。常規唇鼻修正術（routine lip/nose revision）多待組織與顏面生長、功能需求更明確後安排；鼻部 definitive correction 尤其常延至接近 skeletal maturity，不能概括為 5 歲前皆應完成。",
+      "D": "本項應選。常規唇鼻修正術（routine lip/nose revision）多待組織與顏面生長、功能需求更明確後安排；鼻部 definitive correction 尤其常延至接近 skeletal maturity，不能概括為 5 歲前皆應完成。",
       "summary": "唇顎裂序列大致為早期 lip adhesion（選擇性）、3–6 月 lip/primary nose、約 10–12 月 palate；revision 依生長與功能個別安排。",
       "guideline": null,
       "concepts": [
@@ -45178,7 +45178,7 @@
       "A": "薄切腎上腺電腦斷層（thin-cut adrenal CT）可顯示腺瘤或雙側增生並排除大型病灶，但單靠影像不能可靠判定 aldosterone 分泌側別。",
       "B": "NP-59 腎上腺皮質顯影可呈現功能性皮質組織的攝取，部分情境可輔助原發性醛固酮增多症定位，但目前使用較少且解析度有限。",
       "C": "選擇性腎上腺靜脈採血（adrenal vein sampling）比較兩側 aldosterone／cortisol 比值，是適當手術候選人區分單側與雙側分泌的標準定位方法。",
-      "D": "正確。MIBG scan 顯影的是 catecholamine-producing chromaffin tissue，主要用於嗜鉻細胞瘤或副神經節瘤，無法定位 aldosterone-producing cortical lesion。",
+      "D": "本項應選。MIBG scan 顯影的是 catecholamine-producing chromaffin tissue，主要用於嗜鉻細胞瘤或副神經節瘤，無法定位 aldosterone-producing cortical lesion。",
       "summary": "原發性醛固酮增多症分側以 CT 搭配 adrenal vein sampling；MIBG 是嗜鉻細胞瘤檢查。",
       "guideline": null,
       "concepts": []
@@ -45626,10 +45626,10 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。升結腸多為次發性後腹膜器官，後壁和後腹膜融合，所以不是本題答案。",
-      "B": "錯誤。降結腸同樣多為次發性後腹膜器官，手術剝離時需沿 Toldt fascia 進入正確層次。",
-      "C": "正確。橫結腸由橫結腸繫膜懸吊在腹腔內，能活動而非附著在後腹膜；它的血管供應也經由繫膜進入。",
-      "D": "錯誤。直腸上段前方與部分側方有腹膜覆蓋，但大部分位置固定在骨盆後方；以本題解剖分類，它不是最明確的腹腔內活動腸段。",
+      "A": "本項不選。升結腸多為次發性後腹膜器官，後壁和後腹膜融合，所以不是本題答案。",
+      "B": "本項不選。降結腸同樣多為次發性後腹膜器官，手術剝離時需沿 Toldt fascia 進入正確層次。",
+      "C": "本項應選。橫結腸由橫結腸繫膜懸吊在腹腔內，能活動而非附著在後腹膜；它的血管供應也經由繫膜進入。",
+      "D": "本項不選。直腸上段前方與部分側方有腹膜覆蓋，但大部分位置固定在骨盆後方；以本題解剖分類，它不是最明確的腹腔內活動腸段。",
       "summary": "橫結腸會被橫結腸繫膜吊著活動；升、降結腸則多固定在後腹膜。",
       "guideline": null,
       "concepts": [
@@ -46119,7 +46119,7 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "正確。肥胖不是 ESWL 的絕對禁忌，但 skin-to-stone distance 增加可能使定位困難、能量衰減與 stone-free rate 降低，須依設備與體型評估。",
+      "A": "本項應選。肥胖不是 ESWL 的絕對禁忌，但 skin-to-stone distance 增加可能使定位困難、能量衰減與 stone-free rate 降低，須依設備與體型評估。",
       "B": "未矯正 coagulation disorder 會提高 renal/perirenal hematoma 與 hemorrhage 風險，是 ESWL 禁忌；應先矯正並適當處理 antithrombotic therapy。",
       "C": "結石附近嚴重 skeletal deformity 可能妨礙定位與安全 shock-wave path，使治療無法有效或增加周邊傷害，屬重要限制或禁忌。",
       "D": "Shock wave 經過鄰近 arterial aneurysm 可能造成 vascular injury 或 rupture，因此結石附近動脈瘤是 ESWL 禁忌。",
@@ -46343,7 +46343,7 @@
       "A": "本項敘述錯誤。後尿道瓣膜（posterior urethral valve）會阻塞男嬰尿道出口，膀胱壓力可回傳至輸尿管與腎盂，常造成雙側腎積水。",
       "B": "本項敘述錯誤。輸尿管腎盂接合處阻塞（ureteropelvic junction obstruction）卡在腎盂出口，典型後果就是腎盂擴張與腎積水。",
       "C": "本項敘述錯誤。輸尿管複製（duplicated ureter）可合併異位開口、逆流或阻塞；其中有功能受損的一側可出現腎積水。",
-      "D": "正確。尿道下裂（hypospadias）是尿道開口位置異常，通常不會阻塞尿液自膀胱流出，所以最不會單獨造成腎積水。",
+      "D": "本項應選。尿道下裂（hypospadias）是尿道開口位置異常，通常不會阻塞尿液自膀胱流出，所以最不會單獨造成腎積水。",
       "summary": "會造成腎積水的是會擋到上尿路的病變；hypospadias 是開口位置異常，不是典型阻塞。",
       "guideline": null,
       "concepts": [
@@ -46414,7 +46414,7 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。影像左右側需看圖才能確定；本項不能只靠題幹判讀。",
+      "A": "錯誤。動脈相兩側股動脈都亮；靜脈相左側股靜脈中央有未顯影的充盈缺損，右側沒有。血栓在左腿，所以腫的是左側，不是右側。",
       "B": "錯誤。這句話不恰當。深層靜脈栓塞（deep vein thrombosis）大多先以抗凝血治療，只有嚴重肢體缺血、無法抗凝或特定併發症才考慮侵入性處置。",
       "C": "錯誤。這句話不恰當。壓迫式超音波（compression ultrasonography）是懷疑下肢 DVT 的第一線檢查；CT venography 不是唯一診斷方法。",
       "D": "正確。未妥善處理的 DVT 可脫落形成肺栓塞（pulmonary embolism），病人可能突然出現呼吸困難、胸痛、低血氧甚至血流動力學不穩。",
@@ -47837,7 +47837,7 @@
     "explanation": {
       "A": "本項會隨孕週上升。胎盤逐漸增加 estrogen 生成，estradiol 在孕期後段維持高濃度。",
       "B": "這一項也會持續升高。Estriol 來自胎兒－胎盤單位的前驅物轉換，因此胎兒與胎盤成長時數值逐步增加。",
-      "C": "正確。人類絨毛膜促性腺激素（human chorionic gonadotropin, hCG）在第一孕期約 8–10 週達峰，之後下降到較低平台，不會全程持續增加。",
+      "C": "本項應選。人類絨毛膜促性腺激素（human chorionic gonadotropin, hCG）在第一孕期約 8–10 週達峰，之後下降到較低平台，不會全程持續增加。",
       "D": "本項隨胎盤量增加而上升。Human placental lactogen 會提高母體胰島素阻抗，把葡萄糖留給胎兒使用。",
       "summary": "孕期荷爾蒙多數一路上升，唯一常考的例外是 hCG：第一孕期先衝高，之後下降到平台。",
       "guideline": null,
@@ -49445,10 +49445,10 @@
     "specialty": "復健科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。失用症（apraxia）在理解與基本肌力足夠下仍不會做熟悉動作，最常和優勢半球頂葉及其動作計畫網絡的中風有關。",
-      "B": "不正確。額葉病灶較常造成啟動困難、執行功能障礙或去抑制；雖參與動作執行，但不是典型失用症的主要定位。",
-      "C": "不正確。枕葉負責視覺處理，病灶常見視野缺損或視覺失認，不會單獨解釋穿衣動作順序錯亂。",
-      "D": "不正確。顳葉病灶可造成記憶、語言理解或聽覺辨識問題；不會穿衣且肌力近正常的核心缺損更像頂葉失用。",
+      "A": "本項應選。失用症（apraxia）在理解與基本肌力足夠下仍不會做熟悉動作，最常和優勢半球頂葉及其動作計畫網絡的中風有關。",
+      "B": "本項不選。額葉病灶較常造成啟動困難、執行功能障礙或去抑制；雖參與動作執行，但不是典型失用症的主要定位。",
+      "C": "本項不選。枕葉負責視覺處理，病灶常見視野缺損或視覺失認，不會單獨解釋穿衣動作順序錯亂。",
+      "D": "本項不選。顳葉病灶可造成記憶、語言理解或聽覺辨識問題；不會穿衣且肌力近正常的核心缺損更像頂葉失用。",
       "summary": "中風後「有力、聽得懂、卻不會穿衣」不是笨拙，而是頂葉動作計畫失用。",
       "guideline": null,
       "concepts": [
@@ -49751,7 +49751,7 @@
     "specialty": "醫學倫理（FC 例外）",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。婚史屬病人的私密資訊，醫師可承諾不向丈夫揭露；但病歷是照護與法律紀錄，仍須據實記載與醫療相關的內容。",
+      "A": "本項應選。婚史屬病人的私密資訊，醫師可承諾不向丈夫揭露；但病歷是照護與法律紀錄，仍須據實記載與醫療相關的內容。",
       "B": "這項不選。完全不記載必要病史會破壞病歷完整性，也可能影響後續照護；保密是限制存取，不是把真實資料刪掉。",
       "C": "這項不選。醫事人員的誠實義務是如實對待病人與記錄，不是把病人交付的私密資訊主動告知配偶。",
       "D": "這項不選。丈夫的好奇或婚姻利益不等於有醫療資訊的優先知情權；除非病人授權或有法定例外，醫師應保密。",
@@ -49820,7 +49820,7 @@
     "specialty": "醫學倫理（FC 例外）",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。先查是否已有病人本人簽署的 DNR，因那是最直接的自主表達；若找不到，再確認是否有醫療委任代理人，最後才由家屬依程序協助決定。",
+      "A": "本項應選。先查是否已有病人本人簽署的 DNR，因那是最直接的自主表達；若找不到，再確認是否有醫療委任代理人，最後才由家屬依程序協助決定。",
       "B": "這項不選。先請家屬簽署會跳過病人自己的既有 DNR 與代理人；家屬不是一開始就可凌駕病人文件的決定者。",
       "C": "這項不選。代理人可協助表達病人意願，但仍應先查是否有本人有效的 DNR；不能在未查證文件前直接把代理人放第一。",
       "D": "這項不選。家屬同意是最後才考慮的替代路徑，不能在未查 DNR、未找代理人的情況下優先處理。",
@@ -51078,10 +51078,10 @@
       "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
     },
     "explanation": {
-      "A": "正確：interleukin-5 。IL-5 主要促進嗜酸性球分化與存活，較偏向過敏與寄生蟲反應；它不是典型驅動敗血症全身發炎的 cytokine。",
-      "B": "不正確：interleukin-1 。IL-1 會由活化的巨噬細胞等釋放，造成發燒、內皮活化與急性期反應。敗血症的失控發炎反應常有 IL-1 參與。",
-      "C": "不正確：tumor necrosis。TNF-α 是敗血症早期重要的發炎介質，可造成血管擴張、微血管滲漏與心肌抑制。濃度過高會加重休克與器官傷害。",
-      "D": "不正確：interleukin-6 。IL-6 會驅動肝臟急性期反應，例如 CRP 上升；它也是敗血症發炎程度的常見指標。",
+      "A": "本項應選。interleukin-5 。IL-5 主要促進嗜酸性球分化與存活，較偏向過敏與寄生蟲反應；它不是典型驅動敗血症全身發炎的 cytokine。",
+      "B": "本項不選。interleukin-1 。IL-1 會由活化的巨噬細胞等釋放，造成發燒、內皮活化與急性期反應。敗血症的失控發炎反應常有 IL-1 參與。",
+      "C": "本項不選。tumor necrosis。TNF-α 是敗血症早期重要的發炎介質，可造成血管擴張、微血管滲漏與心肌抑制。濃度過高會加重休克與器官傷害。",
+      "D": "本項不選。interleukin-6 。IL-6 會驅動肝臟急性期反應，例如 CRP 上升；它也是敗血症發炎程度的常見指標。",
       "summary": "看到敗血症的 cytokine，先想 TNF-α、IL-1、IL-6；IL-5 則是 eosinophil 與過敏反應的代表。",
       "guideline": null
     },
@@ -52235,10 +52235,10 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確：M. africanum。M. africanum 屬 Mycobacterium tuberculosis complex，與人類結核病相關。",
-      "B": "不正確：M. bovis。M. bovis 也是 M. tuberculosis complex 成員，且天然對 pyrazinamide 具抗藥性是重要考點。",
-      "C": "正確：M. chelonae。M. chelonae 是快速生長的非結核分枝桿菌（nontuberculous mycobacteria），不屬於 M. tuberculosis complex。",
-      "D": "不正確：M. microti。M. microti 是 M. tuberculosis complex 成員，可感染囓齒類及少數人類病例。",
+      "A": "本項不選。M. africanum。M. africanum 屬 Mycobacterium tuberculosis complex，與人類結核病相關。",
+      "B": "本項不選。M. bovis。M. bovis 也是 M. tuberculosis complex 成員，且天然對 pyrazinamide 具抗藥性是重要考點。",
+      "C": "本項應選。M. chelonae。M. chelonae 是快速生長的非結核分枝桿菌（nontuberculous mycobacteria），不屬於 M. tuberculosis complex。",
+      "D": "本項不選。M. microti。M. microti 是 M. tuberculosis complex 成員，可感染囓齒類及少數人類病例。",
       "summary": "M. tuberculosis complex 包含 tuberculosis、bovis、africanum、microti；快速生長的 M. chelonae 是 NTM。",
       "guideline": null,
       "concepts": [
@@ -52853,7 +52853,7 @@
     "explanation": {
       "A": "這項不選。擔心日後糾紛是醫師的壓力，不是隱瞞病人末期診斷的正當理由；病情屬病人本人，不屬家屬管理。",
       "B": "這項不選。同住家人可能熟悉病人，但不能因此取得替代病人決定知情範圍的權力；仍應回到病人自己的意願。",
-      "C": "正確。若病人表示想知道，醫師應以病人能理解的方式告知診斷、預後與選項，並同時提供情緒支持與後續照護規劃。",
+      "C": "本項應選。若病人表示想知道，醫師應以病人能理解的方式告知診斷、預後與選項，並同時提供情緒支持與後續照護規劃。",
       "D": "這項不選。用模糊說法可能讓病人失去安排治療、家務與善終的機會；不確定預後也不是不告知已知診斷的理由。",
       "summary": "家屬怕病人受不了時，關鍵不是誰聲音大，而是病人自己想知道多少。",
       "guideline": null
@@ -52892,7 +52892,7 @@
       "A": "這項不選。紐倫堡守則源於研究暴行的反省，核心是自願同意與受試者保護，是研究倫理的重要里程碑。",
       "B": "這項不選。赫爾辛基宣言專門規範涉及人的醫學研究，涵蓋風險利益、倫理審查與受試者保護。",
       "C": "這項不選。貝爾蒙報告提出尊重個人、行善與正義，長期作為研究倫理審查的基本原則。",
-      "D": "正確。里斯本宣言主要談病人權利與醫病關係，不是用來建立人體研究倫理的核心準則。",
+      "D": "本項應選。里斯本宣言主要談病人權利與醫病關係，不是用來建立人體研究倫理的核心準則。",
       "summary": "研究倫理常背紐倫堡、赫爾辛基、貝爾蒙；里斯本宣言的主題是病人權利。",
       "guideline": "FC 醫學(三)第4冊 p.437"
     },
@@ -55892,7 +55892,7 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "正確。長期大量飲酒後 30 小時的躁動、高血壓、頭痛與 seizure，符合嚴重 alcohol withdrawal；benzodiazepine 是第一線，可預防與治療 seizure 和 delirium tremens。",
+      "A": "本項應選。長期大量飲酒後 30 小時的躁動、高血壓、頭痛與 seizure，符合嚴重 alcohol withdrawal；benzodiazepine 是第一線，可預防與治療 seizure 和 delirium tremens。",
       "B": "本項的 phenytoin 不是本題答案。alcohol withdrawal seizure 是 GABA/glutamate 失衡所致，phenytoin 不能有效預防復發；應用 benzodiazepine 並找其他癲癇病因。",
       "C": "本項不選。酒精戒斷幻覺可為視覺、聽覺或觸覺，不能用『視覺一定比聽覺常見』來作穩定診斷規則。",
       "D": "本項不選。積極治療後 delirium tremens 死亡率已大幅下降；高風險仍來自共病、感染、電解質與延誤治療。",
@@ -56230,10 +56230,10 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。防止微生物穿透是理想敷料的特性，可降低外來污染進入傷口的機會。",
+      "A": "本項不選。防止微生物穿透是理想敷料的特性，可降低外來污染進入傷口的機會。",
       "B": "本項要選。理想敷料應維持適度濕潤而非乾燥；濕潤環境有利上皮細胞移行，過度乾燥會讓新生組織黏在敷料上。",
-      "C": "錯誤。提供機械性保護是理想敷料的重要功能，可避免摩擦、剪力與外來撞擊再次傷害新生組織。",
-      "D": "錯誤。易於操作也很重要。敷料若難以更換或移除時造成疼痛，會降低病人遵從性並傷害脆弱的肉芽組織。",
+      "C": "本項不選。提供機械性保護是理想敷料的重要功能，可避免摩擦、剪力與外來撞擊再次傷害新生組織。",
+      "D": "本項不選。易於操作也很重要。敷料若難以更換或移除時造成疼痛，會降低病人遵從性並傷害脆弱的肉芽組織。",
       "summary": "傷口敷料不是越乾越好；目標是濕潤平衡，讓細胞能爬過傷口表面。",
       "guideline": null,
       "concepts": [
@@ -56630,7 +56630,7 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "正確。Skeletal muscle 的 safe warm ischemia 通常短於 skin/fascia，常抓約 2–3 小時；宣稱可耐受 4–6 小時過於寬鬆，會增加 irreversible muscle injury 與 systemic reperfusion risk。",
+      "A": "本項應選。Skeletal muscle 的 safe warm ischemia 通常短於 skin/fascia，常抓約 2–3 小時；宣稱可耐受 4–6 小時過於寬鬆，會增加 irreversible muscle injury 與 systemic reperfusion risk。",
       "B": "端對端吻合（end-to-end）與端對側動脈吻合（end-to-side arterial anastomosis） 在技術正確、recipient flow 良好時可有相近 patency；選擇取決於尺寸、幾何與是否保留主幹。",
       "C": "血管口徑不合（vessel size mismatch）時，將較小 donor artery 接到 recipient vessel 側壁可改善口徑配合並保留 distal flow，是 end-to-side 的常見優點。",
       "D": "血管外膜（adventitia）含 sympathetic fibers 且若捲入 lumen 會促進 thrombosis；適度 trimming 可減少 vasospasm 與吻合干擾，但不可過度損傷 vessel wall。",
@@ -56670,7 +56670,7 @@
     },
     "explanation": {
       "A": "短拇外展肌（abductor pollicis brevis）屬 thenar muscles，由 recurrent branch of median nerve 支配，負責拇指掌側外展。",
-      "B": "正確。Adductor pollicis 由 deep branch of ulnar nerve 支配；功能受損會出現 Froment sign，並不屬 median-innervated LOAF muscles。",
+      "B": "本項應選。Adductor pollicis 由 deep branch of ulnar nerve 支配；功能受損會出現 Froment sign，並不屬 median-innervated LOAF muscles。",
       "C": "短拇屈肌（flexor pollicis brevis）的 superficial head 通常由 median nerve 支配，deep head 常由 ulnar nerve 支配；國考配對多將其列入 median LOAF。",
       "D": "拇對掌肌（opponens pollicis）由 recurrent median nerve 支配，使第一掌骨內旋與屈曲，完成 thumb opposition。",
       "summary": "Median nerve 支配 LOAF；adductor pollicis 則由 ulnar nerve deep branch 支配。",
@@ -58786,10 +58786,10 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "錯誤。全身性紅斑狼瘡本身可能涉及既有抗體、輸血史或日後免疫風險，屬於移植前需整體評估的免疫背景之一。",
-      "B": "錯誤。ABO 血型不相容代表受贈者已有可能攻擊移植物血管內皮的抗體，是高免疫風險情境。",
-      "C": "正確。嗜伊紅白血球升高不會用來界定腎移植的 alloimmune risk；它要另行找過敏、寄生蟲、藥物或血液疾病原因。",
-      "D": "錯誤。先前輸血可能造成 anti-HLA antibodies，增加 panel reactive antibody 與排斥風險，會影響 induction 與配對策略。",
+      "A": "本項不選。全身性紅斑狼瘡本身可能涉及既有抗體、輸血史或日後免疫風險，屬於移植前需整體評估的免疫背景之一。",
+      "B": "本項不選。ABO 血型不相容代表受贈者已有可能攻擊移植物血管內皮的抗體，是高免疫風險情境。",
+      "C": "本項應選。嗜伊紅白血球升高不會用來界定腎移植的 alloimmune risk；它要另行找過敏、寄生蟲、藥物或血液疾病原因。",
+      "D": "本項不選。先前輸血可能造成 anti-HLA antibodies，增加 panel reactive antibody 與排斥風險，會影響 induction 與配對策略。",
       "summary": "腎移植免疫風險看 ABO、HLA 抗體與致敏史；eosinophilia 不是 alloimmune 風險指標。",
       "guideline": "FC 醫學(五)第4冊 p.82",
       "concepts": [
@@ -59120,7 +59120,7 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "正確。題示守則要求學術內容至少占總時間三分之二；講師可領合理演講費，且資料必須以科學實證為基礎並平衡呈現。",
+      "A": "本項應選。題示守則要求學術內容至少占總時間三分之二；講師可領合理演講費，且資料必須以科學實證為基礎並平衡呈現。",
       "B": "這項不選。④把禮券當成可接受替代品不符避免不當餽贈的精神；不能因不是現金就規避利益衝突。",
       "C": "這項不選。②與③本身可成立，但④錯誤，所以含④的組合不能作為正解。",
       "D": "這項不選。①與③正確，卻同樣納入錯誤的④；學術研討不應以禮券等方式影響醫師專業判斷。",
@@ -59756,7 +59756,7 @@
       "A": "本項可在閉鎖隅角的隅角鏡看到。施瓦布線（Schwalbe line）是 Descemet membrane 的終點；即使隅角窄，較前方結構仍可能可見。",
       "B": "本項可在部分閉鎖或壓迫式隅角鏡下看到。小樑網是房水流出結構，隅角閉鎖指虹膜遮擋它，不代表它解剖上消失。",
       "C": "本項可見於慢性或反覆閉鎖。周邊前沾黏是虹膜和隅角結構黏住後留下的證據，反而支持既往隅角閉鎖。",
-      "D": "正確。睫狀體帶位在最深的隅角後方；真正閉鎖時虹膜根部遮住後方結構，因此不會在隅角鏡下露出。",
+      "D": "本項應選。睫狀體帶位在最深的隅角後方；真正閉鎖時虹膜根部遮住後方結構，因此不會在隅角鏡下露出。",
       "summary": "隅角鏡由前往後看 Schwalbe line、小樑網、鞏膜突、睫狀體；看不到最深的睫狀體帶表示隅角很窄或閉鎖。",
       "guideline": "FC 醫學(六)第2冊 p.113",
       "concepts": [
@@ -59831,7 +59831,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項會同時出現複視與凸眼。急性眼窩血腫增加眼眶內容積，可推移眼球並限制眼外肌，造成 proptosis 與 diplopia。",
-      "B": "正確。重症肌無力會讓眼外肌疲勞而複視、眼瞼下垂，但不會讓眼眶內容物增加，所以不會造成真正的眼球突出。",
+      "B": "本項應選。重症肌無力會讓眼外肌疲勞而複視、眼瞼下垂，但不會讓眼眶內容物增加，所以不會造成真正的眼球突出。",
       "C": "本項會同時出現複視與凸眼。甲狀腺相關眼疾讓眼外肌及眼眶脂肪腫大，既推眼球向前也限制眼球轉動。",
       "D": "本項會同時出現複視與凸眼。眼窩尖端症候群可合併多條腦神經受損、眼球運動障礙及眼眶病灶引起的 proptosis。",
       "summary": "複視加凸眼要想眼眶被東西擠滿；MG 只讓眼肌無力，不會把眼球推出來。",
@@ -65420,7 +65420,7 @@
     "explanation": {
       "A": "這項不選。手術醫師不能同時替自己代理昏迷病人簽同意書；緊急處置的法律基礎是急救例外，不是虛構代理關係。",
       "B": "這項不選。社工可協助尋找家屬與支持病人，但不能因職務身分取得替無名昏迷病人簽手術同意書的權限。",
-      "C": "正確。病人無法表意、沒有可聯絡代理人，且不立即手術有生命危險時，可先依緊急例外進行必要手術並同步持續尋找身分與家屬。",
+      "C": "本項應選。病人無法表意、沒有可聯絡代理人，且不立即手術有生命危險時，可先依緊急例外進行必要手術並同步持續尋找身分與家屬。",
       "D": "這項不選。等待親屬會讓可救的病人因行政程序延誤而惡化；緊急例外正是為避免此種情境設計。",
       "summary": "無名昏迷病人需要立刻救命時，不必等人代簽；依緊急例外手術，同步找家屬。",
       "guideline": "FC 醫學(三)第4冊 p.450",
@@ -65889,7 +65889,7 @@
     "explanation": {
       "A": "本項不選。腹部血管攝影較適用持續大量出血的血管定位，幼兒無痛性間歇血便的首選敏感檢查不是它。",
       "B": "本項不選。hepatobiliary scintigraphy 評估膽汁流動，不能偵測 Meckel diverticulum 的異位胃黏膜。",
-      "C": "正確。無痛性褐紅血便在幼兒要想到梅克爾憩室；Meckel scan 以 technetium 偵測異位胃黏膜，cimetidine 可提高偵測敏感性。",
+      "C": "本項應選。無痛性褐紅血便在幼兒要想到梅克爾憩室；Meckel scan 以 technetium 偵測異位胃黏膜，cimetidine 可提高偵測敏感性。",
       "D": "本項不選。上消化道內視鏡不易看到遠端迴腸的 Meckel diverticulum，不能取代核醫掃描。",
       "summary": "幼兒無痛性血便先找 Meckel diverticulum；有異位胃黏膜才會讓 Meckel scan 抓到。",
       "guideline": null
@@ -67997,7 +67997,7 @@
     },
     "explanation": {
       "A": "本項的 adjustment 不是本題答案。經歷嚴重車禍後有惡夢、逃避、過度警覺與情緒麻木持續 8 個月，超過 PTSD 的 1 個月門檻，不是較短期的適應障礙。",
-      "B": "正確。PTSD 常見 fear circuitry 改變，包括杏仁核（amygdala）反應性提高與結構/功能改變；它參與威脅偵測與恐懼制約。",
+      "B": "本項應選。PTSD 常見 fear circuitry 改變，包括杏仁核（amygdala）反應性提高與結構/功能改變；它參與威脅偵測與恐懼制約。",
       "C": "本項不選。基底核功能過低不是 PTSD 的典型神經影像考點；較常討論的是 amygdala、hippocampus 與 medial prefrontal network。",
       "D": "本項不選。頂葉鈣化不是 PTSD 的典型病理或影像表現，不能用來解釋本例創傷後症候群。",
       "summary": "創傷後症狀超過 1 個月就想 PTSD；恐懼記憶的核心影像線索是 amygdala，不是頂葉鈣化。",
@@ -68121,7 +68121,7 @@
     "explanation": {
       "A": "正確。heroin overdose 有呼吸抑制、意識下降與縮瞳時，naloxone 可競爭性拮抗 opioid receptor，是緊急處置；效果短於部分 opioid，需持續監測。",
       "B": "本項不選。意識混亂、呼吸淺與針尖樣縮瞳是 opioid intoxication，不是 withdrawal；戒斷反而會流淚、腹瀉、疼痛、瞳孔放大與焦躁。",
-      "C": "正確。急性戒斷過後，craving、睡眠與情緒問題可持續數月，增加復發風險。",
+      "C": "本項不選。急性戒斷過後，craving、睡眠與情緒問題可持續數月，增加復發風險。",
       "D": "本項不選。methadone 和 buprenorphine 不只可協助 withdrawal，也可作長期維持治療，能降低 overdose 與死亡風險，不是戒斷後就不利。",
       "summary": "Opioid 題先分方向：縮瞳呼吸慢＝中毒要 naloxone；瞳孔大腹瀉焦躁＝戒斷，維持治療仍有價值。",
       "guideline": "FC 醫學(四)第3冊 p.129",
@@ -68655,10 +68655,10 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "錯誤。胰臟炎可引起全身性發炎、微血管滲漏與急性呼吸窘迫症候群，因而可能造成肺水腫。",
-      "B": "錯誤。體液容積過量會提高靜水壓，液體進入肺泡與間質，是肺水腫的直接常見原因。",
-      "C": "錯誤。急性左心衰竭會使左心房與肺靜脈壓上升，形成心因性肺水腫。",
-      "D": "正確。單純高血壓若未造成急性左心衰竭或高血壓急症，較不會直接導致術後肺水腫；真正造成水腫的是心功能失代償或過量輸液。",
+      "A": "本項不選。胰臟炎可引起全身性發炎、微血管滲漏與急性呼吸窘迫症候群，因而可能造成肺水腫。",
+      "B": "本項不選。體液容積過量會提高靜水壓，液體進入肺泡與間質，是肺水腫的直接常見原因。",
+      "C": "本項不選。急性左心衰竭會使左心房與肺靜脈壓上升，形成心因性肺水腫。",
+      "D": "本項應選。單純高血壓若未造成急性左心衰竭或高血壓急症，較不會直接導致術後肺水腫；真正造成水腫的是心功能失代償或過量輸液。",
       "summary": "肺水腫要找壓力或滲漏：左心衰竭、輸液過量、嚴重發炎都比單純高血壓直接。",
       "guideline": "FC 醫學(五)第4冊 p.55",
       "concepts": [
@@ -68890,7 +68890,7 @@
       "A": "ACTH-secreting pituitary adenoma 造成 Cushing disease 時，transsphenoidal resection 通常是可切除病灶的第一線治療。",
       "B": "生長激素瘤（growth hormone-secreting adenoma）一般以 transsphenoidal surgery 優先，以快速降低 GH 並解除壓迫；藥物用於未緩解或不宜手術者。",
       "C": "TSH-secreting adenoma 多以 transsphenoidal resection 為第一線，必要時搭配 somatostatin analog 控制甲狀腺功能或殘存病灶。",
-      "D": "正確。泌乳激素瘤（prolactinoma）第一線通常是 dopamine agonist，如 cabergoline，可降低 prolactin 並縮小腫瘤；手術留給抗藥或不耐受者。",
+      "D": "本項應選。泌乳激素瘤（prolactinoma）第一線通常是 dopamine agonist，如 cabergoline，可降低 prolactin 並縮小腫瘤；手術留給抗藥或不耐受者。",
       "summary": "Functional pituitary tumors 多先手術，但 prolactinoma 例外，優先 dopamine agonist。",
       "guideline": null,
       "concepts": [
@@ -69134,7 +69134,7 @@
     "explanation": {
       "A": "本項不選。此組合漏掉了②與④的錯誤，所以不能選。①說一半嬰兒血管瘤在一歲前完全消失不對；它常在一歲內增生後才逐漸退化，完全消退多需要更久。③對 vascular tumor 與 vascular malformation 的病理差別則是正確的。",
       "B": "本項不選。此組合把③列為錯誤，判斷不對。血管腫瘤（vascular tumors）是內皮細胞增生；血管畸形（vascular malformations）是血管或淋巴管發育異常，會隨身體長大而擴張。",
-      "C": "正確。①的退化時間說得太早；②把硬化劑注射當成動靜脈畸形（arteriovenous malformation）的最佳治療也不對，AVM 常需血管內栓塞合併手術規劃；④錯在微血管畸形不會自行萎縮消失。",
+      "C": "本項應選。①的退化時間說得太早；②把硬化劑注射當成動靜脈畸形（arteriovenous malformation）的最佳治療也不對，AVM 常需血管內栓塞合併手術規劃；④錯在微血管畸形不會自行萎縮消失。",
       "D": "本項不選。此組合漏掉②，且誤把③列為錯誤。動靜脈畸形是高流量病灶，處置重點是控制異常分流；③所述內皮增生與先天發育異常的區別正是分類核心。",
       "summary": "血管瘤會先長後退；血管畸形不會自行消失、會隨人長大。看到 AVM 要想到高流量與栓塞／手術，不是硬化劑單打。",
       "guideline": "FC 醫學(五)第2冊 p.340",
@@ -69456,7 +69456,7 @@
     },
     "explanation": {
       "A": "再灌流與 compartment syndrome 可使細胞內 K+ 大量釋出，造成 hyperkalemia 與致命性 arrhythmia。",
-      "B": "正確。缺血肌肉壞死通常釋出 phosphate 並使 calcium 沉積於受損組織，急性期較可能 hypocalcemia，而不是 hypercalcemia。",
+      "B": "本項應選。缺血肌肉壞死通常釋出 phosphate 並使 calcium 沉積於受損組織，急性期較可能 hypocalcemia，而不是 hypercalcemia。",
       "C": "肌肉壞死會使 creatine kinase 大幅升高，是 rhabdomyolysis 的重要指標。",
       "D": "Myoglobin 由受損肌肉釋出，可造成深色尿與 acute kidney injury；題幹被動牽拉劇痛與緊繃小腿支持 compartment syndrome。",
       "summary": "肢體再灌流／compartment syndrome 造成 rhabdomyolysis：高鉀、CK 上升、myoglobinuria，急性期常低鈣。",
@@ -69531,7 +69531,7 @@
     "explanation": {
       "A": "嬰兒 severe valvar aortic stenosis 可先以 balloon valvuloplasty 減輕壓差，代價是可能產生 aortic regurgitation 或日後再狹窄。",
       "B": "Surgical valvotomy 可在直視下分開融合 commissures，適用於不適合 balloon 或需同時處理其他解剖問題者。",
-      "C": "正確。8 個月嬰兒置入 mechanical valve 受限於極小瓣環、需終身 warfarin 且無法隨生長擴大，因此是最不適合的初始選擇。",
+      "C": "本項應選。8 個月嬰兒置入 mechanical valve 受限於極小瓣環、需終身 warfarin 且無法隨生長擴大，因此是最不適合的初始選擇。",
       "D": "Ross procedure 以自身 pulmonary autograft 取代 aortic valve，能隨兒童生長且不需長期抗凝；但手術複雜並使 pulmonary position 需要 conduit。",
       "summary": "嬰兒 aortic stenosis 優先保留原生瓣膜；mechanical replacement 因瓣環、生長與抗凝問題最不適合。",
       "guideline": null
@@ -70580,7 +70580,7 @@
       "A": "左結腸動脈（left colic artery）是下腸繫膜動脈第一個主要分支，供應降結腸並與中結腸、乙狀結腸動脈形成邊緣動脈交通。",
       "B": "乙狀結腸動脈（sigmoid arteries）通常由下腸繫膜動脈發出數支，供應乙狀結腸。",
       "C": "上直腸動脈（superior rectal artery）是下腸繫膜動脈向骨盆延續的終末分支，主要供應上段直腸。",
-      "D": "正確。中直腸動脈（middle rectal artery）通常源自內髂動脈系統，而非下腸繫膜動脈；它與上、下直腸動脈形成吻合。",
+      "D": "本項應選。中直腸動脈（middle rectal artery）通常源自內髂動脈系統，而非下腸繫膜動脈；它與上、下直腸動脈形成吻合。",
       "summary": "下腸繫膜動脈分出左結腸、乙狀結腸及上直腸動脈；中直腸動脈屬內髂動脈系統。",
       "guideline": null,
       "concepts": [
@@ -70736,10 +70736,10 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "錯誤。腹腔鏡膽囊切除是常見的基本腹腔鏡手術，廣泛用於症狀性膽石症與急性膽囊炎。",
-      "B": "正確。腹腔鏡子宮切除通常屬婦科進階手術，需要處理子宮血管、輸尿管與較複雜的骨盆解剖，不是一般 basic procedure。",
-      "C": "錯誤。腹腔鏡疝氣修補是常見的基本腹腔鏡術式，雖然 TEP/TAPP 各有技術學習曲線。",
-      "D": "錯誤。腹腔鏡闌尾切除是基本腹腔鏡手術之一，常用於急性闌尾炎。",
+      "A": "本項不選。腹腔鏡膽囊切除是常見的基本腹腔鏡手術，廣泛用於症狀性膽石症與急性膽囊炎。",
+      "B": "本項應選。腹腔鏡子宮切除通常屬婦科進階手術，需要處理子宮血管、輸尿管與較複雜的骨盆解剖，不是一般 basic procedure。",
+      "C": "本項不選。腹腔鏡疝氣修補是常見的基本腹腔鏡術式，雖然 TEP/TAPP 各有技術學習曲線。",
+      "D": "本項不選。腹腔鏡闌尾切除是基本腹腔鏡手術之一，常用於急性闌尾炎。",
       "summary": "基本腹腔鏡常背膽囊、闌尾、疝氣；子宮切除牽涉骨盆深部結構，屬較進階術式。",
       "guideline": "FC 醫學(五)第4冊 p.131",
       "concepts": [
@@ -71097,7 +71097,7 @@
     },
     "explanation": {
       "A": "本項敘述錯誤。一週的持續阻塞仍可能可逆，但不能因此長期觀察；完全阻塞合併感染或腎功能惡化仍需立即減壓。",
-      "B": "正確。輸尿管阻塞若持續約一個月，部分病人可出現不可逆腎功能傷害；時間只是風險指標，阻塞程度與感染會讓傷害更快。",
+      "B": "本項應選。輸尿管阻塞若持續約一個月，部分病人可出現不可逆腎功能傷害；時間只是風險指標，阻塞程度與感染會讓傷害更快。",
       "C": "本項敘述錯誤。等三個月才處理會讓腎實質長期承受高壓，已錯過避免永久傷害的安全窗口。",
       "D": "本項敘述錯誤。等六個月更不恰當；持續阻塞不是可以靠忍耐等腎臟自行恢復的問題。",
       "summary": "輸尿管阻塞不要拖：大約一個月已可能出現不可逆傷害，感染或 AKI 時更要先減壓。",
@@ -71139,7 +71139,7 @@
     "explanation": {
       "A": "本項敘述正確。腎細胞癌可透過 renin 增加或腎缺血造成高血壓，屬常考的副腫瘤表現。",
       "B": "本項敘述正確。肝功能異常但沒有肝轉移的 Stauffer syndrome 可見於腎細胞癌，是其典型副腫瘤症候群之一。",
-      "C": "正確。腎細胞癌較常因 PTHrP 造成高血鈣，不是低血鈣；低鈣不能作為其代表性副腫瘤表現。",
+      "C": "本項應選。腎細胞癌較常因 PTHrP 造成高血鈣，不是低血鈣；低鈣不能作為其代表性副腫瘤表現。",
       "D": "本項敘述正確。腫瘤異位分泌 erythropoietin 可造成紅血球增多症，是腎細胞癌的典型考點。",
       "summary": "RCC 的副腫瘤表現可記 renin、EPO、PTHrP 與 Stauffer syndrome；鈣要想到高血鈣，不是低血鈣。",
       "guideline": "FC 醫學(五)第5冊 p.37",
@@ -71293,7 +71293,7 @@
       "A": "本項敘述正確。尿路導管破壞黏膜屏障並提供細菌生物膜附著處，是導尿相關尿路感染最重要的危險因子之一。",
       "B": "本項敘述正確。膀胱出口阻塞造成殘尿，尿液停滯會降低沖洗細菌的能力，因此增加尿路感染風險。",
       "C": "本項敘述正確。神經性膀胱可同時有高殘尿、導尿需求與逆流，這些都讓感染更容易反覆。",
-      "D": "正確。尿道下裂（hypospadias）若沒有明顯阻塞、殘尿或反覆手術，本身通常不是常見尿路感染危險因子。",
+      "D": "本項應選。尿道下裂（hypospadias）若沒有明顯阻塞、殘尿或反覆手術，本身通常不是常見尿路感染危險因子。",
       "summary": "UTI 危險因子抓住「細菌進得去、尿排不乾淨」：導管、阻塞、神經性膀胱都比 hypospadias 典型。",
       "guideline": null,
       "concepts": [
@@ -72291,7 +72291,7 @@
       "A": "本項不選：糖尿病可因高血糖改變水晶體滲透壓與代謝，增加較早發生白內障的風險。",
       "B": "本項不選：強直性肌肉失養症（myotonic dystrophy）常見早發的後囊下或彩色聖誕樹樣白內障。",
       "C": "本項不選：異位性皮膚炎（atopic dermatitis）可合併前囊下白內障，也可能與揉眼及慢性發炎有關。",
-      "D": "正確。葛瑞夫茲病（Graves disease）主要造成甲狀腺眼病變、眼瞼退縮與眼外肌病變，不是典型會合併白內障的全身疾病。",
+      "D": "本項應選。葛瑞夫茲病（Graves disease）主要造成甲狀腺眼病變、眼瞼退縮與眼外肌病變，不是典型會合併白內障的全身疾病。",
       "summary": "白內障的系統性連結記糖尿病、myotonic dystrophy、atopic dermatitis；Graves 重點在眼眶，不在水晶體。",
       "guideline": null,
       "concepts": []
@@ -72845,7 +72845,7 @@
       "A": "本項不對，Misoprostol 單獨使用可作為第一孕期藥物終止妊娠的替代方案，效果和副作用需依療程與追蹤安排說明。",
       "B": "本項不對，Mifepristone 先阻斷黃體素作用，再以 misoprostol 引發子宮收縮，是常用且有效的第一孕期組合。",
       "C": "本項不對，Methotrexate 加 misoprostol 曾被使用，起效較慢且需要較久追蹤，但仍是可討論的療程之一。",
-      "D": "正確。Mifepristone 和 methotrexate 都會干擾妊娠組織，卻不提供 misoprostol 的有效子宮收縮作用；這個組合在實務上不建議。",
+      "D": "本項應選。Mifepristone 和 methotrexate 都會干擾妊娠組織，卻不提供 misoprostol 的有效子宮收縮作用；這個組合在實務上不建議。",
       "summary": "藥物終止妊娠要有能讓子宮排出的 misoprostol；mifepristone 加 methotrexate 沒有這個關鍵搭配。",
       "guideline": null,
       "concepts": []
@@ -73256,7 +73256,7 @@
     },
     "explanation": {
       "A": "本項不是本題要選的，PPROM 在分娩時需要 GBS prophylaxis，若 GBS 狀態未知或符合適應症，這是降低新生兒早發感染的標準處置。",
-      "B": "正確。32+5 週 PPROM 且無羊膜腔內感染時，不建議常規使用 tocolytics；它可能延長破水後暴露時間，並掩蓋或增加感染風險。",
+      "B": "本項應選。32+5 週 PPROM 且無羊膜腔內感染時，不建議常規使用 tocolytics；它可能延長破水後暴露時間，並掩蓋或增加感染風險。",
       "C": "本項不是本題要選的，Corticosteroid 可加速胎兒肺成熟並降低早產新生兒呼吸與腦室內出血風險，32+5 週通常仍有適應症。",
       "D": "本項不是本題要選的，Latency antibiotics 可延長破水到分娩的時間並降低母胎感染，因此在未感染的 PPROM 常建議使用。",
       "summary": "PPROM 沒感染時要給 steroid、latency antibiotics 和需要時的 GBS prophylaxis；不要為拖時間常規給 tocolysis。",
@@ -73721,7 +73721,7 @@
     },
     "explanation": {
       "A": "本項不對，Myometrial invasion 深度會影響 FIGO 2008 的 stage I 分期：未侵犯或小於一半是 IA，超過一半是 IB。",
-      "B": "正確。Positive peritoneal cytology 在 FIGO 2008 已不再改變子宮內膜癌手術分期，雖然仍可記錄並提供預後資訊。",
+      "B": "本項應選。Positive peritoneal cytology 在 FIGO 2008 已不再改變子宮內膜癌手術分期，雖然仍可記錄並提供預後資訊。",
       "C": "本項不對，Pelvic lymph nodes 陽性代表淋巴結轉移，會歸入 stage IIIC1，因此會改變分期。",
       "D": "本項不對，膀胱黏膜侵犯表示腫瘤延伸到鄰近器官，屬 stage IVA，顯然會影響分期。",
       "summary": "FIGO 2008 內膜癌把腹水細胞學從分期拿掉；肌層深度、骨盆淋巴結與膀胱侵犯仍會改變 stage。",
@@ -74753,7 +74753,7 @@
     },
     "explanation": {
       "A": "本項不選。纖維肌痛（fibromyalgia）是廣泛性疼痛與壓痛、睡眠和疲倦問題，不會只在右肩主動抬舉時造成局部疼痛。",
-      "B": "正確。肩軸轉肌損傷（rotator cuff injury）常使主動外展或抬舉疼痛，夜痛也很常見；被動活動相對保留是重要鑑別點。",
+      "B": "本項應選。肩軸轉肌損傷（rotator cuff injury）常使主動外展或抬舉疼痛，夜痛也很常見；被動活動相對保留是重要鑑別點。",
       "C": "本項不選。沾黏性肩關節囊炎（adhesive capsulitis）會同時限制主動與被動關節活動，尤其外旋；本題被動外展不痛不符合。",
       "D": "本項不選。肩關節炎（shoulder osteoarthritis）會使活動範圍逐漸下降，常有被動活動疼痛或摩擦感，與本題相對正常的被動外展不同。",
       "summary": "肩痛若主動抬手痛、被動還能動，先想軸轉肌；主被動都卡住才比較像冰凍肩。",
@@ -77925,7 +77925,7 @@
     "explanation": {
       "A": "這項不選。代理人不能把『如果是我』的偏好套到病人身上；這會把代理決定變成代理人的自主。",
       "B": "這項不選。療效好的方案可作為醫療建議，但代理人仍須先問這是否符合病人平日價值、信念與曾表達的選擇。",
-      "C": "正確。替代判斷以病人已知的意願與價值為優先，代理人要盡量回答『他會怎麼選』，而非『我覺得怎樣最好』。",
+      "C": "本項應選。替代判斷以病人已知的意願與價值為優先，代理人要盡量回答『他會怎麼選』，而非『我覺得怎樣最好』。",
       "D": "這項不選。多數人能接受的選擇不是個別病人的價值；正義原則不能抹平病人之間不同的治療目標。",
       "summary": "當病人不能說話，代理人先替他說話：依病人的價值選，不是依自己的偏好選。",
       "guideline": "FC 醫學(三)第4冊 p.468"
@@ -83060,7 +83060,7 @@
       "A": "恥骨直腸肌（puborectalis muscle）環繞肛直腸交界形成 sling，是提肛肌與骨盆底的重要部分，收縮時維持 anorectal angle。",
       "B": "髂尾肌（iliococcygeus muscle）是提肛肌較外側且較薄的部分，支持骨盆臟器與骨盆底。",
       "C": "恥骨尾骨肌（pubococcygeus muscle）屬提肛肌主要成分，由恥骨延伸至尾骨與肛尾縫，參與骨盆底支持。",
-      "D": "正確。臀大肌（gluteus maximus muscle）是髖伸展與外旋的臀部肌肉，不屬於由 levator ani 與 coccygeus 等構成的骨盆膈。",
+      "D": "本項應選。臀大肌（gluteus maximus muscle）是髖伸展與外旋的臀部肌肉，不屬於由 levator ani 與 coccygeus 等構成的骨盆膈。",
       "summary": "骨盆底的 levator ani 包括 puborectalis、pubococcygeus 與 iliococcygeus；gluteus maximus 不在其中。",
       "guideline": "FC 醫學(五)第2冊 p.145",
       "concepts": [
@@ -83142,7 +83142,7 @@
       "A": "①腹腔鏡闌尾切除通常有較少傷口感染與較快恢復；但②錯在能廣泛檢查腹腔的是腹腔鏡而非標準小切口開放術，故①②③含錯誤的②。",
       "B": "①大致成立；②顛倒兩種術式的視野優勢；④也過度否定腹腔鏡引流，對延遲闌尾炎合併膿瘍可依病況進行引流與控制感染，因此①②④不是正確敘述組合。",
       "C": "③強調安全完成手術，屬正確原則；但②宣稱開放式小切口可檢查整個腹膜腔不正確，因此僅②③不能代表兩個錯誤敘述。",
-      "D": "正確。②將腹腔鏡較能探查全腹腔的優勢錯置給開放術；④把 delayed appendicitis 的腹腔鏡引流一概說成無益也不對，兩者均為錯誤敘述。",
+      "D": "本項應選。②將腹腔鏡較能探查全腹腔的優勢錯置給開放術；④把 delayed appendicitis 的腹腔鏡引流一概說成無益也不對，兩者均為錯誤敘述。",
       "summary": "腹腔鏡比標準開放闌尾切除更能檢視腹腔；延遲闌尾炎合併膿瘍時，引流可能是感染控制的一部分。",
       "guideline": "FC 醫學(五)第2冊 p.214",
       "concepts": [
@@ -83613,7 +83613,7 @@
     },
     "explanation": {
       "A": "本項敘述錯誤。雷射燒除可作為表淺、低惡性度小型陰莖病灶的器官保留選項，但需密切追蹤局部復發。",
-      "B": "正確。Ta、grade 1、只有 0.5 cm 的表淺病灶不建議一開始就陰莖根除手術；這會造成過度治療與重大功能損失。",
+      "B": "本項應選。Ta、grade 1、只有 0.5 cm 的表淺病灶不建議一開始就陰莖根除手術；這會造成過度治療與重大功能損失。",
       "C": "本項敘述錯誤。若病灶限於包皮，包皮環切可完整切除並保留陰莖，是合適的局部治療方式。",
       "D": "本項敘述錯誤。Mohs 顯微手術逐層確認切緣，能在選定的早期陰莖癌保留較多組織，是可考慮的器官保留選項。",
       "summary": "極早期小型陰莖 SCC 優先器官保留；radical penectomy 留給侵犯較深或無法局部控制的疾病。",
@@ -83649,7 +83649,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項敘述錯誤。IMDC 會把 performance status 不佳列為不良預後因子，因它反映病人的整體疾病負荷與耐受治療能力。",
-      "B": "正確。lactate dehydrogenase 是較早期 MSKCC 模型的項目，不是 IMDC 的六項風險因子。",
+      "B": "本項應選。lactate dehydrogenase 是較早期 MSKCC 模型的項目，不是 IMDC 的六項風險因子。",
       "C": "本項敘述錯誤。血色素低於正常是 IMDC 因子之一，常反映腫瘤相關慢性發炎或骨髓抑制。",
       "D": "本項敘述錯誤。校正後血鈣高於正常是 IMDC 因子之一，和腎細胞癌副腫瘤表現及較差預後相關。",
       "summary": "IMDC 六因子不含 LDH；看到 metastatic RCC 的風險分層，別把舊的 MSKCC 指標混進來。",
@@ -84041,7 +84041,7 @@
       "A": "本項不是最適合的下一步。血管攝影適用於骨盆骨折持續不穩、懷疑動脈出血且骨盆先穩定後仍需栓塞的情況。",
       "B": "本項不適合。FAST 沒有腹腔積液時，直接剖腹探查無法處理最可能的後腹膜骨盆出血來源。",
       "C": "正確。低血壓加骨盆骨折、FAST 陰性時先用骨盆加壓帶固定，可降低骨盆容積與靜脈叢出血，是立即可做的損傷控制措施。",
-      "D": "錯誤。TXA 的效益和早期給藥相關，等待 3 小時才給會錯過時效；它也不能取代骨盆固定與出血控制。",
+      "D": "本項不選。TXA 的效益和早期給藥相關，等待 3 小時才給會錯過時效；它也不能取代骨盆固定與出血控制。",
       "summary": "骨盆骨折休克、FAST 陰性，先束骨盆再找出血；不要跳過 pelvic binder 直接開刀或等 3 小時。",
       "guideline": null,
       "concepts": [
@@ -84646,7 +84646,7 @@
     },
     "explanation": {
       "A": "本項不選：鞏膜扣壓術由外側壓迫鞏膜來支撐裂孔與減少玻璃體牽拉，是裂孔性視網膜剝離的治療方式。",
-      "B": "正確。光動力治療（photodynamic therapy）可用在少數脈絡膜新生血管病灶，不能封住視網膜裂孔或排出視網膜下液。",
+      "B": "本項應選。光動力治療（photodynamic therapy）可用在少數脈絡膜新生血管病灶，不能封住視網膜裂孔或排出視網膜下液。",
       "C": "本項不選：經坦部玻璃體切除術可移除牽拉玻璃體、雷射封住裂孔並填入氣體或矽油，適合複雜剝離。",
       "D": "本項不選：氣體視網膜固定術以膨脹氣泡頂住合適位置的裂孔，再配合冷凍或雷射固定。",
       "summary": "裂孔性剝離要做的是封裂孔、解除牽拉、讓視網膜貼回去；PDT 是 CNV 的治療，不會修補裂孔。",
@@ -84881,7 +84881,7 @@
       "A": "本項會造成角膜沉積。amiodarone 可在角膜上皮形成旋渦狀 cornea verticillata，通常不一定影響視力。",
       "B": "本項會造成角膜沉積。hydroxychloroquine 可有 corneal verticillata，更重要的長期風險是視網膜毒性。",
       "C": "本項會造成角膜沉積。chlorpromazine 可造成角膜與水晶體前囊色素沉積，常與累積劑量有關。",
-      "D": "正確。isoniazid 的重要眼部不良反應是視神經炎與視覺功能改變，不是典型角膜沉積物。",
+      "D": "本項應選。isoniazid 的重要眼部不良反應是視神經炎與視覺功能改變，不是典型角膜沉積物。",
       "summary": "角膜旋渦狀沉積記 amiodarone、hydroxychloroquine、chlorpromazine；isoniazid 要擔心的是視神經炎。",
       "guideline": null,
       "concepts": []
@@ -85189,7 +85189,7 @@
       "A": "本項不選。這是常見原因。放療可直接傷害耳蝸與聽神經相關組織，造成感音性聽損。",
       "B": "本項不選。這是常見原因。鼻咽放療後耳咽管功能下降，會反覆形成中耳積液並造成傳導性聽損。",
       "C": "本項不選。這是常見原因。cisplatin 等 platinum 化療具有耳毒性，常造成雙側高頻感音性聽損。",
-      "D": "正確。一般頭頸癌標靶治療不是鼻咽癌治療後聽損的常見原因；主要仍是放療、耳咽管功能障礙與 platinum 耳毒性。",
+      "D": "本項應選。一般頭頸癌標靶治療不是鼻咽癌治療後聽損的常見原因；主要仍是放療、耳咽管功能障礙與 platinum 耳毒性。",
       "summary": "鼻咽癌治療後聽損先分三條路：放療傷內耳、耳咽管積液、cisplatin 耳毒性。",
       "guideline": null,
       "concepts": [
@@ -85354,7 +85354,7 @@
     "explanation": {
       "A": "本項不對，Early pregnancy loss 通常見到無存活胚胎或排出中的妊娠組織，無法解釋子宮大於孕週、極高 β-hCG 和 snowstorm appearance。",
       "B": "本項不對，Ectopic pregnancy 應在子宮外找妊娠相關腫塊；本題超音波是子宮腔充滿囊狀絨毛組織，方向相反。",
-      "C": "正確。嚴重噁心、子宮大於孕週、β-hCG 400,000 mIU/mL 與子宮內 snowstorm appearance 指向葡萄胎為主的妊娠滋養層疾病（GTD）。超音波上子宮腔被大量細小囊泡狀回音填滿，呈現典型的暴風雪或蜂窩狀外觀，看不到胎兒。加上六週的停經、嚴重噁心、大量出血與偏高的血壓，就是完全性葡萄胎。接著要驗 hCG（常異常飆高）、照胸部 X 光找肺轉移，處理是子宮吸引清除並規則追蹤 hCG 直到連續正常。",
+      "C": "本項應選。嚴重噁心、子宮大於孕週、β-hCG 400,000 mIU/mL 與子宮內 snowstorm appearance 指向葡萄胎為主的妊娠滋養層疾病（GTD）。超音波上子宮腔被大量細小囊泡狀回音填滿，呈現典型的暴風雪或蜂窩狀外觀，看不到胎兒。加上六週的停經、嚴重噁心、大量出血與偏高的血壓，就是完全性葡萄胎。接著要驗 hCG（常異常飆高）、照胸部 X 光找肺轉移，處理是子宮吸引清除並規則追蹤 hCG 直到連續正常。",
       "D": "本項不對，雙胞胎妊娠可讓 hCG 較高，卻應看到兩個 gestational sacs 或胎兒結構，不能造成無胎兒的 snowstorm 影像。",
       "summary": "子宮比孕週大、hCG 異常高又像暴風雪，先想 molar pregnancy／GTD，不是雙胞胎。",
       "guideline": null,
@@ -85635,7 +85635,7 @@
     },
     "explanation": {
       "A": "本項不對，TOLAC 失敗而改緊急剖腹時，出血與 transfusion 風險可增加，因此不是比較中最不會增加的項目。",
-      "B": "正確。和 elective repeat cesarean delivery 相比，成功 TOLAC 通常可避免額外腹部手術，子宮切除（hysterectomy）的整體風險不會增加。",
+      "B": "本項應選。和 elective repeat cesarean delivery 相比，成功 TOLAC 通常可避免額外腹部手術，子宮切除（hysterectomy）的整體風險不會增加。",
       "C": "本項不對，TOLAC 尤其在產程延長或緊急剖腹時，uterine infection 風險可高於計畫性重複剖腹。",
       "D": "本項不對，子宮裂開（uterine dehiscence）與子宮破裂是 TOLAC 特別要告知的疤痕相關風險，選擇性重複剖腹較少遇到。",
       "summary": "TOLAC 最大代價是疤痕子宮裂開與緊急手術風險；成功陰道生產的好處之一是避免再做手術與 hysterectomy。",
@@ -86743,7 +86743,7 @@
     },
     "explanation": {
       "A": "本項不選。截肢越高，槓桿越短且步行耗能越大，義肢控制與訓練難度都上升。",
-      "B": "正確。年齡小於 60 歲通常有較佳體力、學習能力與復原潛力，本身不是義肢配置的不良因子。",
+      "B": "本項應選。年齡小於 60 歲通常有較佳體力、學習能力與復原潛力，本身不是義肢配置的不良因子。",
       "C": "本項不選。失智或認知障礙會妨礙安全判斷、穿戴義肢與學習步態訓練，增加跌倒與使用失敗風險。",
       "D": "本項不選。傷口未癒合會延遲殘肢承重與義肢接受腔配置，也增加皮膚破損和感染風險。",
       "summary": "義肢成功靠殘肢能承重、認知能學、體力能走；高位截肢、認知問題、傷口不癒都會拖累成果。",
@@ -87326,7 +87326,7 @@
     "explanation": {
       "A": "這項不選。兒童在研究中較難完全自主同意，也容易受大人決定影響，因此典型屬易受傷害族群。",
       "B": "這項不選。孕婦涉及自身與胎兒的雙重風險、資訊不足及可能被排除或被不當納入研究，須加強保護。",
-      "C": "正確。高齡本身不必然代表易受傷害；若沒有失智、依賴、經濟或社會脆弱性，不能只因年紀把所有老人歸類。",
+      "C": "本項應選。高齡本身不必然代表易受傷害；若沒有失智、依賴、經濟或社會脆弱性，不能只因年紀把所有老人歸類。",
       "D": "這項不選。末期患者可能因希望獲得最後治療機會而受治療誤解或不當影響，研究時需特別保障其自願性。",
       "summary": "易受傷害看的是自主受限與被利用風險，不是單看年齡；健康、能決定的老人不必然屬此類。",
       "guideline": null
@@ -92153,7 +92153,7 @@
       "A": "本項敘述正確。史特基–韋伯氏症候群的微血管畸形多是單側臉部的葡萄酒色斑，典型落在三叉神經第一分枝（V1）對應的前額與上眼瞼。實際上用胚胎期血管分布解釋風險比單純神經皮節更準，但額部與眼周病灶仍是重要警訊。",
       "B": "本項應選。腦膜血管瘤病常造成癲癇，而且往往在嬰幼兒期就出現，是最重要的神經表現之一。說「伴有癲癇的機率不高」會嚴重低估這個併發症。",
       "C": "本項敘述正確。葡萄酒色斑若侵犯上下眼瞼或眼周的血管分布，患側青光眼風險明顯上升，可能在嬰兒期發生，也可能較晚才出現。病人需要長期眼科追蹤，包括眼壓與視神經評估。",
-      "D": "本項敘述正確與否有疑義，答案設定值得存疑。史特基–韋伯氏症候群公認的分子病因是胚胎期合子後體細胞的 GNAQ 活化突變，少數相關表型可涉及 GNA11；EPHB4 一般與微血管畸形合併動靜脈畸形那一群比較有關。依現行遺傳學資料，本選項的基因敘述也有命題疑義，[TODO]需核對原題是否有文字或答案設定問題。",
+      "D": "本項敘述也有問題，但官方答案只給 B。史特基–韋伯氏症候群公認的病因是胚胎期體細胞的 GNAQ 活化突變，少數相關表型涉及 GNA11。EPHB4 一般與微血管畸形合併動靜脈畸形那一群有關。作答時 B 錯得最明顯，選 B。",
       "summary": "史特基–韋伯的四個重點：單側 V1 葡萄酒色斑、腦膜血管瘤、癲癇很常見、患側青光眼要長期追。官方答案選 B，但 D 寫的 EPHB4 與公認的 GNAQ 病因不符，本題有複選疑義。",
       "guideline": "FC 醫學(四)第1冊 p.297",
       "concepts": [
@@ -95598,7 +95598,7 @@
     },
     "explanation": {
       "A": "本項不對。T1 只表示結直腸癌已穿過黏膜肌板而進入 submucosa，尚未到達固有肌層（muscularis propria）。",
-      "B": "正確。T 分期是在量腫瘤穿過腸壁多深；癌細胞侵入但未穿越 muscularis propria 時，就是 T2。",
+      "B": "本項應選。T 分期是在量腫瘤穿過腸壁多深；癌細胞侵入但未穿越 muscularis propria 時，就是 T2。",
       "C": "本項不對。T3 必須已穿越 muscularis propria，進入腸周或直腸周脂肪組織；題幹明示尚未穿越，所以不能算 T3。",
       "D": "本項不對。T4 是更外層侵犯：T4a 穿破 visceral peritoneum，T4b 直接侵犯鄰近器官或結構；只有肌層內侵犯還不到這一步。",
       "summary": "結直腸癌 T 分期看穿壁深度：T2 到肌層，T3 出肌層，T4 到腹膜或鄰近器官。",
@@ -95634,10 +95634,10 @@
     "fc_ref": null,
     "explanation": {
       "A": "正確。腹腔鏡器械介在手與組織之間，會削弱觸覺與組織阻力回饋，這是 MIS 的固有限制。",
-      "B": "正確。開腹手術可直接觸摸組織硬度與彈性，腹腔鏡器械無法完整傳遞這些病理線索。",
+      "B": "本項應選。「無法」說得太絕對。腹腔鏡器械確實削弱觸覺，但外科醫師仍能從器械傳回的阻力得到部分組織硬度與彈性的回饋。",
       "C": "正確。port 形成 fulcrum effect，器械在腹壁切口處受限，活動範圍和手眼方向都比開腹受拘束。",
-      "D": "本項要選。CO2 氣腹的目的在建立工作空間與分開腹壁和臟器，但它不是為了維持腹腔內正壓；壓力本身還可能造成心肺生理負擔。",
-      "summary": "CO2 氣腹是為了撐出工作空間，不是為了「維持正壓」；正壓反而是要控制的生理負荷。",
+      "D": "本項不選。這句敘述正確：CO2 氣腹常維持 12–15 mmHg，靠腹腔內正壓把腹壁和臟器分開，撐出工作空間。",
+      "summary": "微創手術的觸覺回饋是「變弱」，不是「完全沒有」；題目出現「無法」這種絕對用語要特別小心。",
       "guideline": null,
       "concepts": [
         "mis-technique-special-populations"
@@ -96141,7 +96141,7 @@
       "A": "本項敘述錯誤。導尿、尿道操作或前列腺發炎可造成 PSA 暫時上升；抽血前要先問近期是否有這些干擾。",
       "B": "本項敘述錯誤。泌尿道感染會刺激前列腺與尿路發炎，PSA 可能明顯升高，所以應治療後再重測。",
       "C": "本項敘述錯誤。5α-reductase inhibitor（5-ARI）會抑制 DHT 並使 PSA 約下降一半；追蹤癌症風險時需依用藥狀況解讀數值。",
-      "D": "正確。前晚吃高脂肪食物不會直接改變 PSA；PSA 主要受前列腺體積、發炎、操作與 5-ARI 影響。",
+      "D": "本項應選。前晚吃高脂肪食物不會直接改變 PSA；PSA 主要受前列腺體積、發炎、操作與 5-ARI 影響。",
       "summary": "解讀 PSA 前先排除感染、尿道操作與 5-ARI；高脂飲食不是常見干擾因子。",
       "guideline": "FC 醫學(五)第5冊 p.119",
       "concepts": [
@@ -96261,7 +96261,7 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "正確。外源性 testosterone depot 會抑制下視丘–腦下垂體的 LH、FSH，讓睪丸內 testosterone 降低、精子生成受抑；想生育的病人最不建議使用。",
+      "A": "本項應選。外源性 testosterone depot 會抑制下視丘–腦下垂體的 LH、FSH，讓睪丸內 testosterone 降低、精子生成受抑；想生育的病人最不建議使用。",
       "B": "本項敘述錯誤。SERMs 可減少 estrogen 對下視丘的負回饋，增加 LH/FSH，讓內生 testosterone 與精子生成有機會一起改善。",
       "C": "本項敘述錯誤。芳香酶抑制劑可降低 testosterone 轉為 estradiol，適合選定有高 estrogen 或肥胖相關低 testosterone 的不孕男性。",
       "D": "本項敘述錯誤。hCG 模擬 LH 刺激 Leydig cells 產生 testosterone；和 FSH 或 SERM 視情況合用，可保留生精軸。",
@@ -96706,7 +96706,7 @@
     "explanation": {
       "A": "這項不選。醫師如何說明疾病、風險與選項會影響病人理解與選擇，是典型外在影響。",
       "B": "這項不選。媒體、網路或親友提供的醫療資訊會塑造病人的期待與恐懼，屬外在資訊環境。",
-      "C": "正確。疾病造成的疼痛感源於病人自身身體狀態，屬內在限制；它可影響決定能力，但不是外在因素。",
+      "C": "本項應選。疾病造成的疼痛感源於病人自身身體狀態，屬內在限制；它可影響決定能力，但不是外在因素。",
       "D": "這項不選。親友的支持、反對或壓力來自病人外部的人際關係，可能增進或損害其自願性。",
       "summary": "外在影響來自醫師、資訊與親友；疼痛雖會讓決定變難，卻是疾病帶來的內在限制。",
       "guideline": "FC 醫學(五)第1冊 p.103",
@@ -97344,7 +97344,7 @@
     },
     "explanation": {
       "A": "本項會造成遮蔽性弱視。雙眼嚴重 ptosis 若遮住瞳孔，兩眼都長期收不到清楚影像，可導致雙眼遮蔽性弱視。",
-      "B": "正確。右眼內斜視會造成斜視性弱視，機轉是大腦抑制偏斜眼的影像；它不是物理性遮住視軸的遮蔽性弱視。",
+      "B": "本項應選。右眼內斜視會造成斜視性弱視，機轉是大腦抑制偏斜眼的影像；它不是物理性遮住視軸的遮蔽性弱視。",
       "C": "本項會造成遮蔽性弱視。單眼白內障把影像直接擋在水晶體前，早期不處理會造成很重的 unilateral deprivation amblyopia。",
       "D": "本項會造成遮蔽性弱視。上瞼 capillary hemangioma 若垂下遮住瞳孔，會像眼瞼下垂一樣阻斷視覺刺激。",
       "summary": "遮蔽性弱視是光進不去：白內障、重度 ptosis、上瞼血管瘤都會；內斜視是抑制影像，屬另一種弱視。",
@@ -97423,7 +97423,7 @@
       "A": "本項不選：白瞳嬰兒需要眼球超音波看眼內腫塊、鈣化與視網膜剝離，尤其要排除 retinoblastoma。",
       "B": "本項不選：眼眶 CT 可顯示 retinoblastoma 的鈣化與眼眶延伸；是否選用仍由兒童眼科與腫瘤團隊依情境決定。",
       "C": "本項不選：間接眼底鏡可在散瞳或麻醉檢查下直接檢視視網膜與玻璃體，是白瞳評估的重要步驟。",
-      "D": "正確。OCT 對黃斑微結構有價值，但六個月嬰兒白瞳伴紅痛流淚時，優先是找腫瘤、白內障或剝離，不是先做 OCT。",
+      "D": "本項應選。OCT 對黃斑微結構有價值，但六個月嬰兒白瞳伴紅痛流淚時，優先是找腫瘤、白內障或剝離，不是先做 OCT。",
       "summary": "嬰兒白瞳先排 retinoblastoma：超音波、間接眼底鏡和適當影像能救命；OCT 不是第一優先。",
       "guideline": null,
       "concepts": [
@@ -97581,10 +97581,10 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "不正確。病毒性上呼吸道感染是嗅覺異常最常見原因之一，會造成嗅黏膜或神經上皮受損。",
-      "B": "不正確。頭部外傷可拉扯嗅絲或損傷前顱底，是重要的後天嗅覺喪失原因。",
-      "C": "不正確。鼻竇疾病與鼻息肉會阻擋氣流到嗅裂，形成傳導型嗅覺障礙，臨床很常見。",
-      "D": "正確。中樞神經腫瘤可影響嗅覺路徑，但相較感染、外傷與鼻竇疾病罕見得多。",
+      "A": "本項不選。病毒性上呼吸道感染是嗅覺異常最常見原因之一，會造成嗅黏膜或神經上皮受損。",
+      "B": "本項不選。頭部外傷可拉扯嗅絲或損傷前顱底，是重要的後天嗅覺喪失原因。",
+      "C": "本項不選。鼻竇疾病與鼻息肉會阻擋氣流到嗅裂，形成傳導型嗅覺障礙，臨床很常見。",
+      "D": "本項應選。中樞神經腫瘤可影響嗅覺路徑，但相較感染、外傷與鼻竇疾病罕見得多。",
       "summary": "嗅覺失常先想感染、外傷或鼻阻塞；中樞腫瘤雖不能漏，卻不是常見原因。",
       "guideline": "FC 醫學(六)第4冊 p.242",
       "concepts": [
@@ -97663,10 +97663,10 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "不正確。這是 FEES 的優點。檢查不需放射線，可在床邊重複進行，適合無法送到放射科的病人。",
+      "A": "本項不選。這是 FEES 的優點。檢查不需放射線，可在床邊重複進行，適合無法送到放射科的病人。",
       "B": "本項不屬於 FEES 相對優勢。各種黏稠度的食物 MBS 和 FEES 都能測，不能用它來區分誰較優。",
-      "C": "不正確。這是 FEES 的優點。可用內視鏡刺激評估喉部感覺與保護性反射，MBS 無法直接做到。",
-      "D": "不正確。這是 FEES 的優點。內視鏡可直接看軟顎與咽壁閉合，評估腭咽閉鎖不全通常較精準。",
+      "C": "本項不選。這是 FEES 的優點。可用內視鏡刺激評估喉部感覺與保護性反射，MBS 無法直接做到。",
+      "D": "本項不選。這是 FEES 的優點。內視鏡可直接看軟顎與咽壁閉合，評估腭咽閉鎖不全通常較精準。",
       "summary": "FEES 的強項是床邊、無輻射、能看感覺與腭咽閉合；食物黏稠度不是它獨有優勢。",
       "guideline": "FC 醫學(六)第4冊 p.287",
       "concepts": [
@@ -97901,7 +97901,7 @@
       "A": "本項不選。胎兒死亡後腎上腺不再供應 DHEA-S，胎盤少了原料就合成不出雌激素。母血 estriol 會明顯下降。",
       "B": "本項不選。胎盤的 sulfatase 負責把 DHEA-S 上的硫酸基切掉。缺了這個酶，原料卡在前一步，estriol 幾乎測不到。這類孕婦也常見不易自然發動產程。",
       "C": "本項不選。唐氏症（Down syndrome）胎兒的腎上腺與胎盤功能較弱，母血非結合型 estriol（uE3）偏低。這正是第二孕期四指標篩檢用來抓唐氏症的訊號之一。",
-      "D": "正確。胎兒溶血造成的成紅血細胞增多症會伴隨胎盤代償性肥大。合成雌激素的滋養細胞變多，母血雌激素反而往上走，不會下降。",
+      "D": "本項應選。胎兒溶血造成的成紅血細胞增多症會伴隨胎盤代償性肥大。合成雌激素的滋養細胞變多，母血雌激素反而往上走，不會下降。",
       "summary": "母體雌激素＝胎兒腎上腺供料 × 胎盤加工；原料斷了（死胎、缺酶、唐氏）就掉，胎盤變肥（溶血）反而升。",
       "guideline": null,
       "concepts": [
@@ -102464,10 +102464,10 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確：比較系列影像之後，該病灶為新。新出現的肺部病灶較支持正在進行中的過程，包括 active TB，但仍要用病原檢驗確認。",
-      "B": "不正確：X 光片影像出現開洞 cav。cavitation 是活動性肺結核的常見影像線索，特別在上肺野，也會提高傳染性疑慮。",
-      "C": "不正確：該病灶在X 光片上出現界線不。ill-defined infiltrate 可見於活性發炎或感染，較不支持純舊病灶。",
-      "D": "正確：該病灶鈣化程度明顯，呈現近乎。本項最不傾向活動性肺結核。近乎完全鈣化常表示已癒合的舊肉芽腫病灶，雖不能絕對排除再活化。",
+      "A": "本項不選。比較系列影像之後，該病灶為新。新出現的肺部病灶較支持正在進行中的過程，包括 active TB，但仍要用病原檢驗確認。",
+      "B": "本項不選。X 光片影像出現開洞 cav。cavitation 是活動性肺結核的常見影像線索，特別在上肺野，也會提高傳染性疑慮。",
+      "C": "本項不選。該病灶在X 光片上出現界線不。ill-defined infiltrate 可見於活性發炎或感染，較不支持純舊病灶。",
+      "D": "本項應選。該病灶鈣化程度明顯，呈現近乎。本項最不傾向活動性肺結核。近乎完全鈣化常表示已癒合的舊肉芽腫病灶，雖不能絕對排除再活化。",
       "summary": "TB 影像的活動線索是新病灶、空洞、模糊浸潤；完全鈣化更像舊傷疤。",
       "guideline": null,
       "concepts": [
@@ -104264,7 +104264,7 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "正確。長年沒治療的高血壓會讓中大腦動脈發出的穿通枝長出微動脈瘤。這些血管直接插進殼核（putamen），是高血壓性腦出血最常見的位置。血塊往旁邊壓到內囊，就造成對側偏癱。",
+      "A": "本項應選。長年沒治療的高血壓會讓中大腦動脈發出的穿通枝長出微動脈瘤。這些血管直接插進殼核（putamen），是高血壓性腦出血最常見的位置。血塊往旁邊壓到內囊，就造成對側偏癱。",
       "B": "本項不選。前額葉（prefrontal lobe）屬於葉狀出血的範圍，比較指向類澱粉血管病變或血管畸形。而且前額葉出血多以人格與執行功能改變表現。",
       "C": "本項不選。枕葉（occipital lobe）出血同樣屬於葉狀位置，臨床上以對側視野缺損為主。它不是高血壓的典型好發部位。",
       "D": "本項不選。小腦（cerebellum）確實也是高血壓性出血的好發位置之一。但典型表現是劇烈暈眩、嘔吐與共濟失調，不會是單純的單側偏癱。",
@@ -105283,7 +105283,7 @@
     "specialty": "精神科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。精神衛生法在定義精神疾病時，明文把反社會人格違常排除在外。理由是這類行為問題主要走司法與社會處遇，不是靠強制醫療解決。要注意這是法律上的範圍界定，不代表 DSM-5 裡沒有這個診斷。",
+      "A": "本項應選。精神衛生法在定義精神疾病時，明文把反社會人格違常排除在外。理由是這類行為問題主要走司法與社會處遇，不是靠強制醫療解決。要注意這是法律上的範圍界定，不代表 DSM-5 裡沒有這個診斷。",
       "B": "本項不選。精神病明列在法定精神疾病的範圍內，思覺失調症等疾患都適用這部法律的權益保障與強制程序。",
       "C": "本項不選。精神官能症同樣列在條文的範圍內，焦慮症與強迫症等都算。",
       "D": "本項不選。酒癮與藥癮明文列入，這也是成癮者可以進入治療與社區支持體系的法源。",
@@ -105746,10 +105746,10 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。這句話是 TPN 的可能併發症。輸液量或鈉負荷估算不當可造成水腫、肺水腫或脫水，需每日依體重與輸出入量調整。",
-      "B": "正確。TPN 繞過腸道供給營養，不會直接造成機械性腸阻塞；反而長期不用腸道可能使腸黏膜萎縮。",
-      "C": "錯誤。這句話是 TPN 的可能併發症。長期配方若未足量補充 zinc、selenium、copper 等微量元素，會造成缺乏症。",
-      "D": "錯誤。這句話是 TPN 的可能併發症。長期 TPN 可引起膽汁鬱積、脂肪肝或肝功能異常，需要監測 liver tests。",
+      "A": "本項不選。這句話是 TPN 的可能併發症。輸液量或鈉負荷估算不當可造成水腫、肺水腫或脫水，需每日依體重與輸出入量調整。",
+      "B": "本項應選。TPN 繞過腸道供給營養，不會直接造成機械性腸阻塞；反而長期不用腸道可能使腸黏膜萎縮。",
+      "C": "本項不選。這句話是 TPN 的可能併發症。長期配方若未足量補充 zinc、selenium、copper 等微量元素，會造成缺乏症。",
+      "D": "本項不選。這句話是 TPN 的可能併發症。長期 TPN 可引起膽汁鬱積、脂肪肝或肝功能異常，需要監測 liver tests。",
       "summary": "TPN 的坑在導管、代謝、肝膽與微量元素；它不會直接把腸道塞住。",
       "guideline": null,
       "concepts": [
@@ -106067,7 +106067,7 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。保留供給區肌肉與筋膜功能是穿通枝皮瓣（perforator flap）的優點：只帶皮膚、脂肪與穿通枝，可減少取瓣後肌力與腹壁等 donor-site morbidity。",
+      "A": "本項應選。保留供給區肌肉與筋膜功能是穿通枝皮瓣（perforator flap）的優點：只帶皮膚、脂肪與穿通枝，可減少取瓣後肌力與腹壁等 donor-site morbidity。",
       "B": "本項不選。分離單一穿通枝需要在肌肉或筋膜間細緻追蹤血管，技術困難是其缺點之一。",
       "C": "本項不選。穿通枝血管細小且路徑曲折，解剖與剝離常比傳統肌皮瓣花更多手術時間，這是實務限制。",
       "D": "本項不選。穿通枝位置與口徑有個體差異，血管也常短小、管壁較薄；術前影像定位與顯微技術可降低風險，但不能消除變異。",
@@ -106240,7 +106240,7 @@
     "specialty": "心臟血管外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。急性主動脈瓣逆流不是典型急性心肌梗塞後的 mechanical complication；它較常由感染性心內膜炎、主動脈剝離或瓣膜創傷引起。",
+      "A": "本項應選。急性主動脈瓣逆流不是典型急性心肌梗塞後的 mechanical complication；它較常由感染性心內膜炎、主動脈剝離或瓣膜創傷引起。",
       "B": "本項不是答案。下壁心肌梗塞可使後內側乳突肌缺血斷裂，突然造成嚴重二尖瓣逆流與肺水腫。",
       "C": "本項不是答案。心室中隔破裂會形成急性左向右分流，常在心肌梗塞後數天出現新的粗糙收縮期雜音與心因性休克。",
       "D": "本項不是答案。游離壁破裂可造成心包填塞、電機機械分離與猝死，是急性心肌梗塞最致命的結構性併發症之一。",
@@ -106416,7 +106416,7 @@
     "explanation": {
       "A": "本項不選。腫瘤侵犯肌肉層是 T2，已有三顆區域淋巴結轉移屬 N2，不是早期的 IB。只要淋巴結數量上升，分期會被明顯往後推。",
       "B": "本項不選。IIB 通常尚未到本例的 N2 淋巴結負荷。病理分期不能只看原發腫瘤停在肌肉層，還要把轉移節點數一起算。",
-      "C": "正確。胸段食道鱗狀細胞癌的 T2N2M0，AJCC 第八版病理分期為 IIIB。中度分化在這個分期組合不會把它降回早期。",
+      "C": "本項應選。胸段食道鱗狀細胞癌的 T2N2M0，AJCC 第八版病理分期為 IIIB。中度分化在這個分期組合不會把它降回早期。",
       "D": "本項不選。IVB 需要遠端轉移（M1），本例明確沒有遠端轉移。區域淋巴結多不等於已有遠端器官轉移。",
       "summary": "食道癌分期別只看 T：肌肉層 T2 加三顆區域淋巴結 N2、無遠端轉移，就是 IIIB。",
       "guideline": null,
@@ -107265,10 +107265,10 @@
     "specialty": "小兒外科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確。先天性肺葉氣腫（congenital lobar emphysema）使肺葉過度膨脹，可能壓迫鄰近肺並造成呼吸窘迫；受損肺泡破裂時可出現氣胸。",
-      "B": "不正確。支氣管源性囊腫（bronchogenic cyst）若與氣道相通、感染或破裂，可能造成空氣漏出；雖然不如典型囊性肺病灶常見，不能說最不容易。",
-      "C": "正確。游離肺（pulmonary sequestration）是沒有正常氣道交通、由體循環異常動脈供血的肺組織；因缺乏與支氣管相通的囊性空腔，最不容易自發性氣胸。",
-      "D": "不正確。先天性肺部呼吸道畸形（congenital pulmonary airway malformation）含有大小不一的氣囊，囊腫破裂或正壓通氣時可導致氣胸。",
+      "A": "本項不選。先天性肺葉氣腫（congenital lobar emphysema）使肺葉過度膨脹，可能壓迫鄰近肺並造成呼吸窘迫；受損肺泡破裂時可出現氣胸。",
+      "B": "本項不選。支氣管源性囊腫（bronchogenic cyst）若與氣道相通、感染或破裂，可能造成空氣漏出；雖然不如典型囊性肺病灶常見，不能說最不容易。",
+      "C": "本項應選。游離肺（pulmonary sequestration）是沒有正常氣道交通、由體循環異常動脈供血的肺組織；因缺乏與支氣管相通的囊性空腔，最不容易自發性氣胸。",
+      "D": "本項不選。先天性肺部呼吸道畸形（congenital pulmonary airway malformation）含有大小不一的氣囊，囊腫破裂或正壓通氣時可導致氣胸。",
       "summary": "想氣胸先想有沒有和氣道相通的脆弱氣囊；游離肺沒有這條通路，所以最不像自發性氣胸來源。",
       "guideline": null
     },
@@ -107628,7 +107628,7 @@
     "explanation": {
       "A": "本項不選。高位髕骨讓髕骨在膝關節屈曲初期還沒進入股骨滑車溝，缺少骨性阻擋，容易往外滑脫。",
       "B": "本項不選。膝反屈代表韌帶鬆弛與伸直機制排列異常，是髕骨不穩定的危險因子之一。",
-      "C": "正確。Q 角越大，股四頭肌把髕骨往外拉的分力越強，脫臼風險越高；Q 角小反而是保護因子。臨床上女性骨盆較寬、Q 角較大，這正是女性髕骨脫臼較多的解剖原因。",
+      "C": "本項應選。Q 角越大，股四頭肌把髕骨往外拉的分力越強，脫臼風險越高；Q 角小反而是保護因子。臨床上女性骨盆較寬、Q 角較大，這正是女性髕骨脫臼較多的解剖原因。",
       "D": "本項不選。髕骨活動度過大代表內側髕股韌帶等軟組織約束不足，容易脫位。",
       "summary": "髕骨脫臼的危險因子都指向同一件事——把髕骨往外拉或缺少阻擋：Q 角大、高位髕骨、滑車發育不良、韌帶鬆。",
       "guideline": null,
@@ -107697,7 +107697,7 @@
     "explanation": {
       "A": "本項不選。背側骨間肌起止都在手部，負責手指外展，屬於掌內肌。",
       "B": "本項不選。蚓狀肌起自屈指深肌腱、止於伸肌腱膜，是掌內肌中很特別的一群。",
-      "C": "正確。屈指深肌的肌腹在前臂，只是肌腱延伸到手指，屬於外在肌。掌內肌與外在肌的分界就看肌腹在哪裡：在手裡的是內在肌，在前臂的是外在肌。這個分界在神經損傷定位時很有用——尺神經在腕部受傷只影響掌內肌，屈指力量仍在。",
+      "C": "本項應選。屈指深肌的肌腹在前臂，只是肌腱延伸到手指，屬於外在肌。掌內肌與外在肌的分界就看肌腹在哪裡：在手裡的是內在肌，在前臂的是外在肌。這個分界在神經損傷定位時很有用——尺神經在腕部受傷只影響掌內肌，屈指力量仍在。",
       "D": "本項不選。小魚際肌群完全位於手掌內，由尺神經支配。",
       "summary": "分內外在肌看肌腹在哪：手裡的是內在肌（骨間肌、蚓狀肌、大小魚際），前臂的是外在肌。",
       "guideline": null
@@ -107870,7 +107870,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項敘述錯誤。下腔靜脈腫瘤栓塞會阻塞靜脈回流，可造成雙下肢水腫或側枝循環擴張。",
-      "B": "正確。血尿是腎細胞癌原發腫瘤的常見表現，並不是下腔靜脈腫瘤栓塞特有或常見的直接表徵。",
+      "B": "本項應選。血尿是腎細胞癌原發腫瘤的常見表現，並不是下腔靜脈腫瘤栓塞特有或常見的直接表徵。",
       "C": "本項敘述錯誤。腫瘤栓或合併靜脈血栓可脫落到肺循環，肺栓塞是重要且危險的併發症。",
       "D": "本項敘述錯誤。腫瘤栓可沿下腔靜脈向上延伸至右心房，影像上可形成右心房內腫塊。",
       "summary": "RCC 合併 IVC tumor thrombus 會造成靜脈回流與栓塞問題；血尿屬原發腫瘤症狀，不是栓塞表現。",
@@ -107944,7 +107944,7 @@
       "A": "本項敘述錯誤。腦中風可中斷排尿中樞調控；在急性期或特定病灶下可造成排尿反射受抑與逼尿肌收縮力低下。",
       "B": "本項敘述錯誤。根治性子宮切除術可能傷害骨盆自主神經，造成膀胱感覺與逼尿肌收縮力下降。",
       "C": "本項敘述錯誤。糖尿病自主神經病變會先讓膀胱感覺變差，進一步造成膀胱容量大、殘尿多與逼尿肌無力。",
-      "D": "正確。尿路結石主要造成疼痛或阻塞，並不直接傷害控制逼尿肌的神經或肌肉，所以最不會導致 detrusor underactivity。",
+      "D": "本項應選。尿路結石主要造成疼痛或阻塞，並不直接傷害控制逼尿肌的神經或肌肉，所以最不會導致 detrusor underactivity。",
       "summary": "逼尿肌無力多是神經或骨盆手術問題；結石會卡住尿路，卻不會讓逼尿肌失去收縮力。",
       "guideline": null,
       "concepts": [
@@ -107980,7 +107980,7 @@
       "A": "本項敘述錯誤。睪丸組織造精正常，表示直接從 testis 以 TESE 取精仍可能成功，即使阻塞讓精液中沒有精子。",
       "B": "本項敘述錯誤。副睪腫脹飽滿支持阻塞性無精症；副睪內通常仍可取得成熟精子作 ICSI。",
       "C": "本項敘述錯誤。輸精管位於副睪與儲精囊之間，阻塞性無精症患者仍可能在其近端抽取精子。",
-      "D": "正確。儲精囊（seminal vesicle）主要產生精液的一部分，不是精子儲存或成熟場所，因此最不可能從這裡取得精子。",
+      "D": "本項應選。儲精囊（seminal vesicle）主要產生精液的一部分，不是精子儲存或成熟場所，因此最不可能從這裡取得精子。",
       "summary": "阻塞性無精症取精要往 testis、epididymis 或 vas deferens 找；seminal vesicle 只做精液，不製造精子。",
       "guideline": null,
       "concepts": [
@@ -108166,7 +108166,7 @@
       "A": "這項不符合。蜘蛛網膜下腔出血通常出現在 basal cistern 或腦溝，不會形成雙側貼著大腦表面的新月形集液。",
       "B": "這項不符合。雙側腦膜瘤是局限性實質外腫塊，CT 多見高密度 mass 與周邊水腫，不是廣泛新月形血腫。",
       "C": "這項不符合。硬腦膜上血腫（epidural hematoma）受顱縫限制，典型是凸透鏡形；雙側亞急性病灶也較少見。",
-      "D": "正確。高齡者步態不穩、頭痛，CT 若見雙側新月形低到等密度集液，最支持雙側亞急性硬腦膜下血腫（subdural hematoma）。電腦斷層上兩側大腦凸面各有一層新月形、密度接近腦組織的集合，把腦溝壓平、腦回往內推。密度變得跟腦差不多正是亞急性期（約一到三週）的特徵，這時病灶最容易被看漏；老人家與抗凝血藥使用者常常想不起明確外傷史。",
+      "D": "本項應選。高齡者步態不穩、頭痛，CT 若見雙側新月形低到等密度集液，最支持雙側亞急性硬腦膜下血腫（subdural hematoma）。電腦斷層上兩側大腦凸面各有一層新月形、密度接近腦組織的集合，把腦溝壓平、腦回往內推。密度變得跟腦差不多正是亞急性期（約一到三週）的特徵，這時病灶最容易被看漏；老人家與抗凝血藥使用者常常想不起明確外傷史。",
       "summary": "高齡、漸進頭痛步態差，加上 CT 新月形集液，先想 subdural hematoma；凸透鏡才是 epidural。",
       "guideline": null,
       "concepts": [
@@ -108342,7 +108342,7 @@
     "explanation": {
       "A": "這項不選。手術中做了不該做的事屬於採取行動造成的錯誤（error of commission），不是漏做應做事項的 omission。",
       "B": "這項不選。隱瞞醫療錯誤會剝奪病人理解傷害、參與補救與維護權益的機會，也阻礙系統改善。",
-      "C": "正確。錯誤不必然等於疏忽或過失，但一旦造成或可能造成病人影響，醫師仍應誠實說明已知事實、後續處置與預防措施。",
+      "C": "本項應選。錯誤不必然等於疏忽或過失，但一旦造成或可能造成病人影響，醫師仍應誠實說明已知事實、後續處置與預防措施。",
       "D": "這項不選。減少錯誤重點在通報、系統分析與安全文化；只強調追究個人責任會讓人害怕回報，反而藏起可改善的問題。",
       "summary": "醫療錯誤不一定等於失職，但都該誠實揭露與改善系統；只抓人會讓錯誤更容易被藏起來。",
       "guideline": null
@@ -108737,7 +108737,7 @@
       "A": "本項不選：後玻璃體剝離時玻璃體拉扯周邊視網膜，可能拉出裂孔，進而讓液化玻璃體進入裂孔下方。",
       "B": "本項不選：高度近視眼軸拉長、周邊視網膜變薄，格子狀退化與裂孔風險都增加。",
       "C": "本項不選：鈍傷可在周邊視網膜產生透析裂孔，之後演變成裂孔性視網膜剝離。",
-      "D": "正確。中心視網膜靜脈阻塞主要造成靜脈鬱血、出血與黃斑水腫，不會一般性地拉出視網膜裂孔。",
+      "D": "本項應選。中心視網膜靜脈阻塞主要造成靜脈鬱血、出血與黃斑水腫，不會一般性地拉出視網膜裂孔。",
       "summary": "裂孔性剝離需要『裂孔＋液化玻璃體＋牽拉』；PVD、近視、鈍傷都有這條路，CRVO 沒有。",
       "guideline": null,
       "concepts": [
@@ -109160,10 +109160,10 @@
     "specialty": "耳鼻喉科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確。IL-4 是 Th2 型過敏反應的重要細胞激素，會促進 B cells 進行 IgE class switching，所以過敏鼻黏膜可增加。",
-      "B": "不正確。IL-5 會促進 eosinophils 的生成與存活；嗜酸性球浸潤是過敏性鼻炎晚期發炎的特徵。",
-      "C": "正確。IL-10 以免疫調節與抑制發炎聞名，不是典型未治療 Th2 過敏性鼻炎最可能升高的效應細胞激素。",
-      "D": "不正確。IL-13 與 IL-4 共同促進 IgE 反應、黏液分泌與氣道／鼻黏膜過敏發炎，因此可增加。",
+      "A": "本項不選。IL-4 是 Th2 型過敏反應的重要細胞激素，會促進 B cells 進行 IgE class switching，所以過敏鼻黏膜可增加。",
+      "B": "本項不選。IL-5 會促進 eosinophils 的生成與存活；嗜酸性球浸潤是過敏性鼻炎晚期發炎的特徵。",
+      "C": "本項應選。IL-10 以免疫調節與抑制發炎聞名，不是典型未治療 Th2 過敏性鼻炎最可能升高的效應細胞激素。",
+      "D": "本項不選。IL-13 與 IL-4 共同促進 IgE 反應、黏液分泌與氣道／鼻黏膜過敏發炎，因此可增加。",
       "summary": "過敏性鼻炎的 Th2 三兄弟是 IL-4、IL-5、IL-13；IL-10 比較像煞車。",
       "guideline": null,
       "concepts": [
@@ -109196,10 +109196,10 @@
     "specialty": "耳鼻喉科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。anti-IgE antibody 主要用於中重度過敏性氣喘與特定慢性蕁麻疹；一般過敏性鼻炎並非常規建議使用。",
-      "B": "不正確。leukotriene modifier 可減輕部分病人的鼻炎症狀，特別是合併氣喘者；但整體效果通常不如鼻噴 steroid。",
-      "C": "不正確。topical intranasal corticosteroid 是過敏性鼻炎最有效的單一藥物之一，對鼻塞、流鼻水與鼻癢都有幫助。",
-      "D": "不正確。antihistamine 可抑制 histamine 造成的打噴嚏、鼻癢與流鼻水，是常用治療。",
+      "A": "本項應選。anti-IgE antibody 主要用於中重度過敏性氣喘與特定慢性蕁麻疹；一般過敏性鼻炎並非常規建議使用。",
+      "B": "本項不選。leukotriene modifier 可減輕部分病人的鼻炎症狀，特別是合併氣喘者；但整體效果通常不如鼻噴 steroid。",
+      "C": "本項不選。topical intranasal corticosteroid 是過敏性鼻炎最有效的單一藥物之一，對鼻塞、流鼻水與鼻癢都有幫助。",
+      "D": "本項不選。antihistamine 可抑制 histamine 造成的打噴嚏、鼻癢與流鼻水，是常用治療。",
       "summary": "普通過敏性鼻炎先用鼻噴 steroid 和 antihistamine；anti-IgE 不是常規起手式。",
       "guideline": null,
       "concepts": [
@@ -110146,7 +110146,7 @@
       "A": "本項不選。漿液性卵巢癌是最常見的上皮性卵巢癌，高惡性度漿液性癌多起源於輸卵管繖部。",
       "B": "本項不選。黏液性卵巢癌屬於上皮性，腫瘤常巨大且單側，要與大腸來源的轉移做鑑別。",
       "C": "本項不選。子宮內膜樣卵巢癌是上皮性的一種，常合併子宮內膜異位症或同時存在的子宮內膜癌。",
-      "D": "正確。顆粒細胞瘤屬於性索間質腫瘤，會分泌雌激素，臨床上可能以停經後出血或性早熟表現，抽血看抑制素會升高。它與上皮性卵巢癌的細胞來源完全不同，復發可以晚到十幾年後。",
+      "D": "本項應選。顆粒細胞瘤屬於性索間質腫瘤，會分泌雌激素，臨床上可能以停經後出血或性早熟表現，抽血看抑制素會升高。它與上皮性卵巢癌的細胞來源完全不同，復發可以晚到十幾年後。",
       "summary": "卵巢腫瘤三大來源：上皮性（漿液、黏液、子宮內膜樣、亮細胞）、生殖細胞、性索間質（顆粒細胞、Sertoli-Leydig）。",
       "guideline": null
     },
@@ -110777,7 +110777,7 @@
     "specialty": "復健科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。溝通能力不在巴氏量表（Barthel index）的十個項目裡，它量的是身體自我照顧做不做得到。要評語言表達與理解得換別的工具。",
+      "A": "本項應選。溝通能力不在巴氏量表（Barthel index）的十個項目裡，它量的是身體自我照顧做不做得到。要評語言表達與理解得換別的工具。",
       "B": "本項不選。進食是量表第一項，依能否自行使用餐具、需不需要協助分級給分。",
       "C": "本項不選。如廁包含脫穿褲子、擦拭與沖水，是量表明列的項目之一。",
       "D": "本項不選。盥洗與洗澡分屬兩個項目，都在量表內，評的是清潔自己時需要多少幫忙。",
@@ -113399,10 +113399,10 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確：Pseudomonas ae。Pseudomonas aeruginosa 可造成潮濕傷口感染，但海魚刺傷後幾小時內出血性水泡與休克，更不符合它的典型組合。",
-      "B": "不正確：Staphylococcus。金黃色葡萄球菌可造成 cellulitis 與膿瘍，卻不會像本例在肝病者海水暴露後迅速造成暴發性敗血症。",
-      "C": "不正確：Proteus mirabi。Proteus mirabilis 常見於尿路感染，不是海水魚刺傷後壞死性水泡感染的代表病原。",
-      "D": "正確：Vibrio vulnifi。Vibrio vulnificus 會在慢性肝病者經海水或海產傷口造成快速 cellulitis、bullae、DIC 與休克。圖上足背腫脹發紫，並冒出多顆張力性的出血性水泡，周圍皮膚已呈暗紫色。海水或魚刺受傷後幾小時內就爆出出血性水泡、接著休克，是海洋弧菌壞死性筋膜炎的典型病程；慢性肝病是它最重要的宿主危險因子。治療是立刻清創加上 doxycycline 併用第三代 cephalosporin。",
+      "A": "本項不選。Pseudomonas ae。Pseudomonas aeruginosa 可造成潮濕傷口感染，但海魚刺傷後幾小時內出血性水泡與休克，更不符合它的典型組合。",
+      "B": "本項不選。Staphylococcus。金黃色葡萄球菌可造成 cellulitis 與膿瘍，卻不會像本例在肝病者海水暴露後迅速造成暴發性敗血症。",
+      "C": "本項不選。Proteus mirabi。Proteus mirabilis 常見於尿路感染，不是海水魚刺傷後壞死性水泡感染的代表病原。",
+      "D": "本項應選。Vibrio vulnifi。Vibrio vulnificus 會在慢性肝病者經海水或海產傷口造成快速 cellulitis、bullae、DIC 與休克。圖上足背腫脹發紫，並冒出多顆張力性的出血性水泡，周圍皮膚已呈暗紫色。海水或魚刺受傷後幾小時內就爆出出血性水泡、接著休克，是海洋弧菌壞死性筋膜炎的典型病程；慢性肝病是它最重要的宿主危險因子。治療是立刻清創加上 doxycycline 併用第三代 cephalosporin。",
       "summary": "海魚刺傷＋肝病＋數小時內 bullae 與 shock，是 Vibrio vulnificus 的典型急症組合。",
       "guideline": null
     },
@@ -117418,10 +117418,10 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。glioblastoma multiforme 多見於中老年成人，並非典型兒童腦瘤。",
-      "B": "錯誤。meningioma 多為成人腦膜腫瘤，孩童相對少見。",
-      "C": "錯誤。pituitary adenoma 常見於成人，兒童僅占少數。",
-      "D": "正確。medulloblastoma 是兒童常見的惡性後顱窩腫瘤，在成人相對少見。",
+      "A": "本項不選。glioblastoma multiforme 多見於中老年成人，並非典型兒童腦瘤。",
+      "B": "本項不選。meningioma 多為成人腦膜腫瘤，孩童相對少見。",
+      "C": "本項不選。pituitary adenoma 常見於成人，兒童僅占少數。",
+      "D": "本項應選。medulloblastoma 是兒童常見的惡性後顱窩腫瘤，在成人相對少見。",
       "summary": "小孩的後顱窩惡性腫瘤，最經典就是 medulloblastoma；成人的 GBM、meningioma、pituitary adenoma 較常見。",
       "guideline": null,
       "concepts": [
@@ -118236,7 +118236,7 @@
     "explanation": {
       "A": "本項是重要預後因子。術前 CEA 大於 200 ng/mL 代表腫瘤負荷與較差生物學行為的可能性較高，列入結直腸癌肝轉移切除後復發風險評估。",
       "B": "本項是重要預後因子。肝轉移最大徑大於 5 cm 與較差存活相關，反映肝內腫瘤負荷較大。",
-      "C": "正確。原發腫瘤在直腸本身不是肝轉移切除後存活的經典主要預後因子；評估更重視 CEA、轉移病灶數量與大小、淋巴結狀態及同步或異時出現。",
+      "C": "本項應選。原發腫瘤在直腸本身不是肝轉移切除後存活的經典主要預後因子；評估更重視 CEA、轉移病灶數量與大小、淋巴結狀態及同步或異時出現。",
       "D": "本項是重要預後因子。同步肝轉移表示在診斷原發癌時已發現肝病灶，通常比較長間隔後才出現的異時轉移有較高復發風險。",
       "summary": "評估大腸癌肝轉移切除預後，記 CEA、病灶大小／數量、淋巴結與同步轉移；直腸原發不是經典主要因子。",
       "guideline": null,
@@ -118308,7 +118308,7 @@
     "explanation": {
       "A": "本項不選。Charcot triad 是黃疸、右上腹痛與發燒，三個都正確。它提示膽道阻塞合併感染，但不一定已進入休克。",
       "B": "本項不選。只有 Charcot triad 時，先輸液、抗生素與評估引流時機即可，不一定要立刻緊急手術。現代優先考慮 ERCP 或其他膽道引流。",
-      "C": "正確。Reynolds pentad 是 Charcot triad 再加低血壓與意識改變，不是代謝性酸中毒。出現五徵代表嚴重化膿性膽管炎，需要緊急引流，且常見 enteric gram-negative bacilli。",
+      "C": "本項應選。Reynolds pentad 是 Charcot triad 再加低血壓與意識改變，不是代謝性酸中毒。出現五徵代表嚴重化膿性膽管炎，需要緊急引流，且常見 enteric gram-negative bacilli。",
       "D": "本項不選。第三項把五徵的低血壓與意識改變誤寫成代謝性酸中毒，所以③不對。題目的正確組合應是①②④⑤。",
       "summary": "膽管炎越嚴重越要記住五徵多的是「低血壓＋意識改變」，不是代謝性酸中毒。",
       "guideline": null,
@@ -118342,10 +118342,10 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。濾泡狀甲狀腺癌（follicular thyroid carcinoma）發生率下降，與食鹽加碘及病理分類改進有關，這項敘述符合流行病學趨勢。",
-      "B": "錯誤。fine needle aspiration cytology 可辨認濾泡性腫瘤，但看不到包膜或血管侵犯；這兩項侵犯才是區分濾泡腺瘤與濾泡癌的關鍵，所以需手術標本判定。",
-      "C": "錯誤。濾泡狀甲狀腺癌較常經血行轉移至骨或肺，頸部淋巴結轉移率低於甲狀腺乳突癌（papillary thyroid carcinoma），因此此敘述正確。",
-      "D": "正確。多灶性（multifocal）較符合甲狀腺乳突癌的特性，不是濾泡狀甲狀腺癌的典型模式；不能只因是 follicular carcinoma 就一律主張把甲狀腺切除乾淨，手術範圍仍看腫瘤與風險。",
+      "A": "本項不選。濾泡狀甲狀腺癌（follicular thyroid carcinoma）發生率下降，與食鹽加碘及病理分類改進有關，這項敘述符合流行病學趨勢。",
+      "B": "本項不選。fine needle aspiration cytology 可辨認濾泡性腫瘤，但看不到包膜或血管侵犯；這兩項侵犯才是區分濾泡腺瘤與濾泡癌的關鍵，所以需手術標本判定。",
+      "C": "本項不選。濾泡狀甲狀腺癌較常經血行轉移至骨或肺，頸部淋巴結轉移率低於甲狀腺乳突癌（papillary thyroid carcinoma），因此此敘述正確。",
+      "D": "本項應選。多灶性（multifocal）較符合甲狀腺乳突癌的特性，不是濾泡狀甲狀腺癌的典型模式；不能只因是 follicular carcinoma 就一律主張把甲狀腺切除乾淨，手術範圍仍看腫瘤與風險。",
       "summary": "濾泡癌要記兩件事：FNA 看不到包膜／血管侵犯，所以不能確診；它偏血行轉移，不是典型多灶、淋巴結轉移型。",
       "guideline": null,
       "concepts": []
@@ -119188,7 +119188,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。梨狀肌是短外旋肌群中最上方也最有名的一條，坐骨神經就從它下方通過。",
-      "B": "正確。股四頭肌位於大腿前方，功能是伸膝，與髖關節後側的外旋完全無關。短外旋肌群由上而下是梨狀肌、上孖肌、閉孔內肌、下孖肌、股方肌，加上前方的閉孔外肌。",
+      "B": "本項應選。股四頭肌位於大腿前方，功能是伸膝，與髖關節後側的外旋完全無關。短外旋肌群由上而下是梨狀肌、上孖肌、閉孔內肌、下孖肌、股方肌，加上前方的閉孔外肌。",
       "C": "本項不選。閉孔內肌與閉孔外肌都屬於這一群，負責髖關節外旋。",
       "D": "本項不選。上下孖肌夾著閉孔內肌腱，一起完成外旋動作。",
       "summary": "髖後短外旋肌群由上到下：梨狀肌、上孖肌、閉孔內肌、下孖肌、股方肌——全是小肌肉，沒有股四頭肌。",
@@ -119257,9 +119257,9 @@
     "fc_ref": null,
     "explanation": {
       "A": "正確，且最不恰當。大於 6 cm 的無功能腎上腺腫瘤仍要高度警覺惡性可能，不能只安排密集追蹤；應依影像特徵、病人手術風險與腫瘤專科評估是否切除。",
-      "B": "錯誤。腹腔鏡腎上腺切除術是多數良性、局限腎上腺腫瘤的標準方式，可減少傷口與恢復時間；若懷疑腎上腺皮質癌或有周邊侵犯，則可能需要開腹完整切除。",
-      "C": "錯誤。小於 4 cm 但有功能的腎上腺腫瘤仍會分泌會造成傷害的荷爾蒙，因此通常建議手術；大小小不會抵消其功能性風險。",
-      "D": "錯誤。腎上腺瘤常在因其他腹部問題做 CT 或 MRI 時意外發現，這類 incidentaloma 的下一步是判斷是否有荷爾蒙分泌和影像惡性徵象。",
+      "B": "本項不選。腹腔鏡腎上腺切除術是多數良性、局限腎上腺腫瘤的標準方式，可減少傷口與恢復時間；若懷疑腎上腺皮質癌或有周邊侵犯，則可能需要開腹完整切除。",
+      "C": "本項不選。小於 4 cm 但有功能的腎上腺腫瘤仍會分泌會造成傷害的荷爾蒙，因此通常建議手術；大小小不會抵消其功能性風險。",
+      "D": "本項不選。腎上腺瘤常在因其他腹部問題做 CT 或 MRI 時意外發現，這類 incidentaloma 的下一步是判斷是否有荷爾蒙分泌和影像惡性徵象。",
       "summary": "腎上腺 incidentaloma 先分兩件事：有沒有分泌荷爾蒙、像不像惡性；大於 6 cm 不能只追蹤等它變大。",
       "guideline": null,
       "concepts": []
@@ -120145,7 +120145,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選：濕性 AMD 的黃斑水腫、出血與新生血管會讓中央影像變模糊。",
-      "B": "正確。濕性 AMD 傷害的是黃斑，也就是中央視力區；周邊視野通常保留，不會以周邊視野缺損作為常見症狀。",
+      "B": "本項應選。濕性 AMD 傷害的是黃斑，也就是中央視力區；周邊視野通常保留，不會以周邊視野缺損作為常見症狀。",
       "C": "本項不選：黃斑功能受損會讓注視中心出現 central scotoma，患者看字或人臉中央時最明顯。",
       "D": "本項不選：黃斑結構被液體或 CNV 拉扯時，直線會變彎，形成 metamorphopsia。",
       "summary": "wet AMD 是黃斑病，所以壞的是中央：看字糊、中央黑點、直線歪；周邊視野掉了要找別的病。",
@@ -120489,7 +120489,7 @@
     "specialty": "耳鼻喉科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。acetaminophen 的主要毒性在肝臟，沒有內耳毒性。要注意的是它與鴉片類的複方製劑長期大量使用時，曾有聽力損失的報告，但單用本身不算耳毒性藥物。",
+      "A": "本項應選。acetaminophen 的主要毒性在肝臟，沒有內耳毒性。要注意的是它與鴉片類的複方製劑長期大量使用時，曾有聽力損失的報告，但單用本身不算耳毒性藥物。",
       "B": "aspirin 大劑量會造成耳鳴與可逆性聽力下降，停藥後多半會恢復，是最典型的可逆性耳毒性。",
       "C": "furosemide 這類作用在亨利氏環的利尿劑會影響血管紋的離子運送，快速靜脈注射時風險最高，與 aminoglycoside 併用會加成。",
       "D": "cisplatin 造成的是不可逆的高頻聽力損失，來自外毛細胞受損，用藥前後要做聽力監測。",
@@ -120777,7 +120777,7 @@
     "specialty": "婦科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。Cooper 韌帶是乳房的懸吊韌帶，把乳腺組織固定在皮膚與胸肌筋膜上，與子宮無關。乳癌造成它被牽拉時皮膚會凹陷，也就是酒窩徵象。",
+      "A": "本項應選。Cooper 韌帶是乳房的懸吊韌帶，把乳腺組織固定在皮膚與胸肌筋膜上，與子宮無關。乳癌造成它被牽拉時皮膚會凹陷，也就是酒窩徵象。",
       "B": "本項不選。闊韌帶是覆蓋子宮兩側的腹膜皺褶，輸卵管、卵巢韌帶與子宮血管都走在裡面。",
       "C": "本項不選。圓韌帶從子宮角經腹股溝管到大陰唇，維持子宮前傾的位置。",
       "D": "本項不選。主韌帶連接子宮頸與骨盆側壁，是子宮最主要的支撐，子宮動脈與輸尿管都在它附近走行。",
@@ -124712,10 +124712,10 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確：葡萄球菌 staphyloc。人工關節感染最常見是 staphylococci；它們能附著植入物並形成 biofilm，讓免疫與抗生素都較難清除。",
-      "B": "不正確：生物膜形成是其他非植入物相關。biofilm 是植入物感染的關鍵，不是一般原生關節 septic arthritis 的主要病理機轉。",
-      "C": "不正確：兩者免疫反應的模式與炎症反應。兩者都有發炎，但人工關節的異物表面、biofilm 與低度慢性感染，讓表現和原生關節急性強烈發炎不同。",
-      "D": "不正確：其他非植入物相關的敗血性關節。分階段手術是人工關節感染常見策略，例如 two-stage exchange；原生關節 septic arthritis 多以穿刺或關節沖洗引流加抗菌治療。",
+      "A": "本項應選。葡萄球菌 staphyloc。人工關節感染最常見是 staphylococci；它們能附著植入物並形成 biofilm，讓免疫與抗生素都較難清除。",
+      "B": "本項不選。生物膜形成是其他非植入物相關。biofilm 是植入物感染的關鍵，不是一般原生關節 septic arthritis 的主要病理機轉。",
+      "C": "本項不選。兩者免疫反應的模式與炎症反應。兩者都有發炎，但人工關節的異物表面、biofilm 與低度慢性感染，讓表現和原生關節急性強烈發炎不同。",
+      "D": "本項不選。其他非植入物相關的敗血性關節。分階段手術是人工關節感染常見策略，例如 two-stage exchange；原生關節 septic arthritis 多以穿刺或關節沖洗引流加抗菌治療。",
       "summary": "prosthetic joint infection 的關鍵字是 staphylococci＋biofilm＋常需 staged surgery；原生 septic arthritis 重點是急性引流。",
       "guideline": null
     },
@@ -126345,7 +126345,7 @@
     "explanation": {
       "A": "本項不選。肺炎鏈球菌造成的是典型肺炎：突然高燒、寒顫、單葉實質化，而且對 azithromycin 的反應不如 β-lactam 可靠。",
       "B": "本項不選。砂眼披衣菌造成的是新生兒到三個月大嬰兒的肺炎，特徵是無發燒的陣發性咳嗽合併嗜酸性球增多，年齡完全對不上。",
-      "C": "正確。學齡兒的非典型肺炎，黴漿菌抗體兩次都陰性，卻對 azithromycin 反應很好，剩下最合理的就是肺炎披衣菌。它與黴漿菌臨床上幾乎分不出來，都以乾咳、輕微全身症狀與影像比聽診嚴重為特徵，治療也同樣用巨環類抗生素。",
+      "C": "本項應選。學齡兒的非典型肺炎，黴漿菌抗體兩次都陰性，卻對 azithromycin 反應很好，剩下最合理的就是肺炎披衣菌。它與黴漿菌臨床上幾乎分不出來，都以乾咳、輕微全身症狀與影像比聽診嚴重為特徵，治療也同樣用巨環類抗生素。",
       "D": "本項不選。Mycoplasma hominis 屬於泌尿生殖道的常在菌，與產後感染有關，不是呼吸道病原。",
       "summary": "非典型肺炎的巨環類有效但黴漿菌抗體陰性，下一個就想肺炎披衣菌。",
       "guideline": null,
@@ -127137,7 +127137,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。猝倒發作時病人意識完全清楚，這與癲癇最大的不同；腦電圖也不會有癲癇樣放電。",
-      "B": "正確。白天嗜睡、情緒誘發的猝倒、睡眠麻痺（醒來時全身不能動並有壓迫感），加上入睡幻覺，是第一型猝睡症的四聯徵。病理機轉是下視丘分泌 hypocretin（orexin）的神經元被破壞，腦脊髓液中 hypocretin-1 濃度下降是診斷依據之一，與 HLA-DQB1*06:02 高度相關。",
+      "B": "本項應選。白天嗜睡、情緒誘發的猝倒、睡眠麻痺（醒來時全身不能動並有壓迫感），加上入睡幻覺，是第一型猝睡症的四聯徵。病理機轉是下視丘分泌 hypocretin（orexin）的神經元被破壞，腦脊髓液中 hypocretin-1 濃度下降是診斷依據之一，與 HLA-DQB1*06:02 高度相關。",
       "C": "本項不選。神經肌肉接合處異常是重症肌無力，那是持續且會疲勞的無力，不會由大笑誘發、也不會有嗜睡與睡眠麻痺。",
       "D": "本項不選。低血鉀週期性麻痺的發作與運動後或高醣飲食有關，發作時血鉀低，與情緒誘發無關。",
       "summary": "猝睡症四聯徵：白天嗜睡、情緒誘發猝倒、睡眠麻痺、入睡幻覺；機轉是 hypocretin 神經元喪失。",
@@ -127864,7 +127864,7 @@
       "A": "本項不選。古柯鹼阻斷多巴胺回收，是典型的中樞神經刺激劑。",
       "B": "本項不選。甲基安非他命促進多巴胺釋放，作用更強更久，同屬刺激劑。",
       "C": "本項不選。派醋甲酯（利他能）是治療過動症的刺激劑，機轉與古柯鹼類似但作用較緩。",
-      "D": "正確。愷他命是 NMDA 受體拮抗劑，屬於解離性麻醉劑而不是刺激劑。它造成的是解離、幻覺與鎮靜，長期使用還會造成膀胱纖維化（愷他命膀胱炎）與認知損害。",
+      "D": "本項應選。愷他命是 NMDA 受體拮抗劑，屬於解離性麻醉劑而不是刺激劑。它造成的是解離、幻覺與鎮靜，長期使用還會造成膀胱纖維化（愷他命膀胱炎）與認知損害。",
       "summary": "刺激劑走多巴胺（古柯鹼、安非他命、派醋甲酯）；愷他命走 NMDA 拮抗，屬解離劑。",
       "guideline": null,
       "concepts": [
@@ -128713,9 +128713,9 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。BRAF 突變常見於甲狀腺乳突癌（papillary thyroid carcinoma），在未分化甲狀腺癌（anaplastic thyroid carcinoma）也可見到，支持這是 MAPK pathway 相關的致癌變化。",
-      "B": "錯誤。RET 基因的 germline mutation 與 MEN2 相關，並造成甲狀腺髓質癌（medullary thyroid carcinoma）風險上升；因此這個配對正確。",
-      "C": "錯誤。RAS 突變可見於濾泡性腫瘤光譜，包括濾泡腺瘤與濾泡癌（follicular carcinoma），所以不能只憑 RAS 判定良惡性。",
+      "A": "本項不選。BRAF 突變常見於甲狀腺乳突癌（papillary thyroid carcinoma），在未分化甲狀腺癌（anaplastic thyroid carcinoma）也可見到，支持這是 MAPK pathway 相關的致癌變化。",
+      "B": "本項不選。RET 基因的 germline mutation 與 MEN2 相關，並造成甲狀腺髓質癌（medullary thyroid carcinoma）風險上升；因此這個配對正確。",
+      "C": "本項不選。RAS 突變可見於濾泡性腫瘤光譜，包括濾泡腺瘤與濾泡癌（follicular carcinoma），所以不能只憑 RAS 判定良惡性。",
       "D": "D 是本題最不適當的敘述。p53 是 tumor suppressor gene，不是致癌基因；它失去功能後，細胞失去 DNA damage checkpoint，這類突變常見於未分化甲狀腺癌（anaplastic thyroid cancer）。",
       "summary": "甲狀腺癌基因題的陷阱：BRAF／RET／RAS 是活化訊號的 oncogenic driver；p53 則是失去煞車功能的 tumor suppressor。",
       "guideline": null,
@@ -129255,7 +129255,7 @@
       "A": "正確。anterior temporal lobectomy 是癲癇手術，可切除顳葉癲癇病灶並用於特定藥物難治癲癇。",
       "B": "正確。vagus nerve stimulation 是癲癇的神經調控治療，雖不切腦組織，仍屬癲癇外科治療的一種。",
       "C": "正確。corpus callosotomy 透過切斷胼胝體減少雙側癲癇放電傳播，常用於 drop attack。",
-      "D": "正確。microvascular decompression 用血管移位解除神經壓迫，典型治療三叉神經痛或 hemifacial spasm，不是癲癇手術。",
+      "D": "本項應選。microvascular decompression 用血管移位解除神經壓迫，典型治療三叉神經痛或 hemifacial spasm，不是癲癇手術。",
       "summary": "癲癇手術不只切除病灶，還包括 VNS 與 corpus callosotomy；microvascular decompression 是神經血管壓迫手術。",
       "guideline": null,
       "concepts": [
@@ -129357,10 +129357,10 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。這是 Cushing's triad 的成分。顱內壓升高使腦灌流受壓，反射性升高血壓以維持灌流。",
-      "B": "錯誤。這是 Cushing's triad 的成分。血壓上升後 baroreceptor reflex 可造成 bradycardia。",
+      "A": "本項不選。這是 Cushing's triad 的成分。顱內壓升高使腦灌流受壓，反射性升高血壓以維持灌流。",
+      "B": "本項不選。這是 Cushing's triad 的成分。血壓上升後 baroreceptor reflex 可造成 bradycardia。",
       "C": "本項不是三聯徵。頭痛常見於顱內壓升高，卻不屬於 Cushing's triad。",
-      "D": "錯誤。這是 Cushing's triad 的成分。腦幹受壓可使呼吸節律失調，出現 irregular respiration。",
+      "D": "本項不選。這是 Cushing's triad 的成分。腦幹受壓可使呼吸節律失調，出現 irregular respiration。",
       "summary": "Cushing's triad 是高血壓、心跳慢、呼吸不規則；頭痛常見但不是三聯徵。",
       "guideline": null,
       "concepts": [
@@ -129885,10 +129885,10 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。Ca 14.6 mg/dL 合併昏迷是高血鈣危象，測 serum phosphorus 與 PTH 可先區分 PTH-mediated 與非 PTH-mediated 高血鈣，能導向後續病因處理。",
+      "A": "本項不選。Ca 14.6 mg/dL 合併昏迷是高血鈣危象，測 serum phosphorus 與 PTH 可先區分 PTH-mediated 與非 PTH-mediated 高血鈣，能導向後續病因處理。",
       "B": "B 是本題最不適當的處置。大量 normal saline 是正確的第一步，因為高血鈣常伴脫水；但 thiazide 會減少尿鈣排泄，會把 Ca 再推高。若補液後出現容量負荷，才考慮 loop diuretic 協助排鈣。",
-      "C": "錯誤。bisphosphonate 抑制破骨細胞，能降低骨吸收造成的高血鈣；起效較慢，常和快速但短效的 calcitonin 併用，而不是單獨等待它救急。",
-      "D": "錯誤。calcitonin 可在數小時內暫時降低血鈣，適合危象初期爭取時間；效果會迅速產生 tachyphylaxis，所以仍要補液、加 bisphosphonate 並處理病因。",
+      "C": "本項不選。bisphosphonate 抑制破骨細胞，能降低骨吸收造成的高血鈣；起效較慢，常和快速但短效的 calcitonin 併用，而不是單獨等待它救急。",
+      "D": "本項不選。calcitonin 可在數小時內暫時降低血鈣，適合危象初期爭取時間；效果會迅速產生 tachyphylaxis，所以仍要補液、加 bisphosphonate 並處理病因。",
       "summary": "高血鈣危象先灌 normal saline；thiazide 會留鈣是禁忌，calcitonin 快但短、bisphosphonate 慢但撐得久。",
       "guideline": null,
       "concepts": []
@@ -131065,9 +131065,9 @@
     "explanation": {
       "A": "本項不選。配偶捐贈的條件是結婚滿兩年「或」已生有子女，這對夫妻已有一女，符合規定。",
       "B": "本項不選。捐贈要的是捐贈者本人的書面同意，受贈者同意與否不是要件。",
-      "C": "本項不選。法律要的是捐贈者最近親屬二人以上的書面證明，並沒有規定必須來自娘家，娘家反對也不會直接讓捐贈違法。",
-      "D": "正確。活體器官捐贈者必須年滿十八歲並具完全行為能力，這是法律的硬性門檻。除此之外還要求捐贈者為受贈者五親等以內的血親或配偶，並經評估確認捐贈是出於自願、沒有金錢交易。",
-      "summary": "活體捐腎四道關卡：滿十八歲、五親等內血親或配偶、配偶要結婚滿兩年或已生子女、捐贈者本人書面同意。",
+      "C": "本項應選。《人體器官移植條例》第 8 條要求捐贈者在自由意志下出具書面同意，還要有她最近親屬的書面證明。所以娘家的親屬不是局外人，仍要處理這份書面證明。",
+      "D": "本項不選。同條規定活體捐贈者須年滿二十歲，且有意思能力，不是十八歲。",
+      "summary": "活體捐腎看第 8 條：捐贈者滿二十歲、本人書面同意加最近親屬書面證明；配偶要已生子女或結婚滿二年。",
       "guideline": null,
       "concepts": [
         "living-donor-legal-requirements"
@@ -131135,7 +131135,7 @@
       "A": "本項不選。第一級要看得到軟顎、懸壅垂全長、咽門與扁桃腺柱，是視野最好的一級。",
       "B": "本項不選。第二級看得到軟顎、咽門與懸壅垂，只是扁桃腺柱被舌根擋住。",
       "C": "本項不選。第四級連軟顎都看不到，只剩硬顎，插管困難的機率最高。",
-      "D": "正確。只看得到軟顎和懸壅垂的基部、看不到咽門與扁桃腺柱，就是第三級。分級的邏輯是「舌頭相對於口咽腔有多大」，級數越高代表舌頭越擋路、喉頭鏡越不容易看到聲門。",
+      "D": "本項應選。只看得到軟顎和懸壅垂的基部、看不到咽門與扁桃腺柱，就是第三級。分級的邏輯是「舌頭相對於口咽腔有多大」，級數越高代表舌頭越擋路、喉頭鏡越不容易看到聲門。",
       "summary": "Mallampati 由看得到什麼往下數：全看到 I、少了扁桃腺柱 II、只剩懸壅垂基部 III、只剩硬顎 IV。",
       "guideline": null,
       "concepts": [
@@ -132095,7 +132095,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。內陰動脈是內髂動脈前幹的分支，供應會陰與外生殖器。",
-      "B": "正確。卵巢動脈直接從腹主動脈發出（腎動脈稍下方），這是因為卵巢胚胎時期位在後腹腔上方，下降後血管跟著拉長。臨床意義很實際：結紮兩側內髂動脈止血時，卵巢的血流不受影響。",
+      "B": "本項應選。卵巢動脈直接從腹主動脈發出（腎動脈稍下方），這是因為卵巢胚胎時期位在後腹腔上方，下降後血管跟著拉長。臨床意義很實際：結紮兩側內髂動脈止血時，卵巢的血流不受影響。",
       "C": "本項不選。下膀胱動脈是內髂動脈前幹的分支，供應膀胱底部與攝護腺或陰道上段。",
       "D": "本項不選。上臀動脈是內髂動脈後幹最大的分支，穿出坐骨大孔供應臀肌。",
       "summary": "卵巢動脈來自主動脈、子宮動脈來自內髂——這也是子宮動脈栓塞後卵巢仍有側枝血流的解剖基礎。",
@@ -132723,7 +132723,7 @@
       "A": "本項不選。acyclovir 是治療生殖器疱疹的標準用藥。",
       "B": "本項不選。famciclovir 是 penciclovir 的前驅藥，同樣用於疱疹病毒。",
       "C": "本項不選。valacyclovir 生體可用率高、給藥次數少，是目前常用的選擇。",
-      "D": "正確。terconazole 是唑類抗黴菌藥，用於陰道念珠菌感染，對病毒完全沒有作用。這三種抗病毒藥都需要病毒的胸苷激酶活化，所以只對疱疹病毒科有效。",
+      "D": "本項應選。terconazole 是唑類抗黴菌藥，用於陰道念珠菌感染，對病毒完全沒有作用。這三種抗病毒藥都需要病毒的胸苷激酶活化，所以只對疱疹病毒科有效。",
       "summary": "看到字尾 -clovir 想疱疹病毒、-azole 想黴菌，兩條路完全不相通。",
       "guideline": null
     },
@@ -133917,7 +133917,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。病人神智清楚且明確表達拒絕，反覆勸說等於用情感施壓，侵蝕的正是自願這個要素。",
-      "B": "正確。有決定能力的病人拒絕插管，醫師應該接受，並把重心轉為症狀控制，例如用嗎啡緩解呼吸窘迫。同時依安寧緩和醫療條例照會另一位相關專科醫師共同判定末期，這一步讓後續不施行維生醫療的決定在法律上站得住腳，也給猶豫的家人一個可以接受的程序。",
+      "B": "本項應選。有決定能力的病人拒絕插管，醫師應該接受，並把重心轉為症狀控制，例如用嗎啡緩解呼吸窘迫。同時依安寧緩和醫療條例照會另一位相關專科醫師共同判定末期，這一步讓後續不施行維生醫療的決定在法律上站得住腳，也給猶豫的家人一個可以接受的程序。",
       "C": "本項不選。病人口齒不清不等於沒有決定能力，他能理解、能表達選擇，決定權就在他身上。把決定丟給家人是把可表達的病人排除在外。",
       "D": "本項不選。等病人昏迷再插管，是刻意繞過他清醒時的拒絕，比直接違反意願更不誠實。",
       "summary": "有能力的病人說不，就到此為止；接下來要做的是症狀控制與末期判定的程序，不是換人問。",
@@ -136090,10 +136090,10 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確。invasive aspergillosis 的 Aspergillus 是較細、septate hyphae，常有 acute-angle branching。broad、ribbon-like、nonseptate hyphae 加糖尿病與鼻腔黑色 eschar，反而指向 mucormycosis。",
-      "B": "不正確。echinocandins 對 Mucorales 沒有可靠活性，不能作為單獨第一線。mucormycosis 的初始抗黴菌治療通常以 liposomal amphotericin B 為主，並同步控制高血糖或 ketoacidosis。",
-      "C": "正確。鼻腦型 mucormycosis 壞死組織的血流很差，藥物難以有效送達。及早外科清瘡能移除真菌負荷與失活組織，必須和全身性抗黴菌藥一起進行。",
-      "D": "不正確。fluconazole、voriconazole 都不涵蓋 Mucorales。可用的後續或替代藥包括 posaconazole 或 isavuconazole，但不能把對 Aspergillus 有效的 voriconazole 套到 mucormycosis。",
+      "A": "本項不選。invasive aspergillosis 的 Aspergillus 是較細、septate hyphae，常有 acute-angle branching。broad、ribbon-like、nonseptate hyphae 加糖尿病與鼻腔黑色 eschar，反而指向 mucormycosis。",
+      "B": "本項不選。echinocandins 對 Mucorales 沒有可靠活性，不能作為單獨第一線。mucormycosis 的初始抗黴菌治療通常以 liposomal amphotericin B 為主，並同步控制高血糖或 ketoacidosis。",
+      "C": "本項應選。鼻腦型 mucormycosis 壞死組織的血流很差，藥物難以有效送達。及早外科清瘡能移除真菌負荷與失活組織，必須和全身性抗黴菌藥一起進行。",
+      "D": "本項不選。fluconazole、voriconazole 都不涵蓋 Mucorales。可用的後續或替代藥包括 posaconazole 或 isavuconazole，但不能把對 Aspergillus 有效的 voriconazole 套到 mucormycosis。",
       "summary": "糖尿病＋鼻腔黑色壞死＋寬大無隔菌絲就是 mucormycosis：立刻 amphotericin B，加上外科清瘡；voriconazole 沒用。",
       "guideline": "CDC, Treatment of Mucormycosis (2024)"
     },
@@ -136726,7 +136726,7 @@
     "specialty": "醫學倫理（FC 例外）",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。這一項沒有任何法定或保護第三人的依據。非同住親友既不是接觸者追蹤的對象，也沒有立即的感染風險，揭露只會造成歧視。人類免疫缺乏病毒傳染防治條例對感染者資訊的保密要求特別嚴格，違反還有罰則。",
+      "A": "本項應選。這一項沒有任何法定或保護第三人的依據。非同住親友既不是接觸者追蹤的對象，也沒有立即的感染風險，揭露只會造成歧視。人類免疫缺乏病毒傳染防治條例對感染者資訊的保密要求特別嚴格，違反還有罰則。",
       "B": "本項不選。有具體對象與可信度高的攻擊計畫時，保護潛在被害人的義務優先於守密，該通知的要通知。",
       "C": "本項不選。認知障礙的長者身上有多處不明傷痕，符合疑似老人保護事件，醫事人員屬於法定通報人員，二十四小時內要通報。",
       "D": "本項不選。法院或健保署依法調閱病歷有法律授權，屬於守密義務的法定例外。",
@@ -138329,7 +138329,7 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項不選。栓塞造成的暫時性腦缺血通常每次症狀不同、影響範圍隨栓子落點而異；本例三次表現幾乎一模一樣，比較不像。",
-      "B": "正確。反覆而刻板、每次只持續數分鐘的單一穿通動脈區症狀，典型機轉是小血管的脂玻璃樣變化造成間歇性低灌流，也就是所謂的 capsular warning syndrome。它預告著即將發生腔隙性梗塞，要積極抗血小板與控制危險因子。",
+      "B": "本項應選。反覆而刻板、每次只持續數分鐘的單一穿通動脈區症狀，典型機轉是小血管的脂玻璃樣變化造成間歇性低灌流，也就是所謂的 capsular warning syndrome。它預告著即將發生腔隙性梗塞，要積極抗血小板與控制危險因子。",
       "C": "本項不選。椎基底動脈區的低灌流會有頭暈、複視、步態不穩等後循環症狀，本例沒有。",
       "D": "本項不選。可逆性腦血管收縮症候群以雷擊頭痛為主要表現，多見於年輕女性或用血管活性藥物者。",
       "summary": "同樣的症狀反覆上演、每次幾分鐘＝穿通小動脈的警示症候群，之後常接著出現腔隙性梗塞。",
@@ -139264,7 +139264,7 @@
     "specialty": "精神科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。第①項與第③項成立：憂鬱症是自殺最重要的可治療危險因子；而選擇高致命性方式（如跳樓）代表意圖強烈，再次自殺的風險更高。",
+      "A": "本項應選。第①項與第③項成立：憂鬱症是自殺最重要的可治療危險因子；而選擇高致命性方式（如跳樓）代表意圖強烈，再次自殺的風險更高。",
       "B": "本項不選。第②項完全錯誤——直接詢問自殺想法「不會」誘發自殺，反而是評估的必要步驟；第④項也錯，人格障礙症（尤其邊緣型與反社會型）與自殺風險明確相關。",
       "C": "本項不選。它把「不宜觸及自殺想法」也算進去，那是最需要破除的迷思。",
       "D": "本項不選。四項全選會同時納入兩個錯誤敘述。",
@@ -139650,10 +139650,10 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。單側喉返神經（recurrent laryngeal nerve）受損通常造成聲帶麻痺、沙啞與嗆咳；另一側聲帶仍能外展維持氣道，因此不能說呼吸困難風險很高。嚴重氣道阻塞主要擔心雙側損傷。",
-      "B": "錯誤。甲狀腺手術的氣道損傷或嚴重術後呼吸道問題可能需要暫時氣管切開；若神經損傷或狹窄無法恢復，也可能需要長期氣道處置。",
-      "C": "錯誤。暫時性副甲狀腺功能低下多由腺體受牽拉、缺血或暫時功能抑制造成，大多在數週至數月內恢復；以 6 個月內恢復作為題目敘述是合理的。",
-      "D": "錯誤。術後頸部血腫可迅速壓迫氣管，病人出現喘、頸部緊繃或聲音改變時，必要時要立即打開傷口減壓，再進一步止血，不能等影像檢查。",
+      "A": "本項應選。單側喉返神經（recurrent laryngeal nerve）受損通常造成聲帶麻痺、沙啞與嗆咳；另一側聲帶仍能外展維持氣道，因此不能說呼吸困難風險很高。嚴重氣道阻塞主要擔心雙側損傷。",
+      "B": "本項不選。甲狀腺手術的氣道損傷或嚴重術後呼吸道問題可能需要暫時氣管切開；若神經損傷或狹窄無法恢復，也可能需要長期氣道處置。",
+      "C": "本項不選。暫時性副甲狀腺功能低下多由腺體受牽拉、缺血或暫時功能抑制造成，大多在數週至數月內恢復；以 6 個月內恢復作為題目敘述是合理的。",
+      "D": "本項不選。術後頸部血腫可迅速壓迫氣管，病人出現喘、頸部緊繃或聲音改變時，必要時要立即打開傷口減壓，再進一步止血，不能等影像檢查。",
       "summary": "甲狀腺術後要分清楚：單側喉返神經傷多是沙啞；真正會立刻塞住氣道的是雙側傷或頸部血腫。",
       "guideline": null,
       "concepts": []
@@ -139940,9 +139940,9 @@
     "fc_ref": null,
     "explanation": {
       "A": "本項應選。GERD 常見的壓力測試傾向是下食道括約肌壓力低或抗逆流屏障鬆弛，而不該呈現 achalasia 的食道體無蠕動與下括約肌無法放鬆。第一張壓力圖上食道體部仍有下行的蠕動波，但下食道括約肌位置的高壓帶很弱、幾乎看不出明顯收縮帶，示意圖也畫出鬆開的胃食道交界——括約肌壓力低正是胃食道逆流的核心機轉。相對地，賁門失弛緩症的圖形是括約肌鬆弛不全加上食道體部完全沒有蠕動，兩者剛好相反。",
-      "B": "本項不選。此選項沒有文字，必須看圖確認其食道體蠕動與食道胃接合處放鬆情形。若圖形符合 achalasia、食道胃接合處流出阻塞或強烈痙攣，就不應代表單純 GERD。",
-      "C": "本項不選。此選項沒有文字，必須看圖確認。判讀時要區分低壓的下食道括約肌與吞嚥後括約肌無法放鬆；後者表示運動障礙，不是逆流的典型生理型態。",
-      "D": "本項不選。此選項沒有文字，必須看圖確認。高解析度食道壓力測試主要用來排除重大運動障礙並評估蠕動保留程度，不是單靠一條壓力線就能確診 GERD。",
+      "B": "本項不選。第二張圖的蠕動波連續傳到遠端，下食道括約肌有清楚的壓力帶，吞嚥時也會放鬆。這比較接近正常型態，看不到逆流要的低壓屏障。",
+      "C": "本項不選。第三張圖的食道體沒有往下傳的蠕動波，只有全段同步的柱狀加壓。食道無蠕動是賁門失弛緩症（achalasia）這類運動障礙的型態，不是逆流。",
+      "D": "本項不選。第四張圖的收縮到遠端就中斷，後面反覆出現柱狀加壓。這是食道運動障礙的表現，不是單純括約肌低壓。",
       "summary": "GERD 的 manometry 不一定有專一圖形；它的用途是找低壓 LES、保留蠕動，並先排除 achalasia 等運動障礙。",
       "guideline": null,
       "concepts": [
@@ -141012,10 +141012,10 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。高風險甲狀腺乳突癌或雙側腫瘤需要全甲狀腺切除或近全切除（total thyroidectomy or near-total thyroidectomy），才能控制雙側疾病並利於後續放射碘治療與 thyroglobulin 追蹤。",
+      "A": "本項不選。高風險甲狀腺乳突癌或雙側腫瘤需要全甲狀腺切除或近全切除（total thyroidectomy or near-total thyroidectomy），才能控制雙側疾病並利於後續放射碘治療與 thyroglobulin 追蹤。",
       "B": "B 是本題最不適當的手術規畫。若術後計畫用放射碘治療（radioactive iodine, RAI）清除殘餘甲狀腺組織或治療殘存病灶，僅做腫瘤側單葉切除會留下對側正常甲狀腺，影響 RAI 的目的與追蹤；通常需全甲狀腺或近全切除。",
-      "C": "錯誤。腫瘤大於 1 cm、小於 4 cm，且沒有甲狀腺外侵犯或臨床淋巴結轉移時，手術範圍可在全甲狀腺切除與單葉切除間個別化選擇；不能把這類病人一律當成必須全切。",
-      "D": "錯誤。低風險甲狀腺乳突微小癌若無甲狀腺外侵犯或淋巴結轉移，可由有經驗團隊進行 active surveillance；重點是規律超音波追蹤，而不是放任不管。",
+      "C": "本項不選。腫瘤大於 1 cm、小於 4 cm，且沒有甲狀腺外侵犯或臨床淋巴結轉移時，手術範圍可在全甲狀腺切除與單葉切除間個別化選擇；不能把這類病人一律當成必須全切。",
+      "D": "本項不選。低風險甲狀腺乳突微小癌若無甲狀腺外侵犯或淋巴結轉移，可由有經驗團隊進行 active surveillance；重點是規律超音波追蹤，而不是放任不管。",
       "summary": "乳突癌手術範圍要跟風險走：低風險小癌可選單葉切除或監測；一旦要做 RAI，就不能只留著另一葉甲狀腺。",
       "guideline": "American Thyroid Association differentiated thyroid cancer guideline (2025)",
       "concepts": []
@@ -141046,10 +141046,10 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。thyroglobulin 主要用在已切除甲狀腺癌後追蹤，良性結節與分化型甲狀腺癌都可能升高；它不能替 3 cm 可疑結節定性。",
-      "B": "正確。這顆結節超過 3 cm 且有不規則邊緣、顯微鈣化等高疑惡性超音波特徵，超音波導引 fine needle aspiration（FNA）可取得細胞學，是最能直接區分良惡性的下一步。",
-      "C": "錯誤。甲狀腺核醫掃描主要在 TSH 受抑制時判斷結節是否為 hyperfunctioning hot nodule；冷結節不等於癌，掃描也不能排除這個高度可疑結節的惡性。",
-      "D": "錯誤。甲狀腺 MRI 可用於評估巨大腫瘤或周邊侵犯的範圍，但對初步判定結節良惡性不如超音波加 FNA；它不能取代細胞學。",
+      "A": "本項不選。thyroglobulin 主要用在已切除甲狀腺癌後追蹤，良性結節與分化型甲狀腺癌都可能升高；它不能替 3 cm 可疑結節定性。",
+      "B": "本項應選。這顆結節超過 3 cm 且有不規則邊緣、顯微鈣化等高疑惡性超音波特徵，超音波導引 fine needle aspiration（FNA）可取得細胞學，是最能直接區分良惡性的下一步。",
+      "C": "本項不選。甲狀腺核醫掃描主要在 TSH 受抑制時判斷結節是否為 hyperfunctioning hot nodule；冷結節不等於癌，掃描也不能排除這個高度可疑結節的惡性。",
+      "D": "本項不選。甲狀腺 MRI 可用於評估巨大腫瘤或周邊侵犯的範圍，但對初步判定結節良惡性不如超音波加 FNA；它不能取代細胞學。",
       "summary": "超音波看到不規則、顯微鈣化又超過 FNA 門檻的甲狀腺結節，下一步是超音波導引 FNA，不是抽 thyroglobulin 或做 MRI。",
       "guideline": null,
       "concepts": [
@@ -141854,10 +141854,10 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。腎上腺切除（adrenalectomy）不能只因發現 1.5 cm incidentaloma 就直接進行；手術要看是否有功能性分泌、影像惡性徵象與病人條件。這位病人第一步仍是完成生化評估。",
-      "B": "正確。高血壓合併自發性低血鉀是原發性醛固酮增多症（primary aldosteronism）的典型篩檢線索；應先測 plasma aldosterone 與 renin，計算 aldosterone–renin ratio，再依結果做確認與定位。",
-      "C": "錯誤。腎上腺切片（adrenal biopsy）無法可靠區分 adenoma 與 adrenocortical carcinoma，且若未先排除 pheochromocytoma，穿刺可能誘發 catecholamine crisis；因此不是這位病人的下一步。",
-      "D": "錯誤。影像追蹤可能是某些低風險非功能性 incidentaloma 的選項，但此人已有高血壓與低血鉀，若只等 6 個月會漏掉可治療的 aldosterone excess。",
+      "A": "本項不選。腎上腺切除（adrenalectomy）不能只因發現 1.5 cm incidentaloma 就直接進行；手術要看是否有功能性分泌、影像惡性徵象與病人條件。這位病人第一步仍是完成生化評估。",
+      "B": "本項應選。高血壓合併自發性低血鉀是原發性醛固酮增多症（primary aldosteronism）的典型篩檢線索；應先測 plasma aldosterone 與 renin，計算 aldosterone–renin ratio，再依結果做確認與定位。",
+      "C": "本項不選。腎上腺切片（adrenal biopsy）無法可靠區分 adenoma 與 adrenocortical carcinoma，且若未先排除 pheochromocytoma，穿刺可能誘發 catecholamine crisis；因此不是這位病人的下一步。",
+      "D": "本項不選。影像追蹤可能是某些低風險非功能性 incidentaloma 的選項，但此人已有高血壓與低血鉀，若只等 6 個月會漏掉可治療的 aldosterone excess。",
       "summary": "腎上腺 incidentaloma 遇到高血壓加低血鉀，先背這條：想到 aldosterone，做 aldosterone–renin ratio。",
       "guideline": "Endocrine Society primary aldosteronism guideline",
       "concepts": []
@@ -142885,7 +142885,7 @@
       "A": "本項不選。它包含③，但七十歲以上族群的盛行率是白種人高於亞洲人，亞洲人多的是隅角閉鎖型。",
       "B": "本項不選。它包含②，而隅角開放性青光眼並沒有女性偏多，反而男性略多；女性偏多的是隅角閉鎖型。",
       "C": "本項不選。②③兩項都錯，這個組合等於全錯。",
-      "D": "正確。①與④都對：兩眼眼壓差 4 mmHg 以上代表眼壓調節不對稱，是公認的危險因子；而隅角開放型確實是歐洲裔與非洲裔族群最常見的青光眼型態，非洲裔還發病更早、進展更快。",
+      "D": "本項應選。①與④都對：兩眼眼壓差 4 mmHg 以上代表眼壓調節不對稱，是公認的危險因子；而隅角開放型確實是歐洲裔與非洲裔族群最常見的青光眼型態，非洲裔還發病更早、進展更快。",
       "summary": "隅角開放型是歐美與非洲裔的主流、男性略多；亞洲與女性偏多的是隅角閉鎖型。",
       "guideline": null,
       "concepts": [
