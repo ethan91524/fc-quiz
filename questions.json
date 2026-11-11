@@ -1824,7 +1824,9 @@
       "D": "正確答案。雙側聲帶麻痺時聲帶停在接近中線的位置，聲門被夾成一條縫，吸氣時就發出明顯的 stridor。這種情況隨時可能造成氣道危機。",
       "summary": "聽到吸氣性 stridor 先定位在聲門或上呼吸道；呼氣性哮鳴才往下呼吸道想。",
       "guideline": "FC 醫學(三)第1冊 p.286",
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2925,7 +2927,9 @@
       "D": "本項不選。心包膜炎的痛雖然也會因吸氣加劇，但**坐起來前傾會減輕**，而且常伴瀰漫性 ST 上升或心包摩擦音。這題的體型與單側突發症狀更像氣胸。",
       "summary": "瘦高年輕男性突發單側胸膜性胸痛＋喘＝原發性自發性氣胸，先照胸部 X 光。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -12753,7 +12757,8 @@
       "D": "本項不選。反覆系列測 BNP 不是住院心衰竭調藥的唯一或常規依據。治療還是靠症狀、鬱血、體重、尿量、腎功能和血流動力學整體判斷。",
       "summary": "BNP 是支持或排除心衰竭的輔助值，不是單一確診值；肥胖讓數值偏低，腎衰竭讓數值偏高。",
       "concepts": [
-        "heart-failure-ef-categories"
+        "heart-failure-ef-categories",
+        "dyspnea-approach"
       ]
     },
     "source": "110080/302_11",
@@ -25515,7 +25520,9 @@
       "D": "本項不選。心臟超音波能評估收縮與舒張功能、瓣膜病與肺動脈壓，對老年人的運動性呼吸困難幫助很直接。",
       "summary": "喘的第一輪是理學檢查、胸部 X 光、心臟超音波；沒有心悸或暈厥就先不必上 Holter。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26751,7 +26758,8 @@
       "summary": "有症狀又聽得到哮鳴時，先做支氣管擴張試驗證明可逆性；基礎肺功能正常才輪到激發試驗。",
       "guideline": "FC 醫學(三)第1冊 p.324",
       "concepts": [
-        "pft-patterns"
+        "pft-patterns",
+        "dyspnea-approach"
       ]
     },
     "source": "111020/302_11",
@@ -26826,7 +26834,8 @@
       "summary": "肺功能三步走：先看 FEV1/FVC 分阻塞或限制，再看 TLC 定容積，最後用 DLco 判斷是不是肺實質出問題。",
       "guideline": "FC 醫學(三)第1冊 p.294",
       "concepts": [
-        "pft-patterns"
+        "pft-patterns",
+        "dyspnea-approach"
       ]
     },
     "source": "111020/302_11",
@@ -32689,11 +32698,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。FFP 可補 coagulation factors、RBC 補 oxygen-carrying capacity，兩者都不能逆轉 aspirin/clopidogrel 對 platelet function 的抑制；照原訂 2 天後手術仍有重大 bleeding 與 cardiac risk。",
-      "B": "本項不選。僅停 aspirin 與 clopidogrel 2 天通常不足以讓受抑制的 platelets 更新；更重要的是病人心臟手術與可能 coronary intervention 的細節不明，擅自停 dual antiplatelet therapy 可能造成 stent thrombosis。",
-      "C": "本項不選。LMWH bridging 是針對部分 anticoagulant interruption 的 thromboembolic risk，不會取代 antiplatelet effect，也不能預防 coronary stent thrombosis；反而可增加 pancreatic surgery bleeding。",
-      "D": "正確。應立即告知 attending surgeon，釐清 6 個月前 cardiac procedure、stent type/indication 與 dual antiplatelet therapy 所需時程，和 cardiology/anesthesia 共同評估並暫緩 elective pancreatic surgery。正常 PT/aPTT 不代表 platelet function 正常。",
-      "summary": "Aspirin/clopidogrel 抑制 platelet function，PT/aPTT 可正常；重大 elective surgery 前須跨科評估，不能只停 2 天或用 LMWH bridging。",
+      "A": "本項不選。新鮮血漿補凝血因子、紅血球補攜氧能力，都無法逆轉 aspirin 與 clopidogrel 對血小板功能的抑制；照原訂計畫開刀，出血與心臟風險都很高。",
+      "B": "本項不選。只停 2 天，被抑制的血小板還來不及換新；更重要的是心臟手術與可能放的支架細節不明，擅自停雙重抗血小板可能造成支架血栓。",
+      "C": "本項不選。低分子量肝素橋接是給停用抗凝血劑的人用的，不能取代抗血小板作用、也防不了支架血栓，反而增加胰臟手術出血。",
+      "D": "本項應選。應立即告知主治醫師，先釐清 6 個月前做了什麼心臟處置、有沒有支架、雙重抗血小板要吃多久，再和心臟科、麻醉科討論並暫緩手術。PT、aPTT 正常不代表血小板功能正常。",
+      "summary": "PT、aPTT 量不到抗血小板藥的作用；吃雙重抗血小板的人要開選擇性大手術，先暫停並跨科討論。",
       "guideline": "FC 醫學(五)第3冊 p.224",
       "concepts": [
         "perioperative-cardiac-antithrombotic"
@@ -32766,11 +32775,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。現代化膿性肝膿瘍（pyogenic liver abscess）最常見來源多為 biliary tract disease，而非 hepatic arterial bacteremia；肝動脈播散多見於 systemic bacteremia。",
-      "B": "正確。膽道感染是重要病因；傳統流行病學教材常以西方的 malignant obstruction 與亞洲的 hepatolithiasis 對照。實際病因分布會隨地區、年代與介入治療改變。",
-      "C": "本項不選。外傷後 devitalized tissue 或 hematoma 可續發感染，但膿瘍通常需要時間形成；「受傷 3 天內突然高燒」過度限定，亦須先考慮其他術後或創傷感染來源。",
-      "D": "本項不選。肝膿瘍在 ultrasound 常呈 hypoechoic 或 complex cystic lesion，可有 internal debris；稱典型為 hyperechoic 並不正確。Liver dome 確可能受 rib/lung 影響而較難掃描。",
-      "summary": "Pyogenic liver abscess 以 biliary source 最重要；ultrasound 多為 hypoechoic/complex lesion，不是典型均勻高回音。",
+      "A": "本項不選。化膿性肝膿瘍現在最常見的來源是膽道疾病，經肝動脈血行播散較少，多見於全身菌血症。",
+      "B": "本項應選。膽道感染是重要病因；傳統教材以西方的惡性腫瘤阻塞、亞洲的肝內結石做對照。實際分布會隨地區與年代改變。",
+      "C": "本項不選。外傷後壞死組織或血腫確實可續發感染，但膿瘍需要時間形成，「受傷 3 天內突然高燒」限定得太死。",
+      "D": "本項不選。肝膿瘍在超音波多是低回音或混合性病灶，內有碎屑，不是高回音。肝頂部確實因肋骨與肺遮擋較難掃到。",
+      "summary": "化膿性肝膿瘍最重要的來源是膽道；超音波看到的是低回音，不是高回音。",
       "guideline": "FC 醫學(五)第3冊 p.116",
       "concepts": [
         "hcc-liver-surgery-abscess"
@@ -32807,11 +32816,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。胃增生性息肉（hyperplastic polyp）多與 chronic gastritis 相關，少數較大病灶可有 dysplasia；其癌前關聯不如廣泛 atrophic gastritis 與 intestinal metaplasia 直接。",
-      "B": "本項不選。慢性胃潰瘍（chronic gastric ulcer）本身不是典型癌前病變，但 gastric cancer 可呈 ulcerative lesion，因此需 biopsy 以排除原本就是 malignancy。",
-      "C": "正確。慢性萎縮性胃炎（chronic atrophic gastritis）可沿 Correa cascade 進展為 intestinal metaplasia、dysplasia 與 intestinal-type gastric adenocarcinoma，與胃癌癌前變化關聯最大。",
-      "D": "本項不選。異位胰臟（heterotopic pancreas）是 pancreatic tissue 位於正常胰臟外的 developmental anomaly，多為 incidental finding，並非胃癌的重要 precursor。",
-      "summary": "胃癌的典型癌前序列是 chronic atrophic gastritis → intestinal metaplasia → dysplasia，而非把 benign ulcer 當成癌前病灶。",
+      "A": "本項不選。胃增生性息肉多與慢性胃炎相關，少數較大的會有異生，但癌前關聯不如萎縮性胃炎直接。",
+      "B": "本項不選。慢性胃潰瘍本身不是癌前病變；但胃癌可以長得像潰瘍，所以胃潰瘍要切片排除。",
+      "C": "本項應選。慢性萎縮性胃炎會沿著 Correa 路徑：萎縮→腸上皮化生→異生→腸型胃腺癌，是和胃癌最相關的癌前變化。",
+      "D": "本項不選。異位胰臟是發育異常，多半是偶然發現，不是胃癌的前驅病灶。",
+      "summary": "胃癌的癌前路徑：萎縮性胃炎→腸上皮化生→異生→腸型胃癌。",
       "guideline": "FC 醫學(五)第3冊 p.35",
       "concepts": [
         "gastric-small-bowel-tumors"
@@ -32848,11 +32857,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Heller myotomy 用於食道失弛緩症（achalasia），目的是切開不適當緊縮的 LES；本例 esophageal motility 正常且主病為 GERD，反而可能因切開 sphincter 加重 reflux。",
-      "B": "本項不選。袖狀胃切除術（sleeve gastrectomy）可增加或惡化 GERD，並不是非肥胖 GERD 患者的抗逆流術式；若 bariatric context 且 severe reflux，通常較偏向 Roux-en-Y gastric bypass。",
-      "C": "本項不選。膽胰分流術（biliopancreatic diversion）是高複雜度 malabsorptive bariatric operation，適應症與代謝減重相關，不是本例藥物難治 GERD 的標準下一步。",
-      "D": "本項應選。已客觀證實 severe GERD、PPI 治療失敗且 esophageal motility 正常時，可考慮 Nissen fundoplication；完整 wrap 可加強 gastroesophageal junction，即使沒有 hiatal hernia 仍可施作。",
-      "summary": "客觀 GERD、藥物治療失敗且 motility 正常時可選 Nissen fundoplication；Heller myotomy 是 achalasia 手術。",
+      "A": "本項不選。Heller 肌切開術用在賁門失弛緩症，是把太緊的下食道括約肌切開；本例蠕動正常、問題是逆流，切開反而讓逆流更嚴重。",
+      "B": "本項不選。袖狀胃切除常會加重逆流，不是治療逆流的手術；肥胖又嚴重逆流時反而偏向胃繞道。",
+      "C": "本項不選。膽胰繞道是複雜的減重手術，和藥物治不好的逆流無關。",
+      "D": "本項應選。已證實是嚴重逆流、PPI 治療無效、食道蠕動正常，就可以做 Nissen 胃底摺疊術；完整包覆能加強胃食道交界，沒有裂孔疝氣也能做。",
+      "summary": "逆流吃藥沒效、蠕動正常，選 Nissen；Heller 是賁門失弛緩症的手術。",
       "guideline": "FC 醫學(五)第3冊 p.35",
       "concepts": [
         "hiatal-hernia-types"
@@ -32889,11 +32898,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。經頸靜脈肝內門體分流術（transjugular intrahepatic portosystemic shunt, TIPS）能快速降低 portal pressure，是藥物與 endoscopic therapy 失敗後的重要 rescue therapy；嚴格說它是 interventional radiology procedure 而非 open surgery。",
-      "B": "本項不選。遠端脾腎分流術（distal splenorenal/Warren shunt）選擇性減壓 gastroesophageal varices，現今較少用，但在 preserved liver function 且合適解剖的選定患者仍可考慮。",
-      "C": "最不適當。單純脾臟切除術（splenectomy）不能有效處理由 cirrhotic portal hypertension 引起的 gastroesophageal variceal bleeding；只有 isolated splenic vein thrombosis 造成 sinistral portal hypertension 時才可能是針對病因的治療。",
-      "D": "本項不選。肝臟移植（liver transplantation）能根治 decompensated cirrhosis 所致 portal hypertension；它不是急性現場最快止血手段，但對符合條件的 end-stage liver disease 是 definitive therapy。",
-      "summary": "一般 portal-hypertensive variceal bleeding 救援可用 TIPS；splenectomy 只適合 splenic-vein thrombosis 的 left-sided portal hypertension。",
+      "A": "本項不選。TIPS 能快速降低門脈壓，是藥物與內視鏡失敗後的重要救援；嚴格說它是介入放射處置，不是開刀。",
+      "B": "本項不選。遠端脾腎分流（Warren）選擇性減壓胃食道靜脈曲張，現在較少用，但肝功能尚可的特定病人仍可考慮。",
+      "C": "本項應選。肝硬化造成的門脈高壓，單純切脾解決不了靜脈曲張出血。只有脾靜脈栓塞造成的左側門脈高壓，切脾才是對因治療。",
+      "D": "本項不選。肝移植能根治失償性肝硬化造成的門脈高壓；不是最快的止血方法，但符合條件的末期肝病是根本解。",
+      "summary": "靜脈曲張出血救援用 TIPS；切脾只適合脾靜脈栓塞造成的左側門脈高壓。",
       "guideline": "FC 醫學(五)第3冊 p.107",
       "concepts": [
         "portal-hypertension-cirrhosis"
@@ -32930,11 +32939,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "正確。肝細胞腺瘤（hepatocellular adenoma）可因 estrogen、anabolic steroid 或特定 metabolic disease 增大，具有 spontaneous hemorrhage 與 malignant transformation 風險；風險與 size、sex 及 molecular subtype 有關。",
-      "B": "本項不選。肝血管瘤（hepatic hemangioma）是常見 benign vascular lesion，多數穩定無症狀；巨大病灶雖極少數可破裂，但不具典型轉為 hepatocellular carcinoma 的風險。",
-      "C": "本項不選。局部結節性增生（focal nodular hyperplasia）是對 vascular anomaly 的 polyclonal hyperplastic response，通常不出血且無實質 malignant potential，多數僅觀察。",
-      "D": "本項不選。單純肝囊腫（simple hepatic cyst）內襯 benign epithelium，通常 incidental；出血或感染偶可發生，但不具有 hepatocellular adenoma 的惡性轉化特性。",
-      "summary": "Benign liver lesions 中 hepatocellular adenoma 同時具有出血與 malignant transformation 風險；FNH 通常兩者皆無。",
+      "A": "本項應選。肝細胞腺瘤受雌激素、合成類固醇或某些代謝疾病刺激會變大，有自發出血與惡性轉化的風險；風險與大小、性別及分子亞型有關。",
+      "B": "本項不選。肝血管瘤是最常見的良性血管病灶，多半穩定沒症狀；巨大的極少數會破裂，但不會變成肝癌。",
+      "C": "本項不選。局部結節性增生是對血管異常的增生反應，通常不出血、也沒有惡性潛能，多半只要觀察。",
+      "D": "本項不選。單純肝囊腫偶爾出血或感染，但沒有惡性轉化的特性。",
+      "summary": "會出血又可能變癌的良性肝腫瘤是肝細胞腺瘤；FNH 兩者都不會。",
       "guideline": "FC 醫學(五)第3冊 p.124",
       "concepts": [
         "benign-liver-lesions"
@@ -33377,11 +33386,11 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。腹腔外硬纖維瘤（extraabdominal desmoid tumor）是不轉移但會局部侵犯、易復發的 fibroblastic proliferation，aggressive fibromatosis 是其慣用名稱。",
-      "B": "本項不選。第 1 型多發性神經纖維瘤（neurofibromatosis type 1）又稱 von Recklinghausen disease，可有多發 neurofibromas、café-au-lait macules 與其他系統表現。",
-      "C": "本項應選。滑膜肉瘤（synovial sarcoma）是重要的年輕成人 soft-tissue sarcoma，但不是整體第二常見類型；成人常見排序會因分類而異，undifferentiated pleomorphic sarcoma、liposarcoma、leiomyosarcoma 更常居前。",
-      "D": "本項不選。惡性周圍神經鞘瘤（malignant peripheral nerve sheath tumor）可發生於 NF1 既有 plexiform neurofibroma；相較 sporadic solitary neurofibroma，NF1 相關病灶的惡性轉化風險確實較重要。",
-      "summary": "Synovial sarcoma 名稱雖常見於考題，並非成人軟組織肉瘤中固定的第二常見組織型。",
+      "A": "本項不選。腹腔外硬纖維瘤不轉移，但會局部侵犯、容易復發，所以又叫侵襲性纖維瘤病。",
+      "B": "本項不選。第一型神經纖維瘤病就是 von Recklinghausen 病，會有多發神經纖維瘤與咖啡牛奶斑。",
+      "C": "本項應選。滑膜肉瘤是年輕成人重要的軟組織肉瘤，但不是整體第二常見；成人較常見的是未分化多形性肉瘤、脂肪肉瘤與平滑肌肉瘤。",
+      "D": "本項不選。惡性周邊神經鞘瘤常由第一型神經纖維瘤病的叢狀神經纖維瘤惡化而來，比單發的神經纖維瘤更常見。",
+      "summary": "滑膜肉瘤名字常出現，但不是第二常見的軟組織肉瘤。",
       "guideline": null,
       "concepts": []
     },
@@ -33687,11 +33696,11 @@
     "specialty": "泌尿外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。尿結石基質（matrix）中的蛋白與細胞碎屑可作為 heterogeneous nucleation scaffold，促進晶體附著與成長。",
-      "B": "本項不選。尿中 oxalate 增加 calcium oxalate supersaturation，是最重要的成石 promoter 之一。",
-      "C": "本項不選。尿酸可自行形成 uric acid stone，也可作為 calcium oxalate crystal 的 nucleation nidus，故會促進成石。",
-      "D": "本項應選。尿中 magnesium 可與 oxalate 結合並降低 calcium oxalate crystallization，一般被視為 inhibitor 而不是 promoter。",
-      "summary": "Matrix、oxalate 與 uric acid 可促進結晶；magnesium 對 calcium oxalate 成石具有抑制作用。",
+      "A": "本項不選。結石基質中的蛋白與細胞碎屑提供晶體附著的骨架，會促進結石形成。",
+      "B": "本項不選。尿中草酸增加會讓草酸鈣過飽和，是最重要的促進劑之一。",
+      "C": "本項不選。尿酸可以自己形成尿酸結石，也能當草酸鈣晶體的核心。",
+      "D": "本項應選。尿中的鎂會和草酸結合，減少草酸鈣結晶，所以是抑制劑而不是促進劑。",
+      "summary": "基質、草酸、尿酸促進結石；鎂和檸檬酸是抑制劑。",
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
@@ -33723,11 +33732,11 @@
     "specialty": "泌尿外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。接受根除性膀胱切除術後仍有相當比例病人因 occult micrometastasis 發生 distant relapse，尤其高分期或 node-positive 者；10% 明顯低估。",
-      "B": "本項不選。肌肉侵犯型膀胱癌（muscle-invasive bladder cancer）若 cisplatin-eligible，標準通常包含 neoadjuvant cisplatin-based chemotherapy 後 radical cystectomy，而不是一律直接手術。",
-      "C": "正確。Hydronephrosis 常表示腫瘤侵犯 ureteral orifice、局部病灶較廣或較高分期，因此是較差 prognosis 的指標。",
-      "D": "本項不選。腎功能差會限制 metabolic reserve，也常使病人不適合 orthotopic neobladder；尿液與腸段接觸可加重 acid-base 或 electrolyte complications，應選適當 diversion。",
-      "summary": "MIBC 合併 hydronephrosis 預後較差；標準照護通常是 neoadjuvant cisplatin-based chemotherapy 加 radical cystectomy。",
+      "A": "本項不選。根除性膀胱切除後，仍有相當比例因隱藏的微轉移而遠端復發，高分期或淋巴結陽性者更多；10% 明顯低估。",
+      "B": "本項不選。能用 cisplatin 的病人，標準是先做術前 cisplatin 為主的化療，再做根除性膀胱切除，不是直接開刀。",
+      "C": "本項應選。合併水腎代表腫瘤侵犯輸尿管開口、局部範圍較大或分期較高，所以預後較差。",
+      "D": "本項不選。腎功能差的人不適合做原位新膀胱；尿液與腸段長時間接觸會加重酸鹼與電解質問題，要選其他尿路改道。",
+      "summary": "肌肉侵犯型膀胱癌合併水腎預後差；標準是術前化療加根除性膀胱切除。",
       "guideline": null,
       "concepts": [
         "urothelial-renal-penile-tumors"
@@ -33764,11 +33773,11 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。隱睪症是 testicular germ cell tumor 的已知危險因子；即使 orchiopexy 後仍須認知殘餘風險。",
-      "B": "本項不選。睪丸惡性腫瘤絕大多數為生殖細胞腫瘤（germ cell tumor），主要分 seminoma 與 nonseminomatous germ cell tumor。",
-      "C": "本項不選。絨毛膜癌（choriocarcinoma）血行轉移傾向強，可在原發灶很小時即轉移至肺、腦等處，並常伴很高 hCG。",
-      "D": "錯誤。Seminoma 典型沿 testicular lymphatics 先轉移至 retroperitoneal para-aortic nodes；只有陰囊手術或 scrotal invasion 改變淋巴引流時才較可能涉及 inguinal nodes。",
-      "summary": "睪丸腫瘤的正常淋巴引流先到 retroperitoneal para-aortic nodes，不是腹股溝淋巴結。",
+      "A": "本項不選。隱睪症是睪丸生殖細胞瘤的危險因子，即使做過睪丸固定術仍有殘餘風險。",
+      "B": "本項不選。睪丸惡性腫瘤絕大多數是生殖細胞瘤，分成精原細胞瘤與非精原細胞瘤。",
+      "C": "本項不選。絨毛膜癌很早就經血行轉移到肺與腦，原發灶很小時就可能轉移，hCG 也常很高。",
+      "D": "本項應選。精原細胞瘤沿睪丸本身的淋巴，先轉移到後腹腔主動脈旁淋巴結；只有陰囊動過手術或被侵犯時才會走腹股溝。",
+      "summary": "睪丸癌先轉移到主動脈旁淋巴結，不是腹股溝；因為睪丸是從後腹腔降下來的。",
       "guideline": "FC 醫學(五)第5冊 p.94",
       "concepts": [
         "acute-scrotum-testicular-tumors"
@@ -33842,11 +33851,11 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。C5–C7 是 suprasacral lesion，會中斷 descending inhibition，但保留 S2–S4 reflex arc，脊髓休克期後可出現 neurogenic detrusor overactivity。",
-      "B": "本項不選。T4–T7 同樣位於 sacral micturition center 以上；完整損傷後可造成 detrusor overactivity 並常合併 detrusor-sphincter dyssynergia。",
-      "C": "本項不選。L3–L4 仍通常高於 S2–S4 parasympathetic reflex center；若 sacral reflex arc 保留，可形成 suprasacral pattern 的反射亢進。",
-      "D": "本項應選。S2–S4 完全損傷直接破壞 parasympathetic detrusor reflex arc，較典型造成 areflexic、acontractile bladder，而非 detrusor hyperreflexia。",
-      "summary": "Suprasacral spinal injury 保留 S2–S4 reflex arc 而易 detrusor overactivity；直接 sacral injury 則偏 areflexia。",
+      "A": "本項不選。C5–C7 是薦髓以上病灶，切斷上方的抑制但保留 S2–S4 反射弧，休克期過後會逼尿肌過動。",
+      "B": "本項不選。T4–T7 一樣在薦髓排尿中樞以上，完全損傷後會逼尿肌過動，常合併逼尿肌括約肌協同失調。",
+      "C": "本項不選。L3–L4 通常仍在 S2–S4 反射中樞以上，反射弧保留時一樣會過動。",
+      "D": "本項應選。S2–S4 完全損傷直接破壞控制逼尿肌的副交感反射弧，膀胱變成無反射、無收縮，不會過動。",
+      "summary": "薦髓以上損傷保留反射弧→逼尿肌過動；薦髓本身損傷→膀胱無收縮。",
       "guideline": "FC 醫學(五)第5冊 p.170",
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
@@ -33883,11 +33892,11 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。高齡男性反覆無痛性血尿須優先排除 urothelial malignancy；僅憑病史不支持 UTI，且一個月病程更不能以感染帶過。",
-      "B": "本項不選。急性 flank colic 合併血尿典型提示 ureteral stone；若沒有 dysuria、frequency 或 fever，感染不是最可能來源。",
-      "C": "本項不選。高齡、無痛性 gross hematuria 且有 clots 是尿路腫瘤警訊，需要 cystoscopy 與 upper tract evaluation，而非由病史判為感染。",
-      "D": "正確。年輕女性突發 dysuria、urgency、frequency、suprapubic discomfort 與血尿構成 acute cystitis 的典型 symptom cluster。",
-      "summary": "血尿合併 dysuria、frequency、urgency 與 suprapubic pain 最支持 cystitis；高齡無痛血尿則先排除 malignancy。",
+      "A": "本項不選。老年男性反覆無痛血尿要先排除泌尿上皮癌，病程一個月更不能當感染。",
+      "B": "本項不選。急性腰部絞痛加血尿典型是輸尿管結石；沒有解尿痛、頻尿或發燒時不像感染。",
+      "C": "本項不選。高齡、無痛、肉眼血尿又有血塊，是泌尿道腫瘤警訊，要做膀胱鏡與上泌尿道檢查。",
+      "D": "本項應選。年輕女性突然血尿，加上解尿疼痛、急尿、頻尿與下腹痠痛，正是急性膀胱炎的典型組合。",
+      "summary": "血尿加解尿痛、頻尿、急尿想膀胱炎；老人無痛血尿先排除癌症。",
       "guideline": "FC 醫學(五)第5冊 p.154",
       "concepts": [
         "urothelial-renal-penile-tumors"
@@ -33919,11 +33928,11 @@
     "specialty": "泌尿外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。抬高陰囊後疼痛緩解稱 Prehn sign，傳統上較支持 epididymitis；但敏感度與特異度不足，不能用來排除 testicular torsion。",
-      "B": "本項不選。急性副睪炎（acute epididymitis）屬感染性發炎，患處 warmth、swelling 與 tenderness 較常見；扭轉早期主要是缺血性劇痛。",
-      "C": "本項不選。睪丸扭轉（testicular torsion）常因 spermatic cord twisting 影響 genitofemoral reflex，出現 ipsilateral absent cremasteric reflex，是重要警訊。",
-      "D": "本項不選。發燒、dysuria、pyuria 或 urethral symptoms 比較支持 epididymitis；testicular torsion 常是突然 severe pain 且缺乏感染症狀。",
-      "summary": "Prehn sign 緩解較傳統支持 epididymitis，但不能可靠排除 torsion；突然疼痛與 absent cremasteric reflex 要立即探查。",
+      "A": "本項應選。抬高陰囊後疼痛緩解叫 Prehn 徵象，傳統上比較支持副睪炎，不是扭轉；而且它不夠準，不能拿來排除扭轉。",
+      "B": "本項不選。副睪炎是感染發炎，患處較熱、腫、壓痛；扭轉早期主要是缺血的劇痛。",
+      "C": "本項不選。扭轉常讓同側提睪反射消失，是重要警訊。",
+      "D": "本項不選。發燒、解尿痛、膿尿比較支持副睪炎；扭轉常是突然劇痛、沒有感染症狀。",
+      "summary": "抬高變不痛偏副睪炎，但不可靠；突然劇痛加提睪反射消失，就要立刻探查扭轉。",
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
@@ -33999,11 +34008,11 @@
     "specialty": "一般消化外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。食道失弛緩症（achalasia）造成 LES 無法充分放鬆及 aperistalsis，barium swallow 典型可見 dilated esophagus 與 distal bird-beak narrowing；食物滯留可導致 regurgitation 與 aspiration pneumonia。鋇劑攝影上食道整段擴張、蓄積大量顯影劑，到下端逐漸變細呈鳥嘴狀，這就是賁門失弛緩症。機轉是肌間神經叢的抑制性神經元喪失，下食道括約肌打不開、食道體部也沒有蠕動；食物滯留在擴張的食道裡就造成反覆吸入性肺炎。確診靠高解析度食道壓力檢查，治療用氣球擴張、經口內視鏡肌切開術或腹腔鏡 Heller 肌切開術。",
-      "B": "本項不選。胃食道逆流病（gastroesophageal reflux disease, GERD）可造成 heartburn、regurgitation 或 aspiration，但 barium study 不會以 achalasia 的 distal smooth tapering 與 proximal dilation 為典型。",
-      "C": "本項不選。胃淋巴瘤（gastric lymphoma）主要造成胃壁或黏膜病灶，可能有 pain、weight loss 或 bleeding；它不會以 esophageal aperistalsis 與 bird-beak appearance 解釋長期 dysphagia。",
-      "D": "本項不選。裂孔疝氣（hiatal hernia）在 barium study 可見胃的一部分位於 diaphragm 上方，常伴 GERD；不會典型造成整段食道擴張與 distal bird-beak narrowing。",
-      "summary": "Dysphagia、regurgitation/aspiration 加 barium bird-beak appearance 指向 achalasia，確診與分型仍靠 high-resolution manometry。",
+      "A": "本項應選。鋇劑攝影上整段食道擴張、積滿顯影劑，到下端逐漸變細呈鳥嘴狀。這是賁門失弛緩症：肌間神經叢的抑制性神經元喪失，下食道括約肌打不開、食道體部也沒有蠕動。食物滯留在擴張的食道裡，所以反覆吸入性肺炎。確診靠高解析度食道壓力檢查，治療有氣球擴張、經口內視鏡肌切開術或腹腔鏡 Heller 肌切開術。",
+      "B": "本項不選。逆流會火燒心、溢酸，甚至吸入，但鋇劑不會看到整段擴張加下端鳥嘴狀變細。",
+      "C": "本項不選。胃淋巴瘤是胃壁或黏膜病灶，表現腹痛、體重下降或出血，解釋不了食道無蠕動與鳥嘴徵象。",
+      "D": "本項不選。裂孔疝氣在鋇劑上看到部分胃跑到橫膈上方，常合併逆流，不會整段食道擴張。",
+      "summary": "吞嚥困難、反覆吸入加鋇劑鳥嘴徵象，就是賁門失弛緩症；確診靠食道壓力檢查。",
       "guideline": null,
       "concepts": [
         "hiatal-hernia-types"
@@ -34042,11 +34051,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。產氣性膽囊炎（emphysematous cholecystitis）會見 gallbladder wall 或 lumen gas，常伴 toxic appearance，超音波可能有 dirty shadowing；不能只把一般 clean posterior shadow 當成氣體。",
-      "B": "本項不選。產氣性肝膿瘍（gas-forming liver abscess）的 gas 位於 liver parenchymal lesion，而非可移動的 gallbladder stone；病人常有 fever、sepsis 或 diabetes。",
-      "C": "本項不選。膽囊癌（gallbladder carcinoma）可呈 irregular wall thickening、mass replacing gallbladder 或 invasion，不以單一高回音伴 clean acoustic shadow 為典型。",
-      "D": "正確。膽囊結石（gallstone）在 ultrasound 常呈 echogenic focus、posterior acoustic shadow，並可隨姿勢移動；題目答案依此典型影像判讀。超音波上膽囊腔內可見強回音病灶並帶後方聲影，膽囊壁沒有明顯增厚，也沒有壁內或腔內的氣體造成的混響假影。這是單純膽結石的表現。產氣性膽囊炎會在膽囊壁看到帶彗星尾的強回音，膽囊癌則是壁上不規則的實質腫塊。",
-      "summary": "Gallstone 的 ultrasound 三要點是 echogenic focus、clean posterior shadowing 與 mobility；氣體則較常造成 dirty shadow。",
+      "A": "本項不選。產氣性膽囊炎會在膽囊壁或腔內看到氣體，帶彗星尾的強回音與「髒」的聲影，病人通常很不舒服。",
+      "B": "本項不選。產氣性肝膿瘍的氣體在肝實質病灶內，不是在膽囊；病人常有發燒、敗血症或糖尿病。",
+      "C": "本項不選。膽囊癌是不規則的壁增厚或取代膽囊的實質腫塊，不是單一強回音加乾淨的聲影。",
+      "D": "本項應選。膽囊腔內有強回音病灶，後方帶乾淨的聲影，膽囊壁沒有明顯增厚，也沒有氣體造成的混響假影，這是單純膽結石。",
+      "summary": "膽結石三要點：強回音、乾淨的後方聲影、會隨姿勢移動；氣體造成的是髒聲影。",
       "guideline": null,
       "concepts": [
         "gallstones-cholecystitis-biliary-tumors"
@@ -34080,11 +34089,11 @@
     "specialty": "一般消化外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。淋巴瘤（lymphoma）常形成 retroperitoneal lymphadenopathy 或包繞大血管的 soft-tissue mass，是後腹膜腔腫瘤的重要鑑別。",
-      "B": "本項應選。多形性膠質母細胞瘤（glioblastoma）主要在 central nervous system 內迅速進展，顱外轉移極罕見；以後腹膜腔 solitary metastasis 表現遠不如其他三項合理。多形性膠質母細胞瘤幾乎不會轉移到中樞神經系統以外，這是它最著名的特性之一（原因與缺乏淋巴引流、腫瘤細胞難以在腦外存活有關）。所以在後腹腔腫瘤的鑑別診斷裡，它是最不可能的來源；真正要想的是淋巴瘤、肉瘤與生殖細胞瘤。",
-      "C": "本項不選。未分化多形性肉瘤（undifferentiated pleomorphic sarcoma）可原發於 deep soft tissue 或 retroperitoneum，形成大型 heterogeneous mass，屬可能診斷。",
-      "D": "本項不選。精細胞瘤（seminoma）可轉移至 retroperitoneal para-aortic lymph nodes；中年男性後腹膜 mass 必須結合 testicular examination、ultrasound 與 tumor markers 評估 occult testicular primary。",
-      "summary": "男性 retroperitoneal mass 可考慮 lymphoma、sarcoma 或 metastatic seminoma；glioblastoma 顱外轉移極罕見。",
+      "A": "本項不選。淋巴瘤常形成後腹腔淋巴結腫大或包住大血管的軟組織腫塊，是重要鑑別。",
+      "B": "本項應選。多形性膠質母細胞瘤幾乎不會轉移到中樞神經系統以外，這是它最著名的特性；以後腹腔單發轉移表現，比其他三項都不合理。",
+      "C": "本項不選。未分化多形性肉瘤可原發在深部軟組織或後腹腔，形成大型不均質腫塊。",
+      "D": "本項不選。精原細胞瘤會轉移到後腹腔主動脈旁淋巴結；中年男性後腹腔腫塊要摸睪丸、做超音波並驗腫瘤標記。",
+      "summary": "男性後腹腔腫塊想淋巴瘤、肉瘤、轉移性精原細胞瘤；膠質母細胞瘤幾乎不出腦。",
       "guideline": null,
       "concepts": [
         "gastric-small-bowel-tumors"
@@ -34162,11 +34171,11 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Morphine 可止痛，但在已有 rapidly progressive weakness、urinary retention 與 sphincter dysfunction 時，等待止痛後重評會延誤 spinal cord compression 的急症處置。",
-      "B": "本項不選。Spine CT 對 bone destruction 與 fracture 較敏感，但評估 epidural tumor、spinal cord 與 soft tissue compression 不如 MRI；也不應先於立即 corticosteroid treatment。",
-      "C": "本項不選。全脊椎 contrast-enhanced MRI 是確認 metastatic spinal cord compression 範圍與規劃 surgery/radiotherapy 的首選影像，應緊急安排；但題目問「下一步」時，先給 dexamethasone 以減少 edema。",
-      "D": "正確。已知 metastatic prostate cancer 合併急性 bilateral leg weakness、urinary retention 與 incontinence，高度懷疑惡性脊髓壓迫（malignant spinal cord compression）；應立即給 dexamethasone，並同步緊急 MRI 與 spine surgery/radiation oncology consultation。",
-      "summary": "疑似 malignant spinal cord compression 出現 motor 與 sphincter deficits 時，先立即 dexamethasone，再緊急 MRI 與 definitive decompression/radiotherapy。",
+      "A": "本項不選。Morphine 可以止痛，但已經快速無力、尿滯留又失禁，等止痛後再評估會延誤脊髓壓迫的急症處理。",
+      "B": "本項不選。CT 看骨頭破壞與骨折較好，但評估硬膜外腫瘤壓迫脊髓不如 MRI，也不應排在立即給類固醇之前。",
+      "C": "本項不選。全脊椎顯影 MRI 是確認範圍與規劃手術或放療的首選，必須緊急安排；但題目問「下一步」，要先給 dexamethasone 減輕水腫。",
+      "D": "本項應選。已知攝護腺癌骨轉移，又出現雙腳急性無力、尿滯留與失禁，高度懷疑惡性脊髓壓迫。應立刻給 dexamethasone，同時緊急 MRI，並照會脊椎外科與放射腫瘤科。",
+      "summary": "癌症病人突然雙腳無力加大小便問題，想脊髓壓迫：先給 dexamethasone，再緊急 MRI。",
       "guideline": "FC 醫學(五)第5冊 p.122",
       "concepts": [
         "surgical-oncology-basics"
@@ -34386,11 +34395,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Allen test 評估 ulnar collateral flow，但預測 radial artery cannulation 後 ischemic complication 的能力有限；正常結果不能「預防」血栓、感染或神經損傷。",
-      "B": "本項不選。肺動脈導管（pulmonary artery catheter）可提供壓力與 cardiac output 資訊，但 routine use 未證實改善一般重症病人的 clinical outcomes，且有 arrhythmia、infection、thrombosis 等風險。",
-      "C": "正確。Stroke volume variation 等 dynamic indices 觀察 mechanical ventilation 引起的 preload change，可在適當條件下預測 fluid responsiveness；單次 central venous pressure 是 static pressure，預測輸液後 cardiac output 是否增加的能力差。",
-      "D": "本項不選。Central venous pressure 受 venous tone、right ventricular compliance、intrathoracic pressure、tricuspid disease 等影響，不能與 circulating blood volume 畫成固定正比。",
-      "summary": "預測 fluid responsiveness 應優先用合適情境下的 dynamic indices；CVP 不是循環血量計，也不能單獨指導輸液。",
+      "A": "本項不選。Allen 試驗評估尺動脈側枝循環，但預測插管後缺血的能力有限；結果正常也「預防」不了血栓、感染或神經損傷。",
+      "B": "本項不選。肺動脈導管能提供壓力與心輸出量，但例行使用並沒有改善重症病人的結果，還有心律不整、感染與血栓風險。",
+      "C": "本項應選。每搏量變異度這類動態指標，觀察呼吸器造成的前負荷變化，在適當條件下能預測輸液有沒有用；單次中心靜脈壓是靜態數值，預測能力差。",
+      "D": "本項不選。中心靜脈壓受靜脈張力、右心室順應性、胸內壓與三尖瓣疾病影響，和循環血量沒有固定的正比關係。",
+      "summary": "要預測輸液有沒有用，看動態指標；CVP 不是血量計。",
       "guideline": "FC 醫學(六)第4冊 p.58",
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
@@ -34422,11 +34431,11 @@
     "specialty": "麻醉科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項應選。麻醉誘導後 peripheral vasodilation 使核心熱量重新分布至周邊，第一小時常下降約 0.5–1.5°C，稱重分布性低體溫（redistribution hypothermia）。",
-      "B": "本項不選。麻醉開始後單靠 surface warming 難以完全阻止已存在的 core-to-peripheral heat redistribution；術前預熱（prewarming）可減少周邊與核心溫差，才更能預防第一小時快速下降。",
-      "C": "本項不選。呼吸道加溫與加濕（airway heating and humidification）只能回收相對少量 respiratory heat loss；兒童因 surface-area-to-mass ratio 較大更易失溫，不能說成人比小兒更有效。",
-      "D": "本項不選。區域麻醉（regional anesthesia）會阻斷交感血管收縮、降低 vasoconstriction threshold，且病人可能感覺不到阻斷區域的冷，因此同樣會發生低體溫。",
-      "summary": "麻醉第一小時降溫主因是核心熱量向周邊重分布；預防要靠 prewarming 加上術中主動保溫，區域麻醉也不例外。",
+      "A": "本項應選。麻醉誘導後周邊血管擴張，核心的熱量重新分布到四肢，第一小時常降 0.5–1.5°C，這叫重分布性低體溫。",
+      "B": "本項不選。麻醉開始後才做體表加溫，很難擋住已經發生的熱量重分布；術前先預熱縮小核心與周邊的溫差，才能有效預防第一小時下降。",
+      "C": "本項不選。呼吸道加溫加濕只能回收很少的熱；兒童體表面積相對大、更容易失溫，不能說對成人比較有效。",
+      "D": "本項不選。區域麻醉會阻斷交感神經的血管收縮、降低顫抖閾值，病人也感覺不到被麻醉區域的冷，一樣會低體溫。",
+      "summary": "麻醉第一小時降溫是熱量重分布；要靠術前預熱，區域麻醉也會失溫。",
       "guideline": null,
       "concepts": [
         "temperature-eeg-pacu"
@@ -34458,11 +34467,11 @@
     "specialty": "麻醉科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。電位門控型鈉離子通道（voltage-gated sodium channel）可處於 resting、activated/open 與 inactivated 狀態；局部麻醉劑對 open/inactivated channel affinity 較高，形成 use-dependent block。",
-      "B": "本項不選。局部麻醉劑全身毒性（local anesthetic systemic toxicity, LAST）常先有口周麻木、metallic taste、耳鳴、agitation 或 seizure 等 CNS 表現；但 bupivacaine 大量快速進入血管時也可能直接 cardiovascular collapse。",
-      "C": "錯誤。加入 epinephrine 會以 α1 receptor 造成注射部位血管收縮，減慢局部麻醉劑進入全身循環，延長作用並降低 peak plasma concentration；不是血管擴張。",
-      "D": "本項不選。局部麻醉劑會影響 CNS sodium channels，血中濃度上升可由感覺異常、興奮與 seizure 進展為 CNS depression、coma 與 respiratory arrest。",
-      "summary": "局部麻醉劑偏好阻斷 open/inactivated sodium channels；epinephrine 造成局部 vasoconstriction，而非 vasodilation。",
+      "A": "本項不選。電位門控鈉通道有靜止、開啟與失活三種狀態；局部麻醉劑偏好結合開啟與失活狀態，所以神經越常放電、阻斷越強。",
+      "B": "本項不選。全身毒性常先出現口周麻木、金屬味、耳鳴、躁動或抽搐等神經症狀；但 bupivacaine 大量誤入血管時可能直接心血管崩潰。",
+      "C": "本項應選。加入 epinephrine 是透過 α1 受體讓注射部位血管收縮，減慢藥物進入全身循環，延長作用並降低血中高峰濃度；不是血管擴張。",
+      "D": "本項不選。局部麻醉劑也會作用在中樞的鈉通道，濃度升高時從感覺異常、興奮、抽搐，進展到昏迷與呼吸停止。",
+      "summary": "局部麻醉劑加 epinephrine 是收縮血管、延長作用；毒性多先出現神經症狀。",
       "guideline": null,
       "concepts": [
         "local-anesthetic-pharmacology"
@@ -44626,7 +44635,10 @@
       "C": "本項不選。限制型心肌病（restrictive cardiomyopathy）也會出現舒張壓升高與 square-root sign，但通常是心肌本身僵硬，題幹明顯心包增厚更支持 constriction。",
       "D": "本項不選。肥厚性心肌病（hypertrophic cardiomyopathy）以不對稱心室肥厚、dynamic LV outflow obstruction 或舒張功能障礙為主，不會以厚心包解釋病況。",
       "summary": "高靜脈壓、dip-and-plateau 與厚心包的組合指向 constrictive pericarditis。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -64234,7 +64246,8 @@
       "summary": "限制型肺功能加上最大吸氣壓力偏低＝問題在呼吸肌（幫浦），不在肺實質。",
       "guideline": "FC 醫學(三)第1冊 p.294",
       "concepts": [
-        "pft-patterns"
+        "pft-patterns",
+        "dyspnea-approach"
       ]
     },
     "source": "112080/302_11",
@@ -76743,7 +76756,9 @@
       "D": "本項不選。①與④成立，但③氣胸與⑥肺水腫在胸部 X 光上通常都看得到明顯異常，不符合題目「片子正常」的前提。",
       "summary": "胸片正常卻低血氧，想三類：血管（肺栓塞）、分流（心內或肝肺症候群）、氣道（氣喘）。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -89177,7 +89192,9 @@
       "D": "本項不選。慢性阻塞性肺病（COPD）造成的是慢性呼吸症狀與哮鳴，不會讓一隻腳突然腫起來。",
       "summary": "一隻腳腫＋急性胸痛喘＝把腿和肺連起來看：DVT 掉下去變成肺栓塞。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89251,7 +89268,8 @@
       "summary": "藥物輸注後皮膚黏膜症狀＋呼吸窘迫＋低血壓＝過敏性休克：先打腎上腺素，其餘都是配角。",
       "guideline": "FC 醫學(三)第1冊 p.349",
       "concepts": [
-        "anaphylaxis-clinical-criteria"
+        "anaphylaxis-clinical-criteria",
+        "dyspnea-approach"
       ]
     },
     "source": "113070/302_11",
@@ -93017,7 +93035,8 @@
       "summary": "急診心臟檢查正常又反覆突然覺得要死，先想到恐慌發作；廣泛焦慮則是長期一直擔心。",
       "guideline": "FC 醫學(四)第3冊 p.61",
       "concepts": [
-        "anxiety-ocd-ptsd"
+        "anxiety-ocd-ptsd",
+        "dyspnea-approach"
       ]
     },
     "source": "113070/302_22",
@@ -100014,7 +100033,10 @@
       "B": "本項不選。支氣管呼吸音（bronchial breath sounds）多見於肺實變。肋膜積液的區域通常呼吸音減弱，只有積液上緣可能有支氣管音。",
       "C": "正確答案。奇脈（pulsus paradoxus）常見於心包填塞，也可見於嚴重阻塞性肺病，所以配對「心包膜異常」是適當的。",
       "D": "本項不選。橫膈無力的反常腹部運動（paradoxical abdominal movement）是「吸氣」時腹部向內凹，不是吐氣期。",
-      "summary": "奇脈提示心包填塞；肺高壓 P2 增強、肺積液處呼吸音減弱、橫膈無力在吸氣時腹部內凹。"
+      "summary": "奇脈提示心包填塞；肺高壓 P2 增強、肺積液處呼吸音減弱、橫膈無力在吸氣時腹部內凹。",
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101485,7 +101507,8 @@
       "summary": "同樣是阻塞，DLCO 就分得出來：氣喘的 DLCO 保留，肺氣腫的 DLCO 掉下來。",
       "guideline": null,
       "concepts": [
-        "asthma-vs-copd"
+        "asthma-vs-copd",
+        "dyspnea-approach"
       ]
     },
     "source": "114020/302_0103",
@@ -114840,7 +114863,10 @@
       "C": "本項敘述正確。鼻塞流鼻水後出現喘鳴、呼吸急促與餵食困難，是病毒性細支氣管炎的典型病程，最常見病原是 RSV。",
       "D": "本項不選。先天性心臟病可使嬰兒呼吸喘，但不會特別造成急性鼻炎後的雙側吐氣 wheeze。",
       "summary": "小嬰兒先流鼻水再雙側 wheeze，優先想 bronchiolitis；肺炎要找 crackles 或局部浸潤。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -115190,7 +115216,10 @@
       "C": "本項不選。曾發紺即使到院血氧正常，也可能是間歇性上氣道阻塞、呼吸暫停或心肺問題的警訊。",
       "D": "本項敘述正確。單獨吞食一顆磁鐵的主要風險是腸胃道異物追蹤；沒有呼吸窘迫時不是發展成呼吸衰竭的高風險情境。",
       "summary": "兒童呼吸風險看會不會傷到或堵住氣道：鈕扣電池、氣切、發紺都危險；單一磁鐵主要是腸胃問題。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -122983,7 +123012,9 @@
       "D": "正確答案。附圖三格湊起來就是答案：胸部 X 光肺野清晰（喘不是因為肺實質）、心電圖是規則的窄複合波心搏過速（對應 HR 141/min）、顯影電腦斷層可見**中央肺動脈擴大且管腔內有低密度充盈缺損**。再加上 D-dimer 20 mg/L FEU，診斷是肺動脈栓塞（pulmonary embolism, PE）。NT Pro-BNP 2470 pg/mL 與 ALT 196 U/L 則反映右心室（RV）負荷過重與肝鬱血。",
       "summary": "喘＋心跳快＋D-dimer 極高，但肺野乾淨＝把答案往肺血管找，用顯影電腦斷層看充盈缺損。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124453,7 +124484,9 @@
       "D": "本項不選。肺高壓讓心輸出量的儲備變差，典型表現就是逐漸加重的活動性呼吸困難。",
       "summary": "慢性呼吸困難要從三個層面找：胸廓（脊柱側彎）、幫浦（神經肌肉）、血管（肺高壓）；小的良性結節不在其中。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "dyspnea-approach"
+      ]
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126215,7 +126248,8 @@
       "summary": "新生兒突然一側呼吸音變弱又發紺，先想 pneumothorax；左側疝氣才會配凹陷腹部。",
       "guideline": null,
       "concepts": [
-        "neonatal-respiratory-distress-resuscitation"
+        "neonatal-respiratory-distress-resuscitation",
+        "dyspnea-approach"
       ]
     },
     "source": "115020/302_0104",
