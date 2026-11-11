@@ -6602,11 +6602,11 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Mathes–Nahai 第一型（type I）只有一條 dominant vascular pedicle；血管蒂明確，像 tensor fasciae latae，因此可據此設計游離肌肉皮瓣。",
-      "B": "本項不選。Mathes–Nahai 第二型（type II）有一條 dominant pedicle 加數條 minor pedicles；以 dominant pedicle 作吻合即可移植，gracilis 與 soleus 是典型例子。",
-      "C": "本項不選。Mathes–Nahai 第三型（type III）有兩條 dominant pedicles，任一條通常可供應足夠肌肉範圍；gluteus maximus、rectus abdominis 屬此型，可依缺損選擇血管蒂。",
-      "D": "正確。Mathes–Nahai 第四型（type IV）僅有多條 segmental pedicles，缺乏可單獨供應整塊肌肉的 dominant pedicle；每條血管蒂口徑與供應區有限，較不適合作顯微游離移植。",
-      "summary": "Mathes–Nahai 肌肉血流分類中，第四型只有多條節段血管蒂，最不利於整塊肌肉游離移植。",
+      "A": "本項不選。第一型只有一條主要血管蒂（dominant pedicle），例如闊筋膜張肌。血管明確，接一條就能養活整塊，適合游離移植。",
+      "B": "本項不選。第二型是一條主要血管蒂加幾條次要的，例如股薄肌、比目魚肌。接主要那條就夠，是游離皮瓣常客。",
+      "C": "本項不選。第三型有兩條主要血管蒂，例如臀大肌、腹直肌。任一條通常就能供應足夠範圍，可依缺損挑一條接。",
+      "D": "本項應選。第四型只有多條節段性血管蒂，沒有一條能單獨養活整塊肌肉。每條口徑小、供應範圍有限，所以最不適合做顯微游離移植。",
+      "summary": "游離皮瓣要靠一條血管養整塊肌肉；Mathes–Nahai 第四型只有節段血管，最不適合。",
       "guideline": null,
       "concepts": [
         "mathes-nahai-muscle-flap-classification"
@@ -7383,11 +7383,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。食道胃靜脈曲張（esophagogastric varices）來自門靜脈系與 azygos/systemic venous system 的側枝循環，是門靜脈高壓最具臨床重要性的表現之一。",
-      "B": "正確。精索靜脈曲張（varicocele）多因 gonadal venous drainage 異常或靜脈瓣功能不全，左側也受左腎靜脈解剖影響；它不是典型門體側枝循環。",
-      "C": "本項不選。上腹壁靜脈擴張可由 paraumbilical veins 與腹壁 systemic veins 形成門體側枝，嚴重時呈海蛇頭（caput medusae），與門靜脈高壓相關。",
-      "D": "本項不選。痔瘡靜脈叢曲張（hemorrhoidal venous plexus）所涉直腸上靜脈屬 portal circulation，與 middle/inferior rectal systemic veins 可形成側枝；門靜脈高壓可造成 anorectal varices，但它與一般痔瘡（hemorrhoids）並非完全同義。",
-      "summary": "門靜脈高壓的典型側枝位於食道胃、臍周及直腸；varicocele 屬 gonadal venous drainage 問題。",
+      "A": "本項不選。食道胃靜脈曲張是門靜脈系統繞道到奇靜脈的側枝，也是門靜脈高壓最危險的表現。",
+      "B": "本項應選。精索靜脈曲張來自精索靜脈回流異常或瓣膜功能不全，左側還受左腎靜脈走向影響，不是門體側枝。",
+      "C": "本項不選。臍旁靜脈連到腹壁的體循環靜脈，門靜脈高壓時會擴張，嚴重時就是海蛇頭（caput medusae）。",
+      "D": "本項不選。直腸上靜脈屬門靜脈系統，和直腸中、下靜脈（體循環）相通，所以門靜脈高壓可造成肛門直腸靜脈曲張。要注意它和一般痔瘡不完全是同一回事。",
+      "summary": "門體側枝三個位置：食道胃、臍周、直腸；精索靜脈曲張不在其中。",
       "guideline": "FC 醫學(五)第3冊 p.108",
       "concepts": [
         "portal-hypertension-cirrhosis"
@@ -8051,11 +8051,11 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "正確答案。全腹膜外腹股溝疝氣修補術（total extraperitoneal inguinal hernia repair）應辨認並保護 lateral femoral cutaneous nerve 等神經；結紮神經側枝不是建立 preperitoneal space 或放置 mesh 的必要步驟，反而可能造成術後感覺異常或神經痛。",
-      "B": "本項不選。疝囊復位或依型態處理是 TEP 的核心步驟之一；間接疝需將 peritoneal sac 與 spermatic cord structures 分離並還納，使 mesh 能平整覆蓋 myopectineal orifice。",
-      "C": "本項不選。暴露恥骨與 Cooper ligament 可確認內側解剖界標並建立足夠的 mesh 覆蓋範圍；操作是分離周圍 preperitoneal tissue，不是切斷韌帶本身。",
-      "D": "本項不選。外側 preperitoneal dissection 須充分延伸，使 mesh 能覆蓋 indirect space 與 lateral recurrence zone；接近 anterior superior iliac spine 的描述用來強調外側剝離範圍。",
-      "summary": "TEP repair 要復位疝囊並充分顯露 Cooper ligament 與外側 preperitoneal space；神經應保護，不需結紮 lateral femoral cutaneous nerve。",
+      "A": "本項應選。全腹膜外疝氣修補（TEP）要辨認並保護股外側皮神經，不是把它結紮。結紮不是放網片所需的步驟，反而可能造成術後麻木或神經痛。",
+      "B": "本項不選。把疝囊從精索結構分開並還納，網片才能平整蓋住整個肌恥骨孔，這是 TEP 的核心步驟。",
+      "C": "本項不選。暴露恥骨與 Cooper 韌帶是確認內側界標、讓網片蓋得夠大；分離的是周圍組織，不是切斷韌帶。",
+      "D": "本項不選。外側要剝得夠遠，網片才能蓋住間接疝的位置，避免外側復發；往髂前上棘方向就是在描述這個範圍。",
+      "summary": "TEP：還納疝囊、露出 Cooper 韌帶、外側剝夠遠；神經是要保護，不是結紮。",
       "guideline": null,
       "concepts": [
         "abdominal-wall-inguinal-hernia"
@@ -8133,11 +8133,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。病人意識不清且進入嚴重休克，無法可靠保護 airway；依 ABC 優先建立 definitive airway 並給氧是適當處置，但插管同時必須避免延誤止血。",
-      "B": "本項不選。刀傷後突然 hypotension、tachycardia 與意識惡化代表持續大量內出血，復甦只能爭取時間；應立即啟動手術或適當的 definitive hemorrhage control。",
-      "C": "本項應選。不適當。未控制出血的穿透傷不應用大量 crystalloid 與 vasopressor 強拉 systolic BP 至 120 mmHg，因可能沖掉血塊、增加出血與稀釋凝血因子；應以血液製品復甦並採 permissive hypotension，除非合併嚴重 traumatic brain injury 等例外。",
-      "D": "本項不選。嚴重創傷復甦應優先使用血液製品；需要 crystalloid 時可用 lactated Ringer’s 或 normal saline，但須限制大量使用，避免 dilutional coagulopathy、hypothermia 與 hyperchloremic acidosis。",
-      "summary": "未止血的 hemorrhagic shock 以 airway、平衡輸血與立即止血為主，不應用升壓劑把 SBP 強推至 120 mmHg。",
+      "A": "本項不選。病人意識不清又重度休克，無法自己保護呼吸道，插管是適當的；但要同時進行，不能因此延誤止血。",
+      "B": "本項不選。刀傷後突然低血壓、心跳快、意識變差，代表持續大量內出血。復甦只是爭取時間，必須立刻手術止血。",
+      "C": "本項應選。出血還沒控制時，不能用升壓劑硬把收縮壓推到 120 mmHg。壓力一高會沖掉血塊、出更多血，還會稀釋凝血因子；應以血品復甦並接受較低血壓（permissive hypotension），合併嚴重腦外傷時例外。",
+      "D": "本項不選。嚴重創傷優先用血品；需要晶體液時用乳酸林格或生理食鹽水，但要限制量，避免稀釋性凝血異常、低體溫與高氯酸中毒。",
+      "summary": "出血沒止住前不要把血壓拉高：插管、輸血、趕快止血，接受較低的血壓。",
       "guideline": "FC 醫學(五)第1冊 p.41",
       "concepts": [
         "trauma-triage-thoracoabdominal"
@@ -8731,11 +8731,11 @@
       "book": "FC醫(五)(5)(泌尿外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第五冊_泌尿外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。庫欣氏症候群（Cushing syndrome）來自 cortisol 過多；ACTH-dependent 的雙側腎上腺皮質增生是常見機轉，但病因仍須依 ACTH 與影像進一步分類。",
-      "B": "錯誤。雙側腎上腺切除會失去 endogenous cortisol 與 aldosterone 來源，術後需要終身 glucocorticoid，通常也需 mineralocorticoid replacement。",
-      "C": "本項不選。mitotane 具有 adrenolytic 作用，可用於無法切除或轉移性腎上腺皮質癌（adrenocortical carcinoma），治療中須監測內分泌缺乏與藥物毒性。",
-      "D": "本項不選。Cortisol 過多會造成中央型肥胖、胰島素阻抗與高血壓，亦常伴皮膚變薄、紫紋和近端肌無力。",
-      "summary": "雙側 adrenalectomy 後會形成永久性腎上腺皮質功能不足，必須補充類固醇。",
+      "A": "本項不選。庫欣氏症候群來自 cortisol 過多；ACTH 依賴型造成的雙側腎上腺增生是常見機轉，病因仍要用 ACTH 與影像分類。",
+      "B": "本項應選。兩邊腎上腺都切掉，就沒有自己的 cortisol 與 aldosterone 了。術後要終身補充糖皮質素，通常也要補礦物皮質素。",
+      "C": "本項不選。Mitotane 能破壞腎上腺皮質，用於無法切除或已轉移的腎上腺皮質癌，治療中要監測內分泌不足與藥物毒性。",
+      "D": "本項不選。Cortisol 過多會造成中央型肥胖、胰島素阻抗與高血壓，也常見皮膚變薄、紫紋、近端肌無力。",
+      "summary": "雙側腎上腺切除＝永久腎上腺功能不足，類固醇要補一輩子。",
       "guideline": "FC 醫學(五)第5冊 p.198",
       "concepts": [
         "urothelial-renal-penile-tumors"
@@ -9145,11 +9145,11 @@
       "book": "FC醫(五)(6)(骨科)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第六冊_骨科.pdf"
     },
     "explanation": {
-      "A": "正確。後頸痛加雙手麻木提示 cervical spine injury；創傷初始處置在評估 airway 時即需限制頸椎活動，先以合適頸圈與 manual in-line stabilization 保護，再完成後續影像與神經學評估。",
-      "B": "本項不選。腹部大片瘀青提示 intra-abdominal injury，之後需依 hemodynamic stability 選 FAST 或 CT；但在完成 primary survey 與頸椎保護前，不應先送腹部 CT。",
-      "C": "本項不選。右大腿撕裂傷滲血應以直接加壓控制，但題幹未描述 massive external hemorrhage；相較之下雙手麻木與後頸痛提示不當移動可能造成不可逆 spinal cord injury。",
-      "D": "本項不選。變形右小腿應做 neurovascular examination、復位或 splint immobilization，但屬 primary survey 後的肢體處置；不能先於疑似 cervical spine injury 的立即保護。",
-      "summary": "多發創傷仍按 ABCDE：疑似 cervical spine injury 時，airway assessment 同步先做頸椎活動限制。",
+      "A": "本項應選。後頸痛加雙手麻木，代表可能有頸椎損傷。創傷處置在評估呼吸道時就要同步固定頸椎，先上頸圈與手動保持頸部中立，再做影像。",
+      "B": "本項不選。上腹大片瘀青確實要懷疑腹內傷，之後依血行動力選 FAST 或 CT。但初步評估與頸椎保護還沒做完，不能先送 CT。",
+      "C": "本項不選。大腿撕裂傷滲血要加壓，但題目不是大量外出血。相比之下，頸椎不固定一動就可能造成不可逆的脊髓損傷。",
+      "D": "本項不選。變形的小腿要檢查神經血管、上副木，但這是初步評估之後的肢體處置。",
+      "summary": "多發創傷照 ABCDE 走；後頸痛加手麻，先上頸圈再說。",
       "guideline": "FC 醫學(五)第6冊 p.49",
       "concepts": [
         "trauma-primary-survey-abcde"
@@ -9528,11 +9528,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Remifentanil 的 ester linkage 由血液與組織中的非特異性 esterases 快速水解；代謝不依賴肝腎清除，因此器官功能不全時其超短作用特性仍大致保留。",
-      "B": "本項不選。Remifentanil 的 context-sensitive half-time 約數分鐘且幾乎不隨輸注時間延長，停止輸注後效應迅速消退；題目所述不到 10 分鐘符合其臨床快速終止特性。",
-      "C": "本項不選。相較 fentanyl 等脂溶性 opioid，remifentanil 不會因長時間輸注而明顯堆積於脂肪與周邊 compartment，適合需要快速調整與甦醒的麻醉。",
-      "D": "錯誤。Remifentanil 由非特異性血液與組織 esterases 代謝，不仰賴 plasma pseudocholinesterase；pseudocholinesterase 缺乏會延長 succinylcholine 或 mivacurium 作用，並非 remifentanil 禁忌。",
-      "summary": "Remifentanil 的核心特色是非特異性 esterase 代謝、幾乎不累積；pseudocholinesterase 缺乏不會阻止使用。",
+      "A": "本項不選。Remifentanil 有酯鍵，被血液與組織中的非特異性 esterase 快速水解，不靠肝腎，所以器官衰竭時仍然短效。",
+      "B": "本項不選。它的作用時間只有數分鐘，而且幾乎不隨輸注時間變長，停藥後很快退掉，「不到 10 分鐘」說法成立。",
+      "C": "本項不選。不像 fentanyl 這類脂溶性鴉片會長時間輸注後囤在脂肪，remifentanil 幾乎不累積，適合需要快速甦醒的麻醉。",
+      "D": "本項應選。分解它的是非特異性 esterase，不是血漿 pseudocholinesterase。後者缺乏會延長 succinylcholine 或 mivacurium，和 remifentanil 無關。",
+      "summary": "Remifentanil 被非特異性 esterase 分解、不累積；pseudocholinesterase 缺乏影響的是 succinylcholine。",
       "guideline": "FC 醫學(六)第4冊 p.142",
       "concepts": [
         "opioids-inhaled-anesthetics"
@@ -9682,11 +9682,11 @@
     "specialty": "麻醉科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Dopamine 的心律不整風險高，且不同劑量下 receptor effect 難以精準預測；目前不作一般敗血性休克（septic shock）的第一線升壓劑，只在特定低心律不整風險且 bradyarrhythmia 情境考慮。",
-      "B": "本項不選。Epinephrine 可在 norepinephrine 仍無法維持灌流時加用，也可用於合併明顯心肌功能障礙者；但較易造成 tachyarrhythmia、乳酸上升與代謝效應，通常不是第一優先。",
-      "C": "正確。Norepinephrine 以 α1 vasoconstriction 提升 systemic vascular resistance，並具有限 β1 支持；在適當輸液後仍低血壓的 septic shock 是第一線 vasopressor。",
-      "D": "本項不選。Vasopressin 常以固定低劑量加在 norepinephrine 上，藉 V1 receptor 增加血管張力並降低 catecholamine 需求；通常是 adjunct，而非起始單藥。",
-      "summary": "敗血性休克第一線 vasopressor 是 norepinephrine；vasopressin 或 epinephrine 多在反應不足時加用。",
+      "A": "本項不選。Dopamine 心律不整風險高，不同劑量作用的受體也難預測，目前不是第一線；只在心律不整風險低、合併心搏過慢時考慮。",
+      "B": "本項不選。Epinephrine 用在 norepinephrine 仍維持不住、或合併明顯心肌功能差時。它容易造成心搏過速與乳酸上升，通常不是第一優先。",
+      "C": "本項應選。Norepinephrine 主要收縮血管、提高周邊阻力，還有一點強心作用。輸液足夠後仍低血壓的敗血性休克，第一線就是它。",
+      "D": "本項不選。Vasopressin 常以固定低劑量加在 norepinephrine 上，用來減少兒茶酚胺用量，是輔助而不是起始單藥。",
+      "summary": "敗血性休克輸完液還低血壓，先上 norepinephrine；vasopressin、epinephrine 是後援。",
       "guideline": null,
       "concepts": [
         "sepsis-septic-shock-management"
@@ -10002,11 +10002,11 @@
       "book": "FC醫(六)(2)(眼科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第二冊_眼科.pdf"
     },
     "explanation": {
-      "A": "本項不選。眼外肌活動受阻常來自 thyroid eye disease 的 extraocular muscle enlargement 與 fibrosis，以 inferior rectus 最常受累；這是重要表現但不如 lid retraction 常見。",
-      "B": "本項不選。眼球突出（proptosis）源於眼外肌與 orbital fat 增大，可為雙側不對稱；嚴重時造成暴露性角膜病變，但不是最常見的示病徵候。",
-      "C": "本項不選。眼瞼下垂（ptosis）不是 thyroid eye disease 的典型徵候；若出現 ptosis 應另想 MG、第三腦神經麻痺或其他眼瞼提肌問題。",
-      "D": "本項應選。眼瞼退縮（lid retraction）是 thyroid eye disease 最常見且最具特徵性的徵候，造成上方 scleral show，並可伴 lid lag。",
-      "summary": "Thyroid eye disease 最典型且最常見是 lid retraction；proptosis、restrictive myopathy 及 exposure keratopathy 則反映眼眶組織受累。",
+      "A": "本項不選。眼外肌腫大、纖維化會限制眼球活動，下直肌最常受累。這是重要表現，但沒有眼瞼退縮常見。",
+      "B": "本項不選。眼球突出是最容易聯想的答案，來自眼外肌與眼眶脂肪變大，嚴重時造成暴露性角膜病變。但最常見、最具特徵的不是它。",
+      "C": "本項不選。眼瞼下垂不是甲狀腺眼疾的表現；看到下垂要想重症肌無力或第三對腦神經麻痺。",
+      "D": "本項應選。眼瞼退縮最常見也最具特徵性，上方會露出鞏膜，往下看時上眼瞼跟不上（lid lag）。",
+      "summary": "甲狀腺眼疾最常見的是眼瞼退縮，不是眼球突出；看到下垂要改想肌無力。",
       "guideline": "FC 醫學(六)第2冊 p.210",
       "concepts": []
     },
@@ -10041,11 +10041,11 @@
       "book": "FC醫(六)(2)(眼科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第二冊_眼科.pdf"
     },
     "explanation": {
-      "A": "本項不選。眼瞼裂狹小症候群（blepharophimosis-ptosis-epicanthus inversus syndrome）常有重度 congenital ptosis，levator function 差，可能遮蔽視軸並造成 amblyopia。",
-      "B": "本項不選。Telecanthus 是兩內眥間距增加、但瞳孔間距可正常，與 blepharophimosis 的水平眼裂縮短及內眥異常共同出現。",
-      "C": "本項應選。眼瞼內翻（entropion）不是 blepharophimosis syndrome 的核心四聯徵；典型眼瞼位置異常是 ptosis，而非睫毛向內摩擦角膜。",
-      "D": "本項不選。Epicanthus inversus 是下眼瞼內側皮膚皺褶向上延伸，與一般由上向下的 epicanthal fold 方向相反，是此症候群命名特徵。",
-      "summary": "Blepharophimosis syndrome 的核心為 blepharophimosis、ptosis、telecanthus 與 epicanthus inversus；entropion 不在典型組合內。",
+      "A": "本項不選。這個症候群常有嚴重的先天性眼瞼下垂，提眼瞼肌功能差，可能擋住視軸造成弱視。",
+      "B": "本項不選。眥距過寬是兩眼內眥距離變大，但瞳孔間距可以正常，是典型特徵之一。",
+      "C": "本項應選。眼瞼內翻不在典型四聯徵裡；這個症候群的眼瞼問題是下垂，不是睫毛往內刺角膜。",
+      "D": "本項不選。反向內眥贅皮是從下眼瞼內側往上延伸的皮膚皺褶，方向和一般的相反，也是病名的一部分。",
+      "summary": "BPES 名字就是答案：眼裂狹小、下垂、反向內眥贅皮，加上眥距過寬；沒有內翻。",
       "guideline": "FC 醫學(六)第2冊 p.28",
       "concepts": []
     },
@@ -10849,11 +10849,11 @@
       "book": "FC醫(六)(1上)(產科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(上)冊_產科.pdf"
     },
     "explanation": {
-      "A": "本項不選。子宮頸薄化（effacement）是 Bishop score 五項之一；子宮頸越薄，代表成熟度越佳，分數越高。",
-      "B": "本項不選。子宮頸軟硬度（consistency）屬 Bishop score，依 firm、medium、soft 評估；較軟的子宮頸較有利引產。",
-      "C": "本項應選。待產時間長短（labour course length）是產程結果而非引產前的子宮頸成熟指標，不納入 Bishop score。",
-      "D": "本項不選。胎頭高低（station）描述 presenting part 相對 ischial spines 的位置，是 Bishop score 的五項指標之一。",
-      "summary": "Bishop score 五項為 dilation、effacement、station、consistency、position，不包含待產時間。",
+      "A": "本項不選。子宮頸薄化是 Bishop score 的一項，越薄分數越高。",
+      "B": "本項不選。子宮頸軟硬度依硬、中、軟評分，越軟越有利引產。",
+      "C": "本項應選。Bishop score 是引產前評估子宮頸成熟度，待產時間是產程的結果，不是評分項目。",
+      "D": "本項不選。胎頭高低是先露部位相對坐骨棘的位置，也是五項之一。",
+      "summary": "Bishop score 五項：擴張、薄化、胎頭高低、軟硬、位置；全都是內診摸得到的東西。",
       "guideline": "FC 醫學(六)第1上冊 p.116",
       "concepts": [
         "bishop-score"
@@ -16052,11 +16052,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。急性白血病可造成貧血與血小板低下，但血抹片更常找 blasts，不能直接解釋破碎紅血球與嚴重急性腎損傷。",
-      "B": "這題不選。ITP 是孤立性血小板低下，通常沒有 microangiopathic hemolytic anemia 或腎衰竭。",
-      "C": "正確。溶血性尿毒症候群（hemolytic uremic syndrome）以 microangiopathic hemolytic anemia、thrombocytopenia 與 acute kidney injury 三聯徵為核心；schistocytes 就是血管內剪碎的紅血球。",
-      "D": "這題不選。Evans syndrome 是免疫性溶血性貧血合併 ITP，抹片不以 schistocytes 為典型，也較難解釋如此嚴重的腎衰竭。",
-      "summary": "貧血、血小板低、腎衰竭再看到 schistocytes，就是 HUS 的三聯徵。",
+      "A": "本項不選。白血病會貧血、血小板低，但抹片會找芽細胞，解釋不了破碎紅血球與嚴重急性腎損傷。",
+      "B": "本項不選。原發性血小板低下只有血小板低，沒有血管內溶血，也不會腎衰竭。",
+      "C": "本項應選。溶血性尿毒症候群的三聯徵是微血管病性溶血性貧血、血小板低下與急性腎損傷。抹片上的破碎紅血球（schistocytes），就是紅血球在受損小血管中被剪碎的證據。",
+      "D": "本項不選。Evans 症候群是自體免疫溶血加血小板低下，抹片不以破碎紅血球為主，也很難解釋這麼嚴重的腎衰竭。",
+      "summary": "貧血、血小板低、腎衰竭三個一起出現，抹片又有破碎紅血球，就是 HUS。",
       "guideline": "FC 醫學(四)第1冊 p.464"
     },
     "source": "110080/302_22",
@@ -16320,11 +16320,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。生殖細胞瘤若分泌 hCG 可造成周邊性性早熟，但通常不是 GnRH stimulation 後 LH、FSH 明顯升高的中樞型反應。",
-      "B": "正確。八歲男童已有睪丸增大、testosterone 升高，且 GnRH test 顯示腦下垂體 gonadotropins 被活化，符合中樞性性早熟（central precocious puberty）。",
-      "C": "這題不選。premature adrenarche 主要是腎上腺 androgen 增加，會有陰毛或體味，但不會讓兩側睪丸長大與 LH 軸活化。",
-      "D": "這題不選。macroorchidism 指睪丸異常偏大本身，不足以解釋 gonadotropin 與 testosterone 的青春期型態。",
-      "summary": "男童性早熟先看睪丸：兩側增大加 GnRH 後 LH 升高，表示中樞軸已啟動。",
+      "A": "本項不選。分泌 hCG 的生殖細胞瘤會造成周邊性性早熟，因為是腫瘤直接刺激睪丸，LH、FSH 不會在 GnRH 刺激後明顯上升。",
+      "B": "本項應選。8 歲男童兩側睪丸已增大、testosterone 上升，GnRH 刺激後 LH、FSH 也被叫起來，表示下視丘—腦下垂體軸提早啟動，就是中樞性性早熟。",
+      "C": "本項不選。腎上腺早熟是腎上腺雄性素增加，只會長陰毛或有體味，不會讓兩側睪丸變大，也不會活化 LH 軸。",
+      "D": "本項不選。巨大睪丸只是在描述睪丸偏大，解釋不了青春期型態的荷爾蒙變化。",
+      "summary": "男童性早熟先摸睪丸：兩側變大加上 GnRH 後 LH 升高，就是中樞性。",
       "guideline": "FC 醫學(四)第1冊 p.393"
     },
     "source": "110080/302_22",
@@ -16516,11 +16516,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。CBC 可確認血小板數、貧血或白血病線索，是不明瘀青的基本初篩。",
-      "B": "這題要選。platelet function studies 屬第二線檢查，通常在 CBC、PT、aPTT 正常但仍高度懷疑出血體質時才安排。",
-      "C": "這題不選。PT 篩檢 extrinsic 與 common pathway，延長時可提示 factor VII、維生素 K 缺乏或肝病。",
-      "D": "這題不選。aPTT 篩檢 intrinsic 與 common pathway，對 hemophilia 或 von Willebrand disease 的初步鑑別有幫助。",
-      "summary": "小孩容易瘀青先做 CBC、PT、aPTT；血小板功能是第一輪結果不能解釋時再往下查。",
+      "A": "本項不選。CBC 可以看血小板數、有無貧血或白血病線索，是不明瘀青的基本初篩。",
+      "B": "本項應選。血小板功能檢查是第二線；通常 CBC、PT、aPTT 都正常但仍懷疑出血體質時才做。",
+      "C": "本項不選。PT 篩外在與共同路徑，延長時想 factor VII 缺乏、維生素 K 缺乏或肝病。",
+      "D": "本項不選。aPTT 篩內在與共同路徑，對血友病或類血友病的初步鑑別很有幫助。",
+      "summary": "小孩容易瘀青，第一輪做 CBC、PT、aPTT；解釋不了才查血小板功能。",
       "guideline": "FC 醫學(四)第1冊 p.465",
       "concepts": [
         "coagulation-test-patterns"
@@ -16557,11 +16557,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。Vincristine 的代表毒性是周邊神經病變、腸麻痺與 SIADH，不是累積性 cardiomyopathy。",
-      "B": "這題不選。Methotrexate 常見黏膜炎、肝毒性與高劑量時腎毒性；需用 leucovorin rescue 降低部分毒性。",
-      "C": "這題不選。L-asparaginase 會造成 pancreatitis、血栓與過敏反應，因它影響蛋白質合成與凝血因子。",
-      "D": "正確。Doxorubicin 是 anthracycline，累積劑量會產生自由基傷害心肌，造成不可逆 dilated cardiomyopathy。",
-      "summary": "ALL 化療毒性要把 anthracycline 的 doxorubicin 連到累積性心肌病變。",
+      "A": "本項不選。Vincristine 的代表毒性是周邊神經病變、腸麻痺與 SIADH。",
+      "B": "本項不選。Methotrexate 常見黏膜炎、肝毒性，高劑量時傷腎，要用 leucovorin 解救。",
+      "C": "本項不選。L-asparaginase 影響蛋白質合成與凝血因子，代表毒性是胰臟炎、血栓與過敏。",
+      "D": "本項應選。Doxorubicin 屬於 anthracycline，累積劑量會產生自由基傷害心肌，造成不可逆的擴張性心肌病變。",
+      "summary": "ALL 化療看到心肌病變就想 doxorubicin；vincristine 傷神經、asparaginase 傷胰臟。",
       "guideline": "FC 醫學(四)第1冊 p.480",
       "concepts": [
         "leukemia-mpn-genetics"
@@ -16598,11 +16598,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。Wilms tumor 是腎臟腫瘤，常見無痛腹部腫塊、血尿或高血壓，和 opsoclonus-myoclonus-ataxia 的副腫瘤表現不典型。",
-      "B": "正確。神經母細胞瘤（neuroblastoma）可引起 opsoclonus-myoclonus-ataxia syndrome，這是腫瘤相關免疫反應造成的眼球亂跳、肌陣攣與共濟失調。",
-      "C": "這題不選。germ cell tumor 可依部位分泌 AFP 或 hCG，但不是這個神經副腫瘤症候群最經典的腹部腫瘤。",
-      "D": "這題不選。rhabdomyosarcoma 常見於頭頸、泌尿生殖道或肢體軟組織，較不會造成 opsoclonus-myoclonus-ataxia。",
-      "summary": "幼兒腹部腫瘤加眼陣攣、肌陣攣、共濟失調，是 neuroblastoma 的經典副腫瘤線索。",
+      "A": "本項不選。Wilms 腫瘤是腎臟腫瘤，常見無痛腹部腫塊、血尿或高血壓，不會造成這個神經副腫瘤症候群。",
+      "B": "本項應選。神經母細胞瘤會引發免疫反應攻擊神經，造成眼球亂跳、肌肉抽動與走路不穩，就是眼陣攣—肌陣攣—共濟失調症候群。",
+      "C": "本項不選。生殖細胞瘤依位置會分泌 AFP 或 hCG，但不是這個症候群的經典腫瘤。",
+      "D": "本項不選。橫紋肌肉瘤多在頭頸、泌尿生殖道或四肢軟組織，較不會造成這個症候群。",
+      "summary": "幼兒腹部腫瘤加上眼睛亂跳、肌陣攣、走不穩，就是 neuroblastoma。",
       "guideline": "FC 醫學(四)第1冊 p.498"
     },
     "source": "110080/302_22",
@@ -16636,11 +16636,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題要選。單純 secundum ASD 的左向右分流通常造成固定分裂 S2 與收縮期流量雜音，明顯 thrill 並不常見；摸到 thrill 要另想較大壓差病灶。",
-      "B": "這題不選。sinus venosus ASD 常與 partial anomalous pulmonary venous return 共存，因缺損位置靠近肺靜脈回流處。",
-      "C": "這題不選。未處理 ASD 長期右心房擴張，成年後會增加 atrial flutter 或 atrial fibrillation 等心房心律不整。",
-      "D": "這題不選。多數有合適邊緣的 secundum ASD 可用 catheter device occlusion 關閉，並非都需開心手術。",
-      "summary": "ASD 聽診是固定分裂 S2，不是 thrill；sinus venosus 型要聯想異常肺靜脈回流。",
+      "A": "本項應選。單純第二型 ASD 的分流壓差小，典型是固定分裂的第二心音加收縮期流量雜音，很少摸得到震顫。摸到震顫要另想壓差大的病灶。",
+      "B": "本項不選。靜脈竇型缺損的位置靠近肺靜脈回流處，所以常合併部分肺靜脈回流異常。",
+      "C": "本項不選。不處理的 ASD 讓右心房長期擴大，成年後心房撲動、心房顫動都會增加。",
+      "D": "本項不選。多數邊緣足夠的第二型 ASD 可以用心導管放置關閉器，不一定要開心。",
+      "summary": "ASD 聽的是固定分裂 S2，不是摸 thrill；靜脈竇型記得找異常肺靜脈。",
       "guideline": "FC 醫學(四)第1冊 p.38",
       "concepts": [
         "acyanotic-shunt-lesions"
@@ -16787,11 +16787,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。苯酮尿症（phenylketonuria）常在出生後逐漸出現發展問題與霉味，不典型造成出生第七天的 ketotic metabolic acidosis。",
-      "B": "這題不選。MCAD deficiency 的危象通常是 fasting 後 hypoketotic hypoglycemia，尿 ketones 不會明顯陽性。",
-      "C": "這題不選。glutaric aciduria type I 可有 macrocephaly 與 dystonia，氣味和高鉀代謝性酸中毒不是其典型辨識組合。",
-      "D": "正確。異戊酸血症（isovaleric acidemia）會累積 isovaleric acid，造成臭腳味、餵食差、代謝性酸中毒、ketosis 與可能高血氨。",
-      "summary": "新生兒代謝性酸中毒又有臭腳味，要想到 isovaleric acidemia；MCAD 反而是低酮性低血糖。",
+      "A": "本項不選。苯酮尿症是慢慢出現發展遲緩與霉味，不會在第七天就造成酮酸性代謝性酸中毒。",
+      "B": "本項不選。MCAD 缺乏的危象是空腹後低血糖，而且是「低酮性」，尿酮不會明顯陽性。",
+      "C": "本項不選。戊二酸尿症第一型的線索是大頭與肌張力不全，不是臭腳味加高鉀酸中毒。",
+      "D": "本項應選。異戊酸血症讓 isovaleric acid 累積，聞起來像臭腳，還會餵食差、代謝性酸中毒、尿酮陽性，甚至高血氨。",
+      "summary": "新生兒酸中毒加臭腳味就是異戊酸血症；MCAD 反而是低酮性低血糖。",
       "guideline": "FC 醫學(四)第1冊 p.516"
     },
     "source": "110080/302_22",
@@ -16825,11 +16825,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。DiGeorge syndrome 最常見遺傳異常是 22q11.2 microdeletion，會影響咽囊相關構造發育。",
-      "B": "這題不選。velopharyngeal incompetence 可造成鼻音重與餵食困難，是 DiGeorge syndrome 的腭咽表現之一。",
-      "C": "這題不選。胸腺發育不全會造成 T-cell deficiency，容易感染某些病毒、真菌或 opportunistic pathogens。",
-      "D": "這題要選。副甲狀腺發育不全會讓 PTH 降低，造成 hypocalcemia，可能引發新生兒抽搐；不是高血鈣。",
-      "summary": "22q11.2 deletion 要把 CATCH 連起來：心臟、異常臉、胸腺低、腭裂、低血鈣。",
+      "A": "本項不選。最常見的原因是 22q11.2 微小缺失，影響咽囊衍生構造的發育。",
+      "B": "本項不選。腭咽閉鎖不全會造成鼻音重與餵食困難，是常見表現之一。",
+      "C": "本項不選。胸腺發育不全造成 T 細胞缺乏，容易受病毒、黴菌與伺機性病原感染。",
+      "D": "本項應選。副甲狀腺也發育不全，PTH 低，所以是低血鈣，新生兒可能抽搐，不是高血鈣。",
+      "summary": "22q11.2 記 CATCH-22：心臟、怪臉、胸腺小、腭裂、低血鈣。",
       "guideline": "FC 醫學(四)第1冊 p.539"
     },
     "source": "110080/302_22",
@@ -17265,11 +17265,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。腦中風（stroke） 後 immobility、dysphagia 與失能可造成 joint contracture、UTI、aspiration pneumonia 與 pressure injury，這些都是常見可預防併發症。",
-      "B": "本項不選。早期、跨專業 rehabilitation 可改善 mobility、swallowing 與日常功能，並降低 contracture、跌倒及臥床相關問題。",
-      "C": "本項不選。急性期 consciousness impairment 會削弱 airway protection 與 cough reflex，吞嚥障礙也使 aspiration pneumonia 風險升高。",
-      "D": "最不恰當。Post-stroke depression 可接受 antidepressant 與心理社會治療；藥物並非「沒有幫助」，但須個別評估副作用與出血、跌倒風險。",
-      "summary": "腦中風復健能減少臥床與吞嚥相關併發症；中風後憂鬱也可治療。",
+      "A": "本項不選。中風後臥床、吞嚥困難與失能，會造成關節攣縮、泌尿道感染、吸入性肺炎與壓瘡，都是常見而且可預防的併發症。",
+      "B": "本項不選。早期跨專業復健能改善活動、吞嚥與日常功能，也減少攣縮、跌倒與臥床問題。",
+      "C": "本項不選。急性期意識不清，呼吸道保護與咳嗽反射變差，再加上吞嚥障礙，吸入性肺炎風險就高。",
+      "D": "本項應選。中風後憂鬱可以用抗憂鬱藥與心理社會治療，說「沒有幫助」是錯的；只是要評估副作用、出血與跌倒風險。",
+      "summary": "中風後憂鬱是可以治的；吸入性肺炎、攣縮、壓瘡靠復健預防。",
       "guideline": "FC 醫學(四)第4冊 p.91",
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
@@ -17306,11 +17306,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "錯誤。Ergotamine 不是 beta-adrenergic agonist；它對 serotonin、alpha-adrenergic 等受體有複雜 agonist/antagonist activity。",
-      "B": "本項不選。Ergotamine 可使 cranial 與 peripheral vessels 收縮，因此 coronary/peripheral vascular disease、妊娠等情況須避免。",
-      "C": "本項不選。Ergotamine 對 5-HT 受體（5-HT receptor）s、特別是 5-HT1 類受體具有親和力，這與其抑制 trigeminovascular transmission 及 vasoconstriction 有關。",
-      "D": "本項不選。Ergotamine 曾用於 acute migraine abortive therapy，但因副作用、藥物交互作用及 medication-overuse risk，現多非優先選擇。",
-      "summary": "Ergotamine 是具 serotonin receptor activity 的 vasoconstrictor，不是 beta-adrenergic agonist。",
+      "A": "本項應選。Ergotamine 不是乙型腎上腺素致效劑；它作用在血清素與甲型腎上腺素等受體，效果是收縮血管。",
+      "B": "本項不選。它會收縮頭部與周邊血管，所以冠心病、周邊血管病與懷孕都要避免。",
+      "C": "本項不選。它和血清素受體（尤其 5-HT1 類）有親和力，能抑制三叉神經血管的傳導，也和血管收縮有關。",
+      "D": "本項不選。它曾用於終止急性偏頭痛，但因副作用、交互作用與藥物過度使用風險，現在多不是首選。",
+      "summary": "Ergotamine 是作用在血清素受體的血管收縮劑，不是 beta agonist。",
       "guideline": "FC 醫學(四)第4冊 p.164",
       "concepts": [
         "primary-headache-types"
@@ -17342,11 +17342,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Valsalva、久站或 orthostatic hypotension 可降低 cerebral perfusion，屬 reflex/orthostatic syncope 的常見誘因，故優先考慮昏厥。",
-      "B": "最不適合。Diaphoresis、nausea、warmth 與 generalized weakness 是 vasovagal syncope 的典型 prodrome，不是優先指向 epileptic seizure。",
-      "C": "本項不選。Lateral tongue bite，尤其舌側咬傷，較支持 generalized tonic-clonic seizure；單純舌尖受傷則特異性較低。",
-      "D": "本項不選。短暫意識喪失後數秒至短時間迅速恢復、缺乏 postictal confusion，且伴 arrhythmia，較符合 cardiogenic syncope。",
-      "summary": "盜汗與倦怠是 vasovagal prodrome；舌側咬傷及明顯 postictal confusion 才較支持癲癇。",
+      "A": "本項不選。Valsalva、久站或姿勢性低血壓會讓腦部灌流下降，是反射性或姿勢性昏厥的常見誘因。",
+      "B": "本項應選。冒冷汗、噁心、發熱感與全身無力，是血管迷走性昏厥發生前的典型前兆，不是癲癇的線索。",
+      "C": "本項不選。舌頭側邊咬傷比較支持全身性僵直陣攣發作；只咬到舌尖的特異性較低。",
+      "D": "本項不選。意識喪失後幾秒內就恢復、沒有發作後混亂，又合併心律不整，比較像心因性昏厥。",
+      "summary": "冒汗、噁心、無力是昏厥前兆；舌側咬傷和醒後長時間混亂才像癲癇。",
       "guideline": null,
       "concepts": [
         "seizure-syncope-epilepsy-basics"
@@ -17383,11 +17383,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。青少年肌抽躍癲癇（juvenile myoclonic epilepsy） 常具 genetic predisposition，家族中可見 generalized epilepsy，但沒有家族史也不能排除。",
-      "B": "本項不選。青少年肌抽躍癲癇（juvenile myoclonic epilepsy） 的 EEG 常見 generalized 4–6 Hz polyspike-and-wave discharges，常由 sleep deprivation 或 photic stimulation 誘發。",
-      "C": "本項不選。清晨 myoclonic jerks、可能合併 generalized tonic-clonic seizure 與 absence seizure，是 juvenile myoclonic epilepsy 的典型組合。",
-      "D": "錯誤。青少年肌抽躍癲癇（juvenile myoclonic epilepsy） 是 genetic generalized epilepsy，不是 secondary generalized epilepsy；多數可由適當藥物控制，但常需長期治療。",
-      "summary": "清晨肌抽躍加 generalized tonic-clonic/absence seizure 與 4–6 Hz polyspike-wave，指向 genetic generalized 的 JME。",
+      "A": "本項不選。青少年肌抽躍癲癇有遺傳傾向，家族中可見全面性癲癇，但沒有家族史也不能排除。",
+      "B": "本項不選。典型腦波是全面性 4–6 Hz 多棘慢波，熬夜或閃光刺激容易誘發。",
+      "C": "本項不選。清晨肌抽躍（刷牙時甩掉杯子）、全身性僵直陣攣與短暫發呆，就是青少年肌抽躍癲癇的典型組合。",
+      "D": "本項應選。它是遺傳性全面性癲癇，不是次發性全面性；多數可以用藥控制，只是常需長期吃藥。",
+      "summary": "清晨甩東西加大發作與發呆，想 JME：遺傳性全面性、藥物多能控制。",
       "guideline": "FC 醫學(四)第1冊 p.334",
       "concepts": [
         "epilepsy-syndromes-aed"
@@ -17424,11 +17424,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。中腦病灶（midbrain lesion） 常見 oculomotor palsy、vertical gaze disturbance 或 contralateral weakness/tremor；題幹的 hoarseness 與 crossed face-body sensory loss 不合。",
-      "B": "本項不選。橋腦病灶（pons lesion） 可造成 gaze palsy、facial weakness 或 abducens findings，但 nucleus ambiguus 相關 hoarseness 與典型 crossed sensory pattern 更定位在 lateral medulla。",
-      "C": "正確。右臉與左肢感覺異常、hoarseness、ataxia、vertigo 與 vomiting 是 right lateral medullary syndrome，涉及 spinal trigeminal tract、spinothalamic tract、nucleus ambiguus 及 vestibular/inferior cerebellar pathways。",
-      "D": "本項不選。小腦病灶（cerebellar lesion） 可造成 gait ataxia、vertigo 與 vomiting，卻不能單獨解釋 hoarseness 及右臉左身的 crossed sensory loss。 因此「小腦（cerebellum）」不是最佳定位。",
-      "summary": "交叉性臉—身感覺缺損合併聲嘶、眩暈與共濟失調，定位為外側延髓。",
+      "A": "本項不選。中腦病灶常見動眼神經麻痺、垂直凝視障礙或對側無力與顫抖，解釋不了聲音沙啞與臉身交叉麻木。",
+      "B": "本項不選。橋腦病灶會有凝視麻痺、顏面無力或外展神經問題，但聲音沙啞來自疑核，要往延髓找。",
+      "C": "本項應選。右臉麻（三叉神經脊束）、左身麻（脊髓丘腦束）、聲音沙啞（疑核）、走不穩、眩暈嘔吐，就是右側外側延髓症候群。",
+      "D": "本項不選。小腦病灶可以造成步態不穩、眩暈與嘔吐，但無法解釋聲音沙啞與臉身交叉的感覺缺損。",
+      "summary": "臉和身體麻在不同邊，加上聲音沙啞，就定位在外側延髓。",
       "guideline": "FC 醫學(四)第4冊 p.23",
       "concepts": [
         "brainstem-localization-eye-movement"
