@@ -17507,11 +17507,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Huntington disease genetic testing 用於 chorea、psychiatric change 與家族史相符者；magnetic gait、urinary incontinence 與 ventriculomegaly 不需先做此檢查。",
-      "B": "正確。大量腦脊髓液放液試驗（large-volume lumbar tap test） 後客觀評估 gait，若改善可支持 idiopathic normal pressure hydrocephalus 並預測 CSF shunt 可能受益。",
-      "C": "本項不選。Levodopa trial 用於 suspected parkinsonism；題幹缺少 tremor/rigidity，且 ventriculomegaly 與 magnetic gait 更支持 normal pressure hydrocephalus。",
-      "D": "本項不選。氟化去氧葡萄糖正子攝影（FDG-PET） 可協助部分 neurodegenerative dementia pattern，但不能像 CSF tap test 一樣直接評估此病人對 CSF diversion 的反應。 因此本題不選正子斷層造影（positron emission tomography）。",
-      "summary": "常壓性水腦症的 magnetic gait、尿失禁、認知下降與 ventriculomegaly，下一步可做 large-volume tap test。",
+      "A": "本項不選。亨丁頓舞蹈症要有舞蹈症、精神變化與家族史才驗基因；黏地步態、尿失禁加腦室擴大不需要先做這個。",
+      "B": "本項應選。走路像黏在地上、尿失禁、記憶變差，加上腦室擴大，要懷疑常壓性水腦症。大量放腦脊髓液後再看步態，若明顯改善就支持診斷，也預測分流手術有效。",
+      "C": "本項不選。試 levodopa 是懷疑巴金森症時做的；本題沒有顫抖與僵直，影像也指向水腦。",
+      "D": "本項不選。FDG-PET 能協助判斷某些退化性失智，但無法像放液試驗一樣直接看病人對引流有沒有反應。",
+      "summary": "懷疑常壓性水腦症，下一步做大量放液試驗，看走路有沒有變好。",
       "guideline": "FC 醫學(四)第4冊 p.206",
       "concepts": [
         "idiopathic-normal-pressure-hydrocephalus-triad"
@@ -17548,11 +17548,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。肌肉病變（myopathy） 造成 proximal weakness、myalgia 或 CK elevation，不會典型在休息時出現難以形容的不適且活動後迅速緩解。",
-      "B": "本項應選。不寧腿症候群（restless legs syndrome）具 urge to move、休息時加重、活動後改善、傍晚或夜間較嚴重四項特徵；pregnancy 與 iron deficiency 都是常見相關情境。",
-      "C": "本項不選。下肢依賴性水腫（dependent leg edema） 可有脹重感，但不呈明顯 circadian pattern，也不會因短暫踏步而符合 urge-to-move 的感覺運動症候群。",
-      "D": "本項不選。靜坐不能（akathisia） 是全身性的 inner restlessness，常由 dopamine-blocking drugs 引起，不具局限雙腿、夜間休息加重的典型 pattern；題幹也無相關用藥。",
-      "summary": "孕婦夜間休息時雙腿不適、強烈想動且活動緩解，是 restless legs syndrome。",
+      "A": "本項不選。肌肉病變是近端無力、肌肉痛或 CK 上升，不會休息時出現說不出的不適、一動就好。",
+      "B": "本項應選。不寧腿症候群有四個特徵：很想動腳、休息時更糟、活動後改善、傍晚或夜間較嚴重。懷孕與缺鐵都是常見的相關情境。",
+      "C": "本項不選。腳水腫會脹、會重，但沒有夜間加重的規律，也不會踏幾步就好。",
+      "D": "本項不選。靜坐不能是全身性的坐立不安，多由阻斷 dopamine 的藥物引起；本題沒用藥，症狀也只在雙腳。",
+      "summary": "孕婦晚上躺下腳不舒服、很想動、動了就好，就是不寧腿；記得查鐵。",
       "guideline": "FC 醫學(四)第4冊 p.304",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
@@ -17589,11 +17589,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。D1 多巴胺受體（D1 receptor） 主要參與 direct pathway 與 motor/reward signaling，但 dopamine agonist 相關 impulse-control disorder 最常連結 D3-preferring stimulation。",
-      "B": "本項不選。D2 多巴胺受體（D2 receptor） 是許多 dopamine agonist 的重要標的，與改善 motor symptoms 有關；病態賭博的 mesolimbic reward association 更特別指向 D3。",
-      "C": "正確。D3 receptor 富集於 mesolimbic reward circuitry；對 D3 親和力較高的 dopamine agonist 可引發 gambling、hypersexuality、shopping 等 impulse-control disorders。",
-      "D": "本項不選。5-HT 受體（5-HT receptor） 不是 Parkinson disease dopamine agonist 引起 pathological gambling 的主要受體機轉。",
-      "summary": "Dopamine agonist 過度刺激 mesolimbic D3 receptor，會增加病態賭博等衝動控制障礙。",
+      "A": "本項不選。D1 受體參與直接路徑與動作、獎賞訊號，但藥物引起衝動控制障礙最常連到 D3。",
+      "B": "本項不選。D2 是很多 dopamine agonist 的主要標的，負責改善動作症狀，所以容易被選。但賭博這類獎賞行為更特別指向 D3。",
+      "C": "本項應選。D3 受體集中在中腦邊緣獎賞迴路；對 D3 親和力高的 dopamine agonist 會引起病態賭博、性慾亢進、強迫購物等衝動控制障礙。",
+      "D": "本項不選。血清素受體不是這個副作用的主要機轉。",
+      "summary": "Dopamine agonist 引起賭博、購物、性慾亢進，想 D3 受體與獎賞迴路。",
       "guideline": "FC 醫學(四)第4冊 p.229",
       "concepts": [
         "movement-disorders-neurodegeneration"
@@ -17630,11 +17630,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。疱疹性三叉神經病變主要造成 dermatomal facial pain/sensory rash；本例是完整右側 lower motor neuron facial palsy 合併耳部水疱，符合 Ramsay Hunt 症候群（Ramsay Hunt syndrome）。 此處所稱疱疹性三叉神經痛（herpetic trigeminal neuralgia）不符合完整顏面神經麻痺。",
-      "B": "本項不選。Ramsay Hunt 症候群（Ramsay Hunt syndrome） 相較 idiopathic Bell palsy 往往 facial recovery 較差，且可伴 hearing loss 或 vertigo，因此不能概括為通常預後良好。",
-      "C": "本項不選。NSAID 可止痛但不能取代 anti-inflammatory steroid；有 facial palsy 的 Ramsay Hunt 症候群（Ramsay Hunt syndrome） 治療核心不是 antiviral 加 NSAID 而漏掉 steroid。",
-      "D": "正確。Ramsay Hunt 症候群（Ramsay Hunt syndrome） 是 VZV reactivation 侵犯 geniculate ganglion，通常早期合併 corticosteroid 與 antiviral，並作眼睛保護。 這正是 steroids 與 antivirals 的合併策略。",
-      "summary": "耳殼／耳道痛性水疱加同側周邊型顏面麻痺是 Ramsay Hunt syndrome，治療用 steroid 加 antiviral。",
+      "A": "本項不選。三叉神經的疱疹是皮節分布的臉痛與疹子，不會造成整側臉的周邊型麻痺。本例是 Ramsay Hunt 症候群。",
+      "B": "本項不選。Ramsay Hunt 症候群的顏面恢復通常比一般貝爾氏麻痺差，還可能合併聽力喪失或眩暈，不能說預後良好。",
+      "C": "本項不選。NSAID 只能止痛，不能取代類固醇的消炎作用；漏掉類固醇就少了治療核心。",
+      "D": "本項應選。這是帶狀疱疹病毒在膝狀神經節再活化，造成同側周邊型顏面麻痺加耳朵水疱。治療是早期類固醇合併抗病毒藥，並保護無法閉合的眼睛。",
+      "summary": "耳朵痛性水疱加同側臉歪是 Ramsay Hunt，類固醇加抗病毒藥，預後比貝爾氏麻痺差。",
       "guideline": "FC 醫學(四)第4冊 p.49",
       "concepts": [
         "cns-infection-encephalitis-prion"
@@ -17671,11 +17671,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "錯誤。粒線體肌病變（mitochondrial myopathy） 的表現年齡與嚴重度差異很大，許多患者可活至成年；「幾乎活不過青春期」只可能描述少數 severe phenotype。",
-      "B": "本項不選。粒線體肌病變（mitochondrial myopathy） 可呈 proximal limb weakness、exercise intolerance 或 external ophthalmoplegia，因高能量需求組織容易受 oxidative phosphorylation failure 影響。",
-      "C": "本項不選。血 lactate 升高可支持 impaired oxidative phosphorylation，是有價值的 noninvasive clue；但正常 lactate 不能排除 mitochondrial disease。",
-      "D": "本項不選。Heteroplasmy 使 mutant mtDNA 比例在不同組織不同；超過組織特定 threshold 才出現症狀，可解釋同一家族表現差異。",
-      "summary": "粒線體疾病具 heteroplasmy 與 threshold effect，病程高度異質，並非都在青春期前死亡。",
+      "A": "本項應選。粒線體肌病變的發病年齡與嚴重度差很多，許多人可活到成年；「幾乎活不過青春期」只適用於少數嚴重型。",
+      "B": "本項不選。高耗能的肌肉容易因氧化磷酸化失敗而受影響，可表現近端無力、運動耐受差或眼外肌麻痺。",
+      "C": "本項不選。血中乳酸上升支持氧化磷酸化失敗，是有用的非侵入性線索；但乳酸正常不能排除。",
+      "D": "本項不選。同一個人體內正常與突變粒線體 DNA 混在一起（heteroplasmy），突變比例超過組織的門檻才出症狀，這也解釋同一家族表現不同。",
+      "summary": "粒線體病看門檻效應，表現差異很大，不是都活不過青春期。",
       "guideline": "FC 醫學(四)第4冊 p.287",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
@@ -17712,11 +17712,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Guillain-Barré 症候群（Guillain-Barré syndrome） 是常在感染後出現的 immune-mediated polyradiculoneuropathy，不是病原直接侵犯神經的「感染性疾病」。",
-      "B": "本項不選。Guillain-Barré 症候群（Guillain-Barré syndrome） 的 weakness 由發作至 nadir 通常不超過 4 週；2–3 個月才達頂點應考慮 chronic inflammatory demyelinating polyneuropathy。",
-      "C": "正確。典型表現是對稱性上行肢體無力、areflexia，並可有 distal paresthesia 或 neuropathic pain；感覺症狀通常較運動缺損輕。",
-      "D": "本項不選。Guillain-Barré 症候群（Guillain-Barré syndrome） 可有嚴重 autonomic dysfunction，如 blood-pressure lability、arrhythmia、ileus 或 urinary retention，須監測。",
-      "summary": "GBS 是急性免疫性多發神經根病，4 週內達 nadir，可同時有感覺與危險的自律神經症狀。",
+      "A": "本項不選。它常發生在感染之後，但病因是免疫攻擊神經根，不是病原直接侵犯神經。",
+      "B": "本項不選。無力通常在 4 週內達到最嚴重；2–3 個月才到頂點要想慢性發炎性脫髓鞘多發性神經病變（CIDP）。",
+      "C": "本項應選。典型表現是對稱、往上爬的肢體無力，反射消失，可有遠端麻刺或神經痛；感覺症狀通常比運動輕。",
+      "D": "本項不選。它可以有嚴重的自律神經失調，例如血壓忽高忽低、心律不整、腸麻痺或尿滯留，必須監測。",
+      "summary": "GBS：感染後、4 週內到最糟、上行性無力加反射消失，自律神經也要盯。",
       "guideline": "FC 醫學(四)第4冊 p.265",
       "concepts": [
         "guillain-barre-syndrome"
@@ -17753,11 +17753,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。臉部葡萄酒色斑（facial port-wine stain） 是 Sturge-Weber syndrome 的 capillary malformation，不是 tuberous sclerosis complex 的典型皮膚表現。",
-      "B": "本項不選。雙側腦膜瘤（bilateral meningiomas） 尤其 vestibular schwannomas 比較聯想到 neurofibromatosis type 2；tuberous sclerosis 的腦部病灶是 cortical tubers 與 subependymal lesions。",
-      "C": "本項不選。眼瞼紫紅斑徵象（heliotrope sign） 是 dermatomyositis 的 violaceous eyelid eruption，與 tuberous sclerosis complex 無關。",
-      "D": "正確。Subependymal giant cell astrocytoma 常靠近 foramen of Monro，可造成 obstructive hydrocephalus，是 tuberous sclerosis complex 的重要 CNS manifestation。",
-      "summary": "Tuberous sclerosis 的腦部考點是 cortical tubers、subependymal nodules 與 SEGA。",
+      "A": "本項不選。臉上葡萄酒色斑是 Sturge-Weber 症候群的微血管畸形。",
+      "B": "本項不選。雙側腦膜瘤與前庭神經鞘瘤要想第二型神經纖維瘤病。",
+      "C": "本項不選。眼瞼紫紅斑（heliotrope sign）是皮肌炎的表現。",
+      "D": "本項應選。室管膜下巨細胞星形膠質細胞瘤常長在孟氏孔附近，會阻塞造成水腦，是結節性硬化症重要的腦部表現。",
+      "summary": "結節性硬化腦部看皮質結節、室管膜下結節與 SEGA；其他三項分屬別的病。",
       "guideline": "FC 醫學(四)第4冊 p.125",
       "concepts": [
         "neurocutaneous-syndromes"
@@ -17789,11 +17789,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。蜘蛛網膜下腔出血（subarachnoid hemorrhage） 會有大量或持續增加的 CSF RBC、可能 xanthochromia；此例 RBC 僅 2/μL，且 lymphocytic pleocytosis 更像感染。",
-      "B": "正確。Viral meningitis 常見 lymphocytic pleocytosis、protein 正常或輕升、CSF glucose 多正常；本例 CSF/serum glucose ratio 50/80 亦保留。",
-      "C": "本項不選。Fungal meningitis 多呈 subacute/chronic course，CSF lymphocytes 與 protein 上升但 glucose 往往降低；此例數日病程且 glucose ratio 正常較不支持。",
-      "D": "本項不選。Bacterial meningitis 典型為 neutrophilic pleocytosis、protein 明顯上升及 low CSF glucose；本例少量 lymphocytes、protein 45 與 glucose 50 不符。",
-      "summary": "少量 lymphocytic pleocytosis、輕度蛋白變化與正常 CSF glucose，最符合 viral meningitis。",
+      "A": "本項不選。蜘蛛網膜下腔出血的腦脊髓液紅血球會很多，還可能黃變；本例紅血球只有 2/μL。",
+      "B": "本項應選。以淋巴球為主的少量白血球、蛋白正常或輕升、葡萄糖正常，是病毒性腦膜炎的型態。本例腦脊髓液與血糖比是 50÷80≈0.63，糖沒有被吃掉。",
+      "C": "本項不選。真菌性腦膜炎多是亞急性或慢性病程，淋巴球與蛋白上升但葡萄糖通常偏低；本例才幾天，糖也正常。",
+      "D": "本項不選。細菌性腦膜炎是嗜中性球為主、蛋白明顯上升、葡萄糖很低，和本例不符。",
+      "summary": "腦脊髓液看三樣：淋巴球、蛋白正常、糖正常（比值 >0.6）就是病毒性。",
       "guideline": null,
       "concepts": [
         "csf-meningitis-patterns"
@@ -17830,11 +17830,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "正確。Pupillary constriction/dilation 由 parasympathetic 與 sympathetic pathways 調節；對明暗適應困難可見於 autonomic neuropathy。",
-      "B": "本項不選。站立 3 分鐘內 heart rate 增加 >30/min 符合 postural orthostatic tachycardia 的判定線索之一，不是泛指所有 autonomic neuropathy 的典型必要表徵。",
-      "C": "本項不選。Orthostatic hypotension 是站立後 systolic BP 下降至少 20 mmHg 或 diastolic BP 下降至少 10 mmHg；變化小於 10 mmHg 不支持此自主神經表徵。",
-      "D": "本項不選。每夜 1–2 次 nocturia 可受飲水、年齡、睡眠或泌尿疾病影響，缺乏自主神經病變特異性；neurogenic bladder 更需看 retention、incontinence 等。",
-      "summary": "瞳孔明暗調節是自主神經功能；血壓或心率判讀必須符合姿勢測試定義，單純少量夜尿不具特異性。",
+      "A": "本項應選。瞳孔縮放由副交感與交感神經控制，對明暗調適困難就是自主神經病變的表現。",
+      "B": "本項不選。站起來 3 分鐘內心跳增加超過 30 下，是姿勢性心搏過速的判定線索，不是所有自主神經病變都有的典型表徵。",
+      "C": "本項不選。姿勢性低血壓要收縮壓下降至少 20 mmHg 或舒張壓下降至少 10 mmHg；變化小於 10 反而不支持。",
+      "D": "本項不選。每晚夜尿 1–2 次受喝水、年齡、睡眠與泌尿問題影響，沒有特異性。",
+      "summary": "自主神經病變要看真的異常：瞳孔明暗調節差、站起來血壓掉 ≥20/10。",
       "guideline": "FC 醫學(四)第4冊 p.312",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
@@ -17949,11 +17949,11 @@
       "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
     },
     "explanation": {
-      "A": "本項不選。多種第二代 antipsychotics 可治療 acute mania，常用於躁動、psychosis 或嚴重躁症，並可依病情與 lithium 或 valproate 合併。",
-      "B": "本項不選。部分第二代 antipsychotics 可作 treatment-resistant depression 的 augmentation，例如在 antidepressant 反應不足時使用；各藥核准適應症與證據不同。",
-      "C": "本項不選。Antipsychotics 的不良反應可包含體重增加與 metabolic syndrome，以及 akathisia、parkinsonism、dystonia、tardive dyskinesia 等錐體外症狀，風險依藥而異。",
-      "D": "錯誤。已有 antipsychotics 用於 bipolar maintenance treatment 的證據，部分可預防 mania 或 depressive relapse；選藥需依既往有效急性治療與長期副作用決定。",
-      "summary": "Antipsychotics 不只治 acute mania，也可用於 bipolar maintenance；須依個別藥物監測 metabolic 與 extrapyramidal effects。",
+      "A": "本項不選。多種第二代抗精神病藥能治療急性躁症，常用於躁動、精神病症狀或嚴重躁症，可與 lithium 或 valproate 合併。",
+      "B": "本項不選。部分第二代抗精神病藥可加在抗憂鬱藥上，治療難治型憂鬱。",
+      "C": "本項不選。副作用包括體重增加、代謝症候群，以及靜坐不能、巴金森症狀、肌張力不全、遲發性運動異常等錐體外症狀。",
+      "D": "本項應選。已有證據支持部分抗精神病藥用於雙相症的維持治療，可預防躁期或鬱期復發。",
+      "summary": "抗精神病藥在雙相症能治急性躁症，也能長期預防復發；要追蹤代謝與錐體外症狀。",
       "guideline": "FC 醫學(四)第3冊 p.44",
       "concepts": [
         "bipolar-vs-major-depression"
@@ -18103,11 +18103,11 @@
     "specialty": "精神科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。評估 severe obesity 時應尋找內分泌、遺傳、藥物及精神行為因素；但多數 obesity 並非由罕見 syndrome 或 Cushing syndrome 所致，檢查應由臨床線索引導。",
-      "B": "本項不選。Binge-eating、depression 等精神狀況可影響體重，而部分 antipsychotics、mood stabilizers 與 antidepressants 亦可能促進體重增加。",
-      "C": "本項不選。Metabolic/bariatric surgery 可作部分 severe obesity 合併 type 2 diabetes 患者的治療策略，常改善 glycemic control；仍需長期飲食、活動與醫療追蹤。",
-      "D": "錯誤。Vitamin B12 與 iron 是預防特定營養缺乏，不會單獨防止 weight regain；復胖涉及飲食行為、胃腸解剖、荷爾蒙與心理因素，須多專業長期介入。",
-      "summary": "Bariatric surgery 可改善 type 2 diabetes，但防復胖靠長期多專業追蹤，不是只補 Vitamin B12 與 iron。",
+      "A": "本項不選。評估嚴重肥胖時要找內分泌、遺傳、藥物與精神行為因素；但多數不是罕見症候群，檢查依臨床線索決定。",
+      "B": "本項不選。暴食、憂鬱都會影響體重，部分抗精神病藥、情緒穩定劑與抗憂鬱藥也會讓人變胖。",
+      "C": "本項不選。減重手術可作為部分嚴重肥胖合併第二型糖尿病的治療策略，常能改善血糖，但仍要長期追蹤。",
+      "D": "本項應選。補充維生素 B12 與鐵是預防術後營養缺乏，不能防止復胖。復胖牽涉飲食行為、腸胃解剖、荷爾蒙與心理因素，需要多專業長期介入。",
+      "summary": "減重手術後補 B12 和鐵是防缺乏，不是防復胖；防復胖要長期多專業追蹤。",
       "guideline": null,
       "concepts": [
         "eating-disorders-obesity-psych"
@@ -18263,11 +18263,11 @@
       "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
     },
     "explanation": {
-      "A": "本項不選。DSM-5 的六個 cognitive domains 為 complex attention、executive function、learning and memory、language、perceptual-motor 與 social cognition，題述六項完整。",
-      "B": "錯誤。輕型認知障礙症（mild neurocognitive disorder）的認知缺損不干擾日常活動的獨立性；需要較多時間或代償策略仍可獨立。干擾獨立生活才支持 major neurocognitive disorder。",
-      "C": "本項不選。Mild neurocognitive disorder 的缺損不能只發生於 delirium；若注意與認知變化完全侷限在急性譫妄期，應先處理 delirium 而非另下此診斷。",
-      "D": "本項不選。認知缺損不得由 major depressive disorder、schizophrenia 等其他精神疾病更好解釋；同時也需依病史、功能與檢查尋找特定病因。",
-      "summary": "Major 與 mild neurocognitive disorder 的關鍵分界是認知缺損是否干擾日常活動的獨立性。",
+      "A": "本項不選。DSM-5 的六個範疇是複雜注意力、執行功能、學習記憶、語言、知覺—動作與社交認知，題目六項都對。",
+      "B": "本項應選。輕型認知障礙症的缺損不干擾日常活動的獨立性，只是要花較多時間或用代償方法。干擾到獨立生活才是重型。",
+      "C": "本項不選。缺損不能只出現在譫妄期間；若認知變化完全限於急性譫妄，要先處理譫妄。",
+      "D": "本項不選。認知缺損不能由重鬱症、思覺失調症等其他精神疾病更好解釋。",
+      "summary": "輕型和重型認知障礙症只差一件事：還能不能獨立過日常生活。",
       "guideline": "FC 醫學(四)第3冊 p.155",
       "concepts": [
         "major-vs-mild-ncd"
