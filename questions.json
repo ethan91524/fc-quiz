@@ -64731,11 +64731,11 @@
       "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
     },
     "explanation": {
-      "A": "不正確：ceftriaxone。ceftriaxone 是細菌性腦膜炎的常用經驗性藥，但 Listeria monocytogenes 對 cephalosporin 天生缺乏敏感性，不能單靠它涵蓋。",
-      "B": "正確：ampicillin。ampicillin 對 Listeria monocytogenes 有活性；新生兒、高齡者及細胞媒介免疫缺損者的腦膜炎經驗性治療要把它納入。",
-      "C": "不正確：vancomycin。vancomycin 可用於抗藥性肺炎鏈球菌的經驗性涵蓋，但它不是 Listeria 腦膜炎的首選核心藥。",
-      "D": "不正確：ciprofloxacin。ciprofloxacin 對某些革蘭氏陰性菌有活性，卻不是 Listeria 腦膜炎標準首選，也不取代 ampicillin 的角色。",
-      "summary": "細菌性腦膜炎遇到新生兒、高齡或 T-cell 缺損，經驗性治療要加 ampicillin 補上 Listeria。",
+      "A": "本項不選。Ceftriaxone 是細菌性腦膜炎常用的經驗性藥，但 Listeria 對頭孢菌素天生不敏感，不能靠它涵蓋。",
+      "B": "本項應選。Ampicillin 對 Listeria 有效；3 個月以下嬰兒、55 歲以上與細胞免疫缺損者的腦膜炎，經驗性治療要把它加進去。",
+      "C": "本項不選。Vancomycin 用來涵蓋抗藥性肺炎鏈球菌，不是 Listeria 腦膜炎的核心藥物。",
+      "D": "本項不選。Ciprofloxacin 對部分革蘭氏陰性菌有效，但不是 Listeria 腦膜炎的標準治療。",
+      "summary": "腦膜炎遇到嬰兒、老人或細胞免疫低下，經驗性治療要加 ampicillin 蓋 Listeria。",
       "guideline": null
     },
     "source": "112080/302_11",
@@ -64810,11 +64810,11 @@
       "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
     },
     "explanation": {
-      "A": "本項（A：潛伏期 incubation）不選。Staphylococcus aureus 預形成 enterotoxin 可在進食後很快引發噁心與嘔吐；Bacillus cereus 的 emetic type 也有很短潛伏期。",
-      "B": "本項（B：Shigella spp.只）是本題要選。Shigella 的感染劑量低，可經糞口途徑由人傳人，尤其托育、機構與衛生不佳環境；不只靠受污染食物或飲水。",
-      "C": "本項（C：Shigella spp.、）不選。Shigella、Entamoeba histolytica、Giardia lamblia 少量病原就可致病，所以人傳人或受污染水源更容易造成傳播。",
-      "D": "本項（D：Vibrio cholera）不選。Vibrio cholerae 的 enterotoxin 造成分泌性腹瀉，糞便多為水樣且白血球少；若明顯發炎性血便要想侵襲性病原。",
-      "summary": "Shigella 的關鍵不是水和食物，而是低 infectious dose，所以人傳人也很有效。",
+      "A": "本項不選。金黃色葡萄球菌的毒素在食物中就已形成，吃下去很快就嘔吐；仙人掌桿菌的嘔吐型潛伏期也很短。",
+      "B": "本項應選。志賀桿菌只要很少量就能致病，可以經糞口途徑人傳人，在托育、機構與衛生差的環境尤其常見；不是只靠食物或飲水。",
+      "C": "本項不選。志賀桿菌、痢疾阿米巴、梨形鞭毛蟲的感染劑量都很低，遠低於霍亂弧菌，所以容易人傳人。",
+      "D": "本項不選。霍亂弧菌靠腸毒素造成分泌性腹瀉，糞便是水樣、白血球很少；明顯發炎性血便要想侵襲性病原。",
+      "summary": "志賀桿菌感染劑量低，人傳人很有效；毒素型食物中毒潛伏期最短。",
       "guideline": null
     },
     "source": "112080/302_11",
@@ -64848,11 +64848,11 @@
       "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
     },
     "explanation": {
-      "A": "本項（A：vancomycin）不選。vancomycin 可用於 MRSA pneumonia；血液透析患者需依透析時程與血中濃度調整。",
-      "B": "本項（B：teicoplanin）不選。teicoplanin 對 MRSA 有活性，可作為某些 MRSA 感染的 glycopeptide 選項。",
-      "C": "本項（C：linezolid）不選。linezolid 對 MRSA 有活性，且肺部組織濃度佳；仍要留意血球抑制與 serotonergic drug interaction。",
-      "D": "本項（D：oxacillin）是本題要選。本項不宜使用。oxacillin 是抗 MSSA 的 β-lactam，MRSA 因 altered PBP2a 對它及多數 β-lactam 抗藥。",
-      "summary": "MRSA 的核心機轉是 PBP2a 改變；oxacillin 可治 MSSA，卻不能治 MRSA。",
+      "A": "本項不選。Vancomycin 可以治療 MRSA 肺炎；洗腎病人要依透析時程與血中濃度調整。",
+      "B": "本項不選。Teicoplanin 對 MRSA 有活性，是另一種醣肽類選項。",
+      "C": "本項不選。Linezolid 對 MRSA 有效、肺部濃度好；要注意血球抑制與血清素藥物交互作用。",
+      "D": "本項應選。Oxacillin 是治療 MSSA 的 β-lactam；MRSA 因為 PBP2a 改變，對它與多數 β-lactam 都抗藥。",
+      "summary": "MRSA 的機轉是 PBP2a；oxacillin 只能治 MSSA。",
       "guideline": null
     },
     "source": "112080/302_11",
@@ -65656,11 +65656,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項應選。呼吸窘迫症候群（RDS）出生後會逐漸惡化，典型在 24–72 小時最嚴重，而不是剛出生最嚴重後立刻恢復。",
-      "B": "本項不選。surfactant 缺乏使肺泡塌陷，胸片可見 low lung volumes、diffuse reticulogranular pattern 與 air bronchograms。",
-      "C": "本項不選。RDS 呼吸支持會避免 hyperoxia，並可接受適度 permissive hypercapnia 以減少 ventilator-induced lung injury。",
-      "D": "本項不選。缺少 surfactant 使表面張力上升、肺泡易塌陷，因此功能肺餘容積下降並需較大呼吸功。",
-      "summary": "早產兒 RDS 是 surfactant 不夠，病程常在出生後 1–3 天變重；『出生最嚴重又很快好』比較像其他疾病。",
+      "A": "本項應選。呼吸窘迫症候群出生後會逐漸惡化，通常在 24–72 小時最嚴重，之後才改善；不是一出生最嚴重然後很快恢復。",
+      "B": "本項不選。缺乏表面張力素讓肺泡塌陷，胸部 X 光可見肺容積小、瀰漫性網狀顆粒樣變化與空氣支氣管徵象。",
+      "C": "本項不選。呼吸支持要避免高氧，並接受適度的二氧化碳偏高，以減少呼吸器造成的肺傷害。",
+      "D": "本項不選。缺乏表面張力素讓表面張力上升、肺泡容易塌陷，功能肺餘容積下降，呼吸變得很費力。",
+      "summary": "早產兒 RDS 是表面張力素不足，出生後 1–3 天最嚴重；出生最嚴重又很快好比較像暫時性呼吸急促。",
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
@@ -67437,11 +67437,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項應選。levodopa 最有效，但愈早用大劑量不等於愈好；累積暴露後較容易出現 dyskinesia 與運動波動，因此須依功能需要調整。",
-      "B": "本項敘述正確。較年輕病人可選 dopamine agonist 以延後或減少 levodopa 相關運動併發症，但需注意嗜睡、幻覺與衝動控制障礙。",
-      "C": "本項敘述正確。dopamine agonist 直接刺激不同 dopamine receptors，和 levodopa 需先轉成 dopamine 的作用方式不同。",
-      "D": "本項敘述正確。藥效明顯波動且選擇合適的 Parkinson disease 病人，可用 subthalamic nucleus deep brain stimulation 改善 off time 與 dyskinesia。",
-      "summary": "Levodopa 是最有效不是越早越大劑量越好；年輕病人要先權衡未來的波動、異動症和 agonist 副作用。",
+      "A": "本項應選。Levodopa 最有效，但不是越早、越大劑量越好；累積用量多了比較容易出現異動症與藥效波動，要依功能需要調整。",
+      "B": "本項不選。年輕病人可以先用多巴胺致效劑，延後或減少 levodopa 的運動併發症；但要注意嗜睡、幻覺與衝動控制障礙。",
+      "C": "本項不選。多巴胺致效劑直接刺激不同的多巴胺受體，不像 levodopa 要先轉成多巴胺。",
+      "D": "本項不選。藥效波動明顯、選擇合適的病人，視丘下核深部腦刺激能減少 off 時間與異動症。",
+      "summary": "Levodopa 最有效，但不是越早越大劑量越好；年輕人可先用致效劑。",
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
@@ -67945,11 +67945,11 @@
       "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
     },
     "explanation": {
-      "A": "本項不選。精神分析不是 OCD 的主要實證治療；它不會直接處理 obsession 與 ritual 的負向增強循環。",
-      "B": "本項不選。benzodiazepine 可短暫減輕焦慮，卻不能有效預防 OCD 核心症狀，也有 dependence 風險。",
-      "C": "正確。暴露與反應預防（exposure and response prevention）等行為治療，合併 SSRI 或 clomipramine，對 OCD 有實證療效。",
-      "D": "本項不選。lithium 並非 OCD 首選，所以本項不選。lithium 主要是 bipolar disorder 的 mood stabilizer，不是 OCD 首選；難治 OCD 的增強策略也須由專科個別決定。",
-      "summary": "OCD 最重要的行為治療是 ERP：碰到觸發物，但不做 ritual；再搭 SSRI/clomipramine 才對核心循環下手。",
+      "A": "本項不選。精神分析不是強迫症的主要實證治療，它不處理強迫思考與強迫行為之間的負增強循環。",
+      "B": "本項不選。Benzodiazepine 可短暫減輕焦慮，但不能控制強迫症核心症狀，還有成癮風險。",
+      "C": "本項應選。暴露與反應預防等行為治療，合併 SSRI 或 clomipramine，對強迫症有實證療效。",
+      "D": "本項不選。Lithium 是雙相情緒障礙症的情緒穩定劑，不是強迫症的首選。",
+      "summary": "強迫症治療：暴露與反應預防（碰到觸發物但不做儀式）加 SSRI 或 clomipramine。",
       "guideline": "FC 醫學(四)第3冊 p.69",
       "concepts": [
         "anxiety-ocd-ptsd"
@@ -68191,11 +68191,11 @@
       "book": "FC醫(四)(3)(精神)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第三冊_精神科.pdf"
     },
     "explanation": {
-      "A": "正確。ketamine 是 dissociative anesthetic，濫用後可有感知扭曲、幻覺、人格解體感或與現實脫離的 dissociative state。",
-      "B": "本項不選。ketamine 可用鼻吸入、口服、注射等不同方式濫用，不能說只能注射或口服。",
-      "C": "本項不選。大量或長期使用 ketamine 可引起 paranoia、hallucinations 等 psychotic-like symptoms，與既有精神病風險互相影響。",
-      "D": "本項不選。ketamine 主要是 NMDA receptor antagonist，並非像 amphetamine 以 dopamine 系統刺激為主要機轉。",
-      "summary": "Ketamine 的關鍵字是 NMDA antagonist 加 dissociation；它不只一種使用途徑，也能出現 psychotic-like symptoms。",
+      "A": "本項應選。K 他命是解離性麻醉劑，濫用後會感知扭曲、幻覺、覺得自己和身體或現實分離，也就是解離狀態。",
+      "B": "本項不選。K 他命可以鼻吸、口服、注射等多種方式濫用，鼻吸其實很常見。",
+      "C": "本項不選。大量或長期使用會引起被害妄想、幻覺等類似思覺失調的症狀。",
+      "D": "本項不選。K 他命主要是 NMDA 受體拮抗劑，不像安非他命以刺激多巴胺系統為主。",
+      "summary": "K 他命＝NMDA 拮抗劑＋解離；可以鼻吸，也會引起精神病症狀。",
       "guideline": "FC 醫學(四)第3冊 p.129",
       "concepts": [
         "substance-intoxication-withdrawal"
@@ -68918,11 +68918,11 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。ACTH-secreting pituitary adenoma 造成 Cushing disease 時，transsphenoidal resection 通常是可切除病灶的第一線治療。",
-      "B": "本項不選。生長激素瘤（growth hormone-secreting adenoma）一般以 transsphenoidal surgery 優先，以快速降低 GH 並解除壓迫；藥物用於未緩解或不宜手術者。",
-      "C": "本項不選。TSH-secreting adenoma 多以 transsphenoidal resection 為第一線，必要時搭配 somatostatin analog 控制甲狀腺功能或殘存病灶。",
-      "D": "本項應選。泌乳激素瘤（prolactinoma）第一線通常是 dopamine agonist，如 cabergoline，可降低 prolactin 並縮小腫瘤；手術留給抗藥或不耐受者。",
-      "summary": "Functional pituitary tumors 多先手術，但 prolactinoma 例外，優先 dopamine agonist。",
+      "A": "本項不選。分泌 ACTH 的腺瘤造成庫欣病，可切除時經蝶竇手術是第一線。",
+      "B": "本項不選。生長激素瘤一般先做經蝶竇手術，快速降低 GH 並解除壓迫；藥物用於沒緩解或不適合手術的人。",
+      "C": "本項不選。TSH 瘤多以經蝶竇手術為第一線，必要時搭配體抑素類似物。",
+      "D": "本項應選。泌乳激素瘤第一線是多巴胺致效劑（如 cabergoline），能降低泌乳激素並縮小腫瘤；抗藥或不耐受才手術。",
+      "summary": "功能性腦下垂體瘤多先手術，泌乳激素瘤例外，先吃 cabergoline。",
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
@@ -69404,11 +69404,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。主動脈剝離延伸至 aortic root 可使瓣環或 commissure 支撐破壞，造成急性 severe aortic regurgitation。",
-      "B": "錯誤。Stanford 分型依是否累及升主動脈，不是只看 intimal tear 所在；即使破口在弓部或降主動脈，只要逆行累及 ascending aorta 仍是 type A。",
-      "C": "本項不選。Acute Stanford A dissection 緊急手術的首要目的包括預防升主動脈破裂與心包填塞，並處理 AR、冠狀動脈或分支灌流問題。",
-      "D": "本項不選。Uncomplicated acute Stanford B dissection 先以 beta-blocker anti-impulse therapy 與血壓控制；若 rupture、malperfusion 或持續疼痛才介入。",
-      "summary": "Stanford A/B 的判準是 ascending aorta 是否受累，不是 intimal tear 的位置。",
+      "A": "本項不選。剝離延伸到主動脈根部時，瓣環或瓣葉交界失去支撐，會造成急性嚴重主動脈瓣逆流。",
+      "B": "本項應選。Stanford 分型看的是「有沒有侵犯升主動脈」，不是內膜破口的位置；即使破口在弓部或降主動脈，只要逆行侵犯到升主動脈，仍是 type A。",
+      "C": "本項不選。急性 type A 要緊急開刀，首要目的是避免升主動脈破裂與心包填塞，同時處理主動脈瓣逆流與冠狀動脈灌流問題。",
+      "D": "本項不選。沒有併發症的急性 type B，先用 β 阻斷劑與降壓控制；破裂、器官灌流不足或持續疼痛才介入。",
+      "summary": "Stanford A 或 B 只看升主動脈有沒有被侵犯，不看破口在哪。",
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification"
@@ -69445,11 +69445,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Type I endoleak 是 graft seal zone 密合失敗，可在 proximal attachment site（Ia）或 distal site（Ib）發生。",
-      "B": "本項不選。Type II endoleak 是側枝逆流進入 aneurysm sac，常來自 lumbar arteries 或 inferior mesenteric artery。",
-      "C": "錯誤。支架遠端接觸區漏是 type Ib；type III 是 modular component separation 或 graft fabric tear。",
-      "D": "本項不選。Type IV endoleak 源自 graft fabric porosity，多在置放早期見到，現代 graft 已較少見。",
-      "summary": "Endoleak：I 封口不良、II 側枝逆流、III 支架接合分離／破損、IV 織物孔隙。",
+      "A": "本項不選。第一型是支架接觸區密合失敗，近端叫 Ia、遠端叫 Ib。",
+      "B": "本項不選。第二型是腰動脈或下腸繫膜動脈逆流回動脈瘤囊。",
+      "C": "本項應選。支架遠端接觸區的滲漏屬第一型（Ib）；第三型是支架組件之間分離或支架布料破損。",
+      "D": "本項不選。第四型是支架布料的孔隙滲漏，多見於剛放置時，現在的支架較少見。",
+      "summary": "Endoleak 四型：I 封口不良、II 側枝逆流、III 組件分離或破損、IV 布料孔隙。",
       "guideline": null,
       "concepts": [
         "endoleak-classification"
@@ -69486,11 +69486,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。再灌流與 compartment syndrome 可使細胞內 K+ 大量釋出，造成 hyperkalemia 與致命性 arrhythmia。",
-      "B": "本項應選。缺血肌肉壞死通常釋出 phosphate 並使 calcium 沉積於受損組織，急性期較可能 hypocalcemia，而不是 hypercalcemia。",
-      "C": "本項不選。肌肉壞死會使 creatine kinase 大幅升高，是 rhabdomyolysis 的重要指標。",
-      "D": "本項不選。Myoglobin 由受損肌肉釋出，可造成深色尿與 acute kidney injury；題幹被動牽拉劇痛與緊繃小腿支持 compartment syndrome。",
-      "summary": "肢體再灌流／compartment syndrome 造成 rhabdomyolysis：高鉀、CK 上升、myoglobinuria，急性期常低鈣。",
+      "A": "本項不選。再灌流與腔室症候群讓細胞內的鉀大量釋出，造成高血鉀與致命性心律不整。",
+      "B": "本項應選。肌肉壞死會釋出磷，鈣會沉積在受損組織，急性期比較會低血鈣，不是高血鈣。",
+      "C": "本項不選。肌肉壞死讓肌酸激酶大幅上升，是橫紋肌溶解的重要指標。",
+      "D": "本項不選。受損肌肉釋出肌紅蛋白，造成深色尿與急性腎損傷；被動牽拉劇痛加小腿緊繃，支持腔室症候群。",
+      "summary": "再灌流後橫紋肌溶解：高鉀、CK 上升、肌紅蛋白尿，急性期是低鈣。",
       "guideline": null
     },
     "source": "112080/302_33",
@@ -69524,11 +69524,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。40 歲以上 ASD 患者較可能合併肺高壓或冠狀疾病，心導管可量肺血管阻力與 shunt，特別在 noninvasive data 不確定時。",
-      "B": "本項不選。固定 pulmonary vascular resistance >12 Wood units 表示不可逆肺血管病變，關閉 ASD 可能導致右心衰竭，屬禁忌。",
-      "C": "錯誤。Inferior sinus venosus ASD 主要與 inferior vena cava／右下肺靜脈異常連接相關；mitral regurgitation 並非其典型伴隨病灶。",
-      "D": "本項不選。青春期前女性採 right anterolateral thoracotomy 可能影響乳房組織發育與外觀，因此切口選擇須審慎。",
-      "summary": "Sinus venosus ASD 的關聯是 anomalous pulmonary venous return，不是 mitral regurgitation。",
+      "A": "本項不選。40 歲以上的 ASD 病人較可能合併肺高壓或冠狀動脈疾病，心導管能量肺血管阻力與分流量。",
+      "B": "本項不選。固定的肺血管阻力超過 12 Wood units 代表不可逆肺血管病變，關閉缺損反而會讓右心衰竭，是禁忌。",
+      "C": "本項應選。下方靜脈竇型 ASD 主要合併下腔靜脈與右下肺靜脈的異常連接，不會典型合併二尖瓣逆流；合併二尖瓣裂的是原發孔型。",
+      "D": "本項不選。青春期前女性用右前外側開胸，可能影響乳房發育與外觀，所以切口要審慎。",
+      "summary": "靜脈竇型 ASD 合併肺靜脈回流異常；原發孔型才合併二尖瓣裂與逆流。",
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
@@ -69560,11 +69560,11 @@
     "specialty": "心臟血管外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。嬰兒 severe valvar aortic stenosis 可先以 balloon valvuloplasty 減輕壓差，代價是可能產生 aortic regurgitation 或日後再狹窄。",
-      "B": "本項不選。Surgical valvotomy 可在直視下分開融合 commissures，適用於不適合 balloon 或需同時處理其他解剖問題者。",
-      "C": "本項應選。8 個月嬰兒置入 mechanical valve 受限於極小瓣環、需終身 warfarin 且無法隨生長擴大，因此是最不適合的初始選擇。",
-      "D": "本項不選。Ross procedure 以自身 pulmonary autograft 取代 aortic valve，能隨兒童生長且不需長期抗凝；但手術複雜並使 pulmonary position 需要 conduit。",
-      "summary": "嬰兒 aortic stenosis 優先保留原生瓣膜；mechanical replacement 因瓣環、生長與抗凝問題最不適合。",
+      "A": "本項不選。嬰兒嚴重主動脈瓣狹窄可以先做氣球擴張降低壓差，代價是可能產生逆流或日後再狹窄。",
+      "B": "本項不選。直視下瓣膜切開可分開融合的瓣葉交界，適合不適合氣球或要同時處理其他問題的病人。",
+      "C": "本項應選。8 個月大嬰兒瓣環太小，機械瓣不會跟著長大，還要終身吃 warfarin，是最不適合的初始選擇。",
+      "D": "本項不選。Ross 手術用自己的肺動脈瓣取代主動脈瓣，能隨孩子長大、不用長期抗凝；但手術複雜，肺動脈位置要放人工導管。",
+      "summary": "嬰兒主動脈瓣狹窄先保留原生瓣；機械瓣不會長大又要抗凝，最不適合。",
       "guideline": null
     },
     "source": "112080/302_33",
@@ -70308,11 +70308,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。doxorubicin 是 anthracycline，AC 這類早期和晚期乳癌方案都會用到，是乳癌化療主力之一。",
-      "B": "本項不選。docetaxel 是 taxane，常接在 anthracycline／cyclophosphamide 之後使用，轉移性乳癌也常用，屬乳癌常規藥。",
-      "C": "本項應選。etoposide 抑制 topoisomerase II，主要用在小細胞肺癌、睪丸腫瘤，不是乳癌的化療骨幹，乳癌最少用到它。",
-      "D": "本項不選。epirubicin 也是 anthracycline，在乳癌輔助化療裡常拿來當 doxorubicin 的替代藥，仍屬常用。",
-      "summary": "乳癌化療骨幹是 anthracycline＋taxane；看到 etoposide 要想到小細胞肺癌、睪丸腫瘤，不是乳癌。",
+      "A": "本項不選。Doxorubicin 是 anthracycline，是 AC 等乳癌化療方案的主力。",
+      "B": "本項不選。Docetaxel 是 taxane，常接在 anthracycline 之後，轉移性乳癌也常用。",
+      "C": "本項應選。Etoposide 抑制拓撲異構酶 II，主要用在小細胞肺癌與睪丸腫瘤，不是乳癌化療的骨幹。",
+      "D": "本項不選。Epirubicin 也是 anthracycline，在乳癌常替代 doxorubicin。",
+      "summary": "乳癌化療骨幹是 anthracycline 加 taxane；etoposide 想小細胞肺癌、睪丸癌。",
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
@@ -70649,11 +70649,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。幼年性息肉症候群（juvenile polyposis syndrome）也有 hamartomatous polyps，但典型不是口唇與指端的黏膜皮膚色素斑；其重點是多發 juvenile polyps 與胃腸癌風險。",
-      "B": "正確。Peutz-Jeghers syndrome 由 STK11 pathogenic variant 引起，特徵是胃腸道 hamartomatous polyps 與口唇、口腔黏膜及指端色素沉著。",
-      "C": "本項不選。Lynch syndrome 是 mismatch repair gene 相關遺傳癌症症候群，常無大量息肉；它不以 hamartomatous polyps 或黏膜色素沉著為特徵。",
-      "D": "本項不選。家族性腺瘤性息肉症（familial adenomatous polyposis）由 APC pathogenic variant 引起，形成數百至數千顆 adenomatous polyps，而非 hamartomatous polyps。",
-      "summary": "hamartomatous polyps 加口唇、口腔與指端色素沉著是 Peutz-Jeghers syndrome 的經典組合。",
+      "A": "本項不選。幼年性息肉症候群也有錯構瘤性息肉，但沒有口唇與指端的色素斑。",
+      "B": "本項應選。Peutz-Jeghers 症候群由 STK11 變異造成，特徵是胃腸道錯構瘤性息肉，加上嘴唇、口腔黏膜與指端色素沉著。",
+      "C": "本項不選。Lynch 症候群是錯配修復基因相關的遺傳性癌症，通常沒有大量息肉，也沒有色素斑。",
+      "D": "本項不選。家族性腺瘤性息肉症由 APC 變異造成，是數百到數千顆腺瘤性息肉，不是錯構瘤。",
+      "summary": "錯構瘤息肉加口唇與指端色素斑，就是 Peutz-Jeghers。",
       "guideline": "FC 醫學(五)第2冊 p.183",
       "concepts": [
         "colorectal-cancer-polyps"
@@ -72080,11 +72080,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題不選 A：Transdermal fentanyl 可提供穩定、長效的 opioid exposure。適合已建立 opioid tolerance 且疼痛穩定的病人；不能當急性疼痛的起始救援藥。",
-      "B": "這題不選 B：Oral morphine 是癌痛長期治療常用的基礎 opioid。可依疼痛與副作用調整 extended-release 與 breakthrough dose。",
-      "C": "本項不適合。Meperidine 的代謝物 normeperidine 可累積並造成 neurotoxicity、tremor 或 seizure。長期 intravenous 使用也不便於門診癌痛維持。",
-      "D": "這題不選 D：Oral oxycodone 可作為長期癌痛 opioid 選項。須依腎肝功能、既往 opioid exposure 與便祕、噁心等副作用調整。",
-      "summary": "癌痛長期 opioid 要避開 meperidine：不是因止痛不夠，而是 normeperidine 累積會造成神經毒性。",
+      "A": "本項不選。Fentanyl 貼片提供穩定長效的鴉片濃度，適合已建立耐受、疼痛穩定的病人；不適合急性起始。",
+      "B": "本項不選。口服 morphine 是癌痛長期治療的基礎鴉片，可依疼痛調整長效劑與突發痛劑量。",
+      "C": "本項應選。Meperidine 的代謝物 normeperidine 會累積，造成神經毒性、顫抖甚至抽搐；長期靜脈使用也不適合門診癌痛。",
+      "D": "本項不選。口服 oxycodone 可以長期使用，依肝腎功能與便秘、噁心等副作用調整。",
+      "summary": "癌痛長期止痛避開 meperidine：代謝物 normeperidine 會引起抽搐。",
       "guideline": "FC 醫學(六)第4冊 p.139",
       "concepts": [
         "pain-medicine-regional-analgesia"
@@ -72755,11 +72755,11 @@
     "specialty": "耳鼻喉科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確。vocalis muscle 由 recurrent laryngeal nerve 支配，主要微調聲帶張力；不受上喉神經外支直接支配。",
-      "B": "正確。上喉神經外支支配 cricothyroid muscle；受損後無法有效拉長、拉緊聲帶，病人常唱不上高音。",
-      "C": "不正確。posterior cricoarytenoid muscle 是唯一外展聲帶的肌肉，主要由 recurrent laryngeal nerve 支配。",
-      "D": "不正確。lateral cricoarytenoid muscle 使聲帶內收，同樣由 recurrent laryngeal nerve 支配，不是外上喉神經。",
-      "summary": "外上喉神經傷到 cricothyroid：聲帶拉不緊，所以高音最先唱不上去。",
+      "A": "本項不選。聲帶肌由喉返神經支配，負責微調聲帶張力。",
+      "B": "本項應選。上喉神經外支支配環甲肌；受傷後聲帶拉不長、拉不緊，病人常唱不上高音。",
+      "C": "本項不選。後環杓肌是唯一外展聲帶的肌肉，由喉返神經支配。",
+      "D": "本項不選。外側環杓肌讓聲帶內收，也由喉返神經支配。",
+      "summary": "上喉神經外支傷到環甲肌：高音唱不上去；喉返神經支配其他所有喉內肌。",
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
@@ -73674,11 +73674,11 @@
       "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
     },
     "explanation": {
-      "A": "正確，type I 多為 endometrioid type，常和未受平衡 estrogen、EIN 與 PTEN 路徑相關，這項正確。",
-      "B": "正確，type I 的腫瘤分化通常較好，發現時較早且預後相對較佳，這項正確。",
-      "C": "不正確，atypical hyperplasia／EIN 接的是 type I，不是 type II。type II serous carcinoma 多由 endometrial intraepithelial carcinoma 發展。",
-      "D": "正確，type II 常見 serous 或 clear cell histology，分化差、侵襲性高且易早期腹膜播散，這項正確。",
-      "summary": "前驅病灶是考點：EIN／atypical hyperplasia 接第一型；第二型常從 serous EIC 路徑來。",
+      "A": "本項不選。第一型多是類子宮內膜型，和沒有黃體素平衡的雌激素、子宮內膜上皮內瘤樣病變及 PTEN 路徑有關。",
+      "B": "本項不選。第一型分化較好、常較早發現，預後相對好。",
+      "C": "本項應選。非典型增生（EIN）是第一型的前驅病灶；第二型的漿液性癌多由子宮內膜上皮內癌（serous EIC）發展而來。",
+      "D": "本項不選。第二型常是漿液性或亮細胞癌，分化差、侵襲性高，容易早期腹膜播散。",
+      "summary": "非典型增生接第一型；第二型漿液性癌從上皮內癌來，預後差。",
       "guideline": "FC 醫學(六)第1下冊 p.81",
       "concepts": [
         "endometrial-cancer-traditional-types"
@@ -74709,11 +74709,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題不選 A：Midazolam 可造成 vasodilation、呼吸抑制且 onset 較不利於此例急迫 RSI；低血壓與嚴重低氧病人給藥後更可能失去循環代償。",
-      "B": "這題要選 B：Ketamine 有 bronchodilatory effect。且通常維持 sympathetic tone。對重度氣喘、低血壓與缺氧需要插管的病人特別合適；仍須處理肺炎的敗血性病因。",
-      "C": "這題不選 C：Propofol 會顯著降低 systemic vascular resistance 與血壓。本例 86/54 mmHg 已處於 shock。不是首選誘導藥。",
-      "D": "這題不選 D：Barbiturate 可造成 myocardial depression 與 vasodilation。也抑制呼吸。對此例低血壓、呼吸衰竭病人的血流動力不利。",
-      "summary": "重症氣喘合併低血壓插管，ketamine 同時保留循環並有支氣管擴張，是最能符合這題 physiology 的藥。",
+      "A": "本項不選。Midazolam 會擴張血管、抑制呼吸，對已經低血壓又嚴重缺氧的病人，給藥後更可能失去循環代償。",
+      "B": "本項應選。Ketamine 有支氣管擴張作用，又通常能維持交感張力；對嚴重氣喘、低血壓與缺氧需要插管的病人最合適。同時仍要處理肺炎造成的敗血症。",
+      "C": "本項不選。Propofol 會明顯降低周邊血管阻力與血壓；本例 86/54 mmHg 已經休克，不是首選。",
+      "D": "本項不選。Barbiturate 會抑制心肌、擴張血管、抑制呼吸，對低血壓又呼吸衰竭的病人不利。",
+      "summary": "氣喘加休克要插管，選 ketamine：撐血壓又擴張支氣管。",
       "guideline": "FC 醫學(六)第4冊 p.81",
       "concepts": [
         "iv-induction-agents"
@@ -75004,11 +75004,11 @@
     "specialty": "家庭醫學科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。此答案太少。APACHE II、International Prognostic Index 與 TIMI risk score 都把年齡納入評分。",
-      "B": "本項不選。此答案仍少算一種。除了 IPI 與 TIMI，APACHE II 也會因高齡增加預後分數。",
-      "C": "本項應選。正確。四個量表中，APACHE II、IPI、TIMI 三種包含年齡；BODE index 沒有年齡項目。",
-      "D": "本項不選。此答案多算了 BODE。BODE 評分項目是 BMI、FEV1、dyspnea 與 exercise capacity，不含年齡。",
-      "summary": "四個量表只要記住 BODE 不含年齡，其餘 APACHE II、IPI、TIMI 都有年齡。",
+      "A": "本項不選。太少了；APACHE II、IPI、TIMI 三個都把年齡納入。",
+      "B": "本項不選。還少算一個；除了 IPI 與 TIMI，APACHE II 也會因高齡加分。",
+      "C": "本項應選。四個量表中，APACHE II、IPI、TIMI 三種包含年齡；BODE 指數沒有。",
+      "D": "本項不選。多算了 BODE；它看的是 BMI、FEV1、呼吸困難程度與運動能力，不含年齡。",
+      "summary": "BODE＝BMI、阻塞（FEV1）、呼吸困難、運動能力，沒有年齡；APACHE II、IPI、TIMI 都有。",
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
@@ -78074,11 +78074,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項應選。apnea of prematurity 是呼吸停止至少 20 秒。時間較短但伴隨 bradycardia、cyanosis 或 desaturation 也符合。單純超過 10 秒不足以定義。",
-      "B": "本項不選。呼吸暫停時氧合下降會引發 bradycardia，因此心搏過緩是常見伴隨徵象。",
-      "C": "本項不選。暫停換氣會使血氧下降，臨床可見 cyanosis 或 pulse oximetry desaturation。",
-      "D": "本項不選。早產兒呼吸暫停可分 central、obstructive 與 mixed 型，其中 mixed apnea 最常見。",
-      "summary": "早產兒 apnea 不是停 10 秒就算。記住至少 20 秒，或短暫停呼吸但已帶來心慢、發紺或血氧下降。",
+      "A": "本項應選。早產兒呼吸暫停的定義是呼吸停止至少 20 秒；較短但合併心搏過慢、發紺或血氧下降也算。單純超過 10 秒不夠。",
+      "B": "本項不選。呼吸暫停讓血氧下降，常引發心搏過慢。",
+      "C": "本項不選。停止換氣讓血氧下降，可看到發紺或血氧監測數值掉下來。",
+      "D": "本項不選。早產兒呼吸暫停分中樞型、阻塞型與混合型，其中混合型最常見。",
+      "summary": "早產兒呼吸暫停：停 ≥20 秒，或較短但合併心跳慢、發紺、血氧下降。",
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
@@ -78708,11 +78708,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。NF1 患者可由良性 plexiform neurofibroma 轉變或發生 malignant peripheral nerve sheath tumor。出現疼痛或快速增大的病灶要提高警覺。",
-      "B": "本項應選。optic pathway glioma 是 NF1 的典型相關腫瘤。NF2 的代表病灶是雙側 vestibular schwannoma 與其他中樞神經腫瘤。",
-      "C": "本項不選。familial retinoblastoma 的 RB1 germline mutation 會增加後續 osteosarcoma 等第二原發腫瘤風險。接受放射治療後風險尤其增加。",
-      "D": "本項不選。Li-Fraumeni syndrome 與 TP53 變異相關，經典腫瘤譜包含 sarcoma、早發乳癌、腎上腺皮質癌與腦瘤。",
-      "summary": "神經纖維瘤別混型：NF1 聯想 optic glioma，NF2 聯想雙側聽神經 schwannoma。optic glioma 配 NF2 就是錯配。",
+      "A": "本項不選。第一型神經纖維瘤病的叢狀神經纖維瘤可能惡化成惡性周邊神經鞘瘤；出現疼痛或快速變大要警覺。",
+      "B": "本項應選。視神經膠質瘤是第一型神經纖維瘤病的典型腫瘤；第二型的代表是雙側前庭神經鞘瘤。",
+      "C": "本項不選。家族性視網膜母細胞瘤帶 RB1 生殖細胞突變，日後骨肉瘤等第二原發腫瘤風險上升，做過放療更高。",
+      "D": "本項不選。Li-Fraumeni 症候群與 TP53 變異有關，腫瘤包括肉瘤、早發乳癌、腎上腺皮質癌與腦瘤。",
+      "summary": "NF1 配視神經膠質瘤，NF2 配雙側聽神經瘤，別配錯。",
       "guideline": null
     },
     "source": "113020/302_22",
@@ -78896,11 +78896,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。失鹽型 CAH 缺乏 aldosterone，腎臟排不出 H+，可出現 metabolic acidosis。",
-      "B": "本項不選。aldosterone 不足使腎臟無法保鈉，急性 adrenal crisis 常有 hyponatremia、脫水與低血壓。",
-      "C": "本項應選。aldosterone 不足會減少腎小管排鉀，失鹽型 CAH 應出現 hyperkalemia，不是 hypokalemia。",
-      "D": "本項不選。cortisol 缺乏使肝醣分解與糖質新生受損，嬰兒急性發作時可合併 hypoglycemia。",
-      "summary": "失鹽型 CAH 是 aldosterone 與 cortisol 都不夠：低鈉、高鉀、酸中毒、低血糖。看到低鉀就不對。",
+      "A": "本項不選。缺乏 aldosterone 讓腎臟排不出氫離子，會代謝性酸中毒。",
+      "B": "本項不選。缺乏 aldosterone 讓腎臟留不住鈉，急性腎上腺危象常有低血鈉、脫水與低血壓。",
+      "C": "本項應選。缺乏 aldosterone 讓腎臟排不出鉀，應該是高血鉀，不是低血鉀。",
+      "D": "本項不選。缺乏 cortisol 讓肝醣分解與糖質新生受損，嬰兒急性發作可合併低血糖。",
+      "summary": "失鹽型 CAH：低鈉、高鉀、酸中毒、低血糖；看到低鉀就錯了。",
       "guideline": null,
       "concepts": [
         "cah-enzyme-deficiencies"
@@ -78937,11 +78937,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "本項不選。chronic lymphocytic thyroiditis（Hashimoto disease）可造成甲狀腺腫大，典型則是甲狀腺功能低下。它不會有 Graves characteristic 的眼眶浸潤。",
-      "B": "本項應選。Graves disease 是 TSH receptor antibody 刺激甲狀腺造成的 hyperthyroidism。retroorbital lymphocytic inflammation 可導致眼突等 thyroid eye disease。",
-      "C": "本項不選。toxic multinodular goiter 多見於較年長者，特色為自主性結節，不符合兒童與自體免疫家族史的組合。",
-      "D": "本項不選。acute infectious thyroiditis 通常有疼痛、發燒與細菌感染表現，病理不會以慢性淋巴球與漿細胞眼眶浸潤為主。",
-      "summary": "甲狀腺腫合併眼眶浸潤、家族自體免疫史，指向 Graves。眼睛的線索能把它和 Hashimoto 分開。",
+      "A": "本項不選。橋本氏甲狀腺炎會甲狀腺腫，但典型是功能低下，也沒有眼眶浸潤。",
+      "B": "本項應選。葛瑞夫茲病是 TSH 受體抗體刺激甲狀腺造成亢進；眼眶後組織的淋巴球發炎會造成突眼等甲狀腺眼疾，加上家族自體免疫史，指向它。",
+      "C": "本項不選。毒性多結節性甲狀腺腫多見於年紀較大的人，是自主性結節，和兒童、自體免疫家族史不符。",
+      "D": "本項不選。急性感染性甲狀腺炎會痛、發燒，病理不是慢性淋巴球與漿細胞浸潤。",
+      "summary": "甲狀腺腫加眼眶浸潤就是 Graves；眼睛是和 Hashimoto 分開的關鍵。",
       "guideline": null,
       "concepts": [
         "graves-disease"
@@ -79233,11 +79233,11 @@
     "specialty": "小兒科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Trisomy 18 常見生長遲滯與 microcephaly，並可合併顱顏異常。",
-      "B": "本項不選。micrognathia 是 Edwards syndrome 的典型臉部特徵，常與低位耳、突出枕部及握拳重疊手指並見。",
-      "C": "本項應選。flat occiput 較常聯想到 Down syndrome。Edwards syndrome 的經典頭部線索反而是 prominent occiput。",
-      "D": "本項不選。rocker-bottom feet 是 Trisomy 18 的常見肢體特徵。也可伴隨 clenched hands 與 overlapping fingers。",
-      "summary": "愛德華氏症的頭型是突出枕骨，不是扁平枕骨。再加小下巴、重疊手指和 rocker-bottom feet 就更完整。",
+      "A": "本項不選。18 三染色體常見生長遲滯與小頭。",
+      "B": "本項不選。小下巴是典型臉部特徵，常和低位耳、枕部突出、握拳重疊手指一起出現。",
+      "C": "本項應選。扁平枕骨是唐氏症的特徵；愛德華氏症反而是枕骨突出。",
+      "D": "本項不選。搖椅狀足是 18 三染色體常見的肢體特徵。",
+      "summary": "愛德華氏症枕骨突出，唐氏症枕骨扁平。",
       "guideline": null
     },
     "source": "113020/302_22",
@@ -79968,11 +79968,11 @@
       "book": "FC醫(四)(4)(神內)(2026)(OCR)_First Choice-國考分科詳解-醫學(四)2026_第四冊_神經內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。乙醯膽鹼酯酶抑制劑如 donepezil 是另一類 Alzheimer disease 藥物；它增加突觸 acetylcholine，不是 memantine 的主要機轉。",
-      "B": "本項最符合。memantine 是 NMDA glutamate receptor antagonist，可減少持續性 glutamate 過度刺激造成的 excitotoxicity，常用於中重度 Alzheimer disease。",
-      "C": "本項不選。抑制 γ-secretase 會干預 APP 切割，但不是目前 memantine 的機轉，也不是常規 Alzheimer disease 治療策略。",
-      "D": "本項不選。β-secretase 也參與 amyloid-β 形成；memantine 不會直接抑制它，而是調節 NMDA 受體。",
-      "summary": "Memantine 不是膽鹼酯酶抑制劑；它擋的是 NMDA 上過量的 glutamate 刺激，避免神經元被一直轟炸。",
+      "A": "本項不選。乙醯膽鹼酯酶抑制劑（如 donepezil）是另一類藥，增加突觸中的乙醯膽鹼。",
+      "B": "本項應選。Memantine 是 NMDA 受體拮抗劑，減少 glutamate 持續過度刺激造成的興奮毒性，用於中重度阿茲海默症。",
+      "C": "本項不選。抑制 γ-secretase 會干預 APP 切割，但不是 memantine 的機轉。",
+      "D": "本項不選。β-secretase 也參與類澱粉形成，memantine 不直接抑制它。",
+      "summary": "Memantine 擋 NMDA 受體，不是膽鹼酯酶抑制劑。",
       "guideline": "FC 醫學(四)第4冊 p.204",
       "concepts": [
         "cognitive-impairment-delirium-dementia"
@@ -80245,11 +80245,11 @@
     "specialty": "神經內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。亨丁頓氏病由 HTT 基因 CAG trinucleotide repeat expansion 引起，重複數越多通常發病越早。",
-      "B": "本項不選。第二型小腦脊髓共濟失調症（SCA2）是 ATXN2 的 CAG repeat expansion disease，常伴慢眼球運動與周邊神經病變。",
-      "C": "本項應選。Wilson disease 是 ATP7B 突變造成銅代謝異常，並非三核苷酸重複擴增疾病。",
-      "D": "本項不選。第三型小腦脊髓共濟失調症（SCA3／Machado-Joseph disease）由 ATXN3 的 CAG repeat expansion 所致。",
-      "summary": "Huntington、SCA2、SCA3 都是 CAG repeat；Wilson disease 走的是 ATP7B 銅代謝，完全不同路線。",
+      "A": "本項不選。亨丁頓病是 HTT 基因的 CAG 重複擴增，重複越多通常越早發病。",
+      "B": "本項不選。第二型小腦脊髓共濟失調是 ATXN2 的 CAG 重複擴增。",
+      "C": "本項應選。Wilson 病是 ATP7B 突變造成銅代謝異常，不是重複擴增疾病。",
+      "D": "本項不選。第三型小腦脊髓共濟失調（Machado-Joseph 病）是 ATXN3 的 CAG 重複擴增。",
+      "summary": "亨丁頓、SCA2、SCA3 都是 CAG 重複；Wilson 是 ATP7B 銅代謝。",
       "guideline": null,
       "concepts": [
         "wilson-disease"
@@ -81673,11 +81673,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "錯誤。Type II 是一條 dominant pedicle 加多條 minor pedicles；闊背肌（latissimus dorsi）不符合這個血流型態。",
-      "B": "錯誤。Type III 有兩條 dominant pedicles，可由任一條主要血管供應；闊背肌的主要供應加上多條次要節段血管不屬此型。",
-      "C": "錯誤。Type IV 只有多條 segmental pedicles、沒有 dominant pedicle；闊背肌有明確的 thoracodorsal dominant pedicle，所以不會列 type IV。",
-      "D": "正確。闊背肌屬 type V：thoracodorsal artery 是 dominant pedicle，另有 segmental perforators 等次要血流。這使它可作可靠的 pedicled 或 free muscle flap。",
-      "summary": "闊背肌最重要的血管蒂是 thoracodorsal artery；一主多次就是 Mathes–Nahai type V。",
+      "A": "本項不選。第二型是一條主要血管蒂加幾條次要的，例如股薄肌。",
+      "B": "本項不選。第三型有兩條主要血管蒂，例如臀大肌、腹直肌。",
+      "C": "本項不選。第四型只有節段性血管，沒有主要血管蒂；闊背肌有明確的胸背動脈，不屬這型。",
+      "D": "本項應選。闊背肌屬第五型：胸背動脈是主要血管蒂，另有多條節段性穿通枝。這讓它可以做可靠的帶蒂或游離皮瓣。",
+      "summary": "闊背肌是 Mathes–Nahai 第五型：一條胸背動脈加多條節段血管。",
       "guideline": "FC 醫學(五)第2冊 p.309",
       "concepts": [
         "mathes-nahai-muscle-flap-classification"
@@ -81788,11 +81788,11 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。頦下皮瓣（submental flap）以 facial artery 的 submental branch 為蒂，組織薄且鄰近口腔，可用於口腔內小至中型缺損。",
-      "B": "本項是錯誤敘述。胸大肌肌皮瓣（pectoralis major myocutaneous flap）的主要血管蒂是 thoracoacromial artery 的 pectoral branch，不是 internal mammary artery；雖然它確可用於全喉切除後下咽重建。",
-      "C": "本項不選。胸大肌肌皮瓣血流可靠、可提供厚實軟組織，常在頸部大血管暴露或游離皮瓣失敗時作 salvage reconstruction。",
-      "D": "本項不選。鎖骨上皮瓣（supraclavicular flap）由 supraclavicular artery 供應，皮瓣薄且可旋轉到臉部或頸部外側缺損。",
-      "summary": "胸大肌肌皮瓣靠的是 thoracoacromial pedicle；它是頭頸重建的可靠救援皮瓣，不要誤配成 internal mammary artery。",
+      "A": "本項不選。頦下皮瓣以顏面動脈的頦下分支為血管蒂，組織薄又靠近口腔，可修補口內小到中型缺損。",
+      "B": "本項應選。胸大肌肌皮瓣的主要血管蒂是胸肩峰動脈的胸肌支，不是內乳動脈；它確實可以用來重建全喉切除後的下咽。",
+      "C": "本項不選。胸大肌肌皮瓣血流可靠、組織厚，常在頸部大血管暴露或游離皮瓣失敗時當救援。",
+      "D": "本項不選。鎖骨上皮瓣由鎖骨上動脈供應，皮瓣薄，可轉到臉部或頸部外側。",
+      "summary": "胸大肌肌皮瓣靠胸肩峰動脈，是頭頸重建的救援皮瓣。",
       "guideline": null,
       "concepts": []
     },
@@ -82440,11 +82440,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項應選。胃神經內分泌腫瘤源自神經內分泌細胞，常涉及 enterochromaffin-like cells；interstitial cells of Cajal 是胃腸道基質瘤（GIST）的來源，兩者不能混同。",
-      "B": "本項不選。Type II 胃神經內分泌腫瘤與 gastrinoma／Zollinger–Ellison syndrome 及 MEN1 相關，高 gastrin 刺激 ECL-cell hyperplasia，常為多發小病灶。",
-      "C": "本項不選。局限胃神經內分泌腫瘤需依 type、大小、深度與分級選擇內視鏡或手術完整切除；type III 通常更需正式 oncologic resection。",
-      "D": "本項不選。Type III 通常為 sporadic、非高 gastrin 驅動，病灶較大且侵襲、轉移風險最高，因此三型中預後最差。",
-      "summary": "胃 NET 源自神經內分泌細胞而非 Cajal cells；type II 關聯 MEN1，type III 最具侵襲性。",
+      "A": "本項應選。胃神經內分泌腫瘤來自神經內分泌細胞（常是 ECL 細胞）；Cajal 間質細胞是胃腸道基質瘤（GIST）的來源。",
+      "B": "本項不選。第二型與胃泌素瘤及 MEN1 相關，高胃泌素刺激 ECL 細胞增生，常是多發小病灶。",
+      "C": "本項不選。局部病灶依類型、大小、深度與分級，用內視鏡或手術完整切除；第三型通常要正式的腫瘤手術。",
+      "D": "本項不選。第三型多為散發、不靠高胃泌素驅動，病灶較大、侵襲與轉移風險最高，預後最差。",
+      "summary": "胃 NET 來自 ECL 細胞，GIST 才來自 Cajal 細胞；第二型配 MEN1，第三型最兇。",
       "guideline": "FC 醫學(五)第2冊 p.279",
       "concepts": []
     },
@@ -82626,11 +82626,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。懷孕時 subclinical hypothyroidism 的治療門檻較低，尤其 Hashimoto thyroiditis 相關抗體陽性者；母體甲狀腺素需求上升，需以 levothyroxine 達到孕期 TSH 目標。",
-      "B": "本項不選。對側仍有 1.5 cm nodular goiter 時，是否補充 levothyroxine 需綜合 TSH、細胞學與症狀；本題脈絡把殘餘甲狀腺結節列為可考慮治療情境，但不應以抑制劑量常規縮結節。",
-      "C": "本項不選。冠心病患者若需補充 levothyroxine，應低劑量開始、緩慢調整以避免誘發 angina 或 arrhythmia；冠心病不是絕對排除治療，而是改變給藥策略。",
-      "D": "正確，為除外項。TSH receptor antibody 主要用於 Graves disease 的評估，不能支持 Hashimoto thyroiditis 術後 subclinical hypothyroidism 補充 levothyroxine 的適應症。",
-      "summary": "葉切除後輕度 TSH 升高是否補充看孕期、症狀與風險；TSH receptor antibody 不是治療此狀況的依據。",
+      "A": "本項不選。懷孕時亞臨床甲狀腺低下的治療門檻較低，尤其是橋本氏抗體陽性者，要補 levothyroxine 達到孕期 TSH 目標。",
+      "B": "本項不選。對側還有 1.5 cm 結節性甲狀腺腫時，是可以考慮補充的情境；但不應為了縮小結節而用抑制劑量。",
+      "C": "本項不選。冠心病不是不能補，而是要從低劑量開始、慢慢調，避免誘發心絞痛或心律不整。",
+      "D": "本項應選。TSH 受體抗體用來評估葛瑞夫茲病，不能當作橋本氏甲狀腺炎術後補充甲狀腺素的理由。",
+      "summary": "術後輕度 TSH 升高是否補，看懷孕、殘餘結節與心臟；TSH 受體抗體是 Graves 的檢查。",
       "guideline": "FC 醫學(五)第2冊 p.239",
       "concepts": []
     },
@@ -82660,11 +82660,11 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項應選。Spironolactone 不能作嗜鉻細胞瘤術前準備。應先用 phenoxybenzamine、doxazosin 等 alpha blockade 並補充鹽水；spironolactone 針對 mineralocorticoid receptor，不足以預防 catecholamine crisis。",
-      "B": "本項不選。5 cm 腎上腺嗜鉻細胞瘤若影像未見明顯侵犯，完成充分 alpha blockade 後可採腹腔鏡腎上腺切除；術式仍依大小、位置與惡性疑慮調整。",
-      "C": "本項不選。術中 catecholamine surge 造成嚴重高血壓時，可用短效 IV nitroprusside 或 alpha blocker phentolamine 調控，並由麻醉與外科團隊密切監測。",
-      "D": "本項不選。術後復發或懷疑多發病灶時，MIBG scan 可偵測具有 norepinephrine transporter uptake 的嗜鉻細胞瘤／副神經節瘤，亦可評估治療可能性。",
-      "summary": "嗜鉻細胞瘤術前必須先 alpha blockade，再視需要加 beta blockade；spironolactone 不是替代方案。",
+      "A": "本項應選。Spironolactone 不能拿來準備嗜鉻細胞瘤手術。術前要先用 phenoxybenzamine、doxazosin 等 α 阻斷劑並補鹽水；spironolactone 作用在礦物皮質素受體，擋不住兒茶酚胺危象。",
+      "B": "本項不選。5 公分的腎上腺嗜鉻細胞瘤若影像沒有明顯侵犯，充分 α 阻斷後可以做腹腔鏡腎上腺切除。",
+      "C": "本項不選。術中兒茶酚胺大量釋放造成嚴重高血壓時，可用短效的 nitroprusside 或 α 阻斷劑 phentolamine 控制。",
+      "D": "本項不選。術後復發或懷疑多發病灶時，MIBG 掃描可找出會攝取的嗜鉻細胞瘤或副神經節瘤。",
+      "summary": "嗜鉻細胞瘤術前先 α 阻斷再視需要加 β 阻斷；spironolactone 不能替代。",
       "guideline": null,
       "concepts": [
         "pheochromocytoma-preoperative-blockade"
@@ -84357,11 +84357,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題不選 A：TOF ratio 超過 0.9 代表足夠恢復。可降低 residual neuromuscular blockade 的 airway obstruction 與 hypoxemia；風險上升的是低於此門檻。",
-      "B": "這題要選 B：Neostigmine 抑制 acetylcholinesterase、增加神經肌肉接合處 ACh。必須等已有自發恢復跡象才有效；深度 block 時硬給可能造成不完全 reversal。",
-      "C": "這題不選 C：Sugammadex 以包合 rocuronium、vecuronium 等 aminosteroid NMBDs 為主。不能有效解除 cisatracurium 的 benzylisoquinolinium block。",
-      "D": "這題不選 D：Volatile anesthetics 會增強 nondepolarizing block。反而較容易殘留；高齡者風險來自藥效時間延長與清除下降，不能歸咎於 TIVA 本身。",
-      "summary": "Neostigmine 要等 TOF 已回來才給；拔管前真正的安全線是 quantitative TOF ratio ≥0.9。",
+      "A": "本項不選。TOF 比值超過 0.9 代表恢復足夠，反而降低殘餘阻斷造成的呼吸道阻塞與缺氧；風險上升的是低於 0.9。",
+      "B": "本項應選。Neostigmine 抑制乙醯膽鹼酯酶、增加神經肌肉接合處的乙醯膽鹼；但要等病人已有自發恢復跡象才有效，深度阻斷時硬給只會反轉不完全。",
+      "C": "本項不選。Sugammadex 包住的是 rocuronium、vecuronium 這類類固醇結構肌肉鬆弛劑，對 cisatracurium 無效。",
+      "D": "本項不選。吸入性麻醉劑會加強非去極化阻斷，反而比較容易殘留；高齡者的風險來自藥效延長與清除下降，不是靜脈麻醉造成的。",
+      "summary": "Neostigmine 要等阻斷開始恢復才給；拔管前 TOF 比值要 ≥0.9；sugammadex 只對類固醇類有效。",
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
@@ -84398,11 +84398,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題要選 A：Cisatracurium 主要經 Hofmann elimination 與非特異性 ester hydrolysis 分解。不以肝腎清除為主。嚴重肝功能異常時較容易預測。",
-      "B": "這題不選 B：Vecuronium 主要經肝代謝及膽汁排泄。肝功能差會使作用延長。不是此題最佳選項。",
-      "C": "這題不選 C：Rocuronium 以肝膽排泄為主。嚴重肝功能異常時 onset 或 duration 可能改變。需減量並以 TOF 監測。",
-      "D": "這題不選 D：Succinylcholine 由 plasma pseudocholinesterase 水解。不是肝臟主要代謝；但它有高血鉀、malignant hyperthermia 等重要禁忌。且本題的首選是 cisatracurium。",
-      "summary": "肝腎功能差要先想到 cisatracurium：Hofmann elimination 讓它不依賴主要器官代謝。",
+      "A": "本項應選。Cisatracurium 主要靠 Hofmann 分解（隨體溫與 pH 自己分解）與非特異性酯解，不依賴肝腎，嚴重肝病時藥效較可預測。",
+      "B": "本項不選。Vecuronium 主要經肝代謝與膽汁排泄，肝功能差時作用延長。",
+      "C": "本項不選。Rocuronium 以肝膽排泄為主，肝功能異常時要減量並用 TOF 監測。",
+      "D": "本項不選。Succinylcholine 由血漿假性膽鹼酯酶分解，不是主要靠肝；但它有高血鉀、惡性高熱等重要禁忌，本題首選仍是 cisatracurium。",
+      "summary": "肝腎差選 cisatracurium：Hofmann 分解，不靠器官代謝。",
       "guideline": "FC 醫學(六)第4冊 p.108",
       "concepts": [
         "neuromuscular-blockers"
@@ -84439,11 +84439,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題要選 A：lidocaine 的脊椎麻醉作用時間比 bupivacaine 短。不能把兩者的持續時間寫反。Lidocaine 的作用時間比 bupivacaine 短；bupivacaine 蛋白結合高、效力強。常用於較長時間的 spinal anesthesia。",
-      "B": "這題不選 B：Intrathecal morphine 脂溶性低、在 CSF 停留久。所以鎮痛時間較 fentanyl 長。但也要警覺延遲性 respiratory depression。",
-      "C": "這題不選 C：Intrathecal opioid 會作用脊髓 sacral autonomic pathways。可能造成 urinary retention；高齡男性或前列腺阻塞病人更要監測。",
-      "D": "這題不選 D：交感神經阻斷造成 vasodilation 是 spinal anesthesia 最常見併發症之一。因此給藥前後要監測血壓並處理低血壓。",
-      "summary": "脊椎麻醉的時間要記得 bupivacaine 比 lidocaine 長；最常見併發症則是交感阻斷造成低血壓。",
+      "A": "本項應選。Lidocaine 的作用時間比 bupivacaine 短；bupivacaine 蛋白結合率高、效力強，常用於較長的脊椎麻醉。",
+      "B": "本項不選。椎管內 morphine 脂溶性低、在腦脊髓液停留久，止痛時間比 fentanyl 長；也要注意延遲性呼吸抑制。",
+      "C": "本項不選。椎管內鴉片會作用在脊髓薦部自主神經路徑，可能尿滯留，老年男性更要注意。",
+      "D": "本項不選。交感神經被阻斷造成血管擴張，低血壓是脊椎麻醉最常見的併發症。",
+      "summary": "脊椎麻醉：bupivacaine 比 lidocaine 長；最常見併發症是低血壓。",
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
@@ -84521,11 +84521,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題不選 A：足月孕婦因胃排空延遲與腹壓上升，通常視為 full stomach；nonparticulate antacid 可降低吸入胃液酸度。但不取代 RSI 與 cuffed tube。",
-      "B": "這題要選 B：剖腹產快速誘導常需要 succinylcholine。不能因擔心新生兒而一概禁用。Cesarean general anesthesia 常用 succinylcholine 進行 rapid-sequence induction；它作用快、時間短，正適合母體 aspiration risk 高的情境。",
-      "C": "這題不選 C：胎兒娩出前盡量避免大量 opioid。因它可穿過胎盤造成 neonatal respiratory depression；娩出後再補 analgesia 較安全。",
-      "D": "這題不選 D：胎兒娩出後可將 volatile anesthetic 維持在較低濃度如約 0.5 MAC。以兼顧麻醉與避免過度 uterine relaxation、子宮出血。",
-      "summary": "剖腹全麻把母體當 full stomach 做 RSI；succinylcholine 是常用工具，opioid 則留到胎兒娩出後。",
+      "A": "本項不選。足月孕婦胃排空慢、腹壓高，一律當作飽胃；不含顆粒的制酸劑能降低吸入胃液的酸度。",
+      "B": "本項應選。剖腹產全身麻醉常用 succinylcholine 做快速誘導插管，它作用快、時間短，正適合吸入風險高的孕婦；不能一概禁用。",
+      "C": "本項不選。娩出前盡量避免大量鴉片，因為會通過胎盤造成新生兒呼吸抑制；娩出後再補止痛較安全。",
+      "D": "本項不選。娩出後吸入性麻醉劑維持在約 0.5 MAC，避免子宮過度放鬆而出血。",
+      "summary": "剖腹全麻：當作飽胃做 RSI、可用 succinylcholine；鴉片等胎兒出來再給。",
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
@@ -84562,11 +84562,11 @@
       "book": "FC醫(六)(4)(麻醉、耳鼻喉)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第四冊_麻醉科、耳鼻喉科.pdf"
     },
     "explanation": {
-      "A": "這題不選 A：Pregabalin 可用於部分 neuropathic pain。但不是典型 trigeminal neuralgia 的第一線；它較常作替代或輔助用藥。",
-      "B": "這題不選 B：Fluoxetine 是 SSRI。適應症為憂鬱與焦慮相關疾病。不會穩定三叉神經的高頻異常放電。",
-      "C": "這題不選 C：Tramadol 是弱 μ-opioid agonist 加 monoamine reuptake inhibitor。不能處理 trigeminal neuralgia 的典型神經放電機轉。也不宜作長期首選。",
-      "D": "這題要選 D：Carbamazepine 阻斷 voltage-gated sodium channels、穩定過度興奮的神經膜。是典型三叉神經痛的首選藥物；需監測血球與肝功能等副作用。",
-      "summary": "典型 trigeminal neuralgia 的第一線記 carbamazepine；它是 sodium-channel blocker，不是一般止痛藥。",
+      "A": "本項不選。Pregabalin 可用於部分神經痛，但不是典型三叉神經痛的第一線。",
+      "B": "本項不選。Fluoxetine 是 SSRI，用於憂鬱與焦慮，不能穩定三叉神經的異常放電。",
+      "C": "本項不選。Tramadol 是弱鴉片加單胺回收抑制劑，處理不了三叉神經痛的放電機轉，也不適合長期首選。",
+      "D": "本項應選。Carbamazepine 阻斷電位門控鈉通道、穩定過度興奮的神經膜，是典型三叉神經痛的首選；要監測血球與肝功能。",
+      "summary": "三叉神經痛首選 carbamazepine（鈉通道阻斷劑）。",
       "guideline": "FC 醫學(六)第4冊 p.139",
       "concepts": [
         "primary-headache-types"
@@ -84848,11 +84848,11 @@
       "book": "FC醫(六)(2)(眼科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第二冊_眼科.pdf"
     },
     "explanation": {
-      "A": "本項可影響多條腦神經。superior orbital fissure syndrome 可傷及 III、IV、V1、VI，造成眼外肌麻痺、額部感覺缺失與眼瞼下垂。",
-      "B": "本項可影響多條腦神經。orbital apex syndrome 除 III、IV、V1、VI 外還會影響 II，故可同時有視力下降與眼球運動障礙。",
-      "C": "本項可影響多條腦神經。Fisher syndrome 是 Guillain-Barré variant，可有 ophthalmoplegia、ataxia、areflexia，表現為多條控制眼球運動神經的功能受損。",
-      "D": "正確。Horner syndrome 是交感神經路徑受損，典型只有輕度 ptosis、miosis 與無汗，不會同時麻痺 II、III、IV、VI。",
-      "summary": "多條眼動神經加視力下降想到 orbital apex；Horner 只是交感神經症候群，沒有全面眼球運動麻痺。",
+      "A": "本項不選。上眼眶裂症候群會傷到 III、IV、V1、VI，造成眼外肌麻痺、額部麻木與眼瞼下垂。",
+      "B": "本項不選。眼眶尖症候群除了 III、IV、V1、VI，還會影響視神經（II），所以同時視力下降與眼球運動障礙。",
+      "C": "本項不選。Fisher 症候群是 Guillain-Barré 的變異型，有眼肌麻痺、共濟失調與反射消失，多條控制眼球的神經受損。",
+      "D": "本項應選。Horner 症候群只是交感神經路徑受損，表現輕度眼瞼下垂、瞳孔縮小與無汗，不會麻痺 II、III、IV、VI。",
+      "summary": "多條眼動神經加視力下降想眼眶尖；Horner 只有交感神經症狀。",
       "guideline": "FC 醫學(六)第2冊 p.259",
       "concepts": []
     },
@@ -85431,11 +85431,11 @@
       "book": "FC醫(六)(1上)(產科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(上)冊_產科.pdf"
     },
     "explanation": {
-      "A": "本項不對，母體 corpus luteum 在早孕期以 progesterone 支持妊娠，但約 8–10 週會發生 luteal-placental shift，不再是主要來源。",
-      "B": "本項不對，Maternal adrenal gland 可分泌少量類固醇前驅物，卻不是妊娠 8 週後維持 progesterone 的主力。",
-      "C": "本項不對，Fetal adrenal gland 對 estrogen 前驅物較重要，不是母體血中 progesterone 的主要來源。",
-      "D": "正確。妊娠 8 週後胎盤（placenta）接手大量 progesterone 分泌，持續維持子宮靜止與妊娠。",
-      "summary": "早孕先靠黃體，約 8–10 週後由胎盤接棒分泌 progesterone，這就是 luteal-placental shift。",
+      "A": "本項不選。早孕期靠母親卵巢黃體分泌黃體素，但約 8–10 週後交棒給胎盤。",
+      "B": "本項不選。母親腎上腺只分泌少量類固醇前驅物，不是主要來源。",
+      "C": "本項不選。胎兒腎上腺對雌激素前驅物比較重要，不是黃體素主要來源。",
+      "D": "本項應選。妊娠 8 週後由胎盤接手大量分泌黃體素，維持子宮靜止與妊娠。",
+      "summary": "黃體素早孕靠黃體，8–10 週後由胎盤接棒。",
       "guideline": "FC 醫學(六)第1上冊 p.17",
       "concepts": [
         "fetal-assessment-placental-hormones"
@@ -85995,11 +85995,11 @@
       "book": "FC醫(六)(1下)(婦科、生殖內分泌、婦泌尿、內視鏡)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第一(下)冊_婦科、生殖內分泌、婦女泌尿、內視鏡.pdf"
     },
     "explanation": {
-      "A": "正確，metronidazole 或 clindamycin 能處理細菌性陰道炎的 anaerobic dysbiosis，是有效的標準治療選項。",
-      "B": "錯誤，penicillin G 對 Treponema pallidum 有效。但不能針對細菌性陰道炎的 Gardnerella 與 anaerobes 組合。",
-      "C": "錯誤，gentamicin 主要涵蓋 aerobic gram-negative bacteria。並非細菌性陰道炎的常規治療。",
-      "D": "錯誤，amoxicillin 對細菌性陰道炎的多菌種 anaerobic dysbiosis 效果不可靠，不應取代 metronidazole 或 clindamycin。",
-      "summary": "細菌性陰道炎治療背一對：metronidazole 或 clindamycin，因為目標是 anaerobic dysbiosis。",
+      "A": "本項應選。細菌性陰道炎是厭氧菌失衡，metronidazole 或 clindamycin 是標準治療。",
+      "B": "本項不選。Penicillin G 治梅毒，對 Gardnerella 與厭氧菌的組合無效。",
+      "C": "本項不選。Gentamicin 主要涵蓋需氧革蘭氏陰性菌，不是治療選項。",
+      "D": "本項不選。Amoxicillin 對細菌性陰道炎的多菌種厭氧失衡效果不可靠。",
+      "summary": "細菌性陰道炎用 metronidazole 或 clindamycin。",
       "guideline": "FC 醫學(六)第1下冊 p.147"
     },
     "source": "113020/302_44",
