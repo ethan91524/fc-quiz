@@ -596,7 +596,8 @@
       "D": "正確答案。大量吐血合併休克，要立即建立兩條大口徑周邊靜脈或適當的血管通路。意識不清又躁動的人應先氣管插管，避免吸入並方便後續做上消化道內視鏡止血。",
       "summary": "急性食道靜脈瘤大出血先做 ABC：建立血管通路復甦，意識不清者先插管；急性休克期不用 propranolol。",
       "concepts": [
-        "portal-hypertension-cirrhosis"
+        "portal-hypertension-cirrhosis",
+        "gi-bleeding-approach"
       ]
     },
     "source": "110020/302_11",
@@ -7954,7 +7955,8 @@
       "guideline": null,
       "concepts": [
         "colorectal-cancer-polyps",
-        "acute-abdominal-pain-approach"
+        "acute-abdominal-pain-approach",
+        "gi-bleeding-approach"
       ]
     },
     "source": "110020/302_33",
@@ -25849,7 +25851,8 @@
     "explanation": {
       "guideline": null,
       "concepts": [
-        "forrest-classification"
+        "forrest-classification",
+        "gi-bleeding-approach"
       ],
       "A": "本項不選。黏附血塊屬 Forrest IIb，血塊底下可能還有高風險的出血點，再出血風險不算低。",
       "B": "本項不選。未出血但可見的血管屬 Forrest IIa，是需要內視鏡治療的高風險徵象。",
@@ -29784,7 +29787,8 @@
       "summary": "嘴唇黑斑＋血便的小孩要想 Peutz-Jeghers：顯性遺傳、息肉在小腸、而且要終生防癌。",
       "guideline": "FC 醫學(四)第1冊 p.621",
       "concepts": [
-        "genodermatoses-skin-syndromes"
+        "genodermatoses-skin-syndromes",
+        "gi-bleeding-approach"
       ]
     },
     "source": "111020/302_22",
@@ -31694,7 +31698,8 @@
       "summary": "血流動力不穩的血便先 ABC 復甦、排除上消化道來源並定位止血，不能未定位便直接開刀。",
       "guideline": null,
       "concepts": [
-        "anorectal-colon-anatomy-lgib"
+        "anorectal-colon-anatomy-lgib",
+        "gi-bleeding-approach"
       ]
     },
     "source": "111020/302_33",
@@ -63190,7 +63195,8 @@
       "D": "本項不選。內視鏡要一併看胃靜脈瘤（gastric varices）有沒有出血跡象，因為它的處理方式和食道靜脈瘤可能不同。",
       "summary": "急性靜脈瘤出血：血管收縮藥（vasoactive drug）＋內視鏡止血；NSBB 留到循環穩定後才用來預防再出血。",
       "concepts": [
-        "portal-hypertension-cirrhosis"
+        "portal-hypertension-cirrhosis",
+        "gi-bleeding-approach"
       ]
     },
     "source": "112080/302_11",
@@ -65937,7 +65943,10 @@
       "C": "本項應選。無痛性褐紅血便在幼兒要想到梅克爾憩室；Meckel scan 以 technetium 偵測異位胃黏膜，cimetidine 可提高偵測敏感性。",
       "D": "本項不選。上消化道內視鏡不易看到遠端迴腸的 Meckel diverticulum，不能取代核醫掃描。",
       "summary": "幼兒無痛性血便先找 Meckel diverticulum；有異位胃黏膜才會讓 Meckel scan 抓到。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "gi-bleeding-approach"
+      ]
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -75584,7 +75593,8 @@
       "D": "本項不選。活動性出血或可見血管屬於高風險潰瘍，內視鏡止血能降低再出血和不良結局。",
       "summary": "急性失血早期 Hb 可能正常；先看血流動力學，不能等 Hb 才判斷嚴重度。",
       "concepts": [
-        "anorectal-colon-anatomy-lgib"
+        "anorectal-colon-anatomy-lgib",
+        "gi-bleeding-approach"
       ]
     },
     "source": "113020/302_11",
@@ -130089,7 +130099,10 @@
       "C": "正確。99mTc-pertechnetate 會被異位胃黏膜吸收，Meckel scan 可在無痛性暗紅便與輕度貧血的幼兒中，先非侵入性偵測出血 Meckel 憩室。",
       "D": "不正確。腹腔鏡切除可在出血持續、掃描不確定或診斷後治療時使用，但生命徵象穩定的病童應先以 Meckel scan 建立最可能診斷。",
       "summary": "幼兒無痛性大量暗紅便加輕度貧血，先找會分泌酸的異位胃黏膜：Meckel scan。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "gi-bleeding-approach"
+      ]
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
