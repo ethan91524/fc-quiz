@@ -949,7 +949,8 @@
       "summary": "看到代謝性酸中毒先算陰離子隙：升高就把腹瀉排除，因為腸道漏鹼是正常陰離子隙。",
       "guideline": null,
       "concepts": [
-        "acid-base-approach"
+        "acid-base-approach",
+        "altered-consciousness-approach"
       ]
     },
     "source": "110020/302_11",
@@ -2542,7 +2543,8 @@
       "summary": "譫妄是急性且波動的注意力障礙，可躁動也可安靜；預防重於特效藥，術前老年整合照護有益。",
       "guideline": null,
       "concepts": [
-        "cognitive-impairment-delirium-dementia"
+        "cognitive-impairment-delirium-dementia",
+        "altered-consciousness-approach"
       ]
     },
     "source": "110020/302_11",
@@ -3057,7 +3059,9 @@
       "D": "本項不選。腸病毒（Enterovirus）較常造成手足口病、疱疹性咽峽炎、無菌性腦膜炎或新生兒重症；口咽病灶通常是水疱或潰瘍，並非此題的單核球增多症表型。",
       "summary": "滲出性咽炎、後頸淋巴結腫大、肝脾腫大、眼瞼水腫與 atypical lymphocytosis 的組合應優先辨認 EBV 傳染性單核球增多症。",
       "guideline": "FC 醫學(四)第1冊 p.277",
-      "concepts": []
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -3092,7 +3096,8 @@
       "summary": "高劑量 IVIG 主要影響部分活性病毒疫苗；肺炎鏈球菌等非活性疫苗可依原時程接種。",
       "guideline": null,
       "concepts": [
-        "kawasaki-diagnostic-criteria"
+        "kawasaki-diagnostic-criteria",
+        "pediatric-fever-approach"
       ]
     },
     "source": "110020/302_22",
@@ -15654,7 +15659,8 @@
       "summary": "發燒加咳嗽、鼻炎、結膜炎後從臉往下出疹，是麻疹的時間順序。",
       "guideline": "FC 醫學(四)第1冊 p.623",
       "concepts": [
-        "childhood-exanthems"
+        "childhood-exanthems",
+        "pediatric-fever-approach"
       ]
     },
     "source": "110080/302_22",
@@ -15935,7 +15941,10 @@
       "C": "這題不選。低血鈉會增加腦水腫與抽搐風險，治療目標是避免或矯正危險的 hyponatremia，不是維持它。",
       "D": "正確。N-acetylcysteine 可補充 glutathione，幫助清除有毒代謝物 NAPQI；疑似嚴重 acetaminophen poisoning 應及早給藥。",
       "summary": "acetaminophen 中毒的特異治療是 N-acetylcysteine；急救同時要用等張液維持灌流，別製造低血鈉。",
-      "guideline": "FC 醫學(四)第1冊 p.355"
+      "guideline": "FC 醫學(四)第1冊 p.355",
+      "concepts": [
+        "altered-consciousness-approach"
+      ]
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -16120,7 +16129,10 @@
       "C": "這題不選。VCUG 在特定風險兒童用來看 vesicoureteral reflux 與尿道解剖，並非所有首次 UTI 都立即常規施作。",
       "D": "這題不選。DMSA scan 可評估急性腎盂腎炎造成的腎皮質缺損或後續疤痕，對腎臟受損評估仍有角色。",
       "summary": "小兒發燒 UTI 的影像首重 ultrasound；IVP 已不是現代常規工具，VCUG 與 DMSA 要依風險選用。",
-      "guideline": "FC 醫學(四)第1冊 p.158"
+      "guideline": "FC 醫學(四)第1冊 p.158",
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -31946,7 +31958,8 @@
       "summary": "CPP＝MAP−ICP；150/90 的 MAP 為 110，扣 ICP 25 後 CPP 為 85 mmHg。",
       "guideline": null,
       "concepts": [
-        "tbi-hematomas-icp"
+        "tbi-hematomas-icp",
+        "altered-consciousness-approach"
       ]
     },
     "source": "111020/302_33",
@@ -40731,7 +40744,8 @@
       "summary": "玫瑰疹的時間軸是「先高燒、退燒才出疹」；病原是 HHV-6/7，不是 HHV-8。",
       "guideline": "FC 醫學(四)第1冊 p.265",
       "concepts": [
-        "childhood-exanthems"
+        "childhood-exanthems",
+        "pediatric-fever-approach"
       ]
     },
     "source": "111080/302_22",
@@ -41691,7 +41705,8 @@
       "summary": "川崎病的脫皮是恢復期線索；急性期診斷要背發燒加結膜、口腔、皮疹、四肢變化與頸部淋巴結。",
       "guideline": "FC 醫學(四)第1冊 p.61",
       "concepts": [
-        "kawasaki-diagnostic-criteria"
+        "kawasaki-diagnostic-criteria",
+        "pediatric-fever-approach"
       ]
     },
     "source": "111080/302_22",
@@ -49792,7 +49807,8 @@
       "summary": "頭傷合併嚴重高血壓做 RSI 時，傳統考點會避開 ketamine 的交感刺激；實務仍要同時守住 CPP 與血壓。",
       "guideline": "FC 醫學(六)第4冊 p.83",
       "concepts": [
-        "iv-induction-agents"
+        "iv-induction-agents",
+        "altered-consciousness-approach"
       ]
     },
     "source": "111080/302_44",
@@ -50006,7 +50022,8 @@
       "summary": "休克先摸頸靜脈：低陷＝血容量不夠，鼓脹＝心臟或心包出問題。",
       "guideline": null,
       "concepts": [
-        "shock-hemodynamic-profiles"
+        "shock-hemodynamic-profiles",
+        "altered-consciousness-approach"
       ]
     },
     "source": "112020/302_11",
@@ -50895,7 +50912,10 @@
       "C": "本項不選。5% 葡萄糖補不了高血鈣造成的細胞外液流失。而且給鎮靜劑只會把高血鈣造成的譫妄蓋掉，延誤真正的處置。",
       "D": "本項不選。靜脈注射（IV）氯化鈣會讓本來就高的血鈣更高。它是用在嚴重症狀性低血鈣，方向完全相反。",
       "summary": "高血鈣的譫妄先大量補生理食鹽水，利尿劑要等補足水才給——而且要回頭找癌症。",
-      "guideline": "FC 醫學(三)第3冊 p.68"
+      "guideline": "FC 醫學(三)第3冊 p.68",
+      "concepts": [
+        "altered-consciousness-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54061,7 +54081,8 @@
       "summary": "嬰兒持續高燒、皮疹又 BCG 疤痕發紅，要立刻連到 Kawasaki disease，下一個關鍵檢查是心臟超音波。",
       "guideline": null,
       "concepts": [
-        "kawasaki-diagnostic-criteria"
+        "kawasaki-diagnostic-criteria",
+        "pediatric-fever-approach"
       ]
     },
     "source": "112020/302_22",
@@ -56484,7 +56505,8 @@
       "summary": "嚴重高血壓、昏迷與典型深部 ICH 應先視為 spontaneous hypertensive hemorrhage，並合理控制血壓。",
       "guideline": null,
       "concepts": [
-        "intracerebral-hemorrhage-management"
+        "intracerebral-hemorrhage-management",
+        "altered-consciousness-approach"
       ]
     },
     "source": "112020/302_33",
@@ -65833,7 +65855,8 @@
       "summary": "嬰兒高燒五天配 BCG 疤痕紅、草莓舌、結膜充血，直接想到 Kawasaki disease 並評估冠狀動脈。",
       "guideline": null,
       "concepts": [
-        "kawasaki-diagnostic-criteria"
+        "kawasaki-diagnostic-criteria",
+        "pediatric-fever-approach"
       ]
     },
     "source": "112080/302_22",
@@ -66632,7 +66655,10 @@
       "C": "本項不選。acetaminophen 或 ibuprofen 可降低不適與體溫，但不會消除扁桃腺炎的病因或縮短疾病本身的自然病程。",
       "D": "本項應選。發燒是發炎介質把下視丘體溫設定點調高，身體主動血管收縮、發抖來產熱，不是單純散熱不良。",
       "summary": "發燒是設定點被上調後的主動產熱，不是散熱故障。退燒藥讓孩子舒服，卻不會治好感染本身。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -79044,7 +79070,10 @@
       "C": "本項應選。高劑量免疫球蛋白（2 g/kg）之後要延後的是麻疹腮腺炎德國麻疹與水痘這類「含相應抗體會被中和」的活性減毒疫苗，建議間隔 11 個月。日本腦炎疫苗不受免疫球蛋白影響，不需要延後——把兩支都說要延後才是本題的錯誤。",
       "D": "本項不選。Kawasaki disease 可造成冠狀動脈擴張或 aneurysm，因此診斷時與追蹤期都需安排 echocardiography。",
       "summary": "川崎病的心臟重點是冠狀動脈。IVIG 後活疫苗要延後，但考題若把孩子當下年齡和疫苗時程接不起來，先回頭核對時點。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -79117,7 +79146,8 @@
       "summary": "咳、鼻炎、結膜炎後出疹先追疫苗和旅遊接觸史。IgE 不會解答麻疹、川崎或菌血症的鑑別。",
       "guideline": null,
       "concepts": [
-        "childhood-exanthems"
+        "childhood-exanthems",
+        "pediatric-fever-approach"
       ]
     },
     "source": "113020/302_22",
@@ -82654,7 +82684,9 @@
       "D": "本項不選。Cinacalcet 可降低 PTH 與 calcium，特別用於不宜手術或副甲狀腺癌，但口服起效與急症控制不足，不能取代立即 IV hydration。",
       "summary": "高血鈣危象先以 normal saline 補液穩定，再加 calcitonin／antiresorptive therapy 並處理病因。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "altered-consciousness-approach"
+      ]
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -91573,7 +91605,8 @@
       "summary": "玫瑰疹最會考「退燒才出疹」：病原是 HHV-6/7，不是 HHV-8。",
       "guideline": "FC 醫學(四)第1冊 p.264",
       "concepts": [
-        "childhood-exanthems"
+        "childhood-exanthems",
+        "pediatric-fever-approach"
       ]
     },
     "source": "113070/302_22",
@@ -91654,7 +91687,10 @@
       "C": "本項不選。尿液肺炎鏈球菌抗原主要協助肺炎或侵襲性肺炎鏈球菌感染判斷，和本題單核球增多症樣症候群不合。",
       "D": "本項敘述正確。發燒、咽炎、後頸淋巴結腫大、脾腫大與 ALT 上升很像感染性單核球增多症；EBV VCA-IgM 最有診斷幫助。",
       "summary": "咽炎加脾腫大、肝指數高，不要只想鏈球菌：VCA-IgM 能把 EBV 單核球增多症抓出來。",
-      "guideline": "FC 醫學(四)第1冊 p.257"
+      "guideline": "FC 醫學(四)第1冊 p.257",
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -93336,7 +93372,8 @@
       "summary": "譫妄的病因拆兩層：住院前就帶著的（老、失智、原本在吃的藥）是前置因子，住院後才加上去的（手術、尿管、ICU 環境）是誘發因子。",
       "guideline": null,
       "concepts": [
-        "delirium-management-principles"
+        "delirium-management-principles",
+        "altered-consciousness-approach"
       ]
     },
     "source": "113070/302_22",
@@ -101967,7 +102004,10 @@
       "C": "正確答案。順序是「抽完就給」：先抽 ACTH 與 cortisol 保留診斷證據，然後**不等結果**立刻給靜脈（IV）hydrocortisone 加輸液。40 年前產後大出血的病史指向希漢氏症候群，這是典型的腎上腺危症。",
       "D": "本項不選。cosyntropin test（ACTH 刺激試驗）可以之後再做確認，但不能拿來延誤懷疑中的腎上腺危症治療。",
       "summary": "腎上腺危症的口訣是「先抽血、不等結果、馬上打 hydrocortisone」——診斷可以晚一點補。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "altered-consciousness-approach"
+      ]
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102311,7 +102351,8 @@
       "summary": "譫妄用 CAM 找，但真正治療是找出感染、缺氧、藥物等誘因。",
       "guideline": null,
       "concepts": [
-        "cognitive-impairment-delirium-dementia"
+        "cognitive-impairment-delirium-dementia",
+        "altered-consciousness-approach"
       ]
     },
     "source": "114020/302_0103",
@@ -103252,7 +103293,10 @@
       "C": "本項不選。renal abscess 通常是更局限的液化膿腔；需靠影像確認，題幹較像尚未液化的 lobar nephronia。",
       "D": "本項不選。renal infarction 可有腰痛或血尿，但不常造成膿尿與持續感染性高燒。",
       "summary": "UTI 治 3 天仍高燒，影像若是局灶腎實質感染要想 acute lobar nephronia；它介於腎盂腎炎與膿瘍之間。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -103563,7 +103607,10 @@
       "C": "本項應選。重症腸病毒的神經源性肺水腫與心功能失調可因大量快速輸液惡化，補液須謹慎依灌流調整。",
       "D": "本項不選。若神經源性心衰竭合併低血壓，milrinone 的 inotropic 與 afterload-reducing 作用可在專科監測下考慮。",
       "summary": "腸病毒重症怕的不是單純脫水：myoclonic jerk 是警訊，快速大量補液可能把肺水腫與心衰推得更糟。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -103670,7 +103717,10 @@
       "C": "本項應選。EBV 多以支持療法為主；血小板低下不等於要立刻用抗病毒藥，acyclovir 對一般 infectious mononucleosis 臨床效益有限。抹片上箭頭指的是體積大、細胞質豐富且邊緣被周圍紅血球擠壓成波浪狀的變異型淋巴球，這是 EB 病毒感染的典型血液變化。血小板低下在這個病多屬暫時且自限，不需要抗病毒藥物；acyclovir 雖能減少口咽排毒，但改變不了病程與血球變化。真正要衛教的是一個月內避免接觸性運動以防脾臟破裂。",
       "D": "本項不選。短期 corticosteroid 可用於嚴重 airway obstruction、autoimmune hemolysis 或危及生命的 thrombocytopenia 等特定併發症。",
       "summary": "EBV 的 atypical lymphocyte 與脾腫大很典型；一般不靠 antiviral，類固醇只留給 airway obstruction 等嚴重併發症。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114634,7 +114684,10 @@
       "C": "本項應選。Tc-99m-DMSA 是看腎皮質受損或疤痕，不是每個急性第一次 UTI 都要立刻做；急性期先治療與做超音波。",
       "D": "本項不選。超音波異常或反覆發燒性 UTI 時，VCUG 可評估 vesicoureteral reflux；不是所有初次感染都先做。",
       "summary": "嬰兒第一次發燒性 UTI 先治療加腎膀胱超音波；DMSA、VCUG 都是依復發或結構線索再選。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -115096,7 +115149,10 @@
       "C": "本項不選。varicella-zoster virus 通常有軀幹為主、不同階段並存的全身水泡疹，不會只侷限嘴唇與牙齦。",
       "D": "本項不選。EBV 典型是發燒、咽喉炎、淋巴結腫大與脾腫大，沒有 HSV 那種顯著出血性牙齦炎。",
       "summary": "高燒加牙齦腫痛流血與口周水疱，先想 primary HSV gingivostomatitis，不是手足口病。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -115164,7 +115220,8 @@
       "summary": "10 個月嬰兒高燒三天、檢驗乾淨又沒局部症狀，先等著看退燒後的 roseola rash。",
       "guideline": null,
       "concepts": [
-        "childhood-exanthems"
+        "childhood-exanthems",
+        "pediatric-fever-approach"
       ]
     },
     "source": "114070/302_0102",
@@ -126479,7 +126536,10 @@
       "C": "正確。上山掃墓後約十天發燒，加上腹股溝的焦痂與同側淋巴結腫大，就是恙蟲病最完整的組合。焦痂是恙蟎叮咬處的壞死結痂，要主動翻找腋下、腹股溝、腰帶處等隱密部位。肝功能輕度上升也符合。治療首選 doxycycline，兒童在這個情境下仍可短期使用。",
       "D": "本項不選。皮膚炭疽的病灶是無痛性潰瘍上覆黑色焦痂，但周圍會有明顯無痛性水腫，而且要有牛羊皮毛或畜產接觸史。",
       "summary": "野外活動後發燒＋隱密部位的焦痂＋局部淋巴結腫大＝恙蟲病，治療用 doxycycline。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -126692,7 +126752,10 @@
       "C": "本項不選。它是病毒感染，不需要抗生素；不過後半段是對的——誤給 ampicillin 或 amoxicillin 後常出現廣泛紅疹，這反而是回頭懷疑本病的線索。",
       "D": "本項不選。感染後腎絲球腎炎跟在 A 群鏈球菌感染之後，與 EBV 無關。",
       "summary": "咽炎＋脾腫大＋眼皮浮腫＝傳染性單核球增多症；給了 ampicillin 冒疹更要往這裡想，而且一個月內別碰接觸性運動。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -130055,7 +130118,9 @@
       "D": "本項不選。calcitonin 可在數小時內暫時降低血鈣，適合危象初期爭取時間；效果會迅速產生 tachyphylaxis，所以仍要補液、加 bisphosphonate 並處理病因。",
       "summary": "高血鈣危象先灌 normal saline；thiazide 會留鈣是禁忌，calcitonin 快但短、bisphosphonate 慢但撐得久。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "altered-consciousness-approach"
+      ]
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137555,7 +137620,10 @@
       "C": "本項敘述正確。心臟超音波要在診斷時就做，之後在第二週與第六到八週追蹤冠狀動脈瘤。",
       "D": "本項敘述正確。無菌性膿尿是川崎症的支持性發現，來自尿道發炎而不是尿路感染。",
       "summary": "川崎症的檢驗記「低鈉、低白蛋白、貧血、後期血小板飆高」；高血鈉不在名單上。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -137900,7 +137968,10 @@
       "C": "本項應選。錯在「唯一」。體溫升高還有另一條路：產熱大於散熱的高熱（hyperthermia），例如中暑、惡性高熱、甲狀腺風暴與抗精神病藥惡性症候群。這條路的設定點沒有被調高，所以退燒藥無效，要靠物理降溫與移除病因。",
       "D": "本項敘述正確。適度發燒會抑制部分微生物增生並強化免疫反應，所以退燒的目的是讓孩子舒服，不是把溫度壓到正常。",
       "summary": "體溫高分兩種：發燒是設定點被調高（退燒藥有效），高熱是散熱失敗（退燒藥無效，要物理降溫）。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-fever-approach"
+      ]
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -137999,7 +138070,10 @@
       "C": "本項敘述正確。動作項目在各年齡版本一致：可定位疼痛 5 分、對疼痛屈曲回縮 4 分。",
       "D": "本項敘述正確。FOUR score 評的是眼睛反應、動作反應、腦幹反射與呼吸型態四項，特別適合已經插管、無法評估語言的病人。",
       "summary": "兒童版 GCS 只有語言那一欄要換算；分數 ≤8 就要保護呼吸道，插管後改用 FOUR score。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "altered-consciousness-approach"
+      ]
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -139263,7 +139337,8 @@
       "summary": "失智症是譫妄的溫床：病人突然變得更混亂時要先找感染、藥物、脫水，不要直接歸給失智症退化。",
       "guideline": null,
       "concepts": [
-        "cognitive-impairment-delirium-dementia"
+        "cognitive-impairment-delirium-dementia",
+        "altered-consciousness-approach"
       ]
     },
     "source": "115070/302_0102",
