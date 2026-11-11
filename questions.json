@@ -23068,7 +23068,8 @@
       "summary": "CRL ≥7 mm 仍無心跳可診斷早期妊娠失敗；組織未排出且 cervix closed 為 missed abortion。",
       "guideline": "FC 醫學(六)第1上冊 p.151",
       "concepts": [
-        "early-pregnancy-loss-ultrasound-criteria"
+        "early-pregnancy-loss-ultrasound-criteria",
+        "vaginal-bleeding-approach"
       ]
     },
     "source": "110080/302_44",
@@ -35584,7 +35585,9 @@
       "D": "本項不選。肝腎功能與血色素是準備 methotrexate 前的安全檢查；但還沒確診子宮外孕，不能跳過追蹤直接準備用藥。",
       "summary": "穩定的妊娠位置不明、hCG 低於切點，先 48 小時追 hCG 與超音波，不要急著打藥或開刀。",
       "guideline": "FC 醫學(六)第1下冊 p.174",
-      "concepts": []
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36020,7 +36023,8 @@
       "summary": "肌瘤重經可用 LNG-IUS、tranexamic acid 或限期 GnRH agonist；danazol 因副作用而不符常規。",
       "guideline": "FC 醫學(六)第1下冊 p.67",
       "concepts": [
-        "uterine-fibroids"
+        "uterine-fibroids",
+        "vaginal-bleeding-approach"
       ]
     },
     "source": "111020/302_44",
@@ -41545,7 +41549,10 @@
       "C": "本項應選。葡萄膜炎（uveitis）風險較高的是 ANA 陽性的少關節型 JIA，不是多關節型本身；因此此項把高風險亞型說錯了。",
       "D": "本項不選。ANA 陽性在少關節型（oligoarthritis）JIA 較常見，也正是這群病童需要規律裂隙燈篩檢無症狀 uveitis 的原因。",
       "summary": "JIA 要有持續 arthritis 才能診斷；ANA 陽性的 oligoarthritis 才是要定期篩 uveitis 的高風險組合。",
-      "guideline": "FC 醫學(四)第1冊 p.445"
+      "guideline": "FC 醫學(四)第1冊 p.445",
+      "concepts": [
+        "joint-pain-approach"
+      ]
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -48543,7 +48550,8 @@
       "summary": "異常子宮出血先想懷孕、內膜病灶與排卵／內分泌問題；輸卵管積水通常不會直接造成出血。",
       "guideline": "FC 醫學(六)第1下冊 p.201",
       "concepts": [
-        "palm-coein-classification"
+        "palm-coein-classification",
+        "vaginal-bleeding-approach"
       ]
     },
     "source": "111080/302_44",
@@ -63757,7 +63765,8 @@
       "summary": "類風濕性關節炎「碰掌指與近端指間、放過遠端指間」——遠端指間出問題要想退化性或乾癬性關節炎。",
       "guideline": null,
       "concepts": [
-        "arthritis-ra-oa-gout-cppd"
+        "arthritis-ra-oa-gout-cppd",
+        "joint-pain-approach"
       ]
     },
     "source": "112080/302_11",
@@ -63873,7 +63882,8 @@
       "summary": "本題官方 B、D 或 BD 均給分。OA 的治療是先動起來與減重，不是先開消炎藥。",
       "guideline": null,
       "concepts": [
-        "arthritis-ra-oa-gout-cppd"
+        "arthritis-ra-oa-gout-cppd",
+        "joint-pain-approach"
       ]
     },
     "source": "112080/302_11",
@@ -64898,7 +64908,8 @@
       "summary": "感染後一到四週才出現的無菌性關節炎加結膜炎與掌蹠皮疹＝反應性關節炎，不是細菌跑進關節。",
       "guideline": null,
       "concepts": [
-        "spondyloarthritis-reactive-hla"
+        "spondyloarthritis-reactive-hla",
+        "joint-pain-approach"
       ]
     },
     "source": "112080/302_11",
@@ -73043,7 +73054,9 @@
       "D": "本項不對，Uterine artery embolization 可作為控制出血或與其他療法合併的工具，但穩定個案通常先以 methotrexate 為主。",
       "summary": "子宮頸懷孕最怕刮宮時大出血；穩定病人先用 methotrexate 保守治療，失控出血才升級止血手術。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76364,7 +76377,8 @@
       "summary": "多系統表現懷疑狼瘡時：ANA 入場、腎切片決定治療；影像只是把已知的積水再看一次。",
       "guideline": "FC 醫學(三)第4冊 p.26",
       "concepts": [
-        "sle-2019-eular-acr-classification"
+        "sle-2019-eular-acr-classification",
+        "joint-pain-approach"
       ]
     },
     "source": "113020/302_11",
@@ -79505,7 +79519,8 @@
       "summary": "乾癬性關節炎是血清陰性的：RF 陽性不但幫不上忙，還會把你帶去類風濕性關節炎。",
       "guideline": "FC 醫學(四)第1冊 p.444",
       "concepts": [
-        "eczema-psoriasis-seborrheic"
+        "eczema-psoriasis-seborrheic",
+        "joint-pain-approach"
       ]
     },
     "source": "113020/302_22",
@@ -85550,7 +85565,9 @@
       "D": "本項不對，雙胞胎妊娠可讓 hCG 較高，卻應看到兩個 gestational sacs 或胎兒結構，不能造成無胎兒的 snowstorm 影像。",
       "summary": "子宮比孕週大、hCG 異常高又像暴風雪，先想 molar pregnancy／GTD，不是雙胞胎。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -86581,7 +86598,10 @@
       "C": "正確，幼童陰道異物或外陰受傷需要敏感地評估意外、照護問題與可能性侵。不能只處理表面傷口。",
       "D": "正確，紅色、易出血的陰道口腫塊可見於尿道脫垂或 botryoid embryonal rhabdomyosarcoma，須盡快辨識。",
       "summary": "青春期前陰道出血先確認真正來源，再排性早熟、異物／外傷與罕見腫瘤；沒第二性徵不能百分百排除。",
-      "guideline": "FC 醫學(六)第1下冊 p.227"
+      "guideline": "FC 醫學(六)第1下冊 p.227",
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -88796,7 +88816,8 @@
       "summary": "關節液先看三件事：黏不黏、白血球多少、哪種細胞為主——這題三項都指向非發炎性的退化性關節炎。",
       "guideline": "FC 醫學(三)第4冊 p.116",
       "concepts": [
-        "synovial-fluid-classification"
+        "synovial-fluid-classification",
+        "joint-pain-approach"
       ]
     },
     "source": "113070/302_11",
@@ -91319,7 +91340,10 @@
       "C": "本項應選。少關節炎型在較早的分類常很常見，但 JIA 的分型與盛行率依分類系統及族群而異；官方將 C 列為可給分的不適當選項。",
       "D": "本項應選。傳統 ILAR 分類以起病前 6 個月受影響關節數不超過 4 個定義 oligoarthritis，不是 5 個；官方也將 D 列為可給分答案。",
       "summary": "這題為官方送分：JIA 先記起病 <16 歲、關節炎 ≥6 週；少關節型的定義與分類名詞容易因版本混淆。",
-      "guideline": "FC 醫學(四)第1冊 p.443"
+      "guideline": "FC 醫學(四)第1冊 p.443",
+      "concepts": [
+        "joint-pain-approach"
+      ]
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -96685,7 +96709,8 @@
       "summary": "手部關節炎看分布：類風濕對稱侵犯掌指與近端指間、跳過遠端；退化性專攻遠端指間並長骨刺。",
       "guideline": null,
       "concepts": [
-        "arthritis-ra-oa-gout-cppd"
+        "arthritis-ra-oa-gout-cppd",
+        "joint-pain-approach"
       ]
     },
     "source": "113070/302_33",
@@ -101162,7 +101187,8 @@
       "summary": "OA 影像看「窄、刺、硬、囊」四樣；一旦出現骨侵蝕，診斷就要改往發炎性關節炎。",
       "guideline": null,
       "concepts": [
-        "arthritis-ra-oa-gout-cppd"
+        "arthritis-ra-oa-gout-cppd",
+        "joint-pain-approach"
       ]
     },
     "source": "114020/302_0103",
@@ -103429,7 +103455,10 @@
       "C": "本項不選。尤其 oligoarticular JIA 需規律裂隙燈檢查 anterior uveitis，因眼炎可無症狀卻傷視力。",
       "D": "本項應選。Omalizumab 用於 asthma 或 chronic urticaria，不是 JIA 的標準生物製劑；JIA 依型別用 TNF、IL-1、IL-6 抑制等藥。",
       "summary": "JIA 治療不能看到生物製劑就選：Omalizumab 是 asthma/urticaria 用藥；JIA 還要長期篩檢無症狀 uveitis。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "joint-pain-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -110365,7 +110394,8 @@
     "explanation": {
       "guideline": null,
       "concepts": [
-        "figo-endometrial-cancer-staging"
+        "figo-endometrial-cancer-staging",
+        "vaginal-bleeding-approach"
       ],
       "A": "本項不選。FIGO stage IB 是腫瘤侷限子宮體、侵犯至少一半肌層（myometrium）；本例已向下侵犯陰道，超出 stage I。",
       "B": "本項不選。stage II 是侵犯子宮頸基質（cervical stroma）但未超出子宮；本例還有部分陰道侵犯，不能停在 stage II。",
@@ -111572,7 +111602,8 @@
       "summary": "急性痛風靠 NSAID、colchicine、類固醇止炎；allopurinol 管的是長期尿酸，不是這一次的發作。",
       "guideline": null,
       "concepts": [
-        "arthritis-ra-oa-gout-cppd"
+        "arthritis-ra-oa-gout-cppd",
+        "joint-pain-approach"
       ]
     },
     "source": "114070/302_0101",
@@ -112612,7 +112643,8 @@
       "summary": "反應性關節炎的四隻腸道菌記法：沙門氏、志賀氏、耶氏、曲狀桿菌；泌尿道那隻是 Chlamydia。",
       "guideline": null,
       "concepts": [
-        "spondyloarthritis-reactive-hla"
+        "spondyloarthritis-reactive-hla",
+        "joint-pain-approach"
       ]
     },
     "source": "114070/302_0101",
@@ -121128,7 +121160,10 @@
       "C": "本項不選。methotrexate 只適用於血行動力學穩定、未破裂、hCG 不高且病灶小的病人；已經破裂出血是絕對禁忌。",
       "D": "正確。腹部反彈痛加上骨盆腔大量積液與休克，代表子宮外孕已破裂大出血。處置是一邊輸液輸血復甦、一邊立刻進手術室做輸卵管切除止血，不必等空腹時間。",
       "summary": "子宮外孕破裂＋休克＝直接開刀；methotrexate 只留給穩定、未破裂、hCG 不高的人。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -121827,7 +121862,8 @@
     "explanation": {
       "guideline": null,
       "concepts": [
-        "lynch-syndrome-tumor-spectrum"
+        "lynch-syndrome-tumor-spectrum",
+        "vaginal-bleeding-approach"
       ],
       "A": "本項不選。BRCA2 致病變異主要增加乳癌、卵巢癌、胰臟癌和前列腺癌風險，不是「子宮內膜癌＋大腸癌」家族聚集的最典型解釋。",
       "B": "正確答案。Lynch syndrome 由 DNA 錯配修復基因（DNA mismatch repair genes）的生殖系變異造成，典型增加大腸直腸癌和子宮內膜癌風險；傳統 Lynch II 指除大腸外還有相關腸外癌。",
@@ -124073,7 +124109,10 @@
       "C": "本項敘述錯誤。磷灰石鈣（CAD）結晶非常小、又沒有雙折射，一般偏光顯微鏡根本看不到。要靠特殊染色或進階分析，不能像 CPPD 那樣直接用偏光鏡區分。",
       "D": "本項敘述錯誤。磷灰石鈣結晶可以無症狀存在。它的表現形式很多，例如鈣化性關節周圍炎或 Milwaukee shoulder，不是沉積就一定發作。",
       "summary": "CPPD 在年輕人身上＝去找代謝病；CAD 結晶太小又不折光，偏光鏡看不出來。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "joint-pain-approach"
+      ]
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125007,7 +125046,10 @@
       "C": "本項不選。兩者免疫反應的模式與炎症反應。兩者都有發炎，但人工關節的異物表面、biofilm 與低度慢性感染，讓表現和原生關節急性強烈發炎不同。",
       "D": "本項不選。其他非植入物相關的敗血性關節。分階段手術是人工關節感染常見策略，例如 two-stage exchange；原生關節 septic arthritis 多以穿刺或關節沖洗引流加抗菌治療。",
       "summary": "prosthetic joint infection 的關鍵字是 staphylococci＋biofilm＋常需 staged surgery；原生 septic arthritis 重點是急性引流。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "joint-pain-approach"
+      ]
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -133166,7 +133208,10 @@
       "B": "本項不選。30% 明顯高於停經後出血中子宮內膜癌的實際比例；多數還是萎縮性內膜或陰道等良性原因造成。",
       "C": "本項不選。說 50% 的停經後出血都是子宮內膜癌會大幅高估盛行率；但出血仍是子宮內膜癌最常見的警訊，不能因為比例不高就不評估。",
       "D": "本項不選。70% 不是停經後出血中子宮內膜癌所佔的比例；這種高數字容易和「子宮內膜癌病人常以出血表現」的反向機率混淆。",
-      "summary": "約 10% 的停經後出血是子宮內膜癌；比例不高不代表可忽略，每個病例仍要做風險分層和內膜評估。"
+      "summary": "約 10% 的停經後出血是子宮內膜癌；比例不高不代表可忽略，每個病例仍要做風險分層和內膜評估。",
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -145398,7 +145443,10 @@
       "C": "本項不選。這位病人心跳 120、血壓 86/54，已經是休克，屬於 methotrexate 的禁忌，該做的是輸液復甦後緊急手術。",
       "D": "本項不選。一般懷孕看到子宮內妊娠確實可以大幅降低子宮外孕的可能，但她是人工受精受孕，同時存在子宮內與子宮外妊娠（異位共存妊娠）的機率上升到約百分之一，不能因此排除。",
       "summary": "人工受精＋休克＋陰道出血：不能因為看到子宮內胚囊就放心，異位共存妊娠的機率明顯升高。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "vaginal-bleeding-approach"
+      ]
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
