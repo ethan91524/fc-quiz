@@ -1089,7 +1089,10 @@
       "C": "本項不選。ACEi 與 ARB 會降低 aldosterone 作用、減少腎臟排鉀。急性腎損傷又合併高血鉀時暫停使用，可以避免血鉀繼續往上衝。",
       "D": "本項應選。方向剛好相反：羥乙基澱粉（hydroxyethyl starch）在重症或敗血症病人反而**增加**急性腎損傷與需要透析的風險。低血容積復甦要用晶體液（crystalloid），不是它。",
       "summary": "AKI 沒有特效藥，靠支持治療；而 hydroxyethyl starch 是會傷腎的液體，不能拿來復甦。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "aki-approach"
+      ]
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1122,7 +1125,10 @@
       "C": "正確答案。關鍵在於尿試紙只驗得到白蛋白。總蛋白很高但試紙陰性，就要懷疑是輕鏈（light chain）造成的溢出性蛋白尿。所以下一步是血清免疫電泳，再加上血清／尿液免疫固定與 free light chain。",
       "D": "本項不選。低劑量 ARB 可以降低腎絲球內壓與白蛋白尿，但在還沒確認有沒有單株免疫球蛋白病變前，只做降蛋白尿治療等於沒處理病因。",
       "summary": "尿蛋白很多但試紙陰性＝漏的不是白蛋白，要往骨髓瘤的輕鏈查——這個落差就是唯一線索。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "edema-approach"
+      ]
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1558,7 +1564,8 @@
       "summary": "家族性黃疸＋膽結石＋MCHC 偏高＋Coombs 陰性＝遺傳性球形紅血球症，溶血發生在脾臟裡。",
       "guideline": null,
       "concepts": [
-        "jaundice-approach"
+        "jaundice-approach",
+        "anemia-approach"
       ]
     },
     "source": "110020/302_11",
@@ -1596,7 +1603,8 @@
       "summary": "急性前骨髓性白血病兩件事最急：先止住瀰漫性血管內凝血的出血，再用 ATRA 加三氧化二砷——ATRA 單獨用一定復發。",
       "guideline": null,
       "concepts": [
-        "leukemia-mpn-genetics"
+        "leukemia-mpn-genetics",
+        "anemia-approach"
       ]
     },
     "source": "110020/302_11",
@@ -1867,7 +1875,10 @@
       "C": "本項不選。腦部 MRI 是拿來找腦下垂體病灶的。前提是已經證實 ACTH 過高，屬於 ACTH-dependent Cushing syndrome。這位病人 ACTH 和 cortisol 都低，不支持先找腦下垂體腺瘤（pituitary adenoma）。",
       "D": "本項不選。腎上腺電腦斷層（CT）是拿來定位腎上腺腫瘤的。前提是已經證實是 ACTH-independent 的高皮質醇症。如果真的是腎上腺自己在分泌 cortisol，cortisol 應該偏高，不會低於 1 μg/dL。",
       "summary": "庫欣體態卻測到 ACTH、cortisol 都低，要先驗尿測有沒有真的在生 cortisol，再去追查隱藏的外源性類固醇。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "edema-approach"
+      ]
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -12773,7 +12784,8 @@
       "summary": "BNP 是支持或排除心衰竭的輔助值，不是單一確診值；肥胖讓數值偏低，腎衰竭讓數值偏高。",
       "concepts": [
         "heart-failure-ef-categories",
-        "dyspnea-approach"
+        "dyspnea-approach",
+        "edema-approach"
       ]
     },
     "source": "110080/302_11",
@@ -13439,7 +13451,8 @@
       "summary": "急性腎炎先看補體：低補體是免疫複合體病，補體正常才想 ANCA 血管炎。",
       "guideline": "FC 醫學(三)第4冊 p.84",
       "concepts": [
-        "glomerular-disease-patterns"
+        "glomerular-disease-patterns",
+        "aki-approach"
       ]
     },
     "source": "110080/302_11",
@@ -14072,7 +14085,8 @@
       "summary": "小球性貧血有兩大來源：缺鐵與海洋性貧血——補鐵前先驗鐵蛋白，補錯會造成鐵過載。",
       "guideline": null,
       "concepts": [
-        "microcytic-anemia"
+        "microcytic-anemia",
+        "anemia-approach"
       ]
     },
     "source": "110080/302_11",
@@ -16175,7 +16189,8 @@
       "summary": "第 15 題官方一律給分；判尿鈉時先分腎前性保鈉與腎小管損傷漏鈉，但別把單一數字當絕對。",
       "guideline": "FC 醫學(四)第1冊 p.192",
       "concepts": [
-        "aki-prerenal-intrinsic-postrenal"
+        "aki-prerenal-intrinsic-postrenal",
+        "aki-approach"
       ]
     },
     "source": "110080/302_22",
@@ -21945,7 +21960,8 @@
       "summary": "AKI 不能把術後少尿當正常；creatinine 上升會落後於 GFR 下降，直接功能量測與早期 injury biomarkers 各有用途。",
       "guideline": "FC 醫學(六)第4冊 p.164",
       "concepts": [
-        "hemodynamic-renal-monitoring-echo"
+        "hemodynamic-renal-monitoring-echo",
+        "aki-approach"
       ]
     },
     "source": "110080/302_44",
@@ -25955,7 +25971,10 @@
       "C": "本項應選。切片看到 C4d 沉積加內皮細胞損傷，講的是**抗體**媒介的排斥。anti-IL2 receptor 單株抗體針對的是 T 細胞活化，而且主要用在移植的誘導治療，方向不對。",
       "D": "本項不選。rituximab 打的是 CD20 陽性的 B 細胞，等於斷掉抗體的來源，部分抗體媒介排斥個案會用。",
       "summary": "C4d ＋ 內皮損傷＝抗體媒介排斥，治療全部圍著「清抗體」轉；打 T 細胞的藥在這裡沒用。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "aki-approach"
+      ]
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26183,7 +26202,10 @@
       "C": "本項不選。在體液容積足夠的前提下做 furosemide stress test，用尿量反應可以協助預測急性腎損傷會不會惡化到需要透析。",
       "D": "本項不選。低劑量 dopamine 沒被證實能預防或治療急性腎損傷，反而有心律不整等風險，所以不建議使用。",
       "summary": "AKI 不能靠餓病人來延後透析；營養要給足，該透析就透析。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "aki-approach"
+      ]
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26600,7 +26622,8 @@
       "summary": "再生不良貧血的問題出在幹細胞被免疫攻擊：要嘛換掉（移植），要嘛壓下免疫（ATG 加 cyclosporin）。",
       "guideline": "FC 醫學(三)第4冊 p.166",
       "concepts": [
-        "leukemia-mpn-genetics"
+        "leukemia-mpn-genetics",
+        "anemia-approach"
       ]
     },
     "source": "111020/302_11",
@@ -29234,7 +29257,10 @@
       "C": "本項不選。benzene 等化學毒物可損傷骨髓、造成再生不良性貧血，卻屬可辨識而較少見的暴露原因，不是兒童最常見的分類。",
       "D": "本項不選。肝炎病毒等感染可作為後天性再生不良性貧血的觸發因素，但相較於找不到明確原因的 idiopathic 個案，並非最常見。",
       "summary": "後天性再生不良性貧血可被藥物、毒物或感染觸發，但考題問「最常見」時要選找不到單一病因的 idiopathic。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -29274,7 +29300,8 @@
       "summary": "小球性貧血先想鐵、thalassemia、鉛；若是 pancytopenia 加低 reticulocyte，要轉想骨髓衰竭的 aplastic anemia。",
       "guideline": "FC 醫學(四)第1冊 p.457",
       "concepts": [
-        "microcytic-anemia"
+        "microcytic-anemia",
+        "anemia-approach"
       ]
     },
     "source": "111020/302_22",
@@ -41093,7 +41120,8 @@
       "summary": "皮膚感染後的血尿、水腫、高血壓是 APSGN；大量蛋白尿才是 nephrotic syndrome 的主場。",
       "guideline": "FC 醫學(四)第1冊 p.178",
       "concepts": [
-        "nephrotic-vs-nephritic"
+        "nephrotic-vs-nephritic",
+        "edema-approach"
       ]
     },
     "source": "111080/302_22",
@@ -50141,7 +50169,10 @@
       "C": "本項應選。方向剛好相反：潤膚劑不但不是禁忌，還是照護重點。維持皮膚屏障完整、處理裂口與足癬，才能**減少**蜂窩性組織炎。說它會增加感染會害病人不敢保養。",
       "D": "本項不選。淋巴水腫典型是沉重感、緊繃感與不太痛的腫脹。如果明顯疼痛，反而要回頭評估感染、深部靜脈栓塞（DVT）或其他原因。",
       "summary": "淋巴水腫的皮膚要保濕不是禁保濕——皮膚裂開才是蜂窩性組織炎的入口。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "edema-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -50874,7 +50905,10 @@
       "C": "本項敘述錯誤。就算採用 sodium bicarbonate，也要包含檢查前與檢查後的補液。只在顯影前 1 小時打、之後就不補，不是完整的方案。",
       "D": "正確答案。N-acetylcysteine 過去被廣泛使用，但大型研究沒能證實一致的腎臟保護效益，所以現在不例行推薦。真正有用的是風險評估、檢查前後的等張補液、用最低必要顯影劑量並停掉腎毒性藥物。",
       "summary": "顯影劑腎病變的預防只有「補液＋減量」是可靠的；N-acetylcysteine 已經不推薦了。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "aki-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -50994,7 +51028,10 @@
       "C": "正確答案。四個線索連起來：**沒有腹瀉**、腎功能急速惡化（creatinine 0.8 → 6.2 mg/dL）、微小血管溶血性貧血（MAHA）加血小板低下、而且 ADAMTS13 不低——這是補體介導的非典型溶血性尿毒症候群。eculizumab 抑制補體 C5，正好切斷病因。",
       "D": "本項不選。免疫球蛋白用在免疫性血小板低下紫斑症（ITP）等疾病，對非典型溶血性尿毒症候群的末端補體活化沒有作用。",
       "summary": "血栓性微血管病變先驗 ADAMTS13：嚴重低＝TTP 走血漿置換；不低又腎損傷重＝非典型 HUS 走 C5 抑制劑。",
-      "guideline": "FC 醫學(三)第4冊 p.163"
+      "guideline": "FC 醫學(三)第4冊 p.163",
+      "concepts": [
+        "aki-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51032,7 +51069,10 @@
       "C": "本項不選。尿毒造成血小板功能異常，加上反覆抽血與透析管路的損失，都會慢性失血，讓貧血更嚴重。",
       "D": "本項不選。慢性發炎會提高 hepcidin、抑制紅血球生成，還縮短紅血球（RBC）壽命，形成發炎性貧血。",
       "summary": "慢性腎病的貧血是「EPO 不夠＋鐵被鎖住＋一直漏血」，鐵過多剛好相反。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51377,7 +51417,8 @@
       "summary": "尿潛血陽性但沉渣幾乎沒有紅血球＝血紅素尿，代表血管內溶血；再加藥物誘發就想 G6PD 缺乏。",
       "guideline": null,
       "concepts": [
-        "jaundice-approach"
+        "jaundice-approach",
+        "anemia-approach"
       ]
     },
     "source": "112020/302_11",
@@ -51418,7 +51459,10 @@
       "C": "正確答案。骨髓抹片滿是漿細胞：細胞核偏在一側、染色質呈車輪狀、核旁有一圈淡染的暈、細胞質深藍。X 光則是頭骨多發界線銳利的**穿鑿狀**溶骨病灶，肱骨近端骨幹也有一處伴皮質變薄。配上 Hb 7.6 g/dL 與血小板 120,000/μL，診斷就是多發性骨髓瘤。下一步驗血清蛋白電泳、免疫固定電泳與游離輕鏈。",
       "D": "本項不選。原發性骨癌多半是單一部位的局部腫瘤，不會呈現這種多發穿鑿狀溶骨病灶加骨髓單株漿細胞的組合。",
       "summary": "「骨髓漿細胞＋穿鑿狀溶骨病灶＋血球低下」三件湊齊就是多發性骨髓瘤，接著驗蛋白電泳。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53731,7 +53775,8 @@
       "summary": "缺鐵的實驗室方向一起背：ferritin 低、serum iron 低、transferrin saturation 低；不要把低鐵寫成高飽和。",
       "guideline": null,
       "concepts": [
-        "microcytic-anemia"
+        "microcytic-anemia",
+        "anemia-approach"
       ]
     },
     "source": "112020/302_22",
@@ -75136,7 +75181,9 @@
       "D": "本項不選。Free T4 2.8 ng/dL 偏高，方向是甲狀腺功能亢進。它通常不會造成這種全身性水腫。",
       "summary": "水腫問時間與姿勢：早上臉腫、白天消，先想低白蛋白；晚上腳腫、夜咳憋醒，才想心衰竭。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "edema-approach"
+      ]
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -75851,7 +75898,8 @@
       "D": "本項不選。Normal saline 再加補鈉，既沒處理門脈高壓造成的鈉滯留，還會明顯加重腹水和下肢水腫。",
       "summary": "肝硬化腹水治療核心是限鈉＋以 aldosterone antagonist 為主的利尿；不是灌 saline，也不是補鈉。",
       "concepts": [
-        "portal-hypertension-cirrhosis"
+        "portal-hypertension-cirrhosis",
+        "edema-approach"
       ]
     },
     "source": "113020/302_11",
@@ -76088,7 +76136,8 @@
       "summary": "腎前性看「功能還在」（FeNa 低、尿濃縮、BUN/Cr 高）；內生性看「細胞掉下來」——顆粒性圓柱。",
       "guideline": null,
       "concepts": [
-        "aki-prerenal-intrinsic-postrenal"
+        "aki-prerenal-intrinsic-postrenal",
+        "aki-approach"
       ]
     },
     "source": "113020/302_11",
@@ -76127,7 +76176,10 @@
       "C": "本項不選。尿毒造成的血小板功能障礙、透析管路失血與腸胃道出血，都會加重貧血。",
       "D": "本項不選。慢性發炎會縮短紅血球（RBC）壽命、抑制紅血球生成，並限制鐵的利用，三件事同時發生。",
       "summary": "腎性貧血是三個原因疊起來：EPO 不足（主因）＋功能性缺鐵＋慢性失血。",
-      "guideline": "FC 醫學(三)第3冊 p.136"
+      "guideline": "FC 醫學(三)第3冊 p.136",
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76576,7 +76628,10 @@
       "C": "本項不選。骨髓要幾天後才反應得過來，屆時周邊血網狀紅血球會上升，代表代償性的紅血球生成啟動了。",
       "D": "本項不選。組織缺氧刺激腎臟增加分泌紅血球生成素（EPO），推動紅血球前驅細胞增生。",
       "summary": "急性失血的血紅素會「先不掉、補液後才掉」——別用第一次的數值判斷失血量。",
-      "guideline": "FC 醫學(三)第4冊 p.163"
+      "guideline": "FC 醫學(三)第4冊 p.163",
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78603,7 +78658,8 @@
       "summary": "高血鉀先用 calcium 穩住心臟，但它不降鉀。AKI 的 bicarbonate 也不是看到數字低就一律補到正常。",
       "guideline": null,
       "concepts": [
-        "hyperkalemia-causes-treatment"
+        "hyperkalemia-causes-treatment",
+        "aki-approach"
       ]
     },
     "source": "113020/302_22",
@@ -78838,7 +78894,10 @@
       "C": "本項不選。G6PD 溶血是紅血球內在抗氧化能力不足，不是 antibody-mediated hemolysis。direct Coombs test 應為陰性。",
       "D": "本項不選。急性溶血期應避免可能增加氧化壓力或出血風險的藥物。退燒止痛需依安全性選擇，aspirin 並不優於 diclofenac。",
       "summary": "蠶豆症遇氧化壓力會溶血：深色尿、黃疸加 bite cell 是經典三連。它是 X-linked、Coombs 陰性。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88540,7 +88599,8 @@
       "summary": "C 型肝炎＋低補體＋蛋白尿＝冷凝球蛋白血症的膜增生性腎炎，這是固定組合。",
       "guideline": null,
       "concepts": [
-        "glomerular-disease-patterns"
+        "glomerular-disease-patterns",
+        "edema-approach"
       ]
     },
     "source": "113070/302_11",
@@ -89130,7 +89190,10 @@
       "C": "本項應選。步驟弄錯了：核心障礙在 **DNA 的合成與複製**，造成細胞核與細胞質發育不同步（核比細胞質「年輕」），不是 DNA 轉錄成 mRNA 受阻。",
       "D": "本項不選。嚴重的巨球母細胞變化造成無效造血，除了貧血之外，白血球與血小板也會下降，甚至全血球低下。",
       "summary": "巨球母細胞性貧血＝DNA 蓋不出來、細胞質卻照長，所以核大而幼稚——問題在合成不在轉錄。",
-      "guideline": "FC 醫學(三)第4冊 p.162"
+      "guideline": "FC 醫學(三)第4冊 p.162",
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89287,7 +89350,8 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach",
-        "chest-pain-approach"
+        "chest-pain-approach",
+        "edema-approach"
       ]
     },
     "source": "113070/302_11",
@@ -100853,7 +100917,10 @@
       "C": "本項應選。高腹膜通透性的腹膜，對葡萄糖的吸收特別快。延長留滯時間，只會讓葡萄糖有更多時間被吸收光，滲透壓梯度反而提早消失。脫水效果不但不會變好，嚴重時甚至會倒吸水回體內，是這題要挑出來的錯誤處置。",
       "D": "本項不選。連續性循環式腹膜透析（CCPD）改用較短、較頻繁的換液。這樣能在葡萄糖梯度消失前就換上新藥水，剛好克服high transporter吸收太快的問題，是另一種可行做法。",
       "summary": "高腹膜通透性要縮短留滯時間或換icodextrin，延長留滯反而讓脫水效果變差。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "edema-approach"
+      ]
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -123865,7 +123932,10 @@
       "C": "本項不選。慢性腎臟病（CKD）的腎臟對貧血產生的紅血球生成素（EPO）不夠，這是腎性貧血最主要的機轉。",
       "D": "本項應選。目標值訂錯了：用紅血球生成刺激劑（ESA）把血色素矯正到 ≧13 g/dL **不會降低死亡率**，反而增加中風、高血壓與血栓的風險。目標要個別化，而且刻意不追到正常值。",
       "summary": "腎性貧血治療的關鍵觀念：補到「夠用」就好，追到正常值反而害人。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126324,7 +126394,8 @@
       "summary": "大球性想 DNA 合成或骨髓衰竭；鉛是血基質合成問題，所以是小球性。",
       "guideline": null,
       "concepts": [
-        "microcytic-anemia"
+        "microcytic-anemia",
+        "anemia-approach"
       ]
     },
     "source": "115020/302_0104",
@@ -135145,7 +135216,10 @@
       "C": "本項不選。血尿與蛋白尿可以追蹤特定腎絲球疾病的活動度，但反映急性腎損傷恢復的敏感度，不如肌酸酐與尿量普遍。",
       "D": "本項不選。反覆驗尿液培養，只用在懷疑或追蹤泌尿道感染（UTI），沒辦法反映一般急性腎損傷病人的腎功能恢復狀況。",
       "summary": "急性腎損傷恢復看肌酸酐與尿量的連續趨勢，超音波跟尿液培養都不是常規監測工具。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "aki-approach"
+      ]
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -135213,7 +135287,10 @@
       "C": "本項不選。電池工廠提示 lead exposure，鉛腎病可造成 hypertension、gout 與 chronic tubulointerstitial disease，但典型影像不以 papillary necrosis 為主；需以 blood lead 等確認。",
       "D": "本項不選。慢性腎絲球腎炎可造成 proteinuria、hypertension 與 CKD，但無法整合 analgesic exposure 及題目影像所暗示的 papillary disease。",
       "summary": "Analgesic exposure 加 papillary necrosis／calcification 影像指向 analgesic nephropathy；lead 是刻意設置的職業暴露鑑別。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "edema-approach"
+      ]
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137041,7 +137118,10 @@
       "C": "本項不選。遺傳性球形紅血球症的細胞膜骨架蛋白缺陷讓紅血球天生就是球形，是這個形態的代表疾病。",
       "D": "本項應選。G6PD 缺乏在氧化壓力下形成的是變性血紅素小體（Heinz body），被脾臟咬掉一口後留下咬痕細胞與水泡細胞，不是球形紅血球。",
       "summary": "球形紅血球想「膜被吃掉」：遺傳性球形紅血球症與抗體媒介溶血；G6PD 缺乏留下的是咬痕細胞。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "anemia-approach"
+      ]
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
