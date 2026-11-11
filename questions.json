@@ -913,7 +913,8 @@
       "summary": "正常陰離子隙的酸中毒，用尿陰離子隙定位漏鹼的地方：負值往腸子想、零或正值往腎臟想。",
       "guideline": null,
       "concepts": [
-        "acid-base-approach"
+        "acid-base-approach",
+        "diarrhea-approach"
       ]
     },
     "source": "110020/302_11",
@@ -2147,7 +2148,8 @@
       "summary": "年輕高風險者出現口腔念珠菌感染與侵襲性 nontyphoidal Salmonella 感染，應優先檢驗 HIV 並評估 AIDS。",
       "guideline": null,
       "concepts": [
-        "aids-diagnostic-criteria"
+        "aids-diagnostic-criteria",
+        "diarrhea-approach"
       ]
     },
     "source": "110020/302_11",
@@ -3461,7 +3463,9 @@
       "D": "本項不選。食物蛋白誘發腸病、嗜酸性腸胃疾病或乳糜瀉等情況可呈慢性腹瀉，因此依病史進行 allergic workup 或相關免疫檢查有其角色。",
       "summary": "兒童慢性腹瀉需從感染、營養與免疫／過敏方向逐步評估；HbA1c 是血糖指標，不是營養不良標記。",
       "guideline": "FC 醫學(四)第1冊 p.92",
-      "concepts": []
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -3737,7 +3741,8 @@
       "summary": "單純型熱性痙攣三條件：全身性、少於 15 分鐘、24 小時內不再發。",
       "guideline": "FC 醫學(四)第1冊 p.335",
       "concepts": [
-        "simple-febrile-seizure-definition"
+        "simple-febrile-seizure-definition",
+        "seizure-approach"
       ]
     },
     "source": "110020/302_22",
@@ -12709,7 +12714,8 @@
       "D": "正確答案。長期使用酒精（alcohol）可直接影響腸黏膜、運輸和蠕動，造成水和電解質分泌增加，臨床可呈現分泌型腹瀉（secretory diarrhea）。",
       "summary": "腹瀉題要辨別感染潛伏期和用藥禁忌；rotavirus 不會在數小時內發作，腎衰竭不宜優先用 bismuth。",
       "concepts": [
-        "absorption-short-bowel-fistula"
+        "absorption-short-bowel-fistula",
+        "diarrhea-approach"
       ]
     },
     "source": "110080/302_11",
@@ -15994,7 +16000,10 @@
       "C": "這題不選。Salmonella enteritidis 可侵入腸黏膜造成發燒、腹痛與腹瀉，並非單純攝入預形成毒素。",
       "D": "這題不選。Campylobacter jejuni 會侵犯腸道並造成發炎，有時糞便帶血，屬直接感染型腹瀉。",
       "summary": "急性腹瀉先分感染型和毒素型：Staphylococcus aureus 是預形成毒素，發作快但不靠腸道侵入。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -16232,7 +16241,10 @@
       "C": "這題要選。新生兒痙攣最常見原因是缺氧缺血性腦病變（hypoxic-ischemic encephalopathy），不是感染；低血糖、低鈣和腦出血也要同步找。",
       "D": "這題不選。若無已知明確病因，CSF examination 可排除 meningitis 或 encephalitis，因感染延誤治療後果嚴重。",
       "summary": "新生兒痙攣先想 HIE、低血糖與低鈣；它常是 subtle seizure，不像成人全身抽搐那麼明顯。",
-      "guideline": "FC 醫學(四)第1冊 p.605"
+      "guideline": "FC 醫學(四)第1冊 p.605",
+      "concepts": [
+        "seizure-approach"
+      ]
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -17446,7 +17458,8 @@
       "summary": "清晨甩東西加大發作與發呆，想 JME：遺傳性全面性、藥物多能控制。",
       "guideline": "FC 醫學(四)第1冊 p.334",
       "concepts": [
-        "epilepsy-syndromes-aed"
+        "epilepsy-syndromes-aed",
+        "seizure-approach"
       ]
     },
     "source": "110080/302_22",
@@ -28861,7 +28874,10 @@
       "C": "這題不選。Loperamide 可能造成腸蠕動抑制與嚴重副作用，幼兒急性腹瀉不建議自行使用。",
       "D": "正確。補正脫水後應 early feeding 並持續母乳；及早恢復營養可縮短腸黏膜恢復時間，不必等到腹瀉完全停止。",
       "summary": "小嬰兒腹瀉的正確組合是 ORS 補水、繼續母乳、早點餵食；別給運動飲料或止瀉藥。",
-      "guideline": "FC 醫學(四)第1冊 p.91"
+      "guideline": "FC 醫學(四)第1冊 p.91",
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -28901,7 +28917,8 @@
       "summary": "腎病症候群病童抽搐先想低鈉、PRES 和腦靜脈栓塞；高凝是關鍵背景。",
       "guideline": "FC 醫學(四)第1冊 p.179",
       "concepts": [
-        "nephrotic-vs-nephritic"
+        "nephrotic-vs-nephritic",
+        "seizure-approach"
       ]
     },
     "source": "111020/302_22",
@@ -29998,7 +30015,8 @@
       "summary": "有抽動不等於癲癇：暈厥也能抽，診斷要把病史、誘因與恢復過程一起看。",
       "guideline": null,
       "concepts": [
-        "seizure-syncope-epilepsy-basics"
+        "seizure-syncope-epilepsy-basics",
+        "seizure-approach"
       ]
     },
     "source": "111020/302_22",
@@ -38196,7 +38214,8 @@
     "explanation": {
       "guideline": null,
       "concepts": [
-        "rome-iv-ibs"
+        "rome-iv-ibs",
+        "diarrhea-approach"
       ],
       "A": "本項不選。腸躁症（irritable bowel syndrome）可見於各年齡，女性較常就醫和被診斷，敘述正確。",
       "B": "本項應選。這是錯的敘述。糞便 calprotectin 是腸道發炎的標記，可協助區分發炎性腸道疾病（IBD），但不是 IBS 的診斷性生物標記。",
@@ -41316,7 +41335,10 @@
       "C": "本項不選。重症肌無力以疲勞後惡化的純運動無力為主，感覺通常正常、深部反射保留，也不會有典型 CSF 蛋白升高。",
       "D": "本項不選。病毒性肌炎會造成肌痛和 CK 升高，無力主要來自肌肉疼痛；不應出現進行性麻刺感、反射減弱與這種 CSF 型態。",
       "summary": "腹瀉後對稱上行無力加反射減弱，CSF「蛋白高、細胞不高」就是 GBS 的記憶組合。",
-      "guideline": "FC 醫學(四)第1冊 p.353"
+      "guideline": "FC 醫學(四)第1冊 p.353",
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -53561,7 +53583,10 @@
       "C": "本項不選。循環恢復後可用較低張含糖液逐步補足自由水，但速度需依血鈉趨勢調整，不能一開始猛灌。",
       "D": "本項不選。高血鈉矯正過快的危險併發症正是 seizure 與 brain edema，因此治療時要頻繁追蹤血鈉。",
       "summary": "高血鈉脫水先救灌流，再慢慢降鈉；真正要怕的是降太快讓腦細胞吸水腫起來。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -56062,7 +56087,8 @@
       "summary": "大量喝酒突然停、30 小時後躁動又 seizure，先給 benzodiazepine；phenytoin 不是 alcohol withdrawal seizure 的解答。",
       "guideline": "FC 醫學(四)第4冊 p.137",
       "concepts": [
-        "alcohol-withdrawal-timeline"
+        "alcohol-withdrawal-timeline",
+        "seizure-approach"
       ]
     },
     "source": "112020/302_22",
@@ -56144,7 +56170,8 @@
       "summary": "看到人抽搐，第一步不是塞東西也不是壓住他：側躺、清空周圍、計時，先保住氣道。",
       "guideline": "FC 醫學(四)第4冊 p.137",
       "concepts": [
-        "seizure-syncope-epilepsy-basics"
+        "seizure-syncope-epilepsy-basics",
+        "seizure-approach"
       ]
     },
     "source": "112020/302_22",
@@ -64957,7 +64984,10 @@
       "C": "本項不選。志賀桿菌、痢疾阿米巴、梨形鞭毛蟲的感染劑量都很低，遠低於霍亂弧菌，所以容易人傳人。",
       "D": "本項不選。霍亂弧菌靠腸毒素造成分泌性腹瀉，糞便是水樣、白血球很少；明顯發炎性血便要想侵襲性病原。",
       "summary": "志賀桿菌感染劑量低，人傳人很有效；毒素型食物中毒潛伏期最短。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66763,7 +66793,8 @@
       "summary": "熱性痙攣三個「單純」條件是全身性、少於 15 分鐘、24 小時只一次。任一破格就轉想 complex。",
       "guideline": null,
       "concepts": [
-        "simple-febrile-seizure-definition"
+        "simple-febrile-seizure-definition",
+        "seizure-approach"
       ]
     },
     "source": "112080/302_22",
@@ -68884,7 +68915,8 @@
       "summary": "抗生素後水瀉別再加廣效藥；想 CDI 時要停非必要抗生素並給口服 vancomycin 或 fidaxomicin。",
       "guideline": "FC 醫學(五)第4冊 p.56",
       "concepts": [
-        "postop-fever-complications"
+        "postop-fever-complications",
+        "diarrhea-approach"
       ]
     },
     "source": "112080/302_33",
@@ -79986,7 +80018,8 @@
       "summary": "熬夜後清晨雙上肢 myoclonus 加 polyspike-wave 是 JME；valproate 和 levetiracetam 都可得分，局部癲癇藥別選。",
       "guideline": "FC 醫學(四)第4冊 p.135",
       "concepts": [
-        "epilepsy-syndromes-aed"
+        "epilepsy-syndromes-aed",
+        "seizure-approach"
       ]
     },
     "source": "113020/302_22",
@@ -80068,7 +80101,8 @@
       "summary": "癲癇病因要看年齡：小孩偏遺傳與發育，高齡偏中風；治療後大約 6–7 成能獲得發作緩解。",
       "guideline": "FC 醫學(四)第4冊 p.136",
       "concepts": [
-        "seizure-syncope-epilepsy-basics"
+        "seizure-syncope-epilepsy-basics",
+        "seizure-approach"
       ]
     },
     "source": "113020/302_22",
@@ -92689,7 +92723,8 @@
       "summary": "年輕女性癲癇＋幻覺妄想＋嘴臉亂動而 MRI 正常，先想抗NMDA受體腦炎並去找卵巢畸胎瘤。",
       "guideline": null,
       "concepts": [
-        "cns-infection-encephalitis-prion"
+        "cns-infection-encephalitis-prion",
+        "seizure-approach"
       ]
     },
     "source": "113070/302_22",
@@ -103301,7 +103336,10 @@
       "C": "本項敘述正確。Shigella 侵犯結腸黏膜，可造成高燒、腹部絞痛、tenesmus 與少量黏血便。",
       "D": "本項不選。C. difficile 常與近期 antibiotics 或醫療照護暴露相關；題幹特別否認抗生素使用。",
       "summary": "高燒、腹絞痛、想解卻只出黏血便，是 Shigella 的侵襲性結腸炎樣子，不像病毒水瀉。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "diarrhea-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -116328,7 +116366,8 @@
       "summary": "格林–巴利記三件事：蛋白細胞分離、類固醇無效、血漿置換與免疫球蛋白二選一，並密切監測呼吸功能。",
       "guideline": null,
       "concepts": [
-        "guillain-barre-syndrome"
+        "guillain-barre-syndrome",
+        "diarrhea-approach"
       ]
     },
     "source": "114070/302_0102",
@@ -138802,7 +138841,8 @@
       "summary": "亞急性記憶退化＋癲癇＋顳葉內側高訊號＝邊緣葉腦炎；驗抗體、找腫瘤、給免疫治療。",
       "guideline": null,
       "concepts": [
-        "cns-infection-encephalitis-prion"
+        "cns-infection-encephalitis-prion",
+        "seizure-approach"
       ]
     },
     "source": "115070/302_0102",
