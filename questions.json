@@ -28,7 +28,8 @@
       "D": "本項不選。沒有腹膜炎、絞窄或缺血證據的沾黏性小腸阻塞，可先禁食、鼻胃管減壓、靜脈補水補電解質並密切觀察。出現持續疼痛、腹膜刺激徵象或惡化才須緊急手術。",
       "summary": "腹部手術後陣發絞痛、嘔吐、腹脹加上高亢腸音指向沾黏性小腸阻塞；amylase 大幅升高不是它的典型所見。",
       "concepts": [
-        "bowel-obstruction-ischemia-appendicitis"
+        "bowel-obstruction-ischemia-appendicitis",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "110020/302_11",
@@ -7940,7 +7941,8 @@
       "summary": "腹主動脈瘤修補後出現左下腹痛與血便，應優先懷疑左側結腸低灌流造成的缺血性結腸炎。",
       "guideline": null,
       "concepts": [
-        "colorectal-cancer-polyps"
+        "colorectal-cancer-polyps",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "110020/302_33",
@@ -8697,7 +8699,8 @@
       "summary": "孕婦合併感染性輸尿管阻塞時先以 PCN 或 ureteral stent 引流；孕期不可做 ESWL，感染未控制前也不做立即碎石。",
       "guideline": "FC 醫學(五)第5冊 p.139",
       "concepts": [
-        "stone-intervention-selection"
+        "stone-intervention-selection",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "110020/302_33",
@@ -23682,7 +23685,8 @@
       "summary": "年輕女性的附件腫塊合併急性扭轉症狀，若病理見多胚層成熟組織，最支持成熟囊性畸胎瘤。",
       "guideline": "FC 醫學(六)第1下冊 p.27",
       "concepts": [
-        "ovarian-tumor-families"
+        "ovarian-tumor-families",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "110080/302_44",
@@ -45110,7 +45114,8 @@
       "summary": "Ranson 入院先記 age、WBC、glucose、LDH、AST；bilirubin 是膽道線索，不在這套分數裡。",
       "guideline": null,
       "concepts": [
-        "ranson-criteria"
+        "ranson-criteria",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "111080/302_33",
@@ -46613,7 +46618,8 @@
       "summary": "闌尾炎越接近穿孔，術後越要盯 surgical site infection，而不是先猜罕見瘻管。",
       "guideline": null,
       "concepts": [
-        "surgical-wound-classification"
+        "surgical-wound-classification",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "111080/302_33",
@@ -49611,7 +49617,8 @@
       "summary": "年輕女性急腹痛加骨盆 X 光內牙齒／骨樣鈣化時，要先想到成熟囊性畸胎瘤與卵巢扭轉。",
       "guideline": "FC 醫學(六)第1下冊 p.50",
       "concepts": [
-        "ovarian-tumor-families"
+        "ovarian-tumor-families",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "111080/302_44",
@@ -62169,7 +62176,8 @@
       "summary": "Ectopic pregnancy 一旦低血壓加腹腔積液，就不是 methotrexate 題，而是復甦後緊急手術止血題。",
       "guideline": null,
       "concepts": [
-        "ectopic-pregnancy"
+        "ectopic-pregnancy",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "112020/302_44",
@@ -74558,7 +74566,10 @@
       "C": "錯誤，畸胎瘤可因扭轉急痛。但通常不會自行造成發燒。若影像有脂肪或鈣化才支持。",
       "D": "正確，PID 延伸形成輸卵管卵巢膿瘍（tubo-ovarian abscess）時，常有發燒、下腹痛與複雜附件膿性腫塊。三張連續電腦斷層切面上，兩側附屬器都有厚壁、多房的複合性腫塊，周圍脂肪還有發炎的浸潤影。發燒加下腹痛再配上這種影像就是輸卵管卵巢膿瘍，治療先給涵蓋厭氧菌的靜脈抗生素，膿瘍大於 7 到 8 公分或治療無效才引流。",
       "summary": "發燒加急性下腹痛和複雜附件腫塊時，先想 PID 併輸卵管卵巢膿瘍。",
-      "guideline": "FC 醫學(六)第1下冊 p.149"
+      "guideline": "FC 醫學(六)第1下冊 p.149",
+      "concepts": [
+        "acute-abdominal-pain-approach"
+      ]
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -78322,7 +78333,10 @@
       "C": "本項不選。嘔吐緩解、疼痛可控制且能耐受時，可及早恢復腸道餵食。不必為了胰臟炎長期禁食。",
       "D": "本項應選。無感染性壞死或其他明確感染證據時，不建議常規預防性廣效抗生素，因不能改善結果且會增加抗藥性與副作用。",
       "summary": "急性胰臟炎先止痛、補液、能吃就早吃。抗生素不是例行處方，只有感染證據才有角色。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "acute-abdominal-pain-approach"
+      ]
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -90222,7 +90236,8 @@
       "D": "本項不選。大腸憩室炎（colonic diverticulitis）通常見局部結腸壁增厚和周圍脂肪發炎，位置和影像重點跟這一題不同。",
       "summary": "這題官方答案是上腸繫膜靜脈血栓；CT 的關鍵是靜脈腔內的充盈缺損加上腸繫膜水腫。",
       "concepts": [
-        "bowel-obstruction-ischemia-appendicitis"
+        "bowel-obstruction-ischemia-appendicitis",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "113070/302_11",
@@ -100441,7 +100456,8 @@
       "D": "本項不選。CT 血管攝影（CT angiography）是首要影像；廣效涵蓋革蘭氏陰性菌和厭氧菌、抗凝或血管重建（revascularization）依病因處置，有腹膜炎就要手術。",
       "summary": "腸繫膜缺血要恢復灌流、避免不必要的血管收縮；「腹痛與體徵不成比例」是線索。",
       "concepts": [
-        "bowel-obstruction-ischemia-appendicitis"
+        "bowel-obstruction-ischemia-appendicitis",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "114020/302_0103",
@@ -109804,7 +109820,9 @@
     "fc_ref": null,
     "explanation": {
       "guideline": null,
-      "concepts": [],
+      "concepts": [
+        "acute-abdominal-pain-approach"
+      ],
       "A": "本項不選。子宮肌瘤通常從子宮本體長出，腹腔鏡下會看到和子宮相連的實質腫塊；本例突發單側劇痛加噁心嘔吐更像附件扭轉。",
       "B": "本項不選。黃體破裂常在排卵期或黃體期發生，會突發腹痛加腹腔內出血（hemoperitoneum）；驗孕陰性可排除多數子宮外孕，但題幹沒描述腹腔積血。",
       "C": "本項不選。闌尾炎（appendicitis）可有右下腹痛和噁心，但通常是漸進痛、局部腹膜刺激，常伴發燒或發炎指標；腹腔鏡下應直接看到發炎的闌尾。",
@@ -110046,7 +110064,10 @@
       "C": "正確。最後一次月經是 25 天前，正好落在黃體期後段，此時黃體（corpus luteum）囊腫張力最高。性行為是典型的誘發動作。破裂後血流進腹腔，才會有反彈痛、血壓 90/60 與 Hb 掉到 9.5。",
       "D": "本項不選。子宮平滑肌瘤（uterine leiomyoma）扭轉極為罕見，要有細長的蒂才可能發生。它以疼痛為主，不會造成腹腔積血與貧血。",
       "summary": "黃體期後段加上性行為後急腹症、驗孕陰性、腹腔積液，這組合就是黃體囊腫破裂。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "acute-abdominal-pain-approach"
+      ]
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -141445,7 +141466,8 @@
       "summary": "乙狀結腸扭轉若已有腹膜炎或缺血徵象，就直接手術；內視鏡復位只留給沒有穿孔、缺血與腹膜炎者。",
       "guideline": "ASCRS Clinical Practice Guideline for Colonic Volvulus (2021)",
       "concepts": [
-        "bowel-obstruction-ischemia-appendicitis"
+        "bowel-obstruction-ischemia-appendicitis",
+        "acute-abdominal-pain-approach"
       ]
     },
     "source": "115070/302_0103",
