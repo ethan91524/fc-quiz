@@ -123432,11 +123432,11 @@
     "specialty": "腸胃內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Appendectomy 與未來 潰瘍性大腸炎（ulcerative colitis）發生風險降低有流行病學關聯，但不是預防性手術建議。",
-      "B": "本項不選。克隆氏病（Crohn disease）的 transmural perianal involvement 可形成 fistula、fissure、abscess 與 stenosis。",
-      "C": "正確答案。Toxic megacolon 定義為非阻塞性 colon dilation 通常 >6 cm 加全身毒性，不限「左側結腸」且不能只靠 haustration 消失。",
-      "D": "本項不選。克隆氏病（Crohn disease）可形成 intra-abdominal/pelvic abscess 與致命穿孔性 peritonitis。",
-      "summary": "Toxic megacolon 是非阻塞性結腸擴張加 systemic toxicity，不限定左側結腸。",
+      "A": "本項不選。闌尾切除和日後罹患潰瘍性大腸炎的風險降低有流行病學關聯，但不是建議預防性切除。",
+      "B": "本項不選。克隆氏病是穿壁性發炎，約三分之一有肛周病變：瘻管、肛裂、膿瘍與狹窄。",
+      "C": "本項應選。中毒性巨結腸的定義是非阻塞性的結腸擴張（通常 >6 cm）加上全身中毒表現；不限定左側結腸，也不能只靠結腸袋消失判斷。",
+      "D": "本項不選。克隆氏病可形成腹腔或骨盆腔膿瘍，穿孔造成的腹膜炎可能致命。",
+      "summary": "中毒性巨結腸＝結腸擴張 >6 cm 加全身中毒，不限左側結腸。",
       "guideline": null,
       "concepts": [
         "toxic-megacolon-criteria",
@@ -124307,11 +124307,11 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "不正確：alcoholism。alcoholism 會增加 aspiration、肺炎鏈球菌與 Klebsiella 等風險，卻不是社區型 Pseudomonas 肺炎最典型的宿主因子。",
-      "B": "正確：severe COPD。severe COPD，尤其反覆使用抗生素、類固醇或有結構性肺病時，容易有氣道 Pseudomonas colonization，增加感染風險。",
-      "C": "不正確：stroke。stroke 增加 aspiration pneumonia 風險，常見病原方向是口咽菌叢與厭氧菌相關，而非單獨指向 Pseudomonas。",
-      "D": "不正確：diabetes melli。diabetes mellitus 會提高多種感染嚴重度，但沒有 severe COPD 那樣直接的結構性氣道定殖風險。",
-      "summary": "社區型 Pseudomonas pneumonia 要找結構性肺病：severe COPD、bronchiectasis、近期醫療暴露比單純糖尿病更關鍵。",
+      "A": "本項不選。酗酒增加吸入、肺炎鏈球菌與克雷伯氏菌的風險，但不是社區型綠膿桿菌肺炎最典型的宿主。",
+      "B": "本項應選。嚴重 COPD，尤其反覆用抗生素、類固醇或有結構性肺病時，呼吸道容易被綠膿桿菌定殖，感染風險上升。",
+      "C": "本項不選。中風增加吸入性肺炎，病原方向是口咽菌叢與厭氧菌。",
+      "D": "本項不選。糖尿病會讓多種感染更嚴重，但沒有嚴重 COPD 那種結構性呼吸道定殖的風險。",
+      "summary": "社區型綠膿桿菌肺炎找結構性肺病：嚴重 COPD、支氣管擴張症、近期住院或抗生素。",
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
@@ -125793,11 +125793,11 @@
     "specialty": "小兒科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Langerhans cell histiocytosis 的病灶細胞通常 CD1a positive，常也表現 langerin/CD207。",
-      "B": "本項不選。Birbeck granules 是 Langerhans cells 在電子顯微鏡下的典型桿狀或網球拍樣胞器。",
-      "C": "本項敘述正確。hemophagocytic histiocytes 是 macrophage activation/HLH 的特徵，不是 Langerhans cell histiocytosis 的診斷特徵。",
-      "D": "本項不選。eosinophilic granuloma 是單系統骨 LCH 的傳統名稱，常造成溶骨性骨病灶。",
-      "summary": "LCH 三個記憶點是 CD1a、Birbeck granule、eosinophilic granuloma；看到 hemophagocytosis 要轉想 HLH。",
+      "A": "本項不選。蘭格罕細胞組織球增生症的病灶細胞 CD1a 陽性，通常也表現 langerin（CD207）。",
+      "B": "本項不選。Birbeck 顆粒是蘭格罕細胞在電子顯微鏡下的網球拍狀胞器。",
+      "C": "本項應選。噬血組織球是巨噬細胞活化、噬血症候群（HLH）的特徵，不是蘭格罕細胞組織球增生症。",
+      "D": "本項不選。嗜酸性肉芽腫是單系統骨病灶的傳統名稱，常造成溶骨性病變。",
+      "summary": "LCH 記 CD1a、Birbeck 顆粒、嗜酸性肉芽腫；看到噬血要想 HLH。",
       "guideline": null
     },
     "source": "115020/302_0104",
@@ -126169,11 +126169,11 @@
     "specialty": "小兒科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。thiamine-responsive megaloblastic anemia 可呈大球性貧血，常伴糖尿病與感音性聽損。",
-      "B": "本項敘述正確。鉛抑制 heme synthesis，典型是 microcytic、hypochromic anemia 與 basophilic stippling，不屬 macrocytic anemia。",
-      "C": "本項不選。Fanconi anemia 是骨髓衰竭症候群，常見 macrocytosis 可早於明顯 pancytopenia。",
-      "D": "本項不選。folate deficiency 會使 DNA 合成受阻，出現 megaloblastic macrocytic anemia。",
-      "summary": "大球性貧血想 DNA 合成或骨髓衰竭；鉛是 heme 合成問題，所以是小球性。",
+      "A": "本項不選。硫胺素反應性巨母紅血球貧血是大球性貧血，常合併糖尿病與感音性聽損。",
+      "B": "本項應選。鉛抑制血基質合成，典型是小球性低色素貧血加嗜鹼性斑點，不是大球性。",
+      "C": "本項不選。范可尼貧血是骨髓衰竭症候群，大球性常比全血球低下更早出現。",
+      "D": "本項不選。葉酸缺乏讓 DNA 合成受阻，造成巨母紅血球性大球性貧血。",
+      "summary": "大球性想 DNA 合成或骨髓衰竭；鉛是血基質合成問題，所以是小球性。",
       "guideline": null,
       "concepts": [
         "microcytic-anemia"
@@ -126205,11 +126205,11 @@
     "specialty": "小兒科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Kaposiform hemangioendothelioma 可引起 Kasabach-Merritt phenomenon，病灶內消耗血小板與凝血因子，造成紫斑與微血管病性溶血。",
-      "B": "本項應選。pineoblastoma 位於松果體區，較可能造成 hydrocephalus、Parinaud syndrome 或 precocious puberty；尿崩、乳溢與甲亢這組內分泌表現不符合。",
-      "C": "本項不選。Wilms tumor 常以腹部腫塊與血尿表現；部分病例可有 acquired von Willebrand syndrome 而見 aPTT 延長。",
-      "D": "本項不選。pheochromocytoma 的 catecholamine bursts 可造成陣發高血壓、心悸、蒼白與冒汗，尿液 metanephrine 升高是重要線索。",
-      "summary": "腫瘤配對要看解剖位置：松果體瘤先想 Parinaud 或水腦，不是尿崩、乳溢與甲亢的拼盤。",
+      "A": "本項不選。類卡波西血管內皮瘤會引起 Kasabach-Merritt 現象，在病灶內消耗血小板與凝血因子，造成紫斑與微血管病性溶血。",
+      "B": "本項應選。松果體母細胞瘤在松果體區，比較會造成水腦、Parinaud 症候群或性早熟；尿崩、乳溢加甲亢這組內分泌表現不符合。",
+      "C": "本項不選。Wilms 腫瘤常以腹部腫塊與血尿表現，部分病例有後天性類血友病而 aPTT 延長。",
+      "D": "本項不選。嗜鉻細胞瘤陣發性釋放兒茶酚胺，造成陣發高血壓、蒼白、冒冷汗，尿中 metanephrine 升高。",
+      "summary": "松果體瘤想 Parinaud 與水腦；尿崩要想鞍上區病灶。",
       "guideline": null,
       "concepts": [
         "pediatric-solid-tumors"
@@ -128716,11 +128716,11 @@
     "specialty": "一般消化外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。primary biliary cholangitis 的膽小管破壞位於肝內小膽管，門脈高壓阻力主要在肝內，不是本題最典型的 presinusoidal 配對。",
-      "B": "本項不選。congestive heart failure 使右心與肝靜脈壓升高，屬 posthepatic portal hypertension。阻力在肝臟流出道之後。",
-      "C": "本項不選。intrahepatic vascular occlusive disease 通常造成肝竇或肝竇後微血管阻塞，不能作為最典型的 presinusoidal 答案。",
-      "D": "正確。sarcoid 的肉芽腫可分布於 portal tracts，阻礙門脈血進入肝竇，屬 presinusoidal portal hypertension。它常在肝功能尚未非常差時就出現門脈高壓。",
-      "summary": "門脈高壓先問阻力在哪：sarcoid 的 portal tract granuloma 在 sinusoid 前；心衰竭則在肝臟後面。",
+      "A": "本項不選。原發性膽汁性膽管炎傷的是肝內小膽管，阻力主要在肝內，不是最典型的竇前型。",
+      "B": "本項不選。心衰竭讓右心與肝靜脈壓升高，屬於肝後型。",
+      "C": "本項不選。肝內血管阻塞疾病多阻塞肝竇或竇後的小血管，不是最典型的竇前型。",
+      "D": "本項應選。類肉瘤的肉芽腫分布在門脈區，擋住門脈血進入肝竇，屬竇前型門脈高壓，所以肝功能還不差時就可能出現門脈高壓。",
+      "summary": "門脈高壓先問阻力在哪：類肉瘤、血吸蟲在竇前；心衰竭在肝後。",
       "guideline": null,
       "concepts": [
         "portal-hypertension-cirrhosis"
@@ -128786,11 +128786,11 @@
     "specialty": "內分泌外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。BRAF 突變常見於甲狀腺乳突癌（papillary thyroid carcinoma），在未分化甲狀腺癌（anaplastic thyroid carcinoma）也可見到，支持這是 MAPK pathway 相關的致癌變化。",
-      "B": "本項不選。RET 基因的 germline mutation 與 MEN2 相關，並造成甲狀腺髓質癌（medullary thyroid carcinoma）風險上升；因此這個配對正確。",
-      "C": "本項不選。RAS 突變可見於濾泡性腫瘤光譜，包括濾泡腺瘤與濾泡癌（follicular carcinoma），所以不能只憑 RAS 判定良惡性。",
-      "D": "本項應選。D 是本題最不適當的敘述。p53 是 tumor suppressor gene，不是致癌基因；它失去功能後，細胞失去 DNA damage checkpoint，這類突變常見於未分化甲狀腺癌（anaplastic thyroid cancer）。",
-      "summary": "甲狀腺癌基因題的陷阱：BRAF／RET／RAS 是活化訊號的 oncogenic driver；p53 則是失去煞車功能的 tumor suppressor。",
+      "A": "本項不選。BRAF 突變常見於乳突癌，未分化癌也可見到，屬 MAPK 路徑的致癌變化。",
+      "B": "本項不選。RET 生殖細胞突變和 MEN2 相關，增加甲狀腺髓質癌風險。",
+      "C": "本項不選。RAS 突變可見於濾泡腺瘤與濾泡癌，所以不能單靠 RAS 判斷良惡性。",
+      "D": "本項應選。p53 是抑癌基因，不是致癌基因；它失去功能後細胞少了 DNA 損傷的煞車，這類突變常見於未分化甲狀腺癌。",
+      "summary": "BRAF、RET、RAS 是油門（致癌基因），p53 是煞車（抑癌基因）。",
       "guideline": null,
       "concepts": []
     },
@@ -129289,11 +129289,11 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。diffuse pontine glioma 多為瀰漫、侵襲性高的腦幹腫瘤。",
-      "B": "正確。midbrain glioma，特別是 tectal glioma，常較局限，預後優於 diffuse pontine glioma。",
-      "C": "本項應選。diffuse pontine glioma 與重要腦幹結構混雜，無法安全完整切除；治療以放射治療為主。",
-      "D": "正確。tectal glioma 可壓迫 cerebral aqueduct，因而合併 obstructive hydrocephalus。",
-      "summary": "兒童腦幹腫瘤看位置：diffuse pontine 不能靠切除治療；tectal 常因 aqueduct 阻塞而水腦。",
+      "A": "本項不選。瀰漫性橋腦膠質瘤多是瀰漫、侵襲性高的惡性腫瘤。",
+      "B": "本項不選。中腦膠質瘤，尤其頂蓋型，常較局限，預後比瀰漫性橋腦膠質瘤好。",
+      "C": "本項應選。瀰漫性橋腦膠質瘤和重要的腦幹結構混在一起，無法安全切除；治療以放射治療為主。",
+      "D": "本項不選。頂蓋膠質瘤會壓住中腦導水管，造成阻塞性水腦。",
+      "summary": "瀰漫性橋腦膠質瘤不能開刀，以放療為主；頂蓋型常以水腦表現。",
       "guideline": null,
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
@@ -129361,11 +129361,11 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。aqueductal stenosis 是先天性常見原因，會阻斷第三到第四腦室的腦脊髓液流動。",
-      "B": "本項最不適當。aqueductal stenosis 是阻塞性（non-communicating）hydrocephalus，因為阻塞點在腦室系統內。",
-      "C": "正確。新生兒 meningitis 後蜘蛛膜絨毛吸收受損，常形成 communicating hydrocephalus。",
-      "D": "正確。Chiari II malformation 與 myelomeningocele 相關，是先天性水腦症的重要原因。",
-      "summary": "水腦症先問阻塞在哪：aqueductal stenosis 卡在腦室內，所以是 non-communicating。",
+      "A": "本項不選。中腦導水管狹窄是先天性水腦的常見原因，擋住第三到第四腦室的腦脊髓液流動。",
+      "B": "本項應選。導水管狹窄的阻塞點在腦室系統內，是阻塞性（非交通性）水腦，不是交通性。",
+      "C": "本項不選。新生兒腦膜炎後蜘蛛膜顆粒吸收受損，常形成交通性水腦。",
+      "D": "本項不選。Chiari II 畸形和脊髓脊膜膨出相關，是先天性水腦的重要原因。",
+      "summary": "阻塞在腦室內（如導水管狹窄）是非交通性；吸收出問題（如腦膜炎後）是交通性。",
       "guideline": null,
       "concepts": [
         "hydrocephalus-chiari-functional-neurosurgery"
@@ -129500,11 +129500,11 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。de Quervain 病影響的是第一背側腱鞘區，內有 abductor pollicis longus 與 extensor pollicis brevis；第二區是 intersection syndrome 的解剖背景，不是 de Quervain 的主病灶。",
-      "B": "錯誤。Intersection syndrome 發生在第一背側腱鞘的 APL/EPB 橫跨第二區 ECRL/ECRB 處，位置在手腕背側較近端，不是手指掌側的 A1 pulley。",
-      "C": "正確。板機指（trigger finger）因 A1 pulley 狹窄讓屈肌腱滑動受阻，手指會卡在屈曲位；嚴重時病人無法主動完全伸直。",
-      "D": "錯誤。De Quervain 病主要靠病史、局部壓痛與 Finkelstein test 診斷。X 光可排除骨性病變，但不是區分此病的主要依據。",
-      "summary": "A1 pulley 卡住是 trigger finger；第一背側區痛是 de Quervain；手腕背側兩腱區交叉才是 intersection syndrome。",
+      "A": "本項不選。de Quervain 病在第一背側腱鞘區，內有外展拇長肌與伸拇短肌。",
+      "B": "本項不選。交叉症候群發生在第一區肌腱跨過第二區肌腱的地方，在手腕背側較近端，不是手指掌側的 A1 滑車。",
+      "C": "本項應選。板機指是 A1 滑車狹窄讓屈肌腱卡住，手指卡在彎曲位，嚴重時無法主動完全伸直。",
+      "D": "本項不選。de Quervain 病靠病史、局部壓痛與 Finkelstein 試驗診斷；X 光只用來排除骨頭問題。",
+      "summary": "A1 滑車卡住＝板機指；第一背側區痛＝de Quervain；兩區肌腱交叉處痛＝交叉症候群。",
       "guideline": null,
       "concepts": [
         "flexor-tendon-pulleys"
@@ -134698,11 +134698,11 @@
     "specialty": "腸胃內科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。一部分初診 IBD 無法明確分類，可暫稱 IBD-unclassified。",
-      "B": "本項不選。Uveitis 等眼部 extraintestinal manifestations 可見於 UC 與 克隆氏病（Crohn disease）。",
-      "C": "正確答案。Crohn colitis 也提高 colorectal cancer 風險，廣泛且長期 colonic involvement 同樣須 surveillance colonoscopy。",
-      "D": "本項不選。Azathioprine 可造成 leukopenia、nausea、hepatotoxicity 與 pancreatitis，合併 biologic 時還要權衡感染和 lymphoma 風險。",
-      "summary": "需要 surveillance 的不只 UC；長期 Crohn colitis 也增加大腸癌風險。",
+      "A": "本項不選。一部分初診的發炎性腸道疾病無法明確分類，可暫稱未分類型。",
+      "B": "本項不選。葡萄膜炎等腸外表現在潰瘍性大腸炎與克隆氏病都可能發生。",
+      "C": "本項應選。侵犯大腸的克隆氏病也會增加大腸癌風險；範圍廣、病程長的克隆氏大腸炎同樣要定期監測大腸鏡。",
+      "D": "本項不選。Azathioprine 可造成白血球減少、噁心、肝炎與胰臟炎；合併生物製劑時還要權衡感染與淋巴瘤風險。",
+      "summary": "要做監測大腸鏡的不只 UC，長期克隆氏大腸炎也要。",
       "guideline": null,
       "concepts": [
         "crohn-vs-uc"
@@ -136101,11 +136101,11 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。trimethoprim-sulfamethoxazole 是肺囊蟲肺炎（Pneumocystis jirovecii pneumonia, PJP）的第一線治療。HIV 病人若低血氧嚴重，還要及早加 corticosteroid，因為發炎反應會讓氧合再惡化。",
-      "B": "本項不選。mebendazole 或 albendazole 可清除腸腔內的蟯蟲。重點是依療程重複給藥並處理同住者與手部衛生，才能打斷蟲卵造成的自體再感染。",
-      "C": "本項應選。Strongyloides stercoralis hyperinfection 應用 ivermectin，並盡量減少 corticosteroid 等免疫抑制。praziquantel 的標靶是吸蟲與絛蟲，對會自體感染的小桿線蟲沒有足夠療效。",
-      "D": "本項不選。弓蟲腦炎可用 pyrimethamine 合併 sulfadiazine；若不能用 sulfonamide，clindamycin 可作替代搭配。pyrimethamine 會抑制葉酸代謝，實務上要同時給 leucovorin 減少骨髓毒性。",
-      "summary": "配藥別混：PJP 用 trimethoprim-sulfamethoxazole；小桿線蟲 hyperinfection 用 ivermectin，不用 praziquantel。",
+      "A": "本項不選。Trimethoprim-sulfamethoxazole 是肺囊蟲肺炎的第一線治療；HIV 病人低血氧嚴重時要早加類固醇。",
+      "B": "本項不選。Mebendazole 或 albendazole 可清除蟯蟲；要依療程重複給藥，同住者一起治療並注意手部衛生。",
+      "C": "本項應選。糞小桿線蟲過度感染要用 ivermectin，並盡量減少類固醇等免疫抑制；praziquantel 是治吸蟲與絛蟲的藥。",
+      "D": "本項不選。弓蟲腦炎用 pyrimethamine 加 sulfadiazine；不能用磺胺時改加 clindamycin，同時給 leucovorin 減少骨髓毒性。",
+      "summary": "小桿線蟲用 ivermectin；praziquantel 是吸蟲與絛蟲的藥。",
       "guideline": "CDC, Clinical Care of Strongyloides (2024)"
     },
     "source": "115070/302_0101",
@@ -136134,11 +136134,11 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。linezolid 對 MRSA 有活性，尤其可用於 MRSA 肺炎。它的限制是 prolonged use 可能造成 thrombocytopenia，也要注意和 serotonergic drugs 併用時的 serotonin syndrome 風險。",
-      "B": "本項不選。vancomycin 是嚴重 MRSA 感染的常用藥，治療時以 AUC-based monitoring 協助兼顧療效與腎毒性。不同感染部位和腎功能會影響目標與給藥策略。",
-      "C": "本項應選。imipenem-cilastatin 是 carbapenem，雖然廣效，卻會被 MRSA 的 altered penicillin-binding protein 2a 避開。它不能當 MRSA 的可靠治療，所以在這四種藥中最不推薦。",
-      "D": "本項不選。teicoplanin 是 glycopeptide，和 vancomycin 一樣以細胞壁合成為標靶，對 MRSA 有活性。是否選用還要看感染嚴重度、藥物可近性與當地 susceptibility pattern。",
-      "summary": "MRSA 的 PBP2a 讓一般 β-lactam 失效；imipenem-cilastatin 不能治療，改用 glycopeptide 或 linezolid。",
+      "A": "本項不選。Linezolid 對 MRSA 有效，尤其可用於 MRSA 肺炎；長期使用要注意血小板低下與血清素症候群。",
+      "B": "本項不選。Vancomycin 是嚴重 MRSA 感染的常用藥，用 AUC 監測兼顧療效與腎毒性。",
+      "C": "本項應選。Imipenem-cilastatin 雖然廣效，但仍是 β-lactam，MRSA 的 PBP2a 讓它失效，不能用來治 MRSA。",
+      "D": "本項不選。Teicoplanin 是醣肽類，和 vancomycin 一樣對 MRSA 有活性。",
+      "summary": "MRSA 的 PBP2a 讓所有一般 β-lactam 失效，連 carbapenem 也不行。",
       "guideline": "IDSA, Management of MRSA HAP/VAP (2016)"
     },
     "source": "115070/302_0101",
@@ -136167,11 +136167,11 @@
     "specialty": "感染科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。invasive aspergillosis 的 Aspergillus 是較細、septate hyphae，常有 acute-angle branching。broad、ribbon-like、nonseptate hyphae 加糖尿病與鼻腔黑色 eschar，反而指向 mucormycosis。",
-      "B": "本項不選。echinocandins 對 Mucorales 沒有可靠活性，不能作為單獨第一線。mucormycosis 的初始抗黴菌治療通常以 liposomal amphotericin B 為主，並同步控制高血糖或 ketoacidosis。",
-      "C": "本項應選。鼻腦型 mucormycosis 壞死組織的血流很差，藥物難以有效送達。及早外科清瘡能移除真菌負荷與失活組織，必須和全身性抗黴菌藥一起進行。",
-      "D": "本項不選。fluconazole、voriconazole 都不涵蓋 Mucorales。可用的後續或替代藥包括 posaconazole 或 isavuconazole，但不能把對 Aspergillus 有效的 voriconazole 套到 mucormycosis。",
-      "summary": "糖尿病＋鼻腔黑色壞死＋寬大無隔菌絲就是 mucormycosis：立刻 amphotericin B，加上外科清瘡；voriconazole 沒用。",
+      "A": "本項不選。麴菌是較細、有隔的菌絲，呈銳角分枝；寬大、帶狀、無隔的菌絲加上糖尿病與鼻腔黑色壞死，指向白黴菌病。",
+      "B": "本項不選。Echinocandin 對白黴菌沒有可靠活性；第一線是 liposomal amphotericin B，同時控制高血糖或酮酸中毒。",
+      "C": "本項應選。鼻腦型白黴菌病的壞死組織血流很差，藥物送不進去；及早外科清創移除真菌與壞死組織，必須和全身抗黴菌藥一起做。",
+      "D": "本項不選。Fluconazole 和 voriconazole 都涵蓋不到白黴菌；後續可用 posaconazole 或 isavuconazole。",
+      "summary": "糖尿病加鼻腔黑色壞死加寬大無隔菌絲＝白黴菌病：amphotericin B 加外科清創。",
       "guideline": "CDC, Treatment of Mucormycosis (2024)"
     },
     "source": "115070/302_0101",
@@ -139834,11 +139834,11 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "錯誤。這句不對。primary brain injury 在撞擊當下就發生，例如腦挫傷或瀰漫性軸索損傷，無法靠後續藥物逆轉。",
-      "B": "錯誤。這句不對。epidural hematoma 多由 middle meningeal artery 撕裂；bridging veins 撕裂是 subdural hematoma 的典型來源。",
-      "C": "正確。頭傷後先短暫失去意識、再出現 lucid interval，提示 epidural hematoma 逐漸擴大壓迫腦部。",
-      "D": "錯誤。這句不對。corticosteroids 不改善 TBI 預後，反而可能增加死亡風險，不作常規腦水腫治療。",
-      "summary": "外傷後 lucid interval 要警覺 epidural hematoma；primary injury 不能逆轉，重點是防 secondary injury。",
+      "A": "本項不選。原發性腦損傷在撞擊當下就發生，例如挫傷或瀰漫性軸索損傷，無法靠藥物逆轉；治療重點是預防次發性損傷。",
+      "B": "本項不選。硬腦膜上血腫多是中腦膜動脈撕裂；橋靜脈撕裂是硬腦膜下血腫的典型來源。",
+      "C": "本項應選。頭部外傷後短暫失去意識、接著清醒一段時間（清醒期），再逐漸惡化，提示硬腦膜上血腫正在擴大。",
+      "D": "本項不選。類固醇不能改善腦外傷預後，CRASH 試驗反而顯示死亡率上升，不作常規使用。",
+      "summary": "外傷後清醒期想硬腦膜上血腫；腦外傷不要給類固醇。",
       "guideline": null,
       "concepts": [
         "tbi-hematomas-icp"
@@ -140484,11 +140484,11 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項最不適當。dural arteriovenous fistula 不只造成頭痛；有 cortical venous reflux 時可引起腦出血、癲癇、進行性神經缺損。",
-      "B": "正確。這句不精確。dural arteriovenous fistula 與腦動靜脈畸形是不同病灶，並非一般會演變成 AVM。",
-      "C": "正確。這句可接受。Barrow type B、C、D 的 carotid-cavernous fistula 屬間接型 dural fistula；題目所稱第二型是此分類概念。",
-      "D": "正確。這句正確。靜脈竇栓塞後形成異常硬腦膜動靜脈交通，是 dural arteriovenous fistula 的重要成因。",
-      "summary": "dural AV fistula 的危險不是只有頭痛；回流進皮質靜脈時會出血，且常和靜脈竇栓塞有關。",
+      "A": "本項應選。硬腦膜動靜脈瘻管不只會頭痛；若有皮質靜脈逆流，可以腦出血、癲癇或進行性神經缺損。",
+      "B": "本項不選。題目把它列為可能演變成動靜脈畸形；兩者其實是不同病灶，但這句不是本題要選的最不適當敘述。",
+      "C": "本項不選。間接型的頸動脈海綿竇瘻屬於硬腦膜動靜脈瘻管的一種，可以包含在內。",
+      "D": "本項不選。靜脈竇栓塞後形成異常的硬腦膜動靜脈交通，是重要的成因。",
+      "summary": "硬腦膜動靜脈瘻管有皮質靜脈逆流時會出血；常和靜脈竇栓塞有關。",
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
@@ -140520,11 +140520,11 @@
     "specialty": "腦神經外科",
     "fc_ref": null,
     "explanation": {
-      "A": "正確。NF1 是 autosomal dominant 疾病，但約半數個案可為新生突變。",
-      "B": "正確。NF1 gene 位在 chromosome 17q11.2，編碼 neurofibromin。",
-      "C": "正確。NF1 患者一生發生 malignant peripheral nerve sheath tumor 的風險約可達 8–13%，10% 是常用考點。",
-      "D": "本項應選。NF1 與 optic pathway glioma、其他 glioma 及周邊神經鞘腫瘤都相關；schwannoma 更典型於 NF2，但不能說 NF1 無關。",
-      "summary": "NF1 在 17q11.2，會想到 neurofibroma、optic pathway glioma、MPNST；雙側 schwannoma 才更像 NF2。",
+      "A": "本項不選。NF1 是體染色體顯性遺傳，但約一半是新發突變。",
+      "B": "本項不選。NF1 基因在第 17 對染色體 17q11.2，製造 neurofibromin。",
+      "C": "本項不選。NF1 一生發生惡性周邊神經鞘瘤的風險約 8–13%，10% 是常用考點。",
+      "D": "本項應選。NF1 和視神經膠質瘤、其他膠質瘤及周邊神經鞘腫瘤都有關；雙側神經鞘瘤更典型屬於 NF2，但不能說 NF1 無關。",
+      "summary": "NF1 在 17q11.2：神經纖維瘤、視神經膠質瘤、MPNST；雙側神經鞘瘤是 NF2。",
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
@@ -140592,11 +140592,11 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Guyon canal 位於尺側腕部，邊界與 pisiform、hook of hamate、piso-hamate ligament、palmar carpal ligament 有關。",
-      "B": "本項錯誤。Guyon canal syndrome 壓迫的是 ulnar nerve，不是 median nerve；median nerve 壓迫在腕部要想到 carpal tunnel syndrome。",
-      "C": "本項不選。壓迫尺神經時在 Guyon canal 附近叩擊可誘發 Tinel sign，症狀依受壓分支而有小指與無名指尺側感覺或手內在肌無力。",
-      "D": "本項不選。Ganglion、giant cell tumor 與 ulnar artery thrombosis 都可能佔據或改變 Guyon canal 空間，造成尺神經壓迫。",
-      "summary": "腕部神經壓迫先配對：carpal tunnel 是 median nerve，Guyon canal 是 ulnar nerve。",
+      "A": "本項不選。Guyon 氏管在腕部尺側，邊界由鉤狀骨鉤、豆狀骨、豆鉤韌帶與掌側腕韌帶構成。",
+      "B": "本項應選。Guyon 氏管症候群壓迫的是尺神經，不是正中神經；正中神經在腕部受壓是腕隧道症候群。",
+      "C": "本項不選。在 Guyon 氏管附近叩擊可誘發 Tinel 徵象，依受壓分支出現小指感覺異常或手內在肌無力。",
+      "D": "本項不選。腱鞘囊腫、巨細胞瘤與尺動脈血栓都可能佔據 Guyon 氏管空間，壓迫尺神經。",
+      "summary": "腕隧道壓正中神經，Guyon 氏管壓尺神經。",
       "guideline": null,
       "concepts": [
         "common-entrapment-neuropathies"
@@ -143934,11 +143934,11 @@
     "explanation": {
       "guideline": null,
       "concepts": [],
-      "A": "正確答案。圖中★在腹直肌（rectus abdominis）深面、沿肌肉垂直上行，這是深下腹壁動脈（deep inferior epigastric artery），由 external iliac artery 發出。側腹 trocar 若沒避開它的走向，會造成腹壁內出血。",
-      "B": "本項不選。淺旋髂動脈（superficial circumflex iliac artery）源自 femoral artery，走在皮下、朝髂前上棘（anterior superior iliac spine）；星號在腹直肌深面，不符合。",
-      "C": "本項不選。深旋髂動脈（deep circumflex iliac artery）從 external iliac artery 發出後沿腹股溝韌帶（inguinal ligament）往外側走，位置較靠近髂嵴（iliac crest），不是下腹直肌後方的垂直血管。",
-      "D": "本項不選。外髂動脈（external iliac artery）在骨盆緣深處，是深下腹壁動脈的近端來源；圖上標的這條腹壁分支不能直接叫外髂動脈。",
-      "summary": "側腹 trocar 要避開由 external iliac artery 發出、沿腹直肌深面上行的 deep inferior epigastric artery。"
+      "A": "本項應選。圖中★在腹直肌深面、往上垂直走，是由外髂動脈發出的深下腹壁動脈。側邊放 trocar 時沒避開它，會造成腹壁內出血。",
+      "B": "本項不選。淺旋髂動脈源自股動脈，走在皮下、朝髂前上棘，不在腹直肌深面。",
+      "C": "本項不選。深旋髂動脈從外髂動脈發出後沿腹股溝韌帶往外走，位置靠近髂嵴，不是腹直肌後方的垂直血管。",
+      "D": "本項不選。外髂動脈在骨盆緣深處，是深下腹壁動脈的來源，但圖上標的這條腹壁分支不能叫外髂動脈。",
+      "summary": "側腹 trocar 要避開沿腹直肌深面上行的深下腹壁動脈。"
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
