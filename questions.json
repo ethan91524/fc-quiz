@@ -678,7 +678,8 @@
       "D": "本項不選。腹部超音波可觀察膽管擴張、膽結石或腫塊，是區分肝外阻塞和肝細胞性黃疸的重要初步影像。",
       "summary": "直接型高膽紅素血症合併 ALT 上升要查肝炎和膽道阻塞；reticulocyte count 主要用在間接型的溶血性黃疸。",
       "concepts": [
-        "jaundice-liver-tests-chronic-liver-disease"
+        "jaundice-liver-tests-chronic-liver-disease",
+        "jaundice-approach"
       ]
     },
     "source": "110020/302_11",
@@ -719,7 +720,8 @@
       "D": "本項不選。抗核抗體（antinuclear antibody, ANA）可見於自體免疫性肝炎（autoimmune hepatitis），也可能出現在部分原發性膽汁性膽管炎的病人，對這種混合型表現的鑑別有幫助。",
       "summary": "搔癢加膽汁鬱積型肝指數要評估 PBC 和自體免疫性肝炎；anti-HAV IgG 只能證明既往免疫。",
       "concepts": [
-        "jaundice-liver-tests-chronic-liver-disease"
+        "jaundice-liver-tests-chronic-liver-disease",
+        "jaundice-approach"
       ]
     },
     "source": "110020/302_11",
@@ -1551,7 +1553,10 @@
       "C": "本項不選。感染會誘發溶血加劇。其中 parvovirus B19 更特別：它直接抑制紅血球生成，可造成再生不良危象（aplastic crisis）。",
       "D": "本項不選。病因就在紅血球膜與細胞骨架的連結蛋白——spectrin、ankyrin、band 3、protein 4.2 這些出問題，膜的面積一點一點流失，紅血球就縮成球形。",
       "summary": "家族性黃疸＋膽結石＋MCHC 偏高＋Coombs 陰性＝遺傳性球形紅血球症，溶血發生在脾臟裡。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "jaundice-approach"
+      ]
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -40961,7 +40966,10 @@
       "C": "本項不選。Dubin-Johnson syndrome 是膽紅素排泄障礙，造成 conjugated hyperbilirubinemia；本題明確是間接型，所以方向不合。",
       "D": "本項不選。Autoimmune hepatitis 通常有持續肝功能異常與自體抗體等肝炎證據，不會在五天內自行緩解成只有輕度間接型黃疸。",
       "summary": "青春期女孩在感染或月經時短暫出現間接型黃疸、肝功能正常，想到 Gilbert syndrome，不是肝炎或膽汁排泄疾病。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "jaundice-approach"
+      ]
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -50487,7 +50495,8 @@
     "explanation": {
       "guideline": "FC 醫學(三)第2冊 p.179",
       "concepts": [
-        "mirizzi-syndrome"
+        "mirizzi-syndrome",
+        "jaundice-approach"
       ],
       "A": "本項不選。總膽管結石會直接造成總膽管阻塞（choledocholithiasis），但 Mirizzi syndrome 的原發結石不是卡在總膽管。",
       "B": "本項不選。胰臟腫瘤是從外面壓迫遠端總膽管造成阻塞性黃疸，機轉和 Mirizzi syndrome 的膽囊頸／膽囊管不同。",
@@ -50574,7 +50583,8 @@
       "D": "本項不選。Acetaminophen 過量造成劑量相關的急性肝細胞壞死，AST／ALT 常大幅飆高，不符合這種膽汁鬱積型。",
       "summary": "ALP 明顯高、ALT 只輕升 ＝ 膽汁鬱積型損傷；17α-alkylated androgen 是典型元凶。",
       "concepts": [
-        "jaundice-liver-tests-chronic-liver-disease"
+        "jaundice-liver-tests-chronic-liver-disease",
+        "jaundice-approach"
       ]
     },
     "source": "112020/302_11",
@@ -51308,7 +51318,10 @@
       "C": "本項不選。急性腎絲球腎炎的尿潛血陽性會伴隨顯微鏡下的紅血球或紅血球圓柱。這題沉澱物紅血球（RBC）只有 0～2/HPF，代表尿裡是**血紅素**不是紅血球。",
       "D": "本項不選。急性肝炎應該以 ALT、AST 明顯上升為主。這題 ALT 35 U/L 正常，LDH 1,080 U/L 的溶血訊號與網狀紅血球 7.6% 也解釋不了、Coombs 陰性的溶血與藥物後反覆發作。",
       "summary": "尿潛血陽性但沉渣幾乎沒有紅血球＝血紅素尿，代表血管內溶血；再加藥物誘發就想 G6PD 缺乏。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "jaundice-approach"
+      ]
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -63017,7 +63030,8 @@
       "D": "本項不選。G6PD 缺乏造成溶血與間接型高膽紅素血症。",
       "summary": "肝酵素全正常、只有直接型膽紅素高，想 Dubin-Johnson；間接型想 Gilbert。",
       "concepts": [
-        "jaundice-liver-tests-chronic-liver-disease"
+        "jaundice-liver-tests-chronic-liver-disease",
+        "jaundice-approach"
       ]
     },
     "source": "112080/302_11",
@@ -99999,7 +100013,8 @@
       "D": "本項不選。溶血（hemolysis）會讓間接型 bilirubin 上升、尿變茶色，術後要靠 CBC、reticulocyte、LDH、haptoglobin 評估。",
       "summary": "30 歲術後才首次出現 bilirubin 4.1，最不可能是新生兒期就重症的 Crigler–Najjar type I。",
       "concepts": [
-        "jaundice-liver-tests-chronic-liver-disease"
+        "jaundice-liver-tests-chronic-liver-disease",
+        "jaundice-approach"
       ]
     },
     "source": "114020/302_0103",
@@ -111919,7 +111934,8 @@
       "D": "正確答案。本例 ALT 1860、AST 1256、ALP 95（正常＜100）＝急性肝細胞性損傷。先用 HBsAg 和 anti-HCV 篩最常見的病毒背景。之後再依病程加驗 IgM anti-HBc 等。四組中這組最完整。",
       "summary": "AST／ALT ＞1,000、ALP 正常的急性肝細胞損傷，病毒初篩以 HBsAg＋anti-HCV 最完整。",
       "concepts": [
-        "jaundice-liver-tests-chronic-liver-disease"
+        "jaundice-liver-tests-chronic-liver-disease",
+        "jaundice-approach"
       ]
     },
     "source": "114070/302_0101",
@@ -112765,7 +112781,10 @@
       "C": "本項不選。泌尿道感染的尿液會混濁、有膿尿與細菌，病人也會有排尿症狀。它更解釋不了間接型高膽紅素血症與貧血。",
       "D": "本項不選。膽結石造成膽道阻塞時，上升的是**直接型**膽紅素。這題是間接型為主，而且還有貧血。",
       "summary": "紅色尿要先分「澄清」還是「混濁」：澄清紅褐＝血紅素尿（溶血），混濁帶沉渣＝血尿（紅血球）。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "jaundice-approach"
+      ]
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118381,7 +118400,8 @@
       "summary": "膽管炎越嚴重越要記住五徵多的是「低血壓＋意識改變」，不是代謝性酸中毒。",
       "guideline": null,
       "concepts": [
-        "charcot-triad-reynolds-pentad"
+        "charcot-triad-reynolds-pentad",
+        "jaundice-approach"
       ]
     },
     "source": "114070/302_0103",
