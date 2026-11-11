@@ -8295,7 +8295,9 @@
       "D": "本項不選。頸部淋巴結腫大可能是甲狀腺乳突癌（papillary thyroid carcinoma）的區域淋巴轉移；需以超音波評估可疑形態，必要時對淋巴結做 FNA。",
       "summary": "甲狀腺結節的惡性警訊包括持續沙啞、吞嚥困難與可疑頸部淋巴結；心悸主要指向功能異常。",
       "guideline": "FC 醫學(五)第2冊 p.244",
-      "concepts": []
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -10164,7 +10166,8 @@
       "summary": "鼻咽癌已由原發處切片確診後，應完成局部、頸部與遠端分期；頸部腫塊避免直接開放切片。",
       "guideline": null,
       "concepts": [
-        "nasopharyngeal-head-neck-scc"
+        "nasopharyngeal-head-neck-scc",
+        "neck-mass-approach"
       ]
     },
     "source": "110020/302_44",
@@ -37245,7 +37248,8 @@
       "summary": "影像上典型單房側頸囊腫可支持 branchial cleft cyst，但成人新發囊性頸塊不能未排除轉移就視為良性。",
       "guideline": null,
       "concepts": [
-        "neck-mass-thyroid-benign-tumors"
+        "neck-mass-thyroid-benign-tumors",
+        "neck-mass-approach"
       ]
     },
     "source": "111020/302_44",
@@ -45332,7 +45336,9 @@
       "D": "本項不選。副甲狀腺瘤病（parathyromatosis）是多發、散播的高功能副甲狀腺組織，常與先前手術播散或罕見胚胎殘餘相關；題幹未提供手術史。",
       "summary": "高鈣危象加極高 PTH、可觸頸塊與沙啞是副甲狀腺癌的高警訊組合。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45373,7 +45379,9 @@
       "D": "本項不選。食道侵犯通常需結合腫瘤後方位置、食道壁層次消失及進一步 CT／內視鏡評估；單靠未提供細節的超音波圖無法判定。",
       "summary": "乳突癌超音波與包膜關係可提示 extrathyroidal extension，但本題影像細節必須看原圖確認。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -49802,7 +49810,8 @@
       "summary": "成人側頸腫塊優先想轉移或淋巴瘤；甲狀舌管囊腫是正中、年輕族群的診斷。",
       "guideline": null,
       "concepts": [
-        "neck-mass-thyroid-benign-tumors"
+        "neck-mass-thyroid-benign-tumors",
+        "neck-mass-approach"
       ]
     },
     "source": "111080/302_44",
@@ -70256,7 +70265,8 @@
       "summary": "Bethesda I nondiagnostic 的第一步是超音波導引重做 FNA，不是直接手術、RAI 或單純等待。",
       "guideline": "FC 醫學(五)第2冊 p.241",
       "concepts": [
-        "bethesda-thyroid-cytopathology"
+        "bethesda-thyroid-cytopathology",
+        "neck-mass-approach"
       ]
     },
     "source": "112080/302_33",
@@ -70374,7 +70384,8 @@
       "summary": "乳癌動刀前要有能看組織結構的診斷；FNA 抓到惡性細胞不足以單獨拍板全乳切除。",
       "guideline": null,
       "concepts": [
-        "breast-imaging-biopsy-lesions"
+        "breast-imaging-biopsy-lesions",
+        "breast-mass-approach"
       ]
     },
     "source": "112080/302_33",
@@ -70415,7 +70426,8 @@
       "summary": "乳癌超音波常見 taller-than-wide、angular margin、hypoechoic 和後方陰影；後方回音「增強」反而偏良性。",
       "guideline": null,
       "concepts": [
-        "breast-imaging-biopsy-lesions"
+        "breast-imaging-biopsy-lesions",
+        "breast-mass-approach"
       ]
     },
     "source": "112080/302_33",
@@ -88976,7 +88988,8 @@
       "summary": "腋下腺癌找不到乳房腫塊＝隱匿性乳癌：照乳癌治，但不必為了「找不到」就切掉整個乳房。",
       "guideline": null,
       "concepts": [
-        "breast-cancer-local-therapy"
+        "breast-cancer-local-therapy",
+        "breast-mass-approach"
       ]
     },
     "source": "113070/302_11",
@@ -89760,7 +89773,10 @@
       "C": "正確答案。超音波導引的細針穿刺細胞學（fine-needle aspiration, FNA）是術前判斷結節良惡性的黃金標準，因為只有它能直接看到細胞。",
       "D": "本項不選。頸部核磁共振（MRI）用來評估特定的侵犯範圍，不是一般結節術前的黃金標準。",
       "summary": "只有 FNA 拿得到細胞——影像再漂亮都只是「風險分層」，不是診斷。",
-      "guideline": "FC 醫學(三)第2冊 p.240"
+      "guideline": "FC 醫學(三)第2冊 p.240",
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -101923,7 +101939,10 @@
       "C": "本項不選。頭頸部曾接受放射線治療會增加甲狀腺癌風險，尤其兒童時期照射過的人。",
       "D": "本項不選。聲音沙啞合併聲帶麻痺，提示喉返神經被侵犯，是很強的惡性徵象。",
       "summary": "結節的惡性警訊看「有沒有侵犯到旁邊」：淋巴結、聲帶麻痺、放射線病史；年輕女性反而是最常見的良性族群。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -118766,7 +118785,8 @@
       "summary": "四個選項官方都給分，但風險高低和有無 atypia 各不相同，不能當成一樣高風險。",
       "guideline": null,
       "concepts": [
-        "breast-imaging-biopsy-lesions"
+        "breast-imaging-biopsy-lesions",
+        "breast-mass-approach"
       ]
     },
     "source": "114070/302_0103",
@@ -118976,7 +118996,10 @@
       "C": "本項不選。C 不是本題要選的，鰓裂瘻管確會流黏液。其內襯上皮分泌物可在感染後從外口持續流出。",
       "D": "本項不選。D 不是本題要選的，完整切除確實能根治瘻管。急性感染控制後要切除整條鰓裂瘻管；只引流會留下上皮化管道而再發。",
       "summary": "側頸瘻管先背第二對鰓裂最常見；反覆流黏液靠完整切除根治，不是單純引流。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -129094,7 +129117,8 @@
       "summary": "可疑乳房腫塊先做局部影像（超音波／攝影／MRI）加組織切片；PET 不是初始檢查。",
       "guideline": null,
       "concepts": [
-        "breast-imaging-biopsy-lesions"
+        "breast-imaging-biopsy-lesions",
+        "breast-mass-approach"
       ]
     },
     "source": "115020/302_0105",
@@ -140029,7 +140053,9 @@
       "D": "本項不選。術後頸部血腫可迅速壓迫氣管，病人出現喘、頸部緊繃或聲音改變時，必要時要立即打開傷口減壓，再進一步止血，不能等影像檢查。",
       "summary": "甲狀腺術後要分清楚：單側喉返神經傷多是沙啞；真正會立刻塞住氣道的是雙側傷或頸部血腫。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "neck-mass-approach"
+      ]
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141460,7 +141486,10 @@
       "C": "正確答案。30 到 39 歲摸得到的病灶，先用乳房超音波（breast ultrasound）評估，再依風險和臨床疑慮加做診斷性乳房攝影（mammogram），然後決定要不要做影像導引粗針切片。",
       "D": "本項不選。MRI 不是一般 30 到 39 歲可觸腫塊的第一線檢查。乳房緻密不代表可以跳過超音波和攝影。",
       "summary": "30–39 歲摸到的病灶：先超音波、必要時加診斷性攝影，再依影像取樣——不是一上來就 FNA、開刀或 MRI。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "breast-mass-approach"
+      ]
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141529,7 +141558,10 @@
       "C": "本項不選。高回音加血流增加對乳小葉癌沒有特異性。多數乳癌的實質病灶反而常是低回音（hypoechoic）。",
       "D": "本項不選。腫塊內均勻鈣化不是侵襲性乳小葉癌的特色。微小鈣化（microcalcifications）比較是提示合併 DCIS。",
       "summary": "Invasive lobular carcinoma 常不長成清楚腫塊，而是擴散性、邊緣模糊、易多發——鈣化和清晰腫塊都不是它的特徵。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "breast-mass-approach"
+      ]
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
