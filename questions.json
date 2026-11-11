@@ -399,7 +399,8 @@
       "D": "本項不選。再次心導管適用於懷疑急性支架血栓或再梗塞。這一例症狀從鞘管傷口劇痛開始、以心搏過緩為主，比較像血管迷走反射。同時仍要檢查穿刺處或後腹膜出血。",
       "summary": "拔 femoral sheath 時劇痛後出現低血壓加心搏過緩，先想血管迷走反射，給 atropine 加輸液。",
       "concepts": [
-        "acs-cad-management"
+        "acs-cad-management",
+        "shock-initial-approach"
       ]
     },
     "source": "110020/302_11",
@@ -9088,7 +9089,8 @@
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification",
-        "debaky-aortic-dissection-classification"
+        "debaky-aortic-dissection-classification",
+        "chest-pain-approach"
       ]
     },
     "source": "110020/302_33",
@@ -14250,7 +14252,8 @@
       "summary": "呼吸音小＋觸覺震顫低＋叩診濁音＝胸水；肺炎旁積液要靠 thoracentesis 決定要不要引流。",
       "guideline": "FC 醫學(三)第1冊 p.286",
       "concepts": [
-        "cap-pathogens-by-clue"
+        "cap-pathogens-by-clue",
+        "chest-pain-approach"
       ]
     },
     "source": "110080/302_11",
@@ -20943,7 +20946,8 @@
       "D": "本項不選。正常腔室壓力通常低於約 10 mmHg；絕對壓力約 30 mmHg 或舒張壓減腔室壓力不超過 30 mmHg 均可支持手術評估，但須結合臨床。",
       "summary": "壓砸傷要同時處理腔室症候群與橫紋肌溶解：前者勿延誤筋膜切開，後者需積極輸液。",
       "concepts": [
-        "acute-compartment-syndrome"
+        "acute-compartment-syndrome",
+        "shock-initial-approach"
       ],
       "guideline": "FC 醫學(五)第6冊 p.177"
     },
@@ -32470,7 +32474,10 @@
       "B": "本項不選。心包穿刺術（pericardiocentesis）可暫時減壓，尤其手術還不能馬上開始時。創傷造成的凝血塊可能抽不出來，所以它不能取代確定性的手術修補。",
       "C": "本項不選。穿透性軀幹傷到院時失去可測血壓、又懷疑心包填塞時，可以考慮復甦性開胸術（resuscitative thoracotomy）。目的是解除填塞、控制心臟傷口並做開胸心臟按摩。",
       "D": "本項應選。這是最不適合的做法。病人正處於阻塞性休克，移動式胸部 X 光（portable chest X-ray）不能排在床邊超音波和解除心包填塞之前。等影像會延誤救命的手術。",
-      "summary": "穿透性心前區傷加頸靜脈怒張（JVD）、相等呼吸音、休克先當創傷性心包填塞：FAST 快速確認，失代償就緊急手術，不等胸片。"
+      "summary": "穿透性心前區傷加頸靜脈怒張（JVD）、相等呼吸音、休克先當創傷性心包填塞：FAST 快速確認，失代償就緊急手術，不等胸片。",
+      "concepts": [
+        "shock-initial-approach"
+      ]
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -37600,7 +37607,10 @@
       "B": "本項不選。懷孕會增加血流動力負荷，也受荷爾蒙對主動脈壁的影響。在既有主動脈病變或遺傳性主動脈病的人身上，可提高剝離風險。",
       "C": "本項不選。二葉式主動脈瓣（bicuspid aortic valve）常合併升主動脈擴張性病變，是急性主動脈症候群的重要病史線索。",
       "D": "正確答案。病竇症候群（sick sinus syndrome）是竇房結功能障礙，造成心搏過緩、停頓或快慢交替，不會讓主動脈壁脆弱，和急性主動脈症候群相關性最低。",
-      "summary": "急性主動脈症候群要找遺傳性結締組織病、妊娠、二葉式主動脈瓣這類主動脈病變背景；病竇症候群是電氣傳導疾病。"
+      "summary": "急性主動脈症候群要找遺傳性結締組織病、妊娠、二葉式主動脈瓣這類主動脈病變背景；病竇症候群是電氣傳導疾病。",
+      "concepts": [
+        "chest-pain-approach"
+      ]
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -37823,7 +37833,10 @@
       "B": "本項應選。這是錯的敘述。圖上左心室前壁並不是「灌流和 FDG 一起降低」的匹配缺損（matched defect），所以把它說成「大部分瘢痕、再通無效」不成立。",
       "C": "本項不選。瘢痕和休眠心肌混合時，能靠血管重建恢復的收縮功能通常不如以存活、可逆心肌為主的區域。下壁在這兩張圖上呈灌流缺損、FDG 部分保留的混合型，敘述合理。",
       "D": "本項不選。心尖同時有不可逆瘢痕和保留代謝的休眠心肌時，血管重建的效益會被不可存活心肌的比例限制。圖上心尖也是灌流缺損加部分 FDG 保留的混合型，敘述合理。",
-      "summary": "心肌存活性看 SPECT 灌流和 FDG PET 代謝有沒有 mismatch：灌流差但代謝保留是休眠心肌，兩者都低才是瘢痕。"
+      "summary": "心肌存活性看 SPECT 灌流和 FDG PET 代謝有沒有 mismatch：灌流差但代謝保留是休眠心肌，兩者都低才是瘢痕。",
+      "concepts": [
+        "chest-pain-approach"
+      ]
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40626,7 +40639,10 @@
       "C": "本項不選。Ampicillin 加 gentamicin 是新生兒或特定菌血症的經驗組合，不適合由皮膚破損進入的嚴重革蘭氏陽性軟組織感染。",
       "D": "本項應選。蚊蟲叮咬抓破後大片紅腫，加上高燒、休克與軀幹紅疹，要想毒性休克症候群。Oxacillin 負責殺 MSSA；clindamycin 抗鏈球菌，還能抑制細菌合成毒素。",
       "summary": "皮膚感染加休克與紅疹想毒性休克：oxacillin 殺菌、clindamycin 壓毒素。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "shock-initial-approach"
+      ]
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -41703,7 +41719,10 @@
       "C": "本項不選。氣喘、肺炎、胸膜刺激或氣胸等肺部疾病都可造成胸痛，因此不屬罕見病因。",
       "D": "本項不選。焦慮與過度換氣可造成胸悶、刺痛或心悸，在學齡兒童與青少年很常見。",
       "summary": "兒童胸痛先想胸壁、肺部與焦慮；心臟病雖不能漏掉，但在兒科反而相對少見。",
-      "guideline": "FC 醫學(四)第1冊 p.72"
+      "guideline": "FC 醫學(四)第1冊 p.72",
+      "concepts": [
+        "chest-pain-approach"
+      ]
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -66343,7 +66362,8 @@
       "summary": "休克分類抓住卡在哪裡：心包填塞、張力性氣胸是血回不來的阻塞性。心肌病是幫浦壞掉。腎病症候群是血管內缺水。",
       "guideline": null,
       "concepts": [
-        "shock-hemodynamic-profiles"
+        "shock-hemodynamic-profiles",
+        "shock-initial-approach"
       ]
     },
     "source": "112080/302_22",
@@ -77872,7 +77892,8 @@
       "D": "本項應選。心肌梗塞早期 troponin 可能還沒升高，單次正常不能排除。要依發作時間重複驗高敏感度 troponin 並結合 ECG。這時決定要不要立刻打通血管的是心電圖，不是抽血——所以「酵素正常就排除 MI」這個處置不對。",
       "summary": "急性缺血早期心肌酵素可正常，不能用單次正常值排除 MI；ECG 應在到院 10 分鐘內完成。",
       "concepts": [
-        "acs-cad-management"
+        "acs-cad-management",
+        "chest-pain-approach"
       ]
     },
     "source": "113020/302_11",
@@ -89217,7 +89238,8 @@
       "summary": "一隻腳腫＋急性胸痛喘＝把腿和肺連起來看：DVT 掉下去變成肺栓塞。",
       "guideline": null,
       "concepts": [
-        "dyspnea-approach"
+        "dyspnea-approach",
+        "chest-pain-approach"
       ]
     },
     "source": "113070/302_11",
@@ -91779,7 +91801,8 @@
       "summary": "休克分類別背反：張力氣胸是阻塞性、anaphylaxis 是分布性；早期常先快心跳，低血壓常較晚。官方本題 A、C 皆給分。",
       "guideline": "FC 醫學(四)第1冊 p.67",
       "concepts": [
-        "shock-hemodynamic-profiles"
+        "shock-hemodynamic-profiles",
+        "shock-initial-approach"
       ]
     },
     "source": "113070/302_22",
@@ -93700,7 +93723,8 @@
       "summary": "septic shock 的抗生素是抽培養後立刻給，不是等培養長出來才治療。",
       "guideline": null,
       "concepts": [
-        "sepsis-septic-shock-management"
+        "sepsis-septic-shock-management",
+        "shock-initial-approach"
       ]
     },
     "source": "113070/302_33",
@@ -101711,7 +101735,8 @@
       "D": "本項不選。金黃色葡萄球菌敗血症（sepsis）是分佈性休克，早期常見 SVR 下降。",
       "summary": "三種分佈性休克的 SVR 下降；心肌炎的心因性休克是代償性 SVR 上升。",
       "concepts": [
-        "shock-hemodynamic-profiles"
+        "shock-hemodynamic-profiles",
+        "shock-initial-approach"
       ]
     },
     "source": "114020/302_0103",
@@ -103446,7 +103471,10 @@
       "C": "本項不選。兒童可藉心搏快與血管收縮長時間代償，低血壓通常是晚期危險表現。",
       "D": "本項敘述正確。敗血性休克合併血行動力不穩或呼吸窘迫時，插管可降低呼吸功並確保氧合，但要預先準備誘導後血壓下降。",
       "summary": "兒童 sepsis 的低血壓很晚才出現；一旦休克又呼吸撐不住，要及早規劃安全插管。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "shock-initial-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -105653,7 +105681,8 @@
       "summary": "低血壓卻心跳慢的休克，想到神經性休克；一般失血性休克反而會心跳快。",
       "guideline": null,
       "concepts": [
-        "sci-levels-function"
+        "sci-levels-function",
+        "shock-initial-approach"
       ]
     },
     "source": "114020/302_0105",
@@ -114858,7 +114887,8 @@
       "summary": "兒童休克看灌流有沒有回來：ScvO2 ≥70%、尿量約 ≥1 mL/kg/hr，比只看血壓可靠。",
       "guideline": null,
       "concepts": [
-        "shock-hemodynamic-profiles"
+        "shock-hemodynamic-profiles",
+        "shock-initial-approach"
       ]
     },
     "source": "114070/302_0102",
@@ -134417,7 +134447,8 @@
       "D": "本項不選。enoxaparin 不是 5 mg/kg，這個劑量過高會造成嚴重出血。抗凝要依 PCI 策略和腎功能給標準劑量。",
       "summary": "這位高血壓的前壁 STEMI 可先含服 nitroglycerin 並立即再灌流；aspirin 600 mg 和 enoxaparin 5 mg/kg 都過量。",
       "concepts": [
-        "acs-cad-management"
+        "acs-cad-management",
+        "chest-pain-approach"
       ]
     },
     "source": "115070/302_0101",
