@@ -4836,7 +4836,8 @@
       "summary": "腦靜脈栓塞可合併出血性靜脈梗塞，但核心治療仍是抗凝，診斷仰賴靜脈影像。",
       "guideline": "FC 醫學(四)第4冊 p.117",
       "concepts": [
-        "cvst-antithrombotic-ich-reversal"
+        "cvst-antithrombotic-ich-reversal",
+        "headache-red-flags-approach"
       ]
     },
     "source": "110020/302_22",
@@ -4877,7 +4878,8 @@
       "summary": "站著痛、躺下好，加上硬腦膜瀰漫顯影，就是自發性顱內低壓，要找脊椎 CSF 滲漏。",
       "guideline": "FC 醫學(四)第4冊 p.139",
       "concepts": [
-        "primary-headache-types"
+        "primary-headache-types",
+        "headache-red-flags-approach"
       ]
     },
     "source": "110020/302_22",
@@ -5995,7 +5997,8 @@
       "summary": "姿勢性頭痛＋影像上腦組織下沉（腦室變小、腦溝腦池變窄）＝顱內低壓。",
       "guideline": null,
       "concepts": [
-        "primary-headache-types"
+        "primary-headache-types",
+        "headache-red-flags-approach"
       ]
     },
     "source": "110020/302_22",
@@ -17799,7 +17802,8 @@
       "summary": "腦脊髓液看三樣：淋巴球、蛋白正常、糖正常（比值 >0.6）就是病毒性。",
       "guideline": null,
       "concepts": [
-        "csf-meningitis-patterns"
+        "csf-meningitis-patterns",
+        "headache-red-flags-approach"
       ]
     },
     "source": "110080/302_22",
@@ -18518,7 +18522,8 @@
       "summary": "頭痛嘔吐又在顯影後看到靜脈竇充盈缺損，要想到靜脈竇栓塞。",
       "guideline": null,
       "concepts": [
-        "cvst-antithrombotic-ich-reversal"
+        "cvst-antithrombotic-ich-reversal",
+        "headache-red-flags-approach"
       ]
     },
     "source": "110080/302_22",
@@ -26898,7 +26903,8 @@
       "summary": "突發 thunderclap headache、meningismus、嘔吐與意識喪失應優先視為 aneurysmal subarachnoid hemorrhage。",
       "guideline": null,
       "concepts": [
-        "primary-headache-types"
+        "primary-headache-types",
+        "headache-red-flags-approach"
       ]
     },
     "source": "111020/302_11",
@@ -37199,7 +37205,8 @@
       "summary": "爆炸性頭痛先想 SAH；CT 證實後用 CTA 找動脈瘤，還要防水腦與再出血。",
       "guideline": null,
       "concepts": [
-        "sah-aneurysm-vascular-malformations"
+        "sah-aneurysm-vascular-malformations",
+        "headache-red-flags-approach"
       ]
     },
     "source": "111020/302_44",
@@ -49906,7 +49913,8 @@
       "summary": "單側搏動痛合併噁心、畏光像偏頭痛；第一次很劇烈的頭痛則先當次發性原因找。",
       "guideline": null,
       "concepts": [
-        "primary-headache-types"
+        "primary-headache-types",
+        "headache-red-flags-approach"
       ]
     },
     "source": "112020/302_11",
@@ -54821,7 +54829,8 @@
       "summary": "偏頭痛患者若止痛藥越喝越勤、頭痛越來越天天發作，要想到不是治不好，而是藥物過度使用在維持頭痛。",
       "guideline": "FC 醫學(四)第4冊 p.163",
       "concepts": [
-        "primary-headache-types"
+        "primary-headache-types",
+        "headache-red-flags-approach"
       ]
     },
     "source": "112020/302_22",
@@ -55865,7 +55874,8 @@
       "summary": "疑似破裂腦動脈瘤的急事是封住再出血點；能用 coil 也能 clipping，CTA 已常足夠帶路。",
       "guideline": "FC 醫學(四)第4冊 p.104",
       "concepts": [
-        "sah-aneurysm-vascular-malformations"
+        "sah-aneurysm-vascular-malformations",
+        "headache-red-flags-approach"
       ]
     },
     "source": "112020/302_22",
@@ -80861,7 +80871,8 @@
       "summary": "SAH 的真正功課是從血管攝影找出再出血來源；這題側別只能看圖，不該用文字硬猜。",
       "guideline": "FC 醫學(四)第4冊 p.103",
       "concepts": [
-        "sah-aneurysm-vascular-malformations"
+        "sah-aneurysm-vascular-malformations",
+        "headache-red-flags-approach"
       ]
     },
     "source": "113020/302_22",
@@ -92764,7 +92775,8 @@
       "summary": "腦脊髓液先看糖：糖正常＋淋巴球為主＝病毒；糖一低就往細菌、結核、隱球菌想。",
       "guideline": null,
       "concepts": [
-        "csf-meningitis-patterns"
+        "csf-meningitis-patterns",
+        "headache-red-flags-approach"
       ]
     },
     "source": "113070/302_22",
@@ -103694,7 +103706,10 @@
       "C": "本項不選。咳嗽或 Valsalva 加劇的頭痛可能與顱內壓變化或後顱窩病變有關，屬影像警訊。",
       "D": "本項不選。無外傷卻突發人生最劇烈頭痛要排除顱內出血或血管病變，應緊急影像評估。",
       "summary": "兒童頭痛要找 red flags：抽搐、咳嗽加劇、突然最痛都要影像；單有偏頭痛家族史反而較安心。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "headache-red-flags-approach"
+      ]
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -105344,7 +105359,8 @@
       "summary": "鞍內為中心、往上長出腰身的雪人形腫塊＝pituitary macroadenoma；記得追問視野缺損與內分泌症狀。",
       "guideline": null,
       "concepts": [
-        "neuro-oncology-imaging-pituitary"
+        "neuro-oncology-imaging-pituitary",
+        "headache-red-flags-approach"
       ]
     },
     "source": "114020/302_0104",
@@ -108186,7 +108202,8 @@
       "summary": "高齡、漸進頭痛步態差，加上 CT 新月形集液，先想 subdural hematoma；凸透鏡才是 epidural。",
       "guideline": null,
       "concepts": [
-        "tbi-hematomas-icp"
+        "tbi-hematomas-icp",
+        "headache-red-flags-approach"
       ]
     },
     "source": "114020/302_0105",
@@ -115737,7 +115754,8 @@
       "summary": "三叉自律神經頭痛看時間：叢發性 15 分–3 小時、陣發性半邊 2–30 分、SUNCT 只有幾秒；陣發性半邊對 indomethacin 百分百有效。",
       "guideline": null,
       "concepts": [
-        "primary-headache-types"
+        "primary-headache-types",
+        "headache-red-flags-approach"
       ]
     },
     "source": "114070/302_0102",
@@ -131269,7 +131287,8 @@
       "summary": "頭痛跟著姿勢走就想腦脊髓液漏：坐起來痛＝壓力太低，躺著痛＝壓力太高。",
       "guideline": null,
       "concepts": [
-        "spinal-vs-epidural"
+        "spinal-vs-epidural",
+        "headache-red-flags-approach"
       ]
     },
     "source": "115020/302_0106",
@@ -135067,7 +135086,10 @@
       "C": "本項不選。雙側肩膀與髖部疼痛僵硬要想到風濕性多肌痛（polymyalgia rheumatica, PMR），它與巨細胞動脈炎常常同時存在。",
       "D": "本項應選。adalimumab 這類 TNF 抑制劑**不是**巨細胞動脈炎的首選生物製劑。真正有實證、能幫忙減類固醇的是 IL-6 受體抑制劑 tocilizumab。",
       "summary": "巨細胞動脈炎的生物製劑走 IL-6 那條路（tocilizumab），不是 TNF 那條路。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "headache-red-flags-approach"
+      ]
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139366,7 +139388,8 @@
       "summary": "基底池為中心的蜘蛛膜下腔出血＋外側裂旁血塊＝動脈瘤破裂（常是大腦中動脈），下一步就是 CTA。",
       "guideline": null,
       "concepts": [
-        "sah-aneurysm-vascular-malformations"
+        "sah-aneurysm-vascular-malformations",
+        "headache-red-flags-approach"
       ]
     },
     "source": "115070/302_0102",
