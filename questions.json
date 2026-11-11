@@ -9212,7 +9212,8 @@
       "summary": "血尿的病因依年齡與症狀而變；兒童偏向 glomerular disease，成人無痛性肉眼血尿須排除 malignancy。",
       "guideline": "FC 醫學(五)第5冊 p.39",
       "concepts": [
-        "urothelial-renal-penile-tumors"
+        "urothelial-renal-penile-tumors",
+        "hematuria-approach"
       ]
     },
     "source": "110020/302_33",
@@ -12955,7 +12956,10 @@
       "B": "本項不選。心臟超音波可發現主動脈狹窄、肥厚型心肌病變、心室功能異常等可能造成心因性昏厥的結構病灶，要不要做看病史、理學檢查和 ECG 的線索。",
       "C": "本項不選。24 小時心電圖（Holter monitoring）能捕捉短暫的心搏過速、心搏過緩或傳導阻滯。如果事件很少發生，較長期的 event monitor 或植入式監測器診斷率更高。",
       "D": "本項不選。心臟電生理檢查（electrophysiological study）用在特定疑似傳導系統疾病或可誘發性心律不整的病人身上找昏厥原因，不是初步檢查都正常就一律做。",
-      "summary": "反覆不明原因昏厥的檢查重點是心律和結構性心臟病；肺功能檢查最不可能直接找出原因。"
+      "summary": "反覆不明原因昏厥的檢查重點是心律和結構性心臟病；肺功能檢查最不可能直接找出原因。",
+      "concepts": [
+        "syncope-approach"
+      ]
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -17370,7 +17374,8 @@
       "summary": "冒汗、噁心、無力是昏厥前兆；舌側咬傷和醒後長時間混亂才像癲癇。",
       "guideline": null,
       "concepts": [
-        "seizure-syncope-epilepsy-basics"
+        "seizure-syncope-epilepsy-basics",
+        "syncope-approach"
       ]
     },
     "source": "110080/302_22",
@@ -21306,7 +21311,8 @@
       "summary": "High-grade renal pelvic urothelial carcinoma 且對側腎功能正常時，首選 radical nephroureterectomy with bladder cuff。",
       "guideline": "FC 醫學(五)第5冊 p.65",
       "concepts": [
-        "urothelial-renal-penile-tumors"
+        "urothelial-renal-penile-tumors",
+        "hematuria-approach"
       ]
     },
     "source": "110080/302_33",
@@ -25035,7 +25041,8 @@
     "explanation": {
       "guideline": null,
       "concepts": [
-        "orthostatic-hypotension-definition"
+        "orthostatic-hypotension-definition",
+        "syncope-approach"
       ],
       "A": "本項不選。血管迷走神經性昏厥（vasovagal syncope）是反射性昏厥裡最常見的型態，常有久站、疼痛或情緒誘因，加上噁心、冒汗等前驅症狀。",
       "B": "本項不選。心因性昏厥（cardiac syncope）可由心搏過速、心搏過緩等心律不整，或主動脈狹窄、肥厚型心肌病變等結構性疾病造成，要重視猝死風險。",
@@ -33916,7 +33923,8 @@
       "summary": "血尿加解尿痛、頻尿、急尿想膀胱炎；老人無痛血尿先排除癌症。",
       "guideline": "FC 醫學(五)第5冊 p.154",
       "concepts": [
-        "urothelial-renal-penile-tumors"
+        "urothelial-renal-penile-tumors",
+        "hematuria-approach"
       ]
     },
     "source": "111020/302_33",
@@ -38493,7 +38501,10 @@
       "C": "本項不選。經驗性 antibiotics 必須儘快給予，但若有 infected obstruction，單用抗生素無法解除封閉膿尿系統，source control 同樣緊急。",
       "D": "本項不選。止痛與大量喝水只適用無感染、無高風險阻塞的 uncomplicated renal colic；感染性阻塞可能進展為 sepsis。",
       "summary": "Obstructed infected urinary tract 是泌尿急症：緊急引流加抗生素，不能只觀察排石。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "hematuria-approach"
+      ]
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -46259,7 +46270,8 @@
       "summary": "無痛性血尿要查尿路腫瘤；腎功能不佳不能直接做 CT urography，可用 retrograde pyelography 評估上泌尿道。",
       "guideline": null,
       "concepts": [
-        "urothelial-renal-penile-tumors"
+        "urothelial-renal-penile-tumors",
+        "hematuria-approach"
       ]
     },
     "source": "111080/302_33",
@@ -50295,7 +50307,8 @@
     "explanation": {
       "guideline": "FC 醫學(三)第1冊 p.25",
       "concepts": [
-        "orthostatic-hypotension-definition"
+        "orthostatic-hypotension-definition",
+        "syncope-approach"
       ],
       "A": "正確答案。站立 1 分鐘時，收縮壓從 124 降到 90 mmHg、舒張壓從 78 降到 62 mmHg，分別降了 34 和 16 mmHg。在站立 3 分鐘內就超過診斷門檻，符合姿勢性低血壓。",
       "B": "本項不選。姿勢性低血壓的舒張壓門檻是下降至少 10 mmHg，不是 20 mmHg。而且收縮壓或舒張壓符合任一項就可診斷，這一例兩項都符合。",
@@ -54963,7 +54976,8 @@
       "summary": "巴金森症狀一碰上姿勢性低血壓與性功能障礙，要立刻從 Parkinson disease 轉想 MSA。",
       "guideline": "FC 醫學(四)第4冊 p.227",
       "concepts": [
-        "movement-disorders-neurodegeneration"
+        "movement-disorders-neurodegeneration",
+        "syncope-approach"
       ]
     },
     "source": "112020/302_22",
@@ -58654,7 +58668,8 @@
       "summary": "膀胱 CIS 是高風險 NMIBC：先完整處理病灶，再做 intravesical BCG，而非直接根除膀胱。",
       "guideline": null,
       "concepts": [
-        "urothelial-renal-penile-tumors"
+        "urothelial-renal-penile-tumors",
+        "hematuria-approach"
       ]
     },
     "source": "112020/302_33",
@@ -59028,7 +59043,8 @@
       "summary": "外傷後膀胱攝影若顯影劑跑進腹腔，就想 intraperitoneal bladder rupture，通常需手術修補。",
       "guideline": null,
       "concepts": [
-        "uti-trauma-transplant-urology"
+        "uti-trauma-transplant-urology",
+        "hematuria-approach"
       ]
     },
     "source": "112020/302_33",
@@ -91092,7 +91108,8 @@
       "summary": "血尿再加耳與眼，就想到 Alport：腎臟的第四型膠原缺陷，同時傷到耳與晶狀體。",
       "guideline": "FC 醫學(四)第1冊 p.177",
       "concepts": [
-        "glomerular-disease-patterns"
+        "glomerular-disease-patterns",
+        "hematuria-approach"
       ]
     },
     "source": "113070/302_22",
@@ -100012,7 +100029,10 @@
       "C": "本項應選。靜脈腎盂造影（IVP）或逆行性腎盂攝影看的是集尿系統與泌尿科病灶，對腎絲球性血尿沒有幫助。而且顯影劑還多一層風險。",
       "D": "本項不選。腎臟超音波可以看大小與有無阻塞；如果腎絲球病變與蛋白尿持續，就需要腎臟切片來分型。",
       "summary": "看到紅血球圓柱與變形紅血球就是腎絲球出血——查血清學與切片，不是去照腎盂攝影。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "hematuria-approach"
+      ]
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -100222,7 +100242,10 @@
       "B": "本項不選。擴張型心肌病（dilated cardiomyopathy）常見心壁中層（mid-wall）的線狀或斑片 LGE，最具代表性的位置是 basal septum，敘述正確。",
       "C": "本項不選。缺血性瘢痕的 LGE 從心內膜下（subendocardium）開始，並符合冠狀動脈分布。穿壁範圍（transmural extent）和心功能恢復性、預後相關，敘述正確。",
       "D": "本項應選。這是錯的敘述。心肌水腫傳統上用 T2 加權或 T2 mapping 評估。圖上的延遲增強位在心肌中層和心外膜側（箭頭處），不是心內膜下，正是非缺血性病因的分布。水腫時 T1 加權訊號是「下降」的，LGE 反映的是纖維化和細胞外空間擴張。",
-      "summary": "CMR 缺血性 LGE 從內膜下開始；非缺血性多在心壁中層或心外膜側，水腫主要看 T2／mapping。"
+      "summary": "CMR 缺血性 LGE 從內膜下開始；非缺血性多在心壁中層或心外膜側，水腫主要看 T2／mapping。",
+      "concepts": [
+        "syncope-approach"
+      ]
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107949,7 +107972,8 @@
       "summary": "膀胱癌侵犯深度最終靠 TURBT 標本中的 detrusor muscle，不是影像或基因檢查。",
       "guideline": null,
       "concepts": [
-        "urothelial-renal-penile-tumors"
+        "urothelial-renal-penile-tumors",
+        "hematuria-approach"
       ]
     },
     "source": "114020/302_0105",
@@ -111716,7 +111740,8 @@
       "D": "本項應選。這是錯的敘述。圖上的節律條可見多形性心室頻脈、QRS 沿基線扭轉，就是尖端扭轉型（torsades），符合長 QT 症候群發作。這類病人如果已經發生心跳停止或反覆昏厥，植入式心律去顫器（ICD）能終止 VT／VF，正是能改善預後的治療。",
       "summary": "家族性青年猝死加刺激誘發昏厥要查遺傳性長 QT；先排除藥物電解質，高風險者 ICD 有效。",
       "concepts": [
-        "arrhythmia-recognition-acute"
+        "arrhythmia-recognition-acute",
+        "syncope-approach"
       ]
     },
     "source": "114070/302_0101",
@@ -114573,7 +114598,10 @@
       "C": "本項不選。血塊表示出血未在腎絲球內被分散，而末段血尿偏向膀胱頸、尿道等下泌尿道來源。",
       "D": "本項不選。腎小管回收低分子量蛋白失敗時會出現 tubular proteinuria；主要漏的是 low-molecular-weight proteins。",
       "summary": "學齡兒持續蛋白尿先別急著診斷腎病：先排除姿勢性蛋白尿；棘紅細胞才是腎絲球血尿線索。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "hematuria-approach"
+      ]
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -122894,7 +122922,10 @@
       "B": "本項不選。姿勢性低血壓（orthostatic hypotension）可因站立後血壓下降，造成短暫的腦灌流不足和昏厥。",
       "C": "本項不選。心因性昏厥（cardiac syncope）可由心搏過速、心搏過緩或結構性阻塞造成，常突然發生、風險高。",
       "D": "正確答案。「手術性昏厥」不是標準的昏厥病因分類。手術情境下的昏厥仍應歸到反射性、姿勢性、出血或心因性等實際機轉。",
-      "summary": "昏厥依反射性、姿勢性、心因性等病理機轉分類；「手術性昏厥」不是標準原因。"
+      "summary": "昏厥依反射性、姿勢性、心因性等病理機轉分類；「手術性昏厥」不是標準原因。",
+      "concepts": [
+        "syncope-approach"
+      ]
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -141968,7 +141999,8 @@
       "summary": "阻塞＋發燒＋低血壓＝先減壓、後碎石；急性期進去做輸尿管鏡等於把細菌往腎裡打。",
       "guideline": null,
       "concepts": [
-        "uti-trauma-transplant-urology"
+        "uti-trauma-transplant-urology",
+        "hematuria-approach"
       ]
     },
     "source": "115070/302_0103",
