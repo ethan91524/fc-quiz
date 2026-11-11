@@ -24712,11 +24712,11 @@
       "book": "FC醫(六)(2)(眼科)(2025)(OCR)_First Choice-國考分科詳解-醫學(六)2025_第二冊_眼科.pdf"
     },
     "explanation": {
-      "A": "本項不選。顏面外傷後複視、眼位或眼球運動異常，合併 CT 顯示 orbital wall defect，符合眼眶爆裂性骨折（orbital blowout fracture）的臨床情境。",
-      "B": "本項不選。Blowout fracture 會增加 orbital volume，且脂肪或肌肉可 herniate 進鼻竇，後期可能出現 enophthalmos 與複視。",
-      "C": "本項應選。傳統 X-ray 雖敏感度不如 thin-slice CT，仍可能看到 orbital floor discontinuity、maxillary sinus opacification 或 teardrop sign；說完全無法診斷過於絕對。",
-      "D": "本項不選。Orbital floor 與 medial wall 最薄弱，分別鄰近 maxillary sinus 與 ethmoid sinus，是 blowout fracture 最常發生的位置。",
-      "summary": "Blowout fracture 好發 orbital floor 與 medial wall；CT 是首選，但 plain X-ray 不是絕對無法顯示間接或直接徵象。",
+      "A": "本項不選。顏面外傷後複視、眼球運動異常，CT 又看到眼眶壁缺損，符合眼眶爆裂性骨折。",
+      "B": "本項不選。骨折讓眼眶容積變大，脂肪或肌肉掉進鼻竇，後期會眼球凹陷並複視。",
+      "C": "本項應選。「無法診斷」太絕對。傳統 X 光雖不如薄切 CT 敏感，仍可能看到眶底斷裂、上頷竇混濁或淚滴徵象。",
+      "D": "本項不選。眶底與內側壁最薄，分別貼著上頷竇與篩竇，是最常骨折的位置。",
+      "summary": "爆裂性骨折好發眶底與內側壁，CT 首選，但 X 光不是完全看不到。",
       "guideline": null,
       "concepts": []
     },
@@ -25161,11 +25161,11 @@
       "book": "FC醫(三)(3)(腎內、感染)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第三冊_腎臟內科、感染科.pdf"
     },
     "explanation": {
-      "A": "本項不選。活性碳可在近期口服且氣道已妥善保護時考慮，以減少部分毒物吸收；不能延誤去污、呼吸支持與解毒劑，也不適用於未保護氣道。",
-      "B": "本項不選。Atropine 拮抗 muscarinic effect，依支氣管分泌、bronchospasm 與循環反應反覆滴定，是有機磷中毒的核心治療。",
-      "C": "本項應選。Physostigmine 是可進入中樞的 acetylcholinesterase inhibitor，用於特定嚴重 anticholinergic toxicity；有機磷已抑制此酵素，再使用會加重 cholinergic crisis。",
-      "D": "本項不選。Pralidoxime（2-PAM）在酵素 aging 前再活化 acetylcholinesterase，尤其改善 nicotinic manifestation 如 fasciculation 與 weakness，應儘早給予。",
-      "summary": "有機磷治療以去污、支持呼吸、atropine 與早期 pralidoxime 為主；physostigmine 會使膽鹼過量更嚴重。",
+      "A": "本項不選。近期口服、氣道已保護時可以考慮活性碳減少吸收；但不能延誤去污、呼吸支持與解毒劑。",
+      "B": "本項不選。Atropine 拮抗毒蕈鹼作用，依呼吸道分泌物、支氣管痙攣與循環反覆調整劑量，是有機磷中毒的核心治療。",
+      "C": "本項應選。Physostigmine 本身就是乙醯膽鹼酯酶抑制劑，用來治嚴重抗膽鹼中毒。有機磷已經抑制這個酵素，再給只會讓膽鹼過量更嚴重。",
+      "D": "本項不選。Pralidoxime 能在酵素老化前把它重新活化，特別改善肌束顫動與無力等菸鹼性症狀，要盡早給。",
+      "summary": "有機磷中毒：去污、呼吸支持、atropine、早給 2-PAM；physostigmine 是火上加油。",
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
@@ -26851,11 +26851,11 @@
       "book": "FC醫(三)(1)(心內、胸內)(2025)(OCR)_First Choice-國考分科詳解-醫學(三)2025_第一冊_心臟內科、胸腔內科.pdf"
     },
     "explanation": {
-      "A": "本項不選。isoniazid 主要抑制分枝菌酸合成；常見抗藥基因包括 katG 或 inhA，rpoB 突變不直接代表 isoniazid 抗藥。",
-      "B": "正確。rifampin 結合細菌 DNA-dependent RNA polymerase 的 β subunit；編碼此標靶的 rpoB 基因突變是 rifampin 抗藥的重要分子標記。",
-      "C": "本項不選。ethambutol 抑制 arabinosyl transferase，其抗藥性較常與 embB 等基因變異相關，而不是 rpoB。",
-      "D": "本項不選。pyrazinamide 經 pncA 編碼的 pyrazinamidase 活化，抗藥性常與 pncA 相關；rpoB 突變不對應此藥。",
-      "summary": "結核藥抗藥基因配對：rpoB—rifampin、katG/inhA—isoniazid、embB—ethambutol、pncA—pyrazinamide。",
+      "A": "本項不選。Isoniazid 的抗藥基因主要是 katG 或 inhA，不是 rpoB。",
+      "B": "本項應選。Rifampin 作用在細菌 RNA 聚合酶的 β 次單元，這個標的由 rpoB 基因編碼；rpoB 突變就是 rifampin 抗藥的分子標記。",
+      "C": "本項不選。Ethambutol 抗藥多與 embB 基因有關。",
+      "D": "本項不選。Pyrazinamide 要靠 pncA 編碼的酵素活化，抗藥多與 pncA 有關。",
+      "summary": "結核抗藥基因：rpoB→rifampin、katG/inhA→isoniazid、embB→ethambutol、pncA→PZA。",
       "guideline": "FC 醫學(三)第1冊 p.400",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
@@ -27293,11 +27293,11 @@
     },
     "explanation": {
       "guideline": "FC 醫學(三)第2冊 p.99",
-      "A": "本項不選。原發性細菌性腹膜炎（primary/spontaneous bacterial peritonitis, SBP）多半是單一一隻腸道細菌跑進腹水。經驗性抗生素（empirical antibiotic therapy）通常不必特別涵蓋厭氧菌（anaerobes）。",
-      "B": "正確答案。這句是錯的。沒用過抗生素的社區型 SBP，最常見致病菌是腸道革蘭氏陰性菌（enteric Gram-negative bacteria），尤其 Escherichia coli，不是革蘭氏陽性菌（Gram-positive bacteria）。",
-      "C": "本項不選。次發性細菌性腹膜炎（secondary bacterial peritonitis）來自腸穿孔或腹腔感染源，常是多種菌，要同時涵蓋 enteric Gram-negative bacteria 和 anaerobes。",
-      "D": "本項不選。次發性腹膜炎除了廣效抗生素，更關鍵的是開刀或引流處理感染源（source control）。只靠抗生素常常不夠。",
-      "summary": "SBP 是單一腸道菌、不必打厭氧菌；次發性腹膜炎是多菌感染、一定要做 source control。",
+      "A": "本項不選。原發性細菌性腹膜炎（SBP）多半是單一腸道菌跑進腹水，經驗性抗生素通常不必涵蓋厭氧菌。",
+      "B": "本項應選。沒用過抗生素的社區型 SBP，最常見是腸道革蘭氏陰性菌，尤其大腸桿菌，不是陽性菌。",
+      "C": "本項不選。次發性腹膜炎來自腸穿孔或腹腔感染源，是多菌感染，要同時涵蓋腸道陰性菌與厭氧菌。",
+      "D": "本項不選。次發性腹膜炎最關鍵是開刀或引流處理感染源，只靠抗生素常常不夠。",
+      "summary": "SBP 是單一腸道陰性菌、不打厭氧；次發性腹膜炎多菌，一定要處理感染源。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
       ]
@@ -28198,11 +28198,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。enterovirus 可引起手足口病，口腔潰瘍加手腳疹是兒科常見組合。",
-      "B": "這題不選。某些 enterovirus 可侵犯中樞神經造成 aseptic meningitis 或 encephalitis，重症時要注意神經症狀。",
-      "C": "這題要選。osteomyelitis 常由 Staphylococcus aureus 等細菌經血行感染造成，不是 enterovirus 的典型臨床表現。",
-      "D": "這題不選。enterovirus 尤其 Coxsackie B 可造成 myocarditis，嚴重時導致心衰竭或心律不整。",
-      "summary": "腸病毒可傷皮膚、腦和心臟；骨髓炎是細菌疾病，不是其典型表現。",
+      "A": "本項不選。手足口病是腸病毒的代表病，口腔潰瘍加手腳疹。",
+      "B": "本項不選。部分腸病毒會侵犯中樞，造成無菌性腦膜炎或腦炎，重症要注意神經症狀。",
+      "C": "本項應選。骨髓炎多是金黃色葡萄球菌等細菌經血流感染，不是腸病毒的表現。",
+      "D": "本項不選。腸病毒尤其克沙奇 B 可造成心肌炎，嚴重時心衰竭或心律不整。",
+      "summary": "腸病毒傷皮膚、腦、心臟；骨髓炎是細菌病。",
       "guideline": "FC 醫學(四)第1冊 p.249"
     },
     "source": "111020/302_22",
@@ -28274,11 +28274,11 @@
       "book": "FC醫(四)(1)(兒科)(2025)(OCR)_First Choice-國考分科詳解-醫學(四)2025_第一冊_小兒科.pdf"
     },
     "explanation": {
-      "A": "這題不選。7-valent pneumococcal vaccine 是結合型疫苗，將莢膜多醣連到蛋白載體，可誘發 T-cell dependent memory。",
-      "B": "這題不選。10-valent vaccine 同屬 pneumococcal conjugate vaccine，製程概念和 7、13 價相近。",
-      "C": "這題不選。13-valent vaccine 也是 conjugate vaccine，適合幼兒建立免疫記憶與較佳 booster response。",
-      "D": "這題要選。23-valent pneumococcal polysaccharide vaccine 只含多醣抗原，主要是 T-cell independent response，和前三種結合型疫苗不同。",
-      "summary": "肺炎鏈球菌疫苗不要只背價數：PCV7/10/13 是結合型，PPSV23 是純多醣型。",
+      "A": "本項不選。7 價是結合型疫苗，把莢膜多醣接在蛋白載體上，能誘發 T 細胞依賴的免疫記憶。",
+      "B": "本項不選。10 價也是結合型，製程概念和 7、13 價相同。",
+      "C": "本項不選。13 價同樣是結合型，適合幼兒建立免疫記憶。",
+      "D": "本項應選。23 價是純多醣疫苗，只能誘發不靠 T 細胞的反應，和前三種結合型不同；所以 2 歲以下效果差。",
+      "summary": "PCV7/10/13 是結合型，PPSV23 是純多醣型。",
       "guideline": "FC 醫學(四)第1冊 p.276"
     },
     "source": "111020/302_22",
@@ -31240,11 +31240,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。上消化道嘔吐主要流失 gastric HCl，常造成 metabolic alkalosis；大量 diarrhea 則流失 bicarbonate，造成 normal-anion-gap metabolic acidosis。將兩者都說成流失 bicarbonate 後 alkalemia 並不正確。",
-      "B": "本項不選。呼吸器過度通氣會排出過多 CO₂，造成 iatrogenic respiratory alkalosis；respiratory acidosis 應見於 hypoventilation、airway obstruction 或 ventilator minute ventilation 不足。",
-      "C": "本項不選。Septic shock 常因 tissue hypoperfusion、mitochondrial dysfunction 與 catecholamine-driven glycolysis 形成 lactic acidosis；早期也可能因 hyperventilation 合併 respiratory alkalosis，不是典型 metabolic alkalosis。",
-      "D": "正確。大量快速輸注 normal saline 帶來相對過多 chloride，使 strong ion difference 降低並造成 hyperchloremic normal-anion-gap metabolic acidosis。",
-      "summary": "大量 normal saline 會造成 hyperchloremic metabolic acidosis；diarrhea 失 bicarbonate 也酸中毒，過度通氣則是 respiratory alkalosis。",
+      "A": "本項不選。嘔吐流失的是胃酸，造成代謝性鹼中毒；腹瀉流失碳酸氫鹽，造成正常陰離子間隙代謝性酸中毒。兩者方向不同。",
+      "B": "本項不選。呼吸器過度通氣會把 CO2 排太多，造成的是醫源性呼吸性鹼中毒；通氣不足才是呼吸性酸中毒。",
+      "C": "本項不選。敗血性休克因組織灌流不足產生乳酸中毒；早期可能過度換氣合併呼吸性鹼中毒，但不是代謝性鹼中毒。",
+      "D": "本項應選。大量快速輸生理食鹽水會帶進相對過多的氯，造成高氯性、正常陰離子間隙的代謝性酸中毒。",
+      "summary": "大量生理食鹽水→高氯性酸中毒；嘔吐→鹼中毒，腹瀉→酸中毒。",
       "guideline": "FC 醫學(五)第1冊 p.30",
       "concepts": [
         "acid-base-approach"
@@ -31312,11 +31312,11 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。HBsAg-positive donor 並非在所有情況都絕對排除；可依器官急迫性、recipient HBV immunity、知情同意與 antiviral prophylaxis 個別評估使用。",
-      "B": "本項不選。CMV antibody positive 代表既往感染，器官仍可捐贈；若 donor positive/recipient negative，受贈者屬高風險組，應採 antiviral prophylaxis 或 preemptive monitoring。",
-      "C": "正確答案。HTLV antibody positive donor 可能將 HTLV-1/2 傳給受贈者，造成 adult T-cell leukemia/lymphoma 或 myelopathy 等嚴重後果，在臺灣不適合作一般腦死器官捐贈者。",
-      "D": "本項不選。Toxoplasma antibody positive 多表示既往感染而非 active disease，並非一律不能捐贈；心臟等高風險器官須依 donor/recipient serostatus 給 prophylaxis 與監測。",
-      "summary": "Donor seropositivity 不等於一律禁用；CMV、HBV、Toxoplasma 可風險分層處理，而 HTLV transmission 後果嚴重。",
+      "A": "本項不選。HBsAg 陽性捐贈者不是一律排除，可依器官急迫性、受者免疫、抗病毒預防與知情同意個別評估。",
+      "B": "本項不選。CMV 抗體陽性代表過去感染，仍可捐贈；若捐贈者陽性、受者陰性，受者要做抗病毒預防或監測。",
+      "C": "本項應選。HTLV 抗體陽性可能把病毒傳給受者，造成成人 T 細胞白血病淋巴瘤或脊髓病變，在臺灣不適合捐贈。",
+      "D": "本項不選。弓漿蟲抗體陽性多是過去感染，不是一律不能捐；心臟等器官要依雙方血清狀態預防與監測。",
+      "summary": "捐贈者血清陽性多半能分層處理；HTLV 是不能捐的那一個。",
       "guideline": null,
       "concepts": [
         "transplant-candidate-donor-pancreas"
@@ -31358,11 +31358,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。病人已由 transient responder 惡化為 profound shock 與意識改變，代表 ongoing hemorrhage；重複大量 crystalloid 或再做 head CT 會延誤 definitive hemorrhage control，且影像轉送本身不安全。",
-      "B": "本項不選。左側呼吸音降低須評估 hemothorax 或 pneumothorax，必要時置入左側 chest tube；但沒有證據支持常規雙側 chest tubes，且單靠引流不能處理題幹所示的持續腹腔出血。",
-      "C": "本項不選。Emergency thoracotomy/aortic repair 只在影像與臨床支持重大 thoracic vascular injury 時適用；題幹可由圖片判讀的細節目前不可見，不能僅以胸痛與左呼吸音降低就選擇開胸。",
-      "D": "正確。鈍性腹部創傷、腹脹與 diffuse tenderness，加上輸液後再度 hypotension，符合不穩定且持續 intra-abdominal hemorrhage；應立即 exploratory laparotomy 進行止血與 contamination control。",
-      "summary": "創傷病人對輸液僅短暫反應又陷入 shock，若腹部來源明確就應立即 laparotomy，不能為重複影像延誤止血。",
+      "A": "本項不選。病人從輸液短暫有反應惡化成深度休克，代表持續出血；再灌大量輸液或去照腦部 CT 都會延誤止血，搬運也不安全。",
+      "B": "本項不選。左側呼吸音降低要評估血胸或氣胸，必要時放左側胸管；但沒有理由兩側都放，引流也解決不了腹內出血。",
+      "C": "本項不選。緊急開胸修主動脈要有影像與臨床支持重大胸部血管傷；單憑胸痛與左側呼吸音降低不能決定開胸。",
+      "D": "本項應選。鈍性腹部創傷、腹脹、瀰漫壓痛，加上輸液後又低血壓，代表腹內持續出血且不穩定，應立即剖腹探查止血。",
+      "summary": "輸液只短暫有效又休克，出血點在腹部就直接開腹，不要再去照影像。",
       "guideline": "FC 醫學(五)第1冊 p.93",
       "concepts": [
         "trauma-triage-thoracoabdominal"
@@ -31394,11 +31394,11 @@
     "specialty": "一般消化外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。原發性膽汁性膽管炎（primary biliary cholangitis）進展至 decompensated cirrhosis、難治搔癢或其他 transplant criteria 時，是 liver transplantation 的適應症。",
-      "B": "本項不選。肝細胞癌（hepatocellular carcinoma）若腫瘤負荷符合選定標準且無 macrovascular invasion 或 extrahepatic spread，可透過 liver transplantation 同時治療腫瘤與 underlying cirrhosis。",
-      "C": "本項不選。膽道閉鎖（biliary atresia）即使經 Kasai portoenterostomy，仍可能進展為 cholestatic cirrhosis，是兒童 liver transplantation 的常見適應症。",
-      "D": "本項應選。心衰竭造成的 congestive hepatopathy 應先處理 cardiac disease；單獨 liver transplantation 無法矯正持續的 venous congestion。不可逆的心肝雙重衰竭需評估 combined heart-liver transplantation，而非一般單獨肝移植適應症。",
-      "summary": "肝移植可治末期膽汁鬱積性疾病、biliary atresia 與選定 HCC；由 heart failure 驅動的肝硬化須先解決心臟病因。",
+      "A": "本項不選。原發性膽汁性膽管炎進展到失償性肝硬化或難治搔癢時，是肝移植的適應症。",
+      "B": "本項不選。肝細胞癌符合腫瘤負荷標準、沒有大血管侵犯或肝外轉移時，肝移植可同時治腫瘤與底下的肝硬化。",
+      "C": "本項不選。膽道閉鎖即使做過葛西手術，仍可能進展為膽汁鬱積性肝硬化，是兒童肝移植最常見的原因之一。",
+      "D": "本項應選。心衰竭造成的鬱血性肝病要先治心臟；只換肝無法解決持續的靜脈鬱血。心肝都不可逆時要評估心肝聯合移植。",
+      "summary": "心衰竭造成的肝硬化，換肝沒用，要先處理心臟。",
       "guideline": null,
       "concepts": [
         "hcc-liver-surgery-abscess"
@@ -31435,11 +31435,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Acute hyponatremia 可因 cerebral edema 引起 headache；血鈉下降愈快、程度愈深，neurologic symptoms 愈明顯，嚴重時可 seizure、coma。",
-      "B": "正確答案。Tachycardia 不是 hyponatremia 本身的典型症狀；若出現應另評估 hypovolemia、pain、fever、bleeding 或 arrhythmia 等原因。",
-      "C": "本項不選。Nausea and vomiting 是 acute hyponatremia 常見的早期 neurologic/GI manifestations，也可能進一步刺激 ADH 而加重 free-water retention。",
-      "D": "本項不選。Weakness and fatigue 可見於低血鈉，常伴 lethargy、confusion 或 muscle cramps；症狀缺乏 specificity，仍須以 serum sodium 與 tonicity 確認。",
-      "summary": "Hyponatremia 常見 headache、nausea/vomiting、weakness 與意識症狀；tachycardia 應尋找 volume loss 等其他原因。",
+      "A": "本項不選。急性低血鈉會造成腦水腫，出現頭痛；掉得越快越低，神經症狀越明顯，嚴重時抽搐、昏迷。",
+      "B": "本項應選。心跳加速不是低血鈉本身的典型症狀；出現時要另找低血容、疼痛、發燒、出血或心律不整。",
+      "C": "本項不選。噁心嘔吐是急性低血鈉常見的早期症狀，還會刺激 ADH 讓水滯留更多。",
+      "D": "本項不選。虛弱疲倦常見，可伴隨嗜睡、混亂或肌肉抽筋；症狀不特異，要驗血鈉確認。",
+      "summary": "低血鈉是腦水腫症狀：頭痛、噁心、虛弱、意識變化；心跳快要找別的原因。",
       "guideline": "FC 醫學(五)第1冊 p.29",
       "concepts": [
         "surgical-nutrition-fluids"
@@ -31476,11 +31476,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。<500 mL 為 class I hemorrhage，通常 pulse <100/min、blood pressure 與 mental status 尚正常，不會造成 HR 125、BP 75/40 與 confusion。",
-      "B": "本項不選。800 mL 約落在 class II hemorrhage 的較低範圍，常見 tachycardia 與 anxiety，但 systolic BP 往往仍維持；低估此病人的 severe hypotension 與精神改變。",
-      "C": "正確。1,800 mL 約為成人血量 30–40%，符合 class III hemorrhage；典型有 HR 120–140/min、hypotension、tachypnea、confusion 與 urine output 明顯下降。",
-      "D": "本項不選。3,000 mL 通常超過成人血量 40%，屬 class IV hemorrhage，常見 profound hypotension、marked tachycardia、極少尿與 lethargy/coma；比題幹仍清醒但混亂的狀態更嚴重。",
-      "summary": "HR 125、BP 75/40、weak pulse 與 confusion 對應 class III hemorrhage，成人失血約 1.5–2 L。",
+      "A": "本項不選。少於 500 mL 屬第一級，心跳 <100、血壓與意識都正常。",
+      "B": "本項不選。800 mL 落在第二級較低範圍，會心跳快、焦慮，但收縮壓多半還撐得住；低估了本例的低血壓與混亂。",
+      "C": "本項應選。1,800 mL 約為成人血量 30–40%，屬第三級：心跳 120–140、低血壓、呼吸快、意識混亂、尿量明顯下降，和本例相符。",
+      "D": "本項不選。3,000 mL 超過血量 40%，屬第四級，會極度低血壓、幾乎無尿、嗜睡甚至昏迷，比本例更嚴重。",
+      "summary": "心跳 125、血壓 75、意識混亂＝第三級出血，大約失血 1.5–2 公升。",
       "guideline": "FC 醫學(五)第1冊 p.41",
       "concepts": [
         "atls-hemorrhagic-shock-classification"
@@ -31745,11 +31745,11 @@
       "book": "FC醫(五)(1)(外科概、腦神外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第一冊_外科概論、腦神經外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。NOTES 需由自然孔進入並穿越 hollow viscus wall，涉及柔性器械定位、access closure、感染控制與 orientation，技術負荷和 learning curve 可高於一般 laparoscopy。",
-      "B": "本項不選。經口內視鏡肌切開術（peroral endoscopic myotomy, POEM）不需腹部切口，經 submucosal tunnel 切開 esophageal muscle，能減少外部創傷並保留 gastroesophageal junction 周邊解剖。",
-      "C": "本項不選。NOTES 的潛在優點包括減少體表 incision、postoperative pain 與 wound-related disability；實際效益仍取決於術式、適應症與操作者經驗。",
-      "D": "錯誤。經肛門內視鏡顯微手術（transanal endoscopic microsurgery, TEMS）受器械長度與操作角度限制，主要處理距 anal verge 約 4–20 cm 的 rectal lesion；>25 cm 通常超出合適範圍。",
-      "summary": "NOTES 以自然孔減少體表創傷但技術較難；TEMS 有距離限制，不能處理 anal verge 以上 >25 cm 的腫瘤。",
+      "A": "本項不選。NOTES 要從自然孔進去再穿過空腔臟器壁，涉及軟式器械定位、開口縫合、感染控制與方向感，技術負擔與學習曲線都比一般腹腔鏡高。",
+      "B": "本項不選。POEM 從口進去、在黏膜下打隧道切開食道肌肉，不用在肚子開刀，也保留胃食道交界周圍的解剖。",
+      "C": "本項不選。NOTES 可能減少體表傷口、術後疼痛與失能，但實際效益看術式與經驗。",
+      "D": "本項應選。經肛門內視鏡顯微手術受器械長度與角度限制，主要處理距肛門口約 4–20 公分的直腸病灶；超過 25 公分通常做不到。",
+      "summary": "NOTES 傷口少但難學；TEMS 只到距肛門約 20 公分。",
       "guideline": "FC 醫學(五)第1冊 p.134",
       "concepts": [
         "mis-technique-special-populations"
@@ -31863,11 +31863,11 @@
     "specialty": "重建整型外科",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。腕隧道（carpal tunnel）位於 transverse carpal ligament 下方，其中受壓的是 median nerve，造成拇、食、中指與無名指橈側感覺症狀。",
-      "B": "本項應選。Guyon canal 內通過的是 ulnar nerve 與 ulnar artery；radial nerve 不通過此隧道，所以此配對錯誤。",
-      "C": "本項不選。總腓神經（common peroneal nerve）繞過 fibular neck/head，位置表淺，容易因壓迫或骨折受損而出現 foot drop。",
-      "D": "本項不選。踝管（tarsal tunnel）位於 medial ankle flexor retinaculum 下，內含 tibial nerve；受壓可造成足底疼痛與感覺異常。",
-      "summary": "Entrapment 配對：carpal tunnel—median、Guyon canal—ulnar、fibular head—peroneal、tarsal tunnel—tibial。",
+      "A": "本項不選。腕隧道在橫腕韌帶下方，受壓的是正中神經，麻在拇、食、中指與無名指橈側。",
+      "B": "本項應選。Guyon 氏管通過的是尺神經與尺動脈，橈神經不經過這裡。",
+      "C": "本項不選。總腓神經繞過腓骨頸，位置很淺，容易受壓或骨折受傷而足下垂。",
+      "D": "本項不選。踝管在內踝屈肌支持帶下，內含脛神經；受壓會足底痛與感覺異常。",
+      "summary": "腕隧道→正中、Guyon→尺、腓骨頭→腓、踝管→脛。",
       "guideline": null,
       "concepts": [
         "common-entrapment-neuropathies"
@@ -32022,11 +32022,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。例行 systemic prophylactic antibiotics 不能有效預防 burn wound colonization，反而選出抗藥菌；應依臨床感染與培養結果治療。",
-      "B": "本項不選。革蘭氏染色（Gram stain）所見的燒傷早期菌相常先由 skin flora 的 Gram-positive organisms 定殖，住院後才逐漸轉為 Gram-negative organisms 與 fungi。",
-      "C": "本項不選。磺胺銀（silver sulfadiazine）抗菌範圍廣但 eschar penetration 不佳；需要穿透焦痂的典型外用藥是 mafenide acetate。",
-      "D": "正確。Mafenide acetate 及其代謝物會抑制 carbonic anhydrase，引起 bicarbonate loss 與 hyperchloremic metabolic acidosis，大面積使用尤其須監測。",
-      "summary": "燒傷早期多為 Gram-positive 定殖；mafenide 可穿透 eschar，但 carbonic anhydrase inhibition 會造成代謝性酸中毒。",
+      "A": "本項不選。例行全身預防性抗生素無法防止燒傷傷口被細菌定殖，反而養出抗藥菌；有感染再依培養治療。",
+      "B": "本項不選。早期定殖的是皮膚的革蘭氏陽性菌，住院後才轉為陰性菌與黴菌。",
+      "C": "本項不選。磺胺銀抗菌範圍廣但穿透焦痂差；能穿透焦痂的是 mafenide acetate。",
+      "D": "本項應選。Mafenide 與其代謝物會抑制碳酸酐酶，碳酸氫鹽流失，造成高氯性代謝性酸中毒；大面積使用要監測。",
+      "summary": "燒傷早期是陽性菌；mafenide 穿透焦痂但會酸中毒，磺胺銀穿不透。",
       "guideline": "FC 醫學(五)第2冊 p.342",
       "concepts": []
     },
@@ -32056,11 +32056,11 @@
     "specialty": "外科概論",
     "fc_ref": null,
     "explanation": {
-      "A": "本項不選。Fibroblasts 是 granulation tissue 的核心細胞，受 growth factors 刺激後製造 type III collagen、fibronectin 與 extracellular matrix，並可分化為 myofibroblasts 促進 wound contraction。",
-      "B": "本項不選。Macrophages 會清除 debris 與 pathogens，並分泌 TGF-β、PDGF、VEGF 等訊號，協調 angiogenesis 與 fibroblast recruitment，因此可存在於 granulation tissue。",
-      "C": "正確答案。Lymphocytes 可在傷口免疫反應中出現，但典型 granulation tissue 的主要組成是 proliferating capillaries、fibroblasts、loose extracellular matrix 與 macrophages，不把 lymphocyte 列為其構成細胞。",
-      "D": "本項不選。Endothelial cells 增生並形成新生 capillary loops，是 granulation tissue 呈紅色顆粒外觀與供應修復組織氧氣、營養的基礎。",
-      "summary": "Granulation tissue 的代表成分是 new capillaries、fibroblasts、macrophages 與 loose ECM；lymphocyte 不是典型結構成分。",
+      "A": "本項不選。纖維母細胞是肉芽組織的核心，製造第三型膠原與基質，還能分化成肌纖維母細胞幫傷口收縮。",
+      "B": "本項不選。巨噬細胞清除碎片與病原，分泌 TGF-β、PDGF、VEGF，指揮血管新生與纖維母細胞進駐。",
+      "C": "本項應選。淋巴球可出現在傷口的免疫反應中，但典型肉芽組織的組成是新生微血管、纖維母細胞、巨噬細胞與鬆散基質，不包含淋巴球。",
+      "D": "本項不選。內皮細胞增生形成新的微血管環，所以肉芽組織看起來紅紅一顆一顆，也靠它供氧。",
+      "summary": "肉芽組織＝新生微血管＋纖維母細胞＋巨噬細胞＋鬆散基質。",
       "guideline": null,
       "concepts": [
         "surgical-infection-wound-care"
@@ -32135,11 +32135,11 @@
       "book": "FC醫(五)(2)(心外、大直外、內泌外、整外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第二冊_心臟血管外科、大腸直腸外科、內分泌外科、重建整型外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。部分厚度植皮（split-thickness skin graft）包含 epidermis 與部分 dermis；donor site 留下 skin appendages，可由殘存上皮再生而自行癒合。",
-      "B": "本項不選。全層植皮（full-thickness skin graft）包含 epidermis 與全部 dermis，取下後 donor site 無法靠 dermal appendages 再生，通常需直接縫合。",
-      "C": "本項不選。全層植皮（full-thickness graft）保留較多 dermis，primary contraction 較大但後續 secondary contraction 較少，適合臉部或關節等重視色澤與攣縮處。",
-      "D": "本項應選。頭皮（scalp）因毛囊深且血流佳，是優良的 split-thickness donor site；若取 full-thickness 會留下無法自行上皮化的缺損及毛髮相關問題。",
-      "summary": "Scalp 適合反覆取 split-thickness graft，不是 full-thickness graft 的理想供皮區。",
+      "A": "本項不選。部分厚度植皮含表皮與部分真皮；供皮區留下皮膚附屬器，可以自己長回來。",
+      "B": "本項不選。全層植皮含表皮與全部真皮，供皮區無法自己再生，通常要直接縫合。",
+      "C": "本項不選。全層植皮保留較多真皮，次發性攣縮較少，適合臉部或關節。",
+      "D": "本項應選。頭皮毛囊深、血流好，是很好的部分厚度供皮區，可以反覆取；取全層會留下長不回來的缺損與毛髮問題。",
+      "summary": "頭皮適合反覆取薄皮，不適合取全層。",
       "guideline": "FC 醫學(五)第2冊 p.301",
       "concepts": [
         "skin-graft-thickness"
@@ -32515,11 +32515,11 @@
       "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。Nissen fundoplication 是 360° total wrap，可增強抗逆流屏障；適合 esophageal motility 尚可且需手術治療的 GERD 患者。",
-      "B": "本項不選。Toupet fundoplication 是 posterior partial wrap，常在擔心 postoperative dysphagia 或 esophageal dysmotility 時作為抗逆流術式。",
-      "C": "本項應選。Kocher maneuver 是游離 duodenum 與 pancreatic head 的手術步驟，不是公認的 fundoplication 抗逆流術式；「Kocher fundoplication」不屬標準 GERD 手術。",
-      "D": "本項不選。Dor fundoplication 是 anterior partial wrap，常搭配 Heller myotomy 以減少術後 reflux，也具有抗逆流用途。",
-      "summary": "抗逆流 fundoplication 包括 Nissen、Toupet 與 Dor；Kocher 是十二指腸游離 maneuver，不是 fundoplication。",
+      "A": "本項不選。Nissen 是 360 度全包覆，加強抗逆流屏障；適合食道蠕動尚可、需要開刀的逆流病人。",
+      "B": "本項不選。Toupet 是後側部分包覆，擔心術後吞嚥困難或食道蠕動差時使用。",
+      "C": "本項應選。Kocher 是游離十二指腸與胰頭的手術步驟，不是胃底摺疊術；沒有「Kocher fundoplication」這種抗逆流手術。",
+      "D": "本項不選。Dor 是前側部分包覆，常配合 Heller 肌切開術減少術後逆流。",
+      "summary": "抗逆流包覆：Nissen 360°、Toupet 後側、Dor 前側；Kocher 是游離十二指腸。",
       "guideline": "FC 醫學(五)第4冊 p.114",
       "concepts": [
         "esophageal-motility-gerd-hernia"
@@ -32597,11 +32597,11 @@
       "book": "FC醫(五)(4)(胸外、兒外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第四冊_胸腔外科、小兒外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。遠端食道本身的 intrinsic circular smooth muscle 提供 lower esophageal sphincter（LES）的主要高壓區，是解剖與生理抗逆流屏障的一部分。",
-      "B": "本項應選。腹內壓（intra-abdominal pressure）是作用於腹段食道的生理力量，不是可被稱為 LES「解剖構造」的組織；它可增強壓力屏障，但不構成 sphincter 本體。",
-      "C": "本項不選。Gastric cardia 的 sling fibers 與 distal esophageal clasp fibers 共同參與 gastroesophageal junction 的高壓區及 angle of His 抗逆流機制。",
-      "D": "本項不選。橫膈腳（crura of the diaphragm）形成外在 pinch-cock，吸氣時收縮並支援 esophagogastric junction，屬抗逆流屏障的解剖組成。",
-      "summary": "LES 抗逆流屏障由 distal esophageal muscle、gastric sling fibers 與 diaphragmatic crura 等組成；腹內壓是力量而非解剖組織。",
+      "A": "本項不選。遠端食道本身的環狀平滑肌提供下食道括約肌的主要高壓區。",
+      "B": "本項應選。腹內壓是作用在腹段食道的力量，可以加強屏障，但不是構成括約肌的解剖構造。",
+      "C": "本項不選。胃賁門的吊帶肌與食道遠端的夾肌一起形成高壓區，並維持 His 角。",
+      "D": "本項不選。橫膈腳像外面的夾子，吸氣時收縮，支援胃食道交界，是抗逆流屏障的一部分。",
+      "summary": "下食道括約肌＝食道肌肉＋賁門吊帶肌＋橫膈腳；腹內壓是力量不是構造。",
       "guideline": "FC 醫學(五)第4冊 p.99",
       "concepts": [
         "esophageal-motility-gerd-hernia"
@@ -32638,11 +32638,11 @@
       "book": "FC醫(五)(3)(胃外、小腸外、肝外、膽外、胰外、乳外)(2025)(OCR)_First Choice-國考分科詳解-醫學(五)2025_第三冊_胃外科、小腸外科、肝臟外科、膽道外科、胰臟外科、乳房外科.pdf"
     },
     "explanation": {
-      "A": "本項不選。不明原因體重下降與持續 epigastric/back discomfort 是胰臟癌（pancreatic cancer）的警訊，尤其在高齡或伴 anorexia、jaundice 時應安排 pancreatic-protocol imaging。",
-      "B": "本項不選。50 歲後新發 diabetes 或原本穩定的 glycemic control 突然惡化，可能是 pancreatic cancer 的伴隨表現；單獨此徵象不具特異性，但與體重下降合併時更需警覺。",
-      "C": "本項不選。高齡者出現無明確 gallstone、alcohol 或其他病因的 pancreatitis，應排除 pancreatic duct obstruction by malignancy，必要時在發炎緩解後重作 pancreas imaging/EUS。",
-      "D": "錯誤。Murphy's sign 指向 gallbladder inflammation，典型見急性膽囊炎（acute cholecystitis）；它不是懷疑 pancreatic cancer 的特異線索。Pancreatic head cancer 較典型為 painless jaundice 或 Courvoisier sign。",
-      "summary": "Pancreatic cancer 可由 unexplained weight loss、late-onset diabetes 或 idiopathic pancreatitis 提示；Murphy sign 屬 gallbladder disease。",
+      "A": "本項不選。不明原因體重下降與持續上腹或背部悶痛是胰臟癌警訊，高齡或合併黃疸時要做胰臟影像。",
+      "B": "本項不選。50 歲後新發糖尿病、或原本穩定的血糖突然變難控制，可能是胰臟癌的表現；合併體重下降更要警覺。",
+      "C": "本項不選。老人沒有膽結石、酒精等原因的胰臟炎，要排除腫瘤阻塞胰管，發炎緩解後再做影像或內視鏡超音波。",
+      "D": "本項應選。Murphy 徵象指向膽囊發炎，是急性膽囊炎的線索。胰頭癌比較典型的是無痛性黃疸或摸得到膽囊（Courvoisier 徵象）。",
+      "summary": "胰臟癌線索：體重下降、晚發糖尿病、原因不明胰臟炎；Murphy 徵象屬膽囊。",
       "guideline": "FC 醫學(五)第3冊 p.223",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
