@@ -277,7 +277,7 @@ function conceptIndex(){const idx=new Map();
  return idx}
 function cardText(c){return[c.zh,c.en,c.body,c.note,(c.items||[]).join(' '),(c.columns||[]).join(' '),
  (c.rows||[]).flat().join(' ')].join(' ').toLowerCase()}
-const cardFilter={spec:'',q:'',sort:'freq'};
+const cardFilter={spec:'',q:'',sort:'freq',quiz:false};
 // 每張卡的作答成績：只看每題「最後一次」作答，才反映現在的掌握度而不是歷史累積。
 function cardStat(e,last){let done=0,ok=0;e.ids.forEach(id=>{const a=last.get(id);if(a){done++;if(a.correct)ok++}});
  return{done,n:e.ids.length,ok,rate:done?Math.round(ok/done*100):null}}
@@ -292,6 +292,8 @@ function renderCardsView(){const idx=conceptIndex(),all=[...idx.values()].filter
  $$('#cardSpecChips .cchip').forEach(b=>b.onclick=()=>{cardFilter.spec=b.dataset.spec;renderCardsView()});
  $('#cardSorts').innerHTML=CARD_SORTS.map(([v,l])=>`<button class="${cardFilter.sort===v?'on':''}" data-sort="${v}">${l}</button>`).join('');
  $$('#cardSorts button').forEach(b=>b.onclick=()=>{cardFilter.sort=b.dataset.sort;renderCardsView()});
+ // 自測模式：卡片先蓋住、只露出問題，想過答案再翻開；翻開狀態只在這次瀏覽有效
+ const qb=$('#cardQuiz');if(qb){qb.setAttribute('aria-pressed',cardFilter.quiz);qb.textContent=cardFilter.quiz?'自測中：先想再翻':'自測模式';qb.onclick=()=>{cardFilter.quiz=!cardFilter.quiz;renderCardsView()}}
  const last=lastAttempts();all.forEach(e=>e.stat=cardStat(e,last));
  const kw=cardFilter.q.trim().toLowerCase(),
   byName=(a,b)=>String(a.card.zh||'').localeCompare(String(b.card.zh||''),'zh-Hant'),
@@ -305,7 +307,9 @@ function renderCardsView(){const idx=conceptIndex(),all=[...idx.values()].filter
  $('#cardsList').innerHTML=rows.length?rows.map(e=>{const s=e.stat,
    score=s.done?`<b class="cscore ${s.rate>=80?'good':s.rate>=60?'mid':'bad'}">${s.rate}%</b><span class="tiny">做過 ${s.done}／${s.n}</span>`
     :`<span class="tiny">還沒做過這 ${s.n} 題</span>`;
-   return`<div class="card-wrap">${renderCard(e.card)}<div class="card-foot"><span class="tiny">${[...e.specs].map(escapeHtml).join('、')} · 考過 ${e.ids.length} 題</span><span class="card-score">${score}</span><button class="btn" data-cardkey="${escapeHtml(e.key)}">練這 ${e.ids.length} 題</button></div></div>`}).join(''):'<p class="tiny">沒有符合的概念卡。換個關鍵字或選「全部」。</p>';
+   const cover=cardFilter.quiz&&e.card.q?`<button class="card-cover" data-flip><span class="lbl">${escapeHtml(e.card.zh||'')}</span><b>${escapeHtml(e.card.q)}</b><span class="tiny">想好了，點一下翻開</span></button>`:'';
+   return`<div class="card-wrap${cover?' selftest':''}"><div class="card-face">${cover}<div class="card-body">${renderCard(e.card)}</div></div><div class="card-foot"><span class="tiny">${[...e.specs].map(escapeHtml).join('、')} · 考過 ${e.ids.length} 題</span><span class="card-score">${score}</span><button class="btn" data-cardkey="${escapeHtml(e.key)}">練這 ${e.ids.length} 題</button></div></div>`}).join(''):'<p class="tiny">沒有符合的概念卡。換個關鍵字或選「全部」。</p>';
+ $$('#cardsList [data-flip]').forEach(b=>b.onclick=()=>{b.addEventListener('animationend',()=>b.hidden=true,{once:true});b.closest('.card-wrap').classList.add('open')});
  $$('#cardsList [data-cardkey]').forEach(b=>b.onclick=()=>{const e=idx.get(b.dataset.cardkey);
   const pool=e.ids.map(id=>questions.find(q=>q.id===id)).filter(Boolean);
   if(!pool.length)return toast('找不到對應題目');

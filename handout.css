@@ -139,3 +139,17 @@
 @media (prefers-reduced-motion:reduce){
   .fx-in *,.fx-in *::before,.fx-in *::after,.fx-go,.fx-go *,.fx-go *::before,.fx-go *::after{animation:none!important;transition:none!important}
 }
+
+/* 概念卡自測：封面蓋住卡片，點擊後沿上緣翻起 */
+.card-wrap.selftest{position:relative;perspective:1200px}
+.card-wrap.selftest:not(.open) .card-body{max-height:0;overflow:hidden}
+.card-face{min-width:0}
+.card-cover{display:flex;flex-direction:column;gap:10px;width:100%;min-height:150px;padding:22px 20px;text-align:left;cursor:pointer;border:0;border-bottom:1px solid var(--hair);background:var(--paper);color:var(--ink);font:inherit;transform-origin:top center;backface-visibility:hidden}
+.card-cover b{font-size:17px;line-height:1.55}
+.card-cover:hover b{text-decoration:underline;text-decoration-color:var(--hair)}
+.card-wrap.open .card-cover{animation:fx-flipup .45s cubic-bezier(.4,0,.2,1) forwards}
+.card-wrap.open .card-body{animation:fx-reveal .45s .15s both}
+@keyframes fx-flipup{to{transform:rotateX(90deg);opacity:0;min-height:0;height:0;padding:0;border:0}}
+@keyframes fx-reveal{from{opacity:0;transform:translateY(-8px)}}
+#cardQuiz[aria-pressed=true]{background:var(--rule);color:var(--paper);border-color:var(--rule)}
+@media(prefers-reduced-motion:reduce){.card-wrap.open .card-cover{animation:none;display:none}.card-wrap.open .card-body{animation:none}}
