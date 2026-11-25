@@ -10869,7 +10869,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "控制不良**糖尿病**、鼻甲**變黑**、硬腭發黑、複視",
+        "t": "**毛黴菌**（Mucor）鼻腦型感染：侵犯血管造成黑色壞死焦痂",
+        "x": "綠膿桿菌、嗜血桿菌、葡萄球菌不會造成黑色壞死與快速眼眶侵犯"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10911,7 +10916,12 @@
       "concepts": [
         "nasopharyngeal-head-neck-scc",
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "鼻咽切片已確診**未分化癌**＋頸部腫塊、選**最不恰當**",
+        "t": "原發處已確診，頸部腫塊**不要再切片**（開放切片可能造成腫瘤散播）",
+        "x": "頭頸影像、腹部超音波、胸部 X 光都是分期檢查"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10947,7 +10957,12 @@
       "guideline": null,
       "concepts": [
         "caloric-test-response"
-      ]
+      ],
+      "approach": {
+        "k": "溫差試驗方向、選**正確**",
+        "t": "**COWS**：冷向對側、溫向同側（指快相）→ 左耳溫水，快相向**左**",
+        "x": "右耳冷水快相應向**左**；右耳冷刺激慢相應向**右**；左耳溫刺激慢相應向**右**"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10988,7 +11003,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "顱底腫瘤 MRI **salt and pepper sign**",
+        "t": "**副神經節瘤**（血管豐富，流空訊號＋出血）",
+        "x": "聽神經瘤、腺樣囊狀癌、膽固醇肉芽腫沒有這個徵象"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11029,7 +11049,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "膽脂瘤手術**最不可能**的術式",
+        "t": "**鐙骨切除術**是**耳硬化症**的手術",
+        "x": "乳突切除、聽小骨重建、上鼓室鑿開都是膽脂瘤手術"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11072,7 +11097,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "外科呼吸繞道、選**正確**（看圖）",
+        "t": "圖中標示處是氣切的**正確位置**（約第 2–4 氣管環）",
+        "x": "環甲膜切開只是**短期**；橫切口**不能**保證避開前頸靜脈；氣切後持續出血要想**無名動脈**瘻管，不是外頸動脈"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11108,7 +11138,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "術後聲帶麻痺機率**最低**",
+        "t": "**扁桃腺切除**離迷走神經與喉返神經最遠",
+        "x": "肺切除、食道切除、心臟繞道都靠近喉返神經路徑"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11149,7 +11184,12 @@
       "guideline": null,
       "concepts": [
         "sialolithiasis-sialadenitis"
-      ]
+      ],
+      "approach": {
+        "k": "唾液腺結石、選**正確**",
+        "t": "**腮腺**結石多數 **radiolucent**，單靠 X 光不易診斷",
+        "x": "結石**含**有機物質；最常在**下頷腺**；唾液腺內視鏡單獨只能取**較小**的結石"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11190,7 +11230,12 @@
       "guideline": null,
       "concepts": [
         "salivary-gland-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "唾液腺惡性腫瘤、選**正確**",
+        "t": "**腺樣囊狀癌**生長慢、易**沿神經侵犯**",
+        "x": "下頷腺最常見惡性是腺樣囊狀癌；黏液細胞**越多**惡性度**越低**；腺樣囊狀癌常**晚期**（多年後）轉移"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13180,7 +13225,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "外耳道異物沖洗、選**最不適當**",
+        "t": "**不可用冰水**（刺激前庭引發眩暈）；用接近體溫的水",
+        "x": "確認鼓膜完整、確認異物不吸水膨脹、取出後檢查傷害，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -24170,7 +24220,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "突發性耳聾、選**錯誤**",
+        "t": "**低頻**聽損預後較好；高頻較差",
+        "x": "3 天內連續三頻 30 dB、多數合併耳鳴、部分會自行恢復，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24211,7 +24266,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "需**長期**氣道繞道",
+        "t": "**氣管切開術**",
+        "x": "氣管內插管、環甲膜切開、高壓噴氣都是**短期**"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24252,7 +24312,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "口腔癌組織型態",
+        "t": "**鱗狀細胞癌**（菸、酒、檳榔）",
+        "x": "未分化癌是鼻咽癌；疣樣癌少見；腺癌來自唾液腺"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24294,7 +24359,12 @@
       "concepts": [
         "sialolithiasis-sialadenitis",
         "ent-common-pathogens"
-      ]
+      ],
+      "approach": {
+        "k": "急性細菌性唾液腺炎最常見病原",
+        "t": "**金黃色葡萄球菌**（脫水、唾液鬱滯時逆行感染）",
+        "x": "肺炎鏈球菌、大腸桿菌、綠膿桿菌較少見"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24336,7 +24406,12 @@
       "concepts": [
         "hearing-loss-vertigo",
         "vertigo-approach"
-      ]
+      ],
+      "approach": {
+        "k": "前庭神經炎、選**正確**",
+        "t": "部分病人日後會續發 **BPPV**",
+        "x": "多發生在前庭神經**上支**；眼震快相向**健側**；抗病毒藥**沒有**證據，主要用類固醇"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24377,7 +24452,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**鼻竇內視鏡手術的絕對適應症",
+        "t": "單純**急性加重**的鼻竇炎先藥物治療",
+        "x": "眼眶膿瘍視力受損、腦膜炎、侵襲性黴菌性鼻竇炎都是絕對適應症"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24413,7 +24493,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "內翻性乳突瘤、選**錯誤**",
+        "t": "內翻性乳突瘤**要做術前切片**（不像血管纖維瘤那樣禁切）",
+        "x": "可能合併鱗狀細胞癌、起源處骨質增生、與 HPV 6/11 有關，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24454,7 +24539,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "吞腐蝕劑、選**正確**",
+        "t": "**強鹼**造成液化性壞死，比強酸更易深層受損",
+        "x": "**不可**中和；內視鏡在 **12–48 小時**做；內視鏡時**可**放鼻胃管保持通道"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -24495,7 +24585,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "鰓器畸型、選**正確**",
+        "t": "**第三、四鰓器**畸型可有瘻管通到**梨狀窩**",
+        "x": "**第二**鰓器最常見；第二鰓器瘻管通扁桃窩但不是兩型都通；反覆化膿性甲狀腺炎是第三、四鰓器"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26302,7 +26397,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "16 歲鼻塞、濃稠鼻涕**超過一年**、副鼻竇 X 光",
+        "t": "竇腔混濁、骨質完整 → **慢性鼻竇炎**",
+        "x": "慢性鼻炎 X 光竇腔清楚；沒有骨折線；沒有骨質破壞所以不像腫瘤"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -37406,7 +37506,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "左耳耳鏡圖、判斷膽脂瘤類型",
+        "t": "角化物在**外耳道**、鼓膜完整 → **耳道膽脂瘤**",
+        "x": "先天性是鼓膜完整但在中耳內；原發後天性是鬆弛部內陷；繼發後天性是經鼓膜穿孔長入"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37447,7 +37552,12 @@
       "guideline": null,
       "concepts": [
         "wullstein-tympanoplasty-classification"
-      ]
+      ],
+      "approach": {
+        "k": "砧骨雕刻放在重建鼓膜與**完整鐙骨頭**之間",
+        "t": "**Type III** 鼓室成形術",
+        "x": "I 只補鼓膜；II 鼓膜接在砧骨；IV 只剩活動的鐙骨足板"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37483,7 +37593,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "噪音性永久聽損最明顯頻率",
+        "t": "**3–6 kHz**（典型 4 kHz notch）",
+        "x": "低頻與 1–2 kHz 較不受影響；>8 kHz 不是典型位置"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37524,7 +37639,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "鼻功能評估、選**錯誤**",
+        "t": "**nasometry** 評估的是**鼻共鳴**，不是立體構造",
+        "x": "acoustic rhinometry 看空間、rhinomanometry 看阻力、peak flow 看氣流，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37568,7 +37688,12 @@
       "guideline": null,
       "concepts": [
         "ent-common-pathogens"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**急性中耳炎、鼻竇炎常見病菌（官方 A–D 都給分）",
+        "t": "三大常見菌：肺炎鏈球菌、嗜血桿菌、**卡他莫拉菌**；原意要選**金黃色葡萄球菌**",
+        "x": "官方更正全部給分"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37611,7 +37736,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病、**吸入類固醇**、喉嚨痛、咽喉白色病灶",
+        "t": "**念珠菌感染**（吸完要漱口）",
+        "x": "白斑是癌前病變不會因吸入藥物出現；乳突瘤是疣狀；白喉有偽膜且病程急"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37654,7 +37784,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "嗓音障礙喉鏡圖、選**正確**",
+        "t": "圖二是**聲帶息肉**（單側局部）",
+        "x": "其他圖與標示不符：結節是雙側對稱、Reinke 水腫是雙側瀰漫、白斑是白色斑塊"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37695,7 +37830,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "**第二期**鼻咽癌治療",
+        "t": "**同步放化療**",
+        "x": "單獨放療是第一期；前導或輔助化療用在更晚期、高風險"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37736,7 +37876,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "**最不容易**轉移到咽後淋巴結",
+        "t": "**舌癌**（口腔）主要走 level I–III",
+        "x": "鼻咽、扁桃腺、咽後壁都引流到咽後淋巴結"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39549,7 +39694,12 @@
       "concepts": [
         "neck-mass-thyroid-benign-tumors",
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "41 歲左頸腫塊、CT 單房囊性病灶",
+        "t": "典型側頸單房囊腫 → **腮裂囊腫**",
+        "x": "水囊瘤是多房且多見嬰幼兒；血管瘤會顯影；壞死淋巴結要排除但本題影像不像"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -50585,7 +50735,12 @@
       "guideline": "FC 醫學(六)第4冊 p.211",
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "50 歲左耳聽損、**偶爾流膿**、耳鏡圖",
+        "t": "**慢性中耳炎**（鼓膜穿孔）",
+        "x": "急性中耳炎是急性痛、鼓膜鼓起；積液性中耳炎沒流膿；膽脂瘤要看到白色角化物"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50621,7 +50776,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "老年性聽損、選**最不適當**",
+        "t": "老年性聽損從**高頻**開始",
+        "x": "男比女嚴重、噪音加劇、語音辨識變差，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50657,7 +50817,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "Pott puffy tumor、選**正確**",
+        "t": "早期可能只有輕微局部**硬化**",
+        "x": "病因是**額骨**骨膜下膿瘍與骨髓炎；常見**青少年**；不特別與自體免疫有關"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50698,7 +50863,12 @@
       "guideline": "FC 醫學(六)第4冊 p.252",
       "concepts": [
         "allergic-rhinitis"
-      ]
+      ],
+      "approach": {
+        "k": "過敏性鼻炎、**不屬於第一線**",
+        "t": "**免疫治療**留給確認過敏原又控制不佳者",
+        "x": "抗組織胺、去充血劑、類固醇鼻噴劑都是第一線藥物"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50739,7 +50909,12 @@
       "guideline": "FC 醫學(六)第4冊 p.247",
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "流鼻血治療、選**最適當**",
+        "t": "**壓前鼻中隔**（Little's area）或鼻填塞",
+        "x": "壓**鼻骨**壓不到出血點；止血敷料不是第一步；前篩動脈結紮是難治後段處置"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50778,7 +50953,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "原因不明聲門下狹窄、選**最不適當**（官方 A–D 都給分）",
+        "t": "多見育齡女性，雌激素受體、逆流、pepsin 都有研究線索，沒有明確錯誤選項",
+        "x": "官方全部給分"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50819,7 +50999,12 @@
       "guideline": "FC 醫學(六)第4冊 p.372",
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "早期喉癌手術 vs 放療、選**錯誤**",
+        "t": "兩者長期**喉保存**相當，手術**不會**比較差",
+        "x": "放療時間長成本高、控制率相當、可考慮經口機器人手術，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50855,7 +51040,12 @@
       "guideline": null,
       "concepts": [
         "sialolithiasis-sialadenitis"
-      ]
+      ],
+      "approach": {
+        "k": "唾液腺結石最常見位置",
+        "t": "**下頷腺**：導管長、逆重力、唾液濃",
+        "x": "腮腺、舌下腺、小唾液腺較少"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50896,7 +51086,12 @@
       "guideline": "FC 醫學(六)第4冊 p.379",
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺髓質癌、選**錯誤**",
+        "t": "大部分是**散發型**，家族型（MEN2）約 25%",
+        "x": "來自 C cell、頸部轉移常見、calcitonin 追蹤，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52714,7 +52909,12 @@
       "C": "本項不選。僵直性脊椎炎的影像特徵是椎體邊角的**韌帶骨贅**把上下椎體橋接起來（竹節狀脊椎），並常合併薦腸關節炎。這張片子的骨化是沿著椎體後緣走，不是前外側的橋接。",
       "D": "本項不選。結核性脊椎椎間盤炎會破壞終板、讓椎間盤高度塌陷，並形成椎旁膿瘍。這張 CT 的椎間盤高度與終板都完好，方向完全不同。",
       "summary": "頸椎後緣沿著椎體走的連續骨化帶＝後縱韌帶骨化（OPLL）；椎間盤與終板完好就先排除感染與骨折。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "60 歲頸痛、C3–4 **椎體後緣**連續鈣化",
+        "t": "**後縱韌帶骨化**（OPLL）",
+        "x": "沒有骨折線；僵直性脊椎炎是韌帶骨刺連成竹節；結核會破壞椎間盤與終板"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52834,7 +53034,12 @@
       "concepts": [
         "neck-mass-thyroid-benign-tumors",
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "成人**側頸**腫塊、**最罕見**原因",
+        "t": "**甲狀舌管囊腫**長在**正中**、多見年輕人",
+        "x": "淋巴瘤、唾液腺腫瘤、消化道癌轉移都常見於成人側頸"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -63844,7 +64049,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "內聽道、選**正確**",
+        "t": "**Seven-Up, Coke Down**：顏面神經在**前上**",
+        "x": "內聽道只有**兩條**腦神經（VII、VIII）；耳蝸神經在**前下**；下前庭神經在**後下**"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63885,7 +64095,12 @@
       "guideline": null,
       "concepts": [
         "wullstein-tympanoplasty-classification"
-      ]
+      ],
+      "approach": {
+        "k": "**Type I** 鼓室成形術",
+        "t": "只補鼓膜、**不動**聽小骨鏈",
+        "x": "接到 incus 是 II、接 stapes 頭是 III、接足板是 IV"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63926,7 +64141,12 @@
       "guideline": null,
       "concepts": [
         "ent-common-pathogens"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**急性細菌性鼻竇炎常見菌",
+        "t": "**綠膿桿菌**只在特殊情境（插管、免疫低下、手術後）",
+        "x": "肺炎鏈球菌、嗜血桿菌、卡他莫拉菌是三大常見菌"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63962,7 +64182,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "慢性鼻竇炎無息肉病因、選**錯誤**",
+        "t": "**耳咽管**功能異常是**中耳**疾病，不是鼻竇病因",
+        "x": "解剖問題、黏液纖毛功能障礙、骨性發炎都是病因"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63998,7 +64223,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "食道異物、選**錯誤**",
+        "t": "食道異物最常卡在**上端環咽肌**處，不是中段",
+        "x": "側頸 X 光 linear opacity、取出後要 second look、鈕扣電池要緊急取出，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -64039,7 +64269,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童甲狀腺癌、選**錯誤**",
+        "t": "兒童最常見仍是**乳突癌**，不是濾泡癌",
+        "x": "女性多、與放射暴露有關、兒童結節惡性比例較成人高，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -64080,7 +64315,12 @@
       "guideline": null,
       "concepts": [
         "salivary-gland-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "腺樣囊狀癌、選**錯誤**",
+        "t": "三型中 **solid** 型預後最差，cribriform 較好",
+        "x": "親神經、遠端轉移是失敗主因、轉移後仍可活多年，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -64121,7 +64361,12 @@
       "guideline": null,
       "concepts": [
         "salivary-gland-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "Warthin tumor、選**正確**",
+        "t": "多長在**腮腺尾端**",
+        "x": "多見**男性**、**年長**、抽菸者；是**良性**腫瘤"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -64162,7 +64407,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "鼻咽癌**最常見**症狀",
+        "t": "無痛**頸部腫塊**（淋巴結轉移）",
+        "x": "單側流鼻血、聽損耳鳴（中耳積液）、腦神經麻痺都有，但較少為首發"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66019,7 +66269,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "48 歲男性**單側耳鳴**、MRI 箭頭",
+        "t": "鼻咽有病灶合併同側乳突積液 → **鼻咽癌**（阻塞耳咽管）",
+        "x": "聽神經瘤在內聽道；咽喉感染不是箭頭所示；慢性中耳炎無法解釋鼻咽病灶"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66063,7 +66318,12 @@
       "guideline": "FC 醫學(六)第4冊 p.391",
       "concepts": [
         "salivary-gland-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "65 歲男性耳下**無痛**硬塊約 **2 年**、超音波界線清楚",
+        "t": "**多形性腺瘤**",
+        "x": "膿瘍會痛會發燒；血管瘤多見嬰兒；腺癌常快速長大、界線不清"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66183,7 +66443,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "流鼻血、選**最不適當**",
+        "t": "前鼻腔出血來自 **Kiesselbach plexus**；sphenopalatine artery 主要是**後鼻腔**",
+        "x": "乾燥季節多、前鼻多於後鼻、好發 <10 歲與 >70 歲，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -77152,7 +77417,12 @@
       "guideline": "FC 醫學(六)第4冊 p.228",
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "聽神經瘤、選**最不適當**",
+        "t": "後耳蝸病變 → 患側**語音辨識度變差**，且常與純音聽力不成比例",
+        "x": "純音聽力變差、常有耳鳴、ABR 第五波延長，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77194,7 +77464,12 @@
       "concepts": [
         "hearing-loss-vertigo",
         "vertigo-approach"
-      ]
+      ],
+      "approach": {
+        "k": "眩暈疾病中**最常合併聽損**",
+        "t": "**梅尼爾氏症**：眩暈＋波動性低頻聽損＋耳鳴＋耳悶",
+        "x": "BPPV、前庭神經炎沒有聽損；前庭性偏頭痛聽損少見"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77238,7 +77513,12 @@
       "guideline": "FC 醫學(六)第4冊 p.261",
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "鼻竇發育（官方 A–D 都給分）",
+        "t": "時點用語有爭議，官方全部給分",
+        "x": "重點記：上頷竇與篩竇出生時已有，額竇與蝶竇較晚"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77279,7 +77559,12 @@
       "guideline": "FC 醫學(六)第4冊 p.261",
       "concepts": [
         "allergic-rhinitis"
-      ]
+      ],
+      "approach": {
+        "k": "過敏性鼻炎理學檢查、選**正確**",
+        "t": "**鼻尖橫紋**（長期 allergic salute 往上揉鼻）",
+        "x": "下眼瞼是**黑眼圈**（allergic shiner）不是反白；睫毛是**變長**；Dennie-Morgan 皺褶在**下**眼瞼"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77321,7 +77606,12 @@
       "guideline": "FC 醫學(六)第4冊 p.289",
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "軟式 vs 硬式喉鏡、選**錯誤**（官方 A、C 都給分）",
+        "t": "軟式喉鏡**不只**診斷，也能做門診治療（切片、注射）；直接/間接的分法也不精確",
+        "x": "硬式多需全麻、兩者都有高解析畫質，這兩句對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77357,7 +77647,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**氣管切開術的優點",
+        "t": "氣切**減少**無效腔，不是增加",
+        "x": "縮短 ICU 住院、減少喉部傷害、可放較大管徑，都是優點"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77393,7 +77688,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺手術傷**上喉神經外支**",
+        "t": "影響 **cricothyroid muscle** → 高音上不去",
+        "x": "vocalis、posterior cricoarytenoid、lateral cricoarytenoid 都由喉返神經支配"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77434,7 +77734,12 @@
       "guideline": "FC 醫學(六)第4冊 p.335",
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "口腔癌術後需要**同步化放療**的危險因子",
+        "t": "**切緣陽性**（與淋巴結外侵犯 ENE 並列兩大）",
+        "x": "T3–4、神經侵犯、淋巴血管侵犯是中度風險，給術後放療即可"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -77470,7 +77775,12 @@
       "guideline": null,
       "concepts": [
         "salivary-gland-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "唾液腺良性腫瘤、選**正確**",
+        "t": "Warthin tumor 又名 **papillary cystadenoma lymphomatosum**",
+        "x": "多形性腺瘤**不能**只摘除（有偽足易復發），要做腮腺淺葉切除；有惡性轉化風險**不宜**觀察；Warthin 也是做腮腺切除"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -90409,7 +90719,12 @@
       "guideline": "FC 醫學(六)第4冊 p.227",
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "國內人工電子耳個案數最多的族群",
+        "t": "**雙側重度感音性**聽損的**嬰幼兒**",
+        "x": "單側較少植入；成人個案數較少；傳導性聽損用助聽器或手術"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90452,7 +90767,12 @@
       "guideline": "FC 醫學(六)第4冊 p.200",
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "中年男性長年**冷水晨泳**、耳鏡圖",
+        "t": "**外耳道外生骨疣**（surfer's ear）",
+        "x": "黴菌性外耳炎有菌絲；外耳炎會腫痛有分泌物"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90488,7 +90808,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "味覺神經、選**錯誤**",
+        "t": "會厭的味覺由**迷走神經**（CN X）支配；舌下神經管**舌運動**",
+        "x": "舌前 2/3 顏面神經、舌後 1/3 舌咽神經、多條腦神經共同支配，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90524,7 +90849,12 @@
       "guideline": null,
       "concepts": [
         "allergic-rhinitis"
-      ]
+      ],
+      "approach": {
+        "k": "過敏性鼻炎機轉、選**正確**",
+        "t": "反覆接觸後出現**晚期發炎反應**（數小時後，嗜酸性球）",
+        "x": "第一次接觸是**致敏化**；再次接觸才是**早期**反應；併發症**不是必然**"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90567,7 +90897,12 @@
       "guideline": "FC 醫學(六)第4冊 p.260",
       "concepts": [
         "chandler-orbital-complication-classification"
-      ]
+      ],
+      "approach": {
+        "k": "鼻竇炎眼眶併發症 Chandler 分類、看圖",
+        "t": "內側眶壁旁集液 → **Group III 骨膜下膿瘍**",
+        "x": "I 隔膜前蜂窩組織炎；II 眼眶蜂窩組織炎無膿瘍；IV 是眼眶內膿瘍"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90608,7 +90943,12 @@
       "guideline": "FC 醫學(六)第4冊 p.289",
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "小兒氣切、選**錯誤**",
+        "t": "術後早期仍需**加護病房**監測（脫管、堵塞），不能直接轉普通病房",
+        "x": "最常見適應症是長期插管、要先放 stay sutures、造口 maturation 不一定要做，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90644,7 +90984,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**鼻咽癌治療後聽損常見原因",
+        "t": "**標靶藥物**不是常見耳毒性來源",
+        "x": "放療傷內耳、耳咽管功能差致中耳積液、cisplatin 耳毒性都常見"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90685,7 +91030,12 @@
       "guideline": "FC 醫學(六)第4冊 p.362",
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "單側**下咽癌**淋巴轉移風險最高區",
+        "t": "同側 **II、III、IV** 區",
+        "x": "I–III 是口腔癌；III–V 不典型；VI–VII 是甲狀腺"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -90726,7 +91076,12 @@
       "guideline": "FC 醫學(六)第4冊 p.363",
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "頭頸癌常用標靶藥 **cetuximab** 的標的",
+        "t": "**EGFR**",
+        "x": "Ras 在下游；VEGFR 是 bevacizumab；Notch1 不是標的"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -92648,7 +93003,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "惡性外耳炎、選**最適當**",
+        "t": "大部分用**抗生素**（抗綠膿桿菌）治療即可",
+        "x": "致病菌是**綠膿桿菌**；CRP 上升**不能確診**；最常影響**第七對**（顏面神經）"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -92684,7 +93044,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "鼻腔異物、選**最不適當**",
+        "t": "鼻腔**鈕扣電池**要**立即**取出，**不可**用鼻滴劑（加速電解傷害）",
+        "x": "好發兒童與智能障礙者、兒童多無症狀、可照 X 光輔助，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -103686,7 +104051,12 @@
       "guideline": "FC 醫學(六)第4冊 p.200",
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "**夏日**耳朵癢痛、耳鏡圖",
+        "t": "**黴菌性外耳炎**（耳道菌絲、碎屑）",
+        "x": "急性中耳炎是鼓膜鼓起；慢性中耳炎有穿孔流膿；積液性中耳炎鼓膜後有液面"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103722,7 +104092,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "植入人工電子耳後語音辨識**最差**",
+        "t": "**習語前失聰的成人**（聽覺中樞錯過發育期）",
+        "x": "習語前小孩早植入效果好；習語後失聰小孩與成人效果都好"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103763,7 +104138,12 @@
       "guideline": "FC 醫學(六)第4冊 p.226",
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "上半規管裂隙症的 **Tullio phenomenon**",
+        "t": "**聲音**（外耳道音壓變化）引發**眼震**、眩暈",
+        "x": "third window 是機轉不是 Tullio 的定義；聽覺過敏與低頻氣骨導差是其他表現"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103804,7 +104184,12 @@
       "guideline": "FC 醫學(六)第4冊 p.242",
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "嗅覺異常原因**最不常見**",
+        "t": "**中樞神經腫瘤**",
+        "x": "病毒性上呼吸道感染、頭部外傷、鼻竇疾病是三大常見原因"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103845,7 +104230,12 @@
       "guideline": "FC 醫學(六)第4冊 p.259",
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "過敏性黴菌性鼻竇炎、選**錯誤**",
+        "t": "病理特徵是**嗜酸性球**黏液，不是嗜中性球",
+        "x": "CT 高密度、骨重塑、骨侵蝕都常見"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103886,7 +104276,12 @@
       "guideline": "FC 醫學(六)第4冊 p.287",
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "FEES 優於 MBS 的特點、**不包括**",
+        "t": "**測試不同黏稠度食物**兩者都可以，不是 FEES 獨有",
+        "x": "無輻射床邊可做、可合併感覺測試、看腭咽閉鎖不全較準，都是 FEES 優點"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103929,7 +104324,12 @@
       "guideline": "FC 醫學(六)第4冊 p.287",
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "32 歲女性、全麻插管後咽喉痛、異物感、喉鏡圖",
+        "t": "**插管造成**的接觸性肉芽腫（後聲門、杓狀軟骨聲帶突）",
+        "x": "位置在**杓狀軟骨**不是環狀軟骨；不是感染，**不用**抗生素，用制酸劑與嗓音休息；手術切除**復發率高**"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -103970,7 +104370,12 @@
       "guideline": "FC 醫學(六)第4冊 p.377",
       "concepts": [
         "men-syndrome-classification"
-      ]
+      ],
+      "approach": {
+        "k": "MEN、選**錯誤**",
+        "t": "副甲狀腺瘤只在 **MEN 2A**；2B 沒有",
+        "x": "MEN1 三 P、兩者都是 RET 突變、髓質癌要全甲狀腺切除加中央頸廓清，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -104011,7 +104416,12 @@
       "guideline": "FC 醫學(六)第4冊 p.319",
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "上、下副甲狀腺的胚胎來源",
+        "t": "上副甲狀腺來自**第四**咽囊；下副甲狀腺來自**第三**咽囊（跟胸腺一起下降）",
+        "x": "其他組合都不對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -105956,7 +106366,12 @@
       "guideline": "FC 醫學(六)第4冊 p.288",
       "concepts": [
         "croup-vs-epiglottitis"
-      ]
+      ],
+      "approach": {
+        "k": "急性會厭炎、選**最正確**",
+        "t": "吸氣時可聽到 **stridor**（上呼吸道阻塞）",
+        "x": "3D 症狀並非大部分都典型；呼吸窘迫**不能**先送 CT；清醒病人**不可**隨便鎮靜加肌鬆（會完全阻塞），要在備妥氣切下處置"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -116054,7 +116469,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "聽小骨由外到內",
+        "t": "**malleus → incus → stapes**",
+        "x": "其他順序都錯：malleus 接鼓膜、stapes 接卵圓窗"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116090,7 +116510,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "慢性中耳炎耳滴劑",
+        "t": "**quinolone**（無耳毒性、涵蓋綠膿桿菌）",
+        "x": "aminoglycoside 有耳毒性，鼓膜穿孔時避免；chloramphenicol、polymyxin B 較少用"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116126,7 +116551,12 @@
       "guideline": null,
       "concepts": [
         "allergic-rhinitis"
-      ]
+      ],
+      "approach": {
+        "k": "台灣、晨起鼻癢、打噴嚏、IgE 陽性",
+        "t": "**塵蟎**（溫暖潮濕）",
+        "x": "動物皮毛、蟑螂、黴菌也是過敏原，但台灣最常見是塵蟎"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116162,7 +116592,12 @@
       "guideline": null,
       "concepts": [
         "allergic-rhinitis"
-      ]
+      ],
+      "approach": {
+        "k": "過敏性鼻炎鼻黏膜**最不可能**增加的 IL",
+        "t": "**IL-10** 是抑制性細胞激素",
+        "x": "IL-4、IL-5、IL-13 是 Th2 發炎因子"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116198,7 +116633,12 @@
       "guideline": null,
       "concepts": [
         "allergic-rhinitis"
-      ]
+      ],
+      "approach": {
+        "k": "**未被建議**用來治療此過敏性鼻炎",
+        "t": "**anti-IgE** 不是過敏性鼻炎的常規藥物",
+        "x": "白三烯拮抗劑、鼻噴類固醇、抗組織胺都是建議藥物"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116234,7 +116674,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "嬰幼兒喉部解剖、選**錯誤**",
+        "t": "嬰幼兒氣道是**漏斗形**（不是圓柱形），最狹窄在聲門下",
+        "x": "聲門在 C2–3、甲狀軟骨與舌骨環狀軟骨重疊、杓狀軟骨比例高，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116272,7 +116717,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "兩張胸部 X 光判斷病童異物位置",
+        "t": "**右主支氣管**（較直、較寬）；呼氣片單側過度充氣 = air trapping",
+        "x": "左主支氣管較少；聲門下、氣管異物不會造成單側充氣不對稱"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116311,7 +116761,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "頷下腺與舌下腺的副交感神經（官方 A–D 都給分）",
+        "t": "正解是**顏面神經鼓索支**，選項中沒有",
+        "x": "官方全部給分；腮腺才走舌咽神經"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -116348,7 +116803,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "術中 PTH 下降多少預期術後低血鈣（官方 B、C 都給分）",
+        "t": "下降約 **50%** 開始警戒、約 **75%** 幾乎確定",
+        "x": "10%、25% 太小"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -118137,7 +118597,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲糖尿病、外耳紅腫熱痛、選**最不適當**",
+        "t": "外耳炎合併**牙關緊閉**要當**惡性外耳炎**，**不能**只用耳滴劑",
+        "x": "嚴重可合併腮腺炎、常見菌是葡萄球菌與綠膿桿菌、避免進水，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -128212,7 +128677,12 @@
       "guideline": null,
       "concepts": [
         "ent-common-pathogens"
-      ]
+      ],
+      "approach": {
+        "k": "慢性中耳炎致病菌**最不常見**",
+        "t": "**肺炎鏈球菌**是**急性**中耳炎的菌",
+        "x": "大腸桿菌、金黃色葡萄球菌、綠膿桿菌都是慢性中耳炎常見菌"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128248,7 +128718,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "**最不常**造成耳毒性的藥",
+        "t": "**acetaminophen**",
+        "x": "aspirin（可逆）、furosemide（可逆）、cisplatin（不可逆）都會"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128284,7 +128759,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "突發性耳聾、選**最不適當**",
+        "t": "**耳內注射類固醇有效**（初始或救援治療）",
+        "x": "連續三頻 30 dB、全身類固醇、高壓氧可能有效，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128320,7 +128800,12 @@
       "guideline": null,
       "concepts": [
         "paranasal-sinus-drainage-pathways"
-      ]
+      ],
+      "approach": {
+        "k": "篩竇解剖、選**錯誤**",
+        "t": "**後篩竇**引流到**上鼻道**，不經篩竇漏斗",
+        "x": "鼻丘最前、篩球是前篩最大、基底板分隔前後篩，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128356,7 +128841,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "青少年鼻咽血管纖維瘤、選**錯誤**",
+        "t": "幾乎只發生在**青春期男性**",
+        "x": "鼻塞流鼻血、殘留可放療、術前栓塞內上頷動脈，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128392,7 +128882,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "先天氣管食道瘻管、選**正確**",
+        "t": "手術後瘻管復發可考慮**內視鏡**治療",
+        "x": "最常見是 **C 型**（H 型最難診斷）；鋇劑**不一定**能診斷；**不需要** EXIT"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128428,7 +128923,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "GERD vs LPR、選**正確**",
+        "t": "**GERD** 症狀好發**夜間平躺**",
+        "x": "燒心較常見於 **GERD**；黃金標準是 **pH 監測**；LPR 的探頭要放**上食道括約肌**附近"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128464,7 +128964,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "下咽癌、選**錯誤**",
+        "t": "下咽癌最常見在**梨狀窩**，不是後咽壁",
+        "x": "女性與 Plummer-Vinson 相關、黏膜下擴散、經甲狀舌骨膜轉移 II–IV 區，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -128500,7 +129005,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "胸大肌皮瓣血管供應",
+        "t": "**thoracoacromial artery** 胸肌支",
+        "x": "superior thoracic、lateral thoracic、subscapular 不是主要供應"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -140301,7 +140811,12 @@
       "guideline": null,
       "concepts": [
         "ent-common-pathogens"
-      ]
+      ],
+      "approach": {
+        "k": "急性中耳炎致病菌**最不常見**",
+        "t": "**綠膿桿菌**（慢性中耳炎或外耳道來源）",
+        "x": "肺炎鏈球菌、嗜血桿菌、卡他莫拉菌是三大菌"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140338,7 +140853,12 @@
       "concepts": [
         "hearing-loss-vertigo",
         "vertigo-approach"
-      ]
+      ],
+      "approach": {
+        "k": "注視眼震中提示**中樞**病變",
+        "t": "**方向變換**眼震",
+        "x": "水平旋轉、可被固視抑制、看向快相方向增強（Alexander law），都是周邊特徵"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140374,7 +140894,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "蝶竇解剖、選**正確**",
+        "t": "蝶竇開口在**前壁上側**",
+        "x": "翼管神經在**底部**；V2 在**外下**；視神經在**外上**"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140410,7 +140935,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "內視鏡鼻竇手術併發症**最不常見**",
+        "t": "**馬鞍鼻**（鼻中隔軟骨支撐受損，鼻竇手術不碰）",
+        "x": "腦膜炎、複視失明、腦脊髓液鼻漏是顱底眼眶相關併發症"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140446,7 +140976,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "扁桃腺癌侵犯造成**張口困難**",
+        "t": "**內翼肌**",
+        "x": "外翼肌位置較遠；咀嚼肌在外側；頰肌與張口無關"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140482,7 +141017,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**感冒常見病毒",
+        "t": "**疱疹病毒**（水泡、潰瘍）",
+        "x": "鼻病毒、冠狀病毒、流感病毒都會引起上呼吸道症狀"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140518,7 +141058,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "反常性聲帶運動障礙、選**錯誤**",
+        "t": "多在**白天清醒**時發作，**睡眠時不發作**",
+        "x": "吸氣喘鳴、可為 Meige 症候群表現、甲杓肌注射肉毒桿菌，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140554,7 +141099,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "聲帶麻痺、選**錯誤**",
+        "t": "神經重建多接**頸襻**（ansa cervicalis），不是脊副神經",
+        "x": "成人多與腫瘤或甲狀腺手術有關、左多於右、Chiari 可雙側，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -140591,7 +141141,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-thyroid-benign-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "Graves 手術、選**錯誤**（官方 A、B 都給分）",
+        "t": "TSHR 抗體主要由 **B 細胞**產生；手術方式的敘述也有爭議",
+        "x": "術前抗甲狀腺藥＋碘液減血流、術後凸眼不一定改善，這兩句對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -142195,7 +142750,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "63 歲**單側耳悶**、MRI",
+        "t": "鼻咽側壁腫塊＋同側乳突積液 → **鼻咽癌**",
+        "x": "細菌性中耳炎無鼻咽腫塊；淋巴瘤較少；珍珠瘤在中耳不在鼻咽"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -142391,7 +142951,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "65 歲糖尿病、耳痛流膿 2 週、發燒、臉腫、眼瞼下垂、選**錯誤**",
+        "t": "惡性外耳炎要**住院、靜脈抗生素**，不能口服門診",
+        "x": "可能惡性外耳炎、可能侵犯顏面神經、綠膿桿菌最常見，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -152386,7 +152951,12 @@
       "guideline": null,
       "concepts": [
         "ear-infections-cholesteatoma"
-      ]
+      ],
+      "approach": {
+        "k": "5 歲**上呼吸道感染後**右耳痛、耳鏡圖",
+        "t": "鼓膜**鼓脹發紅** → **急性中耳炎**",
+        "x": "積液性是凹陷琥珀色；慢性有穿孔流膿；膽脂瘤有白色角化物"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152422,7 +152992,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "鼻咽癌經**海綿竇**侵犯的腦神經",
+        "t": "**III、IV、VI**（還有 V1、V2）",
+        "x": "視神經（II）**不在**海綿竇內"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152458,7 +153033,12 @@
       "guideline": null,
       "concepts": [
         "hearing-loss-vertigo"
-      ]
+      ],
+      "approach": {
+        "k": "**互相垂直**的兩個半規管",
+        "t": "**同側**的後半規管與上半規管",
+        "x": "兩側水平半規管共平面；右後配左上、右上配左後是**平行**配對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152494,7 +153074,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "**不在**翼腭窩",
+        "t": "**後篩動脈**（眼動脈分支，在眼眶）",
+        "x": "翼腭神經節、上頷神經、蝶腭動脈都在翼腭窩"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152533,7 +153118,12 @@
       "guideline": null,
       "concepts": [
         "sinonasal-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "慢性鼻竇炎合併息肉病因、選**錯誤**（官方 A–D 都給分）",
+        "t": "四項都是 CRSwNP 相關原因，沒有錯誤選項",
+        "x": "官方全部給分"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152569,7 +153159,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "環狀軟骨、選**錯誤**",
+        "t": "後環杓肌是**唯一外展**（打開）聲帶的肌肉，不是關閉",
+        "x": "唯一整圈軟骨、環甲膜是皮膚離氣道最近處、杓狀軟骨以滑液關節相連，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152607,7 +153202,12 @@
       "guideline": null,
       "concepts": [
         "larynx-voice-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲不菸不酒、聲音漸啞、喉鏡**菜花狀**病灶",
+        "t": "**喉乳突瘤病**（HPV 6/11）",
+        "x": "類澱粉沉積是黃色平滑腫塊；Wegener 多在聲門下；結核有全身症狀"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152643,7 +153243,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "口咽癌代表 **HPV 相關**的標記",
+        "t": "**p16** 過度表現",
+        "x": "p21、p53、Rb 不是 HPV 的代理標記（HPV 讓 p53 與 Rb 被降解）"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -152679,7 +153284,12 @@
       "guideline": null,
       "concepts": [
         "nasopharyngeal-head-neck-scc"
-      ]
+      ],
+      "approach": {
+        "k": "喉癌、選**正確**",
+        "t": "早期**聲門上**癌淋巴豐富，可考慮選擇性頸部廓清",
+        "x": "聲帶原位癌以**內視鏡切除**為主；切除**不需**切聲帶韌帶；T4 首選**手術**加術後放化療"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -154462,7 +155072,12 @@
       "guideline": null,
       "concepts": [
         "airway-foreign-body-caustic"
-      ]
+      ],
+      "approach": {
+        "k": "咽後膿瘍、選**最不適當**",
+        "t": "呼吸困難無法躺平時**不可鎮靜**送 CT，先保氣道",
+        "x": "魚刺與齒源可引起、頸椎前軟組織變寬、多需抗生素加手術，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
