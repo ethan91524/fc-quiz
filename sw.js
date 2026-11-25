@@ -1,12 +1,12 @@
-const CACHE = 'fc-quiz-v110';
+const CACHE = 'fc-quiz-v111';
 
 // 不會變動的資源 → cache-first
 // 2026-09-06：拿掉 vendor/pdf.min.mjs 與 pdf.worker.min.mjs。那是「Phase 0：FC 儲存與跳頁
 // 可行性測試頁」留下的，app.js 完全沒有引用（全庫只有這一行提到 vendor/），
 // 卻讓每次安裝都先下載並常駐 1.7 MB。檔案留在 repo 裡，之後真的做 PDF 檢視器再掛回來。
-const IMMUTABLE = ['./icon.svg', './manifest.webmanifest', './fonts/noto-serif-tc-sub.woff2?v=1'];
+const IMMUTABLE = ['./icon.svg', './manifest.webmanifest', './fonts/noto-serif-tc-sub.woff2?v=2'];
 // 會改版的文件 → network-first（離線時才回快取）
-const DOCS = ['./', './index.html', './styles.css?v=35', './app.js?v=43', './fx.js?v=1', './handout.css?v=3', './learning-core.js?v=9', './config.js'];
+const DOCS = ['./', './index.html', './styles.css?v=35', './app.js?v=43', './fx.js?v=1', './handout.css?v=4', './learning-core.js?v=9', './config.js'];
 const DATA = ['./questions.json', './concepts.json'];
 
 // GitHub Pages 對所有檔案回 Cache-Control: max-age=600，所以 SW 的 fetch() 本身

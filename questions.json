@@ -3626,7 +3626,9 @@
       "D": "本項不選。腸道旋轉不良（intestinal malrotation）合併 midgut volvulus 常以膽汁性嘔吐與急性腹脹或休克表現；本題以陣發性劇哭為主更符合 intussusception。",
       "summary": "9 個月嬰兒突發陣發性劇哭與嘔吐要先想到 intussusception；果醬樣血便不是診斷必備。",
       "guideline": null,
-      "concepts": []
+      "concepts": [
+        "pediatric-vomiting-approach"
+      ]
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6609,7 +6611,8 @@
       "summary": "腰椎退化考點：disc herniation 最常在 L4–5/L5–S1，S1 壓迫可降低踝反射，屈曲可改善神經性跛行。",
       "guideline": "FC 醫學(五)第1冊 p.230",
       "concepts": [
-        "degenerative-spine-radiculopathy-myelopathy"
+        "degenerative-spine-radiculopathy-myelopathy",
+        "low-back-pain-approach"
       ]
     },
     "source": "110020/302_33",
@@ -16041,7 +16044,10 @@
       "C": "這題不選。迴腸閉鎖通常在出生後較早出現腸阻塞與腹脹，阻塞位置較遠端，不能最符合六個月突然發作。",
       "D": "這題不選。胎糞性腸阻塞多在新生兒期表現，常與 cystic fibrosis 相關，不是原本正常嬰兒突發膽汁性嘔吐的首選。",
       "summary": "任何年齡嬰兒的膽汁性嘔吐都先排除腸旋轉不良合併 midgut volvulus，因為延誤會腸缺血。",
-      "guideline": "FC 醫學(四)第1冊 p.112"
+      "guideline": "FC 醫學(四)第1冊 p.112",
+      "concepts": [
+        "pediatric-vomiting-approach"
+      ]
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -17500,7 +17506,8 @@
       "summary": "臉和身體麻在不同邊，加上聲音沙啞，就定位在外側延髓。",
       "guideline": "FC 醫學(四)第4冊 p.23",
       "concepts": [
-        "brainstem-localization-eye-movement"
+        "brainstem-localization-eye-movement",
+        "vertigo-approach"
       ]
     },
     "source": "110080/302_22",
@@ -21192,7 +21199,8 @@
       "D": "本項應選。伸拇長肌（extensor hallucis longus）的大趾伸展主要用來測 L5 神經根，而非 S1；S1 更常以足底屈、腓腸肌力量及跟腱反射評估。",
       "summary": "下肢神經根定位：L4 膝伸與髕反射、L5 大趾伸展、S1 足底屈與跟腱反射。",
       "concepts": [
-        "lower-limb-root-localization"
+        "lower-limb-root-localization",
+        "low-back-pain-approach"
       ],
       "guideline": null
     },
@@ -22816,7 +22824,8 @@
       "summary": "前庭神經炎通常造成持續數天的急性眩暈、快相向健側；日後可續發同側 BPPV。",
       "guideline": null,
       "concepts": [
-        "hearing-loss-vertigo"
+        "hearing-loss-vertigo",
+        "vertigo-approach"
       ]
     },
     "source": "110080/302_44",
@@ -28561,7 +28570,8 @@
       "summary": "腸閉鎖 X 光氣泡數是定位線索：double bubble 想十二指腸，triple bubble 往空腸。",
       "guideline": "FC 醫學(四)第1冊 p.615",
       "concepts": [
-        "neonatal-gi-obstruction-nec"
+        "neonatal-gi-obstruction-nec",
+        "pediatric-vomiting-approach"
       ]
     },
     "source": "111020/302_22",
@@ -28876,7 +28886,8 @@
       "summary": "小嬰兒腹瀉的正確組合是 ORS 補水、繼續母乳、早點餵食；別給運動飲料或止瀉藥。",
       "guideline": "FC 醫學(四)第1冊 p.91",
       "concepts": [
-        "diarrhea-approach"
+        "diarrhea-approach",
+        "pediatric-vomiting-approach"
       ]
     },
     "source": "111020/302_22",
@@ -40079,7 +40090,10 @@
       "C": "本項不選。金黃色葡萄球菌（Staphylococcus aureus）是成人血行性脊椎骨髓炎最常見病原，屬革蘭氏陽性菌；仍須依血液培養、危險因子及必要時椎體 biopsy 確認。",
       "D": "本項不選。MRI 能同時顯示椎體、椎間盤、硬膜外腔與軟組織侵犯，是脊椎骨髓炎首選且最敏感的影像；無法接受 MRI 時，FDG-PET 可作替代並協助偵測其他感染灶。",
       "summary": "成人血行性脊椎骨髓炎以腰椎最常見、S. aureus 最常見，影像首選 MRI，不能做時可考慮 FDG-PET。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "low-back-pain-approach"
+      ]
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -49330,7 +49344,8 @@
       "summary": "腰椎間盤最怕「坐著再前彎」；平躺最低、站立居中、直坐已高、前傾最高。",
       "guideline": "FC 醫學(六)第3冊 p.247",
       "concepts": [
-        "degenerative-spine-radiculopathy-myelopathy"
+        "degenerative-spine-radiculopathy-myelopathy",
+        "low-back-pain-approach"
       ]
     },
     "source": "111080/302_44",
@@ -53462,7 +53477,10 @@
       "C": "本項不選。症狀與腦壓或腦部病灶無關，腦部超音波不能回答胃出口是否阻塞。",
       "D": "本項不選。沒有神經學警訊時，腦部 CT 不應作為非膽汁性嘔吐的第一線檢查。",
       "summary": "4 週嬰兒噴射性非膽汁嘔吐、脫水又摸到橄欖狀腫塊，下一步就是腹部超音波找幽門狹窄。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-vomiting-approach"
+      ]
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -56670,7 +56688,10 @@
       "C": "本項不選：L5 pars defect 造成的是 L5 相對 S1 的 isthmic spondylolisthesis，不是 L4–5 滑脫。",
       "D": "本項應選：神經惡化或排尿困難時要改做手術。先保守治療；症狀持續、神經缺損惡化或排尿困難等馬尾紅旗時，須住院評估手術。",
       "summary": "腰椎狹窄彎腰舒服、後仰更痛；排尿困難或神經惡化是不能再等的紅旗。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "low-back-pain-approach"
+      ]
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -69230,7 +69251,10 @@
       "C": "本項不選：典型是下背痛加放射性神經根痛，可能伴感覺異常或肌力下降。",
       "D": "本項應選：疼痛減少卻出現或加重麻木，可能代表神經功能惡化。不可當成正在恢復。",
       "summary": "HIVD 的痛少不一定變好；麻木或無力取代疼痛，要重新檢查神經缺損。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "low-back-pain-approach"
+      ]
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -72748,7 +72772,8 @@
       "summary": "眩暈又有波動聽損、耳鳴和耳悶，就把 Meniere disease 放第一位。",
       "guideline": "FC 醫學(六)第4冊 p.228",
       "concepts": [
-        "hearing-loss-vertigo"
+        "hearing-loss-vertigo",
+        "vertigo-approach"
       ]
     },
     "source": "112080/302_44",
@@ -83041,7 +83066,8 @@
       "summary": "若 X 光呈十二指腸層級阻塞，十二指腸蹼、環狀胰與扭轉都合理；胃蹼通常只擴張胃。",
       "guideline": null,
       "concepts": [
-        "neonatal-gi-obstruction-nec"
+        "neonatal-gi-obstruction-nec",
+        "pediatric-vomiting-approach"
       ]
     },
     "source": "113020/302_33",
@@ -83752,7 +83778,8 @@
       "summary": "峽部型滑脫壓的是「出口神經根」——L5 峽部斷裂就壓 L5，不是 S1。",
       "guideline": null,
       "concepts": [
-        "lower-limb-root-localization"
+        "lower-limb-root-localization",
+        "low-back-pain-approach"
       ]
     },
     "source": "113020/302_33",
@@ -126252,7 +126279,10 @@
       "C": "本項不選。CAH 的失鹽危象可有低鈉高鉀與休克，但無法解釋急性膽汁性嘔吐與腹脹的腸阻塞圖像。",
       "D": "本項不選。Hirschsprung disease 會有延遲排胎便與慢性便祕；本題每天排便正常後突然膽汁性嘔吐，較像 volvulus。",
       "summary": "膽汁性嘔吐在嬰兒就是腸扭結警報：先排除 malrotation with midgut volvulus，別被電解質異常帶走。",
-      "guideline": null
+      "guideline": null,
+      "concepts": [
+        "pediatric-vomiting-approach"
+      ]
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -132221,7 +132251,8 @@
       "summary": "周邊眼震方向固定、能被固視抑制；方向會隨注視改變的就是中樞。",
       "guideline": null,
       "concepts": [
-        "hearing-loss-vertigo"
+        "hearing-loss-vertigo",
+        "vertigo-approach"
       ]
     },
     "source": "115020/302_0106",
@@ -133798,7 +133829,8 @@
       "summary": "骨鬆性壓迫性骨折多是前柱、穩定、保守治療；三分之二沒有症狀，發現時要順便啟動抗骨鬆治療。",
       "guideline": null,
       "concepts": [
-        "spine-pelvic-fractures"
+        "spine-pelvic-fractures",
+        "low-back-pain-approach"
       ]
     },
     "source": "115020/302_0106",
@@ -141746,7 +141778,8 @@
       "summary": "黃綠色膽汁性嘔吐加超音波 whirlpool sign，先當中腸扭轉處理，因為它會很快缺血壞死。",
       "guideline": null,
       "concepts": [
-        "midgut-volvulus-ultrasound-signs"
+        "midgut-volvulus-ultrasound-signs",
+        "pediatric-vomiting-approach"
       ]
     },
     "source": "115070/302_0103",
@@ -145589,7 +145622,8 @@
       "summary": "馬尾症候群的紅旗：鞍狀感覺異常、尿滯留、雙側坐骨神經痛、肛門括約肌張力下降——要當急診手術處理。",
       "guideline": null,
       "concepts": [
-        "degenerative-spine-radiculopathy-myelopathy"
+        "degenerative-spine-radiculopathy-myelopathy",
+        "low-back-pain-approach"
       ]
     },
     "source": "115070/302_0104",

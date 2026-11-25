@@ -1,5 +1,5 @@
-/* 襯線字改自帶子集（離線可用）；題庫加新字要重跑 scripts/fc/build_font_subset.py 並把 ?v 加一 */
-@font-face{font-family:"FC Serif";src:url("fonts/noto-serif-tc-sub.woff2?v=1") format("woff2");font-weight:600 900;font-display:swap}
+/* 襯線字改自帶子集（離線可用）；題庫加新字要重跑 scripts/fc/build_font_subset.py 並把 ?v 加一（index.html、handout.css、sw.js 三處） */
+@font-face{font-family:"FC Serif";src:url("fonts/noto-serif-tc-sub.woff2?v=2") format("woff2");font-weight:600 900;font-display:swap}
 /* 講義版型 + 動畫層（2026-11 改版，Ethan 選定方向 A）
    - 只疊在 styles.css 上，顏色全部沿用各主題 token（--paper/--ink/--sig/--ok/--no…），8 個主題自動適用。
    - 所有動畫只在 .fx-in / .fx-go 期間播放；靜止狀態永遠是最終畫面（換題、檢討、reduced-motion 都直接看到結果）。 */
