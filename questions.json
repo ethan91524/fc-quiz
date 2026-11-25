@@ -72328,7 +72328,12 @@
       "guideline": null,
       "concepts": [
         "childhood-exanthems"
-      ]
+      ],
+      "approach": {
+        "k": "3 個月男嬰臉與身上**水泡樣丘疹**、無發燒",
+        "t": "**2 週前哥哥得水痘**（水痘潛伏期 10–21 天）",
+        "x": "玫瑰疹不是水泡；媽媽帶狀疱疹 5 天前，時間太短；手足口症潛伏期 3–6 天，3 週太久"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -72369,7 +72374,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲 40°C 扁桃腺炎、退燒衛教、選**最不適當**",
+        "t": "發燒是下視丘**設定點上調**，**不是**散熱不良",
+        "x": "可用 ibuprofen、溫水拭浴無法降溫、退燒藥不改變病程，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -72411,7 +72421,12 @@
       "concepts": [
         "simple-febrile-seizure-definition",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "單純型熱性痙攣、選**最不適當**",
+        "t": "單純型 **<15 分鐘**；超過 15 分鐘或重積是**複雜型**",
+        "x": "6–60 個月好發、家族史較高、24 小時內只一次，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -72449,7 +72464,12 @@
       "C": "本項應選。抽動嚴重度多在兒童後期或青春期前後達高峰，許多人進入成年後會改善，而非越來越明顯。",
       "D": "本項不選。OCD 也常與 Tourette syndrome 共病。強迫意念與儀式行為可能比抽動更影響生活功能。",
       "summary": "妥瑞症是動作加聲音抽動超過一年，常和 ADHD、OCD 一起出現。多數人在成年前後改善，不是一路惡化。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "妥瑞症、選**最不適當**",
+        "t": "多數在進入成年期**改善**，不是越來越明顯",
+        "x": "動作加聲音抽動超過一年、合併 ADHD、合併 OCD，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -72487,7 +72507,12 @@
       "C": "本項不選。先天性 hypothyroidism 會使骨成熟延遲，前囟門可能較大、關閉較晚，而非提早關閉。",
       "D": "本項不選。hydrocephalus 增加顱內壓與頭圍，常造成前囟門膨出或寬大，不會是早期關閉。",
       "summary": "前囟門早關要想顱縫先黏住。前囟門變大或晚關反而想 hydrocephalus、甲低或 achondroplasia。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "前囟門**早期關閉**",
+        "t": "**顱縫早閉**",
+        "x": "軟骨發育不全、甲狀腺低下、水腦都是前囟大或晚關"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -72520,7 +72545,12 @@
       "C": "本項不選。尚未會走的嬰兒在大腿內側出現瘀傷並非典型意外受傷位置，應提高對非意外創傷的警覺。",
       "D": "本項應選。嬰兒頭部血腫合併嗜睡、餵食下降與可疑瘀傷，必須把 abusive head trauma 納入鑑別並立即評估安全與顱內傷害。",
       "summary": "不會移動的嬰兒出現瘀傷或頭傷不是「自己撞到」。頭部症狀加異常瘀傷，要立刻想到受虐性腦傷。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "3 個月寶寶頭頂血腫、**奶量減少、嗜睡**",
+        "t": "**受虐性腦傷**應列入鑑別",
+        "x": "3 個月不會自己移動，日常活動不會造成頭傷；初步檢查是**CT** 不是 MRI；大腿內側瘀傷是**可疑**部位"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -72558,7 +72588,12 @@
       "C": "本項不選。粒線體疾病常見 mtDNA point mutation 或 deletion，也可由核基因變異影響粒線體功能。",
       "D": "本項應選。每個人都會從母親取得正常 mtDNA，但不是每個人都帶有致病性粒線體基因變異。是否發病還受 heteroplasmy 影響。",
       "summary": "粒線體遺傳記成「母親傳給所有孩子，只有女兒再往下傳」。拿到母親的 mtDNA 不等於一定拿到致病變異。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "粒線體遺傳、選**最不適當**",
+        "t": "一般人**不會**都帶有母親遺傳的致病粒線體變異",
+        "x": "母系遺傳、男女都會發病、變異以缺失或點突變為主，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74190,7 +74225,12 @@
       "C": "本項不選。SCFE 的核心是 growth plate 在負重與生長期變得脆弱後滑移，不是股骨頭本身壞死。仍需影像確認本題病灶。",
       "D": "本項應選。X 光上左側股骨頭相對於股骨頸往後下方滑移，沿股骨頸上緣畫的 Klein 線切不到股骨頭，就是股骨頭骨骺滑脫症。它不能保守治療——滑脫會持續進展並增加股骨頭壞死的風險，標準做法是盡快用原位螺絲固定，而且要追蹤對側，因為雙側發生率可達四成。",
       "summary": "青少年跛行與髖痛、X 光若見生長板滑移要想 SCFE。這是要限重與固定的急症，不是單靠保守治療。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "髖痛跛行、X 光（股骨頭滑脫）、選**錯誤**",
+        "t": "**SCFE** 要**手術固定**（原位螺釘），不能保守治療",
+        "x": "好發青少年、病灶在股骨頭、生長板受損，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -84655,7 +84695,12 @@
       "guideline": null,
       "concepts": [
         "newborn-exam-routine-care"
-      ]
+      ],
+      "approach": {
+        "k": "出生 3000 g、**最可能異常**",
+        "t": "3 天大 **2600 g** = 掉了 **13%**（>10% 異常）",
+        "x": "5 天 2800（掉 7%）、1 個月 4000、2 個月 4900 都正常"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84696,7 +84741,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-jaundice"
-      ]
+      ],
+      "approach": {
+        "k": "7 天體重 3150（接近出生 3200）、膽紅素 12、大便正常、活力佳",
+        "t": "生理性與母乳性黃疸範圍 → **持續追蹤觀察**",
+        "x": "糞便正常不需超音波；12 不到照光標準；**不需停母乳**"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84737,7 +84787,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
-      ]
+      ],
+      "approach": {
+        "k": "早產兒呼吸暫停定義、選**最不適當**",
+        "t": "定義是停 **≥20 秒**，或較短但合併心跳慢、發紺",
+        "x": "可伴心搏過緩、可伴發紺、多屬混合型，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84778,7 +84833,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒初始步驟後、呼吸窘迫、心跳 **50**",
+        "t": "**正壓換氣**（新生兒復甦以通氣為首）",
+        "x": "PPV 30 秒後仍 <60 才胸外按壓；之後才 epinephrine；面罩給氧不夠"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84819,7 +84879,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-gi-obstruction-nec"
-      ]
+      ],
+      "approach": {
+        "k": "NEC、選**最不適當**",
+        "t": "NEC 多在出生後 **2–3 週**（越早產越晚），不是一週內",
+        "x": "最常見致命腸胃急症、三大危險因子、臨床表現，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84857,7 +84922,12 @@
       "C": "本項應選。infective endocarditis prophylaxis 只給高風險心臟病，例如人工瓣膜、既往心內膜炎或特定未修補發紺病。不是所有先天性心臟病都要。",
       "D": "本項不選。發紺性心臟病的脫水會增加血液黏稠與血栓風險，缺鐵也可能加重相對紅血球增多，因此需特別預防。",
       "summary": "先天性心臟病大多能正常打疫苗。牙科抗生素預防則是少數高風險病人的例外，不能見 CHD 就全給。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "先天性心臟病照顧原則、選**最不適當**",
+        "t": "牙科前**只有高風險族群**需要心內膜炎預防，不是所有 CHD",
+        "x": "常規疫苗與流感疫苗都可打、RSV 單株抗體、發紺型注意脫水與缺鐵，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84893,7 +84963,12 @@
       "guideline": null,
       "concepts": [
         "ductal-dependent-chd"
-      ]
+      ],
+      "approach": {
+        "k": "使用 PGE1 **最沒幫助**",
+        "t": "**阻塞型上心臟 TAPVR**：問題是肺靜脈出口阻塞，開導管沒用（甚至加重肺水腫）",
+        "x": "主動脈窄縮、三尖瓣閉鎖、危急型肺動脈瓣狹窄都是導管依賴"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84934,7 +85009,12 @@
       "guideline": null,
       "concepts": [
         "ductal-dependent-chd"
-      ]
+      ],
+      "approach": {
+        "k": "**下肢**血氧比上肢低 10%、**最不可能**",
+        "t": "**輕中度肺動脈瓣狹窄**不會造成上下肢差異",
+        "x": "HLHS、主動脈弓中斷靠 PDA 供應下半身；TGA 也可有差異"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -84975,7 +85055,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-gi-obstruction-nec"
-      ]
+      ],
+      "approach": {
+        "k": "先天性巨結腸症、選**最適當**",
+        "t": "**腹脹**最常見，也可有嘔吐、生長不良、腹瀉（腸炎）",
+        "x": "缺神經節細胞的是**狹窄段**，不是脹大的段；早產兒胎便延遲**不能**直接診斷；可**一期**手術"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85016,7 +85101,12 @@
       "guideline": null,
       "concepts": [
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "12 歲肥胖、上腹痛背痛、lipase 5 倍、胰臟腫大、選**最不適當**",
+        "t": "**不應常規**給預防性抗生素",
+        "x": "止痛、積極輸液、止吐後早期進食，都適當"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85049,7 +85139,12 @@
       "C": "本項不選。HCV 可垂直感染，但傳播率通常低於未預防的 HBV。目前也沒有像 HBV 一樣成熟的出生後疫苗加免疫球蛋白阻斷策略。",
       "D": "本項不選。HEV 以糞口傳播為主，特定地區妊娠感染可嚴重，但不是兒科常考的最主要垂直感染病毒。",
       "summary": "垂直肝炎病毒先抓 HBV：分娩時可傳、嬰兒易慢性化，所以出生後要立即做疫苗與 HBIG 預防。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "最容易**垂直感染**的肝炎病毒",
+        "t": "**B 型**",
+        "x": "A、E 型糞口傳染；C 型垂直傳染率低（約 5%）"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85090,7 +85185,12 @@
       "guideline": null,
       "concepts": [
         "hyperkalemia-causes-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**引起高血鉀",
+        "t": "**furosemide** 會**排鉀**",
+        "x": "腎衰竭、橫紋肌溶解、cyclosporine 都會高血鉀"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85131,7 +85231,12 @@
       "guideline": null,
       "concepts": [
         "polyuria-di-siadh"
-      ]
+      ],
+      "approach": {
+        "k": "先天性腎源性尿崩症、選**最不適當**",
+        "t": "大多數是 **AVPR2**（X 性聯）突變，不是 AQP2",
+        "x": "X 性聯隱性最常見、限制鈉、用 thiazide，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85173,7 +85278,12 @@
       "concepts": [
         "hyperkalemia-causes-treatment",
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "兒童 AKI 處置、選**最不適當**",
+        "t": "**不需積極**補 NaHCO₃ 到正常範圍（嚴重酸中毒才補）",
+        "x": "高血鉀心電圖、鈣穩定心肌不降鉀、利尿劑無反應停用並限水，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85211,7 +85321,12 @@
       "C": "本項不選。大多數 SLE 患者 ANA 陽性，所以 ANA 對排除 SLE 的敏感度高。真正 ANA-negative SLE 很少見。",
       "D": "本項不選。ANA titer 可隨時間波動，但通常不適合拿來追蹤 SLE activity。疾病活性較看症狀、補體與 anti-dsDNA 等資料。",
       "summary": "ANA 是敏感但不夠特異的篩檢線索：高滴度比較可疑，陰性較能幫忙排除 SLE，卻不能拿滴度當活動度計。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ANA 陽性、選**最不適當**",
+        "t": "正常人約 **5–30%** ANA 陽性，特異度並不高",
+        "x": "滴度越高越可能、SLE 95% 以上陽性、滴度與活性無關，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85249,7 +85364,12 @@
       "C": "本項不選。SLE 明顯好發於女性，尤其青春期後與育齡期，反映性荷爾蒙與免疫調節的影響。",
       "D": "本項應選。SLE 的血液侵犯常造成 immune-mediated cytopenia。例子包括 leukopenia、lymphopenia 或 thrombocytopenia。它不是白血球與血小板上升。",
       "summary": "SLE 的腎炎是免疫複合體沉積，血液表現常是細胞被免疫破壞而下降。看到血球上升要先想別的原因。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "SLE、選**最不適當**",
+        "t": "SLE 是白血球與血小板**下降**",
+        "x": "免疫複合體沉積、慢性發炎、好發女性，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85290,7 +85410,12 @@
       "guideline": null,
       "concepts": [
         "eczema-psoriasis-seborrheic"
-      ]
+      ],
+      "approach": {
+        "k": "嬰兒異位性皮膚炎、選**最不適當**",
+        "t": "多在**出生後 2–6 個月**才出現，不是出生即有",
+        "x": "長大易氣喘鼻炎、好發兩頰頭皮伸側、家族史與高 IgE 預後差，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85331,7 +85456,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "ALL **預後不佳**的分子變化",
+        "t": "**KMT2A(MLL)-AF4、t(4;11)**",
+        "x": "ETV6-RUNX1、hyperdiploidy 預後好；TLX1 是 T-ALL 較好的類型"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85369,7 +85499,12 @@
       "C": "本項不選。家族性視網膜母細胞瘤帶 RB1 生殖細胞突變，日後骨肉瘤等第二原發腫瘤風險上升，做過放療更高。",
       "D": "本項不選。Li-Fraumeni 症候群與 TP53 變異有關，腫瘤包括肉瘤、早發乳癌、腎上腺皮質癌與腦瘤。",
       "summary": "NF1 配視神經膠質瘤，NF2 配雙側聽神經瘤，別配錯。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "癌症易感症候群配對、選**最不適當**",
+        "t": "視神經膠質瘤是 **NF1**；NF2 是**雙側聽神經瘤**",
+        "x": "NF1 惡性神經鞘瘤、家族性視網膜母細胞瘤骨肉瘤、Li-Fraumeni 肉瘤乳癌，三組都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85410,7 +85545,12 @@
       "guideline": null,
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "G6PD 男童吃蠶豆酥後深色尿、黃疸、Hb 7.5",
+        "t": "抹片可見 **bite cell**",
+        "x": "G6PD 是 **X 性聯**；溶血是 **Coombs 陰性**；**aspirin 要避免**"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85448,7 +85588,12 @@
       "C": "本項不選。意識清醒且仍能有效咳嗽的兒童，應鼓勵持續咳出異物並密切觀察，不要急著施作壓迫法。",
       "D": "本項不選。嬰兒使用 5 次拍背與 5 次壓胸。大於 1 歲的兒童可使用 abdominal thrusts（Heimlich maneuver）處理嚴重阻塞。",
       "summary": "異物急救先看能不能有效咳：能咳就鼓勵咳。看不到異物絕不盲挖，嬰兒拍背壓胸、幼兒才腹部壓迫。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童異物阻塞、選**最不適當**",
+        "t": "**看不到異物不可盲挖**（會推更深）",
+        "x": "可有喘鳴、清醒鼓勵咳、<1 歲拍背壓胸 >1 歲哈姆立克，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85481,7 +85626,12 @@
       "C": "本項不選。四肢溫暖且沒有 mottling 表示周邊灌流相對良好。低灌流常見冰冷、斑駁或脈搏變弱。",
       "D": "本項不選。capillary refill time 1.5 秒屬正常。延長到超過 2–3 秒才支持周邊灌流不足。",
       "summary": "兒童休克先快的是心跳，不一定先掉血壓。安靜 2 歲兒心跳 160 要當成早期低灌流警訊。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "2 歲安靜時、**組織灌流不足**的現象",
+        "t": "心跳 **160**（安靜時太快）",
+        "x": "RR 20–30、四肢溫暖、CRT 1.5 秒都正常"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85522,7 +85672,12 @@
       "guideline": null,
       "concepts": [
         "turner-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "生長激素適應症、**不包括**",
+        "t": "**DiGeorge 症候群**",
+        "x": "Turner、SHOX 異常、Prader-Willi 都是適應症"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85563,7 +85718,12 @@
       "guideline": null,
       "concepts": [
         "cah-enzyme-deficiencies"
-      ]
+      ],
+      "approach": {
+        "k": "失鹽型 CAH 急性發病、**最不符合**",
+        "t": "失鹽型是**高血鉀**，不是低血鉀",
+        "x": "代謝性酸中毒、低血鈉、低血糖都符合"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85604,7 +85764,12 @@
       "guideline": null,
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "12 歲甲狀腺腫、甲狀腺與**後眼眶**組織淋巴球漿細胞浸潤",
+        "t": "**Graves disease**（眼眶浸潤）",
+        "x": "Hashimoto 沒有眼眶病變；毒性多結節性甲狀腺腫無眼病；急性甲狀腺炎是細菌感染"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85645,7 +85810,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 個月川崎病、打 IVIG 2 g/kg、選**最不適當**",
+        "t": "IVIG 後活性疫苗延後 **11 個月**：12 個月大水痘需延後，但 15 個月的日本腦炎已過 11 個月，**不需**延後",
+        "x": "皮膚黏膜淋巴結症候群、退燒後低劑量 aspirin、心臟超音波看冠狀動脈，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85683,7 +85853,12 @@
       "C": "本項不選。台灣現行的日本腦炎活性減毒疫苗從「滿 15 個月」才開始接種，10 個月大還不到時程。",
       "D": "本項不選。9-valent HPV vaccine 的常規接種年齡為青春期前後，10 個月嬰兒尚未到適用年齡。",
       "summary": "10 個月能接的是 6 個月以上即可用的去活化流感疫苗。23 價肺炎鏈球菌與 HPV 都不是嬰兒常規時點。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "適合 **10 個月**接種的疫苗",
+        "t": "**四價去活化流感疫苗**（滿 6 個月即可）",
+        "x": "23 價多醣疫苗要 ≥2 歲；活性日本腦炎 15 個月；HPV 是青少年"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85720,7 +85895,12 @@
       "concepts": [
         "childhood-exanthems",
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "13 個月發燒、咳嗽、鼻水、結膜充血、之後紅疹、**最沒幫助**",
+        "t": "驗 **IgE** 對鑑別麻疹、川崎病、菌血症沒有幫助",
+        "x": "疫苗接觸旅遊史、心臟超音波、血液培養都有幫助"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85753,7 +85933,12 @@
       "C": "本項不選。congenital myasthenic syndrome 會造成易疲乏、眼瞼下垂或呼吸餵食問題，但家族史與神經發展表現不如粒線體疾病吻合。",
       "D": "本項應選。Leigh syndrome 是粒線體能量代謝疾病，嬰兒可有 hypotonia、餵食困難與發展退步。外婆家多位男女親屬受影響支持 maternal inheritance。",
       "summary": "嬰兒低張、餵食差又有外婆家跨世代男女親屬受影響，要把家系圖讀成母系遺傳，想到 Leigh 等粒線體疾病。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "8 個月不會翻身、低張力、互動差、**母系親屬**多人早夭與智能不足",
+        "t": "**Leigh 症候群**（粒線體母系遺傳）",
+        "x": "PWS 是父源印記不會這種家族史；Duchenne 是 X 性聯、嬰兒期少表現；先天肌無力症候群無智能問題"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85794,7 +85979,12 @@
       "guideline": null,
       "concepts": [
         "developmental-milestones"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲發展遲緩**警訊**",
+        "t": "**不會揮手再見**（約 9–12 個月應會）",
+        "x": "單腳站、騎三輪車、畫圓約 3 歲才會"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85827,7 +86017,12 @@
       "C": "本項不選。learning disability 常在學齡期特定讀寫或計算能力落後時辨識，不能解釋 3 歲已明顯的眼神迴避與刻板玩法。",
       "D": "本項應選。語言主動表達不足、眼神互動差與反覆玩車輪、迷戀旋轉物，符合 autism spectrum disorder 的社交溝通缺損與限制重複行為。",
       "summary": "自閉症不是只看晚說話。晚說話加眼神互動差與重複侷限玩法，才是社交溝通與行為兩大核心一起出現。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "3 歲粗動作正常、**不會說話**、**眼神迴避**、**重複玩車與看旋轉物**",
+        "t": "**自閉症類群障礙症**",
+        "x": "Rett 只發生女孩且有退化；ADHD 沒有社交溝通核心缺陷；學習障礙在學齡才看得出來"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85868,7 +86063,12 @@
       "guideline": null,
       "concepts": [
         "childhood-exanthems"
-      ]
+      ],
+      "approach": {
+        "k": "醫師**沒得過水痘也沒打疫苗**、無防護接觸水痘病童、3 天後確診",
+        "t": "暴露後 **3–5 天內**接種水痘疫苗",
+        "x": "不是等症狀才吃藥；健康成人不常規預防性抗病毒；在家隔離一週不夠也不是首要處置"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -85901,7 +86101,12 @@
       "C": "本項應選。扁平枕骨是唐氏症的特徵；愛德華氏症反而是枕骨突出。",
       "D": "本項不選。搖椅狀足是 18 三染色體常見的肢體特徵。",
       "summary": "愛德華氏症枕骨突出，唐氏症枕骨扁平。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是** Edwards syndrome 常見表徵",
+        "t": "Edwards 是**枕骨突出**；**扁平枕骨**是唐氏症",
+        "x": "小頭、小下巴、搖椅腳都是 trisomy 18 表徵"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87628,7 +87833,12 @@
       "C": "本項不選。AHT 多見於嬰幼兒，特別是未滿 1 歲且無法自行移動者。3 歲以下仍是高風險年齡群。",
       "D": "本項應選。正常照顧中在成人膝上輕晃或拋接，不能等同施暴造成的反覆劇烈加減速傷害。這種說法會誤導家長與模糊虐待辨識。",
       "summary": "受虐性腦傷是施暴造成的劇烈加減速與可能撞擊，不要把正常互動誤說成同樣危險。懷疑時仍要完整評估眼底與影像。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "受虐性腦傷、選**錯誤**",
+        "t": "一般在膝上晃動或拋起的遊戲**不會**造成搖晃症候群腦傷",
+        "x": "舊稱 shaken baby、視網膜出血是重要依據、多發生於 3 歲以下，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -98050,7 +98260,12 @@
       "guideline": null,
       "concepts": [
         "developmental-milestones"
-      ]
+      ],
+      "approach": {
+        "k": "1 歲半、**最可能**發展遲緩",
+        "t": "**只會說 2 個有意義的單字**（18 個月應有約 10 個以上）",
+        "x": "說身體部位、顏色、指認動物是較晚的技巧"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98083,7 +98298,12 @@
       "C": "本項不選。全血或含抗體的血液製品可能削弱活疫苗反應，需留意間隔。洗滌紅血球移除大部分血漿抗體，影響較小。",
       "D": "本項不選。一般 IMIG 或 HBIG 的抗體量較低，活性減毒疫苗的延後時間較 IVIG 短。本題所列 3 個月為常用建議。",
       "summary": "活疫苗怕的是外來抗體先把疫苗病毒中和：高劑量 IVIG 要延很久。palivizumab 不是免疫球蛋白，別把它套進等待表。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "血液製劑後與活性疫苗間隔、選**最不適當**",
+        "t": "**palivizumab** 是單株抗體，**不需要**間隔",
+        "x": "高劑量 IVIG 11 個月、輸血 6 個月（洗滌紅血球不用）、肌注免疫球蛋白與 HBIG 3 個月，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98124,7 +98344,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
-      ]
+      ],
+      "approach": {
+        "k": "胎便吸入、選**最適當**",
+        "t": "胎便吸入症候群會增加**新生兒持續性肺高壓**",
+        "x": "胎便染色多見**過期產**；只有約 **5–10%** 發展成症候群；部分阻塞造成空氣滯留，**氣胸增加**"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98165,7 +98390,12 @@
       "guideline": null,
       "concepts": [
         "newborn-exam-routine-care"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒常規照護、選**最不適當**",
+        "t": "Ortolani 是把脫臼的髖**復位**（帶回來）；測試會不會滑脫的是 **Barlow**",
+        "x": "肌注維生素 K、tetracycline 眼藥膏、呼吸 30–60 次，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98201,7 +98431,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病母親的嬰兒、選**最不適當**",
+        "t": "是**低**血鈣，不是高血鈣",
+        "x": "LGA 產傷、紅血球增多與黃疸、心室中隔肥厚，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98242,7 +98477,12 @@
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "3 個月體重只增約 1 kg、奶量少、有心雜音、**最不可能**",
+        "t": "**5 mm 第二型 ASD** 分流小，嬰兒期很少造成心衰與生長遲滯",
+        "x": "6 mm VSD、完全型 ECD、5 mm PDA 都是大左向右分流，會餵食差長不大"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98283,7 +98523,12 @@
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "PDA、選**最不適當**",
+        "t": "prostaglandin 讓導管**打開**；關閉要用 **indomethacin 或 ibuprofen**",
+        "x": "早產兒常見、脈搏壓寬、左鎖骨下連續性雜音，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98316,7 +98561,12 @@
       "C": "本項不選。內分泌疾病如 hyperthyroidism、Cushing syndrome 或 catecholamine excess 可升壓，但比例低於腎臟原因。",
       "D": "本項不選。中樞神經病變可透過顱內壓升高或自律神經影響血壓，卻不是兒童次發性高血壓最常見的病因。",
       "summary": "小孩高血壓先查腎：腎實質與腎血管疾病是最常見的次發性來源，心臟和內分泌排在後面。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童次發性高血壓最常見原因",
+        "t": "**腎臟**（腎實質與腎血管疾病）",
+        "x": "心血管（主動脈窄縮）、內分泌、中樞神經都較少"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98357,7 +98607,12 @@
       "guideline": "FC 醫學(四)第1冊 p.280",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "肝炎血清學判讀、選**最適當**",
+        "t": "**Anti-HAV IgM** 陽性 = A 型肝炎急性感染",
+        "x": "anti-HBc 陽性表示**自然感染**不是疫苗；anti-HCV 陽性不代表已痊癒（要看 RNA）；anti-HBc IgM 陽性是**急性** B 肝"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98395,7 +98650,12 @@
       "C": "本項不選。食道異物可以完全無症狀，尤其是硬幣或停留時間短的病例；沒有流口水或吞嚥痛不能排除。",
       "D": "本項不選。初步通常拍頸部、胸部及腹部的正側位 X 光，確認異物所在高度、是否有雙環徵象及有無穿孔線索。",
       "summary": "食道鈕扣電池是急症：先取出再談禁食；硬幣雖常見，也可能安靜地卡在食道。",
-      "guideline": "FC 醫學(四)第1冊 p.105"
+      "guideline": "FC 醫學(四)第1冊 p.105",
+      "approach": {
+        "k": "孩童食道異物、選**最不適當**",
+        "t": "食道**鈕扣電池**要**緊急**取出，不等禁食時間",
+        "x": "硬幣最常見、30% 無症狀、先照頸胸腹 X 光，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98438,7 +98698,12 @@
       "guideline": "FC 醫學(四)第1冊 p.131",
       "concepts": [
         "kawasaki-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**合併膽囊水腫（官方 B、C、D 都給分）",
+        "t": "川崎氏症是典型原因；其餘三項都不是最典型",
+        "x": "官方 B、C、D 皆給分"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98479,7 +98744,12 @@
       "guideline": "FC 醫學(四)第1冊 p.203",
       "concepts": [
         "nocturnal-enuresis"
-      ]
+      ],
+      "approach": {
+        "k": "兒童夜尿、選**最不適當**",
+        "t": "診斷定義是 **5 歲以上**仍有夜間尿床",
+        "x": "男多於女、要排除其他原因、有家族遺傳傾向，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98517,7 +98787,12 @@
       "C": "本項應選。類固醇可用於嚴重腹痛、關節症狀或特定腎炎治療，但早期給藥不能可靠預防日後腎炎或保證減輕其嚴重度。",
       "D": "本項不選。多數腎臟侵犯先是血尿，蛋白尿很少或沒有，常可自行緩解；但仍要追蹤尿液與血壓，因少數患者會惡化。",
       "summary": "IgA 血管炎腎炎最常先留血尿，不能用早期類固醇當預防腎炎；真正要緊的是規律追蹤尿與血壓。",
-      "guideline": "FC 醫學(四)第1冊 p.176"
+      "guideline": "FC 醫學(四)第1冊 p.176",
+      "approach": {
+        "k": "紫斑性腎炎、選**最不適當**",
+        "t": "紫斑初期用類固醇**不能預防**腎炎",
+        "x": "切片適應症、約一半侵犯腎臟且病理同 IgA 腎病、多為血尿輕度蛋白尿可自癒，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98559,7 +98834,12 @@
       "concepts": [
         "glomerular-disease-patterns",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "10 歲血尿、舅舅洗腎、**雙側聽損**、**前圓錐晶狀體**",
+        "t": "**Alport 症候群**（第四型膠原，X 性聯）",
+        "x": "IgA 腎病沒有耳眼；薄基底膜病不會進展洗腎；FSGS 是蛋白尿"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98595,7 +98875,12 @@
       "guideline": null,
       "concepts": [
         "eczema-psoriasis-seborrheic"
-      ]
+      ],
+      "approach": {
+        "k": "異位性皮膚炎**最少**出現的表徵",
+        "t": "**風疹塊**是蕁麻疹",
+        "x": "搔癢、脫屑、苔癬化都常見"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98633,7 +98918,12 @@
       "C": "本項應選。抗 dsDNA 對 SLE 很特異，濃度上升常和疾病活動與狼瘡腎炎相關；仍要搭配尿液、補體與臨床判讀。",
       "D": "本項不選。抗 Sm 對 SLE 最特異，但敏感度低，濃度也不像抗 dsDNA 能反映腎炎活動。",
       "summary": "抗 Sm 幫你確診 SLE，抗 dsDNA 跟著腎炎活動度上下。",
-      "guideline": "FC 醫學(四)第1冊 p.442"
+      "guideline": "FC 醫學(四)第1冊 p.442",
+      "approach": {
+        "k": "SLE 特異抗體、與**活性與腎炎**最相關",
+        "t": "**anti-dsDNA**",
+        "x": "anti-SSA/SSB 是乾燥症與新生兒狼瘡；anti-centromere 是 CREST；anti-Sm 特異但與活性無關"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98675,7 +98965,12 @@
       "guideline": "FC 醫學(四)第1冊 p.443",
       "concepts": [
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "JIA、選**最不適當**（官方 C、D 都給分）",
+        "t": "少關節型定義是前 6 個月 **≤4** 個關節（不是 6 週內 ≤5）；分類敘述因版本有爭議",
+        "x": "<16 歲發病、症狀 ≥6 週，這兩句對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98717,7 +99012,12 @@
       "guideline": "FC 醫學(四)第1冊 p.503",
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "兒童骨腫瘤、選**最不適當**（官方 C、D 都給分）",
+        "t": "Ewing 肉瘤好發**骨幹**（diaphysis）；10 歲以下 Ewing 與骨肉瘤的比較說法有爭議",
+        "x": "骨肉瘤好發快速生長期、RB1 突變增加骨肉瘤，這兩句對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98758,7 +99058,12 @@
       "guideline": "FC 醫學(四)第1冊 p.500",
       "concepts": [
         "pediatric-solid-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童癌症與症狀、選**最不適當**",
+        "t": "血尿、高血壓是 **Wilms 腫瘤**；肝母細胞瘤是腹部腫塊加 AFP 高",
+        "x": "白血病蒼白瘀青發燒、神經母細胞瘤骨痛浣熊眼、視網膜母細胞瘤白瞳斜視，三組都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98799,7 +99104,12 @@
       "guideline": "FC 醫學(四)第1冊 p.501",
       "concepts": [
         "pediatric-solid-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童癌症與檢查配對、選**最不適當**",
+        "t": "肝母細胞瘤看 **AFP**，不是 hCG",
+        "x": "生殖細胞瘤 AFP、神經母細胞瘤尿 VMA、ALL 骨髓染色體，三組都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98832,7 +99142,12 @@
       "C": "本項應選。休克會優先把血流保留給心腦，腸道灌流下降，因此腸音常減弱、蠕動變慢而非增快。",
       "D": "本項不選。腎臟灌流不足會啟動保水反應，尿量下降是兒童休克常用的器官灌流指標。",
       "summary": "休克會省血給心腦：皮膚花、尿變少、腸子也慢下來；腸蠕動增快反而不合理。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "2 歲發燒 4 天、血壓 65/35、心跳 165（休克）、**最不可能**",
+        "t": "休克時腸道血流減少，蠕動**變慢**，不是增快",
+        "x": "皮膚網狀紋、呼吸暫停、尿量減少都可能"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98873,7 +99188,12 @@
       "guideline": "FC 醫學(四)第1冊 p.568",
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
-      ]
+      ],
+      "approach": {
+        "k": "兒童呼吸治療原則、選**最適當**",
+        "t": "放氣管內管可**優先用有氣囊**的管子（監測氣囊壓）",
+        "x": "應**先**非侵入性；呼吸器**需要**加溫加濕；**不是**都要用肌鬆劑"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98906,7 +99226,12 @@
       "C": "本項敘述正確。塌陷肺泡仍可能有灌流卻幾乎沒有通氣，形成 ventilation-perfusion mismatch，因而出現低血氧。",
       "D": "本項不選。若進展為 tension pneumothorax，縱膈與氣管會被推向對側；向同側偏移不合理。",
       "summary": "氣胸低氧的核心是有血流卻沒通氣的 V/Q mismatch；變成 tension 時，氣管被推到對側。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "打籃球碰撞後氣胸、SpO₂ 88%",
+        "t": "低血氧來自**通氣灌流不配合**（V/Q mismatch）",
+        "x": "Cheyne-Stokes 是中樞或心衰；胸痛**不一定**與塌陷程度成正比；張力性氣胸氣管偏向**對側**"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98947,7 +99272,12 @@
       "guideline": "FC 醫學(四)第1冊 p.377",
       "concepts": [
         "cah-enzyme-deficiencies"
-      ]
+      ],
+      "approach": {
+        "k": "CAH、選**最適當**",
+        "t": "CAH 是 **46,XX** 女嬰性發展障礙**最常見**原因",
+        "x": "21-羥化酶缺乏最常見但**不是唯一**；失鹽危象多在 **1–3 週**，不一定 72 小時內；不建議第一胎常規產前診斷"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -98985,7 +99315,12 @@
       "C": "本項不選。兒童期肥胖常延續至成人，與 insulin resistance、脂肪肝、高血壓及代謝症候群風險上升有關。",
       "D": "本項應選。肥胖雖伴低度慢性發炎，治療核心仍是營養、活動、睡眠與必要時體重管理藥物；不以一般抗發炎藥物治療。",
       "summary": "兒童 BMI ≥95th percentile 是肥胖；發炎是肥胖的後果之一，不是開抗發炎藥的理由。",
-      "guideline": "FC 醫學(四)第1冊 p.403"
+      "guideline": "FC 醫學(四)第1冊 p.403",
+      "approach": {
+        "k": "兒童青少年肥胖、選**最不適當**",
+        "t": "肥胖雖有慢性發炎，但**不用**抗發炎藥治療",
+        "x": "BMI ≥95 百分位肥胖、85–95 過重、成人易代謝症候群，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99027,7 +99362,12 @@
       "concepts": [
         "childhood-exanthems",
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "1 歲高燒 3 天、**退燒後出疹**、選**最不適當**",
+        "t": "病原是 **HHV-6**（與 7），不是 HHV-8",
+        "x": "玫瑰疹、自限性、Nagayama spots，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99069,7 +99409,12 @@
       "guideline": "FC 醫學(四)第1冊 p.220",
       "concepts": [
         "croup-vs-epiglottitis"
-      ]
+      ],
+      "approach": {
+        "k": "最能減輕哮吼症狀（官方 B、D 都給分）",
+        "t": "**類固醇**（減輕聲門下水腫）；嚴重時用霧化 epinephrine（擴張劑類）",
+        "x": "化痰藥、抗生素沒有效果"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99110,7 +99455,12 @@
       "guideline": "FC 醫學(四)第1冊 p.257",
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲發燒、咽痛、頸淋巴結腫、扁桃腺滲出、**脾腫大**、ALT 升高",
+        "t": "驗 **EBV VCA-IgM**（傳染性單核球增多症）",
+        "x": "ASLO 是鏈球菌感染後；HAV IgM 不能解釋咽炎與脾腫；肺炎鏈球菌尿抗原與此無關"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99151,7 +99501,12 @@
       "guideline": "FC 醫學(四)第1冊 p.314",
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "腦性麻痺危險因子、選**最不適當**",
+        "t": "**大部分**腦性麻痺**不是**產程窒息造成（多在產前或早產相關）",
+        "x": "全球盛行率稍升、未開發國家生產併發症比例較高、雙胞胎風險高，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99192,7 +99547,12 @@
       "guideline": "FC 醫學(四)第1冊 p.352",
       "concepts": [
         "newborn-exam-routine-care"
-      ]
+      ],
+      "approach": {
+        "k": "薦尾凹陷、**可先觀察**的特徵",
+        "t": "凹陷**距肛門 1.5 cm**（<2.5 cm、孤立的簡單凹陷）",
+        "x": "皮膚發育不全、凹陷處長毛髮、合併血管瘤都要做 MRI"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99233,7 +99593,12 @@
       "guideline": "FC 醫學(四)第1冊 p.332",
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "Dravet 症候群、選**最不適當**",
+        "t": "致病基因主要是 **SCN1A**，不是 CDKL5",
+        "x": "低燒就抽、發作年齡比熱性痙攣小、初期可局部熱性痙攣重積，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99276,7 +99641,12 @@
       "concepts": [
         "shock-hemodynamic-profiles",
         "shock-initial-approach"
-      ]
+      ],
+      "approach": {
+        "k": "休克、選**最適當**（官方 A、C 都給分）",
+        "t": "**心搏過速**是早期表現；兒童**低血壓**通常較晚（題目爭議，官方兩者都給分）",
+        "x": "張力性氣胸是**阻塞性**；過敏是**分布性**"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -99314,7 +99684,12 @@
       "C": "本項不選。GBA1 相關的 acid β-glucosidase 缺乏，使 glucocerebroside 堆積於巨噬細胞，形成 Gaucher cells。",
       "D": "本項不選。enzyme replacement therapy 可改善貧血、血小板低下、肝脾腫大與骨病；骨髓移植是少用的替代策略。",
       "summary": "Gaucher type 1 的重點是非神經病變型：β-glucosidase 缺乏、巨噬細胞堆脂，主要治療是 enzyme replacement。",
-      "guideline": "FC 醫學(四)第1冊 p.549"
+      "guideline": "FC 醫學(四)第1冊 p.549",
+      "approach": {
+        "k": "Gaucher type 1、選**最不適當**",
+        "t": "Type 1 是**非神經病變型**，不會快速神經退化",
+        "x": "猶太人最多、β-glucosidase 缺乏、酵素替代與骨髓移植，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100987,7 +101362,12 @@
       "C": "本項敘述正確。兒童無移位骨折早期可能因生長板與未完全骨化而不清楚，約一週後隨吸收邊緣或 callus 出現才更明顯。",
       "D": "本項不選。骨釘旁低密度透亮區可能代表鬆動或感染，不應一概只觀察，須結合疼痛、固定穩定性與影像追蹤。",
       "summary": "兒童肘部外傷 X 光看不清，不等於沒骨折：fat pad sign 或一週後變清楚都在提醒隱匿性骨折。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肘關節附近骨折 X 光、選**最適當**",
+        "t": "無位移骨折在**一週後**（骨吸收）可能比較明顯",
+        "x": "前脂肪墊移位就要懷疑骨折，**不能**排除；一週時是骨折線**變寬變透亮**，不是高密度；骨釘旁低密度可能是鬆脫或感染，不只觀察"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101056,7 +101436,12 @@
       "C": "本項不選。55 mL/hr 低估了 20 kg 以上部分每公斤每小時再加 1 mL 的規則。",
       "D": "本項敘述正確。4-2-1 法：前 10 kg 為 40、第二個 10 kg 為 20、剩下 3 kg 為 3，合計 63 mL/hr，選最接近的 65 mL/hr。",
       "summary": "維持液 4-2-1 要真算：23 kg＝40＋20＋3＝63 mL/hr，所以選 65。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "23 kg 禁食、每小時維持輸液",
+        "t": "4-2-1 法：40 + 20 + 3 = **63 → 約 65 mL/hr**",
+        "x": "35、45、55 都算少了"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -111098,7 +111483,12 @@
       "C": "本項不選。水痘疫苗後仍可能發生突破性感染，但第二劑可提高保護力；未得過水痘者在學齡前補第二劑是合理建議。",
       "D": "本項不選。6–11 個月嬰兒要去麻疹流行地區可提前接種一劑 MMR；這劑不計入常規劑次，滿 1 歲後仍要重打。",
       "summary": "肺炎鏈球菌疫苗別倒過來：幼兒能用的是 PCV；多醣體疫苗才不適合 2 歲以下。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "自費疫苗建議、選**最不適當**",
+        "t": "**結合型**肺炎鏈球菌疫苗**適用**於 2 歲以下；不適用的是**多醣體**疫苗",
+        "x": "青少年補 Tdap、4–6 歲第二劑水痘、6–12 個月出國可先打 MMR，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111134,7 +111524,12 @@
       "guideline": null,
       "concepts": [
         "perinatal-infections-breastfeeding-vaccines"
-      ]
+      ],
+      "approach": {
+        "k": "母乳哺餵、選**最不適當**",
+        "t": "母乳性黃疸多在 **2–3 個月內**消退，不是持續到 6 個月",
+        "x": "減少過敏與心血管病、媽媽乳癌卵巢癌較少、母乳便稀水正常，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111172,7 +111567,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-gi-obstruction-nec"
-      ]
+      ],
+      "approach": {
+        "k": "27 週早產兒餵食 12 天後腹脹、膽汁吐、血便、X 光（NEC）",
+        "t": "**不應**做上消化道攝影",
+        "x": "廣效抗生素、增加輸液、會診外科都適當"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111208,7 +111608,12 @@
       "guideline": null,
       "concepts": [
         "thalassemia-alpha-vs-beta"
-      ]
+      ],
+      "approach": {
+        "k": "**剛出生**就 Hb 9.7、MCV 80（新生兒算小球性）",
+        "t": "**α 型海洋性貧血**（胎兒血紅素也需要 α 鏈）",
+        "x": "缺鐵不會出生就發生；β 型要等 HbF 換成 HbA 後（3–6 個月）才發病；G6PD 是正球性溶血"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111244,7 +111649,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-jaundice"
-      ]
+      ],
+      "approach": {
+        "k": "長期 TPN、40 天後黃疸、**淡黃便**、**直接型**膽紅素高、**最不可能**",
+        "t": "**Gilbert 症候群**是**間接型**",
+        "x": "膽道閉鎖、新生兒肝炎、TPN 膽汁滯留都是直接型"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111277,7 +111687,12 @@
       "C": "本項不選。friction rub 代表心包膜摩擦，提示心肌炎可能合併 pericarditis。",
       "D": "本項應選。兒童心肌炎恢復後不一定留下嚴重後遺症；許多患者可恢復正常心功能，僅少數進展為 dilated cardiomyopathy。",
       "summary": "myocarditis 不等於永久壞心臟：病毒常見、嚴重度差很大，多數恢復者不會留下嚴重後遺症。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童心肌炎、選**最不適當**",
+        "t": "恢復後**大多數不會**留下嚴重後遺症",
+        "x": "病毒最常見、部分輕症、摩擦音代表心包膜受影響，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111313,7 +111728,12 @@
       "guideline": null,
       "concepts": [
         "ductal-dependent-chd"
-      ]
+      ],
+      "approach": {
+        "k": "d-TGA 新生兒處置、選**最不適當**",
+        "t": "插管與否**依呼吸狀況決定**，不必刻意避免",
+        "x": "心房交通受限做心房造口、PGE1 維持導管、儘快動脈轉位手術，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111346,7 +111766,12 @@
       "C": "本項不選。HLHS 常在出生後 ductus 關閉、體循環灌流崩解時危急，非典型胎兒期心衰。",
       "D": "本項敘述正確。嚴重 Ebstein anomaly 的三尖瓣逆流可在胎兒期造成心臟擴大與心衰，甚至 hydrops fetalis。",
       "summary": "分流病的心衰常等出生後肺阻力下降；胎兒期就會心衰，要想到嚴重 Ebstein 的三尖瓣逆流。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "先天性心臟病心衰竭出現時機、選**最適當**",
+        "t": "**Ebstein** 合併嚴重三尖瓣逆流在**胎兒期**就可心衰（水腫）",
+        "x": "大 VSD 要等肺阻力下降（4–8 週）；ASD 很少一歲內心衰；HLHS 胎兒期靠 PDA 撐住，出生後導管關才惡化"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111379,7 +111804,12 @@
       "C": "本項不選。HCV 潛伏期通常數週到數月，不會只有 7 天。",
       "D": "本項不選。HEV 潛伏期多約 2–8 週，90 天不是典型值。",
       "summary": "肝炎潛伏期要抓相對長短：A、E 多是數週；B、C 通常更長，別把 B 壓成 30 天。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肝炎病毒潛伏期、選**最適當**",
+        "t": "**A 型**約 15–50 天，題目以 **15–19 天**為正解",
+        "x": "B 型約 **60–150 天**；C 型約 **6–9 週**；E 型約 **40 天**"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111415,7 +111845,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-jaundice"
-      ]
+      ],
+      "approach": {
+        "k": "出生 **6 小時**就黃疸、最支持**溶血**",
+        "t": "抹片見**紅血球碎片**",
+        "x": "直接型上升不是溶血；Coombs **陰性**不支持免疫溶血；Hct 55% 正常"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111451,7 +111886,12 @@
       "guideline": null,
       "concepts": [
         "diarrhea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲**高燒 40°C**、陣發性腹痛、水瀉後**黏血便**",
+        "t": "**志賀氏桿菌**（侵襲性結腸炎）",
+        "x": "輪狀與諾羅病毒是水瀉無血；困難梭菌要有抗生素使用史"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111484,7 +111924,12 @@
       "C": "本項不選。兩種多囊腎都可能有血尿、高血壓及進展性腎功能受損。",
       "D": "本項應選。最常見 ADPKD 是 PKD1，位於 chromosome 16；chromosome 6 並非多數病例的位置。",
       "summary": "多囊腎要分時機：ARPKD 常在新生兒很兇，ADPKD 多晚發；ADPKD 最常是 chromosome 16 的 PKD1。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ADPKD 與 ARPKD、選**最不適當**",
+        "t": "ADPKD 大多是 **16 號染色體 PKD1**；第 6 號是 **ARPKD**（PKHD1）",
+        "x": "ADPKD 肝脾胰卵巢囊腫、ARPKD 新生兒羊水少肺發育不全、兩者都會血尿高血壓腎衰，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111520,7 +111965,12 @@
       "guideline": null,
       "concepts": [
         "glomerular-disease-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "鏈球菌感染後腎炎、選**最適當**",
+        "t": "早期抗生素治療**無法**減少腎炎發生",
+        "x": "好發 **5–12 歲**；血尿在咽炎後 **1–2 週**（1–3 天是 IgA）；只有 **C3** 下降，C4 正常"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111558,7 +112008,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "5 歲 UTI 抗生素 3 天仍高燒、CT 局部楔形低顯影",
+        "t": "**急性大葉性腎盂腎炎**（acute lobar nephronia）",
+        "x": "腎絲球腎炎不會膿尿高燒；膿瘍有液化與環狀顯影；腎梗塞不會膿尿"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111591,7 +112046,12 @@
       "C": "本項應選。病理是小血管的白血球破碎性血管炎，直接免疫螢光可見血管壁 IgA 沉積。",
       "D": "本項不選。多數病人的腎炎不嚴重；類固醇主要改善腹痛或特定嚴重表現，不能常規預防腎炎。",
       "summary": "血小板正常的下肢可觸性紫斑加 IgA 沉積，就是 HSP（IgA 血管炎）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "HSP、選**最適當**",
+        "t": "病理是**血管炎**加 **IgA 沉積**小血管",
+        "x": "紫斑主要在**下肢與臀部**；血小板**正常**；腎臟多可自癒，類固醇**不能**預防"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111627,7 +112087,12 @@
       "guideline": null,
       "concepts": [
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "JIA、選**最不適當**",
+        "t": "**Omalizumab** 是抗 IgE（氣喘、蕁麻疹），不是 JIA 用藥",
+        "x": "16 歲以下關節炎 ≥6 週、最常見慢性風濕病、追蹤虹彩炎，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111660,7 +112125,12 @@
       "C": "本項不選。沒有與特定暴露一致的病史時，specific IgE 廣泛篩檢通常低價值，不是常規檢測。",
       "D": "本項不選。第 2 代 antihistamine 無效時，依指引可在醫師監測下調高至標準劑量的數倍。",
       "summary": "蕁麻疹超過 6 週才叫慢性；先用第二代抗組織胺，無效可加量，不要先亂做過敏原大篩檢。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "慢性蕁麻疹、選**最適當**",
+        "t": "可能是**自體免疫**（甲狀腺病）的先期表現",
+        "x": "慢性是 **≥6 週**；過敏原 IgE **不是**常規；第二代抗組織胺效果不好**可加至 4 倍**"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111696,7 +112166,12 @@
       "guideline": null,
       "concepts": [
         "newborn-exam-routine-care"
-      ]
+      ],
+      "approach": {
+        "k": "健康足月新生兒血液學、選**最適當**",
+        "t": "**第八因子**接近成人，其他凝血因子都較低",
+        "x": "新生兒 Hb 與 MCV 都**較高**；蛋白 C 與 S **較低**；血小板功能**較差**"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111732,7 +112207,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-solid-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童癌症、選**最不適當**",
+        "t": "大部分兒童癌症是**偶發**，只有約 **8–10%** 與遺傳易感有關",
+        "x": "白血病最常見、B 肝疫苗後兒童肝癌下降、青少年骨癌與何杰金較多，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111770,7 +112250,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-solid-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲發燒、貧血、骨髓見**薔薇狀結構**圍繞纖維物質",
+        "t": "**神經母細胞瘤**（Homer Wright rosette）",
+        "x": "ALL 是均一母細胞；EBV 是非典型淋巴球；Gaucher 是皺紙狀細胞"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111806,7 +112291,12 @@
       "guideline": null,
       "concepts": [
         "shock-initial-approach"
-      ]
+      ],
+      "approach": {
+        "k": "小兒敗血症、選**最適當**",
+        "t": "血行動力學不穩或呼吸窘迫時要**考慮插管**",
+        "x": "敗血症造成**多重**器官失能；是**全身性**發炎；兒童**低血壓是晚期**表現"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111839,7 +112329,12 @@
       "C": "本項不選。chemical pleurodesis 多留給反覆氣胸或無法手術者，不是第一次發作的例行處置。",
       "D": "本項不選。反覆發作會影響 VATS bullectomy 或 pleurodesis 的時機，因此與外科決策有關。",
       "summary": "第一次小而穩定的氣胸可先觀察；反覆或持續漏氣才逐步走向胸管與 VATS/pleurodesis。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童氣胸治療、選**最適當**",
+        "t": "輕中度氣胸有機會**一週內**自行吸收",
+        "x": "<5% 小氣胸**可觀察**；第一次**不需**肋膜黏連；復發次數**會**影響手術時機"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111875,7 +112370,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲手足口、**昏睡、呼吸喘、肌躍抽搐**（腸病毒重症）、選**最不適當**",
+        "t": "**不可**快速大量輸液（會加重肺水腫與心衰）",
+        "x": "肌躍是重症前兆、可能腦幹炎需 CSF、心衰休克用 milrinone，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111911,7 +112411,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "妊娠糖尿病母親、4250 g、4 小時低血糖 39、選**最不適當**",
+        "t": "應在**低血糖當下**先抽 critical sample，**再**給葡萄糖；等血糖 >70 才抽就驗不到原因",
+        "x": "注意低鈣低鎂、心臟超音波看心肌肥厚、注意產傷，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111947,7 +112452,12 @@
       "guideline": null,
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "14 歲**無痛性雙側**甲狀腺腫、心悸、體重減輕、FT4 高、TSH 低",
+        "t": "**Graves disease**",
+        "x": "Hashimoto 多為甲低；乳突癌是結節、甲功正常；亞急性甲狀腺炎會**痛**"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -111985,7 +112495,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "EBV 感染、血小板 20000、選**最不適當**",
+        "t": "EBV **不需要**抗病毒藥物治療",
+        "x": "EBV 感染、抹片是非典型淋巴球、類固醇可用於特定併發症（呼吸道阻塞、嚴重血小板低），三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112018,7 +112533,12 @@
       "C": "本項不選。多數活性減毒疫苗以 1 或 2 劑建立足夠保護，不像某些不活化疫苗需多劑基礎與追加。",
       "D": "本項不選。MMR 第二劑主要補上第一劑未產生免疫者，並非只是在已免疫者身上機械加強。",
       "summary": "活性減毒疫苗通常 1–2 劑就能留下長期免疫；MenB 是重組疫苗，別因名字有「B」就誤認成活疫苗。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "活性減毒疫苗、選**最不適當**",
+        "t": "**B 型腦膜炎雙球菌疫苗**是重組蛋白疫苗，不是活性減毒",
+        "x": "誘發長期免疫、多只需 1–2 劑、MMR 第二劑補第一劑沒反應者，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112051,7 +112571,12 @@
       "C": "本項不選。未滿 1 歲因暴露提前打的 MMR 不算常規劑次，滿 1 歲後仍要完成常規兩劑。",
       "D": "本項不選。若先以 MMR 做暴露後預防，後續活性 MMR 劑次至少相隔 28 天。",
       "summary": "麻疹暴露後預防最怕把時序弄反：IMIG 會干擾 MMR；提前打的嬰兒 MMR 不算常規劑次。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "MMR 與麻疹暴露後預防、選**最不適當**",
+        "t": "打 **IMIG 後要間隔 6 個月**才能打 MMR（抗體會中和），不是 2 週",
+        "x": "72 小時內 6–12 個月可打 MMR 或 IMIG、提前打的仍要按時完成 2 劑、間隔至少 28 天，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112087,7 +112612,12 @@
       "guideline": null,
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "腦性麻痺、選**最不適當**",
+        "t": "新生兒窒息只占**少數**（約 10%），不是 7 成",
+        "x": "早產兒以 PVL 為主、核黃疸造成手足徐動型、可合併癲癇認知語言問題，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112123,7 +112653,12 @@
       "guideline": null,
       "concepts": [
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "兒童頭痛、**最不需要**神經影像",
+        "t": "**家族偏頭痛史**反而支持原發性頭痛",
+        "x": "合併癲癇、咳嗽加劇、從沒經歷過的劇烈頭痛都是紅旗"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112159,7 +112694,12 @@
       "guideline": null,
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Wilson disease、選**最不適當**",
+        "t": "10 歲前發病多以**肝臟**表現為主，不是神經症狀",
+        "x": "ATP7B 13 號染色體隱性、肝衰竭凝血異常、ceruloplasmin 不能單獨確診或排除，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112192,7 +112732,12 @@
       "C": "本項敘述正確。1–10 歲最低收縮壓約 70＋2×年齡 mmHg；10 歲以上以 90 mmHg 為下限，是辨識晚期低血壓的重要門檻。",
       "D": "本項不選。焦點病史與身體檢查屬 primary/secondary assessment 的延伸；tertiary assessment 多用於持續監測與重新評估。",
       "summary": "PAT 先看外觀、呼吸功、皮膚循環；真正 ABC 要馬上救。低血壓下限記 70＋2×年齡，10 歲後 90。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒科急診初步評估、選**最適當**",
+        "t": "收縮壓下限：1 歲以上 **70 + 2 × 年齡**",
+        "x": "PAT 看**外觀、呼吸功、皮膚循環**；危急時**先處理**不必等全部評估完；**焦點式病史與身體診察**屬次級評估"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -112225,7 +112770,12 @@
       "C": "本項不選。重複流產可能涉及染色體平衡轉位等因素，夫妻遺傳評估可釐清部分可遺傳原因。",
       "D": "本項敘述正確。單純確診缺鐵性貧血通常有營養、失血或吸收問題，沒有遺傳異常線索時不需要遺傳諮詢。",
       "summary": "遺傳諮詢看的是可遺傳或染色體風險：高齡、先天異常兒、反覆流產都符合；單純缺鐵性貧血不算。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最不需要**遺傳諮詢",
+        "t": "**缺鐵性貧血**",
+        "x": "≥35 歲孕婦、上一胎先天異常、重複流產都需要"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113810,7 +114360,12 @@
       "C": "本項不選。骨髓炎多有局部疼痛、發燒或單一骨骼破壞；雙側踝關節對稱變形較像全身礦物質代謝問題。",
       "D": "本項敘述正確。早產兒鈣、磷儲存較少，長期靜脈營養補充不足會造成代謝性骨病與佝僂症（rickets）。X 光上兩側膝與踝的幹骺端變寬、邊緣呈杯狀凹陷與毛刷樣毛糙，生長板也變厚，這是佝僂症的典型影像。長期全靜脈營養的早產兒容易缺乏維生素 D、鈣與磷，是代謝性骨病變的高風險族群。",
       "summary": "早產兒加長期靜脈營養又見骨骼變形，先想鈣磷與 vitamin D 不足造成的 rickets。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "4 個月早產兒、**長期靜脈營養**、踝關節變形 X 光",
+        "t": "**佝僂症**（早產兒代謝性骨病）",
+        "x": "壞血症多在 6–24 個月、骨膜下出血；甲亢與骨髓炎不符"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113843,7 +114398,12 @@
       "C": "本項敘述正確。無法出聲代表嚴重阻塞；1 歲以上兒童應以腹部衝擊（Heimlich maneuver）反覆解除阻塞。",
       "D": "本項不選。失去意識後應開始 CPR 並在每次開放氣道時看可見異物；needle cricothyrodotomy 不是一般異物急救的第一步。",
       "summary": "兒童噎住到無法出聲就是完全阻塞：看不到別亂挖，立即做腹部衝擊。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "7 歲異物梗塞**無法出聲**（完全阻塞）",
+        "t": "**哈姆立克法**",
+        "x": "看不到異物**不可**用手指或器械盲挖；失去意識要**開始 CPR**，不是先環甲膜穿刺"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -123360,7 +123920,12 @@
       "guideline": "Taiwan CDC BCG guidance (accessed 2026-08)",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "卡介苗衛教、選**最不適當**",
+        "t": "化膿潰爛是正常過程，**不可擠壓**，保持清潔讓它自行癒合",
+        "x": "剪指甲避免抓傷、1–2 週小紅結節、約 4 個月結痂留疤，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123393,7 +123958,12 @@
       "C": "本項不選。Barlow test 是把已在髖臼內但不穩的股骨頭向後推，看能否誘發脫位。",
       "D": "本項不選。Ortolani test 是把已脫位的股骨頭外展、前抬，感受是否回到髖臼的復位感。",
       "summary": "DDH 兩招別背反：Barlow 是推得出去，Ortolani 是帶得回來；Galeazzi 膝較低側才可疑。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "20 天寶寶大腿皺褶不對稱、選**最不適當**",
+        "t": "Galeazzi sign 是膝蓋**較低**那側有問題",
+        "x": "外展角度小側有問題、Barlow 測能否推脫、Ortolani 測能否復位，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123426,7 +123996,12 @@
       "C": "本項應選。台灣現行幼兒常規日本腦炎疫苗第一劑為滿 15 個月，不是剛滿 1 歲就必須接種。",
       "D": "本項不選。13 價肺炎鏈球菌疫苗的追加劑安排在滿 12–15 個月，題目的月齡正落在接種窗口。",
       "summary": "台灣幼兒 12 個月先補 MMR、水痘與 PCV；日本腦炎第一劑要記到 15 個月。",
-      "guideline": "Taiwan CDC routine childhood immunization schedule (accessed 2026-08)"
+      "guideline": "Taiwan CDC routine childhood immunization schedule (accessed 2026-08)",
+      "approach": {
+        "k": "滿 1 歲又 15 天、**不是**所需疫苗",
+        "t": "**日本腦炎第一劑**在 **15 個月**",
+        "x": "水痘、MMR、第三劑 PCV13 都是 12–15 個月"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123462,7 +124037,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-jaundice"
-      ]
+      ],
+      "approach": {
+        "k": "間接型高膽紅素血症中屬**肝臟清除不足**",
+        "t": "**Gilbert**（UGT1A1 活性下降）",
+        "x": "ABO 不合、遺傳性球形紅血球症、G6PD 都是**溶血**（產生太多）"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123498,7 +124078,12 @@
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "早產兒 PDA、選**最不適當**",
+        "t": "關閉 PDA 用 **indomethacin、ibuprofen 或 acetaminophen**，不是 PGE1",
+        "x": "週數越小越常見、左心容積負荷肺水腫、結紮術後要注意血壓，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123534,7 +124119,12 @@
       "guideline": null,
       "concepts": [
         "kawasaki-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "川崎氏症臨床與治療、選**最不適當**",
+        "t": "急性期是手腳掌**紅腫**，**2–3 週後**才指趾**脫皮**（題目倒過來）",
+        "x": "結膜與口腔變化、IVIG 加 aspirin、無效可第二劑 IVIG，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123570,7 +124160,12 @@
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "兒童心雜音、選**最適當**",
+        "t": "**連續性**雜音常見於 **PDA**",
+        "x": "功能性雜音通常 **≤2 度**；TOF 雜音來自**肺動脈狹窄**；ASD 雜音來自**肺動脈瓣**相對狹窄（流量大），不是經過 ASD"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123603,7 +124198,12 @@
       "C": "本項不選。肥厚性心肌病變可因流出道阻塞或心律不整造成猝死，是運動前篩檢會注意的疾病。",
       "D": "本項敘述正確。單純二尖瓣脫垂很常見，絕大多數良性；相較其他三項，在兒童猝死中的占比最少。",
       "summary": "兒童猝死的可怕心臟病是 QT、冠狀動脈異常與肥厚心肌；單純 MVP 通常不是主角。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童猝死原因比例**最少**",
+        "t": "**二尖瓣脫垂**",
+        "x": "long QT、冠狀動脈起源異常、肥厚性心肌病都是主要原因"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123639,7 +124239,12 @@
       "guideline": null,
       "concepts": [
         "perinatal-infections-breastfeeding-vaccines"
-      ]
+      ],
+      "approach": {
+        "k": "B 型肝炎病毒、選**最適當**",
+        "t": "新生兒感染後約 **90%** 成為慢性帶原",
+        "x": "哺餵母乳**不增加**感染（新生兒已打 HBIG 與疫苗）；HBV 是**雙股 DNA**；成人只有約 **5%** 慢性化"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123675,7 +124280,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "肥厚性幽門狹窄、選**最適當**",
+        "t": "幽門切開術有效；不適合手術時可用 **atropine**",
+        "x": "多數**不**合併其他先天異常；是低氯低鉀代謝性**鹼**中毒；超音波看幽門肌**增厚變長**（target sign），string sign 是鋇劑表現"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123708,7 +124318,12 @@
       "C": "本項應選。懷疑食道異物時不宜常規灌鋇劑，因為會增加吸入風險並妨礙後續內視鏡視野。",
       "D": "本項不選。鈕扣電池在食道會產生鹼性電解傷，短時間即可壞死；應在 2 小時內緊急內視鏡取出。",
       "summary": "食道鈕扣電池是計時急症：兩小時內取出；不顯影異物也別先灌鋇把內視鏡視野弄壞。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童食道異物、選**最不適當**",
+        "t": "X 光不顯影的異物**不建議**先做鋇劑（會干擾內視鏡），直接內視鏡",
+        "x": "5 歲前錢幣最常見、可無症狀或喘、鈕扣電池 2 小時內取出，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123744,7 +124359,12 @@
       "guideline": null,
       "concepts": [
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "學校尿液篩檢血尿蛋白尿鑑別、選**最不適當**",
+        "t": "學齡持續性蛋白尿**大部分是姿勢性**（良性），不是腎病變",
+        "x": "棘紅細胞代表腎絲球來源、血塊或終末血尿是下泌尿道、腎小管蛋白尿是低分子量蛋白，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123780,7 +124400,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "8 個月發燒、膿尿、E. coli >10⁵ 的 UTI、選**最不適當**",
+        "t": "DMSA **不是**首次發燒 UTI 的必要檢查",
+        "x": "抗生素 7–14 天、腎臟超音波、AAP 2–24 個月指引依超音波決定 VCUG，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123813,7 +124438,12 @@
       "C": "本項不選。multicystic dysplastic kidney 多是單側、由大小不一不相通的囊泡取代腎臟。",
       "D": "本項不選。後尿道瓣會造成膀胱擴張與 hydronephrosis；題目的腎實質高回音外觀更支持 ARPKD。",
       "summary": "新生兒雙腎大又高回音、羊水少卻看不到大囊泡，要想到 ARPKD 的微小 collecting-duct cysts。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "羊水過少、出生呼吸窘迫、**雙腎大且高回音**、看不到明顯囊泡",
+        "t": "**體染色體隱性多囊腎**（ARPKD，微小囊泡）",
+        "x": "ADPKD 多成人發病、有大囊；多囊性腎發育不全通常單側、看得到大囊；後尿道瓣有膀胱與輸尿管擴張"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123849,7 +124479,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "FeNO、選**最不適當**",
+        "t": "FeNO 測的是**嗜酸性球**（type 2）發炎，不是嗜中性球",
+        "x": "非侵入、氣喘輔助診斷、5 歲以上可配合，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123885,7 +124520,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "幼兒喘鳴變持續性氣喘的危險因子、選**最不適當**",
+        "t": "兒童期是**男性**較多，女性不是危險因子",
+        "x": "二手菸、異位性皮膚炎、父母氣喘都是危險因子"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123918,7 +124558,12 @@
       "C": "本項不選。DKA 的 Kussmaul breathing 是為了呼出 CO2 代償代謝性酸中毒，因此 PaCO2 應偏低。",
       "D": "本項不選。IgA vasculitis 可腹痛，但不會單獨造成喘、低氧與 CO2 retention 的呼吸性衰竭。",
       "summary": "呼吸又快又累卻 CO2 升高不是代償，而是快要排不動氣；嚴重氣喘要當呼吸衰竭處理。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "4 歲呼吸急促費力、血氧下降、CXR 無浸潤、**CO₂ 升高**",
+        "t": "**嚴重急性氣喘發作**（呼吸快但 CO₂ 升高表示快要衰竭）",
+        "x": "腸胃炎與 DKA 是代謝性酸中毒，CO₂ 會**下降**；過敏性紫斑不會造成這樣的呼吸衰竭"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123954,7 +124599,12 @@
       "guideline": null,
       "concepts": [
         "thalassemia-alpha-vs-beta"
-      ]
+      ],
+      "approach": {
+        "k": "海洋性貧血、選**最不適當**",
+        "t": "重型 **β 型**要等 HbF 退場（3–6 個月）後才貧血，不是一出生就貧血",
+        "x": "小球性、幹細胞移植可治癒、重型 α 型胎兒水腫，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -123990,7 +124640,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "兒童 ALL、選**最適當**",
+        "t": "13 歲男性、芽細胞＋**巨大縱膈腫塊** → **T-ALL**",
+        "x": "高峰在 **2–5 歲**；初診是血小板**減少**；腫瘤溶解是**高**血磷"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124026,7 +124681,12 @@
       "guideline": null,
       "concepts": [
         "coagulation-test-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲重型 A 型血友病、選**最不適當**",
+        "t": "重型應**預防性**定期注射凝血因子，不是出血才打",
+        "x": "X 性聯、關節肌肉出血、危及生命時輸到 100%，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124063,7 +124723,12 @@
       "concepts": [
         "shock-hemodynamic-profiles",
         "shock-initial-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲敗血性休克初期治療目標",
+        "t": "**中央靜脈血氧 ≥70%**",
+        "x": "cardiac index 目標 **3.3–6**；血壓只升到 70/40 太低；尿量目標 **≥1 mL/kg/hr**"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124099,7 +124764,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 個月、先鼻塞流鼻水、後喘、**雙側吐氣喘鳴**、無囉音",
+        "t": "**病毒性細支氣管炎**",
+        "x": "3 個月很少氣喘；細菌性肺炎有局部囉音浸潤；心臟病會有雜音、肝大"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124135,7 +124805,12 @@
       "guideline": null,
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "先天性甲狀腺低能症、選**最不適當**",
+        "t": "台灣新生兒篩檢驗的是 **TSH**，不是 T4",
+        "x": "甲狀腺發育不良是成因、3 歲前治療很重要、levothyroxine 10–15 μg/kg/day，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124171,7 +124846,12 @@
       "guideline": null,
       "concepts": [
         "cah-enzyme-deficiencies"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**造成男孩**周邊型**性早熟",
+        "t": "**下視丘錯構瘤**是**中樞型**",
+        "x": "hCG 分泌腫瘤、CAH、家族性男性性早熟（LH 受體活化）都是周邊型"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124207,7 +124887,12 @@
       "guideline": null,
       "concepts": [
         "cah-enzyme-deficiencies"
-      ]
+      ],
+      "approach": {
+        "k": "典型 21-羥化酶缺乏、選**最不適當**",
+        "t": "**失鹽型**（約 75%）比單純男性化型**多**",
+        "x": "6 號染色體 CYP21、多與假基因重組、失鹽型數週內休克，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124245,7 +124930,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲發燒 5 天、嘴唇臉部紅疹結痂、**牙齦紅腫流血**、身體其他部位無疹",
+        "t": "**單純疱疹病毒**（初次感染牙齦口炎）",
+        "x": "腸病毒是咽後部潰瘍加手足疹；水痘全身分布；EBV 是扁桃腺滲出加淋巴結腫"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124278,7 +124968,12 @@
       "C": "本項應選。典型病毒性 bronchiolitis 不常合併細菌 superinfection，因此不建議常規使用 antibiotics。",
       "D": "本項不選。早產、嚴重心肺疾病等高風險兒可依策略接受 RSV 單株抗體被動免疫，目標是降低重症與住院。",
       "summary": "bronchiolitis 幾乎都是病毒自己造成，不能因為喘就預設細菌重疊感染而開抗生素。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性細支氣管炎、選**最不適當**",
+        "t": "病毒性細支氣管炎**很少**合併細菌感染",
+        "x": "RSV 最常見、鼻病毒也會、高風險可打 RSV 單株抗體，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124315,7 +125010,12 @@
       "concepts": [
         "childhood-exanthems",
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "10 個月高燒 3 天、無局部症狀、WBC 與 CRP 正常、尿液幾乎正常",
+        "t": "**嬰兒玫瑰疹**（等退燒後出疹）",
+        "x": "腎盂腎炎會膿尿 CRP 高；德國麻疹有疹與淋巴結；川崎病 CRP 高、血小板後期升高"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124351,7 +125051,12 @@
       "guideline": null,
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "**核黃疸**造成的腦性麻痺類型",
+        "t": "**手足徐動型**（基底核受損）",
+        "x": "痙攣性偏癱、雙癱、四肢癱主要來自白質或皮質損傷"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124384,7 +125089,12 @@
       "C": "本項應選。ADHD 有高度遺傳性，家族與雙胞胎研究都支持基因對注意力與衝動控制有重要影響。",
       "D": "本項不選。ADHD 核心是注意力不集中、過動與衝動；診斷還需症狀跨情境、持續並造成實際功能損害。",
       "summary": "ADHD 不是教養問題也不是沒有基因：遺傳性很高，但診斷仍要看跨情境的功能損害。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ADHD、選**最不適當**",
+        "t": "ADHD **遺傳性很高**（約 70–80%）",
+        "x": "孕期藥物酒精、癲癇神經皮膚症候群共病高、核心症狀與盛行率 5–10%，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124420,7 +125130,12 @@
       "guideline": null,
       "concepts": [
         "multiple-sclerosis-core"
-      ]
+      ],
+      "approach": {
+        "k": "首次 MS 與 ADEM 鑑別、選**最不適當**",
+        "t": "**視丘、基底核**深部灰質病灶較常見於 **ADEM**",
+        "x": "MS 多 >10 歲、較常單側視神經炎、較少癲癇，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124456,7 +125171,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 歲呼吸喘、**不是**呼吸衰竭高風險",
+        "t": "**吞一顆磁鐵、無呼吸窘迫**（單顆磁鐵主要是腸胃問題）",
+        "x": "鈕扣電池（食道傷害）、氣切管、在家曾發紺都是高風險"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -124492,7 +125212,12 @@
       "guideline": null,
       "concepts": [
         "down-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "父母一方為 **21;21 轉位**帶因者，再生活產唐氏症機率",
+        "t": "**100%**：每個配子不是帶兩條 21 就是沒有 21，後者無法存活",
+        "x": "5–7%、25%、50% 都低估"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126157,7 +126882,12 @@
       "C": "本項不選。燙傷的浸泡邊界、手套襪套分布或與病史不符時較容易被注意為非意外傷害。",
       "D": "本項不選。頭部外傷可危及生命，臨床上通常會因抽搐、嗜睡或嘔吐而被積極評估。",
       "summary": "不會走路的嬰兒本來不該常撞傷；看到瘀傷先問「這個位置和發展能力合理嗎？」",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童身體虐待**最常被忽視**的表現",
+        "t": "**瘀傷**（最常見也最常被當成意外）",
+        "x": "骨折、燙傷、頭部外傷較容易引起注意"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -135610,7 +136340,12 @@
       "C": "本項不選。枕頭會增加臉部被覆與窒息風險，嬰兒床不需用枕頭維持頭型。",
       "D": "本項不選。填充玩偶、鬆軟寢具與定位用品都可能堵住呼吸道，不能作為睡眠安撫物放在床內。",
       "summary": "嬰兒安全睡眠一句話：同房不同床、仰睡在硬平面，床內不放枕頭、棉被或玩偶。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "嬰兒安全睡眠、選**最適當**",
+        "t": "**同房不同床**",
+        "x": "床邊**不放**軟墊、棉被、枕頭、填充玩偶（窒息風險）"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135646,7 +136381,12 @@
       "guideline": "Taiwan CDC BCG guidance (accessed 2026-08)",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "卡介苗、選**最不適當**",
+        "t": "BCG 接種後約 **6–12 週** TST 轉陽，不是 4–6 個月",
+        "x": "牛型分枝桿菌活性疫苗、5–8 個月接種、主要預防結核性腦膜炎與瀰漫性感染，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135684,7 +136424,12 @@
       "guideline": null,
       "concepts": [
         "newborn-exam-routine-care"
-      ]
+      ],
+      "approach": {
+        "k": "真空吸引後頭圍 2 小時增加 1 cm、蒼白、心跳 190、低血壓",
+        "t": "**帽狀腱膜下出血**（圖中位置 ③，可藏大量血液）",
+        "x": "產瘤在皮下、胎頭血腫在骨膜下受骨縫限制、顱內出血不會讓頭圍快速增加"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135717,7 +136462,12 @@
       "C": "本項不選。提高 gas flow 可較快達到設定的吸氣壓與流量，可能影響吸氣時間、平均氣道壓與氧合。",
       "D": "本項敘述正確。單純延長 expiratory time 不會增加吸氣壓、PEEP 或平均氣道壓，不能直接提高氧合。",
       "summary": "呼吸器要改善氧合，想辦法提高平均氣道壓；只把吐氣時間拉長不會把氧送進肺泡。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "呼吸器**無法**增加氧合的調整",
+        "t": "**延長吐氣時間**（降低平均氣道壓）",
+        "x": "提高 PIP、PEEP、氣流量都會增加平均氣道壓，改善氧合"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135753,7 +136503,12 @@
       "guideline": "Taiwan CDC HBIG guidance (accessed 2026-08)",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "HBsAg 陽性母親的新生兒、HBIG **最遲**時限",
+        "t": "**24 小時**內（最好愈早愈好）",
+        "x": "36、48、72 小時都太晚"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135789,7 +136544,12 @@
       "C": "本項不選。MAPCAs 將主動脈血供應肺循環，持續的壓差可產生連續性血流雜音。",
       "D": "本項不選。pulmonary arteriovenous fistula 也可能有連續性血管雜音；本題四項皆可能，官方註記為一律給分。",
       "summary": "連續性雜音需要收縮、舒張都存在的壓差；本題四種病灶都可能，官方因此全給分。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最不會**聽到連續性雜音（官方 A–D 都給分）",
+        "t": "四種病灶收縮與舒張期都有壓差，都可能有連續性雜音",
+        "x": "官方全部給分"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135826,7 +136586,12 @@
       "concepts": [
         "tetralogy-of-fallot",
         "cyanotic-vs-acyanotic-chd"
-      ]
+      ],
+      "approach": {
+        "k": "自然病史中**最不會**出現肺動脈高壓",
+        "t": "**法洛氏四重症**（肺動脈狹窄，肺血流少）",
+        "x": "ASD、PDA、TGA 都會因肺血流多而肺高壓"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135859,7 +136624,12 @@
       "C": "本項敘述正確。魚貝類等海鮮過敏較容易持續到成年，重新暴露還可能引發嚴重過敏反應。",
       "D": "本項不選。雞蛋過敏不少兒童會逐漸耐受，尤其能耐受 baked egg 者較可能隨時間改善。",
       "summary": "食物過敏的自然史要分：奶、蛋、黃豆常會好；海鮮與堅果常比較跟一輩子。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最不容易**隨年紀消失的食物過敏",
+        "t": "**海鮮**（還有堅果、花生）",
+        "x": "牛奶、黃豆、蛋過敏多數長大會好"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135892,7 +136662,12 @@
       "C": "本項應選。噬血組織球是巨噬細胞活化、噬血症候群（HLH）的特徵，不是蘭格罕細胞組織球增生症。",
       "D": "本項不選。嗜酸性肉芽腫是單系統骨病灶的傳統名稱，常造成溶骨性病變。",
       "summary": "LCH 記 CD1a、Birbeck 顆粒、嗜酸性肉芽腫；看到噬血要想 HLH。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是** LCH 的特色",
+        "t": "**噬血組織球**是 **HLH**",
+        "x": "CD1a 陽性、Birbeck 顆粒、嗜酸性肉芽腫都是 LCH"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135925,7 +136700,12 @@
       "C": "本項不選。頭部轉動不是典型呼吸肌代償動作；嬰兒呼吸窘迫較看 nasal flaring、retractions、grunting。",
       "D": "本項不選。呼吸暫停是通氣停止，常表示疲乏或中樞問題，不能當作增加呼吸作功的代償表現。",
       "summary": "兒童喘得用力時看鼻翼搧動、胸凹與呻吟；呼吸暫停反而是撐不住的危險訊號。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "1 歲細支氣管肺炎、**呼吸作功增加**的現象",
+        "t": "**鼻翼搧動**",
+        "x": "頸部僵硬是腦膜刺激；頭部轉動不相關；呼吸暫停是衰竭的危險徵兆"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135958,7 +136738,12 @@
       "C": "本項不選。supravalvular aortic stenosis 的阻塞在主動脈根部上方，仍不能解釋明顯 radiofemoral delay。",
       "D": "本項不選。subaortic stenosis 是左心室流出道阻塞，雜音可放射至頸部，卻不造成上肢與下肢灌流差。",
       "summary": "高血壓上肢、弱脈下肢加肩胛間雜音，三件事一起背就是 coarctation。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "15 歲**右上肢**血壓 190/95、肩胛骨間雜音、**股動脈摸不清**",
+        "t": "**主動脈弓縮窄**",
+        "x": "主動脈瓣、瓣上、瓣下狹窄都不會造成上下肢脈搏差"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -135991,7 +136776,12 @@
       "C": "本項應選。failure to thrive 不是腸絞痛的特徵；若哭鬧合併生長遲滯，必須改找 GERD、感染、餵食問題或其他器質性疾病。",
       "D": "本項不選。傳統 Wessel rule of threes 以每天哭鬧超過 3 小時、每週超過 3 天作為辨識門檻；臨床仍需看持續性與排除警訊。",
       "summary": "嬰兒哭鬧可以是 colic，但長不好就不再是單純 colic，必須回頭找疾病或餵食問題。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "嬰兒腸絞痛診斷、選**最不適當**",
+        "t": "腸絞痛寶寶**生長正常**；有生長遲滯就要找其他病因",
+        "x": "<5 個月、照顧者主訴即可、每天 >3 小時每週 ≥3 天，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136027,7 +136817,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-vomiting-approach"
-      ]
+      ],
+      "approach": {
+        "k": "3 個月**綠色嘔吐**、腹脹、酸中毒、低鈉、BUN 高",
+        "t": "**腸旋轉不良合併中腸扭結**（腸缺血加脫水）",
+        "x": "幽門狹窄是非膽汁性、低氯**鹼**中毒；CAH 低鈉但不會膽汁性嘔吐腹脹；巨結腸症有便秘病史，此童每天排便"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136060,7 +136855,12 @@
       "C": "本項不選。Cullen sign 是臍周瘀斑，代表嚴重胰臟炎或腹膜後出血的少見皮膚表現。",
       "D": "本項不選。lipase 對胰臟較有特異性、在血中維持升高較久；amylase 可由唾液腺等組織上升。",
       "summary": "兒童胰臟炎先想外傷、感染與結構異常；lipase 比 amylase 更特異，ibuprofen 不是標準答案。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性胰臟炎、選**最不適當**",
+        "t": "兒童胰臟炎常見藥物是 **valproate、asparaginase、類固醇**，不是 ibuprofen",
+        "x": "外傷感染結構異常是主因、Cullen sign、lipase 比 amylase 特異，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136096,7 +136896,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "早產兒、生長遲滯、多尿、低鉀低氯**代謝性鹼中毒**、高腎素醛固酮、**高尿鈣**",
+        "t": "**Bartter 症候群**",
+        "x": "RTA 是酸中毒；慢性腹瀉是酸中毒且尿鈣不高；Gitelman 是**低**尿鈣低鎂"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136129,7 +136934,12 @@
       "C": "本項不選。若合併 proteinuria，ACEI 或 ARB 可降血壓並降低腎絲球內壓與蛋白尿；使用時須監測 creatinine、K+。",
       "D": "本項不選。CKD-mineral bone disorder 造成鈣磷與 PTH 異常，長期可促進血管鈣化與心血管風險。",
       "summary": "CKD 小孩長不高不是只少 GH，而是營養、酸中毒與 GH resistance 一起拖慢生長。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童 CKD、選**最不適當**",
+        "t": "矮小主因是 **GH 阻抗**（GH 正常或高、IGF-1 作用受阻），不是 GH 與 IGF-1 分泌減少",
+        "x": "<5 歲主因 CAKUT、高血壓首選 ACEI/ARB、鈣磷失調造成血管鈣化，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136165,7 +136975,12 @@
       "guideline": null,
       "concepts": [
         "nocturnal-enuresis"
-      ]
+      ],
+      "approach": {
+        "k": "夜尿、選**最不適當**",
+        "t": "首選是**行為治療與尿床警報器**，desmopressin 不是首選",
+        "x": ">5 歲定義、排除器質性疾病、多種成因，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136202,7 +137017,12 @@
       "concepts": [
         "kawasaki-diagnostic-criteria",
         "childhood-exanthems"
-      ]
+      ],
+      "approach": {
+        "k": "猩紅熱 vs 川崎氏症、選**最不適當**",
+        "t": "川崎氏症好發 **5 歲以下**；猩紅熱好發學齡",
+        "x": "都會發燒起疹草莓舌、都會指尖脫皮、治療分別是抗生素與 IVIG 加 aspirin，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136238,7 +137058,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘運動誘發測驗、選**最不適當**",
+        "t": "運動誘發氣喘在**停止運動後 5–10 分鐘**開始、**10–15 分鐘**最嚴重",
+        "x": "跑 6–8 分鐘、正常兒童 FEV1 增加 5–10%、未治療氣喘 FEV1 下降 >15%，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136275,7 +137100,12 @@
       "concepts": [
         "microcytic-anemia",
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**大球性貧血",
+        "t": "**鉛中毒**是血基質合成障礙 → **小球性**",
+        "x": "thiamine 反應性貧血、Fanconi 貧血、葉酸缺乏都是大球性"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136311,7 +137141,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-solid-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童腫瘤與徵象、選**最不適當**",
+        "t": "**松果體**母細胞瘤表現是 **Parinaud 症候群**與水腦；尿崩乳溢是鞍上區病灶",
+        "x": "Kaposiform 血管內皮瘤血小板低（Kasabach-Merritt）、Wilms 血尿腹部腫塊、嗜鉻細胞瘤陣發性高血壓，三組都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136348,7 +137183,12 @@
       "concepts": [
         "neonatal-respiratory-distress-resuscitation",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "Apgar 好、出生 1 小時後喘發紺、**右側呼吸音減弱**、**無腹部凹陷**",
+        "t": "**右側自發性氣胸**",
+        "x": "發紺型心臟病兩側呼吸音正常；左側橫膈疝氣是**左**側且舟狀腹；細支氣管炎不會出生 1 小時發生"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136381,7 +137221,12 @@
       "C": "本項敘述正確。結膜出血不是重症腸病毒典型前兆；應優先找 myoclonic jerk、持續嘔吐、呼吸急促、嗜睡與肢體無力。",
       "D": "本項不選。myoclonic jerk 像突然受驚嚇，是 EV71 腦幹腦炎的重要警訊，出現時需密切監測。",
       "summary": "腸病毒重症要背的是「嘔、喘、抖、睡不好」；myoclonic jerk 很關鍵，結膜出血不在警訊清單。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**腸病毒重症前兆",
+        "t": "**結膜出血**",
+        "x": "呼吸急促、持續嘔吐、肌躍型抽搐都是前兆（還有嗜睡、心跳快）"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136417,7 +137262,12 @@
       "guideline": null,
       "concepts": [
         "turner-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**台灣健保生長激素給付適應症",
+        "t": "**Russell-Silver 症候群**",
+        "x": "腦瘤引起 GH 缺乏、Prader-Willi、Turner 都有給付"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136453,7 +137303,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "13 歲嚴重 DKA 最可能的檢驗",
+        "t": "**陰離子間隙升高**（酮酸）",
+        "x": "滲透壓是**升高**；脫水 BUN 與 Cr 是**上升**；total CO₂ 是**下降**"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136489,7 +137344,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "8 歲發燒、10 天前**山區掃墓**、鼠蹊淋巴結腫、**焦痂**、肝指數高",
+        "t": "**恙蟲病**",
+        "x": "登革熱沒有焦痂、血小板低；鉤端螺旋體是接觸污水、結膜充血腎衰；炭疽熱是黑色無痛潰瘍、接觸動物"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136525,7 +137385,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "12 歲非典型肺炎、azithromycin 有效、**黴漿菌抗體兩次陰性**",
+        "t": "**肺炎披衣菌**",
+        "x": "肺炎鏈球菌不是非典型肺炎；砂眼披衣菌是新生兒肺炎；人型黴漿菌是泌尿生殖道"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136561,7 +137426,12 @@
       "guideline": null,
       "concepts": [
         "childhood-exanthems"
-      ]
+      ],
+      "approach": {
+        "k": "玫瑰疹、選**最不適當**",
+        "t": "皮疹在**退燒後**才出現，不是與發燒同時",
+        "x": "HHV-6 與 7、Nagayama spots、可併熱性痙攣但不增加癲癇，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136597,7 +137467,12 @@
       "C": "本題一律給分。藥物只能處理易怒、攻擊、過動等共病症狀，核心的社交溝通障礙沒有有效藥物，主力仍是早期療育與行為介入。",
       "D": "本題一律給分。合併智能不足的比例在不同研究差距很大，近年診斷標準放寬後多落在三成上下，「約 50%」是較舊的數字。四個選項都站不住腳，官方因此公告一律給分。",
       "summary": "自閉症沒有抽血可驗、沒有治核心症狀的藥；能改變預後的是早期行為療育。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "自閉症類群障礙症、選**最適當**（官方 A–D 都給分）",
+        "t": "四個選項敘述都有問題：語言常受影響、沒有血液標記、沒有治療核心症狀的藥、智能不足比例數據有爭議",
+        "x": "官方全部給分"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136633,7 +137508,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "10 個月點頭痙攣、**鯊魚皮斑**、**褪色白斑**、血管纖維瘤、**心臟橫紋肌瘤**",
+        "t": "**結節性硬化症**",
+        "x": "Sturge-Weber 是葡萄酒色斑；NF 是咖啡斑；線狀皮脂腺痣症候群是線狀黃色斑"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136669,7 +137549,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "熱性痙攣轉癲癇的危險因子、機率**最低**",
+        "t": "**單純性**發作",
+        "x": "發燒不到 1 小時就抽、神經發展障礙、癲癇家族史都會增加風險"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136705,7 +137590,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "8 歲高燒、咽痛、**眼皮浮腫**、化膿性扁桃腺炎、**脾腫大**（EBV）",
+        "t": "可能有**雙側頸淋巴結腫**與**肝腫大**",
+        "x": "是**淋巴球**（非典型）增多，診斷靠血清學；**不需**抗生素（但 ampicillin 會起疹）；腎炎是鏈球菌後"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -136738,7 +137628,12 @@
       "C": "本項敘述正確。亨丁頓舞蹈症重複的是 CAG、脆折 X 是 CGG，這也是它們產物不同的原因：前者做出含多麩醯胺酸的異常蛋白，後者則讓 FMR1 基因被甲基化而沉默。",
       "D": "本項應選。方向相反。脆折 X 的前突變擴增成完全突變只發生在「母親」傳遞時；亨丁頓舞蹈症才是父傳造成大幅擴增與早發（遺傳早現）。這一點是兩病最容易被考的差別。",
       "summary": "擴增看性別：脆折 X 走母親、亨丁頓走父親；前突變次數 55–200 對 27–35。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Huntington vs fragile X、選**最不適當**",
+        "t": "fragile X 擴增來自**母親**；Huntington 擴增來自父親",
+        "x": "前突變增加子代全突變、前突變次數、CAG 與 CGG，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138228,7 +139123,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-gi-obstruction-nec"
-      ]
+      ],
+      "approach": {
+        "k": "2 天大女嬰嘔吐不止、上消化道攝影",
+        "t": "**中腸旋轉不良**（十二指腸空腸交界沒跨到左側、螺旋狀）",
+        "x": "幽門狹窄在 3–6 週；胃食道逆流不會這樣；空腸閉鎖是 triple bubble 且遠端無氣"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -147810,7 +148710,12 @@
       "guideline": null,
       "concepts": [
         "developmental-milestones"
-      ]
+      ],
+      "approach": {
+        "k": "滿 2 歲**最不可能**出現的發展指標",
+        "t": "**知道全名**（約 3 歲）",
+        "x": "上下樓梯、開門、跳躍 2 歲可做到"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -147846,7 +148751,12 @@
       "guideline": null,
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "抹片很多 spherocytes、**最不可能**",
+        "t": "**G6PD 缺乏**看到的是 **bite cell、Heinz body**",
+        "x": "ABO 不合、自體免疫溶血、遺傳性球形紅血球症都會有球形紅血球"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -147882,7 +148792,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "兒童 T1DM vs T2DM、選**最適當**",
+        "t": "兩型都需要**飲食控制與運動**",
+        "x": "家族史 **T2DM 較高**；T1DM **不會**轉變成 T2DM；T1DM 是自體免疫，**不是先天性**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -147915,7 +148830,12 @@
       "C": "本項不選。最重要的病原是呼吸道融合病毒（RSV），約占七成，其次是鼻病毒與副流感病毒。",
       "D": "本項不選。治療以支持療法為主：氧氣、維持水分與餵食，必要時高流量鼻導管；吸入性抗病毒藥物並非常規。",
       "summary": "細支氣管炎是「小氣道被塞住」不是「被夾住」：RSV 為主、喘鳴加囉音、治療只有支持療法。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性細支氣管炎、選**最適當**",
+        "t": "聽診可聽到 **wheezing 與 crackles**",
+        "x": "機轉是**發炎、黏液阻塞**，不是平滑肌收縮；最重要病原是 **RSV**；治療以**支持療法**為主"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -147951,7 +148871,12 @@
       "guideline": null,
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "痙攣性雙側麻痺、選**最不適當**",
+        "t": "**下肢**比上肢嚴重（剪刀步態）",
+        "x": "最常見型態、早產兒 PVL、注意爬行等動作發展，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -147984,7 +148909,12 @@
       "C": "本項不選。再過三個月只到十個月的間隔，仍未達建議的等待時間。",
       "D": "正確。川崎症用的 2 g/kg 高劑量免疫球蛋白，建議與活性減毒疫苗間隔 11 個月。這孩子在 1 歲 10 個月接種，要等到 2 歲 9 個月；現在 2 歲 3 個月，剛好還要再等 6 個月。要注意的是這條規則只管活性減毒疫苗（麻疹腮腺炎德國麻疹、水痘），不活化疫苗照常接種。",
       "summary": "高劑量免疫球蛋白（2 g/kg）後，活性減毒疫苗要延 11 個月；不活化疫苗不受影響。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "1 歲 10 個月打 IVIG 2 g/kg、現在 2 歲 3 個月、想打日本腦炎**活性**疫苗",
+        "t": "要隔 **11 個月**：已過 5 個月，**再 6 個月**才能打",
+        "x": "今天或下個月都太早；3 個月後只過 8 個月"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148020,7 +148950,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
-      ]
+      ],
+      "approach": {
+        "k": "**最容易**造成 Apgar 偽陰性（窒息卻分數高）",
+        "t": "胎兒血中 **catecholamine 過高**（心跳與張力被撐住）",
+        "x": "硫酸鎂、先天肌病、早產都造成**偽陽性**（分數假低）"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148055,7 +148990,12 @@
       "C": "本項不選。形變是外力壓迫已經正常成形的結構造成，例如羊水過少造成的杵狀足或斜頸，移除壓力後多可改善。",
       "D": "正確。圖上可見纖維狀的羊膜帶纏繞在頭部與肢體上，把原本已經正常發育的結構切斷、勒住。這種「本來長好了才被外力破壞」就是發育中斷的定義，羊膜帶症候群是最典型的例子。",
       "summary": "先天缺陷四分類：畸形是沒長對、發育不良是組織本身異常、形變是被壓歪、發育中斷是長好後被破壞（羊膜帶）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "圖中箭頭異常（羊膜帶）、依機轉分類",
+        "t": "**發育中斷**（disruption）：原本正常的組織被破壞",
+        "x": "畸形是本身沒長對；發育不良是組織異常；形變是被壓歪"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148091,7 +149031,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-respiratory-distress-resuscitation"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒復甦術、選**最不適當**",
+        "t": "新生兒復甦是 **ABC**（先通氣），不是 CAB",
+        "x": "監測右上肢血氧、按壓前先插管、按壓與換氣 3:1，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148124,7 +149069,12 @@
       "C": "本項敘述正確。右心室排空時間拉長使肺動脈瓣延遲關閉，而分流量不隨呼吸改變，所以第二心音出現「寬且固定」的分裂——這是心房中隔缺損最具特異性的聽診發現。",
       "D": "本項敘述正確。分流量大時通過三尖瓣的血流也增加，可在胸骨左緣下方聽到舒張中期的隆隆聲，代表相對性三尖瓣狹窄。",
       "summary": "心房中隔缺損的雜音都是「血流太多」造成的相對性狹窄；缺損本身不出聲，固定分裂的第二心音才是招牌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ASD 異常心音成因、選**最不適當**",
+        "t": "收縮期雜音來自**流經肺動脈瓣**的大量血流，**不是**流過缺損（心房壓差小，不出聲）",
+        "x": "肺動脈瓣流量大、固定分裂 S2、三尖瓣舒張期雜音，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148157,7 +149107,12 @@
       "C": "本項不選。Turner 症候群的心血管問題以主動脈窄縮與二葉式主動脈瓣為主，同時要注意主動脈剝離風險。",
       "D": "本項不選。CHARGE 症候群的心臟病灶以法洛氏四重症與圓錐動脈幹異常為主，並合併眼組織缺損、後鼻孔閉鎖與外耳異常。",
       "summary": "主動脈瓣「上」狹窄＋周邊肺動脈狹窄＝Williams（彈性蛋白基因缺失）；瓣膜狹窄那型才想 Noonan。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "1 歲**主動脈瓣上狹窄**＋**周邊肺動脈狹窄**",
+        "t": "**Williams 症候群**（elastin 基因缺失）",
+        "x": "Noonan 是肺動脈**瓣**狹窄；Turner 是二葉主動脈瓣與窄縮；CHARGE 是圓錐動脈幹畸形"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148190,7 +149145,12 @@
       "C": "本項不選。這個年紀安靜心跳 120 下屬正常（100 到 160 下），心衰竭時通常會超過 160。",
       "D": "本項不選。嬰兒的肝臟本來就可以在右肋緣下摸到 1 到 2 公分，超過 3 公分或短期內變大才代表鬱血。",
       "summary": "嬰兒心衰竭最早看「體重曲線」和餵食情形，不是心跳呼吸數字——喝奶喝到喘、長不大就是警訊。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "出生 3.5 kg、1 個月 VSD 雜音、暗示**心衰竭**",
+        "t": "1 個月只有 **4 kg**（應增約 0.8–1 kg，體重增加不良）",
+        "x": "RR 40、HR 120、肝下緣 1 cm 都正常"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148223,7 +149183,12 @@
       "C": "本項敘述正確。神經嵴細胞由頭端往尾端遷移填滿腸道，最後才到直腸——所以遷移失敗時最遠端的直腸一定受累，這正是巨結腸症總是從直腸往上延伸的原因。",
       "D": "本項應選。中腸發育成的是十二指腸遠端、空腸、迴腸、升結腸與橫結腸的「近端三分之二」；橫結腸遠端三分之一起就屬於後腸。這條界線就在上腸繫膜動脈與下腸繫膜動脈供應區的交界，也是缺血性大腸炎好發的分水嶺區。",
       "summary": "腸道三段的界線：前腸到膽總管開口、中腸到橫結腸近三分之二、其餘是後腸；交界處就是缺血分水嶺。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "正常腸道發展、選**最不適當**",
+        "t": "中腸只到**橫結腸近端 2/3**，不是全段",
+        "x": "前腸到前段十二指腸、後腸到降結腸與上段肛管、神經嵴由頭往尾遷移，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148257,7 +149222,12 @@
       "C": "本項應選，官方公告 C、D、CD 都給分。硬幣進到胃裡多數會自行排出沒錯，但觀察期是兩到四週而不是一個月以上，寫成一個月偏長。",
       "D": "本項也應選，官方同樣給分。長度超過 5 到 6 公分的異物過不了十二指腸的彎折，建議在胃內時就先用內視鏡取出，這一項本身是對的處置原則。",
       "summary": "吞異物三個急件：食道異物、鈕扣電池、尖銳物；圓鈍物進了胃可以等，但別等超過兩到四週。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童吞食異物、選**最適當**（官方 C、D 都給分）",
+        "t": "胃中單枚錢幣可**觀察**（指引多為 2–4 週）；青少年胃中 **>5 cm** 長物應胃鏡取出",
+        "x": "食道異物要在 24 小時內取出，不能觀察；鈕扣電池要**緊急**處理"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148293,7 +149263,12 @@
       "guideline": null,
       "concepts": [
         "biliary-atresia"
-      ]
+      ],
+      "approach": {
+        "k": "膽道閉鎖、選**最不適當**",
+        "t": "**東亞**發生率**比西方高**",
+        "x": "灰白便要懷疑、切片膽管增生、60 天內 Kasai，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148326,7 +149301,12 @@
       "C": "本項不選。前行性腎盂攝影經腎造廔管打顯影劑，用來確認阻塞位置，在複雜個案仍有價值。",
       "D": "本項不選。核醫掃描可以量分腎功能與判斷是否為真正的阻塞（利尿腎圖），是評估阻塞性尿路病變的關鍵工具。",
       "summary": "嬰幼兒尿路檢查順序：超音波打頭陣、逆流看排尿膀胱攝影、功能與阻塞看核醫；靜脈腎盂攝影已經退場。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "嬰幼兒阻塞性尿路疾病**最不適合**的影像",
+        "t": "**靜脈腎盂攝影**（已退場）",
+        "x": "VCUG、前行性腎盂攝影、核醫掃描都可用"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148359,7 +149339,12 @@
       "C": "本項敘述正確。它與腎水腫並列為新生兒腹部腫塊最常見的原因，來源都在腎臟。",
       "D": "本項敘述正確。要追蹤的是對側腎臟代償性肥大、高血壓，以及極少見的 Wilms 腫瘤風險，所以要定期超音波與量血壓。",
       "summary": "多囊性腎發育不全是單側病變：患側會自行萎縮，重點反而在追蹤對側腎與血壓。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "多囊性腎發育不全、選**最不適當**",
+        "t": "通常是**單側**（雙側無法存活）",
+        "x": "對側可能 VUR、新生兒腹部腫塊最常見原因、追蹤高血壓與 Wilms，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148392,7 +149377,12 @@
       "C": "本項不選。如廁訓練期間孩子憋尿、排空不完全，感染機會上升。",
       "D": "本項應選。割過包皮的男嬰尿路感染風險反而下降約十倍，因為包皮下的細菌定殖減少。沒割包皮才是危險因子。",
       "summary": "小兒尿路感染的危險因子是「尿留在裡面」：結構異常、便祕、憋尿、未割包皮；割了反而是保護因子。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童 UTI 危險因子、選**最不適當**",
+        "t": "**割過包皮**是**保護**因子",
+        "x": "結構異常、便秘、如廁訓練期都是危險因子"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148428,7 +149418,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲發燒 7 天、結膜充血、草莓舌、頸淋巴結 1.8 cm（川崎病）、選**最不適當**",
+        "t": "川崎病常見**低血鈉**，不是高血鈉",
+        "x": "診斷皮膚黏膜淋巴結症候群、安排心臟超音波、無菌性膿尿，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148461,7 +149456,12 @@
       "C": "本項不選。腎臟侵犯出現在三到五成的病人，多為血尿或蛋白尿，是決定長期預後的關鍵，需追蹤尿液至少六個月。",
       "D": "本項應選。這是血管炎不是骨髓抑制，血小板與白血球都正常甚至上升。事實上「血小板正常」正是它與免疫性血小板低下紫斑症最重要的分界——同樣是紫斑，一個血小板正常、一個很低。",
       "summary": "紫斑加腹痛關節痛，而且血小板正常，就是 IgA 血管炎；血球下降要改想別的病。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "HSP **最不常見**的表現",
+        "t": "**嗜中性白血球低下**",
+        "x": "關節痛、腹痛、血尿蛋白尿都常見"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148494,7 +149494,12 @@
       "C": "本項不選。急性細支氣管炎發生在兩歲以下嬰幼兒，表現是喘鳴與呼吸費力，不是鼻竇症狀。",
       "D": "本項不選。過敏性鼻炎是清澈鼻水、鼻癢與打噴嚏，不會發燒到 39.5 度。",
       "summary": "感冒第五天後「二度惡化」或十天不好、或一開始就高燒加濃鼻涕三天，這三型才是細菌性鼻竇炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "5 歲流鼻水咳嗽一週以上、**近 3–4 天高燒**、**黃綠濃鼻涕**、頭痛、夜咳",
+        "t": "**急性鼻竇炎**（症狀改善後二度惡化）",
+        "x": "急性鼻咽炎 7–10 天內會改善；支氣管炎不會濃鼻涕高燒；過敏性鼻炎不發燒"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148527,7 +149532,12 @@
       "C": "本項敘述正確。bleomycin 的劑量相關肺纖維化是典型晚期併發症，日後手術給高濃度氧氣也要小心。",
       "D": "本項敘述正確。長春花生物鹼抑制微管而造成周邊神經病變，表現為深腱反射消失、足下垂與便祕。",
       "summary": "兒癌晚期毒性對號入座：anthracycline 傷心、cisplatin 傷耳與腎、bleomycin 傷肺、長春花類傷神經。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童癌症治療晚期效應、選**最不適當**",
+        "t": "高頻聽力下降是 **cisplatin**；anthracycline 是**心肌病變**",
+        "x": "頭部放療認知影響、bleomycin 肺纖維化、vinca 類周邊神經病變，三組都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148560,7 +149570,12 @@
       "C": "本項敘述正確。青春期女性反覆或慢性的血小板低下，要驗抗核抗體排除紅斑性狼瘡與抗磷脂質症候群。",
       "D": "本項敘述正確。典型病史就是前一天還好好的，隔天全身出血點與瘀青，而且孩子精神活動力都正常——這一點正好與白血病的漸進式倦怠、發燒、骨痛相反。",
       "summary": "兒童 ITP 是「看起來嚇人但很少出大事」：腦出血 <1%、七八成半年內自癒，孩子精神好才符合。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童 ITP、選**最不適當**",
+        "t": "腦出血 **<1%**，不是 2–3 成",
+        "x": "7–8 成 6 個月內恢復、青春期女生要想 SLE、突然出現出血點，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148596,7 +149611,12 @@
       "guideline": null,
       "concepts": [
         "pleural-fluid-analysis"
-      ]
+      ],
+      "approach": {
+        "k": "肋膜積液滲出液 vs 漏出液、選**最不適當**",
+        "t": "pH <7.2 是**滲出液**（膿胸）特徵，漏出液 pH 通常 >7.4",
+        "x": "滲出液蛋白 >3、LDH >200、漏出液葡萄糖 ≥60，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148632,7 +149652,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "兒童呼吸衰竭、選**最適當**",
+        "t": "緊急時可用**微血管血**做血液氣體",
+        "x": "血氧目標約 **92–97%**，不必 >98%；以**呼吸性**酸中毒為主；X 光**沒有**固定標準"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148668,7 +149693,12 @@
       "guideline": null,
       "concepts": [
         "cah-enzyme-deficiencies"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**造成**次發性**腎上腺功能不全",
+        "t": "**CAH** 是**原發性**（腎上腺本身）",
+        "x": "突然停類固醇、前腦無裂畸形（垂體）、垂體放療都是次發性"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148704,7 +149734,12 @@
       "guideline": null,
       "concepts": [
         "perinatal-infections-breastfeeding-vaccines"
-      ]
+      ],
+      "approach": {
+        "k": "11 個月嬰兒維生素 D 缺乏危險因子",
+        "t": "**冬季住高緯度**",
+        "x": "只餵母乳到 2 個月不是風險；母親有補充是保護；皮膚白皙合成較好，深膚色才是風險"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148740,7 +149775,12 @@
       "C": "本題一律給分。H7N9 是禽流感病毒，屬於人畜共通的偶發感染，不是每年循環的季節性流感病毒。",
       "D": "本題一律給分。oseltamivir 是神經胺酸酶抑制劑；cap-dependent endonuclease inhibitor 指的是 baloxavir，兩種藥的機轉被寫反了。四個選項都有問題，官方因此公告一律給分。",
       "summary": "流感兩個機轉分清楚：drift 是點突變（A、B 都有）、shift 是基因重組（只有 A）；oseltamivir 擋神經胺酸酶、baloxavir 擋內切酶。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "流感病毒、選**最適當**（官方 A–D 都給分）",
+        "t": "四個選項都有錯：drift A 與 B 都有、B 型 Yamagata 已多年未檢出、H7N9 是禽流感、oseltamivir 是神經胺酸酶抑制劑",
+        "x": "官方全部給分"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148776,7 +149816,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-fever-approach"
-      ]
+      ],
+      "approach": {
+        "k": "發燒、選**最不適當**",
+        "t": "致熱原**不是唯一**機轉（還有中樞性、藥物、內分泌等）",
+        "x": "肛溫 >38°C、下視丘控制、發燒對人體有益，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148809,7 +149854,12 @@
       "C": "本項不選。方向相反，約六到八成的孩子症狀會持續到青春期，其中相當比例延續到成年，只是過動症狀通常變成內在的不安感。",
       "D": "正確。診斷要求症狀持續至少六個月、十二歲前就出現、而且在兩個以上的場合（例如家裡與學校）都造成功能損害。這三個條件缺一不可，正是為了排除只在單一環境出現的行為問題。",
       "summary": "ADHD 的三個門檻：症狀 ≥6 個月、12 歲前出現、兩個以上場合都受影響；腦波不是診斷工具。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "6 歲坐不住、亂跑、不專心、懷疑 ADHD、選**最適當**",
+        "t": "症狀要持續 **≥6 個月**",
+        "x": "腦波**不是**診斷條件；學齡前**也可以**診斷；約 60–80% 到青春期**仍持續**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148842,7 +149892,12 @@
       "C": "本項不選。肌束顫動來自失去神經支配的肌纖維自發放電，是下運動神經元損傷的特徵性表現。",
       "D": "本項應選。深腱反射「變強」屬於上運動神經元損傷；下運動神經元損傷會讓反射弧的傳出端斷掉，反射是減弱或消失的。",
       "summary": "上運動神經元是「多」：張力高、反射強、Babinski 陽性；下運動神經元是「少」：無力、萎縮、反射消失，外加肌束顫動。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**下運動神經元受損症狀",
+        "t": "**深部肌腱反射變強**是上運動神經元",
+        "x": "無力、Babinski 陰性、肌束顫動都是下運動神經元"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148878,7 +149933,12 @@
       "guideline": null,
       "concepts": [
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "兒童意識評估、選**最不適當**",
+        "t": "嬰幼兒 GCS 語言：**激躁哭鬧可安撫**是 4 分、**持續躁動**2 分；「坐立難安、激動」評 3 分的敘述錯誤",
+        "x": "嬰幼兒語言項目不同、定位疼痛 5 分、FOUR score 評估臥床病人，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -148911,7 +149971,12 @@
       "C": "本項敘述正確。成因是減數分裂時性染色體不分離，最常見的核型是 47,XXY。",
       "D": "本項敘述正確。這類病人四肢比例較長、身高偏高，但睪丸小而硬、精子稀少甚至無精，睪固酮偏低而促性腺激素上升。",
       "summary": "克林菲特症候群＝47,XXY：出生時看不出來、青春期才露餡（睪丸小、高瘦、乳房發育、不孕）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Klinefelter、選**最不適當**",
+        "t": "出生時**外觀通常正常**，青春期才表現",
+        "x": "男性性腺低下不孕最常見原因、減數分裂不分離、高個子小睪丸無精，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150433,7 +151498,12 @@
       "C": "本項不選。電腦斷層有輻射，對兒童生殖腺的暴露特別要避免，而且對腹腔內小睪丸的敏感度也不夠好。",
       "D": "本項不選。磁振造影雖然沒有輻射，但幼兒需要鎮靜、費用高，只在特殊情況才考慮。",
       "summary": "隱睪症影像先做超音波，但真正能找到並處理腹腔內睪丸的是腹腔鏡；一到一歲半前要完成手術固定。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "隱睪症**最先**施行的影像",
+        "t": "**超音波**",
+        "x": "X 光看不到；CT 有輻射；MRI 需鎮靜，都不是首選"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150466,7 +151536,12 @@
       "C": "本項不選。一歲以下嬰兒的異物哽塞用五次背擊加五次胸推，不做哈姆立克腹部推擠，以免傷到腹腔內臟器。",
       "D": "本項不選。按壓深度是胸廓前後徑的三分之一，嬰兒約 4 公分、兒童約 5 公分，四分之一太淺。",
       "summary": "兒童急救的三個數字：按壓深度為前後徑三分之一、嬰兒摸肱動脈、8 歲或 25 公斤以上可用成人去顫貼片。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童與嬰兒 CPR、選**最適當**",
+        "t": "9 歲 30 kg（≥8 歲或 ≥25 kg）可用**成人 AED**",
+        "x": "嬰兒摸**肱動脈**；嬰兒用背拍胸推**不用**哈姆立克；按壓深度是前後徑 **1/3**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
