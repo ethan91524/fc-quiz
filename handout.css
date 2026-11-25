@@ -155,3 +155,10 @@
 @keyframes fx-reveal{from{opacity:0;transform:translateY(-8px)}}
 #cardQuiz[aria-pressed=true]{background:var(--rule);color:var(--paper);border-color:var(--rule)}
 @media(prefers-reduced-motion:reduce){.card-wrap.open .card-cover{animation:none;display:none}.card-wrap.open .card-body{animation:none}}
+
+/* 解題思路：關鍵字 → 想到 → 排除（B2，2026-11-25） */
+.approach{display:grid;gap:6px}
+.approach dl{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;margin:0;font-size:15px;line-height:1.75}
+.approach dt{font-weight:700;color:var(--sig);white-space:nowrap}
+.approach dd{margin:0;color:var(--ink)}
+@media (min-width:760px){.ui .approach{grid-template-columns:64px 1fr;column-gap:16px}.ui .approach>.lbl{text-align:right;padding-right:12px;border-right:1px solid var(--hair);padding-top:4px}}
