@@ -1346,7 +1346,12 @@
       "guideline": null,
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "36 歲、多處淋巴結、DLBCL、體能好",
+        "t": "DLBCL 標準：**R-CHOP**（CD20 陽性加 rituximab，侵襲性淋巴瘤要有 doxorubicin）",
+        "x": "COP 少了 doxorubicin；R-COP 用於體弱不能用 anthracycline 者；CHOP 少了 rituximab"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1387,7 +1392,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "40 歲**亞裔女性、不抽菸**、第四期非小細胞肺癌",
+        "t": "這個族群 EGFR 突變率最高，而且有對應的標靶藥 → 驗 **EGFR**",
+        "x": "K-ras 多見於抽菸者且過去無藥；VEGF receptor 不是用突變選藥；BRAF 突變少見"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1423,7 +1433,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "費城染色體陽性 ALL、選**錯誤**的",
+        "t": "Ph+ ALL 是**成人**比兒童多（成人約四分之一，兒童只有 3–5%）",
+        "x": "BCR-ABL 融合、單用化療預後差、加 imatinib 改善預後，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1459,7 +1474,12 @@
       "guideline": null,
       "concepts": [
         "hemophilia-severity-classification"
-      ]
+      ],
+      "approach": {
+        "k": "嚴重型 A 型血友病、第八因子 <多少%",
+        "t": "**<1%** 嚴重（自發出血）、1–5% 中度、5–40% 輕度",
+        "x": "2%、5% 屬中度；10% 屬輕度"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1492,7 +1512,12 @@
       "C": "本項不選。CDH1 基因編碼 E-cadherin，功能喪失讓細胞黏不住彼此，正是瀰漫型胃癌的重要分子變化。遺傳性瀰漫型胃癌也與 germline CDH1 變異有關。",
       "D": "本項不選。腸型胃癌走的是「慢性胃炎→萎縮→腸化生→異生→癌」這條路，幽門螺旋桿菌感染是最重要的起點。",
       "summary": "Lauren 分型記兩條線：瀰漫型走 E-cadherin 失能與皮革胃；腸型走幽門桿菌與腸化生。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "胃癌 Lauren 分型、選**錯誤**的",
+        "t": "腸型（intestinal type）多在**胃竇**、與幽門桿菌和腸化生有關，不是好發賁門",
+        "x": "瀰漫型浸潤成皮革胃、瀰漫型失去 E-cadherin、腸型和幽門桿菌有關，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1528,7 +1553,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-tnm-basics"
-      ]
+      ],
+      "approach": {
+        "k": "乙狀結腸癌 **T2N2M0**、選**正確**的",
+        "t": "T2＝侵犯到**固有肌層**",
+        "x": "N2 是 **4 顆以上**淋巴結；輔助治療是化療，不加 bevacizumab；N 陽性 M0 是 **stage III** 不是 II"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1567,7 +1597,12 @@
       "concepts": [
         "jaundice-approach",
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "18 歲輕微黃疸、間接膽紅素、haptoglobin 低、**MCHC 37**、Coombs 陰性、抹片球形紅血球",
+        "t": "遺傳性球形紅血球症 → 膜骨架異常，紅血球在**脾臟**被破壞（血管外溶血）",
+        "x": "這題要選錯的：主要是血管內溶血是**錯**的；脾臟切除只用於嚴重者、感染（如 parvovirus）會加重、膜骨架異常，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1606,7 +1641,12 @@
       "concepts": [
         "leukemia-mpn-genetics",
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "前骨髓細胞 67%、FDP 與 D-dimer 極高（DIC）",
+        "t": "急性前骨髓性白血病（APL）→ ATRA＋arsenic trioxide；**ATRA 單用一定會復發**",
+        "x": "長期存活率很高、ATRA 加 ATO 可免化療、ATO 會延長 QT，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -7054,7 +7094,12 @@
       "B": "本項不選。重症肌無力（myasthenia gravis）病人合併胸腺瘤的比例大約一成，不是 10～50%。反過來看，胸腺瘤病人有三到五成會合併重症肌無力，這題把分母方向搞反了。",
       "C": "本項不選。胸腺瘤雖然不等於胸腺癌（thymic carcinoma），但仍可能直接侵犯鄰近大血管。壓迫或侵犯上腔靜脈就會造成上腔靜脈症候群（superior vena cava syndrome, SVC syndrome）。不能因為組織型比較低度就排除這個併發症。",
       "D": "本項不選。Masaoka–Koga 分期的 IVa 期是肋膜或心包膜的播散，IVb 期才包含淋巴或血行的遠端轉移。把淋巴轉移歸到 IVa 期，混淆了兩個第四期亞型。",
-      "summary": "胸腺瘤預後看能不能完整切除；Masaoka–Koga IVa 是肋膜／心包播散，IVb 才是淋巴或血行轉移。"
+      "summary": "胸腺瘤預後看能不能完整切除；Masaoka–Koga IVa 是肋膜／心包播散，IVb 才是淋巴或血行轉移。",
+      "approach": {
+        "k": "胸腺瘤、選**正確**的",
+        "t": "預後關鍵是**完整切除**；即使要切除上腔靜脈再重建，能切乾淨預後仍較好",
+        "x": "重症肌無力病人約 10–15% 有胸腺瘤（反過來胸腺瘤約 30–50% 有肌無力）；胸腺瘤侵犯也可造成上腔靜脈症候群；IVa 是肋膜或心包播散，淋巴轉移是 IVb"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7092,7 +7137,12 @@
       "B": "本項不選。ppo-FEV1 落在 20～30% 不能直接說可以安全手術，這是明顯的高風險範圍。要合併 ppo-DLCO 和運動測試（含心肺運動測試, cardiopulmonary exercise testing, CPET）一起評估，不能只憑這個數字放行。",
       "C": "本項不選。DLCO 低於 80% predicted 代表氣體交換儲備可能下降，確實會觸發進一步評估，但風險增加多少還要看 ppo-DLCO 和運動能力。這句不如 D 精確地指出下一步。",
       "D": "正確答案。DLCO 明顯降低（題目寫 <50% predicted）時，靜態肺功能不足以反映手術耐受度，要加做運動心肺功能檢查，用 peak VO2 等指標把心肺併發症風險分層。",
-      "summary": "肺切除前別只看 FEV1；ppo-FEV1、ppo-DLCO 偏低就用運動測試（尤其 CPET）進一步分層。"
+      "summary": "肺切除前別只看 FEV1；ppo-FEV1、ppo-DLCO 偏低就用運動測試（尤其 CPET）進一步分層。",
+      "approach": {
+        "k": "肺葉切除前肺功能評估、選**正確**的",
+        "t": "ppo-FEV1 或 ppo-DLCO 偏低時，加做**運動心肺功能測試**分層風險",
+        "x": "FEV1 不是術後肺容積指標；ppo-FEV1 <30% 是高風險，不是可安全手術；DLCO 是 <60% 才增加風險"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7128,7 +7178,12 @@
       "B": "本項不選。兒童縱膈腔腫瘤的分布跟成人不同，神經源性腫瘤（neurogenic tumor）是兒童常見類型，典型位在後縱膈腔、源自交感神經鏈或周邊神經，敘述正確。",
       "C": "本項不選。縱膈腔腫瘤治療依病理而定。可切除的胸腺瘤、畸胎瘤、神經源性腫瘤以完整切除為重，先取組織診斷再依類型安排輔助治療，不能把大型腫瘤一律直接化放療，敘述正確。",
       "D": "本項不選。胸腺瘤合併重症肌無力時，即使腫瘤小也建議完整胸腺切除。術前要先把肌無力控制好，降低術後肌無力危象和呼吸衰竭風險，敘述正確。",
-      "summary": "縱膈 seminoma 可有 β-hCG 輕度升高但 AFP 應正常；AFP 一升高就代表有 nonseminomatous 成分。"
+      "summary": "縱膈 seminoma 可有 β-hCG 輕度升高但 AFP 應正常；AFP 一升高就代表有 nonseminomatous 成分。",
+      "approach": {
+        "k": "縱膈腔疾病、選**錯誤**的",
+        "t": "**精原細胞瘤**（seminoma）**不分泌 AFP**；AFP 升高代表有非精原成分",
+        "x": "兒童以神經源腫瘤為主、能切就先切再輔助治療、胸腺瘤合併肌無力要盡早切除，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7166,7 +7221,12 @@
       "B": "本項不選。內視鏡下柱狀上皮延伸長度達 3 cm 以上叫長節段（long-segment）巴瑞特氏食道，短於 3 cm 是 short-segment，敘述正確。",
       "C": "本項不選。內視鏡只能懷疑 Barrett esophagus，確診要靠系統性 biopsy 證實特化型腸化生，同時評估有沒有 dysplasia，敘述正確。",
       "D": "本項應選。這是錯的敘述。Barrett esophagus 增加的是食道腺癌（esophageal adenocarcinoma）的風險，不是鱗狀細胞癌（squamous cell carcinoma）。「40 倍」這個數字即使見於舊資料，也不能把癌種寫反。",
-      "summary": "Barrett esophagus 是 intestinal metaplasia，要 biopsy 確診，癌化方向是食道腺癌不是鱗狀細胞癌。"
+      "summary": "Barrett esophagus 是 intestinal metaplasia，要 biopsy 確診，癌化方向是食道腺癌不是鱗狀細胞癌。",
+      "approach": {
+        "k": "Barrett esophagus、選**錯誤**的",
+        "t": "Barrett 增加的是**食道腺癌**，不是鱗狀細胞癌",
+        "x": "腸化生、>3 cm 稱長段、要切片確診，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7202,7 +7262,12 @@
       "B": "本項不選。確認是胃食道逆流、藥物最佳化後仍有反流症狀，或不能耐受長期用藥、有適當解剖問題時，可評估抗逆流手術。術前通常要用內視鏡、pH monitoring 和 manometry 確認適應症，敘述適當。",
       "C": "本項不選。長期強力抑酸會造成高胃泌素血症（hypergastrinemia）和 enterochromaffin-like cell hyperplasia，舊教材因此討論類癌風險。雖然人類一般用 PPI 與臨床顯著 gastric neuroendocrine tumor 的因果證據有限，但作為考點這句不算「最不適當」。",
       "D": "本項應選。這是最不適當的敘述。Nissen fundoplication 是胃底做 360° 全環包覆的 complete fundoplication。Toupet（270° posterior）或 Dor（anterior）才是 partial fundoplication。",
-      "summary": "抗逆流手術術式要分清：Nissen 是 360° complete wrap，不是 partial fundoplication。"
+      "summary": "抗逆流手術術式要分清：Nissen 是 360° complete wrap，不是 partial fundoplication。",
+      "approach": {
+        "k": "GERD 治療、選**較不適當**的",
+        "t": "Nissen 是 **360 度完全包覆**；部分包覆是 Toupet（270 度）或 Dor（前側 180 度）",
+        "x": "生活調整加 PPI 是第一線、內科極限仍有症狀可手術、長期 PPI 高胃泌素可能有類癌，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7238,7 +7303,12 @@
       "summary": "胸管在下胸段從右胸比較好接近；持續高流量乳糜胸可在橫膈上整束結紮胸管。",
       "concepts": [
         "chylothorax"
-      ]
+      ],
+      "approach": {
+        "k": "乳糜胸、選**錯誤**的",
+        "t": "胸管在下胸段走在右側 → 手術常從**右側**胸腔進入、在橫膈上結紮",
+        "x": "左頸淋巴廓清可傷胸管、保守治療 1–2 週、手術以橫膈上結紮胸管為主，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7271,7 +7341,12 @@
       "B": "本項應選。這是最不恰當的檢查。內視鏡逆行性膽胰管攝影（ERCP）是用來診斷和治療膽道或胰管疾病的，對進行性吞嚥困難、體重減輕加聲音沙啞所懷疑的食道惡性腫瘤幫不上忙。",
       "C": "本項不選。胸腹部電腦斷層（CT）可評估食道壁外侵犯、縱膈腔淋巴結和肝肺等遠端轉移。聲音沙啞也要留意腫瘤侵犯 recurrent laryngeal nerve 周圍。",
       "D": "本項不選。食道攝影（esophagography）可顯示狹窄長度、黏膜不規則和近端擴張，有助於定位吞嚥障礙，但不能取代內視鏡切片（biopsy）的組織診斷。",
-      "summary": "疑似食道癌用內視鏡切片、CT、EUS、食道攝影評估；ERCP 是膽胰檢查，跟食道病灶無關。"
+      "summary": "疑似食道癌用內視鏡切片、CT、EUS、食道攝影評估；ERCP 是膽胰檢查，跟食道病灶無關。",
+      "approach": {
+        "k": "吞嚥困難、體重減輕、聲音沙啞，**最不恰當**的檢查",
+        "t": "疑似食道癌侵犯喉返神經 → 用 EUS、CT、食道攝影評估；**ERCP** 是看膽胰管",
+        "x": "EUS 看 T 與 N、CT 看侵犯與轉移、食道攝影看狹窄位置，都恰當"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7596,7 +7671,12 @@
       "guideline": null,
       "concepts": [
         "axillary-lymph-node-levels"
-      ]
+      ],
+      "approach": {
+        "k": "腋下淋巴結分區、level II 在哪",
+        "t": "以**小胸肌**為座標：外側（下方）是 I、正後方（下方）是 II、內側（上方）是 III",
+        "x": "thoracodorsal 動脈不是分區座標；小胸肌上方內側是 level III"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7637,7 +7717,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "保乳手術適應症、選**錯誤**的",
+        "t": "保乳的條件是切得乾淨＋做得了放療；**前哨淋巴結陽性**不是保乳禁忌",
+        "x": "不能放療、切完外觀差、多象限多發病灶，這三種確實不適合保乳"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7709,7 +7794,12 @@
       "C": "正確。反覆肛周膿瘍後在七點鐘、距肛門約 1 cm 留下排膿小孔，符合嬰兒肛門瘻管；其瘻道通常短且呈放射狀，直接通向同方向的肛管。",
       "D": "本項不選。嬰兒肛周膿瘍與瘻管主要涉及肛腺感染及局部先天解剖因素；久坐是成人生活型態描述，門脈高壓則較會造成痔靜脈曲張，均不能解釋此瘻口。",
       "summary": "嬰兒反覆肛周膿瘍後出現持續排膿外口即應想到短而放射狀的肛門瘻管。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "嬰兒反覆肛周膿瘍、7 點鐘方向離肛門 1 cm 有小洞流分泌物",
+        "t": "嬰兒肛門瘻管 → 短、**放射狀直接**走向肛門內口（同一個鐘點方向）",
+        "x": "肛裂是撕裂傷不會流分泌物；繞道走向 6 點鐘是成人 Goodsall 後側規則；嬰兒和久坐或門脈高壓無關"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7742,7 +7832,12 @@
       "C": "本項不選。紅血球滲透脆性試驗可協助偵測遺傳性球形紅血球症；慢性溶血會增加 bilirubin turnover，形成黑色色素性膽結石，故兒童膽石症應追查溶血原因。",
       "D": "本項不選。有症狀的兒童膽囊結石會反覆造成膽絞痛、膽囊炎或胰臟炎，通常採腹腔鏡膽囊切除術；無症狀者才可依病因與風險觀察。",
       "summary": "兒童膽結石不能直接套用成人以膽固醇石為主的印象，須特別追查溶血性疾病。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "12 歲女童膽結石、選**錯誤**的",
+        "t": "兒童膽結石**多是色素結石**（溶血性疾病），不像成人以膽固醇石為主",
+        "x": "本例與肥胖無關、要查溶血（紅血球脆性試驗）、有症狀要切膽囊，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7780,7 +7875,12 @@
       "C": "本項不選。鰓裂囊腫（branchial cleft cyst）源自鰓器殘跡，常沿胸鎖乳突肌前緣形成外側頸部腫塊；感染後可突然變大而被發現。",
       "D": "本項不選。甲狀舌骨囊腫（thyroglossal duct cyst）是常見的兒童中線頸部腫塊，常隨吞嚥或伸舌上下移動，反映甲狀舌管未完全退化。",
       "summary": "幼兒頸部腫塊以淋巴管畸形及鰓裂、甲狀舌管殘跡常見，先天性頸部畸胎瘤相對罕見。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**非**幼兒常見頸部腫瘤",
+        "t": "幼兒頸部常見：囊狀水瘤（淋巴管畸形）、鰓裂囊腫、甲狀舌骨囊腫；頸部畸胎瘤罕見",
+        "x": "其他三個都是常見的先天性頸部腫塊"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7821,7 +7921,12 @@
       "guideline": null,
       "concepts": [
         "cryptorchidism-management-timing"
-      ]
+      ],
+      "approach": {
+        "k": "滿月男嬰、外環摸得到未降睪丸，回答**不適合**的",
+        "t": "摸得到的隱睪靠**理學檢查**就能定位，不需要 MRI 或超音波",
+        "x": "6 個月到 1 歲前仍可能下降、之後未降就做睪丸固定術、不處理會萎縮，三個回答都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7862,7 +7967,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-maintenance-fluid"
-      ]
+      ],
+      "approach": {
+        "k": "12 歲 45 kg、闌尾切除術後、維持輸液",
+        "t": "4-2-1 規則：100+50+20×25＝**約 2000 mL/天**；兒童維持液用 D5 ½NS＋KCl 20 mEq/L",
+        "x": "1500 mL 不夠；膠體不是維持液；生理食鹽水沒有糖與鉀"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7903,7 +8013,12 @@
       "guideline": "FC 醫學(五)第2冊 p.208",
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "肛裂、選**錯誤**的",
+        "t": "多數肛裂（尤其急性）靠軟便、坐浴、局部藥物就會好，需要手術的是少數慢性難治者",
+        "x": "齒狀線以下、多在正後方、劇痛、硬便惡性循環形成慢性潰瘍，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7944,7 +8059,12 @@
       "guideline": "FC 醫學(五)第2冊 p.160",
       "concepts": [
         "hinchey-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Hinchey、**廣泛膿性**腹膜炎",
+        "t": "Hinchey I 結腸旁膿瘍、II 骨盆或遠處膿瘍、**III 廣泛膿性腹膜炎**、IV 廣泛糞便性腹膜炎",
+        "x": "糞便性才是 IV；I、II 是局部膿瘍"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7982,7 +8102,12 @@
         "colorectal-cancer-polyps",
         "acute-abdominal-pain-approach",
         "gi-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腹主動脈瘤修補後 3 天、左下腹痛、血便",
+        "t": "修補時犧牲下腸繫膜動脈 → 左側結腸缺血 → **缺血性腸炎**",
+        "x": "偽膜性腸炎要有抗生素史且多水瀉；潰瘍性結腸炎不會術後突然發生；憩室炎很少以血便表現"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8023,7 +8148,12 @@
       "guideline": "FC 醫學(五)第2冊 p.184",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸息肉、選**錯誤**的",
+        "t": "腺瘤到癌的過程通常要**約 10 年**，不是 1–2 年",
+        "x": "多基因突變累積、越大越容易癌化、絨毛狀比管狀容易癌化，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8064,7 +8194,12 @@
       "guideline": "FC 醫學(五)第2冊 p.198",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "年長者腹腔鏡 vs 開腹大腸切除、優點**不包含**",
+        "t": "腹腔鏡優勢是傷口小、心肺併發症少、腫瘤清除相當；沒有證明能降低大腸切除本身的併發症與死亡率",
+        "x": "減少心肺併發症、傷口小、腫瘤清除相當，都是已證實的優點"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8305,7 +8440,12 @@
       "guideline": "FC 醫學(五)第2冊 p.244",
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺結節、懷疑惡性的合併症狀，**除外**",
+        "t": "惡性警訊是**侵犯或轉移**的表現：沙啞（喉返神經）、吞嚥困難、頸部淋巴腫大；心悸只代表甲狀腺功能",
+        "x": "沙啞、吞嚥困難、淋巴腫大都是惡性線索"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8346,7 +8486,12 @@
       "guideline": "FC 醫學(五)第2冊 p.244",
       "concepts": [
         "bethesda-thyroid-cytopathology"
-      ]
+      ],
+      "approach": {
+        "k": "Bethesda（2009）濾泡型腫瘤的惡性機率",
+        "t": "Bethesda IV 約 **15–30%**；濾泡癌要看手術標本有沒有包膜或血管侵犯，細胞學分不出來",
+        "x": "5–15% 是 III（AUS）；60–75% 是 V（疑似惡性）；97–99% 是 VI（惡性）"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8385,7 +8530,12 @@
       "D": "本項不選。腫瘤最大徑直接決定 T category 的重要界線，例如侷限甲狀腺內的腫瘤依大小分成 T1、T2 或 T3a，因此會影響病理分期。",
       "summary": "分化型甲狀腺癌分期看腫瘤大小／侵犯、淋巴結、遠端轉移及年齡，不納入性別。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "分化型甲狀腺癌 TNM 分期、**不會**影響的",
+        "t": "分期看腫瘤大小、侵犯、淋巴、轉移和**年齡（55 歲）**，不看**性別**",
+        "x": "年齡、侵犯帶狀肌、腫瘤大小都會改變分期"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8424,7 +8574,12 @@
       "D": "本項不選。長期 PTH 過高會增加骨轉換與骨吸收，嚴重時形成骨炎纖維囊腫（osteitis fibrosa cystica）及褐色瘤（brown tumor）。",
       "summary": "腎性骨病的核心是磷滯留、calcitriol 減少與低血鈣，進而引發次發性副甲狀腺亢進。",
       "guideline": "FC 醫學(五)第2冊 p.257",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "腎性骨病、選**最不適當**的",
+        "t": "腎絲球過濾差 → 磷排不出去，血磷是**過高**，不是過低",
+        "x": "活性維生素 D 減少、低血鈣引發次發性副甲狀腺亢進、骨吸收增加造成褐色瘤，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -13887,7 +14042,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "父系親屬有乳癌、淋巴癌、結腸癌，姑媽 BRCA 陰性",
+        "t": "BRCA 陰性只排除兩個基因 → 考慮**多基因套組**（PALB2、Lynch 基因、TP53 等）",
+        "x": "父系一樣會遺傳；篩檢用 MRI 加攝影，不是 PET；還沒確定風險就吃 AI 預防太早"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13928,7 +14088,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "EGFR 家族標靶**不用**在哪個癌",
+        "t": "EGFR 家族標靶用在上皮癌：結腸癌（cetuximab）、肺癌（EGFR TKI）、乳癌（anti-HER2）；**平滑肌肉瘤**是間質腫瘤",
+        "x": "結腸、肺、乳癌都有 EGFR 家族標靶藥"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13966,7 +14131,12 @@
       "C": "本項不選。NF-κB 是調控發炎、存活與免疫反應的轉錄因子網路，不是 imatinib 的標的。",
       "D": "本項不選。EGFR 是 osimertinib 這類藥物的標的，用在肺癌。選項寫的 EGFRα 和 imatinib 在慢性骨髓性白血病的作用完全無關。",
       "summary": "imatinib 的標的只有一個要記：費城染色體做出來的 BCR::ABL1 酪胺酸激酶。",
-      "guideline": "FC 醫學(三)第4冊 p.282"
+      "guideline": "FC 醫學(三)第4冊 p.282",
+      "approach": {
+        "k": "imatinib 抑制什麼",
+        "t": "費城染色體產生的 **BCR-ABL** 酪胺酸激酶",
+        "x": "PML-RARα 是 APL 的融合蛋白（用 ATRA）；NF-κB 是發炎轉錄因子；EGFR 是肺癌標靶"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14007,7 +14177,12 @@
       "guideline": "FC 醫學(三)第4冊 p.29",
       "concepts": [
         "coagulation-test-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "lupus anticoagulant、選**錯誤**的",
+        "t": "LA 是**抑制物** → aPTT 延長，混合正常血漿後**校正不回來**",
+        "x": "臨床上反而是栓塞不是出血、非 SLE 也會出現、VDRL 可偽陽性，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14043,7 +14218,12 @@
       "guideline": null,
       "concepts": [
         "coagulation-test-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "經血多、姊姊產後大出血、血小板正常、**出血時間延長＋aPTT 延長**",
+        "t": "vWF 黏住血小板（出血時間）又攜帶第八因子（aPTT）→ **von Willebrand disease**",
+        "x": "A 型血友病出血時間正常、少見女性；慢性肝炎 PT 會延長；尿毒症有腎病史"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14084,7 +14264,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "原發性肺癌、選**錯誤**的",
+        "t": "Horner 症候群是侵犯**交感神經鏈**（星狀神經節），不是膈神經；膈神經受侵是橫膈麻痺",
+        "x": "Horner 的眼窩凹陷、眼瞼下垂、瞳孔縮小、無汗；Pancoast 侵犯 C8、T1、T2；肩痛放射到尺側，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14117,7 +14302,12 @@
       "C": "本項不選。初診就有肺轉移的膀胱癌只占一小部分。肺確實是常見的遠端轉移部位，但那不是初診時最常見的期別。",
       "D": "本項不選。初診就有肝轉移更少見，而且肝轉移通常代表全身性的晚期疾病，預後差很多。",
       "summary": "膀胱癌大多在表淺期就被血尿「揭發」，所以初診以非肌肉侵犯型最多。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "膀胱癌初診斷**最常見**的期別",
+        "t": "約 70–75% 診斷時是**表淺型**（非肌肉侵犯），因為無痛性血尿很早就出現",
+        "x": "肌肉侵犯型約四分之一；初診就轉移的少"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14154,7 +14344,12 @@
       "concepts": [
         "microcytic-anemia",
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "缺鐵性貧血、選**錯誤**的",
+        "t": "海洋性貧血是血紅素鏈合成問題，鐵反而容易**過多**，不會容易缺鐵",
+        "x": "經血過多、痔瘡出血、胃繞道手術（十二指腸吸收鐵被繞過），都是缺鐵原因"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -18949,7 +19144,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "迴腸造口術後、造口每日 **3000 mL**、低血壓、低鈉低鉀",
+        "t": "高輸出造口 → 大量體液與電解質流失 → 脫水、倦怠",
+        "x": "沒有發燒不像腹腔感染；沒有出血證據不是急性失血；腎上腺功能不全沒有線索"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19687,7 +19887,12 @@
       "B": "本項不選。惡性肋膜積液造成呼吸困難時才用 thoracentesis、留置式肋膜導管（indwelling pleural catheter）或肋膜沾黏術（pleurodesis）緩解。引流主要改善症狀和生活品質，沒有證據顯示它本身能延長癌症存活。",
       "C": "本項不選。肺癌合併細胞學或 biopsy 證實的惡性肋膜積液屬 M1a，通常不做根治性肺切除。但如果積液反覆檢查都沒有惡性細胞、判定與腫瘤無關，還是可以依分期評估手術，不能一概排除。",
       "D": "本項不選。滑石粉肋膜沾黏術（talc pleurodesis）是有效又常用的方式，不是效果最差。前提是引流後肺能重新膨脹；如果是 trapped lung，比較適合留置式肋膜導管。",
-      "summary": "惡性肋膜積液處置以緩解症狀為主；talc pleurodesis 有效但要肺能再膨脹，肺癌惡性積液屬 M1a。"
+      "summary": "惡性肋膜積液處置以緩解症狀為主；talc pleurodesis 有效但要肺能再膨脹，肺癌惡性積液屬 M1a。",
+      "approach": {
+        "k": "惡性肋膜積液、選**正確**的",
+        "t": "女性惡性肋膜積液最常見原因是**乳癌**",
+        "x": "引流是緩解症狀，**不能**延長存活；肺癌惡性積液屬 M1a，良性積液不影響手術；滑石粉沾黏效果**最好**"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19725,7 +19930,12 @@
       "B": "本項不選。先天性肺葉過度膨脹（congenital lobar overinflation，舊稱 lobar emphysema）若造成明顯呼吸窘迫，肺葉切除是常見手術。題目用「最常切除」描述它的臨床重要性，敘述正確。",
       "C": "本項不選。肺內型肺隔離（intralobar pulmonary sequestration）多位在下葉後基底段，體循環供血常來自胸或腹主動脈，靜脈回流通常進到肺靜脈，敘述正確。",
       "D": "本項不選。左肺動脈吊索（pulmonary artery sling）是異常的左肺動脈在氣管和食道之間穿過並壓迫氣道，嬰幼兒常表現為喘鳴、呼吸窘迫或反覆呼吸道感染，敘述正確。",
-      "summary": "先天肺病要連解剖：intralobar sequestration 多在下葉、回流肺靜脈；pulmonary artery sling 壓氣道造成喘鳴。"
+      "summary": "先天肺病要連解剖：intralobar sequestration 多在下葉、回流肺靜脈；pulmonary artery sling 壓氣道造成喘鳴。",
+      "approach": {
+        "k": "先天性肺部疾病、選**錯誤**的",
+        "t": "支氣管囊腫即使無症狀也**建議切除**，因為會感染、壓迫，少數惡變",
+        "x": "肺葉氣腫最常切除、肺內型游離肺在下葉回流肺靜脈、肺動脈吊索壓迫氣道造成喘鳴，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19766,7 +19976,12 @@
       "summary": "肺癌篩檢用符合條件者的 low-dose CT；PET 用於分期，中央型鱗狀細胞癌較容易被痰液細胞學抓到。",
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "肺癌檢查、選**正確**的",
+        "t": "中央型**鱗狀細胞癌**較易脫落到痰中，痰細胞學陽性率較高",
+        "x": "腦部 MRI 用在晚期或有症狀者，不是每人例行；低劑量 CT **能**降低高危險群死亡率；PET 不是篩檢工具"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19807,7 +20022,12 @@
       "summary": "食道憩室看部位：Zenker 以食道攝影為主；中段的牽引型憩室多是真性、偏右。",
       "concepts": [
         "fundoplication-classification"
-      ]
+      ],
+      "approach": {
+        "k": "食道疾病、選**正確**的",
+        "t": "中段食道憩室多是**牽引型真性憩室**、偏右側（隆突下淋巴發炎牽拉）",
+        "x": "Zenker 以**食道攝影**診斷；360 度包覆不一定較好（吞嚥困難較多）；腐蝕傷不要盲放鼻胃管"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19845,7 +20065,12 @@
       "B": "本項不選。食道穿孔會很快引起縱膈腔炎和敗血症，確診後要立即禁食、給廣效抗生素、引流並控制食道缺損。延遲治療會明顯惡化預後，敘述適當。",
       "C": "本項不選。早期、組織還能存活、污染可控制的胸段食道穿孔，可以做一期修補（primary repair），常加一層有血流的組織補強。要不要修補不只看 12 小時，還要看位置、病因和病人狀態，敘述適當。",
       "D": "本項不選。高齡、手術風險高、穿孔又能被覆蓋的病人，可考慮覆膜支架（covered stent）加上充分引流。stenting 不是單獨治療，仍要處理胸腔或縱膈的感染源，敘述適當。",
-      "summary": "食道穿孔先用含水顯影劑攝影或 CT 定位；確診就立刻控制感染和外漏，早期可修補，高風險者選 stent 加引流。"
+      "summary": "食道穿孔先用含水顯影劑攝影或 CT 定位；確診就立刻控制感染和外漏，早期可修補，高風險者選 stent 加引流。",
+      "approach": {
+        "k": "食道穿孔、選**不適當**的",
+        "t": "先用**水溶性顯影劑食道攝影或 CT** 診斷；內視鏡打氣可能讓穿孔擴大",
+        "x": "確診要立即治療、12–24 小時內可直接修補、狀況差的老人可放支架，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19886,7 +20111,12 @@
       "B": "本項不選。會分泌 serotonin 等活性物質的類癌（carcinoid tumor）可造成潮紅、腹瀉、支氣管痙攣等類癌症候群（carcinoid syndrome），雖然不是每個胸腔 carcinoid 病人都會出現，配對正確。",
       "C": "本項不選。胸腺瘤（thymoma）和重症肌無力（myasthenia gravis）有經典關聯，也可能合併純紅血球再生不良（pure red cell aplasia）或低丙種球蛋白血症（hypogammaglobulinemia），配對正確。",
       "D": "本項應選。這是錯的配對。椎體異常不是胸腺瘤的典型伴隨症候群。胸椎或肋骨異常比較會跟特定先天畸形，或後縱膈神經源性腫瘤沿脊柱旁生長有關。",
-      "summary": "thymoma 配 myasthenia gravis、不配椎體異常；另兩組經典配對是 neurofibroma–NF1、carcinoid–carcinoid syndrome。"
+      "summary": "thymoma 配 myasthenia gravis、不配椎體異常；另兩組經典配對是 neurofibroma–NF1、carcinoid–carcinoid syndrome。",
+      "approach": {
+        "k": "縱膈腔腫瘤與相關症狀、配對**錯誤**",
+        "t": "胸腺瘤配重症肌無力、純紅血球再生不良、低丙球蛋白；**脊椎異常**是腸源性囊腫（neurenteric cyst）",
+        "x": "神經纖維瘤–NF1、類癌–類癌症候群、胸腺瘤–肌無力，三組正確"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20233,7 +20463,12 @@
       "D": "本項不選。最下甲狀腺動脈（thyroidea ima artery）是少數人的變異血管，可源自頭臂幹或主動脈弓，沿氣管前方供應甲狀腺峽部。",
       "summary": "甲狀腺有上、下甲狀腺動脈，少數有 thyroidea ima artery；「中甲狀腺」是靜脈而非標準動脈。",
       "guideline": "FC 醫學(五)第2冊 p.244",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不是**供應甲狀腺的動脈",
+        "t": "甲狀腺動脈只有上、下甲狀腺動脈，少數人有最下甲狀腺動脈；「中甲狀腺」只有**靜脈**",
+        "x": "上甲狀腺動脈來自外頸動脈；下甲狀腺動脈來自甲狀頸幹；thyroidea ima 來自頭臂幹或主動脈弓"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20270,7 +20505,12 @@
       "concepts": [
         "men-syndromes",
         "familial-hypocalciuric-hypercalcemia"
-      ]
+      ],
+      "approach": {
+        "k": "原發性副甲狀腺亢進＋甲狀腺結節＋**calcitonin 升高**",
+        "t": "calcitonin 高 → 甲狀腺髓質癌；髓質癌＋副甲狀腺亢進 → **MEN 2A**",
+        "x": "MEN 1 是副甲狀腺、胰臟、腦下垂體，沒有髓質癌；FHH 尿鈣低（本題 450 很高）；jaw tumor 症候群沒有髓質癌"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20311,7 +20551,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "超音波 vs 乳房攝影、選**錯誤**的",
+        "t": "**微鈣化**要靠乳房攝影，超音波幾乎看不到",
+        "x": "50 歲以下與緻密乳房時攝影敏感度差、50 歲以上篩檢用攝影，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20352,7 +20597,12 @@
       "guideline": null,
       "concepts": [
         "bi-rads"
-      ]
+      ],
+      "approach": {
+        "k": "攝影見叢聚微鈣化 BI-RADS 4，超音波正常",
+        "t": "BI-RADS 4 就要切片；超音波本來就看不到鈣化，正常不能降級",
+        "x": "不能因超音波正常就不切；4 類惡性機率是 2–95%，不是 <1%；鈣化表現的最常見是 DCIS，不是浸潤性乳管癌"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20393,7 +20643,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌手術與輔助治療、選**錯誤**的",
+        "t": "保乳加放療的存活率**等同**全乳切除，沒有統計上的**增加**",
+        "x": "根治切除是歷史基礎、切緣殘留增加局部復發、嚴重肺病不適合放療，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20468,7 +20723,12 @@
       "guideline": null,
       "concepts": [
         "todani-choledochal-cyst-classification"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲腹痛、澱粉酶高、**肝內與總膽管都擴張**",
+        "t": "肝內外都擴張 → Todani **IVa**；胰膽管合流異常讓胰液逆流；胰臟炎緩解後就手術",
+        "x": "V 型只有肝內膽管擴張（Caroli）；不必等到 6 歲，會增加併發症與癌化"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20501,7 +20761,12 @@
       "C": "本項應選。①的腎盂輸尿管交界阻塞（UPJ obstruction）最符合影像；③利尿腎圖可評估分腎功能及 furosemide 後排空情形，協助判定阻塞程度。",
       "D": "本項不選。①與③正確，但⑤忽略已有嚴重水腎、皮質變薄與感染；這些是考慮腎盂成形術（pyeloplasty）的重要理由，不宜僅用抗生素等待。",
       "summary": "水腎但輸尿管不擴張要定位 UPJ；利尿腎圖評估阻塞與分腎功能，嚴重皮質變薄不能只觀察。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "5 歲發燒、腰痛、膿尿、嚴重水腎**皮質變薄**、輸尿管**不擴張**、沒有逆流",
+        "t": "阻塞在**腎盂輸尿管交界（UPJ）**→ 做利尿腎圖（DTPA＋Lasix）評估",
+        "x": "輸尿管膀胱狹窄會讓輸尿管擴張；輸尿管再植入是 UVJ 或逆流的術式；皮質已變薄不能只用抗生素觀察"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20542,7 +20807,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-maintenance-fluid"
-      ]
+      ],
+      "approach": {
+        "k": "13.5 kg 幼兒、每日維持輸液量",
+        "t": "Holliday-Segar：前 10 kg 100 mL/kg＝1000，之後 50 mL/kg×3.5＝175 → **1175 mL**",
+        "x": "900、1050 少算；2700 是兩倍，過量"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20575,7 +20845,12 @@
       "C": "最不適當。部分 CPAM 與胸膜肺母細胞瘤（pleuropulmonary blastoma）鑑別困難，某些型別亦有惡性轉化疑慮，不能保證完全沒有腫瘤風險。",
       "D": "本項不選。無症狀嬰兒可先完成出生後影像評估，再於嬰兒期擇期切除；若出生即呼吸窘迫，需先穩定呼吸循環，再依壓迫程度緊急處理病灶。",
       "summary": "CPAM 多為單葉囊性病灶；有壓迫可致胎兒或新生兒窘迫，且不能宣稱毫無惡性風險。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "CPAM、對準媽媽解釋，選**最不適當**的",
+        "t": "CPAM 有少數會**惡變**（如胸膜肺母細胞瘤、黏液性腺癌），不能說「沒有惡性可能」",
+        "x": "多限於單一肺葉、可能胎兒窘迫（水腫）、無症狀者觀察到約 6 個月前切除，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20616,7 +20891,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-gi-obstruction-nec"
-      ]
+      ],
+      "approach": {
+        "k": "腸旋轉不良、Ladd 手術步驟",
+        "t": "Ladd 四步：**解扭轉、切 Ladd band（分離盲腸與十二指腸）、展寬腸繫膜根部、切除闌尾**",
+        "x": "不做結腸固定；漏了展寬腸繫膜根部就不完整"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20657,7 +20937,12 @@
       "guideline": "FC 醫學(五)第2冊 p.198",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌、選**錯誤**的",
+        "t": "肥胖與久坐**增加**大腸直腸癌風險",
+        "x": "九成在 50 歲以上、八成偶發兩成有家族史、高脂低纖飲食增加風險，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20698,7 +20983,12 @@
       "guideline": "FC 醫學(五)第2冊 p.208",
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "栓塞性外痔、隔天就診、1.5 cm",
+        "t": "72 小時內疼痛明顯 → 完整**切除**；或保守的溫水坐浴與局部治療",
+        "x": "只切開取血塊容易再栓塞；硬化劑注射只能用在齒狀線以上的內痔"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20739,7 +21029,12 @@
       "guideline": "FC 醫學(五)第2冊 p.147",
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸解剖、選**錯誤**的",
+        "t": "乙狀結腸容易穿孔是因為管徑小、壓力高、憩室多，不是腸壁比較薄",
+        "x": "闌尾根部在三條結腸帶匯合處、Treves 皺襞可找闌尾、直腸沒有結腸帶與脂肪垂，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20780,7 +21075,12 @@
       "guideline": "FC 醫學(五)第2冊 p.177",
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "UC vs Crohn、選**正確**的",
+        "t": "Crohn 是**全層**發炎 → 容易形成肛門或腸道瘻管",
+        "x": "Crohn 才會侵犯小腸；原發性硬化性膽管炎較常合併 UC；抽菸**會**讓 Crohn 復發"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -21688,7 +21988,12 @@
       "B": "本項不選。這個冠狀切面切過心臟，可以看到左右心室之間的心室中隔，敘述正確。",
       "C": "本項應選。這是錯的敘述。下行主動脈走在脊椎旁、位置偏後，這張偏前的冠狀切面切不到它。圖上看得到的是升主動脈和主動脈弓那一段。",
       "D": "本項不選。右下胸有一團分葉狀腫塊，切面往下延伸到上腹部，也帶到匯入下腔靜脈的肝靜脈，敘述正確。",
-      "summary": "這張是增強冠狀 CT：偏前的切面看得到升主動脈，看不到走在脊椎旁的下行主動脈。"
+      "summary": "這張是增強冠狀 CT：偏前的切面看得到升主動脈，看不到走在脊椎旁的下行主動脈。",
+      "approach": {
+        "k": "增強冠狀 CT、選**錯誤**的",
+        "t": "這個冠狀切面偏前，看得到升主動脈與心室，**看不到**走在脊椎旁的**下行主動脈**",
+        "x": "有打顯影劑、看得到心室中隔、右下胸腫塊與肝靜脈，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -26545,7 +26850,12 @@
       "C": "本項不選。腫瘤會把調節型 T 細胞（regulatory T cells）招募或擴增進來，用抑制性訊號壓制效應 T 細胞的功能。",
       "D": "本項應選。官方同樣接受這一項。位置也錯了：CTLA-4 主要表現在**活化的 T 細胞與調節型 T 細胞**表面，不是腫瘤細胞的產物。腫瘤是靠配體與微環境去啟動這個煞車。",
       "summary": "本題官方 A、D 或 AD 均給分。兩個錯處都是「角色配錯」：IFN-γ 是活化不是抑制，CTLA-4 長在 T 細胞不是腫瘤細胞。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腫瘤免疫逃脫機轉、選**錯誤**的（官方 A、D 都給分）",
+        "t": "IFN-γ 是**活化**免疫的細胞激素（抑制性的是 TGF-β、IL-10）；CTLA-4 長在 **T 細胞**上，不是腫瘤產生",
+        "x": "MHC I 喪失讓 T 細胞認不出、調節 T 細胞抑制免疫，這兩句對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26619,7 +26929,12 @@
       "C": "本項應選。事實剛好相反：轉移性胰臟癌已有多個組合化療證實比 gemcitabine 單藥更好，包括 FOLFIRINOX 與 gemcitabine 加 nab-paclitaxel。",
       "D": "本項不選。gemcitabine 治療後才進展的轉移性胰臟癌，可以用 liposomal irinotecan 加 5-fluorouracil（5-FU） 與 leucovorin，這個組合有隨機試驗支持的整體存活效益。",
       "summary": "胰臟癌早就不是 gemcitabine 單打獨鬥：術後與轉移兩個情境都有組合化療證實延長存活。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "胰臟癌藥物治療、選**最不恰當**的",
+        "t": "轉移性胰臟癌，**組合化療**（FOLFIRINOX、gemcitabine＋nab-paclitaxel）已證實**優於** gemcitabine 單藥",
+        "x": "術後輔助化療半年、gemcitabine＋capecitabine 優於單藥、gemcitabine 失敗後用 liposomal irinotecan＋5-FU，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26693,7 +27008,12 @@
       "C": "本項應選。順序整個顛倒了：實際上非肌肉侵犯型**最多**，其次才是肌肉侵犯型，初診就遠端轉移的最少。",
       "D": "本項不選。高風險的非肌肉侵犯型膀胱癌（NMIBC；T1、高惡性度、原位癌）在完整經尿道切除之後，膀胱灌注 BCG 可以降低復發與進展。治療前還要評估需不需要再切一次（repeat TURBT）。",
       "summary": "膀胱癌的分子分型也對應惡性度：FGFR3 走低惡性度、TP53／RB1 走高惡性度。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "膀胱癌、選**錯誤**的",
+        "t": "膀胱癌初診時**多數是非肌肉侵犯型**，不是多數已遠端轉移（順序整個講反）",
+        "x": "最常見是泌尿上皮癌、低惡性度 FGFR3／高惡性度 TP53、高風險非肌肉侵犯型做 BCG，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26735,7 +27055,12 @@
       "concepts": [
         "leukemia-mpn-genetics",
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "嚴重再生不良貧血治療、選**最不恰當**的",
+        "t": "再生不良貧血要靠移植或 **ATG＋cyclosporin** 免疫抑制；類固醇單用效果差",
+        "x": "異體移植、ATG＋cyclosporin、G-CSF 通常無效，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26768,7 +27093,12 @@
       "C": "本項不選。Hb Gower II（α2ε2）同樣是胚胎血紅素，ε 鏈在妊娠早期就被 γ 鏈取代掉了。",
       "D": "正確答案。胎兒 10～11 週時 HbF（α2γ2）已經成為主要血紅素，一直到出生前都占優勢，出生後才逐步換成 HbA。",
       "summary": "血紅素的一生：胚胎期用 ζ 與 ε（Gower、Portland）→ 胎兒期用 HbF（α2γ2）→ 出生後換 HbA。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "胎兒 10–11 週主要的血紅素",
+        "t": "約 8 週後胚胎型（Gower、Portland）被 **HbF（α2γ2）** 取代",
+        "x": "Portland、Gower I、Gower II 都是胚胎前 8 週的血紅素"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26809,7 +27139,12 @@
       "guideline": "FC 醫學(三)第4冊 p.215",
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "CML、BCR-ABL1、選**錯誤**的",
+        "t": "輻射只是少數人的風險因子，**不是**「常常」導致這個轉位",
+        "x": "p210 最常見、酪胺酸激酶活性增加、可定量 BCR-ABL 追蹤治療效果，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28160,7 +28495,12 @@
       "C": "本項應選。血液透析對嚴重高血鈣其實**很有效而且很快**，特別適合危及生命、合併腎衰竭、或無法承受大量輸液的病人。說它效果有限並不正確。",
       "D": "本項不選。calcitonin 幾小時內就起效，缺點是幅度有限又容易快速失效（tachyphylaxis）；靜脈（IV）雙磷酸鹽起效慢但持久。所以急性期常兩個一起用。",
       "summary": "惡性高血鈣的三段式：先大量輸液，calcitonin 搶時間，雙磷酸鹽接手；撐不住就上透析。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "鼻咽癌、Ca 16.0、albumin 2.9，選**最不適當**的",
+        "t": "嚴重高血鈣、腎功能差或撐不住時，**血液透析能有效降鈣**",
+        "x": "校正鈣＝16＋0.8×(4−2.9)＝16.88；高血鈣 QT 縮短；calcitonin 數小時起效，比雙磷酸鹽快，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -31713,7 +32053,12 @@
       "B": "本項不選。③開放式氣胸先用三邊封閉敷料加遠離傷口的胸管處理；④雙側疑傷和⑤胸管少量漏氣本身也不必馬上開胸。這組缺少明確的大量出血或心臟傷。",
       "C": "正確答案。①立刻 1,500 mL 血胸代表持續的大血管或肺門出血，②心包填塞提示穿透性心臟傷，③開放式氣胸代表胸壁有缺損要處理。三個都要考慮手術控制或修補。",
       "D": "本項不選。①②確實是探查指標，但⑤胸管裡少量氣體常來自肺實質或胸壁漏氣，在胸管引流下觀察即可，不像持續大量 air leak 或疑主支氣管斷裂那樣要立刻探查。",
-      "summary": "穿透性胸傷要開胸的高危訊號：massive hemothorax（≥1,500 mL）、心包填塞、需修補的開放式氣胸——不是單純少量漏氣。"
+      "summary": "穿透性胸傷要開胸的高危訊號：massive hemothorax（≥1,500 mL）、心包填塞、需修補的開放式氣胸——不是單純少量漏氣。",
+      "approach": {
+        "k": "穿刺性胸傷、要手術探查的狀況",
+        "t": "①胸管立刻流出 **≥1500 mL**、②**心包填塞**、③**開放性氣胸**（大缺損需修補）→ 要開刀",
+        "x": "④兩側受傷本身不是開刀指標；⑤少量漏氣通常胸管處理即可"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -31754,7 +32099,12 @@
       "guideline": "FC 醫學(五)第2冊 p.197",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "結腸癌 **pT3N1**、無遠處轉移",
+        "t": "N1 → 第三期 → 術後 **oxaliplatin 為主**的輔助化療（FOLFOX 或 CAPOX）",
+        "x": "第三期不能只追蹤；FOLFIRI 與標靶藥物在輔助治療沒有效益，用在轉移性"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -31790,7 +32140,12 @@
       "guideline": null,
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "腸道胚胎發育、選**錯誤**的",
+        "t": "中腸是**遠端十二指腸**到橫結腸近端三分之二，不是從近端空腸開始",
+        "x": "前腸由腹腔動脈供應、內括約肌來自直腸環肌層、泌尿直腸隔約第 6 週往下分隔，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -31831,7 +32186,12 @@
       "guideline": "FC 醫學(五)第2冊 p.146",
       "concepts": [
         "absorption-short-bowel-fistula"
-      ]
+      ],
+      "approach": {
+        "k": "大腸生理、選**錯誤**的",
+        "t": "大腸菌分解尿素產生**氨** → 會**加重**肝衰竭的高血氨",
+        "x": "菌相維持上皮完整、擬桿菌約占三分之二、大腸大量吸收水分，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -31868,7 +32228,12 @@
       "concepts": [
         "anorectal-colon-anatomy-lgib",
         "gi-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "血便、心跳 120、血壓 90/56，**較不適宜**的處置",
+        "t": "先復甦、找來源、定位再止血；還沒定位就直接開刀不適當",
+        "x": "問病史用藥加肛門檢查、建管路輸液配血、放鼻胃管或胃鏡排除上消化道出血，都是正確步驟"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -31909,7 +32274,12 @@
       "guideline": "FC 醫學(五)第2冊 p.134",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "腹腔鏡闌尾切除、年長 vs 年輕、選**錯誤**的",
+        "t": "年長者轉開腹、手術併發症、複雜闌尾炎都較多，但**感染相關併發症**並沒有比較高",
+        "x": "另外三句都是年長者確實比較多的情況"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32568,7 +32938,12 @@
         "cyanotic-vs-acyanotic-chd",
         "tetralogy-of-fallot",
         "ductal-dependent-chd"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒發紺、PGE1 **無法**緩解、要立即手術",
+        "t": "PGE1 只能保持動脈導管打開；**阻塞型心下型全肺靜脈回流異常**的問題在肺靜脈出口，打開導管反而增加肺血流加重肺水腫",
+        "x": "左心發育不全、TOF、大動脈轉位都靠 PDA 暫時維持"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32601,7 +32976,12 @@
       "B": "本項不選。慢性纖維性縱膈腔炎會用緻密纖維把大血管或氣道包住，往往切不乾淨。手術多用來取得診斷、做繞道，或處理局部壓迫的併發症，敘述正確。",
       "C": "本項不選。纖維性縱膈腔炎（fibrosing mediastinitis）可由慢性肉芽腫性淋巴結炎後的過度纖維反應造成。題目列的肺結核是可能原因之一，其他地區常和 Histoplasma 相關，敘述正確。",
       "D": "本項應選。這是錯的敘述。急性縱膈腔炎是要控制感染源的急症，光給抗生素通常不夠。食道穿孔、胸骨感染或下行性頸部感染都要依來源緊急清創和引流。",
-      "summary": "急性縱膈腔炎不能只靠抗生素，核心是早期廣效抗菌加積極清創引流；慢性纖維型手術多為診斷或減壓。"
+      "summary": "急性縱膈腔炎不能只靠抗生素，核心是早期廣效抗菌加積極清創引流；慢性纖維型手術多為診斷或減壓。",
+      "approach": {
+        "k": "縱膈腔炎、選**錯誤**的",
+        "t": "急性縱膈腔炎（如食道穿孔、下行性壞死性）要抗生素**加手術清創引流**，單靠抗生素不行",
+        "x": "牙齦感染可下行、慢性纖維性多手術只做診斷或緩解、硬化性常因慢性淋巴結發炎（組織胞漿菌、結核），三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32642,7 +33022,12 @@
       "summary": "穿透性心前區傷加頸靜脈怒張（JVD）、相等呼吸音、休克先當創傷性心包填塞：FAST 快速確認，失代償就緊急手術，不等胸片。",
       "concepts": [
         "shock-initial-approach"
-      ]
+      ],
+      "approach": {
+        "k": "劍突上刀傷、休克、**頸靜脈怒張、兩側呼吸音相同**",
+        "t": "創傷性**心包填塞** → 超音波確認、心包穿刺、測不到血壓就開胸；**不要等胸部 X 光**",
+        "x": "心臟超音波、心包穿刺、急診開胸，都是正確處置"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32683,7 +33068,12 @@
       "summary": "肺癌手術不是只看一個標籤：極早期 N0 的 SCLC 和選擇性寡轉移 NSCLC 仍可能接受局部手術。",
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "肺癌手術、選**正確**的",
+        "t": "局部切除無法診斷的肺腫瘤，有時要做肺葉切除才能確診與治療",
+        "x": "極早期 N0 小細胞肺癌**可以**手術；IIB 術後**要**輔助化療；單一腦轉移（寡轉移）仍可考慮切除"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32765,7 +33155,12 @@
       "B": "本項應選。這是錯的敘述。T1 是侵犯 lamina propria、muscularis mucosae 或 submucosa。侵犯到 muscularis propria 已經是 T2，不能還算 T1。",
       "C": "本項不選。T3 食道癌穿過 muscularis propria、侵犯 adventitia，但還沒侵犯鄰近器官。食道沒有 serosa，所以侵犯 adventitia 有分期意義，敘述正確。",
       "D": "本項不選。T4b 表示侵犯不可切除的重要鄰近構造，例如主動脈、椎體或氣管。相對地 T4a 的肋膜、心包膜、azygos vein、橫膈等可視情況切除，敘述正確。",
-      "summary": "食道癌 T 分期：T1 到黏膜／黏膜下、T2 到 muscularis propria、T3 到 adventitia、T4b 侵犯主動脈或氣管等要害。"
+      "summary": "食道癌 T 分期：T1 到黏膜／黏膜下、T2 到 muscularis propria、T3 到 adventitia、T4b 侵犯主動脈或氣管等要害。",
+      "approach": {
+        "k": "食道癌 T 分期、選**錯誤**的",
+        "t": "T1 是侵犯**黏膜或黏膜下層**；侵犯固有肌層是 **T2**",
+        "x": "Tis 是高度分化不良、T3 侵犯外膜、T4b 侵犯主動脈或氣管，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32924,7 +33319,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "25 歲女性右下腹痛、**幫助最少**的病史",
+        "t": "藥物過敏史和找病因無關",
+        "x": "月經與性生活（子宮外孕、PID）、發燒關節炎手術史（Crohn、沾黏）、腸胃症狀時序（闌尾炎），都能幫忙鑑別"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33168,7 +33568,12 @@
       "D": "本項不選。年齡是分化型甲狀腺癌 AJCC 分期的特殊要素，第八版以 55 歲分界；相同解剖 TNM 在不同年齡可落入不同 prognostic stage。",
       "summary": "分化型甲狀腺癌存活最受解剖病灶與年齡影響，術前甲狀腺功能並非 TNM 預後因子。",
       "guideline": "FC 醫學(五)第2冊 p.243",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "分化型甲狀腺癌存活率、影響力**最弱**的",
+        "t": "預後看解剖範圍與年齡；**術前甲狀腺功能**不是預後因子",
+        "x": "腫瘤大小、遠處轉移、年齡都是 TNM 裡的強預後因子"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33202,7 +33607,12 @@
       "D": "本項不選。困難插管或反覆操作可造成喉部創傷與聲門水腫，拔管後可能出現 stridor 與呼吸困難，屬急性術後氣道問題。",
       "summary": "甲狀腺術後急性呼吸困難先想血腫、雙側喉返神經損傷或插管性喉水腫，不是慢性甲低。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "甲狀腺術後呼吸困難、**最不可能**的原因",
+        "t": "甲狀腺功能低下要幾週才出現，不會造成術後急性氣道水腫",
+        "x": "血腫壓迫、雙側喉返神經受傷、困難插管喉水腫，都是術後急性呼吸困難的原因"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33241,7 +33651,12 @@
       "D": "本項不選。Chromogranin A 可作神經內分泌分化與腫瘤負荷的輔助標記，但會受 proton-pump inhibitor、腎功能不全等干擾，追蹤時須配合影像及臨床判讀。",
       "summary": "胰臟神經內分泌腫瘤的激素染色不等於功能性腫瘤；命名 insulinoma 需有臨床高胰島素低血糖。",
       "guideline": "FC 醫學(五)第3冊 p.224",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "胰臟神經內分泌腫瘤、選**錯誤**的",
+        "t": "insulinoma 要有**臨床**高胰島素低血糖；只有免疫染色 insulin 陽性不能叫 insulinoma",
+        "x": "glucagonoma 有壞死遊走性紅斑、Ki-67 >20% 是 high grade（G3）、chromogranin A 可用於功能與非功能腫瘤，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33277,7 +33692,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "乳房 Paget disease、選**正確**的",
+        "t": "乳頭的 Paget 病是底下乳癌（DCIS 或侵襲癌）侵犯乳頭，常合併腋下淋巴轉移",
+        "x": "不是單純皮膚病、不能用類固醇治；不是癌前病變；合併腫塊時淋巴轉移並不少見"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33313,7 +33733,12 @@
       "guideline": null,
       "concepts": [
         "bi-rads"
-      ]
+      ],
+      "approach": {
+        "k": "BI-RADS **4A**",
+        "t": "4 類＝懷疑惡性（4A 是低度懷疑，2–10%），要切片",
+        "x": "要補影像是 0 類；正常是 1 類；可能良性、6 個月追蹤是 3 類"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33426,7 +33851,12 @@
       "C": "本項不選。新生兒單位體重表面積大、皮膚薄且蒸發散熱快，無感水分流失相對高；保暖可同時減少熱量、氧氣與液體需求。",
       "D": "本項不選。新生兒幾乎不靠顫抖產熱，而以棕色脂肪的非顫抖性生熱增加代謝；冷壓力會提高氧與葡萄糖消耗，嚴重時造成低氧、低血糖與代謝性酸中毒。",
       "summary": "新生兒易失溫且靠棕色脂肪產熱；出生後肺泡化持續多年，不是終末細支氣管只長到八個月。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "新生兒生理、選**錯誤**的",
+        "t": "出生後**肺泡**會持續增生到幼兒期（約 8 歲），不是只長到 8 個月；終末細支氣管在出生前就形成",
+        "x": "微血管回填評估灌流、體表面積大易失溫、靠棕色脂肪非顫抖性產熱，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33464,7 +33894,12 @@
       "C": "本項不選。早期治療以物理治療、被動伸展與擺位為主，多數嬰兒可改善；並需評估斜頭與發展性髖關節發育不良等伴隨問題。",
       "D": "錯誤。先天性肌性斜頸主要來自胸鎖乳突肌纖維化、縮短或損傷，不是斜方肌（trapezius muscle）纖維化。",
       "summary": "嬰兒肌性斜頸的患肌是胸鎖乳突肌；頭向患側傾、下巴轉向對側，先做伸展治療。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "3 個月女嬰、頭總是轉向右邊，選**錯誤**的",
+        "t": "先天性斜頸是**胸鎖乳突肌**纖維化，不是斜方肌；頭轉向右（下巴朝右）→ 左側胸鎖乳突肌異常",
+        "x": "先天性斜頸、左側肌肉異常、先做物理治療伸展，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33502,7 +33937,12 @@
       "C": "本項不選。面罩正壓會把空氣灌入胸腔內的胃腸道，使肺壓迫惡化；出生後應避免 bag-mask ventilation，改採氣管插管、低壓通氣並立即胃腸減壓。",
       "D": "正確。置入口胃管持續減壓可排出胃腸內容與氣體，減少胸腔內腸胃膨脹對發育不全肺的額外壓迫；之後先穩定再修補。",
       "summary": "橫膈膜疝氣先插管與胃管減壓、處理肺高壓，待生理穩定後才手術。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "先天性橫膈疝氣治療、選**最適當**的",
+        "t": "出生後放**胃管減壓**，避免腸胃脹氣壓迫肺",
+        "x": "胎兒手術效果有限；不是出生 1 天內修補，要先穩定肺高壓；不能用面罩加壓（會吹脹胸內腸子），要插管"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33540,7 +33980,12 @@
       "C": "正確。腹裂暴露的腸道可因血管受壓、缺血或扭轉而合併小腸閉鎖，這是其較具代表性的腸道伴隨異常。",
       "D": "本項不選。食道閉鎖常與 VACTERL 或其他先天異常群聚，不是腹裂最典型的伴隨病灶。",
       "summary": "腹裂較少合併染色體與心臟異常，但須警覺因缺血損傷伴隨的小腸閉鎖。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腹裂、**較常見**合併的異常",
+        "t": "腹裂腸子泡在羊水、缺損處壓迫血流 → **小腸閉鎖**",
+        "x": "心臟病、染色體異常是**臍膨出**較常合併；食道閉鎖無特別相關"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33732,7 +34177,12 @@
       "C": "本項不選。Ortolani maneuver 將已脫位股骨頭外展並推回髖臼，感到明確 clunk 為陽性，適合新生兒早期檢查可復位髖。",
       "D": "本項不選。Barlow maneuver 在髖屈曲內收時向後施壓，測試不穩定髖是否可被推出髖臼；與 Ortolani 互補用於新生兒篩檢。",
       "summary": "嬰兒 DDH 靠 Barlow、Ortolani 與 Galeazzi 等檢查；Patrick/FABER 不是標準嬰兒篩檢。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "DDH、**最不適合**的檢查",
+        "t": "嬰兒 DDH 用 Barlow、Ortolani、Galeazzi；**Patrick（FABER）**是成人薦髂與髖關節的檢查",
+        "x": "Galeazzi 比膝蓋高低、Ortolani 復位、Barlow 誘發脫位，都是 DDH 篩檢"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -39087,7 +39537,12 @@
       "C": "本項應選。肺是妊娠滋養細胞腫瘤最常見的轉移部位，在 FIGO／WHO 計分中屬於**權重較低**的轉移部位。單純肺轉移不見得就要用多藥組合化療。",
       "D": "本項不選。肝臟轉移屬於高風險部位，計分高、預後也較差，通常需要多藥組合化療並由專科團隊處理。",
       "summary": "妊娠滋養細胞腫瘤不是「有轉移就高風險」：肺的權重低，腦與肝才是高風險部位。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "侵襲性滋養層細胞疾病、**不屬於**高危險因子",
+        "t": "FIGO/WHO 評分中**肺轉移**權重低（0 分）；腦、肝轉移才是高分",
+        "x": "腦轉移、肝轉移都是高風險；距前次懷孕時間長也增加分數"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39128,7 +39583,12 @@
       "guideline": null,
       "concepts": [
         "polyuria-di-siadh"
-      ]
+      ],
+      "approach": {
+        "k": "副腫瘤症候群與體液因子、**錯誤**的組合",
+        "t": "惡性高血鈣的介質是 **PTHrP**（最常見）、1,25-(OH)₂D（淋巴瘤）、骨轉移；不是甲狀腺素",
+        "x": "淋巴瘤的 1,25-(OH)₂D、小細胞肺癌的 ACTH 與 ADH，三組都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39247,7 +39707,12 @@
       "concepts": [
         "leukemia-mpn-genetics",
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "睪丸生殖細胞癌治癒後、選**錯誤**的",
+        "t": "高累積 etoposide 確實增加 11q23 轉位 AML，但**絕對風險很低**（遠低於選項說的程度）",
+        "x": "cisplatin 增加代謝與心血管風險、cisplatin 與放療增加第二固態癌，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39326,7 +39791,12 @@
       "C": "本項不選。ANK1、SLC4A1、SPTB、SPTA1 這些膜骨架相關基因的變異都可能造成這個病，對應的蛋白就是 ankyrin、band 3、β-spectrin 與 α-spectrin。",
       "D": "本項不選。多數是體染色體顯性遺傳，但部分（例如某些 SPTA1 變異）是體染色體隱性——所以家族史陰性不能拿來排除。",
       "summary": "遺傳性球形紅血球症的三個考點：MCHC 偏高、脾臟裡的血管外溶血、膜骨架基因缺陷。",
-      "guideline": "FC 醫學(三)第4冊 p.165"
+      "guideline": "FC 醫學(三)第4冊 p.165",
+      "approach": {
+        "k": "遺傳性球形紅血球症、選**錯誤**的",
+        "t": "溶血發生在**脾臟**，是**血管外**溶血",
+        "x": "MCHC 偏高、ANK1 等膜蛋白基因突變、也有體染色體隱性遺傳，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39367,7 +39837,12 @@
       "guideline": "FC 醫學(三)第4冊 p.233",
       "concepts": [
         "cll-diagnostic-definition"
-      ]
+      ],
+      "approach": {
+        "k": "CLL、選**錯誤**的",
+        "t": "診斷時就有**貧血**代表骨髓被侵犯（Rai III、Binet C）→ 預後**較差**",
+        "x": "單株 B 細胞 >5000/μL、抹片見泥細胞、低丙型球蛋白，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39405,7 +39880,12 @@
       "C": "本項不選。ADP 引發的聚集主要走 P2Y12 訊號。aspirin 打的是 COX-1 與 thromboxane A2 那條路。",
       "D": "本項不選。von Willebrand 因子（vWF）的功能障礙見於 von Willebrand 病，aspirin 不會直接抑制它。",
       "summary": "抗血小板藥分路徑記：aspirin 打 COX-1／thromboxane A2，clopidogrel 這類打 P2Y12。",
-      "guideline": "FC 醫學(三)第1冊 p.90"
+      "guideline": "FC 醫學(三)第1冊 p.90",
+      "approach": {
+        "k": "aspirin 抗血小板機轉",
+        "t": "不可逆抑制 COX-1 → 阻斷 **thromboxane A2** 產生",
+        "x": "P2Y12 與 ADP 路徑是 clopidogrel、ticagrelor；vWF 不是 aspirin 的標的"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -44035,7 +44515,12 @@
       "B": "本項不選。肋骨骨折可能伴隨鈍性胸傷和氣胸，但沒有骨折不能排除張力性氣胸，也分不出是不是心包積血。穿透傷甚至可以完全沒骨折就造成這兩者。",
       "C": "本項不選。心包填塞傳統上可有心音低沉，但急診環境吵、急性積血量少、個體差異大，敏感度不夠，比不上「單側呼吸音消失」可靠。",
       "D": "本項不選。心搏過速是張力性氣胸和心包填塞共同的休克代償表現，嚴重失代償時兩者都可能轉成心搏過緩，沒有鑑別特異性。",
-      "summary": "頸靜脈怒張（JVD）加休克時，單側呼吸音消失偏向張力性氣胸；雙側呼吸音相等就提高心包填塞的疑慮。"
+      "summary": "頸靜脈怒張（JVD）加休克時，單側呼吸音消失偏向張力性氣胸；雙側呼吸音相等就提高心包填塞的疑慮。",
+      "approach": {
+        "k": "張力性氣胸 vs 心包積血、都有頸靜脈怒張，**最能**鑑別的",
+        "t": "張力性氣胸**單側呼吸音消失**；心包填塞兩側呼吸音正常、心音遙遠",
+        "x": "肋骨骨折兩者都可能有；心音模糊兩者都可聽不清；心跳加速兩者都有"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44707,7 +45192,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "乳房重建、選**錯誤**的",
+        "t": "延遲重建沒有固定要等兩年，治療結束、身體恢復就能做",
+        "x": "每位病人都有權利知道重建選項、義乳不影響復發偵測、常需多階段手術，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44781,7 +45271,12 @@
       "B": "本項不選。感染性動脈瘤傳統叫 mycotic aneurysm，但這名字不代表真菌（fungus）最常見。多數是細菌造成的，常見病原隨感染來源而異，例如 Staphylococcus aureus 或 Salmonella。",
       "C": "正確答案。胸腹主動脈瘤不論 open repair 或大範圍 endovascular repair，都可能阻斷脊髓灌流。腦脊髓液引流（cerebrospinal fluid drainage）能降低鞘內壓、提高脊髓灌流壓，是脊髓保護策略之一。",
       "D": "本項不選。主動脈直徑 3 公分（3 cm）要不要叫動脈瘤，看的是解剖部位。就算需要追蹤，也通常不會因為穩定無症狀就每 3 個月重複影像，間隔要依部位、直徑和生長速度個別化。",
-      "summary": "主動脈瘤考點：true 和 pseudoaneurysm 壁層不同、mycotic 多為細菌，胸腹修補可用 CSF drainage 保護脊髓。"
+      "summary": "主動脈瘤考點：true 和 pseudoaneurysm 壁層不同、mycotic 多為細菌，胸腹修補可用 CSF drainage 保護脊髓。",
+      "approach": {
+        "k": "主動脈瘤、選**正確**的",
+        "t": "胸腹主動脈瘤修補（開放或血管內）可做**腦脊髓液引流**保護脊髓",
+        "x": "真假動脈瘤的定義寫錯；mycotic aneurysm 多是**細菌**不是黴菌；3 cm 不需三個月就追一次"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44960,7 +45455,12 @@
       "B": "本項不選。Barrett esophagus 提高的是食道腺癌（esophageal adenocarcinoma）的風險，不是鱗狀細胞癌。風險倍數也會因有沒有 dysplasia 和研究年代而不同。",
       "C": "正確答案。已經客觀證實有胃食道逆流、藥物加生活調整仍控制不了症狀的人，可以評估 fundoplication 這類抗逆流手術。手術改善的是逆流症狀，不保證腸化生消退，也不能免除 dysplasia 的追蹤。",
       "D": "本項不選。Barrett esophagus 本身可能沒症狀，但合併逆流狹窄、潰瘍，或進展成腫瘤時就會出現吞嚥困難（dysphagia）。用「沒有 dysphagia」當絕對敘述不對。",
-      "summary": "Barrett 是逆流引起的遠端食道腸化生，增加腺癌風險；抗逆流手術治的是症狀，不取代監測。"
+      "summary": "Barrett 是逆流引起的遠端食道腸化生，增加腺癌風險；抗逆流手術治的是症狀，不取代監測。",
+      "approach": {
+        "k": "Barrett 食道、選**正確**的",
+        "t": "長期藥物治療無效者，可考慮**抗逆流手術**改善症狀",
+        "x": "Barrett 是鱗狀上皮被**柱狀上皮（腸化生）**取代；增加的是**腺癌**；有狹窄時會吞嚥困難"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44998,7 +45498,12 @@
       "B": "正確答案。肺腺癌原位癌（adenocarcinoma in situ）是小型局限病灶，腫瘤細胞沿著既有的肺泡壁呈純伏壁型（lepidic growth），而且沒有間質、血管或肋膜侵犯。",
       "C": "本項不選。實心型（solid pattern）沒有明顯腺腔，要靠黏液或免疫染色證明腺性分化。它代表侵襲性 adenocarcinoma，不是原位癌。",
       "D": "本項不選。乳頭型（papillary pattern）是腫瘤細胞覆在纖維血管軸心（fibrovascular cores）上，屬侵襲性肺腺癌的組織型態，跟沿完整肺泡壁生長的純伏壁型不同。",
-      "summary": "Adenocarcinoma in situ 的病理核心是純 lepidic growth 且無 invasion；acinar、solid、papillary 都不是原位型。"
+      "summary": "Adenocarcinoma in situ 的病理核心是純 lepidic growth 且無 invasion；acinar、solid、papillary 都不是原位型。",
+      "approach": {
+        "k": "肺腺癌**原位癌**的病理型態",
+        "t": "AIS＝純**伏壁型（lepidic）**生長、沒有侵犯",
+        "x": "腺泡型、固體型、乳頭型都是侵襲性腺癌的亞型"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45036,7 +45541,12 @@
       "B": "本項不選。腺樣囊狀癌是重要的原發性氣管惡性腫瘤之一，常沿氣管長軸在黏膜下延伸。「大部分不影響 trachea」跟它的典型發生部位剛好相反。",
       "C": "本項不選。腫瘤逐漸把中央氣道變窄，會造成喘鳴（stridor）、呼吸困難、咳嗽，有時被誤診成氣喘。stridor 不是少見到可以忽略的表現。",
       "D": "本項不選。診斷時多半以局部氣道病灶為主，治療核心是可行時做氣管切除重建，必要時加放療。不能假設多數已有遠端轉移就把化療當主要治療。",
-      "summary": "氣管腺樣囊狀癌長得慢但黏膜下浸潤範圍長，會造成 stridor；可切除者以手術為核心。"
+      "summary": "氣管腺樣囊狀癌長得慢但黏膜下浸潤範圍長，會造成 stridor；可切除者以手術為核心。",
+      "approach": {
+        "k": "氣管腺樣囊狀癌、選**正確**的",
+        "t": "腺樣囊狀癌**生長緩慢**，但沿黏膜下與神經浸潤",
+        "x": "常侵犯氣管、阻塞時會喘鳴；多數診斷時**沒有**遠端轉移，治療以手術為主"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45453,7 +45963,12 @@
       "D": "本項應選。MIBG scan 顯影的是 catecholamine-producing chromaffin tissue，主要用於嗜鉻細胞瘤或副神經節瘤，無法定位 aldosterone-producing cortical lesion。",
       "summary": "原發性醛固酮增多症分側以 CT 搭配 adrenal vein sampling；MIBG 是嗜鉻細胞瘤檢查。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "原發性醛固酮症、要排除雙側增生的定位檢查、**較不適當**的",
+        "t": "MIBG 是找**嗜鉻細胞瘤**的，對醛固酮症沒用",
+        "x": "薄切 CT、NP-59 掃描、選擇性腎上腺靜脈取樣（分側金標準），都是醛固酮症的定位工具"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45489,7 +46004,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "血鈣 14.5、PTH 525（極高）、可摸到頸部腫塊、沙啞",
+        "t": "PTH 極高＋高鈣危象＋可觸及腫塊＋侵犯喉返神經 → **副甲狀腺癌**",
+        "x": "類肉瘤病的 PTH 被抑制；次發性副甲狀腺亢進的鈣是低或正常；副甲狀腺瘤病是術後種植，不會這樣表現"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45532,7 +46052,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺乳突癌、超音波：腫瘤突破甲狀腺包膜",
+        "t": "影像顯示腫瘤和包膜的關係 → 甲狀腺外侵犯（extrathyroidal extension）",
+        "x": "側頸淋巴轉移、氣管或食道侵犯，要在影像上看到淋巴結或這些器官受侵，本圖不是這些"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45568,7 +46093,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "乳房病變、選**錯誤**的",
+        "t": "橘皮樣變化是**真皮淋巴管被癌栓阻塞**造成水腫；Cooper 韌帶被牽拉造成的是皮膚凹陷",
+        "x": "不明腋下淋巴轉移先找乳癌、乳頭濕疹要排除 Paget、硬塊來自結締組織增生反應，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45609,7 +46139,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "術後放療、選**最不適當**的",
+        "t": "化療管全身、放療管局部；保乳後**不能用化療取代放療**",
+        "x": "DCIS 保乳後放療減半復發、70 歲以上低風險可免放療、全切後淋巴多顆或 >5 cm 要放療，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45650,7 +46185,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌荷爾蒙治療、選**最不適當**的",
+        "t": "停經後婦女**可以**用 tamoxifen，只是芳香環酶抑制劑通常較優先",
+        "x": "停經前不能單獨用 AI（卵巢仍分泌雌激素）、ER 陽性即使 PR 陰性仍有效、與化療同時多在化療後才開始，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45690,7 +46230,12 @@
       "C": "本項不選。②③成立，但①把此圖直接判為高位並不可靠；若會陰可見瘻口，反而可能屬較低位病型。",
       "D": "本項不選。②③合理，④『立即造口』過度絕對；部分低位會陰瘻可先擴張或一期修補，高位或無法減壓者才較需分流造口。",
       "summary": "無肛症先減壓並完成 VACTERL／脊柱評估；是否造口必須依會陰瘻與畸形高度決定。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "無肛症、會陰部影像",
+        "t": "先做：腹脹嘔吐放胃管、檢查脊柱（VACTERL）；是否造口要**等 24 小時**看有無會陰瘻再決定",
+        "x": "①：圖示不一定是高位；④：不需立即造口"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45728,7 +46273,12 @@
       "C": "本項不選。出生後首要是插管、胃管減壓、溫和通氣及控制肺高壓，待循環與氧合穩定後才修補；立即手術不能逆轉既有肺發育不良，反會增加生理壓力。",
       "D": "正確。肺血管床發育不足與反應性血管收縮會造成持續性肺動脈高壓及右向左分流，是先天性橫膈膜疝氣死亡與治療困難的核心。",
       "summary": "先天性橫膈膜疝氣的核心不是單純胸腔被占位，而是雙側肺發育不良與肺動脈高壓。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "先天性橫膈疝氣、選**正確**的",
+        "t": "**肺動脈高壓**是主要致死原因，必須積極處置",
+        "x": "Bochdalek 是**後外側**缺損；造成**雙側**肺發育不良；不是出生立即修補"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45805,7 +46355,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-solid-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "幼兒**最常見**的顱外實質腫瘤",
+        "t": "**神經母細胞瘤**",
+        "x": "Wilms 是最常見的腎腫瘤；肝母細胞瘤與睪丸畸胎瘤較少"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45838,7 +46393,12 @@
       "C": "本項不選。妊娠 36 週接近足月，雖仍較成熟足月兒風險高，但相較極低體重 1.7 kg 並非此組最強的不良預後訊號。",
       "D": "本項不選。氣胸顯示嚴重肺病或通氣壓傷，會使病況複雜，但它本身不如極低出生體重直接限制 ECMO 可行性與出血安全性。",
       "summary": "先天性橫膈膜疝氣使用 ECMO 時，極低出生體重代表技術與出血風險，預後特別差。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "CDH 用 ECMO、預後**最差**的情況",
+        "t": "體重 **1.7 kg** 太小，插管技術困難、出血風險高",
+        "x": "心臟超音波正常、36 週、氣胸都不是 ECMO 預後最差的指標"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45874,7 +46434,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "UC 手術適應症、選**錯誤**的",
+        "t": "每天腹瀉 5 次只是中度活動，不是手術適應症",
+        "x": "猛爆性腸炎藥物無效、毒性巨結腸、切片有分化不良，都要開刀"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45951,7 +46516,12 @@
       "guideline": "FC 醫學(五)第2冊 p.197",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "HNPCC（Lynch）、選**錯誤**的",
+        "t": "Lynch 是從 20–25 歲開始**每 1–2 年大腸鏡**監測；20 歲前預防性切除是 **FAP**",
+        "x": "體染色體顯性、錯配修復基因缺損、MSH6 和子宮內膜癌相關，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -46517,7 +47087,12 @@
       "C": "官方本題一律給分。11p15 的 WT2 區域印記異常與部分 Wilms tumor、Beckwith–Wiedemann spectrum 有關；『WT2 基因』是較舊且不精確的稱法，可能造成爭議。",
       "D": "官方本題一律給分。Wilms tumor 最常血行轉移至肺，肝也可轉移；若把『肺及肝』理解為常見遠端部位，並非明確錯誤。",
       "summary": "本題官方一律給分；Wilms tumor 約占兒癌 5%，可伴先天異常，涉及 11p13/11p15，遠端以肺最常見。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Wilms tumor、選**錯誤**的（官方四個都給分）",
+        "t": "Wilms 約占兒癌 5%、約 10% 合併先天異常、與 WT1（11p13）與 WT2（11p15）有關、最常轉移到**肺**",
+        "x": "本題官方送分；重點是轉移以肺為主，肝次之"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -46778,7 +47353,12 @@
       "B": "本項不選。典型血行性肺轉移常是多發、圓形、邊緣平滑的結節，也可能是單一結節。多角、不規則反而更要想到原發肺癌、發炎或其他病變，不是轉移的多數外觀。",
       "C": "本項不選。肋膜轉移常是多發肋膜結節、瀰漫增厚或像殼一樣包住肺（rind-like encasement），而且常合併惡性肋膜積液。「單一結節、極少積液」不符典型。",
       "D": "正確答案。攝護腺癌骨轉移典型是成骨性病灶（osteoblastic lesion），肋骨也可能受累，影像上看到硬化（sclerosis）。這跟腎細胞癌常見的溶骨性轉移（osteolytic metastasis）不同。",
-      "summary": "胸腔轉移的典型影像：血行性肺轉移多是圓滑結節、肋膜轉移常多發又帶積液、攝護腺骨轉移多為成骨性。"
+      "summary": "胸腔轉移的典型影像：血行性肺轉移多是圓滑結節、肋膜轉移常多發又帶積液、攝護腺骨轉移多為成骨性。",
+      "approach": {
+        "k": "胸腔轉移性腫瘤、選**最恰當**的",
+        "t": "攝護腺癌骨轉移以**成骨性**病灶為主",
+        "x": "肺轉移不一定合併肺門縱膈淋巴；血行性肺轉移多是**圓形邊緣平滑**；肋膜轉移常多發、常有積液"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -51215,7 +51795,12 @@
       "guideline": "FC 醫學(三)第4冊 p.163",
       "concepts": [
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "上呼吸道感染後、急性腎損傷、MAHA、血小板低、**ADAMTS13 >15%**",
+        "t": "ADAMTS13 不低 → 不是 TTP；腎損傷為主 → **非典型 HUS** → 補體 C5 抑制劑 **eculizumab**",
+        "x": "bortezomib 用在骨髓瘤；rituximab 是 TTP 的輔助；免疫球蛋白用於 ITP"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51518,7 +52103,12 @@
       "guideline": null,
       "concepts": [
         "cervical-cancer-local-staging"
-      ]
+      ],
+      "approach": {
+        "k": "子宮頸癌、5 年預後**最差**的侵犯",
+        "t": "侵犯**膀胱**（或直腸）黏膜 → **IVA** 期",
+        "x": "只在子宮頸 I 期；陰道下三分之一 IIIA；骨盆側壁 IIIB"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51603,7 +52193,12 @@
       "concepts": [
         "jaundice-approach",
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "吃感冒藥後茶色尿、尿潛血陽性但**沒有紅血球**、溶血、Coombs 陰性、小時候也發生過",
+        "t": "藥物誘發的血管內溶血、反覆發作 → **G6PD 缺乏症**",
+        "x": "自體免疫溶血 Coombs 陽性；腎絲球腎炎尿中有紅血球；急性肝炎是直接膽紅素升高、ALT 高"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51646,7 +52241,12 @@
       "guideline": null,
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "62 歲跌倒、貧血、骨髓見大量漿細胞、X 光穿鑿狀溶骨",
+        "t": "**多發性骨髓瘤**",
+        "x": "腺癌骨轉移骨髓見上皮細胞；維生素 D 缺乏是骨質軟化；骨癌少見多處溶骨加漿細胞"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51682,7 +52282,12 @@
       "guideline": null,
       "concepts": [
         "karnofsky-performance-status"
-      ]
+      ],
+      "approach": {
+        "k": "Karnofsky **70** 分",
+        "t": "能照顧自己，但**不能工作**或做正常活動",
+        "x": "100 是完全正常、40 以下需要相當多協助、10–20 是臥床瀕危"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51759,7 +52364,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**芳香酶抑制劑",
+        "t": "tamoxifen 是**選擇性雌激素受體調節劑**（SERM），擋受體",
+        "x": "anastrozole、letrozole（非類固醇型）、exemestane（類固醇型）都是 AI"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51797,7 +52407,12 @@
       "C": "本項應選。預後說反了：HPV 相關的口咽鱗狀上皮癌對治療反應**比較好**、預後也比 HPV 無關者佳。分期系統甚至為此把兩者分開計算。",
       "D": "本項不選。Epstein-Barr 病毒與非角化型鼻咽癌高度相關，在流行地區（包括台灣）尤其重要。",
       "summary": "頭頸癌兩組病毒配對：HPV 16 配口咽癌（預後較好）、EBV 配鼻咽癌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "頭頸癌與病毒、選**錯誤**的",
+        "t": "HPV 相關口咽癌的預後**比較好**，不是較差",
+        "x": "HPV16 與口咽癌、西方口咽癌增加和 HPV 有關、EBV 與鼻咽癌，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51838,7 +52453,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**保乳禁忌",
+        "t": "保乳只看切得乾淨與能否放療；**腋下淋巴轉移**不影響",
+        "x": "同側多發病灶、侵犯乳頭乳暈、膠原血管病（放療耐受差），都是禁忌"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52948,7 +53568,12 @@
       "C": "本項不選。情緒低落會降低食慾，但解釋不了腹部鼓脹、巨大腫塊與反覆嘔吐這一整組表現。",
       "D": "本項不選。高血鈣會噁心、便祕與倦怠，但題目沒給任何高血鈣的線索，反而給了很明確的機械性腹部病灶。",
       "summary": "晚期卵巢癌病人嘔吐，先想惡性腸阻塞——腹脹＋腹水＋摸得到腫塊就是它的三件套。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "卵巢癌一年、噁心嘔吐、腹脹、腹水、大腫塊",
+        "t": "晚期卵巢癌腹膜轉移 → **惡性腸阻塞**",
+        "x": "腦壓增加要有神經症狀；情緒低落不會腹脹；高鈣血症不會有腹部腫塊"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -57100,7 +57725,12 @@
       "C": "本項不選。乳管擴張症（duct ectasia）的表現是黏稠的綠褐色乳頭分泌物加乳暈下腫塊，不會在乳頭表皮造成這種濕疹樣、結痂的大片病灶。",
       "D": "本項不選。急性乳腺炎（acute mastitis）是整個乳房紅、腫、熱、痛加發燒，常發生在哺乳期。照片沒有瀰漫性發炎，病灶集中在乳頭表皮。",
       "summary": "乳頭乳暈一片界線清楚、脫屑結痂又往外擴散的濕疹樣病灶＝Paget 病，不是感染也不是靜脈炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "照片：乳頭乳暈界線清楚、脫屑結痂的濕疹樣病灶",
+        "t": "Paget's disease → 要找底下的 DCIS 或侵襲癌",
+        "x": "Mondor 是胸壁皮下條索狀靜脈炎；乳管擴張是乳頭分泌物與凹陷；急性乳腺炎是紅腫熱痛、多在哺乳期"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57442,7 +58072,12 @@
       "summary": "肺腺癌是最常見、偏周邊的組織型，遠端和腦部轉移傾向不會低於鱗狀細胞癌。",
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "肺腺癌、選**錯誤**的",
+        "t": "腺癌**容易**轉移到腦，不比鱗癌少",
+        "x": "最常見的組織型、來自分泌黏液細胞、多在周邊，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57481,7 +58116,12 @@
       "D": "本項不選。局限且可切除的肺類癌以完整手術切除並作適當淋巴結評估為主要根治治療；手術方式依位置與肺實質保留需求決定。",
       "summary": "典型肺類癌預後最佳，但 carcinoid syndrome 並不常見；非典型類癌的轉移風險較高。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "肺類癌、選**錯誤**的",
+        "t": "類癌症候群（潮紅、腹瀉）在**典型**肺類癌很**少見**，多見於中腸類癌合併肝轉移",
+        "x": "典型類癌預後最好、非典型可遠端轉移、治療以手術為主，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57519,7 +58159,12 @@
       "B": "本項不選。創傷性全肺切除（pneumonectomy）生理衝擊極大，會增加肺血管阻力、右心負荷和死亡率。只在肺門毀損、無法保留肺組織時當最後手段，不能說能提高存活率。",
       "C": "本項不選。肺道切開術（pulmonary tractotomy）沿穿刺道打開肺實質，可以直接結紮出血血管和漏氣支氣管，還保留正常肺。對部分深部貫穿傷能有效止血和控制漏氣。",
       "D": "本項不選。胸腔外傷手術優先用保留肺的技術，像 tractotomy、楔狀切除或選擇性血管結紮。pneumonectomy 不是最常用，而是死亡風險最高的救援術式。",
-      "summary": "肺穿刺傷盡量保留肺；tractotomy 可直接控制傷道血管和氣道，pneumonectomy 只留給肺門毀損無法控制時。"
+      "summary": "肺穿刺傷盡量保留肺；tractotomy 可直接控制傷道血管和氣道，pneumonectomy 只留給肺門毀損無法控制時。",
+      "approach": {
+        "k": "肺臟外傷手術、選**正確**的",
+        "t": "縫合肺穿刺傷時，肺靜脈與支氣管相通可能造成**空氣栓塞**甚至死亡",
+        "x": "全肺切除死亡率很高，不會增加存活；tractotomy **能**有效止血；全肺切除只在肺門毀損無法控制時"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57560,7 +58205,12 @@
       "B": "本項不選。成人後縱膈腔腫瘤最典型就是神經源性腫瘤（neurogenic tumor），可來自周邊神經、交感神經節或副神經節組織，敘述正確。",
       "C": "本項不選。縱膈 seminoma 對含鉑化療（platinum-based chemotherapy）和放療都敏感，治療選擇看腫瘤範圍和現代減少放射毒性的策略，敘述正確。",
       "D": "本項應選。這是錯的敘述。原發性縱膈惡性生殖細胞瘤有明顯的男性優勢，尤其非精原細胞瘤（nonseminomatous germ cell tumor）幾乎都發生在年輕男性，不是沒有性別差異。",
-      "summary": "成人後縱膈多是 neurogenic tumor；縱膈生殖細胞瘤尤其 nonseminomatous type 強烈偏男性，seminoma 對化放療敏感。"
+      "summary": "成人後縱膈多是 neurogenic tumor；縱膈生殖細胞瘤尤其 nonseminomatous type 強烈偏男性，seminoma 對化放療敏感。",
+      "approach": {
+        "k": "成人縱膈腔腫瘤、選**錯誤**的",
+        "t": "縱膈惡性生殖細胞瘤**幾乎都是男性**",
+        "x": "良性畸胎瘤部分切除也少復發、後縱膈多神經源、seminoma 對化放療敏感，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57642,7 +58292,12 @@
       "guideline": "FC 醫學(五)第2冊 p.137",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌肝轉移、選**錯誤**的",
+        "t": "多發性肝轉移只要能完整切除且殘肝夠，仍可手術，不是只能化療",
+        "x": "最常見來源是大腸直腸癌、一生約一半會肝轉移、肝切除是標準治療，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57919,7 +58574,12 @@
       "guideline": "FC 醫學(五)第2冊 p.267",
       "concepts": [
         "whipple-triad"
-      ]
+      ],
+      "approach": {
+        "k": "懷疑 insulinoma、選**較不適當**的",
+        "t": "內生性胰島素過多 → insulin 和 **C-peptide 都升高**；C-peptide 很低表示打外來胰島素",
+        "x": "insulinoma 多 <2 cm、合併 MEN1 者惡性機會較高、無法切除者可用 everolimus，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57955,7 +58615,12 @@
       "guideline": null,
       "concepts": [
         "ajcc8-differentiated-thyroid-cancer-age-staging"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲、乳突癌 3 cm、淋巴轉移**加肺轉移**",
+        "t": "AJCC 8：未滿 55 歲只分兩期，沒有遠處轉移是 I、**有遠處轉移是 II**",
+        "x": "30 歲不會到 III、IV；淋巴轉移在年輕人不升期"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57991,7 +58656,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "低血鉀、醛固酮高、腎素被抑制、右腎上腺 1.5 cm 腫瘤，選**最不適當**的",
+        "t": "單側醛固酮瘤切除後，血鉀多能矯正，但**血壓完全恢復正常的只有約三到六成**，不是 90%",
+        "x": "經腹腔或後腹腔腹腔鏡都可以；術後仍高血壓可用 spironolactone，這三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58034,7 +58704,12 @@
       "guideline": null,
       "concepts": [
         "bi-rads"
-      ]
+      ],
+      "approach": {
+        "k": "圖 a 粗大鈣化、圖 b 線狀微鈣化，選**錯誤**的",
+        "t": "線狀微鈣化（BI-RADS 4）即使超音波看不到，也要用**攝影導引**切片",
+        "x": "粗大鈣化是 BI-RADS 2 良性，超音波看不到就不必切，這兩句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58075,7 +58750,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "腋下淋巴分期、選**錯誤**的",
+        "t": "術前診斷 DCIS 但要做**全乳切除** → **應該**順便做前哨淋巴切片（切完乳房後就做不了了）",
+        "x": "術後才確認 DCIS 不需前哨淋巴；保乳加放療且 1–2 顆陽性可免廓清；全切發現陽性要廓清或放療，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58116,7 +58796,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "三陰性乳癌、anthracycline＋taxane 副作用、選**最恰當**的",
+        "t": "小紅莓造成骨髓抑制，白血球約第 **10–14 天**最低，之後回升",
+        "x": "心毒性是小紅莓不是紫杉醇；手腳刺麻與水腫是紫杉醇；ANC 900 是中度低下，不是一律要延後"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58233,7 +58918,12 @@
       "C": "錯誤。薦尾部畸胎瘤越早在產前出現且快速長大，越可能造成高輸出心衰竭、早產與胎兒水腫；出生後延遲到兩個月才診斷也會提高惡性成分機率，不能視為預後較佳。圖上新生兒尾骶部懸著一顆巨大、表面已經破裂出血的腫瘤，是典型的骶尾部畸胎瘤。預後的分水嶺其實相反：產前 30 週前就被發現的常代表腫瘤大、血流豐富，容易併發胎兒水腫而預後差；出生兩個月後才發現的，惡性比例反而上升。",
       "D": "本項不選。標準治療是完整切除腫瘤並連同尾骨切除（coccygectomy），因殘留尾骨會增加復發；破裂病灶還須控制出血與避免腫瘤播散。",
       "summary": "薦尾部畸胎瘤須完整連尾骨切除；巨大、早期快速生長或延遲診斷皆非良好預後訊號。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "新生女嬰薦尾部突出破裂腫瘤，選**錯誤**的",
+        "t": "薦尾部畸胎瘤**早期（<30 週）就發現**的通常較大長得快，**出生 2 個月後**才診斷惡性機會增加 → 都是**預後較差**",
+        "x": "可擠壓肛門會陰、產前可羊水過多與水腫、標準是連尾骨切除，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58276,7 +58966,12 @@
       "guideline": null,
       "concepts": [
         "neonatal-gi-obstruction-nec"
-      ]
+      ],
+      "approach": {
+        "k": "原本正常的 10 天男嬰、突然**膽汁性嘔吐**、影像",
+        "t": "中腸旋轉不全合併**扭轉**",
+        "x": "十二指腸閉鎖出生就吐；幽門狹窄是非膽汁性；SMA 症候群多是體重快速減輕的大孩子"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58309,7 +59004,12 @@
       "C": "本項不選。鋇劑灌腸可顯示盲腸位置異常，提供旋轉不良的間接證據；但正常或可移動盲腸不能完全排除。",
       "D": "最不恰當。傳統血管攝影具侵入性，也不是確認腸旋轉不良或中腸扭轉的標準初始影像；若已有缺血危象更應直接手術而非延誤。",
       "summary": "腸旋轉不良以超音波與上消化道攝影為主；灌腸僅間接定位盲腸，血管攝影不合適。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "承上、確診**最不恰當**的檢查",
+        "t": "確診用**上消化道攝影**（金標準）或超音波（whirlpool sign）；**血管攝影**侵入又不需要",
+        "x": "超音波、上消化道攝影、鋇劑灌腸（看盲腸位置）都能幫忙"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58350,7 +59050,12 @@
       "guideline": "FC 醫學(五)第2冊 p.96",
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "IBD、選**錯誤**的",
+        "t": "Crohn 的手術只處理**併發症**（狹窄、瘻管、膿瘍），要盡量保留腸道；治療主體是藥物",
+        "x": "UC 藥物無效可手術、全結直腸切除加迴腸造口、Crohn 的腸皮瘻管可手術，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58391,7 +59096,12 @@
       "guideline": "FC 醫學(五)第2冊 p.196",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "乙狀結腸切除後第五天、引流管流出**白色液體**",
+        "t": "清除淋巴結時傷到淋巴管 → **乳糜漏**（驗引流液三酸甘油酯）",
+        "x": "吻合處滲漏是糞便樣或混濁；輸尿管損傷流出的是尿液；膿瘍會發燒、流膿"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58432,7 +59142,12 @@
       "guideline": "FC 醫學(五)第2冊 p.146",
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "肛管的感覺神經",
+        "t": "齒狀線以下由**陰部神經**的下直腸分支支配 → 所以這裡的病變會很痛",
+        "x": "閉孔神經管大腿內收；股神經管大腿前側；坐骨神經管下肢後側"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -64147,7 +64862,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "35 歲、ER+ PR+ **HER2 3+**、3 cm、淋巴 2 顆、保乳",
+        "t": "四個訊號都要對應：化療＋**trastuzumab**（HER2）＋抗荷爾蒙（ER）＋放療（保乳）",
+        "x": "A、B 都漏掉 trastuzumab；C 漏掉 HER2 與放療"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64180,7 +64900,12 @@
       "C": "本項應選。這個組合的經典答案是**大腸直腸癌**或 Merkel cell carcinoma，不是前列腺癌或甲狀腺癌。前列腺要看 PSA／NKX3.1，甲狀腺要看 TTF-1／thyroglobulin。",
       "D": "本項不選。CK7−／CK20− 可見於肝細胞癌、腎細胞癌與前列腺癌，接下來再用 HepPar-1／arginase-1、PAX8 或 NKX3.1 把它們分開。",
       "summary": "CK7／CK20 只是第一輪縮小範圍：CK7−／CK20+ 幾乎就是往大腸直腸想，之後仍要靠器官特異標記定案。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "不明原發腺癌、CK7/CK20、選**錯誤**的",
+        "t": "**CK7−/CK20+** 幾乎就是**大腸直腸癌**；前列腺與甲狀腺不是這個組合",
+        "x": "CK7+/CK20+ 卵巢黏液性或胰臟、CK7+/CK20− 肺或子宮內膜、CK7−/CK20− 肝或腎，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64216,7 +64941,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "癌症治療與次發腫瘤的配對、**最不恰當**",
+        "t": "topoisomerase 抑制劑造成的是**急性骨髓性白血病**（11q23 重排），不是 ALL",
+        "x": "tamoxifen 與子宮內膜癌、T 細胞去除移植與 EBV 淋巴增生、化療與 MDS，都是正確配對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64295,7 +65025,12 @@
       "C": "本項不選。trastuzumab 針對的是 HER2，用在 HER2 陽性的乳癌與胃癌。腎細胞癌不以 HER2 過度表現為治療標的。",
       "D": "本項不選。sipuleucel-T 是針對轉移性去勢抗性前列腺癌的細胞免疫治療，器官與適應症都對不上。",
       "summary": "腎細胞癌不吃傳統化療：治療走血管新生（VEGF）與免疫檢查點兩條路。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "第四期腎細胞癌、**最常用**的全身藥物",
+        "t": "腎細胞癌對化療不敏感，走**抗 VEGF 標靶**（axitinib 等）與免疫檢查點",
+        "x": "doxorubicin 是化療；trastuzumab 打 HER2；sipuleucel-T 是攝護腺癌疫苗"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64333,7 +65068,12 @@
       "C": "本項不選。同樣在未感染的前提下，HPV 疫苗能降低該型別造成的子宮頸、外陰、陰道與肛門癌前病變。",
       "D": "本項應選。話說得太滿了：HPV 疫苗確實能產生長期免疫記憶、目前追蹤到的保護力也很好，但**還不能斷言「終生免疫」**。這要看長期追蹤資料與公共衛生建議。",
       "summary": "疫苗題的常見陷阱是把「長期有效」寫成「終生免疫」——證據還沒到那一步。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "癌症預防、選**錯誤**的",
+        "t": "HPV 疫苗目前證實是**長期**有效，還沒證明**終生免疫**",
+        "x": "B 肝疫苗預防肝癌、HPV 疫苗預防該型持續感染與癌前病變，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64371,7 +65111,12 @@
       "C": "本項不選。GPIb-IX-V 複合體與 von Willebrand 因子（vWF）結合，負責在高剪力環境下的黏附，並促進血小板活化。",
       "D": "本項不選。急性冠狀動脈症候群的病人，血小板彼此之間、以及血小板與白血球之間的交互作用都會增強，這也是抗血小板治療的理由。",
       "summary": "無核不等於不能合成蛋白質——血小板帶著巨核細胞給的 mRNA 與核糖體上路。",
-      "guideline": "FC 醫學(三)第4冊 p.186"
+      "guideline": "FC 醫學(三)第4冊 p.186",
+      "approach": {
+        "k": "血小板、選**錯誤**的",
+        "t": "血小板雖無核，但有巨核細胞留下的 **mRNA 與核糖體**，仍能合成少量蛋白質",
+        "x": "直徑 1–5 μm 壽命 7–10 天、GPIb-IX-V 負責黏附、ACS 時血小板與白血球聚集增加，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64408,7 +65153,12 @@
       "guideline": "官方更正：本題答 B 或 C 或 BC 均給分",
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "造血幹細胞移植、選**最不恰當**（官方 B、C 都給分）",
+        "t": "配對看 **HLA**，ABO 不合仍可移植（處理產品即可）；自體移植沒有 GVHD 與 GVL 效應",
+        "x": "手足中至少一位全合的機率 1−0.75ⁿ、打 G-CSF 後可從周邊血收集幹細胞，這兩句對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64449,7 +65199,12 @@
       "guideline": "FC 醫學(三)第4冊 p.233",
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "CLL、**預後較佳**的染色體變異",
+        "t": "**del(13q14)** 單獨存在預後最好",
+        "x": "trisomy 12 中等；del(11q) 較差；del(17p)（TP53）最差"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -69703,7 +70458,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "男性女乳症、選**錯誤**的",
+        "t": "Klinefelter syndrome 的男性女乳症**會**增加乳癌風險，是重要例外",
+        "x": "spironolactone 會造成、一般男性女乳症與乳癌無關、新生兒青春期老年三個生理高峰，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70010,7 +70770,12 @@
       "B": "本項不選。鱗狀細胞癌傳統上多源自中央支氣管，容易造成支氣管內阻塞（endobronchial obstruction）。位於周邊的比例會隨影像篩檢增加，但不能說大多在周邊。",
       "C": "正確答案。鱗狀細胞癌容易因為腫瘤中央缺血壞死而形成空洞（cavitation），影像上看到厚壁、不規則的洞，要跟肺膿瘍或結核鑑別。",
       "D": "本項不選。比起肺腺癌，鱗狀細胞癌往往比較局部生長、遠端轉移相對較晚。「較早發生轉移」不是它的典型比較。",
-      "summary": "肺鱗狀細胞癌的典型組合：吸菸、中央大氣道位置、中央壞死與空洞化。"
+      "summary": "肺鱗狀細胞癌的典型組合：吸菸、中央大氣道位置、中央壞死與空洞化。",
+      "approach": {
+        "k": "肺鱗癌、選**正確**的",
+        "t": "鱗癌常在**中央**大氣道、易**中央壞死與空洞**",
+        "x": "鱗癌和抽菸**強烈相關**；多在中央不是周邊；轉移比腺癌**晚**"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70048,7 +70813,12 @@
       "B": "本項應選。這是錯的敘述。Staphylococcus aureus 菌血症可以經血行播散造成多發性肺膿瘍，尤其右心感染性心內膜炎或敗血性栓子（septic emboli）。肺膿瘍不是只來自局部吸入性感染。",
       "C": "本項不選。壞死性肺感染形成和支氣管相通的空腔後，直立胸片或 CT 可見氣液平面（air-fluid level）。CT 也能區分肺內膿瘍和局限性膿胸，敘述正確。",
       "D": "本項不選。多數肺膿瘍用涵蓋厭氧菌的長療程抗生素、姿位引流、處理吸入風險就能改善。持續敗血症、巨大膿瘍或疑腫瘤阻塞才考慮引流或手術，敘述正確。",
-      "summary": "肺膿瘍多數抗生素可治癒，但可由 S. aureus 菌血症／敗血性栓子形成，也可能破進肋膜造成氣胸或膿胸。"
+      "summary": "肺膿瘍多數抗生素可治癒，但可由 S. aureus 菌血症／敗血性栓子形成，也可能破進肋膜造成氣胸或膿胸。",
+      "approach": {
+        "k": "肺膿瘍、選**錯誤**的",
+        "t": "金黃色葡萄球菌菌血症的**敗血性栓子**可以造成肺膿瘍",
+        "x": "破裂可造成氣胸、影像有氣液平面、大部分靠抗生素治癒，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70086,7 +70856,12 @@
       "B": "本項不選。淋巴瘤可以阻塞縱膈的淋巴回流，或直接侵犯肋膜而造成惡性肋膜積液，也是常見的腫瘤性原因。",
       "C": "本項不選。間皮瘤（mesothelioma）原發於肋膜，典型表現就是單側肋膜增厚合併積液，可直接造成惡性肋膜積液。",
       "D": "本項應選。黑色素瘤是比較不常見的成因。它可以轉移到肋膜，但比起肺腺癌、淋巴瘤和間皮瘤，不是典型的常見來源。",
-      "summary": "惡性肋膜積液先想肺癌、乳癌、淋巴瘤（加原發的間皮瘤）；黑色素瘤會轉移但不是常見考點。"
+      "summary": "惡性肋膜積液先想肺癌、乳癌、淋巴瘤（加原發的間皮瘤）；黑色素瘤會轉移但不是常見考點。",
+      "approach": {
+        "k": "**不是**惡性肋膜積液常見成因",
+        "t": "常見：肺癌、乳癌、淋巴瘤、間皮瘤；黑色素瘤不常見",
+        "x": "肺腺癌、淋巴瘤、間皮瘤都是常見原因"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70168,7 +70943,12 @@
       "guideline": "FC 醫學(五)第2冊 p.281",
       "concepts": [
         "men-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "Zollinger-Ellison syndrome、選**錯誤**的",
+        "t": "約 20–25% 的 gastrinoma 合併 **MEN 1**，不是 MEN 2",
+        "x": "gastrin 過多造成、80% 在 gastrinoma triangle 且小不易定位、約 60% 惡性，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70328,7 +71108,12 @@
       "concepts": [
         "whipple-triad",
         "men-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "insulinoma、選**正確**的",
+        "t": "低血糖時 insulin 高、**C-peptide 也高** → 內生性，排除外來胰島素",
+        "x": "Whipple 的血糖單位錯（是 mg/dL）；insulinoma 多為**單發**良性，多發的是 MEN1；文句後半把遺傳關係講反"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70488,7 +71273,12 @@
       "concepts": [
         "bethesda-thyroid-cytopathology",
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺 2 cm 實心結節、FNA 結果 **nondiagnostic**（Bethesda I）",
+        "t": "取樣不足 → 用超音波導引**重做 FNA**",
+        "x": "沒有診斷不能直接給放射碘或切除；只追蹤會漏掉需要診斷的結節"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70524,7 +71314,12 @@
       "guideline": null,
       "concepts": [
         "men-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "嗜鉻細胞瘤＋髓質癌（MEN 2）的追蹤，**不適當**的",
+        "t": "髓質癌來自 C 細胞，**不吸收碘** → 放射碘掃描定位沒有用",
+        "x": "追蹤鈣與 PTH、calcitonin 與 CEA、尿 VMA 與腹部 CT，都是 MEN 2 該做的追蹤"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70565,7 +71360,12 @@
       "guideline": "FC 醫學(五)第2冊 p.283",
       "concepts": [
         "men-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "MEN 2 家族、2 歲男童、篩檢髓質癌",
+        "t": "驗 **RET 原致癌基因**生殖細胞突變，有突變就依風險做預防性甲狀腺切除",
+        "x": "thyroglobulin 是濾泡細胞的標記；等超音波看到腫瘤或 calcitonin 升高都太晚"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70607,7 +71407,12 @@
       "concepts": [
         "breast-imaging-biopsy-lesions",
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "乳房腫瘤切片、選**最不恰當**的",
+        "t": "細針穿刺只看細胞，分不出原位癌或侵襲癌，**不能單憑它**就做全乳切除",
+        "x": "粗針是部分切取、真空輔助取樣多偽陰性少、粗針能分辨原位癌，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70649,7 +71454,12 @@
       "concepts": [
         "breast-imaging-biopsy-lesions",
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "乳房超音波、**最不常見**的惡性特徵",
+        "t": "病灶後方回音**增強**偏良性（如囊腫、纖維腺瘤）；惡性常是後方**陰影**",
+        "x": "taller than wide、角狀邊緣、低回音，都是典型惡性特徵"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70690,7 +71500,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌**最不常用**的化療藥",
+        "t": "乳癌骨幹是 anthracycline（doxorubicin、epirubicin）加 taxane（docetaxel）；etoposide 不是",
+        "x": "etoposide 用在小細胞肺癌、睪丸癌"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70723,7 +71538,12 @@
       "C": "本項不選。Soave procedure 是 Hirschsprung disease 的 pull-through 術式之一，保留一段無神經節直腸肌套，將有神經節腸道拉下吻合。",
       "D": "本項不選。Peña 推廣後矢狀入路肛門直腸成形術（posterior sagittal anorectoplasty），用於多型肛門直腸畸形，配對合理。",
       "summary": "Sistrunk 專屬甲狀舌管殘跡，不是鰓裂遺跡；其餘皆為相應的小兒外科人名術式。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "疾病與人名術式、組合**錯誤**",
+        "t": "**Sistrunk** 是**甲狀舌管囊腫**的術式（連舌骨中段一起切）",
+        "x": "Ladd 對腸旋轉不良、Soave 對巨腸症、Peña 對無肛症，三組正確"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70761,7 +71581,12 @@
       "C": "本項應選。較無相關。食道閉鎖修補須先穩定呼吸、評估瘻管與合併畸形；在適當穩定後的手術時點本身，不如出生體重與重大心肺異常能預測基本預後。",
       "D": "本項不選。肺炎、呼吸窘迫、早產肺病與瘻管造成的吸入會影響氧合及術後呼吸器需求，肺部狀況與預後密切相關。",
       "summary": "食道閉鎖預後主要由出生體重、重大心臟畸形與肺部狀況決定，不是單看幾小時內手術。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "食道閉鎖預後、**較無**相關的",
+        "t": "預後看**出生體重、心臟異常、肺部狀況**；手術時機不是主要預後因子",
+        "x": "出生體重、重大心臟異常、肺部狀況都是 Spitz/Waterston 分類的依據"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70837,7 +71662,12 @@
       "C": "最不適當。腹裂腸管無膜覆蓋，出生後蒸發與熱量流失大，通常需要比有囊膜覆蓋的臍膨出更多靜脈輸液與保溫。",
       "D": "本項不選。臍膨出較常伴心臟、染色體、神經管與其他系統畸形；腹裂較常是孤立病灶但可伴腸閉鎖。",
       "summary": "腹裂缺口較小但腸管裸露、液熱流失更大；臍膨出較常缺口大且伴染色體與器官異常。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腹裂 vs 臍膨出、選**最不適當**的",
+        "t": "**腹裂**腸子裸露、沒有囊膜 → 水分與熱量流失大，**需要更多輸液**",
+        "x": "臍膨出較常合併染色體異常與其他畸形、缺口通常較大，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70875,7 +71705,12 @@
       "C": "本項不選。Calretinin immunostaining 在正常直腸黏膜固有層及黏膜肌層可見神經纖維染色；Hirschsprung 無神經節區通常缺乏此染色，可作輔助。",
       "D": "本項不選。Acetylcholinesterase staining 可顯示無神經節腸段中增生、粗大的膽鹼能神經纖維，是傳統診斷輔助方法，但技術要求較高。",
       "summary": "Hirschsprung 直腸切片以找不到 ganglion cells 為核心，calretinin/AChE 可輔助；PAS 無診斷角色。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "巨腸症直腸切片、**最不適用**的染色",
+        "t": "診斷看**有無神經節細胞**：H&E 找細胞、calretinin 與 AChE 輔助；**PAS** 沒有診斷角色",
+        "x": "H&E、calretinin、AChE 都用得上"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70911,7 +71746,12 @@
       "C": "本項不選。Duhamel procedure 會保留前方無神經節直腸，將正常腸段從後方拉下並作側對側吻合形成共同腔，不是單純遠端端對端接合。",
       "D": "本項不選。Sistrunk procedure 是甲狀舌管囊腫／瘻管切除合併舌骨中段切除，與 Hirschsprung pull-through 完全無關。",
       "summary": "官方接受 Swenson 或 Soave；兩者差在是否保留直腸肌套，圖像層次才能最終區分。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "切除無神經節腸段、拉下正常腸段端對端接合（官方 A、B 都給分）",
+        "t": "Swenson 是全層切除後接合；Soave 是剝除黏膜保留肌套再拉下",
+        "x": "Duhamel 是保留直腸、側對側吻合；Sistrunk 是甲狀舌管囊腫手術"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70954,7 +71794,12 @@
       "guideline": "FC 醫學(五)第2冊 p.159",
       "concepts": [
         "hinchey-classification"
-      ]
+      ],
+      "approach": {
+        "k": "74 歲、憩室炎病史、發燒、左下腹腫塊、局部腹膜炎、白血球 CRP 高",
+        "t": "乙狀結腸憩室炎穿孔併**膿瘍**",
+        "x": "缺血性腸壞死多有血便與動脈疾病；腸扭轉以腹脹為主；空腸在左上中腹，不是左下"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70990,7 +71835,12 @@
       "guideline": null,
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**下腸繫膜動脈分支的",
+        "t": "IMA 分出左結腸、乙狀結腸、上直腸動脈；**中直腸動脈**來自內髂動脈",
+        "x": "左結腸、乙狀結腸、上直腸動脈都來自 IMA"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -71031,7 +71881,12 @@
       "guideline": "FC 醫學(五)第2冊 p.183",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "錯構瘤息肉＋嘴唇、口腔、指尖色素沉著",
+        "t": "Peutz-Jeghers syndrome",
+        "x": "幼年型息肉症也是錯構瘤但沒有色素斑；Lynch 息肉很少；FAP 是上百顆腺瘤"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -71584,7 +72439,12 @@
       "D": "本項不選。尿液 catecholamine 可輔助診斷，但現行常優先使用 plasma free metanephrines 或 24-hour urinary fractionated metanephrines，因持續代謝產物通常更敏感。",
       "summary": "嗜鉻細胞瘤大多位於腎上腺；「僅 10% 在腎上腺」把傳統 10% rule 的方向顛倒。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "嗜鉻細胞瘤、選**錯誤**的",
+        "t": "10% 原則是 **10% 在腎上腺外**；約九成在腎上腺",
+        "x": "10% 與 MEN 2 有關、10% 雙側、可測尿兒茶酚胺，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -76461,7 +77321,12 @@
       "guideline": "FC 醫學(三)第3冊 p.136",
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "慢性腎臟病貧血原因、選**錯誤**的",
+        "t": "腎性貧血的主因是紅血球生成素**不足**，不是過多",
+        "x": "鐵利用不良、出血傾向、慢性發炎都是腎性貧血的原因"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76686,7 +77551,12 @@
       "C": "本項應選。前列腺癌主要往**骨頭**與區域淋巴結跑，實質性腦轉移相對罕見。四者裡機率最低。",
       "D": "本項不選。黑色素癌的腦轉移傾向非常高，晚期病人常需要腦部磁振造影（MRI）評估並整合局部與全身治療。",
       "summary": "腦轉移的三大來源是肺、乳房、黑色素癌；前列腺癌走的是骨轉移那條路。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腦轉移的原發、機率**最低**",
+        "t": "腦轉移三大來源：**肺癌、乳癌、黑色素癌**；前列腺癌主要轉移到骨頭",
+        "x": "肺、乳、黑色素癌都是腦轉移常見來源"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76719,7 +77589,12 @@
       "C": "本項不選。paclitaxel 加 carboplatin 是卵巢上皮細胞癌第一線的白金加紫杉類骨幹方案。",
       "D": "本項不選。組織分級反映腫瘤的分化與生物行為，與預後相關。分期、殘餘腫瘤量與組織型也同樣重要。",
       "summary": "卵巢癌手術的目標只有一句話：切到看不見殘餘腫瘤——殘留越少，預後越好。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "卵巢上皮癌治療、選**錯誤**的",
+        "t": "optimal resection 是殘餘腫瘤 **<1 cm**（最好是完全無肉眼殘留）",
+        "x": "BRCA 與卵巢癌有關、paclitaxel＋carboplatin 是標準、組織分級與預後有關，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76755,7 +77630,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌標靶藥與標的、配對**錯誤**",
+        "t": "everolimus 是 **mTOR** 抑制劑，不是 EGFR",
+        "x": "pertuzumab 抗 HER2、denosumab 抗 RANKL、ribociclib 抑制 CDK4/6，三組正確"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76796,7 +77676,12 @@
       "guideline": null,
       "concepts": [
         "tumor-lysis-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "癌症治療副作用、選**最不恰當**的",
+        "t": "預防腫瘤溶解最重要的是**大量補水**加 allopurinol 或 rasburicase；鹼化尿液會讓磷酸鈣沉積，已不建議",
+        "x": "rituximab 的輸注反應、CAR-T 的細胞激素釋放症候群、taxane 過敏，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76832,7 +77717,12 @@
       "guideline": null,
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "淋巴瘤用 rituximab、增加哪個疾病",
+        "t": "清除 B 細胞 → JC 病毒再活化 → **進行性多發性白質腦病**（另外要防 B 肝再活化）",
+        "x": "潰瘍性結腸炎、類風濕關節炎、腎病症候群反而有時用 rituximab 治療"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76873,7 +77763,12 @@
       "guideline": "FC 醫學(三)第4冊 p.206",
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "ALL 治療、選**最不適當**的",
+        "t": "所有 ALL（含 Ph+）都要做**中樞神經預防**（鞘內化療），不能省略",
+        "x": "完全緩解率 >80%、維持治療用 6-MP＋MTX、Ph+ 維持期加 TKI，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76914,7 +77809,12 @@
       "guideline": "FC 醫學(三)第4冊 p.163",
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性出血後貧血、**不是**特徵的",
+        "t": "補液後血液被**稀釋**，血紅素才下降；不會出現血液濃縮",
+        "x": "初期休克但貧血輕微、網狀紅血球上升、EPO 上升，三句都是特徵"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76955,7 +77855,12 @@
       "guideline": "FC 醫學(三)第4冊 p.215",
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "MPN 常見突變、**最不可能**的",
+        "t": "MPN 的驅動基因是 **JAK2、CALR、MPL**；FLT3 是急性骨髓性白血病的突變",
+        "x": "JAK2、MPL、CALR 都是 MPN 突變"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76991,7 +77896,12 @@
       "guideline": null,
       "concepts": [
         "multiple-myeloma-crab-features"
-      ]
+      ],
+      "approach": {
+        "k": "多發性骨髓瘤、選**最不適當**的",
+        "t": "骨髓瘤只有溶骨、沒有造骨反應 → 骨掃描常**偽陰性**，X 光（或低劑量全身 CT）比較好",
+        "x": "易感染肺炎鏈球菌、骨痛、高血鈣，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -82271,7 +83181,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "乳房重建、選**正確**的",
+        "t": "義乳重建的併發症：外觀不自然、莢膜攣縮、義乳破裂",
+        "x": "DIEP 很自然但不是「最佳」唯一選擇；游離皮瓣最常取腹部不是腋下；BIA-ALCL 西方人較多"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82620,7 +83535,12 @@
       "summary": "小細胞肺癌是中央型、早轉移的腫瘤；看到它先想化放療，不是常規手術切除。",
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "小細胞肺癌、選**錯誤**的",
+        "t": "小細胞肺癌發現時**多已擴散**，以化放療為主，不適合手術",
+        "x": "多在中央、分侷限期與擴展期、五年存活率差，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82658,7 +83578,12 @@
       "B": "本項不選。過誤瘤是原位成熟組織排列失常，最具代表性的成分是軟骨（cartilage），也可含脂肪和纖維組織，敘述正確。",
       "C": "本項應選。這是錯的敘述。肺部過誤瘤多在中老年成人偶然發現，沒有「好發於 20～30 歲年輕女性」這種流行病學特徵。",
       "D": "本項不選。過誤瘤通常生長緩慢。典型 CT 可見脂肪和粗大鈣化，胸片上的爆米花狀鈣化是常考線索，敘述正確。",
-      "summary": "肺內周邊結節看到脂肪或爆米花狀鈣化，就要想到生長慢的肺過誤瘤。"
+      "summary": "肺內周邊結節看到脂肪或爆米花狀鈣化，就要想到生長慢的肺過誤瘤。",
+      "approach": {
+        "k": "肺過誤瘤、選**錯誤**的",
+        "t": "過誤瘤好發 **40–60 歲男性**，不是 20–30 歲女性",
+        "x": "最常見的良性肺腫瘤、軟骨過度生長（爆米花鈣化）、生長緩慢，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82694,7 +83619,12 @@
       "B": "本項應選。這是錯的敘述。乳糜富含三酸甘油脂（triglyceride）和乳糜微粒（chylomicron），細胞成分以淋巴球為主。嗜酸性球（eosinophils）不是乳糜的典型主要細胞。",
       "C": "本項不選。食道切除和縱膈淋巴結廓清都靠近胸管，術中傷到胸管是醫源性（iatrogenic）乳糜胸的典型原因，敘述正確。",
       "D": "本項不選。少量漏出可先充分引流並減少長鏈脂肪吸收。中鏈三酸甘油脂（medium-chain triglyceride）飲食直接進門靜脈，或禁食搭配全靜脈營養，都能降低乳糜流量，敘述正確。",
-      "summary": "乳白胸水不一定是乳糜胸；要驗 triglyceride／chylomicron，而且乳糜的細胞以淋巴球為主，不是嗜酸性球。"
+      "summary": "乳白胸水不一定是乳糜胸；要驗 triglyceride／chylomicron，而且乳糜的細胞以淋巴球為主，不是嗜酸性球。",
+      "approach": {
+        "k": "乳糜胸、選**錯誤**的",
+        "t": "乳糜的細胞以**淋巴球**為主，不是嗜酸性球",
+        "x": "乳白或澄清外觀、多與食道切除或淋巴廓清有關、量少用 MCT 飲食或禁食，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82882,7 +83812,12 @@
       "D": "本項不選。第三型多為散發、不靠高胃泌素驅動，病灶較大、侵襲與轉移風險最高，預後最差。",
       "summary": "胃 NET 來自 ECL 細胞，GIST 才來自 Cajal 細胞；第二型配 MEN1，第三型最兇。",
       "guideline": "FC 醫學(五)第2冊 p.279",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "胃神經內分泌腫瘤、選**錯誤**的",
+        "t": "胃 NET 來自 **ECL 細胞**；來自 Cajal 間質細胞的是 GIST",
+        "x": "第二型與 MEN 1（gastrinoma）有關、局部腫瘤以切除為主、第三型（偶發型）預後最差，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83031,7 +83966,12 @@
       "guideline": null,
       "concepts": [
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "血鈣 15.5、意識改變、嘔吐、PTH 高",
+        "t": "高血鈣危象第一步：**大量生理食鹽水**補液（病人通常嚴重脫水）",
+        "x": "furosemide 要補完水才給，且不建議連續用；緊急開刀前要先穩定；口服 cinacalcet 太慢"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83070,7 +84010,12 @@
       "D": "本項應選。TSH 受體抗體用來評估葛瑞夫茲病，不能當作橋本氏甲狀腺炎術後補充甲狀腺素的理由。",
       "summary": "術後輕度 TSH 升高是否補，看懷孕、殘餘結節與心臟；TSH 受體抗體是 Graves 的檢查。",
       "guideline": "FC 醫學(五)第2冊 p.239",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "甲狀腺葉切除後 TSH 6.0、free T4 正常、無症狀，建議補甲狀腺素的情況，**除外**",
+        "t": "TSH 受體抗體是 Graves 病的指標，和要不要補甲狀腺素無關",
+        "x": "懷孕、殘餘葉有結節（壓制 TSH）、冠心病，都會影響要不要補充"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83106,7 +84051,12 @@
       "guideline": null,
       "concepts": [
         "pheochromocytoma-preoperative-blockade"
-      ]
+      ],
+      "approach": {
+        "k": "12 歲高血壓 192/110、尿 VMA 高、右腎上腺 5 cm 腫塊，選**最不適當**的",
+        "t": "嗜鉻細胞瘤術前要先 **α 阻斷**（phenoxybenzamine、doxazosin），再視需要加 β 阻斷；spironolactone 是醛固酮拮抗劑",
+        "x": "腹腔鏡切除、術中用 nitroprusside 或 phentolamine 控壓、復發時做 MIBG，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83147,7 +84097,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "**最不適合**保乳",
+        "t": "多個象限都有不確定的微鈣化 → 一次切不乾淨，不適合保乳",
+        "x": "大乳房小腫瘤最適合保乳；淋巴結陽性、侵犯性乳癌都不是保乳禁忌"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83188,7 +84143,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌篩檢、選**錯誤**的",
+        "t": "攝影在**緻密**乳房敏感度**差**；50 歲以上效果好是因為乳房變成脂肪型",
+        "x": "攝影是歐美主要篩檢工具、超音波太依賴操作者、年輕人腫瘤長得快，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83224,7 +84184,12 @@
       "guideline": null,
       "concepts": [
         "bi-rads"
-      ]
+      ],
+      "approach": {
+        "k": "21 歲、超音波疑纖維腺瘤、BI-RADS 2，**較不考慮**",
+        "t": "年輕女性乳房緻密，超音波已判定良性 → 不需要再加乳房攝影",
+        "x": "半年到一年超音波追蹤、病人要求可切片、疼痛給止痛，都合理"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83268,7 +84233,12 @@
       "concepts": [
         "neonatal-gi-obstruction-nec",
         "pediatric-vomiting-approach"
-      ]
+      ],
+      "approach": {
+        "k": "幼兒嘔吐、X 光呈十二指腸層級阻塞，**最不可能**的鑑別",
+        "t": "胃蹼只造成胃擴張（single bubble），不會呈十二指腸阻塞",
+        "x": "十二指腸蹼、環狀胰、腸旋轉不良併扭轉都會造成十二指腸層級阻塞"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83304,7 +84274,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "鼠蹊疝氣解剖、選**正確**的",
+        "t": "**提睪肌**由腹內斜肌延伸而來",
+        "x": "間接疝氣在腹壁下動脈的**外側**；和精索一起穿出外環的是**髂腹股溝**神經；睪丸動脈來自**腹主動脈**"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83344,7 +84319,12 @@
       "C": "不正確。淋巴結發炎（lymphadenitis）通常是壓痛的腫大結節，可能因感染波動，但不會自出生起就在固定位置形成皮膚小孔持續引流。",
       "D": "不正確。淋巴管瘤（lymphangioma）較常是柔軟、可透光的頸部腫塊，可跨組織間隙；孤立的胸鎖乳突肌前緣開口更符合鰓裂瘻管。",
       "summary": "側頸胸鎖乳突肌前緣有先天小開口又會流分泌物，優先想到第二對鰓裂瘻管。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "6 個月、**胸鎖乳突肌前緣**小開口有分泌物",
+        "t": "側頸胸鎖乳突肌前緣 → **第二鰓裂**遺跡瘻管（最常見）",
+        "x": "甲狀舌管瘻管在頸部中線；淋巴結炎沒有先天開口；淋巴管瘤是軟的囊腫"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83467,7 +84447,12 @@
       "C": "不正確。最常見的先天性胃腸道畸形是 Meckel 憩室，不是腸套疊；腸套疊多在出生後發生，常沒有明確先天結構異常。",
       "D": "正確。沒有腹膜炎、穿孔或休克的單純腸套疊，通常先以空氣或靜水壓灌腸復位；靜水壓力復位術（hydrostatic reduction）兼具診斷與治療作用。",
       "summary": "腸套疊先做超音波、穩定後以灌腸復位；2 的法則和核醫掃描都是 Meckel 憩室的線索。",
-      "guideline": "FC 醫學(五)第4冊 p.195"
+      "guideline": "FC 醫學(五)第4冊 p.195",
+      "approach": {
+        "k": "腸套疊、選**最適當**的",
+        "t": "單純腸套疊（無腹膜炎、穩定）大多可用**灌腸復位**（水壓或氣壓）",
+        "x": "2 的法則與 99mTc 掃描是 **Meckel 憩室**；腸套疊不是先天畸形"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83503,7 +84488,12 @@
       "guideline": "FC 醫學(五)第2冊 p.208",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "潛血陽性、乙狀結腸 1 cm **有莖**息肉",
+        "t": "有莖小息肉 → 內視鏡**息肉切除**，整顆送病理",
+        "x": "只切片不能確保整顆切除；直接腸切除太過度；觀察會錯過可能的癌化"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83544,7 +84534,12 @@
       "guideline": "FC 醫學(五)第2冊 p.145",
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "骨盆底肌肉、**不包括**",
+        "t": "骨盆底（提肛肌）＝恥骨直腸肌、恥骨尾骨肌、髂骨尾骨肌；臀大肌不是",
+        "x": "其他三個都是提肛肌群的組成"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83585,7 +84580,12 @@
       "guideline": "FC 醫學(五)第2冊 p.145",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "降結腸癌手術、**大出血最常見**原因",
+        "t": "游離脾彎時拉扯結腸脾韌帶 → **脾臟撕裂**",
+        "x": "上腸繫膜靜脈、下腔靜脈、主動脈都不在降結腸游離的主要路徑上"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83626,7 +84626,12 @@
       "guideline": "FC 醫學(五)第2冊 p.214",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "腹腔鏡 vs 開放闌尾切除、選出**錯誤**的組合",
+        "t": "② 錯：反而是**腹腔鏡**能看整個腹腔；④ 錯：延遲表現的闌尾膿瘍，**引流**有幫助",
+        "x": "① 腹腔鏡併發症較低、③ 安全最重要，這兩句是對的"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -88988,7 +89993,12 @@
       "guideline": null,
       "concepts": [
         "tumor-lysis-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "腫瘤溶解症候群、選**最不適當**的",
+        "t": "鹼化尿液會**增加**磷酸鈣沉澱，不是減少",
+        "x": "高尿酸高鉀高磷、補水加 rasburicase、寡尿高鉀考慮透析，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89266,7 +90276,12 @@
       "concepts": [
         "breast-cancer-local-therapy",
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腋下腺癌、乳房影像全陰性",
+        "t": "隱匿性乳癌 → 照乳癌治療（驗 ER、GATA3、HER2；放療；全身治療），**不需要**切掉同側乳房",
+        "x": "驗標記、局部放療、全身化療或抗荷爾蒙，都合適"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89307,7 +90322,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "癌症藥物與晚期副作用、配對**最不恰當**",
+        "t": "anthracycline 的晚期副作用是**心肌病變**，不是神經病變",
+        "x": "bleomycin 肺纖維化、trastuzumab 心功能異常、類固醇缺血性骨壞死，三組正確"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89345,7 +90365,12 @@
       "C": "本項不選。沒有 BRAF V600 突變就不能用 BRAF 標靶，第一線走 anti-PD-1 為主的免疫治療。",
       "D": "本項不選。有 BRAF V600 突變時兩條路都可以，依疾病進展速度、症狀嚴重度與病人狀況選擇免疫治療或 BRAF 加 MEK 抑制劑。",
       "summary": "黑色素癌兩條路各有性格：標靶快但容易產生抗藥，免疫慢但可能持久——這題就是把兩者顛倒。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "第四期黑色素癌、選**最不適當**的",
+        "t": "標靶治療的優點是**反應快**；療效**持久**的是免疫治療（標靶容易產生抗藥）",
+        "x": "BRAF 加 MEK 合併反而減少皮膚鱗癌、BRAF 野生型用免疫治療、BRAF 突變可用免疫或標靶，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89383,7 +90408,12 @@
       "C": "本項不選。docetaxel 化療對轉移性去勢抗性攝護腺癌有整體存活效益，證據明確。",
       "D": "正確答案。睪固酮已經低於 50 ng/mL 代表去勢抗性攝護腺癌（castration-resistant prostate cancer, CRPC）。pembrolizumab 在這種病人身上**不是普遍有效**，療效侷限在 MSI-H／dMMR、腫瘤突變負荷高這類生物標記篩選出的少數人。",
       "summary": "去勢抗性攝護腺癌有三支主力（abiraterone、enzalutamide、docetaxel）；免疫治療要先驗生物標記才有機會。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "轉移性攝護腺癌、睪固酮已去勢、**尚無明確證據**的藥",
+        "t": "去勢抗性攝護腺癌的主力是 abiraterone、enzalutamide、docetaxel；**pembrolizumab** 只用於特定生物標記（MSI-H）",
+        "x": "abiraterone、enzalutamide、docetaxel 都有存活證據"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89421,7 +90451,12 @@
       "C": "本項不選。攝護腺癌會讓 PSA 上升，但 PSA 不是癌症專一的檢驗——正常值也不能完全排除癌症。",
       "D": "正確答案。根除性攝護腺切除把會製造 PSA 的組織整個拿掉了，術後 PSA 應該降到測不到。之後若又測得到或往上爬，就要懷疑殘存或復發。",
       "summary": "術後 PSA 測不到才是正常；再度測得到就是生化復發的訊號，這正是拿它追蹤的原理。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "PSA **最不可能**升高",
+        "t": "根除性攝護腺切除後，攝護腺已經沒了 → PSA 應**測不到**",
+        "x": "BPH、切片後、攝護腺癌都會讓 PSA 升高"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89462,7 +90497,12 @@
       "guideline": "FC 醫學(三)第4冊 p.205",
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "AML 染色體與融合基因、配對**錯誤**的",
+        "t": "DEK-NUP214 是 **t(6;9)**；t(9;11) 是 KMT2A（MLL）重排",
+        "x": "t(8;21) RUNX1-RUNX1T1、t(15;17) PML-RARA、inv(16) CBFB-MYH11，三組正確"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89503,7 +90543,12 @@
       "guideline": "FC 醫學(三)第4冊 p.162",
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "巨球母細胞性貧血、選**錯誤**的",
+        "t": "B12 或葉酸缺乏造成 **DNA 合成**受阻（不是 DNA 轉錄成 mRNA 受阻）→ 核質發育不同步",
+        "x": "葉酸缺乏、B12 缺乏、全血球低下，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89544,7 +90589,12 @@
       "guideline": "FC 醫學(三)第4冊 p.226",
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "何杰金氏淋巴瘤的來源、選**正確**的",
+        "t": "Reed-Sternberg 細胞來自**生發中心 B 細胞**，只是失去 B 細胞標記",
+        "x": "不是 T 細胞；HIV 相關者幾乎**都有** EBV；非 HIV 相關者只有部分有 EBV"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89585,7 +90635,12 @@
       "guideline": "FC 醫學(三)第4冊 p.240",
       "concepts": [
         "multiple-myeloma-crab-features"
-      ]
+      ],
+      "approach": {
+        "k": "多發性骨髓瘤、**最不可能**的表現",
+        "t": "CRAB：高血鈣、腎損傷、**貧血**、骨病變 → 不會多血",
+        "x": "脊椎壓迫骨折、腎功能異常、高血鈣都是典型表現"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94193,7 +95248,12 @@
       "B": "本項不選。原傷口可能受污染或不在安全三角，胸管應另選無菌、解剖正確的位置，不是沿著開放傷口硬放進胸腔。",
       "C": "正確答案。張力性氣胸（tension pneumothorax）的頸靜脈怒張來自胸腔高壓阻礙靜脈回流。如果病人同時失血、脫水或已經低血容量，頸靜脈可以不怒張。",
       "D": "本項不選。肋間血管和神經走在肋骨下緣的肋溝裡，胸管要沿肋骨「上緣」進入，才避得開這條神經血管束（neurovascular bundle）。",
-      "summary": "張力性氣胸不一定有頸靜脈怒張（JVD），尤其合併失血時；胸管要貼肋骨上緣走，避開下緣的血管神經。"
+      "summary": "張力性氣胸不一定有頸靜脈怒張（JVD），尤其合併失血時；胸管要貼肋骨上緣走，避開下緣的血管神經。",
+      "approach": {
+        "k": "胸部外傷緊急處置、選**正確**的",
+        "t": "張力性氣胸合併失血時，靜脈壓低 → **可能沒有**頸靜脈怒張",
+        "x": "開放性氣胸要三邊貼紗布並**盡快放胸管**；不要從傷口放胸管；胸管要沿肋骨**上緣**進入"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95163,7 +96223,12 @@
       "B": "本項不選。胸部淋巴結廓清可能傷到胸管或它的分支，所以是術後乳糜胸的常見情境，敘述正確。",
       "C": "本項應選。這是錯的敘述。長鏈三酸甘油脂（long-chain triglyceride）會經腸道乳糜管進到胸管，反而讓漏出的乳糜變多。初期應限脂、改用中鏈三酸甘油脂，或禁食搭配全靜脈營養。",
       "D": "本項不選。肺部或縱膈腫瘤可壓迫、侵犯或阻塞胸管，是非外傷性乳糜胸的重要病因，敘述正確。",
-      "summary": "乳糜胸的飲食重點是避開長鏈三酸甘油脂；中鏈（MCT）的不走腸道淋巴，才能減少胸管漏量。"
+      "summary": "乳糜胸的飲食重點是避開長鏈三酸甘油脂；中鏈（MCT）的不走腸道淋巴，才能減少胸管漏量。",
+      "approach": {
+        "k": "乳糜胸、選**錯誤**的",
+        "t": "保守治療要給**中鏈**三酸甘油脂（MCT，直接進門脈不經淋巴），長鏈的會增加乳糜",
+        "x": "高三酸甘油脂、淋巴廓清後常見、腫瘤也可引起，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95201,7 +96266,12 @@
       "B": "本項不選。組織胞漿菌症（histoplasmosis）的 Histoplasma 可留下肉芽腫或纖維化病灶，但不是典型會在既有空洞裡形成 fungus ball 的黴菌。",
       "C": "本項不選。球黴菌症（coccidioidomycosis）的 Coccidioides 可造成肺炎和殘留空洞，但不像 Aspergillus 那樣常以空洞內可移動的菌球表現。",
       "D": "本項不選。隱球菌症（cryptococcosis）的 Cryptococcus 在免疫低下者較常造成肺結節、浸潤或中樞神經感染，不是典型的空洞菌球病原。",
-      "summary": "既有肺空洞裡看到 fungus ball，第一個想到 Aspergillus；它是定殖，不等於侵襲性肺麴菌症。"
+      "summary": "既有肺空洞裡看到 fungus ball，第一個想到 Aspergillus；它是定殖，不等於侵襲性肺麴菌症。",
+      "approach": {
+        "k": "空腔內**黴菌球**最常見的菌",
+        "t": "**麴菌**定殖在既有空洞（如結核後）形成 aspergilloma",
+        "x": "組織胞漿菌、球黴菌、隱球菌較少形成黴菌球"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95242,7 +96312,12 @@
       "B": "本項不選。可切除的胸腺瘤以完整外科切除為治療核心，切除的完整程度是重要預後因子，敘述正確。",
       "C": "本項不選。胸腺瘤和重症肌無力（myasthenia gravis）有經典關聯，病人可能先以眼瞼下垂或容易疲勞來就診，敘述正確。",
       "D": "本項不選。無法切除或局部晚期的胸腺瘤，常先用 cisplatin 為主的化療把病灶縮小，再由多專科評估手術或放療，敘述正確。",
-      "summary": "縱膈腫瘤分年齡：兒童先想後縱膈的 neurogenic tumor；成人前縱膈才常想到 thymoma。"
+      "summary": "縱膈腫瘤分年齡：兒童先想後縱膈的 neurogenic tumor；成人前縱膈才常想到 thymoma。",
+      "approach": {
+        "k": "胸腺瘤、選**錯誤**的",
+        "t": "兒童最常見的縱膈腫瘤是**神經源腫瘤**，胸腺瘤是成人前縱膈最常見",
+        "x": "以手術為主、可合併重症肌無力、不能切時 cisplatin 化療有效，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95280,7 +96355,12 @@
       "B": "本項不選。縱膈腔的筋膜和疏鬆結締組織可以讓感染沿頸部、肋膜或心包膜快速延伸，形成嚴重敗血症，敘述正確。",
       "C": "本項不選。急性縱膈腔炎（mediastinitis）要同時給廣效抗生素和充分的手術或介入引流，只用抗生素無法控制被污染的縱膈腔，敘述正確。",
       "D": "本項不選。食道穿孔會讓口咽和腸胃道的好氧、厭氧菌一起進入縱膈腔，感染擴散快、死亡風險高，敘述正確。",
-      "summary": "縱膈腔炎最怕食道穿孔的混合菌污染，治療是抗生素加引流清創；Pel–Ebstein fever 是淋巴瘤線索不是它。"
+      "summary": "縱膈腔炎最怕食道穿孔的混合菌污染，治療是抗生素加引流清創；Pel–Ebstein fever 是淋巴瘤線索不是它。",
+      "approach": {
+        "k": "縱膈腔感染、選**錯誤**的",
+        "t": "Pel-Ebstein fever（週期性發燒）是**何杰金淋巴瘤**的線索，不是縱膈腔炎",
+        "x": "沿結締組織擴散、手術引流加抗生素、食道穿孔混合菌感染最致命，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95432,7 +96512,12 @@
       "D": "本項不選。轉移性胰臟神經內分泌腫瘤可依分布採手術、肝臟導向治療或 ablation；RFA 可在選定患者減少腫瘤負荷、緩解 hormone-related symptoms。",
       "summary": "CgA 是輔助標記，不是影像陰性時啟動 adjuvant chemotherapy 的指標；治療須依分級與病灶分布。",
       "guideline": "FC 醫學(五)第3冊 p.220",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "胰臟內分泌腫瘤、選**錯誤**的",
+        "t": "chromogranin A 只是輔助標記；術後影像沒有病灶時，**不能單憑 CgA 升高**就給輔助化療",
+        "x": "組織學無法預測行為、MEN 1 的胰臟腫瘤常多發、轉移可用多種治療含 RFA，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95630,7 +96715,12 @@
       "D": "本項不選。觀察性資料顯示嚴重 secondary hyperparathyroidism 接受適當 parathyroidectomy 可能與較佳長期存活相關，但效益仍受整體共病影響。",
       "summary": "副甲狀腺切除可改善高骨轉換與部分貧血指標，但不會讓末期腎病患者恢復尿量。",
       "guideline": "FC 醫學(五)第2冊 p.256",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "洗腎 10 年、PTH 1800、副甲狀腺全切加自體移植，術後**較不會改善**",
+        "t": "副甲狀腺切除不會讓已經壞掉的腎臟恢復 → **尿量**不會增加",
+        "x": "骨密度、貧血（PTH 抑制造血）、長期存活都可能改善"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95669,7 +96759,12 @@
       "D": "本項不選。完整切除且病理符合 NIFTP 時，單側葉切除通常就夠，不需要補全切或高劑量放射碘。",
       "summary": "NIFTP 是有包膜、不侵犯的濾泡型腫瘤，葉切除就夠，不用放射碘。",
       "guideline": "FC 醫學(五)第2冊 p.240",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "葉切除後病理 NIFTP",
+        "t": "NIFTP＝有包膜、非侵襲性的濾泡型乳突癌 → 葉切除就夠",
+        "x": "細胞學不像 Hürthle 細胞腫瘤；lateral aberrant thyroid 是側頸淋巴轉移的舊稱；NIFTP 不需放射碘"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95705,7 +96800,12 @@
       "guideline": null,
       "concepts": [
         "whipple-triad"
-      ]
+      ],
+      "approach": {
+        "k": "83 歲、空腹暈倒、進食緩解、血糖 34、insulin 與 C-peptide 都高，選**最不適當**的",
+        "t": "胰尾 insulinoma 做**局部切除**或遠端胰切除即可，不需要切掉 85% 胰臟",
+        "x": "先打 50% 葡萄糖救命、甦醒後做 CT 定位、找不到時做選擇性動脈鈣刺激試驗，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95741,7 +96841,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "除了前哨淋巴，還**要**做腋下廓清的是",
+        "t": "**全乳切除**後前哨淋巴陽性 → 沒有全乳放療兜底，要加做廓清",
+        "x": "DCIS 前哨陰性、侵襲癌前哨陰性不用廓清；保乳＋放療＋只有 2 顆陽性可省略廓清（Z0011）"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95782,7 +96887,12 @@
       "guideline": "國民健康署：113 年一般風險婦女 45–69 歲每 2 年 1 次，40–44 歲需二等親內乳癌家族史；自 114 年 1 月 1 日起擴大為 40–74 歲婦女每 2 年 1 次。https://www.hpa.gov.tw/Pages/Detail.aspx?form=MG0AV3&nodeid=4878&pid=18916",
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "國健署一般風險婦女乳攝篩檢，從幾歲開始（113 年）",
+        "t": "113 年時是 **45 歲**（114 年起下修到 40 歲），每 2 年一次",
+        "x": "40 歲是有家族史的高風險族群（113 年時）；35、50 歲都不是台灣的起始年齡"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95823,7 +96933,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-biomarker-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "保乳、侵襲性乳管癌 2 公分、淋巴陰性、ER+、HER2+",
+        "t": "四個訊號對四種治療：HER2+ → 化療＋標靶；ER+ → 抗荷爾蒙；保乳 → 放療 → **四項都要**",
+        "x": "少任何一項都漏掉一條治療線"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95863,7 +96978,12 @@
       "C": "本項的直腸切片有幫助，所以不選。直腸吸引切片或全層切片找不到 ganglion cells，才是確診先天性巨腸症的關鍵證據。",
       "D": "本項的延遲 X 光有幫助，所以不選。下消化道攝影後延遲片可看顯影劑滯留，支持遠端功能性阻塞；它不能單獨確診，但能補足影像評估。",
       "summary": "懷疑 Hirschsprung 時，灌洗先減壓、直腸切片定診；CT 既多餘又無法回答有沒有神經節細胞。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "3 個月、7–8 天沒解便、滲便、灌腸攝影見移行區",
+        "t": "懷疑巨腸症 → 灌洗減壓、直腸切片確診、隔日 X 光看顯影劑滯留；**CT 沒有幫助**",
+        "x": "肛管或直腸灌洗、直腸切片、24 小時後延遲 X 光都有用"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95901,7 +97021,12 @@
       "C": "正確。新生兒肝炎（neonatal hepatitis）同樣可造成持續黃疸與直接型高膽紅素血症，必須與膽道閉鎖鑑別，因為膽道閉鎖需要及早 Kasai 手術。",
       "D": "不正確。Kasai 手術能恢復部分膽汁引流，卻不能保證治癒；不少患者仍會進展為肝纖維化、門脈高壓或日後需要肝臟移植。",
       "summary": "嬰兒持續直接型黃疸先分膽道閉鎖和新生兒肝炎；Kasai 是搶救膽汁引流，不是九成治癒保證。",
-      "guideline": "FC 醫學(五)第4冊 p.211"
+      "guideline": "FC 醫學(五)第4冊 p.211",
+      "approach": {
+        "k": "膽道閉鎖、選**正確**的",
+        "t": "嬰兒持續直接型黃疸要鑑別**新生兒肝炎**",
+        "x": "膽道閉鎖的肝內膽管**不擴張**；確診靠術中膽道攝影，不是 ERCP；Kasai 只有約三分之一長期不需換肝"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95939,7 +97064,12 @@
       "C": "本項不選。能完整切除就切，切不乾淨或位置無法切除時，先化療或放療把腫瘤縮小再處理。橫紋肌肉瘤對化療反應好，所以多模式治療是常態。",
       "D": "本項應選。方向講反了。**眼眶與非腦膜旁的頭頸部屬於預後良好部位**，因為容易早期發現、也適合放療。預後差的是腦膜旁（會侵犯顱底）、四肢、膀胱攝護腺與腹膜後。",
       "summary": "橫紋肌肉瘤的預後看部位：眼眶與非腦膜旁頭頸部最好，腦膜旁與四肢最差。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "橫紋肌肉瘤、選**錯誤**的",
+        "t": "**眼眶**與非腦膜旁頭頸部是**預後最好**的部位",
+        "x": "最常見頭頸部、要影像加骨髓再切片確診、可切就切否則先化放療，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95982,7 +97112,12 @@
       "B": "本項不選。B 和 D 是左右兩側的縱向距離，平均後再除以 C 不代表胸廓的左右寬度，量不出漏斗胸的前後壓縮程度。",
       "C": "本項不選。C/E 比的是兩段前後向距離，沒有把胸腔左右最寬橫徑算進去，不能當 Haller index。",
       "D": "本項不選。(B+D)/A 用了兩側高度和橫徑，仍然沒量到胸骨與椎體之間的最短前後距離，跟 Haller index 的定義不合。",
-      "summary": "漏斗胸的 Haller index 就背「寬除深」：胸腔橫徑 ÷ 胸骨到椎體的最短前後徑。"
+      "summary": "漏斗胸的 Haller index 就背「寬除深」：胸腔橫徑 ÷ 胸骨到椎體的最短前後徑。",
+      "approach": {
+        "k": "Haller index 怎麼算",
+        "t": "Haller index＝**胸腔橫徑 ÷ 胸骨到脊椎最短前後徑** → A/C",
+        "x": "其他組合不是 Haller index 的定義"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96015,7 +97150,12 @@
       "B": "本項不選。6～9 歲可依嚴重度和症狀個別評估，但多數人會等接近青春期，讓胸壁發育和矯正時機比較平衡。",
       "C": "正確答案。依本題的傳統選項，10～14 歲接近青春期、胸壁還有可塑性，是 Nuss procedure 常被安排的年齡範圍。實際年齡仍要看症狀、變形速度和胸壁成熟度。",
       "D": "本項不選。成人仍可以做 Nuss procedure，但胸壁較僵硬，手術技術和併發症考量更多，不是一般病人的首選時點。",
-      "summary": "漏斗胸不是越早開越好；Nuss procedure 的時機記青春期前後、大約 10～14 歲。"
+      "summary": "漏斗胸不是越早開越好；Nuss procedure 的時機記青春期前後、大約 10～14 歲。",
+      "approach": {
+        "k": "漏斗胸**最適當**的手術時機",
+        "t": "Nuss 手術約 **10–14 歲**（青春期前後，胸壁還有彈性又不易復發）",
+        "x": "2–9 歲太早容易復發；成人胸壁硬、手術較困難"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96051,7 +97191,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "大腸扭轉、選**正確**的",
+        "t": "沒有固定在後腹腔、腸繫膜又長的腸段（乙狀結腸、盲腸）容易扭轉",
+        "x": "最常見是乙狀結腸不是橫結腸；好發老年人，非年輕女性；乙狀結腸扭轉的 X 光是 coffee bean sign，不是 keyboard sign"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96093,7 +97238,12 @@
       "guideline": "官方更正：本題答 B 或 D 或 BD 均給分",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "腎功能不佳、清腸藥**最不適合**（官方 B、D 都給分）",
+        "t": "腎差要避開會堆積的**含鎂、含磷酸鹽**製劑 → magnesium citrate 最不適合",
+        "x": "bisacodyl 與灌腸較安全；PEG 本身不吸收、腎差也常用（官方另給分）"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96134,7 +97284,12 @@
       "guideline": "FC 醫學(五)第2冊 p.196",
       "concepts": [
         "colorectal-tnm-basics"
-      ]
+      ],
+      "approach": {
+        "k": "侵犯到**固有肌層**、沒有穿過",
+        "t": "T 分期看深度：黏膜下層 T1、**固有肌層 T2**、穿過肌層 T3、到臟層腹膜或鄰近器官 T4",
+        "x": "T1 只到黏膜下層；T3 已穿出肌層；T4 侵犯腹膜或其他器官"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96960,7 +98115,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "46 歲女性右下腹痛壓痛、超音波見腫脹管狀構造",
+        "t": "超音波看到發炎的闌尾 → 闌尾炎",
+        "x": "子宮發炎會下腹中線痛；卵巢膿瘍在附屬器位置；Crohn 是慢性腹瀉的病程"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -101375,7 +102535,12 @@
       "guideline": null,
       "concepts": [
         "thrombotic-microangiopathy-definition"
-      ]
+      ],
+      "approach": {
+        "k": "TMA、選**錯誤**的",
+        "t": "ADAMTS13 **<10%**（嚴重缺乏）才是 TTP；>15% 反而不支持 TTP",
+        "x": "診斷 TMA 要血小板低加 MAHA、可有神經腎臟腸胃表現、TTP 用血漿置換加類固醇，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101480,7 +102645,12 @@
       "guideline": null,
       "concepts": [
         "tumor-lysis-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "腫瘤溶解、**最不常見**的異常",
+        "t": "腫瘤溶解是高鉀、高磷、高尿酸、低鈣；**低血鈉**不在其中",
+        "x": "高磷、高尿酸、低鈣都是典型表現"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101691,7 +102861,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "Ewing 肉瘤、選**錯誤**的",
+        "t": "Ewing 最常見的基因異常是 **EWSR1–FLI1** 融合 t(11;22)；PDGFRA 是 GIST",
+        "x": "好發長骨骨幹、洋蔥皮骨膜反應、轉移到肺與其他骨頭，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101727,7 +102902,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "38 歲**停經前**、ER+ HER2−、骨轉移，**最不適宜**的",
+        "t": "停經前卵巢仍在製造雌激素，**單用 AI** 會被反饋刺激抵銷 → 一定要合併卵巢抑制",
+        "x": "卵巢切除、tamoxifen、GnRH agonist 都適合停經前"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101796,7 +102976,12 @@
       "C": "本項不選。惡性小痣型多見於高齡者長期日曬的臉部，和亞洲人的分布不符。",
       "D": "正確答案。亞洲人最常見的是肢端小痣型，長在手掌、腳掌與指甲。所以檢查時**一定要看手心、腳底與甲床**，這是最容易漏掉的地方。",
       "summary": "亞洲人的黑色素癌長在曬不到太陽的地方：手掌、腳底、指甲——看診時鞋襪要脫掉。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "亞洲人**最常見**的黑色素癌分型",
+        "t": "**肢端小痣型**（手掌、腳底、指甲下），與日曬無關",
+        "x": "表淺擴散型是白人最常見；結節型次之；惡性小痣型在老人曬傷臉部"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101829,7 +103014,12 @@
       "C": "本項不選。第一、二期的局部腎細胞癌以手術切除為標準，依腫瘤與病人條件選部分或根除性腎切除。",
       "D": "本項不選。腎功能不佳或只剩一顆腎時，只要腫瘤大小與位置允許，部分腎切除這類腎元保留手術能守住腎功能。",
       "summary": "腎細胞癌最常見亮細胞型；局部期以手術為主，能安全做就優先保留腎元。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腎細胞癌、選**錯誤**的",
+        "t": "最常見的組織型是**亮細胞型**（clear cell，約 75%）",
+        "x": "高血鈣可能是骨轉移或副腫瘤（PTHrP）、早期做根除或部分腎切除、腎功能差可保留腎元，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101865,7 +103055,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "ALL 免疫治療、選**最不適當**的",
+        "t": "inotuzumab ozogamicin 是抗 **CD22** 的抗體藥物複合體，不是抗 CD19",
+        "x": "blinatumomab 同時抓 CD3 與 CD19、CAR-T 打 CD19、CAR-T 會造成細胞激素釋放症候群，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101902,7 +103097,12 @@
       "guideline": "官方更正：本題答 A 或 D 或 AD 均給分",
       "concepts": [
         "thalassemia-alpha-vs-beta"
-      ]
+      ],
+      "approach": {
+        "k": "HbH disease、選**錯誤**的（官方 A、D 都給分）",
+        "t": "HbH 是 **α 海洋性貧血**（缺三個 α 基因）；多出的 β 鏈聚成 β4（HbH）",
+        "x": "有溶血表現、會形成 β4 四聚體，這兩句是對的"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101935,7 +103135,12 @@
       "C": "本項不選。懷孕時細胞增生旺盛、胎兒需求又大，補充不足很容易葉酸缺乏。這也是孕前就要補葉酸的原因。",
       "D": "本項應選。抗體指向的是另一種維生素：高效價抗胃壁細胞抗體代表自體免疫性胃炎與內在因子缺乏，造成的是**維生素 B12** 缺乏（惡性貧血），不是葉酸缺乏。",
       "summary": "兩種缺乏的貧血都是巨球型，但來源不同：抗胃壁細胞抗體＝B12；酗酒與懷孕＝葉酸。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最不會**導致葉酸缺乏",
+        "t": "抗胃壁細胞抗體 → 惡性貧血 → 缺的是 **B12**，不是葉酸",
+        "x": "酗酒（攝取與吸收差）、高胱胺酸尿症（治療用藥與代謝消耗）、懷孕（需求增加），都會缺葉酸"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -101968,7 +103173,12 @@
       "C": "正確答案。O 型病人體內有 anti-A，輸進 A 型紅血球（RBC）濃縮液會造成嚴重的急性溶血性輸血反應。這是絕對紅線，**再緊急也不能這樣輸**。",
       "D": "本項敘述錯誤。O 型兒子的紅血球雖然 ABO 相容，但親屬定向輸血有輸血相關移植物抗宿主疾病（transfusion-associated GVHD, TA-GVHD）的風險，依規範要先做照射處理，不能完全不處理。",
       "summary": "紅血球的 ABO 相容是絕對紅線；血小板可以妥協，親屬血則要先照射防 TA-GVHD。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ABO 不同的輸血、選**正確**的",
+        "t": "O 型病人體內有天然的 anti-A **IgM**，輸 A 型紅血球會急性溶血 → 緊急時也**不可以**",
+        "x": "溶血主要由 IgM 不是 IgG；血小板 ABO 不合在緊急時可以輸；親屬的血要照射，不能未經處理直接輸"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102990,7 +104200,12 @@
       "C": "本項應選。例行增加每日 750～1000 mL 的靜脈營養或輸液，並不能可靠改善末期癌症病人的口乾與食慾，反而可能造成水腫、腹水、呼吸道分泌物增加與照護負擔。**口乾要靠口腔照護**，不是靠打點滴。",
       "D": "本項不選。類固醇能短期改善食慾，megestrol 也可能增加食慾或體重。但要權衡血栓、水腫與腎上腺、代謝方面的副作用。",
       "summary": "末期食慾不振先找可逆原因（痛、噁心、鵝口瘡、便祕）；打點滴補不回食慾，只會補出水腫。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "末期癌症食慾不振、選**最不適當**的",
+        "t": "額外打靜脈輸液**不能**改善食慾，反而可能水腫與增加分泌物",
+        "x": "控制疼痛、治療噁心鵝口瘡便秘、類固醇或 megestrol，都是合理建議"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106788,7 +108003,12 @@
       "guideline": null,
       "concepts": [
         "bi-rads"
-      ]
+      ],
+      "approach": {
+        "k": "篩檢攝影 BI-RADS **0**",
+        "t": "0 類＝評估不完整，要**補做其他影像**（局部加壓、放大攝影或超音波）",
+        "x": "正常是 1、良性是 2、懷疑惡性要切片是 4"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107103,7 +108323,12 @@
       "B": "本項不選。乳頭型（papillary）以纖維血管軸構成的乳頭狀結構為主，整體預後不如以伏壁型為主的肺腺癌。",
       "C": "正確答案。伏壁型（lepidic）肺腺癌沿著既有肺泡壁生長，較少破壞肺泡結構，在各種浸潤型態裡通常對應較低的復發風險和較好的預後。",
       "D": "本項不選。微乳頭型（micropapillary）是沒有纖維血管軸的小細胞團漂在肺泡腔裡，和淋巴血管侵犯、淋巴結轉移及較差預後相關。",
-      "summary": "肺腺癌組織型記憶法：lepidic 最溫和、micropapillary 最容易轉移，兩端的預後差最多。"
+      "summary": "肺腺癌組織型記憶法：lepidic 最溫和、micropapillary 最容易轉移，兩端的預後差最多。",
+      "approach": {
+        "k": "肺腺癌亞型、預後**最佳**",
+        "t": "**伏壁型（lepidic）**預後最好",
+        "x": "腺泡型與乳頭型中等；微乳頭型與固體型最差"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107136,7 +108361,12 @@
       "B": "本項不選。持續的肉芽腫發炎可讓肺間質纖維化，晚期尤其可能出現以上葉為主的肺纖維化和呼吸功能下降。",
       "C": "本項不選。非乾酪性肉芽腫（non-caseating granuloma）也可出現在皮膚、眼睛、肝臟、心臟和神經系統，不只侷限在肺和肺門淋巴結。",
       "D": "本項不選。類肉瘤病不是細菌感染，治療以觀察或依器官受累使用 corticosteroid 等免疫調節，抗生素沒有針對性效果。",
-      "summary": "sarcoidosis 是全身性的 non-caseating granuloma，胸腔最常受累，晚期確實可能纖維化。"
+      "summary": "sarcoidosis 是全身性的 non-caseating granuloma，胸腔最常受累，晚期確實可能纖維化。",
+      "approach": {
+        "k": "類肉瘤病、選**正確**的",
+        "t": "類肉瘤病**多侵犯肺部**（約 90%）",
+        "x": "晚期**會**肺纖維化；非乾酪性肉芽腫可在**全身**；主要用藥是**類固醇**"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107280,7 +108510,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "急性闌尾炎、選**錯誤**的",
+        "t": "單孔腹腔鏡只有美觀稍好，其他**結果並沒有比較好**（疼痛與疝氣甚至可能較多）",
+        "x": "CRP、膽紅素、procalcitonin 可幫助評估；抗生素治療約四分之一一年內要開刀；闌尾癌最常以闌尾炎表現，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107424,7 +108659,12 @@
       "guideline": null,
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "胰臟癌、仍**適合**根除切除",
+        "t": "侵犯**鄰近大腸**可以一起切除，仍能達 R0",
+        "x": "肝轉移是遠處轉移，不能切；侵犯 SMA 或腹腔動脈屬於局部晚期無法切除"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107496,7 +108736,12 @@
       "guideline": null,
       "concepts": [
         "nelson-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "雙側腎上腺切除後 Nelson's syndrome、**較無關**的症狀",
+        "t": "Nelson 症候群＝腦下垂體 ACTH 腫瘤失去 cortisol 抑制而長大 → ACTH 高（皮膚變黑）＋腫瘤壓迫（頭痛、視野缺損）",
+        "x": "聽力和腦下垂體腫瘤無關"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107532,7 +108777,12 @@
       "guideline": null,
       "concepts": [
         "familial-hypocalciuric-hypercalcemia"
-      ]
+      ],
+      "approach": {
+        "k": "高血鈣、近親有高血鈣家族史，排除 FHH",
+        "t": "FHH 的特徵是**尿鈣很低**（鈣廓清/肌酸酐廓清比 <0.01）→ 驗 24 小時尿鈣",
+        "x": "PTH 在兩種病都可能正常或偏高，分不開；sestamibi 與頸部 CT 是定位，不是診斷"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107565,7 +108815,12 @@
       "C": "本項不選。lenvatinib 同類，可延緩影像上的疾病進展。常見毒性是高血壓、蛋白尿、疲倦與傷口癒合不良，用藥期間要密切監測血壓。",
       "D": "本項不選。胸椎骨轉移會痛，緩解性放射治療能有效減痛，也降低局部骨折與脊髓壓迫的風險。這是針對症狀病灶的局部處置，和全身治療並行不衝突。",
       "summary": "碘掃描陰性但 FDG-PET 陽性又在進展＝放射碘難治：不要再加碘，改評估 TKI 加上局部緩解治療。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "濾泡癌全切加三次放射碘後、thyroglobulin 很高、碘掃描陰性、FDG-PET 陽性多處轉移且進展",
+        "t": "碘掃描陰性＋PET 陽性 → **放射碘難治型**，再打碘沒效",
+        "x": "sorafenib、lenvatinib 等 TKI 是放射碘難治型的治療；骨轉移疼痛做緩解性放療，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107598,7 +108853,12 @@
       "C": "本項不選。纖維腺瘤（fibroadenoma）惡性轉變極罕見。典型、穩定、影像病理一致的可以觀察，不是非切不可。",
       "D": "本項不選。惡性葉狀腫瘤（malignant phyllodes tumor）的重點是切到足夠的陰性切緣。常規術後輔助化療沒有確立效益，不能說都要加做。",
       "summary": "fibrocystic change 和 fibroadenoma 多半保守處理；ADH 要切除、malignant phyllodes 靠陰性切緣。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "乳房疾病處理、選**正確**的",
+        "t": "纖維囊腫變化是生理性變化，追蹤即可",
+        "x": "粗針發現非典型乳管增生（ADH）要切除，因為常低估癌；纖維腺瘤惡性潛能低；惡性葉狀腫瘤靠切緣陰性，化療效果不好"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107631,7 +108891,12 @@
       "C": "本項不選。長胸神經（long thoracic nerve）支配前鋸肌（serratus anterior），受損造成翼狀肩胛（winged scapula），不是闊背肌無力。",
       "D": "本項不選。肋間臂神經（intercostobrachial nerve）是 T2 的感覺分支，受損造成上臂內側麻木或神經痛，不管運動，也不支配闊背肌。",
       "summary": "腋下手術神經配對：thoracodorsal 對 latissimus dorsi、long thoracic 對 serratus anterior。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腋下廓清、闊背肌無力",
+        "t": "闊背肌由**胸背神經**支配",
+        "x": "外側胸神經管胸大肌；長胸神經管前鋸肌（受傷造成翼狀肩胛）；肋間臂神經是上臂內側感覺"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107667,7 +108932,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "PARP 抑制劑、最適合的轉移性乳癌",
+        "t": "PARP 抑制劑用在**BRCA1/2 突變**且 HER2 陰性 → 三陰性加 BRCA 突變",
+        "x": "沒有 BRCA 突變的 ER+ 不適用；HER2 3+ 要用抗 HER2 標靶，Ki-67 高低不是 PARP 的依據"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107705,7 +108975,12 @@
       "guideline": null,
       "concepts": [
         "bell-staging-nec"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒腹部手術、腸道多段變色壞死",
+        "t": "**壞死性腸炎（NEC）**",
+        "x": "腸扭結是整段沿血管範圍壞死；胎便性腹膜炎有鈣化；胎便性腸阻塞是濃稠胎便塞住迴腸"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107741,7 +109016,12 @@
       "guideline": null,
       "concepts": [
         "bell-staging-nec"
-      ]
+      ],
+      "approach": {
+        "k": "NEC、選**錯誤**的",
+        "t": "NEC **多見於早產兒**，但**足月兒**（尤其先天心臟病）也會發生",
+        "x": "好發迴腸末端、白血球不一定升高、血小板下降代表變嚴重，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107813,7 +109093,12 @@
       "guideline": null,
       "concepts": [
         "neuroblastoma-4s-staging"
-      ]
+      ],
+      "approach": {
+        "k": "神經母細胞瘤、**不屬於** 4S",
+        "t": "4S：<1 歲、局部原發，轉移限於**皮膚、肝、少量骨髓**；**骨頭**轉移就是第 4 期",
+        "x": "<1 歲、轉移到皮膚或肝，都符合 4S"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107849,7 +109134,12 @@
       "guideline": null,
       "concepts": [
         "jejunoileal-atresia-classification"
-      ]
+      ],
+      "approach": {
+        "k": "空腸迴腸閉鎖、選**最不適當**的",
+        "t": "IIIb 型是 **apple-peel**（蘋果皮/聖誕樹）；apple tree 這個名字不對",
+        "x": "羊水可能正常（遠端閉鎖）、可能無胎便、成因是子宮內腸繫膜血管意外，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107882,7 +109172,12 @@
       "C": "本項應選。游離肺（pulmonary sequestration）是沒有正常氣道交通、由體循環異常動脈供血的肺組織；因缺乏與支氣管相通的囊性空腔，最不容易自發性氣胸。",
       "D": "本項不選。先天性肺部呼吸道畸形（congenital pulmonary airway malformation）含有大小不一的氣囊，囊腫破裂或正壓通氣時可導致氣胸。",
       "summary": "想氣胸先想有沒有和氣道相通的脆弱氣囊；游離肺沒有這條通路，所以最不像自發性氣胸來源。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "先天肺部異常、**最不容易**自發性氣胸",
+        "t": "游離肺（sequestration）**不和氣道相通**，沒有空氣進出 → 最不會氣胸",
+        "x": "肺葉氣腫、支氣管源囊腫、CPAM 都含氣或與氣道相通，可破裂造成氣胸"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107958,7 +109253,12 @@
       "guideline": null,
       "concepts": [
         "parks-fistula-classification"
-      ]
+      ],
+      "approach": {
+        "k": "圖：哪一型是**經括約肌**瘻管",
+        "t": "Parks 分類：I 括約肌間、**II 經括約肌**、III 括約肌上、IV 括約肌外",
+        "x": "Type 1 只在內外括約肌之間；Type 3 繞過恥骨直腸肌上方；Type 4 完全在括約肌外"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107994,7 +109294,12 @@
       "guideline": null,
       "concepts": [
         "internal-hemorrhoid-grading"
-      ]
+      ],
+      "approach": {
+        "k": "痔瘡結紮術、最適合",
+        "t": "橡皮圈結紮只能套在齒狀線以上**沒有痛覺**的內痔",
+        "x": "外痔與混合痔有齒狀線以下成分，結紮會劇痛；血栓性內痔要先處理血栓"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108708,7 +110013,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲療養院、腹脹、X 光彎曲擴張腸圈、鋇劑攝影鳥嘴狀",
+        "t": "乙狀結腸扭轉（coffee bean sign＋bird beak sign）",
+        "x": "無力性腸阻塞沒有鳥嘴；SMA 症候群是十二指腸阻塞；輸入環症候群在胃切除後"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -111895,7 +113205,12 @@
       "guideline": null,
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "致癌因子與病變、**最不適當**",
+        "t": "幽門桿菌誘發的是**胃癌與胃 MALT 淋巴瘤**，不是肺癌",
+        "x": "雌激素與子宮內膜癌、HPV 與子宮頸癌、血吸蟲與膀胱鱗癌，三組都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113144,7 +114459,12 @@
       "C": "本項不選。cisplatin 會造成劑量相關的腎毒性，也常見耳毒性、周圍神經病變與嚴重嘔吐。用藥時要重視水化與腎功能監測。",
       "D": "本項不選。epirubicin 屬於 anthracycline，會造成累積劑量相關的心肌病變，用藥前後要評估左心室功能。",
       "summary": "化療毒性各有主場：紫杉類打神經、bleomycin 打肺、cisplatin 打腎、anthracycline 打心臟。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "化療副作用、選**最不合適**的",
+        "t": "bleomycin 的招牌是**肺纖維化**，幾乎**不造成**骨髓抑制",
+        "x": "taxane 周邊神經病變、cisplatin 腎毒性、epirubicin 心毒性，三組都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113216,7 +114536,12 @@
       "guideline": null,
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "非何杰金氏淋巴瘤、選**錯誤**的",
+        "t": "rituximab 的標的是 **CD20**，不是 CD10",
+        "x": "DLBCL 是東西方最常見、Burkitt 要做中樞預防且多數可治癒、蕈狀肉芽腫是皮膚 T 細胞淋巴瘤，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113252,7 +114577,12 @@
       "guideline": null,
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "淋巴瘤與感染的配對、**最不適當**",
+        "t": "中非地方性 Burkitt 淋巴瘤和 **EBV** 有關，不是 CMV",
+        "x": "EBV 與鼻型 NK/T 細胞淋巴瘤、HTLV-1 與成人 T 細胞白血病、幽門桿菌與胃 MALT，三組正確"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113290,7 +114620,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "43 歲、白血球 78,500、血小板 495,000、抹片見各階段骨髓細胞",
+        "t": "白血球大增、各成熟階段都有（常伴嗜鹼性球增多）→ **慢性骨髓性白血病**",
+        "x": "原發性血小板增多症以血小板為主；類白血病反應要有感染等誘因；AML 以芽細胞為主"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113323,7 +114658,12 @@
       "C": "正確答案。這位 35 歲女性其他血球與肝腎功能都正常、沒有服藥史、HIV 與抗核抗體也陰性，是單純的新診斷成人免疫性血小板低下紫斑症。血小板 13,000/μL 又有瘀青，最常見的優先處置就是類固醇，壓制免疫性的血小板破壞。",
       "D": "本項不選。eltrombopag 是血小板生成素（TPO）受體促效劑，多用在持續型或慢性的病人，或第一線治療失敗之後，不是初診時的優先選擇。",
       "summary": "新診斷成人免疫性血小板低下紫斑症先用類固醇；要快就加免疫球蛋白，血小板生成素促效劑排在後線。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "35 歲、瘀青、**單獨**血小板 13,000、其他檢查正常",
+        "t": "免疫性血小板低下紫斑症（ITP）→ 第一線**類固醇**",
+        "x": "沒有嚴重出血不需輸血小板（會被破壞）；IVIG 用在需要快速提升時；eltrombopag 是後線"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113361,7 +114701,12 @@
       "guideline": null,
       "concepts": [
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "黃疸、貧血、間接膽紅素升高、AST 高 ALT 正常、**紅褐色澄清尿**",
+        "t": "血管內溶血 → 血紅素尿",
+        "x": "肝炎是 ALT 高、直接膽紅素升高；泌尿道感染是混濁尿；膽結石是直接膽紅素升高"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113397,7 +114742,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "7 年前非血親幹細胞移植，**最可靠**的血緣鑑定",
+        "t": "移植後造血系統都是捐贈者的 → 要用**非造血組織**，例如**髮根**",
+        "x": "血液、骨髓、白血球都已換成捐贈者的 DNA"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118528,7 +119878,12 @@
       "summary": "肺尖腫瘤會串起 Pancoast syndrome 和 Horner syndrome；pseudopolycythemia 是體液容積問題，跟胸腔無關。",
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "與胸腔疾病**最不相關**的",
+        "t": "假性多血症（pseudopolycythemia）是血漿量減少（脫水、利尿），和胸腔無關",
+        "x": "上腔靜脈症候群、Horner、Pancoast 都可由肺尖或縱膈腫瘤引起"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -118561,7 +119916,12 @@
       "C": "正確。神經源腫瘤（neurogenic tumor）如 neuroblastoma、ganglioneuroblastoma 常起於交感神經鏈，偏好後縱隔，因此是兒童最常見的縱隔腫瘤。",
       "D": "不正確。生殖細胞腫瘤（germ cell tumor）可發生在前縱隔，但較少見；若為分泌 AFP 或 β-hCG 的腫瘤，這些指標才有助於分類。",
       "summary": "兒童縱隔腫瘤先用位置想：後縱隔最常是交感神經鏈來的 neurogenic tumor。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "小孩**最常見**的縱膈腔腫瘤",
+        "t": "後縱膈**神經源腫瘤**（神經母細胞瘤等）",
+        "x": "成人前縱膈的胸腺瘤、淋巴瘤、生殖細胞瘤在兒童相對少"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -118594,7 +119954,12 @@
       "B": "本項不選。長期呼吸器的正壓會拉扯剛修補的氣管、增加吻合處裂開的風險，所以持續依賴呼吸器的人通常不適合馬上做氣管重建，敘述適當。",
       "C": "本項應選。這是最不適當的處置。曲黴菌球（aspergilloma）是既有空洞裡的定殖，抗黴菌藥很難清掉空洞中的菌球。有重大咳血、又耐受得住手術的人，局部切除才是重要的根治選項。",
       "D": "本項不選。局部支氣管擴張症（bronchiectasis）如果反覆感染、咳血或保守治療失敗，切除病灶肺葉可移除持續感染的來源，敘述適當。",
-      "summary": "aspergilloma 是空洞內定殖，藥物很難清掉菌球；反覆或大量咳血要評估切除，不是先吃三個月抗黴菌藥。"
+      "summary": "aspergilloma 是空洞內定殖，藥物很難清掉菌球；反覆或大量咳血要評估切除，不是先吃三個月抗黴菌藥。",
+      "approach": {
+        "k": "呼吸道疾病、選**最不適當**的",
+        "t": "黴菌球在空洞內，抗黴菌藥打不進去；反覆咯血要考慮**手術切除**",
+        "x": "腺樣囊狀癌沿神經擴散、長期呼吸器不適合氣管修補、局部支氣管擴張適合切除，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -118918,7 +120283,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸癌肝轉移切除後存活、**不是**主要因素",
+        "t": "Fong 評分看 CEA >200、肝轉移 >5 cm、多顆、原發淋巴陽性、無病間隔短（同時性）；**原發在直腸**不在其中",
+        "x": "CEA >200、腫瘤 >5 cm、同時性肝轉移都是預後因素"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119025,7 +120395,12 @@
       "D": "本項應選。多灶性（multifocal）較符合甲狀腺乳突癌的特性，不是濾泡狀甲狀腺癌的典型模式；不能只因是 follicular carcinoma 就一律主張把甲狀腺切除乾淨，手術範圍仍看腫瘤與風險。",
       "summary": "濾泡癌要記兩件事：FNA 看不到包膜／血管侵犯，所以不能確診；它偏血行轉移，不是典型多灶、淋巴結轉移型。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "濾泡狀甲狀腺癌、選**錯誤**的",
+        "t": "濾泡癌通常是**單一病灶**、偏血行轉移；多灶性是乳突癌的特徵",
+        "x": "加碘後發生率下降、FNA 分不出濾泡腺瘤或癌、頸淋巴轉移較少，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119059,7 +120434,12 @@
       "D": "正確。sestamibi scan 對 parathyroid adenoma 的定位常有超過 80% 的敏感度，但它的工作是幫外科選擇切口與找腺體。診斷仍要先靠血鈣與 PTH 的生化結果。",
       "summary": "原發性副甲狀腺功能亢進最常是單一腺瘤；sestamibi 是「定位地圖」，不是拿來取代血鈣與 PTH 的診斷。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "原發性副甲狀腺亢進、選**正確**的",
+        "t": "sestamibi 掃描是用來**定位**腺瘤的檢查",
+        "x": "合併 MEN 的只是少數；多數人副甲狀腺是四顆；單一腺瘤比副甲狀腺癌常見得多"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119093,7 +120473,12 @@
       "D": "正確。Pemberton sign 是病人雙手高舉後出現臉部潮紅、頸靜脈怒張或呼吸不適；抬手讓胸廓入口更擁擠，能揭露胸內甲狀腺腫造成的上腔靜脈阻塞。",
       "summary": "胸內甲狀腺腫怕的是抬手後更塞：Pemberton sign 陽性代表胸廓入口的靜脈回流受壓。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "頸部腫大多年、胸內甲狀腺腫、上腔靜脈壓迫的徵象",
+        "t": "**Pemberton sign**：雙手舉高後臉部充血、呼吸困難，代表胸廓入口受壓",
+        "x": "Carnett 是腹壁痛；Kehr 是脾破裂左肩痛；Phalen 是腕隧道症候群"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119133,7 +120518,12 @@
       "concepts": [
         "breast-imaging-biopsy-lesions",
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌高危險群的病理（官方四個都給分）",
+        "t": "乳突狀瘤、硬化腺症、放射狀疤痕、複雜型纖維腺瘤，都屬於增生性病變、輕度增加乳癌風險",
+        "x": "真正高風險的是有非典型增生（ADH、ALH）或 LCIS；本題各選項都屬輕度增加"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119169,7 +120559,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "乳房疾病、選**錯誤**的",
+        "t": "DCIS 的 papillary 型屬於**低**惡性度，不能和 comedo 型並列為高惡性",
+        "x": "超音波能分辨纖維腺瘤與囊腫、微鈣化切片最常見是硬化腺症、預後和分化度與受體有關，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119205,7 +120600,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "乳房重建考量、選**錯誤**的",
+        "t": "重建可以**立即**（切除同時）或延遲，沒有化療後一定要等半年的規定",
+        "x": "外科醫師的建議影響選擇、方式分自體皮瓣與義乳、年輕與社經地位高較常選重建，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119238,7 +120638,12 @@
       "C": "本項不選。C 不是本題要選的，兒童修補以關閉鞘突為核心。它不需要像成人直接型疝氣一樣補強腹壁。",
       "D": "本項應選。D 是本題要選的。一歲以下反而有較高嵌頓風險，因為腸管較容易卡在狹窄內環；一旦確診通常不應為了等年齡而延後修補。",
       "summary": "兒童鼠蹊疝氣是鞘突沒關好，不是腹壁弱；嬰兒最怕嵌頓，所以確診後不等長大。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "兒童鼠蹊疝氣、選**錯誤**的",
+        "t": "一歲以下內環窄，**嵌頓風險反而最高** → 確診後應盡快手術",
+        "x": "腹膜鞘突未閉、男多於女右多於左、手術關閉鞘突，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119273,7 +120678,12 @@
       "C": "本項不選。C 不是本題要選的，肺發育不良才是 CDH 的核心。肺動脈高壓也由肺血管床不足而來，不只是腸子佔到胸腔。",
       "D": "本項是本題要選的錯誤處置。出生後應先插管、胃管減壓與溫和通氣，處理肺動脈高壓並穩定循環；立即手術無法逆轉肺發育不良，反而可能使不穩定惡化。",
       "summary": "CDH 不是看到腸子進胸就立刻開刀：先救發育不全的肺與肺高壓，生理穩定才修補橫膈。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "2.5 kg 女嬰、呼吸窘迫、腹部凹陷、左胸腸氣",
+        "t": "先天性橫膈疝氣 → **先穩定**呼吸與肺高壓，**不要**立即手術",
+        "x": "腸道經缺損入胸、胸腹膜管未閉合、肺高壓是主要死因，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119309,7 +120719,12 @@
       "B": "本項不選。漏斗胸要評估有沒有合併二尖瓣脫垂（mitral valve prolapse）。也要看有沒有 Marfan syndrome、Ehlers–Danlos syndrome 這類結締組織疾病。這些都會影響心肺評估和手術規劃，敘述正確。",
       "C": "本項不選。要不要矯正不只看外觀，還要綜合 Haller index、心肺功能、症狀和胸壁凹陷的惡化速度，敘述正確。",
       "D": "本項應選。這是錯的敘述。Nuss procedure 的支撐板通常留置約 2～3 年，這半句沒錯。但 3 歲前胸壁還在快速生長，不是一般最適合的矯正年齡，多數教材選接近青春期。",
-      "summary": "漏斗胸手術先評 Haller index、心肺功能和進展速度；Nuss bar 留 2～3 年，但不在 3 歲前常規矯正。"
+      "summary": "漏斗胸手術先評 Haller index、心肺功能和進展速度；Nuss bar 留 2～3 年，但不在 3 歲前常規矯正。",
+      "approach": {
+        "k": "3 歲漏斗胸逐漸變嚴重，選**錯誤**的",
+        "t": "Nuss 手術最適合約 **10–14 歲**，不是 3 歲前；矯正板放 2–3 年這點對",
+        "x": "發生率約 1/400 男多於女、注意二尖瓣脫垂與 Marfan、評估 Haller index 與心肺功能，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119345,7 +120760,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "7 歲、胸鎖乳突肌前緣反覆發炎腫塊、有小開口，選**錯誤**的",
+        "t": "鰓裂遺跡中以**第二對**最常見，不是第一對",
+        "x": "推斷為鰓裂遺跡、會分泌黏液、要手術完整切除，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119381,7 +120801,12 @@
       "guideline": "AUA Evaluation and Treatment of Cryptorchidism Guideline",
       "concepts": [
         "cryptorchidism-management-timing"
-      ]
+      ],
+      "approach": {
+        "k": "1 歲半、摸不到左側睪丸",
+        "t": "單側**摸不到**的睪丸 → 影像常偽陰性，仍要**探查手術**（多用腹腔鏡）",
+        "x": "腹內睪丸要手術不是追蹤；小睪丸可嘗試固定或評估，不是一律切除；能降到陰囊的回縮性睪丸只需追蹤"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119417,7 +120842,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌、選**錯誤**的",
+        "t": "第三期術後標準是 **oxaliplatin 化療**，不需要標靶藥物",
+        "x": "多數是後天突變、部分有 K-ras 突變、標靶藥分抗 VEGF 與抗 EGFR，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119453,7 +120883,12 @@
       "guideline": null,
       "concepts": [
         "anorectal-colon-anatomy-lgib"
-      ]
+      ],
+      "approach": {
+        "k": "用力解便後肛門疼痛、出血、**後側**傷口、外面有皮贅",
+        "t": "後正中線裂口＋哨兵皮贅 → **肛裂**",
+        "x": "痔瘡脫出是組織掉出來、不痛；膿瘍是紅腫硬塊伴發燒；瘻管有外口流分泌物"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119489,7 +120924,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "乙狀結腸癌、選**錯誤**的",
+        "t": "COLOR、COST 等大型試驗證實腹腔鏡的腫瘤結果**不劣於**開腹",
+        "x": "要做全大腸鏡找同時性腫瘤、多數由腺瘤演變、做胸腹骨盆影像分期，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119525,7 +120965,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "第三期乙狀結腸癌術後、選**最不適當**的",
+        "t": "即使術前 CEA 正常，術後仍**要定期追蹤 CEA**",
+        "x": "第三期要輔助化療、術後 1 年做大腸鏡、單一肝或肺轉移仍可評估切除，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119943,7 +121388,12 @@
       "D": "本項不選。腎上腺瘤常在因其他腹部問題做 CT 或 MRI 時意外發現，這類 incidentaloma 的下一步是判斷是否有荷爾蒙分泌和影像惡性徵象。",
       "summary": "腎上腺 incidentaloma 先分兩件事：有沒有分泌荷爾蒙、像不像惡性；大於 6 cm 不能只追蹤等它變大。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "腎上腺瘤、選**錯誤**的",
+        "t": "腎上腺腫瘤 **>6 cm** 惡性風險高 → 即使無功能也建議**切除**，不是追蹤",
+        "x": "腹腔鏡是最佳術式、有功能的小腫瘤要切、多數是意外發現，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -120192,7 +121642,12 @@
       "B": "本項不選。張力性氣胸持續升高的肋膜壓力會把縱膈（mediastinum）推向對側，這是重要但較晚出現的影像徵象，敘述適當。",
       "C": "本項不選。高壓向下壓迫橫膈膜，嚴重時可造成橫膈膜反轉（inversion），代表胸腔內壓明顯升高，敘述適當。",
       "D": "本項應選。張力性氣胸的危險不在空氣量多少。它是單向閥式漏氣不斷累積，讓肋膜壓超過大氣壓、阻礙靜脈回流，不必等到影像顯示大量空氣就會致命。",
-      "summary": "張力性氣胸不是看空氣量，而是看壓力有沒有持續上升、壓垮回心血流。"
+      "summary": "張力性氣胸不是看空氣量，而是看壓力有沒有持續上升、壓垮回心血流。",
+      "approach": {
+        "k": "疑似氣胸的 X 光、選**最不恰當**的",
+        "t": "張力性氣胸的關鍵是**壓力持續上升**壓迫回心血流，不是「少量」空氣",
+        "x": "吐氣時照可讓小氣胸更明顯、縱膈偏移、橫膈反轉，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -120302,7 +121757,12 @@
       "B": "本項不選。穿透性胸傷合併休克很危急，但病人還有可測血壓，應該同步復甦並迅速送手術室做確定性修補（definitive repair）。急診開胸主要留給瀕死或剛失去生命徵象的人。",
       "C": "正確答案。前胸刀傷造成無脈性電氣活動（pulseless electrical activity, PEA），要高度懷疑心包填塞或心臟傷。立即急診開胸（ED thoracotomy）可打開心包、控制出血並做開放性心臟按摩。",
       "D": "本項不選。鈍性胸傷後的 PEA 常合併廣泛的胸腹或大血管傷，復甦性開胸的存活率遠低於有生命徵象的穿透性胸部傷。",
-      "summary": "急診開胸最典型的情境是「穿透性前胸傷＋剛變成 PEA」；鈍傷 PEA 的獲益很低。"
+      "summary": "急診開胸最典型的情境是「穿透性前胸傷＋剛變成 PEA」；鈍傷 PEA 的獲益很低。",
+      "approach": {
+        "k": "**最適合**急診開胸",
+        "t": "**穿透性**前胸刀傷、到院剛變成 **PEA** → 急診開胸存活率最高",
+        "x": "墜落鈍傷心跳停止、車禍鈍傷 PEA 的存活率很低；血壓 70/40 還有生命徵象，應送開刀房"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -120338,7 +121798,12 @@
       "guideline": null,
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "腸阻塞、選**最適當**的",
+        "t": "小腸阻塞比大腸阻塞常見（約 80%）",
+        "x": "機械性阻塞不能用抗痙攣藥掩蓋症狀；脂肪酶升高 5 倍以上是胰臟炎；小腸阻塞最常見原因正是沾黏與疝氣"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -123631,7 +125096,12 @@
       "C": "本項是官方接受的答案，但與現行風險分層相反。找不到誘因就是 unprovoked VTE，停藥後年復發率約 10%，是需要考慮長期抗凝的一群。以復發風險而言它並不低。",
       "D": "本項也是官方接受的答案，而且**在現行分層裡才是真正最低的一個**。外傷屬重大暫時性誘因，誘因消失後復發風險明顯下降，治療 3 個月即可停藥。這類病人停藥後的年復發風險約 3%。",
       "summary": "VTE 停藥復發風險由低到高：重大暫時誘因（手術、外傷）→ 次要誘因 → 找不到誘因 → 活動性癌症；能停藥的是第一類。",
-      "guideline": "官方更正：本題答 C 或 D 或 CD 均給分；依現行分層 D（重大暫時誘因）才是復發風險最低者"
+      "guideline": "官方更正：本題答 C 或 D 或 CD 均給分；依現行分層 D（重大暫時誘因）才是復發風險最低者",
+      "approach": {
+        "k": "肺栓塞治療後停藥、再發風險**最低**（官方 C、D 都給分）",
+        "t": "重大**暫時性**誘因（外傷、手術）引起的，誘因消失後復發最低",
+        "x": "活動性癌症復發最高；長途飛行是次要誘因；找不到誘因的復發風險比外傷高（官方另給分）"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124375,7 +125845,12 @@
       "guideline": null,
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腎性貧血、選**錯誤**的",
+        "t": "把血紅素矯正到正常（≥13）反而**增加**中風與心血管事件，目標約 10–11.5 g/dL",
+        "x": "正球性正色素、虛弱與心衰竭、主因 EPO 不足，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124622,7 +126097,12 @@
       "concepts": [
         "ecog-performance-status",
         "karnofsky-performance-status"
-      ]
+      ],
+      "approach": {
+        "k": "ECOG 與 Karnofsky、選**錯誤**的",
+        "t": "Karnofsky <50 對應的是 **ECOG 3–4**（大部分時間臥床），不是 ≤2",
+        "x": "ECOG 0–5 越小越好、ECOG 0≈Karnofsky 100、兩者都是預後與耐受指標，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124655,7 +126135,12 @@
       "C": "正確答案。正確方向是把 leucovorin 解救加強到 50～100 mg/m²，同時積極水化、鹼化尿液（病人尿液偏酸更要做），並密切追蹤 methotrexate 濃度與 creatinine。清除嚴重延遲時可評估使用 glucarpidase。",
       "D": "本項不選。L-glutamine 逆轉不了 methotrexate 結晶造成的腎病變，也不能加速藥物清除，不是這次急性腎功能惡化的標準治療。",
       "summary": "高劑量 methotrexate 中毒的處置是「加解毒劑、灌水、鹼化尿液」——注意這裡的鹼化尿液是對的，和腫瘤溶解症候群相反。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "高劑量 MTX 後、黏膜炎、MTX 濃度高、腎功能變差、尿偏酸",
+        "t": "MTX 中毒 → **增加 leucovorin 劑量**、補水並鹼化尿液",
+        "x": "停用 leucovorin 會更毒；folic acid 需要 DHFR 才能活化，被 MTX 擋住所以無效；glutamine 不能救腎"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124691,7 +126176,12 @@
       "guideline": null,
       "concepts": [
         "cervical-hpv-precancer-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "HPV 與子宮頸癌、選**最適當**的",
+        "t": "**HPV 16、18** 是高風險型",
+        "x": "致癌時病毒 DNA 會**嵌入**宿主；是 **E6** 打 p53、E7 打 RB（沒有 E8 這種作用）；HPV 陰性子宮頸癌多見於**年長**女性"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124763,7 +126253,12 @@
       "guideline": null,
       "concepts": [
         "leukemia-mpn-genetics"
-      ]
+      ],
+      "approach": {
+        "k": "JAK2 V617F 突變 **>90%**",
+        "t": "**真性紅血球增多症**",
+        "x": "原發性血小板增多症與原發性骨髓纖維化約 50–60%；慢性嗜中性白血病是 CSF3R 突變"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124799,7 +126294,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "副腫瘤神經症候群、選**最適當**的",
+        "t": "機轉是癌細胞表現神經抗原誘發自體免疫；例如 anti-Hu 見於小細胞肺癌的腦脊髓炎",
+        "x": "**小細胞**肺癌比非小細胞更常合併；免疫治療效果有限；神經症狀多在**癌症診斷前**、且多急性或亞急性出現"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124868,7 +126368,12 @@
       "C": "本項不選。吸菸、肥胖、代謝症候群與年齡確實兩邊都算危險因子，只是影響的強度不同。",
       "D": "本項應選。後半句錯了：動脈血栓雖然以血小板為主，但組織因子、凝血酶生成與纖維蛋白**同樣有參與**。說它與凝血酶無關並不正確——這也是急性冠心症除了抗血小板還要抗凝的原因。",
       "summary": "動脈血栓「血小板多、纖維蛋白少」，靜脈血栓相反；但兩邊都用得到凝血酶，不是一邊完全不用。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "動脈 vs 靜脈血栓、選**最不適當**的",
+        "t": "動脈血栓雖以血小板為主，**仍需要 thrombin** 生成",
+        "x": "靜脈血栓源於組織因子與凝血、Factor V Leiden 等與靜脈血栓有關、兩者共享部分危險因子，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -124904,7 +126409,12 @@
       "guideline": null,
       "concepts": [
         "coagulation-test-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "**單一**凝血因子缺乏",
+        "t": "B 型血友病只缺**第九因子**",
+        "x": "肝炎、敗血症（DIC）、維生素 K 缺乏都是**多個**凝血因子一起受影響"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125111,7 +126621,12 @@
       "C": "本項不選。同步的白金類化學治療能增強放療效果，也處理看不見的微小轉移，是體能夠好的局部晚期非小細胞肺癌的重要組成。",
       "D": "本項不選。PD-L1 表現 ≧50% 代表免疫治療可能有相當活性。在無法切除的局部晚期疾病中，免疫檢查點治療可以依治療階段納入整體策略。",
       "summary": "看到同側鎖骨上加縱膈淋巴結就要想「局部晚期、不可切除」：主力是化放療加免疫，不是開刀。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "鎖骨上鱗癌、右上肺、同側縱膈淋巴、無遠端轉移",
+        "t": "鎖骨上與縱膈淋巴 → **N3、局部晚期無法切除（IIIB/IIIC）**→ 化放療加免疫，**手術幫助最小**",
+        "x": "高劑量放療、化療、免疫治療（PD-L1 ≥50%）都是主要治療"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129182,7 +130697,12 @@
       "B": "本項不選。嚴重肺挫傷會造成低氧血症和急性呼吸窘迫症候群，可能需要保護性肺通氣，極難氧合時才考慮葉克膜（ECMO），敘述適當。",
       "C": "本項應選。這是最不適當的評估工具。最初的胸部 X 光常因為病灶還沒完全顯現而低估肺挫傷。胸部 CT 對早期範圍和合併胸腔傷的敏感度較高。",
       "D": "本項不選。兒童胸壁彈性較好，鈍力可以傳到肺實質而不折斷肋骨，所以沒有骨折也不能排除肺挫傷，敘述適當。",
-      "summary": "肺挫傷會延遲顯影；初始胸片可能很乾淨，CT 才能較早看出真正範圍。"
+      "summary": "肺挫傷會延遲顯影；初始胸片可能很乾淨，CT 才能較早看出真正範圍。",
+      "approach": {
+        "k": "肺挫傷、選**最不適當**的",
+        "t": "肺挫傷的 X 光表現會**延遲**（幾小時後才出現），初始胸片常低估；CT 較準",
+        "x": "12 小時內惡化、可能需呼吸器甚至葉克膜、兒童肋骨柔軟無骨折也常有肺挫傷，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -129254,7 +130774,12 @@
       "B": "本項不選。反覆胸腔穿刺可以暫時抽掉液體，但膿胸（empyema）常有纖維蛋白分隔，單次或反覆穿刺很難達到持續、完整的感染源控制。",
       "C": "正確答案。膿性積液，或胸水 pH < 7.2，是複雜性肋膜感染要引流的指標，應儘早置放胸管。如果有多房分隔、殘餘膿腔或引流失敗，再考慮胸腔鏡手術（VATS）清創。",
       "D": "本項不選。擴大抗生素可以補足菌種涵蓋，但不能取代排膿。拖到一週後才追蹤會讓感染組織化，增加 trapped lung 和手術難度。",
-      "summary": "肺炎胸水如果是膿、pH < 7.2 或 glucose 很低，就不是只換抗生素：先把感染胸水引流出去。"
+      "summary": "肺炎胸水如果是膿、pH < 7.2 或 glucose 很低，就不是只換抗生素：先把感染胸水引流出去。",
+      "approach": {
+        "k": "肺炎後胸水 **pH 7.1、糖 30、化膿樣**",
+        "t": "複雜性肺炎旁積液／膿胸 → **儘早引流**（胸管）或胸腔鏡手術",
+        "x": "只用抗生素觀察、反覆穿刺、換抗生素後一週再看，都延誤引流"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -129432,7 +130957,12 @@
       "D": "錯誤。迷走神經（vagus nerve）損傷會影響喉部與咽部較廣泛的運動、感覺功能，可造成吞嚥與發聲問題；題幹的孤立高音障礙更精準指向上喉神經外分枝。",
       "summary": "甲狀腺術後「平常能說、唱不上去」要先想到上喉神經外分枝；它管 cricothyroid 把聲帶拉緊發高音。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "甲狀腺術後、平常講話正常、**唱不了高音**",
+        "t": "上喉神經外枝支配環甲肌，負責拉緊聲帶發高音",
+        "x": "喉返神經受傷會沙啞或聲帶麻痺；舌下神經管舌頭；迷走神經受傷會一起影響兩者"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -129466,7 +130996,12 @@
       "D": "本項應選。p53 是抑癌基因，不是致癌基因；它失去功能後細胞少了 DNA 損傷的煞車，這類突變常見於未分化甲狀腺癌。",
       "summary": "BRAF、RET、RAS 是油門（致癌基因），p53 是煞車（抑癌基因）。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "甲狀腺癌致癌機轉、選**最不適當**的",
+        "t": "p53 是**抑癌基因**，不是致癌基因（它的突變常見於未分化癌這點沒錯）",
+        "x": "BRAF 見於乳突癌與未分化癌、RET 見於髓質癌、RAS 見於濾泡腺瘤與濾泡癌，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -129503,7 +131038,12 @@
       "concepts": [
         "breast-imaging-biopsy-lesions",
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "BRCA1、摸到硬塊、疑似惡性，**最不適合**的檢查",
+        "t": "初始評估用局部影像（超音波、攝影、MRI）加切片；PET 不是初始檢查",
+        "x": "超音波、攝影、MRI（BRCA 帶因者尤其需要）都適合"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -129539,7 +131079,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-tnm-basics"
-      ]
+      ],
+      "approach": {
+        "k": "升結腸癌、侵犯臟層腹膜、6 顆淋巴腫大，選**錯誤**的",
+        "t": "侵犯臟層腹膜是 **T4a**；4–6 顆淋巴是 **N2a** → 應是 cT4aN2aM0，不是 cT3N2b",
+        "x": "右側大腸癌較易貧血、標準術式是根除性右半結腸切除、MSS 對免疫治療效果有限，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -129575,7 +131120,12 @@
       "guideline": "ASCRS Clinical Practice Guideline for Left-Sided Diverticulitis (2020)",
       "concepts": [
         "hinchey-classification"
-      ]
+      ],
+      "approach": {
+        "k": "大腸憩室炎、選**正確**的",
+        "t": "急性期不做大腸鏡（怕穿孔）；緩解後 **4–8 週**再做，排除癌症",
+        "x": "非複雜型以抗生素或觀察為主，不需開刀；小於 3–4 cm 的膿瘍用抗生素即可，不一定要引流"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130389,7 +131939,12 @@
       "B": "本項應選（官方複選之一）。手術確實常用於切片診斷和肋膜沾黏術，但把它限縮成「主要只有這兩件事」並不完整——在慎選的病人身上，肋膜外全肺切除或肋膜切除減積術仍是多模式治療的一環。",
       "C": "本項應選。這也是官方給分的答案，而且是三個選項裡最明確的錯誤。單獨化學治療確實能延長存活——pemetrexed 合併 cisplatin 就是這個癌症的標準全身治療，近年再加免疫治療。說三種治療單獨都無效，和現有證據不符。",
       "D": "本項不選。肋膜外全肺切除（extrapleural pneumonectomy）的切除範圍就是這四樣：整側肺、臟層與壁層肋膜、心包膜和橫膈，後兩者再用人工材料重建。手術死亡率高、適應症嚴格，敘述正確。",
-      "summary": "惡性肋膜間皮瘤不是「治了也沒用」：pemetrexed 加 cisplatin 能延長存活；手術角色要看病人選擇，不只是切片和沾黏術。"
+      "summary": "惡性肋膜間皮瘤不是「治了也沒用」：pemetrexed 加 cisplatin 能延長存活；手術角色要看病人選擇，不只是切片和沾黏術。",
+      "approach": {
+        "k": "惡性間皮瘤、選**最不適當**（官方 B、C 都給分）",
+        "t": "手術在選擇性病人可做根治性切除；**pemetrexed＋cisplatin 能延長存活**，不是都沒用",
+        "x": "與石綿有關好發男性、肋膜外全肺切除的範圍描述，這兩句對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130641,7 +132196,12 @@
       "guideline": null,
       "concepts": [
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "86 歲昏迷、血鈣 14.6，選**最不適當**的",
+        "t": "thiazide 會**減少**尿鈣排出、讓血鈣更高 → 高血鈣禁用",
+        "x": "驗磷與 PTH 找原因、雙磷酸鹽、抑鈣素，都是正確處置"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130677,7 +132237,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "**單側**乳頭分泌物、最常見原因",
+        "t": "乳管內乳突狀瘤（intraductal papilloma），常是血性或漿液性",
+        "x": "纖維腺瘤不會分泌；侵襲癌較少以分泌物表現；纖維囊腫變化多是雙側多管"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130713,7 +132278,12 @@
       "guideline": null,
       "concepts": [
         "breast-cancer-local-therapy"
-      ]
+      ],
+      "approach": {
+        "k": "全乳切除、8 cm **DCIS**、前哨陰性、ER+ PR+ HER2 0",
+        "t": "純 DCIS 沒有侵襲 → 不套用侵襲癌「>5 cm 就化療或放療」；ER 陽性給抗荷爾蒙降低對側新病灶",
+        "x": "全乳切除後的 DCIS 不需放療；DCIS 不做化療；基因檢測是給侵襲癌用的"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130749,7 +132319,12 @@
       "guideline": null,
       "concepts": [
         "gi-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲、反覆**無痛性**大量暗紅便、懷疑 Meckel",
+        "t": "Meckel 憩室的異位胃黏膜分泌胃酸造成潰瘍 → **99mTc-pertechnetate 掃描**",
+        "x": "X 光看不到；小腸攝影敏感度低；未定位就切除過早"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130785,7 +132360,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "兒童腹股溝疝氣、選**最適當**的",
+        "t": "手術會碰到貼著鞘突走的**輸精管與睪丸血管**，傷到時不容易察覺",
+        "x": "兒童疝氣是鞘突未閉的**間接型**；修補只需高位結紮，**不放網膜**；確診就開，不必等 3 歲"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130818,7 +132398,12 @@
       "C": "本項不選。C 不是本題要選的，組織型確實影響 Wilms 預後。unfavorable histology 如 diffuse anaplasia 對化療與放療反應較差，會改變治療強度。",
       "D": "本項不選。D 不是本題要選的，Wilms 術前影像很重要。腹部 CT 或 MRI 與胸部影像須先看對側腎、血管侵犯和肺轉移，避免術中腫瘤破裂。",
       "summary": "摸到孩子無痛腹部腫塊要想到 Wilms；它來自腎母細胞，不是腎上腺，而且高血壓不是人人都有。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Wilms tumor、選**錯誤**的",
+        "t": "Wilms 來自**腎母細胞**（後腎胚基），不是腎上腺；高血壓只有部分病人有",
+        "x": "多為意外摸到、病理分有利不利兩型、以手術為主，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130859,7 +132444,12 @@
       "guideline": null,
       "concepts": [
         "branchial-cleft-remnant-anatomy"
-      ]
+      ],
+      "approach": {
+        "k": "左頸瘻管顯影與手術路徑（官方四個都給分）",
+        "t": "瘻管從下頸開口往上走向下頷附近 → 典型第二鰓裂的走向；最終要靠完整路徑判別",
+        "x": "本題官方送分"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130892,7 +132482,12 @@
       "B": "本項應選。吸入性異物最常停在右主支氣管，不是左側，因為右主支氣管比較寬、比較短、走向較垂直。",
       "C": "本項不選。硬幣卡在上食道、接近咽食道交界時，可由有經驗者用直接喉鏡（laryngoscopy）或食道鏡評估後取出，重點是別盲推進胃裡，這句成立。",
       "D": "本項不選。鈕扣電池在食道會形成局部電流和鹼性傷害，短時間就可能壞死甚至穿孔，所以要緊急移除，這句成立。",
-      "summary": "異物吸入位置就背右主支氣管；食道鈕扣電池不是觀察題，是要立刻取出的急症。"
+      "summary": "異物吸入位置就背右主支氣管；食道鈕扣電池不是觀察題，是要立刻取出的急症。",
+      "approach": {
+        "k": "兒童異物、選**最不恰當**的",
+        "t": "右主支氣管較直、較寬 → 吸入異物最常在**右側**",
+        "x": "花生油脂刺激肺炎與支氣管擴張、上食道硬幣用喉鏡取出、食道電池是急症，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130928,7 +132523,12 @@
       "guideline": "ASCRS/SAGES Enhanced Recovery After Colon and Rectal Surgery guideline (2023)",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸 ERAS、選**正確**的",
+        "t": "左側或直腸切除前：機械性腸道準備**加口服抗生素**",
+        "x": "單用機械性準備不能降低感染；術後止痛走多模式、減少鴉片類；不建議常規放腹腔引流管"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135984,7 +137584,12 @@
       "guideline": null,
       "concepts": [
         "tnm-prefixes"
-      ]
+      ],
+      "approach": {
+        "k": "TNM 分期、選**錯誤**的（官方 C、D 都給分）",
+        "t": "**y** 前綴代表**接受前導治療後**的分期，不是手術後的初次病理分期",
+        "x": "TNM 以解剖為基礎、不適用血液腫瘤，這兩句對；部分癌症分期會結合分級（官方另給分）"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136020,7 +137625,12 @@
       "guideline": null,
       "concepts": [
         "castration-resistant-prostate-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "去勢抗性攝護腺癌、選**錯誤**的",
+        "t": "定義是睪固酮已壓到**去勢水平（<50 ng/dL）**仍惡化，不是睪固酮高於 100",
+        "x": "PSA 上升合併骨轉移惡化、骨痛緩解比 PSA 重要、BRCA2 突變可用 PARP 抑制劑，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136054,7 +137664,12 @@
       "C": "本項應選，這是官方認可的答案之一。腺癌不是皮膚常見的原發癌組織型。皮膚附屬腺體來源的癌確實存在但很少見，而且看到皮膚腺癌時還要先排除內臟腺癌轉移過來。",
       "D": "本項應選。官方把這一項一併列入給分。默克細胞癌確實是**原發於皮膚**的神經內分泌癌，但它非常罕見而且侵襲性高。若題目問的是「常見類型」，它也可以被判成答案——這就是官方兩個都給分的原因。",
       "summary": "本題官方 C、D 或 CD 均給分。皮膚癌常見的只有三種：基底細胞癌、鱗狀細胞癌、黑色素癌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**並非**皮膚常見原發癌（官方 C、D 都給分）",
+        "t": "皮膚常見三種：基底細胞癌、鱗狀細胞癌、黑色素癌",
+        "x": "腺癌與 Merkel 細胞癌都罕見"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136127,7 +137742,12 @@
       "guideline": "官方更正：本題答 B 或 C 或 BC 均給分",
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "胃淋巴瘤、選**最不適當**（官方 B、C 都給分）",
+        "t": "胃淋巴瘤中 **DLBCL 比 MALT 多**；帶 t(11;18) 的 MALT 對除菌**無效**",
+        "x": "MALT 和幽門桿菌有關、DLBCL 可原發或由 MALT 轉化，這兩句對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136163,7 +137783,12 @@
       "guideline": null,
       "concepts": [
         "lymphoma-hodgkin-nhl"
-      ]
+      ],
+      "approach": {
+        "k": "環境致癌因子與癌症、**最不適當**的組合",
+        "t": "成人 T 細胞白血病/淋巴瘤是 **HTLV-1** 造成，不是 HIV",
+        "x": "石綿與肺、肋膜、腹膜；烷化劑與 AML；氯乙烯與肝血管肉瘤，三組正確"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136199,7 +137824,12 @@
       "guideline": null,
       "concepts": [
         "coagulation-test-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "ITP、選**正確**的",
+        "t": "兒童多為病毒感染後急性、多數自癒；成人多為**慢性**",
+        "x": "深部肌肉出血是凝血因子缺乏的特徵；ITP 白血球與血紅素正常；骨髓巨核細胞是**增加**的"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136232,7 +137862,12 @@
       "C": "本項敘述錯誤。目的寫錯了：挑男性或從未懷孕的女性捐贈者，是為了避免捐贈者體內的抗 HLA／抗 HNA 抗體造成**輸血相關急性肺損傷（TRALI）**，不是為了降低巨細胞病毒（CMV）傳播。",
       "D": "本項敘述錯誤。製程反了：冷凍沉澱品是新鮮冷凍血漿（FFP）在 1～6℃ **緩慢解凍**後留下的低溫不溶部分，不是 37℃ 加熱。而且它可以再冷凍保存。它富含纖維蛋白原這點則是對的。",
       "summary": "血品四個易錯點：紅血球冷藏／血小板室溫搖晃、照射會縮短期限、男性血漿是防 TRALI、冷凍沉澱靠低溫解凍。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "血液製品、選**正確**的",
+        "t": "紅血球冷藏 1–6℃；血小板室溫 20–24℃ 並輕搖",
+        "x": "照射能防 TA-GVHD，但會讓紅血球漏鉀、**儲存期限縮短**；男性或未懷孕女性的血漿是為了降低 **TRALI**，不是 CMV；冷凍沉澱品是 FFP 在 **1–6℃** 解凍取得，可再冷凍保存"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136268,7 +137903,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "第四期肺腺癌、**EML4-ALK** 融合",
+        "t": "ALK 融合 → ALK 抑制劑 **alectinib**",
+        "x": "osimertinib、gefitinib 是 EGFR 抑制劑；有驅動基因時化療不是首選"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137143,7 +138783,12 @@
       "C": "正確答案。B12 是甲硫胺酸合成酶的輔因子。補充之後酵素功能恢復，原本堆積的高半胱胺酸會**迅速下降**，甲基丙二酸也跟著改善。這兩個指標因此可以拿來確認治療有效。",
       "D": "本項敘述錯誤。抗壁細胞抗體的特異性不夠，不能只憑它就決定治療。要用口服還是注射、要不要每日 1,000 mcg，得看確診的病因、症狀嚴重度與實際吸收能力。",
       "summary": "B12 缺乏三個考點：吸收在迴腸末端、邊界值加驗代謝物、補充後高半胱胺酸迅速下降。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "維生素 B12 缺乏、選**最適當**的",
+        "t": "補 B12 後高半胱胺酸與甲基丙二酸會**迅速下降**",
+        "x": "B12 吸收在**迴腸末端**；血清 B12 濃度有偽陰性與偽陽性，邊界值要加驗 MMA 或高半胱胺酸；抗壁細胞抗體特異性不足，不能單憑它決定口服劑量"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -140436,7 +142081,12 @@
       "B": "本項不選。針刺減壓只是張力性氣胸時暫時把壓力放掉，導管可能阻塞或移位，之後仍要用胸管做持續引流和確定性治療。",
       "C": "正確答案。外傷後胸片出現少量皮下氣腫（subcutaneous emphysema），常代表肺或肋膜漏氣、和氣胸相關。但仍要留意氣管支氣管傷或胸壁傷口等其他漏氣來源。",
       "D": "本項不選。外傷性氣胸要不要放胸管，看大小、症狀、要不要正壓通氣和能不能追蹤。小而穩定的病人可以在嚴密觀察下選擇保守處置。",
-      "summary": "張力性氣胸的針刺減壓只是橋接，最後仍要胸管；外傷氣胸也不是看到就每例都插管。"
+      "summary": "張力性氣胸的針刺減壓只是橋接，最後仍要胸管；外傷氣胸也不是看到就每例都插管。",
+      "approach": {
+        "k": "外傷氣胸、選**最適當**的",
+        "t": "X 光見少量**皮下氣腫**，通常是氣胸的空氣漏到皮下",
+        "x": "開放性氣胸**可以**變成張力性；針刺減壓後**仍要放胸管**；少量氣胸不一定都要放胸管"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -140472,7 +142122,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺術前告知併發症、選**錯誤**的",
+        "t": "**單側**喉返神經受損多只造成沙啞，呼吸困難風險不高；雙側受損才會塞住氣道",
+        "x": "氣道損傷可能需要氣切、暫時性副甲狀腺低下多在 6 個月內恢復、血腫壓迫要緊急打開傷口，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -140722,7 +142377,12 @@
       "B": "本項不選。患側呼吸音減弱或消失是重要的床邊線索，尤其和突然低血壓合併時要立刻處置，敘述正確。",
       "C": "本項不選。單側高壓可把氣管推偏（tracheal deviation），漏出的空氣也可進入皮下形成皮下氣腫（subcutaneous emphysema）。兩者不是每例都有，但出現時支持診斷，敘述正確。",
       "D": "本項應選。血氧飽和度（oxygen saturation）早期可以暫時正常，不能拿它來排除張力性氣胸。外傷病人如果有呼吸窘迫、單側呼吸音消失和低血壓，應該先立即減壓再找其他病因。",
-      "summary": "張力性氣胸是臨床診斷：SpO2 暫時好看也不能排除，低血壓合併單側無呼吸音就先減壓。"
+      "summary": "張力性氣胸是臨床診斷：SpO2 暫時好看也不能排除，低血壓合併單側無呼吸音就先減壓。",
+      "approach": {
+        "k": "張力性氣胸、選**最不適當**的",
+        "t": "張力性氣胸是**臨床診斷**；血氧暫時正常也不能先去找其他低血壓原因",
+        "x": "呼吸窘迫與低血壓、單側呼吸音消失、氣管偏移或皮下氣腫，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -140796,7 +142456,12 @@
       "B": "本項不選。橫膈膜要承受持續的呼吸張力，修補通常用粗的不可吸收縫線做間斷或連續縫合，維持強度，敘述正確。",
       "C": "本項應選。這是錯的敘述。胸腔鏡手術不是所有橫膈肌損傷的首選。急性鈍傷多半要先從腹腔探查合併傷，胸腔鏡只適用於選擇性的延遲診斷或特定穩定病人。",
       "D": "本項不選。大範圍缺損如果直接縫合張力太大，可以用人工或生物網片（mesh）橋接修補，避免修補後再裂開，敘述正確。",
-      "summary": "急性鈍性橫膈傷先從腹腔找合併內臟傷；胸腔鏡是選擇性工具，不是所有病人的第一步。"
+      "summary": "急性鈍性橫膈傷先從腹腔找合併內臟傷；胸腔鏡是選擇性工具，不是所有病人的第一步。",
+      "approach": {
+        "k": "橫膈肌損傷修補、選**錯誤**的",
+        "t": "急性鈍傷要從**腹部**探查處理合併內臟傷；胸腔鏡不是所有類型的首選",
+        "x": "鈍傷經腹部探查、用粗不可吸收線縫補、大缺損用網片，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -140904,7 +142569,12 @@
       "guideline": null,
       "concepts": [
         "bell-staging-nec"
-      ]
+      ],
+      "approach": {
+        "k": "腸壁積氣、選**最適當**的",
+        "t": "嬰兒看到腸壁積氣，先懷疑**壞死性腸炎**",
+        "x": "不一定要開刀；成人大多是良性且與腹膜炎無關；有時和化療或腫瘤相關"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141549,7 +143219,12 @@
       "B": "本項應選。腫瘤確實是重要的非外傷性原因，但整體來說乳糜胸最常見於手術或其他醫源性的胸管損傷，不能說腫瘤侵犯在所有情境下最常見。",
       "C": "本項不選。初期會先引流、控制脂肪攝取和營養。如果高流量漏出持續、營養惡化或保守治療失敗，就要考慮胸管栓塞或手術結紮，敘述適當。",
       "D": "本項不選。手術治療常在橫膈膜上方結紮胸管，可以涵蓋胸管多分支或解剖變異的情況，敘述適當。",
-      "summary": "乳糜胸先想胸管被手術傷到；先減少乳糜流量，保守失敗再做栓塞或胸管結紮。"
+      "summary": "乳糜胸先想胸管被手術傷到；先減少乳糜流量，保守失敗再做栓塞或胸管結紮。",
+      "approach": {
+        "k": "乳糜胸、選**最不適當**的",
+        "t": "最常見原因是**手術傷到胸管**（醫源性），不是腫瘤",
+        "x": "主要成分是脂肪、先支持治療失敗再手術、經胸結紮胸管，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141585,7 +143260,12 @@
       "B": "本項不選。神經源性腫瘤多源自交感鏈、周邊神經或神經節，這些結構集中在脊柱旁，所以常位在後縱膈腔，敘述正確。",
       "C": "本項不選。成人最常見的縱膈腔神經源性腫瘤是許旺氏細胞瘤（schwannoma），通常是良性、生長緩慢，敘述正確。",
       "D": "本項不選。許旺氏細胞瘤源自 Schwann cells，可沿任何胸神經（thoracic nerve）等周邊神經發生，依起源不同可能是肋間、迷走或交感神經相關的腫塊，敘述正確。",
-      "summary": "後縱膈腫塊先想 neurogenic tumor；成人常是良性 schwannoma，兒童反而要提高對 neuroblastoma 的警覺。"
+      "summary": "後縱膈腫塊先想 neurogenic tumor；成人常是良性 schwannoma，兒童反而要提高對 neuroblastoma 的警覺。",
+      "approach": {
+        "k": "縱膈神經源腫瘤、選**最不適當**的",
+        "t": "兒童的神經源腫瘤（神經母細胞瘤）**惡性率較高**，成人多是良性 schwannoma",
+        "x": "常在後縱膈、成人最常見是 schwannoma、可來自任何胸神經，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141800,7 +143480,12 @@
       "D": "錯誤。甲狀腺切除後較可能因副甲狀腺受損而低 PTH、低血鈣，方向和三級副甲狀腺功能亢進的自主高 PTH、高血鈣相反。",
       "summary": "腎衰竭把副甲狀腺長期逼大；腎移植後它還自己分泌、PTH 和血鈣都高，才叫三級副甲狀腺功能亢進。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**三級**副甲狀腺亢進在什麼情況發生",
+        "t": "長期腎衰竭讓副甲狀腺增生，**腎移植後**仍自主分泌 PTH，造成高血鈣",
+        "x": "原發性治療後、低血鈣後、甲狀腺切除後，都不會產生三級副甲狀腺亢進"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141834,7 +143519,12 @@
       "D": "本項不選。低風險甲狀腺乳突微小癌若無甲狀腺外侵犯或淋巴結轉移，可由有經驗團隊進行 active surveillance；重點是規律超音波追蹤，而不是放任不管。",
       "summary": "乳突癌手術範圍要跟風險走：低風險小癌可選單葉切除或監測；一旦要做 RAI，就不能只留著另一葉甲狀腺。",
       "guideline": "American Thyroid Association differentiated thyroid cancer guideline (2025)",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "乳突癌手術、選**最不適當**的",
+        "t": "術後要做放射碘的病人需要**全甲狀腺切除**，否則碘會被剩下的正常甲狀腺吃掉",
+        "x": "高風險或雙側做全切、1–4 cm 低風險可選全切或單葉、微小癌可單葉或積極監測，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141870,7 +143560,12 @@
       "guideline": null,
       "concepts": [
         "bethesda-thyroid-cytopathology"
-      ]
+      ],
+      "approach": {
+        "k": "3 cm 結節、不規則、含**微鈣化**",
+        "t": "超音波高度懷疑 → 超音波導引**細針穿刺**才能確定良惡性",
+        "x": "thyroglobulin 分不出良惡性；核醫掃描與 MRI 都不能排除惡性"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141906,7 +143601,12 @@
       "guideline": null,
       "concepts": [
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "33 歲、摸到硬塊、30–39 歲",
+        "t": "先做乳房超音波，必要時加診斷性攝影，再依影像決定切片",
+        "x": "直接細針穿刺或手術都跳過影像評估；MRI 不是第一線"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141942,7 +143642,12 @@
       "guideline": null,
       "concepts": [
         "breast-imaging-biopsy-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "MRI 1.5 cm 病灶、快速增強後**washout**",
+        "t": "washout 是惡性特徵 → 粗針切片取得組織",
+        "x": "PET 不能確認良惡性；未切片就手術太快；攝影陰性也不能把它降級成追蹤"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -141978,7 +143683,12 @@
       "guideline": null,
       "concepts": [
         "breast-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "乳腺**小葉**癌、影像特徵",
+        "t": "小葉癌細胞單排浸潤、缺 E-cadherin → 常**擴散分布、邊緣模糊**，不易成團",
+        "x": "清楚邊緣單一腫塊較像良性或乳管癌；高回聲富血流不是它的特徵；小葉癌少有鈣化"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142014,7 +143724,12 @@
       "guideline": "NEC management guideline",
       "concepts": [
         "bell-staging-nec"
-      ]
+      ],
+      "approach": {
+        "k": "950 g 早產兒、餵食後腹脹、血便、腸壁積氣、生命徵象不穩",
+        "t": "NEC 第一線：**禁食、口胃管減壓、輸液、廣效靜脈抗生素**",
+        "x": "口服抗生素不適合；急性期不做上消化道攝影；沒有穿孔不需立即手術"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142050,7 +143765,12 @@
       "guideline": "NEC management guideline",
       "concepts": [
         "bell-staging-nec"
-      ]
+      ],
+      "approach": {
+        "k": "承上、出現**自由氣體**、生命徵象不穩、要在床邊處理",
+        "t": "NEC 穿孔、極低體重又不穩 → 床邊放**腹膜引流管**",
+        "x": "開腹手術需要病人穩定才能做；放中央靜脈導管不能處理穿孔"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142086,7 +143806,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "14 歲陰囊腫大、懷疑睪丸腫瘤，選**錯誤**的",
+        "t": "睪丸腫瘤標記是 **AFP、β-hCG、LDH**，不是 CEA",
+        "x": "先排除外傷、水腫、疝氣；經鼠蹊做根除性睪丸切除；術前完成影像分期，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142125,7 +143850,12 @@
       "concepts": [
         "midgut-volvulus-ultrasound-signs",
         "pediatric-vomiting-approach"
-      ]
+      ],
+      "approach": {
+        "k": "膽汁性嘔吐、超音波彩色都卜勒見漩渦狀",
+        "t": "whirlpool sign → 中腸**扭轉**",
+        "x": "單純旋轉不良沒有漩渦；腸套疊是 target sign；腫瘤是實心團塊"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142161,7 +143891,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "尿道下裂、選**最適當**的",
+        "t": "外觀特徵：**腹側包皮缺損**、背側包皮像帽子（dorsal hood）",
+        "x": "合併的是**腹側**彎曲（ventral chordee）；只有嚴重近端型或合併隱睪才需荷爾蒙與染色體檢查；不需重建尿道海綿體"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142197,7 +143932,12 @@
       "guideline": null,
       "concepts": [
         "wilms-tumor-associated-genes"
-      ]
+      ],
+      "approach": {
+        "k": "Wilms 腫瘤**最相關**的基因",
+        "t": "**WT1（11p13）、WT2（11p15）**",
+        "x": "N-MYC 擴增是神經母細胞瘤；p53 是 Li-Fraumeni；RET 是 MEN 2"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142233,7 +143973,12 @@
       "guideline": null,
       "concepts": [
         "colorectal-tnm-basics"
-      ]
+      ],
+      "approach": {
+        "k": "左側結腸癌 **cT3N0M0**",
+        "t": "結腸癌 → 直接做部分結腸切除加淋巴廓清",
+        "x": "術前化療或放化療是直腸癌（或局部晚期）的策略；ESD 只適合黏膜或淺層黏膜下病灶"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142270,7 +144015,12 @@
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis",
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "乙狀結腸扭轉＋發燒、心跳快、**反彈痛**",
+        "t": "已有腹膜炎（缺血或穿孔）→ 不能再做內視鏡復位，要緊急**剖腹手術**",
+        "x": "輸液、血液培養與抗生素、緊急手術都是正確處置"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142685,7 +144435,12 @@
       "D": "本項不選。影像追蹤可能是某些低風險非功能性 incidentaloma 的選項，但此人已有高血壓與低血鉀，若只等 6 個月會漏掉可治療的 aldosterone excess。",
       "summary": "腎上腺 incidentaloma 遇到高血壓加低血鉀，先背這條：想到 aldosterone，做 aldosterone–renin ratio。",
       "guideline": "Endocrine Society primary aldosteronism guideline",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "腎上腺意外瘤 1.5 cm＋高血壓＋**低血鉀**",
+        "t": "高血壓加低血鉀 → 先篩**原發性醛固酮症**（醛固酮/腎素比值）",
+        "x": "沒確認功能前不能直接切除；腎上腺切片不建議（可能是嗜鉻細胞瘤）；只追蹤 CT 會漏掉功能性腫瘤"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143013,7 +144768,12 @@
       "B": "正確答案。CT 上前縱膈腔有一顆界線清楚、內部密度不均的腫塊，把兩側肺推開但沒有侵犯血管。24 歲女性加上前縱膈腔含混合密度（脂肪、軟組織、鈣化）的腫塊，最符合成熟畸胎瘤（teratoma）。前縱膈腔腫瘤可用 4T 記：thymoma、teratoma、thyroid、terrible lymphoma。",
       "C": "本項不選。肺癌（lung cancer）通常是肺實質或肺門的病灶，也和年齡、吸菸史、不規則肺結節相符。這位年輕女性的腫塊在前縱膈腔、沒有這些線索。",
       "D": "本項不選。神經源性腫瘤（neurogenic tumor）多在後縱膈腔、靠近脊椎旁。這顆腫塊在前縱膈腔又含混合密度，更支持 teratoma。",
-      "summary": "年輕人縱膈腫塊先分區：前縱膈腔看到脂肪、液體或鈣化的混合物，優先想 teratoma。"
+      "summary": "年輕人縱膈腫塊先分區：前縱膈腔看到脂肪、液體或鈣化的混合物，優先想 teratoma。",
+      "approach": {
+        "k": "24 歲女性、CT 見前縱膈混合**脂肪、液體、鈣化**的腫塊",
+        "t": "**畸胎瘤**",
+        "x": "主動脈剝離有內膜片；年輕不抽菸不像肺癌；神經源腫瘤在後縱膈"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
