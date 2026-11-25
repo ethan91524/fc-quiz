@@ -71,7 +71,12 @@
       "guideline": null,
       "concepts": [
         "fried-frailty-phenotype"
-      ]
+      ],
+      "approach": {
+        "k": "Fried 衰弱定義**不包括**",
+        "t": "Fried 五項：體重減輕、疲憊、低活動量、**步速慢**、**握力弱**；**沒有認知功能**",
+        "x": "握力不足、體重下降、行動遲緩都在五項內"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -112,7 +117,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**低體溫危險因子",
+        "t": "低體溫危險因子：產熱不足（甲低、營養不良）、調節失常（休克）、年齡兩端；**30–50 歲健康成人**不是",
+        "x": "甲低、休克、營養不良都是危險因子"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2710,7 +2720,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "換工作後睡不好、盜汗、心悸、不想上班，3 個月",
+        "t": "身心社會問題交織 → **生物心理社會模式**",
+        "x": "生物醫學家庭模式只看病；整體社會模式與民族醫學文化模式不切合本題"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2751,7 +2766,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "青少年男女發育差異、選**錯誤**的",
+        "t": "青春期男性紅血球量與血紅素**高於**女性（雄性素刺激）",
+        "x": "男肩寬女髖寬、男肌肉增加脂肪減少、男青春期與生長高峰較晚，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2793,7 +2813,12 @@
       "concepts": [
         "cognitive-impairment-delirium-dementia",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "老年人譫妄、選**正確**的",
+        "t": "手術前**老年醫學會診**（整合照護）可降低術後譫妄",
+        "x": "譫妄是**急性**波動；可以是**安靜型**；**沒有** FDA 核准的治療藥"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2829,7 +2854,12 @@
       "guideline": "USPSTF, Folic Acid Supplementation to Prevent Neural Tube Defects: Preventive Medication (2023)",
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "USPSTF **A 級**化學預防",
+        "t": "準備懷孕女性每日 **400–800 µg 葉酸**",
+        "x": "幼兒塗氟是 B 級；tamoxifen 預防乳癌是 B；維生素 D 預防骨折建議不足（D/I）"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2870,7 +2900,12 @@
       "guideline": null,
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "需要**密集諮詢**、簡短諮詢不夠的",
+        "t": "性活躍青少年的**性病預防**需要高強度行為諮詢",
+        "x": "紫外線暴露、酒精濫用、戒菸可以從簡短諮詢開始"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2911,7 +2946,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "溝通的空間距離、選**正確**的",
+        "t": "醫護因檢查常需進入病人的**個人空間**（約 45–120 cm），要先告知",
+        "x": "親密空間是 0–45 cm；社會空間約 120–360 cm；個人空間不是 0–60"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2952,7 +2992,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "職業性肺病、選**最適當**的",
+        "t": "成人氣喘至少 **10%（約 15%）**與職業暴露有關",
+        "x": "塵肺是**無機**粉塵；過敏性肺炎是**有機**抗原；最有效是**源頭控制**，個人防護具是最後一道"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2993,7 +3038,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "末期病人呼吸困難、選**最不適當**的",
+        "t": "要先找**可逆原因**；嗎啡用在難治性症狀，不是「無論原因」都先給",
+        "x": "肺癌最常見、先找可逆原因、心理社會靈性也會造成，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -8920,7 +8970,12 @@
       "guideline": "FC 醫學(五)第6冊 p.134",
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "軟骨肉瘤、選**最正確**的",
+        "t": "惡性度分級要**臨床＋影像＋病理**三方整合（病理常低估）",
+        "x": "好發 **40–60 歲**成人；Codman 三角是骨肉瘤；軟骨肉瘤對放化療**不敏感**，以廣泛切除為主"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8961,7 +9016,12 @@
       "guideline": "FC 醫學(五)第6冊 p.95",
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "橈骨頭骨折、選**最不適當**的",
+        "t": "關節內骨折塊或游離體**阻擋旋轉**時要**手術**，不能保守",
+        "x": "多為手肘伸直撐地、單純骨折可保守、旋轉受限是手術適應症，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8997,7 +9057,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "石膏與副木原則、選**最適當**的",
+        "t": "急性遠端橈骨骨折腫脹嚴重時，先用**副木**容納腫脹",
+        "x": "踝扭傷要固定在**中立位（90 度）**；石膏後疼痛要**立即**解除壓迫排除腔室症候群；石膏用**溫水**（約 24℃），熱水會燙傷"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9038,7 +9103,12 @@
       "guideline": "FC 醫學(五)第6冊 p.72",
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "肩前側不穩定 apprehension test、選**最不適當**的",
+        "t": "測試是肩外展 90 度後**外旋**誘發不安，不是內旋",
+        "x": "可平躺或坐、平躺站側方、坐姿站後方，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9076,7 +9146,12 @@
       "C": "本項不選。典型 SCFE 常伴骨骼成熟延遲，而不是骨骼年齡超前；因此年齡不典型或生長延遲者要評估甲狀腺、性腺與生長激素軸。",
       "D": "正確。SCFE 與肥胖造成的機械剪力及內分泌因素相關；甲狀腺低下、生長激素異常或腎性骨失養會削弱生長板。",
       "summary": "SCFE 是青春期生長板滑移；年幼、雙側或骨齡延遲時尤其要找內分泌病因。",
-      "guideline": "FC 醫學(五)第6冊 p.147"
+      "guideline": "FC 醫學(五)第6冊 p.147",
+      "approach": {
+        "k": "SCFE、選**最適當**的",
+        "t": "常與**內分泌異常**有關（甲低、生長激素、腎性骨病）",
+        "x": "好發**青春期**；雙側約 20–40%；骨齡通常**延遲**"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9117,7 +9192,12 @@
       "guideline": "FC 醫學(五)第6冊 p.106",
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "手撐地、腕部**橈側**痛",
+        "t": "**舟狀骨**骨折（鼻煙窩壓痛）",
+        "x": "月狀骨較常脫位；大多角骨與小多角骨骨折少見"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9155,7 +9235,12 @@
       "C": "正確。頸部伸展並轉向患側誘發放射痛相當於 Spurling maneuver，手臂抬過頭使神經根張力下降而緩解，皆指向頸神經根病變（cervical radiculopathy）。",
       "D": "本項不選。多數急性頸神經根病變可先以活動調整、止痛消炎藥與復健治療，症狀常改善；進行性無力、脊髓病變或保守治療失敗才考慮手術。",
       "summary": "患側轉伸頸誘發、手放頭頂緩解的肩臂痛是頸神經根受壓，而非旋轉肌袖病變。",
-      "guideline": "FC 醫學(五)第1冊 p.231"
+      "guideline": "FC 醫學(五)第1冊 p.231",
+      "approach": {
+        "k": "頸痛延伸到三角肌、**手舉過頭緩解**、頭後仰右轉加重",
+        "t": "肩外展緩解（Bakody sign）、Spurling 陽性 → **頸神經根壓迫**（C5）",
+        "x": "步態穩定沒有 UMN 徵象；旋轉肌袖病變手舉高反而痛；多數**可以**保守治療改善"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9617,7 +9702,12 @@
       "C": "本項不選。骨肉瘤（osteosarcoma）常見於青少年長骨幹骺端，影像可有雲霧狀骨樣基質、侵襲性骨膜反應與軟組織腫塊；兩個月負重痛本身不足以支持。",
       "D": "本項不選。嗜伊紅性肉芽腫（eosinophilic granuloma）可造成兒童或年輕成人溶骨性病灶，但常見穿鑿樣破壞而非典型纖維性骨發育不良基質。",
       "summary": "年輕成人股骨近端病灶若呈磨砂玻璃樣基質，最支持纖維性骨發育不良；本題仍須核對附圖。",
-      "guideline": "FC 醫學(五)第6冊 p.134"
+      "guideline": "FC 醫學(五)第6冊 p.134",
+      "approach": {
+        "k": "23 歲、舉重物時右髖痛、X 光近端股骨病灶",
+        "t": "**磨砂玻璃**樣基質 → **纖維性骨發育不良**（牧羊人拐杖變形）",
+        "x": "軟骨母細胞瘤在骨骺；骨肉瘤有骨膜反應與破壞；嗜酸性肉芽腫多在兒童"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -13089,7 +13179,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "82 歲感冒吃藥後活動力下降、發燒、意識變差，**最不需要**",
+        "t": "老人意識改變先做病史用藥、身體與神經檢查、基本抽血；**腰椎穿刺**要有中樞感染的疑慮才做",
+        "x": "病史用藥、神經學檢查、CBC 電解質肝腎功能都是初始評估"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15813,7 +15908,12 @@
       "guideline": null,
       "concepts": [
         "fried-frailty-phenotype"
-      ]
+      ],
+      "approach": {
+        "k": "Fried 五項指標、選**錯誤**的",
+        "t": "肌力下降是測**握力**，不是原地抬腿",
+        "x": "一年體重減 >4.5 kg、步行 15 呎時間、疲累感，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15854,7 +15954,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "15 歲女生、**最不需要**的疫苗",
+        "t": "**帶狀疱疹疫苗**用於 50 歲以上",
+        "x": "A 肝補接、HPV、Tdap 都是青少年建議疫苗"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15890,7 +15995,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "看感冒時同時問疫苗、體重、睡眠",
+        "t": "一次涵蓋預防、營養、心理 → **周全性照顧**",
+        "x": "持續性是長期追蹤；協調性是整合轉介；負責性是對病人負責"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15931,7 +16041,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲運動處方、選**最不適當**的",
+        "t": "目標心跳 150 已接近預估最大心率（220−70＝150），**不是**中等強度",
+        "x": "平地步行、暖身 5 分＋20 分＋緩和 5 分、每週至少 3 天，三句都合理"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15972,7 +16087,12 @@
       "guideline": null,
       "concepts": [
         "predictive-values"
-      ]
+      ],
+      "approach": {
+        "k": "影響**陽性預測值**最大的因素",
+        "t": "**盛行率**（盛行率低假陽性比例上升）",
+        "x": "發生率、死亡率、存活率不直接決定 PPV"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -16013,7 +16133,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "醫病溝通、選**正確**的",
+        "t": "聆聽時眼神接觸約占 **80%** 左右",
+        "x": "多數病人約 18–23 秒就被打斷；眼神接觸 90% 以上會造成壓迫；憂鬱病人眼神接觸較**少**"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -16054,7 +16179,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "推動 SDM 的挑戰、選**錯誤**的",
+        "t": "**健康識能充足**是助力，不是障礙（障礙是識能不足）",
+        "x": "權威文化、時間不足、缺輔助工具都是障礙"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -16095,7 +16225,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "居家安寧與在宅善終的優點、選**錯誤**的",
+        "t": "居家症狀控制**不一定較方便**（取決於團隊與設備）",
+        "x": "節省醫療支出、熟悉環境、較有尊嚴，三句都是優點"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -21805,7 +21940,12 @@
       "C": "本項不選。頸神經根病變（cervical radiculopathy）可伴頸痛、皮節性放射痛、肌力或反射改變，且常受頸部姿勢影響；孤立夜間前三指麻與 flick sign 更支持腕隧道。",
       "D": "本項不選。脊髓病變（myelopathy）會出現手部笨拙、步態異常、反射亢進等長束徵象，不會只呈現正中神經在手部的局部感覺分布。",
       "summary": "夜間前三指麻痛且甩手緩解，是腕隧道內正中神經壓迫的典型組合。",
-      "guideline": "FC 醫學(五)第6冊 p.102"
+      "guideline": "FC 醫學(五)第6冊 p.102",
+      "approach": {
+        "k": "包裝員、拇食中指麻痛、**夜間痛醒、甩手改善**",
+        "t": "**腕隧道症候群**",
+        "x": "肘隧道是無名指小指；頸神經根病變與姿勢頸部動作有關；脊髓病變有 UMN 徵象"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -21843,7 +21983,12 @@
       "C": "本項不選。脊髓（spinal cord）受壓會產生病灶以下長束徵象、步態或括約肌問題，不能解釋限定於正中神經分布且甩手緩解的症狀。",
       "D": "本項不選。C4 神經根主要涉及肩峰、鎖骨上區感覺及肩帶功能；拇指至中指感覺較涉及 C6～C7，但本病例的夜間模式仍是周邊正中神經壓迫。",
       "summary": "腕隧道症候群壓迫的是腕橫韌帶下的正中神經，而非尺神經、C4 神經根或脊髓。",
-      "guideline": "FC 醫學(五)第6冊 p.103"
+      "guideline": "FC 醫學(五)第6冊 p.103",
+      "approach": {
+        "k": "承上、壓迫的神經",
+        "t": "**正中神經**（腕橫韌帶下）",
+        "x": "尺神經是肘隧道或 Guyon；C4 與脊髓不對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -21881,7 +22026,12 @@
       "C": "正確。Phalen test 讓雙腕充分屈曲，若在正中神經分布誘發麻痛即為陽性，可支持腕隧道症候群；仍須結合病史，必要時做神經傳導檢查。",
       "D": "本項不選。椎間孔擠壓測試（Spurling test）以頸部伸展、側彎及軸向加壓誘發神經根放射痛，用於頸神經根病變而不是腕部正中神經壓迫。",
       "summary": "Phalen test 是腕隧道的誘發檢查；肘彎曲測尺神經，Spurling 測頸神經根。",
-      "guideline": "FC 醫學(五)第6冊 p.103"
+      "guideline": "FC 醫學(五)第6冊 p.103",
+      "approach": {
+        "k": "承上、幫助確診的檢查",
+        "t": "**Phalen's test**（屈腕誘發）",
+        "x": "反射亢進是脊髓病變；肘彎曲測試是尺神經；Spurling 是頸神經根"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -21922,7 +22072,12 @@
       "guideline": "FC 醫學(五)第6冊 p.133",
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "骨肉瘤、選**最不適當**的",
+        "t": "**stuck-on** 外觀是**骨旁（parosteal）**骨肉瘤，不是骨膜型",
+        "x": "放射線誘發、ABC 與微血管擴張型影像相似、骨旁型低惡性以手術為主，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -21964,7 +22119,12 @@
         "acute-compartment-syndrome",
         "shock-initial-approach"
       ],
-      "guideline": "FC 醫學(五)第6冊 p.177"
+      "guideline": "FC 醫學(五)第6冊 p.177",
+      "approach": {
+        "k": "地震壓砸傷、雙下肢變形、休克，選**最不適當**的",
+        "t": "懷疑橫紋肌溶解要**積極輸液**（維持尿量），不是限水",
+        "x": "臨床懷疑就切筋膜、5P 中疼痛最重要、壓力 >30 懷疑，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22005,7 +22165,12 @@
       "guideline": "FC 醫學(五)第6冊 p.215",
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "Bennett fracture、牽拉的肌腱",
+        "t": "**外展拇長肌**把第一掌骨幹往近端橈側拉",
+        "x": "伸腕長短肌附著在第二三掌骨；伸拇長肌不是主要牽拉力"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22043,7 +22208,12 @@
       "C": "本項不選。凹溝測試（sulcus test）向下牽拉手臂，若肩峰下出現凹溝提示下方鬆弛或多方向不穩定，並非專門測前側不穩定。",
       "D": "正確。Kim test 在肩外展約 90 度時施加軸向負荷與後下方力量，誘發疼痛或喀聲可提示後下盂唇病灶及後側不穩定。",
       "summary": "肩不穩定測試方向要配對：apprehension 測前側、Kim 測後下側、sulcus 測下方或多方向鬆弛。",
-      "guideline": "FC 醫學(五)第6冊 p.72"
+      "guideline": "FC 醫學(五)第6冊 p.72",
+      "approach": {
+        "k": "肩關節不穩定檢查、選**正確**的",
+        "t": "**Kim test** 檢查**後下側**不穩定",
+        "x": "Jahnke 是後側；apprehension 是**前側**；sulcus 是**下方**或多方向"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22084,7 +22254,12 @@
       "guideline": "FC 醫學(五)第6冊 p.160",
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "先天性脛骨假關節的彎曲方向",
+        "t": "**前外側**彎曲，易骨折且不癒合（與 NF1 相關）",
+        "x": "後內側彎曲是良性、會自行改善；前內側與後外側不是此病"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22125,7 +22300,12 @@
       "guideline": "FC 醫學(五)第6冊 p.110",
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "橈骨莖突附近痛、懷疑 de Quervain",
+        "t": "**Finkelstein test**",
+        "x": "Phalen 是腕隧道；Watson 是舟月韌帶不穩；Allen 是手部血流"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22162,7 +22342,12 @@
         "lower-limb-root-localization",
         "low-back-pain-approach"
       ],
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腰椎神經根支配、選**最不適當**的",
+        "t": "**伸拇長肌**主要由 **L5** 支配",
+        "x": "股四頭肌 L3–4、脛前肌 L4–5、腓骨肌 L5–S1，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22200,7 +22385,12 @@
       "C": "本項不選。後沉徵象（posterior sag sign）顯示脛骨相對股骨向後下沉，用於後十字韌帶（PCL）斷裂；前十字韌帶應用 Lachman 或 anterior drawer test。",
       "D": "正確。Apley test 在俯臥屈膝下壓並旋轉脛骨，以壓縮半月板；若產生關節線疼痛或喀聲，可支持膝半月板損傷。",
       "summary": "下肢檢查須配對：Trendelenburg 測髖外展肌、Thomas 測髖屈曲攣縮、Apley 測半月板。",
-      "guideline": "FC 醫學(五)第6冊 p.213"
+      "guideline": "FC 醫學(五)第6冊 p.213",
+      "approach": {
+        "k": "下肢身體診察、選**最適當**的",
+        "t": "**Apley test** 檢查**半月板**破裂",
+        "x": "Trendelenburg 是**患側**單腳站立時對側骨盆下沉；Thomas test 是**髖屈曲攣縮**；posterior sag 是**後十字韌帶**"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22683,7 +22873,12 @@
       "concepts": [
         "acute-compartment-syndrome"
       ],
-      "guideline": "FC 醫學(五)第1冊 p.57"
+      "guideline": "FC 醫學(五)第1冊 p.57",
+      "approach": {
+        "k": "腔室症候群 5P **不包括**",
+        "t": "5P：**Pain**、Paresthesia、Pallor、Paralysis、Pulselessness（另有 Pressure）；**painless** 不是",
+        "x": "感覺異常、無脈、壓力都在其中"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -26214,7 +26409,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "有機磷中毒、**最不可能**的徵象",
+        "t": "有機磷抑制膽鹼酯酶 → **分泌增加**（流口水、流淚）；不會口乾少淚",
+        "x": "肌肉無力（菸鹼型）、癲癇（中樞）、腹瀉失禁（蕈毒鹼型）都會發生"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26255,7 +26455,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "承上、**最不適當**的治療",
+        "t": "**physostigmine** 也是膽鹼酯酶抑制劑，會加重中毒",
+        "x": "活性碳、atropine、pralidoxime 都是正確治療"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28154,7 +28359,12 @@
       "concepts": [
         "primary-headache-types",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "31 歲、突發**無法忍受**的頭痛、頸部僵硬、嘔吐、意識喪失",
+        "t": "雷擊式頭痛 → **顱內動脈瘤破裂**（SAH）",
+        "x": "腦膜炎多有發燒且漸進；梗塞性中風少以劇烈頭痛表現；偏頭痛不會失去意識"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28842,7 +29052,12 @@
       "guideline": null,
       "concepts": [
         "comprehensive-geriatric-assessment"
-      ]
+      ],
+      "approach": {
+        "k": "周全性老年評估、選**正確**的",
+        "t": "評估包含**生理、心理、社會、功能**多面向",
+        "x": "不是**所有**老人都做（針對高風險）；不只篩選還要擬照護計畫；需要多專業較長時間"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28878,7 +29093,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "家族樹、選**錯誤**的",
+        "t": "家族樹在**初診**就可以適度建立，不必刻意避免",
+        "x": "是家庭照護關鍵工具、了解家庭背景、提供家族病史，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28921,7 +29141,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-evaluation-drug-choice"
-      ]
+      ],
+      "approach": {
+        "k": "DASH 飲食的統合分析、選**錯誤**的",
+        "t": "RCT 的系統性回顧與統合分析證據等級是 **Ia**（最高），不是 IIa",
+        "x": "收縮壓降 6.74、亞組差異、異質性來源，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28962,7 +29187,12 @@
       "guideline": null,
       "concepts": [
         "motivational-interviewing-rule"
-      ]
+      ],
+      "approach": {
+        "k": "動機式晤談 RULE 的 E",
+        "t": "**E**mpower your patient",
+        "x": "Engage、Endorse、Empathy 都不是 RULE 的 E"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -29003,7 +29233,12 @@
       "guideline": null,
       "concepts": [
         "transtheoretical-model-stages"
-      ]
+      ],
+      "approach": {
+        "k": "跨理論模式、選**正確**的",
+        "t": "**維持期**＝行為改變持續**六個月以上**",
+        "x": "共五期（漏了無意圖期）；考慮期是 6 個月內**有**意圖；計畫一個月內開始是**準備期**"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -29085,7 +29320,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "第四期肺癌末期、呼吸困難、血氧 94%",
+        "t": "末期難治性呼吸困難 → 低劑量**鴉片類**（不需要低血氧才有效）",
+        "x": "benzodiazepine 是輔助（焦慮）；NSAID 無效；沒有氣道阻塞時擴張劑效果有限"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -32625,7 +32865,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "Hangman's fracture",
+        "t": "**雙側 C2 椎莖（峽部）骨折**合併 C2–C3 滑脫",
+        "x": "C1 環多處斷裂是 Jefferson；齒突 Type II 與 Type I 不是"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33510,7 +33755,12 @@
       "C": "本項不選。魚際肌萎縮代表長期或重度正中神經運動支受損，是較晚期表現；許多因持續麻痛接受手術的患者尚未出現萎縮。",
       "D": "本項不選。副木、活動調整或局部類固醇注射通常用於輕至中度病例的初始治療；嚴重神經損害或保守治療無效才轉介手術，不是手術失敗後才用副木。",
       "summary": "腕隧道手術是切開腕橫韌帶減壓；魚際肌萎縮不是手術患者的必要條件。",
-      "guideline": "FC 醫學(五)第6冊 p.102"
+      "guideline": "FC 醫學(五)第6冊 p.102",
+      "approach": {
+        "k": "腕隧道症候群、選**正確**的",
+        "t": "手術是**切斷腕橫韌帶**減壓",
+        "x": "**屈腕**才會加重；不一定有魚際肌萎縮；副木是**第一線**，無效才手術"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -34940,7 +35190,12 @@
       "guideline": "FC 醫學(五)第1冊 p.83",
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "骨盆骨折、選**最不適當**的",
+        "t": "骨盆骨折**不常**合併大腿腔室症候群；重要的是大出血與臟器神經傷",
+        "x": "多數穩定可保守、可伴神經損傷、不穩定骨折可留下背痛，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -34981,7 +35236,12 @@
       "concepts": [
         "garden-classification"
       ],
-      "guideline": "FC 醫學(五)第6冊 p.49"
+      "guideline": "FC 醫學(五)第6冊 p.49",
+      "approach": {
+        "k": "下肢骨折分類與手術、選**最不適當**的",
+        "t": "張力帶是把骨折處的**牽張力**轉為**壓縮力**；選項把方向寫反",
+        "x": "Lauge-Hansen 最常見旋後外旋、Schatzker I 外側劈裂、Garden 看位移 Pauwels 看角度，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35019,7 +35279,12 @@
       "C": "本項不選。肱三頭肌長頭屬共同三頭肌腱的一部分，斷裂主要表現為伸肘無力與肘後缺損，而非前上臂肱二頭肌肌腹隆起。",
       "D": "本項不選。肱三頭肌並沒有標準命名的「短頭」；其三個頭為長頭、外側頭及內側頭，遠端共同附著鷹嘴，故此解剖選項本身不成立。",
       "summary": "突發負重後前上臂 Popeye deformity 是近端肱二頭肌長頭肌腱斷裂的代表性表現。",
-      "guideline": "FC 醫學(五)第6冊 p.94"
+      "guideline": "FC 醫學(五)第6冊 p.94",
+      "approach": {
+        "k": "比腕力時肩痛、上臂無力、**Popeye 外觀**",
+        "t": "**肱二頭肌長頭肌腱**斷裂",
+        "x": "短頭很少斷；肱三頭肌斷裂在上臂後側"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35100,7 +35365,12 @@
       "C": "本項應選。Adam procedure 不是治療遠端橈尺關節嚴重關節炎的標準手術名稱；臨床相關的重建是 Adams-Berger reconstruction，用於三角纖維軟骨複合體無法修補所致的不穩定，而非破壞嚴重的關節炎。",
       "D": "本項不選。Sauvé-Kapandji procedure 將遠端橈尺關節融合，並在近端尺骨建立假關節以保留旋轉，適用於疼痛性關節炎且需要維持前臂旋轉者。",
       "summary": "遠端橈尺關節炎可選 Darrach、半切除或 Sauvé-Kapandji；Adams 重建主治不穩定而非嚴重關節炎。",
-      "guideline": "FC 醫學(五)第6冊 p.94"
+      "guideline": "FC 醫學(五)第6冊 p.94",
+      "approach": {
+        "k": "遠端橈尺關節嚴重關節炎、**最不適當**的手術",
+        "t": "**Adams procedure** 是重建韌帶治療 DRUJ **不穩定**，不處理關節炎",
+        "x": "Darrach、半切除關節成形、Sauvé-Kapandji 都用於關節炎"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35138,7 +35408,12 @@
       "C": "本項應選。成人椎間盤血流供應有限，典型血行性感染先落在椎體終板附近，再穿越終板蔓延至椎間盤與相鄰椎體；「先感染椎間盤再擴散」較符合兒童而非成人。",
       "D": "本項不選。神經缺損、硬膜外膿瘍壓迫、脊椎不穩定或變形、保守治療失敗，以及需取得病原組織時，均可構成手術或侵入性處置的理由。",
       "summary": "成人血行性脊椎感染通常先侵犯椎體終板，再延伸至椎間盤及相鄰椎體。",
-      "guideline": "FC 醫學(五)第1冊 p.275"
+      "guideline": "FC 醫學(五)第1冊 p.275",
+      "approach": {
+        "k": "化膿性脊椎感染、選**最不適當**的",
+        "t": "成人血行感染先侵犯**椎體終板**（血流豐富），再擴散到椎間盤；兒童才先侵犯椎間盤",
+        "x": "最常腰椎、最常金葡菌、手術適應症列舉，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35180,7 +35455,12 @@
         "cobb-angle",
         "risser-stage"
       ],
-      "guideline": "FC 醫學(五)第6冊 p.159"
+      "guideline": "FC 醫學(五)第6冊 p.159",
+      "approach": {
+        "k": "13 歲、腰椎側彎 **Cobb 45 度**、Risser 2",
+        "t": "仍在生長、Cobb **≥45 度** → **後方矯正內固定融合術**",
+        "x": "觀察與背架用在 20–40 度；不需等骨骼成熟"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35738,7 +36018,12 @@
       "concepts": [
         "acute-compartment-syndrome"
       ],
-      "guideline": "FC 醫學(五)第1冊 p.57"
+      "guideline": "FC 醫學(五)第1冊 p.57",
+      "approach": {
+        "k": "腔室症候群確定診斷的條件",
+        "t": "腔室內壓力 **>30 mmHg**（或與舒張壓差 ≤30）",
+        "x": "肌酸酐、鉀、CPK 只反映肌肉損傷後果"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -39109,7 +39394,12 @@
       "guideline": "CHAP trial（NEJM 2022）後 ACOG 改為孕期慢性高血壓 ≥140/90 mmHg 即治療、目標 <140/90",
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "懷孕慢性高血壓治療、選**最不適當**的",
+        "t": "懷孕**禁用** ACEi/ARB",
+        "x": "labetalol 與 nifedipine 可用、輕度治療證據（題目當年說法）、收縮壓 130–150 舒張 80–100 的目標，三句符合題意"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39186,7 +39476,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "身體徵象與疾病、相關性**最低**",
+        "t": "**Kussmaul's sign** 是吸氣時頸靜脈壓上升（縮窄性心包炎）；代謝性酸中毒是 Kussmaul **呼吸**",
+        "x": "Chvostek–低鈣、Duroziez–主動脈瓣閉鎖不全、Romberg–感覺性共濟失調，三組正確"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39227,7 +39522,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "轉移痛、選**錯誤**的",
+        "t": "轉移痛區按壓通常**不會**誘發疼痛（病灶不在那裡）",
+        "x": "心臟可轉移到上腹、胸椎神經病變轉移到下腹、膽道轉移到肩胛，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41789,7 +42089,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "健康照護模式、選**正確**的",
+        "t": "**holistic model** 認為疾病是一個創造性的機會",
+        "x": "醫療化是 biomedical 的**缺點**；生物適應不是 biomedical 的特性；民族醫學文化模式不是三者合併"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41830,7 +42135,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "中風老人被家人摑掌推倒骨折，選**錯誤**的",
+        "t": "打人推倒是**身體虐待**，不是忽略",
+        "x": "可發生在各種場所、加害者多樣、心理虐待定義，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41866,7 +42176,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "家醫照顧青少年、選**錯誤**的",
+        "t": "學校成績只是 HEADSS 的一部分，**不是最重要**的議題",
+        "x": "生長體重、肥胖飲食、藥物酒精與駕駛，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41907,7 +42222,12 @@
       "guideline": null,
       "concepts": [
         "live-vaccine-spacing"
-      ]
+      ],
+      "approach": {
+        "k": "旅遊疫苗接種原則、選**最正確**的",
+        "t": "**兩種注射型活疫苗**可同時打；不同時打要間隔 **28 天**",
+        "x": "活疫苗與非活性疫苗可同時、**不需**間隔；活疫苗與非活性疫苗**可以**同時；兩種活疫苗**可以**同時"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41948,7 +42268,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "一年前醫師已建議戒菸但沒戒、這次來戒菸門診",
+        "t": "5A 的下一步是 **Assess**：評估 30 天內戒菸意願",
+        "x": "Ask 已做過；Assist 與 Arrange 要先確認意願"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41989,7 +42314,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "8000 人社區、只有衛生所，找健康問題**最有效可靠**",
+        "t": "先蒐集**官方衛政資料與既有流病報告**建立基礎",
+        "x": "關鍵人物座談與走訪觀察是補充；自己做流病調查太耗時"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -42030,7 +42360,12 @@
       "guideline": null,
       "concepts": [
         "comprehensive-geriatric-assessment"
-      ]
+      ],
+      "approach": {
+        "k": "85 歲居家個案一個月跌倒兩次、**內在因子**",
+        "t": "①跌倒史②視力③憂鬱④認知⑤下肢無力**全部**都是內在因子",
+        "x": "少列任一項都不完整"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -42071,7 +42406,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**安寧緩和醫療的目的",
+        "t": "安寧目的是提升生活與死亡品質、緩解症狀；**不以延長生命**為目的",
+        "x": "生活品質、死亡品質、症狀改善都是目的"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -45976,7 +46316,12 @@
       "C": "本項應選。手術可改善神經根或脊髓受壓造成的症狀，但不能保證肩頸軸性疼痛與所有神經缺損完全恢復；慢性神經損害、非特異性疼痛及鄰近節段退化均會影響結果。",
       "D": "本項不選。前位頸椎椎間盤切除融合術（anterior cervical discectomy and fusion）牽開食道、氣管及喉返神經，術後可能短暫或持續吞嚥困難、嗆咳及聲音沙啞。",
       "summary": "頸椎退化手術能減壓但不能保證所有疼痛與神經症狀完全消失，且前位手術有吞嚥與聲音風險。",
-      "guideline": "FC 醫學(五)第1冊 p.227"
+      "guideline": "FC 醫學(五)第1冊 p.227",
+      "approach": {
+        "k": "頸椎退化性疾病治療、選**最不適當**的",
+        "t": "手術**不能保證**疼痛與神經症狀**全部**改善",
+        "x": "急性神經根病變先保守、保守無效考慮手術、前位手術可能沙啞嗆咳吞嚥困難，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -47830,7 +48175,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "軟骨肉瘤、選**最適當**的",
+        "t": "骨軟骨瘤軟骨帽 **>2 cm** 要評估次發性軟骨肉瘤",
+        "x": "好發**中老年**；mesenchymal 型不在骨骺；對放化療**不敏感**、手術是主要"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -47904,7 +48254,12 @@
       "C": "本項不選：閉孔斜位主要顯示前柱與後壁，不能把後柱和前壁配成一組。",
       "D": "本項不選：髂骨斜位主要看後柱與前壁；選項把它們顛倒成前柱與後壁。",
       "summary": "髖臼 Judet 片：閉孔斜位看前柱／後壁，髂骨斜位看後柱／前壁。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "髖臼解剖與檢查、選**最適當**的",
+        "t": "髖臼由**三向放射狀軟骨**癒合而成，表面是透明軟骨",
+        "x": "Judet 斜位是傾斜 **45 度**；閉孔斜位看**前柱**與後壁；髂骨斜位看**後柱**與前壁"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -47940,7 +48295,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "骨盆髖部撕除骨折、組合**最不適當**",
+        "t": "股直肌附著在**髂前下棘（AIIS）**；髂前上棘是縫匠肌",
+        "x": "腹肌–髂嵴、膕繩肌–坐骨結節、髂腰肌–小轉子，三組正確"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -47973,7 +48333,12 @@
       "C": "本項應選：Patrick test（FABER）主要評估成人髖或薦髂關節病變，不是新生兒髖篩檢。",
       "D": "本項不選：Ortolani test 把已脫位的股骨頭外展復位，喀嗒感代表髖關節不穩。",
       "summary": "新生兒不對稱皮膚皺褶要用 Barlow、Ortolani 與 Galeazzi 找 DDH，不用成人 FABER。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "新生兒大腿內側皮膚皺褶不對稱，**最不相關**",
+        "t": "**Patrick test** 是成人髖與薦髂關節檢查",
+        "x": "Galeazzi、Barlow、Ortolani 都是 DDH 檢查"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48006,7 +48371,12 @@
       "C": "本項不選：carpal tunnel 壓迫正中神經。典型是拇指、食指、中指與半個無名指麻木。",
       "D": "本項不選：arcade of Frohse 是橈神經深支進入旋後肌的入口，壓迫以手指伸展無力為主。",
       "summary": "尺側手麻又合併小指 FDP 無力，壓迫點在 Guyon tunnel 近端，想到 arcade of Struthers。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "無名指尺側與小指麻、**小指 FDP 無力**",
+        "t": "FDP 無力表示壓迫在**肘部以上** → **arcade of Struthers**",
+        "x": "Guyon 在 FDP 分支之後，不會 FDP 無力；腕隧道是正中神經；arcade of Frohse 是橈神經"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48044,7 +48414,12 @@
       "C": "本項不選：有神經根症狀時，MRI 最能呈現椎間盤、神經根與椎管的關係。",
       "D": "本項不選：椎間盤手術常見須告知感染、硬膜破裂、神經根傷害與復發性突出等風險。",
       "summary": "HIVD 不是先開刀：馬尾紅旗、進行性缺損或保守失敗才升級減壓手術。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "HIVD、選**最不適當**的",
+        "t": "多數 HIVD **保守治療**就會改善，不是通常需要手術",
+        "x": "protrusion 最常見、MRI 最佳、手術併發症列舉，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48087,7 +48462,12 @@
       "guideline": null,
       "concepts": [
         "garden-classification"
-      ]
+      ],
+      "approach": {
+        "k": "25 歲車禍、X 光股骨頸骨折、Shenton line 中斷",
+        "t": "Shenton line 不連續 → **移位**明顯",
+        "x": "移位不是 Garden II；年輕人要**復位內固定**，不做半髖置換；不需先做骨掃描"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -51939,7 +52319,12 @@
       "concepts": [
         "primary-headache-types",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "頭痛、選**正確**的",
+        "t": "偏頭痛常**單側、搏動性**，伴隨嘔吐或畏光",
+        "x": "原發性頭痛不是腦瘤；次發性頭痛最常見是感染等；新發嚴重頭痛要找原因，不能只給止痛"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52022,7 +52407,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "血中酒精超過多少會輕度昏迷、生命徵象不穩",
+        "t": "約 **0.30 g/dL**",
+        "x": "0.05–0.10 是輕度影響判斷；0.20 是明顯失調嗜睡"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54120,7 +54510,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**營養不良高危險群",
+        "t": "**愛喝汽水可樂**本身不是營養不良高危險群特徵",
+        "x": "敗血症高分解、老年人、長期酗酒都是高危險"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54645,7 +55040,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "跌倒的內在危險因子、**不屬於**的",
+        "t": "內在因子是**本身的疾病與功能**（認知、巴金森、關節炎）；**年紀 >65** 是背景，不歸在本題的內在疾病因子",
+        "x": "認知障礙、巴金森、膝關節炎都是內在因子"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54686,7 +55086,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "憂鬱症、選**正確**的",
+        "t": "治療除藥物外還有**認知行為治療**等非藥物",
+        "x": "憂鬱症**會**復發；老年自殺率**高**要篩檢；藥物**可以**在穩定後逐步停"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54760,7 +55165,12 @@
       "guideline": null,
       "concepts": [
         "predictive-values"
-      ]
+      ],
+      "approach": {
+        "k": "盛行率低的社區篩檢、假陽性較低",
+        "t": "低盛行率要**特異度高** → B：特異度 850/900≈94%",
+        "x": "A 特異度 550/600≈92% 但假陽性比例較高；C、D 盛行率不低或特異度低"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54801,7 +55211,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "醫病出現**鏡像姿勢**",
+        "t": "代表**已建立適當關係**（rapport）",
+        "x": "不是敵對、從屬，也不是剛開始"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54842,7 +55257,12 @@
       "guideline": "USPSTF：育齡女性 IPV 篩檢 B 級；老人與弱勢成人虐待篩檢為 I statement（證據不足）",
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "暴力零容忍、選**最不適當**的",
+        "t": "USPSTF 對**老人虐待**篩檢是**證據不足（I 級）**，不是建議篩檢",
+        "x": "育齡婦女 IPV 篩檢、113 諮詢通報、110 報警，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -55056,7 +55476,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "高齡躁動處置、選**最不適當**的",
+        "t": "老人**更容易**有精神藥物副作用",
+        "x": "先治原有疾病、從最低劑量開始、非藥物治療重要，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -55138,7 +55563,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "天然災害傷害、選**最不適當**的",
+        "t": "颱風的傷亡在**復原期**（清理、淹水、觸電、CO 中毒）也很多，不是急性期較多",
+        "x": "急性期多墜落物與車禍、地震死亡多在震後 3 小時、復原期環境衛生與傳染病，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -58826,7 +59256,12 @@
       "guideline": null,
       "concepts": [
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腰椎狹窄與滑脫、選**最適當**的",
+        "t": "先保守；症狀惡化、神經加劇或**小便困難**要手術",
+        "x": "典型是**神經性跛行**（不是長期嚴重腰痛）；**彎腰**才緩解、後仰加重；L5 峽部斷裂造成 **L5–S1** 滑脫"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -58867,7 +59302,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "Jefferson fracture、選**正確**的",
+        "t": "合併**橫韌帶**斷裂 → C1–C2 不穩定",
+        "x": "機轉是**軸向壓力**；多數**沒有**嚴重神經損傷（椎管變寬）；**CT** 就能診斷"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -60746,7 +61186,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "良性骨腫瘤、選**最適當**的",
+        "t": "**多發性外生骨疣**是體染色體**顯性**遺傳（EXT1/2）",
+        "x": "最常見良性骨腫瘤是骨軟骨瘤；多發內生軟骨瘤是 **Ollier**（加血管瘤才是 Maffucci）；軟骨黏液纖維瘤在**幹骺端**"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -60869,7 +61314,12 @@
       "C": "本項應選：髕腱斷裂讓髕骨被股四頭肌向上拉。應見 patella alta，不是 patella baja。",
       "D": "本項不選：修補後可用保護性固定增強修補，重點是避免過早拉扯伸膝機轉。",
       "summary": "patellar tendon rupture = 伸膝失效 + patella alta；patella baja 要想股四頭肌腱。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "髕骨肌腱斷裂、選**最不適當**的",
+        "t": "髕骨肌腱斷裂 → 髕骨被股四頭肌往上拉 → **高位髕骨（patella alta）**",
+        "x": "多 <40 歲、無法主動伸膝、修補後用鋼絲保護，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -60902,7 +61352,12 @@
       "C": "本項不選：股骨縮短是較大肢長差的矯正手術，對此程度差距過度治療。",
       "D": "本項不選：骨延長侵入性高、併發症多，保留給嚴重短肢或無法補償的個案。",
       "summary": "預估肢長差只有幾公分，先用 shoe lift；生長板手術與延長術留給更大差距。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "7 歲股骨頭缺血壞死、預估長短腳 1.5–3.5 cm",
+        "t": "差距小 → **墊高鞋**",
+        "x": "生長板抑制、股骨縮短、骨延長是較大差距時的手段"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -60986,7 +61441,12 @@
       "C": "本項不選：退化性盤痛常在坐姿與屈曲時因盤內壓升高而加重。並可轉移到臀部或腹股溝。",
       "D": "本項不選：需手術的退化性盤病變結果較不穩定，有不穩定時常合併融合。",
       "summary": "MRI 看得到退化不等於它就是痛源；影像必須和症狀、理學檢查對上。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "椎間盤退化、選**最不適當**的",
+        "t": "MRI 看到退化**不等於**它就是痛源；多數退化**沒有**症狀",
+        "x": "脫水高度降低、屈曲坐姿加重、治療效果較差常合併融合，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61024,7 +61484,12 @@
       "C": "本項應選：titanium 適合骨整合的柄與杯殼。卻不耐作高磨耗的人工髖股骨頭表面。",
       "D": "本項不選：鈷鉻鉬合金耐磨且強度高，可作金屬關節面的磨耗組合。",
       "summary": "人工髖材料分工：titanium 適合柄／殼，CoCr 或陶瓷較適合磨耗表面。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "人工關節材質、選**最不適當**的",
+        "t": "**鈦合金**耐磨性差，不適合做股骨頭（磨耗面）；適合做柄與殼",
+        "x": "鋯合金、超高分子量聚乙烯、鈷鉻鉬合金都可用"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61428,7 +61893,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲車禍、左髖腫痛、X 光與 CT 見股骨頭往後脫位合併髖臼骨折",
+        "t": "**後側髖關節骨折脫位**（最常見，膝撞儀表板）",
+        "x": "前脫位少見；異位骨化是後遺症；缺血壞死是晚期併發症"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -67708,7 +68178,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "OCEAN 五因素人格、選**錯誤**的",
+        "t": "OCEAN 的 E 是 **Extraversion（外向性）**，不是效能性",
+        "x": "開放性、盡責性、親和性的描述正確"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67749,7 +68224,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "老人虐待、選**最正確**的",
+        "t": "**藥物順從性不佳**也可能是虐待或忽略的徵候",
+        "x": "發生率不低應警覺；範圍還包括經濟、性、忽略；下肢水腫不是典型虐待徵候"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67790,7 +68270,12 @@
       "guideline": "USPSTF：青少年脊椎側彎篩檢 I statement；肥胖篩檢 B；菸品 A",
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "18 歲健康大一男生、**最不需要**的篩檢",
+        "t": "USPSTF 對青少年**脊椎側彎**篩檢是 **I 級**（證據不足）",
+        "x": "肥胖、性病、菸品預防都是建議項目"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67831,7 +68316,12 @@
       "guideline": "WHO 國際衛生條例（2016 起黃熱病接種證明終身有效）",
       "concepts": [
         "live-vaccine-spacing"
-      ]
+      ],
+      "approach": {
+        "k": "旅遊疫苗、選**最正確**的",
+        "t": "黃熱病疫苗原則上**終身有效**，但部分國家仍要求 10 年內追加證明",
+        "x": "A 肝、B 肝疫苗一劑不夠；麥加朝聖的腦膜炎疫苗（四價結合型）效期依國家規定，不是一律 10 年"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67872,7 +68362,12 @@
       "guideline": null,
       "concepts": [
         "predictive-values"
-      ]
+      ],
+      "approach": {
+        "k": "敏感度、特異度、PPV、NPV 定義、選**正確**的",
+        "t": "敏感度＝**有病者**中檢驗陽性的比率",
+        "x": "特異度是**沒病者**中陰性的比率；PPV 是陽性中**真的有病**；NPV 是陰性中**真的沒病**"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67913,7 +68408,12 @@
       "guideline": null,
       "concepts": [
         "motivational-interviewing-rule"
-      ]
+      ],
+      "approach": {
+        "k": "動機式晤談、選**正確**的",
+        "t": "須運用**同理心與主動傾聽**",
+        "x": "最早用在**酒癮**；是**以病人為中心**不是醫師主導；目標由**病人**決定"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67954,7 +68454,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "Medicare 與 Starfield 研究、選**最不恰當**的",
+        "t": "**專科醫師**比例越高，照護品質**沒有**越高，花費反而越高",
+        "x": "全科醫師比例高品質高花費低、基層醫療充足心臟病中風減少、低出生體重減少，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67995,7 +68500,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "末期病人呼吸困難、**最不適當**的方法",
+        "t": "**鎮定**是難治症狀的最後手段，不是常規先用",
+        "x": "氧氣（低血氧時）、低劑量嗎啡、支氣管擴張劑（有阻塞時）都是常用方法"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -68130,7 +68640,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "熱衰竭**不會**出現的症狀",
+        "t": "出現**意識混亂**就是**熱中暑**（中樞神經受影響）",
+        "x": "心跳加速、肌肉抽筋、姿勢性低血壓都是熱衰竭表現"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -71859,7 +72374,12 @@
       "guideline": null,
       "concepts": [
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性腰椎椎間盤突出、選**最不適當**的",
+        "t": "疼痛被**麻木取代**不代表好轉，可能是神經壓迫**加重**",
+        "x": "多在 L4–5、L5–S1；長期彎腰負重；以神經根痛為主，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -71900,7 +72420,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "Denis 三柱、**中柱**的組成",
+        "t": "中柱＝**椎體後半部**、後半纖維環、**後縱韌帶**",
+        "x": "椎體全部包括前柱；椎莖與小面關節屬**後柱**"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -73780,7 +74305,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "圓形細胞瘤、選**最不適當**的",
+        "t": "Ewing 肉瘤的染色體易位是 **t(11;22)**（EWSR1-FLI1），不是 t(21;22)",
+        "x": "Ewing 對放療敏感、單發骨淋巴瘤預後較好、化療提高淋巴瘤存活，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -73862,7 +74392,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "拇指掌骨基底**粉碎性**關節內骨折",
+        "t": "**Rolando fracture**",
+        "x": "Bennett 是**單一**骨折塊；Jones 是第五蹠骨；boxer's 是第五掌骨頸"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -73903,7 +74438,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "籃球著地後膝**卡住**、無法伸直彎曲、X 光無骨折",
+        "t": "**半月板破裂**（bucket-handle 卡住關節）",
+        "x": "內側副韌帶與 ACL 不會「卡住」；髕骨肌腱斷裂是無法主動伸膝"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -73944,7 +74484,12 @@
       "guideline": null,
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "**最容易** Salter-Harris II 的兒童骨折",
+        "t": "**近端肱骨**骨折",
+        "x": "鎖骨骨折多在骨幹；髁上骨折不經生長板；外髁骨折是 Salter-Harris **IV**"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -73987,7 +74532,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "手撐地一個月、腕痛、壓痛在鼻煙窩",
+        "t": "**舟狀骨**骨折（初次 X 光可陰性）",
+        "x": "豆狀骨與鉤骨在尺側；月狀骨在中央"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74025,7 +74575,12 @@
       "C": "本項不選：退化性腰椎狹窄最常在 L4–5，因活動度與退化負荷都高。",
       "D": "本項不選：進行性神經缺損表示壓迫正在傷害神經，減壓手術較有適應症。",
       "summary": "最常見的是退化性 L4–5 stenosis，不是先天性；神經惡化才提高減壓必要性。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "脊椎狹窄、選**最不適當**的",
+        "t": "最常見的是**退化性**狹窄，不是先天性",
+        "x": "可在中央、側隱窩、神經孔；最常見 L4–5；進行性神經缺損手術效果好，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74063,7 +74618,12 @@
       "C": "本項不選：關節液 WBC >3,000 cells/μL 支持慢性 PJI，但仍要整合培養與臨床。",
       "D": "本項應選：PJI 可依急慢性與植體穩定度選 DAIR、一期或二期置換；不是每人必須拔除。",
       "summary": "PJI 看到 sinus tract 高度可信；但治療不是一律拔關節，要分急慢性與植體穩定度。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "人工關節感染、選**最不適當**的",
+        "t": "**不一定**要拔除；急性感染且植體穩定可清創保留（DAIR）",
+        "x": "竇道通關節高度懷疑、CRP 可不升、WBC >3000 仍需綜合判斷，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74423,7 +74983,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "跌倒後手肘劇痛、側面 X 光",
+        "t": "可見 **fat-pad sign** → **關節積液**（隱匿骨折）",
+        "x": "影像上沒有明顯肱骨或橈骨骨折線；生長板與本題無關"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -77993,7 +78558,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "量表與評估對象配對、**最不恰當**",
+        "t": "**BODE index** 是 **COPD** 預後指數，不是壓傷",
+        "x": "APACHE II–ICU、IPI–淋巴瘤、TIMI–NSTE-ACS，三組正確"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78029,7 +78599,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "承上、幾種量表把**年齡**納入",
+        "t": "APACHE II、IPI、TIMI 有年齡；**BODE 沒有** → **3 種**",
+        "x": "1、2、4 種都算錯"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78790,7 +79365,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "**最不需要**加強篩檢 B 肝",
+        "t": "**女女性行為者**不是 B 肝的特定高風險族群",
+        "x": "孕婦（母嬰傳染）、C 肝患者（共感染）、用免疫抑制劑者（再活化）都需要篩"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80662,7 +81242,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "LEARN 模式、選**正確**的",
+        "t": "**R＝Recommend**：給予治療建議",
+        "x": "L 是 **Listen**；E 是 **Explain**；A 是 **Acknowledge**"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80703,7 +81288,12 @@
       "guideline": "衛福部長照 2.0：全台 22 縣市均設失智共同照護中心",
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "失智症、選**正確**的",
+        "t": "全台各縣市都有**失智共同照護中心**",
+        "x": "最常見是**阿茲海默**；最常見可逆原因不是焦慮（常列憂鬱、藥物、甲低、B12）；血管性失智也可用乙醯膽鹼酯酶抑制劑，不是只控危險因子"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80744,7 +81334,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲、左臉麻左身痛兩年、檢查都正常、**先生兩年前過世**、怕中風拖累子女",
+        "t": "身體化症狀背後有喪偶與家庭議題 → **家庭功能評估**",
+        "x": "PET、再轉神經科都是重複檢查；直接轉精神科跳過家庭評估"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80780,7 +81375,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "三段五級、選**正確**的",
+        "t": "高血壓病人服藥**減少併發症**＝**三段預防**",
+        "x": "早期發現早期治療是**次段**；打疫苗是**初段**；衛生教育是**初段**"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80821,7 +81421,12 @@
       "guideline": "衛福部減重藥物使用規範：BMI ≥27 合併併發症，或 BMI ≥30",
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "BMI 33.2、主動來體重管理門診",
+        "t": "BMI **≥30**（或 ≥27 加共病）符合減重藥物使用規範",
+        "x": "主動來門診已在**準備期**以上；要先評估再做 CBT；TTM 在體重管理的**長期**效果未證實"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80857,7 +81462,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "Hand-on-the-Doorknob Syndrome",
+        "t": "病人害怕被拒絕又想問 → 離開前才提出真正擔心的事",
+        "x": "不是醫師不想處理；不是病人想逃避；不是身體化要檢查"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80942,7 +81552,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "末期病人疼痛控制、選**錯誤**的",
+        "t": "末期止痛能**口服**就口服；針劑不是首選",
+        "x": "全人評估、本體痛對嗎啡反應好、骨轉移痛 NSAID 有效，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81065,7 +81680,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "50 kg、一度 30%、二度 20%、三度 5%、前 8 小時 LR",
+        "t": "Parkland 只算**二、三度**：4×50×25＝5000，前 8 小時一半＝**2500 mL**",
+        "x": "把一度算進去就會算出 5500 等錯誤答案"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81140,7 +81760,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "末期緩和治療、選**最不適當**的",
+        "t": "呼吸困難用嗎啡是**低劑量**起始（約止痛劑量的一半或更低），不是雙倍",
+        "x": "嗎啡止痛首選注意呼吸抑制、類固醇改善腸阻塞或顱壓嘔吐、dopamine 拮抗劑止吐，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -85020,7 +85645,12 @@
       "C": "本項不選：四條不是標準 Gilula arcs 的數目。",
       "D": "本項不選：五條也不是此腕骨對線系統的定義。",
       "summary": "手腕 AP 片畫三條 Gilula arcs；弧線斷掉就別漏掉 carpal instability。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Gilula's arcs 共幾條",
+        "t": "手腕 AP 片的 Gilula 弧線共 **3 條**",
+        "x": "2、4、5 都不對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -86744,7 +87374,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "骨腫瘤、選**最適當**的",
+        "t": "**軟骨母細胞瘤**好發青少年長骨**骨骺**",
+        "x": "多發內生軟骨瘤**加血管瘤**是 Maffucci（Ollier 沒有）；骨巨細胞瘤**復發率高**；單純骨囊腫好發**兒童近端肱骨**"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -86782,7 +87417,12 @@
       "C": "本項不選：無特殊污染時預防性抗生素通常於手術結束後 24 小時內停用。不應常規延長 72 小時。",
       "D": "本項不選：vancomycin 或 clindamycin 用於特定過敏或 MRSA 風險，不能無差別常規使用。",
       "summary": "預防性抗生素的重點是切皮前時機與對的藥，不是把抗生素拖到術後三天。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "人工關節手術感染預防、選**最適當**的",
+        "t": "**適當選擇**預防性抗生素（多為 cefazolin）",
+        "x": "要在切皮前 **60 分鐘內**給；術後 **24 小時內**停；vancomycin 或 clindamycin 不是常規"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -86823,7 +87463,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "單純肘關節脫臼、選**最不適當**的",
+        "t": "復位後穩定應**早期活動**；固定超過 2–3 週會僵硬",
+        "x": "復位後多穩定少再脫、前脫位比後脫位少、不穩定可手術，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -86864,7 +87509,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲、肱骨近端骨折含頸部與大小結節移位 >1 cm",
+        "t": "年輕人四部分骨折 → **開放性復位內固定**保留自己的關節",
+        "x": "半肩或全肩置換用在骨質差的老人；閉鎖復位經皮固定難以處理四部分移位"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -86902,7 +87552,12 @@
       "C": "本項應選。方向寫反了。膝關節伸直時後外側束是繃緊的，屈曲時才鬆弛；前內側束則相反，屈曲時繃緊。這也是為什麼 Lachman 測驗要在屈曲 20 到 30 度做——那個角度前內側束最緊，最容易測出鬆弛。",
       "D": "本項敘述正確。兩束的命名依據是它們在脛骨的附著位置，分成前內側束與後外側束。",
       "summary": "前十字韌帶兩束互補：伸直時後外側束緊、屈曲時前內側束緊，所以 Lachman 要在屈曲 20–30 度測。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ACL、選**最不適當**的",
+        "t": "膝**伸直**時**後外側束**是**緊繃**的（屈曲時前內側束緊）",
+        "x": "防止脛骨前移、screw-home 引導外旋、分前內與後外束，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -86985,7 +87640,12 @@
       "concepts": [
         "lower-limb-root-localization",
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "L5 峽部斷裂、L5/S1 滑脫、壓迫的神經根",
+        "t": "峽部型滑脫壓迫**出口神經根**＝**L5**",
+        "x": "S1 是走行根（椎間盤突出時才壓）；L3、L4 不在此節段"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87023,7 +87683,12 @@
       "C": "本項不選。典型是後髮際線「低」而不是高，這也是外觀上三聯徵之一。",
       "D": "本項不選。典型三聯徵是脖子短、後髮際線低、頸部活動受限，脖子是短不是長。",
       "summary": "頸椎融合症候群三聯徵：短頸、低後髮際線、頸部活動受限；診斷後一定要查腎臟與聽力。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Klippel-Feil syndrome、選**最適當**的",
+        "t": "受孕後 **3–8 週**頸椎**分節失敗**",
+        "x": "**常**合併泌尿、聽力、心肺異常；後髮際線**低**；頸部**短**"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87456,7 +88121,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "14 歲、右肩痠痛半年、X 光肱骨近端病灶",
+        "t": "青少年、長骨幹骺端、造骨加骨膜反應 → **骨肉瘤**",
+        "x": "骨轉移與軟骨肉瘤好發中老年；淋巴瘤較少見"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -93662,7 +94332,12 @@
       "guideline": null,
       "concepts": [
         "clinical-communication-cross-cultural"
-      ]
+      ],
+      "approach": {
+        "k": "LEARN model、選**錯誤**的",
+        "t": "LEARN 的 R 是 **Recommend**，不是 Reward",
+        "x": "Listen、Explain、Negotiate 都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93703,7 +94378,12 @@
       "guideline": null,
       "concepts": [
         "comprehensive-geriatric-assessment"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲獨居、8 種藥服法複雜、常忘吃、夜尿跌倒骨折",
+        "t": "多重問題 → **周全性老年評估**（藥物整合、跌倒、功能）",
+        "x": "只叮嚀按醫囑吃不解決問題；直接住護理之家太快；放導尿管增加感染"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93744,7 +94424,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "兩種降壓藥後 100/60 頭暈、女兒剛過世、情緒低落失眠，**最不適當**",
+        "t": "已經**過度降壓**且頭暈易跌倒 → **不能**照原劑量繼續",
+        "x": "減藥並記錄血壓、評估家庭、悲傷撫慰都適當"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93821,7 +94506,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "支持情緒、辨識負面想法觸發因素、設定學習降低不良行為的目標",
+        "t": "**認知行為治療**（想法—情緒—行為）",
+        "x": "動機式晤談是引出改變動機；焦點解決是找例外；家庭心理教育是衛教"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93857,7 +94547,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "醫師持續自我反思避免倦怠、維持熱誠",
+        "t": "OHE 的**內在環境**（inner personal）",
+        "x": "人際、行為、外在環境都不是自我反思"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93898,7 +94593,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲、累、睡不好、覺得沒用、GDS 9/15",
+        "t": "GDS ≥5 疑似憂鬱 → **進一步確認診斷**並評估安全",
+        "x": "只給安眠藥不對；不處理會延誤；轉社福不是第一步"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93939,7 +94639,12 @@
       "guideline": "病人自主權利法",
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "台灣預立醫囑（Advance Directive）的法源",
+        "t": "**病人自主權利法**",
+        "x": "安寧緩和醫療條例是 DNR 與安寧意願；民法與醫療法不是"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94063,7 +94768,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "老人受傷生理變化、選**錯誤**的",
+        "t": "傳導系統老化**不一定**讓心跳變慢；重點是對壓力的**心跳反應變差**（β 受體敏感度降）",
+        "x": "心肌收縮力下降、呼吸肌無力、腎功能下降易脫水，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -99726,7 +100436,12 @@
       "C": "本項應選，官方公告 C、D、CD 都給分。乳癌轉移以溶骨性病灶為主，X 光上是被蛀空的透亮區，容易造成病理性骨折與高血鈣。",
       "D": "本項也應選，官方同樣給分。攝護腺癌是典型的成骨性轉移，影像上病灶偏白，血中鹼性磷酸酶會上升。",
       "summary": "骨轉移記三件事：脊椎最常見、乳癌溶骨、攝護腺成骨；來源前五名是乳、攝、肺、腎、甲狀腺。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "轉移性骨癌、選**最適當**的（官方 C、D 都給分）",
+        "t": "**乳癌**多溶骨性、**攝護腺癌**多成骨性",
+        "x": "常見來源是乳、攝護腺、肺、腎、甲狀腺（不是大腸或子宮頸）；最常侵犯**脊椎**"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -99806,7 +100521,12 @@
       "C": "本項應選。脈搏摸得到不能排除血管損傷。內膜撕裂初期還有血流通過，脈搏正常，但幾小時後血栓形成就整條塞住。正確做法是量踝肱指數，小於 0.9 就安排電腦斷層血管攝影；缺血超過八小時截肢率大幅上升。",
       "D": "本項敘述正確。前十字韌帶、內側副韌帶與內側半月板同時受傷就是不幸三聯徵，膝關節受到外翻加旋轉的力量時容易發生。",
       "summary": "膝關節脫臼是血管急症：脈搏正常也要量踝肱指數，內膜撕裂會晚幾小時才塞住。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "膝關節脫臼後自行復位、選**最不適當**的",
+        "t": "足背與脛後動脈**摸得到**也**不能**排除血管傷（內膜撕裂可延遲阻塞）→ 要量 ABI",
+        "x": "安排 MRI 看韌帶半月板、注意血管傷、可能 unhappy triad，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -99839,7 +100559,12 @@
       "C": "本項不選。蠕變是固定負荷下長度持續增加，應力鬆弛是固定長度下張力逐漸下降，兩者都是黏彈性的表現。",
       "D": "本項不選。黏彈性材料的力學表現與受力速度有關，拉得快時看起來比較硬、比較容易斷，這也是高速創傷傷得比較重的原因之一。",
       "summary": "黏彈性三特徵：蠕變、應力鬆弛、受力速率相關；能完全彈回原形的是純彈性材料。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "生物組織黏彈性、選**最不適當**的",
+        "t": "完全回到原形是**純彈性**材料；黏彈性組織會有蠕變與應力鬆弛",
+        "x": "伸展運動利用此原理、有蠕變與應力鬆弛、與受力速率相關，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -99880,7 +100605,12 @@
       "guideline": null,
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "一側皮質骨斷、另一側塑形變形",
+        "t": "**青枝骨折**（greenstick）",
+        "x": "torus 是壓扁隆起；螺旋與橫向骨折是完全斷裂"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -99964,7 +100694,12 @@
       "C": "本項敘述正確。椎體形成的時間與心臟、腎臟、神經管相同，所以要做心臟超音波、腎臟超音波與脊髓磁振造影。",
       "D": "本項敘述正確。十歲以下只做後側融合時，前側椎體仍持續生長，脊椎會像曲軸一樣扭轉變形，這就是曲軸現象。",
       "summary": "先天性側彎的治療只有觀察與手術兩條路，背架無效；十歲以下單做後側融合要當心曲軸現象。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "先天性脊椎側彎、選**最不適當**的",
+        "t": "先天性側彎是骨性異常、**背架無效**",
+        "x": "形成或分節失敗、合併心腎顱內缺陷、<10 歲單做後側融合會曲軸現象，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100002,7 +100737,12 @@
       "C": "本項不選。肱骨頭的血流同樣是逆行供應，四部分骨折後壞死率高。",
       "D": "本項應選。跟骨的血流供應豐富且來自多個方向，即使骨折後也很少發生缺血性壞死。骨壞死好發的部位有個共同點：血流是「單向逆行」進入，只要那條路斷了就沒有備援。",
       "summary": "骨壞死好發處都是逆行單一血流：股骨頭、舟狀骨近端、肱骨頭、距骨；跟骨血流多，反而安全。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "骨壞死**最不常見**的部位",
+        "t": "**跟骨**血流豐富，不易壞死",
+        "x": "舟狀骨、股骨頭、肱骨頭都是逆行或單一血流，好發壞死"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100454,7 +101194,12 @@
       "concepts": [
         "arthritis-ra-oa-gout-cppd",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "57 歲女性雙手多關節腫痛、X 光",
+        "t": "對稱侵犯**掌指與近端指間**、骨侵蝕、骨質疏鬆 → **類風濕性關節炎**",
+        "x": "痛風有打孔狀侵蝕與痛風石；OA 是遠端指間與骨刺；化膿性是單關節"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100577,7 +101322,12 @@
       "guideline": null,
       "concepts": [
         "acute-compartment-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**筋膜切開術的適應症",
+        "t": "手術門檻是**舒張壓**與腔室壓差 **<30**；「與**收縮壓**差 >30」不是適應症",
+        "x": "摸不到脈搏、6 小時內壓力 >30、壞死肌肉清創都是適應症"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -106420,7 +107170,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "BPS 模式看代謝症候群、選**最適當**的",
+        "t": "**精神疾病**（含抗精神病藥）較易有代謝症候群",
+        "x": "與**基因**相關；社經地位**低者較易**；胎兒營養不良低出生體重者**較易**"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106457,7 +107212,12 @@
       "concepts": [
         "cognitive-impairment-delirium-dementia",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄、選**最適當**的",
+        "t": "評估工具可用 **CAM**",
+        "x": "譫妄是**急性**；病因**多重複雜**；精神症狀藥物**不能**治療潛在疾病"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106493,7 +107253,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "不健康行為與家庭、選**錯誤**的",
+        "t": "「父母兄長抽菸、青少年抽菸機會增加**兩倍**」數字說得太絕對（研究數據不一）",
+        "x": "行為養成與家庭有關、WHO 強調家庭、外食仍受家人影響，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106529,7 +107294,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "篩檢組死亡 4/1000、未篩檢組 8/1000，NNS",
+        "t": "ARR＝8/1000−4/1000＝4/1000 → NNS＝1/ARR＝**250**",
+        "x": "4 是死亡人數；125 是 1/0.008；500 是 1/0.002"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106565,7 +107335,12 @@
       "guideline": "USPSTF：女性 ≥65 歲篩檢 B 級；<65 歲停經女性依風險工具；男性為 I statement",
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "USPSTF 骨鬆篩檢、選**最適當**的",
+        "t": "**65 歲以上女性**建議篩檢（B 級）",
+        "x": "<65 停經女性依風險評估；男性證據不足；50 歲以下高風險者也可能要篩"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106601,7 +107376,12 @@
       "guideline": null,
       "concepts": [
         "motivational-interviewing-rule"
-      ]
+      ],
+      "approach": {
+        "k": "動機性晤談指導原則、選**最不適當**的",
+        "t": "RULE 的 U 是 **Understand** 病人的動機，不是醫師替病人規劃動機",
+        "x": "Resist、Listen、Empower 都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -110307,7 +111087,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "Hangman's fracture、選**正確**的",
+        "t": "椎管變寬 → **很少**神經損傷，穩定型可外固定",
+        "x": "機轉是**過伸**加軸向力，不是扭轉；是雙側**椎弓根/峽部**骨折，不是小面關節；嚴重時是 **C2–C3** 脫位"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -110376,7 +111161,12 @@
       "C": "本項應選。守獵人拇指傷的是「尺側」副韌帶，不是橈側。機轉是拇指被強力外展，典型情境是滑雪時雪杖把拇指往外扳，所以也叫滑雪者拇指。若韌帶斷端被內收肌腱膜卡住形成 Stener 病灶，就必須手術。",
       "D": "本項敘述正確。扳機指是屈指肌腱在 A1 滑車處的狹窄性腱鞘炎，手指彎下去後要用力才能彈開。",
       "summary": "天鵝頸與鈕扣狀方向相反；守獵人拇指傷的是尺側副韌帶，卡住的 Stener 病灶要開刀。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "手指外觀異常、選**錯誤**的",
+        "t": "守獵人拇指傷的是掌指關節**尺側**副韌帶",
+        "x": "天鵝頸、鈕扣狀、扳機指的描述都正確"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -111998,7 +112788,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "良性骨腫瘤、選**最不適當**的",
+        "t": "骨巨細胞瘤肺轉移只約 **2–5%**（復發者較高但遠非 80%）",
+        "x": "單純骨囊腫半數在近端肱骨有落葉徵、骨巨細胞瘤與 RANKL 有關、許多腫瘤有巨細胞，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -112034,7 +112829,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "**內翻加蹠屈**扭傷、選**最不適當**的",
+        "t": "內翻傷的是**外側**；三角韌帶在**內側**，是**外翻**時才撕除",
+        "x": "前距腓韌帶最常受傷、可雙踝或三踝骨折、可傷脛腓聯合，三句都可能"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -112111,7 +112911,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "**最不容易**導致髕骨脫臼的",
+        "t": "**Q 角大**才易脫臼；**Q 角小**不會",
+        "x": "高位髕骨、膝反屈、髕骨活動度過大都是危險因子"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -112144,7 +112949,12 @@
       "C": "本項不選。Osgood-Schlatter 病是脛骨粗隆的牽引性骨骺炎，痛在膝蓋下方而不是髖部。",
       "D": "本項不選。Blount 病造成的是脛骨近端內翻變形，表現為 O 型腿，不是髖關節症狀。",
       "summary": "肥胖青春期前後＋髖或膝痛＋跛行＝先照蛙腿位排除股骨頭骨骺滑脫；它常兩側都來。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "11 歲、80 公斤、雙側髖痛僵硬、跛行、無法翹腳",
+        "t": "肥胖青春期前、雙側髖痛 → **股骨頭骨骺滑脫（SCFE）**",
+        "x": "DDH 在嬰兒；Osgood-Schlatter 是脛骨粗隆痛；Blount 是脛骨內翻"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -112177,7 +112987,12 @@
       "C": "本項應選。屈指深肌的肌腹在前臂，只是肌腱延伸到手指，屬於外在肌。掌內肌與外在肌的分界就看肌腹在哪裡：在手裡的是內在肌，在前臂的是外在肌。這個分界在神經損傷定位時很有用——尺神經在腕部受傷只影響掌內肌，屈指力量仍在。",
       "D": "本項不選。小魚際肌群完全位於手掌內，由尺神經支配。",
       "summary": "分內外在肌看肌腹在哪：手裡的是內在肌（骨間肌、蚓狀肌、大小魚際），前臂的是外在肌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**手部內在肌",
+        "t": "**屈指深肌**的肌腹在**前臂** → 外在肌",
+        "x": "背側骨間肌、蚓狀肌、小魚際肌都是內在肌"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -112251,7 +113066,12 @@
       "C": "本項不選。聚合反應是放熱反應，局部溫度可以上升到攝氏 70 度以上，這也是可能造成骨壞死的原因之一。",
       "D": "正確。骨水泥植入症候群是灌注當下最危險的併發症：未反應的單體進入血流造成血管擴張，加上髓腔壓力把脂肪與骨髓成分擠進靜脈形成栓塞，病人會突然低血壓、低血氧甚至心跳停止。灌注前要先充分沖洗髓腔並通知麻醉科。",
       "summary": "骨水泥是灌漿不是黏膠，聚合會放熱；最怕的是灌注瞬間的骨水泥植入症候群。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "骨水泥、選**最適當**的",
+        "t": "併發症：**骨水泥植入症候群**（monomer 或栓塞）→ 嚴重時休克心跳停止",
+        "x": "骨水泥是**灌漿**填充不是黏膠；液劑是 **monomer**；聚合是**放熱**反應"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -112621,7 +113441,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "13 歲脛骨骨肉瘤、箭頭所指",
+        "t": "**骨膜反應**（Codman 三角或日光放射狀）",
+        "x": "不是游離體、軟組織鈣化或骨折"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -115816,7 +116641,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "厭食症**最不常**有的表現",
+        "t": "厭食症腸胃蠕動慢 → **便祕**，腹瀉不常見",
+        "x": "低血壓、低血糖、cortisol 增加都常見"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118311,7 +119141,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "緊張性頭痛、BPS 模式、選**錯誤**的",
+        "t": "焦慮憂鬱會**降低**疼痛閾值（更容易痛），不是提升",
+        "x": "與肌肉緊張有關、生活壓力影響頻率、社會支持不足易致病，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118347,7 +119182,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "高齡病人處方原則、選**最適當**的",
+        "t": "任何新症狀都要先考慮是不是**藥物副作用**",
+        "x": "不必強制與社區護理師合作；不是總要選頻次相近的藥；不需每日更新藥單"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118383,7 +119223,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "LGBTQIA+ 青少年、霸凌與自殺風險**最高**",
+        "t": "**跨性別**青少年",
+        "x": "雙性戀、男同志、雙性人風險也高，但跨性別最高"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118419,7 +119264,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "ACSM 運動處方、選**錯誤**的",
+        "t": "中等強度是 RPE（6–20 量表）約 **12–13**；9–11 是輕度",
+        "x": "每週 3–5 次 20–60 分、熱身運動緩和三階段、緩和至少 3–5 分鐘，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118455,7 +119305,12 @@
       "guideline": "USPSTF：葉酸 A 級；維生素 D 預防跌倒、維生素 E、≥60 歲起始 aspirin 初級預防均為 D 級",
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "USPSTF 化學性預防、建議等級**最高**",
+        "t": "準備懷孕婦女葉酸 0.4–0.8 mg（**A 級**）",
+        "x": "老人維生素 D 預防跌倒骨折是 D；維生素 E 預防心血管是 D；60 歲以上 aspirin 初級預防是 D"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118524,7 +119379,12 @@
       "guideline": null,
       "concepts": [
         "evidence-level-hierarchy"
-      ]
+      ],
+      "approach": {
+        "k": "證據層級由高到低",
+        "t": "**統合分析 ＞ 世代研究 ＞ 個案對照 ＞ 個案報告 ＞ 專家意見**",
+        "x": "專家意見放前面或世代研究在統合分析之上都錯"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118561,7 +119421,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "臨終譫妄、**最適當**的處置（官方 A、C 都給分）",
+        "t": "先調整環境（輕柔音樂、宗教唱誦），再用 **benzodiazepine** 鎮靜，目標是舒適",
+        "x": "頻繁翻身會增加躁動；高劑量 olanzapine 不是首選"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118673,7 +119538,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "孕婦復甦、選**最適當**的",
+        "t": "孕婦快速順序插管的**藥物劑量與一般成人相同**",
+        "x": "CPR 時是平躺**徒手推子宮向左**（不是左側躺）；心房顫動避免 amiodarone（胎兒甲狀腺）；靜脈要走**橫膈以上**，不是股靜脈"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118709,7 +119579,12 @@
       "guideline": null,
       "concepts": [
         "start-triage"
-      ]
+      ],
+      "approach": {
+        "k": "地震、START 檢傷順序",
+        "t": "②橈動脈微弱（紅）→ ④小腿變形心跳正常（黃）→ ③可行走（綠）→ ①無脈搏頭部變形（黑）",
+        "x": "無脈搏者排第一或可行走者排在黃之前都錯"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -123920,7 +124795,12 @@
       "C": "本項應選。骨梗塞好發於幹骺端與骨骺，那裡是紅骨髓與末端血流所在；骨幹是皮質骨為主、血流通暢，很少發生。影像上的骨梗塞是蜿蜒如地圖邊緣的硬化線。",
       "D": "本項敘述正確。色素性絨毛結節性滑膜炎最常侵犯膝關節，其次是髖關節，抽出來的關節液呈咖啡色。",
       "summary": "偽腫瘤四大類：棕色腫瘤（副甲亢）、高雪氏病、骨梗塞（在幹骺端）、色素性絨毛結節性滑膜炎（最愛膝）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "偽腫瘤、選**最不適當**的",
+        "t": "骨梗塞常見於長骨**幹骺端**，不是骨幹",
+        "x": "棕色腫瘤因 PTH 增加、Gaucher 是 glucocerebroside 堆積、PVNS 最常在膝，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -123956,7 +124836,12 @@
       "guideline": null,
       "concepts": [
         "gustilo-classification"
-      ]
+      ],
+      "approach": {
+        "k": "骨折、選**最不適當**的",
+        "t": "Gustilo：**嚴重污染**屬 **Grade III**，不是 II",
+        "x": "附近有傷口不一定開放、部分開放骨折可立即髓內釘、合併大血管傷先穩定骨折再修血管，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -123992,7 +124877,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "骨盆骨折相關損傷、選**最不適當**的",
+        "t": "腰薦**神經根**損傷的預後比周邊神經損傷**差**",
+        "x": "不穩定骨折注意神經傷、男性尿道傷較多、尿道口有血先做逆行尿道攝影，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -124028,7 +124918,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "運動員壓力性骨折、選**最不適當**的",
+        "t": "多數壓力性骨折**減量休息**即可；只有高風險部位（股骨頸張力側、舟狀骨、第五蹠骨）才手術",
+        "x": "增加運動量時痛、好發部位列舉、女性運動員三聯症，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -124061,7 +124956,12 @@
       "C": "本項不選。腎臟做不出活性維生素 D，是腎性骨病變的關鍵一環。",
       "D": "本項應選。甲狀腺激素影響的是整體代謝率，與腎性骨病變沒有直接關係。這裡容易看錯字：關鍵的是「副」甲狀腺素，腎性骨病變的主軸正是續發性副甲狀腺功能亢進。",
       "summary": "腎性骨病變四角關係：高血磷→低血鈣→活性維生素 D 不足→續發性副甲狀腺亢進；甲狀腺不在裡面。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "與腎性骨病變相關性**最小**的血液值",
+        "t": "腎性骨病：鈣、磷、維生素 D、PTH；**甲狀腺激素**不在其中",
+        "x": "鈣、磷、維生素 D 都直接相關"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -124094,7 +124994,12 @@
       "C": "本項不選。帶血管的骨移植可以直接重建月狀骨的血流，適用於還沒塌陷的病灶。",
       "D": "本項不選。月狀骨已經塌陷變形時，切除月狀骨並做部分腕關節融合是常用的補救手術。",
       "summary": "Kienböck 病的手術邏輯只有兩條：減少月狀骨受力（橈骨縮短、頭狀骨縮短）或補血流（帶血管骨移植）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "30 歲月狀骨缺血性壞死（Kienböck），**最不適當**",
+        "t": "要減少月狀骨受力 → **橈骨縮短**（negative ulnar variance 時），不是延長",
+        "x": "頭狀骨縮短、帶血管骨移植、月狀骨切除加部分融合都是選項"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -124168,7 +125073,12 @@
       "C": "本項不選。閉孔內肌與閉孔外肌都屬於這一群，負責髖關節外旋。",
       "D": "本項不選。上下孖肌夾著閉孔內肌腱，一起完成外旋動作。",
       "summary": "髖後短外旋肌群由上到下：梨狀肌、上孖肌、閉孔內肌、下孖肌、股方肌——全是小肌肉，沒有股四頭肌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**髖後側短外旋肌群",
+        "t": "短外旋肌：梨狀肌、上下孖肌、閉孔內外肌、股方肌；**股四頭肌**是膝伸肌",
+        "x": "piriformis、obturator、gemellus 都是"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -124536,7 +125446,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "打球摔傷、CT 見脛骨近端**髁間隆突**撕脫骨折",
+        "t": "脛骨棘撕脫＝**前十字韌帶**的骨性損傷",
+        "x": "PCL 撕脫在脛骨後方；MCL 在內側；髕韌帶在脛骨粗隆"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -127699,7 +128614,12 @@
       "guideline": null,
       "concepts": [
         "fried-frailty-phenotype"
-      ]
+      ],
+      "approach": {
+        "k": "衰弱量表、選**錯誤**的（官方 A、C 都給分）",
+        "t": "Fried 是五項中 **≥3 項**才是衰弱（1–2 項是衰弱前期）",
+        "x": "Rockwood 累積缺損多面向、Strawbridge 的定義符合，這兩句對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127773,7 +128693,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "末期肺癌、無法吞藥、原本口服長效嗎啡、仍劇痛",
+        "t": "改**靜脈或皮下**持續給藥，依口服劑量**等效換算**",
+        "x": "改 NSAID 貼片太弱；改口服短效病人吞不了；延後止痛不人道"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130199,7 +131124,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "衰弱與肌少症測量、選**錯誤**的",
+        "t": "肌少症評估：肌肉量（DXA）、肌力（握力）、表現（步速）；**沒有**仰臥起坐",
+        "x": "DXA、握力、步速都是標準測量"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130309,7 +131239,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "高山症預防處置、選**最符合**的",
+        "t": "**acetazolamide** 登山前開始，持續到適應最高海拔",
+        "x": "預防門檻是 **2500 公尺**過夜；sildenafil 不預防頭痛；dexamethasone 只壓症狀**不幫助適應**"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130345,7 +131280,12 @@
       "guideline": null,
       "concepts": [
         "environmental-toxic-emergency-fm"
-      ]
+      ],
+      "approach": {
+        "k": "急性暴力事件後、**最不適當**的處置",
+        "t": "**檢討病人為何沒防範**＝責怪受害者",
+        "x": "還原事件、急性危險評估、建立支持系統，都適當"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130381,7 +131321,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "邊緣性人格障礙、**未被證明**有效的心理治療",
+        "t": "有實證的是 DBT、TFP、MBT；**一般心理動力取向**治療未被證明",
+        "x": "辯證行為、移情焦點、心智化導向都有實證"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130419,7 +131364,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "流程圖：界定社區人口→評估需求→排序→介入→評值",
+        "t": "**社區導向基層醫療（COPC）**",
+        "x": "以人為中心與以疾病為導向是個別病人層次；人工整合不是正式模式"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -133645,7 +134595,12 @@
       "C": "本項敘述正確。長在遠端指間關節的黏液囊腫與該關節的退化性骨刺有關，可能頂壓甲基造成指甲縱溝。",
       "D": "本項應選。A2 滑車不是滑液囊腫的好發位置。長在滑車上、會隨肌腱滑動的小硬塊通常是腱鞘囊腫或扳機指相關病灶，而且扳機指的病灶在 A1 滑車。",
       "summary": "滑液囊腫三個好發位置：手腕背側（舟月韌帶）、腕掌側（橈動脈旁）、遠端指間關節（黏液囊腫）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "滑液囊腫好發位置、選**錯誤**的",
+        "t": "**A2 滑車**不是滑液囊腫好發處（滑車上的小硬塊多是腱鞘囊腫；扳機指在 A1）",
+        "x": "手腕背側（舟月韌帶）、手腕掌側（橈動脈旁）、DIP 的黏液囊腫，三處正確"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -134712,7 +135667,12 @@
       "C": "本項應選。骨頭掃描看的是骨代謝活性，對椎間盤與神經根壓迫完全無能為力。不能做磁振造影時（如裝了節律器），替代方案是電腦斷層脊髓攝影。",
       "D": "本項不選。肌電圖與神經傳導檢查可以區分神經根病變、臂神經叢病變與周邊神經夾擠，在影像與症狀對不起來時特別有用。",
       "summary": "頸椎退化看的是軟組織：首選磁振造影，不能做就用電腦斷層脊髓攝影；骨掃描完全不對題。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "頸椎退化性疾病、選**最不適當**的",
+        "t": "不能做 MRI 時用 **CT 脊髓攝影**，**骨掃描**不能取代",
+        "x": "仔細臨床可診斷、首選 MRI、EMG/NCS 可分臂神經叢與周邊神經，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135725,7 +136685,12 @@
       "guideline": null,
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "骨骼肌肉腫瘤切片、選**最適當**的",
+        "t": "即使臆斷為腫瘤，切片時仍要**同時送細菌培養**",
+        "x": "四肢要**縱向**切口；**不能**穿越腔室間筋膜；不明病理骨折要先分期切片，**不能**先急做髓內釘"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135761,7 +136726,12 @@
       "guideline": null,
       "concepts": [
         "bone-tumors-by-location"
-      ]
+      ],
+      "approach": {
+        "k": "骨肉瘤、選**最不適當**的",
+        "t": "Ollier 與 Maffucci 最常轉成**軟骨肉瘤**，不是骨肉瘤",
+        "x": "術前化療加手術、次發性骨肉瘤預後最差、壞死率評估化療反應，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135794,7 +136764,12 @@
       "C": "本項敘述正確。雙磷酸鹽會被吸附到骨表面，破骨細胞吞下後細胞凋亡，屬於抗骨吸收藥物。",
       "D": "本項應選。副甲狀腺素製劑走的是相反方向：間歇性給藥會刺激成骨細胞造骨，屬於促骨生成藥物。這也是它為什麼用在極高骨折風險或雙磷酸鹽治療失敗的病人身上。要注意持續性高濃度的副甲狀腺素反而促進骨吸收，關鍵在「間歇」兩個字。",
       "summary": "骨鬆藥物分兩類：抗吸收（雙磷酸鹽、denosumab、雌激素）與促生成（副甲狀腺素製劑、romosozumab）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "骨質疏鬆、選**最不適當**的",
+        "t": "**副甲狀腺素製劑**（teriparatide）是**促進造骨**，不是抑制蝕骨細胞",
+        "x": "第一型是停經雌激素缺乏、次發性常因荷爾蒙失調、雙磷酸鹽作用在蝕骨細胞，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135832,7 +136807,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "X 光：尺骨骨折合併橈骨頭脫位",
+        "t": "**Monteggia fracture**",
+        "x": "Galeazzi 是橈骨骨折合併遠端橈尺關節脫位；Colles 是遠端橈骨背側移位；boxer's 是第五掌骨頸"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135904,7 +136884,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "外傷性肩前脫位、選**最不適當**的",
+        "t": "**年輕人**復發率**最高**（<20 歲可達 70–90%），常需手術",
+        "x": "30 歲以下常見、老人常合併旋轉肌袖撕裂、常有 Bankart lesion，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -135978,7 +136963,12 @@
       "C": "本項不選。椎體終板的軟骨內骨化異常確實存在，但基質中蛋白聚醣的含量是增加而不是降低，膠原與蛋白聚醣的比例改變才是結構變弱的原因。",
       "D": "本項不選。這些病人的平均身高通常高於同齡者，骨齡也偏成熟，不是矮小。",
       "summary": "Scheuermann 駝背：三節椎體楔形 ≥5 度、後凸 >45 度、生長期會惡化，三分之一合併側彎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Scheuermann 駝背、選**最適當**的",
+        "t": "約三分之一**合併脊柱側彎**",
+        "x": "後凸 **>45 度**且生長期會**增加**；是軟骨內骨化異常但敘述細節不符；身高通常正常或較高、骨齡不早熟"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -136374,7 +137364,12 @@
       "C": "本項不選。骨肉瘤在四十九歲原發極少見，而且影像會有骨破壞、骨膜反應與軟組織腫塊。",
       "D": "本項不選。嗜伊紅性肉芽腫好發於兒童與青少年，表現為溶骨性病灶，與這位病人的年齡和影像不符。",
       "summary": "髖痛＋酗酒或類固醇＝先想股骨頭壞死；X 光正常不能排除，磁振造影上的界線帶才是關鍵。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "49 歲長期酗酒、左髖痛 3 個月、MRI T1 見股骨頭界線帶",
+        "t": "**股骨頭缺血性壞死**（double-line sign）",
+        "x": "嚴重 OA 有關節腔狹窄骨刺；骨肉瘤與嗜酸性肉芽腫年齡不符"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -136446,7 +137441,12 @@
       "guideline": null,
       "concepts": [
         "acute-compartment-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "腔室症候群治療、選**最不適當**的",
+        "t": "合併橫紋肌溶解時**避免含鉀輸液**；乳酸林格氏液含鉀，不宜大量",
+        "x": "生理食鹽水快速輸注、監測血鉀、監測尿量都適當"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -139478,7 +140478,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "器官系統老化、選**最適當**的（官方 A、C、D 都給分）",
+        "t": "味覺嗅覺退化、左心室功能改變、睪固酮 30 歲後下降",
+        "x": "GFR 每年約降 **1%**（約 1 mL/min），不是 5%"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -141895,7 +142900,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "脾臟切除後、**最沒有**相關的疫苗",
+        "t": "無脾要防**莢膜菌**：肺炎鏈球菌、Hib、腦膜炎雙球菌；**HPV** 與脾切無關",
+        "x": "其他三支都是脾切除後要補的"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142003,7 +143013,12 @@
       "guideline": null,
       "concepts": [
         "geriatric-care-abuse-falls-aging"
-      ]
+      ],
+      "approach": {
+        "k": "老年尿失禁、選**最適當**的",
+        "t": "夜間多尿可能來自**藥物**（利尿劑、β 阻斷劑）或睡前喝太多",
+        "x": "局部雌激素不是第一線；mirabegron 使用前**仍要**確認餘尿；膀胱頸過動造成的是**應力性**尿失禁"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142039,7 +143054,12 @@
       "guideline": null,
       "concepts": [
         "fm-care-models-principles"
-      ]
+      ],
+      "approach": {
+        "k": "病人對家庭醫師的期待、**不是**的",
+        "t": "病人期待**誠實而直接**，不是「間接提醒」",
+        "x": "真誠傾聽、了解我、什麼問題都能幫，都是期待"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142075,7 +143095,12 @@
       "guideline": null,
       "concepts": [
         "uspstf-recommendation-grades"
-      ]
+      ],
+      "approach": {
+        "k": "老人跌倒評估預防、選**最適當**的",
+        "t": "**太極**訓練肌力與平衡，可預防跌倒",
+        "x": "台灣老人跌倒率約 **15–20%**；USPSTF **不建議**常規補維生素 D；多數跌倒是**滑倒或絆倒**"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142149,7 +143174,12 @@
       "guideline": null,
       "concepts": [
         "motivational-interviewing-rule"
-      ]
+      ],
+      "approach": {
+        "k": "對健康行為**最有正面影響**的面談方式",
+        "t": "**動機式晤談**",
+        "x": "父權式、默認式、病人主導式都不如 MI"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142185,7 +143215,12 @@
       "guideline": null,
       "concepts": [
         "sof-frailty-index"
-      ]
+      ],
+      "approach": {
+        "k": "長照 2.0、選**正確**的",
+        "t": "衰弱程度可用 **SOF** 評估",
+        "x": "擬照顧計畫的是 **A 單位**；服務還有**社區式**；給付額度依**失能等級**，收入只影響部分負擔"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142221,7 +143256,12 @@
       "guideline": null,
       "concepts": [
         "prevention-screening-epi-adolescent"
-      ]
+      ],
+      "approach": {
+        "k": "HRT 組 38/10,000、對照組 28/10,000 的 RR",
+        "t": "RR＝38/28≈**1.357**",
+        "x": "0.737 是倒數；1/1000 與 1000 是 ARD 相關數字"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142257,7 +143297,12 @@
       "guideline": null,
       "concepts": [
         "palliative-care-end-of-life-symptoms"
-      ]
+      ],
+      "approach": {
+        "k": "安寧療護、選**錯誤**的",
+        "t": "安寧收案是預期存活**≤6 個月**，不是 12 個月",
+        "x": "多數太晚照會、可回家善終、悲傷撫慰可到 1 年，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -147550,7 +148595,12 @@
       "C": "本項不選。包涵體出現在破骨細胞的細胞核內，不是成骨細胞；這也是推測與副黏液病毒感染有關的依據。",
       "D": "本項不選。佩吉特病好發於五十歲以上，年輕族群罕見。影像上早期是溶骨、後期轉為硬化，混合期則兩者並存。",
       "summary": "高雪氏病＝肝脾腫大＋骨梗塞＋燒瓶樣股骨；佩吉特病是老年人，破骨細胞裡有病毒樣包涵體。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "骨代謝疾病、選**最適當**的",
+        "t": "**Gaucher** 是家族性疾病，肝脾腫大與骨梗塞",
+        "x": "棕色腫瘤要驗 **PTH 與鈣**，不是只靠局部切片；Paget 的包涵體在**蝕骨細胞**；Paget 好發**老年人**"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147588,7 +148638,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "髖關節 AP 片解剖標記、選**最不適當**的",
+        "t": "編號 5 其實是**髖臼前唇**，髖臼頂是更高位置的編號 4 → 選項 C 標錯",
+        "x": "髂恥線（前柱）、髂坐線（後柱）、後唇邊緣的描述正確"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147621,7 +148676,12 @@
       "C": "本項敘述正確。早期或攣縮角度小的病人可以觀察、復健，或考慮膠原蛋白酶注射與經皮針刺筋膜切開。",
       "D": "本項敘述正確。最常侵犯掌指關節與近端指間關節，以第四、第五指最常見。",
       "summary": "掌腱膜攣縮症＝北歐男性、無名指與小指、掌指關節先攣縮；亞洲人反而少見。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Dupuytren contracture、選**最不適當**的",
+        "t": "**歐洲人（北歐）**比亞洲人**多見**",
+        "x": "好發男性、早期保守、常侵犯掌指關節，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147654,7 +148714,12 @@
       "C": "正確。鎖骨是上肢與中軸骨骼之間唯一的骨性連結：內側接胸骨、外側接肩峰。這個設計讓肩膀活動度極大，代價是穩定性差，也是鎖骨骨折高發的原因。",
       "D": "本項不選。肩盂的關節面只有肱骨頭的四分之一到三分之一，像高爾夫球放在球座上，穩定性差正是肩關節容易脫臼的解剖基礎。",
       "summary": "肩關節用穩定度換活動度：肩盂只有肱骨頭的三分之一大，全靠鎖骨這唯一骨性連結掛在中軸骨上。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "盂肱關節解剖、選**最適當**的",
+        "t": "**鎖骨**是上肢與中軸骨骼**唯一的骨性連結**",
+        "x": "盂肱韌帶是關節囊的增厚、界線不明；肩胛胸廓間**不是**真正滑液關節；肩盂面積只有肱骨頭約**三分之一**"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147687,7 +148752,12 @@
       "C": "本項不選。脊柱牽引不能矯正椎體本身的結構異常，也不是這類畸形的標準處置。",
       "D": "正確。單側骨橋加上對側半椎體是所有先天性側彎組合中惡化最快的一種：一側完全不長、另一側多長一塊，每年可惡化五到十度以上。這種情況要早期手術阻止進展，通常是半椎體切除或成長型內固定。",
       "summary": "先天性側彎的惡化排行榜：單側骨橋＋對側半椎體最凶；看到這個組合就要準備早期手術。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "3 歲先天性側彎、**單側骨橋＋對側半椎體**",
+        "t": "惡化最快的組合 → **早期手術**阻止進展",
+        "x": "觀察與背架無效；脊柱牽引不能矯正骨性異常"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147720,7 +148790,12 @@
       "C": "本項不選。重建後要照著漸進式的復健計畫走，早期活動範圍與負重都有限制，尤其合併半月板修補時要限制深屈曲。",
       "D": "正確。同時處理半月板破裂與重建前十字韌帶有兩個好處：半月板保住了才能維持關節穩定與減少日後退化，而穩定的膝關節也讓修補好的半月板不會再被撕開。這兩件事互為條件，所以一起做的癒合率高於單獨修補半月板。",
       "summary": "半月板修補與前十字韌帶重建要一起做——韌帶不穩會撕壞修好的半月板，半月板沒了韌帶也撐不住。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ACL 完全斷裂合併外側半月板破裂、膝無法完全伸直",
+        "t": "**同時**半月板修補與 ACL 重建",
+        "x": "不需延遲 6 個月；ACL 以**重建**為主不是初級修補；重建後要**漸進**復健"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147756,7 +148831,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓休克、選**最不適當**的",
+        "t": "**球海綿體反射**是最早回復的反射，代表脊髓休克結束；不是提睪反射",
+        "x": "要等休克期過才能分完全或不完全、損傷以下反射運動感覺全消、沒有特定治療，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -147789,7 +148869,12 @@
       "C": "正確。新月徵代表軟骨下骨已經發生骨折，股骨頭的結構支撐開始崩解。到了這個階段，藥物與體外震波這類保守療法無法逆轉，該考慮手術。新月徵在正面片上可能看不清楚，蛙腿側位片才容易發現。",
       "D": "本項不選。核心減壓與結構性骨移植是塌陷「前」的治療；已經塌陷的股骨頭做這些手術效果差，該做的是人工關節置換。",
       "summary": "股骨頭壞死的分水嶺是新月徵：出現前保髖（核心減壓），出現後就要往人工關節走。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "股骨頭骨壞死、選**最適當**的",
+        "t": "出現**新月徵**（軟骨下骨折）→ 保守藥物治療已不適合",
+        "x": "病變先在**軟骨下骨**；塌陷**前**以保髖為主、不急著置換；塌陷**後**多需人工關節"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -148117,7 +149202,12 @@
       "C": "正確。後脫臼時肱骨頭卡在肩盂後方，肩膀被鎖在內轉姿勢，病人無法做出外轉動作，這是床邊最好用的線索。它常被漏診，因為正面 X 光看起來還「差不多」，要靠腋位片或電腦斷層才確定；典型情境是癲癇發作、電擊或酒醉後跌倒。",
       "D": "本項不選。多數後脫臼可以在適當鎮靜下閉鎖復位，只有合併大塊骨缺損或無法復位時才需要手術。",
       "summary": "肩後脫臼＝手臂鎖在內轉、無法外轉；癲癇與電擊後要主動想到它，正面片會騙人。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "35 歲跌倒、肩劇痛、CT 見肱骨頭往**後**脫位",
+        "t": "**肩後脫位** → 手臂鎖在內轉、**無法外轉**",
+        "x": "最常見的是**前**脫位；後脫位傷的是**後側**肩盂；多數閉鎖復位即可"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -148303,7 +149393,12 @@
       "C": "本項不選。Thomas 測驗檢查的是髖屈曲攣縮，跟膝韌帶無關。",
       "D": "本項不選。FABER 測驗評估的是髖關節與薦髂關節病變。",
       "summary": "前十字韌帶首選 Lachman：屈曲 20–30 度、敏感度最高；急性期做前抽屜測驗常被疼痛干擾。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "懷疑 ACL 受傷、證實診斷的檢查",
+        "t": "**Lachman test**（屈膝 20–30 度，敏感度最高）",
+        "x": "varus stress 是外側副韌帶；Thomas 是髖屈曲攣縮；FABER 是薦髂與髖"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
