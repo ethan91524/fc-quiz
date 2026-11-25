@@ -150,7 +150,12 @@
       "C": "本項敘述正確。nicotinic acid（niacin）能降三酸甘油脂（TG）、提高 HDL-C。過去可以用在 HDL-C 過低的病人。但它會潮紅、傷肝，又沒有額外的心血管保護效果，現在臨床上已經少用。",
       "D": "本項敘述正確。omega-3 fatty acids 會減少肝臟製造 VLDL-TG，也會加速 TG 被清除。所以它可以用來治療嚴重的高三酸甘油脂血症。",
       "summary": "fibrate 的膽固醇排到膽汁裡增加，反而容易長膽結石，不是拿來防膽結石的藥。",
-      "guideline": "FC 醫學(三)第2冊 p.330"
+      "guideline": "FC 醫學(三)第2冊 p.330",
+      "approach": {
+        "k": "降血脂藥、選**錯誤**的",
+        "t": "fibrate 讓膽固醇更多排到膽汁 → **增加**膽結石",
+        "x": "statin 肌痛、niacin 可升 HDL、omega-3 增加 TG 分解，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2064,7 +2069,12 @@
       "guideline": null,
       "concepts": [
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "庫欣體態、**ACTH 與 cortisol 都很低**",
+        "t": "內生性分泌被壓抑 → 懷疑**外源性類固醇**；先驗 **24 小時尿 cortisol** 確認",
+        "x": "dexamethasone 抑制試驗是篩內生性庫欣；腦部 MRI 與腎上腺 CT 是 ACTH 高或低的內生性定位"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2102,7 +2112,12 @@
       "C": "本項不選。Lugol's solution 是用來抑制甲狀腺素釋放的。主要用在甲狀腺風暴（thyroid storm）或手術前的短期準備。它既不能診斷、也治不了抗甲狀腺藥引起的顆粒性白血球缺乏症。",
       "D": "本項不選。lithium 可以在少數不能用 thionamide 類藥物的甲狀腺毒症情境，拿來抑制荷爾蒙釋放，但治療窗很窄。發燒喉嚨痛的第一步，還是驗 CBC，不是換藥。",
       "summary": "吃 methimazole／PTU 後發燒喉嚨痛，先停藥驗 WBC differential，這是在抓顆粒性白血球缺乏症。",
-      "guideline": "FC 醫學(三)第2冊 p.233"
+      "guideline": "FC 醫學(三)第2冊 p.233",
+      "approach": {
+        "k": "吃抗甲狀腺藥、**發燒喉嚨痛**",
+        "t": "懷疑**顆粒性白血球缺乏症** → 停藥、**驗白血球分類**",
+        "x": "還沒確認就給抗生素不對；Lugol 與 lithium 是甲亢治療，不是處理這個副作用"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2143,7 +2158,12 @@
       "guideline": "FC 醫學(三)第2冊 p.219",
       "concepts": [
         "water-deprivation-test-interpretation"
-      ]
+      ],
+      "approach": {
+        "k": "每日尿量 5 L、**限水後尿不濃縮**、打 desmopressin 後**濃縮**",
+        "t": "**中樞性尿崩症**",
+        "x": "原發性多飲限水後會濃縮；腎性尿崩症打 desmopressin 也不濃縮；滲透性利尿尿滲透壓高"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2181,7 +2201,12 @@
       "C": "正確答案。PTHrP（parathyroid hormone-related peptide）是實體腫瘤造成體液性高血鈣最常見的機轉。它會作用在跟 PTH 一樣的受體上，一邊增加骨頭釋出鈣，一邊讓腎臟多留住鈣。同時它還會把身體自己的 PTH 壓低。",
       "D": "本項不選。1,25(OH)2 D（calcitriol）分泌過多，典型出現在淋巴瘤（lymphoma）或肉芽腫性疾病（granulomatous disease）。機轉是增加腸道對鈣的吸收。這不是一般實體腫瘤造成高血鈣最常見的原因。",
       "summary": "實體腫瘤的高血鈣先想 PTHrP；淋巴瘤偏 calcitriol，骨髓瘤偏局部溶骨，三條路徑要分清楚。",
-      "guideline": "FC 醫學(三)第2冊 p.316"
+      "guideline": "FC 醫學(三)第2冊 p.316",
+      "approach": {
+        "k": "**實體腫瘤**引起的高血鈣、最常見機轉",
+        "t": "腫瘤分泌 **PTHrP**（體液性高血鈣）",
+        "x": "真正的 PTH 很少；OAF 是骨髓瘤局部溶骨；1,25(OH)₂D 是淋巴瘤"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2219,7 +2244,12 @@
       "C": "正確答案。糖皮素通常會讓腸道少吸收一點鈣、腎臟多流失一點鈣，也會抑制成骨細胞造骨。結果是骨質疏鬆，而不是高血鈣。所以四個選項裡，高血鈣才是最不會出現的副作用。",
       "D": "本項不選。糖皮素會增加肝臟糖質新生（gluconeogenesis），也會降低周邊組織對葡萄糖的利用。結果是胰島素阻抗與類固醇引起的高血糖。這也是真的會發生的副作用。",
       "summary": "糖皮素的副作用要背成一組：抑制生長、抑制 HPA 軸、胰島素阻抗、骨質疏鬆——但不會造成高血鈣。",
-      "guideline": "FC 醫學(三)第2冊 p.255"
+      "guideline": "FC 醫學(三)第2冊 p.255",
+      "approach": {
+        "k": "糖皮質素**最不可能**的副作用",
+        "t": "糖皮質素抑制腸道吸收鈣、增加尿鈣 → **不會**高血鈣",
+        "x": "抑制生長、抑制腎上腺、胰島素阻抗都是副作用"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2257,7 +2287,12 @@
       "C": "本項不選。內生性 insulin 經過肝門靜脈（portal vein），第一次通過肝臟時確實會被清除一部分，但沒有到 90% 那麼高。清除後仍有足夠的量進入周邊循環，去調控肌肉與脂肪組織。",
       "D": "本項不選。C-peptide 是 proinsulin 被切開時，跟 insulin 以等莫耳比例一起分泌出來的片段。它可以反映身體自己分泌了多少 insulin，但它本身不是作用在 insulin receptor 上的活性部分。",
       "summary": "insulin 降糖、glucagon 升糖，兩個互相拮抗；C-peptide 只是分泌量的標記，不是有活性的 insulin。",
-      "guideline": "FC 醫學(三)第2冊 p.294"
+      "guideline": "FC 醫學(三)第2冊 p.294",
+      "approach": {
+        "k": "葡萄糖恆定、選**最恰當**的",
+        "t": "胰島素與升糖素都由**胰島**分泌、作用互相拮抗",
+        "x": "肝臟是葡萄糖**產生**而非主要消耗器官（腦與肌肉消耗多）；肝臟首次分解約 **50%**；有活性的是胰島素本身，C-peptide 只是標記"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2298,7 +2333,12 @@
       "guideline": "FC 醫學(三)第2冊 p.290",
       "concepts": [
         "taiwan-metabolic-syndrome-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "肥胖、選**錯誤**的",
+        "t": "南亞與華人**男性**腹部肥胖腰圍是 **≥90 cm**（女性 ≥80）",
+        "x": "leptin 由脂肪分泌、肥胖者 leptin 較高、90/1.7²≈31.1，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -3079,7 +3119,12 @@
       "guideline": "FC 醫學(三)第2冊 p.303",
       "concepts": [
         "dka-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "DKA、選**最不適當**的",
+        "t": "DKA 是**代謝性**酸中毒（呼吸代償是呼吸性鹼），不是呼吸性酸中毒",
+        "x": "高血糖脫水酸血症、誘因有胰島素不足感染懷孕、全身鉀缺乏，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -13162,7 +13207,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "血管攝影後 4 天、AKI、**乳酸 26.6**、pH 6.8、酮體陰性",
+        "t": "顯影劑 AKI → metformin 排不掉 → **metformin 相關乳酸中毒**",
+        "x": "glimepiride 造成低血糖；acarbose 與 pioglitazone 不造成乳酸中毒"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15021,7 +15071,12 @@
       "C": "本項不選。頭部電腦斷層（CT）對小顆的腦下垂體腺瘤敏感度不如核磁共振（MRI）。而且順序上要先有生化證據，才輪到做腦下垂體影像檢查。",
       "D": "正確答案。IGF-I 反映的是整段時間生長激素分泌的平均狀況，一天內波動比較小，是懷疑肢端肥大症（acromegaly）時的首選篩檢。IGF-I 升高之後，再用口服葡萄糖抑制試驗確認診斷，並安排腦下垂體 MRI 定位。",
       "summary": "下顎前突、舌頭變大、牙縫變寬合併 insulin resistance，就是在講肢端肥大症，先驗 IGF-I 再確診定位。",
-      "guideline": "FC 醫學(三)第2冊 p.215"
+      "guideline": "FC 醫學(三)第2冊 p.215",
+      "approach": {
+        "k": "下顎突出、舌大、牙縫寬、黑色棘皮、月經不規則",
+        "t": "**肢端肥大症** → 先驗 **IGF-I**",
+        "x": "β-hCG 已知陽性；血糖不能確診；頭部 CT 不如先做生化確認再 MRI"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15062,7 +15117,12 @@
       "guideline": "FC 醫學(三)第2冊 p.341",
       "concepts": [
         "men1-definition"
-      ]
+      ],
+      "approach": {
+        "k": "25 歲、反覆低血糖、**高血鈣**",
+        "t": "胰臟＋副甲狀腺（＋腦下垂體）→ **MEN1**；**甲狀腺髓質癌**是 MEN2",
+        "x": "胰島素瘤、副甲狀腺瘤、泌乳激素瘤都屬 MEN1"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15104,7 +15164,12 @@
       "concepts": [
         "acid-base-approach",
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "高血壓、K 2.6、代謝性鹼中毒、**腎素低醛固酮高**",
+        "t": "**原發性醛固酮症**",
+        "x": "腎動脈狹窄腎素**高**；甲亢不會這樣；庫欣 ACTH 與 cortisol 會異常"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15145,7 +15210,12 @@
       "guideline": "FC 醫學(三)第2冊 p.308",
       "concepts": [
         "whipple-triad"
-      ]
+      ],
+      "approach": {
+        "k": "低血糖、選**錯誤**的",
+        "t": "胰島素瘤很**少見**；空腹低血糖最常見原因是**藥物**",
+        "x": "低血糖時 cortisol 上升、Whipple triad、正常空腹 ≥70，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15183,7 +15253,12 @@
       "C": "本項敘述正確。空腹的時候沒有食物持續送進乳糜微粒（chylomicrons）。這時候血中三酸甘油脂（TG）主要是靠極低密度脂蛋白（VLDL）在載，來源是肝臟自己製造再輸出的。",
       "D": "本項敘述正確。LDL 受體負責把 LDL 從血液裡吸收進細胞，尤其是肝細胞，是清除循環中 LDL 膽固醇最核心的受體。這個受體功能壞掉，就是家族性高膽固醇血症的成因。",
       "summary": "statin 鎖定的是 HMG-CoA reductase 不是 oxidase；空腹 TG 找 VLDL、HDL 顧逆向運輸、LDL 受體顧清除。",
-      "guideline": "FC 醫學(三)第2冊 p.330"
+      "guideline": "FC 醫學(三)第2冊 p.330",
+      "approach": {
+        "k": "血脂代謝、選**錯誤**的",
+        "t": "statin 抑制的是 **HMG-CoA reductase**，不是 oxidase",
+        "x": "HDL 負責逆向運輸、空腹 TG 由 VLDL 攜帶、LDL 受體負責清除，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15225,7 +15300,12 @@
       "concepts": [
         "21-hydroxylase-deficiency",
         "cah-enzyme-deficiencies"
-      ]
+      ],
+      "approach": {
+        "k": "CAH、**最不可能**的",
+        "t": "CYP21A2 缺乏 → cortisol **降低**（才會 ACTH 升高）",
+        "x": "CYP21A2 最常見、17-OHP 升高、ACTH 升高，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15261,7 +15341,12 @@
       "guideline": null,
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺、選**錯誤**的",
+        "t": "**T3** 才是活性較強的；T4 量多但要轉成 T3",
+        "x": "分泌 T3、T4、TSH 由腦下垂體分泌、負回饋，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -16212,7 +16297,12 @@
       "guideline": null,
       "concepts": [
         "hhs-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "HHS、選**錯誤**的",
+        "t": "HHS 定義：血糖 >600 且有效滲透壓 **>320**（不是 300）",
+        "x": "不一定昏迷或酮酸、皮膚黏膜乾燥低血壓、可有癲癇，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -26045,7 +26135,12 @@
       "C": "本項應選。抗骨質再吸收劑（anti-resorptive drugs，像 bisphosphonates、denosumab）的目的是降低之後再發生脊椎骨折與其他脆弱性骨折，不是拿來止急性痛的。急性疼痛要另外靠止痛藥與活動調整處理。",
       "D": "本項敘述正確。發燒、體重減輕，或骨折發生在胸椎第四節以上，都是紅旗警訊。這時要懷疑惡性腫瘤、感染、多發性骨髓瘤這些續發性原因，不能直接當成單純老化的骨鬆性骨折。",
       "summary": "抗骨質再吸收劑是防再骨折，不是止痛藥；發燒、體重減輕或高位胸椎骨折要往續發性病因查。",
-      "guideline": "FC 醫學(三)第2冊 p.325"
+      "guideline": "FC 醫學(三)第2冊 p.325",
+      "approach": {
+        "k": "骨鬆性骨折、選**最不適當**的",
+        "t": "抗骨質再吸收劑是**預防再骨折**，不是用來緩解急性疼痛",
+        "x": "多數無症狀、一年內再骨折約 20%、發燒體重減輕或 T4 以上要想續發性，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28136,7 +28231,12 @@
       "C": "本項應選。分化良好的甲狀腺癌，像乳突癌或濾泡癌，術後追蹤用的主要指標是 thyroglobulin，還要搭配 anti-thyroglobulin antibody 一起看，不是 alpha-fetoprotein。AFP 主要用在肝細胞癌與部分生殖細胞腫瘤，跟甲狀腺癌無關。",
       "D": "本項敘述正確。碘-131 會被甲狀腺濾泡細胞透過 sodium-iodide symporter 吸收進去，可以用在特定病人做殘餘組織的根除或治療。它的物理半衰期約 8 天。",
       "summary": "分化良好甲狀腺癌術後追蹤看 thyroglobulin，不是 AFP；碘-131 半衰期約 8 天，AFP 是肝癌的指標。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "甲狀腺癌、選**錯誤**的",
+        "t": "分化型甲狀腺癌術後追蹤看 **thyroglobulin**，不是 AFP",
+        "x": "手術確認病理分期、超音波看淋巴結並穿刺、I-131 半衰期約 8 天，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28177,7 +28277,12 @@
       "guideline": "FC 醫學(三)第2冊 p.294",
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**引起糖尿病",
+        "t": "**雙胍類**（metformin）是降血糖藥",
+        "x": "病毒誘發自體免疫、胰島素阻抗、類固醇都會引起糖尿病"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28213,7 +28318,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "肥胖、選**錯誤**的",
+        "t": "BMI **越大**才是越胖",
+        "x": "肥胖引起胰島素阻抗、多因素、脂肪細胞分泌激素，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28249,7 +28359,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "選**錯誤**的",
+        "t": "80 歲以上目標**放寬**（健康者 <7.5%、衰弱者 <8–8.5%），不是 <6.5%",
+        "x": "TPN 時第一型用胰島素、類固醇糖尿病常需胰島素、脂肪營養不良用 leptin，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28282,7 +28397,12 @@
       "C": "本項不選。庫欣氏症候群（Cushing's syndrome）可以透過 cortisol 的類鹽皮質素、血管與代謝作用造成高血壓，但內生性庫欣氏症候群本身非常罕見。",
       "D": "本項不選。肢端肥大症（acromegaly）可以因為鈉滯留、胰島素阻抗、睡眠呼吸中止這些機轉造成高血壓，但會分泌生長激素的腦下垂體腺瘤整體盛行率很低。",
       "summary": "內分泌性次發高血壓裡，原發性醛固酮症最常見；嗜鉻細胞瘤、庫欣氏症候群、肢端肥大症都少見得多。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "內分泌性次發高血壓**最常見**",
+        "t": "**原發性醛固酮症**",
+        "x": "嗜鉻細胞瘤、庫欣、肢端肥大都少見得多"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28323,7 +28443,12 @@
       "guideline": "FC 醫學(三)第2冊 p.227",
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "白斑、疲倦怕冷、**free T4 低、TSH 25**",
+        "t": "**原發性**甲狀腺低下（多為 Hashimoto）→ **不需要**腦下垂體 MRI",
+        "x": "觸診問家族史、超音波、anti-TPO 都有幫助"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28361,7 +28486,12 @@
       "C": "本項不選。還沒證實高皮質醇就照腎上腺 CT，很容易撞上無關的腎上腺意外瘤——成人約有 5% 帶著它，照到了反而被誤導去開刀。",
       "D": "本項不選。同理，腦下垂體 MRI 要等到證實是 ACTH 依賴型才做。而且正常人約一成有無功能的腦垂體微腺瘤，先照只會製造假線索。",
       "summary": "Cushing 的順序不能跳：先證明皮質醇過多（生化），再分 ACTH 依賴與否，最後才照影像——先照片子會被意外瘤帶偏。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "月亮臉、水牛肩、紫紋",
+        "t": "先**生化確認皮質醇過多**（含晝夜節律 cortisol/ACTH），再定位",
+        "x": "高劑量 dexamethasone、腎上腺 CT、腦下垂體 MRI 都是確認後的定位步驟"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28666,7 +28796,12 @@
       "guideline": "FC 醫學(三)第2冊 p.289",
       "concepts": [
         "taiwan-metabolic-syndrome-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "158 cm/64 kg、腰圍 88、BP 136/88、FPG 106、TG 325、HDL 52，選**錯誤**的",
+        "t": "BMI＝64/1.58²≈**25.6** → 台灣標準是**過重**（≥27 才肥胖）",
+        "x": "空腹血糖偏高、高 TG、腰圍血壓血糖 TG 四項達標符合代謝症候群，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -41004,7 +41139,12 @@
       "C": "正確答案。血脂偏低本身不會造成腦部急性能量不足或灌流不夠，不是老年人突然意識不清的合理急症原因，四個選項裡它最不可能是兇手。",
       "D": "本項不選。低血壓會讓腦部灌流下降，嚴重時可能造成暈厥、腦病變，甚至休克引起的意識不清。",
       "summary": "老太太突然意識不清先查低血糖、中風、低血壓；低血脂不會造成急性昏迷。",
-      "guideline": "FC 醫學(三)第2冊 p.308"
+      "guideline": "FC 醫學(三)第2冊 p.308",
+      "approach": {
+        "k": "糖尿病高血壓老太太倒地意識不清，**最不可能**",
+        "t": "**低血脂**不會造成急性意識障礙",
+        "x": "低血糖、中風、低血壓都可能"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41083,7 +41223,12 @@
       "guideline": "FC 醫學(三)第2冊 p.233",
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Graves' disease、選**最不適當**的",
+        "t": "眼病變嚴重度和甲狀腺功能**不一定**正相關",
+        "x": "女多於男 20–50 歲、老人淡漠型甲亢、約八成 anti-TPO 陽性，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41121,7 +41266,12 @@
       "C": "本項敘述正確。濾泡癌比較常經由血行轉移到肺部與骨骼；乳突癌則比較偏向經淋巴轉移到頸部淋巴結。",
       "D": "本項敘述正確。濾泡癌的預後跟年齡、腫瘤大小、侵犯程度與有沒有遠端轉移有關。腫瘤越大、年齡越高，風險通常越差。",
       "summary": "乳突癌靠細胞核特徵，FNA 術前就能診斷；濾泡癌要靠侵犯證據，且偏血行轉移到肺骨。",
-      "guideline": "FC 醫學(三)第2冊 p.240"
+      "guideline": "FC 醫學(三)第2冊 p.240",
+      "approach": {
+        "k": "甲狀腺癌、選**錯誤**的",
+        "t": "乳突癌靠細胞核特徵，**FNA 術前就能診斷**",
+        "x": "乳突癌最常見、濾泡癌血行轉移肺骨、濾泡癌 >4 cm 或年長預後差，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41157,7 +41307,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病與心血管、選**最不恰當**的",
+        "t": "心肌梗塞或心衰竭病人**可以**用 metformin（禁忌是 eGFR <30 或休克灌流不足）",
+        "x": "糖尿病增加 MI 與心衰竭、aspirin 與 statin 預防、TZD 增加心衰竭，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41198,7 +41353,12 @@
       "guideline": "FC 醫學(三)第2冊 p.297",
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "降血糖藥、選**錯誤**的",
+        "t": "DPP-4 抑制劑是**血糖依賴性**，單用**不易**低血糖",
+        "x": "pioglitazone 增心衰竭、SGLT2 減重、metformin 抑制肝糖新生，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41236,7 +41396,12 @@
       "C": "本項不選。statin 類在降 LDL-C 與改善心血管結果上的證據最完整，是大多數需要降膽固醇者的第一線藥物。",
       "D": "本項不選。fibrate 類降三酸甘油脂（TG）有效，嚴重高三酸甘油脂血症時還能降低胰臟炎風險。但同時要找出次發原因並調整生活型態。",
       "summary": "LDL receptor 壞掉＝LDL 清不掉；PCSK9 壞掉＝受體留住更多，兩者對 LDL-C 的方向完全相反。",
-      "guideline": "FC 醫學(三)第1冊 p.50"
+      "guideline": "FC 醫學(三)第1冊 p.50",
+      "approach": {
+        "k": "血脂、選**錯誤**的",
+        "t": "PCSK9 **失去功能** → LDL 受體留更多 → LDL **下降**、心血管風險降低",
+        "x": "LDL 受體突變 LDL 升高、首選 statin、降 TG 首選 fibrate，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41272,7 +41437,12 @@
       "guideline": null,
       "concepts": [
         "taiwan-metabolic-syndrome-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "代謝症候群、選**錯誤**的",
+        "t": "代謝症候群的 HDL-C **偏低**",
+        "x": "肥胖與脂肪營養不良易伴代謝症候群、adiponectin 偏低，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41305,7 +41475,12 @@
       "C": "正確答案。術前先用 α 阻斷劑約 7–14 天，同時放寬鹽分與水分攝取，把長期被縮小的血管容積補回來。如果之後還心跳快，才在 α 阻斷足夠之後加 β 阻斷劑。順序不可以顛倒——先給 β 會留下沒被擋住的 α 作用。",
       "D": "本項不選。體抑素類似物（somatostatin analogue）不是嗜鉻細胞瘤術前抑制兒茶酚胺的標準治療，取代不了 α 阻斷加補充容積。",
       "summary": "嗜鉻細胞瘤術前口訣：先 α、再補水、最後才 β；不切片、不急著開刀。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "25 歲、懷疑嗜鉻細胞瘤、準備手術",
+        "t": "術前 7–10 天 **α 阻斷＋補水**，必要時再加 β",
+        "x": "不可急診開刀（會高血壓危象）；**不可切片**；somatostatin 類似物無效"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -42101,7 +42276,12 @@
       "guideline": null,
       "concepts": [
         "dka-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "DKA、選**最不適當**的",
+        "t": "DKA 血清鉀**多數正常或偏高**（全身總鉀缺乏）",
+        "x": "主要第一型也可第二型、診斷條件、可正常血糖（SGLT2i），三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -52763,7 +52943,12 @@
       "guideline": "FC 醫學(三)第3冊 p.68",
       "concepts": [
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄、Ca 3.45 mmol/L（約 13.8 mg/dL）、頸部淋巴結、腎功能差",
+        "t": "高血鈣危象 → **生理食鹽水**補液，補足水後再給利尿劑",
+        "x": "緊急透析不是第一步；D5W 加鎮靜不對；**氯化鈣**會更高鈣"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53894,7 +54079,12 @@
       "C": "本項不選。calcium channel blocker 可以當替代或加成的降壓藥，不會造成沒被擋住的 α 作用。",
       "D": "本項不選。先用 α 阻斷劑、之後若還心跳過快再加 β 阻斷劑，這個順序是正確的。不能顛倒。",
       "summary": "嗜鉻細胞瘤的血壓藥只有一條紅線：β 不能單獨先上，否則 α 沒人擋。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "疑嗜鉻細胞瘤、要給降壓藥，**不適宜**的",
+        "t": "**單用 β 阻斷劑**會讓 α 作用無人抵抗 → 血壓危象",
+        "x": "單用 α、CCB、先 α 再 β 都可以"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53971,7 +54161,12 @@
       "guideline": "FC 醫學(三)第2冊 p.215",
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "鼻咽癌放療後、倦怠、低血鈉、乳暈褪色、體毛少",
+        "t": "放療傷到腦下垂體 → **次發性腎上腺不足**最危險 → 驗 **ACTH、cortisol**",
+        "x": "甲狀腺、腫瘤標記、性腺軸也可能受影響，但優先順序在 ACTH 之後"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54012,7 +54207,12 @@
       "guideline": "FC 醫學(三)第2冊 p.288",
       "concepts": [
         "taiwan-metabolic-syndrome-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "代謝症候群、選**錯誤**的",
+        "t": "adiponectin 在代謝症候群是**降低**",
+        "x": "CRP 升高、尿酸升高、LDL-C 不是診斷條件，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54053,7 +54253,12 @@
       "guideline": "FC 醫學(三)第2冊 p.308",
       "concepts": [
         "whipple-triad"
-      ]
+      ],
+      "approach": {
+        "k": "低血糖、選**最不適當**的",
+        "t": "最常見原因是**藥物**（胰島素、sulfonylurea），不是胰島素瘤",
+        "x": "<50 可致認知障礙、雙胍類不易低血糖、Whipple triad 要可靠的血糖值，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54094,7 +54299,12 @@
       "guideline": "FC 醫學(三)第2冊 p.233",
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲、甲亢症狀＋**雙眼突出紅腫**＋瀰漫性甲狀腺腫",
+        "t": "**Graves' disease**（眼病變是特徵）",
+        "x": "甲狀腺癌不會甲亢眼病；甲低症狀相反；亞急性甲狀腺炎會頸部疼痛、無突眼"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54132,7 +54342,12 @@
       "C": "本項不選。立體定位放射線治療起效很慢，通常留給術後殘存又藥物控制不佳的病人。",
       "D": "本項不選。多巴胺促效劑對輕度 GH／IGF-I 升高或混合型腫瘤可以用，但效果不如手術與體抑素類似物。",
       "summary": "肢端肥大症＝先開刀（經蝶竇），藥物與放療都是手術沒解決乾淨時的後手。",
-      "guideline": "FC 醫學(三)第2冊 p.218"
+      "guideline": "FC 醫學(三)第2冊 p.218",
+      "approach": {
+        "k": "肢端肥大症的**首選**治療",
+        "t": "**經蝶竇手術**切除",
+        "x": "somatostatin 類似物、放療、dopamine agonist 都是手術後殘留時的後手"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -64730,7 +64945,12 @@
       "C": "本項應選。1,25(OH)2D 會被 PTH、腎功能與磷牽動，反映不出體內的維他命 D 儲存量。初步要驗的是 25(OH)D，所以這一項在「優先安排」裡最不適當。",
       "D": "本項不選。低血鎂會同時抑制 PTH 分泌並讓組織對 PTH 反應變差，是常被忘記的可矯正原因。鎂（magnesium）一定要測。",
       "summary": "查低血鈣要驗 25(OH)D 不是 1,25(OH)2D；另外別忘了鎂——鎂太低會讓 PTH 整條路都失靈。",
-      "guideline": "FC 醫學(三)第2冊 p.315"
+      "guideline": "FC 醫學(三)第2冊 p.315",
+      "approach": {
+        "k": "低血鈣評估、**最不適當**的",
+        "t": "評估維生素 D 存量要驗 **25(OH)D**，不是 1,25(OH)₂D",
+        "x": "白蛋白與磷、PTH、鎂都要驗"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66906,7 +67126,12 @@
       "C": "本項應選。PTH 會增加腎臟把磷排掉，所以典型組合是高血鈣加**低**血磷，不是高血磷。這一項把磷的方向講反了。",
       "D": "本項敘述正確。血鈣高於 14 mg/dL（3.5 mmol/L）時要提高副甲狀腺癌的疑慮。不過最終仍要靠病理上的侵犯或轉移來判定，不能只看數值。",
       "summary": "副甲狀腺高能症是「鈣高磷低」——PTH 把磷從腎臟趕出去，這個方向記住就不會選錯。",
-      "guideline": "FC 醫學(三)第2冊 p.316"
+      "guideline": "FC 醫學(三)第2冊 p.316",
+      "approach": {
+        "k": "原發性副甲狀腺亢進、選**錯誤**的",
+        "t": "PTH 讓腎臟排磷 → **血磷偏低**（不是高血磷），氯偏高",
+        "x": "多為單一腺瘤、可為 MEN 表現、血鈣 >14 常是癌，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66939,7 +67164,12 @@
       "C": "本項應選。方向剛好相反：生理範圍較高的 testosterone 通常伴隨較少的脂肪堆積與較低的胰島素阻抗。說糖尿病機率較高，最不符合。",
       "D": "本項不選。低 testosterone 常是衰弱與疾病的標記，所以觀察研究中濃度較高的人死亡率較低。這同樣是關聯而非因果。",
       "summary": "老年男性的睪固酮高低多半是「健康的指標」不是原因——所以四個選項裡只有糖尿病那個方向寫反了。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "老年男性雄性激素較高，**最不可能**",
+        "t": "睪固酮較高者罹患糖尿病機率較**低**",
+        "x": "性慾較高、冠心病較低、死亡率較低，三句方向正確"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67018,7 +67248,12 @@
       "C": "本項不選。orlistat 抑制腸道脂肪酶，讓脂肪不被吸收，是已核准的減重藥。",
       "D": "本項應選。sitagliptin 是 DPP-4 抑制劑，對體重是中性的，從來沒有被核准當減重藥物。",
       "summary": "減重藥記三個曾核准（liraglutide、lorcaserin、orlistat）；DPP-4 抑制劑對體重是中性的，不在名單上。",
-      "guideline": "FC 醫學(三)第2冊 p.288"
+      "guideline": "FC 醫學(三)第2冊 p.288",
+      "approach": {
+        "k": "**未曾**被核准減重的藥",
+        "t": "**sitagliptin**（DPP-4 抑制劑）對體重中性",
+        "x": "liraglutide、lorcaserin（已下架但曾核准）、orlistat 都曾核准減重"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67054,7 +67289,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "血糖調控、選**錯誤**的",
+        "t": "最常引起低血糖的口服藥是 **sulfonylurea**；metformin 不易低血糖",
+        "x": "胰島素降血糖、正常人血糖會波動、低血糖可致死，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67092,7 +67332,12 @@
       "C": "本項不選。髓質癌（medullary carcinoma）來自甲狀腺的 C 細胞，只占少數，而且可能與 MEN2 相關。",
       "D": "本項不選。未分化癌（anaplastic carcinoma）罕見，但侵襲性極高、進展極快，好發於高齡者。",
       "summary": "甲狀腺癌的四型按「常見程度」排：乳突＞濾泡＞髓質＞未分化，而侵襲性剛好倒過來。",
-      "guideline": "FC 醫學(三)第2冊 p.240"
+      "guideline": "FC 醫學(三)第2冊 p.240",
+      "approach": {
+        "k": "**最常見**的甲狀腺癌",
+        "t": "**乳突癌**（約 80–85%）",
+        "x": "濾泡癌、髓質癌、未分化癌依序較少"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67133,7 +67378,12 @@
       "guideline": "FC 醫學(三)第2冊 p.219",
       "concepts": [
         "polyuria-di-siadh"
-      ]
+      ],
+      "approach": {
+        "k": "腦下垂體**後葉**受破壞",
+        "t": "後葉儲存 AVP → **中樞性尿崩症**",
+        "x": "腎上腺、甲狀腺、性功能不足都是**前葉**"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -77702,7 +77952,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "妊娠糖尿病、選**最不適當**的",
+        "t": "GDM 女性日後**第二型糖尿病風險大幅增加**（約 7–10 倍），產後要追蹤",
+        "x": "24–28 週篩檢、先飲食控制、不達標加胰島素或口服藥，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77858,7 +78113,12 @@
       "C": "本項不選。高血磷可以藉由降低游離鈣而間接引起手足搐搦，但題目要辨識的直接離子異常是低血鈣。",
       "D": "本項不選。低血磷主要造成肌肉無力、橫紋肌溶解，不會典型產生這兩個低血鈣的徵象。",
       "summary": "Chvostek（拍臉抽動）＋Trousseau（綁壓脈帶手抽筋）＝低血鈣，兩個一起出現幾乎可以確定。",
-      "guideline": "FC 醫學(三)第3冊 p.67"
+      "guideline": "FC 醫學(三)第3冊 p.67",
+      "approach": {
+        "k": "拍耳前面頰肌肉收縮、壓脈帶加壓後手腕抽筋",
+        "t": "Chvostek＋Trousseau → **低血鈣**",
+        "x": "高血鈣不會抽筋；高磷與低磷不是這兩個徵象的典型"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79819,7 +80079,12 @@
       "C": "本項應選。傳統的 rule of ten 是約 10% 雙側、10% 惡性、10% 腎上腺外。把第一項寫成「10% 為單側」就錯了——單側才是大多數。",
       "D": "本項不選。電腦斷層（CT）與磁振造影（MRI）對腎上腺的嗜鉻細胞瘤敏感度相近。MRI 在特定病人與腎上腺外病灶另有優勢。",
       "summary": "rule of ten 的三個 10% 是「雙側、惡性、腎上腺外」——單側是常態，不是那 10%。",
-      "guideline": "FC 醫學(三)第2冊 p.262"
+      "guideline": "FC 醫學(三)第2冊 p.262",
+      "approach": {
+        "k": "嗜鉻細胞瘤、選**錯誤**的",
+        "t": "Rule of 10：10% **雙側**、10% 惡性、10% 腎上腺外；單側是常態",
+        "x": "臨床表現列舉、生化加影像確診、CT 與 MRI 敏感度類似，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79857,7 +80122,12 @@
       "C": "本項不選。腦下垂體的腫塊效應會造成頭痛與視野缺損，這在本病確實可能出現。",
       "D": "本項不選。類固醇可以縮小發炎、部分垂體功能有機會恢復。但也有人恢復不了，需要長期荷爾蒙補充。",
       "summary": "淋巴球性腦垂體炎急性期是「垂體腫起來」不是空蝶鞍——空蝶鞍是它燒完之後的疤。",
-      "guideline": "FC 醫學(三)第2冊 p.214"
+      "guideline": "FC 醫學(三)第2冊 p.214",
+      "approach": {
+        "k": "淋巴球性腦垂體炎、選**錯誤**的",
+        "t": "急性期 MRI 是**腦下垂體腫大**；空蝶鞍是晚期後遺",
+        "x": "產後女性常見高泌乳激素、可頭痛視覺異常、類固醇後可恢復，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79895,7 +80165,12 @@
       "C": "本項不選。皮質醇過量會抑制免疫、容易感染；同時白血球從血管壁邊緣被趕回循環，血中嗜中性球數會明顯上升。兩件事會同時出現。",
       "D": "本項不選。高皮質醇造成凝血傾向增加，所以深部靜脈栓塞（DVT）與肺栓塞的風險上升。",
       "summary": "類固醇的肌病變一律是近端無力——「爬樓梯困難」就是近端，寫成遠端就是錯的那個。",
-      "guideline": "FC 醫學(三)第2冊 p.250"
+      "guideline": "FC 醫學(三)第2冊 p.250",
+      "approach": {
+        "k": "庫欣、選**錯誤**的",
+        "t": "類固醇肌病變是**近端**無力（爬樓梯困難），不是遠端",
+        "x": "中心肥胖水牛肩、易感染白血球增加、栓塞風險增加，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79936,7 +80211,12 @@
       "guideline": "FC 醫學(三)第2冊 p.224",
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺功能檢查、選**最不適當**的",
+        "t": "腦下垂體疾病時 TSH 可能正常甚至偏低，**單測 TSH 無法**鑑別，要合併 free T4",
+        "x": "抗體診斷自體免疫、抗體陽性易異常、外源性甲狀腺素 thyroglobulin 低，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79977,7 +80257,12 @@
       "guideline": "FC 醫學(三)第2冊 p.293",
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "第二型糖尿病、選**錯誤**的",
+        "t": "打胰島素**不會**讓第二型變成第一型；分型看病因不看治療",
+        "x": "胰島素阻抗、分泌減少、肝糖新生增加，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80018,7 +80303,12 @@
       "guideline": "FC 醫學(三)第2冊 p.293",
       "concepts": [
         "whipple-triad"
-      ]
+      ],
+      "approach": {
+        "k": "血糖調控、選**最不適當**的",
+        "t": "空腹血糖正常下限約 **70 mg/dL**，不是 50",
+        "x": "Whipple triad、肝腎都能糖新生、胰島素減少後升糖素上升，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -90623,7 +90913,12 @@
       "C": "本項不選。simvastatin 高度依賴 CYP3A 代謝，與葡萄柚汁的交互作用最明顯。",
       "D": "本項不選。atorvastatin 有一部分經 CYP3A4 代謝，葡萄柚汁同樣可能提高它的濃度。",
       "summary": "怕葡萄柚汁的是 lovastatin、simvastatin、atorvastatin；pravastatin 不走 CYP3A，最安全。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不經** CYP3A 代謝的 statin",
+        "t": "**pravastatin**（與 rosuvastatin）不走 CYP3A",
+        "x": "lovastatin、simvastatin、atorvastatin 都經 CYP3A4"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90664,7 +90959,12 @@
       "guideline": "FC 醫學(三)第2冊 p.223",
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "懷孕甲狀腺、選**最不適當**的",
+        "t": "懷孕需求增加 → 甲低者 levothyroxine **要加量**，TSH 目標依孕期參考值（第一孕期較低）",
+        "x": "雌激素增加 TBG、第一孕期 hCG 刺激、第一孕期用 PTU 避免 methimazole 致畸，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90786,7 +91086,12 @@
       "C": "本項應選。次發性副甲狀腺機能亢進是身體對低血鈣的**代償**，常見於慢性腎病（CKD）或維他命 D 缺乏。既然起點是低血鈣，它不會典型造成高血鈣。",
       "D": "本項不選。次發性拖久了，副甲狀腺會自主化變成三發性，這時就會造成高血鈣。所以三發性是可能的原因。",
       "summary": "次發性副甲狀腺亢進是「因為鈣低才升高」；要造成高血鈣得等它變成三發性——差一個字，方向完全不同。",
-      "guideline": "FC 醫學(三)第3冊 p.67"
+      "guideline": "FC 醫學(三)第3冊 p.67",
+      "approach": {
+        "k": "承上、校正鈣約 2.94、胸部 X 光異常，**最不可能**的原因",
+        "t": "**次發性**副甲狀腺亢進是因低血鈣而起，血鈣**不高**",
+        "x": "結核（肉芽腫產生 1,25D）、鱗癌（PTHrP）、三發性副甲狀腺亢進都會高血鈣"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92794,7 +93099,12 @@
       "C": "本項應選。方向只對了一半：停經後卵巢雌激素低，負回饋消失，所以濾泡刺激素（FSH）會持續**升高**而不是偏低。雌二醇（estradiol）確實偏低。把 FSH 也寫成低就錯了。",
       "D": "本項不選。補充雌激素能改善停經症狀，但沒有搭配黃體素的單獨雌激素會增加子宮內膜癌風險，全身性雌激素也會提高靜脈血栓（VTE）風險。有子宮的人通常要合併黃體素。",
       "summary": "停經是「卵巢不工作、腦下垂體拚命喊」——estradiol 低但 FSH 高，兩個方向相反。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "更年期停經、選**最不適當**的",
+        "t": "停經後 estradiol **低**但 **FSH 高**",
+        "x": "35 歲後卵巢功能下降、潮紅盜汗、補雌激素可能增加內膜癌，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92832,7 +93142,12 @@
       "C": "本項不選。只打一次超長效胰島素只有基礎那一半，蓋不住三餐後的血糖上升。",
       "D": "本項不選。一天四次速效胰島素少了持續的基礎覆蓋。對 type 1 diabetes 來說，空檔期間有酮酸中毒的風險。",
       "summary": "basal-bolus 就是「基礎歸基礎、吃飯歸吃飯」——少了任何一半都不算。",
-      "guideline": "FC 醫學(三)第2冊 p.297"
+      "guideline": "FC 醫學(三)第2冊 p.297",
+      "approach": {
+        "k": "basal-bolus、選**最適當**的",
+        "t": "三餐**速效或短效**＋每日一次**長效**基礎",
+        "x": "預混型不是 basal-bolus；只打基礎或只打餐前都不完整"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92873,7 +93188,12 @@
       "guideline": "FC 醫學(三)第2冊 p.301",
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病足、選**最不適當**的",
+        "t": "足部潰瘍**可以**透過衛教（每日檢查、合適鞋子）有效預防",
+        "x": "血管與神經病變、血管病變難癒合、要減壓，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92911,7 +93231,12 @@
       "C": "正確答案。瘦素（leptin）主要由脂肪組織分泌，分泌量反映脂肪量的多寡。它作用在下視丘的食慾路徑，告訴大腦「能量夠了」。",
       "D": "本項不選。方向相反：肥胖者的 leptin 濃度通常比較高，只是身體對它產生阻抗（leptin resistance），所以吃不飽。瘦的人濃度反而低。",
       "summary": "leptin 是脂肪派出去的信差——脂肪愈多信差愈多，肥胖的問題在大腦收不到信，不是信差太少。",
-      "guideline": "FC 醫學(三)第2冊 p.287"
+      "guideline": "FC 醫學(三)第2冊 p.287",
+      "approach": {
+        "k": "肥胖、選**最適當**的",
+        "t": "leptin 主要由**脂肪組織**分泌",
+        "x": "100/1.8²≈30.9 不是 32；台灣肥胖 BMI ≥27 不分男女；肥胖者 leptin **較高**"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92952,7 +93277,12 @@
       "guideline": "FC 醫學(三)第2冊 p.240",
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺結節術前良惡性**黃金標準**",
+        "t": "**細針穿刺細胞學**",
+        "x": "超音波是風險分層；thyroglobulin 不能分良惡；MRI 不是標準"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92985,7 +93315,12 @@
       "C": "正確答案。只要生長激素（GH）腫瘤可以切除，經蝶鞍手術（transsphenoidal surgery）就是首選。它能一次解決荷爾蒙過量與腫瘤壓迫兩件事。",
       "D": "本項不選。體抑素類似物（somatostatin analogue）是不能開刀、或術後仍有殘存疾病時的主力藥物，屬於後手。",
       "summary": "肢端肥大症的順序是「能開就開」——藥物與放療都排在手術之後。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肢端肥大症治療首選",
+        "t": "**經蝶竇手術**",
+        "x": "放療、dopamine agonist、somatostatin 類似物都是後續選擇"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93023,7 +93358,12 @@
       "C": "正確答案。逆位三碘甲狀腺素（reverse T3）是關鍵：重病時 T4 轉成 T3 的路被關掉、轉去做 reverse T3，而且 reverse T3 的清除也變慢，所以它會升高。這個「T3 低、reverse T3 高」的組合就是辨識重點。",
       "D": "本項不選。甲狀腺超音波看的是結構，診斷不了全身性疾病造成的甲狀腺功能檢查變化。",
       "summary": "重病時 T3 低、reverse T3 高——身體是刻意把甲狀腺素轉去做「沒作用的那一版」以省能量。",
-      "guideline": "FC 醫學(三)第2冊 p.224"
+      "guideline": "FC 醫學(三)第2冊 p.224",
+      "approach": {
+        "k": "sick euthyroid **最關鍵**的指標",
+        "t": "**reverse T3** 升高",
+        "x": "T3 低、T4 可正常或低，但都不特異；超音波無關"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93761,7 +94101,12 @@
       "C": "本項應選。方向寫反了：低血鈣會**延長**心室再極化，心電圖典型是 QTc 延長，不是縮短加上高聳 T 波。這個病人術後第 3 天游離鈣只有 3.5 mg/dL，正是要盯心電圖的時候。",
       "D": "本項不選。使用毛地黃（digoxin）的病人快速靜脈（IV）補鈣要非常小心，因為可能增加心律不整與毒性風險。",
       "summary": "低血鈣的心電圖是 QTc 拉長；而正在吃毛地黃的人補鈣要慢——這兩件事一起記。",
-      "guideline": "FC 醫學(三)第3冊 p.67"
+      "guideline": "FC 醫學(三)第3冊 p.67",
+      "approach": {
+        "k": "甲狀腺全切術後 3 天、游離鈣低，選**最不適當**的",
+        "t": "低血鈣心電圖是 **QTc 延長**，不是縮短",
+        "x": "可有錐體外症狀癲癇幻覺、Chvostek sign、毛地黃病人補鈣增加毒性，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93800,7 +94145,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "**最常**低血糖的藥（題目寫降血壓藥，官方一律給分）",
+        "t": "真正常造成低血糖的是 **sulfonylurea**",
+        "x": "本題官方送分；metformin、TZD、acarbose 單用都不易低血糖"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -104509,7 +104859,12 @@
       "C": "本項不選。診斷確實是這個流程：先靠家族史、四肢疼痛、皮膚血管角化瘤、渦狀角膜濁斑與尿沉渣中的脂質細胞建立懷疑，再測白血球的 α-galactosidase A 活性確診，必要時做基因分析。要注意女性帶因者酵素活性可能正常，常需靠基因檢測。",
       "D": "本項不選。治療分症狀治療與酵素替代療法：神經痛用藥物緩解，心臟與腦血管併發症依一般原則處理，進展到末期腎病（ESKD）仍需透析或移植。",
       "summary": "性聯遺傳看父親怎麼傳：X 給女兒、Y 給兒子——所以父親有病，女兒全帶因、兒子完全不受影響。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Fabry disease、選**錯誤**的",
+        "t": "X 性聯：父親傳給**女兒全部**帶因（X），**兒子不受影響**（Y）",
+        "x": "α-galactosidase A 缺陷、臨床診斷依據、症狀治療與酵素替代，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105539,7 +105894,12 @@
       "guideline": null,
       "concepts": [
         "neck-mass-approach"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺結節、**最不可能**是癌的危險因子",
+        "t": "**20–50 歲女性**反而是結節最常見的良性族群",
+        "x": "單側頸淋巴病變、頭頸放射史、聲帶麻痺都是惡性警訊"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105572,7 +105932,12 @@
       "C": "本項不選。RET codon 618 確實可見於 MEN 2A 與家族性髓質癌（FMTC），但沒有 codon 634 常見。",
       "D": "本項不選。CDKN1B 突變造成的是 MEN 4，和 MEN 2A 是不同的症候群。",
       "summary": "RET 的兩個關鍵密碼：634 是 MEN 2A、918 是 MEN 2B；CDKN1B 則跳到 MEN 4。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "MEN 2A 最常見的 RET 突變密碼",
+        "t": "**RET 634**",
+        "x": "918 是 MEN 2B；618 較少；CDKN1B 是 MEN4"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105608,7 +105973,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**降血糖藥",
+        "t": "**glucagon** 是升血糖（低血糖急救）",
+        "x": "metformin、glargine、degludec 都降血糖"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105644,7 +106014,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "肥胖、選**錯誤**的",
+        "t": "台灣腰圍切點**男 90、女 80**，不是都 90",
+        "x": "甲狀腺異常、庫欣、第二型糖尿病都與肥胖相關"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105680,7 +106055,12 @@
       "guideline": null,
       "concepts": [
         "dka-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "DKA、選**錯誤**的",
+        "t": "胰島素是 **0.1 U/kg/hr 持續滴注**（可先 0.1 U/kg 推注），不是一次 1 U/kg",
+        "x": "多見於第一型、感染是誘因、前 1–3 小時給 2–3 L 生理食鹽水，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105716,7 +106096,12 @@
       "guideline": null,
       "concepts": [
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "40 年前產後大出血、感染休克、升壓劑無效、低血鈉",
+        "t": "Sheehan 後的**腎上腺危象** → 抽血後**不等結果**立刻給 **hydrocortisone**",
+        "x": "等結果或做 cosyntropin test 再給藥都會延誤致命"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105752,7 +106137,12 @@
       "guideline": null,
       "concepts": [
         "thyroid-function-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "甲狀腺風暴、心房顫動心衰竭，**不建議**的藥",
+        "t": "**amiodarone** 含大量碘，會加重甲亢",
+        "x": "PTU/methimazole、hydrocortisone、SSKI（在抗甲藥後）都是建議用藥"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -115542,7 +115932,12 @@
       "C": "本項不選。牛奶–鹼劑症候群（milk-alkali syndrome）會造成高血鈣、急性腎損傷（AKI）與代謝性鹼中毒，所以要問鈣片與制酸劑的攝取。它確實可能是原因之一。",
       "D": "本項不選。生理食鹽水先補回流失的容積，同時增加尿鈣排泄，是高血鈣的第一步處置。利尿劑要等容積補足後、特定情況才用。",
       "summary": "看到高血鈣先做兩件事：把白蛋白校正算一次、看 PTH 是高是低——PTH 被壓低就往腫瘤找。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "抽菸嚼檳榔、高血鈣、低磷、**PTH 低**、白蛋白 3.0，選**最不適當**的",
+        "t": "校正鈣＝3.1＋0.02×(40−30)＝**3.3 mmol/L**，不是 3.9",
+        "x": "可能是惡性腫瘤（PTHrP）、牛奶鹼症候群可能、生理食鹽水利尿促排鈣，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116432,7 +116827,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "低血鉀、高血壓、鹼中毒、尿鉀 30，**最不可能**的 renin/aldosterone 組合",
+        "t": "**腎素上升卻醛固酮下降**講不通（腎素高會刺激醛固酮）",
+        "x": "兩者都高（腎動脈狹窄）、腎素低醛固酮高（原發性醛固酮症）、兩者都低（Liddle、外源性鹽皮質素），都可能"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117396,7 +117796,12 @@
       "C": "本項不選。在排除嗜鉻細胞瘤之前做腎上腺細針穿刺（FNA）可能誘發危象。而且穿刺也分不出腎上腺腺瘤與腎上腺皮質癌。",
       "D": "本項不選。這位病人同時有肺部腫瘤，腎上腺病灶可能影響分期，確實需要處理。但不能只追蹤而跳過荷爾蒙評估。",
       "summary": "腎上腺意外瘤的鐵則：先驗功能（尤其嗜鉻細胞瘤），再談切除或穿刺。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肺癌患者、意外發現 2 cm 腎上腺腫瘤",
+        "t": "腎上腺意外瘤先驗**功能**，尤其要排除嗜鉻細胞瘤（24 小時尿 catecholamine/VMA）",
+        "x": "未驗功能就切除或穿刺（嗜鉻細胞瘤穿刺會危象）都不對；只追蹤影像漏掉功能"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117429,7 +117834,12 @@
       "C": "正確答案。somatostatin analogue 直接抑制腦下垂體分泌 GH，源頭被關掉，GH 與 IGF-I 就一起下降。四個選項裡只有它同時做到兩件事。",
       "D": "本項不選。bromocriptine 對肢端肥大症的效果比 cabergoline 還弱，更不及 somatostatin analogue。",
       "summary": "要 GH 和 IGF-I 一起降就得從源頭抑制分泌；pegvisomant 只擋受體，IGF-I 降但 GH 不降。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最有效**同時降低 GH 與 IGF-I 的藥",
+        "t": "**somatostatin 類似物**從源頭抑制 GH 分泌",
+        "x": "pegvisomant 擋受體，IGF-I 降但 GH 不降；cabergoline 與 bromocriptine 效果較弱"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117465,7 +117875,12 @@
       "C": "本項一律給分。carbimazole 與 methimazole 是 Graves disease 常用的長期藥物，更不限於危象時使用。",
       "D": "本項一律給分，而且就藥理來說它最接近題意。Lugol's solution 用在甲狀腺風暴或術前短期抑制荷爾蒙釋放，不會拿來當一般甲狀腺亢進的長期單一用藥。",
       "summary": "本題官方 A–D 一律給分。真正的分界是「碘」：Lugol's solution 只在風暴或術前短期用，其餘三個平時就會開。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "通常在甲狀腺危象才用的藥（官方四個都給分）",
+        "t": "碘劑（**Lugol's solution**）只在危象或術前短期使用",
+        "x": "本題官方送分；propranolol、PTU、carbimazole 平時就會用"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117502,7 +117917,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病慢性併發症、選**最不適當**（官方 C、D）",
+        "t": "糖尿病足是**大血管＋神經病變**一起造成，不只是微血管病變",
+        "x": "視網膜病變是微血管、冠心病是大血管，這兩句對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117538,7 +117958,12 @@
       "guideline": null,
       "concepts": [
         "ncep-atp-iii-metabolic-syndrome-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "NCEP ATP III、哪位男性是代謝症候群",
+        "t": "C：腰圍 105、血壓 142/86、血糖 116、TG 216、HDL 42 → 五項中至少四項達標",
+        "x": "其他選項用 BMI、總膽固醇、白蛋白尿等**不在**五項標準內的指標，達標項目不足"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117574,7 +117999,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**導致低血糖",
+        "t": "**thiazide** 會讓血糖**上升**",
+        "x": "胰島素瘤、過量 glimepiride、敗血症都會低血糖"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117607,7 +118037,12 @@
       "C": "本項應選。這不是「胰島素無效」，而是工作壓力大、熬夜、喝含糖飲料，加上胰島素可能沒打或劑量不夠。改用其他降血糖藥會延誤 DKA 的治療。",
       "D": "本項不選。血糖 560 mg/dL 合併腸胃（GI）症狀、多尿與體重減輕，本來就該住院監測與治療。",
       "summary": "血糖飆高又吐又腹痛，先想 DKA——這時要加強胰島素與輸液，不是換藥。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "第一型糖尿病、喝含糖飲料、多尿口渴、嘔吐腹痛、血糖 560",
+        "t": "懷疑 **DKA** → 加強**胰島素＋輸液**，**不是**改用其他降血糖藥",
+        "x": "驗血糖電解質 pH、輸液加胰島素、住院觀察都適當"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -127297,7 +127732,12 @@
       "C": "本項不選。女性是生物性的風險標記，無法調整。",
       "D": "本項不選。一等親屬的骨折史屬於遺傳與家族風險，同樣改不了。",
       "summary": "骨鬆危險因子分「改得動」與「改不動」——年齡、性別、家族史都改不動，抽菸可以。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**可以調節**的骨鬆危險因子",
+        "t": "**抽菸**",
+        "x": "年齡、性別、家族骨折史都改不了"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129253,7 +129693,12 @@
       "guideline": null,
       "concepts": [
         "sheehan-syndrome-definition"
-      ]
+      ],
+      "approach": {
+        "k": "希漢氏症候群的機轉",
+        "t": "**產後大出血**讓懷孕時增大的腦下垂體缺血壞死",
+        "x": "腫瘤壓迫、高泌乳激素、自體免疫都不是 Sheehan 的機轉"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129286,7 +129731,12 @@
       "C": "本項不選。甲狀腺素（T3/T4）不是 AVP 的主要調節訊號。",
       "D": "本項不選。血糖會影響測得的滲透壓與水分移動，但它不是 AVP 的主要感測對象。",
       "summary": "AVP 主要看滲透壓；但血容量掉太多時，身體會不顧滲透壓也把 AVP 放出來保水。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "調控 AVP 的**主要**機制",
+        "t": "**血漿滲透壓**（容積大量下降時也會刺激）",
+        "x": "ACTH、甲狀腺素、血糖都不是主要調控"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129319,7 +129769,12 @@
       "C": "本項不選。低劑量 dexamethasone 抑制試驗是用來篩庫欣氏症候群的，不是嗜鉻細胞瘤。",
       "D": "本項不選。ACTH 刺激試驗評估的是腎上腺功能不足，方向完全不同。",
       "summary": "嗜鉻細胞瘤發作是陣發的，但代謝是持續的——所以驗 metanephrines 比驗 catecholamine 本身敏感。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "嗜鉻細胞瘤**敏感度最高**的生化檢查",
+        "t": "**血漿游離 metanephrines**",
+        "x": "24 小時尿 catecholamine 敏感度較低；dexamethasone 與 ACTH 試驗是腎上腺皮質"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129352,7 +129807,12 @@
       "C": "本項敘述錯誤。缺的是溶酶體的酸性 α-glucosidase，不是肝臟磷酸化酶激酶。缺陷位置不同，病理與治療也完全不同。",
       "D": "正確答案。臺灣已經把龐貝氏症納入新生兒篩檢，這是很關鍵的一步——因為酵素替代療法（enzyme replacement therapy）愈早開始，存活、心臟與運動功能的結果愈好。",
       "summary": "龐貝氏症＝GSD type II、缺酸性 α-glucosidase；臺灣有新生兒篩檢，早打酵素差很多。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "龐貝氏症、選**正確**的",
+        "t": "台灣已列入**新生兒篩檢**，可酵素替代治療",
+        "x": "多在**嬰兒期**發病（也有晚發型）；是 **GSD II**；缺的是**酸性 α-glucosidase**，主要侵犯肌肉"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129388,7 +129848,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "LADA、選**錯誤**的",
+        "t": "LADA 的 β 細胞喪失速度比第一型**慢**",
+        "x": "初期可不用胰島素、發病較晚、驗 anti-GAD65，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129421,7 +129886,12 @@
       "C": "本項不選。高血鈣會降低腸胃道（GI）蠕動，所以便秘很常見。",
       "D": "本項應選。手麻與抽筋是**低**血鈣造成的神經肌肉過度興奮。這個病是高血鈣，方向剛好相反，所以最不常見。",
       "summary": "副甲狀腺機能過高的口訣「骨頭痛、結石、腹部悶、精神亂」全是高血鈣；手麻抽筋是低血鈣才有。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "原發性副甲狀腺亢進、**最不常見**",
+        "t": "**手麻抽筋**是**低**血鈣的表現",
+        "x": "骨鬆、腎結石、便祕都是高血鈣表現"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129454,7 +129924,12 @@
       "C": "本項不選。瀰漫性甲狀腺腫也是常見表現，整個腺體都被刺激而變大。",
       "D": "本項應選。葛雷夫氏症的皮膚表現是脛前黏液水腫，摸起來是硬的、**壓不下去**（nonpitting）。題目寫成可壓凹陷的水腫，那是心衰竭或低白蛋白那類的水腫，性質不同。",
       "summary": "脛前黏液水腫是「壓不凹」的硬皮，不是一般的水腫——這個手感就是分辨點。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是** Graves 特徵",
+        "t": "Graves 的脛前黏液水腫是**壓不凹**（non-pitting）",
+        "x": "甲亢、眼病變、甲狀腺腫都是特徵"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -129760,7 +130235,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病、選**正確**的",
+        "t": "**SGLT2 抑制劑**：減重＋不易低血糖",
+        "x": "台灣 40 歲以上盛行率遠高於 5%；HbA1c 目標要個別化；DPP-4 抑制劑體重**中性**"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130161,7 +130641,12 @@
       "C": "本項不選。血小板 85,000/mm3 低於 100,000 的門檻，屬於靜脈（IV）血栓溶解的禁忌。",
       "D": "本項不選。電腦斷層（CT）看到超過 1/3 大腦半球的多葉低密度影像，代表大範圍梗塞已經成形，出血風險很高，屬排除條件。",
       "summary": "r-tPA 的排除條件多半是「改不掉的」；低血糖可以當場補起來，所以不算。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是** r-tPA 排除條件",
+        "t": "血糖 65 可以**當場矯正**，不算排除（<50 才要先矯正）",
+        "x": "血壓 >185/110 未控、血小板 <100,000、梗塞 >1/3 MCA 都是排除條件"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -139026,7 +139511,12 @@
       "C": "本項不選。手腕（遠端橈骨）骨折常見於低能量跌倒，是典型的脆弱性骨折。",
       "D": "本項應選。手指骨折多半來自局部外傷，不是骨鬆的典型部位。骨鬆挑的是承重與海綿骨多的地方。",
       "summary": "骨鬆骨折三個經典部位：髖、脊椎、手腕；手指骨折是撞到的，不是骨頭疏鬆造成的。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**骨鬆骨折好發部位",
+        "t": "骨鬆骨折三大部位：**髖、脊椎、手腕**；手指不是",
+        "x": "髖部、脊柱、手腕都是好發處"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -140995,7 +141485,12 @@
       "concepts": [
         "acid-base-approach",
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "原發性醛固酮症**不包括**",
+        "t": "醛固酮讓腎臟排 H⁺ 與 K⁺ → **代謝性鹼中毒**，不是酸中毒",
+        "x": "高血壓、低血鉀、ARR 升高都是特徵"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -141028,7 +141523,12 @@
       "C": "本項敘述錯誤。無功能的腫瘤要依大小、生長速度、分級、症狀與手術風險決定處置，不是「無論大小只要追蹤」。太大或在長的還是要開。",
       "D": "本項敘述錯誤。Verner-Morrison syndrome 的水樣腹瀉、低血鉀與胃酸缺乏，是 VIPoma 造成的，不是升糖素瘤。",
       "summary": "胰臟神經內分泌腫瘤大多「沒功能」；有功能的裡面最常見是胰島素瘤，而水瀉那組是 VIPoma。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "胰臟 NET、選**正確**的",
+        "t": "**大部分**是無功能性",
+        "x": "功能性最常見是**胰島素瘤**；水瀉低鉀胃酸缺乏是 **VIPoma**（Verner-Morrison）"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -141064,7 +141564,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病胰島素機轉、選**正確**的",
+        "t": "胰島素阻抗主要來自受體**後**訊號缺陷（postreceptor defect）",
+        "x": "通常胰島素**阻抗先發生**；敏感性增加時胰島素分泌應**減少**；亞洲人以**分泌不足**較明顯"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -141097,7 +141602,12 @@
       "C": "本項敘述錯誤。飲食治療只對部分以肝臟為主的型別有效。許多型別仍會發生肌肉病變、心肌病變與肝腎併發症，光靠飲食避免不了長期併發症。",
       "D": "本項敘述錯誤。成人常見的是肌肉型，例如 McArdle disease（GSD type V）；把成人與兒童常見型別對調就錯了。",
       "summary": "肝醣儲積症看兩件事：缺的酵素在哪一步（決定堆在哪個器官）、堆的肝醣結構正不正常。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肝醣儲積症、選**正確**的",
+        "t": "肝醣可堆積在肌肉肝臟心臟，結構可能正常或異常",
+        "x": "發生率約 **1/20,000–25,000**；長期併發症不是只靠飲食就能避免；G6Pase 缺乏（GSD I）多在**嬰兒**發病"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -141133,7 +141643,12 @@
       "guideline": null,
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Wilson's disease、選**正確**的",
+        "t": "可影響內分泌（青春期延遲、無月經）與腎小管（Fanconi 樣流失）",
+        "x": "肝臟症狀多在**兒童到青少年**；ATP7B 清的是**銅**不是鋁；早期首選**排銅藥**，移植是最後手段"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -141207,7 +141722,12 @@
       "C": "本項不選。BMI 30 已經是中度肥胖，換算需要約 67.5 kg，比實際體重多了 22 公斤以上，差距很大。",
       "D": "本項不選。BMI 35 屬重度肥胖，需要約 78.75 kg。這位病人腰圍 75 公分也沒有腹部肥胖，整體不符合。",
       "summary": "BMI 算錯多半錯在身高沒換成公尺：45÷1.50²＝20，不是 45÷150²。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "150 cm、45 kg 的 BMI",
+        "t": "45 ÷ 1.5² ＝ **20**",
+        "x": "25、30、35 都算錯"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
