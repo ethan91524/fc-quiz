@@ -10068,7 +10068,12 @@
       "guideline": null,
       "concepts": [
         "modified-mallampati-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Mallampati、只看得到**硬顎**、看不到軟顎",
+        "t": "**Class IV**",
+        "x": "I 看到懸壅垂與扁桃柱；II 看到懸壅垂；III 只看到軟顎與懸壅垂基部"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10104,7 +10109,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "全麻中 ETCO₂ **突然降低**、**不包括**",
+        "t": "**發燒**會增加 CO₂ 產生，讓 ETCO₂ **上升**",
+        "x": "管子彎折、迴路鬆脫、急性肺栓塞都會讓 ETCO₂ 突降"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10145,7 +10155,12 @@
       "guideline": "FC 醫學(六)第4冊 p.61",
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "體溫監測、選**錯誤**的",
+        "t": "區域麻醉**也會**破壞體溫調節（血管擴張、閾值改變），仍需監測",
+        "x": "發抖增加代謝、30 分鐘以上全麻要監測核心溫 >36、老人血管收縮閾值低易失溫，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10186,7 +10201,12 @@
       "guideline": "FC 醫學(六)第4冊 p.123",
       "concepts": [
         "local-anesthetic-pharmacology"
-      ]
+      ],
+      "approach": {
+        "k": "局部麻醉劑、選**錯誤**的",
+        "t": "局麻阻斷的是**電位門控鈉離子**通道，不是鈣",
+        "x": "敏感性與直徑髓鞘有關、過量抑制心血管、脂溶性高作用較長，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10227,7 +10247,12 @@
       "guideline": "FC 醫學(六)第4冊 p.142",
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "remifentanil、選**錯誤**的",
+        "t": "remifentanil 被**非特異性酯酶**分解；pseudocholinesterase 缺乏影響的是 **succinylcholine**",
+        "x": "紅血球組織酯酶水解、半衰期 <10 分鐘、不累積，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10263,7 +10288,12 @@
       "guideline": null,
       "concepts": [
         "positioning-pregnancy-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "頭低腳高姿勢、選**錯誤**的",
+        "t": "頭低腳高適合**骨盆下腹**手術；上腹部手術用頭高腳低",
+        "x": "喉頭水腫、增加 CVP 顱壓眼壓、FRC 下降易塌陷，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10304,7 +10334,12 @@
       "guideline": null,
       "concepts": [
         "local-anesthetic-systemic-toxicity-management"
-      ]
+      ],
+      "approach": {
+        "k": "bupivacaine 臂神經叢阻斷時發生**心室性心搏過速**，**最不恰當**",
+        "t": "局麻全身毒性（LAST）**不可再給 lidocaine**（另一種局麻）",
+        "x": "給 lipid emulsion、停止注射、注意癲癇給 benzodiazepine，都正確"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10345,7 +10380,12 @@
       "guideline": "FC 醫學(六)第4冊 p.142",
       "concepts": [
         "pain-medicine-regional-analgesia"
-      ]
+      ],
+      "approach": {
+        "k": "全膝置換術後、止痛效果**最差**",
+        "t": "膝前內側痛主要由股神經支配；**單獨坐骨神經阻斷**效果最差",
+        "x": "硬膜外、股神經阻斷、內收肌管阻斷都能涵蓋前側"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10381,7 +10421,12 @@
       "guideline": null,
       "concepts": [
         "sepsis-septic-shock-management"
-      ]
+      ],
+      "approach": {
+        "k": "敗血性休克心血管用藥**第一優先**",
+        "t": "**norepinephrine**",
+        "x": "dopamine 心律不整較多；epinephrine 與 vasopressin 是後援"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10420,7 +10465,12 @@
       "D": "本項應選。血管樣紋（angioid streaks）是 Bruch membrane 鈣化、脆裂形成的放射狀裂紋，典型與 pseudoxanthoma elasticum 等疾病相關，不是高度近視的常見病理變化。",
       "summary": "病理性高度近視常見後葡萄腫、脈絡膜視網膜萎縮及近視性脈絡膜新生血管後的 Fuchs spot；angioid streaks 應想到 Bruch membrane 系統性病變。",
       "guideline": "FC 醫學(六)第2冊 p.154",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "高度近視視網膜黃斑變化、選**錯誤**的",
+        "t": "**血管樣紋**（angioid streaks）是 Bruch 膜系統性病變（彈性纖維假黃瘤、Paget、鐮刀型貧血），不是高度近視",
+        "x": "後葡萄腫、Fuchs 斑、脈絡膜視網膜萎縮都是病理性近視變化"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10461,7 +10511,12 @@
       "guideline": "FC 醫學(六)第2冊 p.233",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "4 歲男孩、右眼**前房蓄膿**，**最不可能**的",
+        "t": "HLA-B27 急性前葡萄膜炎好發**年輕成人**，4 歲極少",
+        "x": "白血病、犬蛔蟲、視網膜母細胞瘤都可在兒童造成偽前房蓄膿"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10500,7 +10555,12 @@
       "D": "本項不選。培養結果尚未回報前應立即使用涵蓋常見病原的經驗性廣效 topical antibiotics，之後再依臨床反應、培養及藥敏結果調整。",
       "summary": "微生物角膜潰瘍須先採檢並立即經驗性抗生素治療；感染尚未辨明與控制前貿然加類固醇可能加速角膜溶解。",
       "guideline": "FC 醫學(六)第2冊 p.66",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "微生物角膜潰瘍、選**錯誤**的",
+        "t": "菌種未確定、感染未控制前**不可**加類固醇（會加速角膜溶解）",
+        "x": "刮取培養、可致溶解穿孔、經驗性抗生素，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10539,7 +10599,12 @@
       "D": "本項不選。人類角膜內皮細胞出生後在 vivo 幾乎不進行有意義的 mitosis；細胞隨年齡或損傷減少後，由剩餘細胞擴大、移行覆蓋缺損。",
       "summary": "角膜透明仰賴上皮更新、基質膠原規則排列及內皮幫浦；Bowman membrane 是無細胞膠原層，不是上皮分泌物。",
       "guideline": "FC 醫學(六)第2冊 p.67",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "角膜結構、選**錯誤**的",
+        "t": "Bowman 膜是**無細胞**的膠原層，不是上皮細胞分泌的",
+        "x": "上皮幹細胞在輪部、基質靠蛋白聚醣維持間距、內皮出生後不分裂，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10578,7 +10643,12 @@
       "D": "本項應選。眼睛乾澀（dryness）主要源於淚膜或眼表異常，不是水晶體混濁造成的白內障症狀；乾眼可與白內障同時存在，但機轉不同。",
       "summary": "白內障是水晶體光學混濁，典型造成無痛視力下降、glare 與 monocular diplopia；dryness 屬眼表問題。",
       "guideline": "FC 醫學(六)第2冊 p.96",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不是**白內障症狀",
+        "t": "白內障是水晶體混濁 → 視力減退、眩光、單眼複視；**眼睛乾澀**是眼表問題",
+        "x": "視力減退、單眼複視、眩光都是白內障症狀"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10619,7 +10689,12 @@
       "guideline": "FC 醫學(六)第2冊 p.224",
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "重症肌無力、選**錯誤**的",
+        "t": "MG 眼部表現可以**單側**起始，**單眼眼瞼下垂不能排除** MG",
+        "x": "可合併甲狀腺病、可和胸腺瘤有關、冰敷試驗可快篩，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10660,7 +10735,12 @@
       "guideline": "FC 醫學(六)第2冊 p.188",
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "調節性內斜視的第一步治療",
+        "t": "配戴**完整遠視矯正眼鏡**（睫狀肌麻痺驗光）",
+        "x": "手術、稜鏡、遮眼不是第一步"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10699,7 +10779,12 @@
       "D": "本項應選。眼瞼退縮最常見也最具特徵性，上方會露出鞏膜，往下看時上眼瞼跟不上（lid lag）。",
       "summary": "甲狀腺眼疾最常見的是眼瞼退縮，不是眼球突出；看到下垂要改想肌無力。",
       "guideline": "FC 醫學(六)第2冊 p.210",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "甲狀腺眼疾**最常見**的特徵性徵候",
+        "t": "**眼瞼退縮**",
+        "x": "眼外肌受限與突眼也常見但不是最常見；眼瞼**下垂**要想肌無力"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -10738,7 +10823,12 @@
       "D": "本項不選。反向內眥贅皮是從下眼瞼內側往上延伸的皮膚皺褶，方向和一般的相反，也是病名的一部分。",
       "summary": "BPES 名字就是答案：眼裂狹小、下垂、反向內眥贅皮，加上眥距過寬；沒有內翻。",
       "guideline": "FC 醫學(六)第2冊 p.28",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "眼瞼裂狹小症候群、選**錯誤**的",
+        "t": "BPES：眼裂狹小、下垂（提肌功能差）、眥距過寬、反向內眥贅皮；**沒有**眼瞼內翻",
+        "x": "提肌功能差、眥距過寬、反向內眥贅皮都是特徵"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13126,7 +13216,12 @@
       "guideline": null,
       "concepts": [
         "local-anesthetic-pharmacology"
-      ]
+      ],
+      "approach": {
+        "k": "72 kg、lidocaine **加 epinephrine** 最高劑量",
+        "t": "7 mg/kg × 72 ≈ 504 → **500 mg**",
+        "x": "100、250 太少；700 超量（不加 epinephrine 是 4.5 mg/kg）"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -23269,7 +23364,12 @@
       "guideline": "FC 醫學(六)第4冊 p.34",
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "**不能**作正壓呼吸的工具",
+        "t": "**Venturi 面罩**只給固定濃度氧氣",
+        "x": "喉頭罩、氣管內管、麻醉面罩都能正壓通氣"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23311,7 +23411,12 @@
       "concepts": [
         "hemodynamic-renal-monitoring-echo",
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "術後 AKI 與腎功能監測、選**正確**的",
+        "t": "直接測 **GFR** 比等血漿肌酸酐上升更即時",
+        "x": "術後少尿**不能**當正常；肌酸酐與 GFR **有關**（只是延遲）；NGAL 在損傷後**數小時**就上升，選項說「最早術後 24 小時」不精確"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23352,7 +23457,12 @@
       "guideline": "FC 醫學(六)第4冊 p.60",
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "麻醉深度監測、選**正確**的",
+        "t": "**腦電圖**分析對鎮靜與麻醉深度監測有幫助",
+        "x": "腦血氧看的是氧合不是麻醉深度；BIS **有助**減少術中知曉；BIS **不是越低越好**"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23388,7 +23498,12 @@
       "guideline": null,
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "吸入性麻醉劑、選**錯誤**的",
+        "t": "sevoflurane 與 desflurane 都是**氟化物**（不含氯）",
+        "x": "desflurane 低溶解度快速甦醒、乾吸收劑下 desflurane 產生 CO、sevoflurane 產生 compound A，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23429,7 +23544,12 @@
       "guideline": "FC 醫學(六)第4冊 p.122",
       "concepts": [
         "local-anesthetic-pharmacology"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**局麻引起的中樞神經症狀",
+        "t": "LAST 早期：口周麻、舌頭異常、耳鳴、眩暈；**幻覺**不是典型",
+        "x": "其他三項都是早期警訊"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23470,7 +23590,12 @@
       "guideline": "FC 醫學(六)第4冊 p.123",
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "硬膜外穿刺 sudden loss of resistance 是通過",
+        "t": "**黃韌帶**",
+        "x": "豎脊肌與棘間韌帶在更淺；穿過**硬脊膜**會流出腦脊髓液"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23511,7 +23636,12 @@
       "guideline": null,
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "顱內血腫急診手術麻醉、選**錯誤**的",
+        "t": "**ketamine** 會升顱壓與血壓，不是理想選擇",
+        "x": "避免擴張腦血管、術後插管以 narcotic 加肌鬆維持、CPP <60 有再傷風險，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23552,7 +23682,12 @@
       "guideline": "FC 醫學(六)第4冊 p.141",
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "開胸全肺切除、術後止痛**最好**",
+        "t": "**胸椎硬膜外止痛**",
+        "x": "IVPCA 較差；腋下神經叢阻斷不涵蓋胸壁；口服 NSAID 不夠"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23593,7 +23728,12 @@
       "guideline": "FC 醫學(六)第4冊 p.164",
       "concepts": [
         "surgical-nutrition-fluids"
-      ]
+      ],
+      "approach": {
+        "k": "重症營養支持併發症、選**錯誤**的",
+        "t": "減量停用時**不論靜脈或腸道**營養，都要注意胰島素與低血糖",
+        "x": "腸道營養腹瀉胃脹逆流、周邊靜脈營養靜脈炎、敗血症要想導管感染，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23634,7 +23774,12 @@
       "guideline": "FC 醫學(六)第2冊 p.84",
       "concepts": [
         "retinal-detachment-types"
-      ]
+      ],
+      "approach": {
+        "k": "VKH **初期**最不可能的徵候",
+        "t": "**皮膚白斑**是**晚期**（恢復期）表現",
+        "x": "視力減退、聽力減退、CSF 單核球增多都是早期表現"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23675,7 +23820,12 @@
       "guideline": "FC 醫學(六)第2冊 p.154",
       "concepts": [
         "retinal-detachment-types"
-      ]
+      ],
+      "approach": {
+        "k": "裂孔性網膜剝離**不會**出現",
+        "t": "**視物變大**是黃斑問題（多為變小或變形）",
+        "x": "大範圍剝離可有 RAPD、低眼壓、輕度虹彩炎"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23714,7 +23864,12 @@
       "D": "本項不選。隱形眼鏡過夜配戴或清潔不當，是綠膿桿菌角膜炎的重要危險因子，可能快速惡化融解角膜。",
       "summary": "細菌性角膜潰瘍治好也常留疤；戴隱形眼鏡要想綠膿桿菌。",
       "guideline": "FC 醫學(六)第2冊 p.66",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "細菌性角膜潰瘍、選**錯誤**的",
+        "t": "治療後**常留下角膜疤痕**，不一定能維持透明",
+        "x": "上皮破損水腫浸潤、外傷是危險因子、綠膿桿菌與隱形眼鏡相關，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23755,7 +23910,12 @@
       "guideline": "FC 醫學(六)第2冊 p.48",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "輪部 **Horner-Trantas dots**",
+        "t": "**春季角結膜炎**",
+        "x": "砂眼是 Herbert's pits；圓錐角膜是 Fleischer ring；Wilson 是 K-F ring"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23796,7 +23956,12 @@
       "guideline": "FC 醫學(六)第2冊 p.114",
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "急性隅角閉鎖青光眼、眼壓 50，**最不適當**的急診處置",
+        "t": "**雷射小樑網整形**是開放性青光眼用；隅角閉鎖要**周邊虹膜切開**",
+        "x": "mannitol、口服碳酸酐酶抑制劑、pilocarpine 加類固醇都適當"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23837,7 +24002,12 @@
       "guideline": "FC 醫學(六)第2冊 p.187",
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "對弱視**較無效**的治療",
+        "t": "**手術**只移除障礙或改眼位，不直接治療弱視",
+        "x": "遮閉、禁制（atropine 壓抑好眼）、屈光配鏡都有效"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23876,7 +24046,12 @@
       "D": "本項不選。下直肌由動眼神經下支支配，主要下轉。",
       "summary": "LR6、SO4，其餘第三對；外直肌不歸動眼神經。",
       "guideline": "FC 醫學(六)第2冊 p.21",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "動眼神經**不支配**的眼肌",
+        "t": "**外直肌**由外展神經（VI）支配",
+        "x": "內直肌、上直肌、下直肌都是動眼神經"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23915,7 +24090,12 @@
       "D": "本項不選。嚴重突眼讓眼瞼閉不起來，角膜暴露會造成暴露性角膜病變甚至潰瘍。",
       "summary": "甲狀腺眼疾和甲狀腺功能不同步；功能正常時眼睛也可能很嚴重。",
       "guideline": "FC 醫學(六)第2冊 p.209",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "甲狀腺眼疾、選**錯誤**的",
+        "t": "眼病變程度與甲狀腺功能**不成正相關**",
+        "x": "女性較多、眼瞼退縮限制性眼肌病變突眼、嚴重突眼暴露性角膜病變，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -23949,7 +24129,12 @@
       "D": "本項不選。淚囊只是排流系統的一部分；Jones 試驗看的是整條排流路徑，不是單獨淚囊。",
       "summary": "Schirmer 量分泌，Jones 看排流。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "Jones test 評估什麼",
+        "t": "**淚液排流**功能（鼻淚管通暢）",
+        "x": "淚液分泌是 Schirmer test；淚液成分與淚囊功能不是"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26158,7 +26343,12 @@
       "D": "本項不選。眶底與內側壁最薄，分別貼著上頷竇與篩竇，是最常骨折的位置。",
       "summary": "爆裂性骨折好發眶底與內側壁，CT 首選，但 X 光不是完全看不到。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "顏面骨折、右眼複視、CT，選**錯誤**的",
+        "t": "傳統 X 光**可以**看到部分爆裂性骨折（如淚滴徵），只是 CT 更好",
+        "x": "爆裂性骨折可能、可合併眼球凹陷、好發內側與下方，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -36420,7 +36610,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "確認氣管內管位置、選**錯誤**的",
+        "t": "超音波要掃**前頸部**，不是後頸部",
+        "x": "兩側呼吸音上腹無、持續 ETCO₂ 方波、支氣管鏡都正確"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36461,7 +36656,12 @@
       "guideline": "FC 醫學(六)第4冊 p.58",
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "侵入性心血管監測、選**正確**的",
+        "t": "評估前負荷與輸液反應，**動態**指標（SVV、PPV）優於靜態",
+        "x": "Allen test **不能**預防後遺症；PAC **沒有**改善預後；CVP **不等於**血量"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36497,7 +36697,12 @@
       "guideline": null,
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "麻醉中體溫、選**正確**的",
+        "t": "麻醉初期降溫 0.5–1.5℃ 主要是**核心到周邊的熱重分布**",
+        "x": "體表加溫無法預防第一小時（要術前預熱）；呼吸道加溫對**小兒**較有效；區域麻醉**也會**低體溫"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36533,7 +36738,12 @@
       "guideline": null,
       "concepts": [
         "local-anesthetic-pharmacology"
-      ]
+      ],
+      "approach": {
+        "k": "局部麻醉劑、選**錯誤**的",
+        "t": "加 **epinephrine** 是讓血管**收縮**、延長作用",
+        "x": "鈉通道三種狀態、過量先神經症狀、中樞會受影響，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36574,7 +36784,12 @@
       "guideline": "FC 醫學(六)第4冊 p.163",
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "**預防** PONV 的藥",
+        "t": "**dexamethasone**",
+        "x": "edrophonium 是膽鹼酯酶抑制劑；fentanyl 會增加 PONV；atracurium 是肌鬆"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36615,7 +36830,12 @@
       "guideline": "FC 醫學(六)第4冊 p.59",
       "concepts": [
         "perioperative-cardiac-antithrombotic"
-      ]
+      ],
+      "approach": {
+        "k": "主動脈瓣最高流速 3.5 m/s 的壓力差",
+        "t": "ΔP＝4V²＝4×3.5²＝**49 ≈ 50 mmHg**",
+        "x": "20、30、40 都算錯"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36651,7 +36871,12 @@
       "guideline": null,
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "PACU 恢復室、選**錯誤**的",
+        "t": "恢復室**高血壓或低血壓都可能**",
+        "x": "PONV 常見、標準監測、部分抗生素延長肌鬆，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36692,7 +36917,12 @@
       "guideline": "FC 醫學(六)第4冊 p.141",
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**硬膜外止痛的優點",
+        "t": "硬膜外會**阻斷**交感神經，不是增加交感輸出",
+        "x": "減少全身鴉片、減少腸胃與肺部併發症都是優點"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36733,7 +36963,12 @@
       "guideline": "FC 醫學(六)第4冊 p.163",
       "concepts": [
         "ards-ventilation-co-inhalation"
-      ]
+      ],
+      "approach": {
+        "k": "正壓過高過度擴張肺泡、選**錯誤**的",
+        "t": "壓力傷害看**高原壓（>30）與驅動壓**；10 cmH₂O 不會明顯增加風險",
+        "x": "增加死腔、增加肺血管阻力右心後負荷、減少回心血降低心輸出，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36774,7 +37009,12 @@
       "guideline": "FC 醫學(六)第2冊 p.153",
       "concepts": [
         "amd-dry-vs-wet"
-      ]
+      ],
+      "approach": {
+        "k": "高度近視黃斑脈絡膜新生血管、選**錯誤**的",
+        "t": "**葉黃素**沒有證據能預防近視性脈絡膜新生血管",
+        "x": "雷射手術不減少風險、影響視力要打抗 VEGF、年輕人預後較好，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36815,7 +37055,12 @@
       "guideline": "FC 醫學(六)第2冊 p.84",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "葡萄膜炎**多以單眼**發作",
+        "t": "**僵直性脊椎炎**（HLA-B27）急性前葡萄膜炎多單眼",
+        "x": "Behçet、類肉瘤、原田氏症多雙眼"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36856,7 +37101,12 @@
       "guideline": "FC 醫學(六)第2冊 p.47",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "結膜炎、選**錯誤**的",
+        "t": "新生兒結膜炎是出生後 **28 天內**",
+        "x": "流行性角結膜炎是腺病毒、過敏性有乳突、病毒性有濾泡，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36892,7 +37142,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "**非**屈光不正",
+        "t": "**斜視**是眼位問題",
+        "x": "近視、遠視、老花都是屈光或調節問題"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36928,7 +37183,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "8 個月嬰兒溢淚、畏光、眼瞼痙攣，**較不會**的發現",
+        "t": "**先天性青光眼**：眼壓高、角膜水腫、眼球變大；**虹膜變色**不是",
+        "x": "其他三項都是先天性青光眼表現"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -36969,7 +37229,12 @@
       "guideline": "FC 醫學(六)第2冊 p.96",
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "導致**隅角閉鎖**的水晶體異常",
+        "t": "**phacomorphic**：水晶體膨大把虹膜往前推",
+        "x": "phacolytic 是蛋白漏出塞小樑網（開角）；phacoanaphylactic 是免疫反應"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37010,7 +37275,12 @@
       "guideline": "FC 醫學(六)第2冊 p.187",
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "弱視治療、選**錯誤**的",
+        "t": "斜視性弱視**不能單靠斜視手術**，要遮蔽好眼",
+        "x": "屈光性配鏡、不等視配鏡加遮蔽、白內障手術加光學矯正加遮蔽，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37049,7 +37319,12 @@
       "D": "本項應選。成人的海綿狀血管瘤不會像嬰兒血管瘤那樣隨年紀自然消退，多半持續存在或慢慢變大，有症狀才考慮切除。",
       "summary": "嬰兒血管瘤會自己退；成人海綿狀血管瘤不會。兒童惡性眼眶腫瘤想橫紋肌肉瘤。",
       "guideline": "FC 醫學(六)第2冊 p.208",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "眼窩腫瘤、選**錯誤**的",
+        "t": "成人**海綿狀血管瘤**會**緩慢長大**，不會自然變小（會退化的是嬰兒微血管瘤）",
+        "x": "兒童良性最常微血管瘤、兒童惡性最常橫紋肌肉瘤、成人良性最常海綿狀血管瘤，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -37083,7 +37358,12 @@
       "D": "本項應選。肉毒桿菌會讓閉眼的肌肉變弱，可能造成眼瞼下垂、閉不緊或下眼瞼更鬆；它不能矯正眼瞼內翻或下垂，反而可能讓這些問題更明顯。",
       "summary": "眼瞼痙攣打肉毒桿菌是放鬆肌肉，不是矯正眼瞼位置。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "50 歲女性不自主眨眼、乾澀、焦慮失眠，選**錯誤**的",
+        "t": "肉毒桿菌是放鬆肌肉，**不能矯正**眼瞼內翻或下眼瞼下垂",
+        "x": "良性眼瞼痙攣、肉毒桿菌緩解、壓力亮光誘發，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39423,7 +39703,12 @@
       "guideline": "FC 醫學(六)第4冊 p.20",
       "concepts": [
         "modified-mallampati-classification"
-      ]
+      ],
+      "approach": {
+        "k": "可能導致**插管困難**的",
+        "t": "**Mallampati Class III**",
+        "x": "下巴到舌骨超過三指、張口超過三指都是**正常**；活動假牙可取下"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -49511,7 +49796,12 @@
       "guideline": "FC 醫學(六)第4冊 p.33",
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "鼻咽與口咽人工氣道、選**錯誤**的",
+        "t": "**清醒**病人用**鼻咽**；口咽會誘發嘔吐，用在無反射者",
+        "x": "口咽易誘發嘔吐、顱底骨折禁鼻咽、鼻咽可流鼻血，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49552,7 +49842,12 @@
       "guideline": "FC 醫學(六)第4冊 p.57",
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "心血管監測、選**錯誤**的",
+        "t": "SvO₂ 正常約 **65–75%**；選項寫 30–50% 是錯的",
+        "x": "TEE 提供多種資訊、動態指標較好、最常見後遺症是數值誤判，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49593,7 +49888,12 @@
       "guideline": "FC 醫學(六)第4冊 p.162",
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "麻醉中腎功能、選**正確**的",
+        "t": "保護腎功能最有效是**維持血流動力與組織灌流**",
+        "x": "尿量不能直接代表 GFR；肌酸酐與 GFR **非線性**；IL-18 **與**腎小管壓力相關"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49634,7 +49934,12 @@
       "guideline": "FC 醫學(六)第4冊 p.140",
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "拮抗鴉片呼吸抑制的藥",
+        "t": "**naloxone**",
+        "x": "flumazenil 拮抗 benzodiazepine；dexmedetomidine 是 α2 鎮靜；ketamine 是 NMDA 拮抗麻醉劑"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49675,7 +49980,12 @@
       "guideline": "FC 醫學(六)第4冊 p.83",
       "concepts": [
         "iv-induction-agents"
-      ]
+      ],
+      "approach": {
+        "k": "靜脈麻醉劑、選**錯誤**的",
+        "t": "barbiturate 作用在 **GABA-A** 受體；NMDA 拮抗劑是 ketamine",
+        "x": "benzodiazepine 可致呼吸暫停、propofol 製劑利於細菌生長、barbiturate 抑制網狀活化系統，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49711,7 +50021,12 @@
       "guideline": null,
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "面罩通氣困難、改善效果**最差**",
+        "t": "**用力往下壓面罩**會壓住下顎、讓氣道更塞",
+        "x": "口咽氣道、鼻咽氣道、壓額抬下巴都能打開氣道"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49747,7 +50062,12 @@
       "guideline": null,
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** TEE 能獲得的資訊",
+        "t": "TEE 看不到**冠狀動脈狹窄**程度",
+        "x": "左心室舒張功能、心輸出量、主動脈瓣狹窄都能評估"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49788,7 +50108,12 @@
       "guideline": "FC 醫學(六)第4冊 p.141",
       "concepts": [
         "pain-medicine-regional-analgesia"
-      ]
+      ],
+      "approach": {
+        "k": "慢性疼痛硬膜外注射、選**錯誤**的",
+        "t": "頸椎硬膜外注射**仍有**臨床使用，只是風險較高需嚴格選案",
+        "x": "適用輕度神經根壓迫、常用 X 光導引、類固醇加局麻效果較好，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49824,7 +50149,12 @@
       "guideline": null,
       "concepts": [
         "sepsis-septic-shock-management"
-      ]
+      ],
+      "approach": {
+        "k": "敗血性休克多器官問題、選**錯誤**的",
+        "t": "胰島素阻抗造成的是**高血糖**（stress hyperglycemia），不是低血糖",
+        "x": "血小板活化凝集導致低下、併發 DIC、壓力性潰瘍出血，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49860,7 +50190,12 @@
       "guideline": null,
       "concepts": [
         "amd-dry-vs-wet"
-      ]
+      ],
+      "approach": {
+        "k": "AMD **最適合**抗 VEGF 的情況",
+        "t": "**脈絡膜新生血管**（濕性 AMD）",
+        "x": "隱結、色素上皮萎縮（乾性）、盤狀結疤都不打"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49896,7 +50231,12 @@
       "guideline": null,
       "concepts": [
         "retinal-detachment-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**牽引性視網膜剝離常見原因",
+        "t": "**急性後玻璃體剝離**造成裂孔 → **裂孔性**剝離",
+        "x": "增殖性糖尿病視網膜病變、嚴重 ROP、穿透性外傷都造成牽引性"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49937,7 +50277,12 @@
       "guideline": "FC 醫學(六)第2冊 p.47",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "結膜炎分泌物、選**錯誤**的",
+        "t": "急性過敏以**水樣**分泌加搔癢為主；黏液分泌多見於慢性過敏或乾眼",
+        "x": "披衣菌黏液膿狀、淋病大量膿狀、病毒水樣，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -49976,7 +50321,12 @@
       "D": "本項不正確。遠視患者若調節能力不足，遠視力也可能只有 0.5；視力表不能取代散瞳驗光。",
       "summary": "裸視差代表遠處成像不清，不等於某一種屈光不正；要分近視、遠視與散光仍靠驗光。",
       "guideline": "FC 醫學(六)第2冊 p.169",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "遠距視力表結果、選**較正確**的",
+        "t": "裸視 1.5 → 遠方看得清 → **不太會是近視**",
+        "x": "裸視好不代表遠視；裸視 0.5 可能近視、遠視或散光，要驗光"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50017,7 +50367,12 @@
       "guideline": "FC 醫學(六)第2冊 p.96",
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "先天性白內障、選**錯誤**的",
+        "t": "**單側**白內障比雙側更容易弱視（兩眼競爭）",
+        "x": "列入白瞳鑑別、雙眼輕微可等待、術後易續發青光眼，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50053,7 +50408,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "弱視、選**正確**的",
+        "t": "關鍵期內**早期發現**治療效果好 → 學齡前要篩檢",
+        "x": "弱視不一定是兩眼競爭（屈光性也會）；外斜視**也會**弱視；老人白內障不是弱視"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50087,7 +50447,12 @@
       "D": "本項不選：中心視網膜靜脈阻塞可有瀰漫性出血、靜脈擴張與視神經盤充血腫脹，早期較輕時仍應列入鑑別。",
       "summary": "看到視神經盤腫要想到高顱壓、血管阻塞與全身性血管病；青光眼是神經盤凹陷，不是水腫。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "視神經盤水腫鑑別、**不相關**的",
+        "t": "**正常眼壓性青光眼**是視神經盤**凹陷**，不是水腫",
+        "x": "高血糖高血壓、高顱壓 papilledema、早期中心視網膜靜脈阻塞都會造成盤腫"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50126,7 +50491,12 @@
       "D": "本項不選。巨細胞病毒屬疱疹病毒科，嚴重免疫低下時會造成壞死性視網膜炎。",
       "summary": "VZV、EBV、CMV 都是疱疹病毒；HIV 是反轉錄病毒，但會帶來 CMV 視網膜炎等伺機感染。",
       "guideline": "FC 醫學(六)第2冊 p.250",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不屬於**疱疹病毒科",
+        "t": "**HIV** 是反轉錄病毒",
+        "x": "VZV、EBV、CMV 都是疱疹病毒"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -50167,7 +50537,12 @@
       "guideline": "FC 醫學(六)第2冊 p.208",
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Graves 眼瞼攣縮、選**錯誤**的",
+        "t": "往下看上眼瞼跟不上是 **lid lag**，不是 lid retraction 的定義",
+        "x": "可單側或雙側、上下眼瞼都可、提肌纖維化，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52298,7 +52673,12 @@
       "D": "本項要選：甲狀腺眼病變除眼外肌外，也會使眼眶脂肪增加與水腫；這些組織共同增加眼眶內容積並造成凸眼。",
       "summary": "甲狀腺眼病變不只讓眼外肌變粗，眼眶脂肪也會腫大；兩者都能把眼球往前推。",
       "guideline": "FC 醫學(六)第2冊 p.208",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "眼部影像、選**錯誤**的",
+        "t": "甲狀腺眼病**會**造成眼眶脂肪增生與水腫",
+        "x": "腫瘤與血管病造成眼眶腫塊、鼻竇炎可凸眼、眼外肌多為雙側肥大，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52412,7 +52792,12 @@
       "D": "本項不夠正確。眼球破裂可嚴重傷害視力，但少數破口小或位在周邊時，初始視力不一定明顯差；不能以視力尚可排除。",
       "summary": "鈍傷後 hyphema 要防眼壓升高；上轉受限先想骨折嵌頓，眼球破裂不能靠視力看起來還行就排除。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "眼睛鈍傷、選**最正確**的",
+        "t": "**前房出血**可能塞住小樑網 → 眼壓升高",
+        "x": "無法上看多是**眶底骨折嵌頓**；隔前出血不會造成腔室症候群（**眶內**出血才會）；眼球破裂不一定視力明顯受損"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52491,7 +52876,12 @@
       "concepts": [
         "iv-induction-agents",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "頭部外傷 GCS 7、**血壓 220/116**、瞳孔不等大、RSI",
+        "t": "**ketamine** 交感刺激升壓升顱壓，要特別小心",
+        "x": "lidocaine、etomidate、propofol 較不會加重高血壓"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -62659,7 +63049,12 @@
       "guideline": "FC 醫學(六)第4冊 p.32",
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "CICO 時施行環甲膜切開術、選**錯誤**的",
+        "t": "手術式環甲膜切開**不適用 6 歲以下**兒童（改針刺環甲膜）",
+        "x": "甲狀軟骨與環狀軟骨間定位、出血感染併發症、不作永久氣道，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62695,7 +63090,12 @@
       "guideline": null,
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "手術麻醉低體溫、選**錯誤**的",
+        "t": "**神經軸麻醉也會**造成低體溫",
+        "x": "全麻降低保溫閾值、開刀房溫度低、初期主要是熱重分布，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62736,7 +63136,12 @@
       "guideline": "FC 醫學(六)第4冊 p.56",
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "正常人直接測收縮壓、由高至低",
+        "t": "越往末梢收縮壓越高：**足背 ＞ 股 ＞ 肱 ＞ 鎖骨下**",
+        "x": "其他順序都錯"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62772,7 +63177,12 @@
       "guideline": null,
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "鴉片類藥物、選**錯誤**的",
+        "t": "鴉片類**抑制**鈣通道、**開啟**鉀通道（使細胞過極化）",
+        "x": "造成過極化、endorphin 是內源性、fentanyl 適合經皮吸收，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62813,7 +63223,12 @@
       "guideline": "FC 醫學(六)第4冊 p.82",
       "concepts": [
         "iv-induction-agents"
-      ]
+      ],
+      "approach": {
+        "k": "靜脈麻醉劑、選**錯誤**的",
+        "t": "**ketamine** 會讓血壓與心跳**上升**",
+        "x": "barbiturate 收縮腦血管、benzodiazepine 可致呼吸停止、etomidate 抑制腎上腺，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62854,7 +63269,12 @@
       "guideline": "FC 醫學(六)第4冊 p.82",
       "concepts": [
         "iv-induction-agents"
-      ]
+      ],
+      "approach": {
+        "k": "對呼吸抑制**最少**的藥",
+        "t": "**ketamine**（保留自發呼吸）",
+        "x": "thiopental、fentanyl、propofol 都明顯抑制呼吸"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62890,7 +63310,12 @@
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎麻醉阻斷高度的影響因素、選**錯誤**的",
+        "t": "肥胖者腦脊髓液量較少 → 阻斷**較高**，**有**影響",
+        "x": "藥劑比重、劑量體積、姿勢都是影響因素"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62931,7 +63356,12 @@
       "guideline": "FC 醫學(六)第4冊 p.161",
       "concepts": [
         "pain-medicine-regional-analgesia"
-      ]
+      ],
+      "approach": {
+        "k": "ERAS 多模式止痛、選**錯誤**的",
+        "t": "ERAS **鼓勵使用**周邊神經阻斷以減少鴉片",
+        "x": "NSAID 注意腎功能、PCA 提高滿意度、腸胃手術盡量不放鼻胃管，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -62972,7 +63402,12 @@
       "guideline": "FC 醫學(六)第4冊 p.161",
       "concepts": [
         "shock-hemodynamic-profiles"
-      ]
+      ],
+      "approach": {
+        "k": "肺炎、輸液 3000 mL 後仍 90/45、考慮升壓劑",
+        "t": "充分輸液後仍需升壓劑維持 → **敗血性休克**",
+        "x": "SIRS 與敗血症不足以描述；嚴重敗血症是舊名詞"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63013,7 +63448,12 @@
       "guideline": "FC 醫學(六)第2冊 p.249",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "僵直性脊椎炎葡萄膜炎、選**錯誤**的",
+        "t": "是**急性前**葡萄膜炎，不是全葡萄膜炎",
+        "x": "男性多、HLA-B27 陽性、多單眼，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63056,7 +63496,12 @@
       "guideline": "FC 醫學(六)第2冊 p.152",
       "concepts": [
         "diabetic-retinopathy-severity-classification"
-      ]
+      ],
+      "approach": {
+        "k": "眼底照片見**新生血管**",
+        "t": "**增殖性糖尿病視網膜病變**",
+        "x": "非增殖性（輕中重度）沒有新生血管"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63095,7 +63540,12 @@
       "D": "本項不選：硬式隱形眼鏡可用淚液鏡面中和不規則角膜表面，改善不規則散光造成的影像扭曲。",
       "summary": "假性近視是調節卡太緊，不是瞳孔太大；用睫狀肌麻痺鬆開調節，縮瞳反而可能更糟。",
       "guideline": "FC 醫學(六)第2冊 p.169",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "矯正近視方法、選**錯誤**的",
+        "t": "假性近視是調節痙攣，要用**睫狀肌麻痺劑**（atropine），不是縮瞳劑",
+        "x": "配眼鏡、雷射手術、不規則散光戴硬式隱形眼鏡，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63134,7 +63584,12 @@
       "D": "本項不選：長期隱形眼鏡摩擦、缺氧與毒性暴露會耗損輪部幹細胞，尤其見於不當長時間配戴。",
       "summary": "LSCD 是角膜更新工廠壞掉：灼傷、SJS 與長期隱形眼鏡會直接傷輪部，Sjögren 主要是乾眼。",
       "guideline": "FC 醫學(六)第2冊 p.65",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "角膜緣幹細胞缺乏症的原因、選**錯誤**的",
+        "t": "**Sjögren** 主要造成乾眼，不是典型 LSCD 原因",
+        "x": "化學灼傷、SJS、長期隱形眼鏡都會傷輪部"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63175,7 +63630,12 @@
       "guideline": "FC 醫學(六)第2冊 p.113",
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "隅角閉鎖患者隅角鏡**一定看不到**的結構",
+        "t": "**睫狀體帶**是隅角最深處，閉鎖時看不到",
+        "x": "Schwalbe 線、部分小樑網、周邊前沾黏可能看得到"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63216,7 +63676,12 @@
       "guideline": "FC 醫學(六)第2冊 p.113",
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "房水形成與排出、選**錯誤**的",
+        "t": "房水經 Schlemm 管進入**靜脈系統**，不是淋巴",
+        "x": "維生素 C 高蛋白低、睫狀體產生經瞳孔到前房角、睫狀肌收縮影響排出，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63250,7 +63715,12 @@
       "D": "本項會同時出現複視與凸眼。眼窩尖端症候群可合併多條腦神經受損、眼球運動障礙及眼眶病灶引起的 proptosis。",
       "summary": "複視加凸眼要想眼眶被東西擠滿；MG 只讓眼肌無力，不會把眼球推出來。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不會**同時複視又眼球突出",
+        "t": "**重症肌無力**只造成眼肌無力，不會推出眼球",
+        "x": "眼眶血腫、甲狀腺眼疾、眶尖症候群都會兩者兼有"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63289,7 +63759,12 @@
       "D": "本項不是最常見來源。大腸癌可有脈絡膜轉移，但成人男性的首要原發腫瘤仍是肺癌；女性則常見乳癌。",
       "summary": "脈絡膜轉移癌按性別記：男性先想肺癌，女性先想乳癌，因為脈絡膜血流非常豐富。",
       "guideline": "FC 醫學(六)第2冊 p.152",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "成人男性**最常見**轉移到脈絡膜的癌",
+        "t": "**肺癌**（女性是乳癌）",
+        "x": "肝癌、胰臟癌、大腸癌較少"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -63323,7 +63798,12 @@
       "D": "本項不選：若持續不通，可安排鼻淚管探通術打開 distal obstruction；時機需依年齡、症狀與眼科評估決定。",
       "summary": "嬰兒內眥溢淚多是 Hasner valve 沒打開：先做 Crigler massage，持續不通再評估探通，不是立刻手術。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "週歲前嬰兒溢淚、內眥黃色黏稠分泌物，選**錯誤**的",
+        "t": "先天性鼻淚管阻塞多自行改善，**不需立即**手術",
+        "x": "診斷先天性淚管阻塞、按摩淚囊、一歲前探通，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -65662,7 +66142,12 @@
       "concepts": [
         "iv-induction-agents",
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "RSI 藥物使用、**最不適當**",
+        "t": "**propofol** 會降血壓，**低血容性休克**時不宜",
+        "x": "ketamine 擴張支氣管適合重積氣喘、MG 對 rocuronium 敏感（減量可用）、SAH 可用 succinylcholine"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -75860,7 +76345,12 @@
       "guideline": "FC 醫學(六)第4冊 p.20",
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "面罩通氣困難**最可能**的預測因子",
+        "t": "**大量鬍鬚**（面罩漏氣）",
+        "x": "青少年、BMI <20、Mallampati II 都不是預測因子（肥胖才是）"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -75901,7 +76391,12 @@
       "guideline": "FC 醫學(六)第4冊 p.55",
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "SvO₂ 從何處抽**較精確**",
+        "t": "**肺動脈導管**",
+        "x": "中央靜脈導管抽的是 ScvO₂；外頸靜脈與橈動脈都不對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -75937,7 +76432,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "術中呼吸監測、選**錯誤**的",
+        "t": "ETCO₂ 與 PaCO₂ 差距**會隨死腔與灌流改變**，不能完全反映 PaCO₂",
+        "x": "監測要含氧合與通氣、脈搏血氧必要、capnography 確認管位，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -75978,7 +76478,12 @@
       "guideline": "FC 醫學(六)第4冊 p.121",
       "concepts": [
         "local-anesthetic-pharmacology"
-      ]
+      ],
+      "approach": {
+        "k": "局部麻醉劑、選**錯誤**的",
+        "t": "**amide** 類在**肝臟**代謝；pseudocholinesterase 分解的是 **ester** 類",
+        "x": "吸收率與血管豐富度有關、非離子化比例影響起效、bupivacaine 入血心毒性強，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76019,7 +76524,12 @@
       "guideline": "FC 醫學(六)第4冊 p.139",
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "鴉片類、選**錯誤**的",
+        "t": "長期使用可能造成**痛覺過敏**（opioid-induced hyperalgesia），不是痛覺減退",
+        "x": "肝衰竭代謝物累積、大劑量快打胸壁僵硬、大劑量抑制兒茶酚胺上升，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76060,7 +76570,12 @@
       "guideline": "FC 醫學(六)第4冊 p.160",
       "concepts": [
         "positioning-pregnancy-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "懷孕 25 週腹腔鏡闌尾切除、選**錯誤**的",
+        "t": "孕婦要維持**正常 CO₂**，**不可** permissive hypercapnia（胎兒酸中毒）",
+        "x": "氣腹壓不要太高、避免極端姿勢、監測胎心音，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76101,7 +76616,12 @@
       "guideline": "FC 醫學(六)第4冊 p.121",
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "產婦硬膜外止痛、選**錯誤**的",
+        "t": "**不需要等到**子宮頸開 3 cm 才打",
+        "x": "第一產程 T10–L1、第二產程可能延長、給 test dose 確認，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76142,7 +76662,12 @@
       "guideline": "FC 醫學(六)第4冊 p.139",
       "concepts": [
         "pain-medicine-regional-analgesia"
-      ]
+      ],
+      "approach": {
+        "k": "**不適合**長期癌痛的鴉片與途徑",
+        "t": "**靜脈 meperidine**：代謝物 normeperidine 會累積致抽搐",
+        "x": "經皮 fentanyl、口服 morphine、口服 oxycodone 都適合"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76183,7 +76708,12 @@
       "guideline": "FC 醫學(六)第4冊 p.160",
       "concepts": [
         "ards-ventilation-co-inhalation"
-      ]
+      ],
+      "approach": {
+        "k": "ARDS 柏林定義、選**正確**的",
+        "t": "**一週內**的臨床事件或新／惡化的呼吸症狀",
+        "x": "PaO₂/FiO₂ ≤300 是**輕度**（重度是 ≤100）；不能由心衰竭解釋；X 光是**雙側**浸潤"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76222,7 +76752,12 @@
       "D": "本項不選：高度近視的後葡萄腫會改變後極弧度，OCT 可呈現黃斑輪廓與牽拉性病變。",
       "summary": "OCT 最擅長看後極的分層與液體；格子狀退化在周邊，靠散瞳眼底檢查而不是黃斑 OCT。",
       "guideline": "FC 醫學(六)第2冊 p.151",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "OCT 檢查高度近視併發症、**除外**",
+        "t": "**格子狀退化**在周邊視網膜，靠散瞳眼底檢查",
+        "x": "黃斑裂孔、脈絡膜新生血管、後葡萄腫都用 OCT"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76263,7 +76798,12 @@
       "guideline": "FC 醫學(六)第2冊 p.248",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "Behçet 葡萄膜炎、選**錯誤**的",
+        "t": "診斷**不是**雙眼葡萄膜炎加 HLA-B51 陽性；要看反覆口腔潰瘍加多系統表現",
+        "x": "口腔生殖器潰瘍血管病灶、動靜脈都可受影響做螢光攝影、類固醇免疫調節生物製劑，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76304,7 +76844,12 @@
       "D": "本項不符合題幹的典型線索。homocysteine 異常主要連結晶狀體半脫位與血栓風險，不會以膽固醇型角膜環為主要表現。",
       "summary": "年輕人有角膜環別只當老化：先想脂質異常；Kayser-Fleischer ring 則是銅沉積的 Wilson 線索。",
       "guideline": "FC 醫學(六)第2冊 p.64",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "三十多歲、角膜基質晶狀沉積與角膜環",
+        "t": "年輕人角膜環 → 懷疑**膽固醇**（血脂）升高",
+        "x": "鈣是帶狀角膜病變；銅是 K-F ring；同半胱胺酸與水晶體脫位相關"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76345,7 +76890,12 @@
       "C": "本項敘述正確。內皮細胞不能再生，損失過多就回不來。密度低於臨界值後幫浦功能失代償，造成不可逆的角膜水腫（bullous keratopathy）。白內障手術傷到太多內皮也會這樣。",
       "D": "本項敘述正確。不可逆水腫影響視力時可做角膜移植，現在多採只換內皮層的 DSAEK 或 DMEK，恢復比全層移植快。",
       "summary": "角膜內皮不會再生，只會越用越少：它靠幫浦維持角膜約 78% 含水量，密度掉太低就水腫，只能換內皮。",
-      "guideline": "官方更正：本題一律給分"
+      "guideline": "官方更正：本題一律給分",
+      "approach": {
+        "k": "角膜內皮細胞層（官方四個都給分）",
+        "t": "內皮**幾乎不再生**；具屏障與幫浦功能；過度傷害會不可逆水腫；可角膜移植",
+        "x": "本題官方送分"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76379,7 +76929,12 @@
       "D": "本項應選。葛瑞夫茲病（Graves disease）主要造成甲狀腺眼病變、眼瞼退縮與眼外肌病變，不是典型會合併白內障的全身疾病。",
       "summary": "白內障的系統性連結記糖尿病、myotonic dystrophy、atopic dermatitis；Graves 重點在眼眶，不在水晶體。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**較不會**合併白內障的全身疾病",
+        "t": "**Graves** 重點在眼眶，不在水晶體",
+        "x": "糖尿病、強直性肌肉失養症、異位性皮膚炎都會合併白內障"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76418,7 +76973,12 @@
       "D": "本項不符合典型表現。幼年特發性關節炎相關葡萄膜炎多為慢性前葡萄膜炎，不會以嬰幼兒雙側視網膜出血為主。",
       "summary": "幼兒雙眼視網膜出血加上沒有合理外傷史，要把嬰兒搖晃症當成不能漏掉的非意外傷害警訊。",
       "guideline": "FC 醫學(六)第2冊 p.232",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "3 歲以下、雙眼視網膜出血、無明顯頭部外傷",
+        "t": "**嬰兒搖晃症候群**（非意外傷害）",
+        "x": "第一型糖尿病、癲癇、JIA 葡萄膜炎都不會這樣"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76454,7 +77014,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "造成弱視可能性**較小**的",
+        "t": "**間歇性交替性外斜視**：兩眼輪流使用",
+        "x": "單眼先天性白內障、兩眼視差 500 度、兩眼遠視 400 度都易弱視"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76495,7 +77060,12 @@
       "guideline": "FC 醫學(六)第2冊 p.249",
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "長期類固醇的眼部副作用",
+        "t": "①白內障、②眼壓升高、③中心性漿液性脈絡膜視網膜病變",
+        "x": "④視神經炎不是類固醇副作用（反而是治療）"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -76536,7 +77106,12 @@
       "guideline": "FC 醫學(六)第2冊 p.206",
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Graves 雙眼複視、選**錯誤**的",
+        "t": "Graves 眼外肌是**肌腹肥大、肌腱不受影響**（tendon sparing）",
+        "x": "複視因眼外肌增厚、下直肌最常受侵犯、斜視手術要等穩定半年，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -78725,7 +79300,12 @@
       "D": "本項不選：外傷性直接型瘻管常與顱底骨折或海綿竇段頸動脈損傷相關。",
       "summary": "外傷後紅眼凸眼又聽到雜音，要想 carotid-cavernous fistula；它是血管內介入急症，不是放射治療題。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "車禍後一天左眼紅腫凸出、頭側聽到脈動雜音、視力快速喪失",
+        "t": "**直接型頸動脈海綿竇瘻管** → **血管內介入**治療，不是放療",
+        "x": "血管攝影或 CTA 確診、CT 見上眼靜脈擴張、可合併顱底骨折，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -78809,7 +79389,12 @@
       "guideline": "FC 醫學(六)第4冊 p.81",
       "concepts": [
         "iv-induction-agents"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘、肺炎、**血壓 86/54**、血氧 70%、要插管",
+        "t": "**ketamine**：維持血壓又擴張支氣管",
+        "x": "midazolam、propofol、barbiturate 都會降血壓"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -78845,7 +79430,12 @@
       "guideline": null,
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "帶狀疱疹眼病、選**最正確**的",
+        "t": "**鼻頭**有水泡（Hutchinson sign）→ 鼻睫神經受累 → 易有眼部侵犯",
+        "x": "侵犯的是**三叉神經 V1**，不是顏面神經；**也會**視神經炎；治療以**全身抗病毒**為主"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -89013,7 +89603,12 @@
       "guideline": null,
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "軟式光纖支氣管鏡插管、選**正確**的",
+        "t": "可用於**不穩定頸椎骨折**（頸部活動最少）",
+        "x": "經口經鼻**都可**；**清醒**與**已麻醉**病人都可用"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89054,7 +89649,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "SpO₂ 在麻醉的應用、選**最不適當**的",
+        "t": "右主支氣管插管時 SpO₂ **不一定快速下降**（給高濃度氧時可維持）",
+        "x": "波形可見心律不整、振幅低代表灌流差、不能當插管位置早期診斷，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89095,7 +89695,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "神經肌肉阻斷劑使用與監測、選**正確**的",
+        "t": "**neostigmine** 抑制膽鹼酯酶 → 增加神經肌肉接合處的 ACh",
+        "x": "TOF >0.9 是**安全**拔管門檻；sugammadex **不能**逆轉 cisatracurium；**吸入**麻醉劑較易增加殘留阻斷"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89136,7 +89741,12 @@
       "guideline": "FC 醫學(六)第4冊 p.108",
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "不靠肝臟代謝、適合肝功能嚴重異常的肌鬆劑",
+        "t": "**cisatracurium**（Hofmann 自然分解）",
+        "x": "vecuronium、rocuronium 靠肝；succinylcholine 靠血漿膽鹼酯酶（肝病時減少）"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89177,7 +89787,12 @@
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎麻醉、選**錯誤**的",
+        "t": "**bupivacaine** 作用時間比 lidocaine **長**",
+        "x": "morphine 比 fentanyl 長、脊椎內 opioid 可尿滯留、最常見併發症是低血壓，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89218,7 +89833,12 @@
       "guideline": null,
       "concepts": [
         "positioning-pregnancy-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "手術趴臥姿勢、選**正確**的",
+        "t": "擺位恰當（腹部懸空）時，肺功能可能**優於**正躺與側躺",
+        "x": "上臂**可以**適度外展；靜脈回流**減少**易血栓；眼睛沒被壓**仍可能**術後視力喪失"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89259,7 +89879,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "常規剖腹產全麻、選**錯誤**的",
+        "t": "剖腹產 RSI **可以**用 succinylcholine（不太通過胎盤）",
+        "x": "視為飽胃給制酸劑、胎兒娩出後再給 opioid、娩出後吸入麻醉約 0.5 MAC，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89300,7 +89925,12 @@
       "guideline": "FC 醫學(六)第4冊 p.139",
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "典型三叉神經痛首選藥",
+        "t": "**carbamazepine**",
+        "x": "pregabalin、fluoxetine、tramadol 都不是首選"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89341,7 +89971,12 @@
       "guideline": "FC 醫學(六)第4冊 p.159",
       "concepts": [
         "ards-ventilation-co-inhalation"
-      ]
+      ],
+      "approach": {
+        "k": "ARDS 吸入一氧化氮的機轉",
+        "t": "**選擇性肺血管擴張**（只在通氣區）",
+        "x": "不是全身血管擴張；不是收縮"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89382,7 +90017,12 @@
       "guideline": "FC 醫學(六)第2冊 p.150",
       "concepts": [
         "amd-dry-vs-wet"
-      ]
+      ],
+      "approach": {
+        "k": "濕性 AMD 的治療",
+        "t": "**玻璃體內注射抗 VEGF**",
+        "x": "格子雷射是黃斑水腫；全網膜雷射是 PDR；鞏膜扣壓是視網膜剝離"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89423,7 +90063,12 @@
       "guideline": "FC 醫學(六)第2冊 p.151",
       "concepts": [
         "retinal-detachment-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不適合**治療裂孔性視網膜剝離",
+        "t": "**光動力治療**是治脈絡膜新生血管，不會修補裂孔",
+        "x": "鞏膜扣壓、玻璃體切除、氣體視網膜固定都可治療"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89462,7 +90107,12 @@
       "D": "本項不是本題要選的。腎臟是常見實體器官移植來源，但移植後仍有明顯同種免疫排斥風險。",
       "summary": "角膜的免疫特權靠無血管、無淋巴與局部免疫抑制；這也是它能成為常見移植組織的原因。",
       "guideline": "FC 醫學(六)第2冊 p.63",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**免疫特權區**",
+        "t": "**角膜**（無血管、無淋巴）",
+        "x": "肝、心、腎都不是"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89501,7 +90151,12 @@
       "D": "正確。近視主要由眼軸過長決定，眼球每拉長一點就把焦點推到視網膜前；角膜曲率也有影響，但通常不是主因。",
       "summary": "近視最重要的光學變化是眼軸拉長；retinoscopy 是驗光，不是看視網膜，散瞳後還近視才是真近視。",
       "guideline": "FC 醫學(六)第2冊 p.169",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "近視相關、選**較正確**的",
+        "t": "近視最重要的光學因素是**眼軸長度**",
+        "x": "網膜鏡檢是**驗光**；睫狀肌麻痺後仍近視是**真性**；給散瞳劑不代表就是假性近視"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89545,7 +90200,12 @@
       "D": "本項不選。圖(D) 的晶狀體整體呈棕褐色，是核性硬化白內障（brunescent cataract），常見於高齡者長期核硬化。它一樣是透明度的問題，與 Marfan syndrome 的懸韌帶缺陷無關。",
       "summary": "Marfan 的晶狀體偏上外側；看到向下內側偏移才要改想 homocystinuria。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "Marfan 合併的晶體異常（看圖）",
+        "t": "Marfan 晶體**往上外側**半脫位",
+        "x": "往**下內側**脫位要想同半胱胺酸尿症"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89584,7 +90244,12 @@
       "D": "本項應選。Horner 症候群只是交感神經路徑受損，表現輕度眼瞼下垂、瞳孔縮小與無汗，不會麻痺 II、III、IV、VI。",
       "summary": "多條眼動神經加視力下降想眼眶尖；Horner 只有交感神經症狀。",
       "guideline": "FC 醫學(六)第2冊 p.259",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "可同時影響多條腦神經與交感神經，**不包含**",
+        "t": "**Horner 症候群**只有交感神經",
+        "x": "眶上裂症候群、眶尖症候群、Fisher 症候群都牽涉多條腦神經"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89620,7 +90285,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "兒童屈光調節性內斜視、選**較正確**的",
+        "t": "儘早戴**遠視眼鏡**可矯正",
+        "x": "不需先開刀；肉毒桿菌不是首選；輪流偏斜也仍需矯正"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89654,7 +90324,12 @@
       "D": "本項應選。isoniazid 的重要眼部不良反應是視神經炎與視覺功能改變，不是典型角膜沉積物。",
       "summary": "角膜旋渦狀沉積記 amiodarone、hydroxychloroquine、chlorpromazine；isoniazid 要擔心的是視神經炎。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**較不可能**造成角膜沉積",
+        "t": "**isoniazid** 的眼部副作用是視神經炎",
+        "x": "amiodarone、hydroxychloroquine、chlorpromazine 都會角膜沉積"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -89688,7 +90363,12 @@
       "D": "本項不選：腺樣囊狀癌（adenoid cystic carcinoma）常侵犯神經，疼痛是提示惡性的警訊。",
       "summary": "上外側淚腺腫塊把眼球推前下；圓滑的 pleomorphic adenoma 不要亂切片，劇痛要警覺 adenoid cystic carcinoma。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "淚腺腫瘤、選**錯誤**的",
+        "t": "淚腺腫瘤最多的是**多形性腺瘤**（以及發炎），選項說淋巴瘤最多不對",
+        "x": "往前下推眼球、腺樣囊狀癌劇痛都對；B 其實可議（圓滑包膜完整多是多形性腺瘤，應完整切除、不宜部分切片），但官方答案是 C"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -92045,7 +92725,12 @@
       "guideline": "FC 醫學(六)第2冊 p.240",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "眼科急症、選**最正確**的",
+        "t": "紫外線角膜炎可用睫狀肌麻痺劑減輕疼痛",
+        "x": "爆裂性骨折好發**眶底與內側壁**；隱形眼鏡相關要防**綠膿桿菌**（紅黴素不適合）；甲醇中毒是**無痛**視力喪失"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -102193,7 +102878,12 @@
       "guideline": "FC 醫學(六)第4冊 p.31",
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "高風險呼吸道處置、選**錯誤**的",
+        "t": "全麻吸入性肺炎**最常在誘導期**，不是拔管恢復期",
+        "x": "預期困難插管可清醒插管、要備困難插管流程、CICO 定義，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102234,7 +102924,12 @@
       "guideline": "FC 醫學(六)第4冊 p.54",
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "BIS 監測、選**錯誤**的",
+        "t": "burst suppression 時 BIS 通常**遠低於 40**（常 <20）",
+        "x": "BIS 100 清醒、40–60 回憶機率低、BIS 不能完全代表麻醉深度，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102272,7 +102967,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "插管後 SpO₂ 97%、ETCO₂ 圖形異常（沒有持續方波）",
+        "t": "**懷疑食道插管** → 重新插管",
+        "x": "管子阻塞、換 soda lime、太深單肺通氣都不是這個圖形"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102313,7 +103013,12 @@
       "guideline": "FC 醫學(六)第4冊 p.108",
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "sugammadex 專一拮抗的肌鬆劑",
+        "t": "**rocuronium**（類固醇類）",
+        "x": "cisatracurium、mivacurium 是苯異喹啉類，sugammadex 無效；pancuronium 雖是類固醇類但親和力差"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102349,7 +103054,12 @@
       "guideline": null,
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "吸入性麻醉劑、選**錯誤**的",
+        "t": "MAC **會受年齡影響**（年紀越大越低）",
+        "x": "效力與脂溶性相關、多有血管舒張、desflurane 可低流量，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102390,7 +103100,12 @@
       "guideline": "FC 醫學(六)第4冊 p.120",
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎麻醉、穿過哪一層才見腦脊髓液",
+        "t": "**蜘蛛網膜**（進入蜘蛛網膜下腔）",
+        "x": "硬脊膜後還有蜘蛛網膜；軟腦膜貼著脊髓；黃韌帶後是硬膜外腔"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102431,7 +103146,12 @@
       "guideline": "FC 醫學(六)第4冊 p.120",
       "concepts": [
         "local-anesthetic-pharmacology"
-      ]
+      ],
+      "approach": {
+        "k": "95 歲手腕骨折、區域麻醉、選**正確**的",
+        "t": "lidocaine 加少量 **sodium bicarbonate** 鹼化可加速起效",
+        "x": "手腕手術用腋下或鎖骨下阻斷，不是肌間溝；bupivacaine 是**長效**；lidocaine 臂神經叢約 10–20 分鐘才完全起效"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102472,7 +103192,12 @@
       "guideline": "FC 醫學(六)第4冊 p.138",
       "concepts": [
         "pain-mechanisms-terms"
-      ]
+      ],
+      "approach": {
+        "k": "慢性疼痛名詞、選**錯誤**的",
+        "t": "**analgesia** 是只對**疼痛**無反應，不是所有知覺都沒反應",
+        "x": "allodynia、hyperalgesia、paresthesia 定義正確"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102513,7 +103238,12 @@
       "guideline": "FC 醫學(六)第4冊 p.158",
       "concepts": [
         "sepsis-septic-shock-management"
-      ]
+      ],
+      "approach": {
+        "k": "敗血症治療、對預後有實證幫助的",
+        "t": "血糖控制在 **<180 mg/dL**",
+        "x": "EGDT 沒有優於常規；高劑量類固醇無效；腎劑量 dopamine 無效"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102554,7 +103284,12 @@
       "guideline": "FC 醫學(六)第2冊 p.150",
       "concepts": [
         "amd-dry-vs-wet"
-      ]
+      ],
+      "approach": {
+        "k": "AMD、選**錯誤**的",
+        "t": "AMD 盛行率隨年齡增加，**50 歲以上**就可發生，不是很少發生於 70 歲以下",
+        "x": "乾性較常見、濕性較易視力損失、已開發國家不可逆視力喪失主因，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102595,7 +103330,12 @@
       "guideline": "FC 醫學(六)第2冊 p.150",
       "concepts": [
         "retinal-detachment-types"
-      ]
+      ],
+      "approach": {
+        "k": "裂孔性視網膜剝離、選**錯誤**的",
+        "t": "裂孔性剝離眼壓通常**較低**，不是較高",
+        "x": "廣泛剝離有 Marcus Gunn pupil、輕微虹彩炎常見、前玻璃體 tobacco dust，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102636,7 +103376,12 @@
       "guideline": "FC 醫學(六)第2冊 p.63",
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "疱疹病毒眼表感染、選**錯誤**的",
+        "t": "HSV 潛伏在神經節，治癒後**會復發**",
+        "x": "HSV-1 或 2、可影響虹彩小樑升眼壓、樹枝狀角膜炎，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102670,7 +103415,12 @@
       "D": "本項不正確。術前正視只表示原本角膜和水晶體的屈光力剛好平衡，移除水晶體後這個平衡已被打破。",
       "summary": "水晶體是眼睛的大會聚鏡；拿掉卻不補人工水晶體，焦點往後跑，就變成高度遠視。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "原本正視、取出白內障**不放人工水晶體**",
+        "t": "少了水晶體的聚焦 → **高度遠視**（無晶體眼）",
+        "x": "不會變近視或正視；散光主要來自角膜"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102711,7 +103461,12 @@
       "guideline": "FC 醫學(六)第2冊 p.113",
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "口服碳酸酐酶抑制劑、選**錯誤**的",
+        "t": "acetazolamide 造成**低**血鉀（與代謝性酸中毒）",
+        "x": "肢端刺麻、注意磺胺過敏、局部眼藥效果較差，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102750,7 +103505,12 @@
       "D": "正確。鼻淚管穿過骨性鼻淚管後開口在下鼻道（inferior nasal meatus），因此內視鏡手術也會在下鼻道尋找出口。",
       "summary": "先天性鼻淚管阻塞幾乎都卡鼻端 Hasner valve；鼻淚管最後開在下鼻道，不在 Rosenmüller valve。",
       "guideline": "FC 醫學(六)第2冊 p.232",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "4 個月女嬰溢淚、內眥黃綠分泌物、按壓更多",
+        "t": "先天性鼻淚管阻塞；鼻淚管開口在**下鼻道**",
+        "x": "不是先天性青光眼；阻塞多在鼻端的 **Hasner valve**；一歲前自癒率約 **90%**"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102791,7 +103551,12 @@
       "guideline": "FC 醫學(六)第2冊 p.186",
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**遮蔽性弱視原因",
+        "t": "**內斜視**造成的是**斜視性**弱視（抑制影像）",
+        "x": "雙眼重度下垂、單眼白內障、上眼瞼血管瘤都是光線進不去的遮蔽性"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102832,7 +103597,12 @@
       "guideline": "FC 醫學(六)第2冊 p.205",
       "concepts": [
         "graves-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Graves 眼病變、選**錯誤**的",
+        "t": "應維持**甲狀腺功能正常**；壓到**甲低**反而可能惡化眼病",
+        "x": "成人凸眼主要原因、出現下垂要想合併 MG、放射碘可能加重活動期眼病，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -102868,7 +103638,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "6 個月男嬰白瞳、結膜紅腫，**最不需要**的檢查",
+        "t": "先排除**視網膜母細胞瘤**：超音波、眼窩影像、間接眼底鏡；**OCT** 不是優先",
+        "x": "超音波、CT/MRI、間接眼底鏡都需要"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -105013,7 +105788,12 @@
       "D": "正確。鼻咽癌局部侵犯海綿竇或眼眶尖端可影響 III、IV、VI，造成 ptosis 與複視。打了顯影劑的磁振造影上，鼻咽部有一塊會強化的軟組織腫塊，並往顱底與海綿竇方向侵犯，這正好解釋左側眼瞼下垂與複視（第三對腦神經受侵犯）。成人出現單側顱神經麻痺合併鼻咽腫塊，先想鼻咽癌並做鼻咽鏡切片。",
       "summary": "鼻咽癌往海綿竇或眼眶尖端擴散時，會先用複視和 ptosis 露餡，因為多條眼動神經都在那裡。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "37 歲女性、左上眼瞼下垂加複視、MRI",
+        "t": "多條眼動神經受影響 → **鼻咽癌侵犯海綿竇或眶尖**",
+        "x": "頸動脈海綿竇瘻管有雜音紅眼；視神經鞘腦膜瘤以視力為主；鼻竇癌位置不同"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -114541,7 +115321,12 @@
       "guideline": null,
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "清醒插管常用的神經阻斷、**不包括**",
+        "t": "**喉返神經**阻斷會讓聲帶麻痺，不常規做",
+        "x": "舌咽神經、上喉神經、經環甲膜（經喉）阻斷都常用"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114577,7 +115362,12 @@
       "guideline": null,
       "concepts": [
         "iv-induction-agents"
-      ]
+      ],
+      "approach": {
+        "k": "BIS、選**錯誤**的",
+        "t": "**ketamine** 的 EEG 型態**和 propofol 不同**（ketamine 增加高頻活動）",
+        "x": "90–100 清醒、0 深昏迷、propofol 讓 EEG 趨向低頻高振幅，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114613,7 +115403,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "SpO₂、選**正確**的",
+        "t": "原理是 **oxyHb 與 deoxyHb** 對不同波長光吸收不同",
+        "x": "不能監測通氣與酸鹼；測的是**動脈**血；與 PaO₂ 是 **S 型**關係"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114649,7 +115444,12 @@
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "**最不會**影響脊髓麻醉高度的",
+        "t": "**注射速度**影響很小",
+        "x": "姿勢、身高、藥劑比重都會影響"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114685,7 +115485,12 @@
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "分娩硬膜外止痛用藥、選**最適當**的",
+        "t": "**低濃度 bupivacaine** 較少運動阻斷，可下床走動",
+        "x": "局麻**常**加 opioid 以減少局麻劑量；bupivacaine **有**心毒性；臨床用**低**濃度"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114721,7 +115526,12 @@
       "guideline": null,
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "Aldrete score **不包含**",
+        "t": "Aldrete 五項：活動、呼吸、循環、意識、血氧；**沒有疼痛**",
+        "x": "意識、循環、血氧都在其中"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114757,7 +115567,12 @@
       "guideline": null,
       "concepts": [
         "temperature-eeg-pacu"
-      ]
+      ],
+      "approach": {
+        "k": "各狀態腦波、選**最不適當**的",
+        "t": "植物人腦波**不等於**正常人睡眠腦波（雖有睡醒週期）",
+        "x": "全麻可到爆發抑制、恢復時 α 與 β 增加、腦死是等電位，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114793,7 +115608,12 @@
       "guideline": null,
       "concepts": [
         "pain-medicine-regional-analgesia"
-      ]
+      ],
+      "approach": {
+        "k": "癌症止痛、選**最不適當**的",
+        "t": "化療引起的神經病變痛**也算**癌症相關疼痛",
+        "x": "不能口服用貼片、骨轉移痛加類固醇、惡病質時皮下嗎啡仍有效，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114830,7 +115650,12 @@
       "guideline": "官方更正：本題答 B 或 C 均給分（Berlin 定義 ≤300／舊 AECC 定義 ≤200）",
       "concepts": [
         "ards-ventilation-co-inhalation"
-      ]
+      ],
+      "approach": {
+        "k": "ARDS 的 PaO₂/FiO₂ 定義（官方 B、C 都給分）",
+        "t": "Berlin 定義 **≤300**（舊 AECC 以 ≤200 為 ARDS）",
+        "x": "400 太高；100 是重度門檻"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114866,7 +115691,12 @@
       "guideline": null,
       "concepts": [
         "retinal-detachment-types"
-      ]
+      ],
+      "approach": {
+        "k": "一般**不會**造成裂孔性視網膜剝離",
+        "t": "**中心視網膜靜脈阻塞**不造成裂孔",
+        "x": "後玻璃體剝離、高度近視、鈍傷都會造成裂孔"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114900,7 +115730,12 @@
       "D": "本項不選：嚴重腎病代表全身微血管病變負荷高，常和糖尿病視網膜病變較嚴重或惡化並行。",
       "summary": "糖尿病視網膜病變最怕三件事：病程久、血糖高、微血管病變重；懷孕不是保護期，反而要加強追蹤。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "糖尿病視網膜病變危險因子、選**錯誤**的",
+        "t": "**懷孕期間**糖尿病視網膜病變**容易惡化**",
+        "x": "病程越久、控制不良、嚴重腎病，都是危險因子"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114936,7 +115771,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "角膜曲度不平整造成成像模糊",
+        "t": "**散光**",
+        "x": "近視遠視是眼軸或屈光力整體問題；斜視是眼位"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -114970,7 +115810,12 @@
       "D": "本項要選：角膜感覺主要由三叉神經第一支的眼神經（V1）經 nasociliary nerve 傳入，不是第二支 V2。",
       "summary": "淚膜三層記外油、中水、內黏；角膜感覺走 V1，少了感覺反射就容易乾眼和上皮受傷。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "乾眼症、選**錯誤**的",
+        "t": "眼表感覺由三叉神經**第 1 分支（V1）**支配，不是 V2",
+        "x": "脂質層來自 meibomian、黏液層來自杯狀細胞、水層來自淚腺與副淚腺，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -115006,7 +115851,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "高眼壓症轉青光眼的危險因子、**最不適當**",
+        "t": "中央角膜**較薄**才易轉青光眼；厚角膜相對保護",
+        "x": "眼壓越高、杯盤比越大、年紀越大都是危險因子"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -115042,7 +115892,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "類固醇反應者、選**較不適當**的",
+        "t": "**口服或皮膚**類固醇**也可能**造成眼壓上升",
+        "x": "易得 POAG、與效價相關、小樑網功能改變，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -115078,7 +115933,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "先天性上斜肌麻痺、選**錯誤**的",
+        "t": "上斜肌麻痺 → 患眼**上斜視**（hypertropia），不是下斜視",
+        "x": "可能是肌腱異常、兒童常見垂直斜視、需鑑別甲狀腺眼疾與 MG，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -115114,7 +115974,12 @@
       "guideline": null,
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "全身性疾病眼部表現、選**錯誤**的",
+        "t": "Wilson 是角膜周邊**銅**沉積（K-F ring），不是脂質浸潤",
+        "x": "Marfan 晶體半脫位、維生素 A 缺乏夜盲、類肉瘤肉芽腫型葡萄膜炎，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -115148,7 +116013,12 @@
       "D": "本項不選：孩童 trapdoor floor fracture 合併複視、噁心嘔吐與 bradycardia 代表 oculocardiac reflex 和肌肉嵌頓，需要緊急手術放鬆組織。",
       "summary": "blow-out fracture 最常破底和內側壁；小孩若肌肉卡住又噁心心跳慢，是 trapdoor emergency，不能等水腫消。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "眼窩爆裂性骨折、選**錯誤**的",
+        "t": "好發在**眶底與內側壁**，不是外側壁",
+        "x": "網球比小彈珠容易造成、一週後複視改善可觀察、孩童眶底骨折合併肌肉嵌頓要急診手術，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -126619,7 +127489,12 @@
       "guideline": null,
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "RSI、**最不適合**的",
+        "t": "**光纖內視鏡輔助插管**是困難氣道工具，不是快速插管的步驟",
+        "x": "預先給氧、快速作用的非去極化或去極化肌鬆劑都是 RSI 的一部分"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126655,7 +127530,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "TOF 監測、選**錯誤**的",
+        "t": "TOF ratio **0.8** 還**不算**完全恢復；安全門檻是 **≥0.9**",
+        "x": "第四個 twitch 出現進入恢復、<0.4 無法抬頭、0.7–0.75 可咳嗽抬頭 5 秒，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126691,7 +127571,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "ETCO₂ 監測、選**最不適當**的",
+        "t": "ETCO₂ **看不出**氣管內管放太深（要聽診或看刻度）",
+        "x": "快速發現食道插管、監測 CPR 品質、突升可能是惡性高熱，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126727,7 +127612,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "重症肌無力病人麻醉、選**最不適當**的",
+        "t": "MG 病人對**去極化**肌鬆劑（succinylcholine）**相對抗藥**，劑量反而要增加；要減量的是**非去極化**",
+        "x": "AChR 減少、評估膽鹼酯酶抑制劑、術後呼吸衰竭風險要 TOF 監測，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126763,7 +127653,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "succinylcholine、選**最不適當**的",
+        "t": "燒傷病人使用會引發**高**血鉀（受體增生），不是低血鉀",
+        "x": "兒童易心搏過緩、先給低劑量非去極化防肌束顫動、可引發惡性高熱，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126799,7 +127694,12 @@
       "guideline": null,
       "concepts": [
         "perioperative-cardiac-antithrombotic"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲 TURP 前心臟超音波、**最需要暫緩**手術",
+        "t": "主動脈瓣面積 **0.9 cm²**（<1.0）→ 重度主動脈瓣狹窄",
+        "x": "平均壓差 30、流速 2 m/s 未達重度；二尖瓣平均壓差 6 是輕中度"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126835,7 +127735,12 @@
       "guideline": null,
       "concepts": [
         "positioning-pregnancy-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "足月孕婦生理變化、選**最不適當**的",
+        "t": "孕婦血紅素解離曲線**右移**（放氧給胎兒）；胎兒是左移",
+        "x": "心輸出量心搏量心跳增加、分鐘通氣量增加 FRC 減少、LES 張力下降胃排空延長，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126871,7 +127776,12 @@
       "guideline": null,
       "concepts": [
         "pain-medicine-regional-analgesia"
-      ]
+      ],
+      "approach": {
+        "k": "上腹部惡性腫瘤臟器痛、最適合的介入治療",
+        "t": "**腹腔神經叢阻斷**（celiac plexus block）",
+        "x": "上腹下神經叢是骨盆腔；星狀神經節是上肢頭頸；Bier block 是肢體靜脈區域麻醉"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126907,7 +127817,12 @@
       "guideline": null,
       "concepts": [
         "sepsis-septic-shock-management"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**導致術後高血糖",
+        "t": "**免疫活化**是高血糖的受害者，不是原因",
+        "x": "交感亢奮、加重感染、分解代謝增加都會升血糖"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126943,7 +127858,12 @@
       "guideline": null,
       "concepts": [
         "amd-dry-vs-wet"
-      ]
+      ],
+      "approach": {
+        "k": "濕性 AMD **不是**常見症狀",
+        "t": "AMD 是黃斑病 → 中央視力問題；**周邊視野缺損**不是",
+        "x": "視力模糊、中央盲點、視物變形都是"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -126979,7 +127899,12 @@
       "guideline": null,
       "concepts": [
         "diabetic-retinopathy-severity-classification"
-      ]
+      ],
+      "approach": {
+        "k": "**增殖性**糖尿病視網膜病變、有幫助的治療",
+        "t": "**全視網膜雷射光凝固**（PRP）",
+        "x": "光動力治療是 CNV；氣體固定與鞏膜扣壓是修裂孔"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127012,7 +127937,12 @@
       "C": "本項敘述正確。外觀就是一片三角形、帶血管的纖維膜從結膜往角膜爬，發炎時會充血、有異物感。",
       "D": "本項敘述正確。單純切除的復發率可以高到五成，所以現在多半合併結膜自體移植，或術中輔以 mitomycin C 抑制纖維母細胞。",
       "summary": "翼狀贅片＝鼻側長進角膜的三角形血管膜；考題最愛把鼻側改成顳側。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "翼狀贅片、選**錯誤**的",
+        "t": "翼狀贅片好發**鼻側**，不是顳側",
+        "x": "與紫外線與慢性發炎有關、三角形血管纖維膜、切除加 mitomycin C 降復發，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127045,7 +127975,12 @@
       "C": "本項不選。葛瑞夫茲病（Graves disease）影響的是眼窩軟組織與眼外肌，表現為凸眼與眼球運動受限，角膜受傷是暴露造成的，與角膜形狀無關。",
       "D": "本項不選。全身性紅斑狼瘡（systemic lupus erythematosus）眼部表現以乾眼、視網膜血管炎為主，沒有讓角膜變薄前凸的機轉。",
       "summary": "圓錐角膜要想「一直揉眼睛」的病人：異位性皮膚炎、Down 症候群、Leber 先天性黑矇。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "和圓錐角膜**相關**的疾病",
+        "t": "**異位性皮膚炎**（常揉眼）",
+        "x": "Sjögren、Graves、SLE 無特別相關"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127078,7 +128013,12 @@
       "C": "本項不選。碳酸酐酶抑制劑要注意的是磺胺類過敏與腎結石，全身用時還有感覺異常與低血鉀，和氣喘、心臟無關。",
       "D": "本項不選。類前列腺素製劑的副作用集中在局部：睫毛變長、虹膜與眼周色素沉著、結膜充血，全身影響很小，所以現在是第一線用藥。",
       "summary": "點眼的 β 阻斷劑照樣會全身吸收——氣喘與心搏過緩的病人一律換藥。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不建議**用在心臟病或氣喘病人的青光眼藥",
+        "t": "**β 阻斷劑**點眼仍會全身吸收",
+        "x": "α 作用劑、碳酸酐酶抑制劑、前列腺素類製劑對心肺影響較小"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127114,7 +128054,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "新生血管性青光眼**最不常見**的原因",
+        "t": "**過熟白內障**造成的是水晶體蛋白性青光眼",
+        "x": "缺血性 CRVO、糖尿病、CRAO 都是視網膜缺血放出 VEGF"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127147,7 +128092,12 @@
       "C": "本項不選。顎動性眨眼症候群是先天的異常神經連結，病人咀嚼或張口時下垂的眼皮會跟著上抬。它不會有瞳孔不等大，也沒有急性風險。",
       "D": "本項不選。重症肌無力造成的是會波動的眼瞼下垂與複視，一天當中越晚越明顯。它侵犯的是神經肌肉接合處，瞳孔括約肌不受影響，所以瞳孔一定正常。",
       "summary": "眼瞼下垂加上瞳孔放大＝先想壓迫性第三對腦神經麻痺（動脈瘤或疝脫），要當急症；瞳孔正常才輪到缺血或肌肉問題。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "瞳孔不等大合併眼皮下垂、**有致命危險**",
+        "t": "**鉤回疝脫**壓迫第三對腦神經（瞳孔放大）",
+        "x": "微血管性第三對麻痺通常瞳孔正常；Marcus Gunn 下顎眨眼與 MG 都不致命"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127183,7 +128133,12 @@
       "guideline": null,
       "concepts": [
         "amblyopia-strabismus"
-      ]
+      ],
+      "approach": {
+        "k": "**較不可能**是假性內斜視的原因",
+        "t": "ROP 造成黃斑往**顳側**移位 → 看起來像**外斜**",
+        "x": "瞳距短、內眥贅皮、負 kappa 角都會像內斜"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -127216,7 +128171,12 @@
       "C": "本項敘述正確。提眼瞼肌功能差的人多半得做額肌懸吊，術後眼皮無法完全閉合，睡覺時角膜暴露，要靠人工淚液與睡前藥膏保護。",
       "D": "本項應選。雙眼皮手術處理的是皮膚皺褶，先天性下垂則要縮短提眼瞼肌，或在肌力太差時改做額肌懸吊。兩者處理的層次與目的完全不同。",
       "summary": "先天性眼瞼下垂看提眼瞼肌力：有力就縮短肌肉，沒力就額肌懸吊；不論哪種，術後都要防角膜暴露。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "單側先天性眼瞼下垂、選**錯誤**的",
+        "t": "提肌功能差時要做**額肌懸吊**等，手術**不同於**一般雙眼皮手術",
+        "x": "患眼易弱視、遮蔽好眼治弱視、提肌功能差術後要注意閉眼不全，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -129352,7 +130312,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "頭部外傷 RSI 用 succinylcholine、選**最不適當**的",
+        "t": "合併**燒燙傷**時用 succinylcholine 有高血鉀風險，**rocuronium 較適合**",
+        "x": "可造成橫紋肌溶解、升顱壓眼壓、升胃內壓，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -138608,7 +139573,12 @@
       "guideline": null,
       "concepts": [
         "modified-mallampati-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Mallampati：看得到軟顎與懸壅垂基部、看不到扁桃腺柱",
+        "t": "**Class III**",
+        "x": "I 全看到；II 看到懸壅垂；IV 只看到硬顎"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138645,7 +139615,12 @@
       "guideline": null,
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "術中心電圖監測、選**錯誤**的（官方 A、C 都給分）",
+        "t": "ST 段代表心室**再極化前的平台期**（敘述不精確）；術中缺血**多半無法**定位缺血區域",
+        "x": "術中缺血常見 ST 下降、V5 最敏感 V4 次之，這兩句對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138681,7 +139656,12 @@
       "guideline": null,
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "循環監測、選**最適當**的",
+        "t": "ETCO₂ 可以反映**心輸出量**變化（肺血流）",
+        "x": "Allen test **沒有**被證實減少後遺症；股動脈 pulse pressure 會**高估**主動脈的；CVP **不是**準確的循環血量"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138718,7 +139698,12 @@
       "concepts": [
         "spinal-vs-epidural",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "剖腹產半身麻醉後第二天頭痛、**坐起加劇、平躺改善**",
+        "t": "**硬脊膜穿刺後頭痛**（腦脊髓液漏、低顱壓）",
+        "x": "腦膜炎會發燒；顱壓增加是躺著更痛；張力性頭痛與姿勢無關"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138754,7 +139739,12 @@
       "guideline": null,
       "concepts": [
         "neuromuscular-blockers"
-      ]
+      ],
+      "approach": {
+        "k": "cisatracurium 的作用",
+        "t": "只有**肌肉鬆弛**",
+        "x": "肌鬆劑**沒有**意識喪失、止痛、失憶作用"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138790,7 +139780,12 @@
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "**最適合**施打減痛分娩硬膜外導管",
+        "t": "血小板 **100,000** 足夠安全（一般門檻約 70,000–80,000）",
+        "x": "背部穿刺處感染、重度主動脈瓣狹窄（固定心輸出量）、腦瘤（顱壓）都是禁忌"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138826,7 +139821,12 @@
       "guideline": null,
       "concepts": [
         "ariscat-score"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** ARISCAT 評估項目",
+        "t": "ARISCAT：年齡、術前血氧、近月呼吸道感染、**術前貧血**、切口位置、手術時間、**緊急手術**；**沒有 BMI**",
+        "x": "年齡、血紅素、緊急手術都在其中"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138862,7 +139862,12 @@
       "guideline": null,
       "concepts": [
         "spinal-vs-epidural"
-      ]
+      ],
+      "approach": {
+        "k": "caudal block 麻醉藥分布在",
+        "t": "經薦骨裂孔進入**硬膜外腔**",
+        "x": "不是硬膜下或蜘蛛網膜下腔；薦尾韌帶只是穿刺通過的結構"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138900,7 +139905,12 @@
       "guideline": null,
       "concepts": [
         "aki-prerenal-intrinsic-postrenal"
-      ]
+      ],
+      "approach": {
+        "k": "**不會直接**作用在腎血管造成低灌流（官方 B、C、D 都給分）",
+        "t": "直接收縮腎血管的是 **norepinephrine、vasopressin**",
+        "x": "NSAID 是拿掉入球動脈擴張、ACEI 是放鬆出球動脈、低劑量硝化甘油不直接作用"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138933,7 +139943,12 @@
       "C": "正確。近視性黃斑部新生血管的治療首選是玻璃體內注射抗血管內皮生長因子製劑。它的特色是需要的針數比老年性黃斑部病變少很多，常常一到三針就穩定，之後依需要再打。",
       "D": "本項不選。鞏膜扣壓術是修補裂孔性視網膜剝離的手術，處理的是視網膜有沒有貼回去，和脈絡膜長出新生血管無關。",
       "summary": "近視性黃斑部新生血管＝打抗 VEGF，而且針數通常遠少於老年性黃斑部病變。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "高度近視黃斑部新生血管、**最有幫助**的治療",
+        "t": "**玻璃體內抗 VEGF**",
+        "x": "全網膜雷射是 PDR；類固醇植入物是黃斑水腫或葡萄膜炎；鞏膜扣壓是視網膜剝離"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -138969,7 +139984,12 @@
       "guideline": null,
       "concepts": [
         "conjunctivitis-uveitis-red-eye"
-      ]
+      ],
+      "approach": {
+        "k": "葡萄膜炎實驗室檢查、選**最不適當**的",
+        "t": "梅毒的**確認**要用**螺旋體特異性**試驗（TPPA/FTA-ABS）；RPR/VDRL 是篩檢與追療效",
+        "x": "胸部 X 光看類肉瘤結核、HLA-B27 與急性虹彩炎、疑病毒性做前房液 PCR，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139003,7 +140023,12 @@
       "C": "本項應選，官方公告 C、D、CD 都給分。全眼屈光力約 60 D，角膜就占了約 43 D，接近三分之二而不是三分之一。剩下的主要來自水晶體。",
       "D": "本項也應選，官方同樣給分。鮑曼氏層是上皮下方一層無細胞的膠原層，屬於基質的最前緣；上皮真正的基底膜是它上面另外一層。受傷破壞到鮑曼氏層就會留疤，這是它與基底膜最重要的差別。",
       "summary": "角膜屈光力約 43 D、占全眼三分之二；鮑曼氏層是無細胞膠原層，破了會留疤。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "眼表結構、選**錯誤**的（官方 C、D 都給分）",
+        "t": "角膜占全眼屈光力約 **三分之二**；Bowman 層是**無細胞膠原層**，不是基底膜",
+        "x": "角膜透明無血管、結膜有血管，這兩句對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139040,7 +140065,12 @@
       "concepts": [
         "van-herick-grading",
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "Van Herick 法、多少時建議做隅角鏡",
+        "t": "周邊前房深度 **≤1/4** 角膜厚度",
+        "x": ">1、1–1/2、1/2–1/3 都是較安全的深度"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139076,7 +140106,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "NTG vs POAG、選**錯誤**的",
+        "t": "NTG 較常伴隨中央角膜**偏薄**（量到的眼壓被低估），不是過厚",
+        "x": "日本人較多、較常有盤緣出血、注意夜間低血壓，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139111,7 +140146,12 @@
       "C": "本項不選。顳葉病灶典型造成上方象限的缺損，也就是俗稱的派狀缺損，圖上並沒有偏上方的特徵。",
       "D": "本項不選。視束在視交叉之後不遠，兩眼缺損形狀差異大、一致性低，還常合併相對性傳入瞳孔缺陷，與圖上兩眼幾乎相同的形狀不符。",
       "summary": "兩眼缺同一側、形狀越像＝病灶越後面；只缺中央又高度一致就是枕葉後極。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "視野圖：兩眼同側缺損、形狀高度一致",
+        "t": "高度一致的同側偏盲 → **對側枕葉視覺皮質**（右側病灶）",
+        "x": "頂葉與顳葉是象限盲；視束病灶較不一致"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139144,7 +140184,12 @@
       "C": "本項不選。視神經脊髓炎的視交叉發炎在打顯影劑後會有明顯強化，磁振造影正是診斷與定位的主力。",
       "D": "本項不選。腦下垂體腫瘤出血在磁振造影上依出血時期呈現不同訊號，反而比電腦斷層更能判斷出血的新舊。",
       "summary": "看鈣化用電腦斷層、看軟組織與發炎用磁振造影——鈣化在磁振造影上只是一塊沒訊號的黑。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "增強 MRI 顯像能力**較差**的病變",
+        "t": "**鈣化**在 MRI 上不明顯，要用 CT",
+        "x": "頸動脈海綿竇瘻管、視神經脊髓炎發炎、腦下垂體腫瘤出血，MRI 都看得好"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139177,7 +140222,12 @@
       "C": "本項敘述正確。蚊蟲叮咬、外傷或針眼都可能是入口，小孩的病例常常就是從叮咬抓破開始。",
       "D": "本項敘述正確。鄰近的鼻竇炎、中耳炎或牙齒感染都可能蔓延過來，所以問診要問這些部位最近有沒有發炎。",
       "summary": "眼窩隔前後靠三個徵象分：凸眼、眼動受限、視力下降；眼周靜脈無瓣膜，感染可以一路燒到海綿竇。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "眼窩隔前蜂窩性組織炎、選**錯誤**的",
+        "t": "眼周靜脈無瓣膜，感染**可**擴散成海綿竇栓塞或腦膜炎",
+        "x": "金葡菌常見、可因蚊蟲叮咬、可衍生自鼻竇或中耳感染，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -139210,7 +140260,12 @@
       "C": "本項不選。下眼瞼打肉毒桿菌素後眼瞼鬆弛外翻，淚水留不住又蓋不住眼球，症狀與其他暴露性病因一致。",
       "D": "本項應選。眼瞼痙攣是眼睛不由自主閉得太緊，角膜反而被保護得好好的，不會出現夜間暴露造成的下方充血。",
       "summary": "醒來時下半部眼球紅、有異物感＝夜間閉合不全的暴露性角膜結膜炎；閉太緊的疾病不會這樣。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "每早醒來下半部結膜充血、流淚畏光異物感，**最不可能**",
+        "t": "夜間閉眼不全的暴露性角結膜炎；**眼瞼痙攣**是閉太緊，不會暴露",
+        "x": "甲狀腺凸眼、顏面神經麻痺、下眼瞼肉毒桿菌後遺症都會閉合不全"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -141254,7 +142309,12 @@
       "guideline": null,
       "concepts": [
         "lemon-airway-assessment"
-      ]
+      ],
+      "approach": {
+        "k": "LEMON 評估、選**最不適當**的",
+        "t": "3-3-2 的中間 3 是**下頦到舌骨**的距離，選項描述錯誤",
+        "x": "外觀評估、Mallampati、頸部活動度，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -141290,7 +142350,12 @@
       "guideline": null,
       "concepts": [
         "ards-ventilation-co-inhalation"
-      ]
+      ],
+      "approach": {
+        "k": "密閉火場、臉部燒傷、燻黑、聲音沙啞、喘鳴、**皮膚無明顯燒傷**，**最不適當**",
+        "t": "沒有大面積皮膚燒傷**不需要大量輸液**",
+        "x": "早期插管、100% 潮濕氧、驗一氧化碳，都適當"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -150593,7 +151658,12 @@
       "guideline": null,
       "concepts": [
         "airway-devices-difficult-airway"
-      ]
+      ],
+      "approach": {
+        "k": "拔管後**最不可能**的氣道併發症",
+        "t": "**神經性肺水腫**要有嚴重腦損傷；拔管後喉痙攣造成的是**負壓性**肺水腫",
+        "x": "上呼吸道阻塞、支氣管痙攣、杓狀軟骨脫位都可能"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150629,7 +151699,12 @@
       "guideline": null,
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "洗腎病人、骨盆股骨骨折、**使用呼吸器**，最合適的輸液反應指標",
+        "t": "**脈壓變異率（PPV）**（控制通氣、規則心律下最可靠）",
+        "x": "CVP 與血壓是靜態指標；骨盆股骨骨折**不適合**做被動抬腿"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150666,7 +151741,12 @@
       "guideline": null,
       "concepts": [
         "ards-ventilation-co-inhalation"
-      ]
+      ],
+      "approach": {
+        "k": "一氧化碳中毒、選**最不適當**的（官方 A、B 都給分）",
+        "t": "脈搏血氧儀把 COHb 當成氧合 → SpO₂ **偏高**（假性正常），不是偏低；中毒定義不是單純 >15%",
+        "x": "頭痛噁心意識混亂休克、100% 氧加高壓氧，這兩句對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150702,7 +151782,12 @@
       "guideline": null,
       "concepts": [
         "capnography-oximetry-airway-confirmation"
-      ]
+      ],
+      "approach": {
+        "k": "麻醉中呼吸監測、選**最不適當**的",
+        "t": "胸部 X 光**不是**早期肺水腫的最佳工具（肺水增加約 30% 才顯現）；超音波 B 線較早",
+        "x": "SpO₂ 重要、ETCO₂ 與 PaCO₂ 不一定相同、超音波床邊監測，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150738,7 +151823,12 @@
       "guideline": null,
       "concepts": [
         "iv-induction-agents"
-      ]
+      ],
+      "approach": {
+        "k": "dexmedetomidine、選**最適當**的",
+        "t": "術中術後可**減少類鴉片藥物**用量",
+        "x": "鎮痛是透過脊髓背角（不是腹角）；它**降低** MAC；**不太**抑制呼吸，可術後使用"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150774,7 +151864,12 @@
       "guideline": null,
       "concepts": [
         "local-anesthetic-systemic-toxicity-management"
-      ]
+      ],
+      "approach": {
+        "k": "局部麻醉劑藥理、選**最適當**的",
+        "t": "**bupivacaine** 經肝臟 **P-450** 代謝（醯胺類）",
+        "x": "血中快速移除主要是重分布到**肺**等組織；醯胺類在**肝**代謝不是 pseudocholinesterase；cocaine 是**酯類**"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150810,7 +151905,12 @@
       "guideline": null,
       "concepts": [
         "hemodynamic-renal-monitoring-echo"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** FoCUS 主要視圖",
+        "t": "FoCUS 核心：胸骨旁長短軸、心尖四腔、劍突下四腔與 IVC；**心尖長軸**屬完整檢查",
+        "x": "胸骨旁短軸、心尖四腔、劍突下四腔都是核心視圖"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150846,7 +151946,12 @@
       "guideline": null,
       "concepts": [
         "sedation-depth-continuum"
-      ]
+      ],
+      "approach": {
+        "k": "鎮靜深度、選**錯誤**的",
+        "t": "**深度鎮靜**時自發呼吸**可能不足**，可能需要呼吸道處置",
+        "x": "輕度鎮靜正常反應、中度對口語或觸碰有反應、對痛無反應是全身麻醉，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150882,7 +151987,12 @@
       "guideline": null,
       "concepts": [
         "opioids-inhaled-anesthetics"
-      ]
+      ],
+      "approach": {
+        "k": "PCA、選**最不適當**的",
+        "t": "PCA **不是絕對安全**（旁人代按、設定錯誤仍可致呼吸抑制）",
+        "x": "可設定基本與按壓劑量、提高滿意度減少總量、減少副作用，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150917,7 +152027,12 @@
       "C": "本項不選。滲出性剝離的視網膜下是積液而不是破孔，表面光滑、會隨姿勢移動，背後多有腫瘤或發炎性疾病。圖上有明確的裂孔就不是這一類。",
       "D": "本項不選。葡萄腫是高度近視眼球後極向外膨出，在眼底看到的是萎縮變薄、脈絡膜血管透見，不會有捲邊的裂孔。",
       "summary": "突發飛蚊＋高度近視＋眼底看到捲邊裂孔＝裂孔性視網膜剝離，要當天轉眼科。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "高度近視、突發飛蚊、眼底見捲邊裂孔",
+        "t": "**裂孔性視網膜剝離**",
+        "x": "牽引性要有纖維膜；滲出性沒有裂孔；葡萄腫不會突發飛蚊"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150953,7 +152068,12 @@
       "guideline": null,
       "concepts": [
         "diabetic-retinopathy-severity-classification"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病視網膜病變、危險因子**關聯最低**",
+        "t": "**肝臟病變**",
+        "x": "病程與血糖、高血壓、腎病變都是危險因子"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -150986,7 +152106,12 @@
       "C": "本項敘述正確。內皮細胞靠幫浦把水打回前房，維持角膜脫水而透明。它出生後不會再生，數量只會越用越少。",
       "D": "本項應選。角膜提供約 43 D，是全眼最強的屈光面；約 15 到 20 D 的是水晶體。兩個數字被對調了。",
       "summary": "角膜 43 D、水晶體約 15–20 D、全眼約 60 D——角膜才是主力鏡片。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "角膜結構、選**錯誤**的",
+        "t": "角膜屈光力約 **43 D**，不是 15 D（約 15–20 D 是水晶體）",
+        "x": "五層（或六層）、上皮在輪部再生、內皮排水維持透明，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -151019,7 +152144,12 @@
       "C": "本項應選。淚膜崩裂時間太短代表淚膜不穩定，主因是最外層的油脂層不夠，也就是瞼板腺功能障礙造成的蒸發型乾眼。水層不足要靠 Schirmer 測驗與彎月帶高度判斷。",
       "D": "本項敘述正確。螢光染色會積在上皮缺損處，可以看出破皮的位置與範圍，也用來追蹤治療反應。",
       "summary": "乾眼分兩型：Schirmer 低＝水層不足，崩裂時間短＝油層不穩（蒸發型）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "乾眼症、選**錯誤**的",
+        "t": "淚膜崩裂時間短**最可能是油層**（蒸發型），不是水層",
+        "x": "麻醉後 Schirmer 測基礎分泌、淚河 0.2–0.4 mm、螢光染色看破損，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -151055,7 +152185,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "POAG、選**正確**的組合",
+        "t": "①兩眼眼壓差 ≥4 是危險因子、④是歐洲與非洲人最多的青光眼",
+        "x": "②POAG **男性**略多；③70 歲以上亞洲人盛行率**不比**白人高"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -151091,7 +152226,12 @@
       "guideline": null,
       "concepts": [
         "glaucoma-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**閉鎖性青光眼危險因子",
+        "t": "**高度近視**眼軸長、前房深，不易隅角閉鎖",
+        "x": "遠視、短眼軸、女性都是危險因子"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -151127,7 +152267,12 @@
       "guideline": null,
       "concepts": [
         "multiple-sclerosis-core"
-      ]
+      ],
+      "approach": {
+        "k": "典型視神經炎、選**正確**的",
+        "t": "視神經炎可能是 **MS 的第一個症狀**",
+        "x": "VEP p100 是**延長**；典型是**眼動時疼痛**；眼底多**正常**（球後）"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -151160,7 +152305,12 @@
       "C": "本項不選。斜視手術排在減壓之後、眼瞼手術之前。減壓會改變眼外肌的相對位置，先做斜視手術等於白做。",
       "D": "正確。凸眼造成角膜暴露破皮並影響視力，屬於視力威脅等級，要做眼窩減壓把眼球退回去，才能真正解決暴露。三種手術的順序固定是減壓、斜視、眼瞼，因為前一步會改變後一步的條件。",
       "summary": "甲狀腺眼病變手術順序：減壓→斜視→眼瞼，倒著做前面的努力會被推翻。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "甲狀腺眼病、眼瞼內縮、眼動受限、凸眼、角膜破皮視力受損",
+        "t": "威脅視力的暴露 → 優先**眼窩減壓手術**",
+        "x": "硒是輕度活動期；手術順序是減壓 → 斜視 → 眼瞼"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -151193,7 +152343,12 @@
       "C": "本項不選。下斜肌很少是甲狀腺眼病變的主角，它在這個疾病裡幾乎不被提到。",
       "D": "本項不選。外直肌是四條直肌中最少受累的，排在順序的最後。",
       "summary": "甲狀腺眼病變的眼外肌順序記 I'M SLow：下直肌最先、外直肌最後。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "甲狀腺眼病變**最容易**受影響的眼外肌",
+        "t": "**下直肌**（I'M SLow：下、內、上、外）",
+        "x": "上直肌、下斜肌、外直肌較晚或較少"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
