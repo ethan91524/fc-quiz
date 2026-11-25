@@ -30,7 +30,12 @@
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis",
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "曾腹部手術、臍周陣發絞痛、嘔吐、腹脹、**高亢腸音**、無僵直",
+        "t": "**沾黏性小腸阻塞** → 先鼻胃管減壓加輸液；澱粉酶大幅升高（>10 倍）**不是**它的表現",
+        "x": "X 光小腸擴張氣液平面、和手術沾黏有關、不必急著開刀，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -521,7 +526,12 @@
       "B": "本項應選。這是最不正確的敘述。排便不盡感可見於腸躁症和骨盆底排便障礙，不能單憑這個症狀就推定直腸腫瘤。腫瘤要結合出血、體重下降、貧血、理學檢查和內視鏡判斷。",
       "C": "本項不選。夜間排便會提高發炎性、感染性或分泌性腹瀉等器質性疾病的疑慮，但不是百分之百有診斷性，所以「不一定」有器質性問題仍是合理敘述。",
       "D": "本項不選。糞便形態、顏色、血液或黏液，以及體重變化，都是警訊評估的一部分。不明原因的體重下降或血便會促使進一步檢查。",
-      "summary": "排便後改善的慢性腹痛常見於腸躁症，但「排便不盡感」本身不能診斷直腸腫瘤。"
+      "summary": "排便後改善的慢性腹痛常見於腸躁症，但「排便不盡感」本身不能診斷直腸腫瘤。",
+      "approach": {
+        "k": "29 歲、一年反覆下腹痛、便次增加、**排便後減輕**",
+        "t": "像**腸躁症**；但「大便解不乾淨」本身**不代表**直腸腫瘤",
+        "x": "要問誘因病史家族史、夜間排便不一定是器質性、注意糞便型態與體重，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -557,7 +567,12 @@
       "summary": "Billroth II 術後出現餐後痛、腹脹、嘔吐加上營養不良，要想到輸入袢症候群。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "Billroth II 術後、餐後腹痛腹脹嘔吐、營養不良、**MCV 106**",
+        "t": "**輸入袢症候群**：輸入袢淤滯造成細菌過度生長、B12 吸收不良",
+        "x": "腸躁症不會營養不良；膽汁逆流胃病以上腹痛與嘔膽汁為主；ZES 是多發潰瘍"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -645,7 +660,12 @@
       "summary": "胸骨後灼熱合併仰臥惡化和咳嗽，是胃食道逆流疾病典型的食道內和食道外表現。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "胸口灼熱、胸骨下痛、**平躺加劇**、咳嗽",
+        "t": "**胃食道逆流疾病**（含食道外表現咳嗽）",
+        "x": "下壁 MI 不會平躺才痛；慢性支氣管炎是長期咳痰；心衰竭是端坐呼吸不是灼熱"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -775,7 +795,12 @@
       "summary": "H. pylori 明確相關的疾病包括消化性潰瘍、非賁門胃腺癌和胃 MALT lymphoma，不是 GERD 的直接病因。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "幽門桿菌**不會**造成",
+        "t": "幽門桿菌相關：消化性潰瘍、胃腺癌、胃 MALT 淋巴瘤；**GERD** 不是它造成",
+        "x": "潰瘍、胃腺癌、MALT 都是幽門桿菌相關疾病"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -903,7 +928,12 @@
       "summary": "憩室炎診斷靠 CT 不是平片、急性期不做大腸鏡；抽菸和低纖維飲食都是可以改的危險因子。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "大腸憩室症、選**正確**的",
+        "t": "mesalazine 可減少**症狀性憩室疾病**的復發",
+        "x": "大部分憩室炎**不必**開刀；診斷用 **CT**；**抽菸是**危險因子"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -940,7 +970,12 @@
       "concepts": [
         "acid-base-approach",
         "diarrhea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "正常陰離子隙酸中毒、區分**腹瀉**與 **RTA**",
+        "t": "**尿陰離子隙**：負值＝腎臟能排 NH4⁺（腹瀉）；零或正值＝腎臟排酸失敗（RTA）",
+        "x": "血陰離子隙兩者都正常；血鉀與血氯兩者都可能異常，無法區分"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -977,7 +1012,12 @@
       "concepts": [
         "acid-base-approach",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "意識不清、Kussmaul 呼吸、HCO3 10，**最不可能**的診斷",
+        "t": "AG＝138−99−10＝**29（升高）** → 高 AG 酸中毒；**腹瀉**是正常 AG",
+        "x": "乳酸、酮酸、慢性腎衰竭都是高 AG 酸中毒"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1013,7 +1053,12 @@
       "guideline": null,
       "concepts": [
         "hyperkalemia-causes-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "肺炎敗血、急性腎損傷 Cr 8.5、K 6.5、HCO3 12",
+        "t": "需要清除小分子（鉀、酸、尿毒）→ 透析；**血漿置換**清的是抗體或大分子，不適合",
+        "x": "CVVH、間歇性血液透析、腹膜透析都能處理"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1049,7 +1094,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "草酸鈣結石、**無法**預防復發的措施",
+        "t": "**限鈣**反而讓腸道游離草酸增加、草酸吸收變多 → 結石更多；鈣要正常攝取",
+        "x": "多喝水、限鹽、改 thiazide（降尿鈣）都能預防"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1082,7 +1132,12 @@
       "C": "本項不選。肝臟疾病、肝腎症候群與肝移植前後都被列為危險因子，因為這些狀況常伴隨腎功能不穩。發炎狀態與代謝性酸中毒也會促進 gadolinium 從螯合物游離出來。",
       "D": "本項應選。血液透析**清得掉** gadolinium，第一次透析就能移除約八成。所以高風險病人若非做顯影檢查不可，會安排檢查後儘快透析。說它清不掉，等於否定了現行的補救做法。",
       "summary": "NSF 的高風險是 eGFR<30 或急性腎損傷；真的打了顯影劑，透析清得掉——第一次就能移除約八成。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腎因性全身纖維化、選**錯誤**的",
+        "t": "**血液透析能清除** gadolinium（第一次約清八成）",
+        "x": "與 gadolinium 有關類似黏液水腫、CKD 3 期可減量使用、肝病是危險因子（肝腎症候群），三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1118,7 +1173,12 @@
       "guideline": null,
       "concepts": [
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性腎損傷治療、選**錯誤**的",
+        "t": "**羥乙基澱粉**本身**會傷腎**，不能用來治療低血容積 AKI",
+        "x": "支持性療法為主、生理食鹽水預防顯影劑腎病變、高血鉀停 ACEi/ARB，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1154,7 +1214,12 @@
       "guideline": null,
       "concepts": [
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "長期 NSAID、水腫、**尿蛋白/肌酸酐 4.9 但試紙陰性**、球蛋白高",
+        "t": "試紙只測白蛋白 → 漏的是**輕鏈** → 懷疑多發性骨髓瘤 → **血清免疫電泳**",
+        "x": "NSAID 腎病不會試紙陰性；anti-PLA2R 是膜性腎病（白蛋白尿，試紙會陽性）；首選治療不是 ARB"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1737,7 +1802,12 @@
       "guideline": "FC 醫學(三)第1冊 p.336",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD、選**最正確**的",
+        "t": "病程**早期**身體診察幾乎正常",
+        "x": "最常見症狀是**喘**（運動性）；阻塞在**小**氣道（<2 mm）；FEV1 50% 時 PaO₂ 不一定低"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1778,7 +1848,12 @@
       "guideline": "FC 醫學(三)第1冊 p.414",
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "重症肌無力惡化、意識紊亂、**PaCO₂ 70**、HCO3 26",
+        "t": "神經肌肉無力 → **唧筒衰竭** → **高碳酸性**（第二型）呼吸衰竭，不是單純缺氧性",
+        "x": "唧筒衰竭、需要呼吸器、pH 會 <7.30（HCO3 未代償），三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1814,7 +1889,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "容易吸入性肺炎的因素",
+        "t": "①全身性硬化症（食道蠕動差逆流）、②巴金森氏症（吞嚥障礙）",
+        "x": "③肺纖維化與④無脾症都不影響吞嚥或咳嗽反射"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1855,7 +1935,12 @@
       "guideline": "FC 醫學(三)第1冊 p.353",
       "concepts": [
         "pft-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "間質性肺病病理生理、選**錯誤**的",
+        "t": "ILD 是**限制型**：肺容積變小、DLCO 降低、易缺氧；**沒有**明顯氣道阻塞",
+        "x": "TLC 正常或減少、DLCO 降低、PaO₂ 易下降，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1892,7 +1977,12 @@
       "concepts": [
         "pleural-fluid-analysis",
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "結核性肋膜積液、選**錯誤**的",
+        "t": "機轉是胸膜下乾酪病灶**破進肋膜腔**，引發對結核蛋白的延遲性過敏，不是原發感染後直接發生",
+        "x": "淋巴球多、間皮細胞 <5%、ADA ≤40 不支持、不需粘連術，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1933,7 +2023,12 @@
       "guideline": "FC 醫學(三)第1冊 p.286",
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "吸氣時聽到 **stridor**",
+        "t": "吸氣性喘鳴 → **上呼吸道（聲門）**阻塞 → **雙側聲帶麻痺**",
+        "x": "氣喘與 COPD 是呼氣性哮鳴；肋膜積水是呼吸音減弱"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2488,7 +2583,12 @@
       "guideline": "官方更正：本題答 C、D 均給分",
       "concepts": [
         "asthma-control-classification-legacy"
-      ]
+      ],
+      "approach": {
+        "k": "用 ICS、急救藥每週 3–4 次、偶爾夜醒、PEF 75%（官方 C、D 都給分）",
+        "t": "未達標項目：急救藥 >2 次/週、夜間症狀、肺功能 <80% → 3 項 → **未控制**（1–2 項是部分控制）",
+        "x": "完全控制與控制良好都不符"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2524,7 +2624,12 @@
       "guideline": "現行 GINA 偏好 ICS-formoterol 同時作為維持與緩解治療",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "承上、藥物如何調整",
+        "t": "控制不佳 → 加上**規則性 LABA**（與 ICS 合用）",
+        "x": "不調整不對；增加 SABA 只是治標；必要時口服類固醇不是長期控制"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2884,7 +2989,12 @@
       "summary": "滑動型食道裂孔疝氣最常見、胃食道交界上移；食道旁型較少見但機械性併發症比較重要。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "食道裂孔疝氣、選**錯誤**的",
+        "t": "**滑動型**最常見（約 95%），食道旁型較少",
+        "x": "胃滑脫到裂孔上方、分滑動型與食道旁型、滑動型是胃食道交界上移，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -3046,7 +3156,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "18 歲**瘦高**男生、打球後突發左胸**尖銳痛**、深吸更痛、喘",
+        "t": "**原發性自發性氣胸**",
+        "x": "MI 不會發生在這個族群；肺栓塞要有危險因子；心包膜炎是坐起前傾緩解"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -13084,7 +13199,12 @@
       "concepts": [
         "absorption-short-bowel-fistula",
         "diarrhea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腹瀉、選**最適當**的",
+        "t": "長期**酒精**可造成分泌型腹瀉",
+        "x": "急性腹瀉**九成以上**是感染；輪狀病毒潛伏期約 **1–3 天**；腎功能不全**避免** bismuth（鉍與水楊酸堆積）"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13468,7 +13588,12 @@
       "summary": "Dumping syndrome 的核心是胃內容物（尤其高滲透壓碳水化合物）過快進入小腸。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "傾倒症候群**最常見**的原因",
+        "t": "胃內容物（尤其**高滲透壓碳水化合物**）過快進入小腸",
+        "x": "細菌過度滋生是盲袢；膽汁受阻無關；迷走神經切斷造成的是腹瀉與胃排空延遲"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13740,7 +13865,12 @@
       "guideline": null,
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "UC 與 Crohn、選**正確**的",
+        "t": "**Crohn** 全層發炎 → 較易**腸道狹窄**",
+        "x": "跳躍病灶是 **Crohn**；Crohn **常有**全身症狀；**UC** 常見黏液血便"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13782,7 +13912,12 @@
       "B": "本項不選。入院時是「血液濃縮」（hemoconcentration），以及 hematocrit 偏高或未隨輸液下降，才提示第三空間流失和較重病程。hemodilution、hematocrit < 40% 不是這裡的指標。",
       "C": "正確答案。核心體溫 < 36°C 或 > 38°C、心率 > 90/min 都屬於全身性發炎反應症候群（systemic inflammatory response syndrome, SIRS）的項目。持續的 SIRS 和重症風險相關。",
       "D": "本項不選。住院期間 CRP 上升可反映發炎嚴重度，但單純血糖升高不是用來界定住院後嚴重度的關鍵器官衰竭指標。應追蹤器官衰竭、BUN、hematocrit 等變化。",
-      "summary": "急性胰臟炎的重症警訊包含肥胖、血液濃縮和持續 SIRS；題目用體溫和心率來辨認 SIRS。"
+      "summary": "急性胰臟炎的重症警訊包含肥胖、血液濃縮和持續 SIRS；題目用體溫和心率來辨認 SIRS。",
+      "approach": {
+        "k": "急性胰臟炎嚴重度指標、選**正確**的",
+        "t": "入院 24 小時內的嚴重度指標包括 **SIRS**（體溫 >38 或 <36、心跳 >90 等）",
+        "x": "風險因子是 **BMI >30**（不是 <30）；入院指標是**血液濃縮**（Hct 偏高），不是稀釋；住院期間單純血糖升高不是嚴重度關鍵指標"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13818,7 +13953,12 @@
       "summary": "A 型＝自體免疫、胃體優勢、pernicious anemia；B 型＝H. pylori、胃竇優勢。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "慢性胃炎、選**正確**的",
+        "t": "A 型＝**胃體**優勢（自體免疫）；B 型＝**胃竇**優勢（幽門桿菌）",
+        "x": "胃體型主因是**自體免疫**；自體免疫胃炎不走多灶萎縮路徑（那是幽門桿菌）；惡性貧血與**胃體型**相關"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13860,7 +14000,12 @@
       "concepts": [
         "glomerular-disease-patterns",
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "18 歲、喉嚨痛 10 天後腎炎、RBC cast、**補體明顯下降**，**最不可能**的",
+        "t": "低補體腎炎＝免疫複合體病；**GPA** 是 ANCA 血管炎，補體**正常**",
+        "x": "鏈球菌後腎炎、狼瘡腎炎、心內膜炎都會低補體"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13896,7 +14041,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "Bartter 症候群的缺陷位置",
+        "t": "**亨利氏環粗上升支**（NKCC2 等），像吃 loop 利尿劑",
+        "x": "Gitelman 在遠端腎小管（像 thiazide）；近端是 Fanconi；集尿管是 Liddle"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13929,7 +14079,12 @@
       "C": "本項應選（官方答案）。calcitriol 是活性維生素 D，不需要腎臟再活化，可直接增加腸道鈣吸收並抑制 PTH。對這位 eGFR 20、低血鈣、iPTH 255 的病人，是題目要的「一次處理低血鈣與高 PTH」的答案。要注意的是它會同時拉高血磷，所以用了要密切追蹤鈣磷。",
       "D": "本項不選。題目寫的 ergocalcitriol 應是 ergocalciferol 的誤植。ergocalciferol（D2）和 cholecalciferol（D3）一樣是營養型維生素 D，都需要肝與腎的兩次羥化，腎功能差時活化效率有限。",
       "summary": "CKD 的維生素 D 要分清楚：營養型（D2/D3）補的是庫存、需要腎臟活化；calcitriol 是活性型，能直接壓 PTH 但會拉高血磷。",
-      "guideline": "現行 KDIGO 建議未透析 CKD 先矯正 25(OH)D 缺乏，活性維生素 D 保留給嚴重或持續惡化的次發性副甲狀腺亢進"
+      "guideline": "現行 KDIGO 建議未透析 CKD 先矯正 25(OH)D 缺乏，活性維生素 D 保留給嚴重或持續惡化的次發性副甲狀腺亢進",
+      "approach": {
+        "k": "CKD eGFR 20、**25(OH)D 只有 10**、PTH 255",
+        "t": "先補**營養型維生素 D**（cholecalciferol）矯正缺乏",
+        "x": "cinacalcet 用在透析病人；calcitriol 是活性型，缺乏未補前先不用（會升磷）；ergocalcitriol 應是 ergocalciferol（D2）的誤植，同屬營養型但題意首選 D3"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13965,7 +14120,12 @@
       "guideline": null,
       "concepts": [
         "asymptomatic-bacteriuria-treatment-indications"
-      ]
+      ],
+      "approach": {
+        "k": "無症狀菌尿、**最需要**抗生素",
+        "t": "**懷孕**婦女（避免腎盂腎炎與早產）",
+        "x": "性活躍女性、糖尿病女性、長期導尿管都**不治療**無症狀菌尿"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13998,7 +14158,12 @@
       "C": "本項不選。連續性靜脈對靜脈血液過濾術（CVVH）是加護病房裡給血流動力不穩病人的短期治療，根本不是穩定末期腎病的長期方案。",
       "D": "正確答案。沒有明顯禁忌的末期腎病病人，腎臟移植的長期存活與生活品質最好，還能免除規律透析。代價是手術風險與終身免疫抑制，但整體仍最有利。",
       "summary": "末期腎病能移植就移植——透析是維持生命，移植才是把生活還給病人。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "54 歲 IgA 腎病變末期腎病、長期存活與生活品質最佳",
+        "t": "**腎臟移植**",
+        "x": "血液透析與腹膜透析的存活與生活品質都不如移植；CVVH 是急性重症用"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14600,7 +14765,12 @@
       "guideline": "FC 醫學(三)第1冊 p.294",
       "concepts": [
         "pft-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "抽菸 40 年、爬坡喘、X 光雙肺**過度透亮**",
+        "t": "做含**肺容積**的標準肺功能，同時看阻塞與過度充氣",
+        "x": "篩檢型只有 FEV1/FVC；DLCO 是輔助；支氣管激發用在肺功能正常的疑似氣喘"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14639,7 +14809,12 @@
       "D": "本項不選。免疫球蛋白缺乏症（hypogammaglobulinemia）造成反覆下呼吸道感染，是廣泛性支氣管擴張症裡**可以治療**的重要病因，值得主動找出來。",
       "summary": "廣泛性支氣管擴張症的病因都是全身性的（纖毛、免疫、反覆吸入）；只有一塊病灶的先天異常造不出廣泛病變。",
       "guideline": "FC 醫學(三)第1冊 p.374",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不是**廣泛性支氣管擴張常見原因",
+        "t": "**游離肺**是單一局部病灶，造不出廣泛性病變",
+        "x": "Kartagener（纖毛）、反覆吸入、低丙球蛋白都會造成廣泛性"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14673,7 +14848,12 @@
       "D": "本項應選。方向剛好相反：sarcoidosis 的肺泡灌洗（bronchoalveolar lavage, BAL）液是淋巴球增加、**CD4/CD8 比值上升**，不是下降。這個 CD4 優勢正是它的免疫特徵。",
       "summary": "sarcoidosis 是 CD4 主導的病：肉芽腫非乾酪性、灌洗液 CD4/CD8 比值往上，不是往下。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "類肉瘤病、選**錯誤**的",
+        "t": "類肉瘤病 BAL 的 **CD4/CD8 比值上升**（>3.5），不是下降",
+        "x": "T 細胞與巨噬細胞活化、ACE 升高、肺門淋巴腫大非乾酪性肉芽腫，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14707,7 +14887,12 @@
       "D": "本項不選。肺炎確實是流感最重要的嚴重併發症，可能是病毒本身造成的原發性肺炎，也可能是後續的細菌性肺炎。",
       "summary": "看到 HxNy 就是 A 型流感；A 型才會抗原大變異、才會大流行。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "H3N2 流感、選**錯誤**的",
+        "t": "HxNy 是 **A 型**流感；B 型沒有 H/N 亞型命名，也不會抗原大變異造成大流行",
+        "x": "oseltamivir 優於 adamantanes、每年接種疫苗、肺炎是最重要併發症，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14749,7 +14934,12 @@
       "concepts": [
         "cap-pathogens-by-clue",
         "chest-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "發燒咳嗽、左下**呼吸音減弱、觸覺震顫降低、叩診濁音**",
+        "t": "肋膜積液（肺炎旁積液）→ 考慮**胸腔穿刺**決定是否引流",
+        "x": "肺栓塞不像；細菌性肺炎合併積液較可能；孕齡女性也能照 X 光（防護）"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14788,7 +14978,12 @@
       "D": "本項不選。IPF 對類固醇反應不好，現在的治療是用 pirfenidone 或 nintedanib 這類抗纖維化藥延緩肺功能下降。",
       "summary": "IPF＝UIP 型態＋蜂窩狀變化；它不吃類固醇，靠的是抗纖維化藥。",
       "guideline": "FC 醫學(三)第1冊 p.353",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "原發性肺纖維化、選**錯誤**的",
+        "t": "IPF 的病理是 **UIP**，不是 NSIP",
+        "x": "最常見的特發性間質性肺炎、CT 蜂窩狀、對類固醇反應差，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15359,7 +15554,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "嘔吐兩天、低血壓、K 2.9、Cl 89、**代謝性鹼中毒**",
+        "t": "嘔吐流失 HCl → **氯缺乏性**鹼中毒 → 尿氯 **<20**",
+        "x": "脫水時尿滲透壓應**升高**；血滲透壓約正常；腎臟還在漏鉀，尿鉀**不會** <10"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15395,7 +15595,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "承上、最適合的處置",
+        "t": "缺氯就補氯：**0.9% NaCl 加 KCl**",
+        "x": "D5W 不補鈉氯；0.45% 補氯不足；Lactated Ringer's 含乳酸會產生鹼"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15431,7 +15636,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "皮膚過敏、每次感冒後咳超過一個月、秋冬好發",
+        "t": "**咳嗽變異型氣喘** → 清晨咳、胸悶喘鳴、過敏原或運動誘發；**進食後咳**不像（那是逆流或吸入）",
+        "x": "其他三個都是氣喘特徵"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15472,7 +15682,12 @@
       "guideline": "FC 醫學(三)第1冊 p.325",
       "concepts": [
         "bronchodilator-response-legacy"
-      ]
+      ],
+      "approach": {
+        "k": "承上、支氣管擴張試驗**最可能**的結果",
+        "t": "陽性＝FEV1 增加 **≥200 mL 且 ≥12%**",
+        "x": "50 mL/3%、100 mL/7%、150 mL/10% 都未達陽性標準"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15831,7 +16046,12 @@
       "summary": "大腸扭轉最常在乙狀結腸；CT 可確認旋轉部位並評估腸缺血和穿孔。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "大腸扭轉、選**最合理**的",
+        "t": "可用 **CT** 診斷（漩渦徵、評估缺血與穿孔）",
+        "x": "好發**老人**；最常見**乙狀結腸**；和腹股溝疝氣無特別相關"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15951,7 +16171,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "低血鉀、選**最正確**的",
+        "t": "輕度穩定的低血鉀，以**口服**補充為主",
+        "x": "spironolactone 是**保鉀**利尿劑；低血鉀常合併**低**血鎂；靜脈補鉀**不要**配葡萄糖（會刺激胰島素把鉀推進細胞）"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -26274,7 +26499,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲、漸進性運動性氣促，鑑別幫助**最小**的",
+        "t": "第一輪：身體診察、胸部 X 光、心臟超音波；沒有心悸或暈厥時 **Holter** 幫助最小",
+        "x": "身體診察、X 光、超音波都是第一線"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26356,7 +26586,12 @@
       "summary": "McBurney point 壓痛和 Rovsing sign 不同；後者是按壓左下腹誘發右下腹痛。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "25 歲女性、臍周痛轉移到右下腹、發燒",
+        "t": "急性闌尾炎；**Rovsing sign** 是壓**左**下腹引起右下腹痛，McBurney 壓痛不是 Rovsing",
+        "x": "要排除婦科泌尿問題、CT 不一定看到糞石、破裂成膿瘍先抗生素引流再延後手術，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26397,7 +26632,12 @@
       "summary": "息肉會不會侵襲不能只看有蒂或無蒂；大小、組織型和異生程度才是重點。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌、選**錯誤**的",
+        "t": "侵襲性不是看有蒂或無蒂；**無蒂**（sessile）與鋸齒狀反而較需注意，有蒂的較易完整切除",
+        "x": "腺瘤是癌前、增生性息肉較不會；FAP 的癌化風險較 PJS 高；Lynch 增加子宮內膜與卵巢癌，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26438,7 +26678,12 @@
       "summary": "壁細胞分泌胃酸需要大量 ATP，所以粒線體特別豐富。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "胃酸分泌、選**錯誤**的",
+        "t": "壁細胞分泌胃酸**很耗 ATP** → 粒線體**特別多**",
+        "x": "H+/K+-ATPase、受 gastrin、ACh、histamine 調控、休息與刺激時頂端膜型態改變，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26618,7 +26863,12 @@
       "B": "本項不選。未出血但可見的血管屬 Forrest IIa，是需要內視鏡治療的高風險徵象。",
       "C": "正確答案。乾淨的潰瘍底部屬 Forrest III，再出血風險低。生命徵象穩定的人可以較早出院。",
       "D": "本項不選。胃動靜脈畸形仍可間歇出血，單憑檢查當下沒出血，不能保證三天內風險低。",
-      "summary": "Forrest 分類裡乾淨底部（III）風險最低；可見血管、黏附血塊都還要警覺。"
+      "summary": "Forrest 分類裡乾淨底部（III）風險最低；可見血管、黏附血塊都還要警覺。",
+      "approach": {
+        "k": "黑便、內視鏡何種發現代表 3 天內**再出血機會不大**",
+        "t": "**乾淨的潰瘍底部**（Forrest III），再出血率最低",
+        "x": "黏附血塊（IIb）與可見血管（IIa）再出血風險高；AVM 也可能再出血"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26695,7 +26945,12 @@
       "guideline": null,
       "concepts": [
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腎移植後腎功能惡化、切片**內皮損傷＋C4d 沉積**",
+        "t": "**抗體媒介排斥** → 清抗體：血漿置換、IVIG、rituximab；**anti-IL-2 受體**抗體打 T 細胞，不適當",
+        "x": "血漿置換、免疫球蛋白、rituximab 都是 AMR 的治療"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26738,7 +26993,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "尿路結石、尿液結晶圖（草酸鈣）",
+        "t": "草酸鈣溶解度幾乎不受尿 pH 影響 → **不需要**調整尿液酸鹼",
+        "x": "不要限鈣；tiopronin 與 penicillamine 是胱胺酸結石用；高劑量維生素 C 會增加草酸"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26771,7 +27031,12 @@
       "C": "本項應選。氫離子幫浦阻斷劑（PPI）造成的 AIN 通常只有輕度蛋白尿。會出現腎病症候群程度蛋白尿的，是 NSAID 相關的 AIN 合併微小病變——藥物不同，表現也不同。",
       "D": "本項不選。藥物性 AIN 是遲發型過敏，暴露後要數日到數週才讓肌酸酐上升。這個時間軸正好符合原發性免疫反應的動力學。",
       "summary": "AIN 的蛋白尿是「輕度」；看到腎病症候群程度的蛋白尿要想 NSAID 那條路，不是 PPI。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**急性間質性腎炎常見表現",
+        "t": "AIN 多是**輕度**蛋白尿；PPI 引起的 AIN **不會**造成腎病症候群程度蛋白尿（那是 NSAID）",
+        "x": "輕度蛋白尿與血尿、FENa >1、數天到數週發生，都是常見表現"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26809,7 +27074,12 @@
       "C": "本項應選。腦動脈瘤風險確實增加（約 3.2%~10%），但真正決定要不要篩檢的是家族史、本人曾有動脈瘤或蛛網膜下腔出血（SAH）、高風險職業這些。題目說「男性較高、特別是小於 30 歲」並不成立。",
       "D": "本項不選。ADPKD 的囊腫組織還能製造紅血球生成素（erythropoietin），所以嚴重貧血相對少見。進展到尿毒症時一樣可以透析或移植。",
       "summary": "ADPKD 要篩腦動脈瘤看的是家族史，不是年齡性別；而它比一般末期腎病「比較不貧血」。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "多囊性腎臟病、選**錯誤**的",
+        "t": "ADPKD 腦動脈瘤約 5–10%，篩檢看**家族史**；不是男性與 <30 歲較多",
+        "x": "ADPKD 比一般末期腎病**較少**嚴重貧血（EPO 較多）且可透析或移植，這句對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26847,7 +27117,12 @@
         "nephrotic-syndrome-definition",
         "nephrotic-vs-nephritic",
         "glomerular-disease-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "腎病症候群**最容易**血栓的原發腎病",
+        "t": "**膜性腎病變**（腎靜脈栓塞最常見）",
+        "x": "MPGN、FSGS、MCD 也會高凝，但膜性最典型"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26885,7 +27160,12 @@
       "C": "本項敘述錯誤。A 型間細胞是**分泌** H+、把新生的 HCO3− 送回血液，和選項寫的方向剛好相反。",
       "D": "本項敘述錯誤。B 型間細胞經 pendrin 往管腔分泌 HCO3−、把 H+ 收回來，也和選項寫的相反。兩型間細胞正好互為鏡像。",
       "summary": "集尿管分工：主細胞管鈉鉀與水，A 型間細胞排酸、B 型間細胞排鹼——兩型方向相反。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "皮質集尿管三種細胞、選**正確**的",
+        "t": "**主細胞**是醛固酮、保鉀利尿劑、醛固酮拮抗劑的作用處",
+        "x": "主細胞**分泌**鉀；A 型間細胞**分泌酸**、再吸收 HCO3；B 型間細胞**分泌 HCO3**"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26926,7 +27206,12 @@
       "guideline": null,
       "concepts": [
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性腎損傷處置、選**錯誤**的",
+        "t": "重症病人**不建議**用低蛋白飲食延後透析，營養要給足",
+        "x": "等張晶體輸液、furosemide stress test 預測、不用低劑量 dopamine，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27226,7 +27511,12 @@
       "summary": "食道腺癌主要連結 obesity、GERD、Barrett esophagus 和 smoking，不是 H. pylori。",
       "concepts": [
         "esophageal-cancer-perforation"
-      ]
+      ],
+      "approach": {
+        "k": "食道**腺癌**、相關性**最低**的危險因子",
+        "t": "食道腺癌：肥胖、GERD、Barrett、抽菸；**幽門桿菌**反而可能有保護作用",
+        "x": "肥胖、慢性逆流、抽菸都相關"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27300,7 +27590,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "無遠端轉移的非小細胞肺癌、根治切除的**禁忌**",
+        "t": "**上腔靜脈症候群**＝侵犯縱膈大血管 → 通常不可切除",
+        "x": "同側肺門淋巴轉移（N1）可切；穩定心絞痛可評估；FEV1 >1 L 肺功能足夠"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27548,7 +27843,12 @@
       "guideline": "FC 醫學(三)第1冊 p.324",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘致病機轉、選**最適當**的",
+        "t": "病毒刺激上皮分泌 **IL-25、IL-33** → ILC2 分泌 IL-5 → 招募嗜酸性球",
+        "x": "CCL17/22 吸引的是 **Th2**；呼出 NO 主要來自**上皮**；IL-10 是**抗發炎**、IL-12 是 Th1"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27590,7 +27890,12 @@
       "concepts": [
         "pft-patterns",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "22 歲、胸悶運動喘、過敏性鼻炎、**聽得到哮鳴**",
+        "t": "有症狀有哮鳴 → 先做**支氣管擴張試驗**證明可逆性",
+        "x": "methacholine 激發用在基礎肺功能**正常**時；過敏原與 FeNO 是輔助"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27624,7 +27929,12 @@
       "D": "本項不選。肺炎常見局部囉音、支氣管呼吸音或羊鳴音，而且是急性病程。拖了三個月的單頻哮鳴不像肺炎。",
       "summary": "哮鳴的音調數就是狹窄處的數目：多音調＝廣泛小氣道，單音調＝一處大氣道被塞住，先想腫瘤。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "62 歲、慢性咳嗽 3 個月、**單音調**喘鳴",
+        "t": "單一大氣道局部阻塞 → 先想**肺癌**（支氣管內腫瘤）",
+        "x": "心衰竭、肺纖維化、肺炎不會有固定的單音調喘鳴"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27666,7 +27976,12 @@
       "concepts": [
         "pft-patterns",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "TLC 70%、FEV1/FVC 78%、**DLCO 55%**",
+        "t": "限制型（TLC 低）＋DLCO 低 → **肺實質**問題 → **間質性肺病**",
+        "x": "胸廓畸形與氣胸的 DLCO 多正常；肺氣腫是阻塞型"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27783,7 +28098,12 @@
       "D": "本項應選。PaCO2 70 mmHg 本身**不是**禁忌，反而是適應症：只要病人清醒、穩定、能保護氣道，COPD 急性高碳酸血症正是 NIV 最該用的場合。",
       "summary": "NIV 能不能用，看休克、意識與痰量，不是看 PaCO2 有多高——CO2 高本來就是它的主場。",
       "guideline": "FC 醫學(三)第1冊 p.448",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "NIV 的禁忌症，**不包括**",
+        "t": "**PaCO₂ 70** 正是 NIV 的適應症（高碳酸性呼吸衰竭）",
+        "x": "休克（60/40）、昏迷（GCS 3）、大量痰液都是禁忌"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -38613,7 +38933,12 @@
       "guideline": null,
       "concepts": [
         "polyuria-di-siadh"
-      ]
+      ],
+      "approach": {
+        "k": "多尿 3500 mL、**尿滲透壓 450**",
+        "t": "尿滲透壓 >300 → **溶質性利尿**（如高血糖、高 BUN）",
+        "x": "原發性多飲與尿崩症都是**水利尿**，尿滲透壓 <300（多 <100）"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39232,7 +39557,12 @@
       "B": "本項應選。這是錯的敘述。糞便 calprotectin 是腸道發炎的標記，可協助區分發炎性腸道疾病（IBD），但不是 IBS 的診斷性生物標記。",
       "C": "本項不選。IBS 可伴腹脹、消化不良和噁心等腸胃道症狀，不過持續嘔吐屬於警訊，要另找原因，敘述大方向正確。",
       "D": "本項不選。IBS 涉及腸腦互動、內臟高敏感、蠕動和菌相等多重機轉，不是單一病因，敘述正確。",
-      "summary": "Calprotectin 是用來找發炎，不是確診 IBS；IBS 仍以症狀準則加排除警訊為主。"
+      "summary": "Calprotectin 是用來找發炎，不是確診 IBS；IBS 仍以症狀準則加排除警訊為主。",
+      "approach": {
+        "k": "20 歲、反覆下腹絞痛、便祕腹瀉交替、排便後減輕",
+        "t": "**腸躁症**；fecal calprotectin 是找**發炎**（排除 IBD），**不是** IBS 的診斷標記",
+        "x": "女多於男、常伴脹氣消化不良、機轉多元，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39273,7 +39603,12 @@
       "summary": "大腸癌常先轉移肝臟；CEA 用於追蹤不是篩檢；復發多在前幾年。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌、選**正確**的",
+        "t": "多數復發在術後 **4 年內** → 五年存活可視為治癒指標",
+        "x": "**右側**結腸預後較差；最常轉移到**肝**；CEA 用於**追蹤**不是篩檢"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39314,7 +39649,12 @@
       "summary": "Krukenberg tumor 指胃癌的「卵巢」轉移，不是子宮轉移。",
       "concepts": [
         "gastric-small-bowel-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "胃腺癌、選**錯誤**的",
+        "t": "Krukenberg tumor 是轉移到**卵巢**，不是子宮",
+        "x": "分腸型與瀰漫型、瀰漫型年輕且成皮革胃、腸型與幽門桿菌相關，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39350,7 +39690,12 @@
       "summary": "十二指腸吸收鐵、鈣和部分葉酸；維生素 B12 的關鍵部位是末端迴腸。",
       "concepts": [
         "absorption-short-bowel-fistula"
-      ]
+      ],
+      "approach": {
+        "k": "切除**十二指腸**、**較不會**受影響的吸收",
+        "t": "**B12** 在**末端迴腸**吸收",
+        "x": "鈣、鐵在十二指腸吸收；葉酸在近端空腸"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39391,7 +39736,12 @@
       "summary": "胰腺癌常見體重下降、黃疸和背痛；出現低血糖反而要想到胰島素瘤（insulinoma）等。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**胰腺癌常見症狀",
+        "t": "胰腺癌：體重減輕、黃疸、背痛；**低血糖**要想胰島素瘤",
+        "x": "體重減輕、黃疸、背痛都是常見症狀"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39554,7 +39904,12 @@
       "C": "本項不選。馬兜鈴酸有很強的致癌性，會提高上泌尿道泌尿上皮癌與膀胱癌的風險，所以確診後要長期追蹤。",
       "D": "本項不選。與腎功能不成比例的貧血常常比明顯氮血症更早出現，是這個病很有用的線索。",
       "summary": "馬兜鈴酸腎病變三件事：進展快、貧血特別重、會長泌尿上皮癌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**馬兜鈴酸腎病變特徵",
+        "t": "特徵：**快速進展**腎衰竭、**不成比例的貧血**、**上泌尿道上皮癌**；不包括明顯營養不良",
+        "x": "其他三項都是典型特徵"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39597,7 +39952,12 @@
       "guideline": null,
       "concepts": [
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "左腰痛、血尿、**發燒 38.3**、IVP 見阻塞",
+        "t": "**阻塞合併感染** → 照會泌尿科**緊急引流**（雙 J 或腎造廔）",
+        "x": "α 阻斷劑與大量喝水是無感染時的排石治療；只給抗生素不引流會變敗血症"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39633,7 +39993,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "IgA 腎病變、懷孕合併高血壓，**最不適合**",
+        "t": "懷孕禁用 **ACEi/ARB**（胎兒腎臟發育異常）",
+        "x": "methyldopa、長效 CCB、labetalol 都是孕期首選"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39674,7 +40039,12 @@
       "guideline": null,
       "concepts": [
         "glomerular-disease-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "FSGS、選**錯誤**的",
+        "t": "**collapsing** 型 FSGS 進展快、預後**最差**；選項說「預後較好」是錯的",
+        "x": "表現與預後描述、切片要取到皮髓交界、續發性針對病因治療，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39716,7 +40086,12 @@
       "guideline": null,
       "concepts": [
         "adh-responsive-nephron-segments"
-      ]
+      ],
+      "approach": {
+        "k": "ADH 增加水通透性的節段（官方 C、D 都給分）",
+        "t": "ADH 作用在**集尿管**（AQP2）與遠端節段",
+        "x": "近端與下行枝靠 AQP1，水通透性**恆定**，不受 ADH 調控"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39754,7 +40129,12 @@
       "C": "本項敘述錯誤。顯影劑的劑量、滲透壓與重複暴露都會影響風險，所以原則是用最低必要劑量、避免不必要的重複檢查。",
       "D": "正確答案。既有腎臟疾病是最重要的危險因子。多發性骨髓瘤（multiple myeloma）若再合併慢性腎病、脫水或高血鈣，風險更高——這位病人 BUN 從 30 升到 70 mg/dL、肌酸酐 1.5 升到 4.5 mg/dL，正是典型病程。",
       "summary": "顯影劑腎病變幾天內就達高峰，而且風險看「本來腎好不好」——骨髓瘤加脫水最危險。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "IVU 後第 3 天 Cr 1.5→4.5，選**正確**的",
+        "t": "原本有腎病或**多發性骨髓瘤**較易發生顯影劑腎病變",
+        "x": "主要傷**腎小管**與髓質缺血；Cr 在 **3–5 天**達高峰、1–2 週恢復；種類與劑量**有關**"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39793,7 +40173,12 @@
       "D": "本項敘述錯誤。高血鈣或高尿鈣沒有多到 90% 的病人都有。而且血中 angiotensin-converting enzyme 上升來自肉芽腫本身的細胞，不是腎絲球被侵犯造成的。",
       "summary": "sarcoidosis 的主戰場在肺與肺門淋巴結，招牌是非乾酪性肉芽腫；ACE 來自肉芽腫，不是來自腎臟。",
       "guideline": "FC 醫學(三)第1冊 p.352",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "sarcoidosis、選**最適當**的",
+        "t": "淋巴結病理典型是**非乾酪性肉芽腫**",
+        "x": "機轉是 **T 細胞**（Th1/Th17）不是抗體；**肺**侵犯 >90%、皮膚約三成；高鈣只有部分、ACE 來自肉芽腫"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39834,7 +40219,12 @@
       "guideline": "FC 醫學(三)第1冊 p.460",
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "72 歲、杵狀指、肥厚性骨關節病變",
+        "t": "副腫瘤表現 → **支氣管原發肺癌**",
+        "x": "糖尿病、血色沉著症、肢端肥大症不會造成這個組合"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40094,7 +40484,12 @@
       "summary": "轉移性 HER2 陽性胃癌可用 trastuzumab 加化療；局部可切除的病灶仍以手術為核心。",
       "concepts": [
         "gastric-small-bowel-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "胃腺癌治療、選**最恰當**的",
+        "t": "轉移性 **HER2 陽性**胃癌：化療加 **trastuzumab** 可延長存活",
+        "x": "單獨術後放療無存活好處；胃癌對放療**不敏感**、不能取代手術；bevacizumab 未證實改善存活"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40135,7 +40530,12 @@
       "summary": "直腸癌的局部控制靠 TME 和適當的化學放射治療，不靠 cetuximab 加放療。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "第 II、III 期直腸癌、降低局部復發，**最不恰當**的",
+        "t": "局部控制靠 **TME**、骨盆放療、**5-FU 化放療**；**cetuximab 合併放療**沒有證實效益",
+        "x": "TME、術前或術後放療、5-FU 合併放療都有效"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40386,7 +40786,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘治療、選**最適當**的",
+        "t": "氣喘**控制良好**時，全身麻醉與插管**不是禁忌**",
+        "x": "懷孕**可以**用 ICS（budesonide）；阿斯匹靈敏感型 ICS **有效**；ABPA 的治療就是**口服類固醇**"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40425,7 +40830,12 @@
       "D": "正確答案。肺泡灌洗術（bronchoalveolar lavage, BAL）能直接證明肺泡腔裡嗜酸性球大量增加，同時把感染排除掉。周邊血白血球 14,200/mm³、嗜酸性球 25%、C-reactive protein 只有 0.9 mg/dL——不像細菌感染，最該做的就是 BAL。",
       "summary": "周邊嗜酸性球高＋發炎指數不高＋剛吃過藥＝想藥物性嗜酸性球肺炎，靠 BAL 直接看肺泡裡的細胞。",
       "guideline": "FC 醫學(三)第1冊 p.352",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "吃 NSAID 後、發燒咳嗽、雙側浸潤、**嗜酸性球 25%**、CRP 不高",
+        "t": "藥物性**嗜酸性球肺炎** → **支氣管肺泡灌洗**（嗜酸性球 >25%）確診",
+        "x": "CT 看不出細胞；ANCA 是 EGPA；anti-IgE 不是診斷工具"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40464,7 +40874,12 @@
       "D": "本項不選。肺功能會顯示限制型變化與低 DLco，很適合量嚴重度與追蹤病程，但單獨不能確診 IPF。",
       "summary": "IPF 的診斷靠影像認型態（HRCT 的 UIP pattern）；肺功能與血氧是拿來量嚴重度的。",
       "guideline": "FC 醫學(三)第1冊 p.353",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**最能**正確診斷 IPF 的檢查",
+        "t": "**高解析度電腦斷層**看到 UIP pattern",
+        "x": "X 光不夠；血氧與肺功能只看嚴重度"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -40505,7 +40920,12 @@
       "guideline": "FC 醫學(三)第1冊 p.367",
       "concepts": [
         "hap-vap-definition-prevention"
-      ]
+      ],
+      "approach": {
+        "k": "呼吸器相關肺炎、選**最適當**的",
+        "t": "心因性肺水腫用 **NIV** 取代插管 → 減少 VAP",
+        "x": "氣囊打飽也**不能完全**避免吸入；床頭要抬 **30–45 度**；長期預防性抗生素**不建議**"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41517,7 +41937,12 @@
       "summary": "十二指腸球部反覆潰瘍癒合會造成三葉草狀變形（cloverleaf deformity）。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "十二指腸潰瘍癒合後球部變形",
+        "t": "**三葉草變形**（cloverleaf deformity）",
+        "x": "double wall sign 與 football sign 是**氣腹**；inverted V 也是氣腹徵象"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41597,7 +42022,12 @@
       "guideline": null,
       "concepts": [
         "polyuria-di-siadh"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲低血鈉、選**最不適當**的",
+        "t": "是否用 3% 鹽水看**症狀**，不是看數字 <130",
+        "x": "排除高血糖假性低鈉、水腫要想心衰竭腎病、24 小時上升不超過約 6–8，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -51366,7 +51796,12 @@
       "concepts": [
         "shock-hemodynamic-profiles",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "獨居老人、皮膚乾癟眼眶凹陷、血壓 80/55、**頸靜脈低陷**、Na 155",
+        "t": "頸靜脈塌陷＋脫水 → **低血容積性休克**",
+        "x": "心因性休克與心包填塞頸靜脈會**怒張**；過敏性要有暴露與皮膚症狀"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51445,7 +51880,12 @@
       "C": "本項不選。心衰竭會降低腎臟灌流與肝臟血流，所以腎與肝的廓清率通常是**下降**的。",
       "D": "正確答案。老年人即使血清肌酸酐看起來正常，也可能因為肌肉量減少而掩蓋了下降的 GFR。腎藥物廓清率可以掉到只剩六至七成（下降約 35～50%），所以劑量要依實際腎功能調整。",
       "summary": "老人的肌酸酐正常不代表腎功能正常——肌肉少，肌酸酐本來就低，劑量要照 GFR 調。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "藥物動力學、選**最正確**的",
+        "t": "老人即使沒腎病，藥物腎廓清率仍可下降 **35–50%**",
+        "x": "心衰竭時心腦的藥效**不會**減低；腸道吸收**減少**；肝腎廓清率**下降**"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51486,7 +51926,12 @@
       "guideline": null,
       "concepts": [
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "淋巴水腫、選**錯誤**的",
+        "t": "淋巴水腫的皮膚**要保濕**（潤膚劑），皮膚裂開才是感染入口",
+        "x": "慢性發炎導致脂肪膠原堆積、次發性常見於淋巴廓清與放療、通常不痛，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51864,7 +52309,12 @@
       "guideline": null,
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "UC 與 Crohn、選**正確**的",
+        "t": "**抽菸增加 Crohn** 的發生（但對 UC 有保護）",
+        "x": "口服避孕藥與 UC 無明確關聯；**闌尾切除**保護的是 **UC**；**美國**發生率高於亞洲"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52045,7 +52495,12 @@
       "summary": "Peutz–Jeghers 的息肉是錯構瘤，症候群癌症風險高不等於多數息肉會惡變。",
       "concepts": [
         "gastric-small-bowel-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "小腸腫瘤、選**錯誤**的",
+        "t": "PJS 的息肉是**錯構瘤**，大部分**不會**惡變（症候群整體癌症風險高是另一回事）",
+        "x": "最常見良性是平滑肌瘤或腺瘤、淋巴瘤好發迴腸、最常見肉瘤是平滑肌肉瘤，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52086,7 +52541,12 @@
       "summary": "前列腺素保護胃黏膜；NSAID 抑制它才會增加潰瘍風險。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**胃上皮攻擊因子",
+        "t": "**前列腺素**是**保護**因子（增加黏液、碳酸氫鹽、血流）",
+        "x": "酒精、幽門桿菌、膽鹽都是攻擊因子"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52173,7 +52633,12 @@
       "summary": "糞便潛血（FIT／FOBT）是篩檢不是確診；陽性一定要接著做大腸鏡。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌篩檢、選**正確**的",
+        "t": "糞便潛血**陽性**要接著做**大腸鏡**確診",
+        "x": "潛血陽性**不等於**癌；肛門指診不是好篩檢；鋼劑攝影不如大腸鏡"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52211,7 +52676,12 @@
       "C": "本項敘述正確。Na 115 mmol/L 又有意識障礙，屬於嚴重症狀性低血鈉。可以用 3% 食鹽水小量 bolus，讓血鈉先安全上升、症狀改善。",
       "D": "本項敘述正確。24 小時內從 115 拉到 135 等於升了 20 mmol/L，會大幅提高滲透性脫髓鞘的風險。矯正速度一定要限制。",
       "summary": "低血鈉有神經症狀就先給 3% 鹽水救症狀，但一天升幅要壓住——救得急、升得慢，兩件事並行。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "意識障礙、Na 115、無水腫，選**錯誤**的",
+        "t": "尿滲透壓 250（>100）表示 ADH 作用中（如 SIADH）→ **限水有幫助**",
+        "x": "血滲透壓低、可用 3% 鹽水、24 小時內不能矯正到 135，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52247,7 +52717,12 @@
       "guideline": null,
       "concepts": [
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "顯影劑急性腎損傷、選**正確**的",
+        "t": "**N-acetylcysteine** 效果不一致，**不例行推薦**",
+        "x": "需透析的比例約 <1%；生理鹽水要**打顯影劑前**就開始；碳酸氫鈉不是只打 1 小時就有效"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52329,7 +52804,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-evaluation-drug-choice"
-      ]
+      ],
+      "approach": {
+        "k": "臺灣末期腎病**最主要**原發疾病",
+        "t": "**糖尿病腎病變**",
+        "x": "高血壓、慢性腎絲球腎炎、中草藥都排在後面"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52416,7 +52896,12 @@
       "guideline": null,
       "concepts": [
         "anemia-approach"
-      ]
+      ],
+      "approach": {
+        "k": "慢性腎病貧血原因、選**錯誤**的",
+        "t": "CKD 是 EPO 不足、**鐵被 hepcidin 鎖住**（功能性缺鐵）、出血；**不是**鐵過多",
+        "x": "EPO 不足、出血傾向、慢性發炎都是原因"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52452,7 +52937,12 @@
       "guideline": null,
       "concepts": [
         "urgent-dialysis-indications-aeiou"
-      ]
+      ],
+      "approach": {
+        "k": "緊急血液透析適應症、**最不適當**的",
+        "t": "緊急透析看 **AEIOU 併發症**，不是 eGFR 數字；沒尿毒症狀不急",
+        "x": "藥物無效的高血鉀、利尿劑無效的肺水腫、碳酸氫鈉矯正不了的酸中毒，都是適應症"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52744,7 +53234,12 @@
       "summary": "大腸癌的菌血症線索是 Streptococcus gallolyticus；enterococcus 不是經典配對。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌危險因子、**最不恰當**",
+        "t": "與大腸癌相關的菌血症是 **Streptococcus gallolyticus（bovis）**，不是 enterococcus",
+        "x": "動物性脂肪、IBD、Lynch 都是危險因子"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52918,7 +53413,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "小細胞肺癌、肝轉移、CT 上腔靜脈**輕微壓迫但無症狀**",
+        "t": "擴散期 SCLC、**沒有** SVC 症候群 → 直接**全身化療**",
+        "x": "緊急放療或放支架用在有症狀的 SVC 症候群；先放療再化療延誤全身治療"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53089,7 +53589,12 @@
       "guideline": null,
       "concepts": [
         "pleural-fluid-analysis"
-      ]
+      ],
+      "approach": {
+        "k": "肺炎旁積液、**最應**積極引流",
+        "t": "**glucose 38**（<60）→ 複雜性積液，要引流",
+        "x": "pH 7.3 尚未 <7.2；LDH 700 與 WBC 7000 單獨不是引流指標"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53130,7 +53635,12 @@
       "D": "本項不選。肺癌在影像上多半是單一腫塊或結節，就算不抽菸也可能發生。但這張片子是兩側上肺野的多發斑塊病灶，型態不符合。",
       "summary": "胸部 X 光先看分布：上肺野為主＋空洞＋慢性咳嗽＝先想肺結核，並趕快驗痰。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "45 歲不抽菸、咳 2 個月、X 光上肺野病灶",
+        "t": "慢性咳嗽＋上肺野浸潤或空洞 → **肺結核**",
+        "x": "細菌性肺炎是急性；間質性肺炎是雙側下肺網狀；不抽菸中年較不像肺癌（影像型態也不同）"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53174,7 +53684,12 @@
       "guideline": "官方更正：本題一律給分",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘治療追蹤、選**錯誤**的（官方四個都給分）",
+        "t": "降階的前提是穩定**至少 3 個月**（不是 2 個月）",
+        "x": "本題官方送分"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53215,7 +53730,12 @@
       "guideline": "FC 醫學(三)第1冊 p.335",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 治療、選**錯誤**的",
+        "t": "**肺復健**對 COPD 效益明確（改善症狀、運動耐力、生活品質）",
+        "x": "輕度用 LAMA、頻繁發作考慮 ICS、肺移植是選項，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53254,7 +53774,12 @@
       "D": "本項敘述錯誤。ARDS 的低血氧主要來自肺泡被水淹或塌陷造成的嚴重通氣灌流不均與分流（shunt），不是單純的擴散障礙。",
       "summary": "ARDS 是「漏」出來的水腫（通透性），心因性肺水腫是「擠」出來的水腫（靜水壓）。",
       "guideline": "FC 醫學(三)第1冊 p.426",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "ARDS 與心因性肺水腫**最大**的不同",
+        "t": "ARDS 是肺血管**通透性增加**（漏出來）",
+        "x": "ARDS 的 wedge pressure 通常 **≤18**；ARDS 浸潤可在周邊；缺氧主因是**分流**不是擴散障礙"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53290,7 +53815,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "矽肺症、選**錯誤**的",
+        "t": "矽肺症**離開暴露後仍會持續惡化**",
+        "x": "吸入游離二氧化矽、上肺野小結節與蛋殼鈣化與 PMF、易合併結核與自體免疫，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53326,7 +53856,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "**無法**區分小細胞與非小細胞肺癌的標記",
+        "t": "**TTF-1** 在肺腺癌與小細胞癌都可陽性，只代表肺來源",
+        "x": "CD56、NCAM、chromogranin 是神經內分泌標記，可辨認小細胞癌"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54214,7 +54749,12 @@
       "summary": "正常的食道壓跡包括主動脈弓和左主支氣管；主動脈弓的壓跡不在右側。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "上消化道鋇劑檢查、選**最不恰當**的",
+        "t": "主動脈弓在食道**左側**形成壓跡，不是右側",
+        "x": "左主支氣管壓跡、胃食道交界在穿過橫膈處、吞嚥引發蠕動，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54255,7 +54795,12 @@
       "guideline": "FC 醫學(三)第1冊 p.335",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 影像、選**最不恰當**的",
+        "t": "**胸部 CT** 是診斷支氣管擴張的標準工具",
+        "x": "X 光肺體積增加、血管稀疏、可見管狀或環狀影，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54332,7 +54877,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "低血鉀、選**最不適當**的",
+        "t": "甲亢週期性癱瘓的尿鈣磷比是**偏高（>1.7）**，不是 <1.6",
+        "x": "QT 延長、可致心房顫動與 TdP 都對；醛固酮過多是腎性漏鉀、TTKG 其實應**偏高**（C 也可議），但官方答案是 D"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -64221,7 +64771,12 @@
       "guideline": null,
       "concepts": [
         "hyperkalemia-causes-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "**最可能**造成高血鉀",
+        "t": "**NSAID** 抑制前列腺素 → 腎素醛固酮降低 → 排鉀減少",
+        "x": "胰島素與 β2 促效劑把鉀推進細胞（降鉀）；缺鎂會讓腎臟**漏鉀**（低鉀）"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64349,7 +64904,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "痛風病人、雙側腎結石、**X 光看不到**",
+        "t": "透光性結石 → **尿酸結石**；不能用 **probenecid**（增加尿中尿酸）",
+        "x": "allopurinol 減少生成、potassium citrate 與 sodium bicarbonate 鹼化尿液，都適合"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64548,7 +65108,12 @@
       "D": "本項應選。貧血不是肺高壓確診後的常見必然合併症。真正該做的是回頭找病因——左心疾病、肺部疾病、慢性血栓栓塞或全身性疾病。",
       "summary": "肺高壓的流程是「超音波篩、右心導管確診、再回頭找病因」，貧血不在這條線上。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "肺高壓、選**錯誤**的",
+        "t": "肺高壓**不常合併貧血**（反而可能紅血球增多）",
+        "x": "初期症狀不專一、心臟超音波篩檢、右心導管確診，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64835,7 +65400,12 @@
       "B": "本項不選。大便失禁可用纖維、糞便體積增加劑（bulking agent）、止瀉藥和生物回饋，並依病因治療。",
       "C": "本項應選。這是錯的敘述。需要用手推復位的是「第三級」內痔；第四級是持續脫出、沒辦法推回去。",
       "D": "本項不選。肛門直腸膿瘍的核心治療是及時切開引流。免疫低下的人感染風險和嚴重度都比較高。",
-      "summary": "內痔分級陷阱：grade III 可以用手推回去，grade IV 推不回去。"
+      "summary": "內痔分級陷阱：grade III 可以用手推回去，grade IV 推不回去。",
+      "approach": {
+        "k": "肛門直腸疾病、選**錯誤**的",
+        "t": "用手能推回去的是**第三級**痔瘡；推不回去才是第四級",
+        "x": "大便失禁的原因、大便失禁的治療、肛門膿瘍要切開引流，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64876,7 +65446,12 @@
       "summary": "SBP 的核心背景是肝硬化腹水和低腹水蛋白，不是白血球低下。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "急性腹膜炎、選**錯誤**的",
+        "t": "SBP 的重要危險因子是**肝硬化腹水**與**低腹水蛋白**，不是血中白血球低",
+        "x": "腸穿孔造成次發性腹膜炎、注意壓痛位置與僵直、X 光自由氣體要緊急手術，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64917,7 +65492,12 @@
       "summary": "食道鱗癌可以用 PTHrP，在沒有骨轉移的情況下造成高鈣血症。",
       "concepts": [
         "esophageal-cancer-perforation"
-      ]
+      ],
+      "approach": {
+        "k": "菸酒、食道鱗癌、選**錯誤**的",
+        "t": "食道鱗癌可分泌 **PTHrP** → **沒有骨轉移**也會高血鈣",
+        "x": "菸酒是危險因子、同時是口咽癌高危險、釐清吞嚥困難型態有助鑑別，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65000,7 +65580,12 @@
       "summary": "胰腺癌切除後一定要考慮輔助化療；侵犯 SMA 通常不可切除。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "胰腺癌、選**錯誤**的",
+        "t": "切除後**輔助化療**（如 mFOLFIRINOX）**是**標準治療",
+        "x": "BRCA2 增加風險、慢性胰臟炎是危險因子、侵犯 SMA 無法切除，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65133,7 +65718,12 @@
       "guideline": null,
       "concepts": [
         "urgent-dialysis-indications-aeiou"
-      ]
+      ],
+      "approach": {
+        "k": "eGFR 11、**無症狀**、電解質酸鹼都正常，對存活**最沒有**助益",
+        "t": "沒症狀與併發症時，**提早開始透析**不會改善存活",
+        "x": "維持血色素、控制血壓、轉介腎臟科規劃，都有助益"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65171,7 +65761,12 @@
       "C": "本項不選。sirolimus 常造成高血脂、蛋白尿、口腔潰瘍與傷口癒合不良，不是這題單純新發高血糖最典型的藥。",
       "D": "本項不選。mycophenolate mofetil 常見的是腹瀉、白血球低下與感染，不是主要的致糖尿病免疫抑制劑。",
       "summary": "移植後突然變糖尿病先看 tacrolimus（再想類固醇）——它直接壓住 β 細胞分泌胰島素。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腎移植後新發糖尿病，**最相關**的藥",
+        "t": "**tacrolimus** 直接抑制 β 細胞分泌胰島素",
+        "x": "cyclosporine 也會但較少；sirolimus 是高血脂；MMF 是腸胃與骨髓抑制"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65209,7 +65804,12 @@
       "C": "本項不選。中草藥腎病變的元凶是馬兜鈴酸，它會形成 aristolactam-DNA 加合物，造成特徵性突變與泌尿上皮癌。",
       "D": "本項不選。巴爾幹地方性腎病變同樣與長期馬兜鈴酸暴露及 DNA 加合物傷害有關，機轉與中草藥腎病變相通。",
       "summary": "四個裡有三個是 DNA 被打壞（FAN1 修不好、馬兜鈴酸加合物）；中美洲腎病變走的是熱與脫水那條路。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "致病機轉**未被證實**與 DNA 損傷有關",
+        "t": "**中美洲腎病變**和熱壓力、脫水有關",
+        "x": "karyomegalic（FAN1）、中草藥與巴爾幹腎病變（馬兜鈴酸 DNA 加合物）都與 DNA 損傷有關"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65250,7 +65850,12 @@
       "guideline": null,
       "concepts": [
         "stone-intervention-selection"
-      ]
+      ],
+      "approach": {
+        "k": "腎結石處置、選**錯誤**的",
+        "t": "輸尿管結石依大小與位置選擇，**體外震波不是通用首選**（輸尿管鏡常較有效）",
+        "x": "NSAID 止痛不輸鴉片、大量輸液或利尿無法促排、α 阻斷劑促排，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65288,7 +65893,12 @@
       "C": "本項不選。tolvaptan 阻斷 V2 receptor，在符合快速進展風險的成人 ADPKD 可以減緩腎臟總體積增加與 eGFR 下降。",
       "D": "本項不選。限鹽（＜5 g/day）有助控制血壓，也可能降低血管加壓素的驅動力與疾病進展風險。",
       "summary": "ADPKD 的血壓用 ACEi／ARB，而且不能為了「壓低一點」把收縮壓降到腎臟灌流不夠。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "ADPKD、**無助於**減緩腎功能惡化",
+        "t": "ADPKD 降壓首選 **ACEi/ARB**，不是 CCB；腎功能差時把收縮壓壓到 <110 反而有害",
+        "x": "囊泡感染用脂溶性抗生素、tolvaptan 延緩、低鹽飲食，都有幫助"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65326,7 +65936,12 @@
       "C": "本項不選。RAAS 相關基因多型性（例如 ACE 基因的 I/D）確實被列為危險因子，這也部分解釋了為什麼血糖控制相近的人腎病進展差很多。其他危險因子還有高血壓、抽菸、蛋白尿與家族史。",
       "D": "本項不選。視網膜病變與 Kimmelstiel-Wilson 結節高度相關，兩者都是微血管病變。臨床上有個實用推論：**糖尿病人有蛋白尿卻沒有視網膜病變，就要懷疑不是糖尿病腎病變**，該考慮腎切片。",
       "summary": "糖尿病腎病變影響兩到四成的糖尿病人；有蛋白尿卻沒有視網膜病變時，要想「這可能不是糖尿病造成的腎病」。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "糖尿病腎病變、選**錯誤**的",
+        "t": "糖尿病腎病變影響約 **30–40%** 糖尿病人，不是 20%",
+        "x": "台灣 CKD 最常見原因、基因多形性是危險因子、與視網膜病變及 KW 結節相關，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65359,7 +65974,12 @@
       "C": "本項不選。Emx2 參與後腎間質的上皮化與腎元發育，也在這個階段作用。",
       "D": "本項不選。Fgf8 在前腎小管聚合體與腎泡階段支持腎元前驅細胞的存活與分化。",
       "summary": "前腎小管聚合期是「間質變上皮」的階段（Wnt4／Fgf8／Emx2）；VEGF-A 要等血管長進來才登場。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "前腎小管聚合期、**未參與**的基因",
+        "t": "此期是間質變上皮（Wnt4、Fgf8、Emx2）；**VEGF-A/Kdr** 要到血管長入時才參與",
+        "x": "Wnt4、Emx2、Fgf8 都參與此期"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65732,7 +66352,12 @@
       "summary": "胃 MALT lymphoma 先根除 H. pylori；GIST 用標靶不是傳統組合化療。",
       "concepts": [
         "gastric-small-bowel-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "胃的非腺癌惡性腫瘤、選**正確**的",
+        "t": "侷限於胃的 **MALT 淋巴瘤**第一線是**根除幽門桿菌**",
+        "x": "胃淋巴瘤以 **B 細胞**為主；胃平滑肌肉瘤以**手術**為主；GIST 肝轉移用 **imatinib** 標靶，不是組合化療"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65985,7 +66610,12 @@
       "guideline": null,
       "concepts": [
         "pft-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "診斷 COPD 的**必要**檢查",
+        "t": "吸支氣管擴張劑**後**的肺功能 FEV1/FVC <0.7（支氣管擴張試驗）",
+        "x": "CT、支氣管鏡、α1 抗胰蛋白酶不是診斷必要"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66021,7 +66651,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 用長效擴張劑仍不穩、**嗜酸性球 5%**（9500×5%＝475）",
+        "t": "血中嗜酸性球 ≥300 → 加上 **ICS**",
+        "x": "theophylline 效果有限副作用多；macrolide 用於前次吸菸者或嗜酸性球低；白三烯素拮抗劑對 COPD 證據不足"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66060,7 +66695,12 @@
       "D": "本項應選。兩側肺門淋巴結位置深，前面又隔著含氣的肺——超音波過不去。這種病灶要靠電腦斷層。",
       "summary": "超音波怕空氣：貼著胸壁的（積水、氣胸、橫膈）看得到，藏在含氣肺後面的肺門就看不到。",
       "guideline": "FC 醫學(三)第1冊 p.293",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "胸腔超音波**最沒有**幫助的",
+        "t": "**肺門淋巴腺**被含氣肺擋住，超音波看不到",
+        "x": "肋膜積水、氣胸、橫膈麻痺都貼近胸壁，看得到"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66102,7 +66742,12 @@
       "concepts": [
         "pft-patterns",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "TLC 70%、FEV1/FVC 80%、**最大吸氣壓力 55%**",
+        "t": "限制型＋呼吸肌無力 → **神經肌肉疾病**（重症肌無力）",
+        "x": "COPD 是阻塞型；肥胖與肺葉切除的吸氣肌力正常"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66138,7 +66783,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "丈夫是 **isoniazid 抗藥**結核、妻子 IGRA 陽性、X 光正常",
+        "t": "潛伏結核要依傳染源的抗藥性選藥 → **4 個月 rifampin**",
+        "x": "INH 對抗藥菌無效；2RZ 肝毒性高已不建議；levofloxacin 用在 MDR 接觸者"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66213,7 +66863,12 @@
       "D": "正確答案。大量肺栓塞讓右心室（right ventricle, RV）後負荷急速上升，右心撐不住就急性衰竭，接著心輸出量掉下來造成休克。這就是嚴重肺栓塞最常見的死因。",
       "summary": "肺栓塞會致死的機轉在**右心**：後負荷突然變大→右心衰竭→休克。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "急性肺栓塞、選**正確**的",
+        "t": "嚴重肺栓塞最常見死因是**右心室衰竭**造成的心因性休克",
+        "x": "Wells 不含胸痛；D-dimer **敏感**但**不特異**；肝素要用到 warfarin 達標，不是一律 5 天以上"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66757,7 +67412,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 肺炎出院後的預防，選**錯誤**的",
+        "t": "**不建議**預防性抗生素",
+        "x": "戒菸、肺炎鏈球菌疫苗、每年流感疫苗，都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67126,7 +67786,12 @@
       "summary": "食道鋇攝影不看胰臟；重症胰臟炎和 pseudocyst 用橫斷面影像。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "疾病與影像、**最不適宜**的",
+        "t": "食道鋇劑攝影看的是食道，**不能**偵測急性胰臟炎",
+        "x": "CT 或超音波追蹤假性囊腫、鋇劑看食道阻塞、增強 CT 評估嚴重胰臟炎，都適宜"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -77150,7 +77815,12 @@
       "guideline": null,
       "concepts": [
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲全身水腫、**早上眼皮臉腫**、白天改善、平躺不喘",
+        "t": "早晨眼瞼臉部水腫 → **低白蛋白**（腎病或營養不良）",
+        "x": "NT-proBNP 高是心衰竭（下肢、端坐呼吸）；TSH 9 是輕度甲低；Free T4 高是甲亢"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77603,7 +78273,12 @@
       "summary": "克隆氏病傳統藥物失敗後可升級生物製劑，不是直接手術。",
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "40 歲、右下腹痛、腹瀉、腫塊、結節性紅斑、升結腸**鵝卵石**",
+        "t": "**Crohn's disease**；傳統藥物失敗應升級**生物製劑**，不是直接手術",
+        "x": "與菌叢免疫失調有關、跳躍病灶可致瘻管狹窄、非乾酪性肉芽腫，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77639,7 +78314,12 @@
       "summary": "H2 blocker 的作用細胞是壁細胞（parietal cell），不是主細胞（chief cell）。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "胃藥機轉、選**錯誤**的",
+        "t": "H2 阻斷劑作用在**壁細胞**的 histamine 受體，不是主細胞",
+        "x": "制酸劑中和胃酸、PPI 不可逆結合質子幫浦、PPI 停藥可能反彈，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77676,7 +78356,12 @@
       "concepts": [
         "anorectal-colon-anatomy-lgib",
         "gi-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "病房病人大量黑便、頭暈，**最不恰當**的處置",
+        "t": "急性出血早期血紅素**還來不及下降**，不能用血紅素正常排除嚴重出血",
+        "x": "問病史、評估心跳血壓、內視鏡止血降低再出血與死亡，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77712,7 +78397,12 @@
       "summary": "鐵和鈣在近端小腸吸收；膽酸回收在末端迴腸；分泌型腹瀉禁食仍持續。",
       "concepts": [
         "absorption-short-bowel-fistula"
-      ]
+      ],
+      "approach": {
+        "k": "胃腸道吸收、選**正確**的",
+        "t": "**鐵與鈣**主要在**上端小腸**（十二指腸）吸收",
+        "x": "膽酸在**末端迴腸**回收；ADEK 是**脂溶性**；分泌型腹瀉禁食後**不會**減輕"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77753,7 +78443,12 @@
       "summary": "大腸阻塞最常見是腫瘤，不是腸扭轉。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "急性腸阻塞、選**錯誤**的",
+        "t": "大腸阻塞最常見原因是**腫瘤**（大腸癌），不是腸扭轉",
+        "x": "小腸阻塞較常見、沾黏是小腸阻塞常見原因、乙狀結腸扭轉可內視鏡減壓，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77920,7 +78615,12 @@
       "C": "本項不選。非隧道式的雙腔導管是給緊急或短期透析用的，感染與功能不良風險最高，不適合計畫性的長期通路。",
       "D": "本項不選。隧道式導管可以當橋接、或給實在做不出動靜脈通路的人用，但血流感染與中央靜脈狹窄的風險仍高於瘻管。",
       "summary": "長期透析通路的順位固定：自體瘻管 ＞ 人工血管 ＞ 導管——差別在感染與長期通暢。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "規劃長期血液透析、血管通路首選",
+        "t": "**自體動靜脈瘻管**（感染最少、通暢最久）",
+        "x": "人工血管次之；導管感染與栓塞最多，只用於過渡"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77958,7 +78658,12 @@
       "C": "本項敘述正確。如果可疑藥物的暴露與急性腎損傷（AKI）的時序很典型、停藥後又改善，可以不做切片。等到診斷不清或腎功能沒恢復，才考慮切片。",
       "D": "本項應選。這句話說得太滿。類固醇的證據主要來自觀察性研究，可能讓部分病人恢復快一點，但**能不能改善長期腎臟存活並未確立**。真正第一線的處置是停掉可疑藥物。",
       "summary": "急性間質性腎炎的第一線是停藥，不是類固醇；類固醇的長期效益還沒被證實。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性間質性腎炎、選**錯誤**的",
+        "t": "第一線是**停藥**；類固醇能否改善**長期**腎存活**尚未證實**",
+        "x": "三聯徵只發生在少數、可有膿尿白血球圓柱血尿、病史清楚可不切片，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77996,7 +78701,12 @@
       "C": "本項應選。逆流造成的疤痕是**局部**的，所以超音波看到的是不對稱萎縮、局部皮質疤痕與不規則輪廓。題目說「對稱性萎縮」剛好相反。",
       "D": "本項不選。積極控制血壓與蛋白尿（常用 RAAS 阻斷）確實能減緩腎功能惡化。",
       "summary": "逆流性腎病變的疤痕是東一塊西一塊、兩邊不對稱；對稱性萎縮要往別的慢性腎病想。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "成人逆流性腎病變、**不是**典型特徵",
+        "t": "逆流造成的疤痕是**不對稱**、局部凹陷；**對稱性萎縮**要想其他慢性腎病",
+        "x": "小時候尿床或反覆 UTI、輕微蛋白尿無異常沉渣、控壓減緩惡化，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78037,7 +78747,12 @@
       "guideline": null,
       "concepts": [
         "aki-prerenal-intrinsic-postrenal"
-      ]
+      ],
+      "approach": {
+        "k": "**最不須**考慮雙側尿路阻塞的情境",
+        "t": "**姿勢性低血壓**代表容積不足，屬腎前性",
+        "x": "無尿、高 AG 外的高鉀酸中毒、後天腎源性尿崩症都要考慮阻塞"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78078,7 +78793,12 @@
       "guideline": null,
       "concepts": [
         "glomerular-disease-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "狼瘡腎炎切片、**最不可能**出現的",
+        "t": "狼瘡腎炎是免疫複合體病：增生性、膜性、新月體；**FSGS** 不在 ISN/RPS 分類中",
+        "x": "瀰漫增生（IV）、膜性（V）、新月體都可能"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78120,7 +78840,12 @@
       "concepts": [
         "aki-prerenal-intrinsic-postrenal",
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "Cr 48 小時升到 2.5，**最傾向內生性** AKI",
+        "t": "尿沉渣有**顆粒性圓柱**（泥褐色）＝腎小管壞死",
+        "x": "FENa <1%、尿滲透壓 >500、BUN/Cr >20 都指向**腎前性**"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78805,7 +79530,12 @@
       "D": "本項敘述錯誤。結締組織疾病相關的間質性肺病（CTD-associated ILD）可以依照偏發炎或偏纖維化的表型，個別化地合併免疫抑制劑與抗纖維化藥，不是絕對禁止併用。",
       "summary": "間質性肺病要先分型再給藥：COP 吃類固醇有效，IPF 走抗纖維化，兩者不能互換。",
       "guideline": "FC 醫學(三)第1冊 p.350",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "間質性肺病治療、選**最適當**的",
+        "t": "**隱源性機化性肺炎**用**類固醇**效果好",
+        "x": "IPF 用免疫抑制反而**增加**死亡；pirfenidone 與 nintedanib **能**延緩 IPF；結締組織病 ILD **可以**合併兩者"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78839,7 +79569,12 @@
       "D": "本項不選。白天嗜睡反映疾病對日常功能的衝擊，臨床上會納入整體嚴重度評估，也影響治療的積極度。",
       "summary": "危險因子不等於嚴重度：BMI 告訴你「容易得」，AHI 與血氧告訴你「多嚴重」。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不是** OSA 嚴重度指標",
+        "t": "**BMI** 是危險因子，不是嚴重度",
+        "x": "AHI、夜間血氧下降、白天嗜睡都是嚴重度指標"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78957,7 +79692,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性低血氧、**胸部 X 光正常**的鑑別",
+        "t": "①肺栓塞、②右向左分流、④肝硬化（肝肺症候群）、⑤氣喘",
+        "x": "③氣胸與⑥肺水腫在 X 光上看得到"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78993,7 +79733,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "診斷氣喘**最有價值**的檢查",
+        "t": "**肺功能**證明可變的氣流受限",
+        "x": "血氣、X 光、心電圖都不能診斷氣喘"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79861,7 +80606,12 @@
       "D": "正確答案。和矽肺症比起來，單純 CWP 造成的巨噬細胞功能障礙沒那麼嚴重，所以罹患肺結核（TB）或黴菌感染的風險相對較低。",
       "summary": "這題四項有三項其實在講矽肺症；CWP 的相對特點就是感染風險比較低。",
       "guideline": "FC 醫學(三)第4冊 p.401",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "煤礦工人塵肺 vs 矽肺、**煤礦塵肺**的特徵",
+        "t": "煤礦塵肺罹患**結核或黴菌感染**的風險**較低**",
+        "x": "肺癌風險較高、易合併硬皮症、肺門淋巴結蛋殼鈣化，都是**矽肺**的特徵"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79943,7 +80693,12 @@
       "summary": "中央上腹部、沿胰臟分布的鈣化，是慢性胰臟炎的經典影像。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "腹部**正中央**的鈣化",
+        "t": "**慢性胰臟炎**（沿胰臟分布的鈣化）",
+        "x": "膀胱結石在骨盆；臀部注射鈣化在骨盆外側；髂股血管鈣化在骨盆兩側"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -89945,7 +90700,12 @@
       "summary": "這一例同時有 transfer dysphagia、odynophagia 和 phagophobia，但不是完全的 aphagia。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲、喉嚨異物感、吞嚥困難、後咽刺痛、喝水嗆到鼻漏、害怕吞嚥",
+        "t": "有**轉移性吞嚥困難**、**吞嚥痛**、**吞嚥恐懼**；但仍能吞，**不是**完全不能吞的 aphagia",
+        "x": "其他三個症狀病人都有"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89983,7 +90743,12 @@
       "C": "本項不選。Kernig's sign 也是測腦膜刺激，但做法不同：先把髖膝屈曲，再伸直膝蓋看會不會痛或有阻力。",
       "D": "本項不選。Trendelenburg's sign 是單腳站立看對側骨盆會不會下垂，評估的是髖外展肌無力。",
       "summary": "彎脖子→髖膝跟著彎＝Brudzinski；伸膝蓋→痛＝Kernig，兩個都是腦膜刺激但手法不同。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "平躺、把脖子往前彎、觀察髖膝是否自主屈曲",
+        "t": "**Brudzinski's sign**（腦膜刺激徵）",
+        "x": "Kernig 是屈髖後伸膝會痛；Babinski 是錐體路徑；Trendelenburg 是臀中肌無力"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90494,7 +91259,12 @@
       "B": "本項不選。IBS 可依 Bristol 糞便型態量表分成便秘型（IBS-C）、腹瀉型（IBS-D）、混合型（IBS-M）和未分類型。",
       "C": "本項不選。建立治療關係、解釋疾病，並個別嘗試低 FODMAP 飲食（low-FODMAP diet），是合理的初始策略。",
       "D": "本項不選。纖維、loperamide、滲透性瀉劑、抗痙攣藥和部分神經調節劑，可依主要症狀選用。",
-      "summary": "IBS 是腸腦互動障礙，不應該有潛血或糞便白血球。"
+      "summary": "IBS 是腸腦互動障礙，不應該有潛血或糞便白血球。",
+      "approach": {
+        "k": "腸躁症、選**錯誤**的",
+        "t": "IBS **不應該**有潛血或糞便白血球；有就要找器質性病因",
+        "x": "分便祕型、腹瀉型、混合型；先同理支持、低 FODMAP；多種藥物可選，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90530,7 +91300,12 @@
       "summary": "機械性腸阻塞的腸音是早期 high-pitched、晚期 hypoactive／absent。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "急性腸阻塞、選**錯誤**的",
+        "t": "機械性小腸阻塞早期腸音是**亢進高調**，晚期才變慢或消失；選項把順序講反",
+        "x": "機械性原因列舉、偽阻塞是蠕動異常、阻塞前端擴張與腸壁水腫，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90566,7 +91341,12 @@
       "summary": "幽門桿菌除菌別再用 7 天療程；就算抗藥率低也要 14 天，抗藥率高就直接走四合一。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "clarithromycin 抗藥 <15% 地區、**不推薦**的除菌",
+        "t": "**7 天**三合一療程除菌率不足，不再推薦（至少 14 天）",
+        "x": "14 天三合一、10–14 天 concomitant、10–14 天鉍劑四合一都可用"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90602,7 +91382,12 @@
       "summary": "膽結石胰臟炎先做支持治療和適量輸液；ERCP 留給膽管炎或持續阻塞。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "膽結石急性胰臟炎、**最重要**的治療",
+        "t": "**積極靜脈輸液**（支持治療的核心）",
+        "x": "抗生素不常規；ERCP 只在合併膽管炎或持續阻塞時；鼻胃管不常規"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90643,7 +91428,12 @@
       "summary": "慢性胰臟炎常見疼痛、吸收不良、糖尿病和膽道狹窄，但 DKA 相對不常見。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**慢性胰臟炎常見併發症",
+        "t": "慢性胰臟炎的糖尿病（3c 型）同時缺 glucagon，**很少 DKA**",
+        "x": "慢性腹痛、吸收不良、膽道狹窄都是常見併發症"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90728,7 +91518,12 @@
       "summary": "胃切除後餐後腹瀉加上兩小時後的盜汗、頭暈，典型是晚期傾食症候群（late dumping syndrome）。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "胃部分切除、進食後腹痛腹瀉、**約 2 小時後**頭暈盜汗",
+        "t": "**傾倒症候群**（晚期型：反應性低血糖）",
+        "x": "輸入袢症候群以腹脹嘔吐為主；沾黏性腸阻塞會嘔吐不排便；迷走神經切斷後腹瀉沒有低血糖症狀"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90761,7 +91556,12 @@
       "C": "正確答案。這個時間形態（開始幾分鐘就痛、繼續透析反而消退）符合透析器膜的生物相容性反應，也就是補體被活化。換一種材質、生物相容性較好的透析器就能改善。",
       "D": "本項不選。鈉離子模式是用來減少透析中低血壓與抽筋的，與這種「一開始痛、後來緩解」的胸背痛對不上。",
       "summary": "透析一開始就痛、越洗越好＝透析器反應；換膜材質，不是調鈉或改肝素。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "透析**開始幾分鐘**後胸背痛、越洗越好",
+        "t": "**透析器（膜）反應** → 換不同材質透析器",
+        "x": "無肝素透析處理的是肝素過敏或出血；調整乾體重與鈉模式處理的是低血壓與抽筋"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90802,7 +91602,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "尿酸結石、**最不適合**的處置",
+        "t": "**benzbromarone** 是促尿酸排泄劑，會增加尿中尿酸、加重結石",
+        "x": "減少蛋白攝取、potassium citrate 鹼化、febuxostat 減少生成，都適合"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90842,7 +91647,12 @@
       "C": "本項不選。Chronic uric acid nephropathy 與 longstanding hyperuricemia／gout 相關，單一尿酸 8.0 mg/dL 無法解釋 severe disproportionate anemia 與典型慢性 tubulointerstitial picture。",
       "D": "正確答案。把線索排在一起看就成立：33 歲女性、8 個月內肌酸酐從 1.4 升到 2.3 mg/dL、兩側腎臟只有 8.7 與 8.9 公分（已經縮小）、蛋白尿只有 980 mg/24 小時、尿沉渣乾淨（紅血球 0～2/HPF）。最不成比例的是貧血——血紅素 9 掉到 7 g/dL，比腎功能該有的程度嚴重得多，這正是馬兜鈴酸腎病變（aristolochic acid nephropathy）的特色。病理圖也對得上：兩顆腎絲球相對完整、細胞數不多，周邊間質卻明顯纖維化，腎小管萎縮、管腔擴張而上皮變扁，發炎細胞反而稀疏——典型的少細胞性間質纖維化。診斷後一定要長期追蹤泌尿上皮癌，那是它最危險的併發症。",
       "summary": "年輕女性快速進展 CKD、小腎、bland sediment 與重度貧血提示 aristolochic acid nephropathy，並須追蹤 urothelial cancer。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "33 歲、CKD 快速進展、**重度貧血**、小腎、尿沉渣乾淨、切片間質纖維化",
+        "t": "**馬兜鈴酸腎病變**（要追蹤泌尿上皮癌）",
+        "x": "骨髓瘤圓柱腎病變會有特殊圓柱；過敏性間質性腎炎是急性；慢性尿酸腎病變多有痛風"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90884,7 +91694,12 @@
       "concepts": [
         "glomerular-disease-patterns",
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "C 肝、蛋白尿 2.5 g、**補體 C3、C4 偏低**",
+        "t": "C 肝＋低補體＋蛋白尿 → 冷凝球蛋白血症 → **MPGN**",
+        "x": "膜性腎病補體正常；FSGS 補體正常；HSP 是 IgA 血管炎、補體正常"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90922,7 +91737,12 @@
       "C": "本項敘述錯誤。前半段對、後半段錯：高 NaCl 到達緻密斑後，是經 ATP／adenosine 訊號讓**入球**小動脈收縮，降低腎絲球壓力，不是收縮出球小動脈。",
       "D": "本項敘述錯誤。釋放出來的訊號是 ATP，之後轉成 adenosine，不是 ADP。反過來，NaCl 低的時候則促進腎素與前列腺素的訊號。",
       "summary": "TGF 的完整路徑：緻密斑用 NKCC2 感測 NaCl → 放 ATP／adenosine → 收縮入球小動脈 → GFR 降回來。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腎小管–腎絲球回饋、選**正確**的",
+        "t": "由粗上升支的**緻密斑**感應管腔 NaCl 濃度與流速",
+        "x": "作用在**入球**小動脈；GFR 過高時 NaCl 增加會讓 GFR **下降**；釋放的是 **ATP/adenosine**"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -91006,7 +91826,12 @@
       "C": "本項不選。tacrolimus 對 β 細胞有毒性，移植後糖尿病的風險明顯，這組配對正確。",
       "D": "本項不選。sirolimus 可以造成或加重蛋白尿，也常見口腔潰瘍、高血脂與傷口癒合不良。",
       "summary": "抗排斥藥的副作用各有招牌：cyclosporine 高尿酸、tacrolimus 糖尿病、sirolimus 蛋白尿。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "抗排斥藥與副作用、配對**錯誤**",
+        "t": "cyclosporine 造成**高**尿酸血症（痛風），不是低尿酸",
+        "x": "類固醇–骨鬆、tacrolimus–移植後糖尿病、sirolimus–蛋白尿，三組正確"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -91674,7 +92499,12 @@
       "D": "本項應選。微小結節（micronodules）指向的是別的病：類肉瘤病、過敏性肺炎或塵肺症。它不是 UIP 的型態。",
       "summary": "UIP 的三件套是網狀陰影、牽引性支氣管擴張、蜂窩狀變化；看到微小結節就要換方向想。",
       "guideline": "FC 醫學(三)第1冊 p.350",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不是** UIP 的 CT 典型特徵",
+        "t": "UIP：胸膜下網狀、牽引性支氣管擴張、蜂窩狀；**微小結節**要想別的病",
+        "x": "其他三個都是 UIP 典型"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -91712,7 +92542,12 @@
         "dyspnea-approach",
         "chest-pain-approach",
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲女性、呼吸困難胸痛、**單側腳水腫**",
+        "t": "DVT → **肺栓塞**",
+        "x": "心衰竭是雙側水腫；氣胸與 COPD 不會單側腳腫"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -91746,7 +92581,12 @@
       "D": "本項應選。療程寫得太短了：肺膿瘍通常要用**數週**的抗生素，並依臨床與影像反應決定何時停。7～10 天遠遠不夠。手術只留給治療失敗或出現併發症的人。",
       "summary": "肺膿瘍是「長療程」的病：抗生素以週計算，靠影像追到病灶收乾才停。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "肺膿瘍、選**錯誤**的",
+        "t": "肺膿瘍抗生素療程通常要**數週**（3–6 週以上，追到影像改善），不是 7–10 天",
+        "x": "好發上葉後節與下葉上節、敗血栓子多是金葡菌、原發性多厭氧菌，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -91875,7 +92715,12 @@
       "guideline": "FC 醫學(三)第1冊 p.334",
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 急性發作、**缺乏實證**的處置",
+        "t": "**靜脈 theophylline** 缺乏效益證據、副作用多",
+        "x": "抗生素（膿痰時）、全身性類固醇、霧化擴張劑都有實證"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92793,7 +93638,12 @@
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis",
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "56 歲、高血壓、發燒嘔吐腹痛、CT 見靜脈內充盈缺損與腸繫膜水腫",
+        "t": "**上腸繫膜靜脈血栓**",
+        "x": "闌尾炎在右下腹；主動脈剝離看到內膜片；憩室炎是結腸壁發炎"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -92827,7 +93677,12 @@
       "D": "本項不選。12 mm 的實質結節光是尺寸就提高惡性機率。沒有典型良性鈣化的話，仍要做風險評估與追蹤。",
       "summary": "看結節先看鈣化型態：中央粗鈣化、層狀、爆米花狀偏良性；偏心或點狀鈣化不算數。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "肺結節、**最可能良性**",
+        "t": "**中央型粗鈣化**偏良性（肉芽腫）",
+        "x": "毛玻璃、部分實質、12 mm 實質結節都要追蹤或處理"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -102700,7 +103555,12 @@
       "guideline": null,
       "concepts": [
         "hyperkalemia-causes-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "高血鉀治療、選**最不適當**的",
+        "t": "patiromer 會結合鎂 → 造成**低**血鎂，不是高血鎂",
+        "x": "葡萄糖酸鈣穩定心肌、胰島素加葡萄糖（血糖 >250 可只給胰島素）、高劑量吸入 albuterol，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102736,7 +103596,12 @@
       "guideline": null,
       "concepts": [
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "健檢血尿、蛋白尿 1.5 g、**變形紅血球、RBC cast**",
+        "t": "腎絲球來源 → 驗血清學、超音波、必要時切片；**不需要** IVP 或逆行性腎盂攝影",
+        "x": "補體、冷凝球蛋白、anti-GBM、B/C 肝、超音波加切片都適當"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103278,7 +104143,12 @@
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis",
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲、心律不整、剛做心導管、劇烈腹痛但腹部軟（**痛與體徵不成比例**）",
+        "t": "急性**腸繫膜缺血**；要恢復灌流，**避免血管收縮劑**（會讓腸缺血更嚴重）",
+        "x": "考慮缺血性腸炎、完整抽血含乳酸、CTA 診斷加抗生素、腹膜炎要開刀，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103314,7 +104184,12 @@
       "summary": "賁門失弛緩症問題在遠端 LES 與食道體；Zenker 在近端的 Killian 三角。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "食道構造與功能性疾病、選**錯誤**的",
+        "t": "賁門失弛緩症是**遠端**（下食道）括約肌無法放鬆，不是近端",
+        "x": "滑動型裂孔疝氣最多、Zenker 在 Killian 三角、高解析食道壓力測量是診斷工具，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103350,7 +104225,12 @@
       "summary": "H. pylori 有多種侵入和非侵入檢查，並增加胃腺癌和 MALT lymphoma 風險。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "胃潰瘍、家族多人有潰瘍史",
+        "t": "幽門桿菌感染**增加胃腺癌與胃淋巴瘤**風險",
+        "x": "確診有多種方法（呼氣、糞便抗原、快速尿素酶），不只切片；培養陰性不能排除；尿素呼氣是細菌**水解**尿素產生標記 CO₂"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103386,7 +104266,12 @@
       "summary": "中重度克隆氏病可以有效使用 anti-TNF 等生物製劑。",
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "Crohn's disease、選**錯誤**的",
+        "t": "**anti-TNF** 對中重度 Crohn **效果好**",
+        "x": "主要侵犯小腸、末端迴腸最好發、可有餐後腹痛與脂肪便，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103422,7 +104307,12 @@
       "B": "本項不選。意識障礙（impaired mental status）是 BISAP 的 I 項。",
       "C": "正確答案。BISAP 包含 SIRS、年齡 > 60 和肋膜積液，不包含腹水（ascites）。",
       "D": "本項不選。肋膜積液（pleural effusion）是 BISAP 的 P 項，可由胸部影像判定。",
-      "summary": "BISAP ＝ BUN、Impaired mental status、SIRS、Age、Pleural effusion；沒有腹水。"
+      "summary": "BISAP ＝ BUN、Impaired mental status、SIRS、Age、Pleural effusion；沒有腹水。",
+      "approach": {
+        "k": "BISAP **不包含**",
+        "t": "BISAP：**B**UN >25、**I**mpaired mental status、**S**IRS、**A**ge >60、**P**leural effusion；**沒有腹水**",
+        "x": "BUN、意識障礙、肋膜積液都在 BISAP 內"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103543,7 +104433,12 @@
       "guideline": null,
       "concepts": [
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "CAPD、**高通透性**腹膜、體液過多，**最不適當**的",
+        "t": "高通透性腹膜葡萄糖很快被吸收、滲透梯度消失 → **延長留滯時間**反而會把水吸回去",
+        "x": "提高葡萄糖濃度、改用 icodextrin、改 CCPD（短留滯）都可以"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103576,7 +104471,12 @@
       "C": "本項不選。mycophenolate mofetil最常見的副作用是腹瀉、骨髓抑制與感染風險增加。口腔潰瘍偶爾會出現，但同時合併蛋白尿與高血脂並不典型。",
       "D": "正確。sirolimus的代表性副作用組合，正是口腔潰瘍、蛋白尿、水腫與高血脂，還可能讓傷口癒合變差。這位病人換藥3週後出現的這幾項表現，剛好對上sirolimus。",
       "summary": "移植後換藥出現口腔潰瘍＋蛋白尿＋高血脂，先想sirolimus，不是cyclosporine/tacrolimus的腎毒性。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "移植後換藥 3 週、**口腔潰瘍＋蛋白尿＋高 LDL**",
+        "t": "**sirolimus**（mTOR 抑制劑）的典型副作用",
+        "x": "cyclosporine 是多毛牙齦增生高血壓；tacrolimus 是糖尿病神經毒；MMF 是腸胃與骨髓"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103683,7 +104583,12 @@
       "C": "本項不選。血管收縮素II（angiotensin II）在生理濃度下，主要收縮的是出球小動脈（efferent arteriole）。目的是在腎臟灌流不足時，撐住腎絲球內壓力，而不是收縮入球小動脈。",
       "D": "本項不選。腎臟的前列腺素主要是擴張入球小動脈來保護腎臟灌流，不是像這裡寫的用PGE1去擴張出球小動脈。",
       "summary": "GFR自我調節記兩組方向：肌源反射與TGF管入球小動脈，Ang II管出球小動脈。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "GFR 自我調節、選**正確**的",
+        "t": "**腎小管–腎絲球回饋**是自我調節機制之一",
+        "x": "肌源反射作用在**入球**小動脈；Ang II 主要收縮**出球**小動脈；前列腺素擴張**入球**小動脈"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -103719,7 +104624,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-evaluation-drug-choice"
-      ]
+      ],
+      "approach": {
+        "k": "慢性腎臟病、選**最不適當**的",
+        "t": "臺灣新發透析的第一名原因是**糖尿病**，不是高血壓",
+        "x": "糖尿病 CKD 血壓 <130/80、心血管病是主要死因、低蛋白飲食改善尿毒但增加營養不良風險，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104078,7 +104988,12 @@
       "summary": "NET 常用 chromogranin A 和 synaptophysin 染色；組織表現不等於功能性症候群。",
       "concepts": [
         "gastric-small-bowel-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "NET 病理診斷、選**正確**的",
+        "t": "**chromogranin A** 免疫染色有助診斷",
+        "x": "synaptophysin 陽性**支持**而非排除；組織染色陽性**不等於**臨床會分泌；分級依 **Ki-67 與分裂數**，不是分化程度"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104347,7 +105262,12 @@
       "D": "本項敘述錯誤。肺泡灌洗（bronchoalveolar lavage, BAL）液的淋巴球增加支持這個診斷，但不是唯一標準。診斷要把暴露史、高解析度電腦斷層（HRCT），必要時再加病理一起整合。",
       "summary": "過敏性肺炎沒有單一決定性檢查：暴露史＋高解析度電腦斷層＋肺泡灌洗，三方合起來才成立。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "過敏性肺炎、選**最適當**的",
+        "t": "吸入環境抗原造成**肺泡與小氣道**發炎",
+        "x": "肺功能不是最有效診斷工具；沉澱抗體只代表暴露、非診斷標記；BAL 淋巴球增加是支持而非唯一標準"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104384,7 +105304,12 @@
       "concepts": [
         "asthma-vs-copd",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "FEV1/FVC 58%、FEV1 70%、**DLCO 55%**",
+        "t": "阻塞型＋DLCO 降低 → **肺氣腫**",
+        "x": "氣喘 DLCO 正常或升高；肺栓塞與肺纖維化不是阻塞型"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104456,7 +105381,12 @@
       "guideline": null,
       "concepts": [
         "pleural-fluid-analysis"
-      ]
+      ],
+      "approach": {
+        "k": "肋膜積水、選**最適當**的",
+        "t": "結核性積水是**滲出液**、細胞以**淋巴球**為主",
+        "x": "肺癌積水糖可能**降低**；乳糜胸看**三酸甘油酯 >110**；血胸看積水 Hct/血液 Hct **>50%**"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104492,7 +105422,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 急性發作、PaCO₂ 上升、用 NIV，選**錯誤**的",
+        "t": "**意識不清**是 NIV 的禁忌（無法保護氣道）",
+        "x": "COPD 高碳酸呼衰用 NIV 有實證、臉部畸形不適合、痰多不適合，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104526,7 +105461,12 @@
       "D": "本項不選。這類病人確實可能出現呼吸中樞對二氧化碳與缺氧的反應變遲鈍，這也是他們白天就 CO2 偏高的原因之一。",
       "summary": "白天就有高碳酸血症＋肥胖＋睡不好，先想肥胖低通氣與睡眠呼吸中止，不要直接扣上 COPD。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "BMI 34、白天嗜睡、休息血氧 <85%、**PaCO₂ 51**",
+        "t": "肥胖低通氣與睡眠呼吸中止；**不能**單憑呼吸性酸中毒就判定是 COPD",
+        "x": "安排睡眠檢查、低通氣不完全是肥胖、可能呼吸中樞反應障礙，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -104848,7 +105788,12 @@
       "guideline": null,
       "concepts": [
         "hap-vap-definition-prevention"
-      ]
+      ],
+      "approach": {
+        "k": "**胃潰瘍出血**、插管，預防措施**最不適當**的",
+        "t": "活動性出血時**不能**用抗凝血劑預防 VTE，改用機械性壓迫",
+        "x": "床頭 30–45 度、每日鎮靜中斷、每日評估拔管，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105302,7 +106247,12 @@
       "guideline": null,
       "concepts": [
         "ckd-gfr-albuminuria-categories"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病、eGFR 56、UACR 380，選**錯誤**的",
+        "t": "eGFR 56 仍**可以繼續用 metformin**（<30 才停、30–45 減量）",
+        "x": "比 G3bA1 風險高、屬 G3a、NSAID 會惡化，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105480,7 +106430,12 @@
       "summary": "acetaminophen 過量四小時要測濃度並及早給 NAC；activated charcoal 不是洗胃，而且已經過了最佳時窗。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "60 kg 吃 20 顆 acetaminophen（10 g）、4 小時後就醫，**最不適當**的",
+        "t": "activated charcoal 是**口服吸附**不是洗胃，且最好在 1 小時內給；4 小時後效益有限",
+        "x": "給 NAC、檢查肝功能、驗 4 小時血中濃度，都適當"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -105514,7 +106469,12 @@
       "D": "本項不選。安眠藥會抑制通氣、讓夜間缺氧更嚴重，會增加高海拔疾病的風險。",
       "summary": "高山肺水腫的三個可控因素：爬慢一點、別過度運動、別吃會壓抑呼吸的藥。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不是**高山肺水腫的危險因子",
+        "t": "危險因子：活動量大、爬升快、安眠藥（抑制呼吸）；**低鹽飲食**不是",
+        "x": "其他三項都是"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -114544,7 +115504,12 @@
       "guideline": null,
       "concepts": [
         "confusion-assessment-method"
-      ]
+      ],
+      "approach": {
+        "k": "住院後意識混亂、注意力差、**時好時壞**",
+        "t": "**譫妄** → **CAM**（敏感度特異度最佳）",
+        "x": "CDR、Mini-Cog、MMSE 是失智評估工具"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114941,7 +115906,12 @@
       "summary": "克隆氏病是節段性的跳躍病灶（skip lesions），不是連續性病灶。",
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "Crohn's disease、選**錯誤**的",
+        "t": "Crohn 是**節段性跳躍**病灶，連續性是 UC",
+        "x": "可有瘻管、不一定侵犯直腸、常造成小腸狹窄阻塞，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114979,7 +115949,12 @@
       "summary": "巴瑞特氏食道由 GERD 相關的腸化生形成，增加的是食道腺癌風險。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "55 歲肥胖、逆流、胃鏡見 Barrett 食道，選**錯誤**的",
+        "t": "Barrett 增加的是**食道腺癌**，不是鱗狀細胞癌",
+        "x": "減重有助、PPI 改善症狀、藥物無法逆轉化生，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115015,7 +115990,12 @@
       "summary": "胰頭癌靠近遠端總膽管（distal CBD），所以相對常以阻塞性黃疸表現。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "**胰頭**癌比體尾部癌**較常見**的症狀",
+        "t": "胰頭靠近遠端總膽管 → **阻塞性黃疸**",
+        "x": "體重減輕、腹痛、噁心嘔吐在各部位都可能，不是胰頭特有"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115253,7 +116233,12 @@
       "summary": "開瓶器食道＝diffuse spasm；嗜酸性球發炎＝EoE；GERD 的核心是 LES 屏障失效。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "食道動力疾病、選**正確**的",
+        "t": "GERD 的機轉包括**下食道括約肌一過性鬆弛**（TLESR）等",
+        "x": "賁門失弛緩症不限 60–80 歲才好發；開瓶器食道是**瀰漫性食道痙攣**，不是 EoE；嗜酸性球發炎與類固醇有效描述的是 **EoE**，不是瀰漫性痙攣"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115286,7 +116271,12 @@
       "C": "本項應選。顯影劑造成的急性腎損傷（AKI），核心機轉是腎髓質缺氧與腎小管毒性，並不是腎絲球微血管系統被阻塞。這句講的不是它的機轉。",
       "D": "本項不選。顯影劑黏稠度高，加上細胞碎片影響腎小管內流動，可能造成暫時性腎小管阻塞，讓過濾率進一步下降。這同樣是已知機轉。",
       "summary": "顯影劑腎傷害記髓質缺氧＋腎小管毒性＋暫時阻塞，不會去堵腎絲球微血管。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**顯影劑急性腎傷害的機轉",
+        "t": "機轉：髓質微循環缺氧、腎小管上皮毒性、暫時腎小管阻塞；**不會**阻塞腎絲球微血管",
+        "x": "其他三個都是機轉"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115322,7 +116312,12 @@
       "guideline": null,
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "pH 7.30、PCO₂ 32、HCO3 16、Na 136、Cl 100",
+        "t": "AG＝136−100−16＝**20（升高）**；預期 PCO₂＝1.5×16＋8＝32 ✓ → 單純**高 AG 代謝性酸中毒**",
+        "x": "正常 AG 算錯；PCO₂ 剛好符合代償，沒有合併呼吸性鹼中毒；不是呼吸性酸中毒"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115355,7 +116350,12 @@
       "C": "本項不選。末期腎臟病病人的問題，是腎臟做不出活性的calcitriol。光補充25（OH）vitamin D這種原型維生素D，通常不足以壓下嚴重的次發性副甲狀腺機能亢進。",
       "D": "本項不選。含鋁的磷結合劑（aluminum binder）其實降磷效果很強。不建議使用是因為鋁會蓄積，造成腦病變、軟骨病與小球性貧血，不是因為效果差。",
       "summary": "末期腎臟病鈣磷失衡：磷升高是腎排不掉，鈣／vitD補太多反而壓垮骨轉換。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "末期腎病鈣磷平衡、選**正確**的",
+        "t": "鈣片或活性維生素 D 太多 → PTH 被過度壓抑 → **無動力骨病**",
+        "x": "高血磷是**腎臟排不掉**；末期腎病缺的是**活性**維生素 D（腎臟無法活化）；含鋁磷結合劑是因**鋁中毒**才不用"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115391,7 +116391,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "25 歲、**高血壓**、K 2.5、輕度代謝性鹼中毒",
+        "t": "高血壓＋低血鉀＋鹼中毒 → **鹽皮質素過多**",
+        "x": "牛奶鹼症候群是高鈣；Gitelman 血壓**不高**；絨毛腺瘤是腹瀉失鉀"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115460,7 +116465,12 @@
       "C": "本項不選。透析液溫度保持跟體溫一樣，沒辦法幫忙預防低血壓。要靠低於體溫的冷透析液，才能促進血管收縮、穩住血壓。",
       "D": "本項不選。生物相容性較高的人工腎臟，主要是減少補體與發炎反應，不是預防一般透析中低血壓的主要手段。",
       "summary": "透析低血壓先想避免進食＋冷透析液＋放慢脫水速度，不是靠換透析液順序。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "預防透析中低血壓、**最適當**的",
+        "t": "**避免透析中進食**（餐後內臟血管擴張）",
+        "x": "先透析後超過濾不是標準做法；要用**較冷**的透析液；生物相容性與低血壓關係不大"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -115496,7 +116506,12 @@
       "guideline": null,
       "concepts": [
         "aki-prerenal-intrinsic-postrenal"
-      ]
+      ],
+      "approach": {
+        "k": "馬拉松後、少尿、CK 58,000、脫水",
+        "t": "橫紋肌溶解；色素性 AKI 的 FENa 也可能 <1%，**不能**單憑 FENa 確定是脫水",
+        "x": "積極輸液加碳酸氫鈉、藥物無效的併發症透析、檢查電解質與用藥，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116058,7 +117073,12 @@
       "summary": "腺瘤—癌序列：APC 失活→KRAS 活化→SMAD4 失活→TP53 失活。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "腺瘤到大腸癌的基因變異、**無關**的",
+        "t": "腺瘤—癌序列中 **K-ras 是活化**（致癌基因），不是失活",
+        "x": "APC 失活、SMAD4 失活、p53 失活都在序列內"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116094,7 +117114,12 @@
       "guideline": null,
       "concepts": [
         "curb-65"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** CURB-65 的項目",
+        "t": "**C**onfusion、**U**rea、**R**espiratory rate、**B**lood pressure、**65** 歲；**沒有心跳**",
+        "x": "BUN、呼吸次數、血壓都在其中"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116130,7 +117155,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病、膿痰、X 光**空洞性**實質化，選**錯誤**的",
+        "t": "空洞性肺炎（肺膿瘍）療程要**數週以上**、依影像決定，不是固定兩週",
+        "x": "克雷伯菌要查眼底與肝膿瘍、培養陰性未改善要導引穿刺、要涵蓋厭氧菌，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116166,7 +117196,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘只用擴張劑與茶鹼、每天發作、常跑急診",
+        "t": "缺**抗發炎** → 規則使用 **ICS**（或其他抗發炎藥）",
+        "x": "口服或長效擴張劑都**不能**取代抗發炎；LABA 單用在氣喘是禁忌"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116200,7 +117235,12 @@
       "D": "本項不選。嗜酸性球肺炎的定義性表現就是肺浸潤加上肺泡灌洗液嗜酸性球增加，完全吻合。",
       "summary": "肺泡灌洗液的細胞種類就是分岔點：嗜酸性球高＝嗜酸性球肺病，淋巴球高＝過敏性肺炎或類肉瘤病。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "雙側肺浸潤、**BAL 嗜酸性球 20%**，**最不可能**",
+        "t": "過敏性肺炎的 BAL 以**淋巴球**為主，不是嗜酸性球",
+        "x": "Churg-Strauss、Loffler、嗜酸性球肺炎都是嗜酸性球肺病"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116236,7 +117276,12 @@
       "guideline": "2016 年起 ATS/IDSA 指引已廢除 HCAP 分類",
       "concepts": [
         "hap-vap-definition-prevention"
-      ]
+      ],
+      "approach": {
+        "k": "肺炎分類定義、選**錯誤**的",
+        "t": "VAP 是插管 **48 小時**後發生，不是 24 小時",
+        "x": "CAP 住院 <48 小時、HAP 出院 14 天內…（題目定義）、HCAP 的舊定義，這三句符合題意"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116272,7 +117317,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "肺癌、選**正確**的",
+        "t": "第四期仍要**戒菸**，抽菸會降低治療效果",
+        "x": "最主要危險因子是**抽菸**；低劑量 CT **仍有**輻射；抗氧化維生素（β 胡蘿蔔素）反而**增加**抽菸者肺癌"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -116308,7 +117358,12 @@
       "guideline": null,
       "concepts": [
         "pleural-fluid-analysis"
-      ]
+      ],
+      "approach": {
+        "k": "乳糜胸、選**正確**的",
+        "t": "最常見原因是**胸管創傷**（手術）",
+        "x": "診斷看**三酸甘油酯 >110**；是**滲出液**；治療是止漏加營養，不是長期引流"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -117142,7 +118197,12 @@
       "summary": "兒童黏液便合併阻塞加上超音波的標靶徵象，指向腸套疊。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "12 歲、三天沒正常解便、黏液便、超音波標靶徵象",
+        "t": "**腸套疊**（大孩子要找病理性前導點）",
+        "x": "闌尾炎超音波是發炎管狀構造；疝氣在鼠蹊；大腸癌在 12 歲極罕見"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -126499,7 +127559,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "BMI 41、喘、心跳 141、**D-dimer 20**、NT-proBNP 高、肺野乾淨",
+        "t": "**肺動脈栓塞**（右心負荷增加）",
+        "x": "心肌炎 troponin 會較高；高血壓心臟病與肥厚性心肌病不會 D-dimer 極高"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126750,7 +127815,12 @@
       "summary": "因 NDMA 下架的是 ranitidine，不是 cimetidine。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "消化性潰瘍用藥、選**錯誤**的",
+        "t": "因 **NDMA** 雜質下架的是 **ranitidine**，不是 cimetidine",
+        "x": "sucralfate 1 g 一天四次、PPI 讓 gastrin 上升、PPI 後腹瀉要懷疑困難梭菌，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126868,7 +127938,12 @@
       "summary": "抽搐配對的是鈣缺乏；維生素 B12 缺乏配對巨球性貧血和神經病變。",
       "concepts": [
         "absorption-short-bowel-fistula"
-      ]
+      ],
+      "approach": {
+        "k": "吸收不良與臨床徵狀、配對**錯誤**",
+        "t": "**抽搐（tetany）**是**鈣或鎂**缺乏；B12 缺乏是巨球性貧血與神經病變",
+        "x": "鐵–貧血、維生素 K–瘀斑、必需脂肪酸–皮膚炎，三組正確"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126904,7 +127979,12 @@
       "summary": "低血鈣是胰臟炎的結果；會誘發胰臟炎的是高血鈣。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "**並非**急性胰臟炎原因",
+        "t": "**高**血鈣才會誘發胰臟炎；低血鈣是胰臟炎的**結果**",
+        "x": "高三酸甘油酯、胰腺癌、膽結石都是原因"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126941,7 +128021,12 @@
       "concepts": [
         "toxic-megacolon-criteria",
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "IBD 臨床表現、選**錯誤**的",
+        "t": "中毒性巨結腸定義是**橫結腸**（或任何結腸）直徑 >6 cm 加全身中毒，不限左側",
+        "x": "闌尾切除對 UC 保護、三分之一 Crohn 有肛周病、10–30% Crohn 有膿瘍，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127018,7 +128103,12 @@
       "summary": "急性腸繫膜缺血是血管急症，不能為了避免手術而延誤血管重建或切除壞死腸。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "急性腸繫膜缺血、選**最不適當**的",
+        "t": "是血管急症 → 要盡快**血管重建**、切除壞死腸，**不能**以內科為優先拖延",
+        "x": "可由動脈血栓引起、早期沒有反彈痛、CTA 敏感度高，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127051,7 +128141,12 @@
       "C": "本項不選。磷滯留、活性維生素D不足加上低血鈣，會刺激副甲狀腺素（PTH）分泌，造成次發性副甲狀腺機能亢進。這在慢性腎臟病也很常見。",
       "D": "本項不選。腎臟製造紅血球生成素（EPO）的能力下降，加上鐵質利用受限與慢性發炎。這會讓正常球性貧血成為晚期慢性腎臟病的常見併發症。",
       "summary": "慢性腎臟病該記的是高血磷、次發性副甲亢和貧血，高血鈉反而不是它的招牌表現。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "慢性腎臟病**最不常見**的障礙",
+        "t": "CKD 常見高血磷、次發性副甲狀腺亢進、貧血；**高血鈉**不常見",
+        "x": "其他三項都是 CKD 常見併發症"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127120,7 +128215,12 @@
       "guideline": null,
       "concepts": [
         "glomerular-disease-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "感染後腎絲球腎炎、選**最適當**的",
+        "t": "通常 **C3 下降**，可用來和 IgA 腎病變區分（IgA 補體正常）",
+        "x": "肉眼血尿約三成並非「常出現」；典型是**鏈球菌**咽炎後 1–3 週；抗生素**不能**逆轉腎炎病程"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127153,7 +128253,12 @@
       "C": "本項不選。3個月是部分較舊的定義或研究收案時採用的門檻。現行臨床診斷常用較短的6週，目的是讓病人可以更早被辨識出來。",
       "D": "本項不選。6個月是更早期、更嚴格的研究型定義曾經用過的時限，臨床上實際診斷不需要等這麼久。",
       "summary": "IC/BPS是排除性診斷：症狀至少6週、驗尿沒感染，才輪得到這個診斷。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "間質性膀胱炎、症狀至少持續多久",
+        "t": "**6 週**（AUA 定義）",
+        "x": "1 週太短；3 個月與 6 個月是其他學會的舊標準，本題採 6 週"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127189,7 +128294,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "各種結石形成、選**錯誤**的",
+        "t": "胱胺酸結石的危險因子是**胱胺酸尿症**與酸性尿，不是高尿鈣低檸檬酸",
+        "x": "草酸鈣、磷酸鈣、尿酸結石的危險因子描述正確"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127266,7 +128376,12 @@
       "guideline": null,
       "concepts": [
         "diabetes-drug-classes"
-      ]
+      ],
+      "approach": {
+        "k": "慢性腎臟病治療、選**最適當**的",
+        "t": "**SGLT2 抑制劑**能有效延緩糖尿病 CKD 的腎功能衰退",
+        "x": "降壓首選 **ACEi/ARB**；ACEi 與 ARB **不要合併**（高鉀、AKI）；腎病症候群**不建議高蛋白**飲食"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127622,7 +128737,12 @@
       "summary": "ESCC 連結酒精、吸菸；EAC 連結 GERD／Barrett；Lynch 不是 ESCC 的典型症候群。",
       "concepts": [
         "esophageal-cancer-perforation"
-      ]
+      ],
+      "approach": {
+        "k": "ESCC 與 EAC、選**最不適當**的",
+        "t": "Lynch syndrome 與食道鱗癌**沒有**典型關聯",
+        "x": "ESCC 與菸酒、EAC 與慢性逆流、HER2 擴增在 EAC 較多，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127740,7 +128860,12 @@
       "guideline": null,
       "concepts": [
         "lung-cancer-types-management"
-      ]
+      ],
+      "approach": {
+        "k": "肺癌、選**最適當**的",
+        "t": "**鱗癌與小細胞癌**和抽菸關係最密切（中央型）",
+        "x": "女性年輕人最常見是**腺癌**；第四期要細分組織型並驗驅動基因；確診後戒菸**仍有幫助**"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127855,7 +128980,12 @@
       "guideline": null,
       "concepts": [
         "osa-diagnostic-severity"
-      ]
+      ],
+      "approach": {
+        "k": "OSA、選**最不適當**的",
+        "t": "診斷不一定要 AHI >15：**有症狀或共病時 AHI ≥5** 就成立",
+        "x": "apnea ≥10 秒、PSG 是診斷標準、CPAP 是標準治療，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127925,7 +129055,12 @@
       "D": "正確答案。兩年的漸進性乾咳、兩側下肺 fine crackles、杵狀指，加上限制型肺功能與 DLco 50%——這組合就是特發性肺纖維化。nintedanib 是抗纖維化藥，能減緩 FVC 下降的速度。",
       "summary": "看到「乾咳＋下肺 Velcro 囉音＋杵狀指＋限制型加低 DLco」就想 IPF，用抗纖維化藥。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "65 歲、漸進乾咳與運動喘、下肺 fine crackles、杵狀指、限制型、DLCO 低",
+        "t": "**IPF** → 抗纖維化藥 **nintedanib**",
+        "x": "theophylline 與雙支氣管擴張劑用於阻塞型；colchicine 無效"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127959,7 +129094,12 @@
       "D": "本項不選。細菌性肺炎會有膿痰、咳嗽與喘，接下來要靠發燒、局部聽診徵象與胸部影像來確認。",
       "summary": "痰的性狀是分岔點：膿痰指向氣道或肺部感染；心衰竭給的是喘、水腫與端坐呼吸，不是膿痰。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "抽菸、咳兩週、**黃色濃痰**、喘鳴，**最不可能**",
+        "t": "膿痰指向感染；**急性心衰竭**是喘與水腫、不會膿痰",
+        "x": "COPD 急性發作、支氣管擴張惡化、細菌性肺炎都會有膿痰"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127993,7 +129133,12 @@
       "D": "本項不選。膈神經麻痺可以看橫膈的移動幅度，再做吸氣試驗（sniff test）看有沒有反向運動。",
       "summary": "胸腔超音波的界線就是「有沒有空氣或骨頭擋著」：貼胸壁的看得到，藏在縱膈裡的看不到。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "胸腔超音波、診斷價值**最低**",
+        "t": "**縱膈腔淋巴結**被骨頭與含氣肺擋住",
+        "x": "氣胸、肋膜積液、膈神經麻痺（看橫膈動作）都看得到"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -128067,7 +129212,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**慢性呼吸困難主要原因",
+        "t": "**小的良性腫瘤**（錯構瘤）通常不造成呼吸困難",
+        "x": "脊柱側彎（胸廓）、運動神經元病（幫浦）、肺高壓（血管）都是原因"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -137910,7 +139060,12 @@
       "D": "本項不選。分流的血完全不經過有通氣的肺泡，怎麼加氧都碰不到它。所以給 100％ 純氧只能部分改善，這也是分流與 V/Q 不均最實用的區分方式。",
       "summary": "給純氧當作測試：會改善＝V/Q 不均；不太會改善＝分流；CO2 同時上升＝換氣不足。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "缺氧、選**最不適當**的",
+        "t": "換氣不足時 **PaCO₂ 會升高**，不是不變",
+        "x": "最常見是 V/Q 不均、V/Q 不均給純氧可改善、分流給純氧改善有限，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137944,7 +139099,12 @@
       "D": "本項應選。杵狀指是**慢慢長出來**的，急性肺炎病程只有幾天到一兩週，來不及形成。如果肺炎病人身上看到杵狀指，代表底下另有慢性化膿性疾病或惡性腫瘤。",
       "summary": "杵狀指是時間累積出來的徵象：看到它就往慢性化膿或腫瘤找，不是急性感染造成的。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "杵狀指相關疾病，**除外**",
+        "t": "杵狀指是慢性過程；**急性肺炎**不會造成",
+        "x": "原發性肺癌、轉移性肺腫瘤、支氣管擴張都可能"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138342,7 +139502,12 @@
       "summary": "肥胖對應的是食道下段的腺癌；酒、菸、檳榔對應的才是 ESCC。",
       "concepts": [
         "esophageal-cancer-perforation"
-      ]
+      ],
+      "approach": {
+        "k": "食道癌、選**錯誤**的",
+        "t": "**肥胖**是**食道腺癌**的危險因子，不是鱗癌",
+        "x": "鱗癌在中上段與菸酒、檳榔、下段與 Barrett，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138378,7 +139543,12 @@
       "summary": "快速尿素酶試驗因為要胃切片所以是侵入性；13C 吹氣試驗不具放射性。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "幽門桿菌、選**正確**的",
+        "t": "**快速尿素酶試驗**要胃鏡切片 → **侵入性**",
+        "x": "糞便檢測的是**抗原**不是抗體；¹³C **沒有**放射性，孕婦小孩可用；除菌後至少停抗生素 **4 週**（PPI 2 週）再驗"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138496,7 +139666,12 @@
       "summary": "第四期胰腺癌不能以「手術加輔助化療」當標準的根治策略。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "胰腺癌、選**錯誤**的",
+        "t": "**第四期**（遠處轉移）是**全身性化療**，不是手術加輔助化療",
+        "x": "手術可能根治、術後輔助化療降復發、增加靜脈血栓風險，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138532,7 +139707,12 @@
       "guideline": null,
       "concepts": [
         "crohn-vs-uc"
-      ]
+      ],
+      "approach": {
+        "k": "IBD、選**錯誤**的",
+        "t": "長期侵犯結腸的 **Crohn 大腸炎**大腸癌風險**也會**上升",
+        "x": "約 10–15% 初期分不出 UC 或 Crohn、兩者都可有葡萄膜炎、azathioprine 合併生物製劑有白血球低下，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138568,7 +139748,12 @@
       "summary": "早發型大腸癌正在上升；腺瘤要移除，但不代表幾乎每顆都會癌化。",
       "concepts": [
         "colorectal-cancer-polyps"
-      ]
+      ],
+      "approach": {
+        "k": "大腸直腸癌、選**正確**的",
+        "t": "**50 歲以下**的早發型大腸癌在東西方都**逐年增加**",
+        "x": "多數腺瘤**不會**癌化；Lynch 的預後**較好**（MSI-H）；最重要的危險因子是年齡、家族史等，不是抽菸"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138604,7 +139789,12 @@
       "summary": "GERD 可以沒有內視鏡發炎，胸痛仍要排除心臟病；Barrett 對應腺癌；PPI 優於 H2RA。",
       "concepts": [
         "esophageal-motility-gerd-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "聲音沙啞、胸痛灼熱、口苦",
+        "t": "只有 ④ 對：**PPI 比 H2RA** 更有效",
+        "x": "①胸痛**仍要**排除冠心病；②**非糜爛性**逆流胃鏡可以正常；③ Barrett 增加的是**腺癌**"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138640,7 +139830,12 @@
       "summary": "SIBO 的典型營養型態是維生素 B12 低、葉酸正常或高，並可能有脂肪便。",
       "concepts": [
         "peptic-ulcer-hpylori-postgastrectomy"
-      ]
+      ],
+      "approach": {
+        "k": "小腸細菌過度生長、選**錯誤**的",
+        "t": "細菌會**製造**葉酸 → 葉酸**正常或升高**；缺的是 B12",
+        "x": "脂肪便（膽鹽被分解）、巨球性貧血（B12 被細菌吃掉）、術後結構改變或狹窄，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138676,7 +139871,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-evaluation-drug-choice"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** CKD 常見危險因子",
+        "t": "CKD 核心危險因子：糖尿病、高血壓、吸菸；一般飲酒不在核心清單",
+        "x": "吸菸、糖尿病、高血壓都是"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138712,7 +139912,12 @@
       "guideline": null,
       "concepts": [
         "ckd-gfr-albuminuria-categories"
-      ]
+      ],
+      "approach": {
+        "k": "eGFR 與 UACR、**最嚴重**的",
+        "t": "風險要兩軸一起看：**G2A3**（eGFR 80、UACR >300）屬高風險（紅區）",
+        "x": "G2A2、G2/G3a A1、G3aA1 的風險都比 G2A3 低"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138745,7 +139950,12 @@
       "C": "本項不選。醛固酮確實會因為體液流失而上升，目的是留住鈉、多排鉀。但它單獨沒辦法解釋低血鈉，真正把水留住造成低血鈉的是vasopressin。",
       "D": "本項不選。醣化皮質類固醇不足時，確實會間接讓vasopressin分泌增加而造成低血鈉。但這個病人是急性腸胃道（GI）體液流失，不是醣化皮質類固醇上升造成的。",
       "summary": "體液不足時，就算血鈉已經偏低，身體仍會為了保血量而分泌vasopressin留水，反而加重低血鈉。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性腸胃炎上吐下瀉、Na 132",
+        "t": "容積不足時，身體為保血量會分泌 **vasopressin** 留水 → 低血鈉",
+        "x": "甲狀腺素、醛固酮（留鈉）、糖皮質類固醇都不是主因"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138778,7 +139988,12 @@
       "C": "本項不選。神經生物學功能異常與骨盆腔的中樞敏感化（central sensitization），可以解釋慢性疼痛與其他共病疼痛症候群，這也是被研究的假說之一。",
       "D": "本項應選。尿路結石或結晶是造成膀胱疼痛的另一個重要診斷，診斷間質性膀胱炎前反而要先排除它，並不是間質性膀胱炎本身的病因假說。",
       "summary": "IC/BPS的病因假說圍繞尿路上皮、免疫與神經敏感化；結石是要排除的鑑別診斷，不是假說。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不屬於** IC/BPS 病因假說",
+        "t": "假說：感染與菌群、自體免疫、神經敏感化、尿路上皮缺損；**結石**是要排除的鑑別",
+        "x": "其他三項都是病因假說"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138814,7 +140029,12 @@
       "guideline": null,
       "concepts": [
         "aki-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性腎損傷恢復、**最能**反映的監測",
+        "t": "**連續追蹤血清肌酸酐與尿量**",
+        "x": "每日超音波、血尿蛋白尿、重複尿液培養都不是恢復指標"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138847,7 +140067,12 @@
       "C": "本項不選。cyclosporine跟tacrolimus同樣是鈣調磷酸酶抑制劑，直接換藥沒有解決這一整類藥物共同的慢性腎毒性問題。",
       "D": "本項不選。增加mycophenolate mofetil劑量，是用來加強抗增生的免疫抑制，但切片沒有看到活動性排斥反應，這樣做只會增加骨髓抑制與感染的風險。",
       "summary": "移植腎慢性小動脈增厚＋纖維化、沒有發炎細胞，先想鈣調磷酸酶抑制劑毒性，查tacrolimus trough level再調整。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腎移植 10 年、慢性腎功能變差、間質纖維化、**小動脈壁增厚**、無淋巴浸潤",
+        "t": "慢性**鈣調磷酸酶抑制劑毒性** → 先驗 **tacrolimus trough**",
+        "x": "加類固醇是治療排斥；換 cyclosporine 也是 CNI；加 MMF 劑量不解決 CNI 毒性"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138885,7 +140110,12 @@
       "guideline": null,
       "concepts": [
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "電池工廠、痛風常自行買止痛藥、CKD、CT 見腎乳頭鈣化",
+        "t": "長期止痛藥 → **止痛藥腎病變**（腎乳頭壞死與鈣化）",
+        "x": "鉛腎病變是職業暴露的誘答，但影像乳頭鈣化指向止痛藥；馬兜鈴酸無中草藥史；慢性腎絲球腎炎不會有乳頭鈣化"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138919,7 +140149,12 @@
       "D": "本項不選。矽肺症可以有肺門淋巴結蛋殼樣鈣化與上肺結節，但需要粉塵暴露史，病理也不是這組典型的類肉瘤表現。",
       "summary": "「雙側肺門淋巴結＋非乾酪性肉芽腫」＝類肉瘤病；乾酪性才往結核想。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "35 歲、慢性乾咳、**雙側肺門淋巴腫大**、**非乾酪性**肉芽腫",
+        "t": "**類肉瘤病**",
+        "x": "結核是**乾酪性**；過敏性肺炎與矽肺症不以雙側肺門淋巴腫大加此病理表現"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139235,7 +140470,12 @@
       "summary": "NET 病理看 chromogranin／synaptophysin；多數胰臟 NET 非功能性，最常見的功能型是 insulinoma。",
       "concepts": [
         "gastric-small-bowel-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "消化道 NET、選**最適當**的",
+        "t": "病理用 **chromogranin、synaptophysin** 免疫染色",
+        "x": "多數胰臟 NET 是**無功能**的；最常見的功能型是 **insulinoma**；血中追蹤用的是 **chromogranin A**，不是 synaptophysin"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139474,7 +140714,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "氣喘 type 2 與 non-type 2、選**最不適當**的",
+        "t": "**IL-17** 由 **Th17** 細胞產生，不是 Th1（Th1 產生 IFN-γ）",
+        "x": "type 2 嗜酸性球與 IL-4/5/13、non-type 2 嗜中性球與 IL-6/8/17、IL-4/5/13 來自 Th2，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139510,7 +140755,12 @@
       "guideline": null,
       "concepts": [
         "asthma-vs-copd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 治療、選**最不適當**的",
+        "t": "GOLD 選藥看**症狀與急性發作史**（ABE 分組），不是以 FEV1 為主",
+        "x": "嚴重者初始 LABA＋LAMA、一般可單用 LABA 或 LAMA、持續發作且嗜酸性球 ≥100 可加 ICS，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139546,7 +140796,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "CAP 病原檢查、**特異性最高**",
+        "t": "**尿液退伍軍人菌抗原**陽性幾乎就能確定",
+        "x": "痰革蘭染色受污染影響；procalcitonin 不能指出病原；黴漿菌 IgG 代表過去感染"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139618,7 +140873,12 @@
       "guideline": null,
       "concepts": [
         "pleural-fluid-analysis"
-      ]
+      ],
+      "approach": {
+        "k": "肋膜積液診斷、選**錯誤**的",
+        "t": "積液**澱粉酶**升高要想**胰臟炎、食道破裂、腫瘤**，不是膽道發炎",
+        "x": "發燒加嗜中性球要想肺炎旁積液、藥物性積液常有嗜酸性球、CABG 後可有積液，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139654,7 +140914,12 @@
       "guideline": null,
       "concepts": [
         "polyuria-di-siadh"
-      ]
+      ],
+      "approach": {
+        "k": "抽菸、10 cm 肺腫瘤、意識不清、Na 114",
+        "t": "嚴重症狀性低血鈉，頭 24 小時只升約 **4–6（最多 8）**，衝到正常會造成**滲透性脫髓鞘**",
+        "x": "可能是 SIADH、可限水、小細胞肺癌機率較高，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -139688,7 +140953,12 @@
       "D": "本項敘述錯誤。類肉瘤病常沿著淋巴管與支氣管血管束分布，造成支氣管血管周圍增厚，說「不會出現」並不正確。",
       "summary": "蜂窩狀變化是 UIP 的招牌；NSIP 少見蜂窩、而且常有胸膜下保留。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "ILD、選**最適當**的",
+        "t": "**NSIP** 在 CT 上**很少**出現蜂窩狀",
+        "x": "IPF 下肺 crackles **很常見**；RB-ILD 杵狀指**少見**；類肉瘤**會**沿支氣管血管束增厚"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -140503,7 +141773,12 @@
       "summary": "膽結石是先造成胰臟炎；假性囊腫、胰管阻塞和後腹腔感染才是晚期併發症。",
       "concepts": [
         "pancreatitis-pancreatic-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "急性胰臟炎**晚期**併發症、**最不常見**",
+        "t": "膽結石是胰臟炎的**原因**，不是併發症",
+        "x": "胰管阻塞、假性囊腫、後腹腔膿瘍都是晚期併發症"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -140572,7 +141847,12 @@
       "D": "本項敘述錯誤。目標體溫管理是用在恢復自發循環（ROSC）後**仍無法遵從指令**的病人，不是所有 OHCA 或 IHCA 恢復心跳者的標準治療。",
       "summary": "這題三個錯項都錯在「一律、所有」：存活率、壓胸順序、低溫療法都要看情境。",
       "guideline": "2020 AHA CPR and ECC Guidelines",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "2020 AHA、OHCA vs IHCA、選**正確**的",
+        "t": "台灣**高級**救護技術員可依預立流程給藥、插管、用 AED（中級救護員範圍較小）",
+        "x": "**IHCA** 存活率較高；不是所有 OHCA 都先壓胸；低溫療法不是「所有」病人的標準"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -140608,7 +141888,12 @@
       "guideline": null,
       "concepts": [
         "siadh-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "SIADH 診斷標準、選**錯誤**的",
+        "t": "SIADH 的尿液滲透壓是**不適當地偏高**（>100），不是 <100",
+        "x": "血滲透壓 <275、尿鈉 >20–30、正常體容積，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -140644,7 +141929,12 @@
       "guideline": null,
       "concepts": [
         "lake-louise-ams"
-      ]
+      ],
+      "approach": {
+        "k": "急性高山症的**必要**條件",
+        "t": "**頭痛**（Lake Louise 的必要條件）",
+        "x": "噁心嘔吐、疲憊、頭暈是加分項，不是必要"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
