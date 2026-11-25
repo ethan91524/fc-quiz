@@ -599,7 +599,12 @@
       "concepts": [
         "portal-hypertension-cirrhosis",
         "gi-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "肝硬化、靜脈瘤出血、血壓 90/50、心跳 148、**意識不清躁動**",
+        "t": "先 ABC：①建立大口徑管路輸液、④意識不清先**插管**保護氣道",
+        "x": "②休克時不能給 propranolol（會壓低血壓與心跳代償）；③上消化道出血不做大腸鏡"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -682,7 +687,12 @@
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease",
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "食慾差、茶色尿、黃疸、**直接型**為主、ALT 148",
+        "t": "直接型高膽紅素＋肝細胞損傷 → 查肝炎（HBsAg）、膽道（ALP、超音波）；**網狀紅血球**是查溶血（間接型）",
+        "x": "ALP、HBsAg、腹部超音波都能幫忙"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -724,7 +734,12 @@
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease",
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "32 歲女性、皮膚癢、變黑、**ALP 高**膽汁鬱積型、超音波正常",
+        "t": "肝內膽汁鬱積 → 查 PBC（AMA）、自體免疫肝炎（ANA）、B 肝；**anti-HAV IgG** 只代表過去感染或打過疫苗",
+        "x": "HBsAg、AMA、ANA 都有診斷價值"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -796,7 +811,12 @@
       "B": "本項不選。右上腹或上腹痛是 Charcot triad 的一項，反映急性膽管炎（acute cholangitis）中的膽道阻塞和發炎。",
       "C": "本項不選。發燒或寒顫是 Charcot triad 的感染表現。如果再合併低血壓和意識改變，就構成 Reynolds pentad。",
       "D": "本項不選。黃疸是 Charcot triad 的一項，代表膽汁排出受阻。另外兩項是右上腹痛和發燒／寒顫。",
-      "summary": "Charcot triad ＝ 右上腹痛、發燒／寒顫、黃疸；摸得到的腫大膽囊不是其中之一。"
+      "summary": "Charcot triad ＝ 右上腹痛、發燒／寒顫、黃疸；摸得到的腫大膽囊不是其中之一。",
+      "approach": {
+        "k": "Charcot triad、**不是**條件的",
+        "t": "Charcot 三徵＝**右上腹痛、發燒寒顫、黃疸**",
+        "x": "摸得到腫大膽囊是 Courvoisier sign（壺腹或胰頭腫瘤）"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -837,7 +857,12 @@
       "summary": "早期 HCC 又肝功能承受得住時要選根除性治療：手術切除或適當病灶的局部消融。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "早期 HCC（BCLC 0/A）、肝功能代償",
+        "t": "根治性治療：**手術切除或射頻燒灼**",
+        "x": "標靶與化療用在晚期；TACE 用在中期（BCLC B）"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1165,7 +1190,12 @@
       "guideline": null,
       "concepts": [
         "sle-2019-eular-acr-classification"
-      ]
+      ],
+      "approach": {
+        "k": "27 歲女性、小關節痛、**光過敏**、雷諾、貧血、**anti-dsDNA 陽性**",
+        "t": "光敏感＋關節炎＋貧血＋anti-dsDNA → **SLE**（其他抗體是一起驗出的雜訊）",
+        "x": "RA 不會有光過敏與 anti-dsDNA；乾燥症以口眼乾為主；硬皮症以皮膚硬化為主"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1206,7 +1236,12 @@
       "guideline": "FC 醫學(三)第4冊 p.106",
       "concepts": [
         "spondyloarthritis-reactive-hla"
-      ]
+      ],
+      "approach": {
+        "k": "乾癬較常見的 HLA",
+        "t": "**HLA-Cw*06**（C*06:02）",
+        "x": "HLA-B27 是僵直性脊椎炎；DR4 是 RA；A2 無特別關聯"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1244,7 +1279,12 @@
       "C": "本項不選。Goodpasture syndrome 是 anti-GBM disease，靠抗腎絲球基底膜抗體造成肺腎症候群。它的代表抗體不是 c-ANCA。",
       "D": "本項不選。高安氏動脈炎（Takayasu arteritis）是大血管炎，靠臨床與血管影像診斷，通常不以 c-ANCA 陽性為特徵。",
       "summary": "c-ANCA 對應 PR3、指向 GPA；PAN、anti-GBM 與高安氏動脈炎都不在 ANCA 這個家族裡。",
-      "guideline": "FC 醫學(三)第4冊 p.85"
+      "guideline": "FC 醫學(三)第4冊 p.85",
+      "approach": {
+        "k": "c-ANCA 陽性比例**最高**的血管炎",
+        "t": "c-ANCA（PR3）→ **GPA**（Wegener）",
+        "x": "PAN 與高安氏動脈炎不是 ANCA 相關；Goodpasture 是 anti-GBM"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1277,7 +1317,12 @@
       "C": "正確答案。白血球黏附缺陷（leukocyte adhesion deficiency）讓嗜中性球黏不上血管內皮、進不了組織。結果很矛盾：周邊血的嗜中性球數目明顯上升，但感染處**擠不出膿**。這個「血裡很多、現場沒有」就是它的招牌。",
       "D": "本項敘述錯誤。X-linked agammaglobulinemia 是 BTK 缺陷讓 B 細胞成熟卡住，典型是 B 細胞與各類免疫球蛋白都顯著降低。嗜酸性球增多不是它的代表性血球變化。",
       "summary": "LAD 的陷阱是「白血球很高但沒有膿」——細胞出不去，數字反而堆在血裡。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "原發性免疫缺陷、選**正確**的",
+        "t": "白血球黏附缺陷（LAD）的嗜中性球出不了血管 → 血中**數量上升**、但傷口沒有膿",
+        "x": "IgG、IgA 低也可能是 T 細胞缺陷（B 細胞需要 T 輔助）；細胞數量不一定和嚴重度成正比；XLA 不會嗜酸性球增多"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -1310,7 +1355,12 @@
       "C": "本項不選。CH50 篩的是古典補體路徑。補體缺陷比較常造成反覆化膿性感染或特定的 Neisseria 感染，解釋不了李斯特菌加病毒再活化。",
       "D": "本項不選。NBT 測的是嗜中性球的氧化爆發，傳統用來診斷慢性肉芽腫病。那類病人感染的是觸酶陽性細菌與黴菌，不是反覆病毒再活化。",
       "summary": "感染的「種類」會告訴你哪一環壞掉：細胞內菌（李斯特菌）＋病毒再活化＝細胞免疫，先驗淋巴球亞群。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "李斯特菌腦膜炎＋一年兩次帶狀疱疹",
+        "t": "細胞內菌加病毒再活化 → **細胞免疫**缺陷 → 驗血球與淋巴球亞群",
+        "x": "免疫球蛋白看體液免疫；CH50 看補體；NBT 看吞噬細胞殺菌"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2873,7 +2923,12 @@
       "summary": "門靜脈腫瘤栓比較典型指向 HCC，不是膽管癌。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "肝超音波、選**錯誤**的",
+        "t": "門靜脈**腫瘤栓**最常見於**肝細胞癌**，不是膽管癌",
+        "x": "肝內實質腫塊、膽結石、箭號指門靜脈，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -6534,7 +6589,12 @@
       "guideline": "FC 醫學(五)第1冊 p.270",
       "concepts": [
         "normal-pressure-hydrocephalus-triad"
-      ]
+      ],
+      "approach": {
+        "k": "常壓性水腦三聯徵、**不是**的",
+        "t": "三聯徵：**步態不穩、失智、尿失禁**（wet, wobbly, wacky）",
+        "x": "顫抖不是三聯徵之一（顫抖較像巴金森）"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6570,7 +6630,12 @@
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "腦膜瘤、選**錯誤**的",
+        "t": "腦膜瘤源自**蜘蛛網膜帽細胞**，只是附著在硬腦膜上",
+        "x": "可惡性轉化、可造成骨增生、可侵犯靜脈竇，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6611,7 +6676,12 @@
       "guideline": "FC 醫學(五)第1冊 p.273",
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "三叉神經痛**最常**壓迫的血管",
+        "t": "**小腦上動脈**（SCA）壓迫三叉神經根入口區",
+        "x": "AICA 較常壓迫顏面神經（半臉痙攣）；PICA 壓迫舌咽神經；前脈絡膜動脈不在此處"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6653,7 +6723,12 @@
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy",
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腰椎退化神經病變、選**錯誤**的",
+        "t": "腰椎間盤突出最常在 **L4–5、L5–S1**",
+        "x": "小面關節與黃韌帶肥厚造成狹窄、坐下緩解間歇性跛行、踝反射降低代表 S1，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6689,7 +6764,12 @@
       "guideline": null,
       "concepts": [
         "mathes-nahai-muscle-flap-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Mathes-Nahai、**較少**用於游離皮瓣的類型",
+        "t": "游離皮瓣要一條主血管養整塊肌肉；**第四型**只有多條節段血管，最不可靠",
+        "x": "I 單一主血管、II 主血管加小分支、III 兩條主血管，都可做游離皮瓣"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6730,7 +6810,12 @@
       "guideline": "FC 醫學(五)第1冊 p.119",
       "concepts": [
         "parkland-formula"
-      ]
+      ],
+      "approach": {
+        "k": "70 kg、40% 二三度燒傷、輸液，選**最不適當**的",
+        "t": "尿量減少要先**增加 LR 速率**；白蛋白膠體通常在 12–24 小時後才考慮，不是 2 小時就給",
+        "x": "建立管路放尿管、Parkland 前 8 小時約 700 mL/h、尿量維持約 0.5 mL/kg/h（35 mL/h），三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6771,7 +6856,12 @@
       "guideline": "FC 醫學(五)第2冊 p.291",
       "concepts": [
         "wound-healing-phases"
-      ]
+      ],
+      "approach": {
+        "k": "急性傷口癒合順序",
+        "t": "**凝血 → 發炎 → 增生 → 成熟 → 重塑**",
+        "x": "其他順序都打亂了凝血與發炎的先後"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6812,7 +6902,12 @@
       "guideline": "FC 醫學(五)第2冊 p.292",
       "concepts": [
         "wound-healing-phases"
-      ]
+      ],
+      "approach": {
+        "k": "**最先**出現、啟動癒合的",
+        "t": "**血小板**止血並釋放生長因子（PDGF、TGF-β）",
+        "x": "巨噬細胞是發炎期後段主角；膠原蛋白是增生期產物；紅血球不參與啟動"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6851,7 +6946,12 @@
       "D": "本項不選。血管肉瘤（angiosarcoma）是侵襲性惡性血管腫瘤；頭頸皮膚是常見部位之一，但常需廣泛切除合併放射治療，預後並不「相對良性」。",
       "summary": "DFSP 以局部侵犯與復發為主，主要靠完整切除，因淋巴轉移罕見而不例行清除淋巴結。",
       "guideline": "FC 醫學(五)第2冊 p.343",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "皮膚惡性腫瘤、選**正確**的",
+        "t": "**DFSP** 是低度惡性、局部侵犯易復發 → 廣泛切除（Mohs），淋巴轉移罕見",
+        "x": "Kaposi 與 **HHV-8** 有關；惡性纖維組織瘤是高度惡性；血管肉瘤是**高度惡性**"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6892,7 +6992,12 @@
       "guideline": null,
       "concepts": [
         "eisenmenger-syndrome-definition"
-      ]
+      ],
+      "approach": {
+        "k": "不及時手術會發生 Eisenmenger 的先天性心臟病",
+        "t": "Eisenmenger 需要**大量左向右分流**長期傷肺血管：VSD、動脈幹、PDA",
+        "x": "①肺動脈瓣狹窄是**限制**肺血流，不會造成肺高壓"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6933,7 +7038,12 @@
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification"
-      ]
+      ],
+      "approach": {
+        "k": "急性主動脈剝離治療、選**錯誤**的",
+        "t": "A 型剝離合併**器官灌流不足**是明顯的**不良預後**因子，兩者預後不同",
+        "x": "高度懷疑先控心跳血壓、A 型緊急置換、B 型有灌流不足立即介入（TEVAR），三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -6971,7 +7081,12 @@
       "C": "本項不選。氧合器（oxygenator）負責移除 CO2 並加入 O2，暫代肺部氣體交換；靜脈血經氧合後由幫浦送回動脈循環。",
       "D": "錯誤。血液接觸人工管路、手術創傷、缺血再灌流與補體活化都會引發全身發炎反應；體外循環可造成血管通透性增加、凝血異常及多器官功能障礙。",
       "summary": "人工心肺機能代替心肺並控制溫度，但血液接觸非內皮表面會啟動發炎與凝血反應。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "人工心肺機、選**錯誤**的",
+        "t": "血液接觸人工管路表面 → **會**引發全身發炎反應（SIRS）與凝血異常",
+        "x": "能調控體溫、配合心臟麻痺液讓心臟停跳、氧合器暫代肺臟，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7012,7 +7127,12 @@
       "guideline": null,
       "concepts": [
         "valvular-murmurs"
-      ]
+      ],
+      "approach": {
+        "k": "二尖瓣狹窄 1.35 cm²、心房顫動、右手無力（栓塞）、**曾右側膿胸開胸**",
+        "t": "②術前做心導管、③瓣膜手術可同時做迷宮手術",
+        "x": "①中風（栓塞）**更要**抗凝；④右胸膿胸開胸後沾黏，不適合右胸微創進路"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7053,7 +7173,12 @@
       "guideline": null,
       "concepts": [
         "acs-cad-management"
-      ]
+      ],
+      "approach": {
+        "k": "CABG、選**錯誤**的",
+        "t": "off-pump CABG **沒有**被一致證明優於傳統停跳術式（長期通暢率甚至可能較差）",
+        "x": "糖尿病三支病變首選 CABG、內乳動脈通暢率最好、術後合併症列舉，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -7761,7 +7886,12 @@
       "D": "本項不選。義乳重建通常比自體游離皮瓣手術時間短、donor-site morbidity 少，可考慮用於無法承受長時間麻醉的病人。",
       "summary": "Implant reconstruction 手術較短且雙側對稱較容易，但放療與時間會影響外觀、併發症及滿意度。",
       "guideline": "FC 醫學(五)第3冊 p.290",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "義乳乳房重建、選**錯誤**的",
+        "t": "義乳外觀**會隨時間改變**（莢膜攣縮、對側老化下垂），長期滿意度沒那麼高",
+        "x": "雙側對稱較好、放療前要評估、適合不能長時間麻醉的人，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8358,7 +8488,12 @@
       "guideline": "FC 醫學(五)第1冊 p.230",
       "concepts": [
         "brown-sequard-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "車禍、左側無力、右側痛溫覺差、選**正確**的",
+        "t": "脊髓損傷看軟組織用 **MRI**，優於 CT（CT 看骨頭）",
+        "x": "脊椎損傷多在**頸椎**與胸腰交界；C6 不一定立即呼吸衰竭（C3–5 才是膈神經）；central cord 是**上肢**較嚴重"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -8399,7 +8534,12 @@
       "guideline": "FC 醫學(五)第1冊 p.231",
       "concepts": [
         "brown-sequard-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "承上：**同側**無力＋**對側**痛溫覺喪失",
+        "t": "**Brown-Séquard 症候群**（脊髓半切）",
+        "x": "central cord 是上肢無力為主、雙側；視丘出血不會有交叉感覺型態；肱骨骨折不會有對側感覺異常"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9272,7 +9412,12 @@
         "stanford-aortic-dissection-classification",
         "debaky-aortic-dissection-classification",
         "chest-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "突發胸痛、CT 見主動脈壁**新月形增厚**、沒有內膜片、侵犯**升主動脈**",
+        "t": "**Stanford A 型壁內血腫**（處理比照 A 型剝離）",
+        "x": "B 型不侵犯升主動脈；剝離會看到內膜片與真假腔"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9434,7 +9579,12 @@
       "D": "本項應選。多數病人在急診成功復位後可恢復閉口與吞嚥，短期採軟食並避免大幅張口即可；「常無法恢復進食」不符合一般病程。",
       "summary": "前方下頷骨脫位通常靠臨床診斷且可急診復位，成功後多能恢復進食。",
       "guideline": "FC 醫學(五)第6冊 p.49",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "下頷骨脫位、選**錯誤**的",
+        "t": "急診復位成功後通常**能**恢復進食",
+        "x": "前脫位最常見、臨床診斷為主、復位後能閉嘴通常不必再照 X 光，三句都對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -12856,7 +13006,12 @@
       "guideline": "FC 醫學(三)第2冊 p.296",
       "concepts": [
         "diabetes-types-t1-t2-lada"
-      ]
+      ],
+      "approach": {
+        "k": "自體免疫疾病性別差異、選**最不適當**的",
+        "t": "**第一型糖尿病**男女發生率差不多，不是女性較高",
+        "x": "甲狀腺病、硬皮症、SLE 女性多；RA 懷孕期間常緩解；僵直性脊椎炎男性多，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13272,7 +13427,12 @@
       "summary": "肝硬化典型外觀包括蜘蛛痣、紅掌和男性女乳症；一般下肢靜脈曲張不是門脈高壓的代表徵象。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "肝硬化身體徵象、選**錯誤**的",
+        "t": "門脈高壓的側枝是**腹壁**靜脈曲張（海蛇頭）、食道靜脈瘤、痔瘡；**下肢**靜脈曲張與肝硬化無關",
+        "x": "蜘蛛痣、紅掌、男性女乳症都是雌激素代謝差造成"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13350,7 +13510,12 @@
       "summary": "肝衰竭看的是合成和排泄功能（albumin、PT、bilirubin），不是把肝細胞損傷指標 ALT 或 ammonia 當嚴重度尺。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "肝衰竭指標、**不宜**的（官方 B、D 都給分）",
+        "t": "肝衰竭看**合成與排泄**：albumin、PT、bilirubin；ALT 是**損傷**指標，氨不反映嚴重度",
+        "x": "albumin、bilirubin（以及 PT）都是 Child-Pugh 與 MELD 的指標"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13391,7 +13556,12 @@
       "summary": "抗結核治療常監測肝功能和血球；CK 不是第一線抗結核藥的常規安全檢查。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "抗結核藥定期血液檢查，**除了**",
+        "t": "抗結核藥要追蹤肝功能（ALT、bilirubin）與血球；**CK** 不是常規監測",
+        "x": "ALT、bilirubin（INH、RIF、PZA 肝毒性）、血球（rifampin）都要追"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13432,7 +13602,12 @@
       "summary": "PBC 的典型組合是膽汁鬱積、AMA 陽性和 IgM 上升；ursodeoxycholic acid 能延緩病程但不是治癒。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "PBC、選**錯誤**的",
+        "t": "UDCA 能**延緩**病程，但**不能治癒**",
+        "x": "AMA 陽性、黃色瘤、IgM 上升，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13473,7 +13648,12 @@
       "summary": "年輕女性、肝細胞性發炎、病毒陰性加 ANA 陽性指向自體免疫性肝炎；anti-LKM 或 ASMA 可依型別出現。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲女性、疲倦關節痛、ALT 400、病毒陰性、**ANA 陽性**",
+        "t": "自體免疫肝炎；第二型會有 **anti-LKM** 陽性",
+        "x": "自體免疫肝炎的肝癌風險**比**病毒性**低**；ASMA 常**陽性**；非化膿性破壞性膽管炎是 PBC 的病理"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13514,7 +13694,12 @@
       "summary": "HBV DNA 高代表風險升高，但抗病毒治療的適應症不能只靠病毒量，仍要結合肝炎活動度和纖維化程度。",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "慢性 B 肝、選**錯誤**的",
+        "t": "病毒量高風險確實高，但治療適應症要合併 **ALT 與纖維化**，不是高病毒量就一律治療（例如免疫耐受期）",
+        "x": "肝外表現以關節痛較常見、HAI 與 METAVIR 分級、非侵襲性纖維化評估，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13846,7 +14031,12 @@
       "C": "本項不選。抗心磷脂抗體用於評估抗磷脂症候群，和吃利尿劑後突然發作的第一蹠趾關節紅腫劇痛沒有直接關係。",
       "D": "本項不選。急性痛風發作時血中尿酸可能是正常的，數值偏高也不能證明當下這個關節炎就是尿酸鹽造成的。所以它的診斷力不如關節液結晶檢查。",
       "summary": "急性單關節炎一律先抽關節液——既找結晶，也不能漏掉可能同時存在的化膿性關節炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "吃利尿劑、半夜大腳趾腳踝紅腫劇痛",
+        "t": "急性單關節炎 → **抽關節液**找結晶並排除化膿",
+        "x": "敗血檢查不能確診；抗心磷脂抗體無關；急性發作時血中尿酸可正常"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13884,7 +14074,12 @@
       "C": "本項不選。IgG4 升高見於 IgG4 相關疾病。但這題的氣喘、27% 嗜酸性球與可觸摸性紫斑更符合 EGPA，而且 IgG4 本身沒有疾病專一性。",
       "D": "本項不選。痰液抹片可以找病原或嗜酸性球，但證實不了造成紫斑的**全身性**血管炎。要證實血管炎，切受侵犯的組織比驗痰直接得多。",
       "summary": "成人氣喘＋嗜酸性球很高＋可觸摸性紫斑＝EGPA；ANCA 幫忙確認，但陰性不能排除。",
-      "guideline": "FC 醫學(三)第4冊 p.92"
+      "guideline": "FC 醫學(三)第4冊 p.92",
+      "approach": {
+        "k": "成人氣喘發作、可觸摸性紫斑、**嗜酸性球 27%**",
+        "t": "**EGPA**（Churg-Strauss）→ 驗 **ANCA**（多為 p-ANCA/MPO）",
+        "x": "IgE 不特異；IgG4 是 IgG4 相關疾病；痰抹片無法診斷"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13922,7 +14117,12 @@
       "C": "本項不選。濕疹會癢、紅、脫屑，但完全解釋不了「必須側身用雙手扶持才能起床」這種對稱性近端肌無力。",
       "D": "本項不選。光敏感只是描述皮膚曬到光之後的反應，它是一個現象不是診斷，串不起眼瞼特徵性紅疹與近端肌無力。",
       "summary": "眼皮紫紅疹＋起床要用手撐＝皮肌炎；低效價 ANA 不足以把診斷帶去狼瘡。",
-      "guideline": "FC 醫學(三)第4冊 p.76"
+      "guideline": "FC 醫學(三)第4冊 p.76",
+      "approach": {
+        "k": "上眼瞼紫紅疹、起床要用手撐（近端無力）",
+        "t": "**皮肌炎**（heliotrope rash＋近端肌無力）",
+        "x": "SLE 不會有近端肌無力為主；濕疹與光敏感無肌肉症狀"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -13960,7 +14160,12 @@
       "C": "本項不選。血中 IgE 可以協助某些過敏或特定免疫缺陷表型，但不是成人反覆嗜血桿菌肺炎的主要體液免疫篩檢。",
       "D": "本項不選。C3 與 C4 用來找補體消耗或部分補體缺陷。反覆的莢膜細菌呼吸道感染更典型指向免疫球蛋白缺乏，不是補體。",
       "summary": "反覆莢膜細菌感染＋支氣管擴張＝先驗免疫球蛋白定量，不是先驗 T 細胞或補體。",
-      "guideline": "FC 醫學(三)第1冊 p.374"
+      "guideline": "FC 醫學(三)第1冊 p.374",
+      "approach": {
+        "k": "從 15 歲起反覆莢膜菌肺炎、慢性鼻竇炎、支氣管擴張",
+        "t": "反覆莢膜細菌感染 → **體液免疫**缺陷 → 驗 **IgG**",
+        "x": "CD4/CD8 看細胞免疫；IgE 看過敏；C3、C4 看補體"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -14001,7 +14206,12 @@
       "guideline": "FC 醫學(三)第4冊 p.28",
       "concepts": [
         "sle-2019-eular-acr-classification"
-      ]
+      ],
+      "approach": {
+        "k": "確診 SLE 幫助**最小**的檢驗",
+        "t": "anti-SSA 也見於乾燥症等，**不專屬** SLE",
+        "x": "ANA（入場條件）、C4（補體下降）、血球（血液學指標）都在 SLE 分類準則內"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15659,7 +15869,12 @@
       "summary": "膽囊腺肌症源自 Rokitansky–Aschoff sinuses，超音波的彗尾狀假影是重要的診斷線索。",
       "concepts": [
         "gallstones-cholecystitis-biliary-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "右上腹超音波、膽囊壁病灶伴隨**彗尾假影**，選**錯誤**的",
+        "t": "膽囊腺肌症來自 **Rokitansky-Aschoff 竇**，膽固醇結晶產生彗尾假影 → 「和 RA 竇無關」是錯的",
+        "x": "有假影、假影幫助診斷、最可能是腺肌症，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -19267,7 +19482,12 @@
       "guideline": null,
       "concepts": [
         "hypertrophic-scar-vs-keloid"
-      ]
+      ],
+      "approach": {
+        "k": "瘢痕瘤、選**錯誤**的",
+        "t": "瘢痕瘤好發**張力高**處：胸前、肩膀、耳垂；**臉部與下肢反而少見**",
+        "x": "深膚色人種多、盛行率約 15–20%（高危族群）、無法預防且治療效果差，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19383,7 +19603,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "椎管內腫瘤、選**正確**的",
+        "t": "硬膜外最常見是**轉移性腫瘤**",
+        "x": "硬膜內髓外最常見是神經鞘瘤與腦膜瘤；髓內最常見是星形細胞瘤與室管膜瘤"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19424,7 +19649,12 @@
       "guideline": "FC 醫學(五)第1冊 p.269",
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "脈絡叢乳突狀瘤造成腦室擴大、**不包括**",
+        "t": "機轉是腫瘤阻塞、CSF 過度製造、出血後吸收減少；**壓迫後脈絡叢動脈**不是原因",
+        "x": "腫瘤長大阻塞、CSF 過多、出血後蛛網膜炎，都是原因"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19460,7 +19690,12 @@
       "guideline": null,
       "concepts": [
         "spine-pelvic-fractures"
-      ]
+      ],
+      "approach": {
+        "k": "Hangman's fracture、選**正確**的",
+        "t": "**C2 雙側峽部（pars interarticularis）**骨折",
+        "x": "C1 側塊爆裂骨折是 Jefferson；C3–4 伸張傷與小面關節鎖住都不是 Hangman"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19496,7 +19731,12 @@
       "guideline": null,
       "concepts": [
         "escharotomy-vs-fasciotomy"
-      ]
+      ],
+      "approach": {
+        "k": "焦痂切開術、選**錯誤**的",
+        "t": "焦痂切開只切到**焦痂（皮膚全層）**，不切筋膜；切筋膜是 fasciotomy",
+        "x": "肢體環狀全層燒傷、胸廓燒傷限制呼吸、可在床邊進行，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19537,7 +19777,12 @@
       "guideline": "FC 醫學(五)第2冊 p.332",
       "concepts": [
         "syndactyly-classification"
-      ]
+      ],
+      "approach": {
+        "k": "併指症、選**錯誤**的",
+        "t": "最常見的是**中指與無名指**（第三蹼間）",
+        "x": "可合併 Poland 症候群、與細胞凋亡和 BMP-4 有關、用背側皮瓣重建指蹼，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19573,7 +19818,12 @@
       "guideline": null,
       "concepts": [
         "digit-replantation-indications"
-      ]
+      ],
+      "approach": {
+        "k": "**最不適合**斷指重接",
+        "t": "**單一手指多段截斷**，結構廣泛破壞、功能預後差",
+        "x": "拇指、幼兒、遠端指節（甚至美觀考量）都可重接"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19612,7 +19862,12 @@
       "D": "本項不選。30 mmHg 持續 1 小時仍低於本題採用的 60 mmHg 門檻；臨床風險也受剪力、潮濕、營養與組織耐受性影響。",
       "summary": "輪椅坐姿的坐骨部壓瘡來自高壓與時間共同作用，本題門檻為約 60 mmHg 持續 1 小時。",
       "guideline": "FC 醫學(五)第2冊 p.292",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "輪椅坐骨部壓瘡的壓力與時間門檻",
+        "t": "約 **60 mmHg、持續 1 小時以上**就開始組織損傷",
+        "x": "30 mmHg 約是微血管閉合壓；0.5 小時太短"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19655,7 +19910,12 @@
       "guideline": "FC 醫學(五)第2冊 p.315",
       "concepts": [
         "z-plasty-angle-lengthening"
-      ]
+      ],
+      "approach": {
+        "k": "Z-plasty 要延長 **75%**",
+        "t": "30°＝25%、45°＝50%、**60°＝75%**、90°＝120%",
+        "x": "其他角度的延長比例不對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19693,7 +19953,12 @@
       "C": "本項不選。大隱靜脈夠長、容易取，可做多條繞道；長期通暢率比內乳動脈差，術後要靠抗血小板與控制危險因子。",
       "D": "本項不選。橈動脈是常用的第二條動脈管道；取之前要確認尺動脈與掌弓側枝足夠，手才不會缺血。",
       "summary": "CABG 管道：內乳動脈、橈動脈、大隱靜脈；股動脈犧牲不起。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不適合**做 CABG 繞道管道的血管",
+        "t": "股動脈是下肢主要供血，**不能犧牲**",
+        "x": "內乳動脈、大隱靜脈、橈動脈都是常用繞道管道"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19729,7 +19994,12 @@
       "guideline": null,
       "concepts": [
         "valvular-murmurs"
-      ]
+      ],
+      "approach": {
+        "k": "嚴重主動脈瓣閉鎖不全、**不是**手術適應症",
+        "t": "無症狀時，要 LVEF ≤55% 或左心室收縮末期內徑 **>50 mm** 才開；選項 C 的尺寸不到門檻",
+        "x": "急性嚴重合併休克、有症狀的慢性嚴重、無症狀但左心功能下降，都是適應症"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19769,7 +20039,12 @@
       "C": "本項不選。較嚴重的左下肢動脈灌流不足會使左足背動脈（dorsalis pedis artery）脈搏較右側微弱或消失，與分段壓力結果應互相吻合。",
       "D": "錯誤。膝下繞道優先使用自體大隱靜脈，因小口徑、低流量環境下的長期通暢率與抗感染性優於 PTFE；人工血管通常留給無合適自體靜脈時。",
       "summary": "分段血壓用壓力下降的節段定位動脈病灶；膝下 bypass 首選自體靜脈而非 PTFE。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "78 歲、抽菸三高、分段血壓**左側**下降，選**錯誤**的",
+        "t": "膝下繞道的首選管道是**自體大隱靜脈**，PTFE 人工血管在膝下通暢率差",
+        "x": "症狀以左下肢為主、狹窄在左髂或股動脈、左足背脈搏較弱，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19807,7 +20082,12 @@
       "C": "本項應選。Glenn 之後還保留額外的動脈到肺動脈分流，血氧可能較高，但會增加心室容量負荷與肺動脈壓。是否保留要個別化，不能說能提高長期存活。",
       "D": "本項不選。Norwood 是第一階段，重建體循環出口並提供肺血流；可用右心室到肺動脈導管（Sano）取代改良型 Blalock-Taussig 分流。",
       "summary": "單心室分期手術的目的是一步步減輕心室負擔；Glenn 後多留分流不等於活更久。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "單心室、選**錯誤**的",
+        "t": "Glenn 時**不建議**保留額外的動脈到肺動脈分流，會增加心室容量負擔，不會延長存活",
+        "x": "HLHS 與三尖瓣閉鎖都是單心室、Glenn 在第一階段後 3–6 個月、Norwood 可用心室到肺動脈分流（Sano），三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -19849,7 +20129,12 @@
       "concepts": [
         "cyanotic-vs-acyanotic-chd",
         "tetralogy-of-fallot"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**發紺性心臟病",
+        "t": "肺動脈吊索是左肺動脈繞過氣管後方 → **壓迫氣道**，不是右向左分流",
+        "x": "TOF、大動脈轉位、三尖瓣閉鎖都是發紺性"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -20687,7 +20972,12 @@
       "D": "本項不選。既往腹部手術可能破壞 perforators、造成疤痕或增加腹壁併發症，因此是 TRAM/DIEP 評估中的相對禁忌而非一律禁止。",
       "summary": "Latissimus dorsi flap 血流可靠但體積有限，大型乳房常須合併 implant；腹部皮瓣則能提供較多自體組織。",
       "guideline": "FC 醫學(五)第3冊 p.289",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "乳房重建方式、選**錯誤**的",
+        "t": "闊背肌皮瓣**體積有限**，大乳房常要加義乳；大體積要靠腹部皮瓣",
+        "x": "雙側重建適合義乳、義乳對稱但缺乏自然下垂、腹部手術史是腹直肌皮瓣相對禁忌，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -26189,7 +26479,12 @@
       "summary": "急性膽囊炎多由膽結石造成，但不是「必定」有結石；適當的病人以早期膽囊切除為主。",
       "concepts": [
         "gallstones-cholecystitis-biliary-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "急性膽囊炎、選**錯誤**的",
+        "t": "約 5–10% 是**無結石性膽囊炎**（重症、長期禁食）→「必定伴隨結石」錯",
+        "x": "早期膽囊切除、Murphy 徵象陽性、可合併總膽管結石，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26230,7 +26525,12 @@
       "summary": "膽管癌分肝內、肝門和遠端型；PSC 和肝內膽管結石都是風險因子，根治仰賴完整的手術切除。",
       "concepts": [
         "gallstones-cholecystitis-biliary-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "膽管癌、選**錯誤**的",
+        "t": "**原發性硬化性膽管炎**是膽管癌的重要危險因子",
+        "x": "分肝內、肝門、遠端三類；手術是唯一根治；肝內結石是危險因子，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26271,7 +26571,12 @@
       "B": "本項不選。Child-Turcotte-Pugh score 用來分肝硬化的嚴重度和預後。它含腹水、肝性腦病變等主觀判讀項目，現行等候排序不以它為主。",
       "C": "本項不選。Maddrey discriminant function 用來評估酒精性肝炎（alcoholic hepatitis）嚴重度、決定要不要用 corticosteroid。它不是通用的肝移植排序分數。",
       "D": "本項不選。SOFA score 評估多重器官衰竭和加護病房死亡風險，涵蓋範圍太廣，取代不了專為末期肝病設計的 MELD score。",
-      "summary": "成人肝移植的優先次序，主要看 MELD score 估出的末期肝病短期死亡風險。"
+      "summary": "成人肝移植的優先次序，主要看 MELD score 估出的末期肝病短期死亡風險。",
+      "approach": {
+        "k": "肝移植受者的**優先順序**",
+        "t": "依 **MELD 分數**（預測 3 個月死亡率）",
+        "x": "Child-Pugh 是肝硬化分級；Maddrey 是酒精性肝炎；SOFA 是加護病房器官衰竭"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26657,7 +26962,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "痛風、選**最適當**的",
+        "t": "急性痛風發作時，血中尿酸**可以正常**",
+        "x": "女性**停經後**痛風**增加**；X 光早期常正常、超音波可見 double contour；腎功能不全可用類固醇（限制的是 NSAID 與 colchicine）"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26693,7 +27003,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "RA 準備懷孕、用藥建議",
+        "t": "**hydroxychloroquine** 與 **sulfasalazine** 懷孕全程可用",
+        "x": "MTX 與 leflunomide 要**受孕前**停（leflunomide 要洗藥）；生物製劑不是全部都能全程；低劑量類固醇懷孕可用"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26734,7 +27049,12 @@
       "guideline": "FC 醫學(三)第3冊 p.214",
       "concepts": [
         "jones-criteria-acute-rheumatic-fever"
-      ]
+      ],
+      "approach": {
+        "k": "急性風濕熱、選**正確**的",
+        "t": "**環形紅斑**是主要準則但很罕見（<5%）",
+        "x": "由 **A 群**鏈球菌引起；咽炎後約 **2–4 週**發病；約 **一半以上**（30–60%）會有心臟侵犯"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26775,7 +27095,12 @@
       "guideline": "FC 醫學(三)第4冊 p.50",
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "adalimumab 後出現紅疹、ANA 與 anti-dsDNA 轉陽",
+        "t": "TNF 抑制劑誘發的類狼瘡 → **停掉** adalimumab，改用**不同機轉**的藥（rituximab）",
+        "x": "換成另一個 TNF 抑制劑（etanercept、infliximab）可能再誘發；加類固醇繼續用不對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -26811,7 +27136,12 @@
       "guideline": null,
       "concepts": [
         "spondyloarthritis-reactive-hla"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎關節炎**最起始**的病灶",
+        "t": "**肌腱附著點**（enthesis）",
+        "x": "滑膜是 RA 的起點；軟骨與硬骨是後續受影響"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27819,7 +28149,12 @@
       "summary": "SBP 是單一腸道陰性菌、不打厭氧；次發性腹膜炎多菌，一定要處理感染源。",
       "concepts": [
         "bowel-obstruction-ischemia-appendicitis"
-      ]
+      ],
+      "approach": {
+        "k": "初次腹膜炎的病原與抗生素、選**錯誤**的",
+        "t": "自發性細菌性腹膜炎最常見是**革蘭氏陰性腸道菌**（大腸桿菌、克雷伯）",
+        "x": "SBP 用第三代頭孢菌素、次發性腹膜炎多菌含厭氧菌、次發性要開刀處理來源，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28249,7 +28584,12 @@
       "guideline": null,
       "concepts": [
         "pico-framework"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲 OA、問 glucosamine 能否改善疼痛，PICO",
+        "t": "I＝**葡萄糖胺**",
+        "x": "P 應是**膝退化性關節炎**病人；C 是安慰劑或不治療（不是自行換成玻尿酸）；O 是**疼痛改善**，不是關節置換"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28335,7 +28675,12 @@
       "summary": "dynamic CT 看到「周邊結節狀增強、之後向心填充」就是肝海綿狀血管瘤。",
       "concepts": [
         "benign-liver-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "4 cm 肝腫瘤、dynamic CT 周邊結節狀增強、向中央填充",
+        "t": "**海綿狀血管瘤**",
+        "x": "HCC 是動脈期增強後 washout；包蟲囊腫有子囊；膽管癌是延遲增強"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28378,7 +28723,12 @@
       "summary": "慢性 HBV 病人 CT 看到結節狀肝表面、肝葉重塑、脾腫大和側枝循環，最支持肝硬化。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "B 肝十多年、CT 肝表面結節、肝葉重塑",
+        "t": "**肝硬化**",
+        "x": "脂肪肝是密度降低；猛爆性肝炎是急性病程；血色沉著症是肝密度升高"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -32361,7 +32711,12 @@
       "guideline": "FC 醫學(五)第1冊 p.177",
       "concepts": [
         "hunt-hess-scale"
-      ]
+      ],
+      "approach": {
+        "k": "動脈瘤出血後血管痙攣、選**錯誤**的",
+        "t": "血管痙攣好發在出血後 **3–14 天**（高峰 7–10 天），不是 1–5 天",
+        "x": "Hunt-Hess 越高越易、CT 出血量越多越易、可用血流動力學增強治療，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32402,7 +32757,12 @@
       "guideline": "FC 醫學(五)第1冊 p.155",
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "右側硬腦膜下出血、癲癇持續 3 分鐘，選**錯誤**的",
+        "t": "癲癇重積第一線是 **benzodiazepine**（lorazepam、midazolam），不是 propofol",
+        "x": "右側皮質病灶發作時，雙眼可強迫偏向右側（偏向放電灶）；第一線無效再給第二線；持續 5 分鐘以上就是重積狀態，考慮插管鎮靜，三句都合理"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32438,7 +32798,12 @@
       "guideline": null,
       "concepts": [
         "common-entrapment-neuropathies"
-      ]
+      ],
+      "approach": {
+        "k": "受壓性神經病變配對、**錯誤**的",
+        "t": "Guyon 管壓迫的是**尺神經**",
+        "x": "腕隧道–正中神經、腓骨頭–腓神經、踝管–脛神經，三組正確"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32475,7 +32840,12 @@
       "concepts": [
         "tbi-hematomas-icp",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "血壓 150/90、ICP 25、CPP",
+        "t": "MAP＝90＋(150−90)/3＝110；CPP＝MAP−ICP＝110−25＝**85**",
+        "x": "105、95、90 都算錯"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32516,7 +32886,12 @@
       "guideline": "FC 醫學(五)第1冊 p.177",
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "**後天**發生的血管病變",
+        "t": "**囊狀（berry）動脈瘤**是血流動力長期作用形成",
+        "x": "AVM、微血管擴張、靜脈發育異常都是先天發育性"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32557,7 +32932,12 @@
       "guideline": "FC 醫學(五)第1冊 p.269",
       "concepts": [
         "hydrocephalus-chiari-functional-neurosurgery"
-      ]
+      ],
+      "approach": {
+        "k": "腦脊髓液、選**錯誤**的",
+        "t": "成人 CSF 約 **20 mL/hr**（每天約 500 mL），不是 40 mL/hr",
+        "x": "脈絡叢產生、部分進入脊髓腔、蜘蛛膜絨毛吸收，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32596,7 +32976,12 @@
       "D": "本項應選。Mafenide 與其代謝物會抑制碳酸酐酶，碳酸氫鹽流失，造成高氯性代謝性酸中毒；大面積使用要監測。",
       "summary": "燒傷早期是陽性菌；mafenide 穿透焦痂但會酸中毒，磺胺銀穿不透。",
       "guideline": "FC 醫學(五)第2冊 p.342",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "燒傷傷口感染、選**正確**的",
+        "t": "**mafenide** 抑制碳酸酐酶 → 代謝性酸中毒",
+        "x": "**不建議**全身性預防抗生素；初期是**革蘭氏陽性**菌；磺胺銀**穿不透**焦痂（mafenide 才穿得透）"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32711,7 +33096,12 @@
       "guideline": "FC 醫學(五)第2冊 p.301",
       "concepts": [
         "skin-graft-thickness"
-      ]
+      ],
+      "approach": {
+        "k": "植皮、選**錯誤**的",
+        "t": "頭皮適合反覆取**薄層（部分厚度）**皮，取全層會留禿髮",
+        "x": "薄層含部分真皮、全層含全部真皮、全層較少攣縮，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32749,7 +33139,12 @@
       "C": "本項應選。X 光看到骨折不等於要立刻開刀。顏面骨折多半是**延遲手術**：先等消腫（常 7 到 10 天）、做 CT 精確評估、確認全身狀況穩定再修復。要立刻處理的只有少數，例如視神經壓迫、開放性骨折、嚴重咬合異常合併出血。",
       "D": "本項不選。眼眶撞擊可造成 retrobulbar hematoma 使眼壓急升、視神經受壓，進展到失明只要幾小時。看到視力下降加眼球突出要當急症，必要時做 lateral canthotomy 減壓。",
       "summary": "顏面骨折多半先消腫再開刀，不是照到骨折就進手術室；但眼眶後出血壓迫視神經是不能等的例外。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "顏面外傷、選**錯誤**的",
+        "t": "顏面骨折多半**等腫脹消退**再手術，不是一確認骨折就立即開",
+        "x": "先評估大出血與顱內出血、大出血定義、眼眶傷可致視神經壓迫失明，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32787,7 +33182,12 @@
       "C": "本項不選。生物瓣膜術後早期的抗栓策略依瓣位與病人節律、出血風險而定；題目所述短期 warfarin 是傳統常用策略，但不是因免疫排斥。",
       "D": "錯誤。生物組織瓣膜經固定與處理後不會像器官移植般引起需終身免疫抑制的排斥；其主要長期問題是 structural valve deterioration。",
       "summary": "Mechanical valve 的代價是終身 warfarin；bioprosthesis 不需免疫抑制，但會結構性退化。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "瓣膜置換、選**錯誤**的",
+        "t": "生物瓣經過處理（去抗原），**不需要**抗排斥藥",
+        "x": "機械瓣終身 warfarin、機械瓣較耐久、生物瓣術後 3 個月抗凝，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32825,7 +33225,12 @@
       "C": "錯誤。OPCAB 技術要求高，且未一致顯示長期優於 conventional on-pump CABG；全球 CABG 並非大多採 OPCAB。",
       "D": "本項不選。大型研究未證明 OPCAB 在一年存活或再次介入方面優於 on-pump arrested-heart CABG，且不完全血流重建與 graft patency 亦需考量。",
       "summary": "OPCAB 是可選技術而非全球主流，其理論短期利益未轉化為一致的長期優勢。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "OPCAB、選**錯誤**的",
+        "t": "OPCAB 只是選項之一，全世界**大部分** CABG 仍用心肺機",
+        "x": "OPCAB 是選項之一、理論上減少體外循環併發症、大型研究長期結果沒比較好，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32865,7 +33270,12 @@
       "C": "正確。IABP 球囊尖端通常置於左鎖骨下動脈開口以遠的近端降胸主動脈，舒張期充氣增加冠狀灌流、收縮前洩氣降低 afterload。",
       "D": "本項不選。IV 若已接近腹主動脈，位置過低可能遮蔽腎動脈或內臟分支，亦無法最佳化中央主動脈反搏效果。",
       "summary": "IABP 的標準位置是左鎖骨下動脈遠端、腎動脈近端的降胸主動脈。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "IABP 球囊的最佳位置",
+        "t": "**左鎖骨下動脈遠端**到腎動脈上方的**降胸主動脈**（圖中第 III 段）",
+        "x": "太近會堵左鎖骨下或頸動脈；太遠會堵腎動脈與腸繫膜動脈"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -32900,7 +33310,12 @@
       "C": "本項不選。同側頸內動脈病灶可使眼動脈灌流短暫下降或栓塞，造成狹窄同側的一過性黑矇（amaurosis fugax）。",
       "D": "本項不選。有症狀頸動脈狹窄在合適狹窄程度、手術時機與風險下，頸動脈內膜切除術可降低再中風；『皆』較絕對，仍須依狹窄度與 perioperative risk 選擇。",
       "summary": "頸動脈粥樣硬化重點在 bifurcation／proximal ICA；bruit 缺如不能排除嚴重狹窄。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "80 歲、頸動脈攝影見分岔處狹窄，選**錯誤**的",
+        "t": "粥狀硬化好發在**內頸動脈**起始處，不是外頸動脈",
+        "x": "不一定聽得到雜音、可有同側一過性黑矇、有症狀者內膜切除可防再中風，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -33777,7 +34192,12 @@
       "D": "本項不選。TRAM 會犧牲部分腹直肌並削弱腹壁；術後須逐步恢復 core strength，待傷口與腹壁穩定後才進行劇烈運動。",
       "summary": "TRAM 能提供完整乳房體積，但 smoking、肥胖、腹部疤痕與腹壁功能都會影響安全性。",
       "guideline": "FC 醫學(五)第3冊 p.288",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "TRAM flap、選**錯誤**的",
+        "t": "**抽菸**會明顯增加皮瓣壞死與腹部傷口併發症",
+        "x": "可做全乳重建、肥胖與腹部手術是相對禁忌、術後要休養才能劇烈運動，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -34019,7 +34439,12 @@
       "D": "本項不選。惡性周邊神經鞘瘤常由第一型神經纖維瘤病的叢狀神經纖維瘤惡化而來，比單發的神經纖維瘤更常見。",
       "summary": "滑膜肉瘤名字常出現，但不是第二常見的軟組織肉瘤。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "軟組織腫瘤、選**最不適當**的",
+        "t": "滑膜肉瘤**不是**第二常見的軟組織肉瘤（常見的是未分化多形性肉瘤、脂肪肉瘤、平滑肌肉瘤）",
+        "x": "腹外硬纖維瘤即侵襲性纖維瘤病、NF1 即 von Recklinghausen、MPNST 可源自 NF1，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -34771,7 +35196,12 @@
       "guideline": "FC 醫學(五)第1冊 p.228",
       "concepts": [
         "central-cord-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "頸椎退化、跌倒、四肢無力、**上肢比下肢嚴重**",
+        "t": "**中心脊髓症候群**（老人過伸傷）",
+        "x": "前脊髓症候群是運動與痛溫覺喪失、本體覺保留；Brown-Séquard 是半側；馬尾是下肢與括約肌"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -38760,7 +39190,12 @@
       "summary": "HAI 四項：門脈周邊壞死、小葉壞死、門脈發炎、纖維化；漿細胞不算。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "HAI 評分、**不屬於**的",
+        "t": "HAI 四項：門脈周邊壞死、小葉內壞死、門脈發炎、纖維化；**漿細胞浸潤**不在其中",
+        "x": "其他三項都是 HAI 的評分項目"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -38992,7 +39427,12 @@
       "summary": "HCC 高危險群是慢性 HBV、HCV 和各種病因的肝硬化；單純肝鈣化點不算。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** HCC 高危險群",
+        "t": "HCC 高危險：B 肝帶原、慢性 C 肝、任何原因肝硬化；**肝鈣化點**是良性陳舊病灶",
+        "x": "B 肝、C 肝、酒精性肝硬化都是高危險群"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39033,7 +39473,12 @@
       "summary": "失代償肝硬化、符合 UCSF criteria 的 HCC、末期 PBC 都可移植；沒控制的活動性精神病不適合。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "**不適合**肝移植",
+        "t": "**活動性精神病**無法配合移植後終身服藥與追蹤",
+        "x": "失代償肝硬化、UCSF 內的 HCC、末期 PBC 都是適應症"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39066,7 +39511,12 @@
       "C": "本項不選。sirolimus 先與 FKBP12 結合再抑制 mTOR，擋掉 IL-2 訊號驅動的淋巴球增生。它同樣沒有攔在抗原呈現細胞與 T 細胞之間。",
       "D": "正確答案。belatacept 是 CTLA-4–Ig 融合蛋白，直接去結合抗原呈現細胞（APC）上的 CD80/CD86，讓它們沒辦法再跟 T 細胞的 CD28 接上。這正是「攔截共同刺激訊號」本身。",
       "summary": "共同刺激是 CD80/86–CD28 這一對；只有 belatacept 卡在這裡，其餘三個都在下游。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "作用在 T 細胞**共同刺激**路徑的藥",
+        "t": "**belatacept**（CTLA-4-Ig，阻斷 CD80/86–CD28）",
+        "x": "tacrolimus 抑制 calcineurin；MMF 抑制嘌呤合成；sirolimus 抑制 mTOR"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39425,7 +39875,12 @@
       "guideline": "FC 醫學(三)第4冊 p.59",
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "乾燥症、選**最適當**的",
+        "t": "乾燥症的關節炎多是**非侵蝕性**",
+        "x": "臨床明顯的腎侵犯**遠少於半數**；唾液腺浸潤以 **CD4+** T 細胞為主；相關的是 **HLA-DR3**"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39458,7 +39913,12 @@
       "C": "本項不選。Muckle-Wells syndrome 屬於冷凝素相關週期性症候群（CAPS），多與 NLRP3 的功能增益突變有關，讓發炎體與 IL-1 過度活化。",
       "D": "本項不選。家族性冷誘發自體發炎症候群同樣屬於 NLRP3 相關的 CAPS，冷暴露會誘發發燒、蕁麻疹樣疹與關節痛。",
       "summary": "自體發炎（單基因、發炎體、IL-1）與自體免疫（多基因、自體抗體）是兩條路；SLE 走的是後者。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**單一基因突變造成發炎體過度活化的疾病",
+        "t": "**SLE** 是多基因、自體抗體的**自體免疫**疾病",
+        "x": "FMF（pyrin）、Muckle-Wells 與 FCAS（NLRP3）都是單基因自體發炎疾病"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -39499,7 +39959,12 @@
       "guideline": "FC 醫學(三)第4冊 p.28",
       "concepts": [
         "antiphospholipid-syndrome-classification"
-      ]
+      ],
+      "approach": {
+        "k": "反覆流產三次、血小板 91,000，確診**最沒有幫助**的",
+        "t": "抗磷脂症候群看三項：LA、anti-cardiolipin、anti-β2GPI；**抗血小板抗體**不在診斷條件內",
+        "x": "LA、aCL、anti-β2GPI 都是診斷抗體"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -44477,7 +44942,12 @@
       "guideline": "FC 醫學(五)第1冊 p.156",
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "跌倒後顱內出血、選**正確**的",
+        "t": "出血在**基底核或小腦**這些深部位置，較可能是**高血壓性**出血，而非外傷",
+        "x": "有對側撞擊傷（contrecoup）；硬腦膜上出血多是**動脈**（中腦膜動脈）；硬腦膜下出血**老人**較多"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44636,7 +45106,12 @@
       "D": "本項不選。縫得牢不牢不是高壓氧起作用的生理前提；要先處理灌流、清創、感染與減壓。",
       "summary": "高壓氧要有血流才送得到氧；先確認灌流，再談高壓氧。",
       "guideline": "FC 醫學(五)第2冊 p.342",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "高壓氧治療傷口缺氧的**先決條件**",
+        "t": "氧氣要靠血流送到 → 先確認傷口**血液循環暢通**",
+        "x": "合併症控制、無感染、縫合牢固都不是高壓氧的先決條件"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44759,7 +45234,12 @@
       "guideline": "FC 醫學(五)第1冊 p.258",
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "生殖細胞瘤（germinoma）、選**錯誤**的",
+        "t": "松果體區 germinoma **男性明顯較多**（約 10:1）；鞍上區性別較平均",
+        "x": "占原發腦瘤 1–2%、九成在 20 歲前、半數在松果體區，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44795,7 +45275,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童腦幹膠質瘤、選**錯誤**的",
+        "t": "**橋腦**膠質瘤預後**最差**，比中腦膠質瘤差",
+        "x": "占兒童腦瘤 10–20%、頂蓋型以水腦表現、橋腦型有多發腦神經麻痺，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44838,7 +45323,12 @@
       "guideline": null,
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲、劇烈頭痛嘔吐、CT 腦葉出血，選**錯誤**的",
+        "t": "腦葉出血是否開刀要看血腫大小、位置與神經狀況，**不是有血塊就要立即手術**",
+        "x": "AVM、類澱粉血管病變、轉移瘤出血都是腦葉出血的可能原因"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44917,7 +45407,12 @@
       "guideline": "FC 醫學(五)第1冊 p.276",
       "concepts": [
         "hydrocephalus-chiari-functional-neurosurgery"
-      ]
+      ],
+      "approach": {
+        "k": "Chiari I、選**錯誤**的",
+        "t": "Chiari I 是**小腦扁桃體**下疝；延髓下疝是 **Chiari II**",
+        "x": "可四肢麻木無力、可合併脊髓空洞、用枕下減壓加 C1 椎弓切除，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44958,7 +45453,12 @@
       "guideline": "FC 醫學(五)第1冊 p.193",
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "車禍一週後右眼突出、泛紅、疼痛、視力下降、無感染",
+        "t": "外傷性**頸動脈海綿竇瘻管**（高流量）→ **血管介入**治療",
+        "x": "不是總頸動脈血栓、不是頸椎旋轉造成、外傷型是**高流量**"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -44999,7 +45499,12 @@
       "guideline": "FC 醫學(五)第2冊 p.314",
       "concepts": [
         "free-flap-compromise-signs"
-      ]
+      ],
+      "approach": {
+        "k": "游離皮瓣術後照護、選**錯誤**的",
+        "t": "heparin **沒有**被證實顯著增加皮瓣存活，不是常規必用",
+        "x": "栓塞多在 48 小時內、看顏色微血管回填與針刺出血、血管縫太鬆露出中膜會栓塞，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45035,7 +45540,12 @@
       "guideline": null,
       "concepts": [
         "flexor-tendon-zones"
-      ]
+      ],
+      "approach": {
+        "k": "手部屈肌腱損傷",
+        "t": "①分五區、②第一二四區有滑膜鞘、④腕隧道是第四區",
+        "x": "③沒有腱旁組織（滑膜鞘內）的區域血供差，癒合**較慢**"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45071,7 +45581,12 @@
       "guideline": null,
       "concepts": [
         "cleft-lip-palate-repair-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "唇顎裂修復時程、選**錯誤**的",
+        "t": "唇或鼻修正術依生長與功能個別安排，鼻部修正常在**學齡後或青春期**，不是固定 5 歲前",
+        "x": "1–2 個月唇黏合、3–6 個月唇與初步鼻修復、10–12 個月顎修復，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45110,7 +45625,12 @@
       "D": "本項不選。紅寶石雷射 694 nm 主要被黑色素吸收，適合色素病灶或除毛，不適合紅色的血管病灶。",
       "summary": "葡萄酒色斑是表淺微血管畸形，用以血紅素為目標的脈衝染料雷射。",
       "guideline": "FC 醫學(五)第2冊 p.336",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "葡萄酒色斑（微血管畸形）、最適合的雷射",
+        "t": "**脈衝染料雷射**（以血紅素為標的）",
+        "x": "Nd:YAG 用於較深血管；CO₂ 是消融；紅寶石雷射用於色素"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45151,7 +45671,12 @@
       "guideline": "FC 醫學(五)第2冊 p.301",
       "concepts": [
         "skin-graft-take-phases"
-      ]
+      ],
+      "approach": {
+        "k": "植皮**最容易**失敗的時期",
+        "t": "**黏合期**（inosculation）：血管剛接上，血腫、積液、剪力最容易讓它分離",
+        "x": "浸潤期靠滲透營養；血管再生期已較穩定"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45233,7 +45758,12 @@
       "guideline": null,
       "concepts": [
         "valvular-murmurs"
-      ]
+      ],
+      "approach": {
+        "k": "主動脈瓣置換適應症、選**最不適當**的",
+        "t": "**無症狀**嚴重主動脈瓣狹窄不是為了預防猝死就一律手術，要有左心功能下降或其他高風險指標",
+        "x": "有症狀的嚴重 AS、中度 AS 合併要做 CABG、無症狀但 LVEF <50%，都是適應症"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45312,7 +45842,12 @@
       "guideline": null,
       "concepts": [
         "virchow-triad"
-      ]
+      ],
+      "approach": {
+        "k": "深層靜脈栓塞、選**錯誤**的",
+        "t": "May-Thurner 是右髂動脈壓迫左髂靜脈，是左腿 DVT 的**原因**，不是併發症",
+        "x": "年齡癌症手術病史是危險因子、Virchow 三要素、蛋白 C/S 與抗凝血酶缺乏，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45345,7 +45880,12 @@
       "C": "錯誤。TAVR 已是成熟的主動脈瓣治療；但二尖瓣狹窄並沒有與 TAVR 同等成熟、普遍核准的經導管 replacement，風濕性 MS 仍以 balloon commissurotomy 或手術為主。",
       "D": "本項不選。主動脈瓣狹窄出現症狀後死亡風險明顯上升；二尖瓣狹窄通常進展較慢，主要風險包括肺高壓、心房顫動與栓塞。",
       "summary": "成熟經導管置換主要是 TAVR；不能把它直接類推成二尖瓣狹窄也有同等成熟的 replacement。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "主動脈瓣或二尖瓣狹窄、選**錯誤**的",
+        "t": "成熟核准的經導管置換主要是 **TAVR**（主動脈瓣）；二尖瓣狹窄沒有同等成熟的經導管置換",
+        "x": "AVA <1 cm² 有症狀要換、MVA <1.5 cm² 球擴不適合就換、AS 進展快猝死率較高，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -45381,7 +45921,12 @@
       "guideline": null,
       "concepts": [
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "雙房擴大、LVEF 55%、CVP 22、**square-root sign**、心包膜 **5 mm 增厚**",
+        "t": "square-root sign＋**心包膜增厚** → **縮窄性心包膜炎**",
+        "x": "限制型心肌病變也有 square-root sign 但心包膜正常；肥厚性心肌病變是左心室壁增厚"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -50742,7 +51287,12 @@
       "summary": "年輕人不明原因肝硬化加 ceruloplasmin 低，先想 Wilson 病。",
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "19 歲女性、不明原因肝硬化、**ceruloplasmin 低**",
+        "t": "**Wilson's disease**",
+        "x": "血色沉著症看鐵蛋白與運鐵飽和度；類澱粉沉積年紀大；PBC 是中年女性 AMA 陽性"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51268,7 +51818,12 @@
       "summary": "多顆大小不一的肝結節＋CEA 極高，先想肝轉移癌，不是原發 HCC。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "體重減輕、肝腫大、多顆大小不一低回音結節、**CEA 521**、AFP 正常",
+        "t": "多發結節加 CEA 極高 → **轉移性肝癌**（多來自大腸）",
+        "x": "HCC 多有 AFP 升高與肝硬化；膽管癌多單一腫塊、CA19-9 較高；FNH 是良性單顆"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51351,7 +51906,12 @@
       "B": "本項不選。胰臟腫瘤是從外面壓迫遠端總膽管造成阻塞性黃疸，機轉和 Mirizzi syndrome 的膽囊頸／膽囊管不同。",
       "C": "正確答案。Mirizzi syndrome 是結石卡在膽囊頸或膽囊管（cystic duct），從外側壓迫總肝管（common hepatic duct）造成阻塞性黃疸，嚴重時會磨出膽囊膽管瘻管。",
       "D": "本項不選。總膽管血塊可能造成暫時阻塞，但不符合 Mirizzi syndrome 的定義。",
-      "summary": "Mirizzi syndrome ＝ 膽囊頸或膽囊管（cystic duct）嵌頓結石，從外面壓住總肝管。"
+      "summary": "Mirizzi syndrome ＝ 膽囊頸或膽囊管（cystic duct）嵌頓結石，從外面壓住總肝管。",
+      "approach": {
+        "k": "Mirizzi syndrome 的原發原因",
+        "t": "**膽囊管（或膽囊頸）**結石從外面壓迫總肝管",
+        "x": "總膽管結石是直接阻塞，不叫 Mirizzi；胰臟腫瘤是遠端阻塞；血塊不是"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51392,7 +51952,12 @@
       "B": "本項不選。十二指腸潰瘍穿孔通常是突然劇痛、全腹腹膜刺激、X 光有腹腔游離氣體；在肝硬化背景下的高 PMN 腹水更直接指向 SBP。",
       "C": "本項不選。成人腸套疊通常有腸阻塞、絞痛，且多有腫瘤當作起始點，解釋不了肝硬化徵象和感染性腹水。",
       "D": "本項不選。肝細胞癌（HCC）破裂會造成血性腹水和急性內出血；本例腹水 RBC 只有 40/mm³，反而是嗜中性球性腹水明顯。",
-      "summary": "肝硬化腹水 PMN ≥ 250/mm³ 就診斷並治療 SBP；本例約 1,063/mm³。"
+      "summary": "肝硬化腹水 PMN ≥ 250/mm³ 就診斷並治療 SBP；本例約 1,063/mm³。",
+      "approach": {
+        "k": "肝硬化、腹水、發燒、反彈痛、腹水白血球 1250、**嗜中性球 85%**",
+        "t": "腹水嗜中性球約 1060（≥250）→ **自發性細菌性腹膜炎**",
+        "x": "穿孔要有自由氣體且多菌；腸套疊不在這個情境；肝癌破裂是血性腹水"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51434,7 +51999,12 @@
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease",
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "藥物性肝傷害、**ALP 795** 明顯高、ALT 只輕升",
+        "t": "膽汁鬱積型 → **合成雄性素**（methyltestosterone，17α 烷基化）",
+        "x": "methotrexate 是脂肪肝與纖維化；isoniazid 與 acetaminophen 是肝細胞型（ALT 大升）"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51557,7 +52127,12 @@
       "summary": "酒精不需肥胖或 insulin resistance 也能造成脂肪肝；重點是戒酒＋驗 HCV RNA。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "不胖、長期喝酒、中度脂肪肝、anti-HCV 陽性，選**較不適當**的",
+        "t": "酒精性脂肪肝**不需要**肥胖或胰島素阻抗就會發生；和胰島素阻抗密切相關的是代謝性脂肪肝",
+        "x": "可能已是酒精性脂肪肝、戒酒最重要類固醇無幫助、驗 HCV RNA 並治療，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51910,7 +52485,12 @@
       "C": "本項不選。腦出血可能在高血壓、血管病變、血小板低下或抗凝血治療的情境下發生，但不是狼瘡最常見的神經精神表現。",
       "D": "本項不選。自律神經失調在部分病人會出現，但它不像認知功能障礙那樣是核心的常見表現。",
       "summary": "神經精神狼瘡最常見的是「想事情變慢」而不是中風或抽搐——因為不戲劇化，所以最常被漏掉。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "SLE 神經精神症狀**最常見**的",
+        "t": "**認知功能障礙**",
+        "x": "橫貫性脊髓炎、腦出血、自律神經失調都較少見"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -51948,7 +52528,12 @@
       "C": "正確答案。肉芽腫性多血管炎屬於 ANCA 相關血管炎，血清中驗得到 ANCA。它最典型的是 PR3-ANCA，免疫螢光呈 c-ANCA 形態。",
       "D": "本項不選。結締組織病相關的血管炎可能伴隨各式各樣的自體抗體，但不能一概說 ANCA 陽性。診斷要看原本的疾病與被侵犯的血管。",
       "summary": "四個選項裡只有 GPA 在 ANCA 相關血管炎的家族裡；川崎病與血清病都不靠 ANCA 診斷。",
-      "guideline": "FC 醫學(三)第4冊 p.84"
+      "guideline": "FC 醫學(三)第4冊 p.84",
+      "approach": {
+        "k": "血清可測到 **ANCA** 的血管炎",
+        "t": "**GPA**（多發性血管炎肉芽腫）",
+        "x": "血清病、川崎病、結締組織病相關血管炎都不是 ANCA 相關"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52024,7 +52609,12 @@
       "C": "本項應選。肉芽腫性多血管炎是自體**免疫**的小血管炎，常見 PR3-ANCA。它靠的是自體抗體，不是單基因造成的反覆發燒症候群，所以不屬於這一類。",
       "D": "本項不選。新生兒發病多系統發炎疾病（NOMID）是 CAPS 裡最嚴重的一型，與 NLRP3 發炎體活化有關。",
       "summary": "自體發炎症候群的共通點是「基因缺陷造成反覆發燒」；GPA 有自體抗體，歸在自體免疫那一邊。",
-      "guideline": "FC 醫學(三)第3冊 p.97"
+      "guideline": "FC 醫學(三)第3冊 p.97",
+      "approach": {
+        "k": "**不屬於**自體發炎疾病",
+        "t": "**GPA** 有自體抗體（ANCA），屬自體免疫",
+        "x": "TRAPS、FMF、NOMID 都是單基因反覆發燒的自體發炎疾病"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -52062,7 +52652,12 @@
       "C": "本項敘述錯誤。多發性肌炎一般不是強烈的家族遺傳疾病。反過來說，如果家族史很明顯，反而要回頭考慮是不是遺傳性肌病變。",
       "D": "正確答案。成人皮肌炎與惡性腫瘤風險增加相關，尤其在診斷前後幾年。所以確診後要依年齡、性別、症狀與風險因子安排適當的癌症篩檢。",
       "summary": "成人皮肌炎要「順便找癌」；包涵體肌炎則記高齡＋手指屈肌與股四頭肌不對稱無力。",
-      "guideline": "FC 醫學(三)第4冊 p.76"
+      "guideline": "FC 醫學(三)第4冊 p.76",
+      "approach": {
+        "k": "發炎性肌病變、選**正確**的",
+        "t": "成人**皮肌炎**與癌症相關，要篩檢惡性腫瘤",
+        "x": "包涵體肌炎好發 **50 歲以上**；皮肌炎**有**皮膚、肺等肌肉外表現；多發性肌炎沒有強烈家族遺傳"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -53530,7 +54125,12 @@
       "C": "正確答案。糖尿病透過代謝與微血管的變化增加正中神經病變與腕隧道症候群的風險，是常見的全身性危險因子。",
       "D": "本項不選。會增加腕隧道症候群風險的是甲狀腺機能**低下**——組織水腫與黏多醣沉積讓隧道更擠。題目寫成亢進，方向相反。",
       "summary": "腕隧道症候群的全身性危險因子是糖尿病與甲狀腺功能低下；職業面則看反覆手腕動作、用力抓握與振動。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腕隧道症候群的危險因子",
+        "t": "全身性危險因子：**糖尿病**、甲狀腺**低下**、懷孕、RA",
+        "x": "手舉過肩是肩部問題；手肘施力是肘部；甲狀腺**亢進**不是"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -57324,7 +57924,12 @@
       "guideline": "FC 醫學(五)第1冊 p.257",
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "星狀細胞瘤 WHO 分級、選**正確**的",
+        "t": "**I、II 級是低惡性度**；III、IV 是高惡性",
+        "x": "只有 IV 級叫 GBM；低級別存活可達多年；治療以最大安全切除為先"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57369,7 +57974,12 @@
       "concepts": [
         "intracerebral-hemorrhage-management",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "68 歲、叫不醒、嘔吐、GCS E1V1M4、血壓 196/103、深部出血",
+        "t": "自發性**高血壓性**腦出血 → 高血壓與冠心病病史相關",
+        "x": "昏迷病人不一定以偏癱表現；ICH 要適度降壓；不是外傷"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57405,7 +58015,12 @@
       "guideline": null,
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "承上（小腦出血）、選**錯誤**的",
+        "t": "小腦出血大於 3 cm 或壓迫腦幹、合併水腦要**手術移除**；類固醇**無效**",
+        "x": "可做腦室外引流、惡化會壓迫腦幹猝死、是常見自發性出血部位，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57523,7 +58138,12 @@
       "guideline": null,
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "頭骨骨折、**須馬上手術**的情況",
+        "t": "腦實質出血 35 mL＋中線偏移 >1 cm＋神智變差 → 立即減壓",
+        "x": "顏面神經麻痺與腦脊髓液漏多先保守治療"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57564,7 +58184,12 @@
       "guideline": "FC 醫學(五)第2冊 p.339",
       "concepts": [
         "congenital-melanocytic-nevus-size"
-      ]
+      ],
+      "approach": {
+        "k": "先天性黑色素細胞痣、四個敘述",
+        "t": "四句**都對**：大型 20–50 cm、巨大 >50 cm；越大越易癌化；大型易有腦膜黑色素沉著（MRI）；小型癌化多在青春期後",
+        "x": "無"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57603,7 +58228,12 @@
       "D": "本項不選。外膜含交感神經纖維，捲進管腔還會促進血栓；適度修剪能減少血管痙攣，但不能傷到血管壁。",
       "summary": "含肌肉的游離皮瓣熱缺血大約只能撐 2–3 小時。",
       "guideline": "FC 醫學(五)第2冊 p.312",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "游離皮瓣、選**錯誤**的",
+        "t": "**肌肉**熱缺血耐受只有約 **2–3 小時**；4–6 小時是皮膚或筋膜皮瓣",
+        "x": "端對端與端對側成功率差不多、粗細不同用端對側、剝除外膜減少痙攣，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57644,7 +58274,12 @@
       "guideline": "FC 醫學(五)第2冊 p.340",
       "concepts": [
         "hand-intrinsic-muscle-innervation"
-      ]
+      ],
+      "approach": {
+        "k": "手部內在肌、**不是**正中神經支配",
+        "t": "正中神經支配 **LOAF**（外側兩條蚓狀肌、對掌、外展拇短、屈拇短淺頭）；**內收拇肌**是尺神經",
+        "x": "外展拇短肌、屈拇短肌、對掌拇肌都是正中神經"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57685,7 +58320,12 @@
       "guideline": null,
       "concepts": [
         "adenoid-cystic-carcinoma-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "唾液腺腫瘤、選**錯誤**的",
+        "t": "腺樣囊狀癌的 **tubular** 型預後**最好**，**solid** 型最差",
+        "x": "占頭頸癌 <2%、多在腮腺以多形性腺瘤最多、黏液表皮樣癌最常見的惡性，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57768,7 +58408,12 @@
       "C": "本項不選。血液接觸人工表面與 nonpulsatile flow 可引發全身發炎、栓塞、coagulopathy 與 end-organ dysfunction。",
       "D": "本項不選。心臟完全停跳且肺循環由體外循環取代時，呼吸器可暫停以利手術視野；仍須由 oxygenator 負責氣體交換。",
       "summary": "CPB 流量應隨體溫與代謝需求調整；深低溫下不必維持常溫 cardiac index。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "體外循環、選**錯誤**的",
+        "t": "低溫時代謝下降，**流量可以減少**；20℃ 不需要維持 2.4 L/min/m² 的常溫流量",
+        "x": "動脈管路位置、發炎栓塞凝血器官功能的副作用、心臟停跳時呼吸器可暫停，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57806,7 +58451,12 @@
       "C": "本項不選。在治療性抗凝濃度下仍反覆發生 venous thromboembolism，可評估 IVC filter，但先須確認依從性、劑量與復發真實性。",
       "D": "本項不選。慢性血栓栓塞性肺高壓若仍有下肢栓塞來源且無法有效抗凝，可能個別考慮 filter；並非慢性 IVC 阻塞那種技術上無法放置的情境。",
       "summary": "IVC filter 用於無法抗凝或抗凝仍復發的血栓風險；慢性 IVC 完全阻塞不需且無法常規放置。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "DVT、**不需要**放 IVC filter 的",
+        "t": "慢性下腔靜脈**完全阻塞**時，血栓已經上不去，不需也無法放 filter",
+        "x": "不能抗凝、抗凝下仍復發、慢性肺栓塞合併肺高壓，都是放置適應症"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57842,7 +58492,12 @@
       "guideline": null,
       "concepts": [
         "fontaine-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Fontaine 分類、選**正確**的",
+        "t": "I 無症狀、II 間歇性跛行、**III 休息痛**、IV 潰瘍壞疽",
+        "x": "組織喪失與壞疽是 IV；跛行是 II"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57880,7 +58535,12 @@
       "C": "本項不選。膠原蛋白異常見於成骨不全或部分 Ehlers-Danlos 症候群。",
       "D": "本項應選。馬凡氏症多由 FBN1 突變造成 fibrillin-1 異常，影響微纖維與 TGF-β 調控，導致主動脈根部擴張、水晶體脫位與骨骼表現。",
       "summary": "馬凡氏症是 fibrillin-1（FBN1）缺陷，不是膠原蛋白。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Marfan syndrome 異常的蛋白",
+        "t": "**fibrillin-1**（FBN1 基因）",
+        "x": "elastin 是 Williams 症候群；collagen 是 Ehlers-Danlos 與成骨不全；metalloproteinase 不是病因"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57918,7 +58578,12 @@
       "C": "本項不選。Sutureless repair 避免縫線直接放在狹小肺靜脈口，常用於術後 pulmonary vein stenosis，也可用於高風險初次修復。",
       "D": "本項不選。Echocardiography、CT 或 MRI 通常足以定義 TAPVC anatomy；除非解剖或血流動力學仍不清楚，diagnostic catheterization 並非常規必要。",
       "summary": "TAPVC 一律需矯正；vertical vein 是否結紮須依術中血流動力學決定，不能一概保留。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "TAPVC、選**錯誤**的",
+        "t": "垂直靜脈（vertical vein）要不要保留，要依術中血流動力學決定，**不是一律保留**",
+        "x": "所有 TAPVC 都要手術、sutureless 修復用於術後再狹窄、心導管已非必要，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -57959,7 +58624,12 @@
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "**最常**合併主動脈瓣脫垂或逆流的 VSD",
+        "t": "**動脈下型**（subarterial，type I）緊貼主動脈瓣下，瓣葉被吸入缺損",
+        "x": "膜周型與肌肉型離主動脈瓣較遠，較少合併"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -59347,7 +60017,12 @@
       "guideline": null,
       "concepts": [
         "anderson-dalonzo-odontoid-classification"
-      ]
+      ],
+      "approach": {
+        "k": "齒突骨折、選**最不適當**的",
+        "t": "Anderson-D'Alonzo **Type I** 是**尖端**撕裂骨折，最少見；**Type II**（基底）最常見",
+        "x": "軸切 CT 可能漏掉水平骨折線、Type II 不癒合率高、Type III 延伸到椎體較易癒合，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -59386,7 +60061,12 @@
       "D": "本項不選。大動脈脈搏可在腔室壓升高時仍存在；pulselessness 是晚期徵象，不能拿正常脈搏排除診斷。",
       "summary": "看到劇痛加被動伸展痛，即使摸得到脈搏也要立刻想到腔室症候群；神經與肌肉先缺血，脈搏最後才消失。",
       "guideline": "FC 醫學(五)第6冊 p.176",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "前臂腔室症候群、選**最不適當**的",
+        "t": "Volkmann 攣縮時，遠端手部內在肌**也會**受影響（爪形手）",
+        "x": "被動伸展痛最敏感、神經缺血造成感覺異常、摸得到脈搏仍不能排除，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -59498,7 +60178,12 @@
       "guideline": "FC 醫學(五)第6冊 p.112",
       "concepts": [
         "flexor-tendon-pulleys"
-      ]
+      ],
+      "approach": {
+        "k": "成人扳機指、哪個滑車狹窄",
+        "t": "**A1 滑車**（掌指關節處）",
+        "x": "A2 是保留最重要的滑車；C1、C2 是十字滑車"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -63577,7 +64262,12 @@
       "summary": "疑似黃疸先確認膽紅素分型、尿膽色素和身體黃染；creatinine 不是首要檢查。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "喝酒、疲倦、尿色變深，**最不適當**的處置",
+        "t": "先確認是不是黃疸：驗膽紅素分型、尿膽素原、看鞏膜；**creatinine** 不是首要",
+        "x": "總與直接膽紅素、尿液 urobilinogen、視診鞏膜與舌下，都是第一步"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -63613,7 +64303,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "吃 thiazide、急性踝關節痛、**負雙折射針狀結晶**",
+        "t": "急性痛風 → 消炎：colchicine、NSAID、類固醇；**febuxostat** 是降尿酸藥，急性期不新開",
+        "x": "colchicine、ibuprofen、prednisolone 都是急性期用藥"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -63891,7 +64586,12 @@
       "C": "本項敘述正確。50 歲以上才新出現雷諾現象，一定要找次發原因。動脈粥狀硬化與其他阻塞性動脈疾病是高齡者的重要鑑別。",
       "D": "本項敘述正確。dihydropyridine 類鈣離子阻斷劑（例如 nifedipine 或 amlodipine）能減少血管痙攣發作，是有症狀病人的常用第一線藥。",
       "summary": "原發性雷諾是「年輕、對稱、不壞死」；一旦嚴重、不對稱或有潰瘍，就要去找背後的病。",
-      "guideline": "FC 醫學(三)第4冊 p.67"
+      "guideline": "FC 醫學(三)第4冊 p.67",
+      "approach": {
+        "k": "雷諾現象、選**錯誤**的",
+        "t": "**原發性**雷諾症狀**較輕**（年輕、對稱、不潰瘍）；次發性才嚴重",
+        "x": "常見於硬皮症、50 歲以上常因動脈硬化、可用 dihydropyridine 鈣離子阻斷劑，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64042,7 +64742,12 @@
       "summary": "HBeAg 轉陰（seroconversion）不等於清除 HBV；家族聚集提示垂直感染，HCC 家族史讓定期監測更重要。",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "B 肝帶原、ALT 正常、HBeAg 陰性 anti-HBe 陽性、家族聚集、阿姨肝癌",
+        "t": "家族聚集 → 最可能**垂直感染**",
+        "x": "HBeAg 轉陰仍有病毒；這是**非活動帶原期**不是免疫耐受期；家族史更需要每半年超音波"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64084,7 +64789,12 @@
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease",
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "膽紅素 3.6/**2.5（直接型）**、肝酵素全正常",
+        "t": "單純直接型高膽紅素 → **Dubin-Johnson**（MRP2 缺陷，肝臟變黑）",
+        "x": "Crigler-Najjar 與 Gilbert 是**間接型**；G6PD 溶血是間接型"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64244,7 +64954,12 @@
       "concepts": [
         "portal-hypertension-cirrhosis",
         "gi-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "B 肝肝硬化、內視鏡見食道靜脈瘤**正在出血**，選**錯誤**的",
+        "t": "急性出血時用**血管收縮藥＋內視鏡結紮**；非選擇性 β 阻斷劑是**穩定後**預防再出血",
+        "x": "內視鏡結紮、terlipressin 或 octreotide、注意胃靜脈瘤，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64326,7 +65041,12 @@
       "summary": "HCC 怎麼治，同時取決於腫瘤期別和背景肝儲備。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "HCC、選**正確**的",
+        "t": "治療要同時考慮腫瘤與**肝臟本身**（肝硬化程度、病毒）",
+        "x": "小 HCC 的 RFA **是**根治性治療；TACE 療效**不如**開刀；門靜脈主幹侵犯時開刀與 TACE 效果都差"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64367,7 +65087,12 @@
       "summary": "肝硬化常見腹水、肝性腦病變、食道靜脈曲張；FNH 是不相干的良性病灶。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**肝硬化常見併發症",
+        "t": "**FNH** 是年輕女性的良性病灶，和肝硬化無關",
+        "x": "肝性腦病變、腹水、食道靜脈曲張都是常見併發症"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64667,7 +65392,12 @@
       "C": "本項不選。ESR 升高而 CRP 正常可能受年齡、貧血或免疫球蛋白影響。但如果升得明顯，還是不該直接歸給纖維肌痛症。",
       "D": "正確答案。纖維肌痛症是中樞疼痛處理的問題，身體組織並沒有真的在發炎。所以在沒有合併其他疾病時，CRP 與 ESR 通常都正常。",
       "summary": "纖維肌痛症「很痛但不發炎」——發炎指數異常時就要另外找病因，不要算在它頭上。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "纖維肌痛症、CRP 與 ESR",
+        "t": "纖維肌痛**不是發炎** → **兩者皆正常**",
+        "x": "若升高要找其他病因"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64704,7 +65434,12 @@
       "concepts": [
         "arthritis-ra-oa-gout-cppd",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "RA 臨床表現、選**正確**的",
+        "t": "RA 通常**不侵犯 DIP**；DIP 受影響時多半合併**退化性關節炎**",
+        "x": "RA 是**對稱小關節**開始；**屈側**肌腱滑膜炎較常見；頸椎侵犯多在**晚期**"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64742,7 +65477,12 @@
       "C": "正確答案。多發性肌炎的肌肉切片典型是肌內膜（endomysial）發炎，CD8+ T 細胞直接攻擊表現 MHC-I 的非壞死肌纖維。血管周圍發炎也看得到，但那個形態更偏皮肌炎（血管周圍／肌束周邊）。",
       "D": "本項敘述錯誤。免疫介導壞死性肌病可以和惡性腫瘤有關，也可能與 statin 相關的 anti-HMGCR 或 anti-SRP 抗體有關。說它與腫瘤較無關並不正確。",
       "summary": "肌炎看切片位置：多發性肌炎在肌內膜（CD8+ 攻擊）、皮肌炎在血管周圍與肌束周邊。",
-      "guideline": "FC 醫學(三)第4冊 p.75"
+      "guideline": "FC 醫學(三)第4冊 p.75",
+      "approach": {
+        "k": "發炎性肌病變鑑別、選**正確**的",
+        "t": "**多發性肌炎**切片：**肌內膜**與血管周圍發炎（CD8+ T 細胞）",
+        "x": "**皮肌炎**兒童與成人都有，多發性肌炎以成人為主；包涵體肌炎**男性**多；壞死性肌病變**可能**與癌症相關"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -64821,7 +65561,12 @@
       "concepts": [
         "arthritis-ra-oa-gout-cppd",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "退化性關節炎、選**錯誤**的（官方 B、D 都給分）",
+        "t": "OA 治療先**運動與減重**、局部治療，不是九成以上都要先吃 NSAID",
+        "x": "手與髖的遺傳性較高、華人髖 OA 較少，這兩句對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -65887,7 +66632,12 @@
       "concepts": [
         "spondyloarthritis-reactive-hla",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "非淋菌性尿道炎後 4 週、膝踝薦椎關節炎、結膜炎、葡萄膜炎、掌蹠疹",
+        "t": "**反應性關節炎**（多與 Chlamydia、HLA-B27 有關）；是**無菌性**",
+        "x": "不是葡萄球菌心內膜炎與化膿性關節炎；Chlamydia 相關、多數 HLA-B27 陽性，這些都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -66419,7 +67169,12 @@
       "summary": "沿膽管分枝的強回音＋dirty shadow＋隨體位移動 ＝ pneumobilia；固定又有 clean shadow 才是肝內膽管結石。",
       "concepts": [
         "gallstones-cholecystitis-biliary-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "肝超音波：沿膽管分布的強回音、髒陰影、隨姿勢移動",
+        "t": "**氣膽**（pneumobilia，常見於膽道手術或括約肌切開後）",
+        "x": "肝內膽管結石是固定、乾淨陰影；蛔蟲是管狀構造；HCC 是實質腫塊"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -70049,7 +70804,12 @@
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "腦下垂體腫瘤、**不是**以手術為第一優先",
+        "t": "**泌乳激素瘤**先用 dopamine agonist（cabergoline）",
+        "x": "ACTH、GH、TSH 分泌腺瘤都以經蝶竇手術為第一線"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70090,7 +70850,12 @@
       "guideline": "FC 醫學(五)第1冊 p.185",
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "出血性中風照護、選**錯誤**的",
+        "t": "沒有癲癇發作**不需要**常規給予預防性抗癲癇藥",
+        "x": "血糖 <180、收縮壓控制在 140–160、注意壓瘡，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70133,7 +70898,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "CTA 影像、動脈瘤，選**正確**的",
+        "t": "這個位置是顱內動脈瘤**好發處**（Willis 環分岔處）",
+        "x": "動脈瘤不用抗血小板預防；影像位置不是中大腦動脈；從外觀無法判斷是否破裂"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70256,7 +71026,12 @@
       "guideline": "FC 醫學(五)第1冊 p.154",
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "第二級腦震盪、選**錯誤**的",
+        "t": "傳統分級：**有失去意識**是**第三級**；第二級是混亂或失憶 >15 分鐘但**沒有**失去意識",
+        "x": "1–2 週內易再受傷避免碰撞運動、易失憶、易記憶障礙與頭痛，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70297,7 +71072,12 @@
       "guideline": "FC 醫學(五)第2冊 p.340",
       "concepts": [
         "vascular-anomalies-tumor-vs-malformation"
-      ]
+      ],
+      "approach": {
+        "k": "血管腫瘤與畸形、選出**錯誤**的組合",
+        "t": "① 一歲前**不會**一半消失（多在 5–10 歲逐漸消退）；② AVM 以**栓塞加手術**為主；④ 微血管畸形**不會**萎縮消失",
+        "x": "③ 腫瘤是內皮增生、畸形是發育異常，這句正確"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70336,7 +71116,12 @@
       "D": "錯誤。頭頸部不是 glomus tumor 在本題所指手部型病灶的常見位置；手指出現小而極痛的甲下結節更具指向性。",
       "summary": "甲下小結節卻痛得很厲害、碰冷更痛時，要想到 glomus tumor。",
       "guideline": "FC 醫學(五)第2冊 p.341",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "球狀血管瘤**最常見**位置",
+        "t": "**手指**（尤其甲下），劇痛、怕冷",
+        "x": "髖、肘、頭頸都不是好發處"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70378,7 +71163,12 @@
       "guideline": "官方更正：本題答 A 或 C 均給分；C（胸大肌應為 type V）是實質錯誤",
       "concepts": [
         "mathes-nahai-muscle-flap-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Mathes-Nahai 肌肉與類型、配對**錯誤**（官方 A、C 都給分）",
+        "t": "I 是**腓腸肌**（選項寫比目魚肌名稱錯）；**胸大肌是 V 型**不是 III",
+        "x": "股薄肌 II、縫匠肌 IV，這兩組正確"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70417,7 +71207,12 @@
       "D": "錯誤。Ruby laser 主要被 melanin 吸收，常用於部分色素病灶或除毛；波長與作用目標不適合當作細紋的標準消融式換膚。",
       "summary": "想改善細紋要記住 fractional CO2：它是以水為目標的分段消融，靠膠原重塑讓皮膚變平。",
       "guideline": "FC 醫學(五)第2冊 p.341",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "拉皮後輔助去除細紋、**消融式**雷射",
+        "t": "**分段式 CO₂ 雷射**（以水為標的、刺激膠原重塑）",
+        "x": "Nd:YAG 與染料雷射是非消融、針對血管；紅寶石雷射針對色素"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70502,7 +71297,12 @@
       "D": "本項不選。沒有感染證據時不建議例行預防性全身抗生素，因為它不能預防感染且會增加抗藥性與黴菌感染風險。",
       "summary": "火場煙霧加臉部燻黑時，先看氣道、早期決定是否插管；早期正常胸片不能排除吸入性灼傷。",
       "guideline": "FC 醫學(五)第1冊 p.92",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "火場煙霧、臉部燻黑有水泡，選**錯誤**的",
+        "t": "吸入性灼傷早期**胸部 X 光常正常**；確診要靠**支氣管鏡**，不是 CT",
+        "x": "吸入性灼傷是主要死因、上呼吸道水腫意識清楚也要考慮插管、不建議預防性抗生素，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70543,7 +71343,12 @@
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification"
-      ]
+      ],
+      "approach": {
+        "k": "主動脈剝離、選**錯誤**的",
+        "t": "Stanford 分類是看**有沒有侵犯升主動脈**，不是看內膜破口位置",
+        "x": "侵犯主動脈根部造成急性 AR、A 型緊急開刀防破裂、B 型無灌流不足先藥物控制，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70584,7 +71389,12 @@
       "guideline": null,
       "concepts": [
         "endoleak-classification"
-      ]
+      ],
+      "approach": {
+        "k": "EVAR endoleak、選**錯誤**的",
+        "t": "Type I 是近端**或遠端**接觸區封口不良；Type III 是**組件分離或支架破損**",
+        "x": "Type I 近端、Type II 腰動脈或 IMA 逆流、Type IV 布料孔隙，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70622,7 +71432,12 @@
       "C": "本項不選。肌肉壞死讓肌酸激酶大幅上升，是橫紋肌溶解的重要指標。",
       "D": "本項不選。受損肌肉釋出肌紅蛋白，造成深色尿與急性腎損傷；被動牽拉劇痛加小腿緊繃，支持腔室症候群。",
       "summary": "再灌流後橫紋肌溶解：高鉀、CK 上升、肌紅蛋白尿，急性期是低鈣。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性下肢缺血重建後 2 小時、小腿緊繃、被動伸展劇痛",
+        "t": "再灌流腔室症候群＋橫紋肌溶解 → 高鉀、CK 上升、肌紅蛋白尿；鈣是**下降**（沉積在壞死肌肉）",
+        "x": "高血鉀、CK 上升、肌紅蛋白尿都會發生"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70663,7 +71478,12 @@
       "guideline": null,
       "concepts": [
         "acyanotic-shunt-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "心房中隔缺損、選**錯誤**的",
+        "t": "**靜脈竇型** ASD 合併的是**部分肺靜脈回流異常**；合併二尖瓣裂與逆流的是**原發孔型**",
+        "x": "40 歲以上做心導管、固定肺血管阻力 >12 Wood units 不能關、青春期前女性不適合右前側開胸（影響乳房），三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -70696,7 +71516,12 @@
       "C": "本項應選。8 個月大嬰兒瓣環太小，機械瓣不會跟著長大，還要終身吃 warfarin，是最不適合的初始選擇。",
       "D": "本項不選。Ross 手術用自己的肺動脈瓣取代主動脈瓣，能隨孩子長大、不用長期抗凝；但手術複雜，肺動脈位置要放人工導管。",
       "summary": "嬰兒主動脈瓣狹窄先保留原生瓣；機械瓣不會長大又要抗凝，最不適合。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "8 個月男嬰主動脈瓣狹窄、壓力差 60、插管",
+        "t": "嬰兒要保留原生瓣或用會長大的組織；**機械瓣**不會長大又要終身抗凝，最不適合",
+        "x": "氣球擴張、直視瓣膜切開、Ross 手術（肺動脈瓣會長大）都適合嬰兒"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -76737,7 +77562,12 @@
       "summary": "aminotransferase ＞1,000 IU/L 先想缺血、藥物毒物、急性病毒或嚴重自體免疫肝炎；脂肪性肝炎很少這麼高。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "**較不會**出現 ALT/AST >1000",
+        "t": "脂肪性肝炎通常只輕到中度升高",
+        "x": "自體免疫肝炎急性發作、缺血性肝炎（休克肝）、藥物性肝炎都可以 >1000"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -76959,7 +77789,12 @@
       "summary": "高風險背景（肝硬化或慢性 B／C 肝）＋病灶「動脈相增強、後期 washout」＝ 可免切片診斷 HCC。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "**不用切片**就能診斷 HCC 的情況",
+        "t": "高危險背景（肝硬化或慢性 B/C 肝）＋腫瘤 ≥1 cm、**動脈相增強、靜脈相 washout**",
+        "x": "脂肪肝不是高危險背景；動靜脈相都增強不是 washout；動脈相無增強不符合"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77042,7 +77877,12 @@
       "concepts": [
         "portal-hypertension-cirrhosis",
         "edema-approach"
-      ]
+      ],
+      "approach": {
+        "k": "肝硬化腹水、Na 130、albumin 2.6",
+        "t": "**限鈉 2 g/天**＋spironolactone 加 furosemide；鈉 ≥125 通常不必嚴格限水（本選項限水 1.5 L 可接受）",
+        "x": "補鈉 4 g 會讓腹水更多；打生理食鹽水同樣加重腹水"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77367,7 +78207,12 @@
       "guideline": "FC 醫學(三)第4冊 p.116",
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "CPPD、選**最適當**的",
+        "t": "常侵犯**膝**；偏光下**菱形或棒狀、弱正雙折射**結晶",
+        "x": "好發**老年人**；**與**原發性副甲狀腺亢進**有關**；軟骨鈣化是 CPPD 的特徵，痛風少見"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77400,7 +78245,12 @@
       "C": "本項不選。皮下鈣化是**侷限型**（CREST）的典型表現之一，不是瀰漫型較常見。",
       "D": "本項不選。硬皮症腎危象較常見於早期的瀰漫型，尤其皮膚快速進展、帶 anti-RNA polymerase III 抗體，或用了高劑量類固醇的人。",
       "summary": "瀰漫型要怕的是肺（快速 ILD）與腎（腎危象）；侷限型的招牌是鈣化與晚發的肺動脈高壓（PAH）。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "瀰漫型 vs 侷限型全身性硬化症、選**最適當**的",
+        "t": "**瀰漫型**較常出現**快速進展的間質性肺病**（與腎危象）",
+        "x": "關節攣縮較多見於瀰漫型；皮下鈣化多見於侷限型；腎危象多見於瀰漫型"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77433,7 +78283,12 @@
       "C": "正確答案。tocilizumab 阻斷 IL-6 受體，可以和類固醇減量合併使用，有明確的類固醇節省效果。這是巨細胞動脈炎近年治療上最重要的進展。",
       "D": "本項不選。它與風濕性多肌痛（polymyalgia rheumatica, PMR）的重疊相當常見，比例遠高於 5%。反過來說，風濕性多肌痛的病人也要留意巨細胞動脈炎的症狀。",
       "summary": "巨細胞動脈炎＝高齡女性的大血管炎，常與風濕性多肌痛重疊；tocilizumab 讓類固醇減得下來。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "巨細胞動脈炎、選**最適當**的",
+        "t": "可用 **tocilizumab**（IL-6 受體抗體）減少類固醇",
+        "x": "多在 **50 歲以上**；**女性**較多；約 **40–50%** 合併風濕性多肌痛"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77471,7 +78326,12 @@
       "C": "本項不選。prednisolone 0.5 mg/kg daily 不適合當慢性蕁麻疹的長期控制。全身性類固醇頂多在嚴重急性惡化時短期使用。",
       "D": "本項不選。膨疹是真皮肥大細胞釋放介質造成的，而且會跑位置、幾小時就消退。外用超強效類固醇 clobetasol 追不上它，還會帶來皮膚副作用。",
       "summary": "慢性蕁麻疹第一線是規律吃第二代抗組織胺；要開車的人尤其不能用會嗜睡的第一代。",
-      "guideline": "FC 醫學(三)第4冊 p.124"
+      "guideline": "FC 醫學(三)第4冊 p.124",
+      "approach": {
+        "k": "計程車司機、6 個月傍晚奇癢膨疹、找不到原因",
+        "t": "慢性自發性蕁麻疹 → 規律服用**第二代**抗組織胺（desloratadine）",
+        "x": "diphenhydramine 會嗜睡，開車危險；口服類固醇不宜長期；局部強效類固醇對蕁麻疹無用"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -77513,7 +78373,12 @@
       "concepts": [
         "sle-2019-eular-acr-classification",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "22 歲、發燒、多關節炎、三系血球低、**蛋白尿 3.8 g**、雙側肋膜積水",
+        "t": "懷疑 SLE → ANA、抗磷脂抗體、**腎臟切片**（決定狼瘡腎炎分級與治療）；肺部 CT 對確診沒有幫助",
+        "x": "ANA、抗磷脂抗體、腎切片都有確診價值"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -78449,7 +79314,12 @@
       "guideline": "FC 醫學(三)第2冊 p.310",
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "高尿酸血症、選**最不適當**的",
+        "t": "**無症狀**高尿酸**不需要**一律給降尿酸藥",
+        "x": "代謝症候群常伴高尿酸、急性大量上升可致急性腎衰竭、長期偏高可造成結石，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -79109,7 +79979,12 @@
       "summary": "肝血管瘤的經典影像 ＝ 周邊結節狀增強、之後向心（centripetal）填充。",
       "concepts": [
         "benign-liver-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "肝血管瘤**最典型**影像",
+        "t": "CT **周邊結節狀增強、向中央填充**",
+        "x": "早期 washout 是 HCC；血管瘤 T1 低訊號、**T2 很亮**"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -82778,7 +83653,12 @@
       "guideline": "FC 醫學(五)第1冊 p.255",
       "concepts": [
         "simpson-resection-grade"
-      ]
+      ],
+      "approach": {
+        "k": "腦膜瘤、選**正確**的",
+        "t": "切除程度用 **Simpson 分級**",
+        "x": "源自蜘蛛網膜帽細胞（只是 dural-based）；多發性約 **<10%**；放療在復發或殘留時有角色"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82819,7 +83699,12 @@
       "guideline": "FC 醫學(五)第1冊 p.256",
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "膠質瘤 WHO 分級顯微特徵、**不包括**",
+        "t": "分級看**細胞密度、多形性、有絲分裂、壞死、血管增生**；鈣化不是",
+        "x": "細胞密度、多形性、壞死都是分級依據"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82862,7 +83747,12 @@
         "hunt-hess-scale",
         "fisher-grade",
         "wfns-sah-grade"
-      ]
+      ],
+      "approach": {
+        "k": "動脈瘤破裂預後量表、選**正確**的",
+        "t": "**WFNS** 以 GCS 為基礎加上有無運動缺損",
+        "x": "Hunt-Hess 0 是**未破裂**動脈瘤；Fisher 看 **CT** 出血量；GCS 與預後**相關**"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82904,7 +83794,12 @@
       "concepts": [
         "asia-impairment-scale",
         "central-cord-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "頸椎狹窄、車禍、上肢 1–2 分、**下肢 3–4 分**",
+        "t": "上肢比下肢弱 → **central cord**；損傷平面以下多數關鍵肌 ≥3 分 → **ASIA D**",
+        "x": "B 是只有感覺；C 是多數關鍵肌 <3 分；E 是正常；前脊髓症候群是運動全喪失"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82945,7 +83840,12 @@
       "guideline": "FC 醫學(五)第1冊 p.165",
       "concepts": [
         "monro-kellie-doctrine"
-      ]
+      ],
+      "approach": {
+        "k": "**不會**造成腦壓升高",
+        "t": "**降低 PaCO₂** 讓腦血管收縮 → 腦血量減少 → 腦壓**下降**",
+        "x": "蛛網膜下腔出血、阻塞性水腦症、腦實質出血都增加顱內體積"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -82986,7 +83886,12 @@
       "guideline": "FC 醫學(五)第1冊 p.274",
       "concepts": [
         "hydrocephalus-chiari-functional-neurosurgery"
-      ]
+      ],
+      "approach": {
+        "k": "腦膨出、選**錯誤**的",
+        "t": "膨出的腦組織多半**發育不良、無功能**，手術常予以切除並修補缺損，不是硬回置",
+        "x": "多在中線、顱底膨出少見、常合併智力障礙，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83027,7 +83932,12 @@
       "guideline": "FC 醫學(五)第2冊 p.309",
       "concepts": [
         "mathes-nahai-muscle-flap-classification"
-      ]
+      ],
+      "approach": {
+        "k": "闊背肌皮瓣屬於哪一型",
+        "t": "**Type V**：一條主血管（胸背動脈）加多條節段血管",
+        "x": "II 是股薄肌；III 是腹直肌；IV 是縫匠肌"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83106,7 +84016,12 @@
       "guideline": "FC 醫學(五)第2冊 p.338",
       "concepts": [
         "angle-occlusion-classification"
-      ]
+      ],
+      "approach": {
+        "k": "正顎手術矯正後的標準",
+        "t": "**Angle Class I**：上下第一大臼齒關係正常",
+        "x": "II 是下顎後縮；III 是下顎前突；沒有 Class IV"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83140,7 +84055,12 @@
       "D": "本項不選。鎖骨上皮瓣由鎖骨上動脈供應，皮瓣薄，可轉到臉部或頸部外側。",
       "summary": "胸大肌肌皮瓣靠胸肩峰動脈，是頭頸重建的救援皮瓣。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "頭頸部重建、選**錯誤**的",
+        "t": "胸大肌肌皮瓣的血管是**胸肩峰動脈**（thoracoacromial artery），不是內乳動脈",
+        "x": "頦下皮瓣來自顏面動脈分支、胸大肌皮瓣可做大血管暴露的救援、鎖骨上皮瓣來自鎖骨上動脈，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83224,7 +84144,12 @@
       "C": "本項不選：plaque rupture 後形成 thrombus 正是 acute coronary syndrome 的常見機轉，所以 C 不會是錯項。不穩定斑塊破裂或糜爛會活化血小板，讓冠狀動脈血流突然下降。",
       "D": "本項可選：把 digoxin 說成降低死亡率是本題錯誤處。它可改善射出分率下降心衰竭的症狀或減少住院，但沒有足夠存活效益證據；能改善存活的是 guideline-directed therapy。",
       "summary": "看到 digoxin 要記得：它可減少心衰竭住院，卻不是降低死亡率的藥。",
-      "guideline": "FC 醫學(五)第2冊 p.46"
+      "guideline": "FC 醫學(五)第2冊 p.46",
+      "approach": {
+        "k": "冠狀動脈疾病、選**錯誤**的",
+        "t": "digoxin 能減少心衰竭**住院**，但**沒有**降低死亡率",
+        "x": "戒菸是 class I、CABG 後盡早加 β 阻斷劑、ACS 機轉是斑塊破裂與血栓，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83262,7 +84187,12 @@
       "C": "本項可選：左心房心房中隔的心臟黏液瘤（myxoma）最符合題意。超過半數黏液瘤典型附著在卵圓窩附近；它可阻塞二尖瓣口，也可能造成全身性栓塞。",
       "D": "本項不適當。經胸或經食道心臟超音波（echocardiography）通常是偵測心臟腫瘤的第一線工具，能即時看出腫瘤位置、活動度與血流阻塞；CT 是補充評估範圍的工具。",
       "summary": "左心房中隔的活動性腫瘤先想 myxoma；有栓塞或阻塞症狀時重點是切除。",
-      "guideline": "FC 醫學(五)第2冊 p.128"
+      "guideline": "FC 醫學(五)第2冊 p.128",
+      "approach": {
+        "k": "心臟腫瘤、選**最適當**的",
+        "t": "黏液瘤超過一半長在**左心房中隔**（卵圓窩附近）",
+        "x": "原發性心臟腫瘤**良性**多於惡性；有栓塞要**切除**而非抗凝；診斷首選是**心臟超音波**"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83303,7 +84233,12 @@
       "guideline": "FC 醫學(五)第2冊 p.36",
       "concepts": [
         "crawford-thoracoabdominal-aneurysm-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Crawford 分類、從左鎖骨下動脈到腎動脈**以下**",
+        "t": "範圍最廣的 **Type II**",
+        "x": "I 從左鎖骨下到腎動脈以上；III 從第六肋間到腎動脈以下；IV 從橫膈以下的腹主動脈"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83341,7 +84276,12 @@
       "C": "本項不是最常用工具。靜脈攝影曾是診斷參考標準，但要穿刺並注射顯影劑，可能引起腎損傷或誘發血栓，現在多由超音波取代。",
       "D": "本項不是最常用工具。阻抗容積描記術只間接量肢體容積變化，對小腿或無症狀血栓的表現不如壓迫超音波可靠。",
       "summary": "懷疑 DVT，先做 compression duplex ultrasound；看得到血栓、壓不扁靜脈就是關鍵。",
-      "guideline": "FC 醫學(五)第2冊 p.111"
+      "guideline": "FC 醫學(五)第2冊 p.111",
+      "approach": {
+        "k": "診斷 DVT **最常用**的工具",
+        "t": "**杜卜勒加壓超音波**：靜脈壓不扁、看到血栓",
+        "x": "MRV 與靜脈攝影不是第一線；阻抗容積描記已少用"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83379,7 +84319,12 @@
       "C": "本項可選：Ross 手術特別適合年老病人的說法是本題錯誤處。它以自己的肺動脈瓣取代主動脈瓣，不需長期 warfarin 且可隨生長，主要考慮年輕患者。",
       "D": "本項不選：DOAC 不建議用於機械瓣是正確敘述，D 不會是錯項。dabigatran、rivaroxaban 不能取代 warfarin，因機械瓣病人使用 dabigatran 曾出現較多血栓與出血。",
       "summary": "Ross 手術的價值在年輕人免長期 warfarin；機械瓣的抗凝仍是 warfarin，不是 DOAC。",
-      "guideline": "FC 醫學(五)第2冊 p.98"
+      "guideline": "FC 醫學(五)第2冊 p.98",
+      "approach": {
+        "k": "心臟瓣膜選擇、選**錯誤**的",
+        "t": "Ross 手術是讓**年輕人**避開長期抗凝，技術複雜，**不適合老年人**",
+        "x": "主動脈瓣 >65 歲或二尖瓣 >70 歲選生物瓣、機械瓣用 PT/INR 監測 warfarin、機械瓣不能用 NOAC，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -83417,7 +84362,12 @@
       "C": "本項不選：這是合理的根治方向。arterial switch operation 會把大血管接回正確心室，是單純大動脈轉位的標準矯正手術，通常在新生兒早期完成。",
       "D": "本項不選：這是合理的橋接處置。若房間隔混合不足而發紺嚴重，可用 balloon atrial septostomy 擴大 ASD，讓氧合與去氧血混合，爭取手術前穩定時間。",
       "summary": "單純大動脈轉位靠血液混合活命：PGE1 保 PDA 開放，必要時 balloon atrial septostomy。",
-      "guideline": "FC 醫學(五)第2冊 p.74"
+      "guideline": "FC 醫學(五)第2冊 p.74",
+      "approach": {
+        "k": "1 天大、單純大動脈轉位（無 VSD）、血氧 60%，**最不合**常規的",
+        "t": "單純 TGA 靠 **PDA 與心房中隔**混血活命 → **不能停 PGE1**，也不能拖到 2 週後",
+        "x": "插管輸液、進行動脈轉位手術、心房中隔氣球擴張術，都合乎常規"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -84948,7 +85898,12 @@
       "guideline": "FC 醫學(五)第6冊 p.114",
       "concepts": [
         "digit-replantation-indications"
-      ]
+      ],
+      "approach": {
+        "k": "斷指再接、**最不適當**的適應症",
+        "t": "**單指多段截斷**結構破壞廣、功能預後差",
+        "x": "拇指、多指、小孩斷指都是強適應症"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -85564,7 +86519,12 @@
       "C": "本項可選：最正確。傷口附近聽到雜音代表可能有動靜脈廔管或部分血管損傷，是血管受傷的 soft sign；應儘快由血管外科評估並安排適當影像。",
       "D": "本項不正確。噴射性出血應先直接加壓、使用止血帶或傷口填塞控制；盲目以器械夾住血管可能夾傷神經或擴大血管破裂。",
       "summary": "穿刺傷聽到 bruit 要想動靜脈血管傷；先壓迫止血，別在傷口裡盲夾血管。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "穿刺性肢體受傷、選**最正確**的",
+        "t": "傷處聽到**雜音**（bruit）→ 可能動靜脈瘻或血管傷，要照會血管外科",
+        "x": "下肢比上肢更常傷血管；神經傷不等於血管傷；噴血要**直接壓迫**，不要在傷口裡盲夾"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -89448,7 +90408,12 @@
       "summary": "AIH 的核心是免疫耐受失衡、Treg 抑制功能不足，不是 Treg 活性上升。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "自體免疫肝炎病理機轉、選**錯誤**的",
+        "t": "自體免疫肝炎是調節性 T 細胞**功能不足**，失去免疫耐受",
+        "x": "壞死發炎合併纖維化、CTLA-4 或 TNFA*2 多形性、ANA 與 anti-LKM，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -89722,7 +90687,12 @@
       "summary": "本題官方一律給分；但醫學上靜脈曲張出血＝失代償，且 NSBB 可預防出血，四項不能照題面全當對。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "胃食道靜脈曲張處理（官方四個都給分）",
+        "t": "醫學上：約一半新診斷肝硬化已有靜脈曲張；NSBB 可預防出血；**靜脈曲張出血本身就是失代償**",
+        "x": "本題官方送分；靜脈曲張通常在腹水之前就可能出現"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90074,7 +91044,12 @@
       "C": "本項敘述錯誤。血中 IgG4 可以是正常的，就算升高，敏感度與特異性也都不夠，而且濃度不會跟每個病人的器官損傷成線性關係。「大於 90%」講得太滿。",
       "D": "本項敘述錯誤。它通常是亞急性的纖維發炎疾病，不是大量 IgG4 直接活化 T 細胞造成急性器官破壞。治療也不是一律大量類固醇，要依受累器官與復發風險選擇類固醇或 rituximab。",
       "summary": "IgG4 相關疾病是「慢慢纖維化」不是急性破壞；血中 IgG4 不能單獨確診，也量不出嚴重度。",
-      "guideline": "FC 醫學(三)第4冊 p.138"
+      "guideline": "FC 醫學(三)第4冊 p.138",
+      "approach": {
+        "k": "IgG4 相關疾病、選**最適當**的",
+        "t": "可侵犯**眼眶周圍**組織，常合併過敏與嗜酸性球增多",
+        "x": "病理有大量 **IgG4 漿細胞**與淋巴球浸潤、席紋狀纖維化；血中 IgG4 只約六到七成升高、不等於嚴重度；病程是**慢性纖維化**"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90116,7 +91091,12 @@
       "concepts": [
         "synovial-fluid-classification",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲、膝關節液**黏稠**、白血球 100、單核球為主",
+        "t": "**非發炎性**關節液（<2000）→ **退化性關節炎**",
+        "x": "反應性關節炎與 RA 是發炎性（2000–50000）；化膿性 >50000 且以嗜中性球為主"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90157,7 +91137,12 @@
       "guideline": "FC 醫學(三)第4冊 p.48",
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "RA 關節外表現**最常見**的",
+        "t": "**骨質疏鬆**（疾病本身加類固醇）",
+        "x": "高雄性素不是；肺動脈高壓少見；脊椎問題在**頸椎**不在腰椎"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90198,7 +91183,12 @@
       "guideline": "FC 醫學(三)第4冊 p.48",
       "concepts": [
         "spondyloarthritis-reactive-hla"
-      ]
+      ],
+      "approach": {
+        "k": "疾病與 HLA、相關性**最高**",
+        "t": "**RA–HLA-DR4**",
+        "x": "B*58:01 是 allopurinol 過敏；B*15:02 是 carbamazepine 過敏；乾燥症是 DR3"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90234,7 +91224,12 @@
       "guideline": null,
       "concepts": [
         "hereditary-angioedema-diagnostic-profile"
-      ]
+      ],
+      "approach": {
+        "k": "反覆喉頭水腫、腹痛腹水、手腳腫，**從不起蕁麻疹**",
+        "t": "**遺傳性血管性水腫**（C1 抑制劑缺乏、緩激肽）→ 驗 C4、C1-INH；可用 danazol 預防",
+        "x": "**total IgE** 與組織胺過敏無關，對病情沒有幫助"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -90793,7 +91788,12 @@
       "concepts": [
         "anaphylaxis-clinical-criteria",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "化療輸注 10 分鐘後皮疹、嘴唇腫、呼吸困難、血壓下降",
+        "t": "**過敏性休克** → 立即**肌注 epinephrine**，再加抗組織胺、類固醇",
+        "x": "不是敗血性休克；插管視需要但不是第一步；類固醇起效慢"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -95490,7 +96490,12 @@
       "guideline": "FC 醫學(五)第1冊 p.254",
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "腦轉移**最常見**的原發",
+        "t": "**肺癌**",
+        "x": "乳癌第二、黑色素癌最易轉移到腦但總數少、腎臟癌較少"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95531,7 +96536,12 @@
       "guideline": "FC 醫學(五)第1冊 p.255",
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "好發年齡**最小**的腦瘤",
+        "t": "**髓母細胞瘤**（約 5–9 歲兒童）",
+        "x": "松果體細胞瘤、中樞神經細胞瘤、神經節膠質瘤多在青少年到年輕成人"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95572,7 +96582,12 @@
       "guideline": "FC 醫學(五)第1冊 p.192",
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "海綿狀血管畸形、選**正確**的",
+        "t": "常以**癲癇**表現",
+        "x": "血管攝影**看不到**（低流量），要用 MRI；Spetzler-Martin 是 AVM 的分級；出血多半不致命"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95613,7 +96628,12 @@
       "guideline": "FC 醫學(五)第1冊 p.218",
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy"
-      ]
+      ],
+      "approach": {
+        "k": "L5 神經根、選**正確**的",
+        "t": "L5 支配**脛前肌**與伸拇長肌，病變造成**垂足**",
+        "x": "L5 從 L5 椎莖下方出孔（L4–5 椎間盤壓到的是走行根 L5）；感覺在小腿外側與足背；膝反射是 L3–4"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95654,7 +96674,12 @@
       "guideline": "FC 醫學(五)第1冊 p.153",
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "GCS 13、額葉腦出血 10 mL，**最不適當**的處置",
+        "t": "小血腫、沒有明顯占位效應 → 保守治療與追蹤，**不需要**立即開顱",
+        "x": "預防性抗癲癇（外傷早期）、PCO₂ 35–40、收縮壓 ≥100，都適當"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95693,7 +96718,12 @@
       "D": "錯誤。單純舟形頭不常合併水腦症。顱內壓升高與水腦症較需留意於多縫線早閉或特定 syndromic craniosynostosis。",
       "summary": "頭又長又窄就是矢狀縫線早閉的 scaphocephaly；不要把它和有中臉缺陷、眼凸的 syndromic craniosynostosis 混在一起。",
       "guideline": "FC 醫學(五)第1冊 p.274",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "舟形頭、選**正確**的",
+        "t": "舟形頭是**矢狀縫**早閉，多為非症候群型 → **不常**合併上頷發育不全",
+        "x": "冠狀縫早閉是前斜頭或短頭；眼球突出與中臉發育不全見於症候群型（Crouzon）；水腦症不常見"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95734,7 +96764,12 @@
       "guideline": "FC 醫學(五)第6冊 p.109",
       "concepts": [
         "finger-extensor-deformities"
-      ]
+      ],
+      "approach": {
+        "k": "遠端伸直肌腱斷裂",
+        "t": "**Mallet finger**（DIP 垂下伸不直）",
+        "x": "swan-neck 是慢性 mallet 或掌板鬆弛的後果；boutonnière 是中央束斷裂；gamekeeper 是拇指尺側副韌帶"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95768,7 +96803,12 @@
       "D": "本項不選。筋膜皮瓣的標準分類是 A、B、C 三類。",
       "summary": "橈動脈前臂皮瓣＝筋膜皮瓣 B 類（一條直接供應皮膚的血管）。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "橈動脈前臂皮瓣、筋膜皮瓣分類",
+        "t": "**B 類**：一條**直接**供應皮膚的隔膜皮膚血管",
+        "x": "A 是多條穿通枝；C 是沿隔膜的多條節段穿通枝；D 是骨筋膜皮瓣"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95881,7 +96921,12 @@
       "guideline": "FC 醫學(五)第6冊 p.102",
       "concepts": [
         "pressure-injury-staging"
-      ]
+      ],
+      "approach": {
+        "k": "臥床、臀部壓瘡、壞死**深及骨頭**",
+        "t": "見到骨頭 → **Stage IV**；清創後用有血流、能填死腔的**臀大肌皮瓣**",
+        "x": "Stage II 只到真皮；III 到皮下；沒有 Stage V；直接縫合或植皮在骨頭上不會存活"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95922,7 +96967,12 @@
       "guideline": "FC 醫學(五)第2冊 p.99",
       "concepts": [
         "valvular-murmurs"
-      ]
+      ],
+      "approach": {
+        "k": "二尖瓣閉鎖不全、選**錯誤**的",
+        "t": "二尖瓣逆流是**全收縮期**雜音，從心尖傳到腋下；不是舒張期",
+        "x": "黏液樣退化、風濕、心內膜炎是原因；慢性可代償無症狀；X 光肺水腫與左房擴大，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95955,7 +97005,12 @@
       "C": "本項較不適合。末期腎病常需保留上肢血管作透析通路，且雙側內乳動脈可能影響鎖骨下動脈狹窄或透析廔管相關灌流，須格外謹慎。",
       "D": "本項較不適合。90 歲且 HbA1c 8.0% 代表高齡與血糖控制不佳，使用雙側內乳動脈增加傷口併發症，較難換取足夠的長期效益。",
       "summary": "雙側內乳動脈要挑能享受長期通暢率、又沒有高胸骨感染風險的較年輕病人。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最適合**用雙側內乳動脈的病人",
+        "t": "60 歲、沒有糖尿病與肥胖 → 胸骨感染風險低，又能享受長期通暢",
+        "x": "BMI 35 加糖尿病傾向胸骨感染；末期腎病且雙手血壓差 50（鎖骨下狹窄，內乳血流不足）；90 歲加糖尿病控制差"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -95996,7 +97051,12 @@
       "guideline": "FC 醫學(五)第2冊 p.112",
       "concepts": [
         "acute-limb-ischemia-6p"
-      ]
+      ],
+      "approach": {
+        "k": "急性肢體缺血**最常見**原因",
+        "t": "**心源性栓子**（心房顫動最常見）",
+        "x": "頸動脈阻塞造成中風；先天血管異常與腔隙性腦梗塞和肢體缺血無關"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96034,7 +97094,12 @@
       "C": "本項不選：這是合理的手術考量。無症狀男性 AAA 達 5.5 cm 時，預期破裂風險已足以超過選擇性手術風險，通常建議修復。",
       "D": "本項不選：這是合理的手術考量。女性 AAA 的破裂直徑較小；在手術風險低且解剖條件合適時，4.5 cm 已可個別化討論修復。",
       "summary": "AAA 不只看直徑：有症狀就要處理；無症狀男性多以 5.5 cm、女性較早介入作判斷。",
-      "guideline": "FC 醫學(五)第2冊 p.36"
+      "guideline": "FC 醫學(五)第2冊 p.36",
+      "approach": {
+        "k": "腹主動脈瘤開刀適應症、**最不適當**的",
+        "t": "一年長 0.5 cm（4→4.5）**未達**快速擴大的門檻（1 cm/年或半年 0.5 cm）、直徑也未達 5.5 cm",
+        "x": "有症狀、男性無症狀 5.5 cm、女性 4.5–5 cm 且手術風險低，都可考慮手術"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96072,7 +97137,12 @@
       "C": "本項不選。全矯正後仍可能有左側房室瓣逆流或右側房室瓣問題，因為 AVSD 的核心病灶正是共同房室瓣發育異常。",
       "D": "本項不選。Rastelli A、B、C 分類依共同房室瓣的腱索與心室中隔缺損邊緣的關係，描述 complete AVSD 的瓣膜解剖。",
       "summary": "Complete AVSD 不是單純 ASD 加 VSD；共同房室瓣與偏移的傳導系統才是手術陷阱。",
-      "guideline": "FC 醫學(五)第2冊 p.75"
+      "guideline": "FC 醫學(五)第2冊 p.75",
+      "approach": {
+        "k": "完全型房室中隔缺損、選**錯誤**的",
+        "t": "AVSD 的房室結與傳導系統位置**往下後方移位**，和單純 ASD/VSD **不同**，手術易傷到",
+        "x": "早期心衰竭可先肺動脈窄縮、和單純缺損不同、瓣膜依 Rastelli 分 A/B/C，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -96110,7 +97180,12 @@
       "C": "本項不是答案。IVC cannula 與 SVC cannula 共同建立 bicaval venous drainage，可避免血液流入右心房干擾房室瓣手術。",
       "D": "正確。肺動脈不是一般二尖瓣置換或三尖瓣手術建立心肺機時的常規引流位置；只有特殊右心或肺動脈手術才可能處理該血管。",
       "summary": "房室瓣手術的標準體外循環是 aorta 回輸、SVC/IVC 引流；肺動脈通常不放 cannula。",
-      "guideline": "FC 醫學(五)第2冊 p.129"
+      "guideline": "FC 醫學(五)第2冊 p.129",
+      "approach": {
+        "k": "二尖瓣與三尖瓣手術、體外循環**較少**放管路的位置",
+        "t": "標準：**主動脈**回輸，**上、下腔靜脈**分開引流；**肺動脈**通常不放",
+        "x": "主動脈、上腔靜脈、下腔靜脈都是標準插管位置"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -97483,7 +98558,12 @@
       "concepts": [
         "trauma-primary-survey-abcde",
         "central-cord-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "頸椎損傷、選**最適當**的",
+        "t": "最常見原因是車禍；緊急處理先 **ABC**（同時保護頸椎）",
+        "x": "**下**頸椎較易合併脊髓損傷；central cord 是**老人過伸**；最常見的不完全損傷是 central cord，不是後柱"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -97636,7 +98716,12 @@
       "guideline": "FC 醫學(五)第6冊 p.102",
       "concepts": [
         "carpal-tunnel-contents"
-      ]
+      ],
+      "approach": {
+        "k": "**不在**腕隧道內的肌腱",
+        "t": "腕隧道：正中神經＋**FPL＋4 條 FDS＋4 條 FDP**；**FCU** 在外面（附著豌豆骨）",
+        "x": "FPL、食指 FDS、無名指 FDP 都在腕隧道內"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -98205,7 +99290,12 @@
       "guideline": "FC 醫學(五)第1冊 p.153",
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "車禍、意識模糊、嘔吐、**熊貓眼、耳漏澄清液**",
+        "t": "顱底骨折 → **禁止放鼻胃管**（可能穿入顱內），改口胃管",
+        "x": "準備插管、用 etomidate 輔助、安排頭部 CT，都適當"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -101683,7 +102773,12 @@
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease",
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲疝氣術後黃疸、膽紅素 4.1，**最不可能**的",
+        "t": "Crigler-Najjar **第一型**在新生兒期就有嚴重黃疸（核黃疸），不會 30 歲才第一次出現",
+        "x": "Gilbert 在手術、禁食壓力下發作很典型；腹腔感染與溶血也可能"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102141,7 +103236,12 @@
       "summary": "年輕人動作障礙＋肝功能異常想 Wilson disease：看得到 Kayser–Fleischer ring 和 hepatolenticular degeneration。",
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "大學女生流涎、僵硬、震顫、肝功能異常、病毒陰性",
+        "t": "**Wilson disease** → 角膜 **Kayser-Fleischer ring**、病理肝豆狀核退化",
+        "x": "①猛爆性 Wilson 血中銅是**升高**；② zinc 與 trientine **可以**在懷孕期使用"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102358,7 +103458,12 @@
       "B": "本項不選。prothrombin time 延長（或 INR）是 CTP 的合成功能項目。",
       "C": "本項不選。hepatic encephalopathy 依臨床嚴重度分級，是 CTP 的主觀項目之一。",
       "D": "正確答案。ALT 反映的是肝細胞受損程度，不代表肝儲備功能，所以沒被納入 CTP score。",
-      "summary": "CTP 五項 ＝ bilirubin、albumin、PT／INR、ascites、hepatic encephalopathy；不含 ALT。"
+      "summary": "CTP 五項 ＝ bilirubin、albumin、PT／INR、ascites、hepatic encephalopathy；不含 ALT。",
+      "approach": {
+        "k": "Child-Turcotte-Pugh **不包含**",
+        "t": "CTP 五項：bilirubin、albumin、PT/INR、腹水、肝性腦病變；**沒有 ALT**",
+        "x": "bilirubin、PT、肝性腦病變都在 CTP 內"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102397,7 +103502,12 @@
       "summary": "本題官方一律給分；肥胖、糖尿病、dyslipidemia 都是脂肪肝的核心代謝風險，高尿酸也常相關。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "NAFLD 危險因子（官方四個都給分）",
+        "t": "主要危險因子：肥胖、糖尿病、高血脂（代謝症候群）；高尿酸也常相關",
+        "x": "本題官方送分"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102687,7 +103797,12 @@
       "concepts": [
         "arthritis-ra-oa-gout-cppd",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "退化性關節炎、選**最適當**的",
+        "t": "危險因子：**年齡、遺傳、肥胖**",
+        "x": "手部好發 **DIP、PIP、拇指基部**（不是 MCP 與腕）；X 光是關節腔窄、骨刺、軟骨下硬化與囊腫，**沒有骨侵蝕**；anti-TNF 對 OA 無效"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102720,7 +103835,12 @@
       "C": "本項敘述錯誤。發炎體活化促成的是 IL-1β 與 IL-18 的成熟，不是 IL-2。IL-2 走的是 T 細胞增生那條路，跟這裡的發燒與關節炎機轉不同。",
       "D": "本項敘述錯誤。IL-1 抑制劑對這類 IL-1 驅動的疾病效果很好，CAPS 就是代表。說它效果不好、必須靠類固醇並不正確。",
       "summary": "自體發炎疾病走的是 IL-1 那條路：發炎體→IL-1β／IL-18，所以 IL-1 抑制劑才是對症的藥。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "遺傳性自體發炎疾病、選**最適當**的",
+        "t": "致病蛋白有 **pyrin**（FMF）、**p55 TNF 受體**（TRAPS）、**NLRP3**（CAPS）",
+        "x": "有顯性也有隱性；發炎體產生的是 **IL-1β**（不是 IL-2）；**IL-1 抑制劑效果好**"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102756,7 +103876,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "RA、MTX＋HCQ＋類固醇仍控制不佳、加生物製劑",
+        "t": "**tocilizumab**（IL-6 受體抗體）是 RA 的生物製劑",
+        "x": "secukinumab、ixekizumab（IL-17）與 ustekinumab（IL-12/23）用在乾癬與脊椎關節炎，不用於 RA"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102789,7 +103914,12 @@
       "C": "本項不選。過敏原皮膚測試測的是 IgE 媒介的致敏化，它解釋不了反覆感染，也驗不出免疫球蛋白缺乏。",
       "D": "本項不選。albumin、prealbumin、transferrin 反映的是營養狀態或蛋白質流失，只能當旁證，不能確認原發性抗體缺乏。",
       "summary": "反覆鼻竇肺部感染＋Giardia 慢性腹瀉＝先量 IgG/IgA/IgM，別被表面的癢疹帶去查過敏。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "20 歲、從小反覆鼻竇炎、Giardia 慢性腹瀉、皮膚癢",
+        "t": "反覆鼻竇炎＋Giardia → **IgA 缺乏或 CVID** → 驗 **IgG、IgA、IgM**",
+        "x": "過敏原 IgE 與皮膚測試只看過敏；營養指標不能找病因"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -102825,7 +103955,12 @@
       "guideline": null,
       "concepts": [
         "antiphospholipid-syndrome-classification"
-      ]
+      ],
+      "approach": {
+        "k": "抗磷脂症候群**最常見**的表現",
+        "t": "**下肢深層靜脈栓塞**",
+        "x": "視網膜動脈栓塞、子癇前症、Libman-Sacks 心內膜炎都較少見"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107401,7 +108536,12 @@
       "concepts": [
         "sci-levels-function",
         "shock-initial-approach"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**神經性休克表徵",
+        "t": "神經性休克失去交感張力 → 低血壓加**心跳變慢**",
+        "x": "低血壓、靜脈回流減少、合併脊髓損傷，都是表徵"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107653,7 +108793,12 @@
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "聽神經瘤、選**正確**的",
+        "t": "**雙側**聽神經瘤＝**NF2**",
+        "x": "源自**前庭**神經；最常傷的是**顏面神經**；小腫瘤放射手術可當第一線"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107689,7 +108834,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "moyamoya、選**正確**的",
+        "t": "成人有症狀者建議**血管繞道**手術",
+        "x": "**亞洲人較多**；**雙側**；阻塞在 ICA 末端與 ACA、MCA 起始處，不是 PCA"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107725,7 +108875,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "**較可能**由外傷造成的血管異常",
+        "t": "**頸動脈海綿竇瘻管**",
+        "x": "moyamoya、海綿狀血管畸形、微血管擴張都是非外傷性"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107761,7 +108916,12 @@
       "guideline": null,
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎狹窄、選**最適當**的",
+        "t": "spondylosis＝脊椎廣泛退化與骨贅增生造成狹窄",
+        "x": "頸髓病變叫 spondyl**otic**（不是 spondylolytic）myelopathy；脊髓病變下肢**本體覺會異常**；術後常要復健、恢復不一定立即"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107900,7 +109060,12 @@
       "D": "本項不選。穿通枝位置與口徑有個體差異，血管也常短小、管壁較薄；術前影像定位與顯微技術可降低風險，但不能消除變異。",
       "summary": "Perforator flap 的交換條件是：少犧牲肌肉換來更費時、更難找、變異更多的細血管。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "穿通枝皮瓣、**不是**缺點的",
+        "t": "保留肌肉與筋膜功能是穿通枝皮瓣的**優點**",
+        "x": "不易分離、手術時間長、血管變異大且細，都是缺點"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107934,7 +109099,12 @@
       "D": "錯誤。俄羅斯不是第一個成功異體臉部移植的國家。",
       "summary": "第一個成功異體臉部移植：2005 年、法國、Isabelle Dinoire。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "第一例成功異體臉部移植的國家",
+        "t": "**法國**（2005 年，Isabelle Dinoire）",
+        "x": "美國、英國、俄羅斯都較晚"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -107967,7 +109137,12 @@
       "C": "本項不選。20 mg/kg 雖然有些保守文獻採用，但不是本題所問的教科書上限。",
       "D": "本項應選。抽脂腫脹麻醉的 lidocaine 上限記 **35 mg/kg**。安全的關鍵在藥物動力學：極稀濃度加血管收縮，血中濃度高峰要到注射後 12 到 14 小時才出現。所以病人離開手術室時還沒到高峰，術後要衛教毒性症狀——嘴唇麻、金屬味、耳鳴、抽搐。",
       "summary": "抽脂腫脹麻醉 lidocaine 上限 35 mg/kg，和一般浸潤的 7 mg/kg 完全不同；血中高峰在 12–14 小時後，出手術室不代表安全了。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "抽脂 tumescent fluid、lidocaine 最高安全劑量",
+        "t": "**35 mg/kg**（稀釋且含腎上腺素、吸收慢）",
+        "x": "7 mg/kg 是一般含腎上腺素的浸潤上限；15、20 都不是標準數字"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108044,7 +109219,12 @@
       "guideline": "FC 醫學(五)第1冊 p.119",
       "concepts": [
         "parkland-formula"
-      ]
+      ],
+      "approach": {
+        "k": "60 kg、雙上肢＋前胸＋腹部深二度燒傷",
+        "t": "九分法：雙上肢 18%＋前軀幹 18%＝**36%**；Parkland 4×60×36＝8640，前 8 小時給一半 **4320 mL LR**",
+        "x": "8640 是 24 小時總量；D5W 與生理食鹽水不是首選；27%、45% 算錯"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108080,7 +109260,12 @@
       "guideline": null,
       "concepts": [
         "acs-cad-management"
-      ]
+      ],
+      "approach": {
+        "k": "急性心肌梗塞後**不是**機械性併發症",
+        "t": "MI 機械性併發症：**乳突肌斷裂、心室中隔破裂、游離壁破裂**；急性 AR 不是",
+        "x": "乳突肌斷裂、VSD、游離壁破裂都是 MI 後機械性併發症"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108116,7 +109301,12 @@
       "guideline": null,
       "concepts": [
         "ankle-brachial-index-interpretation"
-      ]
+      ],
+      "approach": {
+        "k": "間歇性跛行、ABI 大多為",
+        "t": "跛行約 **0.5–0.7**（0.9 以下即異常）",
+        "x": ">1.0 正常；0.8–1.0 臨界輕度；0.2–0.4 是休息痛或組織喪失"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108152,7 +109342,12 @@
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification"
-      ]
+      ],
+      "approach": {
+        "k": "主動脈剝離控壓、**最不適合**的",
+        "t": "只用血管擴張劑會反射性心跳加快、增加 dP/dt，讓剝離惡化 → 要**先 β 阻斷**",
+        "x": "短效 β 阻斷劑、α＋β 阻斷劑（labetalol）、β 阻斷劑加血管擴張劑，都適合"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108185,7 +109380,12 @@
       "C": "本項最不適當。病人正處於心因性休克與左主幹重度狹窄，等待 antiplatelet 藥效完全消退可能延誤救命的血流重建；出血風險需在緊急手術中管理。",
       "D": "本項不選。off-pump CABG 雖能避免體外循環，但沒有一致證據顯示其長期結果優於 on-pump CABG；術式應依病人與團隊經驗選擇。",
       "summary": "左主幹加三支病變又休克時，先救灌流與重建血流，不能為等 antiplatelet 藥效而延誤。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "MI 休克、IABP 支持下 80/60、左主幹 80% 加三支病變，**最不適當**的",
+        "t": "心因性休克要盡快重建血流，**不能等**抗血小板藥效退掉才開刀",
+        "x": "高度建議 CABG、可加葉克膜或心室輔助器、OPCAB 與 on-pump 沒有一致優劣，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -108218,7 +109418,12 @@
       "C": "本項不選：VA-ECMO 的確同時支援心臟循環與肺部氧合，所以 C 不會是錯項。它可提供血流、加入 O2 並排除 CO2，是題列唯一能一次支持心肺衰竭的裝置。",
       "D": "本項不選：durable VAD 可作 bridge to transplant 或 destination therapy，所以 D 不會是錯項。前者用在等待移植期間，後者用於不適合移植的末期心衰竭者。",
       "summary": "IABP-SHOCK II 沒證明 IABP 增加存活；長效 VAD 才能作移植橋接或終極治療。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "機械循環輔助、選**錯誤**的",
+        "t": "IABP-SHOCK II 顯示 IABP **沒有**比最佳藥物治療提升心因性休克的存活",
+        "x": "REMATCH 證實 LVAD 優於藥物、同時支持心肺只有葉克膜、長效 VAD 可做移植橋接或終極治療，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -109515,7 +110720,12 @@
       "guideline": null,
       "concepts": [
         "digit-replantation-indications"
-      ]
+      ],
+      "approach": {
+        "k": "斷指處理、選**最適當**的",
+        "t": "先救病人：斷指處用**紗布加壓止血**",
+        "x": "斷指要**生理食鹽水**濕紗布包、放袋子、袋外冰水冷藏；不可用開水、不可直接放袋子不保濕、不可直接泡水"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -109653,7 +110863,12 @@
       "guideline": null,
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy"
-      ]
+      ],
+      "approach": {
+        "k": "OPLL、選**最不適當**的",
+        "t": "沒有進行性脊髓病變時**不一定**要開刀；手術是為了阻止惡化，神經功能**不一定**改善",
+        "x": "亞洲男性多、好發 C4–6、常合併 DISH，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -110095,7 +111310,12 @@
       "concepts": [
         "tbi-hematomas-icp",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "78 歲、一週步態不穩與頭痛、CT 雙側**新月形**等密度集液",
+        "t": "雙側**亞急性硬腦膜下血腫**",
+        "x": "硬腦膜上是凸透鏡形；SAH 在腦溝腦池；腦膜瘤是實心腫瘤"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113283,7 +114503,12 @@
       "concepts": [
         "arthritis-ra-oa-gout-cppd",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "急性痛風、**最不適當**的用藥",
+        "t": "**allopurinol** 是長期降尿酸藥，急性期不新開（可能延長發作）",
+        "x": "NSAID、colchicine、類固醇都是急性期用藥"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113827,7 +115052,12 @@
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease",
         "jaundice-approach"
-      ]
+      ],
+      "approach": {
+        "k": "ALT 1860、AST 1256、膽紅素 6.8、ALP 正常、肝炎史不詳",
+        "t": "急性肝細胞損傷 → 病毒初篩 **HBsAg＋anti-HCV**",
+        "x": "A、C 都缺 C 肝；B 缺 HBsAg（anti-HBc 無法判斷現在是否感染）"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113863,7 +115093,12 @@
       "summary": "超音波看得到 steatosis，分不出單純脂肪肝和 steatohepatitis。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲肥胖糖尿病、不喝酒、超音波脂肪肝，選**最不恰當**的",
+        "t": "超音波只看得到脂肪浸潤，**分不出**單純脂肪肝與脂肪性肝炎（要切片）",
+        "x": "可診斷 NAFLD、methotrexate 等藥物也會造成脂肪肝、ALT 可以正常，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113900,7 +115135,12 @@
       "summary": "HRS 的循環機轉 ＝ 內臟血管擴張＋腎血管收縮；肝移植最根本，移植前有藥物橋接。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "肝腎症候群、選**錯誤**的（官方 C、D 都給分）",
+        "t": "HRS 是**內臟血管擴張**、全身血管阻力**下降**，腎血管代償收縮",
+        "x": "多見於嚴重肝硬化與難治性腹水、第一型兩週內快速惡化，這兩句對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -113972,7 +115212,12 @@
       "B": "本項不選。SAAG ＝ 4.3 − 2.6 ＝ 1.7，提示門脈高壓，但腹水總蛋白 3.0 g/dL 偏高，更像心因性腹水（cardiac ascites）等肝竇後原因。",
       "C": "本項不選。SAAG ＝ 2.8 − 2.0 ＝ 0.8，不支持門脈高壓，不符合典型肝硬化腹水。",
       "D": "正確答案。SAAG ＝ 2.8 − 1.2 ＝ 1.6，支持門脈高壓；腹水總蛋白 2.0 g/dL 偏低，符合肝硬化的肝竇微血管化（sinusoidal capillarization）。",
-      "summary": "肝硬化腹水典型 ＝ SAAG ≥1.1 g/dL 且腹水總蛋白偏低；四組只有 D 同時符合。"
+      "summary": "肝硬化腹水典型 ＝ SAAG ≥1.1 g/dL 且腹水總蛋白偏低；四組只有 D 同時符合。",
+      "approach": {
+        "k": "哪組最像**肝硬化**腹水",
+        "t": "SAAG ≥1.1（門脈高壓）**且**腹水總蛋白 <2.5 → D：2.8−1.2＝1.6",
+        "x": "A：SAAG 1.0；B：1.7 但總蛋白高（心因性）；C：0.8"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114287,7 +115532,12 @@
       "guideline": null,
       "concepts": [
         "synovial-fluid-classification"
-      ]
+      ],
+      "approach": {
+        "k": "RA 控制良好、運動時右膝痛積水、關節液白血球 **800**",
+        "t": "白血球 <2000 → **非發炎性**，和活動有關 → **退化性關節炎**",
+        "x": "RA 活躍或痛風發作，關節液白血球都會明顯升高（發炎性）"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114324,7 +115574,12 @@
       "concepts": [
         "spondyloarthritis-reactive-hla",
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "**最不易**誘發反應性關節炎的腸道菌",
+        "t": "腸道四菌：**Salmonella、Shigella、Yersinia、Campylobacter**；**Clostridium** 不在其中（C. difficile 極少）",
+        "x": "Shigella、Yersinia、Campylobacter 都是典型誘發菌"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114360,7 +115615,12 @@
       "guideline": null,
       "concepts": [
         "sle-2019-eular-acr-classification"
-      ]
+      ],
+      "approach": {
+        "k": "22 歲女性發燒、手腕關節炎、白血球血小板低、蛋白尿，**最容易**陽性",
+        "t": "問敏感度 → **ANA**（SLE 幾乎都陽性）",
+        "x": "anti-dsDNA、anti-Sm 特異度高但敏感度較低；抗心磷脂抗體只在部分病人"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114393,7 +115653,12 @@
       "C": "本項不選。常見變異型免疫缺乏症（CVID）是一群異質性的抗體製造障礙，不是由單一 CD40L 基因缺陷定義的疾病。",
       "D": "正確答案。X 染色體連鎖高 IgM 症候群的缺陷就在活化 T 細胞上的 CD40L（CD154）。少了這個訊號，T–B 之間的合作斷掉，B 細胞無法完成類別轉換，結果是 IgG、IgA、IgE 偏低而 IgM 正常或偏高，並容易發生伺機性感染。",
       "summary": "CD40L 是 T 細胞遞給 B 細胞的「換抗體」指令；指令壞掉就卡在 IgM，這就是高 IgM 症候群。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "T 細胞 **CD40L** 基因異常",
+        "t": "**X 性聯高 IgM 症候群**：B 細胞無法換型，卡在 IgM",
+        "x": "CGD 是 NADPH oxidase；WAS 是 WASP 基因；CVID 多基因"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114426,7 +115691,12 @@
       "C": "正確答案。顯微多血管炎（MPA）屬於 ANCA 相關血管炎，常見 MPO-ANCA／p-ANCA，並可造成肺腎症候群。",
       "D": "本項敘述錯誤。冷凝球蛋白血症血管炎關聯的是慢性 **C 型肝炎**，不是 A 型肝炎；也可能來自自體免疫或淋巴增生性疾病。",
       "summary": "四組配對背起來：GPA–PR3-ANCA、MPA–MPO-ANCA、PAN–HBV、冷凝球蛋白血管炎–HCV。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "血管炎、選**正確**的",
+        "t": "**顯微多發性血管炎（MPA）**與 ANCA（MPO）相關",
+        "x": "GPA 與 PR3-ANCA 相關（不是 B 肝）；PAN 與 **B 肝**相關；冷凝球蛋白血管炎與 **C 肝**相關"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -114500,7 +115770,12 @@
       "summary": "肝癌常見 TERT 啟動子、CTNNB1、TP53；TSC1/2 少見。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "HCC 分子變異、盛行率**最低**",
+        "t": "HCC 常見 **TERT 啟動子**（最常）、CTNNB1、TP53；**TSC1/TSC2** 少見",
+        "x": "TERT 約六成、CTNNB1 與 TP53 各約三成"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -119344,7 +120619,12 @@
       "guideline": null,
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "承上 CT（左右兩側不同出血），選**錯誤**的",
+        "t": "左側是**挫傷性腦內血腫**、右側是**硬腦膜上血腫**；選項 A 把兩側講反",
+        "x": "右側（硬腦膜上）多來自中腦膜動脈、左側（挫傷）來自腦實質血管、瞳孔放大要開顱減壓，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119380,7 +120660,12 @@
       "guideline": null,
       "concepts": [
         "central-cord-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "central cord syndrome、選**錯誤**的",
+        "t": "多是頸椎狹窄者的**過伸**（hyperextension）傷，不是過屈",
+        "x": "上肢比下肢嚴重、可有尿滯留、下肢先恢復，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119416,7 +120701,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎腫瘤、選**錯誤**的",
+        "t": "硬膜外腫瘤以**轉移性惡性**為主，不是良性",
+        "x": "硬膜內髓外以腦膜瘤與神經鞘瘤為主、髓內以星形細胞瘤與室管膜瘤為主、最好發胸椎，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119452,7 +120742,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "**較常見於孩童**的腦瘤",
+        "t": "**髓母細胞瘤**（兒童後顱窩最常見惡性腫瘤）",
+        "x": "GBM、腦膜瘤、腦下垂體腺瘤都以成人為主"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119488,7 +120783,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "moyamoya、選**錯誤**的",
+        "t": "狹窄在 **ICA 末端與 ACA、MCA**；**PCA 通常不受影響**",
+        "x": "亞洲人多、雙側、兒童以缺血表現，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119525,7 +120825,12 @@
       "D": "正確。官方更正接受 D。若髓鞘修復與局部組織恢復較慢，功能可拖到約三個月；超過預期仍須重新評估是否其實有 axonal injury。",
       "summary": "Neurapraxia 沒有軸突斷裂，恢復可從一週到約三個月；本題官方因此 A–D 全給分。",
       "guideline": "官方更正：第15題除未作答者不給分外，其餘均給分",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "neurapraxia 恢復時間（官方四個都給分）",
+        "t": "只有髓鞘受傷、軸突完整 → 數天到約 **3 個月**內恢復",
+        "x": "本題官方送分"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119561,7 +120866,12 @@
       "guideline": null,
       "concepts": [
         "digit-replantation-indications"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**斷指重接強適應症",
+        "t": "成人**單一手指**在 **FDS 止點近端**截斷，重接後功能差",
+        "x": "多指、拇指、小孩任一手指都是強適應症"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119597,7 +120907,12 @@
       "guideline": null,
       "concepts": [
         "z-plasty-angle-lengthening"
-      ]
+      ],
+      "approach": {
+        "k": "Z-plasty **60 度**、延長多少",
+        "t": "**75%**",
+        "x": "30°＝25%、45°＝50%、90°＝120%"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119632,7 +120947,12 @@
       "D": "正確。口周的自然皺紋與 RSTLs 在解剖上常呈放射方向，和唇緣大致垂直；官方因此接受 D，重點是切口要隱藏於自然線而非橫切張力線。",
       "summary": "切口順 RSTLs 才不容易拉寬；它通常垂直於肌肉收縮方向，口周常與唇緣垂直。",
       "guideline": "官方更正：第18題答 C 或 D 或 CD 者均給分",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "皮膚張力鬆弛線（官方 C、D 都給分）",
+        "t": "RSTLs **垂直**於皮下肌肉走向；口周的 RSTL 與唇緣**垂直**",
+        "x": "不是 45 度；與表情紋**平行**不是垂直"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119668,7 +120988,12 @@
       "guideline": null,
       "concepts": [
         "parkland-formula"
-      ]
+      ],
+      "approach": {
+        "k": "70 kg、**70%** 深二度燒傷、前 8 小時",
+        "t": "Parkland 4×70×70＝19,600，前 8 小時一半＝**9800 mL LR**",
+        "x": "生理食鹽水不是首選；D5W 不行；4900 只有四分之一"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119704,7 +121029,12 @@
       "guideline": null,
       "concepts": [
         "debaky-aortic-dissection-classification"
-      ]
+      ],
+      "approach": {
+        "k": "DeBakey IIIa vs IIIb 的差別",
+        "t": "IIIa 停在胸腔降主動脈；IIIb 延伸到**腹主動脈**",
+        "x": "兩者都不侵犯升主動脈與主動脈弓"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119740,7 +121070,12 @@
       "guideline": null,
       "concepts": [
         "acute-limb-ischemia-6p"
-      ]
+      ],
+      "approach": {
+        "k": "二尖瓣狹窄、心房顫動、左下肢突然冰冷無脈，選**錯誤**的",
+        "t": "打通後再灌流 → 肌紅蛋白進入循環，肌紅蛋白尿會**變多**，不是改善",
+        "x": "栓塞最可能、打通後高血鉀、缺血越久腫脹越嚴重，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119776,7 +121111,12 @@
       "guideline": null,
       "concepts": [
         "tetralogy-of-fallot"
-      ]
+      ],
+      "approach": {
+        "k": "40 天大 TOF、血氧掉到 65%、已插管，**較不合適**的處置",
+        "t": "缺氧發作要**提高體循環阻力**、增加肺血流；**血管擴張劑**降低體循環阻力會讓右向左分流變多",
+        "x": "β 阻斷劑（放鬆漏斗部）、補液、鎮靜，都是正確處置"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119809,7 +121149,12 @@
       "C": "本項不選：瓣膜保留手術在根部正常時可以考慮，所以 C 不會是錯項。升主動脈瘤不一定累及主動脈根部，瓣膜與根部條件合適可只處理擴大的升主動脈。",
       "D": "本項可選：把 endovascular stenting 說成升主動脈瘤主流治療是本題錯誤處。它主要成熟於降胸主動脈；升主動脈鄰近冠狀與頭頸分支，也不是以 DeBakey 分類判斷能否放支架。",
       "summary": "TEVAR 的主戰場是降胸主動脈；升主動脈瘤靠近冠狀與腦部血管，仍以外科策略為主。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "胸主動脈瘤、選**錯誤**的",
+        "t": "血管內支架主要用在**降胸主動脈**；升主動脈瘤仍以外科手術為主",
+        "x": "二葉主動脈瓣是高危險群、7 cm 一定要手術、升主動脈 6 cm 無逆流不一定要換根部，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -119842,7 +121187,12 @@
       "C": "正確。就住院期而言，開腹主動脈置換的手術侵襲與早期死亡率通常高於 EVAR；EVAR 的優勢主要在短期圍手術結果。",
       "D": "本項不正確。IMA 是否重建要看結腸灌流、內髂動脈與 SMA 供血及術中評估，不是每一例 AAA 手術都必須再吻合。",
       "summary": "AAA 治療的取捨：EVAR 短期死亡率較低，但長期再介入更多；IMA 不必例行重接。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腹主動脈瘤、選**正確**的",
+        "t": "傳統開腹的住院手術存活率**比** EVAR **低**（EVAR 短期死亡率較低）",
+        "x": "手術門檻是 5.5 cm 不是 4 cm；EVAR 再介入率**較高**；IMA 不必一定重接"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -121285,7 +122635,12 @@
       "guideline": null,
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy"
-      ]
+      ],
+      "approach": {
+        "k": "頸椎脊髓病變、選**最不適當**的",
+        "t": "受壓節段的上肢反射可能**減弱**（LMN），只有其下的節段才增強；**不是上下肢全部都增強**",
+        "x": "感覺異常與動作困難、嚴重時 Lhermitte 陽性、腹部反射正常可與 ALS 區分，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -124990,7 +126345,12 @@
       "guideline": null,
       "concepts": [
         "blistering-and-severe-drug-eruptions"
-      ]
+      ],
+      "approach": {
+        "k": "台灣漢人、**allopurinol** 引起 SJS/TEN 的 HLA",
+        "t": "**HLA-B*58:01**",
+        "x": "B*15:02 是 carbamazepine；B*31:01 也是 carbamazepine（日韓歐）；B*57:01 是 abacavir"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125349,7 +126709,12 @@
       "summary": "孕期 B 肝抗病毒藥首選 tenofovir（TDF）；entecavir 不建議用。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "懷孕 B 肝、**不建議**的抗病毒藥",
+        "t": "懷孕首選 **tenofovir**；**entecavir** 缺乏孕期安全資料、動物有毒性 → 不建議",
+        "x": "telbivudine 與 tenofovir 孕期資料較多"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125421,7 +126786,12 @@
       "summary": "HBV 疫苗和病毒抑制可預防 HCC；但治癒或抑制後，已肝硬化者風險仍不是零。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "HCC 預防、選**正確**的",
+        "t": "抗病毒讓 HBV DNA 持續陰性，**可降低** HCC 風險",
+        "x": "WHO 建議**所有新生兒**打 B 肝疫苗，不是只打高危險成人；C 肝 SVR 後已肝硬化者**仍有** HCC 風險，要繼續監測"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125457,7 +126827,12 @@
       "summary": "HRS 是可逆的功能性腎血管收縮；albumin＋vasoconstrictor 橋接，肝移植最根本。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "肝腎症候群、選**正確**的",
+        "t": "**肝移植**最有效，腎功能可恢復（因為是功能性）",
+        "x": "腎臟切片**沒有**結構性病變；機轉是腎血管**收縮**；治療是**白蛋白＋血管收縮劑**（terlipressin），不是利尿劑"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125602,7 +126977,12 @@
       "summary": "結石可造成膽囊炎、胰臟炎、膽管炎；choledochal cyst 是先天異常，不是結石併發症。",
       "concepts": [
         "gallstones-cholecystitis-biliary-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**膽結石的併發症",
+        "t": "**膽管囊腫**是先天異常",
+        "x": "急性膽囊炎、膽源性胰臟炎、急性膽管炎都是結石造成"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125922,7 +127302,12 @@
       "guideline": null,
       "concepts": [
         "antiphospholipid-syndrome-classification"
-      ]
+      ],
+      "approach": {
+        "k": "對診斷抗磷脂症候群**最沒有幫助**的",
+        "t": "APS 是**血栓**加抗體；**反覆胃腸出血**不在其中",
+        "x": "血小板低下常見、反覆流產是臨床準則、anti-β2GPI 是實驗室準則"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125955,7 +127340,12 @@
       "C": "本項不選。anti-SSA（Ro）與乾燥症關係密切，也牽涉全身性表現，以及新生兒狼瘡與先天性心臟傳導阻滯的風險。",
       "D": "本項不選。乾燥症會提高 B 細胞非何杰金氏淋巴瘤的風險，尤其是 MALT 淋巴瘤。腺體持續腫大、C4 偏低、冷凝球蛋白陽性都是警訊。",
       "summary": "乾燥症的腎在腎小管不在腎絲球；關節痛則是常見而非罕見——這題錯的就是這兩點。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "乾燥症、選**最不適當**的",
+        "t": "乾燥症的腎病變多在**腎小管間質**（腎小管酸中毒），不是腎絲球；而且**關節痛常見**",
+        "x": "侵犯唾液腺淚腺而易蛀牙、anti-SSA 相關、淋巴瘤機率較高，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -125991,7 +127381,12 @@
       "guideline": null,
       "concepts": [
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "CPPD 與 CAD 結晶、選**最適當**的",
+        "t": "**年輕人**有 CPPD → 要找代謝疾病（血色沉著症、副甲狀腺亢進、低鎂、低磷酸酶症）",
+        "x": "CPPD 好發**老年人**；CAD 結晶太小、偏光鏡**看不到**；CAD 存在不一定引起急性關節炎"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126027,7 +127422,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "RA、選**最適當**的",
+        "t": "多為**對稱性多關節炎**，但初期可以單關節開始",
+        "x": "好發**手足小關節**；晨僵通常 **>1 小時**；DIP 受侵犯要想其他診斷，不是嚴重度指標"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -126060,7 +127460,12 @@
       "C": "本項應選。全身性硬化症的代表抗原是 topoisomerase I、centromere proteins 與 RNA polymerase III。**tubulin 不在這份名單上**，四組裡只有這組配錯。",
       "D": "本項不選。肉芽腫性多血管炎的代表抗原是 proteinase 3，它形成的就是 PR3-ANCA。",
       "summary": "全身性硬化症的三個抗原：topoisomerase I、centromere、RNA polymerase III——記住這三個，這題就不會選錯。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "疾病與自體抗原配對、**最不適當**",
+        "t": "全身性硬化症的抗原是 **topoisomerase I（Scl-70）、centromere、RNA polymerase III**，不是 tubulin",
+        "x": "重症肌無力–AChR、自體免疫甲狀腺炎–thyroglobulin、GPA–PR3，三組正確"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127458,7 +128863,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "34 歲、長期看風濕科、手腕痛、**月狀骨**變白",
+        "t": "月狀骨**缺血性壞死**（Kienböck；長期類固醇是危險因子）",
+        "x": "OA、RA、痛風不會單獨造成月狀骨密度變白"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -127494,7 +128904,12 @@
       "summary": "portal 系統主要支流 ＝ SMV、IMV、splenic vein；hepatic vein 是流出肝臟的體循環靜脈。",
       "concepts": [
         "hcc-liver-surgery-abscess"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**門脈系統",
+        "t": "**肝靜脈**把血從肝臟帶回下腔靜脈，屬體循環",
+        "x": "上腸繫膜靜脈、下腸繫膜靜脈、脾靜脈都匯入門靜脈"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130628,7 +132043,12 @@
       "C": "本項不選：這是主要冠狀動脈。circumflex coronary artery 沿左房室溝走行，供應左心室側壁，優勢型態不同時也可能供應後壁。",
       "D": "本項是錯誤名稱。radial artery 是前臂動脈，可被取作 CABG 的 graft conduit；它不是支配心臟的原生冠狀動脈。",
       "summary": "Radial artery 能拿來做 CABG graft，但不是冠狀動脈本身。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "主要冠狀動脈、**錯誤**的",
+        "t": "冠狀動脈：左主幹、左前降支、迴旋支、右冠狀動脈；**radial artery** 是手臂動脈",
+        "x": "左主幹、左前降支、迴旋支都是冠狀動脈"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -130664,7 +132084,12 @@
       "guideline": null,
       "concepts": [
         "carpentier-mitral-regurgitation-classification"
-      ]
+      ],
+      "approach": {
+        "k": "二尖瓣前葉**腱索斷裂**、嚴重逆流，Carpentier 分類",
+        "t": "瓣葉活動**過度**（脫垂或連枷）→ **Type II**",
+        "x": "I 瓣葉活動正常（瓣環擴大或穿孔）；IIIa 舒張期受限（風濕）；IIIb 收縮期受限（缺血性）"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131414,7 +132839,12 @@
       "guideline": null,
       "concepts": [
         "wound-healing-phases"
-      ]
+      ],
+      "approach": {
+        "k": "傷口癒合各期細胞、選**正確**的",
+        "t": "**嗜中性球**是發炎期最早的主要細胞",
+        "x": "增生期主角是纖維母細胞與巨噬細胞；止血期是血小板；纖維母細胞約第 5–7 天才達高峰"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131486,7 +132916,12 @@
       "guideline": null,
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "長期高血壓、左側**基底核**出血",
+        "t": "高血壓讓穿通小動脈形成 **Charcot-Bouchard 微動脈瘤**破裂",
+        "x": "類澱粉血管病變造成**腦葉**出血；CCF 不會在基底核；沒有溶栓史"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131522,7 +132957,12 @@
       "guideline": null,
       "concepts": [
         "pediatric-cns-and-spinal-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "兒童腦幹膠質瘤、選**錯誤**的",
+        "t": "瀰漫性橋腦膠質瘤**無法手術**，以**放療**為主",
+        "x": "瀰漫性橋腦型多惡性、中腦型預後較好、頂蓋型常合併水腦，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131558,7 +132998,12 @@
       "guideline": null,
       "concepts": [
         "hydrocephalus-chiari-functional-neurosurgery"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**癲癇手術",
+        "t": "**微血管減壓術**治療三叉神經痛與半臉痙攣",
+        "x": "前顳葉切除、迷走神經刺激、胼胝體切開都是癲癇手術"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131594,7 +133039,12 @@
       "guideline": null,
       "concepts": [
         "hydrocephalus-chiari-functional-neurosurgery"
-      ]
+      ],
+      "approach": {
+        "k": "嬰兒水腦症、選**最不適當**的",
+        "t": "**導水管狹窄**是腦室內阻塞 → **非交通性**水腦",
+        "x": "導水管狹窄屬先天、腦膜炎後多為交通性、Chiari II 是先天，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131663,7 +133113,12 @@
       "guideline": null,
       "concepts": [
         "cushing-triad"
-      ]
+      ],
+      "approach": {
+        "k": "Cushing's triad、**不是**之一",
+        "t": "三聯徵：**高血壓、心跳變慢、呼吸不規則**",
+        "x": "頭痛很常見，但不在三聯徵內"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131697,7 +133152,12 @@
       "D": "本項錯誤。骨骼穩定化通常先於神經重建，因為固定骨架才能保護血管修復、決定肢體長度與後續軟組織重建；原則是 bone before nerve。",
       "summary": "Mangled extremity 先救命、再恢復血流和穩定骨架；神經重建不能排在骨固定前面。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "嚴重碾壓肢體處理順序、選**錯誤**的",
+        "t": "順序：救命 → 血流 → 清創 → **骨骼穩定** → 神經肌腱軟組織；神經**不能**排在骨骼前",
+        "x": "生命優先、血管重建、反覆清創，都是正確優先"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131733,7 +133193,12 @@
       "guideline": null,
       "concepts": [
         "flexor-tendon-pulleys"
-      ]
+      ],
+      "approach": {
+        "k": "狹窄性腱鞘炎、選**最適當**的",
+        "t": "扳機指可卡住造成手指**無法完全伸直**",
+        "x": "de Quervain 是**第一**背側腱鞘區；交叉症候群在第一、二區交叉處，不在 A1；de Quervain 靠臨床診斷（Finkelstein），不靠 X 光"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131769,7 +133234,12 @@
       "guideline": null,
       "concepts": [
         "finger-extensor-deformities"
-      ]
+      ],
+      "approach": {
+        "k": "籃球撞指尖、DIP 垂下無法伸直；半年後 PIP 過伸、DIP 屈曲",
+        "t": "① **mallet finger** → ② 演變成 **swan neck deformity**",
+        "x": "扳機指是手指卡住；jersey finger 是 FDP 斷裂（不能屈 DIP）；boutonnière 是 PIP 屈曲 DIP 過伸"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131803,7 +133273,12 @@
       "D": "正確。小孩肝醣儲存較少、基礎代謝高，嚴重燒傷時更容易低血糖；除 lactated Ringer solution 外，體重小於 20 kg 或年紀很小者常需添加 glucose 並監測血糖。",
       "summary": "小小孩燒傷復甦別只想到 LR；因肝醣儲備少，還要想到補 glucose、盯血糖。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "<20 kg 或 <2 歲燒傷孩童、LR 之外要加",
+        "t": "小孩肝醣儲備少 → 加**葡萄糖**，避免低血糖",
+        "x": "鉀、鈉、鈣不是常規額外添加"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131836,7 +133311,12 @@
       "C": "本項不是答案。主動脈壁內血腫是中層出血造成壁內新月形血腫，即使沒有明顯內膜瓣，仍屬急性主動脈綜合症。",
       "D": "本項不是答案。穿透性主動脈潰瘍由粥樣斑塊潰瘍侵入內彈力層與中層，可進展為壁內血腫、剝離或破裂。",
       "summary": "急性主動脈綜合症三兄弟是 AD、IMH、PAU；單純 atherosclerosis 不算。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性主動脈綜合症**不包含**",
+        "t": "三種：**主動脈剝離、壁內血腫、穿透性主動脈潰瘍**",
+        "x": "單純粥狀硬化不是急症"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131872,7 +133352,12 @@
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification"
-      ]
+      ],
+      "approach": {
+        "k": "AD、IMH、PAU、選**最不適當**的",
+        "t": "急性 A 型剝離要**緊急手術**，不能等藥物無效才開",
+        "x": "複雜 B 型要介入、A 型 IMH 比照 A 型剝離、PAU 大於門檻要早介入，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -131905,7 +133390,12 @@
       "C": "本項不選：compression duplex ultrasound 是 DVT 主要檢查，所以 C 不會是錯項。它可直接見到血栓，或看正常靜脈是否能被壓扁。",
       "D": "本項不選：venography 雖精確卻具侵入性，這個描述正確，所以 D 不會是錯項。它需注射顯影劑，現多保留給超音波不確定但臨床仍高度懷疑者。",
       "summary": "D-dimer 是排除工具不是確診工具；懷疑 DVT 的影像主力仍是 compression ultrasound。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "DVT、選**錯誤**的",
+        "t": "D-dimer 是**排除**工具（陰性預測值很高，>95%），不能當唯一確診工具",
+        "x": "Homan sign 不敏感不特異、超音波加壓測試、靜脈攝影準確但侵入，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -132815,7 +134305,12 @@
       "guideline": null,
       "concepts": [
         "syndactyly-classification"
-      ]
+      ],
+      "approach": {
+        "k": "併指症、選**最不適當**的",
+        "t": "最常見是**第三蹼間**（中指與無名指），不是第四",
+        "x": "複合型有骨黏合、單純與複合都有皮膚黏合、第一蹼間較少，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -136485,7 +137980,12 @@
       "summary": "酒精性肝病可見蜘蛛痣、腮腺腫大、Dupuytren 攣縮；Corrigan pulse 指向 aortic regurgitation。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "酒精性肝硬化、**最不可能**的徵象",
+        "t": "**Corrigan pulse**（水沖脈）是主動脈瓣逆流的徵象",
+        "x": "蜘蛛痣、腮腺腫大、Dupuytren 攣縮都是酒精性肝病常見徵象"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136914,7 +138414,12 @@
       "summary": "肝硬化的核心效應細胞是活化的肝星狀細胞：製造 ECM、增加肝內阻力（intrahepatic resistance）。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "肝硬化纖維化與血流改變、主要是哪種細胞活化",
+        "t": "**肝星狀細胞**活化成肌纖維母細胞 → 製造膠原、收縮增加肝內阻力",
+        "x": "Kupffer 細胞釋放發炎介質但不是主角；肝細胞與內皮細胞不是纖維化主力"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -136950,7 +138455,12 @@
       "summary": "肝性腦病變先找誘因、用 lactulose；rifaximin 低吸收，多用於預防復發或合併治療。",
       "concepts": [
         "portal-hypertension-cirrhosis"
-      ]
+      ],
+      "approach": {
+        "k": "肝性腦病變治療、選**正確**的",
+        "t": "**lactulose** 酸化腸道、讓氨變成 NH4⁺ 排出，是治療主力",
+        "x": "現在**不建議**限制蛋白質；neomycin 與 metronidazole 有腎毒與神經毒；rifaximin **幾乎不吸收**，多用於預防復發"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137445,7 +138955,12 @@
       "guideline": null,
       "concepts": [
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲、單側頭痛、不明發燒、ESR >100，選**最不適當**的",
+        "t": "巨細胞動脈炎的生物製劑是 **tocilizumab**（IL-6），不是 adalimumab（TNF 抑制劑無效）",
+        "x": "下頷跛行要想 GCA、超音波看顳動脈或腋動脈、合併肩髖痛要想風濕性多肌痛，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137478,7 +138993,12 @@
       "C": "本項不選。anti-Mi-2 對應典型皮肌炎皮疹、間質性肺病較少，治療反應與預後也相對好。",
       "D": "本項應選。方向剛好反了：成人皮肌炎帶 anti-TIF1-γ 與惡性腫瘤風險**上升**強烈相關，不是下降。驗到它應該加強年齡相符的癌症篩檢。",
       "summary": "肌炎抗體看癌症風險：TIF1-γ 與 NXP2 要找癌，Mi-2 反而預後好——這題錯在把 TIF1-γ 說成低風險。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肌炎特異性抗體、選**最不適當**的",
+        "t": "**anti-TIF1-γ** 與**癌症高風險**相關，不是低風險",
+        "x": "MDA5 與無肌病性皮肌炎及快速 ILD、NXP-2 癌症風險高、Mi-2 治療反應好，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137514,7 +139034,12 @@
       "guideline": null,
       "concepts": [
         "complement-screening-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "反覆**侵襲性 Neisseria** 感染",
+        "t": "末端補體（C5–C9）缺乏 → 驗 **CH50 與 AP50**",
+        "x": "淋巴球亞群看細胞免疫；NBT 看 CGD；免疫球蛋白看體液免疫"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -137547,7 +139072,12 @@
       "C": "本項不選。CD28 是重要的共刺激受體，末期分化的 T 細胞確實可能失去它——但那是表現量的有無，不是題目問的不同 isoforms。",
       "D": "本項不選。CD44 在小鼠 T 細胞分型常用**表現量高低**來分活化／記憶型。題目問的是不同 isoforms，人類的經典答案還是 CD45RA 對 CD45RO。",
       "summary": "題目問的是 isoform 不是表現量：naïve 的 CD45RA 換成 memory 的 CD45RO，就是這題唯一答案。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "以不同 **isoform** 區分記憶型與初始 T 細胞",
+        "t": "**CD45**：初始 T 細胞 CD45RA、記憶 T 細胞 CD45RO",
+        "x": "CD2、CD28、CD44 不是靠 isoform 區分"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -138369,7 +139899,12 @@
       "summary": "MASH 目前無法靠一般影像或單一抽血確診；治療依風險分層，不是所有 MASLD 一律用藥。",
       "concepts": [
         "jaundice-liver-tests-chronic-liver-disease"
-      ]
+      ],
+      "approach": {
+        "k": "MASLD 與 MASH、選**正確**的",
+        "t": "影像與一般抽血**無法確診** MASH，需切片",
+        "x": "MASH 約占 MASLD 的 20–30%；不是所有 MASLD 都要用藥；維生素 E 有出血與攝護腺癌等風險"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142235,7 +143770,12 @@
       "guideline": null,
       "concepts": [
         "tbi-hematomas-icp"
-      ]
+      ],
+      "approach": {
+        "k": "創傷性腦損傷、選**最適當**的",
+        "t": "短暫昏迷後出現**清醒期** → 想到**硬腦膜上血腫**",
+        "x": "原發性腦傷**不能**用藥逆轉；硬腦膜上血腫是**中腦膜動脈**（橋靜脈是硬腦膜下）；類固醇在 TBI **無效甚至有害**"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142271,7 +143811,12 @@
       "guideline": null,
       "concepts": [
         "acs-cad-management"
-      ]
+      ],
+      "approach": {
+        "k": "不穩定心絞痛、選**錯誤**的特徵",
+        "t": "不穩定心絞痛：越來越頻繁、越痛、越久，或**休息時**也發作；**只在運動時**發生是穩定型",
+        "x": "頻繁、加劇、持續更久都是不穩定的特徵"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142307,7 +143852,12 @@
       "guideline": null,
       "concepts": [
         "stanford-aortic-dissection-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Stanford B 型、**無**神經、腸、下肢缺血",
+        "t": "單純 B 型 → **積極降壓降心跳**藥物治療",
+        "x": "緊急手術是 A 型；支架用在複雜 B 型；心包穿刺不適用"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142344,7 +143894,12 @@
       "guideline": null,
       "concepts": [
         "eisenmenger-syndrome-definition"
-      ]
+      ],
+      "approach": {
+        "k": "ASD 合併 **Eisenmenger** 的成人（官方 B、D 都給分）",
+        "t": "已變右向左分流 → **不能關閉缺損**；給支持治療：心內膜炎預防、居家氧氣",
+        "x": "外科或導管關閉缺損會讓右心失去出口，加速衰竭"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142792,7 +144347,12 @@
       "guideline": null,
       "concepts": [
         "incomplete-spinal-cord-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "急性脊髓損傷、選**最適當**的",
+        "t": "不完全損傷合併壓迫 → **24 小時內減壓**預後較好",
+        "x": "類固醇**沒有**被證實改善長期預後；未排除骨折不穩前**不能**拆頸圈；初始首選是 **CT**"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142828,7 +144388,12 @@
       "guideline": null,
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy"
-      ]
+      ],
+      "approach": {
+        "k": "頸椎脊髓病變、選**最適當**的",
+        "t": "常有**痙攣**或**陣攣**（上運動神經元徵象）",
+        "x": "MRI 會看到狹窄；深部肌腱反射是**增強**；感覺常異常"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142864,7 +144429,12 @@
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "膠質瘤、選**最不適當**的",
+        "t": "膠質瘤沿白質**浸潤**，所以**大多無法**完全切除",
+        "x": "多數原發腦瘤是膠質瘤、放化療依組織學、橋腦膠質瘤以多發腦神經麻痺表現，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142900,7 +144470,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "硬腦膜動靜脈瘻管、選**最不適當**的",
+        "t": "有**皮質靜脈逆流**的 dAVF **會**出血",
+        "x": "可能演變成 AVM、第二型 CCF 是 dAVF、與靜脈竇栓塞有關，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142936,7 +144511,12 @@
       "guideline": null,
       "concepts": [
         "brain-tumors-adult"
-      ]
+      ],
+      "approach": {
+        "k": "NF1、選**錯誤**的",
+        "t": "NF1 與**視神經膠質瘤**等膠質瘤有關；雙側前庭神經鞘瘤則是 NF2",
+        "x": "體染色體顯性、17q11.2、可發展成 MPNST，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -142972,7 +144552,12 @@
       "guideline": null,
       "concepts": [
         "congenital-melanocytic-nevus-size"
-      ]
+      ],
+      "approach": {
+        "k": "先天性黑色素痣、惡變機會**最高**的大小",
+        "t": "**>20 cm**（大型與巨大型）",
+        "x": "越小風險越低"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143008,7 +144593,12 @@
       "guideline": null,
       "concepts": [
         "common-entrapment-neuropathies"
-      ]
+      ],
+      "approach": {
+        "k": "Guyon canal syndrome、選**錯誤**的",
+        "t": "Guyon 管壓迫的是**尺神經**，不是正中神經",
+        "x": "由鉤骨鉤、豌豆骨與韌帶組成、可有 Tinel sign、原因有腱鞘囊腫與尺動脈血栓，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143042,7 +144632,12 @@
       "D": "錯誤。90 分鐘一次更不適當。HF exposure 範圍大、濃度高、手指或吸入／吞食時可致嚴重低血鈣與心律不整，需急診監測與積極處置。",
       "summary": "HF 傷口痛沒退就每 15 分鐘補 calcium gluconate gel；痛是 fluoride 還在深部作怪的警訊。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "氫氟酸傷口、calcium gluconate gel 塗抹間隔",
+        "t": "疼痛緩解前**每 15 分鐘**塗一次",
+        "x": "30、60、90 分鐘間隔太長"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143079,7 +144674,12 @@
       "concepts": [
         "hypertrophic-scar-vs-keloid",
         "wound-healing-phases"
-      ]
+      ],
+      "approach": {
+        "k": "疤痕形成、選**錯誤**的",
+        "t": "縫合最重要的是精確對齊**真皮層**（dermis），卸張力才能減少疤痕",
+        "x": "膠原過多堆積、肥厚性疤痕約六個月後停止生長、可吸收線發炎反應較大，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143117,7 +144717,12 @@
       "guideline": null,
       "concepts": [
         "ankle-brachial-index-interpretation"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲、左腳痛到不能走、ABI 0.3、足部缺血",
+        "t": "嚴重肢體缺血 → 動脈攝影規劃**血管再通**，加抗血小板；**warfarin** 不是常規",
+        "x": "動脈攝影、aspirin、討論血管內治療或繞道，都適當"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143150,7 +144755,12 @@
       "C": "本項不適當。動脈潰瘍可發生在小腿遠端、踝部、足背或足趾，只要該處灌流不足與壓力負荷高，不能說很少在腿部。",
       "D": "本項不適當。糖尿病會造成周邊神經病變、免疫功能下降與微血管病變，讓下肢潰瘍更難癒合、截肢風險更高。",
       "summary": "潰瘍位置幫你分型：內踝 gaiter area 想靜脈；足趾、足背與劇痛想動脈缺血。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "慢性下肢潰瘍、選**最適當**的",
+        "t": "靜脈潰瘍多在**內踝上方**（gaiter area），很少在足部",
+        "x": "靜脈潰瘍通常不太痛（動脈才劇痛）；動脈潰瘍也可在腿；糖尿病影響更大"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -143183,7 +144793,12 @@
       "C": "本項不適當。部分研究支持橈動脈優於大隱靜脈的臨床結果，但不能說所有研究都證實長期存活率較好；不同研究設計與目標血管會影響結果。",
       "D": "本項可選：橈動脈 graft 需用 vasodilator 防痙攣。橈動脈肌層厚、易痙攣，術中與術後常搭配 calcium-channel blocker 或 nitrate 維持 graft 血流。",
       "summary": "橈動脈 graft 要接高度狹窄血管，並用 vasodilator 防痙攣；競爭血流是它的弱點。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "CABG 用**橈動脈**、選**最適當**的",
+        "t": "橈動脈容易痙攣 → 要配合**血管擴張劑**（如 nitrate、鈣離子阻斷劑）",
+        "x": "橈動脈 5 年通暢率**優於**大隱靜脈；它**更怕**競爭血流，要接高度狹窄（>70%）的血管；不是所有研究都顯示存活較好"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
