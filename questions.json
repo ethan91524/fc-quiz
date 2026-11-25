@@ -203,7 +203,12 @@
       "C": "本項不選。Nocardia 是細胞媒介免疫受抑制時的伺機性感染，通常在移植數月後出現，可侵犯肺部並播散至中樞神經系統。",
       "D": "本項不選。C 型肝炎（hepatitis C）在移植者主要是既存慢性感染或供者傳播問題，並非移植後第一個月最典型的急性伺機性感染。",
       "summary": "器官移植後感染依時間分布：首月先想手術／院內感染及既存感染，1–6 個月才是免疫抑制相關伺機性感染高峰。",
-      "guideline": "FC 醫學(三)第3冊 p.158"
+      "guideline": "FC 醫學(三)第3冊 p.158",
+      "approach": {
+        "k": "腎移植後**一個月內**較常出現的感染",
+        "t": "移植首月：手術與院內感染、**既存病毒再活化**（HSV）",
+        "x": "Aspergillus、Nocardia 多在 1–6 個月；C 肝不是首月典型伺機感染"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2385,7 +2390,12 @@
       "concepts": [
         "aids-diagnostic-criteria",
         "diarrhea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "男同性戀、發燒腹瀉體重減輕、口腔念珠菌、**非傷寒沙門氏菌菌血症**",
+        "t": "首要考慮 **AIDS**",
+        "x": "第一型糖尿病、白血病、骨髓瘤都沒有這組線索"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2423,7 +2433,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "郵輪旅遊後、發燒乾咳**腹瀉**、意識改變、**低血鈉**、痰抹片無菌",
+        "t": "**退伍軍人症**（水系統暴露）",
+        "x": "MI 與肺栓塞不會發燒腹瀉低鈉；肺結核不是急性病程"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2456,7 +2471,12 @@
       "C": "正確。metronidazole 主要經肝臟代謝，一般腎功能下降不需常規調整；但末期腎病、透析或嚴重肝功能不全仍需個別評估。",
       "D": "本項不選。vancomycin 的清除高度依賴腎功能，必須依腎功能、藥物濃度與 AUC 監測調整劑量和間隔，以兼顧療效及腎毒性。",
       "summary": "四藥之中 metronidazole 通常不因腎功能下降常規調整；cefazolin、levofloxacin 與 vancomycin 都主要受腎清除影響。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不需**依腎功能調整劑量的抗生素",
+        "t": "**metronidazole** 主要肝代謝",
+        "x": "cefazolin、levofloxacin、vancomycin 都經腎排泄要調整"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2489,7 +2509,12 @@
       "C": "本項不選。看到克沙奇 A 要想到疱疹性咽峽炎（herpangina）與手足口病，不是普通感冒。",
       "D": "本項不選。克沙奇 B 的代表是心肌炎、心包膜炎與胸膜痛，不是普通感冒。",
       "summary": "感冒想 rhinovirus；parainfluenza 想哮吼，coxsackie A 想手足口，B 想心肌炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "普通感冒最常見病毒",
+        "t": "**rhinovirus**",
+        "x": "parainfluenza 想哮吼；coxsackie A 想手足口；coxsackie B 想心肌炎"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2522,7 +2547,12 @@
       "C": "本項應選。Listeria 會造成腦膜炎與菌血症，特別好發於新生兒、孕婦、老人與細胞免疫低下者。",
       "D": "本項不選。第三代 cephalosporin 對 Listeria 沒有活性。這是陷阱：它是腦膜炎常用藥，高風險族群因此要加 ampicillin 才蓋得到 Listeria。",
       "summary": "老人、孕婦、新生兒的腦膜炎想 Listeria：陽性桿菌、不產孢子、cephalosporin 無效，要用 ampicillin。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Listeria、選**正確**的",
+        "t": "Listeria **會引起腦膜炎**（新生兒、孕婦、老人、細胞免疫低下）",
+        "x": "是革蘭氏**陽性桿菌**、**不產孢子**；cephalosporin **無效**，用 ampicillin"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2558,7 +2588,12 @@
       "guideline": null,
       "concepts": [
         "acute-bacterial-rhinosinusitis-diagnostic-pattern"
-      ]
+      ],
+      "approach": {
+        "k": "上呼吸道感染、選**最不恰當**的",
+        "t": "**膿鼻涕**但無發燒或局部症狀，**不代表**細菌感染、不需立即抗生素",
+        "x": "病毒最常見、病程延長加重有鼻竇壓痛想細菌性鼻竇炎、家人群聚加肌痛想流感，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -2591,7 +2626,12 @@
       "C": "本項敘述正確。二期梅毒的生殖器或會陰病灶以扁平濕疣（condyloma lata）為代表，發生率大約一到二成，題目寫的 15% 落在這個範圍。它是潮濕部位的扁平隆起，含大量螺旋體、傳染力很強。",
       "D": "本項敘述正確。二期梅毒體內螺旋體量最高，RPR 或 VDRL 幾乎都會陽性而且效價很高。要注意 prozone phenomenon：抗體太多反而讓未稀釋的檢體呈現陰性，臨床高度懷疑時要請檢驗室稀釋後重驗。",
       "summary": "二期梅毒治療後發燒不要當過敏：Jarisch–Herxheimer 很常見，遠不只 15%；RPR 陰性時先想 prozone。",
-      "guideline": "CDC STI Treatment Guidelines（早期梅毒首選 benzathine penicillin G 240 萬單位單次肌肉注射）"
+      "guideline": "CDC STI Treatment Guidelines（早期梅毒首選 benzathine penicillin G 240 萬單位單次肌肉注射）",
+      "approach": {
+        "k": "二期梅毒、選**錯誤**的",
+        "t": "二期梅毒治療後 Jarisch-Herxheimer 反應**很常見**（約 50–90%），不是 <15%",
+        "x": "青黴素過敏用 doxycycline 或 azithromycin、約 15% 有生殖器病灶、非螺旋體試驗幾乎都陽性，三句都對"
+      }
     },
     "source": "110020/302_11",
     "specialty_source": "cougarbot",
@@ -9282,7 +9322,12 @@
       "concepts": [
         "stone-intervention-selection",
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "懷孕 10 週、輸尿管結石阻塞合併感染，**最不適宜**",
+        "t": "感染加阻塞要先**引流**；孕期**禁止 ESWL**，感染未控前也不做立即碎石",
+        "x": "PCN 引流、雙 J 導管、補液觀察（症狀輕時）都可考慮"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9323,7 +9368,12 @@
       "guideline": "FC 醫學(五)第5冊 p.198",
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "腎上腺腫瘤、選**錯誤**的",
+        "t": "雙側腎上腺切除後**一定要終身補充**類固醇",
+        "x": "庫欣與 cortisol 過量有關（題目表述）、mitotane 治腎上腺癌、庫欣常有高血壓肥胖，三句符合題意"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9364,7 +9414,12 @@
       "guideline": "FC 醫學(五)第5冊 p.38",
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "晚期腎細胞癌標靶藥、選**錯誤**的",
+        "t": "VEGF 抑制劑最主要副作用是**高血壓**（及疲倦、手足症候群），不是甲狀腺低下",
+        "x": "VHL 突變相關、sunitinib 等抑制血管新生、temsirolimus 抑制 mTOR，三句符合題意"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9405,7 +9460,12 @@
       "guideline": "FC 醫學(五)第5冊 p.123",
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "PSA 10.5、free PSA 15%、TRUS 低回音病灶",
+        "t": "可疑攝護腺癌 → **經直腸超音波導引切片**確診",
+        "x": "觀察一年延誤；沒病理就手術或荷爾蒙治療都不對"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9446,7 +9506,12 @@
       "guideline": "FC 醫學(五)第5冊 p.170",
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "逼尿肌的蕈毒鹼受體亞型",
+        "t": "**M2 與 M3**（M3 負責收縮）",
+        "x": "M1 與 M4 不是逼尿肌主要亞型"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9487,7 +9552,12 @@
       "guideline": "FC 醫學(五)第5冊 p.154",
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "急性單純膀胱炎**最不會**出現",
+        "t": "**發燒**代表上泌尿道或全身感染",
+        "x": "頻尿急尿、血尿、解尿灼痛都是膀胱炎症狀"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9528,7 +9598,12 @@
       "guideline": "FC 醫學(五)第5冊 p.140",
       "concepts": [
         "stone-intervention-selection"
-      ]
+      ],
+      "approach": {
+        "k": "上段輸尿管 1 cm 結石、腎積水、發燒、低血壓",
+        "t": "**感染性阻塞** → 抗生素＋**緊急引流**（經皮腎造廔）",
+        "x": "感染期不做碎石；單靠抗生素不夠；利尿劑會加重阻塞"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9569,7 +9644,12 @@
       "guideline": "FC 醫學(五)第5冊 p.184",
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "**可以安全**使用 PDE5 抑制劑的情況",
+        "t": "服用 **rifampin** 只是降低 PDE5i 濃度，不是安全禁忌",
+        "x": "6 個月內 MI、嚴重肝病、主動脈瓣狹窄都要避免"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9612,7 +9692,12 @@
       "guideline": null,
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "45 歲女性、腎腫瘤、CT 見**脂肪密度**",
+        "t": "腎腫塊內含脂肪 → **血管肌肉脂肪瘤**",
+        "x": "腎細胞癌、淋巴瘤、泌尿上皮癌通常不含肉眼可見脂肪"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -9790,7 +9875,12 @@
       "concepts": [
         "urothelial-renal-penile-tumors",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "血尿、選**最正確**的",
+        "t": "**兒童**血尿常見原因是**腎絲球腎炎**",
+        "x": "BPH **會**造成血尿；最常見原因是**感染與結石**；無痛血尿要想**腫瘤**"
+      }
     },
     "source": "110020/302_33",
     "specialty_source": "cougarbot",
@@ -15474,7 +15564,12 @@
       "C": "本項不選。ampicillin 的口服吸收會受食物影響，但不是多價陽離子螯合的典型藥；clarithromycin 亦不因牛奶或含鎂、鋁制酸劑出現此類關鍵交互作用。",
       "D": "本項不選。dicloxacillin 常建議空腹服用以改善吸收，cefuroxime axetil 反而可隨餐增加吸收；兩者都不是因金屬離子螯合而必須避開乳製品的組合。",
       "summary": "tetracyclines 與 fluoroquinolones 都會被鈣、鎂、鋁螯合而降低口服吸收，須和乳品、制酸劑錯開。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "避免與牛奶、鎂鋁制酸劑合用的抗生素",
+        "t": "**tetracycline** 與 **fluoroquinolone** 會被二三價陽離子螯合",
+        "x": "其他組合不受鈣鎂鋁明顯影響"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15507,7 +15602,12 @@
       "C": "本項不選。Neisseria meningitidis 可無症狀移生於鼻咽，多數帶菌者不發病；只有少數進入血液或腦膜造成侵襲性感染。",
       "D": "本項不選。腦膜炎雙球菌疫苗依種類涵蓋特定血清群，例如 MenACWY 或 MenB，並不能涵蓋所有血清型／血清群。",
       "summary": "Neisseria meningitidis 是可鼻咽帶菌的革蘭氏陰性雙球菌；疫苗按血清群涵蓋，並非全包。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Neisseria meningitidis、選**正確**的",
+        "t": "**革蘭氏陰性雙球菌**",
+        "x": "不是陽性；**可以**鼻咽帶菌（移生）；疫苗依血清群，**沒有**涵蓋全部"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15540,7 +15640,12 @@
       "C": "錯誤。旋毛蟲（Trichinella spiralis）、弓形蟲（Toxoplasma gondii）等寄生蟲可侵犯骨骼肌並引起肌炎，不能說寄生蟲不會造成 myositis。",
       "D": "本項不選。金黃色葡萄球菌（Staphylococcus aureus）是化膿性肌炎（pyomyositis）最常見病原，常先菌血性播種至骨骼肌，再形成膿瘍。",
       "summary": "肌炎病原可包括病毒、細菌與寄生蟲；pyomyositis 最常見病原是 Staphylococcus aureus。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肌炎、化膿性肌炎、選**錯誤**的",
+        "t": "寄生蟲（旋毛蟲、豬囊尾蚴）**會**引起肌炎",
+        "x": "流感與 coxsackie B 造成肌炎、細菌性肌炎劇痛、金葡菌最常見，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15581,7 +15686,12 @@
       "guideline": "FC 醫學(三)第1冊 p.400",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "分枝桿菌、選**錯誤**的",
+        "t": "NTM 主要來自**環境**，**不是**人傳人空氣傳播",
+        "x": "結核菌空氣傳播、NTM 可移生可致病、NTM 可從環境培養，三句都對"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15614,7 +15724,12 @@
       "C": "正確。群聚控制要落實接觸防護、手部衛生、環境清潔與主動監測等感染管制，真正感染者再使用 vancomycin 等具 MRSA 活性的治療。",
       "D": "本項不選。感染管制是阻斷 MRSA 院內傳播的核心；無症狀移生者並非一律以全身性抗生素清除，濫用反而促進抗藥性，去移生僅用於選定情境。",
       "summary": "MRSA 群聚須同時阻斷接觸傳播並治療真正感染者；cephalosporin、oxacillin 無效，也不應一律用全身藥清除帶菌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "外科 ICU MRSA 群聚、最有效的管制",
+        "t": "嚴格**感染管制**＋用 **vancomycin** 治療感染者",
+        "x": "cephalosporin 與 oxacillin 對 MRSA 無效；感染管制**有效**，不是一律全身性去移生"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15655,7 +15770,12 @@
       "guideline": "台灣疾管署潛伏結核感染治療方案（9H／3HP／4R）；rifamycin 與 protease inhibitor 併用受限",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "HIV 吃 **lopinavir/ritonavir（PI）**、潛伏結核",
+        "t": "不改 ART → 避開 rifamycin（交互作用）→ **9 個月 isoniazid**",
+        "x": "含 rifampin 或 rifapentine 的處方會與 PI 交互作用；RZ 肝毒性高"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -15698,7 +15818,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "慢性 C 肝、葉性肺炎、痰革蘭染色見**矛頭狀陽性雙球菌**、迅速休克死亡",
+        "t": "**肺炎鏈球菌**",
+        "x": "金葡菌是成團陽性球菌；Listeria 是陽性桿菌；化膿性鏈球菌是鏈狀"
+      }
     },
     "source": "110080/302_11",
     "specialty_source": "cougarbot",
@@ -22431,7 +22556,12 @@
       "guideline": "FC 醫學(五)第5冊 p.139",
       "concepts": [
         "stone-intervention-selection"
-      ]
+      ],
+      "approach": {
+        "k": "1.5 cm 有症狀腎結石、塗藥支架**仍在吃抗凝血藥**",
+        "t": "不能停抗栓 → **軟式輸尿管鏡碎石**（出血風險最低）",
+        "x": "ESWL 與 PCNL 都要停抗凝；腎盂截石太侵入"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22472,7 +22602,12 @@
       "guideline": "FC 醫學(五)第5冊 p.65",
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "膀胱癌、選**最適當**的",
+        "t": "部分膀胱癌（尤其原位癌）會以**膀胱刺激症狀**表現",
+        "x": "最常見是**泌尿上皮癌**；鱗癌**與慢性發炎有關**；膀胱是泌尿上皮**最常**發生腫瘤處"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22514,7 +22649,12 @@
       "concepts": [
         "urothelial-renal-penile-tumors",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "左腎盂**高惡性度**泌尿上皮癌、無轉移、對側腎正常",
+        "t": "**根除性腎輸尿管切除加膀胱袖口**",
+        "x": "內視鏡雷射或經皮切除用在低惡性度或孤腎；放療不是首選"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22550,7 +22690,12 @@
       "guideline": null,
       "concepts": [
         "international-prostate-symptom-score"
-      ]
+      ],
+      "approach": {
+        "k": "BPH 藥物、選**最不恰當**的",
+        "t": "選擇性 α1 阻斷劑主要作用在攝護腺的 **α1A**，不是 α1D",
+        "x": "IPSS 輕度通常觀察、α1 阻斷劑改善症狀、副作用列舉，三句都對"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22586,7 +22731,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "較會產生**自主神經反射異常**的脊髓損傷",
+        "t": "**T6 以上**（含 T6–8 附近）損傷",
+        "x": "薦髓、腰髓、T10–12 都低於 T6"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22627,7 +22777,12 @@
       "guideline": "FC 醫學(五)第5冊 p.154",
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "治療後持續菌尿（unresolved）**最常見**原因",
+        "t": "細菌對所用抗生素**抗藥**",
+        "x": "兩種菌、氮血症、乳突壞死都較少"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22668,7 +22823,12 @@
       "guideline": "FC 醫學(五)第5冊 p.154",
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "兒童尿路感染、選**正確**的",
+        "t": "來源多是**肛門糞便菌**經會陰上行",
+        "x": "1 歲內**男孩較多**；腎盂腎炎**會**結疤；年紀較大女孩 UTI 較多"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -22709,7 +22869,12 @@
       "guideline": "FC 醫學(五)第5冊 p.184",
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "sildenafil、選**正確**的",
+        "t": "服用**硝酸鹽**時**禁用**",
+        "x": "不增加大腦訊號（需性刺激）；是**抑制** cGMP 分解；抑制的是 **PDE5**"
+      }
     },
     "source": "110080/302_33",
     "specialty_source": "cougarbot",
@@ -26845,7 +27010,12 @@
       "guideline": "FC 醫學(三)第2冊 p.114",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "慢性 B 肝治療**不根據**的因素",
+        "t": "看 **HBV DNA**、ALT、纖維化與再活化風險；**HBV RNA** 不是治療依據",
+        "x": "纖維化、ALT、是否化療都是依據"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -27209,7 +27379,12 @@
       "guideline": "FC 醫學(三)第2冊 p.114",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "B 肝感染血清學、選**錯誤**的",
+        "t": "anti-HBc IgM 在 HBsAg 出現**後不久**（約 1–2 週）就可測到，不是 4 週後",
+        "x": "HBsAg 最早出現約 8–12 週、早於轉氨酶 2–6 週、isolated anti-HBc 可見於急性空窗或隱匿感染，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28322,7 +28497,12 @@
       "guideline": "FC 醫學(三)第1冊 p.400",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "結核菌 **rpoB** 基因突變",
+        "t": "rpoB → **rifampin** 抗藥",
+        "x": "katG/inhA 是 isoniazid；embB 是 ethambutol；pncA 是 pyrazinamide"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28735,7 +28915,12 @@
       "C": "本項不選。②需要肥皂與水的理由是 C. difficile 孢子不易被酒精殺滅；④照護 COVID-19 患者前，手部無可見髒污時酒精性乾洗手有效，故「②④皆不適合」不成立。",
       "D": "本項不選。①與②不宜單獨乾洗手，但③與④在手部無可見髒污時可使用酒精性乾洗手，因此不能選四者全部。",
       "summary": "酒精乾洗手的兩個重要例外是手部可見髒污與 C. difficile／其他產孢菌情境；本題官方因③措辭爭議接受 A、B 或 AB。",
-      "guideline": "官方更正：第59題答 A 或 B 或 AB 均給分"
+      "guideline": "官方更正：第59題答 A 或 B 或 AB 均給分",
+      "approach": {
+        "k": "**不適合**單獨用酒精乾洗手的情境（官方 A、B 都給分）",
+        "t": "①手部明顯髒污、②照護 **C. difficile**（孢子不怕酒精）",
+        "x": "放尿管前與照護 COVID 前酒精乾洗手即可（③有措辭爭議）"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28768,7 +28953,12 @@
       "C": "錯誤。PML 典型影像是多灶、非對稱白質病灶，通常沒有明顯 mass effect 或顯著 edema；這點可協助與腫瘤及腦膿瘍區分。",
       "D": "本項不選。PML 沒有能直接清除 JC virus 且已證實有效的特定抗病毒藥；處置核心是恢復免疫功能，例如 HIV 患者開始或最佳化 ART。",
       "summary": "PML 是免疫低下者 JC virus 感染 oligodendrocytes 所致脫髓鞘病，影像通常無明顯水腫或腫塊效應。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "PML、選**錯誤**的",
+        "t": "PML 影像通常**沒有**明顯水腫或占位效應",
+        "x": "JC 病毒感染寡樹突細胞、多見於 AIDS、沒有特效治療，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28850,7 +29040,12 @@
       "guideline": "NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults with HIV（PJP 輔助類固醇與次級預防停用條件）",
       "concepts": [
         "pjp-severity-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "HIV、間質性肺炎、血氧 86%，選**錯誤**的",
+        "t": "PJP 且室內空氣 PaO₂ <70 → **要加類固醇**",
+        "x": "最常見是 PJP、首選 TMP-SMX、療後要次級預防，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28883,7 +29078,12 @@
       "C": "本項應選。這是最不恰當的第一線選擇。無慢性病、無 MRSA 危險因子且為一般非化膿性蜂窩性組織炎（cellulitis）時，應先針對 streptococci，必要時兼顧 MSSA；vancomycin 保留給重症或 MRSA 風險。",
       "D": "本項不選。壞死性筋膜炎（necrotizing fasciitis）可能為多菌性，經驗治療須同時涵蓋革蘭氏陽性、陰性與厭氧菌，並立即外科探查清創，不能只靠抗生素。",
       "summary": "皮膚軟組織感染要依暴露與嚴重度選藥；單純 cellulitis 不需一開始就用 vancomycin，壞死性筋膜炎則須廣效藥加緊急清創。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "皮膚軟組織感染第一線、**最不恰當**",
+        "t": "單純**蜂窩性組織炎**第一線是 cefazolin 等，**不需**一開始用 vancomycin",
+        "x": "狗咬傷 amoxicillin-clavulanate、帶狀疱疹 acyclovir、壞死性筋膜炎廣效加清創，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28924,7 +29124,12 @@
       "guideline": "FC 醫學(三)第1冊 p.367",
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "社區型肺炎診斷工具、選**錯誤**的",
+        "t": "好的痰檢體是**嗜中性球 >25**、**鱗狀上皮 <10**（每低倍視野）；選項把上皮寫成 >10",
+        "x": "住院者血培養陽性率 5–14%、尿液退伍軍人菌與肺炎鏈球菌抗原，三句都對"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -28965,7 +29170,12 @@
       "guideline": "FC 醫學(三)第3冊 p.188",
       "concepts": [
         "childhood-exanthems"
-      ]
+      ],
+      "approach": {
+        "k": "皮膚軟組織病原與表現、配對**錯誤**",
+        "t": "**露珠狀水泡**（dewdrop on rose petal）是**水痘**，不是梅毒",
+        "x": "綠膿桿菌–熱水池毛囊炎、化膿性鏈球菌–淋巴管炎、HSV-1–唇疱疹，三組正確"
+      }
     },
     "source": "111020/302_11",
     "specialty_source": "cougarbot",
@@ -34938,7 +35148,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "隱睪症、選**錯誤**的",
+        "t": "觸診與超音波都找不到睪丸，**不能**就判定萎縮，需腹腔鏡探查",
+        "x": "6 個月到 1 歲手術、癌化風險不因固定而消失、術後不孕機率仍較高，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35496,7 +35711,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**結石促進劑",
+        "t": "**鎂**是結石**抑制劑**（與檸檬酸一樣）",
+        "x": "基質、草酸、尿酸都是促進劑"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35532,7 +35752,12 @@
       "guideline": null,
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "肌肉侵犯型膀胱癌、選**最正確**的",
+        "t": "合併**水腎**時預後較差",
+        "x": "根除術後轉移約 **50%**；標準是**術前化療**加根除；腎功能差**不適合**原位新膀胱"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35573,7 +35798,12 @@
       "guideline": "FC 醫學(五)第5冊 p.94",
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "睪丸癌、選**錯誤**的",
+        "t": "睪丸癌先轉移到**主動脈旁（後腹腔）**淋巴結，不是腹股溝與骨盆",
+        "x": "隱睪風險高、多為生殖細胞瘤、絨毛膜癌易血行轉移，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35610,7 +35840,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "LUTS、DRE 攝護腺肥大，**最不需立即**的檢查（官方 A、B 都給分）",
+        "t": "無併發症線索的初評不必常規驗肌酸酐或腎臟超音波",
+        "x": "尿液常規與 PSA 是初評項目"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35651,7 +35886,12 @@
       "guideline": "FC 醫學(五)第5冊 p.170",
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "**不會**造成逼尿肌反射亢進的脊髓完全損傷",
+        "t": "**薦髓 S2–4** 本身損傷 → 排尿反射弧被破壞 → 逼尿肌**無收縮**",
+        "x": "頸髓、胸髓、腰髓在薦髓以上，保留反射弧而亢進"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35693,7 +35933,12 @@
       "concepts": [
         "urothelial-renal-penile-tumors",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "從病史就判斷是**尿路感染**引起的血尿",
+        "t": "25 歲女性、突發血尿、**解尿痛、頻尿急尿**、下腹痠",
+        "x": "老人無痛血尿要排除癌症；腰絞痛加血尿是結石"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35729,7 +35974,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "急性睪丸痛、副睪炎 vs 扭轉，選**錯誤**的",
+        "t": "捧起睪丸**緩解**（Prehn sign）較像**副睪炎**，不是扭轉",
+        "x": "溫度高較像副睪炎、提睪反射消失較像扭轉、發燒較像副睪炎，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -35770,7 +36020,12 @@
       "guideline": null,
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "陰莖都卜勒、選**錯誤**的",
+        "t": "靜脈閉鎖正常時 RI 應 **>0.9**（接近 1），不是 <0.9",
+        "x": "打 PGE1、RI 判斷靜脈閉鎖、PSV 判斷動脈，三句都對"
+      }
     },
     "source": "111020/302_33",
     "specialty_source": "cougarbot",
@@ -39909,7 +40164,12 @@
       "C": "本項應選。pegylated interferon 加 ribavirin 是十多年前的舊標準，療程長、副作用重、治癒率有限。現在是全口服 direct-acting antivirals（DAA），8 到 12 週療程、治癒率九成五以上，genotype 1 也不例外。",
       "D": "本項敘述正確。達到 SVR（停藥後 12 週測不到病毒）可降低肝硬化進展、失代償與肝癌風險。但風險是「降低」不是「歸零」，已有肝硬化的人清除病毒後仍要繼續做肝癌篩檢。",
       "summary": "C 肝現在是全口服 DAA、8–12 週治癒，不是干擾素年代了；但清除病毒不等於免追蹤，有肝硬化仍要每半年掃一次。",
-      "guideline": "台灣健保自 2019 年起全面給付 C 肝 DAA，不限纖維化分期"
+      "guideline": "台灣健保自 2019 年起全面給付 C 肝 DAA，不限纖維化分期",
+      "approach": {
+        "k": "68 歲 C 肝 genotype 1、無肝硬化，選**錯誤**的",
+        "t": "現在治療是**全口服 DAA**（8–12 週），不再以干擾素加 ribavirin 為主",
+        "x": "定期肝癌篩檢、應接受抗病毒、清除病毒減少肝硬化肝癌，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41053,7 +41313,12 @@
       "guideline": "FC 醫學(三)第4冊 p.282",
       "concepts": [
         "febrile-neutropenia-definition"
-      ]
+      ],
+      "approach": {
+        "k": "降低發燒性中性球低下致死率**最沒幫助**的",
+        "t": "持續發燒 7–10 天就經驗性**抗病毒**沒有根據",
+        "x": "立即經驗性抗生素、持續發燒 4–7 天加抗黴菌、極重度低下前預防性用藥，都有幫助"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41401,7 +41666,12 @@
       "guideline": "FC 醫學(三)第1冊 p.399",
       "concepts": [
         "antituberculosis-dili-stop-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "抗結核治療 1 個月、**無症狀**、AST 48、ALT 71（< 3 倍）",
+        "t": "未達停藥門檻（無症狀 ALT >5 倍或有症狀 >3 倍）→ **繼續治療並密切追蹤**",
+        "x": "停全部藥或換藥都太早"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41482,7 +41752,12 @@
       "C": "本項不選。COVID-19 造成嚴重低血氧時可從一般氧療、高流量鼻導管逐步升級；若氧合仍失敗、呼吸功過高或意識惡化，需以侵入性呼吸器提供肺保護通氣來維持氧合。",
       "D": "本項不選。嚴重 COVID-19 會造成肺泡上皮與微血管內皮受損，使富含蛋白的液體及發炎細胞進入肺泡；這種瀰漫性肺泡損傷正是低順應性與 ARDS 的病理基礎。",
       "summary": "COVID-19 重症以低血氧性第一型呼吸衰竭與 ARDS 為主，高碳酸血症型第二型呼吸衰竭不是主要特徵。",
-      "guideline": "FC 醫學(三)第3冊 p.294"
+      "guideline": "FC 醫學(三)第3冊 p.294",
+      "approach": {
+        "k": "**不是** COVID-19 肺部感染特徵",
+        "t": "COVID-19 重症是**低血氧第一型**呼吸衰竭與 ARDS，不是第二型",
+        "x": "可造成 ARDS、常需呼吸器、肺泡充滿發炎液體，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41821,7 +42096,12 @@
       "guideline": "FC 醫學(三)第1冊 p.399",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "肺結核感染管制、選**最不適當**的",
+        "t": "醫療人員接種 **BCG 不能**有效預防成人職業感染",
+        "x": "負壓單人室、門窗關閉每小時換氣 6–12 次、N95，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41859,7 +42139,12 @@
       "C": "本項不選。②對、③錯，不能選僅②③。",
       "D": "本項不選。全選等於把 ESBL 當成 carbapenemase；它能水解延伸型頭孢與 aztreonam，但不是所有 β-lactam。",
       "summary": "ESBL 水解第三代頭孢與 aztreonam，通常不水解 carbapenem，所以 ESBL 菌用 carbapenem。",
-      "guideline": "FC 醫學(三)第3冊 p.267"
+      "guideline": "FC 醫學(三)第3冊 p.267",
+      "approach": {
+        "k": "ESBL 能水解的 β-lactam",
+        "t": "①第三代頭孢、②aztreonam；**carbapenem 不被水解**",
+        "x": "含 ertapenem 的組合都錯"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41892,7 +42177,12 @@
       "C": "本項不選。急性 Q 熱常表現為不明熱、非典型肺炎或肝炎；培養陰性的心內膜炎是慢性 Q 熱代表表現，特別見於原有瓣膜病或血管植入物患者。",
       "D": "正確。Coxiella burnetii 對環境耐受且動物生產物含菌量高，污染物乾燥後可形成氣膠；即使未直接接觸牲畜，吸入被風吹散的 aerosol 也可能感染。",
       "summary": "Q 熱以牲畜生產物污染氣膠傳人；急性型多為發熱、肺炎或肝炎，慢性型才典型造成心內膜炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Q fever、選**正確**的",
+        "t": "經**吸入**牲畜污染的氣膠感染",
+        "x": "年長者症狀較多；人傳人**少見**；**慢性**型才典型心內膜炎"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41933,7 +42223,12 @@
       "guideline": "FC 醫學(三)第3冊 p.182",
       "concepts": [
         "bacterial-meningitis-csf-pattern"
-      ]
+      ],
+      "approach": {
+        "k": "細菌性腦膜炎 CSF、選**錯誤**的",
+        "t": "革蘭染色陽性率約 **60–90%**，是很有價值的快速檢查",
+        "x": "多數 PMN >100、CSF/血糖比 <0.4、培養多數陽性，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -41974,7 +42269,12 @@
       "guideline": "FC 醫學(三)第3冊 p.319",
       "concepts": [
         "aids-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "AIDS、CD4 48、小腦 3.5 cm 腫塊、Toxoplasma 抗體陽性，選**錯誤**的",
+        "t": "最常見病因是**弓蟲腦炎**，不是原發性 CNS 淋巴瘤",
+        "x": "先治弓蟲 1–2 週無效再切片、已符合 AIDS 排除隱球菌後啟動 ART、需 TMP-SMX 預防 PJP，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -42012,7 +42312,12 @@
       "C": "本項不選。Giardia cyst 對一般飲水氯化相對耐受，僅喝經常規氯消毒的野外水仍不可靠；預防露營感染應將水煮沸，或使用能去除原蟲囊體的合格濾水方式。",
       "D": "本項不選。Guillain–Barré syndrome 的經典感染前驅是 Campylobacter jejuni 腸炎，其脂寡糖與周邊神經節苷脂產生分子模仿；Giardia 治癒後並不常出現此併發症。",
       "summary": "低丙種球蛋白血症者露營後無血性腹瀉要想 Giardia；以抗原蟲藥治療，預防靠煮沸或過濾而非只靠氯化。",
-      "guideline": "FC 醫學(三)第3冊 p.341"
+      "guideline": "FC 醫學(三)第3冊 p.341",
+      "approach": {
+        "k": "低丙球蛋白、露營後非血性腹瀉、腹脹、無發燒、糞便見**移動原蟲**",
+        "t": "**Giardia lamblia**",
+        "x": "治療是 **metronidazole/tinidazole**；氯消毒**擋不住**囊體要煮沸或過濾；GBS 與 Campylobacter 相關"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -42048,7 +42353,12 @@
       "guideline": null,
       "concepts": [
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲 L1–2 骨髓炎、選**錯誤**的",
+        "t": "成人急性脊椎骨髓炎**最常見就在腰椎**",
+        "x": "症狀不典型、最常見革蘭陽性（金葡菌）、MRI 是黃金標準，三句都對"
+      }
     },
     "source": "111080/302_11",
     "specialty_source": "cougarbot",
@@ -46102,7 +46412,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "腎移植免疫抑制感染副作用、選**最不恰當**",
+        "t": "PTLD 與 **EBV** 相關，選項描述不正確",
+        "x": "預防 CMV、BK 病毒腎病、長期免疫抑制增加癌症，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -47814,7 +48129,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "隱睪症、選**錯誤**的",
+        "t": "睪丸固定術最好在 **6–18 個月**完成，不是 2 歲後",
+        "x": "6 個月就有組織變化、間質細胞萎縮精蟲生成受損、固定後可早期偵測癌變，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48508,7 +48828,12 @@
       "guideline": "FC 醫學(五)第5冊 p.139",
       "concepts": [
         "stone-intervention-selection"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** ESWL 禁忌症",
+        "t": "**肥胖**只會降低成功率，不是禁忌",
+        "x": "凝血異常、嚴重骨骼畸形（無法定位）、附近動脈瘤都是禁忌"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48549,7 +48874,12 @@
       "guideline": "FC 醫學(五)第5冊 p.121",
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲、排尿症狀、PSA 7.2、**尿液白血球 50–60**",
+        "t": "膿尿可能讓 PSA 升高 → **先治療感染**再重測",
+        "x": "還沒排除感染就驗 free PSA、MRI、切片都太早"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48586,7 +48916,12 @@
       "concepts": [
         "urothelial-renal-penile-tumors",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "塑膠工廠、無痛全程血尿帶條狀血塊、**肌酸酐 3.0**",
+        "t": "腎功能差不宜打顯影劑 → **逆行性腎盂攝影**評估上泌尿道",
+        "x": "條狀血塊像**上泌尿道**來源；尿液細胞學敏感度**低**；CT urography 要打顯影劑"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48663,7 +48998,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "支配**尿道外括約肌**的神經",
+        "t": "**陰部神經（pudendal）**（體神經）",
+        "x": "骨盆神經是副交感（逼尿肌）；下腹神經是交感（膀胱頸）；閉孔神經管大腿內收"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48699,7 +49039,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "精索靜脈曲張、選**錯誤**的",
+        "t": "經皮栓塞**不是**成功率最高的；顯微手術結紮復發率最低",
+        "x": "最常見可矯正的不孕原因、不孕男性約 40%、精液常異常，三句都對"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48735,7 +49080,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "**最不會**引起腎積水的先天異常",
+        "t": "**尿道下裂**只是開口位置異常，不阻塞上尿路",
+        "x": "後尿道瓣膜、UPJ 阻塞、重複輸尿管都可能造成積水"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -48771,7 +49121,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "5 歲脊髓脊膜膨出、尿失禁、輕度積水、**第一度**逆流，**不適合**的",
+        "t": "神經性膀胱合併低度逆流先**排空降壓**，**不需**儘早做輸尿管重建",
+        "x": "間歇導尿、抗膽鹼藥、定期尿動力學檢查都適合"
+      }
     },
     "source": "111080/302_33",
     "specialty_source": "cougarbot",
@@ -53636,7 +53991,12 @@
       "C": "本項不選。tumor necrosis。TNF-α 是敗血症早期重要的發炎介質，可造成血管擴張、微血管滲漏與心肌抑制。濃度過高會加重休克與器官傷害。",
       "D": "本項不選。interleukin-6 。IL-6 會驅動肝臟急性期反應，例如 CRP 上升；它也是敗血症發炎程度的常見指標。",
       "summary": "看到敗血症的 cytokine，先想 TNF-α、IL-1、IL-6；IL-5 則是 eosinophil 與過敏反應的代表。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "與敗血症關係**較不密切**的細胞激素",
+        "t": "**IL-5** 管嗜酸性球與過敏",
+        "x": "IL-1、TNF-α、IL-6 都是敗血症主要發炎激素"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54775,7 +55135,12 @@
       "C": "本項（C：此時病人會有病毒血症 vir）不選。急性感染期病毒快速複製，血中 HIV RNA 很高，因此傳染力也特別高。此時抗體檢查可能仍在 window period。",
       "D": "本項（D：出現acute HIV sy）不選。急性症狀可自行緩解而進入慢性期，但病毒並未清除。症狀消失不能當作未感染，也不應延後 HIV 診斷與 ART 評估。",
       "summary": "急性 HIV 常在暴露後數週以像流感的症狀出現；症狀會退，但高病毒量與傳染力不會因此消失。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "急性 HIV 症候群、選**錯誤**的",
+        "t": "多數（約 **50–90%**）初次感染者會有急性症狀，不是 <10%",
+        "x": "3–6 週出現、病毒量很高、不治療症狀也會自行消退，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54813,7 +55178,12 @@
       "C": "本項（C：僅①④⑤）不選。①與④都不對：碰過床欄後屬接觸病人周遭環境後，備藥或清潔身體前則是無菌／清潔操作前。⑤已在導尿前完成酒精乾洗手，不能列為錯誤。",
       "D": "本項（D：①②③④⑤）不選。五句不會全部錯。⑤明確描述在導尿前做酒精性手部消毒；手部沒有可見髒污時，這是合適的無菌操作前手部衛生。",
       "summary": "手部衛生不只在碰到病人後：接觸床欄、處理體液、做清潔／無菌操作前，以及換病人之間都要做。",
-      "guideline": "WHO, My 5 Moments for Hand Hygiene"
+      "guideline": "WHO, My 5 Moments for Hand Hygiene",
+      "approach": {
+        "k": "手部衛生時機、選出**錯誤**的敘述",
+        "t": "①碰床欄後、②搬移病人後、③換病人之間（即使戴手套）、④準備藥物或清潔病人前，**都要**洗手",
+        "x": "⑤導尿前乾洗手是正確的"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54854,7 +55224,12 @@
       "guideline": "Modified Duke criteria",
       "concepts": [
         "duke-criteria-infective-endocarditis"
-      ]
+      ],
+      "approach": {
+        "k": "Duke criteria 的 **major**",
+        "t": "①兩套血培養長典型菌、②心臟超音波見瓣膜 oscillating mass",
+        "x": "③發燒與④Janeway lesion、Osler node 都是 **minor**"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54892,7 +55267,12 @@
       "C": "本項（C：免疫缺損病人及兒童可傳染期較）不選。兒童與免疫缺損者排出病毒的時間可較長，因此照護與隔離期間要依臨床情況調整。",
       "D": "本項（D：流感快篩陰性，即可排除流感）是本題要選。流感快篩的敏感度有限，陰性只能降低可能性；流行季節或高風險患者仍應依臨床表現考慮 PCR／NAAT 或治療。",
       "summary": "流感快篩陰性不是排除檢驗；臨床懷疑高時，別讓一個陰性快篩延誤診斷或抗病毒治療。",
-      "guideline": "CDC, Guide for considering influenza testing"
+      "guideline": "CDC, Guide for considering influenza testing",
+      "approach": {
+        "k": "流感、選**錯誤**的",
+        "t": "快篩**敏感度不高**，陰性**不能**排除流感",
+        "x": "RNA 病毒、飛沫與接觸傳染、免疫缺損與兒童傳染期較長，三句都對"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54928,7 +55308,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**結核菌群",
+        "t": "**M. chelonae** 是快速生長型 NTM",
+        "x": "africanum、bovis、microti 都屬結核菌群"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54961,7 +55346,12 @@
       "C": "不正確：Pseudomonas ae。Pseudomonas aeruginosa 常見於潮濕環境與特定醫療暴露；它不能把海水暴露、肝硬化與暴發性水泡性敗血症串成最典型的診斷。",
       "D": "正確：Vibrio vulnifi。Vibrio vulnificus 可由海水或生食海鮮進入，肝硬化者特別容易快速發展成壞死性傷口、菌血症與休克，須立刻處置。",
       "summary": "肝硬化者碰海水或被魚刺刺傷後出現出血性水泡與休克，先想 Vibrio vulnificus。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肝硬化、海邊被魚刺刺傷、隔天紫紅色水泡、休克",
+        "t": "**創傷弧菌（Vibrio vulnificus）**",
+        "x": "金葡菌與化膿性鏈球菌沒有海水暴露加肝硬化的典型；綠膿桿菌不是海水"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -54999,7 +55389,12 @@
       "C": "本項應選。創傷弧菌重症的標準組合是第三代頭孢菌素加 tetracycline 類（如 ceftazidime 加 doxycycline），兩者有協同作用。同樣重要的是**緊急外科清創**，光靠抗生素救不回快速壞死的肢體。",
       "D": "本項不選。Cefazolin 是第一代頭孢，主要打 MSSA；加 amikacin 也缺乏針對弧菌的實證。",
       "summary": "海水或生食海鮮後爆發性蜂窩組織炎加出血性水疱：ceftazidime 加 doxycycline，並立刻清創。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "承上、最恰當的抗生素",
+        "t": "**ceftazidime＋tetracycline（doxycycline）**，並緊急清創",
+        "x": "vancomycin＋gentamicin、clindamycin＋penicillin、cefazolin＋amikacin 都不是 Vibrio 首選"
+      }
     },
     "source": "112020/302_11",
     "specialty_source": "cougarbot",
@@ -60717,7 +61112,12 @@
       "guideline": "FC 醫學(五)第5冊 p.92",
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "隱睪症、選**正確**的",
+        "t": "**兩歲後**未矯正，精子生成已受損",
+        "x": "摸不到睪丸還要排除回縮性或腹內；固定後生育力**不一定**恢復正常；固定**不降低**癌化風險（只是易偵測）"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61525,7 +61925,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "尿路結石、選**錯誤**的",
+        "t": "Randall's plaque 與**草酸鈣**結石有關，不是胱胺酸",
+        "x": "檸檬酸是抑制劑、鹿角狀磷酸銨鎂結石可致腎功能喪失、尿酸結石尿液偏酸，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61562,7 +61967,12 @@
       "concepts": [
         "urothelial-renal-penile-tumors",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "膀胱鏡見紅色扁平病灶、TURBT 病理**原位癌**",
+        "t": "膀胱 CIS → **膀胱內灌注 BCG**",
+        "x": "再次 TURBT 不是 CIS 標準；根除手術用在 BCG 失敗；新輔助化療是肌肉侵犯型"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61603,7 +62013,12 @@
       "guideline": "FC 醫學(五)第5冊 p.92",
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "陰莖癌、選**錯誤**的",
+        "t": "陰莖癌最常見是**鱗狀細胞癌**，不是基底細胞癌",
+        "x": "與 HPV 相關、Queyrat 紅斑是原位癌、先腹股溝淋巴轉移，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61644,7 +62059,12 @@
       "guideline": "FC 醫學(五)第5冊 p.120",
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "BPH 檢查、選**最不恰當**的",
+        "t": "DRE 測得的大小與症狀嚴重度**沒有**正相關",
+        "x": "摸到硬塊要評估癌症、DRE 偵測癌症敏感度低、DRE 常低估大小，三句都對"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61685,7 +62105,12 @@
       "guideline": "FC 醫學(五)第5冊 p.169",
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "中風 3 個月、頻尿急尿憋不住",
+        "t": "失去大腦抑制 → **逼尿肌過動** → 膀胱本身無法**儲存**",
+        "x": "出口因素儲存問題是括約肌無力；排空障礙是逼尿肌無力或出口阻塞"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61726,7 +62151,12 @@
       "guideline": "FC 醫學(五)第5冊 p.183",
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "早洩、dapoxetine 的機轉",
+        "t": "短效 SSRI → **增加 serotonin**",
+        "x": "不是 dopamine、testosterone 或 acetylcholine"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -61942,7 +62372,12 @@
       "concepts": [
         "uti-trauma-transplant-urology",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "車禍下腹痛血尿、逆行膀胱攝影顯影劑**進入腹腔**",
+        "t": "**腹膜內膀胱破裂**（需手術修補）",
+        "x": "輸尿管破裂、假性憩室、攝護腺肥大都不是這個影像"
+      }
     },
     "source": "112020/302_33",
     "specialty_source": "cougarbot",
@@ -66833,7 +67268,12 @@
       "guideline": null,
       "concepts": [
         "complement-screening-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "**最應**考慮補體缺陷的感染",
+        "t": "反覆 **Neisseria** 感染 → 末端補體（C5–C9）缺乏",
+        "x": "分枝桿菌是 IFN-γ/IL-12 軸；帶狀疱疹是細胞免疫；葡萄球菌是吞噬細胞"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67519,7 +67959,12 @@
       "guideline": "ATS/ERS/ESCMID/IDSA NTM 肺病指引（MAC 以 macrolide 為骨幹，轉陰後續治 12 個月）",
       "concepts": [
         "ntm-pulmonary-disease-diagnostic-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "NTM、選**最適當**的",
+        "t": "**MAC** 是慢速生長菌，肺病治療要到痰培養轉陰後**再 12 個月**（總約 18 個月）",
+        "x": "NTM 肺病**多不**在 HIV（多是結構性肺病）；**M. gordonae** 多是污染菌；**M. abscessus** 治療要很久"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67889,7 +68334,12 @@
       "guideline": "CDC, Guidelines for the Prevention of Intravascular Catheter-Related Infections",
       "concepts": [
         "central-line-bundle"
-      ]
+      ],
+      "approach": {
+        "k": "CLABSI 預防組合包括",
+        "t": "①教育訓練、②最大無菌面防護、③chlorhexidine 消毒",
+        "x": "④**不建議**常規定期更換導管"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67927,7 +68377,12 @@
       "C": "本項不選。TMP-SMX 對肺炎鏈球菌仍有部分活性，抗藥比例因地區而異。跟腦膜炎雙球菌比起來，它至少還沾得上邊。",
       "D": "本項應選。腦膜炎雙球菌靠的是疫苗，加上密切接觸者的短程預防（rifampin、ciprofloxacin 或 ceftriaxone）。長期吃 TMP-SMX 不是防它的手段。",
       "summary": "TMP-SMX 預防的主角是 PJP，順帶罩住 Nocardia 與 Listeria；腦膜炎雙球菌靠疫苗，不靠它。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "移植後 TMP-SMX 預防，**最不適當**（不能減少）",
+        "t": "TMP-SMX 預防 PJP，也涵蓋 Nocardia、Listeria、部分肺炎鏈球菌；**腦膜炎雙球菌**靠疫苗",
+        "x": "Listeria、Nocardia、肺炎鏈球菌都能被涵蓋"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -67965,7 +68420,12 @@
       "C": "本項不選。Vancomycin 用來涵蓋抗藥性肺炎鏈球菌，不是 Listeria 腦膜炎的核心藥物。",
       "D": "本項不選。Ciprofloxacin 對部分革蘭氏陰性菌有效，但不是 Listeria 腦膜炎的標準治療。",
       "summary": "腦膜炎遇到嬰兒、老人或細胞免疫低下，經驗性治療要加 ampicillin 蓋 Listeria。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "嬰兒、55 歲以上、細胞免疫缺損的腦膜炎，要加蓋 Listeria",
+        "t": "**ampicillin**",
+        "x": "ceftriaxone 對 Listeria 無效；vancomycin 蓋抗藥肺炎鏈球菌；ciprofloxacin 不是首選"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -68053,7 +68513,12 @@
       "guideline": null,
       "concepts": [
         "diarrhea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "食物中毒與旅行者腹瀉、選**錯誤**的",
+        "t": "Shigella 感染劑量很低，**很容易人傳人**",
+        "x": "毒素型（金葡菌、仙人掌桿菌）潛伏期最短、Shigella 阿米巴梨形蟲感染劑量低、霍亂是腸毒素糞便少白血球，三句都對"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -68091,7 +68556,12 @@
       "C": "本項不選。Linezolid 對 MRSA 有效、肺部濃度好；要注意血球抑制與血清素藥物交互作用。",
       "D": "本項應選。Oxacillin 是治療 MSSA 的 β-lactam；MRSA 因為 PBP2a 改變，對它與多數 β-lactam 都抗藥。",
       "summary": "MRSA 的機轉是 PBP2a；oxacillin 只能治 MSSA。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "洗腎 10 年、MRSA 肺炎，**不宜**的抗生素",
+        "t": "**oxacillin** 對 MRSA 無效（PBP2a）",
+        "x": "vancomycin、teicoplanin、linezolid 都能治 MRSA"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -68678,7 +69148,12 @@
       "C": "本項不選。抗生素一下去，糞便培養的陽性率會掉得很快。傷寒的診斷主力是治療前的血液培養，第一週陽性率最高；真的都陰性時骨髓培養最敏感。",
       "D": "本項不選。南亞與東南亞的 Salmonella Typhi 早就出現 fluoroquinolone 敏感性下降，甚至有廣泛抗藥（XDR）菌株。從那些地區回來的病人，經驗性治療多改用 ceftriaxone 或 azithromycin。",
       "summary": "發燒一週、白血球反而低、肝指數上升又摸到脾臟，就要想傷寒；診斷靠治療前的血液培養。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "傷寒、選**最正確**的",
+        "t": "傷寒可有**白血球下降**、肝功能異常、**脾腫大**",
+        "x": "早期常**便祕**不以血便為主；用抗生素後最易培養的是**骨髓**；S. typhi 對 fluoroquinolone **已有**抗藥"
+      }
     },
     "source": "112080/302_11",
     "specialty_source": "cougarbot",
@@ -73889,7 +74364,12 @@
       "guideline": null,
       "concepts": [
         "vesicoureteral-reflux-grading"
-      ]
+      ],
+      "approach": {
+        "k": "2 個月 UTI 菌血症腦膜炎、VCUG 見雙側逆流嚴重擴張扭曲",
+        "t": "**Grade V** 雙側膀胱輸尿管逆流",
+        "x": "Grade II 無擴張；III 輕中度擴張；IV 中度擴張扭曲但不如 V 嚴重"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74664,7 +75144,12 @@
       "guideline": "FC 醫學(五)第5冊 p.138",
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "輸尿管阻塞多久後約三分之一造成不可逆腎傷害",
+        "t": "約 **一個月**",
+        "x": "一週太短；三個月與六個月太長"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74705,7 +75190,12 @@
       "guideline": "FC 醫學(五)第5冊 p.37",
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "腎細胞癌副腫瘤症候群**不包括**",
+        "t": "RCC 分泌 PTHrP 造成**高**血鈣，不是低血鈣",
+        "x": "高血壓（renin）、肝功能異常（Stauffer）、紅血球增多（EPO）都是"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74785,7 +75275,12 @@
       "guideline": "FC 醫學(五)第5冊 p.120",
       "concepts": [
         "international-prostate-symptom-score"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** BPH 手術絕對適應症",
+        "t": "**體積 >50 mL 加 IPSS >20** 只是相對考量",
+        "x": "反覆肉眼血尿、反覆感染、腎功能受損都是絕對適應症"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74827,7 +75322,12 @@
       "guideline": "FC 醫學(五)第5冊 p.121",
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "TURP、選**正確**的（官方 A、D 都給分）",
+        "t": "TURP 改善尿流**效果最好最持久**；可能發生 **TUR 症候群**（低鈉）",
+        "x": "TURP 住院比微創**長**；仍**可能**造成尿失禁"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74863,7 +75363,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "**最不是**尿路感染危險因子",
+        "t": "**尿道下裂**不是典型危險因子",
+        "x": "導管、出口阻塞、神經性膀胱都會讓尿排不乾淨"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74899,7 +75404,12 @@
       "guideline": null,
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "性功能神經調控、**都正確**的配對",
+        "t": "**球海綿體肌**收縮：**陰部神經**、體神經",
+        "x": "儲精囊收縮是**下腹神經**交感；勃起是**骨盆神經**副交感；膀胱頸收縮是下腹神經**交感**"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -74940,7 +75450,12 @@
       "guideline": "FC 醫學(五)第5冊 p.38",
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "腎移植接受者評估、選**最不恰當**的",
+        "t": "**SLE** 移植後**仍可能**復發",
+        "x": "草酸沉著需肝腎合併移植、多囊腎不會復發、FSGS 會復發，三句都對"
+      }
     },
     "source": "112080/302_33",
     "specialty_source": "cougarbot",
@@ -80455,7 +80970,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "18 歲健康男性、發燒咳嗽、雙下肺肺炎、**白血球正常**",
+        "t": "年輕人非典型肺炎 → **黴漿菌**",
+        "x": "金葡菌、克雷伯、綠膿桿菌多見於有危險因子者且白血球多升高"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80496,7 +81016,12 @@
       "guideline": "Surviving Sepsis Campaign",
       "concepts": [
         "acid-base-approach"
-      ]
+      ],
+      "approach": {
+        "k": "敗血症治療、選**最不適當**的",
+        "t": "敗血症酸中毒先救灌流；**不以** sodium bicarbonate 矯正為首要（pH ≥7.15 不建議）",
+        "x": "立即適當抗生素、輸液維持灌流、輸液後仍低血壓用升壓劑，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80621,7 +81146,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲、咳嗽有痰**數月**、胸部 X 光上肺野病灶",
+        "t": "慢性咳痰加上肺野浸潤或空洞 → **肺結核**",
+        "x": "肺膿瘍與肺炎病程較急；年輕不抽菸肺癌可能性低"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -80970,7 +81500,12 @@
       "guideline": null,
       "concepts": [
         "hap-vap-definition-prevention"
-      ]
+      ],
+      "approach": {
+        "k": "醫療照護相關肺炎、選**最不適當**的",
+        "t": "床頭要抬高 **30–45 度**，15–20 度不夠",
+        "x": "口咽抗藥菌嗆入是危險因子、住院 4 天內早發型以社區菌為主、無抗藥菌短療程 8 天，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81008,7 +81543,12 @@
       "C": "不正確：erythromycin。erythromycin 可作為部分妊娠感染的選項，製劑與病人耐受性要個別考量。",
       "D": "正確：tetracycline。tetracycline 會影響胎兒牙齒與骨骼發育，妊娠中應避免。",
       "summary": "妊娠抗生素的經典禁忌是 tetracycline：它會影響胎兒骨骼與牙齒。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "孕婦應**避免**的抗生素",
+        "t": "**tetracycline** 影響胎兒骨骼與牙齒",
+        "x": "azithromycin、clindamycin、erythromycin（非 estolate）孕期可用"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81049,7 +81589,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "結核性腦膜炎、選**錯誤**的",
+        "t": "CSF 結核 PCR **敏感度不足**，還**不能取代**培養",
+        "x": "淋巴球增多、葡萄糖下降、抗酸染色陽性率 <50%，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81087,7 +81632,12 @@
       "C": "本項不選。Campylobacter 對 ampicillin 的敏感性不可靠。而且這位是肝硬化又休克的病人，初始涵蓋必須夠廣，不是挑窄效藥的時機。",
       "D": "本項應選。肝硬化、黃疸、低血壓加上菌血症，屬於重症宿主，藥敏還沒出來前先用 carbapenem 把涵蓋做滿。等藥敏回來再降階，一般 Campylobacter 菌血症可換 azithromycin 或 fluoroquinolone。",
       "summary": "Campylobacter 腸炎多半自己會好，但肝硬化加休克是例外：先用廣效撐住，藥敏出來再降階。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "肝硬化、腹瀉發燒、**低血壓**、血液與糞便長 Campylobacter",
+        "t": "肝硬化合併菌血症休克 → 藥敏前用**廣效**（carbapenem）",
+        "x": "Campylobacter 對 TMP-SMX 與 ampicillin 多抗藥；metronidazole 不涵蓋"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81125,7 +81675,12 @@
       "C": "本項（C：在淋巴球內的複製過程中，HI）不選。病毒 DNA 進入細胞核後整合進宿主基因體，形成 provirus；這也是感染難以根除的原因。",
       "D": "本項（D：異性間不安全性行為，依然是全）不選。全球 HIV 傳播型態依地區不同，但異性性行為仍是許多地區最常見的傳播途徑。",
       "summary": "HIV 的入門卡：CD4 加 CCR5／CXCR4，不是 CD8；之後 reverse transcribe、integrate 成 provirus。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "HIV 特徵、選**錯誤**的",
+        "t": "HIV 結合 **CD4**（加 CCR5 或 CXCR4），不是 CD8",
+        "x": "RNA 反轉錄、DNA 嵌入宿主、異性性行為最常見，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81163,7 +81718,12 @@
       "C": "本項應選。表面 swab 採到的常是定殖菌，跟骨頭裡真正的病原一致率很低。要確定病原與抗藥性，還是得做骨頭切片培養，最好在停抗生素後採檢。",
       "D": "本項不選。長時間穿膠鞋、腳長期潮濕，加上黃綠色膿，都是綠膿桿菌（Pseudomonas aeruginosa）的線索。這種情境的經驗性用藥可以涵蓋它，例如 piperacillin-tazobactam 或 cefepime。",
       "summary": "糖尿病足要分清楚兩件事：表面 swab 只代表定殖，骨頭病原要靠切片；X 光正常不能排除骨髓炎，早期看 MRI。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "糖尿病足潰瘍、黃綠膿、穿膠鞋碰水，選**錯誤**的",
+        "t": "傷口拭子常是**定殖**菌，與**骨頭切片**培養**不一致** → 骨切片有必要",
+        "x": "probe-to-bone 測試、MRI 敏感度高於 X 光、可考慮抗綠膿桿菌藥，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -81201,7 +81761,12 @@
       "C": "本項（C：staphylococcal）不選。staphylococcal scalded skin syndrome 與 toxic epidermal necrolysis 外觀可相似，切片分離層次有助鑑別。",
       "D": "本項（D：當水痘為紅黑色，紅腫區域快速）不選。紅黑水泡、快速擴散與感覺麻木提示深部壞死，壞死性筋膜炎需要立刻外科評估。",
       "summary": "水泡型軟組織感染用水源分流：海水想 Vibrio vulnificus，淡水想 Aeromonas；快速變黑麻木先排 necrotizing fasciitis。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "皮膚軟組織感染合併水泡、選**錯誤**的",
+        "t": "Vibrio vulnificus 的危險因子是接觸**海水**（淡水是 Aeromonas）",
+        "x": "克沙奇病毒手足口、SSSS 與 TEN 的鑑別、紅黑水泡快速擴散感覺麻木想壞死性筋膜炎，三句都對"
+      }
     },
     "source": "113020/302_11",
     "specialty_source": "cougarbot",
@@ -87729,7 +88294,12 @@
       "guideline": "FC 醫學(五)第5冊 p.137",
       "concepts": [
         "stone-intervention-selection"
-      ]
+      ],
+      "approach": {
+        "k": "**完全性鹿角結石**最佳治療",
+        "t": "**經皮腎臟碎石取石（PCNL）**",
+        "x": "ESWL 與 URS 無法有效清除大結石；鹼化尿液只對尿酸石"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87770,7 +88340,12 @@
       "guideline": "FC 醫學(五)第5冊 p.92",
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "包皮 0.5 cm、**Ta 期低惡性度**鱗癌，**最不建議**",
+        "t": "極早期小病灶要**保留器官**；**陰莖根除術**太過度",
+        "x": "雷射、包皮環切、Mohs 手術都是器官保留選項"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87806,7 +88381,12 @@
       "guideline": null,
       "concepts": [
         "imdc-risk-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** IMDC 轉移性 RCC 風險因子",
+        "t": "IMDC 六項：體能、診斷到治療 <1 年、低血色素、高血鈣、高嗜中性球、高血小板；**LDH** 是舊 MSKCC",
+        "x": "體能狀態、血色素、血鈣都在 IMDC 內"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87842,7 +88422,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "攝護腺癌、選**錯誤**的",
+        "t": "預期壽命 >10 年的**局限性**攝護腺癌要考慮**根治治療**或積極監測，不是先給荷爾蒙",
+        "x": "轉移性用睪丸切除或 LHRH、TURP 不是根除手術、LHRH agonist 與 antagonist 效果相當，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87878,7 +88463,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "BPH、選**最不恰當**的",
+        "t": "BPH **與遺傳有關**（家族史）",
+        "x": "最常見良性腫瘤與年齡相關、阻塞症狀與年齡相關、可能與雌激素上升有關，三句都對"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87917,7 +88507,12 @@
       "guideline": null,
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "Peyronie's disease（官方四個都給分）",
+        "t": "白膜創傷後異常癒合、勃起痛與彎曲、血管危險因子相關、可注射 collagenase",
+        "x": "本題官方送分"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87958,7 +88553,12 @@
       "guideline": "FC 醫學(五)第5冊 p.62",
       "concepts": [
         "vesicoureteral-reflux-grading"
-      ]
+      ],
+      "approach": {
+        "k": "**原發性**膀胱輸尿管逆流的原因",
+        "t": "**膀胱輸尿管接合處（UVJ）**本身抗逆流結構異常",
+        "x": "膀胱壓高、出口阻塞、神經性膀胱都是**續發性**"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -87994,7 +88594,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "排尿障礙合併逆流的孩童、首先要做",
+        "t": "先**導尿**改善下泌尿道排空與壓力",
+        "x": "直接重建、注射、膀胱擴大都太早"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -88165,7 +88770,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "術後急性尿滯留的危險因子（官方四個都給分）",
+        "t": "男性、輸液過多、脊椎或硬膜外麻醉、肛門直腸手術**都是**危險因子",
+        "x": "本題官方送分"
+      }
     },
     "source": "113020/302_33",
     "specialty_source": "cougarbot",
@@ -92193,7 +92803,12 @@
       "C": "本項（C：有肝腫瘤可能）不選。肝腫瘤可壞死、感染或影像上模仿膿瘍，必要時仍須依影像、培養與病理排除。",
       "D": "本項（D：Escherichia co）是本題要選。糖尿病合併肝膿瘍的典型常見病原是 Klebsiella pneumoniae，不是 Escherichia coli。",
       "summary": "糖尿病者肝膿瘍先想到 Klebsiella pneumoniae；blood culture 加影像導引抽吸同時幫診斷與治療。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "50 歲糖尿病、右上腹痛發燒、CT 肝病灶",
+        "t": "糖尿病肝膿瘍最常見是 **Klebsiella pneumoniae**，不是 E. coli",
+        "x": "血液培養、影像導引抽吸、要排除肝腫瘤，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93649,7 +94264,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "右上葉大葉性浸潤、同側積液、痰見**革蘭陽性雙球菌**",
+        "t": "②涵蓋**肺炎鏈球菌**、④住院並**檢驗肋膜積液**",
+        "x": "①不是吸入性肺炎（雙球菌、上葉大葉性）；③沒有綠膿桿菌危險因子"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -93736,7 +94356,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "臥床老人、X 光正常、**痰抗酸染色陽性**",
+        "t": "抗酸陽性可能是結核或 NTM → 先做**核酸增幅檢驗（NAAT）**分辨",
+        "x": "等培養太久；再收三套痰仍分不出；CT 不能區分菌種"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94071,7 +94696,12 @@
       "C": "本項應選。留置導尿管後，每天大約增加 3 到 7% 的菌尿機率。所以放到第 30 天，幾乎每個人都會有菌尿。真正有效的預防只有兩件事：非必要不放、能拔就早拔。",
       "D": "本項不選。30–70% 意味著放兩三天就人人感染，與臨床觀察不符。這個量級是「整段留置期間」的累積比例，不是每日風險。",
       "summary": "導尿管每留一天就多 3–7% 菌尿機率，一個月幾乎全中；CAUTI 最有效的預防是「不放」跟「早拔」。",
-      "guideline": "註：3–7% 指的是每日新增菌尿（bacteriuria），不是每日出現症狀性尿路感染"
+      "guideline": "註：3–7% 指的是每日新增菌尿（bacteriuria），不是每日出現症狀性尿路感染",
+      "approach": {
+        "k": "導尿管置放後**每日**尿路感染機率",
+        "t": "約 **3–7%**（一個月幾乎都有菌尿）",
+        "x": "0.03%、0.3% 太低；30–70% 太高"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94109,7 +94739,12 @@
       "C": "本項應選。巨環類結合 50S 核糖體次單元，阻斷轉位、抑制蛋白質合成；抑制 DNA 合成的是 fluoroquinolone。",
       "D": "本項不選。磺胺類是 PABA 類似物，抑制二氫蝶酸合成酶，阻斷細菌葉酸合成。",
       "summary": "β-lactam→細胞壁、tetracycline 與巨環類→蛋白質、磺胺→葉酸、fluoroquinolone→DNA。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "抗生素機轉配對、**最不適當**",
+        "t": "**巨環素**抑制**蛋白質合成**（50S），不是 DNA 合成",
+        "x": "penicillin–細胞壁、tetracycline–蛋白質（30S）、磺胺–葉酸，三組正確"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94147,7 +94782,12 @@
       "C": "本項不選。陽性率會隨病程下降，發病超過兩週後大約只剩兩成。這也是為什麼診斷要趁早，拖久了 PCR 就幫不上忙。",
       "D": "本項應選。開始 acyclovir 之後 PCR 不會馬上轉陰。多數研究顯示治療的第一週內大多仍測得到病毒 DNA，這正是「已經給藥了還是可以驗」的依據。若治療三天就掉到 10% 以下，早期治療與診斷就會互相打架。",
       "summary": "疑似 HSV 腦炎先給 acyclovir 再說：72 小時內 PCR 可能假陰性，但給藥後第一週仍驗得到，不必怕來不及驗。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "HSV 腦炎 CSF PCR、選**錯誤**的",
+        "t": "抗病毒治療後第一週 PCR **仍多為陽性**，不會 3 天就 <10%",
+        "x": "敏感度特異度 >90%、72 小時內可偽陰性、病程 >14 天陽性率約 20%，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94184,7 +94824,12 @@
       "guideline": "官方更正：本題答 B 或 D 或 BD 均給分。D 是實質上的錯誤，B 錯在單位符號（mU vs MU）",
       "concepts": [
         "syphilis-serology-and-follow-up"
-      ]
+      ],
+      "approach": {
+        "k": "一二期梅毒、HIV 陰性，選**錯誤**的（官方 B、D 都給分）",
+        "t": "療效追蹤看**非螺旋體試驗（RPR/VDRL）**效價下降 4 倍；TPPA 會**終身陽性**，不能用來追療效",
+        "x": "RPR 篩檢、TPPA 確診的分工正確"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94222,7 +94867,12 @@
       "C": "本項應選。急性感染期的血中病毒量極高，常達每毫升數十萬到數百萬 copies，HIV NAAT 這時最敏感。抗體還沒出現的空窗期就靠它抓出來。",
       "D": "本項不選。現行指引一律是**確診就開始治療**，不再等 CD4 掉到 350。急性期就用藥可縮小病毒庫、降低傳染他人的機會，等待沒有任何好處。",
       "summary": "高風險暴露兩週後出現發燒、皮疹、淋巴結腫加轉氨酶上升，就驗 HIV NAAT；確診當下就開始 ART，不必等 CD4 掉。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "無套肛交 14 天後、發燒皮疹咽痛淋巴腫、轉氨酶升高",
+        "t": "急性 HIV → **HIV NAAT** 最敏感特異",
+        "x": "第四代檢驗在空窗期**不是** 100%；Western blot **不是**最敏感；確診就應**立即**開始 ART，不用等 CD4"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94255,7 +94905,12 @@
       "C": "本項（C：被貓狗咬傷易產生厭氧菌相關感）不選。貓狗咬傷是混合菌感染，除 Pasteurella 外也可能有口腔厭氧菌，因此要選能同時涵蓋的藥物。",
       "D": "本項（D：綠膿桿菌 Pseudomon）不選。穿刺傷，特別是穿過鞋底的足部傷口，與 Pseudomonas aeruginosa 感染及骨髓炎相關。",
       "summary": "Cellulitis 多是臨床診斷，punch biopsy culture 不能期待 70% 陽性；反覆發作要找水腫與 toe-web portal。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "蜂窩性組織炎致病菌、選**錯誤**的",
+        "t": "punch biopsy 培養陽性率**很低**（約 20–30%），不是 70%",
+        "x": "下肢循環差反覆鏈球菌感染、貓狗咬傷厭氧菌、鐵釘穿刺鞋底綠膿桿菌，三句都對"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94291,7 +94946,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "社區肺炎菌種與暴露史、配對**錯誤**",
+        "t": "住旅館或郵輪 → **Legionella**，不是 Acinetobacter",
+        "x": "結構性肺病–綠膿桿菌、鳥–鸚鵡熱披衣菌、羊–Q 熱，三組正確"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -94470,7 +95130,12 @@
       "guideline": "台灣疾管署狂犬病疫苗接種建議（暴露前第 0、7、21 或 28 天三劑）",
       "concepts": [
         "rabies-postexposure-prophylaxis"
-      ]
+      ],
+      "approach": {
+        "k": "狂犬病疫苗、選**最正確**的",
+        "t": "曾完整暴露前接種者，暴露後只需**第 0、3 天**兩劑（不需免疫球蛋白）",
+        "x": "暴露前是 0、7、21/28 天（新制 0、7 兩劑）；不是一年就追加；孕婦**可以**接種"
+      }
     },
     "source": "113070/302_11",
     "specialty_source": "cougarbot",
@@ -100783,7 +101448,12 @@
       "guideline": "FC 醫學(五)第5冊 p.138",
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "尿酸結石、選**錯誤**的",
+        "t": "多數尿酸結石病人血中尿酸**正常**；關鍵是**酸性尿**",
+        "x": "X 光透光、鹼化尿液可溶解、多喝水可預防，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100819,7 +101489,12 @@
       "guideline": null,
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "腎細胞癌、選**錯誤**的",
+        "t": "洗腎後的後天性腎囊腫**增加** RCC 風險",
+        "x": "3p 變異、抽菸是最大風險、VHL 基因，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100860,7 +101535,12 @@
       "guideline": "FC 醫學(五)第5冊 p.119",
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "**較不會**影響 PSA 的",
+        "t": "**前晚吃高脂食物**不影響 PSA",
+        "x": "導尿管、尿路感染會升高；5-ARI 長期使用會讓 PSA 降約一半"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100901,7 +101581,12 @@
       "guideline": "FC 醫學(五)第5冊 p.169",
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "急迫性尿失禁**最常用**的治療",
+        "t": "**抗膽鹼藥**（膀胱過動）",
+        "x": "α 阻斷劑用於 BPH；橫紋肌鬆弛劑不常用；尿道懸吊是**應力性**尿失禁"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100942,7 +101627,12 @@
       "guideline": "FC 醫學(五)第5冊 p.119",
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "TURP 由尿道口依序看到的組織",
+        "t": "**尿道外括約肌 → 精阜 → 肥大攝護腺 → 膀胱頸**",
+        "x": "其他順序錯置；精阜是切除的遠端界標，避免傷外括約肌"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -100983,7 +101673,12 @@
       "guideline": "FC 醫學(五)第5冊 p.182",
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "36 歲不孕、精液差、**睪固酮低**，**最不建議**",
+        "t": "外源性**睪固酮**會抑制 LH/FSH → 精子生成更差",
+        "x": "SERMs、芳香酶抑制劑、hCG 都能提升內生睪固酮並保留精子生成"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -101024,7 +101719,12 @@
       "guideline": "FC 醫學(五)第5冊 p.63",
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "泌尿道外傷、選**最不適當**的",
+        "t": "休克危及生命時要**先急救穩定**，不是先做詳細影像",
+        "x": "放尿管前先看尿道口出血、腹部生殖器瘀血要想深部傷、約 10% 外傷有泌尿生殖傷，三句都對"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -101060,7 +101760,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "神經保留根除性攝護腺切除、保留的神經",
+        "t": "**陰莖海綿體神經**（cavernous nerve，攝護腺後外側）",
+        "x": "閉孔、下腹、陰部神經都不是勃起的主要自主神經"
+      }
     },
     "source": "113070/302_33",
     "specialty_source": "cougarbot",
@@ -105165,7 +105870,12 @@
       "guideline": null,
       "concepts": [
         "antituberculosis-dili-stop-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "B 肝帶原、抗結核治療一個月、AST/ALT 120/140、膽紅素正常",
+        "t": "**isoniazid** 肝毒性風險比 ethambutol **高**",
+        "x": "未達停藥門檻（無症狀 <5 倍）；INH 肝毒性**不是**劑量依賴型；類固醇不用於藥物性肝炎"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106450,7 +107160,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "潛伏結核、選**最適當**的",
+        "t": "TST **陰性不能**排除感染（免疫低下、早期可偽陰性）",
+        "x": "TST 是遲發性過敏但選項敘述不完整；IGRA **不能**預測是否發病；TST 與 IGRA 都**不能**區分潛伏與活動性"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106966,7 +107681,12 @@
       "C": "本項不選。cefoxitin 屬 cephamycin，本身對 AmpC 水解相對穩定，但它同時是強力誘導劑。cefepime 是第四代，帶正電、能快速穿透外膜，也不容易被 AmpC 水解，所以常被當成 AmpC 菌株的選項。",
       "D": "本項不選。單靠 AmpC 通常打不倒 cefepime。真的出現抗藥時多半是兩件事疊加：AmpC 大量表現，再加上 porin 通道減少讓藥進不去。這種「酵素加通透性」的組合是革蘭氏陰性菌抗藥的常見模式。",
       "summary": "K. pneumoniae 自帶的 SHV 是 penicillinase；看到廣泛 cephalosporin 抗藥就要想後天的 ESBL 或 AmpC，而不是原生酵素。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "β-lactamase 抗藥基因、選**錯誤**的",
+        "t": "K. pneumoniae 染色體上的 SHV-1 主要水解 **penicillin**（不是 cephalosporin）",
+        "x": "Enterobacter 染色體有 AmpC、cefoxitin 與 cefepime 對 AmpC 較穩定、cefepime 抗藥常是 AmpC 加孔蛋白減少，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -106999,7 +107719,12 @@
       "C": "本項不選。HHV-6 可造成邊緣系統腦炎，特別是在造血幹細胞移植後。",
       "D": "本項應選。HHV-8 主要與卡波西氏肉瘤、原發性積液淋巴瘤和 Castleman 病有關，不是急性腦炎的病原。",
       "summary": "HHV-6 會在移植後造成邊緣腦炎；HHV-8 想卡波西氏肉瘤，不是腦炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最不可能**造成急性腦炎的病毒",
+        "t": "**HHV-8** 造成卡波西肉瘤，不是腦炎",
+        "x": "腸病毒、CMV、HHV-6 都可造成腦炎"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107032,7 +107757,12 @@
       "C": "本項不選。Doxycycline 100 mg 一天兩次、連續三週是標準治療。",
       "D": "本項不選。不能用 doxycycline 時，erythromycin 一天四次、三週可以替代，但腸胃副作用較多。",
       "summary": "性病淋巴肉芽腫是披衣菌 L1–L3，用 doxycycline 三週；鸚鵡熱披衣菌是肺炎。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "尿道炎、副睪炎、潰瘍出血性直腸炎、腹股溝淋巴腫潰瘍、NAAT 披衣菌",
+        "t": "性病淋巴肉芽腫由 **C. trachomatis L1–L3** 引起，**不是** C. psittaci",
+        "x": "doxycycline 三週、erythromycin 三週都是治療"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107065,7 +107795,12 @@
       "C": "本項應選。valacyclovir 是針對 HSV 與 VZV，對 CMV 沒有足夠活性。CMV 視網膜炎要用 ganciclovir 或 valganciclovir，必要時 foscarnet；威脅到黃斑或視神經時還要玻璃體內注射。拖延會造成不可逆失明。",
       "D": "本項不選。隱球菌腦膜炎的誘導治療就是 amphotericin B 加 flucytosine，兩週後轉 fluconazole 鞏固與維持。同樣重要的是反覆腰椎穿刺降顱壓，那比抗黴菌藥更能救急。",
       "summary": "抗病毒藥別記混：valacyclovir 打 HSV／VZV，CMV 視網膜炎要 ganciclovir 或 valganciclovir。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "HIV 伺機感染與治療、配對**錯誤**",
+        "t": "CMV 視網膜炎用 **ganciclovir 或 valganciclovir**，不是 valacyclovir",
+        "x": "非傷寒沙門–ceftriaxone、口腔念珠–fluconazole、隱球菌腦膜炎–amphotericin B＋flucytosine，三組正確"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107101,7 +107836,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "社區型肺炎治療結果、選**錯誤**的",
+        "t": "X 光病灶消退**很慢**（常要 4–12 週），不是 7 天內完全消失",
+        "x": "2–4 天退燒、住院者死亡率 12–40%、同處復發要懷疑癌症，三句都對"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107495,7 +108235,12 @@
       "C": "正確：晚期腎結核 renal tu。晚期腎結核可因鈣化、纖維化與自體腎切除形成 putty kidney。腹部 X 光上右側腎臟區被一整片分葉狀的緻密鈣化取代，正常腎影已經看不出來，這就是所謂的油灰腎（putty kidney）。晚期腎結核把腎實質破壞殆盡後鈣化，等於自體腎切除；腎功能不良加上這種鈣化型態就要往結核想，並記得驗尿找無菌性膿尿。",
       "D": "不正確：腎細胞癌 renal cel。腎細胞癌可有腫塊或鈣化，但不能比廣泛鈣化的萎縮腎更典型地解釋本題。",
       "summary": "KUB 若見一側腎臟廣泛鈣化、像 putty kidney，想到晚期 renal tuberculosis；影像細節要回看附圖。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "65 歲腎功能不良、KUB 見單側腎臟廣泛鈣化",
+        "t": "**晚期腎結核**（putty kidney、autonephrectomy）",
+        "x": "腎水腫、腎膿瘍、腎細胞癌不會這樣整顆鈣化"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107531,7 +108276,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "**最不傾向**活動性肺結核的影像",
+        "t": "**幾乎完全鈣化**的病灶 → 陳舊性",
+        "x": "新出現、空洞、界線不明都傾向活動性"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -107564,7 +108314,12 @@
       "C": "不正確：皮膚傷口接觸到動物的唾液。破損皮膚接觸唾液也屬可能暴露，因病毒能由傷口進入周邊神經。",
       "D": "不正確：肢體或臉部被動物咬傷。被咬傷是最典型也最需積極處理的暴露，傷口位置越接近中樞、越嚴重，風險通常越高。",
       "summary": "狂犬病暴露看唾液或神經組織是否接觸破皮或黏膜；尿液不是典型傳播介質。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "狂犬病動物接觸、得病機率**最低**",
+        "t": "病毒在**唾液**與神經組織；**尿液**不是傳播介質",
+        "x": "黏膜碰唾液、傷口碰唾液、被咬都屬暴露"
+      }
     },
     "source": "114020/302_0103",
     "specialty_source": "cougarbot",
@@ -113107,7 +113862,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "腎臟外傷、選**錯誤**的",
+        "t": "裂傷合併**尿液滲出**（集尿系統受傷）是 **Grade IV**，不是 III",
+        "x": "被膜下血腫最常見、腎血管性高血壓是晚期併發症、腎盂裂傷未修補易成尿性囊腫，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113144,7 +113904,12 @@
       "concepts": [
         "urothelial-renal-penile-tumors",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "膀胱腫瘤、判斷侵犯深度**最準確**的",
+        "t": "**TURBT 並取到肌肉層**的病理",
+        "x": "CT、MRI 是輔助；FGFR3 與 p53 是分子分型，不決定深度"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113180,7 +113945,12 @@
       "guideline": null,
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "RCC 合併**下腔靜脈腫瘤栓**、**不是**常見表徵",
+        "t": "**血尿**是原發腫瘤症狀，不是栓塞表現",
+        "x": "下肢水腫、肺栓塞、右心房腫塊都是腫瘤栓的表現"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113216,7 +113986,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "BPH 檢查、選**最不恰當**的",
+        "t": "**不需要**每位都做上泌尿道影像；有血尿、感染、腎功能異常等才做",
+        "x": "尿液分析與選擇性肌酸酐、不常規膀胱鏡、神經性膀胱考慮尿動力，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113252,7 +114027,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "**最不會**造成逼尿肌收縮力低下",
+        "t": "**尿路結石**是阻塞，不會讓逼尿肌失去收縮力",
+        "x": "中風（急性期）、根治性子宮切除（傷骨盆神經）、糖尿病（神經病變）都會"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113288,7 +114068,12 @@
       "guideline": null,
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "阻塞性無精症、睪丸造精正常、副睪腫脹",
+        "t": "精子來自睪丸、存於副睪與輸精管；**儲精囊**只產生精液",
+        "x": "睪丸、副睪、輸精管都可取到精子"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113324,7 +114109,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "尿道下裂手術、選**正確**的",
+        "t": "術中應**保留**原有的尿道板",
+        "x": "嚴重彎曲**會**影響成功率；失敗後要等組織癒合（約 6 個月）再做；包皮旋轉皮瓣**是**好方法"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113360,7 +114150,12 @@
       "guideline": null,
       "concepts": [
         "vesicoureteral-reflux-grading"
-      ]
+      ],
+      "approach": {
+        "k": "膀胱輸尿管逆流、選**正確**的",
+        "t": "輸尿管再植入的黏膜下隧道長度與直徑比 **5:1**",
+        "x": "Grade I 只到**輸尿管**；Grade III 已有擴張；注射治療是選項之一，**仍**需要手術"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113526,7 +114321,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "25 歲女性、高燒、雙側腰痛、頻尿、膿尿",
+        "t": "**急性腎盂腎炎**",
+        "x": "血培養與尿培養多半**一致**；最敏感的是 **CT** 不是超音波；生命徵象穩定可口服，不必一律 7–14 天靜脈"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -113562,7 +114362,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "15 歲、陰囊痛數小時、睪丸腫大壓痛，選**最不適當**的",
+        "t": "**精索靜脈曲張**通常無急性劇痛，**最不可能**",
+        "x": "合併頻尿解尿痛較像副睪炎、扭轉提睪反射消失、超音波優於 CT，三句都對"
+      }
     },
     "source": "114020/302_0105",
     "specialty_source": "cougarbot",
@@ -117381,7 +118186,12 @@
       "guideline": null,
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "B 肝疫苗、選**錯誤**的",
+        "t": "anti-HBs **≥10 mIU/mL** 就有保護力，不是 100",
+        "x": "新生兒保護 20 年以上、免疫抑制者抗體消失要追加、透析者每年監測，三句都對"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118905,7 +119715,12 @@
       "C": "本項（C：白血球數目增加，且以淋巴球為）不選。病毒性腦炎典型為 lymphocytic pleocytosis；早期也可能暫時有中性球增加。",
       "D": "本項（D：腦脊髓液與血液葡萄糖濃度比值）是本題要選。本項最不可能。CSF/serum glucose ratio <0.4 較支持細菌、結核或黴菌性腦膜炎；單純病毒性腦炎的 glucose 多維持正常。",
       "summary": "病毒性腦炎 CSF：lymphocytes、protein 可高、HSV 可有 RBC；低 glucose 要轉想細菌／TB／fungal。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "病毒性腦炎 CSF、**最不可能**的結果",
+        "t": "病毒性腦炎 CSF 葡萄糖多**正常**；比值 <0.4 要想細菌、結核、黴菌",
+        "x": "HSV 可有紅血球、蛋白增加、淋巴球為主，都可能"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -118938,7 +119753,12 @@
       "C": "本項（C：親吻）是本題要選。本項最不可能。日常親吻不會傳播 HIV；若有大量血液、明顯口腔傷口等極特殊情境才需個別評估。",
       "D": "本項（D：肛交）不選。肛交可傳播 HIV，尤其 receptive anal intercourse 因直腸黏膜較脆弱而風險較高。",
       "summary": "HIV 需要帶病毒的血液、精液、陰道／直腸分泌物等進入血流或黏膜；日常親吻不在傳播路徑。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**最不可能**傳播 HIV 的",
+        "t": "**親吻**不是傳播途徑",
+        "x": "陰道性交、共用針頭、肛交都是"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -119006,7 +119826,12 @@
       "C": "本項不選。Proteus mirabi。Proteus mirabilis 常見於尿路感染，不是海水魚刺傷後壞死性水泡感染的代表病原。",
       "D": "本項應選。Vibrio vulnifi。Vibrio vulnificus 會在慢性肝病者經海水或海產傷口造成快速 cellulitis、bullae、DIC 與休克。圖上足背腫脹發紫，並冒出多顆張力性的出血性水泡，周圍皮膚已呈暗紫色。海水或魚刺受傷後幾小時內就爆出出血性水泡、接著休克，是海洋弧菌壞死性筋膜炎的典型病程；慢性肝病是它最重要的宿主危險因子。治療是立刻清創加上 doxycycline 併用第三代 cephalosporin。",
       "summary": "海魚刺傷＋肝病＋數小時內 bullae 與 shock，是 Vibrio vulnificus 的典型急症組合。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "慢性 B 肝、被海魚刺傷、數小時內水泡、休克、多器官衰竭",
+        "t": "**Vibrio vulnificus**",
+        "x": "綠膿桿菌、金葡菌、Proteus 都沒有海魚加肝病加極速惡化的組合"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -119039,7 +119864,12 @@
       "C": "不正確。多重抗藥性細菌可能還需要 contact precautions，但 standard precaution 的適用範圍更廣，不只限於 MDR 病人。",
       "D": "正確。standard precaution 適用所有病人，假設血液、體液、分泌物與破損皮膚都可能含病原，以減少已知與未知來源傳播。",
       "summary": "standard precaution 的精神是把每位病人都當成可能有可傳播病原，而不是等知道診斷才開始防護。",
-      "guideline": "CDC, Standard Precautions"
+      "guideline": "CDC, Standard Precautions",
+      "approach": {
+        "k": "標準防護措施的對象與目的",
+        "t": "針對**所有病人**，減少已知與**未知**來源的病原傳播",
+        "x": "只針對愛滋、肝炎或多重抗藥菌病人都是錯的"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -119072,7 +119902,12 @@
       "C": "本項不選。磺胺抑制葉酸合成，不會像 β-lactam 一樣幫 aminoglycoside 進入細菌。",
       "D": "本項不選。Trimethoprim 是和磺胺形成葉酸路徑的連續阻斷，那是另一組協同，不是 aminoglycoside 的經典搭檔。",
       "summary": "Aminoglycoside 的搭檔是 β-lactam：先破細胞壁，讓它更容易進去。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "aminoglycoside 併用有**加成**作用的抗生素",
+        "t": "**penicillin**（β-lactam 破壞細胞壁，讓 aminoglycoside 更易進入）",
+        "x": "tetracycline、sulfonamide、trimethoprim 沒有這種加成"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -119105,7 +119940,12 @@
       "C": "本項不選。EBV 和 AIDS 的原發性中樞神經淋巴瘤有關。",
       "D": "本項不選。CMV 在 AIDS 造成視網膜炎、大腸炎或腦室腦炎，不是 PML。",
       "summary": "AIDS 腦病變：PML 是 JC 病毒、中樞淋巴瘤是 EBV、視網膜炎是 CMV。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "AIDS 的 PML 致病原",
+        "t": "**JC virus**",
+        "x": "HIV 本身是 HIV 腦病變；EBV 是 CNS 淋巴瘤；CMV 是視網膜炎與腦炎"
+      }
     },
     "source": "114070/302_0101",
     "specialty_source": "cougarbot",
@@ -125114,7 +125954,12 @@
       "guideline": null,
       "concepts": [
         "stone-intervention-selection"
-      ]
+      ],
+      "approach": {
+        "k": "急性腎絞痛**最快速準確**的影像",
+        "t": "**無顯影劑 CT**",
+        "x": "IVP 要打顯影劑且較慢；逆行性腎盂攝影是侵入性；核醫不是首選"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125189,7 +126034,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "攝護腺癌好發區順序",
+        "t": "**周邊區 ＞ 移行區 ＞ 中央區**",
+        "x": "移行區是 BPH 好發處"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125225,7 +126075,12 @@
       "guideline": null,
       "concepts": [
         "urothelial-renal-penile-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "45 歲、右腎 2.5 cm 實質腫瘤、無症狀，選**錯誤**的",
+        "t": "影像典型可切除的 RCC **不需要**常規穿刺切片",
+        "x": "低回音不均質像 RCC、高回音像血管肌肉脂肪瘤、良性可追蹤，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125261,7 +126116,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "糖尿病膀胱病變**最典型**的尿動力學發現",
+        "t": "**膀胱感覺受損**（最早出現）",
+        "x": "逼尿肌括約肌共濟失調是脊髓損傷；逼尿肌過動不是典型；括約肌障礙不是主要"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125297,7 +126157,12 @@
       "guideline": null,
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "陰莖海綿體平滑肌鬆弛路徑中、**不存在**的",
+        "t": "路徑是 **NO → cGMP → PKG**；**dopamine** 在中樞，不在海綿體平滑肌",
+        "x": "cGMP、PKG、NO 都在路徑中"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125333,7 +126198,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "Weigert-Meyer rule、選**正確**的",
+        "t": "**上極**輸尿管開口在膀胱**下內側**（易異位、ureterocele）",
+        "x": "下極輸尿管開口在上外側、**較易逆流**；三套輸尿管不一定適用"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125369,7 +126239,12 @@
       "guideline": null,
       "concepts": [
         "voiding-physiology-neurogenic-bladder"
-      ]
+      ],
+      "approach": {
+        "k": "小兒神經性膀胱壓力多少以上易傷上泌尿道",
+        "t": "**40 cm H₂O**",
+        "x": "30、20、10 都低於門檻"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -125604,7 +126479,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "睪丸扭轉、選**錯誤**的",
+        "t": "最適當的檢查是**都卜勒超音波**（甚至臨床高度懷疑直接探查），不是 MRI",
+        "x": "好發青少年、6 小時內預後好、左順時鐘右逆時鐘（向內）扭轉，三句都對"
+      }
     },
     "source": "114070/302_0103",
     "specialty_source": "cougarbot",
@@ -129544,7 +130424,12 @@
       "C": "不正確：肺囊蟲肺炎。Pneumocystis jirovecii pneumonia 多在移植後數月、細胞免疫抑制較明顯或 prophylaxis 中斷時出現，不是首月首選答案。",
       "D": "不正確：人類多瘤性病毒 BK 病毒 。BK virus nephropathy 多在移植後數月才較常被偵測，常表現為 viral load 上升與移植腎功能惡化。",
       "summary": "腎移植感染按時間想：首月是手術／院內與 Candida；1–6 個月才更像 CMV、PJP、BK virus。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腎移植**一個月內**最容易的感染",
+        "t": "首月：手術與院內感染、**念珠菌**",
+        "x": "CMV、PJP、BK 病毒多在 1–6 個月"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130386,7 +131271,12 @@
       "guideline": null,
       "concepts": [
         "cap-pathogens-by-clue"
-      ]
+      ],
+      "approach": {
+        "k": "**最容易**綠膿桿菌社區肺炎的病人",
+        "t": "**嚴重 COPD**（結構性肺病）",
+        "x": "酗酒想克雷伯與吸入；中風想吸入；糖尿病不是綠膿桿菌特有危險因子"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130887,7 +131777,12 @@
       "C": "不正確：兩者的密切接觸者都需要立即進。只有腦膜炎雙球菌的密切接觸者需盡快接受 chemoprophylaxis。肺炎鏈球菌腦膜炎不會常規對接觸者預防性投藥。",
       "D": "不正確：兩者的首選抗生素皆是Fluo。經驗性細菌性腦膜炎常用第三代 cephalosporin 合併 vancomycin，並依風險加 ampicillin；fluoroquinolone 不是兩者共同首選。",
       "summary": "腦膜炎雙球菌要處理密切接觸者；肺炎鏈球菌腦膜炎則是死亡率與後遺症更高的成人急症。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "腦膜炎雙球菌 vs 肺炎鏈球菌腦膜炎、選**最適當**的",
+        "t": "**肺炎鏈球菌**腦膜炎死亡率**較高**",
+        "x": "腦膜炎雙球菌療程**較短**（約 7 天）；只有腦膜炎雙球菌接觸者需預防投藥；首選是**第三代頭孢**不是 fluoroquinolone"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130923,7 +131818,12 @@
       "guideline": null,
       "concepts": [
         "joint-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "人工關節感染 vs 原生關節化膿、選**最適當**的",
+        "t": "人工關節感染**最常見是葡萄球菌**",
+        "x": "生物膜是**人工關節**感染的關鍵；兩者免疫反應不同；**人工關節**感染才常分階段手術"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130956,7 +131856,12 @@
       "C": "本項（C：對於高風險新生兒，paliv）不選。高風險嬰兒使用 palivizumab 可降低 RSV 住院風險；它是預防性單株抗體，不是已感染後治療。",
       "D": "本項（D：未經治療的人類免疫不全病毒 ）不選。未治療 HIV 的傳染風險與 plasma viral load 密切相關，合併 ulcerative STI 會破壞黏膜並提高傳播。",
       "summary": "麻疹不是「弱又不傳染」：它極具傳播力、沒有特效 antiviral，最重要的是疫苗與 airborne isolation。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "病毒感染、選**最不適當**的",
+        "t": "麻疹**傳播力極高**、可致重症，且**沒有**特效抗病毒藥",
+        "x": "流感首選 oseltamivir、palivizumab 降低高風險新生兒 RSV 住院、HIV 傳播與病毒量及潰瘍性生殖道病相關，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -130989,7 +131894,12 @@
       "C": "本項不選。CT 或 MRI 用來追蹤膿瘍縮小與腹壁侵犯的變化。因為療程很長，影像是判斷能不能停藥的重要依據。",
       "D": "本項應選。放線菌症出名的就是療程長：一般是靜脈 penicillin 二到六週，再接口服六到十二個月。兩週遠遠不夠，停太早幾乎一定復發。",
       "summary": "避孕器放二十年＋硫磺顆粒＋跨組織膿瘍就是 actinomycosis：penicillin 加引流，療程以「月」計不是以「週」計。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "20 年前裝 IUD、子宮膿瘍跨組織、**硫磺顆粒**、革蘭陽性桿菌",
+        "t": "**放線菌病** → penicillin 加引流，療程要**數月**（6–12 個月），不是兩週",
+        "x": "IUD 是危險因子、penicillin 或 amoxicillin、CT/MRI 追蹤，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -131022,7 +131932,12 @@
       "C": "不正確。sulfonamide 在孕期的風險會隨週數改變。接近分娩時可能增加新生兒 bilirubin displacement 與 kernicterus 的疑慮，因此不能概括列為本題的安全答案。",
       "D": "不正確。fluoroquinolone 會影響軟骨的動物毒理資料，孕期通常避免作為例行治療。雖然人體資料未必顯示明確致畸，但有較安全替代藥時不會優先選它。",
       "summary": "舊題的 category B 選 cephalosporin；aminoglycoside 顧耳腎、sulfonamide 避近產期，fluoroquinolone 有替代就避。",
-      "guideline": "FDA, Pregnancy and Lactation Labeling Rule（PLLR）；題目沿用舊版 pregnancy category"
+      "guideline": "FDA, Pregnancy and Lactation Labeling Rule（PLLR）；題目沿用舊版 pregnancy category",
+      "approach": {
+        "k": "孕婦相對安全（category B）的抗生素",
+        "t": "**cephalosporin**",
+        "x": "amikacin 耳腎毒性；磺胺近產期核黃疸；fluoroquinolone 軟骨疑慮"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -131055,7 +131970,12 @@
       "C": "本項不選。metronidazole 或 tinidazole 能殺死侵入組織的 trophozoites，所以可處理阿米巴性結腸炎與肝膿瘍。療程後還要接腸腔藥，否則腸內殘留 cyst 會讓病人復發或繼續傳播。",
       "D": "本項不選。paromomycin 或 iodoquinol 是 luminal agent，作用在腸腔內清除 cyst。它們不能單獨取代組織型治療，但在侵襲性阿米巴症完成 metronidazole 後很重要。",
       "summary": "血便加燒杯狀潰瘍時想 Entamoeba histolytica：先用組織型藥殺 trophozoites，之後一定補 luminal agent 清 cyst。",
-      "guideline": "CDC DPDx, Amebiasis"
+      "guideline": "CDC DPDx, Amebiasis",
+      "approach": {
+        "k": "類固醇後腹瀉血便加重、腸穿孔、**燒杯狀潰瘍**、吞紅血球滋養體",
+        "t": "**阿米巴**（Entamoeba histolytica），不是 Giardia",
+        "x": "不引起嗜酸性球增多、metronidazole 或 tinidazole、完治後加腸腔藥，三句都對"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -131203,7 +132123,12 @@
       "C": "正確。痰液 acid-fast stain 找到 acid-fast bacilli 可快速支持分枝桿菌感染，痰培養再確認 Mycobacterium tuberculosis 並做藥物敏感性試驗。這組檢查直接針對可疑病原，不只是看發炎後果。",
       "D": "不正確。胸部 X 光可看見上葉浸潤、空洞或肺門淋巴結等結核線索，卻不能單靠影像定病原。肺癌、非結核分枝桿菌或其他慢性肺病也可能有相似影像。",
       "summary": "慢性午後發燒、體重減輕、咳痰加無痛頸部淋巴結，要用痰液找 acid-fast bacilli 並培養，才是直接證實結核的路徑。",
-      "guideline": "CDC, Clinical and Laboratory Diagnosis for Tuberculosis"
+      "guideline": "CDC, Clinical and Laboratory Diagnosis for Tuberculosis",
+      "approach": {
+        "k": "一年午後低燒、咳膿痰、體重減輕、頸部無痛軟腫塊",
+        "t": "**痰抗酸染色與培養**能直接證實結核",
+        "x": "血球、尿液、胸部 X 光都不能直接確診"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -131558,7 +132483,12 @@
       "C": "不正確。登革出血熱或 severe dengue 的風險受血清型、既往感染、宿主與流行病學因素影響，不能用成人一定比小兒更常惡化來概括。年齡本身不是本題可用的絕對鑑別點。",
       "D": "正確。登革熱退燒止痛優先用 acetaminophen。aspirin 和 nonsteroidal anti-inflammatory drugs 會抑制血小板功能或增加腸胃道出血，會放大登革熱本來就有的出血風險。",
       "summary": "登革熱看到肋膜積水要想到血漿外漏和 hematocrit 上升；退燒只留 acetaminophen，NSAIDs 會把出血風險推高。",
-      "guideline": "CDC, Clinical Care of Dengue (2026)"
+      "guideline": "CDC, Clinical Care of Dengue (2026)",
+      "approach": {
+        "k": "登革熱、選**最正確**的",
+        "t": "退燒只能用 **acetaminophen**，不能用 NSAID（出血風險）",
+        "x": "淋巴腺腫不典型；登革出血熱是血比容**上升**（血漿外漏）；**兒童**較易惡化"
+      }
     },
     "source": "115020/302_0103",
     "specialty_source": "cougarbot",
@@ -136065,7 +136995,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "惡性生殖細胞瘤、選**最不適當**的",
+        "t": "本題談的是睪丸生殖細胞瘤，**男性**為主，不是女性",
+        "x": "seminoma 對放療敏感、非精原瘤少對放療敏感、非精原瘤包括絨毛膜癌，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -136848,7 +137783,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "骨盆骨折、**尿道口流血**",
+        "t": "先做**逆行性尿道攝影**",
+        "x": "不可先放導尿管；超音波與血管攝影不是處理尿道傷的第一步"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137004,7 +137944,12 @@
       "guideline": null,
       "concepts": [
         "kidney-stone-types"
-      ]
+      ],
+      "approach": {
+        "k": "感染性結石最常見相關細菌",
+        "t": "**Proteus mirabilis**（產尿素酶、鹼化尿液）",
+        "x": "克雷伯、綠膿桿菌也可但不是最常見；金葡菌不典型"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137041,7 +137986,12 @@
       "guideline": null,
       "concepts": [
         "bosniak-classification"
-      ]
+      ],
+      "approach": {
+        "k": "Bosniak、選**錯誤**的（官方 B、C 都給分）",
+        "t": "Type II 惡性率約 **0–3%**；IIF 約 **5–10%**",
+        "x": "Type I 單純平滑清澈、Type IV 惡性率 >90%，這兩句對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137077,7 +138027,12 @@
       "guideline": null,
       "concepts": [
         "renal-nephrometry-score"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** RENAL score 項目",
+        "t": "RENAL＝**R**adius、**E**xophytic/endophytic、**N**earness to collecting system、**A**nterior/posterior、**L**ocation；**沒有**與腎動脈距離",
+        "x": "腫瘤大小、與集尿系統距離、包埋深度都在其中"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137113,7 +138068,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "攝護腺癌、選**錯誤**的",
+        "t": "攝護腺癌骨轉移多為**成骨性**（osteoblastic），不是溶骨性",
+        "x": "指診硬塊要懷疑、主要是腺癌、最常在周邊區，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137149,7 +138109,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "BPH 病理、選**最不恰當**的",
+        "t": "移行區結節增大壓迫的是**周邊區**（形成外科囊），不是中央區",
+        "x": "好發移行區、基質平滑肌增生用 α 阻斷、上皮增生用 5-ARI，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137185,7 +138150,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "急性腎盂腎炎、選**最不正確**的",
+        "t": "腎盂腎炎療程 **7–14 天**；3–5 天是單純膀胱炎",
+        "x": "最常見大腸桿菌、上行性感染、發燒腰痠，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137221,7 +138191,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "Fournier 壞疽、選**最不正確**的",
+        "t": "感染沿**淺層筋膜**（Colles、Scarpa、Dartos）蔓延，不是深層",
+        "x": "糖尿病控制差、泌尿外傷尿道狹窄性病史、合併 UTI 副睪炎肛周膿瘍，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137257,7 +138232,12 @@
       "guideline": null,
       "concepts": [
         "sexual-function-male-infertility"
-      ]
+      ],
+      "approach": {
+        "k": "勃起各期中血流量**最少**",
+        "t": "**rigid erection**：海綿體內壓超過收縮壓，動脈流入幾乎停止",
+        "x": "tumescence 血流最多；full erection 仍有流入；detumescence 是流出"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -137405,7 +138385,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "泌尿系統急症、選**最不適當**的",
+        "t": "尿道口有血時**不可**直接放導尿管；先 RUG，需引流用恥骨上造廔",
+        "x": "血尿程度與傷害未必相關、逆行膀胱攝影是膀胱破裂黃金標準、腎損傷分級與手術相關，三句都對"
+      }
     },
     "source": "115020/302_0105",
     "specialty_source": "cougarbot",
@@ -142332,7 +143317,12 @@
       "guideline": null,
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "**最常見**的肺外結核",
+        "t": "**結核性淋巴腺炎**",
+        "x": "腦膜炎、泌尿生殖、心包膜結核都較少"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142765,7 +143755,12 @@
       "C": "本項不選。Staphylococcus aureus 預先形成的 enterotoxin 會讓症狀很快出現，常在 1–6 小時內。突出的表現是噁心和嘔吐，腹瀉可伴隨，但通常不是侵入性細菌感染的高燒型態。",
       "D": "本項不選。Salmonella 腸胃炎的潛伏期通常比預成 toxin 食物中毒長，可達 12–72 小時。它侵入腸黏膜並引發發炎，因此發燒和腹瀉比單純 toxin 型食物中毒明顯。",
       "summary": "食物中毒先看時間和主症狀：C. perfringens 是 6–24 小時的腹瀉腹痛，吐和燒都不突出；很快狂吐才像 Staph toxin。",
-      "guideline": "CDC, Food Poisoning Symptoms; C. perfringens (2025)"
+      "guideline": "CDC, Food Poisoning Symptoms; C. perfringens (2025)",
+      "approach": {
+        "k": "感染性腸胃炎與食物中毒、選**最不適當**的",
+        "t": "C. perfringens 潛伏期 **8–16 小時**，主症狀是**腹瀉腹痛**，嘔吐發燒少見",
+        "x": "EHEC 支持療法、金葡菌 1–6 小時嘔吐、沙門氏菌 12–72 小時發燒腹瀉，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142798,7 +143793,12 @@
       "C": "本項應選。糞小桿線蟲過度感染要用 ivermectin，並盡量減少類固醇等免疫抑制；praziquantel 是治吸蟲與絛蟲的藥。",
       "D": "本項不選。弓蟲腦炎用 pyrimethamine 加 sulfadiazine；不能用磺胺時改加 clindamycin，同時給 leucovorin 減少骨髓毒性。",
       "summary": "小桿線蟲用 ivermectin；praziquantel 是吸蟲與絛蟲的藥。",
-      "guideline": "CDC, Clinical Care of Strongyloides (2024)"
+      "guideline": "CDC, Clinical Care of Strongyloides (2024)",
+      "approach": {
+        "k": "疾病與治療藥物、配對**最不適當**",
+        "t": "糞小桿線蟲過度感染用 **ivermectin**，不是 praziquantel（吸蟲絛蟲用）",
+        "x": "PJP–TMP-SMX、蟯蟲–mebendazole/albendazole、弓蟲腦炎–clindamycin＋pyrimethamine，三組正確"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142831,7 +143831,12 @@
       "C": "本項應選。Imipenem-cilastatin 雖然廣效，但仍是 β-lactam，MRSA 的 PBP2a 讓它失效，不能用來治 MRSA。",
       "D": "本項不選。Teicoplanin 是醣肽類，和 vancomycin 一樣對 MRSA 有活性。",
       "summary": "MRSA 的 PBP2a 讓所有一般 β-lactam 失效，連 carbapenem 也不行。",
-      "guideline": "IDSA, Management of MRSA HAP/VAP (2016)"
+      "guideline": "IDSA, Management of MRSA HAP/VAP (2016)",
+      "approach": {
+        "k": "**最不推薦**治療 MRSA 的抗生素",
+        "t": "MRSA 對所有一般 β-lactam 抗藥，**包括 carbapenem**",
+        "x": "linezolid、vancomycin、teicoplanin 都能治 MRSA"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142864,7 +143869,12 @@
       "C": "本項應選。鼻腦型白黴菌病的壞死組織血流很差，藥物送不進去；及早外科清創移除真菌與壞死組織，必須和全身抗黴菌藥一起做。",
       "D": "本項不選。Fluconazole 和 voriconazole 都涵蓋不到白黴菌；後續可用 posaconazole 或 isavuconazole。",
       "summary": "糖尿病加鼻腔黑色壞死加寬大無隔菌絲＝白黴菌病：amphotericin B 加外科清創。",
-      "guideline": "CDC, Treatment of Mucormycosis (2024)"
+      "guideline": "CDC, Treatment of Mucormycosis (2024)",
+      "approach": {
+        "k": "糖尿病控制差、左臉紅腫、鼻腔黑色壞死、**寬大無分隔**菌絲",
+        "t": "**白黴菌病** → amphotericin B 加**外科清創**最重要",
+        "x": "麴菌是窄的、有分隔、45 度分支；echinocandin 與 fluconazole、voriconazole 對白黴菌**無效**"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142941,7 +143951,12 @@
       "guideline": "CDC, Clinical and Laboratory Diagnosis for Tuberculosis",
       "concepts": [
         "tuberculosis-diagnosis-ltbi"
-      ]
+      ],
+      "approach": {
+        "k": "結核病、選**最不適當**的",
+        "t": "抗酸染色陰性的肺結核**仍可能**有傳染力（較低但非零）",
+        "x": "飛沫核傳染、受宿主環境影響、單純肺外結核基本無傳染力，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -142977,7 +143992,12 @@
       "guideline": "CDC, Clinical Guidance for Wound Management to Prevent Tetanus",
       "concepts": [
         "tetanus-wound-prophylaxis"
-      ]
+      ],
+      "approach": {
+        "k": "動物咬傷處置、選**最不適當**的",
+        "t": "**貓咬**穿刺傷感染率**比狗咬高**，不宜立即縫合",
+        "x": "臉部傷口清潔後可縫、四肢超過 12 小時未處理給預防性抗生素、5 年內打過破傷風不用追加，三句都對"
+      }
     },
     "source": "115070/302_0101",
     "specialty_source": "cougarbot",
@@ -148911,7 +149931,12 @@
       "concepts": [
         "uti-trauma-transplant-urology",
         "hematuria-approach"
-      ]
+      ],
+      "approach": {
+        "k": "1 cm 輸尿管結石加水腎、**高燒低血壓**、腎功能損傷，選**錯誤**的",
+        "t": "感染性阻塞**急性期不做**輸尿管鏡碎石，先**引流**",
+        "x": "1 cm 不易自排、儘速 PCN 或雙 J、目前不適合 ESWL，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -148986,7 +150011,12 @@
       "guideline": null,
       "concepts": [
         "bosniak-classification"
-      ]
+      ],
+      "approach": {
+        "k": "5.5 cm 腎囊腫、邊緣不規則、**實心結節**",
+        "t": "有強化實心結節 → **Bosniak IV**",
+        "x": "I 單純、II 細分隔、III 厚壁或厚分隔但無結節"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -149022,7 +150052,12 @@
       "guideline": null,
       "concepts": [
         "prostate-bph-cancer"
-      ]
+      ],
+      "approach": {
+        "k": "5-ARI 治療 BPH、選**最不適當**的",
+        "t": "5-ARI 只對**較大**的攝護腺（>30–40 mL）有效，不是無論大小都有效",
+        "x": "阻斷 T 轉 DHT、作用在上皮、需 6 個月達最大效果，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -149058,7 +150093,12 @@
       "guideline": null,
       "concepts": [
         "hypospadias-pediatric-inguinal-hernia"
-      ]
+      ],
+      "approach": {
+        "k": "男性外陰部動脈血流、選**錯誤**的",
+        "t": "提睪肌動脈來自**下腹壁動脈**（外髂系統），**不是**臍動脈",
+        "x": "上膀胱動脈供應輸精管、下腹壁動脈供應提睪肌、睪丸動脈來自主動脈，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -149095,7 +150135,12 @@
       "guideline": null,
       "concepts": [
         "nocturnal-enuresis"
-      ]
+      ],
+      "approach": {
+        "k": "4 歲夜間尿床、選**錯誤**的（官方 C、D 都給分）",
+        "t": "尿床相關基因座在 **13q、12q、22q**，不是 6 與 11 號；第一線證據的描述也有誤",
+        "x": "三因素不匹配、6 歲起積極治療，這兩句對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -149131,7 +150176,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "移植腎核醫掃描、選**錯誤**的",
+        "t": "動態腎閃爍攝影**可以**偵測吻合口尿漏（示蹤劑跑出腎外）",
+        "x": "急性排斥灌流下降、切片是最佳鑑別、延遲恢復者序列影像逐漸改善，三句都對"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -149167,7 +150217,12 @@
       "guideline": null,
       "concepts": [
         "acute-scrotum-testicular-tumors"
-      ]
+      ],
+      "approach": {
+        "k": "右側睪丸的正常靜脈回流",
+        "t": "右睪丸靜脈直接進**下腔靜脈**",
+        "x": "左睪丸靜脈才進左腎靜脈；外髂靜脈與下腹壁靜脈不是"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
@@ -149245,7 +150300,12 @@
       "guideline": null,
       "concepts": [
         "uti-trauma-transplant-urology"
-      ]
+      ],
+      "approach": {
+        "k": "32 歲無痛血尿、KUB 見兩側腎錐體點狀鈣化",
+        "t": "**腎髓質鈣化症**（遠端 RTA、副甲狀腺亢進、髓質海綿腎）",
+        "x": "腎水腫看不到鈣化；急性腎結核不會這樣；泌尿上皮癌不會廣泛鈣化"
+      }
     },
     "source": "115070/302_0103",
     "specialty_source": "cougarbot",
