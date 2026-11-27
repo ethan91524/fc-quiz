@@ -11646,7 +11646,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.40",
       "concepts": [
         "thalassemia-alpha-vs-beta"
-      ]
+      ],
+      "approach": {
+        "k": "全球**最常見**單基因疾病",
+        "t": "**地中海貧血**（瘧疾區帶因者有存活優勢，分布廣）",
+        "x": "囊性纖維化以白人為主；X 脆折症與 PKU 盛行率較低"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11687,7 +11692,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.68",
       "concepts": [
         "biophysical-profile"
-      ]
+      ],
+      "approach": {
+        "k": "BPP 羊水分項、最大垂直徑 **1 cm**",
+        "t": "羊水是二分法：≥2 cm 得 2 分，否則 **0 分**",
+        "x": "BPP 每項只有 0 或 2 分，沒有 1 或 3 分"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11936,7 +11946,12 @@
       "D": "本項不選。Measles-mumps-rubella（MMR）是活性減毒疫苗，懷孕期間不可施打；rubella 無免疫力的孕婦應避免暴露，待產後接種並於接種後依建議避孕。",
       "summary": "孕期可接種不活化流感疫苗；水痘與 MMR 等活性減毒疫苗應延至產後。",
       "guideline": "FC 醫學(六)第1上冊 p.210",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "孕期疫苗、選**正確**",
+        "t": "流行季節應打**不活化流感疫苗**",
+        "x": "百日咳是 **27–36 週**打；水痘與 MMR 是**活性減毒**，孕期禁打、延到產後"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -11977,7 +11992,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.197",
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "BMI >30 孕婦、風險增加**最多**",
+        "t": "**妊娠糖尿病**",
+        "x": "子癇前症、死胎、產後出血也增加，但幅度較小"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12018,7 +12038,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.164",
       "concepts": [
         "postpartum-hemorrhage-definition"
-      ]
+      ],
+      "approach": {
+        "k": "第三產程主動處理、**不包括**",
+        "t": "**伸手入子宮取胎盤**（不是例行步驟）",
+        "x": "子宮按摩、控制性臍帶牽引、oxytocin 都是主動處理內容"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12059,7 +12084,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.116",
       "concepts": [
         "bishop-score"
-      ]
+      ],
+      "approach": {
+        "k": "Bishop score、**不屬於**",
+        "t": "**待產時間長短**（不是內診項目）",
+        "x": "擴張、薄化、軟硬、位置、胎頭高低才是五項"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12100,7 +12130,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.68",
       "concepts": [
         "biophysical-profile"
-      ]
+      ],
+      "approach": {
+        "k": "BPP **不包括**的超音波指標",
+        "t": "**臍動脈血流**（Doppler 是另一種監測）",
+        "x": "羊水量、呼吸、胎動、張力加 NST 才是 BPP"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12136,7 +12171,12 @@
       "guideline": null,
       "concepts": [
         "preeclampsia-pathophysiology"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**孕期肺水腫危險因子",
+        "t": "**妊娠糖尿病**",
+        "x": "子癇前症、敗血症、β-mimetic 安胎藥都是常見原因"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12177,7 +12217,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.91",
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "34 週 PPROM、**發燒 38.6℃**、心跳快、WBC 19000",
+        "t": "臨床**羊膜腔內感染** → 先給**抗生素**並準備生產",
+        "x": "感染時**不**給類固醇延後、**禁**安胎；感染本身不是剖腹適應症"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12785,7 +12830,12 @@
       "D": "本項不選。鑰匙孔徵（keyhole sign）通常指膀胱與擴張後尿道形成的形態，提示 lower urinary tract obstruction，器官並非 cerebral ventricle。",
       "summary": "Frog sign 指向 anencephaly；banana/lemon signs 常連結開放性脊柱裂，keyhole sign 提示下泌尿道阻塞。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "16 週超音波、看圖找異常器官與 sign",
+        "t": "**頭部、frog sign**（無腦症）",
+        "x": "banana 與 lemon sign 是脊柱裂；keyhole sign 是後尿道瓣膜"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12824,7 +12874,12 @@
       "D": "正確。無腦症（anencephaly）是開放性神經管缺陷，顱蓋缺失使眼眶突出，產前超音波可呈 frog sign；屬致死性異常。",
       "summary": "承上題，frog sign 是無腦症的典型產前超音波表現。",
       "guideline": "FC 醫學(六)第1上冊 p.69",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "承上題 frog sign",
+        "t": "**無腦症**",
+        "x": "Down、T18、T13 不是以 frog sign 表現"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13639,7 +13694,12 @@
       "concepts": [
         "postpartum-hemorrhage-4ts",
         "postpartum-hemorrhage-definition"
-      ]
+      ],
+      "approach": {
+        "k": "產後出血、選**最正確**",
+        "t": "**麥角鹼**會升壓，子癇前症禁用",
+        "x": "最常見原因是**子宮收縮無力**；低血壓是**晚期**徵兆；第一步是**復甦**"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -25464,7 +25524,12 @@
       "D": "本項不選。金黃色葡萄球菌（Staphylococcus aureus）可短暫定殖皮膚或生殖道並造成感染，但不是正常懷孕陰道的優勢菌株。",
       "summary": "孕期正常陰道菌相以 Lactobacillus 為優勢，利用 glycogen 代謝產乳酸維持酸性環境。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "懷孕時陰道優勢菌",
+        "t": "**Lactobacillus**（產乳酸維持酸性）",
+        "x": "GBS、Peptostreptococcus、金黃葡萄球菌不是優勢菌"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25498,7 +25563,12 @@
       "D": "正確。孕期 plasma volume 的增幅大於 red-cell mass 增幅，形成稀釋性生理貧血（physiologic anemia of pregnancy），使 hemoglobin 與 hematocrit 下降。",
       "summary": "孕期生理性貧血是 plasma volume 增加多於 red-cell mass 的稀釋結果。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "孕期血色素生理性下降的主因",
+        "t": "**血漿容量增加**多於紅血球（稀釋）",
+        "x": "不是鐵存量少、血液流到胎兒，網狀紅血球其實是增加"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25540,7 +25610,12 @@
       "concepts": [
         "early-pregnancy-loss-ultrasound-criteria",
         "vaginal-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "9 週、CRL **0.7 cm** 測不到心跳、子宮頸緊閉、無出血",
+        "t": "**過期流產**（CRL ≥7 mm 無心跳＝妊娠失敗，組織未排）",
+        "x": "不完全流產有出血、子宮頸開；子宮外孕看不到宮內妊娠；先兆流產胎兒存活"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25581,7 +25656,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.20",
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "胎兒循環含氧量**最高**",
+        "t": "**靜脈導管**（直接接臍靜脈）",
+        "x": "升主動脈已混合；上腔靜脈與動脈導管是去氧血"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25623,7 +25703,12 @@
       "concepts": [
         "microcytic-anemia",
         "thalassemia-alpha-vs-beta"
-      ]
+      ],
+      "approach": {
+        "k": "地中海貧血、選**正確**",
+        "t": "**甲型**帶因者電泳常正常，要驗基因",
+        "x": "同型帶因夫妻胎兒重型機率 **25%**；乙型多是**點突變**；MCV <80 只是篩檢"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25662,7 +25747,12 @@
       "D": "本項不選。部分商業 cfDNA panel 提供特定 microdeletion 篩檢；族群盛行率低使陽性預測值受限，不能將陰性結果視為排除所有微小缺失。",
       "summary": "常規 cfDNA 是染色體非整倍體篩檢，不是任意單基因 point mutation 的通用檢驗，也不能取代侵入性診斷。",
       "guideline": "FC 醫學(六)第1上冊 p.39",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "cfDNA **無法**檢驗",
+        "t": "**單點突變**",
+        "x": "三染色體、性染色體異常、部分微缺失都可篩"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25703,7 +25793,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.164",
       "concepts": [
         "postpartum-hemorrhage-4ts"
-      ]
+      ],
+      "approach": {
+        "k": "產後子宮收縮無力**最常見**原因",
+        "t": "**多胞胎**（子宮過度擴張）",
+        "x": "前置胎盤是下段出血；胎盤早剝與肥胖不是最常見"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25744,7 +25839,12 @@
       "D": "本項不選。ROP 是 right occiput posterior，雖同為後枕位，但枕骨在母體右後方；附圖官方判定為左後方。",
       "summary": "胎位縮寫第一個字母是母體左右、末字母是前後：本圖的枕部在左後，就是 LOP。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "看圖判斷胎位",
+        "t": "枕部在母體**左後** → **LOP**",
+        "x": "LOA 是左前；ROA、ROP 是右側"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25783,7 +25883,12 @@
       "D": "本項應選。薦尾椎畸胎瘤的胎兒介入多是開放式胎兒手術、射頻燒灼等阻斷血流的方法，不屬常規的胎兒鏡手術。",
       "summary": "胎兒鏡可治 TTTS、部分後尿道瓣膜與羊膜帶；薦尾椎畸胎瘤不是。",
       "guideline": "FC 醫學(六)第1上冊 p.39",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "**不宜**胎兒鏡手術",
+        "t": "**薦尾椎畸胎瘤**（不是胎兒鏡的適應症）",
+        "x": "TTTS 雷射、後尿道瓣膜、羊膜帶釋放都可用胎兒鏡"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25824,7 +25929,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.197",
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "GDM 飲食控制後空腹 **168 mg/dL**",
+        "t": "**胰島素＋飲食控制**",
+        "x": "空腹這麼高單靠飲食不夠；口服藥不是首選；不能放著不控"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25865,7 +25975,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.40",
       "concepts": [
         "hbv-serology"
-      ]
+      ],
+      "approach": {
+        "k": "HBsAg+、HBeAg+、病毒量 >10⁷、未用抗病毒藥、新生兒有 HBIG＋疫苗",
+        "t": "感染風險約 **10%**（高病毒量仍會免疫失敗）",
+        "x": "1% 太低；50% 與 90% 是沒有免疫預防的數字"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -25904,7 +26019,12 @@
       "D": "本項不選。先天性德國麻疹可有小頭症，也常見感音性聽損、白內障與開放性動脈導管；配對成立。",
       "summary": "TORCH 配對：parvovirus→水腫、CMV→腦室旁鈣化、弓形蟲→瀰漫鈣化加水腦、德國麻疹→心臟耳朵白內障。",
       "guideline": "FC 醫學(六)第1上冊 p.40",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "感染與胎兒超音波配對、**不符合**",
+        "t": "**弓形蟲**是腦鈣化、水腦，不是先天心臟病（心臟是德國麻疹）",
+        "x": "Parvovirus→水腫、CMV→顱內鈣化、德國麻疹→小頭症，三組都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -27519,7 +27639,12 @@
       "D": "本項不選。子宮達臍部附近時會壓迫下腔靜脈與主動脈，急救應持續 manual left uterine displacement，把子宮推向母體左側，而不是右側。",
       "summary": "孕婦 CPR 的特殊點包括較困難 airway 與 left uterine displacement；藥物及 defibrillation 能量不例行減半。",
       "guideline": "FC 醫學(六)第1上冊 p.204",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "孕婦急救、選**最正確**",
+        "t": "插管選**小一號**氣管內管（呼吸道水腫）",
+        "x": "誘導藥與電擊劑量**不減半**；子宮要推往**左側**"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -39268,7 +39393,12 @@
       "guideline": "FC 醫學(六)第1下冊 p.174",
       "concepts": [
         "ectopic-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** MTX 治療子宮外孕的禁忌",
+        "t": "**糖尿病**",
+        "x": "哺乳、血小板低、腹內出血（已破裂）都是禁忌"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39309,7 +39439,12 @@
       "guideline": "FC 醫學(六)第1下冊 p.174",
       "concepts": [
         "vaginal-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "5 週、宮內空、hCG 647→873（48 小時升 35%）、生命徵象穩定",
+        "t": "妊娠位置不明且穩定 → **48 小時後再追 hCG**",
+        "x": "progesterone 無法定位；腹腔鏡太早；驗肝腎血色素是準備打 MTX，還沒確診"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39350,7 +39485,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.67",
       "concepts": [
         "biophysical-profile"
-      ]
+      ],
+      "approach": {
+        "k": "35 週妊娠高血壓、BPP **10 分**",
+        "t": "**繼續觀察、每週**做 BPP，等到 37 週",
+        "x": "每天做太頻繁；35 週沒有 severe features 不需要催生或剖腹"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39392,7 +39532,12 @@
       "concepts": [
         "perinatal-infections-breastfeeding-vaccines",
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**剖腹產適應症",
+        "t": "**GBS 陽性**（產程中給抗生素就好）",
+        "x": "胎兒窘迫、產程遲滯、前置胎盤都是適應症"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39434,7 +39579,12 @@
       "concepts": [
         "postpartum-hemorrhage-definition",
         "postpartum-hemorrhage-4ts"
-      ]
+      ],
+      "approach": {
+        "k": "2017 ACOG 產後大出血定義",
+        "t": "累積失血 **≥1000 mL**（或合併低血容）",
+        "x": "500 mL 是舊定義；Hct 與心跳不是定義"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39475,7 +39625,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.163",
       "concepts": [
         "postpartum-hemorrhage-4ts"
-      ]
+      ],
+      "approach": {
+        "k": "產後出血的子宮因素、選**錯誤**",
+        "t": "**雙角子宮**的風險是胎位不正與早產，不是收縮無力",
+        "x": "過度擴張、產程遲滯、鹵化麻醉劑都會造成收縮無力"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39514,7 +39669,12 @@
       "D": "本項是本題要選的錯誤敘述：CVS 通常在 10–13 週施行；10 週前的早期 CVS 反而與肢體缺損等併發症相關，不能因為想更早診斷就提前做。",
       "summary": "CVS 的優點是 10–13 週就能診斷；早於 10 週不是更安全，而會提高胎兒肢體缺損風險。",
       "guideline": "FC 醫學(六)第1上冊 p.38",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "絨毛膜取樣、選**錯誤**",
+        "t": "**10 週前**做會增加**肢體缺損**，不是更安全",
+        "x": "可較早診斷、經陰道或腹部、排除自然流產後流產率相當，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39550,7 +39710,12 @@
       "guideline": null,
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "臀位陰道產、選**錯誤**",
+        "t": "前胎剖腹**不是絕對**禁忌",
+        "x": "足月臀位 3–4%、frank breech 最適合、羊水異常是危險因子，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39591,7 +39756,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.196",
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "HAPO study、選**錯誤**",
+        "t": "新生兒是**低血糖**，不是高血糖（胎兒胰島素高）",
+        "x": "出生體重 >90 百分位、初次剖腹、臍帶 C-peptide 高，三項都相關"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39632,7 +39802,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.186",
       "concepts": [
         "preeclampsia-pathophysiology"
-      ]
+      ],
+      "approach": {
+        "k": "重度子癇前症用 MgSO₄、肝功能升高、**腎功能正常**、尿量足",
+        "t": "照常給，**用到產後 24 小時**",
+        "x": "Mg 由**腎**排，肝功能異常不必減量；治療濃度沒有心毒性"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -39671,7 +39846,12 @@
       "D": "正確。雙胞胎輸血症候群（twin-twin transfusion syndrome, TTTS）主要來自共享胎盤內深層、單向的臍動脈－臍靜脈（arteriovenous）吻合，使供血胎少尿、受血胎多尿。",
       "summary": "TTTS 的關鍵不是雙胞胎本身，而是單絨毛膜胎盤內不平衡的 AV anastomosis：一胎少羊水、另一胎多羊水。",
       "guideline": "FC 醫學(六)第1上冊 p.102",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "TTTS **最主要**的胎盤血管異常",
+        "t": "**動脈－靜脈吻合**（單向不平衡分流）",
+        "x": "AA 與 VV 吻合是雙向、反而保護；帆狀臍帶不是主因"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40163,7 +40343,12 @@
       "D": "正確。懷孕期間的子宮頸癌，最重要的預後因子仍是臨床分期（clinical stage）；分期越進展，局部控制與存活預後越差。",
       "summary": "懷孕合併子宮頸癌先抓 clinical stage；不要把單一病理因子或固定週數當成所有人都必須終止妊娠的規則。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "懷孕合併子宮頸癌、選**正確**",
+        "t": "**臨床分期**是最重要的預後因子",
+        "x": "發生率約**萬分之一**等級；第一孕期錐切流產率**較高**；C 的處置敘述過於絕對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40238,7 +40423,12 @@
       "D": "本項不對，骨盆可有局部病灶或鄰近侵犯，但絨毛癌典型的遠端血行轉移首先想到的是肺，不是骨盆。",
       "summary": "絨毛癌走血行轉移時先想肺；有陰道或腦部症狀再警覺出血性轉移。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "絨毛癌**最常見**轉移部位",
+        "t": "**肺**（血行轉移）",
+        "x": "陰道次之；腦與骨盆較少"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -41285,7 +41475,12 @@
       "concepts": [
         "postpartum-hemorrhage-4ts",
         "postpartum-hemorrhage-definition"
-      ]
+      ],
+      "approach": {
+        "k": "產後 18 小時大量出血、選**最正確**",
+        "t": "**oxytocin** 是子宮收縮無力第一線用藥",
+        "x": "24 小時內是**原發性**；Hb 早期不會馬上降；超音波**可以**找殘留胎盤"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -52895,7 +53090,12 @@
       "D": "本項是本題要選的錯誤敘述：Android 型骨盆的出口橫徑傾向較窄，而非大於 10 cm；出口受限會增加難產或持續枕後位的機會。",
       "summary": "Android pelvis 一路都偏窄：側壁會聚、坐骨棘突出、恥骨弓窄，骨盆出口橫徑不會特別大。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "android 型骨盆、選**錯誤**",
+        "t": "出口橫徑**偏窄**，不會 >10 cm",
+        "x": "側壁會聚、坐骨棘明顯、恥骨弓窄，都是男性型特徵"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52931,7 +53131,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "**不會**隨週數持續增加的荷爾蒙",
+        "t": "**hCG**（第一孕期高峰後下降）",
+        "x": "estradiol、estriol、hPL 都持續上升"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -52970,7 +53175,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "羊水調控除胎尿外**最多**（官方 A–D 都給分）",
+        "t": "題目有爭議：吞嚥、肺液、膜內流、跨膜流都參與調控",
+        "x": "官方全部給分"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53004,7 +53214,12 @@
       "D": "本項不選。這一項更嚴重。Reversed end-diastolic flow 是舒張期血流逆向，和胎兒缺氧、酸中毒及圍產期風險增加有關。",
       "summary": "臍動脈 Doppler 看舒張期：足月 S/D <3 正常；舒張血流消失或逆流都代表胎盤阻力很高。",
       "guideline": "FC 醫學(六)第1上冊 p.58",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "足月臍動脈 Doppler、**正常**",
+        "t": "**S/D ratio <3**",
+        "x": ">95 百分位、舒張期血流消失、逆流都是胎盤阻力過高"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53040,7 +53255,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.67",
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "難產三因素、選**錯誤**",
+        "t": "三 P 是 power、passenger、passage，**沒有 pubis**",
+        "x": "宮縮不足、胎兒過大、產道太窄，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53079,7 +53299,12 @@
       "D": "本項是本題要選的錯誤敘述：無腦症（anencephaly）典型和羊水過多有關，因胎兒吞嚥受損；它不是常見的 hydrops fetalis 原因。",
       "summary": "Hydrops 想心衰竭或重度貧血：Turner、CMV、TTTS 都可能；無腦症的招牌是吞嚥差造成羊水過多。",
       "guideline": "FC 醫學(六)第1上冊 p.58",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "胎兒水腫常見原因、選**錯誤**",
+        "t": "**無腦症**是羊水過多，不是水腫",
+        "x": "Turner、CMV、TTTS 都會水腫"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53120,7 +53345,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.67",
       "concepts": [
         "biophysical-profile"
-      ]
+      ],
+      "approach": {
+        "k": "BPP 處置、選**錯誤**",
+        "t": "**4 分**應考慮**生產**，不是隔日再評估",
+        "x": "6 分合併羊水少要生、6 分 >36 週要生、2 分要生，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53161,7 +53391,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.91",
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "絨毛膜羊膜炎**最主要**原因",
+        "t": "**破水時間延長**（上行感染）",
+        "x": "抽菸、免疫抑制、GDM 不是主因"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53202,7 +53437,12 @@
       "guideline": null,
       "concepts": [
         "preeclampsia-pathophysiology"
-      ]
+      ],
+      "approach": {
+        "k": "約一半胎兒死亡的原因",
+        "t": "**胎兒生長受限**",
+        "x": "子癇前症、羊水少、胎兒畸形比例較低"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53243,7 +53483,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**正常孕期糖代謝現象",
+        "t": "飯後 **glucagon 仍受抑制**（說更不受抑制錯）",
+        "x": "空腹輕微低血糖、飯後高血糖、飯後高胰島素都是正常"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53284,7 +53529,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.185",
       "concepts": [
         "preeclampsia-pathophysiology"
-      ]
+      ],
+      "approach": {
+        "k": "30 週重度子癇前症、打類固醇要拖 48 小時、何時**立即生產**",
+        "t": "**無法控制的高血壓急症**（母體不安全）",
+        "x": "早期破水、羊水少、肝功能 2 倍可以先完成類固醇"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53325,7 +53575,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.185",
       "concepts": [
         "preeclampsia-pathophysiology"
-      ]
+      ],
+      "approach": {
+        "k": "子癇前症內皮損傷後變化、**不包括**",
+        "t": "**充血性病變**（血管內反而容量少）",
+        "x": "血管痙攣、血漿外漏、血栓都是"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53634,7 +53889,12 @@
       "D": "本項是本題要選的例外：多卵巢症（supernumerary ovary）是性腺或生殖嵴相關異常，不是 Müllerian ducts 融合或中隔吸收失誤所造成。",
       "summary": "Müllerian ducts 出錯會影響子宮、輸卵管與上陰道；卵巢不是 Müllerian duct 的產物。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "Müllerian duct 融合失誤、**不包括**",
+        "t": "**多卵巢症**（卵巢不是 Müllerian 來源）",
+        "x": "無子宮、雙角子宮、中膈子宮都是 Müllerian 異常"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53829,7 +54089,12 @@
       "D": "本項可成立。低風險、未轉移的 GTN 對單一化療藥物反應佳，治癒率很高。",
       "summary": "GTD 常讓 hCG 很高，但「hCG 一定升高」太絕對；GTN 即使要化療，治癒後仍可能正常懷孕。",
       "guideline": "FC 醫學(六)第1下冊 p.133",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "GTD、選**錯誤**",
+        "t": "hCG「**都會**」異常上升太絕對",
+        "x": "滋養層異常增生、GTN 化療後可懷孕、低風險化療反應好，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -66686,7 +66951,12 @@
       "D": "本項不對，Hair loss 在孕期常因毛髮停留在生長期而減少；明顯掉髮較常在產後雌激素下降後出現。",
       "summary": "正常孕期是「TBG 上、creatinine 下、hematocrit 下」；產後才常見 telogen effluvium 掉髮。",
       "guideline": "FC 醫學(六)第1上冊 p.18",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "孕期**正常**生理變化",
+        "t": "**TBG 上升**（雌激素作用）",
+        "x": "creatinine 與 Hct **下降**；掉髮是**產後**"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66725,7 +66995,12 @@
       "D": "本項不對，Syncytiotrophoblast 位於胎盤絨毛表面，重點是物質交換與荷爾蒙分泌，不是承受羊膜腔張力。",
       "summary": "胎膜抗張力最強的是薄而韌的 amnion；chorion、decidua 和 trophoblast 都不是主力。",
       "guideline": "FC 醫學(六)第1上冊 p.18",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "妊娠組織抗張強度**最強**",
+        "t": "**羊膜**",
+        "x": "蛻膜、絨毛膜、合體滋養層都較弱"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66766,7 +67041,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.37",
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "腹部 Doppler **最早**聽到胎心音",
+        "t": "約 **11–12 週**",
+        "x": "4–5 週還看不到心跳；7–8 週只有陰道超音波看得到；15–16 週太晚"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66845,7 +67125,12 @@
       "guideline": null,
       "concepts": [
         "biophysical-profile"
-      ]
+      ],
+      "approach": {
+        "k": "胎兒呼吸、選**錯誤**",
+        "t": "母親**進食後**胎兒呼吸會**增加**（受影響）",
+        "x": "吸氣時胸壁下塌腹部膨出、缺氧時減少、隨週數成熟而降低，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66886,7 +67171,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.114",
       "concepts": [
         "bishop-score"
-      ]
+      ],
+      "approach": {
+        "k": "station 0 的基準點",
+        "t": "**坐骨棘**",
+        "x": "髂棘、恥骨聯合、髖臼不是 station 基準"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66927,7 +67217,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.173",
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "產後子宮感染**最可能**風險因子",
+        "t": "**生產方式**（剖腹產風險遠高）",
+        "x": "內部胎心監測、人工破水、GBS 是加成因子"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -66968,7 +67263,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.157",
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "過期妊娠母體風險、**較不可能**",
+        "t": "**植入性胎盤**（要想前次剖腹＋前置胎盤）",
+        "x": "子癇前症、產後出血、會陰裂傷（巨嬰）都會增加"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67011,7 +67311,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.114",
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "看圖：胎頭旁有手",
+        "t": "**複合先露**",
+        "x": "brow 是額先露；complicated 與 neglected 不是這張圖"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67052,7 +67357,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.185",
       "concepts": [
         "preeclampsia-pathophysiology"
-      ]
+      ],
+      "approach": {
+        "k": "嚴重子癇前症、**不是**特點",
+        "t": "**高血容量**（其實血管內容量少）",
+        "x": "血液濃縮、血管收縮、內皮損傷都是特點"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67091,7 +67401,12 @@
       "D": "本項不對，三個孕期的 transmission rate 不相同。要分開記「晚期較容易傳」與「早期傳到後較嚴重」兩件事。",
       "summary": "CMV 的兩條線別混：晚孕期最容易傳給胎兒，早孕期一旦傳到，損害通常最嚴重。",
       "guideline": "FC 醫學(六)第1上冊 p.57",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "CMV **最容易**垂直傳播的時期",
+        "t": "**晚孕期**（但早孕期傳到最嚴重）",
+        "x": "早孕期、中孕期傳播率較低；三期不相同"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67132,7 +67447,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.57",
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒狼瘡**最主要**相關抗體",
+        "t": "**anti-Ro（SS-A）**（先天心臟傳導阻斷）",
+        "x": "抗血小板、anti-Sm、抗磷脂不是主因"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67258,7 +67578,12 @@
       "guideline": "FC 醫學(六)第1下冊 p.49",
       "concepts": [
         "turner-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "Turner 帶 Y 染色體、gonadoblastoma、選**最不適當**",
+        "t": "應**儘早**切除性腺，**不是等成年**",
+        "x": "本身良性、源自帶 Y 的性腺、可合併惡性生殖細胞瘤，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -68665,7 +68990,12 @@
       "concepts": [
         "ectopic-pregnancy",
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "子宮外孕、觀察中**血壓 80/52、心跳 104**、腹腔積液",
+        "t": "**輸血＋緊急剖腹輸卵管切除**（已破裂）",
+        "x": "出院追蹤危險；MTX 要血行穩定；擇期腹腔鏡太慢"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -80504,7 +80834,12 @@
       "D": "本項應選。Mifepristone 和 methotrexate 都會干擾妊娠組織，卻不提供 misoprostol 的有效子宮收縮作用；這個組合在實務上不建議。",
       "summary": "藥物終止妊娠要有能讓子宮排出的 misoprostol；mifepristone 加 methotrexate 沒有這個關鍵搭配。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "第一孕期藥物終止妊娠、**不建議**的組合",
+        "t": "**mifepristone＋MTX**（缺 misoprostol 排出子宮內容）",
+        "x": "misoprostol 單用、mife＋miso、MTX＋miso 都是可用方案"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80540,7 +80875,12 @@
       "guideline": null,
       "concepts": [
         "vaginal-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "子宮頸懷孕、生命徵象穩定、無出血",
+        "t": "**MTX** 保守治療",
+        "x": "子宮切除是止不住血時；環紮加刮宮有大出血風險；栓塞是出血時的輔助"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80622,7 +80962,12 @@
       "D": "本項不選。這一項可成立。第四度裂傷穿過會陰、anal sphincter complex 並延伸到 anorectal mucosa，感染與失禁風險最高。",
       "summary": "會陰裂傷的陷阱在 3a：external anal sphincter 撕裂少於 50%，不是少於三分之一。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "會陰裂傷分級、選**錯誤**",
+        "t": "**3a** 是外肛門括約肌撕裂 **<50%**，不是 <1/3",
+        "x": "一度、二度、四度定義都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80663,7 +81008,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "剖腹產合併症、選**錯誤**",
+        "t": "骨盆底肌肉受損是**陰道生產**較多",
+        "x": "出血較多、血栓較多、要銜接胰島素與抗凝血，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80702,7 +81052,12 @@
       "D": "本項可成立。乳房脹奶可造成低度發燒，但仍須小心不要把持續高燒都誤當成正常脹奶。",
       "summary": "產後第一天發燒別立刻全算 pelvic infection；高燒顫抖才要強烈警覺侵襲性細菌感染。",
       "guideline": "FC 醫學(六)第1上冊 p.172",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "產褥熱、選**錯誤**",
+        "t": "自然產**第一天**發燒**多半不是**骨盆感染",
+        "x": "體溫 >38℃、>39℃ spiking 想 GAS、脹奶可發燒，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80741,7 +81096,12 @@
       "D": "本項不對，胎兒 SMA 沒有短股骨這種特異超音波表現。短股骨要考慮骨骼發育不全、胎兒生長受限或染色體問題等其他方向。",
       "summary": "SMA 的核心是 5q13.2 的 SMN1 常染色體隱性異常；它是運動神經元病，不是靠短股骨或胎死腹中診斷。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "SMA、選**正確**",
+        "t": "多數是 **5q13.2 SMN1** 突變",
+        "x": "不會多數胎死腹中；是常見隱性帶因，**應**普遍篩檢；超音波沒有短股骨特徵"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80777,7 +81137,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "剖腹產預防感染、**盤尼西林過敏**",
+        "t": "**clindamycin 600 mg＋gentamicin** 單次",
+        "x": "cefazolin 劑量錯且過敏要避；gentamicin 單用不夠；ceftriaxone 不是標準預防"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80810,7 +81175,12 @@
       "C": "本項不選，這是禁忌。在配方奶取得容易、水源安全的地方（含台灣），HIV 感染的母親建議不要哺乳，改用配方奶以避免母乳傳染。",
       "D": "本項不選，這是禁忌。未治療的開放性肺結核具傳染性，母嬰必須暫時隔離。要注意的是傳染途徑是飛沫而不是乳汁，所以**擠出來的母乳仍可以餵**，等治療滿兩週以上再評估親自哺乳。",
       "summary": "哺乳禁忌記三個：化療、HIV、未治療的開放性肺結核；C 型肝炎不在其中，B 型肝炎打了疫苗也可以餵。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**不是**哺乳禁忌",
+        "t": "**HCV 感染**",
+        "x": "化療、HIV、未治療開放性肺結核都是禁忌"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80846,7 +81216,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "孕期才診斷 GDM、**飲食控制**",
+        "t": "White **A1**",
+        "x": "A2 要用藥；B、C 是孕前糖尿病"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80885,7 +81260,12 @@
       "D": "本項不對，關節攣縮等骨骼肌肉表現可伴隨嚴重神經損害，仍是腦部發育受損所造成的次要表徵。",
       "summary": "Zika 垂直感染先背腦：microcephaly、皮質異常和顱內鈣化，比心肺或骨骼問題更具代表性。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "先天性 Zika **最嚴重**的器官",
+        "t": "**腦**（小頭症、顱內鈣化）",
+        "x": "肺、心臟、骨骼不是主要表現"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -80926,7 +81306,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.90",
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "32 週 PPROM 無感染、**最不建議**",
+        "t": "**宮縮抑制劑**",
+        "x": "GBS 預防、類固醇、latency 抗生素都建議"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81212,7 +81597,12 @@
       "D": "本項不對，35–40% 明顯高於一般早期流產的盛行率，不能當作常規病人都會有的比例。",
       "summary": "早期流產中的先天性子宮異常約 5–10%；反覆流產才會讓你更積極找 septate uterus 等結構問題。",
       "guideline": null,
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "早期流產合併先天子宮異常的比率",
+        "t": "約 **5–10%**",
+        "x": "1–5% 太低；20–40% 太高"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81404,7 +81794,12 @@
       "D": "本項不對，膀胱黏膜侵犯表示腫瘤延伸到鄰近器官，屬 stage IVA，顯然會影響分期。",
       "summary": "FIGO 2008 內膜癌把腹水細胞學從分期拿掉；肌層深度、骨盆淋巴結與膀胱侵犯仍會改變 stage。",
       "guideline": "FC 醫學(六)第1下冊 p.82",
-      "concepts": []
+      "concepts": [],
+      "approach": {
+        "k": "FIGO 2008 內膜癌、**不影響**分期",
+        "t": "**腹水細胞學陽性**（已移出分期）",
+        "x": "肌層侵犯深度、骨盆淋巴結、膀胱侵犯都會改變分期"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -82671,7 +83066,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.37",
       "concepts": [
         "down-prenatal-screening"
-      ]
+      ],
+      "approach": {
+        "k": "18 週唐氏篩檢 **1/30**、孕婦要求人工流產",
+        "t": "說明是**風險評估**，建議**羊膜穿刺**確診",
+        "x": "未確診不應直接引產；重複篩檢與高層次超音波都不能確診"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -94267,7 +94667,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.35",
       "concepts": [
         "down-prenatal-screening"
-      ]
+      ],
+      "approach": {
+        "k": "12 週 NT **3.3 mm**、選**正確**",
+        "t": "可能染色體異常，**Down** 最常見",
+        "x": "不能直接終止；心臟病機率沒那麼高；核型正常**仍要**結構超音波與心臟超音波"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94310,7 +94715,12 @@
       "guideline": null,
       "concepts": [
         "vaginal-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "6 週、子宮像 12 週、hCG **400,000**、**暴風雪**影像",
+        "t": "**妊娠滋養層疾病**（葡萄胎）",
+        "x": "流產 hCG 會降；子宮外孕宮內空；雙胞胎看得到胎兒"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94351,7 +94761,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.17",
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "8 週後黃體素**主要**來源",
+        "t": "**胎盤**",
+        "x": "黃體是早孕期；腎上腺不是主要來源"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94392,7 +94807,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.127",
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "產鉗先決條件、選**最不適當**",
+        "t": "胎頭**必須** engage",
+        "x": "已破水、子宮頸開全、無胎兒凝血病變，都是條件"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94433,7 +94853,12 @@
       "guideline": "現行 ACOG 產程共識：活躍期以子宮頸 6 公分起算，第二產程時限較 Friedman 舊定義放寬",
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "產程遲滯處置、選**錯誤**",
+        "t": "prolonged latent phase 先**休息**（治療性休息），不是先加 oxytocin",
+        "x": "初產 >20 小時定義、protraction 觀察支持、二產程 arrest 評估 CPD，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94469,7 +94894,12 @@
       "guideline": null,
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "胎盤早期剝離診斷、選**錯誤**",
+        "t": "**無痛**大量出血是**前置胎盤**",
+        "x": "胎心減速、子宮觸痛、超音波不到 1/4 看得到血塊，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94510,7 +94940,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.162",
       "concepts": [
         "postpartum-hemorrhage-4ts"
-      ]
+      ],
+      "approach": {
+        "k": "經產婦 7 公分入院、**一小時就生**（急產）",
+        "t": "**子宮收縮無力**",
+        "x": "神經損傷、胎盤滯留、膀胱功能異常不是最可能"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94553,7 +94988,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.90",
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "22 週超音波短子宮頸、**前胎 33 週自發早產**",
+        "t": "**子宮頸環紮術**",
+        "x": "aspirin 是防子癇前症；陰道黃體素用於**無**早產史的短子宮頸；安胎藥不預防"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94594,7 +95034,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.112",
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "TOLAC vs 重複剖腹、母體風險**較不會增加**",
+        "t": "**子宮切除**",
+        "x": "輸血、子宮感染、子宮裂開在 TOLAC 都較多"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94635,7 +95080,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.195",
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "GDM 用胰島素、選**最不適宜**",
+        "t": "**不能全用長效**，餐後血糖需短效",
+        "x": "起始 0.7–1.0 U/kg、飯後血糖較有意義、自我監測減少巨嬰，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94676,7 +95126,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.184",
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "孕期降壓**最不建議**",
+        "t": "**ACEI**（胎兒腎毒、羊水過少）",
+        "x": "β-blocker（labetalol）、血管擴張劑（hydralazine）、CCB（nifedipine）都可用"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -94714,7 +95169,12 @@
       "C": "本項不選。鹼性磷酸酶（alkaline phosphatase）在正常懷孕就會被胎盤來源的同功酶拉高。孕期升高是常態，拿它評估胎兒風險會失準。",
       "D": "本項不選。ALT 上升代表肝細胞受損，是母體端的發炎指標。它跟搔癢嚴重度、膽汁酸高低都不一定同步，臨床上也沒有拿 ALT 訂提早分娩的門檻。",
       "summary": "妊娠肝內膽汁淤積症追的是膽汁酸不是肝功能；≥100 μmol/L 就是「胎兒隨時可能死產」的紅線。",
-      "guideline": "FC 醫學(六)第1上冊 p.208"
+      "guideline": "FC 醫學(六)第1上冊 p.208",
+      "approach": {
+        "k": "ICP **最直接**導致胎兒不良預後",
+        "t": "**膽汁酸**（≥100 μmol/L 死產風險高）",
+        "x": "bilirubin、ALP、ALT 不能預測胎兒預後"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -108059,7 +108519,12 @@
       "C": "本項不選。妊娠劇吐（hyperemesis gravidarum）是懷孕本身造成的症狀，不是流產的原因。三倍體確實會流產，但它的機轉是受精時多了一整套父源染色體，跟孕吐無關。",
       "D": "本項不選。子宮內感染只佔散發性流產的少數，不是 35 歲女性要先想到的因素。性染色體異常在流產胚胎裡以 45,X 為主，整體比例仍遠低於三染色體症。",
       "summary": "第一孕期流產＝「媽媽年齡 × trisomy」這一組；子宮頸閉鎖不全要留到第二孕期才拿出來用。",
-      "guideline": "FC 醫學(六)第1上冊 p.150"
+      "guideline": "FC 醫學(六)第1上冊 p.150",
+      "approach": {
+        "k": "第一孕期流產**最相關**母體因素＋染色體",
+        "t": "**母親年齡／三染色體症**",
+        "x": "子宮頸閉鎖不全是第二孕期；巨吐與感染不是主因"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108095,7 +108560,12 @@
       "guideline": null,
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "預防性環紮的時間點與禁忌",
+        "t": "**12–16 週**／**早期破水**是禁忌",
+        "x": "已擴張才做是緊急環紮；受孕前不做；6–12 週太早；糖尿病與高齡不是禁忌"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108131,7 +108601,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "**不會**使母體雌激素降低",
+        "t": "**胎兒溶血**（胎盤變大，雌激素反而升高）",
+        "x": "胎死、硫酸酯酶缺乏、唐氏症都會降低"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108172,7 +108647,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.126",
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "分娩與產程、選**錯誤**",
+        "t": "臨床產程屬分娩的**刺激期**（phase 2），不是活化期",
+        "x": "第一產程、第二產程定義、始於靜止期，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108213,7 +108693,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.137",
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "39 週估重 **4050 g**、選**正確**",
+        "t": "巨嬰是**肩難產**風險因子",
+        "x": "不需立即催生；超音波估重**不準**；計畫剖腹門檻是非糖尿病 **5000 g**、糖尿病 **4500 g**"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108249,7 +108734,12 @@
       "guideline": null,
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "protraction disorder 指的是",
+        "t": "**活動期擴張拖延**",
+        "x": "活動期與減速期「延長」、潛伏期不講拖延"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108290,7 +108780,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.143",
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於** Category III",
+        "t": "**marked variability**（是 Category II）",
+        "x": "sinusoidal、變異度消失合併反覆晚期或變異性減速，都是 III"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108328,7 +108823,12 @@
       "C": "正確。母親發燒是胎兒心搏過速最常見的原因，來源多半是絨毛膜羊膜炎（chorioamnionitis），減痛分娩後的體溫上升也算。母體體溫每升高 1°C，胎兒代謝率與心跳就跟著往上。所以看到胎心率 >160 bpm，第一件事是量媽媽的體溫。",
       "D": "本項不選。胎兒心律不整常見的是心跳衝到 200 bpm 以上、變異度同時消失，形狀跟發燒造成的輕度心搏過速不同。它的發生率也低得多。",
       "summary": "胎兒心跳飆高，先量媽媽的體溫再想胎兒的心臟——絨毛膜羊膜炎才是常見答案。",
-      "guideline": "FC 醫學(六)第1上冊 p.144"
+      "guideline": "FC 醫學(六)第1上冊 p.144",
+      "approach": {
+        "k": "胎兒心搏過速**最常見**原因",
+        "t": "**母親發燒**（絨毛膜羊膜炎）",
+        "x": "藥物、甲狀腺風暴、胎兒心律不整較少"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108368,7 +108868,12 @@
       "C": "正確。圖是胎兒頭部的橫切面，彩色都卜勒顯示的是 Willis 環（circle of Willis）往兩側分出的血管，取樣游標正落在中大腦動脈的起始段。臨床上量它的收縮期最高流速（MCA peak systolic velocity）來偵測胎兒貧血。",
       "D": "本項不選。降主動脈要在胸腹部縱切面沿著脊椎前方追。圖中看到的是顱內對稱分支的血流，不是一條沿脊椎走的長軸血管。",
       "summary": "頭部橫切面＋Willis 環的彩色分叉＝中大腦動脈；量 MCA-PSV 是為了抓胎兒貧血。",
-      "guideline": "FC 醫學(六)第1上冊 p.66"
+      "guideline": "FC 醫學(六)第1上冊 p.66",
+      "approach": {
+        "k": "看圖：頭部橫切面 Doppler、Willis 環",
+        "t": "**中大腦動脈** Doppler（評估胎兒貧血）",
+        "x": "臍動脈在臍帶；下腔靜脈與主動脈在軀幹"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108409,7 +108914,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.195",
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "GDM 產後追蹤、選**最適宜**",
+        "t": "產後 **4–12 週**做空腹血糖或 75 g OGTT",
+        "x": "未來糖尿病與心血管風險**都較高**；正常後**仍要**每 1–3 年追蹤"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108447,7 +108957,12 @@
       "C": "本項不選。肺炎克雷伯菌（Klebsiella pneumoniae）與大腸桿菌同屬腸桿菌科，是產科菌血症常見的革蘭氏陰性菌之一。",
       "D": "本項應選。李斯特菌（Listeria monocytogenes）主要靠受污染的乳製品與即食食品傳染。孕婦雖然特別容易感染、後果也重（流產、死產、新生兒敗血症），但整體發生率極低，在產科敗血症的病原統計裡佔比最小。",
       "summary": "產科敗血症的主力是腸道來的革蘭氏陰性菌；Listeria 是「後果很嚴重但數量很稀少」的那一個。",
-      "guideline": "FC 醫學(六)第1上冊 p.203"
+      "guideline": "FC 醫學(六)第1上冊 p.203",
+      "approach": {
+        "k": "產科敗血症病原菌**最罕見**",
+        "t": "**Listeria**",
+        "x": "E. coli、腸球菌、Klebsiella 都常見"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108488,7 +109003,12 @@
       "guideline": "FC 醫學(六)第1上冊 p.35",
       "concepts": [
         "down-prenatal-screening"
-      ]
+      ],
+      "approach": {
+        "k": "唐氏風險 1:820（低）、**AFP 3.8 MoM**",
+        "t": "做**詳細胎兒超音波**（找神經管或腹壁缺損）",
+        "x": "唐氏風險低不需羊穿；卵巢腫瘤不是首想；重複篩檢無意義"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109006,7 +109526,12 @@
       "C": "本項敘述正確。部分葡萄胎有胚胎或胎兒組織，病理上看得到胎兒有核紅血球，絨毛水腫也只是局部。這是與完全性葡萄胎最實用的區分點。",
       "D": "本項敘述正確。部分葡萄胎的滋養細胞增生較侷限，β-hCG 通常只是輕度上升。完全性葡萄胎則常衝到十萬 mIU/mL 以上。",
       "summary": "完全性＝沒胎兒、hCG 爆高、惡性化 15–20%；部分＝有胎兒組織、hCG 溫和、惡性化 <5%。",
-      "guideline": "FC 醫學(六)第1下冊 p.131"
+      "guideline": "FC 醫學(六)第1下冊 p.131",
+      "approach": {
+        "k": "partial mole、選**錯誤**",
+        "t": "partial **較不容易**惡化（<5%），complete 才較高",
+        "x": "三倍體多一套父源、可見胎兒組織、hCG 較低，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109166,7 +109691,12 @@
       "C": "本項不選。缺乏 5α-reductase 的人做不出 dihydrotestosterone，出生時外生殖器偏女性。但青春期睪固酮上升會出現男性化：聲音變低、陰蒂肥大，體毛也會長出來。",
       "D": "本項不選。嗅覺喪失合併乳房完全不發育才是 Kallmann syndrome 的樣子。它的病灶在 GnRH 神經元遷移失敗，屬於低促性腺素性腺功能低下。本例乳房已經發育，方向相反。",
       "summary": "「有乳房、沒陰毛腋毛、沒月經」＝AIS；把體毛當雄性素的儀表板，把乳房當雌激素的儀表板。",
-      "guideline": "FC 醫學(六)第1下冊 p.238"
+      "guideline": "FC 醫學(六)第1下冊 p.238",
+      "approach": {
+        "k": "18 歲無月經、**有乳房、無腋毛陰毛**",
+        "t": "**雄性素不敏感症候群**",
+        "x": "MRKH 毛髮正常；5α-reductase 缺乏無乳房；Kallmann 乳房也不發育"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -110000,7 +110530,12 @@
       "C": "本項不選。低分子量 heparin 同樣不過胎盤，出血與 heparin 引起的血小板低下機率比未分餾型更低。皮下注射一天一到兩次，是孕期深層靜脈栓塞的首選。",
       "D": "本項不選。下腔靜脈濾器是保留給抗凝血失敗或有抗凝血禁忌的病人，屬於合理的備案。題目也把它寫成「效果不好時才考慮」，敘述沒有問題。",
       "summary": "懷孕抗凝血只認一個條件——過不了胎盤：heparin 系列全上，warfarin 出局。",
-      "guideline": "FC 醫學(六)第1上冊 p.203"
+      "guideline": "FC 醫學(六)第1上冊 p.203",
+      "approach": {
+        "k": "28 週 DVT、**最不適合**",
+        "t": "**warfarin**（通過胎盤致畸）",
+        "x": "UFH、LMWH 可用；抗凝無效可放 IVC filter"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -120911,7 +121446,12 @@
       "C": "本項不選。可存活的子宮內懷孕黃體素幾乎都在 20 ng/mL 以上。低到 5 以下與這個診斷互斥。",
       "D": "本項不選。多胞胎有更多滋養細胞，黃體素只會更高。題目給的數值方向剛好相反。",
       "summary": "黃體素 <5 ng/mL＝這個懷孕保不住，但它不告訴你在子宮內還是子宮外；>20 ng/mL 才是活的宮內孕。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "早孕黃體素 **<5 ng/mL**",
+        "t": "**無法存活的懷孕**",
+        "x": "生理性黃體衰退不是原因；可存活宮內孕或多胞胎黃體素較高"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -120944,7 +121484,12 @@
       "C": "本項不選。子宮切除術（hysterectomy）只留給年紀較大、不再生育或大出血止不住的人。這位是 22 歲 G1P0，切掉子宮代價太大。而且切了子宮仍然要追蹤 β-hCG。",
       "D": "本項不選。子宮切開術（hysterotomy）要切開子宮肌肉層才能取出組織，出血量與手術風險都比真空吸引高。還會留下子宮疤痕，影響日後的生產方式。現在已經不用這種方式清葡萄胎。",
       "summary": "葡萄胎不分週數都先做 suction curettage；切子宮只給不再生育又止不住血的人，而且照樣要追蹤 β-hCG。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "8–9 週葡萄胎",
+        "t": "**抽吸式刮宮**",
+        "x": "觀察會出血；子宮切除只給不想生育者；子宮切開不適用"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -120980,7 +121525,12 @@
       "guideline": null,
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "abnormal labor、選**錯誤**",
+        "t": "初產婦 prolonged latent phase 是 **>20 小時**（14 小時是經產婦）",
+        "x": "初產 protraction <1.2 cm/hr、評估宮縮與 CPD、減痛分娩可延長產程，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121016,7 +121566,12 @@
       "guideline": null,
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "活動產程從子宮頸幾公分起算",
+        "t": "**6 公分**（新定義）",
+        "x": "4 公分是舊定義；2 公分仍是潛伏期；8 公分太晚"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121052,7 +121607,12 @@
       "guideline": null,
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "Couvelaire uterus、選**錯誤**",
+        "t": "**很少**需要切除子宮（收縮得起來就保留）",
+        "x": "是胎盤早剝特徵、血液浸潤肌層、很少造成收縮無力，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121088,7 +121648,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "羊膜穿刺、選**錯誤**",
+        "t": "流產主因是**破水與感染**，不是刺傷胎兒",
+        "x": "流產率 0.1–0.3%、15–20 週做、可查感染與肺成熟，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121123,7 +121688,12 @@
       "C": "正確。圖中箭頭從羊膜出發，穿過絨毛膜（chorion）與蛻膜（decidua），一路到達子宮肌層。羊膜大量製造 prostaglandin E2，擴散過去讓子宮肌肉收縮。臨床上用前列腺素製劑催生就是走同一條路。",
       "D": "本項不選。hyaluronan 的舞台在子宮頸，靠吸水把膠原纖維撐鬆，做的是子宮頸軟化。它不負責讓子宮肌肉收縮。",
       "summary": "羊膜分泌 PGE2 往外擴散到子宮肌層引發收縮；hyaluronan 管的是子宮頸軟化，兩件事不要混在一起。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "看圖：羊膜分泌、刺激子宮肌層收縮的激素",
+        "t": "**PGE2**",
+        "x": "DHEA-S 是雌激素前驅物；serotonin 不是；hyaluronan 是子宮頸軟化"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121159,7 +121729,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "剖腹產適應症、選**錯誤**",
+        "t": "**臍帶繞頸**本身不是適應症（看胎心監測）",
+        "x": "急性胎兒窘迫、胎盤早剝、前胎子宮縱切都是適應症"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121192,7 +121767,12 @@
       "C": "正確。神經纖維瘤病（neurofibromatosis）第一型由 NF1 基因變異造成，只要一個等位基因異常就會發病。父母一方有病，子女就有一半機率遺傳到。",
       "D": "本項不選。X 染色體易碎症候群（fragile X syndrome）的致病基因 FMR1 位在 X 染色體上，屬 X 連鎖遺傳。男性只有一條 X，症狀通常比女性重。",
       "summary": "四個選項只有 NF1 走體染色體顯性；cystic fibrosis 與 homocystinuria 是隱性，fragile X 走 X 連鎖。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "**體染色體顯性**遺傳",
+        "t": "**神經纖維瘤病**",
+        "x": "CF 與 homocystinuria 是隱性；fragile X 是 X 連鎖"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121228,7 +121808,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "GDM 自然產下 **4800 g** 足月兒、選**最適宜**",
+        "t": "很可能經歷**肩難產**",
+        "x": "巨嬰代表血糖**沒控好**；新生兒是**低血糖**；產後**仍要**追蹤 OGTT"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121264,7 +121849,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "嚴重子癇前症合併症、**不包含**",
+        "t": "**胰臟功能異常**",
+        "x": "上腹痛（肝）、寡尿（腎）、血小板低都是嚴重特徵"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121297,7 +121887,12 @@
       "C": "本項不選。benzathine penicillin G 打的是梅毒（syphilis），對砂眼披衣菌（Chlamydia trachomatis）沒有效果。這兩種性傳染病常一起篩檢，但用藥完全不同。",
       "D": "正確。孕婦首選 azithromycin 1 公克單次口服，一次吃完最不容易漏。doxycycline 雖然對披衣菌很有效，但孕期禁用。治療後 3 到 4 週要再驗一次確認治癒。",
       "summary": "孕婦得披衣菌就給 azithromycin 單次一公克；doxycycline 孕期不能用，penicillin 治的是梅毒不是它。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "12 週孕婦披衣菌感染首選",
+        "t": "**azithromycin 1 g** 單次",
+        "x": "amoxicillin 是替代；erythromycin 副作用多；benzathine penicillin 是治梅毒"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121409,7 +122004,12 @@
       "C": "本項不選。15% 高估了。若真是這個比例，產前超音波發現腎臟異常而轉介的量會比現況多出一半。",
       "D": "本項不選。20% 等於每五個新生兒就有一個，明顯超過實際情形。臨床上真正需要進一步泌尿科評估的新生兒遠少於這個比例。",
       "summary": "泌尿生殖道異常約佔新生兒的十分之一，是最常見的先天異常系統；記住 1/10 這個量級就夠用。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "出生時生殖泌尿系統異常比例",
+        "t": "約 **10%**",
+        "x": "5% 太低；15–20% 太高"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121595,7 +122195,12 @@
       "guideline": null,
       "concepts": [
         "acute-abdominal-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "LMP 25 天前（黃體期）、性行為後腹痛、驗孕**陰性**、低血壓、Hb 9.5、腹腔積液、CRP 正常",
+        "t": "**黃體囊腫破裂**",
+        "x": "TOA 會發燒 WBC 高；子宮外孕驗孕陽性；肌瘤扭轉不會造成腹腔出血"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121841,7 +122446,12 @@
       "C": "本項不選。每個週期的懷孕率大約一成，這也是通常建議做三到六個週期再重新評估的原因。單次成功率不高是諮詢時一定要先講的。",
       "D": "本項應選。同一週期做兩次（double IUI）並沒有拿到比單次（single IUI）更高的懷孕率。隨機分派試驗看不出差異，多做一次只增加費用與不適。",
       "summary": "人工授精記三個數字：洗後活動精蟲一千萬、注入 0.5 毫升、單週期懷孕率一成；同週期做兩次不會更好。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "人工授精、選**錯誤**",
+        "t": "同週期 double IUI **不會**提高懷孕率",
+        "x": "活動精蟲 <1000 萬成功率低、洗後 0.5 mL 送入子宮、單次懷孕率約 10%，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -122601,7 +123211,12 @@
       "C": "本項應選。子宮內膜異位的疼痛是慢性的，隨月經週期起伏，不會突然發作到這種程度。它的影像多半是邊界清楚的囊性病灶，和這張急性出血的表現對不起來。",
       "D": "本項不選。輸卵管急性破裂出血同樣會把血灌進骨盆腔。它和異位妊娠破裂的影像幾乎分不出來，要靠病史與驗孕結果來區分。",
       "summary": "骨盆腔急性血腫的影像先想異位妊娠或輸卵管破裂；子宮內膜異位是慢性痛，不會長成急性出血團塊。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "28 歲突發劇烈腹痛、CT 骨盆腔病灶、**最不可能**",
+        "t": "**子宮內膜異位**（慢性病程）",
+        "x": "異位妊娠破裂、腹腔血腫、輸卵管破裂出血都是急性出血"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -122716,7 +123331,12 @@
       "C": "正確。陰道超音波在 hCG 超過辨識閾值（約 1500 到 3500 mIU/mL）時才一定看得到子宮內胚囊，這位病人 1300 還沒到，所以做法是 48 小時後追蹤 hCG：正常子宮內妊娠約上升 50% 以上，上升不足或下降就高度懷疑子宮外孕。追蹤期間要衛教她腹痛加劇或頭暈立刻回診。",
       "D": "本項不選。懷孕期間不該用電腦斷層當第一線，而且腹部電腦斷層對早期子宮外孕的診斷力遠不如陰道超音波。",
       "summary": "hCG 沒過辨識閾值又看不到胚囊，就是位置不明的懷孕：48 小時追蹤 hCG，不要急著下診斷。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "7 週、宮內外都看不到胚囊、hCG **1300**、生命徵象穩定",
+        "t": "可能**子宮外孕**，**48 小時後追 hCG**",
+        "x": "看不到胚囊不能說正常懷孕；不能直接當先兆流產；CT 不是診斷工具"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -133621,7 +134241,12 @@
       "C": "正確。懷孕本身並不明顯延長胃排空時間，這一點常被誤記。真正延長胃排空的是分娩過程、疼痛與鴉片類止痛藥——所以麻醉上仍把產婦當飽胃處理，但理由是括約肌鬆弛加腹內壓高，不是胃排空變慢。",
       "D": "本項不選。血漿容積增加造成稀釋，血清白蛋白濃度在孕期是下降的（約降 1 g/dL），這也是孕婦生理性水腫的原因之一。",
       "summary": "孕期腸胃三件事：闌尾往上跑、食道蠕動與括約肌變鬆、白蛋白被稀釋；胃排空本身沒變慢。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "孕期胃腸變化、選**正確**",
+        "t": "**胃排空時間不變**",
+        "x": "闌尾是**往上**移；食道蠕動**減少**；白蛋白**下降**（稀釋）"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133657,7 +134282,12 @@
       "guideline": null,
       "concepts": [
         "vaginal-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "8 週右側子宮外孕、**血壓 86/50、心跳 110**、大量腹腔積液",
+        "t": "**緊急手術**切除與止血",
+        "x": "不能等空腹；ICU 觀察會延誤；MTX 只給穩定未破裂者"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133690,7 +134320,12 @@
       "C": "本項不選。三酸甘油脂是能量儲存形式，不是類固醇的前驅物；類固醇的骨架來自膽固醇。",
       "D": "本項不選。雌三醇是這條路徑的終產物而不是前驅物，順序剛好被寫反。",
       "summary": "胎兒胎盤單位的原料鏈：母體 LDL 膽固醇→胎兒腎上腺 DHEAS→胎盤芳香化成雌三醇。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "胎兒腎上腺類固醇**主要前驅物**",
+        "t": "**LDL 膽固醇**",
+        "x": "HDL、三酸甘油脂不是；estriol 是產物"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133726,7 +134361,12 @@
       "guideline": null,
       "concepts": [
         "down-prenatal-screening"
-      ]
+      ],
+      "approach": {
+        "k": "母血 AFP 上升原因、選**錯誤**",
+        "t": "**唐氏症**是 AFP **降低**",
+        "x": "低估週數、神經管缺損、薦尾畸胎瘤都會升高"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133762,7 +134402,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "NST、選**正確**",
+        "t": "nonreactive 可**延長到 40 分鐘**（胎兒可能在睡）",
+        "x": "20 分鐘內要**兩次**加速；變異 <5 bpm 是**異常**；早期減速是**良性**"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133798,7 +134443,12 @@
       "guideline": null,
       "concepts": [
         "down-prenatal-screening"
-      ]
+      ],
+      "approach": {
+        "k": "唐氏症第二孕期軟指標、**不包含**",
+        "t": "**腹壁裂**（臍膨出才與染色體相關）",
+        "x": "腸回音增加、頸部皺褶增厚、輕度腎盂擴張都是軟指標"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133834,7 +134484,12 @@
       "guideline": null,
       "concepts": [
         "bishop-score"
-      ]
+      ],
+      "approach": {
+        "k": "開 1–2 公分、**朝前**、**柔軟**、變薄 50%、station **-2**",
+        "t": "1＋1＋2＋2＋1＝**7 分**",
+        "x": "擴張 1–2→1、50%→1、-2→1、軟→2、前→2"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133870,7 +134525,12 @@
       "guideline": null,
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "催生注意事項、選**最不適當**",
+        "t": "有效宮縮要 **>200** Montevideo units，150 不夠",
+        "x": "人工破水加速 1–1.5 小時、misoprostol 有子宮破裂風險、oxytocin 半衰期 3–5 分鐘，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133906,7 +134566,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "GDM 合併羊水過多的原因",
+        "t": "**羊水中葡萄糖高**（胎兒高血糖滲透性利尿）",
+        "x": "不是內皮滲漏；腎再吸收糖會減少尿；GDM 不造成腸胃道阻塞"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133942,7 +134607,12 @@
       "guideline": null,
       "concepts": [
         "gestational-diabetes-idm"
-      ]
+      ],
+      "approach": {
+        "k": "GDM 飲食建議、選**錯誤**",
+        "t": "碳水**不是越低越好**（約 40%，避免酮體）",
+        "x": "30–35 kcal/kg、蛋白質 20%、脂肪 40%，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -133978,7 +134648,12 @@
       "guideline": null,
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "過期妊娠不良結局、**不包括**",
+        "t": "**羊水過多**（過期是羊水過少）",
+        "x": "子癇前症、肩難產、產後出血都會增加"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134163,7 +134838,12 @@
       "C": "本項應選。可能合併的是「單側」腎發育不全；雙側腎發育不全會造成羊水極度過少與 Potter 序列，胎兒無法存活到出生後，更不可能是成年患者。",
       "D": "本項敘述正確。泌尿道的先天異常源自輸尿管芽或後腎母細胞的發育與互動異常，這也是它和生殖道異常常常一起出現的胚胎學基礎。",
       "summary": "生殖道異常要查腎臟：單側腎發育不全很常見，雙側則活不到出生。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "女性生殖道異常、選**錯誤**",
+        "t": "成年患者**不可能**雙側腎發育不全（雙側活不到出生）",
+        "x": "常合併泌尿異常、馬蹄腎 1/600、源自輸尿管芽或後腎母細胞，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -146260,7 +146940,12 @@
       "C": "本項不選。它走的是血行轉移，最常到肺（八成以上），其次是陰道、腦與肝，很少循淋巴路徑。",
       "D": "本項不選。轉移到肝或腦屬於第四期；第三期是肺轉移。",
       "summary": "產後或流產後持續出血加 hCG 不降就想絨毛膜癌；它血行轉移到肺最多，對化療反應極好。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "絨毛膜癌、選**正確**",
+        "t": "**可發生於正常足月懷孕之後**",
+        "x": "常見症狀是**陰道出血**；是**血行**轉移；D 的 FIGO 敘述錯"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146296,7 +146981,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "**不列為**優先縱向子宮切開",
+        "t": "**前次肌瘤手術病史**",
+        "x": "下段巨大肌瘤、前壁完全前置胎盤、巨嬰橫位破水都要縱切"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146334,7 +147024,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "肩難產處置、選**最不適當**",
+        "t": "corkscrew **沒有**比其他手法更有效",
+        "x": "恥骨上加壓、McRoberts、旋轉後肩，都是正確手法"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146370,7 +147065,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "胎兒、選**正確**",
+        "t": "**胎盤功能不足**會造成羊水過少",
+        "x": "胎心正常 **110–160**；4 小時沒胎動**不正常**；胎兒**有**呼吸動作是正常"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146403,7 +147103,12 @@
       "C": "本項不選。重複的三核苷酸是 CGG 不是 AGG；AGG 是插在 CGG 重複之間、反而具有穩定作用的序列。",
       "D": "本項不選。它與自閉症高度相關，約三分之一的病人符合自閉症診斷，也是已知單基因病因中最常見的一個。",
       "summary": "脆折 X＝FMR1 的 CGG 重複 >200 次、最常見的遺傳性智能障礙，男重女輕，常合併自閉特質。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "Fragile X、選**正確**",
+        "t": "**最常見的遺傳性智能障礙**",
+        "x": "女性約 1/8000；是 **CGG** 重複；**常**合併自閉"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146438,7 +147143,12 @@
       "C": "本項應選。方向寫反了。孕期的深層靜脈血栓約九成發生在「左」下肢，因為左髂靜脈在骨盆入口處被右髂動脈跨過壓迫（May-Thurner 現象），加上子宮壓迫使回流更差。",
       "D": "本項敘述正確。低分子量肝素如 enoxaparin 每 12 小時皮下注射是孕期的標準治療；它不通過胎盤，warfarin 則有致畸性不能用。",
       "summary": "孕期深層靜脈血栓九成在左腿（左髂靜脈被右髂動脈壓）；治療用低分子量肝素，warfarin 禁用。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "35 週下肢痛、Homans sign 陽性（DVT）、選**錯誤**",
+        "t": "孕期 DVT **多在左腿**（左髂靜脈被右髂動脈壓）",
+        "x": "加壓超音波診斷、會肺栓塞、enoxaparin q12h，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146471,7 +147181,12 @@
       "C": "本項應選。使用真空吸引的前提是子宮頸「全開」且胎頭已充分下降（station +2 以下）、確認胎位與骨盆相稱。子宮頸只開 9 公分、胎頭還在 −1 就使用，會造成子宮頸撕裂與胎兒嚴重傷害。",
       "D": "本項敘述正確。壓力上限約 500 到 600 mmHg，總嘗試時間與滑脫次數都要限制，滑脫三次或超過 20 分鐘就應改採其他方式。",
       "summary": "真空吸引的三個前提：子宮頸全開、胎頭已銜接且位置夠低、確認胎位；缺一就是禁忌。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "真空吸引、選**錯誤**",
+        "t": "station **-1**、開 **9 公分** **不能**用（要全開且胎頭夠低）",
+        "x": "宮縮間降壓、牽引角度同產鉗、最大 600 mmHg 兩分鐘內，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146507,7 +147222,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "**16 週**就高血壓、28 週血壓飆高＋蛋白尿＋血小板低＋肝功能異常",
+        "t": "**慢性高血壓合併子癇前症**",
+        "x": "沒有抽搐不是子癇；20 週前就高不是妊娠高血壓；單純子癇前症沒有慢性背景"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146543,7 +147263,12 @@
       "guideline": null,
       "concepts": [
         "perinatal-infections-breastfeeding-vaccines"
-      ]
+      ],
+      "approach": {
+        "k": "GBS 產時抗生素、**最不建議**",
+        "t": "**前一次懷孕** GBS 陽性（要看本次篩檢）",
+        "x": "本次菌尿症、前胎新生兒感染、未篩檢且破水 >18 小時都要投藥"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146576,7 +147301,12 @@
       "C": "本項不選。懷孕最後一個月之前沒有已知心臟病，也是條件之一。",
       "D": "本項應選。診斷看的是「左心室」收縮功能不良，通常定義為射出分率低於 45%。右心室功能不在診斷準則裡。",
       "summary": "周產期心肌病變四條件：發生在孕末月到產後五個月、無其他病因、之前無心臟病、左心室射出分率 <45%。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "周產期心肌病變診斷準則、**不包括**",
+        "t": "**右心室**收縮不良（看的是**左心室** EF <45%）",
+        "x": "孕末月到產後五個月、無其他病因、之前無心臟病，三項都是準則"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -148112,7 +148842,12 @@
       "C": "本項不選。病歷造假再私下口頭補充，資訊不會完整傳遞給每一位照顧者，交班時就會出事。",
       "D": "本項不選。要不要告訴先生是病人的自主決定，醫師不應以「避免糾紛」為由施壓。",
       "summary": "病歷要真實、揭露要節制：照實記錄加註隱私保護，配偶不是病歷的當然閱覽者。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "孕婦隱瞞先生有過生產史、請醫師保密",
+        "t": "如實記 **G2P1**，加註**隱私保護**",
+        "x": "G1P0 是不實病歷；私下告知仍是假病歷；不應要求病人告知先生"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -158787,7 +159522,12 @@
       "C": "本項不選。第一孕期流產中染色體異常約占五成，不是七成五。",
       "D": "本項不選。抗磷脂質症候群會造成反覆流產與胎盤血栓，風險明顯高於一般孕婦，治療要用阿斯匹靈加肝素。",
       "summary": "早期流產八成在 12 週前、約半數是染色體異常（trisomy 16 最多）；反覆流產要驗抗磷脂質抗體。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "自然流產、選**正確**",
+        "t": "約 **80%** 發生在前 12 週",
+        "x": "最常見是 **trisomy 16**；染色體異常約 **50%**；APS 流產率**較高**"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -158823,7 +159563,12 @@
       "guideline": null,
       "concepts": [
         "ectopic-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "MTX 治療子宮外孕失敗**最相關**",
+        "t": "**治療前 β-hCG**（>5000 失敗率高）",
+        "x": "胎次、2.5 cm 大小、子宮外孕病史相關性較低"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -158859,7 +159604,12 @@
       "guideline": null,
       "concepts": [
         "labor-course-abnormal-labor"
-      ]
+      ],
+      "approach": {
+        "k": "分娩機制、選**錯誤**",
+        "t": "子宮頸膠原纖維是**排列鬆散、空隙變大**",
+        "x": "oxytocin 受體增加、hyaluronan synthase 增加、發炎細胞聚集，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -158895,7 +159645,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "增加 TOLAC 成功機率",
+        "t": "**自發分娩**",
+        "x": "肥胖、高齡、>41 週都降低成功率"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -158931,7 +159686,12 @@
       "guideline": null,
       "concepts": [
         "cesarean-tolac-shoulder-dystocia"
-      ]
+      ],
+      "approach": {
+        "k": "肩難產新生兒合併症、選**錯誤**",
+        "t": "**產瘤**是一般頭皮水腫，不是肩難產併發症",
+        "x": "HIE、心跳停止、臂神經叢損傷都是"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -158967,7 +159727,12 @@
       "guideline": null,
       "concepts": [
         "fetal-assessment-placental-hormones"
-      ]
+      ],
+      "approach": {
+        "k": "cfDNA 結果不正確原因、選**錯誤**",
+        "t": "**母親年齡 >40** 不影響準確度（只影響事前機率）",
+        "x": "胎盤鑲嵌、母親癌症、胎兒分率 <4% 都會出錯"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159003,7 +159768,12 @@
       "guideline": null,
       "concepts": [
         "down-prenatal-screening"
-      ]
+      ],
+      "approach": {
+        "k": "唐氏篩檢、選**錯誤**",
+        "t": "第一孕期是 NT＋**PAPP-A**＋free β-hCG，**沒有 AFP**",
+        "x": "高風險不能直接終止、雙胞胎效果較差、NT >3 mm 風險高，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159041,7 +159811,12 @@
       "guideline": null,
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "32 週**僵直性**下腹痛、看術中圖",
+        "t": "**胎盤早期剝離**",
+        "x": "前置胎盤是無痛出血；血管前置是破水時出血；子宮內翻是產後"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159077,7 +159852,12 @@
       "guideline": null,
       "concepts": [
         "biophysical-profile"
-      ]
+      ],
+      "approach": {
+        "k": "NST reactive、呼吸 ≥30 秒、張力有、**胎動只有 1 次**、羊水正常",
+        "t": "胎動要 ≥3 次才得分 → **8 分**、正常",
+        "x": "不是滿分 10；6 分與 2 分算錯"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159113,7 +159893,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "子癇前症危險因子、風險**最低**",
+        "t": "**抽菸**（反而降低風險）",
+        "x": "初產、前胎病史、高齡都是危險因子"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159149,7 +159934,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "子癇前症高血壓危象用藥、**最不適當**",
+        "t": "nifedipine **舌下**（應口服）",
+        "x": "IV hydralazine、IV labetalol、目標 <160/90–110，都正確"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159185,7 +159975,12 @@
       "guideline": null,
       "concepts": [
         "hypertension-in-pregnancy"
-      ]
+      ],
+      "approach": {
+        "k": "glomerular endotheliosis、**最不適當**",
+        "t": "內皮窗孔是**變小**（關閉），不是變大",
+        "x": "內皮腫脹、足細胞小足緊靠、腎絲球變大，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159477,7 +160272,12 @@
       "guideline": null,
       "concepts": [
         "preterm-prom-antepartum-bleeding"
-      ]
+      ],
+      "approach": {
+        "k": "BV **最不會**引起的併發症",
+        "t": "**反覆流產**",
+        "x": "PID、剖腹產後內膜炎、早期破水都是上行感染併發症"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159615,7 +160415,12 @@
       "C": "本項敘述正確。它的染色體全部來自父親（空卵受精後父源基因複製），所以沒有胎兒組織。",
       "D": "本項敘述正確。完全性葡萄胎進展成侵襲性葡萄胎或絨毛膜癌的機率約 15% 到 20%，明顯高於部分性葡萄胎的 1% 到 5%，所以清除後要規則追蹤 hCG。",
       "summary": "完全性葡萄胎＝46,XX 全父源、無胎兒、惡性轉化 15–20%；部分性是三倍體、有胎兒組織、風險低得多。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "complete mole、選**錯誤**",
+        "t": "子宮過大只約 **1/4–1/2**，不是 80%",
+        "x": "雙倍體、全父源、比 partial 易惡化，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -160586,7 +161391,12 @@
       "guideline": null,
       "concepts": [
         "vaginal-bleeding-approach"
-      ]
+      ],
+      "approach": {
+        "k": "IVF 受孕、前次子宮外孕、**休克**、陰道出血",
+        "t": "**單一** hCG 數值**無法**區分正常懷孕與子宮外孕",
+        "x": "無腹痛**不能**排除；休克**不能**用 MTX；IVF 有**異位共存**，看到宮內孕也不能排除"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
