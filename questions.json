@@ -12865,7 +12865,12 @@
       "guideline": null,
       "concepts": [
         "lower-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "疝氣術後**大腿外側**麻痛（meralgia paresthetica）",
+        "t": "**股外側皮神經**",
+        "x": "隱神經是小腿內側；下臀神經是臀大肌運動；閉孔神經是大腿內側"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12906,7 +12911,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓損傷後異位性骨化、選**錯誤**",
+        "t": "手術要等骨化**成熟**（約 12–18 個月）才做，初期切除易復發",
+        "x": "常發生在髖、傷後 1–6 個月、三相骨掃描可早期偵測，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12947,7 +12957,12 @@
       "guideline": null,
       "concepts": [
         "incomplete-spinal-cord-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "Brown-Séquard 典型症狀",
+        "t": "**對側**下肢痛溫覺喪失、**同側**肌力喪失",
+        "x": "A 是前脊髓症候群；B 是後脊髓症候群；C 是中央脊髓症候群"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -12988,7 +13003,12 @@
       "guideline": null,
       "concepts": [
         "axonal-vs-demyelinating-neuropathy"
-      ]
+      ],
+      "approach": {
+        "k": "慢性脫髓鞘病變肌電診斷、**最不常出現**",
+        "t": "CMAP 振幅**增加**（脫髓鞘不會讓振幅變大）",
+        "x": "遠端潛期延長、感覺傳導變慢、多相波增加都可能出現"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13029,7 +13049,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**足底筋膜炎致病因素",
+        "t": "**距下關節旋後**（相關的是過度**旋前**）",
+        "x": "高弓足、踝背屈活動差、第一蹠趾關節僵硬都是因素"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13065,7 +13090,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "膝外側被撞、聽到 **pop**、膝很腫、活動受限",
+        "t": "先**抽取關節積血**減壓，再評估韌帶",
+        "x": "不需緊急開刀；外側撞擊最常傷 **ACL/MCL** 而非 PCL；韌帶評估用 **MRI** 不是 CT"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13106,7 +13136,12 @@
       "guideline": null,
       "concepts": [
         "pain-mechanisms-terms"
-      ]
+      ],
+      "approach": {
+        "k": "門閾學說：刺激 X 纖維抑制 Y 纖維",
+        "t": "刺激 **A 型**（Aβ）纖維、抑制 **C 型**纖維疼痛傳遞",
+        "x": "其他組合錯"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13147,7 +13182,12 @@
       "guideline": null,
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "脊柱側彎、選**正確**",
+        "t": "背架主要目的是**避免惡化**",
+        "x": "scoliometer 測的是**軸向旋轉**；與睡姿**無關**；電刺激**無明確**療效"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13188,7 +13228,12 @@
       "guideline": null,
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "燒燙傷輔具、選**錯誤**",
+        "t": "腋下燒傷用飛機副木維持肩**外展**，不是內收",
+        "x": "患者喜歡屈曲舒適姿勢、輔具避免攣縮、壓力衣避免疤痕增生，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13229,7 +13274,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**運動猝死常見原因",
+        "t": "**二尖瓣脫垂**",
+        "x": "肥厚性心肌症、主動脈瘤破裂、冠狀動脈異常都是常見原因"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13270,7 +13320,12 @@
       "guideline": null,
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "清除呼吸道蓄痰、選**錯誤**",
+        "t": "袪痰藥物**可以**適當使用，不必避免",
+        "x": "姿勢引流、減少呼吸耗能改善氣體交換、減少肺塌陷與感染，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13311,7 +13366,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "**最常**合併水腦症的兒童疾病",
+        "t": "**脊髓脊膜膨出**（合併 Chiari II）",
+        "x": "腦性麻痺、SMA、肌肉失養症少見水腦"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13352,7 +13412,12 @@
       "guideline": null,
       "concepts": [
         "aphasia-types"
-      ]
+      ],
+      "approach": {
+        "k": "小腦損傷造成的語言障礙",
+        "t": "**運動失調型吶吃**",
+        "x": "弛緩型是下運動神經元；Broca 與經皮質感覺型失語是大腦皮質"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13388,7 +13453,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "腋網症候群最常見於哪種癌症手術後",
+        "t": "**乳癌**（腋下淋巴結手術）",
+        "x": "頭頸、肺、口腔癌手術不動腋下"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13476,7 +13546,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲膝受傷、X 光與 MRI、選**錯誤**",
+        "t": "影像中**沒有外側半月板撕裂**",
+        "x": "有 ACL 撕裂、骨挫傷、Segond fracture，三項都成立"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -13517,7 +13592,12 @@
       "guideline": null,
       "concepts": [
         "carotid-stenosis-dissection-fmd"
-      ]
+      ],
+      "approach": {
+        "k": "頸動脈狹窄、選**錯誤**",
+        "t": "無症狀但**嚴重狹窄**（如 >70–80%）的選定病人**仍可**考慮手術或支架",
+        "x": "有症狀 >60% 可手術支架、好發分叉處、MRA 有助診斷，三句都對"
+      }
     },
     "source": "110020/302_44",
     "specialty_source": "cougarbot",
@@ -26601,7 +26681,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "推牆時肩胛骨**鼓起往外**（翼狀肩胛）",
+        "t": "**長胸神經**（前鋸肌）",
+        "x": "背肩胛神經是菱形肌；腋神經是三角肌；副脊神經是斜方肌（肩胛往外上）"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26642,7 +26727,12 @@
       "guideline": null,
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "中風併發症、選**錯誤**",
+        "t": "急性 DVT 已抗凝治療者**不需**臥床一週，可早期下床",
+        "x": "擺位預防水腫、患側肩痛常見、吸入性肺炎常見，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26683,7 +26773,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "**促進骨合成**的骨鬆藥",
+        "t": "**teriparatide**（PTH 類似物）",
+        "x": "雙磷酸鹽、抑鈣激素、SERM 都是抗骨吸收"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26724,7 +26819,12 @@
       "guideline": null,
       "concepts": [
         "amputation-prosthetics"
-      ]
+      ],
+      "approach": {
+        "k": "截肢復健、選**不恰當**",
+        "t": "義肢評估與訓練**不必等**傷口完全癒合（可術後早期開始）",
+        "x": "殘肢照護、裝配訓練決定日後使用、長期追蹤，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26760,7 +26860,12 @@
       "guideline": null,
       "concepts": [
         "spondyloarthritis-reactive-hla"
-      ]
+      ],
+      "approach": {
+        "k": "僵直性脊椎炎、選**正確**",
+        "t": "**肌腱接骨點病變**比例高於類風濕",
+        "x": "HLA-B27 約 **90%**，非 100%；運動要強調**伸展**不是前屈；初期 X 光**常正常**"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26801,7 +26906,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "65 歲走久雙膝痛、晨僵、**內側關節腔狹窄**、軟骨下囊腫",
+        "t": "**退化性骨關節炎**",
+        "x": "類風濕是對稱小關節、晨僵 >1 小時；痛風是急性紅腫；感染性是發燒單關節"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26842,7 +26952,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**退化性關節炎熱敷目的",
+        "t": "**促進軟骨再生**（熱敷做不到）",
+        "x": "改善循環、減痛、放鬆肌肉韌帶都是目的"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26878,7 +26993,12 @@
       "guideline": null,
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "手術前後肺部復健、選**錯誤**",
+        "t": "一般擺位是**好肺朝下**（good lung down）改善氧合",
+        "x": "術後併發症以肺塌陷肺炎最常、預防性照護降低罹病死亡、術前就開始，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26919,7 +27039,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "超負荷訓練原則**最不重要**",
+        "t": "**訓練場所**",
+        "x": "頻率、強度、運動模式都是超負荷原則要素"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -26960,7 +27085,12 @@
       "guideline": null,
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "早期療育、選**錯誤**",
+        "t": "早療以**家庭與社區為中心**，不是以醫院為主",
+        "x": "跨專業整合、父母訓練、越早越好，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -27001,7 +27131,12 @@
       "guideline": null,
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "5 歲魏氏智力測驗 **35 分**",
+        "t": "**重度**（20/25–35/40）",
+        "x": "輕度 50/55–70；中度 35/40–50/55；極重度 <20/25"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -27037,7 +27172,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "小指無名指麻、肘內側酸痛、手無力（肘隧道症候群）",
+        "t": "**尺神經**",
+        "x": "正中神經是腕隧道；橈神經是手背；肌皮神經是前臂外側"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -27078,7 +27218,12 @@
       "guideline": null,
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "吞嚥治療方法、選**錯誤**",
+        "t": "頭轉向**患側**（關閉患側、食物走健側），不是健側",
+        "x": "低頭保護氣道、頭傾向健側、使用增稠劑，三句都對"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -27119,7 +27264,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "肩活動正常、**空罐測驗**陽性",
+        "t": "**棘上肌**",
+        "x": "二頭肌是 Speed test；棘下肌是外轉；肩胛下肌是內轉（lift-off）"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -27287,7 +27437,12 @@
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "周邊神經麻痺的病徵",
+        "t": "**無力伴隨疼痛**",
+        "x": "臉半邊下垂、反射過強、突然無力多是中樞病變"
+      }
     },
     "source": "110080/302_44",
     "specialty_source": "cougarbot",
@@ -40290,7 +40445,12 @@
       "guideline": "FC 醫學(六)第3冊 p.51",
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "中風復健技術、**抑制異常姿勢**並誘發**獨立肌肉控制**",
+        "t": "**神經發展技術**（Bobath/NDT）",
+        "x": "Brunnstrom 利用協同動作；本體神經誘發強調感覺刺激；工作導向著重功能任務"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40326,7 +40486,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-fractures-eponyms"
-      ]
+      ],
+      "approach": {
+        "k": "肱骨**螺旋溝**骨折、**手腕下垂**",
+        "t": "**橈神經**",
+        "x": "尺、正中、肌皮神經不會造成腕下垂"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40367,7 +40532,12 @@
       "guideline": "FC 醫學(六)第3冊 p.230",
       "concepts": [
         "neurorehab-tbi-bladder-principles"
-      ]
+      ],
+      "approach": {
+        "k": "**最大**運動單元的肌肉",
+        "t": "**股四頭肌**（力量型）",
+        "x": "喉頭、咀嚼、眼肌需精細控制，運動單元小"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40408,7 +40578,12 @@
       "guideline": "FC 醫學(六)第3冊 p.16",
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "突發頭痛嘔吐、**右側肢體無力**、**左側顏面麻痺**",
+        "t": "**橋腦**（左側，交叉性症狀）",
+        "x": "基底核與視丘不會交叉性顏面；小腦不會偏癱"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40449,7 +40624,12 @@
       "guideline": "FC 醫學(六)第3冊 p.216",
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "骨折初期**最適合**的運動",
+        "t": "**等長運動**（不動關節維持肌力）",
+        "x": "等張、離心、等速都會帶動關節與骨折端"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40490,7 +40670,12 @@
       "guideline": "FC 醫學(六)第3冊 p.176",
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "3 個月頸部轉向右、頭傾向左（肌肉性斜頸）、選**正確**",
+        "t": "先天性肌肉斜頸**合併髖關節發育不良**機率較高",
+        "x": "頭傾左、臉轉右是**左側**胸鎖乳突肌短縮；多數**保守**伸展治療有效；頸圈不是首選"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40531,7 +40716,12 @@
       "guideline": "FC 醫學(六)第3冊 p.122",
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "AFO、選**不適當**",
+        "t": "AFO **會**影響距骨下關節活動",
+        "x": "控制踝活動、最常用下肢輔具、可穩定膝，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40572,7 +40762,12 @@
       "guideline": "FC 醫學(六)第3冊 p.157",
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "Borg RPE、選**錯誤**",
+        "t": "分數**越高**代表越困難",
+        "x": "有一定可靠性、由參與者自評、是運動強度指標，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40608,7 +40803,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "心臟復健訓練效果",
+        "t": "**增加最大攝氧量**",
+        "x": "血紅素不會下降；A-V O₂ 差是**增加**；休息心跳**降低**"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40644,7 +40844,12 @@
       "guideline": null,
       "concepts": [
         "developmental-milestones"
-      ]
+      ],
+      "approach": {
+        "k": "12 個月**較不可能**達到",
+        "t": "**疊 2 塊積木**（約 15 個月）",
+        "x": "扶走、拍手、揮手再見 12 個月可達"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40680,7 +40885,12 @@
       "guideline": null,
       "concepts": [
         "cp-musculoskeletal"
-      ]
+      ],
+      "approach": {
+        "k": "腦性麻痺下肢手術 7 歲後才做、**除外**的部位",
+        "t": "**髖關節**（脫位越拖越難處理）",
+        "x": "膝、踝、脊椎多在較大後才處理"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40716,7 +40926,12 @@
       "guideline": null,
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "吞嚥喉部保護動作、選**錯誤**",
+        "t": "舌骨是往**上往前**拉，不是往後",
+        "x": "暫停呼吸、聲帶閉合、會厭後傾下壓，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40759,7 +40974,12 @@
       "guideline": null,
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "輪椅後輪外傾角、**不是**優點",
+        "t": "**避免輪胎不均勻磨損**（反而會不均勻）",
+        "x": "過窄門保護雙手、減少肩外展、增加側向穩定，三項都是優點"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40800,7 +41020,12 @@
       "guideline": "FC 醫學(六)第3冊 p.22",
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "失用症、選**錯誤**",
+        "t": "失用症**不是**聽覺認知受損造成，是動作計畫障礙",
+        "x": "原會的功能喪失、多為左腦病變、動作順序失常，三句都對"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40883,7 +41108,12 @@
       "concepts": [
         "sah-aneurysm-vascular-malformations",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "50 歲突發劇烈頭痛、CT 見 SAH",
+        "t": "安排 **CTA** 找出血原因（動脈瘤）",
+        "x": "CT 已確診不需腰椎穿刺；最常見原因是**動脈瘤**；**會**合併水腦"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40921,7 +41151,12 @@
       "guideline": null,
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "中風偏癱 6 個月、**右髖腫脹**、無 DVT、骨盆 X 光",
+        "t": "**異位性骨化**",
+        "x": "骨肉瘤、軟骨肉瘤、結核與病史不符"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -40957,7 +41192,12 @@
       "guideline": null,
       "concepts": [
         "guillain-barre-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "典型 GBS 診斷的**必要**條件",
+        "t": "**反射消失**（加上進行性無力）",
+        "x": "惡化在數天到 4 週；自律神經與電生理是支持證據"
+      }
     },
     "source": "111020/302_44",
     "specialty_source": "cougarbot",
@@ -53842,7 +54082,12 @@
       "guideline": "FC 醫學(六)第3冊 p.15",
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** MCA 中風常見症狀（官方 C、D 都給分）",
+        "t": "**動作不能性緘默**屬 ACA 或雙側內側額葉；情感失認症敘述也有爭議",
+        "x": "忽略症候群（右 MCA）、失用症（左 MCA）都是常見症狀"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53883,7 +54128,12 @@
       "guideline": "FC 醫學(六)第3冊 p.246",
       "concepts": [
         "nerve-injury-classification-emg"
-      ]
+      ],
+      "approach": {
+        "k": "周邊神經病變復健、選**錯誤**",
+        "t": "**神經截斷**要**儘早手術**修補，不能等 3 個月",
+        "x": "初期支架與被動運動、去神經肌肉可用直流電刺激、neuropraxia 預後好 3 個月內恢復，三句都對"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53927,7 +54177,12 @@
       "guideline": "官方更正：本題一律給分（題幹拼字誤植為 Formet）",
       "concepts": [
         "upper-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "Froment's sign 是哪條神經病變（官方 A–D 都給分）",
+        "t": "正解是**尺神經**（拇內收肌無力、以屈拇長肌代償）；題目拼錯名稱，官方全部給分",
+        "x": "官方全部給分"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -53968,7 +54223,12 @@
       "guideline": "FC 醫學(六)第3冊 p.230",
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "肌電圖**最容易**出現 fasciculation",
+        "t": "**運動神經元疾病**",
+        "x": "糖尿病神經病變、GBS、神經根病變較少見明顯肌束顫動"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54004,7 +54264,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "網球肘、選**正確**",
+        "t": "最常侵犯**橈側伸腕短肌**（ECRB）肌腱",
+        "x": "病理是**退化性肌腱病**不是發炎；在**肌腱骨附著處**；關節活動度通常**正常**"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54046,7 +54311,12 @@
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy",
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "L3–4 椎間盤內壓**最高**的姿勢",
+        "t": "**坐姿上半身前傾 20 度**",
+        "x": "平躺最低、站立居中、直坐較高"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54087,7 +54357,12 @@
       "guideline": "FC 醫學(六)第3冊 p.137",
       "concepts": [
         "amputation-prosthetics"
-      ]
+      ],
+      "approach": {
+        "k": "PTB 承筒可**承受壓力**的部位",
+        "t": "**膕肌肌腱**（hamstring tendon）",
+        "x": "腓骨頭（腓總神經）、脛骨嵴、股骨內髁都是要**卸壓**的骨突"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54128,7 +54403,12 @@
       "guideline": "FC 醫學(六)第3冊 p.156",
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "有氧運動、選**正確**",
+        "t": "有些運動**難以**明確劃分有氧或無氧",
+        "x": "有氧是在無氧閾值**以下**；心率要約 **60–85%** 最大心率；是**長時間大肌肉**節律運動"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54164,7 +54444,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "冠心病**高危險**分級",
+        "t": "**EF <30%**",
+        "x": "心梗後無併發症、繞道術後、65 歲以上不等於高危險"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54205,7 +54490,12 @@
       "guideline": "FC 醫學(六)第3冊 p.193",
       "concepts": [
         "neonatal-brachial-plexus-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "先天性臂神經叢受損、選**正確**",
+        "t": "兩者**大多數**日後恢復良好",
+        "x": "Erb 是**上半部**（C5–6）；Klumpke 是**下半部**（C8–T1）；Erb **較常見**"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54246,7 +54536,12 @@
       "guideline": "FC 醫學(六)第3冊 p.186",
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "高膽紅素血症與哪型 CP 關聯最高",
+        "t": "**徐動型**（基底核受損）",
+        "x": "痙攣型多是 PVL 或皮質；低張型與失調型不是核黃疸典型"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54282,7 +54577,12 @@
       "guideline": null,
       "concepts": [
         "lower-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "垂足 FES 主要刺激",
+        "t": "**深腓神經**（脛前肌背屈）",
+        "x": "脛神經是蹠屈；股神經是股四頭；蹠神經是足底"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54318,7 +54618,12 @@
       "guideline": null,
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "中風後肌力正常、**不會穿衣服**（失用症）",
+        "t": "**頂葉**",
+        "x": "額葉是運動與執行；枕葉是視覺；顳葉是聽覺記憶"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -54359,7 +54664,12 @@
       "guideline": "FC 醫學(六)第3冊 p.122",
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "De Quervain 腱鞘炎的兩條肌腱",
+        "t": "**伸拇短肌＋外展拇長肌**（第一背側腱室）",
+        "x": "伸拇長肌在第三腔室；外展拇短肌是魚際肌"
+      }
     },
     "source": "111080/302_44",
     "specialty_source": "cougarbot",
@@ -67589,7 +67899,12 @@
       "guideline": "FC 醫學(六)第3冊 p.21",
       "concepts": [
         "aphasia-types"
-      ]
+      ],
+      "approach": {
+        "k": "**新造字**、他人聽不懂",
+        "t": "**Wernicke 失語症**（流暢、理解差）",
+        "x": "Broca 是不流暢；經皮質型的重複能力保留"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67625,7 +67940,12 @@
       "guideline": null,
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "腦幹中風**吞嚥反射消失**",
+        "t": "**溫度刺激**（冷刺激誘發吞嚥反射）",
+        "x": "Shaker 與 Mendelsohn 是強化上食道括約肌開放；環咽肌切開是括約肌不開"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67666,7 +67986,12 @@
       "guideline": "FC 醫學(六)第3冊 p.70",
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "頸脊髓損傷睡眠呼吸障礙、選**最不適當**",
+        "t": "以**阻塞型**為主，不是中樞型",
+        "x": "夜眠中斷、BMI >30 是因素、吸氣肌訓練可改善，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67707,7 +68032,12 @@
       "guideline": "FC 醫學(六)第3冊 p.48",
       "concepts": [
         "lower-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "車禍後**足部下垂**",
+        "t": "**腓神經**（腓骨頸）",
+        "x": "脛神經是蹠屈；股神經是伸膝；隱神經只有感覺"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67748,7 +68078,12 @@
       "guideline": "FC 醫學(六)第3冊 p.108",
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "退化性關節炎、選**最不適當**",
+        "t": "**膝關節**骨性關節炎遠多於髖",
+        "x": "高齡負重外傷肥胖、可單一負重關節、拇指 CMC 最影響手功能，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67789,7 +68124,12 @@
       "guideline": "FC 醫學(六)第3冊 p.245",
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "骨質疏鬆、選**最不適當**",
+        "t": "WHO 診斷用 **T-score**（≤ −2.5），不是 Z-score",
+        "x": "成骨與蝕骨細胞重塑、本身無症狀骨折才痛、好發髖脊椎手腕，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67830,7 +68170,12 @@
       "guideline": "FC 醫學(六)第3冊 p.215",
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "ACL 損傷、選**最適當**",
+        "t": "ACL 損傷**不一定**需要手術",
+        "x": "ACL 限制脛骨**前移與內旋**；檢查用 **MRI**；手術多等腫消活動恢復後（約 3–6 週）"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67866,7 +68211,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "心衰竭運動訓練、選**最適當**",
+        "t": "可改善運動功能，也可能**減少死亡或住院**",
+        "x": "強度約 **40–70%** VO₂max；EF 通常**不會**大幅提升；嚴重併發症**罕見**"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67907,7 +68257,12 @@
       "guideline": "FC 醫學(六)第3冊 p.192",
       "concepts": [
         "neonatal-brachial-plexus-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "新生兒臂神經叢麻痺、選**錯誤**",
+        "t": "Horner 症候群常見於 **Klumpke**（T1 交感纖維）",
+        "x": "Erb 肩內轉肘伸直、Klumpke C8–T1、Erb 後可盂肱關節發育不良，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67943,7 +68298,12 @@
       "guideline": null,
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "各型 CP、選**最不適當**",
+        "t": "癲癇在**半邊麻痺型**（與四肢型）較常，雙邊型較少",
+        "x": "半邊型多足月兒、四肢型廣泛腦病變、雙邊型 PVL，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -67984,7 +68344,12 @@
       "guideline": "FC 醫學(六)第3冊 p.242",
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "老化特徵、選**最不適當**",
+        "t": "老化使體內恆定**更容易**被打亂，不是不易改變",
+        "x": "器官儲備下降、對環境反應差、壓力適應差，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -68025,7 +68390,12 @@
       "guideline": "FC 醫學(六)第3冊 p.242",
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "疼痛復健、選**最不適當**",
+        "t": "嚴重疼痛**不應優先**手術，要階梯式多專業處理",
+        "x": "團隊合作、保守針刺手術都可、運動增加腦啡，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -68066,7 +68436,12 @@
       "guideline": "FC 醫學(六)第3冊 p.242",
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "住家無障礙評估、選**最不適當**",
+        "t": "**不是只有**復健科醫師可評估（職能治療師等跨專業）",
+        "x": "辨識環境因素、預防意外、增進安全舒適生活品質，三句都對"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -68107,7 +68482,12 @@
       "guideline": "FC 醫學(六)第3冊 p.243",
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "癌症本身造成失能、選**最適當**",
+        "t": "**功能儲備不佳**的器官癌症早期就會失能",
+        "x": "副腫瘤神經異常多為**免疫**機制；轉移**常**造成心肺與肌力下降；肝癌**早期**多無症狀"
+      }
     },
     "source": "112020/302_44",
     "specialty_source": "cougarbot",
@@ -81308,7 +81688,12 @@
       "guideline": "FC 醫學(六)第3冊 p.41",
       "concepts": [
         "brunnstrom-recovery-stages"
-      ]
+      ],
+      "approach": {
+        "k": "Brunnstrom：開始有**獨立動作**、張力開始下降",
+        "t": "**Stage IV**",
+        "x": "II 開始出現痙攣；III 痙攣最高；V 更接近選擇性控制"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81344,7 +81729,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "老年肌肉變化、選**最不適當**",
+        "t": "肌力下降是**下肢**比上肢明顯",
+        "x": "肌肉量減少、近端比遠端明顯、第二型纖維較易萎縮，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81385,7 +81775,12 @@
       "guideline": "FC 醫學(六)第3冊 p.69",
       "concepts": [
         "central-cord-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "中央脊髓症候群、選**最不適當**",
+        "t": "常是老人**頸椎狹窄過度伸展**造成，**不一定**有骨折脫位",
+        "x": "最常在頸髓、老人跌倒、下肢恢復比上肢好，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81426,7 +81821,12 @@
       "guideline": "FC 醫學(六)第3冊 p.29",
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "咽部期、選**錯誤**",
+        "t": "喉部是往**上往前**提，不是下壓",
+        "x": "腦幹控制、小於 1 秒、懸雍垂後縮上舉，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81462,7 +81862,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "物理因子、選**最不適當**",
+        "t": "物理因子**不只**用於復健領域",
+        "x": "包含多種能量、熱療與冷療定義、熱傳遞四種方式，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81503,7 +81908,12 @@
       "guideline": "FC 醫學(六)第3冊 p.101",
       "concepts": [
         "amputation-prosthetics"
-      ]
+      ],
+      "approach": {
+        "k": "截肢復健、選**最不適當**",
+        "t": "義肢裝配**不必等**傷口完全癒合",
+        "x": "殘肢痛原因、幻肢痛屬神經性、幻肢痛定義，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81544,7 +81954,12 @@
       "guideline": "FC 醫學(六)第3冊 p.105",
       "concepts": [
         "modified-new-york-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "僵直性脊椎炎、選**錯誤**",
+        "t": "**男多於女**（約 2–3:1）、多在 **<40 歲**（青年）發病",
+        "x": "血清陰性脊椎關節病、RF 陰性 HLA-B27 多陽性、Modified New York 標準，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81585,7 +82000,12 @@
       "guideline": "FC 醫學(六)第3冊 p.169",
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "胸腔復健、選**最適當**",
+        "t": "呼吸窘迫影響 ADL 者可接受上肢肌力、生活簡化與職能治療",
+        "x": "是**團隊**主導；心理治療**算在**胸腔復健內；只做呼吸運動與姿勢引流**不算完整**"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81626,7 +82046,12 @@
       "guideline": "FC 醫學(六)第3冊 p.240",
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "孕婦補充葉酸降低",
+        "t": "**神經管缺損**",
+        "x": "腦性麻痺、SMA、唐氏症與葉酸無關"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81667,7 +82092,12 @@
       "guideline": "FC 醫學(六)第3冊 p.184",
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "CP 合併症、選**錯誤**",
+        "t": "CP 通常是早期**非進行性腦傷**，**不是**多與遺傳相關",
+        "x": "常有認知缺損、核黃疸要查聽力、抗癲癇藥致骨質缺乏，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81708,7 +82138,12 @@
       "guideline": "FC 醫學(六)第3冊 p.241",
       "concepts": [
         "barthel-index"
-      ]
+      ],
+      "approach": {
+        "k": "Barthel index、選**錯誤**",
+        "t": "分數**越低**越**需要**他人協助",
+        "x": "0–100 分、評估 ADL、10 項，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81749,7 +82184,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "頸髓完全損傷、一年訓練後可**獨立操作手動輪椅**的最高位",
+        "t": "**C5**（改裝輪圈可平地推）",
+        "x": "C4 無法推輪椅；C6、C7 位置較低，不是最高位"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81790,7 +82230,12 @@
       "guideline": "FC 醫學(六)第3冊 p.214",
       "concepts": [
         "sarcopenia-definition"
-      ]
+      ],
+      "approach": {
+        "k": "肌少症、選**最適當**",
+        "t": "是肌肉**量、力量與活動功能**隨年齡減少的症候群",
+        "x": "失能風險**女性**較高；**會**增加死亡率；發生率與**年齡**直接相關"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81831,7 +82276,12 @@
       "guideline": "FC 醫學(六)第3冊 p.144",
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "輪椅扶手、選**最不適當**",
+        "t": "扶手高度**會**影響推輪椅的施力難易",
+        "x": "扶手高度定義、太高肩過度外展受傷、太低無法支撐，三句都對"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -81963,7 +82413,12 @@
       "guideline": "FC 醫學(六)第3冊 p.106",
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "63 歲**起床第一步**足底痛、超音波患側足底筋膜跟骨端增厚",
+        "t": "**足底筋膜炎**",
+        "x": "跟骨骨髓炎有骨破壞；腱鞘囊腫是囊狀；筋膜斷裂有不連續"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -82091,7 +82546,12 @@
       "guideline": "FC 醫學(六)第3冊 p.107",
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "47 歲右肩痛、外展加劇、夜痛、**主動抬手痛但被動外展不痛**",
+        "t": "**肩旋轉肌袖損傷**",
+        "x": "纖維肌痛是多處壓痛點；沾黏性關節囊炎主被動**都受限**；肩關節炎被動也痛"
+      }
     },
     "source": "112080/302_44",
     "specialty_source": "cougarbot",
@@ -95019,7 +95479,12 @@
       "guideline": "FC 醫學(六)第3冊 p.28",
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "咽部期、選**最不適當**",
+        "t": "吞嚥反射時環咽肌應**打開**讓食團通過，不是關閉",
+        "x": "一秒內完成、食團接觸咽門弓或後咽壁觸發、軟腭後縮，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95060,7 +95525,12 @@
       "guideline": "FC 醫學(六)第3冊 p.68",
       "concepts": [
         "incomplete-spinal-cord-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "Brown-Séquard、選**最適當**",
+        "t": "**大部分**病人可恢復獨立行走（預後好）",
+        "x": "痛溫覺喪失在**對側**；本體感覺喪失在**同側**；運動受損在**同側**"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95101,7 +95571,12 @@
       "guideline": "FC 醫學(六)第3冊 p.92",
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "全皮層缺損、見**脂肪**與肉芽、肌腱軟骨**未暴露**",
+        "t": "**第三級**壓瘡",
+        "x": "第二級是部分皮層；第四級暴露肌腱骨頭；沒有第五級"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95142,7 +95617,12 @@
       "guideline": "FC 醫學(六)第3冊 p.15",
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**前大腦動脈中風常見症狀",
+        "t": "**失讀症**（多為左 PCA 枕葉）",
+        "x": "伸展性僵硬、尿失禁、行為改變都是 ACA 症狀"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95183,7 +95663,12 @@
       "guideline": "FC 醫學(六)第3冊 p.213",
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "肘外側上髁炎、選**最不適當**",
+        "t": "主要是**橈側伸腕短肌**病變，不是橈側**屈**腕肌",
+        "x": "避免重複過度使用、超音波見低回音、可口服消炎藥，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95219,7 +95704,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "PEACE 原則、選**錯誤**",
+        "t": "A 是 **avoid anti-inflammatories**（避免抗發炎），不是避免活動",
+        "x": "P protect、E elevate、C compression 都對（E 另一個是 educate）"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95260,7 +95750,12 @@
       "guideline": "FC 醫學(六)第3冊 p.137",
       "concepts": [
         "amputation-prosthetics"
-      ]
+      ],
+      "approach": {
+        "k": "義肢配置不良因子、**不包括**",
+        "t": "**年齡 <60 歲**（反而是有利因素）",
+        "x": "高位截肢、失智認知問題、傷口延遲癒合都是不良因子"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95296,7 +95791,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "6 分鐘行走測試、選**最恰當**",
+        "t": "主要評估**功能性活動**，常用於心肺病人運動耐力",
+        "x": "**適用**評估肌肉骨骼與心血管交互作用；流程**有標準化**規範；場地要 30 公尺但是**平硬地面**"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95337,7 +95837,12 @@
       "guideline": null,
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "正常兒童**持續最久**的反射",
+        "t": "**降落傘反射**（出現後終身存在）",
+        "x": "手掌抓握、ATNR、Moro 都是原始反射，會消失"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95378,7 +95883,12 @@
       "guideline": null,
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "腦性麻痺、選**錯誤**",
+        "t": "早產最常導致**雙邊麻痺型**（PVL），不是四肢麻痺",
+        "x": "痙攣型最常見、半邊型幾乎都能走、肌肉骨骼提早老化，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95419,7 +95929,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "WHO：65 歲以上占多少稱「高齡社會」",
+        "t": "**14%**",
+        "x": "7% 是高齡化社會；20% 是超高齡社會；30% 沒有定義"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95460,7 +95975,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "老年復健目標、選**最適當**",
+        "t": "**維持功能**、增加生活品質、減少依賴",
+        "x": "不以就業訓練為重；**仍要**重視獨立生活社交娛樂；精神疾病體能**短期就要**考量"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95501,7 +96021,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "乳癌術後最容易受限的肩關節角度",
+        "t": "**外展**（腋下疤痕束縛）",
+        "x": "內收、內旋、外旋較少受限"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95537,7 +96062,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "軟組織疼痛處置、選**最不恰當**",
+        "t": "冷敷適用**急性**期；說「急慢性都適用」錯",
+        "x": "熱敷促循環放鬆、熱敷禁用於出血急性發炎感染腫瘤、NSAID 對慢性發炎效果較差，三句都對"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95573,7 +96103,12 @@
       "guideline": null,
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "**最需要**吞嚥影像檢查",
+        "t": "60 歲**固體卡住且逐漸加劇**（警訊）",
+        "x": "偶發不惡化可觀察；新生兒溢奶多正常；突發胸悶灼熱先想心臟或逆流"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -95609,7 +96144,12 @@
       "guideline": null,
       "concepts": [
         "carotid-stenosis-dissection-fmd"
-      ]
+      ],
+      "approach": {
+        "k": "肌纖維發育不全、選**最恰當**",
+        "t": "血管攝影見**串珠狀**擴張與狹窄",
+        "x": "**腎動脈**比頸動脈常見；頸動脈病灶在**中遠段**而非分叉處；**女性**較多"
+      }
     },
     "source": "113020/302_44",
     "specialty_source": "cougarbot",
@@ -108713,7 +109253,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "自主神經反射異常、**最不適切**",
+        "t": "是血壓**升高**，不是降低",
+        "x": "冒汗、起雞皮疙瘩、頭痛都是症狀"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108749,7 +109294,12 @@
       "guideline": null,
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "痙攣造成踝**蹠屈**的肌肉",
+        "t": "**腓腸肌**",
+        "x": "腓長肌主要外翻；脛前肌與伸拇長肌是**背屈**"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108791,7 +109341,12 @@
       "concepts": [
         "aphasia-types",
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**椎基底動脈症候群常見症狀",
+        "t": "**失語症**（前循環皮質）",
+        "x": "吞嚥困難、構音障礙、平衡困難都是後循環症狀"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108832,7 +109387,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "完全性脊髓損傷最佳功能、選**最不適當**",
+        "t": "**C6** 只到伸腕，**C7** 才有肱三頭肌伸肘",
+        "x": "C3 需呼吸器、C5 可用屈肘矯具、T6 可用前臂拐杖助行器，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108873,7 +109433,12 @@
       "guideline": null,
       "concepts": [
         "sarcopenia-definition"
-      ]
+      ],
+      "approach": {
+        "k": "肌少症、選**最不適當**",
+        "t": "官方認定 B 錯（女性肌力衰退時序與速度的敘述不正確）",
+        "x": "男性 50 歲後每十年降 12–15%、慢性病與末期器官病變會造成、降低生活品質增加死亡，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108914,7 +109479,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "梨狀肌症候群、選**最不適當**",
+        "t": "FAIR 測試是**屈曲、內收、內旋**，不是外展外旋",
+        "x": "臀部深層痛放射到腿、姿勢不對會發作、臀部局部痛點，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108955,7 +109525,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "**最不常見**於類風濕性關節炎",
+        "t": "**Heberden nodes**（DIP 骨贅，是退化性關節炎）",
+        "x": "鵝頸、鈕扣孔、尺側偏斜都是 RA 變形"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -108991,7 +109566,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "CABG 後心臟復健好處、選**正確**",
+        "t": "**改善血清脂質**",
+        "x": "缺血閾值是**提高**；右心室功能不是主要效果；兒茶酚胺是**降低**"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109027,7 +109607,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "Duchenne、選**最不適當**",
+        "t": "心肌**通常會**受影響（擴張性心肌病）",
+        "x": "X 性聯隱性、骨盆帶肌無力、不建議最大強度運動，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109068,7 +109653,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "嬰兒型 SMA、選**最適當**",
+        "t": "**產前 DNA 檢測**可作診斷參考",
+        "x": "是體染色體**隱性**；嬰兒型在**6 個月內**就全身無力；肌電圖**異常**（去神經）"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109104,7 +109694,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "老年復健訓練風險、選**最適當**",
+        "t": "相比不活動與臥床併發症，復健風險**相對較小**",
+        "x": "復健**仍可能**跌倒扭傷；適當強度與監督**可**減少風險；最大風險是**心血管**事件"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109140,7 +109735,12 @@
       "guideline": null,
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "無障礙環境評估、選**最不適當**",
+        "t": "評估應在**出院前**進行，不是返家後",
+        "x": "身高體重身寬手腳長、經濟能力、病患家屬期待都是評估項目"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109176,7 +109776,12 @@
       "guideline": null,
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "輪椅訂製考慮項目、選**最不適當**",
+        "t": "心肺功能**是**評估項目（推不推得動）",
+        "x": "神經病患看皮膚、手協調差用頭控輪椅、髖膝踝活動度，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109217,7 +109822,12 @@
       "guideline": null,
       "concepts": [
         "barthel-index"
-      ]
+      ],
+      "approach": {
+        "k": "Barthel index、選**最不適當**",
+        "t": "Barthel **不含**溝通與社會認知（那是 FIM）",
+        "x": "評估 ADL、滿分 100、含大小便控制，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109347,7 +109957,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "分離性骨軟骨炎、選**最不適當**",
+        "t": "好發**青少年運動員**，不是 70 歲以上男性合併股骨頭壞死",
+        "x": "可有關節內游離體、MRI 可協助、中學生可侵犯踝關節，三句都對"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -109472,7 +110087,12 @@
       "guideline": null,
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy"
-      ]
+      ],
+      "approach": {
+        "k": "50 歲背痛、站久痛休息好、急診說**緊急**、**最不可能**",
+        "t": "**脊椎狹窄**（慢性退化，不是急症）",
+        "x": "主動脈剝離、馬尾症候群、硬膜外膿瘍都是背痛急症"
+      }
     },
     "source": "113070/302_44",
     "specialty_source": "cougarbot",
@@ -121364,7 +121984,12 @@
       "guideline": null,
       "concepts": [
         "neurorehab-tbi-bladder-principles"
-      ]
+      ],
+      "approach": {
+        "k": "協調逼尿肌與括約肌的中樞",
+        "t": "**橋腦**（排尿中樞）",
+        "x": "前額皮質是意識抑制；PAG 是訊號整合；下視丘不是協調中樞"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121401,7 +122026,12 @@
       "concepts": [
         "aphasia-types",
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "左 MCA 阻塞**最不可能**出現",
+        "t": "**共濟失調**（小腦，後循環）",
+        "x": "失語、右側視野缺損、右側感覺障礙都是左 MCA 症狀"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121437,7 +122067,12 @@
       "guideline": null,
       "concepts": [
         "nerve-injury-classification-emg"
-      ]
+      ],
+      "approach": {
+        "k": "EMG/NCS **最不可能**達到的目的",
+        "t": "**確診上運動神經元**病變",
+        "x": "定位神經損傷、定量軸突損傷、評估預後都可以"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121473,7 +122108,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "排球選手肩痛、**肩胛脊上方**肌肉萎縮",
+        "t": "**上肩胛神經**（棘上棘下肌）",
+        "x": "長胸神經是翼狀肩胛；腋神經是三角肌；背肩胛神經是菱形肌"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121509,7 +122149,12 @@
       "guideline": null,
       "concepts": [
         "sarcopenia-definition"
-      ]
+      ],
+      "approach": {
+        "k": "肌少症治療、選**最不適當**",
+        "t": "高齡肌少症**應該**做阻力運動",
+        "x": "身體活動、營養補充、肌少症增加死亡率，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121545,7 +122190,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "冷療、選**最不適當**",
+        "t": "冷療**也可**用於慢性疼痛",
+        "x": "血管收縮減少腫脹止痛、會造成循環障礙、冷水浴可快速降溫燒燙傷，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121581,7 +122231,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "髂脛束症候群、選**最不適當**",
+        "t": "診斷靠**臨床**（膝外側痛＋Ober test），**不一定**要影像",
+        "x": "大腿外側痛、扁平足膝內翻脛骨內旋、冰敷伸展有幫助，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121617,7 +122272,12 @@
       "guideline": null,
       "concepts": [
         "cardiac-rehab-exercise-physiology"
-      ]
+      ],
+      "approach": {
+        "k": "**最適合**開始心臟復健",
+        "t": "高血壓心臟病、休息血壓 **160/100**（未達禁忌 >200/110）",
+        "x": "不穩定心絞痛、姿勢性血壓下降 >20 mmHg、未裝節律器三度房室阻斷都是禁忌"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121653,7 +122313,12 @@
       "guideline": null,
       "concepts": [
         "developmental-milestones"
-      ]
+      ],
+      "approach": {
+        "k": "**最早**達到的里程碑",
+        "t": "**自己翻身**（4–6 個月）",
+        "x": "叫爸媽約 1 歲、湯匙約 1.5 歲、上下樓梯約 2 歲"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121689,7 +122354,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "神經功能影響**最小**的脊髓脊膜膨出",
+        "t": "**頸椎到上胸椎**（下肢多正常）",
+        "x": "下胸椎、上腰椎、中腰椎都會影響下肢"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121725,7 +122395,12 @@
       "guideline": null,
       "concepts": [
         "barthel-index"
-      ]
+      ],
+      "approach": {
+        "k": "Barthel index **不包括**",
+        "t": "**溝通**",
+        "x": "進食、如廁、盥洗都在十項內"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121761,7 +122436,12 @@
       "guideline": null,
       "concepts": [
         "pain-mechanisms-terms"
-      ]
+      ],
+      "approach": {
+        "k": "疼痛傳導、選**錯誤**",
+        "t": "**Aδ** 纖維可**精準定位**（快痛）；定位差的是 C 纖維",
+        "x": "快痛與慢痛、Aδ 快痛 C 慢痛、TENS 用門閾理論，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121797,7 +122477,12 @@
       "guideline": null,
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "無障礙介入、選**最不適當**",
+        "t": "常用必需品**不應**放地板（要彎腰、易跌倒）",
+        "x": "加寬門、樓梯扶手、馬桶旁扶手都恰當"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121833,7 +122518,12 @@
       "guideline": null,
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "輪椅、選**最適當**",
+        "t": "使用手動輪椅要注意**肩關節傷害**",
+        "x": "C5 損傷**可以**用改裝輪圈推；偏癱者**可以**單手單腳推；手推圈直徑越**大**越省力"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121871,7 +122561,12 @@
       "guideline": null,
       "concepts": [
         "incomplete-spinal-cord-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "51 歲跌倒後四肢無力、大小便失禁、MRI（脊髓梗塞）、選**錯誤**",
+        "t": "最常受影響的是**前脊髓動脈**，不是後脊髓動脈",
+        "x": "符合脊髓梗塞、MRI 可見 owl's eye、一條前脊髓動脈加一對後脊髓動脈，三句都對"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121942,7 +122637,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲抽菸高血壓、一週內三次**右側無力 30 分鐘後恢復**（TIA）、**最不迫切**",
+        "t": "**腦波檢查**（是查癲癇）",
+        "x": "頸動脈超音波、CTA、頸部聽診都在查血管來源"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -121978,7 +122678,12 @@
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "周圍神經麻痺徵象",
+        "t": "**反射消失**",
+        "x": "Babinski、Hoffman、反射亢進都是上運動神經元"
+      }
     },
     "source": "114020/302_0106",
     "specialty_source": "cougarbot",
@@ -133965,7 +134670,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "遺傳性運動感覺神經病變、選**最不恰當**（官方 A–D 都給分）",
+        "t": "對稱進行性、第一型脫髓鞘、遠端無力都對；「常有疼痛」有爭議，官方全部給分",
+        "x": "官方全部給分"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134001,7 +134711,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓損傷慢性神經痛、選**最不適當**",
+        "t": "損傷以下的疼痛是**中樞性神經痛**，不是幻肢痛（幻肢痛是截肢後）",
+        "x": "可有異態痛、at-level 可來自脊髓壓迫、below-level 與大腦重組有關，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134037,7 +134752,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "早期偵測異位性骨化**最敏感**影像",
+        "t": "**三相骨骼掃描**",
+        "x": "MRI、CT、X 光較晚才看得到"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134073,7 +134793,12 @@
       "guideline": null,
       "concepts": [
         "brunnstrom-recovery-stages"
-      ]
+      ],
+      "approach": {
+        "k": "手可舉過頭、側舉到水平、**肘伸直**時能旋前旋後、拇指碰食指",
+        "t": "**Brunnstrom stage V**",
+        "x": "II 開始痙攣；III 只有協同動作；IV 是肘彎曲時旋前旋後"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134109,7 +134834,12 @@
       "guideline": null,
       "concepts": [
         "fracture-principles-pediatric"
-      ]
+      ],
+      "approach": {
+        "k": "電療應用、選**最不適當**",
+        "t": "**未固定的骨折**是電療禁忌",
+        "x": "抑制疼痛、增加循環減少痙攣、干擾波電極圍繞治療部位，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134145,7 +134875,12 @@
       "guideline": null,
       "concepts": [
         "amputation-prosthetics"
-      ]
+      ],
+      "approach": {
+        "k": "截肢、選**最不適當**",
+        "t": "先天缺損**上肢**較多；後天截肢**下肢**較多（說法相反）",
+        "x": "先天與後天之分、上肢截肢以外傷手指最多、外傷截肢比例下降，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134181,7 +134916,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "旋前症候群前臂痛、無力、麻",
+        "t": "**正中神經**（旋前圓肌處受壓）",
+        "x": "尺神經是肘隧道；橈神經是後骨間神經；肌皮神經是前臂外側"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134217,7 +134957,12 @@
       "guideline": null,
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "呼吸加護病房早期胸腔復健、選**最恰當**",
+        "t": "早期介入可**改善呼吸器脫離率**",
+        "x": "生命徵象穩定**就應**早期介入；意識清楚要**主動**運動；意識不清時以被動關節與擺位為主"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134253,7 +134998,12 @@
       "guideline": null,
       "concepts": [
         "cp-musculoskeletal"
-      ]
+      ],
+      "approach": {
+        "k": "CP 肌肉骨骼系統、選**最不適當**",
+        "t": "髖部疼痛與脫位嚴重度**不一定相關**（不痛不代表沒脫位）",
+        "x": "肉毒桿菌素降張力、少承重致髖發育不良、無法行走者脫位風險高，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134289,7 +135039,12 @@
       "guideline": null,
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "早療與發展遲緩、選**最不適當**",
+        "t": "發展遲緩盛行率約 **6–8%**，不是千分之六到八",
+        "x": "對象未滿 6 歲、多領域發展落後、早期發現診斷治療，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134328,7 +135083,12 @@
       "guideline": null,
       "concepts": [
         "dysphagia-rehab-swallowing"
-      ]
+      ],
+      "approach": {
+        "k": "口腔癌術後牙關緊閉、選**最適當**（官方 A–D 都給分）",
+        "t": "四個選項都有誤：診斷門檻約 **<35 mm**、主因是**放療**纖維化、嚼檳榔者術前**就常**緊閉、復健要**早期**開始",
+        "x": "官方全部給分"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134365,7 +135125,12 @@
       "guideline": null,
       "concepts": [
         "barthel-index"
-      ]
+      ],
+      "approach": {
+        "k": "Barthel index、選**最不適當**（官方 B、C 都給分）",
+        "t": "評估項目是 **10 項**不是 7 項；外籍看護申請門檻是會變動的政策（C 也給分）",
+        "x": "常用 ADL 量表、0 分完全依賴，這兩句對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134401,7 +135166,12 @@
       "guideline": null,
       "concepts": [
         "neurorehab-tbi-bladder-principles"
-      ]
+      ],
+      "approach": {
+        "k": "復健醫療照護、選**最不適當**",
+        "t": "療程依據是**失能程度與復健潛能**，不是疾病種類",
+        "x": "改善生活品質降低成本、以全人為對象、急性期依復健潛能決定層次，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134437,7 +135207,12 @@
       "guideline": null,
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "左側偏癱、只需監督或輕微協助、希望白天在家獨立、家人上班、選**最不適當**",
+        "t": "**不應**要求家屬離職或請看護（應以環境改造支持獨立）",
+        "x": "移除不平整地毯、浴室扶手、門前階梯扶手加白漆，都恰當"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134473,7 +135248,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "囊狀動脈瘤、選**最不恰當**",
+        "t": "SAH 血管攝影陰性**不能**排除，需約**兩週後**重做",
+        "x": "前交通動脈常見、巨大動脈瘤可鈣化、可血管內栓塞，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -134584,7 +135364,12 @@
       "guideline": null,
       "concepts": [
         "guillain-barre-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "Guillain-Barré、選**最不適當**",
+        "t": "典型是**由下往上**（下肢到軀幹）的上行性無力",
+        "x": "病毒感染或疫苗後、脫髓鞘多發神經病變、可致呼吸肌麻痺，三句都對"
+      }
     },
     "source": "114070/302_0104",
     "specialty_source": "cougarbot",
@@ -146473,7 +147258,12 @@
       "guideline": null,
       "concepts": [
         "upper-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "腕隧道症候群、選**最不適當**",
+        "t": "魚際**皮膚不麻**（掌皮支走隧道外），麻的是三指半掌面",
+        "x": "壓迫性神經病變、女性多、嚴重時魚際肌萎縮，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146509,7 +147299,12 @@
       "guideline": null,
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "脊椎腔內注射控制痙攣最常用",
+        "t": "**baclofen**",
+        "x": "tizanidine、diazepam、dantrolene 都是口服"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146545,7 +147340,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**超音波非熱效應",
+        "t": "**都卜勒效應**（診斷用原理）",
+        "x": "空穴效應、聲射流、駐波都是非熱效應"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146581,7 +147381,12 @@
       "guideline": null,
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "輪椅、選**最不適當**",
+        "t": "後輪軸**往前**才省力且減少肩傷；偏後是增加穩定度",
+        "x": "偏癱用單手操控輪椅、上肢不能推可用足驅動、手推圈直徑越大越省力，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146617,7 +147422,12 @@
       "guideline": null,
       "concepts": [
         "stroke-rehab-techniques-complications"
-      ]
+      ],
+      "approach": {
+        "k": "上肢屈曲協同動作、選**最不適當**",
+        "t": "屈曲協同是前臂**旋後**；旋前屬伸展協同",
+        "x": "肘屈曲、肩外展、肩外轉都是屈曲協同"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146653,7 +147463,12 @@
       "guideline": null,
       "concepts": [
         "neurorehab-tbi-bladder-principles"
-      ]
+      ],
+      "approach": {
+        "k": "腦傷慢性疼痛加何者形成「臨床三角」",
+        "t": "**創傷後壓力症**（加上腦傷後症狀）",
+        "x": "大便失禁、吞嚥障礙、肢體失用不是三角成員"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146689,7 +147504,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "十字韌帶損傷、選**最不適當**",
+        "t": "Lachman test 是測**前**十字韌帶",
+        "x": "兩韌帶交叉提供穩定、ACL 可合併 MCL 與內側半月板（unhappy triad）、ACL 比 PCL 常見，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146726,7 +147546,12 @@
       "concepts": [
         "spine-pelvic-fractures",
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "骨鬆胸腰椎壓迫性骨折、選**最適當**",
+        "t": "只傷**前柱**通常穩定，**不需**手術固定",
+        "x": "**女性**才是危險因子；疼痛多數週內**漸改善**；約 2/3 **無症狀**"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146762,7 +147587,12 @@
       "guideline": null,
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 放鬆訓練擺位、選**最不適當**",
+        "t": "上肢活動時要**有支撐**，不要懸空（肩帶固定才利於輔助呼吸肌）",
+        "x": "側臥上肢彎曲、側臥下肢彎曲、仰臥膝彎曲都恰當"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146798,7 +147628,12 @@
       "guideline": null,
       "concepts": [
         "cp-musculoskeletal"
-      ]
+      ],
+      "approach": {
+        "k": "CP 脊椎側彎、選**最不適當**",
+        "t": "背架**無法**有效防止神經肌肉型側彎惡化（只延緩）",
+        "x": "無法行走者較嚴重、全身型較嚴重、無法行走者 C 形合併骨盆歪斜，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146834,7 +147669,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "**最容易**空凹足的神經管缺陷",
+        "t": "**薦椎**病灶（殘存肌力失衡）",
+        "x": "頸椎、胸椎、腰椎病灶較高，多是連枷足或其他變形"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146870,7 +147710,12 @@
       "guideline": null,
       "concepts": [
         "barthel-index"
-      ]
+      ],
+      "approach": {
+        "k": "ADL 評估、選**最不適當**",
+        "t": "巴氏量表**只評基本 ADL**，不含 IADL",
+        "x": "分基本與工具性、基本 ADL 項目、IADL 項目，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146906,7 +147751,12 @@
       "guideline": null,
       "concepts": [
         "home-accessibility-orthoses"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**省力及工作簡化原則",
+        "t": "常用物品**放遠處**讓病人多動 → 錯，應放**手邊**",
+        "x": "槓桿與重力、關節中立位、用機械取代人力都是原則"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -146942,7 +147792,12 @@
       "guideline": null,
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "輪椅、選**最不適當**",
+        "t": "椅背高度最好在**肩胛下角以下**，不是上緣（高背是給要軀幹支撐者）",
+        "x": "張力強或軀幹差不適合傳統輪椅、C5 手推圈加橡膠或握把、大輪 22–26 吋，三句都對"
+      }
     },
     "source": "115020/302_0106",
     "specialty_source": "cougarbot",
@@ -159023,7 +159878,12 @@
       "guideline": null,
       "concepts": [
         "neurorehab-tbi-bladder-principles"
-      ]
+      ],
+      "approach": {
+        "k": "外傷性腦傷的**原發性**損傷",
+        "t": "**瀰漫性軸突損傷**（撞擊當下）",
+        "x": "顱內壓上升、腫塊效應、腦水腫都是**續發性**"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159059,7 +159919,12 @@
       "guideline": null,
       "concepts": [
         "lower-limb-nerve-lesions"
-      ]
+      ],
+      "approach": {
+        "k": "深腓與淺腓神經、選**錯誤**",
+        "t": "深腓神經感覺**只有第一、二趾間**；足背大部分是**淺腓**",
+        "x": "淺腓支配小腿外側下 2/3、脛前肌由深腓、腓長肌由淺腓，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159095,7 +159960,12 @@
       "guideline": null,
       "concepts": [
         "peds-neuromuscular-myelomeningocele"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓脊膜膨出併發症**最少見**",
+        "t": "**脊柱側彎**（依病灶高度而異）",
+        "x": "神經性膀胱、水腦、Chiari II 幾乎都會有"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159131,7 +160001,12 @@
       "guideline": null,
       "concepts": [
         "neurorehab-tbi-bladder-principles"
-      ]
+      ],
+      "approach": {
+        "k": "評估腦傷記憶與認知**最常用**",
+        "t": "**Rancho Los Amigos** levels",
+        "x": "Modified Ashworth 是張力；Brunnstrom 是動作恢復；FIM 是功能"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159167,7 +160042,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "急性傷害疼痛處理口訣、選**錯誤**",
+        "t": "LOVE 的 E 是 **Exercise**，不是 elevation",
+        "x": "PRICE 的 I 是 ice、POLICE 的 OL 是 optimal loading、PEACE 的 A 是避免抗發炎，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159203,7 +160083,12 @@
       "guideline": null,
       "concepts": [
         "amputation-prosthetics"
-      ]
+      ],
+      "approach": {
+        "k": "膝下截肢義肢、選**錯誤**",
+        "t": "**不一定**都要綁帶或吊帶，有髁上夾持、矽膠插銷、真空吸附等",
+        "x": "避免太緊破皮、義足依需求選、避免太鬆活塞運動，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159239,7 +160124,12 @@
       "guideline": null,
       "concepts": [
         "arthritis-ra-oa-gout-cppd"
-      ]
+      ],
+      "approach": {
+        "k": "類風濕性關節炎、選**最不適當**",
+        "t": "RA 是免疫系統**過度活化**，不是功能低下",
+        "x": "慢性滑膜炎侵蝕軟骨骨頭、ACPA 陽性、關節攣縮變形，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159275,7 +160165,12 @@
       "guideline": null,
       "concepts": [
         "pulmonary-rehab-airway-clearance"
-      ]
+      ],
+      "approach": {
+        "k": "沙包吸氣肌訓練、選**最恰當**",
+        "t": "開始重量**過重**會造成吸氣肌疲勞",
+        "x": "沙包放**上腹部**；主要訓練**橫膈**；要能撐 **15 分鐘**才加重"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159314,7 +160209,12 @@
       "guideline": null,
       "concepts": [
         "peds-rehab-development-msk"
-      ]
+      ],
+      "approach": {
+        "k": "兒童肌肉骨骼疾病、選**錯誤**（官方 A–D 都給分）",
+        "t": "題目選項敘述有爭議，官方全部給分",
+        "x": "重點：DDH 女多、斜頸要檢查髖關節"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159350,7 +160250,12 @@
       "guideline": null,
       "concepts": [
         "cerebral-palsy"
-      ]
+      ],
+      "approach": {
+        "k": "CP 行走能力、選**最不適當**",
+        "t": "**大部分** CP 患者**能**行走",
+        "x": "2 歲前能坐是正向、4 歲不會坐是負向、18–24 個月原始反射 <3 項是正向，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159386,7 +160291,12 @@
       "guideline": null,
       "concepts": [
         "barthel-index"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**巴氏量表內容",
+        "t": "**煮飯**（IADL）",
+        "x": "穿衣、上下樓梯、平地走動都在十項內"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159422,7 +160332,12 @@
       "guideline": null,
       "concepts": [
         "wheelchair-prescription"
-      ]
+      ],
+      "approach": {
+        "k": "電動輪椅比手動輪椅的好處",
+        "t": "**減少上肢累積性傷害**",
+        "x": "電動輪椅**不便**運輸、不適合運動、學習門檻較高"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159458,7 +160373,12 @@
       "guideline": null,
       "concepts": [
         "cancer-and-geriatric-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "**不常用**於乳癌淋巴水腫",
+        "t": "**減壓治療**（核心是加壓）",
+        "x": "徒手淋巴引流、間歇性氣壓循環、壓力臂套都是常用"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159494,7 +160414,12 @@
       "guideline": null,
       "concepts": [
         "physical-modalities-soft-tissue-injury"
-      ]
+      ],
+      "approach": {
+        "k": "電療、選**錯誤**",
+        "t": "**血栓性靜脈炎**是電療**禁忌**，不是適應症",
+        "x": "包括 TENS、TENS 參數、禁用於頸動脈竇，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159532,7 +160457,12 @@
       "guideline": null,
       "concepts": [
         "sports-soft-tissue-rehab"
-      ]
+      ],
+      "approach": {
+        "k": "54 歲左肩痛 2 個月、X 光與超音波見肌腱內**鈣化團**",
+        "t": "**鈣化性肌腱變性**",
+        "x": "旋轉肌袖破裂是肌腱缺損；退化性關節炎是關節間隙變窄骨贅；外生骨疣是骨性突起"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159572,7 +160502,12 @@
       "guideline": null,
       "concepts": [
         "sports-injuries-dislocations"
-      ]
+      ],
+      "approach": {
+        "k": "65 歲女性膝痛**最近加劇**、內側股骨髁軟骨下病灶",
+        "t": "**膝關節自發性骨壞死**（SONK）",
+        "x": "RA 是多關節對稱；PVNS 是含鐵血黃素滑膜增生；骨肉瘤多在青少年"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159610,7 +160545,12 @@
       "guideline": null,
       "concepts": [
         "carotid-stenosis-dissection-fmd"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲車禍後 2 天右側無力、左 MCA 小中風、左 ICA **半月形管壁增厚**（T1 脂肪抑制）",
+        "t": "**頸動脈剝離**（壁內血腫）",
+        "x": "動脈硬化在年輕人少見；顳動脈炎在老人；頸動脈體腫瘤是分叉處腫塊"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159724,7 +160664,12 @@
       "concepts": [
         "degenerative-spine-radiculopathy-myelopathy",
         "low-back-pain-approach"
-      ]
+      ],
+      "approach": {
+        "k": "疑**馬尾症候群**、選**最不適當**",
+        "t": "馬尾症候群**常見**尿滯留",
+        "x": "下肢運動感覺喪失、單側或雙側坐骨神經痛、會陰感覺異常，三句都對"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
@@ -159757,7 +160702,12 @@
       "C": "正確。醫學生執行任何醫療程序都要取得病人同意，並讓病人知道操作者是學生。而且在沒有醫師監督下操作，本身就超出學生的角色範圍——同意不能取代必要的督導。",
       "D": "本項不選。對遺體同樣要有事先同意（例如大體老師的捐贈同意），死亡不會讓自主權消失。",
       "summary": "醫學生參與臨床的兩條底線：病人要知道並同意「由學生執行」，而且必須在督導下進行。",
-      "guideline": null
+      "guideline": null,
+      "approach": {
+        "k": "指導醫學生臨床學習、選**最適當**",
+        "t": "醫學生操作簡單程序**仍需**取得病人同意",
+        "x": "知情同意**不能**由醫學生代取；麻醉中或死亡病人的內診**都要**事先同意"
+      }
     },
     "source": "115070/302_0104",
     "specialty_source": "cougarbot",
