@@ -5981,7 +5981,12 @@
       "guideline": null,
       "concepts": [
         "psychopathology-perception-thought"
-      ]
+      ],
+      "approach": {
+        "k": "**沒有外界刺激**、卻感受到刺激",
+        "t": "**幻覺**",
+        "x": "錯覺是有刺激但誤解；妄想是錯誤信念；失憶是記憶喪失"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6022,7 +6027,12 @@
       "guideline": "FC 醫學(四)第3冊 p.197",
       "concepts": [
         "antipsychotic-eps-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "抗精神病藥引起動作障礙、選**正確**",
+        "t": "**rabbit syndrome** 是嘴唇口周的震顫",
+        "x": "NMS 好發**年輕男性**；藥物性巴金森好發**年長女性**；急性肌張力不全（角弓反張）好發**年輕男性**"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6066,7 +6076,12 @@
       "guideline": "FC 醫學(四)第3冊 p.44",
       "concepts": [
         "mood-stabilizer-pregnancy-risk"
-      ]
+      ],
+      "approach": {
+        "k": "雙相症懷孕用藥、選**錯誤**（官方 A–D 都給分）",
+        "t": "四種情緒穩定劑都有各自妊娠風險，題目無唯一錯誤選項；valproate 致畸最明確",
+        "x": "官方全部給分"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6107,7 +6122,12 @@
       "guideline": "精神衛生法 2022 年修正（2024 年 12 月施行）：強制住院改由法院裁定",
       "concepts": [
         "dsm-psychotic-duration"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、被監視、命令自殺的幻聽、選**正確**",
+        "t": "可開 **risperidone 2 mg** 治療",
+        "x": "診斷門檻是 **6 個月**；強制住院需**審查會**許可，不是兩位醫師鑑定就逕行；ADHD 不是必要病史"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6143,7 +6163,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "器官移植術後穩定、**最不會**出現的精神併發症",
+        "t": "**妄想症**",
+        "x": "適應障礙、PTSD、重鬱症都常見"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6184,7 +6209,12 @@
       "guideline": "FC 醫學(四)第3冊 p.43",
       "concepts": [
         "monoamine-nuclei-functions"
-      ]
+      ],
+      "approach": {
+        "k": "憂鬱症神經傳遞物質、選**正確**",
+        "t": "涉及 **NE、serotonin、dopamine**",
+        "x": "NE 來自 **locus coeruleus**、serotonin 來自 **raphe nuclei**（A、B 對調）；抗憂鬱藥是**抑制**再回收"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6225,7 +6255,12 @@
       "guideline": "FC 醫學(四)第3冊 p.63",
       "concepts": [
         "dsm-gad-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "8 個月來**多方面過度擔心**（工作、小孩、身體）、心悸頭痛失眠",
+        "t": "**廣泛性焦慮症**（≥6 個月）",
+        "x": "解離症是失憶或身分改變；畏懼症是特定對象；強迫症有強迫思考與行為"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6261,7 +6296,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "**最常主動**去急診求助",
+        "t": "**恐慌症**（以為心臟病發作）",
+        "x": "重鬱、畏懼、雙相症較少主動到急診"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6302,7 +6342,12 @@
       "guideline": "FC 醫學(四)第3冊 p.154",
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "老人精神疾病、選**錯誤**",
+        "t": "老年精神病症狀對抗精神病藥**有反應**，只是需低劑量慢調",
+        "x": "約 15% 有憂鬱症狀、關節炎失能比失智多、被害妄想最常見，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6343,7 +6388,12 @@
       "guideline": "FC 醫學(四)第3冊 p.155",
       "concepts": [
         "frontotemporal-ncd-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "DSM-5 額顳葉認知障礙、選**錯誤**",
+        "t": "**社會認知**是早期**受損**的（學習記憶與知覺動作才相對保存）",
+        "x": "分行為與語言型、家族型較早發、進展比阿茲海默快，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6384,7 +6434,12 @@
       "guideline": "FC 醫學(四)第3冊 p.132",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "K 他命、選**錯誤**",
+        "t": "ketamine 是 NMDA 受體**拮抗劑**，不是促效劑",
+        "x": "刺激心血管不抑制呼吸、解離與記憶缺損、低劑量抗憂鬱，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6425,7 +6480,12 @@
       "guideline": "FC 醫學(四)第3冊 p.132",
       "concepts": [
         "alcohol-withdrawal-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "酒精戒斷症狀出現順序",
+        "t": "**手抖 → 幻覺 → 抽搐 → 譫妄**（②①④③）",
+        "x": "其他排列錯；震顫性譫妄在 48–72 小時最晚"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6466,7 +6526,12 @@
       "guideline": "FC 醫學(四)第1冊 p.348",
       "concepts": [
         "child-language-cognitive-milestones"
-      ]
+      ],
+      "approach": {
+        "k": "兒童發展、選**正確**",
+        "t": "**①**1 歲能發出類語言聲音、**③**2 歲能聽懂簡單指令",
+        "x": "②輕度智能障礙多在**入學後**才診斷；④書寫障礙**不是**智能障礙所致"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6507,7 +6572,12 @@
       "guideline": "FC 醫學(四)第1冊 p.325",
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD 共病、選**錯誤**",
+        "t": "ADHD 與特定學習障礙**可以**同時診斷",
+        "x": "ODD 常見、較易焦慮、較高機會雙相症，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6548,7 +6618,12 @@
       "guideline": "FC 醫學(四)第3冊 p.186",
       "concepts": [
         "suicide-risk-protective-factors"
-      ]
+      ],
+      "approach": {
+        "k": "自殺危險性、選**錯誤**",
+        "t": "合併**精神病**的個案自殺危險**較高**",
+        "x": "嚴重憂鬱、無望感較高；家庭支持好較低，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6753,7 +6828,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "半衰期**最短**的 benzodiazepine",
+        "t": "**midazolam**（2–3 小時）",
+        "x": "diazepam 最長；alprazolam、lorazepam 中等"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -19696,7 +19776,12 @@
       "guideline": "FC 醫學(四)第3冊 p.22",
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、選**錯誤**",
+        "t": "常見是**聽幻覺**；**嗅幻覺**不常見（要想器質性如顳葉癲癇）",
+        "x": "早期就可灰質減少、缺乏病識感、暴力行為多但殺人不多，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19733,7 +19818,12 @@
       "guideline": "官方更正：本題答 B 或 D 或 BD 均給分",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "雙相症病因、選**錯誤**（官方 B、D 都給分）",
+        "t": "雙相症**遺傳度高**（生物因素為主），D 把環境說成 70% 錯；B 的雙胞胎數據也偏高",
+        "x": "家人自殺率較高、18 與 22 號染色體相關，這兩句對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19774,7 +19864,12 @@
       "guideline": "FC 醫學(四)第3冊 p.44",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "雙相症治療、選**錯誤**",
+        "t": "抗精神病藥（如 quetiapine、aripiprazole）**有證據**可用於預防性維持",
+        "x": "可治躁症、可輔助難治型憂鬱、副作用肥胖與錐體外症狀，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19815,7 +19910,12 @@
       "guideline": "FC 醫學(四)第3冊 p.161",
       "concepts": [
         "delirium-management-principles"
-      ]
+      ],
+      "approach": {
+        "k": "85 歲末期肝癌、譫妄、選**錯誤**",
+        "t": "譫妄**不宜**用 benzodiazepine，更不應優先用**長效**型（肝衰竭更累積）",
+        "x": "不治療致死率高、低劑量 haloperidol、首要治療病因，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19851,7 +19951,12 @@
       "guideline": null,
       "concepts": [
         "cbti-core-components"
-      ]
+      ],
+      "approach": {
+        "k": "睡眠衛教、選**錯誤**",
+        "t": "安眠藥**不是**慢性失眠的第一線（CBT-I 才是）",
+        "x": "減少白天臥床、不看時鐘、不白天補眠，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19892,7 +19997,12 @@
       "guideline": "APA Eating Disorders 指引：體重低於理想體重 75% 為住院適應症之一",
       "concepts": [
         "eating-disorders-obesity-psych"
-      ]
+      ],
+      "approach": {
+        "k": "厭食症暴瘦至 31 kg 猝死、選**錯誤**",
+        "t": "住院門檻是體重 **<75% 理想體重**，重點是內科監測再餵食症候群，不是指定小兒科病房",
+        "x": "大腦萎縮、低血糖高膽固醇、ipecac 致心肌與骨骼肌病變，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19928,7 +20038,12 @@
       "guideline": null,
       "concepts": [
         "eating-disorders-obesity-psych"
-      ]
+      ],
+      "approach": {
+        "k": "病態肥胖與減重手術、選**錯誤**",
+        "t": "補 B12 與鐵是**防營養缺乏**，**不能**防止復胖",
+        "x": "先排除遺傳與內分泌病因、可由精神疾病或藥物造成、ADA 列為 T2DM 治療策略，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19970,7 +20085,12 @@
       "guideline": "FC 醫學(四)第3冊 p.203",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "zolpidem 與 zopiclone、選**錯誤**（官方 A、D 都給分）",
+        "t": "Z-drug 選擇性較高但**仍會成癮**（A 錯）；「沒有任何研究支持長期使用」太絕對（D 也給分）",
+        "x": "會失憶與夢遊行為、治標不治本，這兩句對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20006,7 +20126,12 @@
       "guideline": null,
       "concepts": [
         "operant-conditioning-substance-use"
-      ]
+      ],
+      "approach": {
+        "k": "海洛因使用歷程甲乙丙丁的影響",
+        "t": "**①②③④都對**：嫌惡與負面後果降低成癮；愉悅（正增強）與解除負面情緒（負增強）增加成癮",
+        "x": "缺任一項的組合都不完整"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20047,7 +20172,12 @@
       "guideline": "道路交通管理處罰條例：吐氣 0.15 mg/L（血液 0.03%）以上違規；0.25 mg/L 以上涉刑責",
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "酒精使用影響、選**錯誤**",
+        "t": "酒精中毒**會**致死（呼吸抑制、嗆吸）",
+        "x": "濃度越高越失衡、高濃度無症狀代表耐受、0.03% 減慢反應，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20088,7 +20218,12 @@
       "guideline": "FC 醫學(四)第3冊 p.155",
       "concepts": [
         "major-vs-mild-ncd"
-      ]
+      ],
+      "approach": {
+        "k": "認知障礙症診斷、選**錯誤**",
+        "t": "**輕型**認知障礙**不會**干擾日常獨立生活（干擾的是重型）",
+        "x": "六大認知範疇、非只在譫妄時、無法以其他精神疾病解釋，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20124,7 +20259,12 @@
       "guideline": null,
       "concepts": [
         "gaba-a-sedative-comparison"
-      ]
+      ],
+      "approach": {
+        "k": "鎮靜安眠藥、選**錯誤**",
+        "t": "zolpidem **仍有**耐受與戒斷問題",
+        "x": "BZD 與 barbiturate 作用同一氯離子通道、BZD 兩週以上耐受、zolpidem 肌鬆效果小，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20165,7 +20305,12 @@
       "guideline": "FC 醫學(四)第3冊 p.175",
       "concepts": [
         "dsm-autism-domains"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症類群障礙症、選**正確**",
+        "t": "智力正常、語言只輕度障礙者，可能到**兒童中期**才被發現",
+        "x": "DSM-5 只有**兩**大範圍（社交溝通、侷限重複）；症狀在**早期發展期**（約 2–3 歲前）出現；合併智能不足約 1/3，不是 3/4"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20206,7 +20351,12 @@
       "guideline": "FC 醫學(四)第1冊 p.324",
       "concepts": [
         "dsm-tic-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "妥瑞症、選**錯誤**",
+        "t": "在 **18 歲前**發病（多 4–6 歲），不是 15 歲後",
+        "x": "多重動作加發聲抽搐、男多於女、常合併 ADHD 與 OCD，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20247,7 +20397,12 @@
       "guideline": "FC 醫學(四)第3冊 p.106",
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "**不適合**心理分析治療的特質",
+        "t": "**低動機**",
+        "x": "能建立關係、有洞察力、自我強度足，都是適合條件"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20466,7 +20621,12 @@
       "guideline": null,
       "concepts": [
         "antipsychotic-eps-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "急性肌張力不全、選**錯誤**",
+        "t": "痙攣主要在**頭頸部**（歪頸、眼球上吊、咬牙），不是四肢",
+        "x": "抗精神病藥副作用、靜脈 diphenhydramine、年輕人較常見，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -33340,7 +33500,12 @@
       "guideline": null,
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、選**正確**",
+        "t": "Bleuler 的 4A：**association、autism、affect、ambivalence**",
+        "x": "長期核心是**負性與認知症狀**；haloperidol 是**第一代**；第二代主要與 **D2 與 5-HT2A** 有關"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33381,7 +33546,12 @@
       "guideline": "FC 醫學(四)第3冊 p.20",
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "思考形式障礙、選**錯誤**",
+        "t": "思考形式是**組織與表達**；**內容**異常是妄想",
+        "x": "可從書寫口語觀察、表達組織障礙、新語症屬形式障礙，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33417,7 +33587,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "雙相症、選**錯誤**",
+        "t": "雙相症比重鬱症**更常**合併物質使用障礙",
+        "x": "可有幻聽妄想、每次躁期增加復發要預防、早發與難治憂鬱可能轉雙相，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33453,7 +33628,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** FDA 核准治療**躁症**",
+        "t": "**lamotrigine**（用於雙相維持與憂鬱）",
+        "x": "risperidone、olanzapine、aripiprazole 都核准治躁症"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33494,7 +33674,12 @@
       "guideline": "FC 醫學(四)第3冊 p.104",
       "concepts": [
         "somatic-factitious-malingering"
-      ]
+      ],
+      "approach": {
+        "k": "護理師反覆血尿血便、檢查正常、住院前**吃紅龍果**、**沒有外在利益**",
+        "t": "**人為障礙症**（factitious disorder）",
+        "x": "疾病焦慮症不會刻意造假；詐病有外在利益；轉化症不是故意"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33535,7 +33720,12 @@
       "guideline": "FC 醫學(四)第3冊 p.104",
       "concepts": [
         "somatic-factitious-malingering"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲為**逃避兵役**故意裝病",
+        "t": "**詐病**（malingering）",
+        "x": "人為障礙症沒有外在利益；轉化症與恐慌症不是故意"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33571,7 +33761,12 @@
       "guideline": null,
       "concepts": [
         "somatic-factitious-malingering"
-      ]
+      ],
+      "approach": {
+        "k": "轉化症臨床表徵、選**正確**",
+        "t": "**癱瘓**是最常見症狀之一",
+        "x": "pseudoseizure **常與**真癲癇共病；astasia-abasia 不是最常見；la belle indifférence **不是**診斷主要特徵"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33612,7 +33807,12 @@
       "guideline": "FC 醫學(四)第3冊 p.202",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "失眠用 BZD 原則、選**錯誤**",
+        "t": "長期使用者**不可立即全停**（戒斷、反彈、抽搐），要漸進減量",
+        "x": "最低有效劑量、老人注意跌倒、短效較易成癮，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33653,7 +33853,12 @@
       "guideline": "FC 醫學(四)第3冊 p.202",
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**執行功能",
+        "t": "**操作能力（praxis）**屬知覺動作範疇",
+        "x": "工作記憶、錯誤修正、決策都是執行功能"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33689,7 +33894,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "愛滋病精神症狀、選**錯誤**",
+        "t": "精神病症狀多出現在**晚期**（中樞神經受侵），不是前中期",
+        "x": "初期約 30% 類流感、出現失智預後差、共用針頭是主要傳播媒介，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33730,7 +33940,12 @@
       "guideline": "管制藥品管理條例：methadone 列第二級管制藥品",
       "concepts": [
         "operant-conditioning-substance-use"
-      ]
+      ],
+      "approach": {
+        "k": "methadone 治療海洛因成癮、選**正確**",
+        "t": "**口服**，降低注射針頭風險",
+        "x": "methadone **本身會**依賴；是**第二級**管制藥品；半衰期 24–36 小時，**每天一次**"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33771,7 +33986,12 @@
       "guideline": null,
       "concepts": [
         "alcohol-withdrawal-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "酒精相關、選**錯誤**",
+        "t": "戒斷初期是**交感亢奮**（手抖、心悸、失眠），不是嗜睡",
+        "x": "酒駕吐氣 0.15/血液 0.03%、酒精減少深睡、戒斷可有幻覺，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33812,7 +34032,12 @@
       "guideline": "FC 醫學(四)第3冊 p.73",
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "國小起**怕上台講話**、臉紅冒汗、翹課影響學業",
+        "t": "**社交焦慮症** → **認知行為治療**有效",
+        "x": "不是 PTSD；第一線藥物是 **SSRI**，不是抗精神病藥；預後好的是早期治療、沒有共病"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33848,7 +34073,12 @@
       "guideline": null,
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD、選**錯誤**",
+        "t": "成人 ADHD 用藥**仍有效**",
+        "x": "methylphenidate 首選、家庭功能影響治療、過動症狀成人期改善較明顯，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33889,7 +34119,12 @@
       "guideline": "FC 醫學(四)第3冊 p.185",
       "concepts": [
         "suicide-risk-protective-factors"
-      ]
+      ],
+      "approach": {
+        "k": "自殺意念或自傷、**最合適**處置",
+        "t": "斷續有意念、割腕（低致命）→ 可**門診**或心理治療（配安全計畫）",
+        "x": "不是有意念就一律住院；有重大內科病不應只轉內科；無望感強且缺支持是高風險，不能只轉社工門診"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -34059,7 +34294,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "安非他命濫用、選**最不適當**（官方 A–D 都給分）",
+        "t": "四個選項敘述大致正確，題目無唯一答案",
+        "x": "官方全部給分"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -46942,7 +47182,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "講話快、跳題、誇大能力、三天不睡、拯救地球、不知為何住院、**不包括**",
+        "t": "**解離現象**",
+        "x": "意念飛躍、誇大妄想、無病識感都有描述"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46983,7 +47228,12 @@
       "guideline": "FC 醫學(四)第3冊 p.154",
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "失智症藥物、選**正確**",
+        "t": "官方答案：**donepezil** 中樞選擇性較高、腸胃副作用相對較少",
+        "x": "膽鹼酯酶抑制劑主要用於**輕中度**；memantine 是 NMDA **拮抗劑**；memantine 用於**中重度**"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47019,7 +47269,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "精神疾病治療、選**正確**",
+        "t": "**aripiprazole** 已獲 FDA 核准為憂鬱症輔助治療",
+        "x": "躁期**不用**抗憂鬱劑；TMS 核准用於**憂鬱症**而非思覺失調症；雙相鬱期抗憂鬱劑**不是**首選"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47060,7 +47315,12 @@
       "guideline": "FC 醫學(四)第3冊 p.20",
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "女傭偷錢、**抽走想法**、太太被取代、電視報導他家、**沒涵蓋**",
+        "t": "**思考置入**（被放進想法）沒出現",
+        "x": "電視報導是關係妄想、抽走想法是思考抽離、偷錢害他是被害妄想"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47101,7 +47361,12 @@
       "guideline": "FC 醫學(四)第3冊 p.63",
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "功能性腸胃障礙**最常伴隨**的精神疾患",
+        "t": "**焦慮疾患**",
+        "x": "憂鬱也常見但次之；思覺失調與妄想症不相關"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47142,7 +47407,12 @@
       "guideline": "FC 醫學(四)第3冊 p.42",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "憂鬱症治療模式、選**正確**",
+        "t": "嚴重個案**藥物＋心理治療**效果較好",
+        "x": "睡眠剝奪效果**短暫**；照光**可能**誘發躁症；TMS 最常見副作用是**頭痛**，癲癇罕見"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47186,7 +47456,12 @@
       "guideline": "FC 醫學(四)第3冊 p.62",
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "盛行率性別差異、選**錯誤**（官方 A–D 都給分）",
+        "t": "焦慮疾患多為女性較高，但強迫症成人男女相當、兒童男多；題目過度絕對",
+        "x": "官方全部給分"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47227,7 +47502,12 @@
       "guideline": "FC 醫學(四)第3冊 p.201",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "BZD、選**錯誤**",
+        "t": "**急性**副作用是嗜睡、跌倒；嚴重戒斷是**突然停藥**後才出現",
+        "x": "加速入睡與放鬆、短效易成癮、高劑量混用傷肝長期增加風險，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47263,7 +47543,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "海洛因中毒與戒斷、選**正確**",
+        "t": "**①③**：opioid、catecholamine、GABA 是成癮主要神經傳導物質；戒斷 6–8 小時出現、7–10 天改善",
+        "x": "②中毒是**昏睡、縮瞳、呼吸抑制**，不是興奮多話；④戒斷時 locus coeruleus 活性**升高**"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47304,7 +47589,12 @@
       "guideline": "FC 醫學(四)第3冊 p.154",
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "DSM-5 路易氏體認知障礙**核心特徵**、選**錯誤**",
+        "t": "**系統化妄想**不是核心特徵",
+        "x": "反覆具體視幻覺、認知波動、自發性巴金森，三項都是核心"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47345,7 +47635,12 @@
       "guideline": "FC 醫學(四)第3冊 p.130",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "菸草使用疾患、選**錯誤**",
+        "t": "思覺失調症患者吸菸率**更高**（可達 60–90%），不是較少",
+        "x": "戒斷 2 小時內出現 1–2 天高峰、懷孕前或前三個月戒菸減少低體重、替代療法減輕戒斷，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47386,7 +47681,12 @@
       "guideline": "FC 醫學(四)第3冊 p.160",
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄病人**固著**回答上一個問題",
+        "t": "**轉換注意力**（shift attention）障礙",
+        "x": "察覺力、聚焦、維持注意力不是這個現象"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47422,7 +47722,12 @@
       "guideline": null,
       "concepts": [
         "dsm-autism-domains"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症類群障礙症、選**正確**",
+        "t": "臨床上**女生**比男生更常合併智能不足",
+        "x": "男女約 **4:1**；多基因加環境，**不是**單基因；手足罹患發展障礙比例**較高**"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47463,7 +47768,12 @@
       "guideline": "FC 醫學(四)第3冊 p.179",
       "concepts": [
         "dsm-tic-disorders"
-      ]
+      ],
+      "approach": {
+        "k": "妥瑞症、選**錯誤**",
+        "t": "增加多巴胺的藥（刺激劑）可能**加重**抽搐，治療用抑制多巴胺藥或 α2 促效劑",
+        "x": "高度遺傳、常併過動與強迫症、基底核相關腦區，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47504,7 +47814,12 @@
       "guideline": "FC 醫學(四)第3冊 p.185",
       "concepts": [
         "suicide-risk-protective-factors"
-      ]
+      ],
+      "approach": {
+        "k": "自殺死亡危險因子、選**正確**",
+        "t": "醫師中**精神科醫師**是高危險群之一",
+        "x": "自殺**死亡**男性較高；**老年人**危險最高；思覺失調、酒癮**是**重要因素"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -60447,7 +60762,12 @@
       "guideline": "FC 醫學(四)第3冊 p.19",
       "concepts": [
         "schizophrenia-prognostic-factors"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症**好預後**因子",
+        "t": "**急性發作**",
+        "x": "**有**誘發因素較好；**晚**發病較好；**正性**症狀為主較好"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60488,7 +60808,12 @@
       "guideline": "FC 醫學(四)第3冊 p.19",
       "concepts": [
         "schizophrenia-prognostic-factors"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、選**最不適當**",
+        "t": "**女性**發病較**晚**、預後**較好**",
+        "x": "一等親風險高 10 倍、同卵約 50%、難治用 clozapine 降自殺，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60529,7 +60854,12 @@
       "guideline": "FC 醫學(四)第3冊 p.20",
       "concepts": [
         "psychotropic-adverse-effects"
-      ]
+      ],
+      "approach": {
+        "k": "抗精神病藥副作用治療、選**最不適當**",
+        "t": "trihexyphenidyl **有濫用**風險（抗膽鹼欣快感）",
+        "x": "propranolol 掩蓋低血糖、propranolol 會進乳汁、trihexyphenidyl 惡化青光眼與攝護腺肥大，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60570,7 +60900,12 @@
       "guideline": "FC 醫學(四)第3冊 p.62",
       "concepts": [
         "dsm-gad-criteria"
-      ]
+      ],
+      "approach": {
+        "k": "泛焦慮症、選**最不適當**",
+        "t": "泛焦慮症**常慢性化**、起伏",
+        "x": "年輕即發病、藥物或心理治療單用或合併、負面事件誘發，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60606,7 +60941,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "疼痛疾患可用的治療",
+        "t": "**①②③④都可以**：生理回饋、神經阻斷、抗憂鬱藥、催眠",
+        "x": "缺任一項的組合都不完整"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60648,7 +60988,12 @@
       "concepts": [
         "bipolar-vs-major-depression",
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "SSRI、SNRI 除憂鬱外還可治療",
+        "t": "**①②③**：疼痛、泛焦慮症、恐慌症",
+        "x": "④雙相躁期**不能**用抗憂鬱劑（會惡化）"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60689,7 +61034,12 @@
       "guideline": "FC 醫學(四)第3冊 p.102",
       "concepts": [
         "somatic-factitious-malingering"
-      ]
+      ],
+      "approach": {
+        "k": "22 歲重大壓力後**忘記如何回家**、檢查正常",
+        "t": "**解離症**（解離性失憶）",
+        "x": "中風會有影像異常；適應障礙不會失憶；泛焦慮是長期擔心"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60725,7 +61075,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "正常老化、選**最不適當**",
+        "t": "**神經質**特質相對**穩定**，不會隨年紀改變",
+        "x": "腦重減少腦室變寬、最老年外向性輕減隨和性增加、孤立增加憂鬱風險，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60766,7 +61121,12 @@
       "guideline": "FC 醫學(四)第3冊 p.130",
       "concepts": [
         "alcohol-withdrawal-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "酒精戒斷譫妄、選**最不適當**",
+        "t": "首選是 **benzodiazepine**，不是抗精神病劑（會降低癲癇閾值）",
+        "x": "醫療急症未治療約 20% 致死、死因多為合併身體疾病、儘量避免身體約束，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60807,7 +61167,12 @@
       "guideline": "FC 醫學(四)第3冊 p.103",
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "Gerstmann 症候群、叫不出手指名稱",
+        "t": "**手指失辨識**（finger agnosia）",
+        "x": "手指失語、失用、失憶不是術語"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60848,7 +61213,12 @@
       "guideline": "FC 醫學(四)第3冊 p.153",
       "concepts": [
         "delirium-management-principles"
-      ]
+      ],
+      "approach": {
+        "k": "72 歲白內障術後當晚視幻覺、驚恐、注意力不集中（譫妄）",
+        "t": "短期低劑量 **haloperidol**",
+        "x": "lithium、propranolol 不治譫妄；diazepam **會加重**譫妄"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60889,7 +61259,12 @@
       "guideline": "FC 醫學(四)第3冊 p.168",
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD 治療、選**最適當**",
+        "t": "合併焦慮憂鬱者，**藥物＋社會心理行為治療**比單用藥更好",
+        "x": "單純藥物**會**明顯改善核心症狀；stimulant 與 non-stimulant 敘述有誤；clonidine **可以**改善抽搐，適合合併 tic 者"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60931,7 +61306,12 @@
       "concepts": [
         "bipolar-vs-major-depression",
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "精神疾患、選**最適當**",
+        "t": "兒童雙相症常表現**非典型**（易怒、混合）",
+        "x": "社交畏懼症好發**青少年**；兒童憂鬱較多易怒與身體抱怨，**較少**無望與遲滯；兒童**可以**診斷思覺失調症"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60967,7 +61347,12 @@
       "guideline": null,
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "人格障礙症防衛機轉①–④",
+        "t": "**①②③④都對**：想像朋友是幻想、忘記自己是誰是解離、無感情描述是情感抽離、怪醫師是投射",
+        "x": "缺任一項的組合都不完整"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -61008,7 +61393,12 @@
       "guideline": "FC 醫學(四)第3冊 p.103",
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "經前不悅症、選**最不適當**",
+        "t": "PMDD **可以**伴隨水腫、乳房壓痛等身體症狀",
+        "x": "經前一週出現、易怒情緒起伏焦慮憂鬱、SSRI 治療，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -61142,7 +61532,12 @@
       "concepts": [
         "alcohol-withdrawal-timeline",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "酒精性肝硬化、停酒 30 小時、躁動高血壓、癲癇",
+        "t": "第一線是 **benzodiazepine**",
+        "x": "酒精戒斷癲癇 **phenytoin 無效**；酒精幻覺症以**聽**幻覺較多；DT 積極治療後死亡率已降至約 1–5%"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -74121,7 +74516,12 @@
       "guideline": "FC 醫學(四)第3冊 p.18",
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "妄想內容命名、選**最適當**",
+        "t": "自稱神仙下凡要拯救世人 → **誇大妄想**",
+        "x": "被黑道殺害是**被害**妄想；別人愛上自己是**情愛**妄想；同事聊天要對付他是**關係與被害**妄想"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74157,7 +74557,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "物質或藥物引發精神病、選**最不適當**",
+        "t": "精神病狀態的**現實感是差**的",
+        "x": "古柯鹼蟻走感、被害妄想最常見、顳葉癲癇嗅幻覺，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74198,7 +74603,12 @@
       "guideline": "FC 醫學(四)第3冊 p.19",
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、選**最不適當**",
+        "t": "負性症狀與 **mesocortical** 路徑功能不足有關；mesolimbic 過度是**正性**症狀",
+        "x": "5–6% 自殺死亡、可合併抗憂鬱藥、認知功能比正性症狀更能預測社會功能，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74234,7 +74644,12 @@
       "guideline": null,
       "concepts": [
         "mood-stabilizer-pregnancy-risk"
-      ]
+      ],
+      "approach": {
+        "k": "情緒穩定劑、選**最不適當**",
+        "t": "情緒穩定劑（lithium、valproate、carbamazepine）致畸風險**不比**抗精神病藥低",
+        "x": "lithium 降自殺、注意飲水量、中毒手抖腹瀉構音不清，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74275,7 +74690,12 @@
       "guideline": "FC 醫學(四)第3冊 p.69",
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "強迫症治療、選**最適當**",
+        "t": "**行為治療（暴露與反應預防）＋藥物**（SSRI）",
+        "x": "精神分析效果差；BZD 不能預防；lithium 不是首選"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74316,7 +74736,12 @@
       "guideline": "FC 醫學(四)第3冊 p.41",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "情緒障礙症、選**最不適當**",
+        "t": "第二型雙相症自殺風險**不低**於第一型",
+        "x": "重鬱症女性約男性兩倍、第一型無性別差異、第一型共病比重鬱症高，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74357,7 +74782,12 @@
       "guideline": "FC 醫學(四)第3冊 p.81",
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "35 歲大車禍後心悸、失眠、惡夢、迴避、持續 **8 個月**",
+        "t": "**PTSD**：影像可見**杏仁核**改變",
+        "x": "適應障礙症沒有這些侵入迴避症狀；基底核功能與頂葉鈣化都不是 PTSD 特徵"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74398,7 +74828,12 @@
       "guideline": "FC 醫學(四)第3冊 p.41",
       "concepts": [
         "psychotropic-adverse-effects"
-      ]
+      ],
+      "approach": {
+        "k": "藥物對性功能影響、選**最不適當**",
+        "t": "risperidone 升高泌乳素，**降低**性慾（bupropion 才較少影響）",
+        "x": "SNRI 有性功能副作用、cyproheptadine 與 amantadine 可改善 SSRI 性功能障礙、lithium 可致勃起障礙，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74439,7 +74874,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "失智症、選**最不適當**",
+        "t": "官方認定 B 錯：妄想約 30–40%、幻覺約 15–20%，「約三分之一兩者都出現」不精確",
+        "x": "老化家族史女性是危險因子、進行性不可逆、憂鬱甲低維生素缺乏可致假性失智，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74480,7 +74920,12 @@
       "guideline": "FC 醫學(四)第3冊 p.129",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "海洛因、選**最適當**",
+        "t": "**①③**：中毒給 naloxone；急性戒斷後仍可殘存症狀數月",
+        "x": "②意識混亂、呼吸淺、縮瞳是**中毒**不是戒斷；④methadone 與 buprenorphine **維持治療**有利戒除"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74521,7 +74966,12 @@
       "guideline": "FC 醫學(四)第3冊 p.129",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "K 他命濫用、選**最適當**",
+        "t": "會產生幻覺與**解離**狀態",
+        "x": "**可以**鼻吸；**會**導致類思覺失調精神病；機轉是 **NMDA 拮抗**，不是多巴胺"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74562,7 +75012,12 @@
       "guideline": "FC 醫學(四)第3冊 p.129",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "長期大量飲酒少進食、步態不穩、意識混亂、**眼球震顫**",
+        "t": "**Wernicke 腦病變** → 先**注射 thiamine**",
+        "x": "先給葡萄糖會**加重**；BZD 與 haloperidol 不是首要"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74603,7 +75058,12 @@
       "guideline": "FC 醫學(四)第3冊 p.175",
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症語言症狀、選**最適當**",
+        "t": "有些患者**會讀很多字卻不理解**（hyperlexia）",
+        "x": "DSM-5 語言障礙**不是**核心準則；用「你」代「我」是**代名詞反轉**不是仿說；從未發展有用語言約 1/4–1/3，不是 2/3"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74639,7 +75099,12 @@
       "guideline": null,
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD 病因學、選**最適當**",
+        "t": "**前額葉**與注意力、衝動控制有關，是常研究的腦區",
+        "x": "**遺傳**為主；遺傳率約 **70–80%**；多數病患**沒有**明顯結構異常"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74680,7 +75145,12 @@
       "guideline": "FC 醫學(四)第3冊 p.102",
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "約束與隔離規範、選**最不適當**",
+        "t": "需有**明確書面醫囑**，不是緊急時口頭醫囑逕行",
+        "x": "定期審視記錄、明訂方式與時間、延展需再評估，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74843,7 +75313,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "恐慌症、選**最不適當**",
+        "t": "恐慌發作是**突發、無法預期**的，沒有前兆",
+        "x": "重複發作並擔心再發、數分鐘內達高峰、SSRI 或 SNRI 治療，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -87740,7 +88215,12 @@
       "guideline": "FC 醫學(四)第3冊 p.38",
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "僵直狀態、選**最不適當**",
+        "t": "住院病人中以**情感疾患**（雙相、憂鬱）最多，思覺失調次之",
+        "x": "活動減少與增加可交替、抗精神病藥可誘發、模仿言語與動作，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87781,7 +88261,12 @@
       "guideline": "FC 醫學(四)第3冊 p.39",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "雙相症、選**最不適當**",
+        "t": "同卵雙胞胎一致率約 **40–70%**，不是 25%",
+        "x": "家族憂鬱機率較高、鬱期多於躁期、急性期 lithium 0.6–1.2，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87822,7 +88307,12 @@
       "guideline": "FC 醫學(四)第3冊 p.39",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "lithium、選**最不適當**",
+        "t": "監測中毒要靠**血中濃度**，不是只看臨床",
+        "x": "噁心腹瀉視力模糊、嚴重中毒痙攣心律不整昏迷、血液透析解毒，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87863,7 +88353,12 @@
       "guideline": "FC 醫學(四)第3冊 p.17",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "中年女性被偷妄想、丈夫被取代（Capgras）、攻擊丈夫、選**最適當**",
+        "t": "診斷思覺失調症前必須**排除物質**（安非他命）影響",
+        "x": "強制住院**不需**先徵丈夫同意；被偷妄想也見於失智等；首選是**抗精神病藥**"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87904,7 +88399,12 @@
       "guideline": "FC 醫學(四)第3冊 p.101",
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "安樂死、選**最不適當**",
+        "t": "在病人要求下以措施**協助**死亡屬**主動**式，不是被動",
+        "x": "撤除維生系統是被動式、主動式爭議多、要評估憂鬱症，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87940,7 +88440,12 @@
       "guideline": null,
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "失眠臨床與治療、選**最不適當**",
+        "t": "失眠**不一定**由其他疾病造成（可以是原發性失眠症）",
+        "x": "白天打瞌睡評估 OSA、每週 ≥3 次且 ≥3 個月、安眠藥不超過兩週，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87976,7 +88481,12 @@
       "guideline": null,
       "concepts": [
         "eating-disorders-obesity-psych"
-      ]
+      ],
+      "approach": {
+        "k": "嗜食症 vs 暴食症、選**最不適當**",
+        "t": "暴食症患者的自我評價**過度受身材體重影響**",
+        "x": "fluoxetine 可治暴食症、嗜食症沒有代償行為、嗜食症沒有強烈求瘦渴望，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88017,7 +88527,12 @@
       "guideline": "FC 醫學(四)第3冊 p.101",
       "concepts": [
         "psychotropic-adverse-effects"
-      ]
+      ],
+      "approach": {
+        "k": "醫療食品臨床應用、選**最不適當**",
+        "t": "Omega-3 **不是**血清素回收抑制作用",
+        "x": "藥物研發重實證、憂鬱症病因複雜單一療法不足、SAMe 促進單胺合成，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88054,7 +88569,12 @@
       "concepts": [
         "anxiety-ocd-ptsd",
         "somatic-factitious-malingering"
-      ]
+      ],
+      "approach": {
+        "k": "老年精神問題、選**最不適當**",
+        "t": "慮病症高峰**不在** 60 歲以上（多在成年早中期起病）",
+        "x": "老人自殺風險高孤單占 1/3、焦慮症也可在 60 歲後首發、睡眠呼吸障礙在老人較常見，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88090,7 +88610,12 @@
       "guideline": null,
       "concepts": [
         "delirium-management-principles"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄治療、選**最不適當**",
+        "t": "**長時間約束**會加重譫妄",
+        "x": "抗精神病藥治激躁、家人照片時鐘幫助定向，都適當；B 選項官方視為可接受"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88131,7 +88656,12 @@
       "guideline": "FC 醫學(四)第3冊 p.127",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "臺灣美沙冬替代療法、選**最適當**",
+        "t": "藥效 **≥24 小時**，每天給一次",
+        "x": "長期使用多數**不會**憂鬱嗜睡；是**口服**；**會**依賴"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88172,7 +88702,12 @@
       "guideline": "FC 醫學(四)第3冊 p.127",
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "BZD、選**最適當**",
+        "t": "BZD 戒斷與**酒精戒斷相似**：焦慮、失眠、甚至抽搐",
+        "x": "抽搐多在停藥後 **1–3 天**（短效）；**短效**成癮性較高；**女性**濫用較多"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88213,7 +88748,12 @@
       "guideline": "FC 醫學(四)第3冊 p.174",
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症症狀、選**最適當**",
+        "t": "**視覺空間**能力常優於口語理解",
+        "x": "**不是**完全缺乏依附；面對陌生人反應**較不**明顯；心智理論**有**缺損"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88254,7 +88794,12 @@
       "guideline": "FC 醫學(四)第3冊 p.166",
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "中樞神經刺激劑治 ADHD、選**最不適當**",
+        "t": "methylphenidate 是 **DA、NE** 再回收抑制，不是血清素",
+        "x": "提升社交與衝動控制、對三大核心症狀有效、副作用食慾差失眠，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88290,7 +88835,12 @@
       "guideline": null,
       "concepts": [
         "somatic-factitious-malingering"
-      ]
+      ],
+      "approach": {
+        "k": "詐病與佯病**最大區別**",
+        "t": "詐病有**明確外在利益**（逃兵役、避法律）",
+        "x": "兩者都是故意；兩者都可能找不到病因；維持病人角色是**佯病**"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -88459,7 +89009,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "23 歲長期使用某物質、全身無力、情緒低落、**呼吸 10**、生命徵象平穩",
+        "t": "**安非他命**戒斷（crash：疲倦、嗜睡、憂鬱）",
+        "x": "海洛因戒斷是打呵欠流淚、瞳孔大、腹瀉；酒精與 BZD 戒斷是焦躁、手抖、心跳快"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -101392,7 +101947,12 @@
       "guideline": "FC 醫學(四)第3冊 p.17",
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症規則服藥後**無幻聽妄想**、但話少、不洗澡、被動退縮",
+        "t": "**負性症狀**",
+        "x": "正性症狀是幻覺妄想；認知障礙是注意記憶執行功能；焦慮症狀不符"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101433,7 +101993,12 @@
       "guideline": "FC 醫學(四)第3冊 p.197",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "精神藥物、選**最不適當**",
+        "t": "姿態性低血壓來自 **α1 受體**阻斷，不是多巴胺受體",
+        "x": "lithium 甲狀腺與心臟副作用、clozapine 與 fluvoxamine 交互作用、valproate 使 lamotrigine 濃度升高增加過敏，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101469,7 +102034,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "**較無法**預測日後轉成雙相症的憂鬱症狀",
+        "t": "**與生活事件有關**的憂鬱發作",
+        "x": "25 歲前合併精神病症狀、≥5 次發作、精神運動遲滯都是預測因子"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101510,7 +102080,12 @@
       "guideline": "FC 醫學(四)第3冊 p.18",
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "類思覺失調症、選**最不適當**",
+        "t": "類思覺失調症在**青少年與年輕成人**較多、**男性**較多，不是無性別差異",
+        "x": "病程 1–6 個月、約 2/3 進展成思覺失調症、藥物療效較好，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101551,7 +102126,12 @@
       "guideline": "FC 醫學(四)第3冊 p.61",
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "特定畏懼症常用且最有效的治療",
+        "t": "**行為治療**（暴露治療）",
+        "x": "光照、ECT、抗精神病藥都不是"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101593,7 +102173,12 @@
       "concepts": [
         "anxiety-ocd-ptsd",
         "dyspnea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "35 歲突發呼吸困難、心悸、怕快死、檢查都正常、**一個月 4 次**",
+        "t": "**恐慌症**",
+        "x": "泛焦慮是長期擔心；強迫症有強迫思考行為；適應障礙需有壓力源"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101634,7 +102219,12 @@
       "guideline": "FC 醫學(四)第3冊 p.40",
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "憂鬱症、選**最不適當**",
+        "t": "抗憂鬱劑**不會成癮**；症狀緩解後要持續治療（約 6–12 個月）才停",
+        "x": "至少有憂鬱情緒或失去興趣、可食慾與睡眠增加、TCA 過量致命 SSRI 較安全，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101675,7 +102265,12 @@
       "guideline": "FC 醫學(四)第3冊 p.40",
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "慢性疲勞症候群、選**最適當**",
+        "t": "需**鑑別感染**等可治療的疲勞原因",
+        "x": "淋巴結痛**是**診斷特徵之一；休息**不一定**改善（活動後惡化）；**很多**個案合併重鬱症"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101711,7 +102306,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "阿茲海默症生物標記、選**最適當**",
+        "t": "類澱粉相關標記有**早期診斷**價值",
+        "x": "APOE4 是危險因子，**非必要且充分**；類澱粉 PET 選項敘述不完整；海馬萎縮是**神經退化**標記，不是類澱粉"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101747,7 +102347,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "Wernicke-Korsakoff、選**最適當**",
+        "t": "初期給**大劑量 thiamine**",
+        "x": "治療後**不是**幾乎都發展成 Korsakoff；眼球異常常**雙側**且可不對稱；記憶障礙與**乳頭體、視丘**有關"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101788,7 +102393,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "興奮劑誘發精神疾病、選**最不適當**",
+        "t": "安非他命誘發的精神症狀**不需**長期服藥一年，多為短期治療",
+        "x": "中毒失眠戒斷嗜睡夢魘、中毒與戒斷期都可焦慮、以幻聽為主，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101830,7 +102440,12 @@
       "concepts": [
         "delirium-management-principles",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "76 歲平日服抗膽鹼藥與安眠藥、髖關節術後 ICU 譫妄、選**最不適當**",
+        "t": "**ICU 環境**是**誘發**因子（住院後才加上），不是前置因子",
+        "x": "年齡性別與術前藥物是前置因子、手術是誘發因子，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101871,7 +102486,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症相關特徵、選**最適當**",
+        "t": "合併智能不足者中約 **30%** 屬輕到中度",
+        "x": "合併智能不足約 **70%**（舊數據）而非 80%；年幼患者**常**合併過動；感官反應**過高與過低並存**"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101912,7 +102532,12 @@
       "guideline": null,
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD 治療、選**最適當**",
+        "t": "**methylphenidate** 是臺灣唯一核准的中樞興奮劑",
+        "x": "第一線是**藥物**；atomoxetine 是**非**興奮劑；FDA 規定 methylphenidate **6 歲以上**"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101948,7 +102573,12 @@
       "guideline": null,
       "concepts": [
         "suicide-risk-protective-factors"
-      ]
+      ],
+      "approach": {
+        "k": "55 歲重鬱症多年不規則治療、口角後跳樓",
+        "t": "自殺機轉與 **serotonin** 功能低下有關（CSF 5-HIAA 低）",
+        "x": "夫妻口角是誘發而非主因；重鬱症**可以**有精神病症狀；家人陪伴與治療**可以**預防"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -114522,7 +115152,12 @@
       "guideline": null,
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "妄想症、選**正確**",
+        "t": "**社會或感官隔離**是危險因子",
+        "x": "盛行率**遠低於**思覺失調症；發病**較晚**（中年）；幻覺**不明顯**"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114558,7 +115193,12 @@
       "guideline": null,
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、選**錯誤**",
+        "t": "晚發性思覺失調症切點是 **45 歲**（60 歲以上是極晚發）",
+        "x": "盛行率男女相同、女性較晚發病、男性負性症狀較多，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114594,7 +115234,12 @@
       "guideline": null,
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症、選**錯誤**",
+        "t": "官方認定 A 錯（生育率差距的敘述不被採用）",
+        "x": "內科疾病約一半未診斷、同卵共病率約 50%、父親 >60 歲風險增加，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114630,7 +115275,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "雙相症、選**錯誤**",
+        "t": "躁症發作過一次，**九成以上**會再發，不是一半不再復發",
+        "x": "多數第二型 5 年內不會轉第一型、ECT 可用、發病比憂鬱症早，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114666,7 +115316,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "壓力荷爾蒙",
+        "t": "**HPA 軸**（CRH → ACTH → cortisol）",
+        "x": "性荷爾蒙、腸胃神經胜肽、血清素系統不是壓力內分泌主軸"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114702,7 +115357,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "纖維肌痛藥物、選**最不適當**",
+        "t": "**麻醉性止痛藥**不是首選（效果差、成癮）",
+        "x": "pregabalin、抗憂鬱劑、一般止痛藥都可用"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114738,7 +115398,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "焦慮性疾患、選**錯誤**",
+        "t": "大部分焦慮症**女性多於男性**（約 2:1）",
+        "x": "包括廣泛性焦慮恐慌畏懼、盛行率最高、多在青少年成年早期發病，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114774,7 +115439,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "偷竊癖、選**錯誤**",
+        "t": "偷竊是**衝動性**的，**不是**計畫性",
+        "x": "得手後張力紓解、常與情緒疾患共病、女多於男，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114810,7 +115480,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "血管性失智症、選**錯誤**",
+        "t": "血管性失智**男性**較多",
+        "x": "占 15–30% 第二常見、發病前多有高血壓心血管病、階梯式退化，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114846,7 +115521,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "DSM-5 認知範疇、選**錯誤**",
+        "t": "**定向感**不在六大範疇",
+        "x": "執行功能、語言、社會認知都在範疇內（另有複雜注意力、學習記憶、知覺動作）"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114882,7 +115562,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "興奮劑精神病、選**錯誤**",
+        "t": "以**幻聽**最常見，不是視幻覺",
+        "x": "妄想幻覺為主、可有蟻走感、短期 haloperidol，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114918,7 +115603,12 @@
       "guideline": null,
       "concepts": [
         "alcohol-withdrawal-timeline"
-      ]
+      ],
+      "approach": {
+        "k": "長期喝烈酒、住院停酒 **3 天**後失眠、焦躁、**定向感喪失、不認得家人**",
+        "t": "**酒精戒斷譫妄**（DT，48–96 小時）",
+        "x": "Wernicke 是眼震共濟失調混亂；急性震顫在 6–24 小時且意識清楚；酒精性失智是慢性"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114954,7 +115644,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症藥物治療、選**最正確**",
+        "t": "**risperidone** 證實可減低**激躁**行為",
+        "x": "藥物**不能**改善核心症狀；methylphenidate 對合併過動**有效**；營養補充品**未證實**有效"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114990,7 +115685,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "DMDD vs ODD、選**錯誤**",
+        "t": "**惱怒與對立**是 ODD 的字詞，DMDD 診斷要件是頻繁暴怒加發作間持續易怒",
+        "x": "兩者都易怒發脾氣、符合 DMDD 者幾乎也符合 ODD、符合 ODD 者不一定符合 DMDD，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -115026,7 +115726,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "精神衛生法**不屬於**精神疾病範圍",
+        "t": "**反社會性人格違常**（明文排除）",
+        "x": "精神病、精神官能症、酒癮藥癮都在範圍內"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -115184,7 +115889,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "卡西酮類物質、選**最適當**",
+        "t": "刺激 **NE 與 DA** 釋出（類安非他命）",
+        "x": "結構類似**安非他命**不是 ketamine；是**興奮**作用不是鎮靜；常規尿篩**驗不出**，需質譜"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -115220,7 +115930,12 @@
       "guideline": null,
       "concepts": [
         "delirium-management-principles"
-      ]
+      ],
+      "approach": {
+        "k": "引起老人譫妄**最不常見**的藥",
+        "t": "**haloperidol**（反而用來治療譫妄）",
+        "x": "atropine（抗膽鹼）、lorazepam（BZD）、meperidine 都是常見元凶"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -127050,7 +127765,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "情緒障礙症、選**正確**",
+        "t": "雙相症發病年齡**比重鬱症早**",
+        "x": "雙相症在**較高**社經階層較多；**一次躁期**就能診斷；第一型男女**相當**"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127086,7 +127806,12 @@
       "guideline": null,
       "concepts": [
         "schizophrenia-delusional-disorder"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** DSM-5 思覺失調症準則 A 症狀",
+        "t": "**定向感異常**（要想譫妄）",
+        "x": "幻覺妄想、負性症狀、混亂言語行為都是準則"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127122,7 +127847,12 @@
       "guideline": null,
       "concepts": [
         "schizophrenia-prognostic-factors"
-      ]
+      ],
+      "approach": {
+        "k": "思覺失調症**預後較差**因子",
+        "t": "**明顯思考貧乏與社交退縮**（負性症狀）",
+        "x": "晚發、女性、有明顯誘因都是**好**預後"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127158,7 +127888,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "COPD 與精神疾病、選**錯誤**",
+        "t": "COPD 共病**恐慌症**比率**較一般人高**",
+        "x": "睡眠障礙與 COPD 相關、焦慮症共病高、藥物過量致焦慮顫抖，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127194,7 +127929,12 @@
       "guideline": null,
       "concepts": [
         "gaba-a-sedative-comparison"
-      ]
+      ],
+      "approach": {
+        "k": "BZD、選**錯誤**",
+        "t": "BZD 在臺灣是**管制藥品**（第四級）",
+        "x": "有抗癲癇作用、與 ω 受體結合經 GABA 複合體作用、是酒精戒斷第一線，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127230,7 +127970,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "憂鬱症、選**錯誤**",
+        "t": "急性壓力使 cortisol **升高**，不是缺乏",
+        "x": "發炎理論解釋共病、REM 增加與前額葉異常、可藉藥物或心理治療矯正，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127266,7 +128011,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "生理回饋治療的原理",
+        "t": "**操作型制約**（把生理訊號變成即時回饋獎勵）",
+        "x": "古典制約是刺激配對；系統減敏感與洪水法是暴露治療"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127302,7 +128052,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "強迫症、選**錯誤**",
+        "t": "患者自覺強迫想法**不合理**（自我不協調），卻停不下來",
+        "x": "反覆強迫想法或動作、可只有強迫想法、多於 25 歲前發作，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127338,7 +128093,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "阿茲海默症、選**錯誤**",
+        "t": "大多數是**散發性**，家族性**不到 5%**",
+        "x": "最常見失智類型、類澱粉沉積、乙醯膽鹼不足，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127374,7 +128134,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "鎮靜安眠藥濫用、選**錯誤**",
+        "t": "**短效**型戒斷比長效型**更嚴重**",
+        "x": "中毒可致攻擊（併酒精）、停藥要慢、長期使用致記憶退化與譫妄，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127410,7 +128175,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄前置因子、選**錯誤**",
+        "t": "**食慾增加**不是前置因子",
+        "x": "老年、認知障礙、失明失聰都是前置因子"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127446,7 +128216,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "長期喝烈酒、住院停酒 4 天後意識不清、不認得家人（DT）、選**最不適當**",
+        "t": "酒精戒斷癲癇最常是**全身強直陣攣大發作**，不是小發作",
+        "x": "首選 BZD、必要時短期約束密切觀察、propranolol 降交感亢進，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127482,7 +128257,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "自閉症共病與鑑別、選**最正確**",
+        "t": "同時符合 ASD 與 ADHD 時**可以同時**診斷",
+        "x": "共病**很常見**（約 70%）；兩種以上共病約 40% 而非 4%；**選擇性不語症**才是在熟悉情境溝通正常"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127518,7 +128298,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "兒童青少年憂鬱症診斷、選**錯誤**",
+        "t": "**仍要評估**無價值感與罪惡感（與自殺風險相關）",
+        "x": "坐立難安誤認 ADHD、早上拒學白天嗜睡、反應慢專注差，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127554,7 +128339,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "約束的適當時機、選**錯誤**",
+        "t": "減少過度感覺刺激是**隔離**的適應症，不是約束",
+        "x": "防止重大干擾治療、病人自願合理要求、行為治療的一部分，三項都是約束時機"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -127679,7 +128469,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "75 歲失智、夜不睡白天躁動、選**最不適當**",
+        "t": "**不應**直接約束加放導尿管（會加重譫妄、增加感染）",
+        "x": "照顧者負荷常是就診原因、先排除譫妄與身體疾病、工作社交能力下降，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -139486,7 +140281,12 @@
       "guideline": null,
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**僵直症症狀",
+        "t": "**虛無妄想**（nihilism）是思考內容",
+        "x": "作態、緘默、違拗都是僵直症動作症狀"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139522,7 +140322,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "雙極鬱期藥物、選**最不適當**",
+        "t": "**risperidone** 是躁期用藥，鬱期無實證",
+        "x": "鋰鹽、lurasidone、lamotrigine 都有實證"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139558,7 +140363,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "精神疾病治療、選**最適當**",
+        "t": "重鬱症合併**身體症狀障礙症**對 ECT 反應**較差**",
+        "x": "ECT 起效快且療效**較好**；抗憂鬱無效者 ECT 反應率可達 **50–70% 以上**；躁期 ECT 敘述官方不採用"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139594,7 +140404,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "32 歲上夜店後兩三天、**疲倦嗜睡、特別想吃東西、鮮明惡夢**",
+        "t": "**甲基安非他命**戒斷",
+        "x": "海洛因、酒精、安眠藥戒斷都是亢奮、失眠、冒汗"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139630,7 +140445,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄、選**最不適當**",
+        "t": "譫妄腦波是**廣泛性慢波**，不是快波（快波是 BZD 戒斷）",
+        "x": "比失智發作快且波動大、嚴重躁症難區別、低活動型像憂鬱，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139666,7 +140486,12 @@
       "guideline": null,
       "concepts": [
         "psychotropic-adverse-effects"
-      ]
+      ],
+      "approach": {
+        "k": "抗精神病藥、選**最不適當**",
+        "t": "長效針劑常用間隔是 **2 週到 1 個月**（新劑型 3 或 6 個月），沒有一年一針",
+        "x": "心臟傳導異常、NMS、dantrolene 可能有效，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139702,7 +140527,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "譫妄、選**最適當**",
+        "t": "譫妄病人 3 個月死亡率約 **20–30%**",
+        "x": "首要是**找病因與非藥物**介入；非藥物介入**不是**身體約束優先；BZD 會**加重**（戒斷型除外）"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139738,7 +140568,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "強迫症大部分個案病程",
+        "t": "**持續而慢性化**",
+        "x": "不是快速緩解、陣發性或急遽惡化"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139774,7 +140609,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "懼曠症**最常共病**",
+        "t": "**恐慌症**",
+        "x": "憂鬱、思覺失調、雙相症不是最常見共病"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139810,7 +140650,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "性別不安、選**最適當**",
+        "t": "兒童診斷**必須**有強烈渴望成為異性或堅持自己是異性",
+        "x": "**不需**排除雙性人；要持續 **≥6 個月**；轉化治療被**明確反對**"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139846,7 +140691,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於**中樞神經刺激劑",
+        "t": "**Ketamine**（NMDA 拮抗，解離劑）",
+        "x": "古柯鹼、甲基安非他命、methylphenidate 都是刺激劑"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139882,7 +140732,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "29 歲大量使用後**食慾降低**、激躁、血壓心跳高、**多疑**",
+        "t": "**安非他命**中毒",
+        "x": "愷他命是解離；大麻會**增加**食慾；幻覺劑以知覺改變為主"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139918,7 +140773,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "DMDD、選**最不適當**",
+        "t": "DMDD **可以**與 ADHD 共病（不能並列的是 ODD）",
+        "x": "每週 ≥3 次暴怒、18 歲以上初診不適用、類似雙相症時用非典型抗精神病藥，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139954,7 +140814,12 @@
       "guideline": null,
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD、選**最適當**",
+        "t": "約 **75%** 病因可由遺傳解釋",
+        "x": "ADHD 與學習障礙**可以**同時成立；**過動**症狀較早消失；MTA 研究結論官方不採用"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139990,7 +140855,12 @@
       "guideline": null,
       "concepts": [
         "personality-impulse-somatic-pain-psych"
-      ]
+      ],
+      "approach": {
+        "k": "23 歲長期情緒不穩、空虛、**怕被拋棄**、反覆以自殺威脅、壓力下短暫退化與幻聽",
+        "t": "**邊緣型人格** → **辯證行為治療**對割腕等自傷有效",
+        "x": "依賴型沒有衝動自傷；心理加藥物合併**更佳**；BZD 會**惡化**衝動"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -140195,7 +141065,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "Naloxone、選**最適當**",
+        "t": "**鼻噴**吸收與肌肉注射相當",
+        "x": "對 **μ 受體**對抗作用**最強**；作用時間比多數鴉片類**短**，常需重複給；可誘發**急性戒斷**"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -151916,7 +152791,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "DSM-5-TR 雙極症、選**最不恰當**",
+        "t": "輕躁期至少 **4 天**，不是 1 週",
+        "x": "產後 4 週內發作為 peripartum onset、一年 ≥4 次為快速循環、躁期至少 1 週，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -151952,7 +152832,12 @@
       "guideline": null,
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "MSE 中**最能評估認知功能**",
+        "t": "**①④**：三個單詞延遲回憶、畫時鐘",
+        "x": "②是思考形式；③是情緒"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -151988,7 +152873,12 @@
       "guideline": null,
       "concepts": [
         "psychopathology-delusions-catatonia"
-      ]
+      ],
+      "approach": {
+        "k": "**關係妄想**的主訴",
+        "t": "電視節目暗藏要傳遞給我的訊息",
+        "x": "別人知道我在想什麼是思考廣播；超能力救世界是誇大；行為被控制是被控制妄想"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152024,7 +152914,12 @@
       "guideline": null,
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** AASM 失眠藥物建議用藥",
+        "t": "**melatonin**（指引不建議）",
+        "x": "doxepin、suvorexant、ramelteon 都有建議"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152060,7 +152955,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "照會聯商精神醫學、選**最不適當**",
+        "t": "身體疾病患者自殺危險因子是**男性、高齡**、獨居等",
+        "x": "精神疾患影響內科預後、住院憂鬱盛行率較高、憂鬱是冠心病危險與不良預後因子，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152096,7 +152996,12 @@
       "guideline": null,
       "concepts": [
         "anxiety-ocd-ptsd"
-      ]
+      ],
+      "approach": {
+        "k": "26 歲內向怕生、持續擔憂心悸失眠、選**最不適當**",
+        "t": "目前**沒有**可用於焦慮症診斷的影像生物標記",
+        "x": "焦慮症有家族聚集、社交焦慮症男女比例接近、SSRI/SNRI 是一線，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152132,7 +153037,12 @@
       "guideline": null,
       "concepts": [
         "bipolar-vs-major-depression"
-      ]
+      ],
+      "approach": {
+        "k": "鬱症發作、選**最不適當**",
+        "t": "**雙極**鬱期自殺風險**高於**重鬱症鬱期",
+        "x": "及早介入可避免後續發作、青少年可表現反社會逃學、10–15% 重鬱症自殺死亡，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152168,7 +153078,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "阿茲海默失智 vs 輕度認知障礙**基本差別**",
+        "t": "**日常生活功能退化**",
+        "x": "APOE4、CSF β-amyloid、影像標記都不能區分兩者"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152205,7 +153120,12 @@
       "concepts": [
         "cognitive-impairment-delirium-dementia",
         "altered-consciousness-approach"
-      ]
+      ],
+      "approach": {
+        "k": "失智 vs 譫妄、選**最不適當**",
+        "t": "兩者**常會併存**（失智是譫妄的危險因子）",
+        "x": "譫妄較起伏、幻覺較多、注意力受損較嚴重，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152241,7 +153161,12 @@
       "guideline": null,
       "concepts": [
         "substance-intoxication-withdrawal"
-      ]
+      ],
+      "approach": {
+        "k": "酒精誘發精神疾患、選**最適當**",
+        "t": "以幻覺為主的酒精誘發精神病，幻覺消失後**不需**長期藥物（官方答案）",
+        "x": "持續失憶疾患多**不可逆**；酒精誘發憂鬱停酒後多會好，**不宜急**用抗憂鬱藥；恐慌發作比例官方不採用"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152277,7 +153202,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "皮質下 vs 皮質失智、選**最不恰當**",
+        "t": "**皮質下**失智較容易出現憂鬱與淡漠",
+        "x": "皮質失智早期失語、早期計算受損、皮質下失智動作變慢，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152313,7 +153243,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "2 歲典型發展、選**最適當**",
+        "t": "**用名字稱呼自己**",
+        "x": "一步一階下樓與因果問答要 **3 歲以後**；2 歲**會**分辨家人與陌生人"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152349,7 +153284,12 @@
       "guideline": null,
       "concepts": [
         "adhd-course-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "ADHD 病程與預後、選**最適當**",
+        "t": "**超過一半**的症狀會持續到成人期",
+        "x": "**過動**較早消失；常有社交問題；6–10 歲**不會**自然改善"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152385,7 +153325,12 @@
       "guideline": null,
       "concepts": [
         "cl-psychiatry-legal-restraint-suicide"
-      ]
+      ],
+      "approach": {
+        "k": "自殺評估與介入、選**最適當**",
+        "t": "**①③**：企圖自殺合併憂鬱要積極治療；跳樓這種高致命方式意念較強、再發風險較高",
+        "x": "②**要直接問**自殺想法，不會強化意念；④人格違常**與**自殺風險有關"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152421,7 +153366,12 @@
       "guideline": null,
       "concepts": [
         "asd-dmdd-child-psychiatry"
-      ]
+      ],
+      "approach": {
+        "k": "兒童不良對待、選**最適當**",
+        "t": "未供給營養、未注意高處掉落危險是**疏忽**",
+        "x": "最常見是**疏忽**不是性虐待；延遲就醫屬**疏忽**；未讓孩子入學屬**教育疏忽**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -152577,7 +153527,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "失智症、選**最不適當**",
+        "t": "**偽性失智**指**憂鬱症**造成類似失智的表現，不是腦炎",
+        "x": "最常見原因是阿茲海默與血管性、確診要排除其他疾病、失智加步態不穩尿失禁考慮 NPH，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
