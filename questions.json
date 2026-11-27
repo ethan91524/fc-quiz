@@ -5309,7 +5309,12 @@
       "guideline": "FC 醫學(四)第1冊 p.297",
       "concepts": [
         "neurocutaneous-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "出生即右臉**葡萄酒色斑**、癲癇、左側肢體無力",
+        "t": "**Sturge-Weber**（同側軟腦膜血管瘤）",
+        "x": "結節硬化是白斑與血管纖維瘤；NF 是咖啡斑；VHL 是血管母細胞瘤，沒有臉部胎記"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5350,7 +5355,12 @@
       "guideline": "FC 醫學(四)第1冊 p.298",
       "concepts": [
         "neurocutaneous-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "遺傳疾病中**最容易腦出血**",
+        "t": "**VHL**（血管母細胞瘤會出血）",
+        "x": "蛋白 C、蛋白 S、抗凝血酶 III 缺乏都是**血栓**傾向"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5392,7 +5402,12 @@
       "concepts": [
         "cvst-antithrombotic-ich-reversal",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腦靜脈栓塞、選**最正確**",
+        "t": "治療用**抗凝血劑**（即使合併出血也可用）",
+        "x": "**會**合併出血性靜脈梗塞；**MRI/MRV** 比 CT 敏感；顱壓高時**不可**做腰椎穿刺引流"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5434,7 +5449,12 @@
       "concepts": [
         "primary-headache-types",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "28 歲**站起來痛、躺下好**、MRI **硬腦膜瀰漫顯影**",
+        "t": "**自發性顱內低壓**（腦脊髓液滲漏）",
+        "x": "偏頭痛與叢發性頭痛不隨姿勢改變；SAH 是雷擊頭痛、沒有姿勢性"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5475,7 +5495,12 @@
       "guideline": "FC 醫學(四)第4冊 p.165",
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "顱內壓上升、選**錯誤**",
+        "t": "顱內壓危象是 **Cushing triad**：**高**血壓、心搏**過緩**、呼吸不規則",
+        "x": "Cushing reflex 暗示腦疝、腰椎穿刺前先影像、眼底看視乳突水腫，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5516,7 +5541,12 @@
       "guideline": "FC 醫學(四)第1冊 p.335",
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "重積癲癇、選**錯誤**",
+        "t": "兒童抽搐性重積癲癇死亡率約 **3–5%**，不是 50% 以上",
+        "x": "兒茶酚胺升高致心律不整、發燒病人要考慮腰椎穿刺、成人與不發燒兒童要做神經影像，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5557,7 +5587,12 @@
       "guideline": "FC 醫學(四)第4冊 p.304",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "睡眠呼吸中止、選**錯誤**",
+        "t": "阻塞型 **NREM 與 REM 都會**發生（REM 較嚴重），不是只在 REM",
+        "x": "腦幹病變致中樞型、肥胖短頸肢端肥大致阻塞型、CPAP 最常用，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5598,7 +5633,12 @@
       "guideline": "FC 醫學(四)第4冊 p.206",
       "concepts": [
         "idiopathic-normal-pressure-hydrocephalus-triad"
-      ]
+      ],
+      "approach": {
+        "k": "常壓性水腦症、選**正確**",
+        "t": "**步態異常**通常最早也最常見",
+        "x": "尿失禁**常見**；不是特別影響辨認人臉；腦脊髓液引流**可改善**步態"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5634,7 +5674,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "早期阿茲海默症 CSF",
+        "t": "**Aβ42 下降**（沉積在腦）、**p-tau 上升**",
+        "x": "其他組合方向錯"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5675,7 +5720,12 @@
       "guideline": "FC 醫學(四)第4冊 p.207",
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "路易氏體失智症、選**錯誤**",
+        "t": "dopamine agonist **會加重幻覺**，應避免；巴金森症狀用低劑量 levodopa",
+        "x": "早期視幻覺、REM 睡眠行為障礙、不明原因意識波動跌倒，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5711,7 +5761,12 @@
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**周邊神經病變常見症狀",
+        "t": "**肌腱反射增強**是上運動神經元",
+        "x": "運動、感覺、自律神經障礙都是周邊神經病變表現"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5747,7 +5802,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "帶狀疱疹神經病變、選**最不恰當**",
+        "t": "疱疹病毒潛伏在**感覺**神經節，主要侵犯**感覺**神經",
+        "x": "可傷角膜、好發肋間神經、好發三叉神經 V1，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5788,7 +5848,12 @@
       "guideline": "FC 醫學(四)第1冊 p.316",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**離子通道病變",
+        "t": "**肌強直性失養症**是 CTG 重複擴增",
+        "x": "先天性肌強直（氯離子）、先天性副肌強直與高血鉀週期性麻痺（鈉離子）都是通道病"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5829,7 +5894,12 @@
       "guideline": "FC 醫學(四)第4冊 p.188",
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "診斷神經性梅毒合併失智、最具正確性的組合",
+        "t": "**①血清 TPHA 陽性＋②CSF VDRL 陽性**（CSF VDRL 特異度最高）",
+        "x": "腦波週期性單側放電（④）不是神經梅毒的標記；CSF TPHA 敏感但特異度較低"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -5870,7 +5940,12 @@
       "guideline": "FC 醫學(四)第4冊 p.181",
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "結核性腦膜炎治療、選**錯誤**",
+        "t": "**要**加類固醇（降低死亡與後遺症）",
+        "x": "懷疑就要儘早治療、療程 6 個月以上（通常 9–12 個月）、INH 加 pyridoxine，三句都對"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -6558,7 +6633,12 @@
       "concepts": [
         "primary-headache-types",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "26 歲姿勢性頭痛一週、FLAIR 與顯影 T1",
+        "t": "**顱內低壓**（硬腦膜瀰漫顯影、腦下沉）",
+        "x": "腦膜炎有發燒與軟腦膜顯影；SAH 是突發劇痛；硬腦膜下水囊不會造成全硬腦膜顯影的姿勢性頭痛"
+      }
     },
     "source": "110020/302_22",
     "specialty_source": "cougarbot",
@@ -18931,7 +19011,12 @@
       "guideline": "FC 醫學(四)第4冊 p.91",
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "腦中風併發症、選**最不恰當**",
+        "t": "抗憂鬱藥對中風後憂鬱**有幫助**",
+        "x": "關節僵硬 UTI 吸入性肺炎褥瘡、復健減少併發症、意識差易吸入，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -18972,7 +19057,12 @@
       "guideline": "FC 醫學(四)第4冊 p.164",
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "ergotamine、選**錯誤**",
+        "t": "ergotamine 是作用在**血清素受體**的血管收縮劑，**不是** β agonist",
+        "x": "血管收縮、血清素受體親和力、急性偏頭痛治療，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19009,7 +19099,12 @@
       "concepts": [
         "seizure-syncope-epilepsy-basics",
         "syncope-approach"
-      ]
+      ],
+      "approach": {
+        "k": "癲癇 vs 昏厥鑑別、選**最不適合**",
+        "t": "發作前**盜汗、倦怠**是**昏厥**前兆",
+        "x": "Valsalva 與姿勢性低血壓先想昏厥、癲癇較常咬舌、幾秒恢復合併心律不整先想昏厥，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19051,7 +19146,12 @@
       "concepts": [
         "epilepsy-syndromes-aed",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "15 歲**清晨**全身抽搐、雙手抽動**甩掉杯子**、白天發呆",
+        "t": "**青少年肌抽躍癲癇**：屬**遺傳性全面性**癲癇，藥物多能控制",
+        "x": "D 錯：不是頑固性次發性全面性癲癇；家族史、4–6 Hz 棘慢波與多重棘波、診斷 JME，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19093,7 +19193,12 @@
       "concepts": [
         "brainstem-localization-eye-movement",
         "vertigo-approach"
-      ]
+      ],
+      "approach": {
+        "k": "頭暈、口齒不清、**聲音沙啞**、**右臉與左側肢體**麻木、步態不穩、嘔吐",
+        "t": "**延髓外側**（Wallenberg）",
+        "x": "中腦是動眼神經麻痺；橋腦是外展與顏面神經；小腦不會有交叉性感覺異常與聲音沙啞"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19135,7 +19240,12 @@
       "guideline": "FC 醫學(四)第4冊 p.116",
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "腦靜脈竇栓塞最常發生的血管（官方 A、C 都給分）",
+        "t": "**上矢狀竇**與**橫竇**都是最常見",
+        "x": "下矢狀竇與海綿竇較少"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19176,7 +19286,12 @@
       "guideline": "FC 醫學(四)第4冊 p.206",
       "concepts": [
         "idiopathic-normal-pressure-hydrocephalus-triad"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲記憶減退、**尿失禁**、**磁性步態**、腦室變大",
+        "t": "**大量腰椎放液試驗**（tap test），步態改善支持 NPH",
+        "x": "Huntington 基因不符；levodopa 是測巴金森；FDG-PET 不能確立 NPH"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19217,7 +19332,12 @@
       "guideline": "FC 醫學(四)第4冊 p.304",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "懷孕 30 週、晚上腳不舒服像蟲爬、**很想動、動了就好**",
+        "t": "**不寧腿症候群**（孕期常見，查鐵）",
+        "x": "肌病是無力；水腫不會想動；靜坐不能與藥物有關，她沒吃藥"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19258,7 +19378,12 @@
       "guideline": "FC 醫學(四)第4冊 p.229",
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "巴金森病人吃 dopamine agonist 後**病態賭博**",
+        "t": "過度刺激 **D3 受體**（邊緣系統獎賞迴路）",
+        "x": "D1、D2、5-HT 不是衝動控制障礙的主要受體"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19299,7 +19424,12 @@
       "guideline": "FC 醫學(四)第4冊 p.49",
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "右側臉歪、眼閉不緊、**右耳殼紅腫小水泡**、疼痛",
+        "t": "**Ramsay Hunt 症候群** → **類固醇＋抗病毒藥**",
+        "x": "不是三叉神經痛；預後比 Bell's palsy **差**；NSAID 不是主要治療"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19340,7 +19470,12 @@
       "guideline": "FC 醫學(四)第4冊 p.287",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "粒線體肌病變、選**錯誤**",
+        "t": "表現差異很大（門檻效應），**不是**幾乎活不過青春期",
+        "x": "近端肌無力、血中乳酸有價值、突變量達門檻才發病，三句都對"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19381,7 +19516,12 @@
       "guideline": "FC 醫學(四)第4冊 p.265",
       "concepts": [
         "guillain-barre-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "Guillain-Barré、選**正確**",
+        "t": "典型是**肢體無力＋感覺異常**",
+        "x": "是**感染後自體免疫**，不是感染性疾病；**4 週內**到頂點；**常有**自律神經異常"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19422,7 +19562,12 @@
       "guideline": "FC 醫學(四)第4冊 p.125",
       "concepts": [
         "neurocutaneous-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "結節性硬化症、選**正確**",
+        "t": "腦部可出現 **SEGA**（室管膜下巨細胞星形膠質瘤）",
+        "x": "葡萄酒色斑是 Sturge-Weber；雙側腦膜瘤是 NF2；heliotrope 是皮肌炎"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19459,7 +19604,12 @@
       "concepts": [
         "csf-meningitis-patterns",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "發燒頭痛、頸僵、CSF 白血球 20 **淋巴球為主**、蛋白 45、糖 50/80",
+        "t": "**病毒性腦膜炎**（糖比 >0.6、蛋白正常）",
+        "x": "SAH 是紅血球多；黴菌性糖低蛋白高；細菌性是中性球、糖很低"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -19500,7 +19650,12 @@
       "guideline": "FC 醫學(四)第4冊 p.312",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "自主神經病變的臨床表徵",
+        "t": "**瞳孔明暗調適困難**",
+        "x": "站立心跳增加 >30 是 POTS 的定義而非自主神經病變典型表現；血壓變化 <10 是正常；夜尿 1–2 次正常"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20135,7 +20290,12 @@
       "guideline": null,
       "concepts": [
         "neurocutaneous-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "32 歲癲癇、智能障礙、CT 未顯影見**腦室旁鈣化結節**",
+        "t": "**結節硬化症**",
+        "x": "NF1 沒有室管膜下鈣化；NF2 是聽神經瘤腦膜瘤；VHL 是小腦血管母細胞瘤"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -20179,7 +20339,12 @@
       "concepts": [
         "cvst-antithrombotic-ich-reversal",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "頭痛噁心嘔吐、顯影後箭頭處靜脈竇**充盈缺損**（empty delta）",
+        "t": "**靜脈竇栓塞**",
+        "x": "硬腦膜下、硬腦膜外血腫與 SAH 在未顯影 CT 就看得到高密度"
+      }
     },
     "source": "110080/302_22",
     "specialty_source": "cougarbot",
@@ -32512,7 +32677,12 @@
       "guideline": null,
       "concepts": [
         "brainstem-localization-eye-movement"
-      ]
+      ],
+      "approach": {
+        "k": "看左時**右眼無法內收**、**左眼外展伴眼震**",
+        "t": "**右側 MLF** 病變（核間性眼肌麻痺，病灶在內收差的那側）",
+        "x": "左側 MLF 是左眼內收差；PPRF 病變是同側水平注視麻痺"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32553,7 +32723,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "梗塞數分鐘後細胞毒性水腫、最敏感序列",
+        "t": "**DWI**",
+        "x": "T1、T2、FLAIR 要數小時後才出現變化"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32591,7 +32766,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "高血壓心律不整、突然**失語＋右側無力**、之後昏迷、CT",
+        "t": "**左側中大腦動脈**大梗塞",
+        "x": "內頸動脈也可能，但圖中範圍是 MCA；ACA 是下肢為主；PCA 是視野缺損"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32628,7 +32808,12 @@
       "concepts": [
         "seizure-syncope-epilepsy-basics",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "癲癇發作、選**最恰當**",
+        "t": "昏厥時短暫肌肉強直**不能**就確診癲癇（convulsive syncope）",
+        "x": "MRI 正常**不能**排除癲癇；EEG 有棘波**不能**單獨確診；熱痙攣**不代表**以後會癲癇"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32669,7 +32854,12 @@
       "guideline": null,
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "偏頭痛藥物治療、選**最不恰當**",
+        "t": "偏頭痛預防常用 **topiramate、valproate**，**carbamazepine 不是**",
+        "x": "triptan 注意心血管禁忌、每月 ≥4 次考慮預防、依共病選藥，三句都對"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32710,7 +32900,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "JME 要**避免**的藥",
+        "t": "**phenytoin**（會加重肌抽躍與失神）",
+        "x": "levetiracetam、valproate、topiramate 都可用"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32751,7 +32946,12 @@
       "guideline": null,
       "concepts": [
         "parkinson-disease-core"
-      ]
+      ],
+      "approach": {
+        "k": "一氧化碳中毒的巴金森症候群病灶",
+        "t": "**雙側蒼白球**",
+        "x": "尾核、殼核、黑質不是 CO 的典型病灶"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32787,7 +32987,12 @@
       "guideline": null,
       "concepts": [
         "parkinson-disease-core"
-      ]
+      ],
+      "approach": {
+        "k": "典型巴金森病發病兩年內**最不會**出現",
+        "t": "**凍僵步態**（早期出現要想非典型巴金森）",
+        "x": "不對稱顫抖、動作時減輕、動腦時加重都是典型表現"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32823,7 +33028,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "**最不像**阿茲海默症",
+        "t": "CSF **Aβ42 增加**（阿茲海默是**下降**）",
+        "x": "海馬迴萎縮、類澱粉 PET 陽性、FDG-PET 顳頂葉低代謝都支持"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32864,7 +33074,12 @@
       "guideline": null,
       "concepts": [
         "hypokalemia-hypertension-tubulopathies"
-      ]
+      ],
+      "approach": {
+        "k": "週期性麻痺、選**最恰當**",
+        "t": "反覆發作可用 **acetazolamide** 預防",
+        "x": "最常見是**低**血鉀型；**很少**影響吞嚥呼吸；是**肌肉離子通道**病，不是神經肌肉接合"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32905,7 +33120,12 @@
       "guideline": null,
       "concepts": [
         "brown-sequard-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "墜馬後**右下肢無力**、**左側**肚臍以下痛溫覺喪失",
+        "t": "**T10 以上 Brown-Séquard**（右半脊髓）",
+        "x": "前脊髓損傷是雙側；後脊髓損傷是本體感覺；馬尾是下肢鬆弛、鞍區麻木、大小便失禁"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32946,7 +33166,12 @@
       "guideline": null,
       "concepts": [
         "axonal-vs-demyelinating-neuropathy"
-      ]
+      ],
+      "approach": {
+        "k": "主要且首先影響**運動軸突**",
+        "t": "**鉛中毒**（橈神經→腕下垂）",
+        "x": "類澱粉神經病變以小纖維感覺與自律神經為主；GBS 多為脫髓鞘；單株免疫球蛋白多為脫髓鞘感覺為主"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -32982,7 +33207,12 @@
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**下運動神經元表徵",
+        "t": "**痙攣**（spasticity）是上運動神經元",
+        "x": "肌電圖纖維顫動、肌束跳動、肌肉萎縮都是下運動神經元"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33023,7 +33253,12 @@
       "guideline": null,
       "concepts": [
         "axonal-vs-demyelinating-neuropathy"
-      ]
+      ],
+      "approach": {
+        "k": "軸突缺失 vs 去髓鞘、選**最恰當**",
+        "t": "**糖尿病神經病變**可同時有軸突缺失與去髓鞘",
+        "x": "早期肌肉萎縮是**軸突**病變；兩者多以**遠端**無力表現；急性軸突型**通常不**合併去髓鞘"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -33064,7 +33299,12 @@
       "guideline": null,
       "concepts": [
         "nmosd-diagnostic-features"
-      ]
+      ],
+      "approach": {
+        "k": "與 NMOSD 最密切",
+        "t": "**anti-AQP4** 抗體",
+        "x": "GQ1b 是 Miller Fisher；MuSK 是重症肌無力；GAD 是僵人症候群"
+      }
     },
     "source": "111020/302_22",
     "specialty_source": "cougarbot",
@@ -46032,7 +46272,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "**最可能**是小血管（腔隙性）中風",
+        "t": "**無力＋同側共濟失調**（ataxic hemiparesis）",
+        "x": "失語、半邊忽略、雙眼凝視偏移都是**皮質**症狀，屬大血管"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46075,7 +46320,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "42 歲左側無力、2 天後漸進意識不清、CT 大片梗塞水腫",
+        "t": "惡性 MCA 梗塞 → **減壓性顱骨切除術**",
+        "x": "抗凝不改善水腫；抗癲癇藥不是重點；降壓不能救腦疝"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46116,7 +46366,12 @@
       "guideline": null,
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "心因性中風**最不建議**抗凝血劑",
+        "t": "**感染性心內膜炎**（出血風險高、無益）",
+        "x": "心房顫動 CHA₂DS₂-VASc 3、機械瓣、非細菌性血栓性心內膜炎都要抗凝"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46157,7 +46412,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "21 歲女性首次顳葉癲癇用藥、選**最不適當**",
+        "t": "要篩的是 **HLA-B*1502**（carbamazepine、phenytoin），不是 B*1500",
+        "x": "育齡避免 valproate、phenytoin 與 carbamazepine 降低避孕藥效、難治時考慮手術，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46198,7 +46458,12 @@
       "guideline": null,
       "concepts": [
         "nocturnal-episodes-parasomnia-epilepsy"
-      ]
+      ],
+      "approach": {
+        "k": "57 歲男性後半夜**把夢演出來**、醒後記得夢境",
+        "t": "**REM 睡眠行為障礙**：抗憂鬱劑會**加重**症狀",
+        "x": "好發老年男性、PSG 見 REM 期無肌張力低下、日後巴金森風險增加，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46239,7 +46504,12 @@
       "guideline": null,
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "慢性緊縮型頭痛有療效的藥",
+        "t": "**amitriptyline**",
+        "x": "verapamil 是叢發性頭痛；alprazolam 會成癮；肉毒桿菌素是慢性偏頭痛"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46280,7 +46550,12 @@
       "guideline": null,
       "concepts": [
         "aphasia-types"
-      ]
+      ],
+      "approach": {
+        "k": "急性失語、**還能重複**簡短字句",
+        "t": "**跨皮質失語症**",
+        "x": "傳導性失語是重複最差；Wernicke 不能重複；純字聾也不能重複"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46318,7 +46593,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "54 歲記憶減退、49 歲中風、**父叔兄都中風失智**、MRI 白質病灶",
+        "t": "**NOTCH3**（CADASIL）",
+        "x": "MTHFR 是高同半胱胺酸；SOD1 是 ALS；PSEN1 是早發阿茲海默症"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46359,7 +46639,12 @@
       "guideline": null,
       "concepts": [
         "parkinson-disease-core"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲右手**搓丸顫抖**、**小字症**、手不擺動、臉部表情少",
+        "t": "**巴金森氏病**",
+        "x": "肌張力不全是扭轉姿勢；SCA 是共濟失調；本態性顫抖是動作性顫抖、沒有動作遲緩"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46400,7 +46685,12 @@
       "guideline": null,
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "肉毒桿菌中毒 vs 重症肌無力、選**錯誤**",
+        "t": "肉毒桿菌中毒**會**造成呼吸衰竭",
+        "x": "自律神經症狀明顯、作用在突觸前、類固醇無效，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46436,7 +46726,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "**最常以近端無力**為初期表現",
+        "t": "**多發性肌炎**",
+        "x": "糖尿病神經病變是遠端襪套型；ALS 多從遠端不對稱開始；肘隧道是尺神經"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46472,7 +46767,12 @@
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "長年**茹素**、痙攣步態、**振動與位置覺**喪失、膝反射強踝反射弱",
+        "t": "**亞急性合併退化症**（B12 缺乏：後柱＋側柱）",
+        "x": "ALS 沒有感覺障礙；後脊髓動脈不會有痙攣；CIDP 反射全部減弱"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46513,7 +46813,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "易攻擊**前顳葉**的病原",
+        "t": "**單純疱疹病毒**",
+        "x": "肺炎鏈球菌是腦膜炎；結核是腦底腦膜；隱球菌是腦膜與基底核"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46554,7 +46859,12 @@
       "guideline": "FC 醫學(四)第4冊 p.124",
       "concepts": [
         "seizure-syncope-epilepsy-basics"
-      ]
+      ],
+      "approach": {
+        "k": "高惡性 vs 低惡性膠質瘤、選**錯誤**",
+        "t": "**低惡性度**膠質瘤**較常**以癲癇表現",
+        "x": "高惡性度較常認知障礙、偏癱、失語，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -46591,7 +46901,12 @@
       "concepts": [
         "nmosd-diagnostic-features",
         "multiple-sclerosis-core"
-      ]
+      ],
+      "approach": {
+        "k": "MS 急性發作 CSF、選**錯誤**",
+        "t": "總蛋白多**正常或輕度升高**，很少 >100 mg/dL",
+        "x": "白血球輕度增加、寡株帶、葡萄糖正常，三句都對"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -47232,7 +47547,12 @@
       "guideline": "FC 醫學(四)第3冊 p.153",
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "55 歲認知退化、MRI 多發血管病灶",
+        "t": "**血管性失智症**",
+        "x": "阿茲海默是海馬萎縮；額顳葉失智是額顳葉萎縮；路易氏體 MRI 通常無特殊"
+      }
     },
     "source": "111080/302_22",
     "specialty_source": "cougarbot",
@@ -59453,7 +59773,12 @@
       "guideline": null,
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "腦出血、CTA 血腫內**小白點**",
+        "t": "**spot sign**：顯影劑外漏，代表血腫易擴大、預後差",
+        "x": "lentiform nucleus sign、insular ribbon sign 是早期**缺血**徵象；dot sign 是血管內血栓"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59489,7 +59814,12 @@
       "guideline": null,
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "PRES、選**最不恰當**",
+        "t": "PRES 的 MRI 異常通常**可逆**，不會長期存在",
+        "x": "血壓超過自主調節、頭痛視覺異常、典型枕葉水腫，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59530,7 +59860,12 @@
       "guideline": "FC 醫學(四)第4冊 p.90",
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "tPA 治療、選**錯誤**",
+        "t": "服 NOAC 病人**不能只靠** PT/aPTT 判斷，要看最後一劑時間或特定濃度檢測",
+        "x": "4.5 小時內有效、先確認 CT 無出血、主動脈剝離禁用，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59566,7 +59901,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "8 歲一天**上百次**短暫恍神、**3 Hz 棘慢波**",
+        "t": "**失神發作** → **valproic acid**（或 ethosuximide）",
+        "x": "levetiracetam 效果較差；phenytoin 與 carbamazepine **會加重**失神"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59607,7 +59947,12 @@
       "guideline": "FC 醫學(四)第4冊 p.303",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "鼾聲停止十幾秒後喘息、白天嗜睡（OSA）、**最沒關係**",
+        "t": "**下顎前突**（後縮下巴才是危險因子）",
+        "x": "肥胖、高血壓、扁桃腺肥大都相關"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59649,7 +59994,12 @@
       "concepts": [
         "primary-headache-types",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "15 歲起雙側劇痛、噁心畏光、活動加劇，**止痛糖漿越喝越多**、近 3 個月幾乎天天痛",
+        "t": "**偏頭痛合併藥物過度使用頭痛**",
+        "x": "緊縮型不會噁心畏光、活動不加劇；叢發性是單側眼眶短時劇痛；她有原發性偏頭痛"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59690,7 +60040,12 @@
       "guideline": "FC 醫學(四)第4冊 p.205",
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "68 歲記憶差、**生活可自理**、MoCA 23、回想 0/5",
+        "t": "**輕度認知障礙**",
+        "x": "正常老化測驗不會掉分；失智症要影響獨立生活；主觀認知退化客觀測驗正常"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59734,7 +60089,12 @@
       "concepts": [
         "movement-disorders-neurodegeneration",
         "syncope-approach"
-      ]
+      ],
+      "approach": {
+        "k": "巴金森症狀＋**姿勢性低血壓**＋**性功能障礙**、MRI",
+        "t": "**多重系統萎縮症**（hot cross bun sign）",
+        "x": "額顳葉失智是行為改變；阿茲海默以記憶為主；PSP 是垂直凝視麻痺、蜂鳥徵"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59775,7 +60135,12 @@
       "guideline": "FC 醫學(四)第4冊 p.193",
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "CJD 致病原、選**正確**",
+        "t": "**vCJD**（狂牛症）較常見於**年輕人**",
+        "x": "134°C 高壓滅菌**不一定**能完全破壞 prion；prion **沒有**核酸；潛伏期**很長**"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59816,7 +60181,12 @@
       "guideline": "FC 醫學(四)第4冊 p.284",
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "GBS 與重症肌無力的主要區別",
+        "t": "**自主神經功能異常**（GBS 有）",
+        "x": "四肢癱、吞嚥困難、呼吸困難兩者都會"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59857,7 +60227,12 @@
       "guideline": "FC 醫學(四)第4冊 p.21",
       "concepts": [
         "brown-sequard-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓空洞症、選**最不恰當**",
+        "t": "空洞症是**披肩型**痛溫覺喪失（交叉纖維），本體感覺多保留；同側本體＋對側痛覺是 Brown-Séquard",
+        "x": "好發 20–49 歲男性、常合併 Chiari I、MRI 確診，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59898,7 +60273,12 @@
       "guideline": "FC 醫學(四)第4冊 p.246",
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "55 歲漸進無力、**舌頭顫動**、構音吞嚥困難、肌萎縮、**反射增強**、無感覺異常",
+        "t": "**ALS**（上＋下運動神經元）",
+        "x": "多發性中風無舌顫萎縮；頸椎間盤不影響延髓；巴金森是僵硬遲緩"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59934,7 +60314,12 @@
       "guideline": null,
       "concepts": [
         "csf-meningitis-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "疑細菌性腦膜炎、給抗生素時機**最不合適**",
+        "t": "**等 Gram stain 結果**才給 → 延誤治療",
+        "x": "血培養後、CT 前、CSF 培養報告前就應給藥"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -59970,7 +60355,12 @@
       "guideline": null,
       "concepts": [
         "nmosd-diagnostic-features"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** NMOSD 常見共病",
+        "t": "**胸腺瘤**（是重症肌無力的關聯）",
+        "x": "重症肌無力、Sjögren、SLE 都是常見共病"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60011,7 +60401,12 @@
       "guideline": "FC 醫學(四)第4冊 p.228",
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Wilson disease、選**正確**",
+        "t": "肝硬化＋角膜 **Kayser-Fleischer ring**",
+        "x": "是體染色體**隱性**；是**銅**代謝疾病；用 **penicillamine**，不是 penicillin"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60651,7 +61046,12 @@
       "guideline": null,
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "28 歲偶發暈厥、CT/MRI 腦內鈣化腫瘤、選**最不恰當**",
+        "t": "不像**腦膜瘤**（腦膜瘤在腦外、附著硬腦膜）",
+        "x": "有鈣化、可能是瀰漫性膠質瘤、可能是寡樹突膠質瘤，三句都對"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60695,7 +61095,12 @@
       "concepts": [
         "sah-aneurysm-vascular-malformations",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲頭痛、CT 與 CTA（動脈瘤破裂 SAH）",
+        "t": "治療包括**血管內栓塞或外科夾閉**",
+        "x": "CTA 位置不是前交通動脈；CTA 已足夠，**不必**加做 MRA；不是內頸動脈剝離"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60778,7 +61183,12 @@
       "guideline": "FC 醫學(四)第4冊 p.105",
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "腦出血相關疾病、選**正確**",
+        "t": "SAH 首次被誤診者多是 **Hunt-Hess grade 1**（症狀輕）",
+        "x": "高血壓性腦出血好發基底核、視丘、橋腦、小腦，不是額顳交界；硬腦膜下出血是**橋靜脈**；小腦出血 Romberg 不一定異常（是小腦性，非感覺性）"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -60820,7 +61230,12 @@
       "concepts": [
         "seizure-syncope-epilepsy-basics",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "癲癇發作時**最優先**的處理",
+        "t": "**讓病人側躺**（保持呼吸道、防吸入）",
+        "x": "不是立刻打藥、正壓呼吸或插管"
+      }
     },
     "source": "112020/302_22",
     "specialty_source": "cougarbot",
@@ -73036,7 +73451,12 @@
       "guideline": "FC 醫學(四)第4冊 p.82",
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "毛毛樣血管疾病",
+        "t": "**顱內大血管阻塞＋側枝循環增生**",
+        "x": "不是腫瘤沿血管擴散、AVM 或結核血管炎"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73072,7 +73492,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "中風預防、選**最不恰當**",
+        "t": "症狀性**顱內**動脈狹窄用**抗血小板**（WASID 證實抗凝無益且出血多）",
+        "x": "顱外內頸動脈 70% 可放支架、ESUS 用抗血小板、CHA₂DS₂-VASc 0 不用藥，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73115,7 +73540,12 @@
       "guideline": "FC 醫學(四)第4冊 p.104",
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "高血壓、突發右側無力、CT 高密度血腫、5 天後 MRI",
+        "t": "**高血壓性腦出血**",
+        "x": "腫瘤中心壞死與弓形蟲不會這樣突發；MS 不會在 CT 出現高密度"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73156,7 +73586,12 @@
       "guideline": "FC 醫學(四)第4冊 p.303",
       "concepts": [
         "nocturnal-episodes-parasomnia-epilepsy"
-      ]
+      ],
+      "approach": {
+        "k": "10 歲入睡後 1–3 小時夢遊、隔天不記得、腦波正常、選**錯誤**",
+        "t": "夢遊是 **NREM** 期，**不是**夢境實演（那是 REM 睡眠行為障礙）",
+        "x": "發生在 N3、可合併夜驚與混亂覺醒、多不需藥物，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73200,7 +73635,12 @@
       "guideline": "FC 醫學(四)第4冊 p.163",
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "與偏頭痛**最沒關聯**的神經傳導物質（官方 A–D 都給分）",
+        "t": "CGRP、血清素、乙醯膽鹼、多巴胺都有研究關聯，無唯一答案",
+        "x": "官方全部給分"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73241,7 +73681,12 @@
       "guideline": "FC 醫學(四)第4冊 p.136",
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**是癲癇誘發因素",
+        "t": "3 歲單純型熱痙攣、之後正常 → 與日後癲癇**無關**",
+        "x": "陳舊中風加敗血症、自行停藥、酮酸中毒都是誘發因素"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73277,7 +73722,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "巴金森治療、選**錯誤**",
+        "t": "levodopa 是黃金標準，但**不是**越早越大劑量越好（運動併發症）",
+        "x": "年輕患者可用 dopamine agonist、作用於不同受體、藥效波動可做 STN 刺激術，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73318,7 +73768,12 @@
       "guideline": "FC 醫學(四)第4冊 p.192",
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "prion disease、選**錯誤**",
+        "t": "prion **不是**病毒造成；是異常蛋白把正常蛋白帶錯摺",
+        "x": "分散發性、遺傳性、後天性；散發性快速認知退化；確診需腦組織，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73359,7 +73814,12 @@
       "guideline": "FC 醫學(四)第4冊 p.227",
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "40 歲**舞蹈樣不自主動作**、記憶衰退、父親 48 歲類似症狀**自殺**",
+        "t": "**亨丁頓氏病**",
+        "x": "SCA 是共濟失調；巴金森是動作遲緩；ALS 是肌萎縮"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73395,7 +73855,12 @@
       "guideline": null,
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "**最不可能**出現波動性或間歇性無力",
+        "t": "**運動神經元疾病**（持續進行性）",
+        "x": "肌無力症候群、甲亢低鉀無力、週期性麻痺都會波動"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73436,7 +73901,12 @@
       "guideline": "FC 醫學(四)第4冊 p.293",
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "多發性肌炎、選**最不恰當**",
+        "t": "多發性肌炎**不會**有複視（眼外肌不受侵犯）",
+        "x": "少數合併癌症、侵犯近端肌、類固醇治療，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73477,7 +73947,12 @@
       "guideline": "FC 醫學(四)第4冊 p.21",
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "跳水撞頭、四肢運動感覺喪失、**肛門與球海綿體反射消失**",
+        "t": "**C5 脊髓休克**",
+        "x": "前、後、中央脊髓症候群都會保留部分功能與反射"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73513,7 +73988,12 @@
       "guideline": null,
       "concepts": [
         "multiple-sclerosis-core"
-      ]
+      ],
+      "approach": {
+        "k": "多發性硬化症、選**錯誤**",
+        "t": "**緯度越高**（日照少）發生率**越高**",
+        "x": "中樞白質去髓鞘、視神經炎常為初始症狀、常合併疲倦沮喪，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73549,7 +74029,12 @@
       "guideline": null,
       "concepts": [
         "down-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "唐氏症 40 歲後出現阿茲海默病理的原因",
+        "t": "21 號染色體上的 **APP** 多一份、過度表現",
+        "x": "APOE 在 19 號；PSEN1 在 14 號；PSEN2 在 1 號"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -73590,7 +74075,12 @@
       "guideline": "FC 醫學(四)第4冊 p.179",
       "concepts": [
         "csf-meningitis-patterns"
-      ]
+      ],
+      "approach": {
+        "k": "急性化膿性腦膜炎、選**最恰當**",
+        "t": "培養前經驗性治療要**三代頭孢＋vancomycin**，涵蓋抗藥肺炎鏈球菌",
+        "x": "三徵同時出現只約 **44%**；GBS 主要在新生兒，比率說法不對；顱壓高是心跳**變慢**、血壓上升"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74271,7 +74761,12 @@
       "guideline": "FC 醫學(四)第4冊 p.89",
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "急性中風 CT、選**錯誤**",
+        "t": "CT **正常**代表沒出血，若在時間窗內**仍應**考慮溶栓",
+        "x": "有出血不能溶栓、可能看到硬腦膜下出血或腫瘤、dense artery sign 是早期缺血徵象，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -74307,7 +74802,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲失智症病人走失、自言自語、選**最不適當**",
+        "t": "有顫抖**不能**排除譫妄（酒精戒斷等也會抖）",
+        "x": "鑑別譫妄失智精神病、失智（路易氏體除外）通常不太有幻覺、要先驗血糖，三句都對"
+      }
     },
     "source": "112080/302_22",
     "specialty_source": "cougarbot",
@@ -86555,7 +87055,12 @@
       "guideline": "FC 醫學(四)第4冊 p.116",
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "**最不會**造成靜脈竇栓塞",
+        "t": "同半胱胺酸**缺乏**（風險因子是**高**同半胱胺酸）",
+        "x": "避孕藥、抗磷脂質症候群、腦膜炎都是原因"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86596,7 +87101,12 @@
       "guideline": "FC 醫學(四)第4冊 p.102",
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "服 **factor Xa 抑制劑**發生腦出血",
+        "t": "**凝血酶複合濃縮物**（PCC）",
+        "x": "FFP 效果差且量大；idarucizumab 是逆轉 **dabigatran**；輸血小板無效"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86637,7 +87147,12 @@
       "guideline": "FC 醫學(四)第4冊 p.79",
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "缺血缺糖時腦細胞死亡過程、**最不可能**",
+        "t": "細胞內鈣離子是**升高**（湧入），不是降低",
+        "x": "ATP 合成不足、麩胺酸毒性與自由基、發炎反應都會發生"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86680,7 +87195,12 @@
       "concepts": [
         "epilepsy-syndromes-aed",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "13 歲熬夜後**清晨肌抽躍**、全身痙攣、4–6 Hz 棘慢波、**有肝炎病史**（官方 A、B 都給分）",
+        "t": "**JME**：valproate 或 **levetiracetam**（肝病與育齡女性偏好 levetiracetam）",
+        "x": "phenytoin、carbamazepine 會加重肌抽躍"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86721,7 +87241,12 @@
       "guideline": "FC 醫學(四)第4冊 p.302",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "延遲型睡眠週期症候群**最不合適**的治療",
+        "t": "**晚上照光**會讓生理時鐘**更往後延**",
+        "x": "晚間低劑量褪黑激素、每天延後 2–3 小時繞一圈（chronotherapy）、褪黑激素促效劑都可用"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86763,7 +87288,12 @@
       "concepts": [
         "seizure-syncope-epilepsy-basics",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "癲癇、選**正確**",
+        "t": "接受藥物治療約 **6–7 成**可緩解",
+        "x": "腦傷後癲癇比例遠低於 90%；頭部外傷**不是**所有年齡最常見病因；<15 歲多為遺傳或先天，不是腦血管"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86806,7 +87336,12 @@
       "guideline": "FC 醫學(四)第4冊 p.192",
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "66 歲一個多月內**快速**記憶退化、視幻覺、步態不穩、**聲音驚嚇肌抽躍**、DWI",
+        "t": "**庫賈氏症**（DWI 皮質緞帶徵）",
+        "x": "邊緣性腦炎是顳葉內側；血管性失智是階梯式；MS 不會這樣快速失智"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86847,7 +87382,12 @@
       "guideline": "FC 醫學(四)第4冊 p.204",
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "memantine 機轉",
+        "t": "阻斷 **NMDA** glutamate 受體",
+        "x": "膽鹼酯酶抑制劑是 donepezil 等；γ 與 β secretase 抑制劑不是 memantine"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86888,7 +87428,12 @@
       "guideline": "FC 醫學(四)第4冊 p.245",
       "concepts": [
         "umn-vs-lmn-signs"
-      ]
+      ],
+      "approach": {
+        "k": "ALS、選**錯誤**",
+        "t": "SOD1 是**第一個**發現的基因，但歐洲最常見家族型 ALS 基因是 **C9orf72**",
+        "x": "最常見運動神經元病、臨床變異大且與 FTD 相關、無痛漸進無力萎縮跳動無感覺障礙，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86929,7 +87474,12 @@
       "guideline": "FC 醫學(四)第4冊 p.284",
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "Lambert-Eaton、選**錯誤**",
+        "t": "抗體攻擊的是突觸前**電壓門控鈣離子通道**，不是鉀通道",
+        "x": "成人發病、約一半合併腫瘤（小細胞肺癌）、口乾等自律神經症狀，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -86970,7 +87520,12 @@
       "guideline": "FC 醫學(四)第4冊 p.48",
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "三叉神經痛、選**錯誤**",
+        "t": "最常壓迫的是**上小腦動脈**（SCA），不是下小腦動脈",
+        "x": "侷限於三叉神經分支、中老年好發、carbamazepine 治療，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87011,7 +87566,12 @@
       "guideline": "FC 醫學(四)第4冊 p.265",
       "concepts": [
         "guillain-barre-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "GBS 合併**呼吸肌無力**首選治療",
+        "t": "**血漿交換**（或 IVIG）",
+        "x": "類固醇**無效**；cyclophosphamide 不是；會致命不能只支持療法"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87047,7 +87607,12 @@
       "guideline": null,
       "concepts": [
         "nmosd-diagnostic-features"
-      ]
+      ],
+      "approach": {
+        "k": "MS vs NMOSD、選**錯誤**",
+        "t": "**兩者都是女多於男**（NMOSD 女性比例更高）",
+        "x": "NMOSD 較嚴重、MS 寡株帶 NMOSD 抗 AQP4、MS 脊髓病灶 <3 節 NMOSD ≥3 節，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87088,7 +87653,12 @@
       "guideline": "FC 醫學(四)第4冊 p.47",
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "腦下垂體腫瘤、選**最不恰當**",
+        "t": "常合併**高**泌乳激素（泌乳素瘤或柄效應），不是低下",
+        "x": "雙顳側偏盲、壓迫視交叉致視力喪失、頭痛，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87124,7 +87694,12 @@
       "guideline": null,
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**三核苷酸重複擴增",
+        "t": "**Wilson disease**（ATP7B 點突變）",
+        "x": "Huntington、SCA2、SCA3 都是 CAG 重複"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87759,7 +88334,12 @@
       "concepts": [
         "sah-aneurysm-vascular-malformations",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "84 歲 SAH 合併腦室內出血、雙側頸動脈血管攝影",
+        "t": "依影像：**右側 ICA–PComm 交界**動脈瘤",
+        "x": "左側 ICA-PComm、左右前大腦動脈瘤與攝影所見不符"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -87795,7 +88375,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "腦梗塞影像、選**錯誤**",
+        "t": "偵測出血性轉化 **MRI**（GRE/SWI）比 CT **敏感**",
+        "x": "12 小時內 CT 多看不到、兩週左右可見顯影加強、DWI 異常持續約兩週，三句都對"
+      }
     },
     "source": "113020/302_22",
     "specialty_source": "cougarbot",
@@ -100133,7 +100718,12 @@
       "guideline": null,
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "缺血性中風抗栓藥、選**最不恰當**",
+        "t": "缺血性動脈中風**不常規**在 48 小時內用抗凝",
+        "x": "輕度中風短期 DAPT、靜脈竇栓塞用抗凝、動脈剝離抗凝與 aspirin 療效相當，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100176,7 +100766,12 @@
       "guideline": "FC 醫學(四)第4冊 p.60",
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲**肺癌**、右腳無力、**D-dimer 16**、MRI DWI 多處急性病灶",
+        "t": "**多發性腦梗塞**（癌症高凝，Trousseau）",
+        "x": "轉移瘤會顯影加強而非 DWI 多區亮；結核不符；PRES 是後腦水腫、DWI 多不亮"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100217,7 +100812,12 @@
       "guideline": "FC 醫學(四)第4冊 p.20",
       "concepts": [
         "brainstem-localization-eye-movement"
-      ]
+      ],
+      "approach": {
+        "k": "**右**顏面麻木、**右**肢體失調、**右** Horner、**左**側痛覺下降",
+        "t": "**右外側延髓**（Wallenberg）",
+        "x": "視丘、中腦、橋腦病變不會這樣交叉加 Horner"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100258,7 +100858,12 @@
       "guideline": "FC 醫學(四)第4冊 p.302",
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "36 歲晚上躺著雙小腿非動不可、動了才舒服（RLS）、**最不可能相關**",
+        "t": "**癲癇症**",
+        "x": "缺鐵、慢性腎病是 RLS 原因；睡眠週期性肢體抽動常合併 RLS"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100299,7 +100904,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "68 歲**肝硬化**、中風後癲癇、最合適的藥",
+        "t": "**levetiracetam**（經腎排除、不經肝代謝）",
+        "x": "phenytoin、valproic acid、perampanel 都靠肝代謝或有肝毒性"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100340,7 +100950,12 @@
       "guideline": null,
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**急性偏頭痛治療",
+        "t": "**erenumab**（CGRP 受體單株抗體，是**預防**用藥）",
+        "x": "sumatriptan、DHE、prochlorperazine 都是急性治療"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100382,7 +100997,12 @@
       "concepts": [
         "cns-infection-encephalitis-prion",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "20 歲女性兩週內癲癇、**幻覺妄想**、口臉不自主動作、MRI 正常",
+        "t": "**抗 NMDA 受體腦炎**（找卵巢畸胎瘤）",
+        "x": "隱球菌、腸病毒、鏈球菌感染應有發燒與 CSF 感染表現，且不會這樣精神症狀為主"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100423,7 +101043,12 @@
       "guideline": null,
       "concepts": [
         "parkinson-disease-core"
-      ]
+      ],
+      "approach": {
+        "k": "巴金森症候群、選**錯誤**",
+        "t": "巴金森病**有**非動作症狀（便秘、嗅覺喪失、RBD、憂鬱）",
+        "x": "後天性成因、Parkinson-plus 種類、最常見退化性動作障礙，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100464,7 +101089,12 @@
       "guideline": null,
       "concepts": [
         "wilson-disease"
-      ]
+      ],
+      "approach": {
+        "k": "Wilson disease、選**錯誤**",
+        "t": "ceruloplasmin 通常**低於**正常",
+        "x": "體染色體隱性 ATP7B、神經精神症狀、penicillamine 與鋅治療，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100500,7 +101130,12 @@
       "guideline": null,
       "concepts": [
         "brown-sequard-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "22 歲**左**半身無力、**右**側針刺感覺下降（左側 Brown-Séquard）、**最不可能**合併",
+        "t": "**右側**振動覺下降（振動覺與病灶**同側**，應是左側）",
+        "x": "左腳 Babinski、左側位置覺下降、右側溫度覺下降都符合"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100536,7 +101171,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "**最不易**看到 fibrillation 與正相尖波",
+        "t": "**週期性麻痺**（離子通道病，無去神經）",
+        "x": "運動神經元病、多發性肌炎、糖尿病神經病變都會有"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100577,7 +101217,12 @@
       "guideline": null,
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲右眼瞼下垂兩個月、**早上輕、晚上重**、無複視",
+        "t": "**重症肌無力**（疲乏性）",
+        "x": "GBS 是上行性肢體無力；動脈瘤是突發、瞳孔散大；運動神經元病不會有晝夜波動"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100613,7 +101258,12 @@
       "guideline": null,
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "腦膜瘤、選**錯誤**",
+        "t": "腦膜瘤是**最常見**的原發性顱內腫瘤，不是第二",
+        "x": "隨年齡增加、女性較多、可發生在脊髓，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100654,7 +101304,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "突變會導致 ALS 的基因",
+        "t": "**SOD1**",
+        "x": "APP 是阿茲海默；LRRK2 與 parkin 是巴金森"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -100691,7 +101346,12 @@
       "concepts": [
         "csf-meningitis-patterns",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "頭痛發燒頸僵、CSF WBC 40（**90% 淋巴球**）、蛋白 50、**糖 70 正常**",
+        "t": "**病毒性腦膜炎**",
+        "x": "細菌性是中性球為主、糖低；結核與隱球菌糖低、蛋白高"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -101329,7 +101989,12 @@
       "guideline": null,
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "轉移性腦瘤影像、選**錯誤**",
+        "t": "成人**後顱窩**腦實質病灶**最常見**就是轉移",
+        "x": "未出血時 CT 低密度、顯影加強、單一時與原發瘤難分，三句都對"
+      }
     },
     "source": "113070/302_22",
     "specialty_source": "cougarbot",
@@ -113185,7 +113850,12 @@
       "guideline": null,
       "concepts": [
         "incomplete-spinal-cord-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓梗塞、選**最不恰當**",
+        "t": "前脊髓症候群是雙下肢無力加**痛溫覺**喪失，**本體感覺保留**",
+        "x": "數分鐘到數小時惡化、初期反射消失（脊髓休克）、梗塞皮節疼痛，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113226,7 +113896,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "血栓移除術、選**錯誤**",
+        "t": "取栓打通後**不會**再常規施打溶栓劑（溶栓是在取栓**前**給）",
+        "x": "用於大血管阻塞、救半影區、灌流造影可延到 24 小時，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113267,7 +113942,12 @@
       "guideline": null,
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "未治療高血壓多年、腦內出血、右側偏癱",
+        "t": "**殼核**（最常見高血壓性出血部位）",
+        "x": "額葉、枕葉的葉狀出血多是類澱粉血管病；小腦出血是共濟失調"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113308,7 +113988,12 @@
       "guideline": null,
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**偏頭痛預防藥",
+        "t": "**carbamazepine**（是三叉神經痛用藥）",
+        "x": "propranolol、topiramate、肉毒桿菌素都是預防藥"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113349,7 +114034,12 @@
       "guideline": null,
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "**不是**入睡抽動常見加重因子",
+        "t": "**睡前喝水**",
+        "x": "睡眠不足、睡前劇烈運動、情緒壓力都是加重因子"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113390,7 +114080,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "一般（非重積）癲癇用藥、選**錯誤**",
+        "t": "起始**不需**一開始衝高血中濃度（那是重積癲癇）",
+        "x": "依癲癇種類選單一藥物、低劑量起步、依反應與副作用調整，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113426,7 +114121,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "30 歲漸進步態不穩、構音不清、眼動慢有眼震、測距不準、**父親祖母同症**",
+        "t": "**脊髓小腦共濟失調**（體染色體顯性）",
+        "x": "Wilson 是隱性、有肝病與 K-F 環；巴金森是動作遲緩；CJD 是快速失智"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113467,7 +114167,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "唱卡拉 OK 後**反覆問同一問題**、10 小時後恢復、對那段**完全沒記憶**",
+        "t": "**暫時性全面失憶症**（TGA）：**偏頭痛**是危險因子",
+        "x": "發作期間舊記憶也可能部分受影響；**不會**增加中風；不是前大腦動脈灌流不良（與海馬有關）"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113504,7 +114209,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "阿茲海默症、選**錯誤**（官方 B、C 都給分）",
+        "t": "APP、PSEN1、PSEN2 突變是**體染色體顯性**；C 的病理描述官方也給分",
+        "x": "最常見退化型失智、可出現妄想，這兩句對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113540,7 +114250,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "ALS、選**正確**",
+        "t": "**不侵犯感覺**神經系統",
+        "x": "不侵犯自律神經；**上下**運動神經元都侵犯"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113581,7 +114296,12 @@
       "guideline": null,
       "concepts": [
         "nmj-mg-lems-botulism"
-      ]
+      ],
+      "approach": {
+        "k": "吞嚥困難中**重症肌無力特有**",
+        "t": "**夜間惡化**（疲乏性）",
+        "x": "流質嗆咳、合併構音障礙、流口水，中風也常見"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113622,7 +114342,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲步態不穩、尿失禁、反射消失、感覺性共濟失調、**光反射異常但聚焦反射正常**",
+        "t": "**脊髓癆**（tabes dorsalis，Argyll Robertson 瞳孔）",
+        "x": "額葉與中腦中風不會這樣；亞急性合併退化沒有 Argyll Robertson 瞳孔"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113663,7 +114388,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "腦炎、選**錯誤**",
+        "t": "CSF 白血球增加**不是**必要條件（部分腦炎 CSF 正常）",
+        "x": "病毒或自體免疫、發燒意識障礙癲癇、懷疑就先給 acyclovir，三句都對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113704,7 +114434,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "45 歲**先情緒易怒**、後動作笨拙、再**舞蹈樣扭動**、記憶衰退、父親 40 歲同症",
+        "t": "**亨丁頓氏病**",
+        "x": "額顳葉失智沒有舞蹈症；Wilson 多 <40 歲且有肝病；SCA6 是純小腦共濟失調"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -113746,7 +114481,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "ADEM、選**錯誤**（官方 C、D 都給分）",
+        "t": "ADEM **好發兒童**（D 錯）；多為單一病程，但也有多相型（C 有爭議）",
+        "x": "感染後與疫苗後發生，這兩句對"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -114325,7 +115065,12 @@
       "concepts": [
         "neuro-oncology-imaging-pituitary",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "53 歲頭痛一個月、MRI 鞍內往上長的**雪人狀**腫塊",
+        "t": "**腦下垂體腺瘤**",
+        "x": "動脈瘤有流空訊號；腦膜瘤有硬腦膜尾；GBM 在腦實質、不規則環狀顯影"
+      }
     },
     "source": "114020/302_0104",
     "specialty_source": "cougarbot",
@@ -125626,7 +126371,12 @@
       "guideline": null,
       "concepts": [
         "brainstem-localization-eye-movement"
-      ]
+      ],
+      "approach": {
+        "k": "前脈絡叢動脈阻塞、**最不常見**症狀",
+        "t": "**半邊忽略**（皮質症狀）",
+        "x": "三徵：偏癱、偏身感覺缺失、偏盲"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125667,7 +126417,12 @@
       "guideline": null,
       "concepts": [
         "brainstem-localization-eye-movement"
-      ]
+      ],
+      "approach": {
+        "k": "基底動脈**頂端**阻塞、影響**較少**的結構",
+        "t": "**橋腦**（有基底動脈中段穿通枝供應）",
+        "x": "中腦、視丘、枕葉都在頂端分支範圍"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125710,7 +126465,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "缺血性中風腦水腫降腦壓、選**最不適當**",
+        "t": "**類固醇**對細胞毒性水腫無效",
+        "x": "床頭抬高 20–30 度、高滲透壓製劑、短暫過度換氣都可用"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125747,7 +126507,12 @@
       "concepts": [
         "primary-headache-types",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "34 歲女性、左眼眶痛、每次 **2–45 分鐘**、一天 **≥5 次**、同側流淚鼻水",
+        "t": "**陣發性半邊頭痛** → **indomethacin**（絕對有效）",
+        "x": "verapamil 是叢發性頭痛；carbamazepine 是三叉神經痛；acetaminophen 無特效"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125783,7 +126548,12 @@
       "guideline": null,
       "concepts": [
         "nocturnal-episodes-parasomnia-epilepsy"
-      ]
+      ],
+      "approach": {
+        "k": "26 歲睡眠中驚恐表情、四肢亂動 **20 秒**、**刻板**、**成串**發作、醒後立即清楚",
+        "t": "**額葉癲癇**",
+        "x": "恐慌症不會睡眠中刻板成串；異睡症不會每次一樣且成串；顳葉癲癇較長、有發作後混亂"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125824,7 +126594,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "生育年齡婦女、致畸性**最優先**考慮的藥",
+        "t": "**lamotrigine**（與 levetiracetam 致畸風險最低）",
+        "x": "valproate 致畸最高；topiramate 唇顎裂；phenytoin 胎兒 hydantoin 症候群"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125865,7 +126640,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "失智症、選**錯誤**",
+        "t": "類澱粉蛋白由 APP 經 **β 與 γ 兩種**分泌酶裁切，不是單一酵素",
+        "x": "低教育是危險因子、唐氏症病理類似阿茲海默、額顳葉失智以行為亞型多，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125906,7 +126686,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "53 歲動作遲緩、頭後仰、**無法往下看**、常**往後跌倒**",
+        "t": "**進行性上眼神經核麻痺症**",
+        "x": "巴金森早期不會垂直凝視麻痺與早期跌倒；MSA 是自律神經失調；路易氏體是幻覺與認知波動"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125947,7 +126732,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "肢體僵硬（rigidity）、選**最正確**",
+        "t": "阻力**與速度無關**（鉛管樣）",
+        "x": "折疊刀是痙攣；屈伸肌**同等**受影響；方向改變阻力不會延後"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -125988,7 +126778,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "肌肉萎縮**合併反射上升**",
+        "t": "**ALS**（上＋下運動神經元）",
+        "x": "小兒麻痺是下運動神經元、反射消失；重症肌無力反射正常；多發性肌炎反射正常或減弱"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126030,7 +126825,12 @@
       "concepts": [
         "guillain-barre-syndrome",
         "diarrhea-approach"
-      ]
+      ],
+      "approach": {
+        "k": "腹瀉後排尿困難、雙側臉部無力、四肢無力、反射消失（GBS）、選**正確**",
+        "t": "類固醇**無法**縮短病程或改善預後",
+        "x": "早期 NCS 正常**不能**排除；CSF 典型是**蛋白高、細胞 <10**；血漿交換與 IVIG **療效相當**"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126071,7 +126871,12 @@
       "guideline": null,
       "concepts": [
         "central-cord-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "60 歲車禍頸痛、**上肢比下肢無力**、上肢與上身痛溫覺消失、位置覺保留",
+        "t": "**C5 中央脊髓症候群**",
+        "x": "脊髓休克是完全消失；後脊髓損傷是本體感覺喪失；Brown-Séquard 是半側"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126112,7 +126917,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "腦膿瘍、選**錯誤**",
+        "t": "腦膿瘍**不應**做腰椎穿刺（腦疝風險、陽性率低）",
+        "x": "不一定發燒、後顱窩 MRI 較靈敏、立體定位抽吸引流，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126153,7 +126963,12 @@
       "guideline": null,
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "中樞神經惡性腫瘤轉移、選**最不恰當**",
+        "t": "最常軟腦膜轉移的是**乳癌、肺癌、黑色素瘤**，不是淋巴癌",
+        "x": "腦轉移以肺癌乳癌最常、攝護腺與乳癌易轉移硬腦膜、好發灰白質交界，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126194,7 +127009,12 @@
       "guideline": null,
       "concepts": [
         "nmosd-diagnostic-features"
-      ]
+      ],
+      "approach": {
+        "k": "**不是** NMOSD 核心臨床症狀",
+        "t": "**失語症**",
+        "x": "最後區症候群（頑固打嗝嘔吐）、視神經炎、急性脊髓炎都是核心症狀"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126775,7 +127595,12 @@
       "guideline": null,
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "腦膜瘤影像、選**錯誤**",
+        "t": "腦膜瘤包圍大血管時**常會**造成血管狹窄",
+        "x": "貼硬腦膜生長、可侵犯骨頭、顯影明顯，三句都對"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -126813,7 +127638,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "急性心衰竭後昏迷、CT",
+        "t": "**缺氧缺血性腦病變**（灰白質分界消失）",
+        "x": "腦炎有發燒；肝性腦病變與 Wernicke 病史不符"
+      }
     },
     "source": "114070/302_0102",
     "specialty_source": "cougarbot",
@@ -138034,7 +138864,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "急性缺血性中風溶栓、選**錯誤**",
+        "t": "常規是**靜脈**注射 t-PA，不是經動脈",
+        "x": "增加良好預後但出血增加、半衰期短要推注加輸注、治療前要做影像，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138072,7 +138907,12 @@
       "guideline": null,
       "concepts": [
         "intracerebral-hemorrhage-management"
-      ]
+      ],
+      "approach": {
+        "k": "82 歲右枕葉頭痛、左側視野缺損、腦葉出血、SWI **皮質多發微出血**",
+        "t": "**大腦類澱粉血管病變**合併腦出血",
+        "x": "腫瘤轉移有顯影病灶；隱球菌不會皮質微出血；中樞血管炎多發梗塞為主"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138108,7 +138948,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "反覆**右眼**暫時性黑矇",
+        "t": "**右側內頸動脈狹窄**（眼動脈是 ICA 分支）",
+        "x": "鎖骨下動脈影響後循環或上肢；MCA 不供應眼睛；心因性栓塞較少反覆固定同一處"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138144,7 +138989,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "37 歲全身痙攣持續 15 分鐘、選**錯誤**",
+        "t": "重積癲癇定義是 **≥5 分鐘**，不是 30 分鐘",
+        "x": "lorazepam 5 分鐘後可重複、第二線 phenytoin/valproate/levetiracetam、無效插管用麻醉藥，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138180,7 +139030,12 @@
       "guideline": null,
       "concepts": [
         "primary-headache-types"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於** ICHD 偏頭痛診斷標準",
+        "t": "**味覺異常**",
+        "x": "畏光怕吵、搏動性、噁心嘔吐都在標準中"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138216,7 +139071,12 @@
       "guideline": null,
       "concepts": [
         "sleep-disorders-insomnia-drugs"
-      ]
+      ],
+      "approach": {
+        "k": "21 歲白天嗜睡、**開玩笑時**膝軟頭垂（猝倒）、睡眠麻痺",
+        "t": "猝睡症第一型：**下視丘泌素（hypocretin）缺乏**",
+        "x": "不是癲癇放電；不是神經肌肉接合異常；不是低血鉀"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138255,7 +139115,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "意想運動性失用症可執行的測試（官方 A–D 都給分）",
+        "t": "能口述步驟、拿真實工具在自然情境常可完成；題目無唯一答案",
+        "x": "官方全部給分"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138293,7 +139158,12 @@
       "guideline": null,
       "concepts": [
         "cognitive-impairment-delirium-dementia"
-      ]
+      ],
+      "approach": {
+        "k": "65 歲小碎步、記憶差、尿失禁、腦室擴大（NPH）、分流術後",
+        "t": "**步態**比記憶容易進步",
+        "x": "術前腦壓通常**正常**；尿失禁不是最易進步；改善**不一定**持續 5 年"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138329,7 +139199,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "50 歲認知正常的巴金森、**最不適當**",
+        "t": "**膽鹼酯酶抑制劑**（給合併失智時用）",
+        "x": "抗膽鹼劑（年輕震顫為主）、dopamine agonist、MAO-B 抑制劑都可用"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138365,7 +139240,12 @@
       "guideline": null,
       "concepts": [
         "sci-levels-function"
-      ]
+      ],
+      "approach": {
+        "k": "脊髓症候群、選**錯誤**",
+        "t": "脊髓休克是損傷以下反射**消失**，不是上升",
+        "x": "Brown-Séquard 同側無力與本體感覺喪失、前脊髓症候群保留本體感覺、中央脊髓上肢比下肢嚴重，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138401,7 +139281,12 @@
       "guideline": null,
       "concepts": [
         "brainstem-localization-eye-movement"
-      ]
+      ],
+      "approach": {
+        "k": "停紅燈被追撞（揮鞭傷）、兩側上肢麻木疼痛",
+        "t": "脊髓中央的交叉**脊髓丘腦徑**",
+        "x": "脊神經是單側根性症狀；椎體徑是無力；後柱是位置覺"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138437,7 +139322,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "致病機轉與**代謝**異常有關的周邊神經病",
+        "t": "**類澱粉樣神經病變**",
+        "x": "GBS 是免疫；運動神經元病是退化；皮肌炎是肌肉發炎"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138473,7 +139363,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "原發性中樞神經淋巴瘤、選**錯誤**",
+        "t": "致病相關病毒是 **EBV**，不是 HHV-6",
+        "x": "HIV 與器官移植者風險高、切片前不宜用類固醇，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138509,7 +139404,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "Becker 肌肉失養症、選**錯誤**",
+        "t": "X 性聯隱性，男病人的突變來自**母親**，不會由父親遺傳給兒子",
+        "x": "dystrophin 突變、下肢近端無力、可 20 歲後發病，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -138545,7 +139445,12 @@
       "guideline": null,
       "concepts": [
         "cns-infection-encephalitis-prion"
-      ]
+      ],
+      "approach": {
+        "k": "病毒性腦炎、選**正確**",
+        "t": "**HSV-1** 是疱疹病毒腦炎主因，也易造成口周疱疹",
+        "x": "VZV 主要侵犯**感覺**神經節；得過水痘**更會**得帶狀疱疹；HSV 腦炎侵犯**顳葉**，不是腦幹"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139167,7 +140072,12 @@
       "guideline": null,
       "concepts": [
         "neuro-oncology-imaging-pituitary"
-      ]
+      ],
+      "approach": {
+        "k": "56 歲雙側視力模糊 2 年、MRI 鞍上腫塊",
+        "t": "**腦下垂體腺瘤**",
+        "x": "視神經膠質瘤多見兒童與 NF1；動脈瘤有流空；松果體腫瘤在後方、造成 Parinaud"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139203,7 +140113,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "癲癇重積描述、選**錯誤**",
+        "t": "門檻是 **≥5 分鐘**，不是 10 分鐘",
+        "x": "兩次以上發作間意識沒恢復、會造成神經損傷、需靜脈抗癲癇藥，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -139239,7 +140154,12 @@
       "guideline": null,
       "concepts": [
         "acute-ischemic-stroke-imaging-treatment"
-      ]
+      ],
+      "approach": {
+        "k": "急性中風緊急處置、選**錯誤**",
+        "t": "溶栓前血壓要降到 **<185/110**，190/116 **不能**溶栓",
+        "x": "儘速完成 NIHSS、分數越高越嚴重、SAH 用 nimodipine，三句都對"
+      }
     },
     "source": "115020/302_0104",
     "specialty_source": "cougarbot",
@@ -150380,7 +151300,12 @@
       "guideline": null,
       "concepts": [
         "cvst-antithrombotic-ich-reversal"
-      ]
+      ],
+      "approach": {
+        "k": "急性缺血性中風處置、選**最適當**",
+        "t": "頸動脈剝離可用**抗凝或抗血小板**",
+        "x": "不溶栓者血壓容許到 **220/120**；血糖 140–180 但不是不論數值；輕度中風 DAPT 是 **aspirin＋clopidogrel**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150416,7 +151341,12 @@
       "guideline": null,
       "concepts": [
         "sah-aneurysm-vascular-malformations"
-      ]
+      ],
+      "approach": {
+        "k": "母親哥哥都有動脈瘤破裂、本身 **ADPKD**、意外發現 5 mm **後交通動脈瘤**",
+        "t": "後循環（含 PComm）5 年破裂風險約 **2.5%**，應積極評估或處理",
+        "x": "不是 <1% 不需追蹤；後交通動脈風險高於前中大腦動脈；多囊腎**是**危險因子"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150452,7 +151382,12 @@
       "guideline": null,
       "concepts": [
         "stroke-vascular-syndromes"
-      ]
+      ],
+      "approach": {
+        "k": "70 歲高血壓糖尿病、兩週內三次**相同**短暫左手無力與構音不清、MRI 無病灶",
+        "t": "**穿通動脈 lipohyalinosis** 反覆低灌流（capsular warning syndrome）",
+        "x": "栓塞多不會每次症狀相同；椎基底動脈是頭暈視覺；RCVS 是雷擊頭痛"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150488,7 +151423,12 @@
       "guideline": null,
       "concepts": [
         "nocturnal-episodes-parasomnia-epilepsy"
-      ]
+      ],
+      "approach": {
+        "k": "50 歲夜間大叫打人、醒來描述與動作相符的夢境",
+        "t": "**REM 睡眠行為障礙**：確診需 **PSG**",
+        "x": "發生在 **REM** 不是 N3；是**突觸核蛋白病**（巴金森）前驅，不是運動神經元病；首選 **clonazepam 或褪黑激素**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150525,7 +151465,12 @@
       "concepts": [
         "cns-infection-encephalitis-prion",
         "seizure-approach"
-      ]
+      ],
+      "approach": {
+        "k": "45 歲一個月記憶障礙、反覆右手抽搐、**顳葉** T2 高訊號、**血清抗體陽性**",
+        "t": "**自體免疫性邊緣葉腦炎**",
+        "x": "HSV 腦炎是急性發燒；MS 不會這樣；代謝性腦病變不會有局部顳葉病灶與抗體"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150561,7 +151506,12 @@
       "guideline": null,
       "concepts": [
         "epilepsy-syndromes-aed"
-      ]
+      ],
+      "approach": {
+        "k": "28 歲 JME 用 valproate、詢問孕期安全",
+        "t": "valproate 增加**神經管缺陷**等風險，應**避免**或非不得已謹慎使用",
+        "x": "致畸風險**明顯較高**；topiramate 有唇顎裂風險；levetiracetam 孕期濃度會下降，**仍要監測**"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150597,7 +151547,12 @@
       "guideline": null,
       "concepts": [
         "dementia-subtypes"
-      ]
+      ],
+      "approach": {
+        "k": "78 歲步態變慢、注意力下降、情緒低落、**記憶相對保留**、MRI 多發白質缺血",
+        "t": "**多發性腦梗塞（血管性）失智**",
+        "x": "阿茲海默以記憶為首；額顳葉是行為語言；路易氏體是幻覺與波動"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150633,7 +151588,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "**不屬於** tau 蛋白病變",
+        "t": "**多重系統萎縮症**（α-synuclein）",
+        "x": "PSP、CBD、阿茲海默都是 tau 病變"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150669,7 +151629,12 @@
       "guideline": null,
       "concepts": [
         "movement-disorders-neurodegeneration"
-      ]
+      ],
+      "approach": {
+        "k": "本態性顫抖、選**最不適當**",
+        "t": "本態性顫抖是**動作性／姿勢性**顫抖，不是靜止性",
+        "x": "排除甲亢與藥物、propranolol 與 benzodiazepine、難治可聚焦超音波，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150705,7 +151670,12 @@
       "guideline": null,
       "concepts": [
         "down-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "唐氏症、選**最適當**",
+        "t": "可抽**羊水**檢測胎兒三染色體",
+        "x": "是 **21 號**染色體；智力**會**受影響；成年後是早發阿茲海默，不是運動神經元死亡"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150741,7 +151711,12 @@
       "guideline": null,
       "concepts": [
         "guillain-barre-syndrome"
-      ]
+      ],
+      "approach": {
+        "k": "上呼吸道感染後、步態不穩、複視、**眼球各方向受限**、共濟失調、**反射消失**",
+        "t": "**Miller Fisher 症候群**（anti-GQ1b）",
+        "x": "腦幹中風突發且通常不會反射全消；病毒性腦炎有意識改變；重症肌無力沒有共濟失調與反射消失"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150777,7 +151752,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "皮肌炎**最具特異性**",
+        "t": "**Gottron 丘疹或 heliotrope 疹**",
+        "x": "近端無力、CK 升高、關節痛都不特異"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150813,7 +151793,12 @@
       "guideline": null,
       "concepts": [
         "myopathy-motor-neuron-neuromuscular"
-      ]
+      ],
+      "approach": {
+        "k": "腎移植後服類固醇、近端肌無力、**CK 正常**",
+        "t": "**類固醇肌病**",
+        "x": "尿毒症神經病變是遠端感覺為主；多發性肌炎 CK 高；重症肌無力有眼瞼與疲乏性"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150849,7 +151834,12 @@
       "guideline": null,
       "concepts": [
         "axonal-vs-demyelinating-neuropathy"
-      ]
+      ],
+      "approach": {
+        "k": "神經傳導檢查**最有實質助益**",
+        "t": "**CIDP**（脫髓鞘，傳導變慢與阻滯）",
+        "x": "MG 要做重複神經刺激；DMD 與皮肌炎是肌肉病，看肌電圖與 CK"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -150885,7 +151875,12 @@
       "guideline": null,
       "concepts": [
         "multiple-sclerosis-core"
-      ]
+      ],
+      "approach": {
+        "k": "多發性硬化症、選**最不適當**",
+        "t": "最常見是**復發緩解型**（約 85%），不是原發持續惡化型",
+        "x": "T 與 B 細胞都失調、發炎加神經退化、McDonald 準則看空間與時間多發，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
@@ -151465,7 +152460,12 @@
       "concepts": [
         "sah-aneurysm-vascular-malformations",
         "headache-red-flags-approach"
-      ]
+      ],
+      "approach": {
+        "k": "80 歲頭痛、CT 見 SAH 與腦實質出血、選**錯誤**",
+        "t": "以基底池為中心的 SAH 加外側裂血塊，**較像動脈瘤破裂**，不像外傷",
+        "x": "有 SAH、有腦實質出血、應做 CTA 排除血管病變，三句都對"
+      }
     },
     "source": "115070/302_0102",
     "specialty_source": "cougarbot",
